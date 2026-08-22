@@ -1,0 +1,181 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1044,152,1800,1525
+2,263,1629,1010,1805
+3,264,141,1014,1533
+4,260,2057,1012,2703
+5,663,90,1369,126
+6,869,1983,1169,2019
+7,1072,1629,1801,1794
+8,268,91,324,130
+10,1733,94,1787,131
+11,262,1877,1796,1949
+13,243,1532,1347,1576
+14,501,1582,739,1620
+15,1251,1582,1559,1624
+16,1073,1798,1801,1848
+17,265,1802,1025,1854
+18,1045,2061,1791,2701
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+μιουργοῦ ἐν αὐτῷ ἔτι ὑπὸ γῆν ὄντος· ἐν αὐτῇ γὰρ
+αὐτῶν τῇ ἑορτῇ κατέσχον τὸν Κύριον, ὅπως πληρω-
+θῇ ἐκεῖνο τὸ φάσκον λόγιον· « Ἔθεντο τὰ σημεῖα
+αὐτῶν (6) ἐν μέσῳ τῆς ἑορτῆς αὐτῶν, καὶ οὐκ ἔγνω-
+σαν. » Δεῖ οὖν πενθεῖν ὑπὲρ αὐτῶν, ὅτι ἐλθόντος τοῦ
+Κυρίου οὐκ ἐπίστευσαν αὐτῷ, ἀλλ’ ἀπεσείσαντο τὴν
+διδασκαλίαν αὐτοῦ, ἀναξίους κρίναντες ἑαυτοὺς σω-
+τηρίας. Ὑμεῖς οὖν μακάριοι, οἱ ποτὲ οὐ λαὸς, νῦν δὲ
+ἔθνος ἅγιον, ῥυσθέν ἀπὸ πλάνης εἰδώλων, ἀπὸ ἀγνοίας,
+ἀπὸ δυσσεβείας· οἱ οὐκ ἠλεημένοι, νῦν δὲ ἐλεηθέντες διὰ
+τὴν ὑπακοὴν τῆς καρδίας ὑμῶν· ὑμῖν γὰρ ἠνοίγη ἡ
+πύλη τῆς ζωῆς τοῖς ἐξ ἐθνῶν, οἵ τινές ποτε οὐκ ἠγα-
+πημένοι, νῦν δὲ πεφιλημένοι· λαὸς εἰς περιποίησιν
+Θεοῦ τεταγμένος, τῷ τὰς ἀρετὰς αὐτοῦ ἐξαγγέλλειν·
+περὶ ὧν εἶπεν ὁ Σωτὴρ (7)· « Εὑρέθην τοῖς ἐμὲ μὴ
+ζητοῦσιν· ἐμφανὴς ἐγενόμην τοῖς ἐμὲ μὴ ἐπερωτῶ-
+σιν· εἶπα· Ἰδού εἰμι, τῷ ἔθνει, οἳ οὐκ ἐκάλεσαν τὸ
+ὄνομά μου. » Μὴ ζητήσαντες γὰρ αὐτὸν τότε (8) ἐπε-
+ζητήθητε παρ’ αὐτοῦ. Καὶ ὑμεῖς (9) πιστεύσαντες
+εἰς αὐτὸν, ὑπηκούσατε τῇ κλήσει αὐτοῦ, καταλείψαν-
+τες τὴν πολύθεον μανίαν, καὶ τῇ ἀληθεῖ μοναρχίᾳ
+προσφυγόντες, τῷ παντοκράτορι (10) Θεῷ, διὰ Ἰησοῦ
+Χριστοῦ· πλήρωμα τοῦ ἀριθμοῦ τῶν σωζομένων γε-
+νόμενοι· « Μύριαι μυριάδες, καὶ χίλιαι χιλιάδες· »
+ὡς ἐν τῷ Δαβὶδ γέγραπται· « Πεσεῖται (11) ἐκ τοῦ
+κλίτους σου χιλιάς, καὶ μυριὰς ἐκ δεξιῶν σου· » καὶ
+πάλιν· « Τὸ ἅρμα τοῦ Θεοῦ μυριοπλάσιον, χιλιάδες
+εὐθηνούντων (12). » Πρὸς δὲ τὸν Ἰσραὴλ, τὸν ἄπι-
+στον λέγει· « Ὅλην τὴν ἡμέραν τὰς χεῖράς μου ἐξε-
+πέτασα πρὸς λαὸν ἀπειθοῦντα, καὶ ἀντιλέγοντα, τοῖς
+πορευομένοις ἐν ὁδῷ οὐ καλῇ, ἀλλ’ ὀπίσω τῶν ἁμαρ-
+τιῶν αὐτῶν, λαὸν παροξύναντά με ἐνώπιόν μου. »
+
+# block=2
+Enumeratio propheticarum prædictionum quæ Chri-
+stum prædicant; quarum eventum Judæi intuiti,
+propter malevolentiam Jesum esse Christum Dei
+non crediderunt, et ad crucem Dominum gloriæ
+condemnaverunt.
+
+# block=3
+enim comprehenderunt in ipsa die, qua festum cele-
+brabant; ut illud Scripturæ oraculum impleretur,
+quod ait: « Posuerunt signa sua in medio sole-
+mnitatis suæ; et non cognoverunt ¹⁶. » Oportet ergo
+lugere de ipsis, quod cum Dominus venisset, non
+crediderunt ei, sed repulerunt doctrinam ejus, et se
+indignos salute judicarunt. At vos beati estis, qui
+aliquando non populus, nunc vero gens sancta ¹⁷,
+liberata ab idolorum errore, ab ignorantia, ab im-
+pietate; qui tunc non consecuti misericordiam,
+nunc autem eam adepti ¹⁸, propter obedientiam
+cordis vestri: vobis enim, qui ex gentibus, aperta
+est vitæ janua, qui aliquando non dilecti, nunc vero
+amati; populus in acquisitionem Dei ordinatus, ad
+prædicandas virtutes ejus; de quibus Salvator
+dixit: « Inventus sum ab his qui me non quære-
+bant; manifestus factus sum iis qui me non inter-
+rogabant; dixi: Ecce ego, genti quæ non invocavit
+nomen meum ¹⁹. » Cum enim non quæsissetis eum,
+tunc ab eo inquisiti estis. Et vos credendo in eum,
+obedistis vocationi ejus, relicto vesano multorum
+deorum cultu, et ad veram monarchiam, hoc est, ad
+unum verum principem, omnipotentem Deum, con-
+fugientes, per Jesum Christum; effecti plenitudo
+eorum numeri, qui salvi fiunt: « Dena millia de-
+num millium, et mille millia ²⁰ : » quemadmodum
+apud Davidem scriptum est: « Cadent a latere tuo
+mille, et decem millia a dextris tuis ²¹ ; » et iterum:
+« Currus Dei decem millibus multiplex, millia læ-
+tantium ²² . » Ad Israelem vero infidelem, ait: « Tota
+die expandi manus meas ad populum incredulum,
+et contradicentem, qui ambulant in via non bona,
+
+# block=4
+(6) Αὐτῶν· et seqq. ad αὐτῶν. Desunt in cod.
+Vind. Cl.
+(7) Σωτήρ. In altero cod. Vind. Κύριος. Id.
+(8) Τότε. Ποτέ, uterque codex. Conjungendum
+cum negatione quæ antecessit, quasi esset μήποτε·
+cum nunquam quæsissetis eum, ab eo estis inventi.
+Id.
+(9) Ὑμεῖς. Deest in cod. Vind. et quidem melius.
+Id.
+(10) Τῷ παντοκράτορι. Melius cod. Vind. Τοῦ
+παντοκράτορος Θεοῦ. Id.
+(11) Πεσεῖται, etc., ad εὐθηνούντων. Desunt in
+utroque cod.
+(12) Εὐθηνούντων. Abundantius. Alii εὐθυμούν-
+των. Cæteri εὐθυνούντων. Psal. lxvii, 18. Multo post
+hæc typis mandata, cum legerem Theodoti Ancy-
+rani Expositionem in symbolum Nicænum, quam
+duobus ab hinc annis orbi Christiano largitus est
+eminentissimus cardinalis Franciscus Barberinus,
+
+# block=5
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=7
+Ἀπαρίθμησις προφητικῶν προῤῥήσεων τὸν Χρι-
+στὸν κηρυττουσῶν, ὧν Ἰουδαῖοι τὴν ἔκβασιν
+θεασάμενοι, ἐκ κακονοίας ἠπίστησαν αὐτὸν εἶ-
+ναι τὸν Χριστὸν τοῦ Θεοῦ, καὶ σταυρῷ κατέ-
+κριναν τὸν τῆς δόξης Κύριον.
+
+# block=8
+883
+
+# block=10
+884
+
+# block=11
+¹⁶ Psal. lxxiii, 4. ¹⁷ I Petr. ii, 10. ¹⁸ Rom. ix, 25. ¹⁹ Isa. lxv, 1. ²⁰ Dan. vii, 10 ²¹ Psal. xc, 7.
+²² Psal. lxvii, 18. ²³ Isa. lxv, 2.
+
+# block=13
+sed post peccata sua; populum exacerbantem me in conspectu meo ²³ . »
+
+# block=14
+CAPUT XVI.
+
+# block=15
+ΚΕΦΑΛΑΙΟΝ ΙϚ'.
+
+# block=16
+Βλέπετε πῶς παρώξυνεν ὁ λαὸς τὸν Κύριον, μὴ
+
+# block=17
+Videte quo modo populus exacerbaverit Dominum,
+
+# block=18
+litterarum fautor eximius, perveni ad locum istum,
+p. 86 : Τὸ γὰρ πάντων τοὺς λόγους ἐρευνᾷν, κατα-
+λύειν ἐστὶ θαύματα· καὶ παροργίζειν Θεὸν ἐν ταῖς
+θαυματουργίαις αὐτοῦ παρ’ ἡμῶν εὐθυμούμενον.
+Nam rationes omnium pervestigare, est miracula
+dissolvere, et Deum in suis erga nos miraculis sese
+oblectantem ad iram provocare. Qui quidem locus
+mihi visus est corruptus; corrigendus autem per
+mutationem participii εὐθυμούμενον in participium
+εὐθυνόμενον, ita ut sensus sit : et ad iram provocare
+Deum, a nobis in suis miraculis rationem postu-
+latum, seu a quo in suis miraculis rationem ex-
+poscamus. Pag. 30, 31 : Ἁπάσης περιέργου ζητή-
+σεως παντελῶς ἀπεχόμενοι· οὐ γὰρ εὐθύνομεν τὰ
+ὑπὸ πατέρων πεπιστευμένα, hoc est : Ab omni cu-
+riosa disquisitione penitus abstinentes : neque enim
+in ea quæ a Patribus credita fuerunt, inquirimus.
+Quod autem doctissimus homo Samuel Bochartus in
+Hierozoico, p. 1, l. ii, c. 43, corrigere nititur Cy-

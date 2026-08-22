@@ -1,0 +1,160 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,974,134,1733,1982
+2,194,127,950,1985
+3,195,2019,1715,2122
+4,191,2223,935,2463
+5,630,82,1292,119
+6,797,2147,1102,2183
+7,185,2461,931,2696
+8,1665,90,1725,128
+9,189,78,271,124
+10,959,2230,1733,2668
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+πιστεύσας αὐτῷ· διὸ λέγει· Παρώξυναν τὸ Πνεῦ-
+μα τὸ ἅγιον, καὶ ἐστράφη αὐτοῖς εἰς ἔχθραν. Ἀβλε-
+ψία γὰρ αὐτοῖς κατεχύθη διὰ τὴν κακόνοιαν αὐτῶν,
+ὅτι βλέποντες τὸν Ἰησοῦν οὐκ ἐπίστευον αὐτὸν εἶναι
+τὸν Χριστὸν τοῦ Θεοῦ, τὸν πρὸ πάντων αἰώνων ἐξ
+αὐτοῦ γεννηθέντα (13), Υἱὸν μονογενῆ, Λόγον Θεὸν,
+ὃν οὐκ ἐπέγνωσαν (14) δι’ ἀπιστίαν, οὔτε διὰ τῶν
+ἐνεργειῶν αὐτοῦ, οὔτε μὴν διὰ τῶν περὶ αὐτοῦ γε-
+γραμμένων προφητειῶν. Ὅτι γὰρ ἐκ παρθένου γε-
+νήσεται, ἀνεγίνωσκον τό· « Ἰδοὺ ἡ παρθένος ἐν γαστρὶ
+λήψεται, καὶ τέξεται υἱὸν, καὶ καλέσουσι τὸ ὄνομα αὐ-
+τοῦ Ἐμμανουὴλ · ὅτι παιδίον ἐγεννήθη ἡμῖν (15),
+υἱὸς καὶ ἐδόθη ἡμῖν, οὗ ἡ ἀρχὴ ἐπὶ τοῦ ὤμου αὐτοῦ,
+καὶ καλεῖται τὸ ὄνομα αὐτοῦ, μεγάλης βουλῆς ἄγγε-
+λος, θαυμαστὸς, σύμβουλος, Θεὸς, ἰσχυρὸς (16), ἐξου-
+σιαστής, ἄρχων εἰρήνης, πατὴρ τοῦ μέλλοντος αἰῶ-
+νος. » Ὅτι δὲ διὰ κακίαν ὑπερβάλλουσαν ἀπειθήσου-
+σιν αὐτῷ, λέγει· « Κύριος (17), τίς ἐπίστευσε τῇ ἀκοῇ
+ἡμῶν; καὶ ὁ βραχίων Κυρίου τίνι ἀπεκαλύφθη; »
+Καὶ ἑξῆς· « Ἀκοῇ ἀκούσετε, καὶ οὐ μὴ συνῆτε · καὶ
+βλέποντες βλέψετε, καὶ οὐ μὴ ἴδητε · ἐπαχύνθη γὰρ
+ἡ καρδία τοῦ λαοῦ τούτου. » Διὸ ἤρθη ἀπ’ αὐτῶν ἡ
+γνῶσις, ὅτι ἰδόντες παρεῖδον, καὶ ἀκούσαντες οὐκ
+ἤκουσαν · ὑμῖν δὲ, τοῖς ἐξ ἐθνῶν, ἐδόθη ἡ βασιλεία,
+ὅτι μὴ γινώσκοντες Θεὸν, διὰ τοῦ κηρύγματος πιστεύ-
+σαντες ἔγνωτε αὐτὸν, μᾶλλον δὲ ἐγνώσθητε ὑπ’ αὐ-
+τοῦ, διὰ Ἰησοῦ τοῦ Σωτῆρος καὶ λυτρωτοῦ τῶν ἐλ-
+πιζόντων ἐπ’ αὐτόν. Μεταβάντες γὰρ ἀπὸ τῆς προ-
+τέρας ματαιοπόνου (18) συνηθείας, καὶ τῶν ἀψύχων
+εἰδώλων ὑπεριδόντες, καὶ τῶν ἐν σκότει (19) δαιμό-
+νων καταφρονήσαντες, προσδραμόντες τε τῷ φωτὶ τῷ
+ἀληθινῷ, καὶ ἐπιγνόντες δι’ αὐτοῦ τὸν ἕνα καὶ μόνον
+ἀληθινὸν Θεὸν καὶ Πατέρα, κληρονόμοι τῆς αὐτοῦ
+βασιλείας ἀνεφάνητε. Βαπτισθέντες γὰρ (20) εἰς τὸν
+τοῦ Κυρίου θάνατον, καὶ εἰς τὴν ἀνάστασιν αὐτοῦ,
+ὡς ἀρτιγενῆ βρέφη ἀνενεργητὰ πρὸς πᾶσαν ἁμαρτίαν
+ὀφείλετε εἶναι, οὐ γάρ ἐστε ἑαυτῶν, ἀλλὰ τοῦ ἀγορά-
+σαντος ὑμᾶς τῷ ἑαυτοῦ αἵματι. Περὶ γὰρ τοῦ ποτε
+Ἰσραὴλ, εἶπεν ὁ Κύριος, διὰ τὴν ἀπιστίαν αὐτῶν,
+ὅτι ἀρθήσεται ἀπ’ αὐτῶν ἡ βασιλεία τοῦ Θεοῦ, καὶ
+δοθήσεται ἔθνει ποιοῦντι τοὺς καρποὺς αὐτῆς· δηλαδὴ,
+ὅτι (21) ὑμῖν, τοῖς ποτ’ οὖσιν ἀπεξενωμένοις αὐτοῦ
+μακρὰν, δοὺς τὴν βασιλείαν, ἐκδέχεται τοὺς τῆς εὐ-
+
+# block=2
+non credens ei : quapropter ait : « Exacerbaverunt
+Spiritum sanctum ; et conversus est eis in inimici-
+tiam ²⁴. » Cæcitas enim eis offusa est, propter animi
+sui pravitatem, quod cernentes Jesum, noluerunt
+credere eum esse Christum Dei, ante omnia sæcula
+ab ipso genitum, Filium unigenitum, Verbum Deum;
+hunc ob infidelitatem non agnoverunt, neque ex
+operibus ejus, neque ex prophetiis de eo scriptis.
+Quod enim ex virgine nasci deberet, legebant illud:
+« Ecce virgo in utero concipiet, et pariet filium, et
+vocabunt nomen ejus Emmanuel ²⁵. » Quoniam par-
+vulus natus est nobis, filius et datus est nobis, cu-
+jus principatus super humerum ejus ; et vocatur
+nomen ejus magni consilii Angelus, admirabilis,
+consiliarius, Deus, fortis, potens, princeps pacis,
+pater futuri sæculi ²⁶. » Quod vero per summam ma-
+litiam essent ei diffisuri, ait : « Domine, quis credi-
+dit auditui nostro? et brachium Domini cui reve-
+latum est ²⁷? » Et adhuc : « Auditu audietis, et non
+intelligetis ; et videntes videbitis, et non scietis :
+incrassatum enim est cor populi hujus ²⁸. » Quare ab
+iis sublata est cognitio, quia cum aspexissent, de-
+spexerunt, et cum audissent, non obedierunt : vo-
+bis vero, qui gentiles fuistis, datum est regnum;
+quoniam, cum non cognosceretis Deum, accepta
+prædicatione credidistis, et eum cognovistis, imo
+vero cogniti estis ab eo, per Jesum Salvatorem et
+redemptorem sperantium in ipsum ²⁹. Relicta enim
+priori consuetudine, vani laboris plena, et despe-
+ctis idolis anima carentibus, et spretis dæmonibus,
+qui in tenebris versantur; accurrentes vero ad ve-
+rum lumen, ac per illud agnoscentes unum ac so-
+lum verum Deum et Patrem ³⁰; designati estis hæ-
+redes regni ejus. Nam baptizati in mortem Domini,
+et in resurrectionem ejus ³¹, tanquam infantes modo
+geniti debetis esse ad omne peccatum inefficaces ³² :
+quia non vestri estis, sed ejus qui vos sanguine suo
+emit ³³. Siquidem de antiquo Israele dixit Dominus,
+ob infidelitatem eorum, quod auferetur ab eis re-
+gnum Dei, et dabitur genti facienti fructus ejus ³⁴ :
+scilicet, regnum dando vobis, qui aliquando longe
+ab eo eratis alieni et ablegati, recipit grati animi
+fructus. ³⁵ Vos quippe estis, qui aliquando missi ad
+
+# block=3
+²⁴ Isa. LXIII, 10. ²⁵ Isa. VII, 14; Matth. I, 23. ²⁶ Isa. IX, 6. ²⁷ Isa. LIII, 1. ²⁸ Isa. VI, 9.
+²⁹ Gal. IV, 9. ³⁰ Joan. I, 9; XVII, 3. ³¹ Rom. VI, 3. ³² I Petr. II, 2. ³³ I Cor. VI, 19. ³⁴ Matth.
+XXI, 43. ³⁵ Matth. XXI, 28.
+
+# block=4
+rillum Alexandrinum ad Mich. I, 11, legendo εὐθη-
+νοῦσαν, ubi habetur εὐσθενοῦσαν : mihi illa emen-
+datio non probatur, quia subjungit Cyrillus : Εὐ-
+σθενῆ τε, ὅτι καὶ πίων ἡ χώρα, καὶ λήϊοις κατάκορος,
+πῶς ἔστιν ἀμφιβαλεῖν; et quia Theodoriti illud, ἡ
+τῶν χωρίων ἀσφάλεια, ad εὐσθενοῦσαν pertinere vi-
+detur. COT.
+
+# block=5
+CONSTITUTIONES APOSTOLICÆ.—LIB. V.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=7
+(13) Αἰώνων ἐξ αὐτοῦ γεννηθέντα. In altero
+cod. Vindobon. deest tantum αἰώνων, in altero
+etiam sequentia verba : Ἐξ αὐτοῦ γεννηθέντα.
+Arianus scriptor, aut interpolator hujus libri, vi-
+detur tantum scripsisse : Πρὸ πάντων αἰώνων, ne-
+que enim negabant Ariani Filium a Patre, ante sæ-
+cula, generatum. Sed rectius sentiens librarius, aut
+
+# block=8
+886
+
+# block=9
+885
+
+# block=10
+criticus addidisse videtur ἐξ αὐτοῦ, cum Ariani con-
+tenderent Filium esse ἐκ τῶν μὴ ὄντων genitum seu
+creatum. CLER.
+(14) Ἐπέγνωσαν. Alter cod. ἔγνωσαν. ID.
+(15) Ἡμῖν. Deest in altero cod. ID.
+(16) Ἰσχυρός. Deest in altero. ID.
+(17) Κύριος. Alter Κύριε, melius. ID.
+(18) Ματαιοπόνου. Alter cod. πατροπαραδότου.
+ID.
+(19) Ἐν σκότει. Deest in altero. ID.
+(20) Γάρ. Melius οὖν in cod. Vind. ID.
+(21) Δηλαδὴ, ὅτι. Δῆλον ὅτι melius in utroque
+cod. Vind. ID.

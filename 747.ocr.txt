@@ -1,0 +1,176 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,200,2233,956,2368
+2,595,82,1303,122
+3,192,2063,1725,2169
+4,182,141,942,2056
+5,201,2565,952,2699
+6,202,2368,950,2468
+7,203,2465,948,2566
+8,974,2222,1718,2705
+9,173,88,251,130
+10,1637,82,1715,128
+11,975,140,1729,2038
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=2
+CONSTITUTIONES APOSTOLICÆ.—LIB. V.
+
+# block=10
+894
+
+# block=9
+893
+
+# block=11
+vigiliis, orationibus et ad Deum precibus vacate
+in pernoctatione vestra, legem, prophetas, ac psal-
+mos legite usque ad gallorum cantum, et bapti-
+smum conferte vestris catechumenis; et recitato
+Evangelio in timore ac tremore, habitaque ad
+populum allocutione de rebus ad salutem perti-
+nentibus, luctui vestro finem imponite; et orate
+Deum ut convertatur Israel, locumque pœnitentiæ
+accipiat cum venia impietatis : quandoquidem
+judex alienigena lotis manibus, dixit : « Innocens
+sum a sanguine justi hujus, vos videritis ⁵⁵. » Israel
+vero exclamavit : « Sanguis ejus super nos, et
+super filios nostros; » et Pilato dicente : « Re-
+gem vestrum crucifigam ? » ipsi acclamarunt :
+« Non habemus regem, nisi Cæsarem. Crucifige,
+crucifige eum. Omnis enim qui se regem facit,
+contradicit Cæsari. Et si hunc dimiseris, non es ami-
+cus Cæsaris ⁵⁶. » Et Pilatus præses, ac Herodes rex,
+jusserunt eum crucifigi; atque complementum acce-
+pit Scriptura, quæ dicit ⁵⁷ ⁵⁸ : « Quare fremuerunt
+gentes, et populi meditati sunt inania ? Astiterunt
+reges terræ; et principes convenerunt in unum,
+adversus Dominum, et adversus Christum ejus ⁵⁹.
+Et projecerunt dilectum, quasi mortuum abomi-
+natum ⁶⁰. » Atque ipso sexta feria in crucem sub-
+lato; et a mortuis excitato, sub diei Dominici
+diluculum, exitum habuit illud Scripturæ : « Surge,
+Deus; judica terram : quoniam tu hæreditabis in
+omnibus gentibus ⁶¹ ; » et iterum : « Exsurgam, dicit
+Dominus, ponam in salutari; fiducialiter agam in
+eo ⁶² ; » et : « Tu autem, Domine, miserere mei, et
+resuscita me; et retribuam eis ⁶³. » Ob hoc igitur et
+vos, resurgente Domino, offerte sacrificium ve-
+strum, de quo vobis constituit per nos, dicens :
+« Hoc facite in meam commemorationem ⁶⁴. » Postea
+jejunium dimittite, lætantes et diem festum
+agentes; quoniam pignus resurrectionis vestræ
+Jesus Christus a mortuis excitatus est : atque hoc
+vobis sit legitimum sempiternum usque ad consum-
+mationem sæculi, quoad venerit Dominus ⁶⁵. Nam
+Judæis adhuc Dominus interiit; Christianis vero
+resurrexit; illis quidem propter infidelitatem; his
+autem propter certissimam hanc persuasionem,
+quod sperare in eum sit vita immortalis ac æterna.
+
+# block=4
+συναθροιζόμενοι, γρηγορεῖτε, προσευχόμενοι, καὶ δεό-
+μενοι τοῦ Θεοῦ, ἐν τῇ διανυκτερεύσει ὑμῶν, ἀναγι-
+νώσκοντες τὸν νόμον, τοῦς προφήτας, τοῦς ψαλ-
+μοὺς, μέχρις ἀλεκτρυόνων ⁵³ κραυγῆς, καὶ βαπτί-
+σαντες ὑμῶν τοῦς κατηχουμένους, καὶ ἀναγνόντες τὸ
+Εὐαγγέλιον ἐν φόβῳ καὶ τρόμῳ, καὶ προσλαλή-
+σαντες ὑμῖν τῷ λαῷ τὰ πρὸς σωτηρίαν, παύσασθε τοῦ
+πένθους ὑμῶν, καὶ δεήθητε τοῦ Θεοῦ, ἐπιστραφῆναι
+τὸν Ἰσραὴλ, καὶ λαβεῖν αὐτὸν τόπον ⁵⁴ μετανοίας
+καὶ τῆς ἀσεβείας ἄφεσιν· ὅτι ὁ μὲν ἀλλόφυλος κρι-
+τὴς, νιψάμενος τὰς χεῖρας εἶπεν· « Ἀθῶός εἰμι ἀπὸ
+τοῦ αἵματος τοῦ δικαίου τούτου, ὑμεῖς ὄψεσθε. » Ὁ δὲ
+Ἰσραὴλ ἐπεβόησε· « Τὸ αἷμα αὐτοῦ ἐφ' ἡμᾶς, καὶ ἐπὶ
+τὰ τέκνα ἡμῶν· » καὶ Πιλάτου εἰπόντος· « Τὸν βασιλέα
+ὑμῶν σταυρώσω; » αὐτοὶ ἐπεβόων· « Οὐκ ἔχομεν βασι-
+λέα, εἰ μὴ Καίσαρα· σταύρωσον, σταύρωσον (58) αὐτόν.
+Πᾶς γὰρ ὁ ποιῶν ἑαυτὸν βασιλέα, ἀντιλέγει τῷ Καίσαρι.
+Καὶ ἐὰν τοῦτον ἀπολύσῃς, οὐκ εἶ φίλος τοῦ Καίσαρος. »
+Καὶ Πιλάτος · ὁ ἡγεμὼν · καὶ Ἡρώδης ὁ βασιλεὺς
+ἐκέλευσαν (39) αὐτὸν σταυρωθῆναι· καὶ πληροῦται τὸ
+φάσκον λόγιον · « Ἵνα τί ἐφρύαξαν ἔθνη, καὶ λαοὶ
+ἐμελέτησαν κενά; παρέστησαν οἱ βασιλεῖς τῆς γῆς,
+οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ, κατὰ τοῦ
+Κυρίου καὶ κατὰ τοῦ Χριστοῦ αὐτοῦ. Καὶ ἀπέῤῥιψαν
+τὸν · ἀγαπητὸν, ὡς νεκρὸν ἐβδελυγμένον. » Καὶ
+αὐτοῦ σταυρωθέντος τῇ παρασκευῇ, καὶ ἀναστάντος
+ἐπιφωσκούσης Κυριακῆς, ἐπληρώθη ἡ Γραφὴ ἡ
+λέγουσα· « Ἀνάστα, ὁ Θεὸς, κρῖνον τὴν γῆν· ὅτι σὺ
+κατακληρονομήσεις ἐν πᾶσι τοῖς ἔθνεσι. » Καὶ πάλιν·
+« Ἀναστήσομαι, λέγει Κύριος, θήσομαι ἐν σωτηρίῳ,
+παῤῥησιάσομαι ἐν αὐτῷ· » (40) καὶ· « Σὺ δὲ, Κύριε,
+ἐλέησόν με, καὶ ἀνάστησόν με, καὶ ἀνταποδώσω
+αὐτοῖς. » Διὰ τοῦτο οὖν καὶ ὑμεῖς, ἀναστάντος τοῦ
+Κυρίου, προσενέγκατε τὴν θυσίαν (41) ὑμῶν, περὶ
+ἧς ὑμῖν διετάξατο δι' ἡμῶν, λέγων· « Τοῦτο ποιεῖτε
+εἰς τὴν ἐμὴν ἀνάμνησιν. » Καὶ λοιπὸν ἀπονηστεύετε,
+εὐφραινόμενοι καὶ ἑορτάζοντες, ὅτι ἀῤῥαβὼν τῆς
+ἀναστάσεως ὑμῶν (42) Ἰησοῦς ὁ Χριστὸς ἐγήγερται
+ἐκ νεκρῶν· καὶ τοῦτο ὑμῖν ἔστω νόμιμον αἰώνιον,
+ἕως τῆς συντελείας τοῦ αἰῶνος, μέχρις ἂν ἔλθῃ ὁ
+Κύριος. Ἰουδαίοις γὰρ ὁ Κύριος ἔτι τέθνηκε· Χρι-
+στιανοῖς δὲ ἐγήγερται· τοῖς μὲν δι' ἀπιστίαν, τοῖς δὲ
+διὰ πληροφορίαν, ὅτι ἡ εἰς αὐτὸν ἐλπὶς ἀθάνατος
+ζωὴ · καὶ (43) αἰώνιος· μετὰ δὲ ὀκτὼ ἡμέρας (44)
+
+# block=3
+⁵³ Anast. ἀλεκτρυοφωνῶν. ⁵⁴ al. τρόπον. ⁵⁵ Matth. xxvii, 24, ⁵⁶ Joan. xix, 15, 6, 12. ⁵⁷ ⁵⁸ Act. iv,
+25-27. ⁵⁹ Psal. ii, 1. ⁶⁰ Isa. xiv, 19. ⁶¹ Psal. lxxxi, 8. ⁶² Psal. xi, 6. ⁶³ Psal. xli, 11. ⁶⁴ Luc.
+xxii, 19. ⁶⁵ Exod. xii, 24; I Cor. xi, 26.
+
+# block=8
+finem Panarii : Ἐν ἄλλοις δὲ τόποις οὐ γίνεται λα-
+τρεία τῆς οἰκονομίας, ἢ μόνον ἐπιφωσκούσης τῆς
+Κυριακῆς, ὅτε ἀπολύει περὶ τὴν τῶν ἀλεκτρυόνων
+κλαγγὴν, ἐν τῇ Ἀναστασίμῳ ἡμέρᾳ καὶ πανηγύρει,
+μεγάλη ἡμέρᾳ τοῦ Πάσχα. Aliis vero in locis, divini
+Mysterii cultus non celebratur, nisi solummodo illu-
+scente Dominica, quando ad gallorum cantum jeju-
+nium solvitur, in Resurrectionis die, ac festo, magna
+die Paschatis. ID.
+(42) Τῆς ἀναστάσεως ὑμῶν. Al. ἡμῶν, et rec-
+tius. ID.
+(43) Ζωὴ καὶ. Alter cod., καὶ ζωή. CL.
+(44) Μετὰ δὲ ὀκτὼ ἡμέρας, etc. Simili modo a
+Cyrillo in Joannem, et ab aliis accipitur illud,
+
+# block=1
+juxta ejusdem S. doctoris animadversionem, non j
+semper poterat, servato ecclesiastico calculo, ipsa
+observari. ID. — Mss. Vind. ἀπὸ δευτέρας μ. α.
+καρτεροῦντες. CL.
+
+# block=6
+(37) Προσλαλήσαντες. Latine alloqui dicitur, et
+allocutio. Exstant hujusmodi sermones habiti in
+vigilia Paschæ. COT.
+
+# block=7
+(38) Σταύρωσον. Addit alter cod. Vind. ante
+hanc vocem : καὶ πάλιν ἐπεβόησαν, perperam et ex
+Joanne liquet. CL.
+
+# block=5
+(39) Ἐκέλευσαν. L. ἐκέλευσαν. COT.
+(40) Παῤῥησιάσομαι ἐν αὐτῷ. Desunt in utroque
+cod. Vind. CL.
+(41) Προσενέγκατε τὴν θυσίαν. Epiphanius sub

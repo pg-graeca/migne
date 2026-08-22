@@ -1,0 +1,197 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,256,260,1015,650
+2,1043,261,1803,644
+3,255,975,1008,2706
+4,256,709,1799,852
+5,868,897,1164,932
+6,1275,133,1538,171
+7,1724,81,1783,118
+8,258,183,1006,257
+10,654,80,1370,118
+11,253,88,331,136
+12,1035,975,1797,2711
+13,517,134,733,176
+14,1045,182,1793,260
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=7
+892
+
+# block=11
+891
+
+# block=6
+ΚΕΦΑΛΑΙΟΝ ΙΘ'.
+
+# block=13
+CAPUT XIX.
+
+# block=14
+Περὶ τῆς παννυχίδος τοῦ μεγάλου σαββάτου·
+καὶ περὶ τῆς ἀναστασίμου ἡμέρας.
+
+# block=8
+De pervigilio magni Sabbati et de die Resurrectionis.
+
+# block=1
+⁴⁸ Quare monemus vos , ut in his diebus jejunetis
+usque ad vesperam , quemadmodum jejunavimus,
+quando nobis ereptus est ; reliquis vero diebus
+ante Parasceven, hora nona, vel vespere unus-
+quisque comedat, vel prout quilibet poterit : ⁴⁹ at
+Sabbato usque ad gallicinium permanentes; illu-
+cescente una Sabbatorum, quæ est dies Dominica,
+jejunium solvite ; a vespera usque ad galli cantum
+vigilantes ; et in ecclesia congregati in unum,
+
+# block=2
+Διὸ παραινοῦμεν καὶ ὑμῖν νηστεύειν ταύτας, ὡς
+καὶ ἡμεῖς ἐνηστεύσαμεν ἐν τῷ ἀναληφθῆναι ⁵⁰ αὐτὸν
+ἀφ' ἡμῶν, μέχρις (32) ἑσπέρας· ἐν δὲ ταῖς λοιπαῖς
+ταῖς πρὸ τῆς παρασκευῆς, ἐννάτην ὥραν ἢ ἑσπέραν (33)
+ἕκαστος ἐσθιέτω, ἢ ὅπως ἄν τις δύναιτο (34)· τῷ δὲ
+σαββάτῳ (35) μέχρις ἀλεκτοροφωνίας παρατείνοντες,
+ἀπονηστίζεσθε ἐπιφωσκούσης ⁵¹ μιᾶς σαββάτων, ἥτις
+ἐστὶ κυριακὴ, ἀπὸ ἑσπέρας ἕως ἀλεκτοροφωνίας ⁵²
+ἀγρυπνοῦντες (36), καὶ ἐπὶ τὸ αὐτὸ ἐν τῇ ἐκκλησίᾳ
+
+# block=4
+⁴⁸ Anast., ibid., l. f. Cap. 13. 1. Pseudo-Ignat. ad Philipp. 13. ⁴⁹ supra, cap. 15, 19, 25. ⁵⁰ al. ληφθῆ-
+ναι. ⁵¹ al. ἀπὸ δὲ ἑσπέρας πέμπτης μέχρις ἀλεκτοροφωνίας, ἀπονηστιζόμενοι ἐπιφωσκούσης, etc. In
+Anast. ἀπὸ τῆς δευτέρας, μέχρις ἀλεκτρυοφωνίας ἀπονηστιζόμενοι. ἐπιφωσκούσης δὲ μιᾶς, etc. ⁵² Anast.
+ἀλεκτρυοφωνίας.
+
+# block=5
+VARIORUM NOTÆ.
+
+# block=3
+. . (32) Ὡς καὶ ἡμεῖς ἐνηστεύσαμεν. Nam utique
+constat apostolos biduo isto in tristitia et in mærore
+fuisse, et propter metum Judæorum se occuluisse.
+Quod utique non dubium est in tantum eos jejunasse
+biduo memorato, ut traditio Ecclesiæ habeat, isto
+biduo sacramenta penitus non celebrari. Agnoscis
+verba Innocentii papæ epist. ad Decentium, cap. 4.
+Vide librum De divinis officiis, cap. 17 et 18; necnon
+Rabanum De institutione clericorum, lib. II, c. 26. COT.
+(33) 'Εννάτην ὥραν ἢ ἑσπέραν. Utroque tem-
+pore finem jejuniis quadragesimalibus imponebant
+olim. Vespere, res est longe testatissima. Hora
+nona, docent non pauci : Socrates, Hist. eccl. lib.
+v, cap. 22; Ambrosius vel alius, serm. 26 (qui est
+fere 62 De tempore apud Augustinum) et 34, Au-
+gustinus epist. 118 atque Ratherius Veronensis,
+tam in synodica sua quam sermone De Quadragesi-
+ma, tom. II Acheriani Spicilegii p. 264, 283.
+Porro constitutionis locum sic interpolatum reperi
+in ms. Regio 1110 : Ἐν δὲ ταῖς λοιπαῖς ταῖς πρὸ τῆς
+Παρασκευῆς, ἅπερ ἂν ἔχῃ ἕκαστος ἐσθιέτω, ἢ ὅπως
+αὐτὸς δύναται. In reliquis autem diebus ante Parasce-
+ven, unusquisque comedat quæ habuerit, aut quo
+modo ipse poterit, contra sensum auctoris. ID.
+(34) Ἢ ὅπως ἄρ τις δύναιτο. Desunt hæc in al-
+tero cod. CLER.
+(35) Τῷ δὲ Σαββάτῳ, etc. Legebat Bovius inter-
+pres : Ἀπὸ δὲ ἑσπέρας πέμπτης μέχρις αὐτ. ἕως
+ἀλεκτοροφωνίας ἀγρυπνοῦντες, etc., quemadmodum
+citatura Lindembrogio ad Ammianum Marcellinum.
+Turriani alter codex : Ἀπὸ δὲ ἑσπέρας πέμπτης
+μέχρις ἀλεκτοροφωνίας ἀπονηστιζόμενοι ἐπιφωσκού-
+σης, etc. In Anastasii Quæstionibus et in Typico S.
+Sabæ : Ἀπὸ τῆς δευτέρας, μέχρις ἀλεκτρυοφωνίας
+(al. ἀλεκτοροφωνίας) ἀπονηστιζόμενοι, ἐπιφωσκούσης,
+etc., ἕως ἀλεκτρυοφωνίας (vel ἀλεκτοροφωνίας)
+ἀγρυπνοῦντες, προσευχόμενοι, καὶ ἀναγινώσκοντες
+τὸν νόμον, καὶ τοὺς προφήτας, καὶ τοὺς ψαλμοὺς,
+μέχρις ἀλεκτρυόνων (ita etiam in Anastasii mss.)
+κραυγῆς. Salmasius contra Grotium p. 184, ex li-
+bris : Ἐν δὲ ταῖς λοιπαῖς ταῖς πρὸ τῆς Παρασκευῆς
+πρὸς ἑσπέραν ἕκαστος ἐσθιέτω, ἐν δὲ τῷ Σαββάτῳ
+ἕως τῆς ἀλεκτοροφωνίας ἀγρυπνοῦντες, καὶ προσευ-
+χόμενοι, καὶ ἀναγινώσκοντες, etc. In ms. Regio 1326 :
+Ἐνδὲ τῷ Σαββάτῳ ἀπὸ ἑσπέρας ἕως ἀλεκτοροφωνίας
+ἀγρυπνοῦντες, etc., ut apud Anastasium. Ego vero
+Constitutorem hoc fere modo scripsisse suspicor :
+Ἀπὸ δὲ ἑσπέρας πέμπτης, ἢ τῷ Σαββάτῳ μέχρις
+ἀλεκτοροφωνίας παρατείνοντες, ἀπονηστίζεσθε ἐπι-
+φωσκούσης μιᾶς Σαββάτων, ἥτις ἐστὶ Κυριακὴ, etc.
+Hoc est : A vespera vero diei quintæ, aut saltem
+Sabbati, jejunium usque ad galli cantum me ducentes,
+
+# block=12
+solvite illud illucescente una Sabbatorum, quæ est
+dies Dominica. ID.
+(36) Ἀγρυπνοῦντες. Inter innumera loca de
+pervigilio Paschæ, insigniter ad Constitutionem
+facientia, sunt ista Lactantii lib. VII, cap. 19, quæ
+imitatur Isidorus Originum VI, 17 : Hæc est nox,
+quæ nobis propter adventum Regis ac Dei nostri, per-
+vigilio celebratur ; cujus noctis duplex ratio est, quod
+in ea et vitam tum recepit, cum passus est ; et postea
+orbis terræ regnum recepturus est. Hieronym. ad
+Matth. xxv, 6 : Traditio Judæorum est Christum
+media nocte venturum, in similitudinem Ægyptii
+temporis, quando Pascha celebratum est, et extirmi-
+nator venit, et Dominus super tabernacula transiit,
+et sanguine agni postes nostrarum frontium conse-
+cratæ sunt. Unde reor et traditionem apostolicam per-
+mansisse, ut in die vigiliarum Paschæ, ante noctis
+dimidium, populos dimittere non liceat, exspectantes
+adventum Christi : et postquam illud tempus trans-
+ierit, securitate præsumpta, festum cunctos agere
+diem. Palladii in Vita Chrysostomi : Excubat enim
+populus in partibus nostris ad primum usque galli
+cantum. Lupi et Euphronii Epistola ad Tarasium,
+tom. I Conciliorum Galliæ, p. 122 : Paschalis vigi-
+lia a vespere raro in matutinum usque perducitur.
+Deinde in vigilia Paschæ diversorum librorum lectio-
+nes sunt recensendæ, quæ totæ habeant aliquid de
+præfiguratione aut vaticinio passionis. Paschasini
+episcopi epist. ad Leonem papam : Nocte sacrosan-
+cta Paschali, baptizandi hora, etc., consuetis lectio-
+nibus nocte sacra discussis, cum presbyter secundum
+morem baptizandi, horam requireret, usque ad lu-
+cem aqua non veniente, non consecrati, qui bapti-
+zandi fuerant, recesserunt. Ut ergo breviter narrem,
+illa nocte quæ lucescebat in Dominicam, decimo die
+Kalendas Maii fons sacer hora competente repletus
+est. Denique Epiphanii in Expositione fidei, num.
+22, ἀγρυπνίαις διατελοῦσι τὰς ἕξ, dies sex Pas-
+chatis in vigiliis transeunt. Ἔν τισι δὲ τόποις τὴν
+μετὰ τὴν πέμπτην ἀγρυπνοῦσιν, ἐπιφώσκουσαν εἰς
+τὸ Προσάββατον, καὶ τὴν Κυριακὴν μόνας. In qui-
+busdam vero locis solummodo nocte ea quæ sequitur
+diem quintum, illucescitque in Prosabbatum pervigi-
+lant, et nocte Dominica, hoc est, Paschali. Ita enim
+explico τὴν Κυριακὴν, ex Gregorio Nysseno, seu si
+mavelis, Hesychio Hierosolymitano, Oratione in Re-
+surrectionem Dominicam, qui Κυριακὴν νύκτα ap-
+pellat. Omittebam mentionem facere veteris ac de-
+perditæ constitutionis pseudoapostolicæ in Epipha-
+nio hær. 70, n. 10, qua præcipiebatur ut Christiani
+vigilias agerent μεσαζόντων τῶν ἀζύμων apud Ju-
+dæos. Eam ideo sublatam fuisse arbitror, quia,

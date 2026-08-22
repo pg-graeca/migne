@@ -1,0 +1,187 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,251,133,1002,955
+2,1027,137,1780,912
+3,239,2624,987,2697
+4,1022,2226,1764,2397
+5,1021,2395,1760,2696
+6,1024,1076,1777,1986
+8,643,83,1347,120
+9,239,2525,984,2625
+10,245,1074,997,1977
+11,236,2463,985,2528
+12,1085,1001,1735,1073
+14,1282,956,1533,992
+15,239,2224,989,2464
+16,252,78,305,117
+18,848,2147,1147,2183
+19,239,1994,1767,2134
+21,1715,84,1781,128
+22,527,954,741,998
+23,357,992,909,1044
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Post dies vero octo, sit vobis rursus festum hono-
+randum octavus dies, in quo me Thomam de
+resurrectione vix ac ne vix quidem credentem,
+convicit, ostendens mihi clavorum vestigia, item
+lanceæ vulnus in latere⁶⁶. Et iterum, a prima Domi-
+nica numeratis quadraginta diebus ⁶⁷, post Domi-
+nicum diem seu hebdomadæ feria quinta celebrate
+festum Assumptionis Domini ⁶⁸, in quo die, com-
+pleta omni dispensatione et constitutione, ascendit
+ad Deum ac Patrem ⁶⁹, emissorem suum⁷⁰, et sedet
+a dextris virtutis ⁷¹, exspectatque donec ponantur
+inimici ejus sub ejus pedibus ⁷²; qui et in con-
+summatione sæculi veniet cum potestate ac gloria
+multa ⁷³, ad judicandum vivos et mortuos ⁷⁴, et
+ad reddendum singulis secundum ea quæ gesse-
+rint ⁷⁵. Tuncque videbunt dilectum Dei Filium,
+quem compunxerunt; et cognoscentes eum, plan-
+gent super seipsos, tribus ad tribum, ac mulieres
+eorum separatim ⁷⁶.
+
+# block=2
+Ἔστω ὑμῖν πάλιν ἑορτὴ τιμία, αὐτὴ ἡ ὀγδόη, ἐν ᾗ
+δυσπιστοῦντα ἐμὲ Θωμᾶν ἐπὶ τῇ ἀναστάσει, ἐπλη-
+ροφόρησε, δείξας μοι τοὺς τύπους τῶν ἥλων, καὶ τῆς
+λόγχης ἐν τῇ πλευρᾷ τὴν τρῶσιν. Καὶ πάλιν, ἀπὸ
+τῆς πρώτης Κυριακῆς ἀριθμήσαντες τεσσαράκοντα
+ἡμέρας, ἀπὸ Κυριακῆς μέχρι πέμπτης, ἑορτάζετε
+τὴν ἑορτὴν τῆς Ἀναλήψεως τοῦ Κυρίου, καθ' ἣν
+πληρώσας πᾶσαν οἰκονομίαν καὶ διάταξιν, ἀνῆλθε
+πρὸς τὸν ἀποστείλαντα αὐτὸν Θεὸν καὶ Πατέρα,
+καθίσας ἐκ δεξιῶν τῆς δυνάμεως, καὶ περιμένων
+ἕως ἂν τεθῶσιν οἱ ἐχθροὶ αὐτοῦ ὑπὸ τοὺς πόδας αὐτοῦ·
+ὃς καὶ ἐλεύσεται ἐπὶ συντελείᾳ τοῦ αἰῶνος μετὰ
+δυνάμεως καὶ δόξης πολλῆς, κρῖναι ζῶντας καὶ
+νεκροὺς, καὶ ἀποδοῦναι ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ.
+Καὶ τότε ὄψονται τὸν ἀγαπητὸν Υἱὸν τοῦ Θεοῦ, ὃν
+ἐξεκέντησαν, καὶ ἐπιγνόντες αὐτὸν, κόψονται ἐφ'
+ἑαυτοῖς, φυλὴ κατὰ φυλὴν, καὶ αἱ γυναῖκες (45) αὐ-
+τῶν κατ' ἰδίαν.
+
+# block=3
+(47) Δεκάτῃ τοῦ μηνὸς Γορπιαίου. Decima Sep-
+tembris, mensis septimi, die sancta et solemni
+
+# block=4
+Expiationum, qua Judæis animas suas affligere seu
+jejunare præcipitur, Levit. xvi, 29; xxiii, 27;
+Numer. xxix, 7. In ea poterant Judæi Hellenistæ
+etiam Baruchum Græce legere, per synagogas suas.
+Cot.
+
+# block=5
+(48) Ἔδειξεν. Uterque cod. ἔδωκεν. Cl.
+(49) Μετὰ δὲ δέκα ἡμέρας τῆς Ἀναλήψεως.
+Recuperabit quæ amisit Anastasius, si quæst. 64,
+p. 428, l. 7, post Κυρίου posueris quemadmodum
+in libris Regiis, et in Typico fol. 135, καὶ μετὰ
+ἡμέρας δέκα τῆς Ἀναλήψεως. Constitutionum porro
+locum hunc aliosque multos continet Niconis mona-
+chi Pandectes; qui liber servatur in forulis Regiæ
+Bibliothecæ. Cot.
+
+# block=6
+Καὶ γὰρ καὶ νῦν δεκάτη τοῦ μηνὸς Γορπιαίου (47)
+συναθροιζόμενοι, τοὺς Θρήνους Ἱερεμίου ἀναγινώ-
+σκουσιν, ἐν οἷς εἴρηται· « Πνεῦμα πρὸ προσώπου
+ἡμῶν Χριστὸς Κύριος συνελήφθη ἐν ταῖς διαφθοραῖς
+αὐτῶν· » καὶ τὸν Βαροὺχ, ἐν ᾧ γέγραπται· « Οὗτος
+ὁ Θεὸς ἡμῶν, οὐ λογισθήσεται ἕτερος πρὸς αὐτόν·
+ἐξεῦρε πᾶσαν ὁδὸν ἐπιστήμης, καὶ ἔδειξεν (48) αὐτὴν
+Ἰακὼβ τῷ παιδὶ αὐτοῦ, καὶ Ἰσραὴλ τῷ ἠγαπημένῳ
+ὑπ' αὐτοῦ. Μετὰ τοῦτο ἐπὶ τῆς γῆς ὤφθη, καὶ τοῖς
+ἀνθρώποις συνανεστράφη. Καὶ ὅταν ἀναγνῶσι, κό-
+πτονται καὶ θρηνοῦσιν, ὡς μὲν αὐτοὶ νομίζουσι, τὴν
+ἐρημίαν τὴν ὑπὸ Ναβουχοδονόσορ γενομένην, ὡς δὲ
+ἡ ἀλήθεια ἔχει, προοίμια ποιοῦνται ἄκοντες τοῦ μέλ-
+λοντος αὐτοὺς καταλαμβάνειν πένθους. Μετὰ δὲ δέκα
+ἡμέρας τῆς Ἀναλήψεως (49), ἥτις ἀπὸ τῆς πρώτης
+Κυριακῆς πεντηκοστὴ γίνεται, ἑορτὴ μεγάλη ὑμῖν
+ἔστω· ἐν αὐτῇ γὰρ, ὥρᾳ τρίτῃ ἀπέστειλεν εἰς ἡμᾶς ὁ
+Κύριος Ἰησοῦς τὴν δωρεὰν τοῦ ἁγίου Πνεύματος, καὶ
+ἐπλήσθημεν αὐτοῦ τῆς ἐνεργείας, καὶ γλώσσαις και-
+ναῖς ἐλαλήσαμεν, καθὼς ἐκεῖνο ὑπήχει ἐν ἡμῖν· καὶ
+ἐκηρύξαμεν Ἰουδαίοις τε καὶ ἔθνεσιν, αὐτὸν εἶναι τὸν
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9
+(46) Τοῦ Ἰησοῦ. Adduntur hæc in codd. Vind. :
+ἣν Ἰουδαῖοι ἀναγινώσκουσι δεκάτῃ Σεπτεμβρίου, ἤτοι
+Γορπιαίου. Id.
+
+# block=10
+Etenim nunc quoque, decima mensis Gorpiaei
+die, Judæi congregati, Lamentationes Jeremiæ
+legunt, in quibus habetur : « Spiritus ante faciem
+nostram Christus Dominus captus est in corrup-
+tionibus eorum ⁷⁷, » et Baruchum, in quo scriptum
+est : « Hic est Deus noster; non æstimabitur alius
+ad eum; adinvenit omnem viam scientiæ, et osten-
+dit illam Jacobo puero suo, et Israeli dilecto sibi.
+Post hoc in terris visus est, et cum hominibus
+conversatus est⁷⁸. » Et inter legendum plangunt ac
+lamentantur, ut ipsi quidem putant, vastitatem a
+Nabuchodonosoro inductam; at revera exordium
+luctus comprehensuri eos, inviti faciunt. Cæterum
+post decem dies ab Ascensione, seu quinquagesi-
+mo post primam Dominicam die, magnum sit vobis
+festum Pentecostes ⁷⁹; in eo quippe die Domi-
+nus Jesus ad nos hora tertia misit donum Spiritus
+sancti; ac repleti sumus ejus efficacia; et linguis
+novis locuti sumus, prout idem Spiritus nobis sug-
+gerebat ⁸⁰; et prædicavimus Judæis atque genti-
+bus, Jesum esse Christum Dei, et constitutum a
+
+# block=11
+(45) Καὶ αἱ γυναῖκες, etc. Hæc in altero cod.
+omittuntur. Cl.
+
+# block=12
+Πρόῤῥησις προφητείας περὶ Χριστοῦ τοῦ
+Ἰησοῦ (46).
+
+# block=14
+VARIORUM NOTÆ.
+
+# block=15
+post dies octo, de die octava, non autem nona.
+Unde Græci hanc Dominicam octavarum Paschæ
+nuncupant Κυριακὴν τοῦ Θωμᾶ. Quæ ipsis etiam
+est καινὴ Κυριακὴ, et ἀντίπασχα. Nos Dominicam
+in Albis appellamus, et Pascha clausum, vel ut
+legitur in Regula Chrodogangi, cap. 56, Tom. I,
+Spicilegii, Clausum Paschæ. Cot.
+
+# block=16
+895
+
+# block=18
+896
+
+# block=19
+⁶⁶ Joan. xx, 27. ⁶⁷ Act. i, 3. ⁶⁸ Anast. ibid. ⁶⁹ Marc. xvi, 19. ⁷⁰ I. Ignat. interpol. ad Magnes.
+11, ad Sm. 5. ⁷¹ Matth. xxvi, 64. ⁷² Heb. x, 13, ⁷³ Marc. xiii, 26. ⁷⁴ II Tim. iv, 1. ⁷⁵ Rom. ii,
+6. ⁷⁶ Zach. xii, 10; Joan. xix, 37. ⁷⁷ Thren. iv, 20. ⁷⁸ Bar. iii, 36. ⁷⁹ Laudat. Anastasius,
+quæst. 64. ⁸⁰ Act. ii, 4.
+
+# block=21
+896
+
+# block=22
+CAPUT XX.
+
+# block=23
+Prædictio prophetiæ de Christo Jesu.

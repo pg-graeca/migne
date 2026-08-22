@@ -1,0 +1,186 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,983,282,1742,882
+2,201,284,953,927
+4,806,1096,1091,1130
+5,258,200,897,268
+6,973,1175,1748,2705
+7,184,1347,953,2705
+8,451,149,702,180
+9,196,1171,952,1351
+10,204,95,261,130
+11,635,92,1307,128
+12,1253,147,1468,181
+13,196,947,1730,1066
+14,1051,196,1673,246
+15,1667,88,1739,132
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+⁴² In diebus ergo Paschæ jejunate, incipientes a
+feria secunda, usque ad Parasceven et Sabbatum,
+per sex dies, solo utentes pane, sale, oleribus et
+aquæ potu; abstinete autem tunc vino et carne :
+dies enim sunt luctus et non festi. Et quidem in
+Parasceve ac Sabbato ex parte omni jejunate,
+quibus sat virium suppetit, nihil penitus gustantes
+usque ad nocturnum galli cantum : si quis vero
+duos dies continuare non valet, saltem Sabbatum
+servet. De se enim loquens Dominus, ait : « Cum
+ablatus fuerit ab illis sponsus, jejunabunt in illis die-
+bus ⁴⁶. » In his itaque diebus, nobis ablatus fuit a
+falso dictis Judæis, et cruci confixus et cum sce-
+leratis reputatus ⁴⁷.
+
+# block=2
+Ἐν ταῖς ἡμέραις οὖν τοῦ Πάσχα νηστεύετε, ἀρ-
+χόμενοι ἀπὸ δευτέρας μέχρι τῆς παρασκευῆς, καὶ
+Σαββάτου, ἓξ ἡμέρας (29), μόνῳ χρώμενοι ἄρτῳ
+καὶ ⁴⁴ ἁλὶ καὶ λαχάνοις, καὶ ποτῷ ὕδατι· οἴνου δὲ
+καὶ κρεῶν ἀπέχεσθε ἐν ταύταις· ἡμέραι γάρ εἰσι
+πένθους, ἀλλ’ οὐχ ἑορτῆς. Τὴν μὲν οὖν παρασκευὴν
+καὶ τὸ Σάββατον (30) ὁλόκληρον νηστεύσατε, οἷς δύ-
+ναμις πρόσεστι τοιαύτη, μηδενὸς γευόμενοι μέχρις
+ἀλεκτοροφωνίας ⁴³ νυκτός· εἰ δέ τις ἀδυνατεῖ τὰς
+δύω συνάπτειν ὁμοῦ (31), φυλασσέσθω κἂν τὸ Σάβ-
+βατον· λέγει γάρ που ὁ Κύριος περὶ ἑαυτοῦ φάσκων·
+« Ὅταν ἀπαρθῇ ἀπ’ αὐτῶν ὁ νυμφίος, νηστεύσουσιν
+ἐν ἐκείναις ταῖς ἡμέραις. » Ἐν ταύταις οὖν ἤρθη
+ἀφ’ ἡμῶν ὑπὸ τῶν ψευδωνύμων ⁴⁵ Ἰουδαίων, καὶ
+σταυρῷ προσεπάγη, καὶ μετὰ ἀνόμων ἐλογίσθη.
+
+# block=4
+VARIORUM NOTÆ
+
+# block=5
+Διάταξις περὶ τῆς μεγάλης τοῦ Πάσχα
+ἑβδομάδος (28).
+
+# block=6
+(29) Ἕξ ἡμέρας. Deest in altero cod. Cl.
+(30) Τὴν μὲν τοι παρασκευὴν καὶ τὸ Σάββατον,
+etc. Multos mores ad hunc locum observo. In pri-
+mis celebrem illum transigendi unum aut plures
+dies, absque ullo penitus cibo. De uno die Metho-
+dius martyr, orat. 3 Convivii, p. 45: Ἀπηγόρευται
+γὰρ σήμερον διαίτης ἐπιμνησθῆναι τὸ σύνολον. De
+duobus et pluribus varie exprimunt, atque isto
+etiam modo, διὰ δύο, διὰ τριῶν, διὰ τεσσάρων, etc.,
+μεταλαμβάνειν, ἐσθίειν, etc., in Vita S. Antonii
+apud Athanasium, in Theodoriti Historia religiosa,
+in Historia Lausiaca Palladii, in Antiochi homilia
+7, et alibi. Sed præ cæteris insignia et elegantia sunt
+verba postremo citati loci, digna profecto quæ feli-
+ciorem interpretem nanciscerentur. Νηστεία οὖν
+ἐστι οὐ μόνον τὸ βραδυφαγῆσαι, ἀλλὰ καὶ τὸ βραχυ-
+φαγῆσαι· καὶ οὐ διὰ δύο ἐσθίειν, τοῦτο ἄσκησίς ἐ-
+στιν, ἀλλὰ τὸ μὴ πολυφαγῆσαι (seu potius ut legit
+Tilmanus, utque in Typico fol. ρλζ’ habetur, ποι-
+κιλοφαγῆσαι)· ἄσκησις γάρ ἐστιν ἐν μονοειδεῖ τροφῇ
+συνεσταλμένη τράπεζα. Vertendum fuit hoc aut si-
+mili modo: Jejunium ergo est, non solum tarde com-
+edere, sed et parum comedere : nec secundo quoque
+die vesci, id ascesis, seu pietatis exercitium est, ve-
+rum non vario cibo uti. Est enim ascesis, mensa in
+hujusmodi cibo coarctata et ad modicum redacta. Sic
+ex Alexandro Polyhistore refert Clemens Alexan-
+drinus Strom. III, Brachmanum nonnullos διὰ τριῶν
+ἡμερῶν cibum sumpsisse : et de Essæis Philo, διὰ
+τριῶν ἡμερῶν· δι’ ἓξ ἡμερῶν. Videsis grave hac in
+re judicium Theodori Studitæ catechesi 55. Secun-
+dus mos quem observo, biduana est inedia, sanctæ
+Parasceves et magni Sabbati. Irenæus, apud Euse-
+bium lib. V, cap. 24, agens de paschali jejunio : Οἱ μὲν
+γὰρ οἴονται μίαν ἡμέραν δεῖν αὐτοὺς νηστεύειν· οἱ
+δὲ δύο, οἱ δὲ καὶ πλείονας· οἱ δὲ τεσσαράκοντα ὥρας
+ἡμερινάς τε καὶ νυκτερινὰς συμμετροῦσι τὴν ἡμέ-
+ραν αὐτῶν. Quidam enim existimant unico die sibi
+esse jejunandum ; alii duobus, alii pluribus, non-
+nulli etiam quadraginta horis diurnis ac nocturnis
+computatis diem suum metiuntur. Dionysius Alexan-
+
+# block=7
+ΚΕΦΑΛΑΙΟΝ ΙΗ’.
+drinus epistola ad Basilidem, de sex diebus heb-
+domadis magnæ : Οἱ μὲν πάσας ὑπερτιθέασιν ἄσιτοι
+διατελοῦντες, οἱ δὲ δύο, οἱ δὲ τρεῖς, οἱ δὲ τέσσαρας.
+Alii quidem omnes eos dies superponunt, jejuni per-
+manentes ; alii duobus, alii tres, alii quatuor. Et infra :
+Τελευταίας δύο ἡμέρας ὑπερτιθέντες, τήν τε παρα-
+σκευὴν καὶ τὸ Σάββατον, ultimos duos dies superpo-
+nunt, Parasceven scilicet et Sabbatum. Epiphanius,
+Expos. fid. cathol., n. 22, de iisdem sex diebus
+Paschatis: Οἱ σπουδαῖοι διπλᾶς, καὶ τριπλᾶς, καὶ
+τετραπλᾶς ὑπερτίθενται, καὶ ὅλην τὴν ἑβδομάδα τι-
+νὲς ἄχρι ἀλεκτρυόνων κλαγγῆς, τῆς Κυριακῆς ἐπι-
+φωσκούσης. Qui studiosi sunt, biduum, ac triduum,
+et quatriduum superponunt; et quidam totam hebdo-
+madem usque ad galli cantum, illucescente Domi-
+nico. Unum diem 40 horarum, intellige Parasceven
+cum majore parte Sabbati ; duos dies, id est integrum
+biduum ; tres vero et quatuor quintam, vel quar-
+tam quintamque ferias cum Parasceve ac Sabbato.
+Consulatur Regula Magistri, c. 53. Consuetudinem
+autem hic a me observatam, diu viguisse tum in
+Occidente, tum Hierosolymis, certum est ex au-
+ctore libri De divinis officiis, testante de suis occi-
+dentalibus in cap. 17, et ex Zonara, qui de Hieroso-
+lymitanis æqualibus suis idem tradit, ad canonem
+Trullanum 89. Vide etiam de Palæstinis in Typico
+Hierosolymitico seu Sabæ, ubi Apostolicæ constitu-
+tiones laudantur. Tertius mos Græcos spectat : qui
+quia Sabbatum unum in toto anno jejunant, præ-
+ferunt jejunium Sabbati sancti jejunio sanctæ Pa-
+rasceves. Lege Balsamonem in can. Trull. 89. Con-
+tra Latini, Sabbatis abstinere a cibo soliti, sanctis-
+simum habent Parasceves antepaschalis jejunium ;
+uti etiam colligere licet ex Concordia Regularum
+cap. 56, p. 840 : ubi contra monachos qui eo die
+vescebantur. Cæterum quo sensu hic dicitur δύο
+ἡμέρας συνάπτειν ὁμοῦ, eodem apud Tertullianum
+De patientia cap. 13, jejunia conjungere; apud Hie-
+ronymum epist. 15, hebdomadas conjungere; Sozo-
+meno, lib. VI, cap. 34: ἑβδομάδας ἡμερῶν ἐν νη-
+στείαις ἐπισυνάπτειν. In Typico, fol. 135:
+Μᾶλλον μὲν οὖν εἰ δύνασαι, τὰς δύο μοι συνάψας,
+Παρασκευὴν καὶ Σάββατον, ἄσιτος διαμείνας.
+Vide Tertullianum De jejuniis, cap. 14, et Sozom.
+Histor., lib. I, cap. 11. Cot.
+(31) Ὁμοῦ. Deest in altero cod. Cl.
+
+# block=8
+CAPUT XVIII.
+
+# block=9
+(28) Ἐν ταῖς ἡμέραις οὖν τοῦ Πάσχα νη-
+στεύετε. Pretium operæ fuerit ad Epiphanium adire
+hæres. 70, n. 12; hæres. 75, n. 3, 6, et Expos.
+fid., n. 22; cujus posteriora duo loca citat Balsa-
+mon ad canonem Laodicenum 50, pag. 1127. Cot.
+
+# block=10
+889
+
+# block=11
+CONSTITUTIONES APOSTOLICÆ.--LIB. V.
+
+# block=12
+CAPUT XVIII.
+
+# block=13
+⁴² Deest in Anast. ⁴³ Anast. ἀλεκτρυοφωνίας. ⁴⁴ Anast. παρανόμων. ⁴⁵ Citat. Anastasius, quæst.
+54. I. f. cap. 13, l. Pseudo-Ignat. ad Philipp. 13; Epiph., hær. 75, n. 6, supra, cap. 15, infra,
+cap. 19. ⁴⁶ Marc. II, 20. ⁴⁷ Isa. LIII, 12.
+
+# block=14
+Constitutio de magna Paschæ hebdomada.
+
+# block=15
+890
