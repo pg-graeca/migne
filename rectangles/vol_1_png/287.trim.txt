@@ -1,3 +1,0 @@
-left=3
-right=1624
-top=425

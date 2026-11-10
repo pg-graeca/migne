@@ -1,3 +1,0 @@
-left=4
-right=1922
-top=4

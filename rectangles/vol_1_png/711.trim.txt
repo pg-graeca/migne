@@ -1,3 +1,0 @@
-left=2
-right=1747
-top=84

@@ -1,3 +1,0 @@
-left=1
-right=1835
-top=82
