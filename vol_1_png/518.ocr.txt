@@ -1,0 +1,80 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,167,1876,1682,2245
+2,1076,931,1689,1769
+3,1090,160,1721,764
+4,170,847,1065,1808
+5,522,2280,1003,2729
+6,184,165,1062,841
+7,730,94,1153,133
+8,193,94,244,130
+9,1635,98,1707,140
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+433
+
+# block=7
+EPISTOLA II AD VIRGINES
+
+# block=9
+434
+
+# block=3
+et agunt, ut panis buccella, ignobi-
+liter quæsita, saturentur, mistura-
+que modici vini undequaque exhi-
+biti potentur, cantantes cantica Do-
+mini in terra alienigenarum, quod
+non decet ⁵⁶. Non sic, obsecramus
+vos, fratres, agite, nec ista fiant in-
+ter vos : et si qui forte tale vitæ ge-
+nus elegissent, impedite ne ultra
+tam stulte et indecore agere per-
+gant ⁵⁷.
+
+# block=2
+Rogamus ergo vos qui ejusdem
+justitiæ nobiscum germanitatem
+habetis, ut omnia quæ apud nos
+aguntur ita fiant ut in ædificationem
+vergant his qui fidem nostram sunt
+amplexuri. Exhibeamus nos oves
+Christi, observantia omnis justitiæ,
+moribus sanctis, rectis verosque fi-
+deles pandentibus; nec avertamus
+oculos ab his qui honeste, verecunde
+ac sancte vivunt; illis honorem glo-
+riamque tribuamus. Omnes in Deo
+cooperatores honorate ⁵⁸. Si sic
+statis in Domino; si per omnia in
+illo fideles ac recti manseritis, ⁵⁹ gau-
+
+# block=1
+⁵⁶ Hæc meditentur qui sibimetipsis missionem dederunt in terras alienas, ut circumferant illuc eloquia
+sacra, in omnes linguas et pro arbitrio suo conversa, omnibusque populis infidelibus prostituta. O vere
+mercenarii, qui non animas quærunt sed nummos; non gloriam Dei, sed sponsæ Christi humiliationem ac
+tribulationem intendunt! Horum autem consiliorum quis finis? Qui habitat in cælis irridebit eos : et Domi-
+nus subsannabit eos (Psal. II, 4). ⁵⁷ Quilibet fidelis catholicus, quantum valet, obicem ponere potest et
+debet juxta prudentiæ regulas, ministerio usurpato et circuitionibus vagorum sectariorum. Quanto magis
+principes et magistratus! Civilis tamen potestas limites sibi præscriptos nunquam transgredi debet nec
+invadere in jura Ecclesiæ, quæ ipsa, in his quæ religionem spectant, terminos assignat non transi-
+liendos. ⁵⁸ Videtur alludere sanctus Clemens verbis Apostoli (Philip. IV, 3), quæ tamen nullibi inte-
+gre citat, præ modestia, quia in his expresse nominatur. ⁵⁹ Quis non videt hæc verba soli Eccle-
+siæ principi convenire?

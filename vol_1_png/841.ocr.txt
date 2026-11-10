@@ -1,0 +1,182 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,201,1048,948,1736
+2,984,1046,1725,1734
+3,976,1935,1738,2664
+4,989,133,1736,900
+5,207,121,960,945
+6,199,1925,940,2591
+7,804,1865,1104,1898
+8,353,953,801,1032
+9,1009,2655,1692,2695
+10,197,2592,939,2695
+11,1085,945,1453,985
+12,1056,1004,1650,1039
+13,614,75,1347,112
+14,235,1793,965,1832
+15,220,75,287,113
+16,1657,83,1726,120
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=201 source_y1=1048 source_x2=948 source_y2=1736
+Ὁ προειπὼν διὰ τῶν ἁγίων σου προφητῶν τοῖς
+μυουμένοις· « Λούσασθε, καθαροὶ γίνεσθε. » Καὶ διὰ
+τοῦ Χριστοῦ νομοθετήσας τὴν πνευματικὴν ἀναγέν-
+νησιν· αὐτὸς καὶ νῦν ἔπιδε ἐπὶ τοὺς βαπτιζομένους,
+καὶ εὐλόγησον αὐτοὺς, καὶ ἁγίασον, καὶ παρασκεύασον
+ἀξίους γενέσθαι τῆς πνευματικῆς σου δωρεᾶς, καὶ
+τῆς ἀληθινῆς υἱοθεσίας, τῶν πνευματικῶν σου μυστη
+ρίων, τῆς μετὰ τῶν σωζομένων ἐπισυναγωγῆς, διὰ
+Χριστοῦ τοῦ Σωτῆρος ἡμῶν· δι’ οὗ σοὶ δόξα, τιμὴ καὶ
+σέβας, ἐν ἁγίῳ Πνεύματι, εἰς τοὺς αἰῶνας. Ἀμήν.
+Καὶ λεγέτω ὁ διάκονος· Προέλθετε οἱ φωτιζόμενοι.
+Καὶ μετὰ τοῦτο κηρυττέτω· Εὔξασθε οἱ ἐν τῇ με-
+τανοίᾳ (18). Ἐκτενῶς πάντες ὑπὲρ τῶν ἐν μετανοίᾳ
+ἀδελφῶν (19) παρακαλέσωμεν· ὅπως ὁ φιλοικτίρμων
+Θεὸς ὑποδείξῃ αὐτοῖς ὁδὸν μετανοίας· προσδέξηται
+αὐτῶν τὴν παλινῳδίαν καὶ τὴν ἐξομολόγησιν, καὶ
+
+# block=2 source_x1=984 source_y1=1046 source_x2=1725 source_y2=1734
+Qui per sanctos prophetas tuos prædixisti iis
+qui initiantur ac baptizantur : « Lavamini, mundi
+estote ⁶⁶ ; » et per Christum sanctisti spiritualem
+regenerationem : ipse nunc etiam respice in hos
+baptizandos, et benedic eis, et sanctifica, ac præ-
+para ut digni fiant spirituali dono tuo, ac vera ado-
+ptione, tuisque spiritualibus mysteriis, atque ag-
+gregatione cum iis qui servantur, per Christum
+Salvatorem nostrum; per quem tibi gloria, honor
+et reverentia, in sancto Spiritu, in sæcula. Amen.
+Et dicat diaconus : Exite qui illuminandi estis. Et
+post hoc edicat : Orate, pœnitentes. Intente universi
+pro fratribus nostris in pœnitentia versantibus pre-
+cemur, ut misericordiæ studiosus Deus illis osten-
+dat viam pœnitentiæ ; admittat eorum palinodiam,
+seu retractationem, atque confessionem, et c con-
+
+# block=3 source_x1=976 source_y1=1935 source_x2=1738 source_y2=2664
+Inter sexcenta ritus longe celeberrimi testimonia,
+succurrunt duo depravatạ leviter, quæ corrigere
+operæ pretium fuerit. Theodorị Balsamonis alterum
+ad canonem Laodicenum 19 : Κατηχουμένῳ μὲν
+λέγονται, οἱ πρὸς τὸ βάπτισμα ἑτοιμαζόμενοι, ἐν
+μετανοίᾳ δέ εἰσιν, οἱ διὰ τινα ἁμαρτήματα ἐπιτιμη-
+θέντες πιστοὶ, οἱ ἀξιούμενοι καὶ τῆς ἁγίας μεταλή-
+ψεως ; alterum Nicephorị Callistị lib. XII, cap 28 :
+Ἡ νηστείαις καὶ ἀγρυπνίαις, καὶ πυκναῖς προσευ-
+χαῖς τε καὶ μετανοίαις, ἢ ἀλουσίαις καὶ ἀποχαῖς τρυ-
+φῶν. Ego priori loco leglerim per modicam tra-
+jectionem : Οἱ διὰ τινα ἁμαρτήματα ἐπιτιμηθέντες ·
+καὶ πιστοὶ, οἱ ἀξιούμενοι τῆς ἁγίας μεταλήψεως.
+Pœnitentes vero sunt, quibus propter peccata pœna
+injuncta est : at fideles, qui sancta communione digni
+habentur; vel ut in lib. Reg. 2431 : Ἐπιτιμηθέντες ·
+πιστοὶ, οἱ ἀξιούμενοι καὶ τῆς ἁγίας μεταλήψεως,
+posteriori autem scripserim : καὶ ἀποχαῖς τροφῶν,
+ut respondeat ἐδεσμάτων ἀποχῇ apud Sozomenum
+lib. VII, cap. 16, quo loci Epiphanius Scholasticus
+invenerat forte, ἐποχῇ ; vertit enim, suspensione
+ciborum. COT.
+
+# block=4 source_x1=989 source_y1=133 source_x2=1736 source_y2=900
+cas illud, et omnia flumina ipsa deserta reddis ; cu-
+jus nubes, pulvis pedum; qui ambulas super mare,
+tanquam super pavimentum ⁶³ : unigenite Deus,
+magni Patris Fili : Increpa malos spiritus; et li-
+bera opera manuum tuarum ab alieni spiritus vexa-
+tione; quia tibi gloria, honor ac veneratio, et per
+te Patri tuo, in sancto Spiritu, in sæcula. Amen.
+Tum diaconus dicat : Exite, energumeni. Et iis
+egressis, proclamet : Orate, illuminandi baptismo,
+seu competentes. Intente cuncti fideles pro ipsis de-
+precemur; ut Dominus dignos eos faciat, qui ba-
+ptismate initiati in Christi mortem cum ipso resur-
+gant, fiantque participes regni ipsius, ac mysterio-
+rum ejus consortes; adunet et annumeret eos cum
+iis qui salvi fiunt in sancta ipsius Ecclesia. Serva
+et suscita eos in gratia tua. Consignati Deo per
+Christum ejus, inclinantes se, benedicantur ab epi-
+scopo hac benedictione :
+
+# block=5 source_x1=207 source_y1=121 source_x2=960 source_y2=945
+μῶν, οὐ νεφέλαι, κονιορτὸς τῶν ποδῶν· ὁ περιπατῶν
+ἐπὶ θαλάσσης, ὡς ἐπ’ ἐδάφους· μονογενὲς Θεὲ, με-
+γάλου Πατρὸς Υἱέ· ἐπιτίμησον τοῖς πονηροῖς πνεύ-
+μασι, καὶ ῥῦσαι τὰ ἔργα τῶν χειρῶν σου ἐκ τῆς τοῦ
+ἀλλοτρίου πνεύματος ἐνεργείας· ὅτι σοὶ δόξα, τιμὴ καὶ
+σέβας, καὶ διὰ σοῦ τῷ σῷ Πατρὶ, ἐν ἁγίῳ Πνεύματι,
+εἰς τοὺς αἰῶνας. Ἀμήν. Καὶ ὁ διάκονος λεγέτω· Προέλ-
+θετε (13) οἱ ἐνεργούμενοι· καὶ μετ’ αὐτοὺς, προσφω-
+νείτω· Εὔξασθε (14), οἱ φωτιζόμενοι (15). Ἐκτενῶς
+οἱ πιστοὶ πάντες ὑπὲρ αὐτῶν παρακαλέσωμεν, ὅπως
+ὁ Κύριος καταξιώσῃ αὐτοὺς μυηθέντας εἰς τὸν τοῦ
+Χριστοῦ θάνατον συναναστῆναι αὐτῷ, καὶ μετόχους
+γενέσθαι τῆς βασιλείας αὐτοῦ, καὶ κοινωνοὺς τῶν μυ-
+στηρίων αὐτοῦ, ἐνώσῃ καὶ συγκαταλέξῃ αὐτοὺς μετὰ
+τῶν σωζομένων ἐν τῇ ἁγίᾳ αὐτοῦ Ἐκκλησίᾳ. Σῶ-
+σον (16) καὶ ἀνάστησον αὐτοὺς ἐν τῇ σῇ χάριτι. Κα-
+τασφραγισάμενοι τῷ Θεῷ διὰ τοῦ Χριστοῦ αὐτοῦ, κλί-
+ναντες εὐλογείσθωσαν παρὰ τοῦ ἐπισκόπου τήνδε τὴν
+εὐλογίαν·
+
+# block=6 source_x1=199 source_y1=1925 source_x2=940 source_y2=2591
+(13) Προέλθετε. Cod. Vind. προσέλθετε accedite.
+ID.
+(14) Εὔξασθε. Fit initium hic cap. IX, quod in-
+scribitur προσφώνησις τῶν φωτιζομένων. CLER.
+(15) Οἱ φωτιζόμενοι. Distinguuntur apud Cyrillum
+Hierosolymitanum φωτιζόμενοι a κατηχούμενοι, et
+νεοφώτιστοι, et πιστοῖς, appellanturque etiam, οἱ τῷ
+βαπτίσματι προσερχόμενοι, qui ad baptismum acce-
+dunt. Interprete vero Zonara ad canonem Trullanum
+78, sunt οἱ πρὸς τὸ φώτισμα ἑτοιμαζόμενοι, qui ad il-
+luminationem et baptismum se præparant. In Eucho-
+logio autem, sive Rituali Græcorum, p. 195, 196, 343,
+344, φωτιζόμενοι dicuntur, οἱ πρὸς τὸ φώτισμα, οἱ
+πρὸς τὸ βάπτισμα εὐτρεπιζόμενοι, qui ad illumina-
+tionem, qui ad sanctum baptisma se disponunt; insu-
+perque assignatur tempus istius eorum officii, nempe
+ἀπὸ τῆς τετάρτης τῆς μεσονηστίου. Respondent Græ-
+corum φωτιζομένοις Latinorum Competentes. COT.
+(16) Σῶσον. Præfiguntur hæc in cod. Vind. : ἔτι
+ἐκτενῶς ὑπὲρ αὐτῶν δεηθῶμεν. CLER.
+
+# block=7 source_x1=804 source_y1=1865 source_x2=1104 source_y2=1898
+VARIORUM NOTÆ.
+
+# block=8 source_x1=353 source_y1=953 source_x2=801 source_y2=1032
+ΚΕΦΑΛΑΙΟΝ Η′.
+Ὑπὲρ (17) τῶν βαπτιζομένων.
+
+# block=9 source_x1=1009 source_y1=2655 source_x2=1692 source_y2=2695
+(19) Ἀδελφῶν. Addit. cod, Vind. ἡμῶν. CLER.
+
+# block=10 source_x1=197 source_y1=2592 source_x2=939 source_y2=2695
+(17) Ὑπέρ. In utroque : χειροθεσία ἐπὶ τῶν, etc.
+(18) Εὔξασθε. In iisdem hic est cap. 11 inscri-
+ptum : Προσφώνησις ὑπὲρ τῶν ἐν μετανοίᾳ. CLER. —
+
+# block=11 source_x1=1085 source_y1=945 source_x2=1453 source_y2=985
+CAPUT VIII.
+
+# block=12 source_x1=1056 source_y1=1004 source_x2=1650 source_y2=1039
+Oratio pro iis qui jamjam baptizandi sunt.
+
+# block=13 source_x1=614 source_y1=75 source_x2=1347 source_y2=112
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=14 source_x1=235 source_y1=1793 source_x2=965 source_y2=1832
+⁶³ Nah. I, 4, 3; Job IX, 8, apud LXX. ⁶⁶ Isa. I, 16.
+
+# block=15 source_x1=220 source_y1=75 source_x2=287 source_y2=113
+1081
+
+# block=16 source_x1=1657 source_y1=83 source_x2=1726 source_y2=120
+1082

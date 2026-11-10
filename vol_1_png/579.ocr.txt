@@ -1,0 +1,213 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,956,755,1724,1397
+2,156,754,937,1401
+3,957,542,1714,748
+4,159,539,926,746
+5,964,2218,1725,2451
+6,163,1563,938,2719
+7,950,141,1706,336
+8,289,415,769,475
+9,416,494,668,530
+10,1083,414,1546,479
+11,958,1557,1727,2220
+12,157,131,917,337
+13,764,1494,1071,1532
+14,1224,498,1429,531
+16,1638,85,1690,124
+17,964,2449,1727,2685
+18,596,86,1265,124
+20,137,66,235,122
+21,193,1420,917,1472
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=25px
+# block=9 fontSize=15px
+# block=10 fontSize=29px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=16 fontSize=16px
+# block=17 fontSize=15px
+# block=18 fontSize=16px
+# block=20 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=21
+⁵⁸⁻⁷² Isa. v, 7, 2. Citat. Epiphan. hær. 45, n. 5.
+
+# block=20
+557
+
+# block=16
+558
+
+# block=18
+CONSTITUTIONES APOSTOLICÆ.—LIB. I.
+
+# block=12
+ζ΄ Περὶ γυναικὸς φαύλης.
+η΄. Περὶ ὑποταγῆς γυναικὸς πρὸς ἄνδρα καὶ φιλ-
+άνδρου καὶ σώφρονος.
+θ΄. Περὶ τοῦ μὴ συλλούεσθαι γυναῖκα ἀνδράσιν.
+ι΄. Περὶ μαχίμου καὶ γλωσσώδους γυναικός.
+
+# block=7
+VII. De muliere prava.
+VIII. De uxoris virum diligentis et castæ subje-
+ctione erga maritum.
+IX. Quod mudier non debet cum viris lavare.
+X. De muliere contentiosa et loquace.
+
+# block=10
+LIBER PRIMUS.
+
+# block=8
+ΒΙΒΛΙΟΝ ΠΡΩΤΟΝ.
+
+# block=9
+ΠΕΡΙ ΛΑΪΚΩΝ.
+
+# block=14
+DE LAICIS.
+
+# block=4
+Οἱ ἀπόστολοι καὶ οἱ πρεσβύτεροι πᾶσι τοῖς ἐξ ἐθνῶν
+πιστεύσασιν εἰς τὸν (4) Κύριον Ἰησοῦν Χριστὸν, χά-
+ρις ὑμῖν καὶ εἰρήνη ἀπὸ τοῦ παντοκράτορος Θεοῦ, διὰ
+τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, πληθυνθείη ἐν ἐπι-
+γνώσει αὐτοῦ.
+
+# block=3
+Apostoli et presbyteri, omnibus qui ex gentibus
+in Dominum Jesum Christum crediderunt; gratia
+vobis et pax ab omnipotente Deo, per Dominum
+nostrum Jesum Christum, in agnitione ejus mul-
+tiplicetur.
+
+# block=2
+Θεοῦ φυτεία ἡ καθολικὴ Ἐκκλησία, καὶ ἀμπελὼν
+αὐτοῦ ἐκλεκτὸς (5), οἱ πεπιστευκότες εἰς τὴν ἀπλανῆ
+θεοσέβειαν αὐτοῦ, οἱ τὴν αἰώνιον καρπούμενοι διὰ
+πίστεως βασιλείαν αὐτοῦ, οἱ δύναμιν αὐτοῦ εἰληφότες
+καὶ μετουσίαν τοῦ ἁγίου Πνεύματος, ὡπλισμένοι διὰ
+Ἰησοῦ, καὶ ἐνστερνισμένοι τὸν φόβον αὐτοῦ (6), ῥαν-
+τίσματος μέτοχοι τοῦ τιμίου καὶ ἀθώου αἵματος τοῦ
+Χριστοῦ, οἱ παῤῥησίαν εἰληφότες τὸν παντοκράτορα
+Θεὸν πατέρα καλεῖν, συγκληρονόμοι καὶ συμμέτοχοι
+τοῦ ἠγαπημένου Παιδὸς αὐτοῦ· ἀκούσατε διδασκαλίαν
+ἱερὰν οἱ ἀντεχόμενοι τῆς ἐπαγγελίας αὐτοῦ ἐκ προστά-
+γματος τοῦ Σωτῆρος, ὁμόστοιχον (7) ταῖς ἐνδόξοις
+φθογγαῖς αὐτοῦ. Φυλάσσεσθε, οἱ Θεοῦ υἱοὶ, ἅπαντα εἰς
+ὑπακοὴν Θεοῦ πράσσειν· καὶ γένεσθε ἀρεστοὶ ἐν πᾶσι
+Χριστῷ τῷ Θεῷ (8) ἡμῶν· ἐὰν γάρ τις ἀνομίαν με-
+
+# block=1
+Ecclesia catholica, plantatio Dei est, et vinea
+ejus electa ⁵⁸⁻⁷²; qui in certissimam Dei religionem
+credidere, qui sempiternum ejus regnum per fidem
+compararunt, qui ejus virtutem et Spiritus sancti
+participationem acceperunt, per Jesum armati, et
+timorem ejus toto pectore amplexi, aspersionem
+pretiosi et innocentis sanguinis Christi communi-
+cantes, qui fiduciam acceperunt ut nomine patris
+Deum omnipotentem appellarent, cohæredes et
+consortes dilecti Filii ejus: audite, qui ex præ-
+cepto Salvatoris promissionem ejus retinetis, sa-
+cram doctrinam, gloriosis ipsius vocibus conso-
+nam. Attendite, filii Dei, ut omnia in obedientia
+Dei faciatis; et in omnibus estote Christo Deo
+nostro accepti. Si quis enim iniquitatem sectetur,
+
+# block=13
+VARIORUM NOTÆ.
+
+# block=11
+significet, possitque intelligi etiam de funiculo, ac
+de cilicio, occasio errandi exstitisse videtur Latinis
+Interpretibus, qui reddunt apud Hieronymum in
+Traditionibus Hebraicis, et apud Augustinum lib.
+xvi, De civitate Dei, cap. 41, ac lib. xii contra
+Faustum Manichæum, cap. 42: Alligans ad vitem
+pullum suum, et funiculo pullum asinæ, aut, et cilicio
+pullum asinæ suæ. In quod erratum non incurris-
+sent, si cum Theodorito quæst. 110, in Genesim,
+Diodoro in Catena ms. in Genesim, ac forte Cyrillo
+in Glaphyris, legissent καὶ τῇ ἕλικι τῆς ἀμπέ-
+λου. S. Cyprianus helicem servat, lib. i Testi-
+moniorum, c. 21, et S. Ambrosius aliique ad
+palmitem interpretantur. Arbitror ergo, Rufini verba
+sunt, Præfatione in librum De benedictionibus Ju-
+dæ, quem sequetur qui volet, me nullatenus repu-
+gnante, quod hic ipse Græcus sermo in Latinis exem-
+plaribus antiquitus positus est, ut et alia nonnulla,
+et per tempus a scriptoribus non intelligentibus pro
+ἕλικι cilicium dici putatum est. Cot.
+
+# block=6
+(4) Εἰς τὸν, etc. Ms. Vindob. ἐπὶ τόν.
+(5) Ἀμπελὼν αὐτοῦ ἐκλεκτός. Epithetum ἐκλε-
+κτός sumptum est ex versione Symmachi Is. v, 2.
+Ille enim vocem שרק Σωρήχ, Sorek, reddiderat ἐκλε-
+κτήν, uti discimus ex SS. Basilio et Hieronymo ad
+eum textum. Addit Hieronymus, interpretationem
+hanc solius Symmachi esse. Idemque ac Basilius
+docuerat Theodoritus ibidem; verum hodie non
+habemus integra ejus verba. Editi libri, καὶ ἐφύ-
+τευσα ἄμπελον, Ἔχει δὲ ἑρμηνεία τὸ ἀληθές· ἐκλεξά-
+μενος γὰρ Ἀβραὰμ τὸν πατριάρχην ὁ τῶν ὅλων Θεὸς,
+ἐκ τῶν τούτου κλημάτων τὸν ἀμπελῶνα ἐφύτευσεν·
+cum sensus postulet, post ἄμπελον, hæc aut simi-
+lia, Σωρήκ Σύμμαχος ἡρμήνευσεν ἐκλεκτήν. A
+Tertulliano quoque Adversus Judæos, cap. 13; Con-
+tra Marcionem, lib. iii, cap. 23; lib. iv, cap. 29;
+Origene homil. 12, in Jeremiam, et ad Matthæi xxi,
+33, etc; Ambrosio Hexaemeron lib. iii, cap. 12;
+Chrysostomo et Cyrillo in Isaiam, aliisque, retine-
+tur ex LXX Sorek, Sorec, vel Sorech, Σωρήχ aut
+Σωρήχ. Itaque abest a vero, quod tanquam ex Pro-
+copio Gazæo Curterii ait Jacobus Usserius, in Syn-
+tagmate de editione LXX Interpretum, cap. 4, ubi
+Vulgata Græca editio habet Σωρήχ, ibi veros Se-
+ptuaginta scripsisse ἐκλεκτήν. Fraudi fuit viro in-
+signiter docto Liber indiligenter visus; in quo ἐκλε-
+κτήν non refertur ad Σωρήχ, sed ad σταφυλήν, voca-
+bulum ejusdem versiculi. Et vero שרק non raro in
+sacro contextu usurpatur. Insignis est locus Gen.
+xlix, 11, quem præclare versum invenies in dispu-
+tatione Archelai adversus Manichæum, post Socra-
+tem et Sozomenum præstantissimi Valesii, pag.
+202, col. 2, qui alligavit ad vitem pullum suum, et
+ad optimam vitem pullum asinæ suæ. At Senes per
+ἕλιξ exposuerunt; id autem cum multa apud Græcos
+
+# block=5
+(6) Ἐνστερνισμένοι τὸν φόβον αὐτοῦ. Cum Tur-
+riano posui in Versione timorem ejus toto pectore
+amplecti, sicut Zonaras ἐνστερνιζόμεθα canone 1,
+Concilii generalis vii, explicat ἀγαπητικῶς δεχόμεθα
+καὶ κατασπαζόμεθα. Forte tamen in sensu passivo
+accipi debet, pro circumdati ac pectus muniti ti-
+more Dei. Id.
+
+# block=17
+(7) Ὁμόστοιχον. Ms. Vind: ὁμοστοίχως, conve-
+nienter. Vulg. lectio et melior. Cler.
+(8) Χριστῷ τῷ Θεῷ. Uterque codex Vindob. Κῶ,
+hoc est, Κυρίῳ, quod rationi loquendi apostolorum
+est magis consentaneum, quam secutus esse vi-
+detur qui hunc fœtum apostolis supposuit; sed or-
+thodoxus Librarius Κυρίῳ mutavit in Θεῷ. Id.

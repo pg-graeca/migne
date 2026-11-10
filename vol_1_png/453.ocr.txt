@@ -1,0 +1,214 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,162,771,914,2730
+2,945,1829,1717,2735
+3,943,157,1677,456
+4,944,772,1707,1637
+5,949,1633,1698,1835
+6,158,158,909,496
+7,159,547,913,634
+8,949,549,1697,629
+9,777,722,1079,755
+11,665,98,1149,143
+12,157,105,213,144
+13,396,497,664,532
+14,1206,486,1426,532
+15,1617,94,1691,144
+16,187,642,897,686
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=16px
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+306
+
+# block=11
+EPISTOLA I AD CORINTHIOS.
+
+# block=12
+505
+
+# block=3
+quam ut unum ex electis meis scandalizaret 60 : me-
+lius erat, ut ei mola circumponeretur, et in mare de
+mergeretur, quam ut unum de pusillis meis scanda-
+lizaret 61. Schisma vestrum multos pervertit; mul
+tos in animi dejectionem, multos in vacillationem
+omnes nos in tristitiam conjecit : et adhuc seditic
+vestra persistit.
+
+# block=6
+τῷ ἀνθρώπῳ ἐκείνῳ· καλὸν ἦν αὐτῷ εἰ (14) οὐκ
+ἐγεννήθη, ἢ ἕνα τῶν ἐκλεκτῶν μου σκανδαλίσαι ·
+κρεῖττον ἦν αὐτῷ περιτεθῆναι μύλον, καὶ καταπον-
+τισθῆναι εἰς τὴν θάλασσαν, ἢ ἕνα τῶν μικρῶν μου
+σκανδαλίσαι. Τὸ σχίσμα ὑμῶν πολλοὺς διέστρεψεν,
+πολλοὺς εἰς ἀθυμίαν ἔβαλεν, πολλοὺς εἰς δισταγμὸν,
+τοὺς πάντας ἡμᾶς εἰς λύπην · καὶ ἐπίμονος ὑμῶν ἐστιν
+ἡ στάσις.
+
+# block=14
+CAPUT XLVII.
+
+# block=13
+ΚΕΦΑΛΑΙΟΝ MZ΄.
+
+# block=7
+᾿Αναλάβετε τὴν ᾿Επιστολὴν τοῦ μακαρίου Παύλου τοῦ
+ἀποστόλου. Τί πρῶτον ὑμῖν ἐν ἀρχῇ τοῦ Εὐαγγελίου (15)
+
+# block=8
+Sumite Epistolam beati Pauli apostoli. Quid
+primum vobis in principio Evangelii scripsit? Pro.
+
+# block=16
+⁶⁰ Matt. XVIII, 6. ⁶¹ Marc. IX, 41 ; Luc. XVII, 2.
+
+# block=9
+VARIORUM NOTÆ.
+
+# block=1
+asinariam alligari circa collum ejus, et præcipitari
+in profundum maris, quam ut scandalizet unum de
+pusillis istis; item ab auctore dialogorum contra
+Marcionistas, inter Origeniana opera, dialogo 1, post
+medium : Sic enim ipse Christus, sententiam tulit di-
+cens : Væ homini illi, per quem Filius hominis tradi-
+tur; melius erat illi, si natus non fuisset, vel post-
+quam natus esset, ut mola asinaria ei appenderetur,
+et in profundum maris demergeretur, necnon ab Hi-
+lario ad psalm. cxvui, 167 : Quia secundum Evan-
+gelium, utilius sit in vitam non venisse, qu.m scan-
+dalum minimis intulisse. Atque colligi potest ex lo-
+cis Tertulliani ac Origenis, nonnulla exemplaria
+evangelica habuisse περίδεται. Certe in Latino Eu-
+thymio legimus Lucæ xvII : Expedit illi, ut mola asi-
+naria alligetur ad collum ejus, idemque verbum in
+hoc Christi sermone usurpant non pauci, ut scri-
+ptor tractatus De cœna Domini, in Cyprianicis operi-
+bus; Hilarius in Matthæum, canone 18, Paulinus
+presbyter in Vita S. Ambrosii, et Hieronymus lib. I
+contra Jovinianum, cap. 13, ad Ezechielis capita
+XVI, xxxIII, xxxiv, ad Mich. III, et ad Malachiæ II.
+Quod si is, verba sunt tractatus ad Virginem lapsam,
+cap. 7, tom. IV S. Ambrosii, qui unum scandaliza-
+verit, mola circumligatus jactari debet in mare. Præ-
+dictæ porro compagis eruenda ratio ex Commenta-
+rio B. Hieronymi ad Matth. xvIII, 7 : Simulque, in-
+quit, per generalem sententiam percutitur Judas, qui
+proditioni animum præparaverat. COT. - An duos
+Evangelii ejusdem locos Clemens hic in unum. con-
+flasse censendus sit, merito quæratuur, ut quod
+Christus Matth. xvII de scandalorum auctore, et quod
+ibid. xxvi de Juda proditore dixit, simul conjunge-
+ret. Nempe et ab aliis, quos Cotelerius citat, simul
+utrumque conjunctum reperimus. Habes namque
+apud Tertullianum lib. Iv adv. Marcion., c. 35: Væ
+dicit auctori, etc. Apud Origenem vero homil. 25 in
+Numeros : Sicut et Dominus designat, etc. His con-
+cinit auctor dialogi 1 contra Marcionist. apud eum -
+dem Origenem post med. : Sic enim ipse Christus,
+etc. Denique Hilarius in psal. cxvIII, lit. 21, n. 6,
+docet, quia secundum Evangelium, utilius sit in vi-
+tam non venisse, quam scandalum minimis intulisse.
+Ex quo Hilarii loco, sicut ex superiore dialogi 1
+contra Marcionistas, et aliis apparet, olim sermoni
+Christi de proditione Judæ nonnulla etiam de scan-
+dalis scandalizantiumque pœnis fuisse adjuncta.Le-
+ctionis hujus quædam restant vestigia in veteri
+exemplari Græco colleg. Gonvill. et Caii Cant.citato
+inter variantes lectiones edit.. Oxon. Nempe Matth.
+xxvi, 24, ubi alii codices præseferunt : Οὐαὶ δὲ τῷ
+ἄνθρωπῳ ἐκείνῳ δι᾿ οὗ ὁ Υἱὸς τοῦ ἀνθρώπου παραδί-
+δοται, prædictum exemplar habet : Οὐαὶ δὲ τῷ ἀν-
+θρώπῳ δ;᾿ οὗ σκάνδαλα γίνονται καὶ ὁ Υἱὸς ἀνθρώ-
+που παραδίδεται. Tum sequitur in aliis codicibus,
+καλὸν ἦν αὐτῷ εἰ οὐκ ἐγεννήθη, etc. Quocirca nihil
+erat cur Artis criticæ auctor eadem Christi verba
+eodem modo apud Clementem, Strom., lib. III, pag.
+472 relata offendens, istud in loco superius citato
+
+# block=4
+pronuntiaret : Neminem esse puto, qui a se impe-
+trare possit, ut credat utrumque ( Clementem ) casu
+duo loca hæc conjunxisse et eodem modo immutasse,
+aut Clementem Alexandrinum citasse Evangelia ex
+Clemente Romano. Sed nihil vetat nos censere homi-
+nem, qui Alexandrini Clementis verba alibi miscuit
+cum verbis Scripturæ, ex eo témere hæc sumpsisse.
+Quod cum asserit, primum pro certo ponit hic ali-
+quid verbis evangelicis ab alterutro Clemente de suo
+fuisse adjectum. At ex mox citatis Patribus appa-
+ret, quædam olim vulgata fuisse Evangeliorum
+exemplaria, in quibus conjuncta erant duo illa loca,
+quæ Clemens Alexandrinus Romanusque conjun-
+gunt. Non igitur casu, sed ex hujusmodi exempla -
+rium fide ea ab utroque conjuncta jure credamus.
+Deinde nec illud certum, quod vir eruditus unico
+motus loco quem proxime expendimus, pro confes-
+so haberi vult, nuic Clementis Romani epistolæ
+quidquam, quod ex verbis Clementis Alexandrini
+sumptum esset, fuisse admistum. Contra indubita-
+tum est Clementem Alexandrinum e Clementis Ro-
+mani epistola multa fuisse mutuatum. Quare si al-
+terutrum ex altero hunc locum exscripsisse faten-
+dum est, ex hac epistola potius in Stromata, quam
+e Stomatibus in hanc epistolam translatum esse
+ratio suadet. COUST.
+
+# block=5
+(14) Αὐτῷ εἰ. Jun. aliique interponendum h. l.
+censent μᾶλλον. At cur ita demum? Neque enim sa-
+cer textus Matth. xxvi, 24, unde partem hanc sen-
+tentiæ Clemens procul dubio deduxit, neque Cle-
+mens Alex. qui hæc exscripsit, agnoscunt. Ita ferme
+Mill. et WotT. GALL.
+
+# block=2
+(15) Ἐν ἀρχῇ τοῦ Εὐαγγελίου. Hoc est, in-
+quiunt viri docti, in principio Epistolæ primæ ad
+Corinthios. Evangelii, scilicet, nomine comprehen-
+ditur totum Testamentum Novum, ut cernere est
+Constitut. apostolic., lib. I, c. 5, utque docet Ori-
+genes præfatione Commentariorum in Joannem.
+Unde ab eodem Adamantio ad Matth. xxi, 45, lo-
+cus I Cor. xII, 15, et a Gregorio Nysseno ad Theo-
+philum Alexandrinum contra Apollinarem, locus I
+Joann. v, 19, tanquam Evangelii citantur. Sit ergo
+in principio Evangelii, idem ac apud Clementis imi-
+tatorem Polycarpum, cap. 11 : In principio Episto-
+læ. Forte tamen principium Evangelii hic denotat
+prima prædicationis evangelicæ tempora. Philipp. I,
+5 : Ἐπὶ τῇ κοινωνίᾳ ὑμῶν εἰς τὸ Εὐαγγέλιον, ἀπὸ
+πρώτης ἡμέρας ἄχρι τοῦ νῦν. Et cap. IV, vers. 15 :
+Οἴδατε δὲ καὶ ὑμεῖς, Φιλιππήσιοι, ὅτι ἐν ἀρχῇ τοῦ
+Εὐαγγελίου, ὅτι ἐξῆλθον ἀπὸ Μακεδονίας, οὐδεμία
+μοὶ Ἐκκλησία ἐκοινώνησεν εἰς λόγον δόσεως καὶ λή-
+ψεως, εἰ μὴ ὑμεῖς μόνοι. Quare in hoc ipso capite
+Corinthiacam Ecclesiam noster ᾿Αρχαίαν appellat,
+ἐξ ᾿Αρχαίων χρόνων, ait Polycarpus initio Epistolæ
+suæ ad Philippenses. Quippe erant duæ istæ Eccle-
+siæ ex numero apostolicarum : Quæ ab apostolis
+fuerunt conditæ; quæ aliquem ex apostolis auctorem
+suum proferunt; quæ apostolorum alumnæ exstite-
+runt; quæque apostolicas epistolas accipere merue-

@@ -1,0 +1,16 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,337,1296,1745,2174
+2,339,1003,1730,1237
+4,342,335,1736,900
+7,615,928,1460,968
+8,332,2260,1727,2555
+9,1453,261,1730,294
+11,324,244,420,308
+
+# layer=format
+
+# layer=metadata

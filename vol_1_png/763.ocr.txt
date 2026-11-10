@@ -1,0 +1,215 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,963,1936,1724,2205
+2,191,2528,935,2700
+3,971,2196,1724,2564
+4,189,1932,947,2533
+5,189,402,939,1940
+6,971,2561,1718,2699
+7,966,397,1733,1935
+8,195,99,946,245
+9,810,325,1113,374
+10,227,271,504,308
+12,611,58,1297,103
+14,983,110,1729,260
+15,1659,68,1735,110
+16,197,54,267,98
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+925
+
+# block=12
+CONSTITUTIONES APOSTOLICÆ.—LIB. VI.
+
+# block=15
+926
+
+# block=8
+πων δογμάτων, (3) Κήρινθος, καὶ (4) Μάρκος, καὶ
+Μένανδρος, καὶ (5) Βασιλείδης, καὶ (6) Σατορνῖλος ⁷⁸⁷(7).
+Τούτων οἱ μὲν πολλοὺς θεοὺς (8), οἱ δὲ τρεῖς
+
+# block=14
+surdorum dogmatum auctores exstiterunt, Cerin-
+thus, Marcus, Menander, Basilides, et Saturnilus.
+Ex iis alii quidem celebrant plures deos; alii vero
+
+# block=10
+⁷⁸⁷ al. Στρατόνικος.
+
+# block=9
+VARIORUM NOTÆ.
+
+# block=7
+gelium confecerat, fortissime disseruit, prodens ejus
+universa mysteria, et prophetas enumerans, Barca-
+bam, et Barcop; et ad terrorem audientium alia
+quædam barbara nomina; et Deum maximum ejus
+Abraxas, qui quasi annum continens, juxta Græco-
+rum numerum supputetur. Moratus est autem Basi-
+lides, a quo Gnostici, in Alexandria, temporibus Ha-
+driani : qua tempestate et Chochebas (ms. Germani
+Chozehas ut in Historia Miscella), dux Judaicæ fac-
+tionis, Christianos variis suppliciis enecavit. Posui
+primo Barcop, loco Marcob, Barchob, vel Barchon
+in Freculfo; ut responderet Βαρκώφ Eusebii Hist. iv,
+7, ac Theodoriti Hæret. fabul. i, 4, quod ex Euse-
+bio Præpar. evang. x. 3; et Hieronymo epist. 155,
+interpretari licet filium vocationis. Secundo posui
+moratus est, non ut vulgo mortuus est; quia sic
+reperi in quinque codicibus manu exaratis, Regiis
+quatuor, et uno Bibliothecæ monachorum S. Ger-
+mani; et quia idem Hieronymus vertens Chronica
+Eusebii hoc modo loquitur : Basilides hæresiarchas
+in Alexandria commoratur : a quo Gnostici......
+Chochebas dux Judaicæ factionis nolentes sibi Chri-
+stianos adversum Romanum militem ferre subsidium,
+omnimodis cruciatibus necat. Nec enim ovum ovo
+similius, quam hæc duo loca inter se sunt. Quia
+denique ex Stromateo Clemente colligi datur lib.
+vii, p. 764, Basilidem usque ad tempora Antonini
+Pii vitam produxisse. Atque hinc patet, quemad-
+modum legi debeat in Hæreseon indiculo, qui Hic-
+ronymo tribuitur; scilicet : Contra hunc Basilidem
+Agrippa, cognomento Castor, vir valde doctus, scri-
+bit, prodens universa ejus mysteria, et prophetas enu-
+merans, Barcabbam, et Barcop, et ad terrorem au-
+dientium alia etiam nomina barbara, religione com-
+posita; nominans etiam Deum maximum Abraxas,
+quasi annum continentem, si juxta Græcorum nume-
+rum computetur. Nec minus claret, mendose apud
+Philastrium, ubi de Nicolao et Gnosticis, Barrabam
+vel Barrabbam locum occupare Barcabæ seu Bar-
+cabbæ : quod nominis auctore Epiphanio hæresi 26,
+num. 2, significat Syriace filium stupri, Hebraice fi-
+lium homicidii. Retrahendo denique syllabam fu-
+gitivam ne, scribendum in Anonymo, quem Sirmon-
+dus sub titulo Prædestinati vulgavit, hæresi 3 :
+Quod nomen Græca ratione litterarum in hanc sum-
+mam supputando pertingit. Id.
+
+# block=5
+(3) Κήρινθος. Nescit S. Epiphanius an Merinthus
+idem sit cum Cerintho, an alter ab illo ejusdem
+sententiæ hæreticus. Suspicari vero quis posset,
+Cerinthum per ludibrium et opprobrium accepisse
+nomen Merinthi, Μήρινθον, id est, laquei. Sed ar-
+bitrarium hoc sit : Haud dubium certe, quin Cerinthi
+nomen exciderit e scholis Maximi ad Dionysii epi-
+stolam 8, quod paraphrasis Georgii Pachymeræ,
+retinet, atque etiam mss. codices. Cot.
+(4) Μάρκος. De multis quæ ad Marcum hunc Magum
+pertinentia discimus ex Irenæi martyris opere Ad-
+versus hæreses, unum est, deceptio complurium fe-
+minarum ad Rhodanum per illius discipulos. Id
+mirum in modum verbis auget et amplificat Hiero-
+nymus Epistola 29, et sub finem 17 Commenta-
+riorum in Isaiam : nimiumque confidens memoriæ
+suæ, cum alia Irenæo affingit, tum profectionem
+Marci Ægyptii in Gallias et Hispanias. Jam quod
+hæresim Gnosticorum primus Hispanis intulerit
+Marcus Memphites; cujus auditores Agape et Hel-
+pidius Priscillianum instituerint, refertur a Severo :
+magna incuria temporum, si magum nostrum intel-
+ligit : incerta vero ac falsæ propiori fama, si alium :
+cum longe verisimilius fiat, imo tantum non con-
+stet, eam hæresim a Marci discipulis aut aliis Gno-
+sticis in Hispania seminatam, forsanque ibi conser-
+vatam latenter, pravo Agapes, Helpidii, Priscillia-
+ni, necnon aliorum studio repullulasse. Adeo ut
+occasione veteris Marci non satis cogniti, recentior
+iste Marcus hypobolimæus prodierit : nescio an cre-
+ditus quoque Idacio apud Isidorum cap. ii libri De
+Viris illustribus, tanquam Memphiticus, magiæ
+scientissimus, discipulus Manis, et magister Pris-
+cilliani : ita enim quidam codices Isidori; cum alii
+nonnulli codices ejusdem tractatus faciant Marcum
+Manis et Priscilliani magistrum, quod de antiquo
+dici queat. Confirmatur nostra opinio auctoritate
+Hieronymi, in locis citatis; itemque in Catalogo
+scriptorum ecclesiasticorum, ubi Priscillianus dici-
+tur accusari Gnosticæ, id est, Basilidis et Marci
+(ita veteres editiones cum libris Regiis) hæreseos,
+de quibus Irenæus scripsit. Cæterum a Marco hæ-
+retici, Justino sunt Marciani, Epiphanio Marcosii,
+Augustino Marcitæ, Marcunii in canone Nicæno
+Arabico 30. Turrianinæ editionis, denique Marco-
+sæi Damasceno atque Timotheo presbytero. Id.
+
+# block=4
+(5) Μένανδρος. Huic patria fuit כפרח, opinor :
+Græce κώμη Καππαρεταΐας, Καπαρατταίας, Καπ-
+παραττέας, Καπαρατέας (sic præstat legere in Ni-
+cephoro, quam Καπαρατέως), Καππαραθέας, Καπ-
+παραθέας, et Timotheo presbytero mss. Καπερέτας.
+Longius abit Theodoritus. Μένανδρος, inquit, Σα-
+μαρείτης, ἀπὸ Χαβραῒ κώμης. Quid si scriptum ab
+eo, Χαφράτ, et postea ex φ, factum β, ex ϊ, τ. Dicti
+autem sunt Menandri sectatores, Menandriani.
+Item Menandrianistæ ab Hegesippo Eusebianæ hi-
+storiæ lib. iv, cap. 22 : ἀπὸ τούτων Μενανδριανι-
+σταί : cujus vocis divisio in duas, quasi prima syl-
+laba esset particula μέν, peperit Adrianistas hære-
+ticos, cum Adriano hæresiarcha; ut videre est
+apud Theodoritum, Hæreticarum fabularum, lib. i,
+cap. 1; lib. ii in præfatione, apud Sophronium
+Epistola ad Sergium, et apud Nicephorum Hist. ec-
+cles. iv, 7. Id.
+
+# block=1
+(7) Σατορνῖλος. Quanto notissimus Saturninus,
+tanto obscurissimus qui marginem tenet Stratoni-
+cus, fictitius ut videtur hæreticus : nisi quis huc ha-
+riolando referre velit Stratioticos Epiphanii, Theo-
+doriti, Sophronii, Milites dictos Philastrio, quia de
+militaribus fuerunt, affines forsan Hæmatitis apud
+Clementem Alexandrinum Stromateo vii extre-
+mo. Id.
+
+# block=3
+(8) Οἱ μὲν πολλοὺς θεούς. Id est, αἰῶνας, cap.
+10. Epiphanius hæresi 31, n. 2 De Valentino, τριά-
+κοντα αἰῶνας, οὓς καὶ θεοὺς ὀνομάζει. Ante Epipha-
+nium, Origenes Homilia in librum Regnorum : Hære-
+ticorum quidam derelinquentes Creatorem mundi, et
+Filium ejus, fingunt sibi alium, nescio quem, excelsio-
+rem Deum, et alios similiter introducunt, sive quos
+αἰῶνας, sive quos deos appellant. Vide Tertullianum
+adversus Marcionem 5, et in adversus Praxeam. Vide
+etiam Ambrosium libro De incarnationis Dominicæ
+mysterio, cap. 4, et epistola 17.
+
+# block=2
+(6) Βασιλείδης. Accipe verba S. Hieronymi libro
+De scriptoribus Ecclesiasticis, sed emendatiora, meo
+quidem judicio, quam excusa sint. Agrippa cogno-
+mento Castor, vir valde doctus, adversum viginti
+quatuor Basilidis hæretici volumina, quæ in Evan-
+
+# block=6
+Tantos esse deos Basilidem credere jussit,
+Quantos... et dies annus habet.
+Poeta incertus lib. i contra Marcionem. Emendabis
+autem ex Tertulliano et Philastrio Augustinum :

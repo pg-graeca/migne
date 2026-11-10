@@ -1,0 +1,189 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,240,132,1000,1390
+2,1025,127,1792,1398
+3,243,2175,997,2710
+4,1023,2010,1782,2709
+5,275,1418,1047,1459
+6,638,88,1378,127
+7,241,1977,1000,2178
+9,246,85,299,129
+10,241,1574,997,1979
+11,855,1492,1165,1532
+13,1018,1580,1788,2010
+14,1721,90,1779,130
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=16px
+# block=7 fontSize=15px
+# block=9 fontSize=16px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+743
+
+# block=6
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=14
+744
+
+# block=2
+σύνολον, ἀλλὰ συνέρχεσθαι διηνεκῶς, καὶ μήτε τὴν
+Ἐκκλησίαν κολοβοῦν ἑαυτὸν ὑφαιροῦντα, καὶ παρὰ
+μέλος ποιεῖν τὸ σῶμα τοῦ Χριστοῦ· οὐ γὰρ μόνον περὶ
+ἱερέων ἐῤῥέθη, ἀλλὰ καὶ ἕκαστος τῶν λαϊκῶν περὶ
+ἑαυτοῦ ἀκουέτω, λογιζόμενος ὅτι εἴρηται ὑπὸ τοῦ Κυ-
+ρίου· « Ὁ μὴ (72) ὢν μετ’ ἐμοῦ, κατ’ ἐμοῦ ἐστι, καὶ
+ὁ μὴ συνάγων μετ’ ἐμοῦ, σκορπίζει. » Μὴ οὖν ἑαυ-
+τοὺς μέλη ὄντας τοῦ Χριστοῦ σκορπίζετε, μὴ συν-
+αθροιζόμενοι. Χριστὸν κεφαλὴν ἔχοντες (73), κατὰ τὴν
+ἐπαγγελίαν αὐτοῦ συνόντα καὶ κοινωνοῦντα (74) ἡμῖν,
+μὴ ἀμελεῖτε ἑαυτῶν, μηδὲ ἀποστερεῖτε τὸν Σωτῆρα
+τῶν οἰκείων μελῶν, μηδὲ διαιρεῖτε τὸ σῶμα αὐτοῦ,
+μηδὲ σκορπίζετὲ τὰ μέλη αὐτοῦ, μηδὲ προκρίνετε τοῦ
+θείου λόγου τὰς βιωτικὰς χρείας· ἀλλ’ ἑκάστης ἡμέ-
+ρας συναθροίζεσθε ὄρθρου καὶ ἑσπέρας, ψάλλοντες
+καὶ προσευχόμενοι ἐν τοῖς Κυριακοῖς· ὄρθρου μὲν
+λέγοντες ψαλμὸν τὸν ξβ', ἑσπέρας δὲ τὸν ρμ' (75).
+Μάλιστα δὲ ἐν τῇ ἡμέρᾳ τοῦ Σαββάτου, καὶ ἐν τῇ τοῦ
+Κυρίου ἀναστασίμῳ, τῇ Κυριακῇ, σπουδαιτέρως ἀπαν-
+τᾶτε, αἶνον ἀναπέμποντες τῷ Θεῷ τῷ ποιήσαντι τὰ ὅλα
+διὰ Ἰησοῦ, καὶ αὐτὸν εἰς ἡμᾶς (76) ἐξαποστείλαντι,
+καὶ συγχωρήσαντι παθεῖν, καὶ ἐκ νεκρῶν ἀναστή-
+σαντι. Ἐπεὶ τί ἀπολογήσεται τῷ Θεῷ ὁ μὴ συνερχό-
+μενος ἐν τῇδε τῇ ἡμέρᾳ ἀκούειν τοῦ σωτηρίου περὶ
+τῆς ἀναστάσεως λόγου ; ἐν ᾗ καὶ τρὶς εὐχὰς ἑστῶτες
+ἐπιτελοῦμεν (77), μνήμης χάριν τοῦ διὰ τριῶν ἀνα-
+στάντος ἡμερῶν· ἐν ᾗ προφητῶν ἀνάγνωσις, καὶ
+Εὐαγγελίου κηρυκεία, καὶ θυσίας ἀναφορά, καὶ τροφῆς
+ἱερᾶς δωρεά.
+
+# block=1
+veniat ; utque nullus subducendo se, Ecclesiam mu-
+tilet, corpusque Christi mancum faciat. Non enim
+de sacerdotibus duntaxat dictum est ; sed et quis-
+que laicus de se quoque intelligat, reputans quod a
+Domino dictum sit : « Qui non est mecum , contra
+me est, et qui non congregat mecum, spargit ³⁵. »
+Igitur vos ipsos, qui estis membra Christi, nolite
+spargere, fratrum cœtus non adeundo. Qui caput
+habetis Christum, juxta promissionem suam nobis
+fidelibus præsentem et consociatum, vestri curam ne
+projiciatis, nec Salvatorem suis membris privetis,
+nec illius corpus partiamini, nec membra ejusdem
+dispergatis, neque verbo Dei huic vitæ necessaria
+præponatis ; sed singulis diebus congregemini ,
+mane et vespere, psallentes et orantes in ædibus
+Dominicis, mane quidem dicentes psalmum sexa-
+gesimum secundum, vespere vero centesimum qua-
+dragesimum. ³⁶ Præcipue autem die Sabbati, et die
+qua Dominus resurrexit, hoc est Dominica, studio-
+sius ad ecclesiam occurrite, ut laudibus prosequa-
+mini Deum, qui condidit omnia per Jesum, eumque
+ad nos amandavit, pati permisit, ac ex mortuis su-
+scitavit. Qua enim expurgatione apud Deum utetur,
+qui ad audiendum salutarem de resurrectione
+sermonem non convenit in die Dominico? in quo et
+tres precationes stando peragimus, ad memoriam
+illius, qui in triduo resurrexit : et in quo habentur
+lectio prophetarum, Evangelii prædicatio, sacrificii
+oblatio, et sacri cibi donum.
+
+# block=5
+³⁵ Matth. xɪɪ, 30. ³⁶ l. Ignat. interpol. ad Magnes. 9.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=10
+dotes extra ordinem pro ecclesiarum necessitatibus
+indicebant. Tandem mos inolevit, ut quotidie pu-
+blicæ preces fierent, mane et vespere, ἑωθινοὶ ὕμνοι,
+προσευχαὶ ἑωθιναὶ, λυχνικοί τε ἅμα ψαλμοὶ, καὶ προσ-
+ευχαί, inquit B. Epiphanius cap. antepenult. Expo-
+sitionis fidei : utque recitarentur quas vocant Horas
+canonicas, de quibus inferius : et ut multis in Eccle-
+siis quotidianum sacrificium, quotidiana missa,
+quotidiana oblatio, locum haberet ; quemadmodum
+docemur per canonem 5 concilii Toletani primi,
+per sermonem Ambrosii 34, et per epistolam Augu-
+stini 118. ᴄᴏᴛ.
+
+# block=13
+Καριθὶ, Ἰσμαὴλ Ἰεββιτὰ Ἀκώλ· ἃ ἐστιν ἑρμη-
+νευόμενα· Κύριε, ἐξέκραξα πρὸς σὲ, εἰσάκουσόν
+μου, πρόσχες τῇ φωνῇ. In centesimo quadragesimo
+psalmo locus est qui sic Hebraice legitur: « Adonai,
+Elicha Carithi, Ismael Jebbita Haco!. » Hoc est :
+« Domine, clamavi ad te, exaudi me, intende voci. »
+Ad quæ notat Croius cap. 12 Observationum in No-
+vum Testamentum, aliter in Hebræo Scripturæ con-
+textu legi, nimirum : Ἀδωναῒ, Κερατιχὰ, Οὔσα Λὶ,
+Ἀαζινὰ Κωλί, et Ἰσμαὴλ Ἰεββιτά, voces nihili mu-
+tari debere in Σεμὰ Ἠλί. Ἐκσιβά. Mihi vero longius
+petitum videtur verbum Ἐκσιβά· magisque placet
+Ἐββιτά pro Ἀββιθά, הביטה. ᴄᴏᴛ.
+
+# block=7
+(72) Ὁ μή. Præfigitur ὅτι, quod præmittitur etiam
+orationi directæ, quamvis omitti quoque possit, ex
+altero cod. Vindobon. ᴄʟᴇʀ.
+(73) Ἔχοντες. Alter cod. ἔχετε. ɪᴅ.
+(74) Κοινωνοῦντα. In eodem ms. συνοικοῦντα
+ὑμῖν. ᴄᴏᴛ.
+
+# block=4
+(76) Εἰς ἡμᾶς. Desunt in altero cod. Vind. ᴄʟᴇʀ.
+(77) Τρὶς vel τρεῖς εὐχὰς ἑστῶτες ἐπιτελοῦμεν.
+Et trium precum mentio in canone 19 Laodicenæ
+synodi. Et scripserat in libro De Paschate S. Ire-
+næus, teste auctore Quæstionum ad Orthodoxos, cap.
+115, apud Justinum martyrem, cœpisse a tempori-
+bus apostolicis consuetudinem non flectendi genu
+in die Dominico. De geniculis non adorare , inquit
+Hieronymus Contra Luciferianos cap. 4, post Tertul-
+lianum De corona cap. 3. Is mos apostolicus inter-
+mittendæ genuflexionis eo die, ac precandi corpore
+stante et erecto, non autem strato ac inclinato , in-
+dicatur etiam atque exponitur ab Hiiario, Prologo
+in psalmos; Petro Alexandrino, Oratione de Paschate;
+Basilio cap. 27, libri De Spiritu sancto ; Augustino,
+epist. 119, cap. 15, 17; Cassiano lib. ɪɪ De insti-
+tutis cœnobiorum cap. 18, et collatione 21, cap. 20;
+Maximo Taurinensi, sermone 3 De Pentecoste, qui
+est inter Ambrosianos 60; Martino Bracarensi, Col-
+lectionis canonum cap. 57; Patribus Trullanæ sy-
+nodi canone 90; concilii Turonensis 3, can. 37; et
+
+# block=3
+(75) Ὄρθρου μὲν λέγοντες ψαλμὸν τὸν ξβ', ἑσ-
+πέρας δὲ τὸν ρμ'. Lib. ᴠɪɪɪ, cap. 35: τὸν ἐπιλύχνιον
+ψαλμόν, et cap. 37: τὸν ὄρθρινον. De quibus psalmis
+videndi præter recentiores, Athanasius Epistola ad
+Marcellinum, pag. 975, et libro De virginitate, p. 1057;
+Chrysostomus in psalmum ᴄxʟ, paulo post initium;
+Cassianus De cœnobiorum institutis lib. ɪɪɪ, cap. 5,
+6; Benedictus Regulæ suæ cap. 12, 18; Aurelianus
+in Ordine psallendi, et Amalarius De eccles. off. lib.
+ɪᴠ, cap. 10. Quod si mihi concedatur aliquid extra
+rem loqui, conabor medelam afferre loco S. Epi-
+phanii circa psal. ᴄxʟ, qui locus non infeliciter per
+Joannem Croium tentatus fuit. En verba Cyprii
+præsulis, posita in libro De ponderibus et mensuris
+cap. 6: Ἐν τῷ ἑκατοστῷ τεσσαρακοστῷ ψαλμῷ
+ἔκειτο ἐν τῷ Ἑβραϊκῷ οὕτως· Ἀδωναῒ, Ἠλιχὰ

@@ -1,0 +1,170 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,138,1970,891,2700
+2,919,1969,1663,2267
+3,919,2298,1660,2565
+4,138,152,894,1740
+5,950,2562,1657,2702
+6,917,150,1668,1743
+7,139,1789,1663,1860
+8,745,1898,1048,1933
+9,554,96,1255,132
+10,953,2265,1468,2300
+11,143,96,231,140
+12,1609,94,1689,140
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+rum ingrediebantur, festisque eorum et spectaculis
+intererant. Unde frequentes antiquorum querelæ ac
+censuræ. Unde etiam de Ægyptiis scribitur ab
+Adriano imperatore apud Vopiscum in Vita Satur-
+nini : Qui Serapin colunt, Christiani sunt, et devoti
+sunt Serapi, qui se Christi episcopos dicunt, etc. Ve-
+rum meliores Christiani omnia ejusmodi penitus vi-
+tabant et aversabantur. Nec templa circumitis, ait
+Tertullianus II De cultu feminarum XI,nec spectacula
+postulatis, nec festos dies gentilium nostis. Quin
+etiam in Severo negat S. Martinus se gentilis do-
+mum adire posse. De voce autem μιαρόν videto quod
+notavi ad caput 9 S. Barnabæ. Omitterem porro
+cum aliis testimoniis locum S. Irenæi lib. 1, cap. 1,
+nisi vetus illius interpres aurem velleret, exigeret-
+que opellam meam. Etenim Græcis apud Epipha-
+nium hæresi 31, cap. 21: Καὶ ἐπὶ πᾶσαν ἑορτάσιμον
+τῶν ἐθνῶν τέρψιν εἰς τιμὴν τῶν εἰδώλων γινομένην
+πρῶτοι συνίασιν, ὡς μηδὲ τῆς παρὰ Θεῷ καὶ ἀνθρώ-
+ποις μεμισημένης τῆς τῶν θηριομάχων καὶ μονομα-
+χίας ἀνδροφόνου θέας ἀπέχεσθαι ἐνίους αὐτῶν. His,
+inquam, Græcis non respondent Latina librorum
+
+# block=2
+impressorum : Et in omnem diem festum ethnicorum
+pro voluntate in honore idolorum factum primi con-
+veniunt (Valentiniani), uti in nihilo quidem absti-
+neant, quod est apud Deum et apud homines odiosum
+muneris homicidiale spectaculum. Itaque quo respon-
+deant, sensumque probum obtineant, voluntate mu-
+tari debet in voluptate, quæ τέρψις Græce dicitur,
+et post abstineant addendum est, ab eo. Nihil cer-
+tius. COT.
+
+# block=3
+(98) Ἐπὶ καθέδραν λοιμῶν. Post multos, λοιμῶν
+adjective non substantive accepi. Apposite vero ad
+Constitutoris mentem Philastrius cap. 79, partis
+tertiæ, exponit verba Davidis, hunc in modum : Bea-
+tus vir qui non abiit in consilio impiorum, id est
+paganorum; et in via peccatorum non stetit, quippe
+Judæorum; et in cathedra pestilentiæ non sedit,
+utique hæreticorum. COT.
+
+# block=4
+εἰς συναγωγὴν Ἰουδαίων, ἢ αἱρετικῶν· ὁ τοιοῦτος τί
+ἀπολογήσεται τῷ Θεῷ, ἐν ἡμέρᾳ κρίσεως; λόγια
+Θεοῦ ζῶντος καταλιπών, ζῶντα καὶ ζωοποιοῦντα καὶ
+δυνάμενα ῥύσασθαι κολάσεως αἰωνίου· καὶ πορευθεὶς
+εἰς οἶκον δαιμόνων, ἢ εἰς (97) συναγωγὴν Χριστοκτό-
+νων, ἢ ἐκκλησίαν πονηρευομένων· οὐκ ἀκούσας τοῦ
+εἰπόντος· ‹ Ἐμίσησα ἐκκλησίαν πονηρευομένων, καὶ
+μετὰ παρανομούντων οὐ μὴ εἰσέλθω· οὐκ ἐκάθισα μετὰ
+συνεδρίου ματαιότητος, καὶ μετὰ ἀσεβῶν οὐ μὴ καθίσω. ›
+Καὶ πάλιν· ‹ Μακάριος ἀνὴρ, ὃς οὐκ ἐπορεύθη ἐν βουλῇ
+ἀσεβῶν, καὶ ἐν ὁδῷ ἁμαρτωλῶν οὐκ ἔστη, καὶ ἐπὶ καθέ-
+δραν λοιμῶν (98) οὐκ ἐκάθισεν· ἀλλ’ ἢ ἐν τῷ νόμῳ Κυ-
+ρίου τὸ θέλημα αὐτοῦ, καὶ ἐν τῷ νόμῳ αὐτοῦ μελετήσει
+ἡμέρας καὶ νυκτός. › Σὺ δὲ καταλιπὼν τῶν πιστῶν τὸ
+συνάθροισμα, τοῦ Θεοῦ τὴν Ἐκκλησίαν, τοὺς ἐκείνου
+νόμους, ἐπιβλέπεις ἐπὶ τὰ σπήλαια τῶν λῃστῶν, ἅγια
+ἡγούμενος ἃ ἐκεῖνος βέβηλα ἀπεκάλεσε, καὶ κοι-
+νοποιῶν ἃ ἐκεῖνος ἀπεχώρισε (99)· καὶ οὐ τοῦτο
+μόνον, ἀλλ’ ἤδη καὶ πομπαῖς Ἑλλήνων συντρέ-
+χεις, καὶ ἐπὶ τὰ θέατρα ἐπείγῃ, ἐπιθυμήσας εἷς τῶν
+εἰσπορευομένων ἐκεῖ λογισθῆναι, καὶ μετασχεῖν
+ἀκροαμάτων ἀπρεπῶν, ἵνα μὴ λέγωμεν μυσαρῶν·
+μὴ ἀκούσας τοῦ Ἱερεμίου λέγοντος· ‹ Κύριε, οὐκ ἐκά-
+θισα ἐν συνεδρίῳ (100) αὐτῶν παιζόντων, ἀλλ’ εὐ-
+λαβούμην ἀπὸ προσώπου χειρός σου· › καὶ τοῦ Ἰὼβ
+φάσκοντος τὰ ὅμοια· ‹ Εἰ δὲ καὶ μετὰ γελοιαστῶν
+ἐπορεύθην ποτέ· ἱστάμην (1) γὰρ ἐν ζυγῷ δικαίῳ. ›
+Τί δὲ βούλῃ μετασχεῖν τῶν Ἑλληνικῶν λόγων, ὄν-
+των νεκρῶν ἀνθρώπων ἐξ ἐπιπνοίας διαβόλου ἀπο-
+φανθέντων νεκροποιά (2), καὶ πίστεως ἀνατρεπτικά,
+καὶ πρὸς πολυθεΐαν ἀπάγοντα τοὺς προσανέχοντας
+αὐτοῖς; Ὑμεῖς οὖν σχολάζοντες τοῖς τοῦ Θεοῦ νόμοις,
+καὶ τῶν βιωτικῶν χρειῶν τούτους ἡγεῖσθε τιμιωτέ-
+ρους· καὶ πλείονα τιμὴν νέμοντες αὐτοῖς, συντρέ-
+χετε εἰς τὴν Ἐκκλησίαν τοῦ Κυρίου· ἣν περιεποιή-
+σατο τῷ αἵματι τοῦ Χριστοῦ, τοῦ ἠγαπημένου, τοῦ
+πρωτοτόκου πάσης κτίσεως. Αὕτη γὰρ θυγάτηρ ἐστὶ
+
+# block=5
+(99) Ἀπεχώρισε. Alter cod. ἐχώρισε. ID.
+(100) Ἐν συνεδρίῳ. Μετὰ συνεδρίου. alter cod. ID.
+(1) Ἱστάμην. Ἕσταμαι, in altero cod. ID.
+(2) Νεκροποιά. Ἅτινά ἐστι νεκροποιά, alter cod.
+
+# block=6
+rum fanum intraverit, aut in synagogam Judæorum
+vel hæreticorum; is quam in die judicii Deo afferet
+defensionem? ⁴² cum dereliquerit Dei viventis ora-
+cula, vitam et habentia et communicantia, quæque
+ab æterno supplicio possunt liberare; et ad ædem
+dæmonum, aut ad synagogam Christicidarum, aut
+ad ecclesiam malignantium se contulerit; non au-
+dito eo qui dicit : ‹ Odio habui ecclesiam malignan-
+tium; et cum iniqua gerentibus non introibo : non
+sedi cum concilio vanitatis, et cum impiis non se-
+debo ⁴³. › Et iterum : ‹ Beatus vir, qui non abiit
+in consilio impiorum; et in via peccatorum non
+stetit, et in cathedra pestilentium non sedit :
+sed in lege Domini voluntas ejus, et in lege ejus
+meditabitur die ac nocte ⁴⁴. › Tu vero relinquens
+fidelium cœtum, Ecclesiam Dei, et leges divinas,
+respicis ad speluncas latronum; sancta ducis quæ
+ille profana vocavit, et communia facis quæ ille
+dispescuit; neque id solum designas, sed et jam ad
+pompas gentilium concurris, et ad theatra pro-
+peras, cupisque unus eo accedentium reputari,
+nec non particeps fieri indecorarum recitationum,
+ne dicamus abominandarum; nec auscultas Jere-
+miæ dicenti : ‹ Domine, non sedi in consessu eo-
+rum ludentium; sed metuebam a facie manus
+tuæ ⁴⁵; › neque Jobo paria loquenti : ‹ Si vero in-
+cessi cum scurris unquam, appendebar enim in sta-
+tera justa ⁴⁶. › Quid vero vis tecum communicari
+gentilium litteras, quæ sunt hominum mortuorum,
+diaboli instinctu tradentium dogmata mortifera,
+fidem subvertentia, et ad errorem multitudinis
+deorum, in illas intentos abducentia? Vos itaque
+Dei legibus vacantes, has putate præstantiores
+usibus vitæ; et plus eis honoris impertientes, ad
+Ecclesiam Dei concurrite, quam acquisivit sanguine
+Christi ⁴⁷, dilecti, et primogeniti omnium creatu-
+rarum ⁴⁸. Hæc enim est filia Altissimi, quæ vos per
+
+# block=7
+⁴² I. Ignat. interpol. ad Trall. 11. ad Philad. 6. ⁴³ Psal. xxv, 4, 5. ⁴⁴ Psal. i, 1. ⁴⁵ Jer. xv, 17.
+⁴⁶ Job. xxxi, 5. ⁴⁷ Act. xx, 28. ⁴⁸ Col. i, 15.
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=9
+CONSTITUTIONES APOSTOLICÆ. — LIB. II.
+
+# block=10
+(97) Εἰς. Deest in altero cod. CLER.
+
+# block=11
+749
+
+# block=12
+750

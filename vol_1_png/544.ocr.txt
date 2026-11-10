@@ -1,0 +1,145 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,265,2566,1800,2710
+2,678,97,1400,134
+3,260,156,1012,2544
+5,262,101,314,139
+6,1046,152,1803,2547
+7,1733,94,1805,132
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+⁷⁵ tuendis. ⁷⁶ S. Greg. in Sacram. cap. De ord. subdiaconi. ⁷⁷ comptam, ita ms. ⁷⁸ fractus.
+⁷⁹ voluptates. ⁸⁰ contempsit. ⁸¹ Luc. xii, 19, 20. ⁸² timore. ⁸³ Aug. in Ps. ix, apud Prosperum, sent.
+138. ⁸⁴ Jerem. xlviii. ⁸⁵ Prosper. sent. 178. Calixt. ep. 1. ⁸⁶ 2. Quæst 7, Sacerdotes, et reliqui.
+⁸⁷ Justinia. de 3 capitulis. ⁸⁸ Gen. ix. ⁸⁹ corporalem. ⁹⁰ Jer. ii.
+
+# block=2
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=3
+eligantur clerici, qui digne possint Dominica sacra-
+menta tractare. Melius est enim Domini sacerdoti
+paucos habere ministros, qui possint digne opus
+Dei exercere, quam multos inutiles, qui onus grave
+ordinatori adducant. A principio epistolæ usque ad
+hunc locum, de sacramentis delegavi bene intuen-
+dis ⁷⁵ : ubi non murium stercora inter fragmenta
+Dominicæ portionis appareant, neque ⁷⁶ putrida per
+negligentiam remaneant clericorum, et convenien-
+tes, qui accipere sibi medicinam desiderant, pu-
+trida cum viderint, magis cum ridiculo et fastidio
+videantur accipere, et in peccatum magis decidant
+per negligentiam clericorum. Quapropter nemo
+clericorum ultra hæc dissimulet, aut negligere ul-
+latenus audeat, sed libenter, quæ jussa sunt, ex-
+pleat, et sacramenta divina nequaquam negligenter
+contrectet. Ideoque tam juvenes quam senes de his,
+et de omni conversatione sua, et conversione, et
+pœnitentia valde esse sollicitos oportet, satisque
+agere, ut, hæc condigne agant, et de reliquo or-
+nent tam clerici quam sæculares animas suas or-
+namentis dignissimis, dogmatibus scilicet veritatis,
+decore pudicitiæ, splendore justitiæ, candore pieta-
+tis, aliisque omnibus, quibus compositam ⁷⁷ decet
+esse rationabilem mentem. Tum præterea declinare
+a consortiis inhonestis et infidelibus, et societates
+habere fidelium, atque illos frequentare conventus,
+in quibus de pudicitia, de justitia, de pietate tra-
+ctatur. Orare semper Deum ex toto corde, et ab
+ipso petere quæ decet, ipsi gratias agere, veram
+pœnitudinem gerere præteritorum gestorum, ali-
+quantulum etiam, si possibile est, per misericor-
+dias pauperum juvare pœnitentiam. Per hæc enim
+facilior venia dabitur, et indulgenti citius indulge-
+bitur. Quod si provectioris ætatis sit is, qui ad
+pœnitentiam venit, eo magis gratias agere debet
+Deo, quod postquam finis ⁷⁸ est omnis impetus con-
+cupiscentiæ carnalis, scientia veritatis accepta,
+nulla ei imminet pugna certaminis, per quam, in-
+surgentes adversus animam, reprimat corporis vo-
+luntates ⁷⁹. Superest ergo ei in agnitione veritatis,
+et misericordiæ operibus exerceri, ut afferat fru-
+ctus dignos pœnitentiæ. Nec putet, quia in tempo-
+ris longitudine documentum conversionis ostendi-
+tur, et non in devotionis ac propositi firmitate. Deo
+enim manifestæ sunt mentes, quia non temporum
+rationem colligit, sed animorum. Ipse enim probat,
+si quis, agnita veritatis prædicatione, non distulit,
+neque tempus negligendo consumpsit ⁸⁰, sed statim
+et, si dici potest, eodem momento præterita per-
+horrescens, futurorum desiderium cepit, et in amo-
+rem regni cœlestis exarsit. Propter quod nemo ve-
+strum ultra dissimulet, nec retro respiciat, sed ad
+Evangelium regni Dei libenter accedat. Non di-
+cat pauper : Quia, cum dives factus fuero, tunc
+
+# block=5
+487
+
+# block=6
+convertar. Non requirit a te Deus pecuniam, sed
+animum misericordem et piam mentem. Neque dives
+conversionem suam differat pro sollicitudine sæcu-
+lari, dum cogitat quomodo dispenset abundantiam
+frugum. Neque dicat intra semetipsum : Quid fa-
+ciam? ubi recondam fructus meos? Neque dicat
+animæ suæ: Habes multa bona reposita in annos mul-
+tos, epulare et lætare. Nam dicetur ei : Stulte, hac
+nocte auferetur abs te anima tua, et quæ parasti cu-
+jus erunt ⁸¹ ? Itaque festinet ad pœnitentiam omnis
+ætas, omnis sexus omnisque conditio, ut vitam
+consequatur æternam. Juvenes quidem in eo grati
+sint, quod in ipso impetu desideriorum, cervices
+suas jugo subjiciunt disciplinæ. Senes et ipsi lau-
+dabiles, quia multi temporis consuetudinem, in
+qua male præventi sunt, pro Dei amore ⁸² commu-
+tant. Nemo ergo differat, nemo cunctetur. ⁸³ Quæ
+enim causa cunctandi est ad bene agendum? Ani-
+mus sibi male conscius, dum videtur sibi nullam
+pœnam pati, credit quia non judicet Dominus;
+cum abuti patientia Dei, et non intelligere parcen-
+tis benignitatem, jam sit magna damnatio. Unde
+scriptum est : Maledictus omnis qui opus Domini
+negligenter agit ⁸⁴. Quapropter pastoralis ordinis
+est, infatigabiliter revocare, quidquid ad corre-
+ctionem populorum, imo magis filiorum spiritua-
+lium quantum est fas intelligere, cognoverit per-
+tinere, et non, quod absit! cum suo periculo alie-
+næ spei per solam negligentiam facere detrimen-
+tum; sed quod ad generalis salutis spectat com-
+pendium, salubri necesse est providere tractatu.
+⁸⁵ Homini religioso parum esse debet inimicitias
+aliorum non exercere, vel non augere male lo-
+quendo, nisi eas etiam exstinguere bene loquendo
+studuerit. ⁸⁶ Ecce oris nostri buccina ad aures ho-
+minum personamus, neque se deinceps excusabit
+non monitum, qui, quod sequi debeat, tam verbis
+quam litteris edocetur. ⁸⁷ Qualis autem condemna-
+tio, et qualis imminet maledictio his qui in patres
+peccant, divina nos docet Scriptura. Si enim Cham
+filius Noe ⁸⁸, cum vidisset nudum suum patrem,
+quoniam non cooperuit patris corporalis ⁸⁹ nudita-
+tem, sed egressus, nuntiavit eam fratribus, et illi
+vestimento eum cooperuerunt; ipse quidem Cham
+et illi qui ex eo nati sunt, sub maledicto facti
+sunt; qui autem cooperuerunt, magnam benedictio-
+nem meruerunt; multo magis isti majore et am-
+pliore condemnatione digni sunt qui patribus ob-
+viare, aut contra eos insurgere nituntur, aut inju-
+riam vel contumeliam eis inferre moliuntur; quo-
+niam qui eis resistit, Deo resistit, et qui eis inju-
+riam vel contumeliam facit, Deo, cujus legatione
+funguntur, facit : Expavit cœlum super hoc, et hor-
+ruit amplius vehementer, dicit Dominus ⁹⁰. O intole-
+rablem malignitatem! o linguam loquentem ini-
+
+# block=7
+488

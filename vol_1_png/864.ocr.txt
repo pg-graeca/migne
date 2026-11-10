@@ -1,0 +1,225 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,248,785,989,1732
+2,251,202,992,624
+3,1024,788,1788,1728
+4,1021,2100,1773,2665
+5,1028,203,1776,625
+6,847,1853,1147,1887
+7,246,2561,985,2666
+8,504,637,732,669
+9,255,677,993,781
+10,1018,1903,1767,2039
+11,397,120,843,157
+12,1023,2037,1766,2102
+13,1021,680,1778,780
+14,244,1899,988,2565
+15,669,64,1374,101
+16,255,63,327,96
+17,1255,120,1519,151
+19,277,1790,1409,1827
+20,1117,158,1683,206
+21,1695,64,1773,110
+22,1265,630,1545,672
+23,381,158,853,198
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+1127
+
+# block=15
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=21
+1128
+
+# block=11
+CAPUT XXXI.
+
+# block=17
+ΚΕΦΑΛΑΙΟΝ ΛΑ'.
+
+# block=23
+Ejusdem, de iis quæ supersunt.
+
+# block=20
+Τοῦ αὐτοῦ (12) περὶ περισσευμάτων.
+
+# block=2
+Idem, de reliquiis constituo. Eulogias quæ in
+mysticis oblationibus supersunt, diaconi ex volun-
+tate episcopi aut presbyterorum distribuant clero;
+episcopo partes quatuor, presbytero partes tres,
+diacono partes duas; cæteris vero, subdiaconis, vel
+lectoribus, vel cantoribus, vel diaconissis, partem
+unam. Id enim pulchrum et coram Deo acceptum
+est, unumquemque secundum suam dignitatem ho-
+norari : nam Ecclesia non confusionis, sed ordinis
+est schola.
+
+# block=5
+Ὁ αὐτὸς, περὶ περισσευμάτων διατάσσομαι. Τὰς
+περισσευούσας ἐν τοῦς μυστικοῖς εὐλογίας (15), κατὰ
+γνώμην τοῦ ἐπισκόπου ἢ τῶν πρεσβυτέρων οἱ διά-
+κονοι διανεμέτωσαν τῷ κλήρῳ· τῷ ἐπισκόπῳ μέρη
+τέσσαρα, πρεσβυτέρῳ μέρη τρία, διακόνῳ μέρη δύο·
+τοῖς δὲ ἄλλοις, ὑποδιακόνοις, ἢ ἀναγνώσταις, ἢ ψάλ-
+ταις, ἢ διακονίσσαις, μέρος ἕν. Τοῦτο γὰρ καλὸν
+καὶ ἀπόδεκτον ἐνώπιον τοῦ Θεοῦ, ἕκαστον τιμᾶσθαι
+κατὰ τὴν αὐτοῦ ἀξίαν· ἡ γὰρ Ἐκκλησία οὐκ ἀτα-
+ξίας, ἀλλ' εὐταξίας ἐστὶ διδασκαλεῖον.
+
+# block=22
+ΚΕΦΑΛΑΙΟΝ ΛΒ'.
+
+# block=8
+CAPUT XXXII.
+
+# block=9
+Varii canones Pauli apostoli de iis qui accedunt ad
+baptismum; quos oporteat admittere, et quos re-
+jicere.
+
+# block=13
+Κανόνες (14) διάφοροι Παύλου τοῦ ἀποστόλου,
+περὶ τῶν προσἰόντων τῷ βαπτίσματι, τίνας
+δεῖ προσδέχεσθαι, καὶ τίνας ἀποβάλλεσθαι.
+
+# block=1
+Et ego Paulus, apostolorum minimus ⁵⁴, hæc de
+canonibus constituo vobis episcopis et presbyteris.
+Qui primo ad mysterium pietatis accedunt, epi-
+scopo vel presbyteris per diaconos adducantur; et
+causas exquirantur quare se ad verbum Domini
+adjunxerint : quique obtulerunt, testimonium eis
+præbeant, diligenter exploratis quæ ad eos spe-
+ctant. Examinentur autem eorum mores ac vita;
+et an servi sint, vel liberi. Atque si fidelis seu
+Christiani servus fuerit, interrogetur dominus ejus,
+utrum ei testimonium perhibeat : si non perhibet,
+rejiciatur, donec domino probaverit dignum se
+esse; si vero ei perhibet testimonium, admittatur.
+Quod si ethnici sit famulus, doceatur placere do-
+mino, ut Verbum et Christiana religio non asper-
+gatur infamia ⁵⁵. ⁵⁶ Rursus si habet uxorem, aut
+mulier virum; edoceantur se mutuo, conjuges, esse
+contenti; sin vero non sunt matrimonio conjuncti,
+discant non scortari, sed legitimo sociari connubio.
+Si autem dominus ejus, cum sit fidelis, et sciat
+quod ille scortetur, non dat ei uxorem, aut mulieri
+virum, excommunicetur. Si quis vero dæmonem
+
+# block=3
+Κἀγὼ Παῦλος ὁ τῶν ἀποστόλων ἐλάχιστος, τάδε
+διατάσσομαι ὑμῖν τοῦς ἐπισκόποις καὶ πρεσβυτέροις,
+περὶ κανόνων. Οἱ πρώτως προσἰόντες τῷ μυστηρίῳ
+τῆς εὐσεβείας, διὰ τῶν διακόνων προσαγέσθωσαν
+τῷ ἐπισκόπῳ ἢ τοῖς πρεσβυτέροις· καὶ τὰς αἰτίας
+ἐξεταζέσθωσαν, δἰ ὃς χάριν προσῆλθον τῷ Κυριακῷ
+λόγῳ· οἵ τε προσενεγκόντες μαρτυρείτωσαν αὐτοῖς,
+ἀκριβώσαντες τὰ κατ' αὐτούς. Ἐξεταζέσθωσαν δὲ
+αὐτῶν καὶ οἱ τρόποι, καὶ ὁ βίος, καὶ εἰ δοῦλοί εἰσιν
+ἢ ἐλεύθεροι. Καὶ ἐὰν πιστοῦ δοῦλος ᾖ, ἐρωτάσθω ὁ
+κύριος αὐτοῦ, εἰ μαρτυρεῖ αὐτῷ· ἐὰν δὲ μή, ἀποβαλ-
+λέσθω, ἕως ἂν ἑαυτὸν ἄξιον ἐπιδείξῃ τῷ δεσπότῃ· εἰ
+δὲ μαρτυρεῖ αὐτῷ, προσδεχέσθω. Εἰ δὲ ἐθνικοῦ (15)
+ᾖ οἰκέτης, διδασκέσθω εὐαρεστεῖν τῷ δεσπότῃ, ἵνα
+μὴ βλασφημῆται ὁ Λόγος. Εἰ μὲν οὖν ἔχει γυναῖκα,
+ἢ ἡ γυνὴ ἄνδρα, διδασκέσθωσαν ἀρκεῖσθαι ἑαυτοῖς· εἰ
+δ' ἀγαμοί εἰσι, μανθανέτωσαν μὴ πορνεύειν, ἀλλὰ
+γαμεῖν νόμῳ. Εἰ δ' ὁ δεσπότης αὐτοῦ πιστὸς ὤν, καὶ
+εἰδὼς ὅτι πορνεύει, οὐ δίδωσιν αὐτῷ γυναῖκα, ἢ
+τῇ γυναικὶ ἄνδρα, ἀφοριζέσθω. Ἐὰν δέ τις δαίμονα
+ἔχῃ, διδασκέσθω μὲν τὴν εὐσέβειαν, μὴ προσδεχέσθω
+δὲ εἰς κοινωνίαν (16) πρὶν ἂν καθαρισθῇ· εἰ δὲ δά-
+
+# block=19
+⁵⁴ I Cor. xv, 9. ⁵⁵ Tit. II. ⁵⁶ Ignat. ad Polyc. 5; pseudo-Ignat. ad. Heron. 5.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=14
+(12) Τοῦ αὐτοῦ. Locum hujus inscriptionis obti-
+nent quinque primæ capitis voces. CLER.
+(15) Τὰς περισσευούσας ἐν τοῖς μυστικοῖς εὐ-
+λογίαις. Intellige quidquid panis et vini oblatum
+fuerit a populo, nec fuerit a sacerdote consecratum.
+Joannes Moschus, Prati spiritualis cap. 25 : Ἐπέμ-
+φθη ἐνέγκαι εὐλογίας ἀπὸ Ἱεριχὼ, καὶ βαστάζων
+τὰς εὐλογίας, et cætera, quæ velim legas. In So-
+crate, Hist. lib. VII, cap. 2, de Chrysantho Nova-
+tiana episcopo : Ἀπὸ τῶν ἐκκλησιῶν οὐδὲν ἐδέξατο,
+πλὴν κατὰ Κυριακὴν δύο ἄρτους τῶν εὐλογιῶν ἐλάμ-
+βανε. Ab ecclesiis nihil accepit, præter duos panes
+Eulogiarum, singulis diebus Dominicis. Τὰ προσφε-
+ρόμενα εἰς λόγον θυσίας, μετὰ τὰ ἀναλισκόμενα εἰς
+τὴν τῶν μυστηρίων χρείαν, οἱ κληρικοὶ διανειμά-
+σθωσαν, etc. Quæ ad sacrificium offeruntur, post ea
+quæ in mysteriorum usum consumuntur, clerici divi-
+dant, est canon 7 Theophili Alexandrini; ad quem
+operæ pretium fuerit consulere Theodorum Balsa-
+monem. COT.
+
+# block=10
+ρικοῦ καταγγείλας τὸ τοῦ Χριστοῦ Εὐαγγέλιον τοῖς
+ἔθνεσιν ἐν Ῥώμῃ διδάσκων τὸν λόγον ἀνῄρεθη ὑπὸ
+Νέρωνος καὶ Ἀγρίππα βασιλέως, κεφαλῇ κολασθεὶς
+καὶ τέθαπται ἐν τῇ αὐτῇ Ῥώμῃ. CLER.
+
+# block=12
+(15) Ἐθνικοῦ. Recte, μoὶ ἐθνικός, ut habet cod.
+Vindob. ID.
+
+# block=4
+(16) Εἰς κοινωνίαν. Id est, fidelium societatem
+per baptismum, ut legenti patebit. Falluntur itaque
+monachi illi apud Balsamonem p. 229, qui de com-
+munione eucharistiæ accipiunt; sic interrogantes
+Constantinopolitanam synodum sub Nicolao patriar-
+cha habitam : Εἰ δεῖ τὸν δαιμονιζόμενον μεταλαμβά-
+νειν τῶν ἁγιασμάτων. Ὁ μὲν γὰρ ἅγιος Τιμόθεος
+εἰς τὰς πρὸς αὐτὸν ἐρωτήσεις εἶπεν ἄλλως, καὶ οἱ
+ἅγιοι ἀπόστολοι ἄλλως, καὶ οἱ μεταγενέστεροι ἄλ-
+λως. An oporteat dæmoniacum communicare sacra-
+mentis. Sanctus enim Timotheus in sibi propositis
+Quæstionibus aliter dixit (quæst. 3), et sancti apostoli
+aliter, et recentiores aliter. De baptismo energume-
+norum agitur etiam, canone Eliberitano 37, quæstione
+2 laudati Timothei, pag. 1000 Balsamonis; canone
+15 concilii Arausicani I, et cap. 76 Capitulans
+Attonis, tom. VIII Acheriani Spicilegii. COT.
+
+# block=7
+(14) Κανόνες, κ. τ. λ. Deest tota inscriptio in cod.
+Vindob, pro qua hæc leguntur . Παῦλος ὁ τῶν ἐθνῶν
+διδάσκαλος ἀπὸ Ἱερουσαλὴμ καὶ μέχρι τοῦ Ἰλλυ-

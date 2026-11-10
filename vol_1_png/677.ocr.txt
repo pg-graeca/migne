@@ -1,0 +1,242 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,176,1246,933,2720
+2,199,397,959,653
+3,971,849,1734,1246
+4,193,847,944,1016
+5,984,397,1737,659
+6,206,201,953,369
+7,193,1017,938,1115
+8,194,1181,936,1248
+9,1337,1269,1730,2710
+10,191,1115,938,1181
+11,802,747,1107,782
+12,1246,140,1462,177
+13,1672,95,1726,126
+14,945,1267,1319,2713
+15,443,139,709,174
+17,987,206,1731,341
+18,204,88,259,120
+19,611,78,1341,136
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(13) Καὶ γὰρ καὶ ἡμεῖς, etc. Itaque ab alia manu
+est titulus; potissimum ut concipitur in editione
+Boviana : Quod non oportet otiosum comedere; si-
+cuti Petrus piscator, et alii apostoli; Paulus vero et
+Aquila scenas faciebant, Judas et Jacobus agricolæ
+erant. Narrat Hegesippus et Tertullianus Romanus,
+hoc est Latinus. Solum duo dicit Constitutor : pri-
+mum, apostolos inter evangelizandum, artes suas
+exercuisse. Id vero innuitur quoque a S. Hiero-
+nymo epist. 4 ad Rusticum his verbis : Apostoli
+habentes potestatem de Evangelio vivere, laborabant
+manibus suis, ne quem gravarent; et aliis tribuebant
+refrigeria, quorum pro spiritualibus debebant metere
+carnalia. Et a S. Isidoro in Regula sua, sic : Si-
+quidem et Petrus princeps apostolorum piscatoris
+gessit officium; et omnes apostoli corporale opus fa-
+ciebant, unde vitam corporis sustentabant. Contra ex
+B. Augustini sententia, libro De opere monachorum,
+cap. 20, cæteri apostoli, et fratres Domini, et Ce-
+phas manibus non operabantur, sed Paulus dun-
+taxat et Barnabas, I Corinth. ix, 4, etc. Alterum
+quod dicit Constitutor est, ex apostolis opificibus
+exstitisse alios piscatores, alios fabricatores taber-
+naculorum, alios agricolas. Et quidem piscatoriam
+exercebant Petrus et Andreas, et filii Zebedæi Ja-
+cobus et Joannes, uti patet per Matthæi caput iv,
+Marci i, et Lucæ v, perque plurima Patrum testi-
+monia, inque iis Origenis homilia 17 in Numeros.
+Quanquam idem Adamantius tomo 1 in Celsum,
+pag. 48 August. edit., videtur Jacobum et Joannem
+nautas facere, Petrum et Andream piscatores. Ve-
+rum eo loci magis ex mente Celsi sermonem insti-
+tuit, quam ex sua. Etenim paulo post, pag. 49, cum
+aliis Ecclesiæ doctoribus apostolos dividit in pis-
+catores et publicanos. In Chronico Hippolyti The-
+bani, et in Nicephoro lib. ii, cap. 3, Zebedæus
+ἰδιοναύκληρος est, navim propriam habens. Jam vero
+Paulus et Aquila Actorum xviii, 3, nuncupantur
+σκηνοποιοὶ τὴν τέχνην, et nomen σκυτοτόμου tri-
+buitur Paulo, per Theodoritum quæstione 16, in
+Judices. De Juda autem Jacobi, agricola, seu (ut
+Bovius) Juda et Jacobo agricolis, nihil succurrit
+quo rem confirmem. Tantum memini hæc gene-
+ralia me legere in conciliis, scripta a synodo Me-
+
+# block=2
+Οἱ δὲ νεώτεροι τῆς Ἐκκλησίας, ἐν πάσαις ταῖς
+χρείαις ἀόκνως λειτουργεῖν σπουδάζετε· μετὰ πάσης
+σεμνότητος τοῖς ἔργοις ὑμῶν σχολάζετε, ὅπως ἐν
+παντὶ τῷ χρόνῳ ὑμῶν ἦτε ἐπαρκοῦντες καὶ ἑαυτοῖς
+καὶ τοῖς πενομένοις, πρὸς τὸ μὴ ἐπιβαρεῖν τὴν τοῦ
+Θεοῦ Ἐκκλησίαν. Καὶ γὰρ καὶ ἡμεῖς (13) σχολάζον-
+
+# block=3
+diolanensi anni 679, ad Constantinum Pogonatum
+imperatorem : Nam si relegas [al. recolas], insignis-
+sime imperator, non cum dialecticis, non cum rheto-
+ricis, non cum grammaticis, sed cum ruricolis et pis-
+catoribus, Dominus posuit rationem, et his tradidit
+sui secreta consilii, quos et principes ordinavit, qui-
+bus ligandi solvendique tribuit potestatem. Immo
+ms. codex 1007 Bibliothecæ Regiæ, qui complecti-
+tur quatuor Evangelia, contrarium docet in obser-
+vatione subjuncta Evangelio Matthæi. Integram illam
+adnotationem de duodecim apostolis adducere ac
+interpretari minime gravabor.
+
+# block=4
+(9) Ὅτι ἀργόν, etc. Est in altero : Ἱστορεῖ Ἡγή-
+σιππος καὶ Τερτυλιανὸς ὁ Ῥωμαῖος; quasi quæ ha-
+bentur hic de apostolis, petita essent ab Hegesippo
+et Tertulliano, quod verumne sit inquirere non va-
+cat. CLER.
+
+# block=5
+At vos, Ecclesiæ juventus, studete, in omnibus
+usibus ac necessitatibus impigre ministrare : operi-
+bus vestris cum omni sanctimonia vacate, ut per
+universum tempus vestrum, cum vobis, tum egen-
+tibus sufficienter provideatis, ne Ecclesiam Dei
+gravetis. Nam nos quoque, licet Evangelii verbo
+
+# block=6
+* Ὅτι ἀργὸν (9) οὐ χρὴ ἐσθίειν τινὰ τῶν πιστῶν·
+ὡς οἱ (10) περὶ Πέτρον ἁλιεῖς (11), καὶ οἱ λοι-
+ποὶ ἀπόστολοι, οἱ δὲ (12) περὶ Παῦλον καὶ
+Ἀκύλαν σκηνοποιοί, οἱ δὲ περὶ Ἰούδαν Ἰα-
+κώβου γῆς ἐργάται.
+
+# block=7
+(10) Ὡς οἱ. Alter cod. ὡς οὐδὲ οἱ, ut et postea
+pro οἱ δὲ, οὐδὲ οἱ, sententia revera negationem
+postulat. ID.
+
+# block=8
+(12) Οἱ δέ. Οἱ μὲν γὰρ ἦσαν σκηνοποιοί, οἱ δὲ
+γῆς ἐργάται, habet alter codex. ID.
+
+# block=9
+α'. Πέτρος, ὁ καὶ Σί-
+μων, καὶ Κηφᾶς, καὶ Συ-
+μεών.
+β'. Ἀνδρέας, ἀδελφὸς
+αὐτοῦ.
+γ'. Ἰάκωβος, υἱὸς Ζε-
+βεδαίου· καὶ Ἰωάννης, δ'.
+Ἐκαλοῦντο, διὰ τὸ Βοανερ-
+γές, υἱοὶ βροντῆς.
+ε'. Φίλιππος, ὁ ἐν Ἱε-
+ραπόλει.
+ϛ'. Βαρθολομαῖος· οὗ-
+τος Ἰνδοὺς διδάσκει.
+ζ'. Ματθαῖος ὁ τελώ-
+νης.
+η'. Θωμᾶς, ὁ καὶ Δίδυ-
+μος, Πάρθοις καὶ Ἰν-
+δοῖς.
+θ'. Ἰάκωβος Ἀλφαίου.
+Ἑρμηνεύεται δὲ μαθητὴς
+ζωῆς.
+ι'. Θαδδαῖος. Οὗτος πα-
+ρὰ μὲν τῷ Ματθαίῳ
+Λεββαῖος καλεῖται· παρὰ
+δὲ τῷ Λουκᾷ Ἰούδας Ἰα-
+κώβου· παρὰ δὲ Μάρκῳ
+Λευὶς, καθήμενος παρὰ
+τὸ τελώνιον. Ἑρμηνεύε-
+ται δὲ ἄνεσις [f. αἴνεσις].
+ια'. Σίμων ὁ Κανανί-
+της. Σταυρῷ προσηλώθη·
+ὁ καὶ Συμεὼν, καὶ Κλεώ-
+πας καὶ Ἰούδας λεγόμενος.
+ιβ'. Καὶ Ματθίας. ὁ
+ἀντὶ Ἰούδα εἰσαχθείς.
+Τελῶναι, Ματθαῖος, Ἰά-
+κωβος, καὶ Ἰούδας.
+Ματθαῖος λέγει αὐτὸν
+κεκλῆσθαι τελώνης· ὁ δὲ
+Μάρκος τὸν Ἰάκωβον
+Ἀλφαίου· ὁ δὲ Λουκᾶς,
+
+# block=10
+(11) Ἁλιεῖς. Omittitur in altero, ac sane reliqui
+apostoli non erant piscatores. ID.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=12
+CAPUT LXIII.
+
+# block=13
+754
+
+# block=14
+1. Petrus, qui et Si-
+mon, et Cephas et Si-
+meon.
+2. Andreas frater ejus.
+3. Jacobus filius Ze-
+bedæi : et Joannes, 4.
+Propter Boanerges voca-
+bantur filii tonitrui.
+5. Philippus, qui in
+Hierapoli.
+6. Bartholomæus. Hic
+Indos docet.
+7. Matthæus publica-
+nus.
+8. Thomas qui et Di-
+dymus. Prædicavit Par-
+this et Indis.
+9. Jacobus Alphæi. In-
+terpretationem habet, dis-
+cipulus vitæ.
+10. Thaddæus. Hic a
+Matthæo (cap. x, 3) qui-
+dem vocatur Lebbæus ;
+a Luca vero (cap. vi, 16)
+Judas Jacobi; a Marco
+autem (cap. ii, 14) Levis,
+qui sedebat ad telonium.
+Exponitur porro, lauda-
+tio.
+11. Simon Cananites.
+Cruci affixus fuit. Appel-
+laturque etiam Simeon,
+et Cleophas et Judas.
+12. Atque Matthias,
+qui in locum Judæ suf-
+fectus est.
+Publicani, Matthæus, Ja-
+cobus et Judas.
+Matthæus dicit (cap. x,
+3) se appellatum fuisse
+nomine publicani. At
+Marcus(cap.ii, 14, iii, 18).
+
+# block=15
+ΚΕΦΑΛΑΙΟΝ ΞΓ'.
+
+# block=17
+Quod inter fideles qui otiosus fuerit, non debeat
+comedere : Petrus enim fuit piscator, et reliqui
+apostoli; Paulus autem et Aquila, tabernaculorum
+artifices; Judas vero Jacobi, agricola.
+
+# block=18
+753
+
+# block=19
+CONSTITUTIONES APOSTOLICÆ. — LIB. II.

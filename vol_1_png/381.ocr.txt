@@ -1,0 +1,193 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,980,811,1731,1752
+2,200,888,950,2053
+3,201,551,946,885
+4,976,1758,1748,2143
+5,982,2179,1744,2446
+6,202,167,945,542
+7,201,2175,956,2445
+8,980,168,1724,805
+9,200,2443,953,2712
+10,199,2059,958,2141
+11,778,112,1139,153
+12,985,2445,1738,2719
+15,182,104,274,154
+16,1642,104,1740,154
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+161
+
+# block=16
+162.
+
+# block=11
+PROOEMIA VARIORUM.
+
+# block=6
+hostibus fidenter objecit (99). In secunda epi-
+stola (100) auctor iste nos docet, ut sentiamus de
+Jesu Christo tanquam de Deo, et tanquam de judice
+vivorum et mortuorum : Fratres, ait ipse initio
+illius epistolæ, ita sentire nos oportet de Jesu Christo
+tanquam de Deo (ὡς περὶ Θεοῦ), tanquam de judice
+vivorum et mortuorum; — et numero 36, ep. 1 aperte
+dicit Jesum Christum a Deo esse secundum carnem:
+Ἐξ αὐτοῦ ὁ Κύριος Ἰησοῦς τὸ κατὰ σάρκα.
+
+# block=8
+sentire de nostra salute, et de illo, qui hujus salutis est
+auctor. Docet insuper nos peccare, si nescimus unde
+et quomodo vocati sumus, et a quo, et in quem locum;
+et quanta sustinuit Jesus Christus pati propter nos.
+En maxima beneficia, quæ a divino hoc Salvatore,
+ut tradit sanctus Clemens, recepimus! Lucem nobis
+largitus est : tanquam pater filios nos appellavit; per-
+euntes nos servavit. Miseratus est nos, et visceribus
+commotus, salvos fecit, cum in nobis multum errorem
+ac interitum spectasset; nec habere nos ullam spem
+salutis, nisi eam, quæ ab ipso. Vocavit enim nos,
+qui non eramus, et voluit, a nihilo esse nos. Illic
+aperte tradit Clemens, quod Augustinus postea fre-
+quens docuit, vocatos nos a Deo, cum nulla in no-
+bis merita, imo et multa demerita conspexisset.
+
+# block=3
+Nescio an clarius possit quis de divinitate Jesu
+Christi testimonium proferre. Expresse alibi de-
+clarat, Jesum Christum spiritum fuisse, priusquam
+caro fieret : Jesus Christus (1) Dominus.... cum
+primum esset spiritus caro factus est (2). Ex quo
+deducitur adversus quosdam nostrorum temporum
+Arianos, Filium Dei exstitisse ante suam incarna-
+tionem.
+
+# block=1
+Miseria hominis ante incarnationem. — Verba hæc
+mirifice ostendunt maximam hominis miseriam
+ante incarnationem, extremamque, qua detineba-
+tur, necessitatem medicinalis gratiæ Salvatoris (5);
+tradit etiam paulo inferius, gentiles ante incarna-
+tionem Jesu Christi ita mente captos fuisse, ut
+adorarent lapides, lignum, aurum, argentum, at-
+que æs, opera hominum; insuper quod tota eorum
+vita nil aliud erat quam mors : et tenebris, et cali-
+gine obvolvebantur; quod Ecclesia paucis constabat
+fidelibus, ac populo circumdabatur ingrato, et be-
+neficiorum Dei immemori. Quæ quidem de idolo-
+rum cultoribus intelligenda sunt; quippe ante in-
+carnationem ad Ecclesiam non spectabant, et
+Deum ignorabant. Quod dixit (Scriptura), ait Pater
+iste (6), lætare, quæ non paris, nos dixit : Sterilis
+quippe erat Ecclesia nostra, antequam dati essent li-
+beri. Igitur inferri nequit, ante incarnationem ne-
+minem justum adfuisse. Sic et Christus, egregie
+concludit ipse, voluit servare pereuntia, et multos
+servavit, dum venit, dumque nos jam pereuntes vo-
+cavit (7).
+
+# block=2
+Beneficia Verbi incarnati circa homines. — Nihil
+movendis animis aptius dici potest iis, quæ tra-
+dit sanctus Clemens in utraque epistola circa bene-
+ficia, quæ pro hominibus ex incarnatione Verbi
+sunt consecuta. Ait enim in prima, nos in Jesu
+Christo salutare nostrum adinvenisse; ipsum esse
+oblationum nostrarum supremum Pontificem; infir-
+mitatis nostræ esse patronum et auxiliatorem (3). Per
+hunc, pergit sanctus iste pontifex, in cælorum alti-
+tudines oculos defigemus; per hunc immaculatum et
+supremum illius vultum speculabimur; per hunc
+oculi cordis nostri aperti sunt; per hunc insipiens et
+obscurata mens nostra in admirabilem ejus lucem
+repullulat; per hunc voluit Dominus, ut immortalem
+cognitionem gustaremus. Qui cum sit (addit insuper)
+splendor majestatis ejus, tanto major est angelis,
+quanto excellentius nomen sortitus est. Quod quasi
+de verbo ad verbum ex Epistola ad Hebræos excer-
+ptum est, in qua Apostolus iisdem ferme verbis
+elogium Jesu Christi efformat. Hinc Eusebius (4)
+advertit, in prima hac sancti Clementis epistola
+haberi nonnullas sententias Epistolæ divi Pauli ad
+Hebræos et quandoque etiam expositas iisdem verbis,
+quibus utitur Apostolus : quod quidem ostendit, per-
+git Eusebius, Epistolam ad Hebræos nequaquam esse
+opus recens, et jure meritoque aliis istius apostoli
+epistolis adjungi.
+
+# block=4
+Animadvertere hic oportet cum nostro pio au-
+ctore, debere nos veros, germanosque grati animi
+sensus erga Salvatorem enutrire. Confitebimur au-
+tem illum faciendo, quæ dicit, et mandata illius non
+spernendo; nec solum labiis eum honorando, sed ex
+toto corde, ex tota mente. Non modo igitur, ait san-
+ctus hic pontifex (8), ipsum vocemus Dominum, id
+enim non salvabit nos; sed in operibus ipsum confi-
+teamur; in diligendo alii alios, in non adulterando,
+
+# block=10
+In secunda epistola non minus urget ingentes
+utilitates incarnationis. Vetat primo loco humilia
+
+# block=7
+(99) Notandum hic obiter gravissimo in errore
+versari Photium, dum asserere non eruhescit, in
+sancto Clemente nihil adinveniri ad Salvatoris divini-
+tatem comprobandam. Ita sane nunquam locutus
+fuisset, si verba attendisset, modo a nobis allata, in
+quibus sanctus Pontifex tanquam certum ratumque
+constituit, in Jesu Christo una simul cum humani-
+tate divinitatem inhabitare.
+
+# block=5
+tem magis accommodatum exscribimus : Verbum caro
+factum est, et habitavit in nobis; reddite vicem, et
+efficimini Spiritus et habitate in illo : quasi diceret,
+Verbum cum esset spiritus, seu Deus, caro factum
+est, naturam suscipiendo humanam; reddite vicem,
+et qui caro estis, efficimini quodam modo Spiritus
+ac Deus, naturam induendo divinam, et habitate
+in Deo.
+
+# block=9
+(100) Epistola 2, cap. 1.
+(1) Ibid., cap. 9.
+(2) Hoc est, cum esset Deus. Spiritus enim voca-
+bulum sæpe apud antiquos divinam naturam sonare
+præfatione generali in novissimam operum S. Hila-
+rii Pictav. editionem num. 62 et 63 pluribus exem-
+plis demonstratum est a Coutantio nostro; unde
+illud Augustini epist. 140, n. 11, ad Clementis men-
+
+# block=12
+(3) Salutare nostrum invenimus Jesum Christum,
+Pontificem oblationum nostrarum, infirmitatis nostræ
+patronum et auxiliatorem. Epist. 1 Clem., cap. 36.
+(4) Lib. Ⅲ Hist. eccles., cap. 38.
+(5) Epist. 2, cap. 1.
+(6) Epist. 2, cap. 2.
+(7) Clem. Rom., ep. 2, cap. 2.
+(8) Idem, ibid., cap. 3.

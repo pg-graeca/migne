@@ -1,0 +1,170 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1019,1875,1785,2213
+2,240,1878,999,2219
+3,237,146,1000,1742
+4,246,2415,993,2710
+5,1026,140,1788,1706
+6,1032,2415,1782,2680
+7,644,82,1379,121
+8,246,1804,999,1873
+9,271,2240,1533,2293
+11,516,1760,716,1794
+12,812,2341,1163,2377
+13,245,75,299,119
+14,1705,84,1785,124
+15,1277,1742,1529,1790
+16,1031,1798,1781,1872
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Τί γὰρ ἐπίσταται, ὁποία τίς ἐστι, παρ᾽ ἧς λαμβάνει,
+ἢ ἐκ ποταπῆς διακονίας παραβάλλει (54) τὴν τροφήν,
+πότερον ἐξ ἁρπαγῆς, ἢ ἑτέρας τινὸς οὐ καλῆς ἀγωγῆς;
+Οὐκ ἐπισταμένη (55) ἡ χήρα ὅτι ὑπὲρ ἑνὸς ἑκάστου
+τούτων δώσει λόγον Θεῷ, δεχομένη ἀναξίως Θεοῦ·
+οὔτε γὰρ οἱ ἱερεῖς τοιαύτης ἑκουσιασμὸν δέξονταί πο-
+τε, οἷον ἅρπαγος, ἢ πόρνης. Γέγραπται γάρ· ‹ Οὐκ
+ἐπιθυμήσεις τὰ τοῦ (56) πλησίον· › καί· ‹ Οὐ προσ-
+
+# block=2
+Unde enim vidua novit, qualis sit ea mulier a
+qua accipit, aut ex quonam ministerio alimentum
+apponit; utrum ex rapina, aut ex alia quapiam arte
+illicita? Nescit vidua reddituram se Deo rationem de
+singulis hisce rebus, quando accipiet indigne Deo.
+Neque enim sacerdotes unquam admittent sponta-
+nea hujusmodi mulieris dona; veluti furis aut me-
+retricis. Scriptum est enim : ‹ Non concupisces res
+
+# block=3
+Deo supplicabit ; qui exaudiet eam, quoniam in
+hoc solum mente alligata est, et neque ad insatia-
+tam aviditatem, neque ad sumptuosam cupiditatem
+incumbit ; atque oculus ejus est castus, auris mun-
+da, manus impollutæ, pedes quieti, os denique ne-
+que ad ingluviem, neque ad ineptias promptum ;
+sed loquens quidem quæ condecent, ea vero dun-
+taxat sumens quæ sustentandæ vitæ conveniunt.
+Quæ sic fuerit proba, gravis ac sedata, Deo com-
+placebit ; simulque ac aliquid postulaverit, præveniet
+eam largitio : ‹ Adhuc enim, inquit, loquente te,
+dicam : Ecce adsum ⁹² . , ⁹³ Eadem igitur, sit divi-
+tiarum contemptrix, fastu carens, non turpi lucro
+dedita, non inexplebilis, non vorax ; imo tempe-
+rans, mansueta, tranquilla, religiosa, verecunda, se-
+dens domi suæ, psallens, orans, legens, vigilans, jeju-
+nans, cum Deo semper colloquens canticis et hymnis.
+Lanam faciendo, aliis potius suppeditet, quam ipsa
+aliquo indigeat ; memor viduæ a Domino in Evangelio
+comprobatæ, quæ veniens ad templum, in gazophy-
+lacium misit duo æra minuta , quod est quadrans ;
+at eam intuitus cordis cognitor Christus Dominus
+noster ac magister, ait : ‹ Amen dico vobis, quo-
+niam hæc vidua plus omnibus misit in gazophyla-
+cium : quia omnes ex abundantia sua miserunt ;
+hæc autem, de penuria, omnem victum suum quem
+habuit ⁹⁴ . › Itaque oportet viduas honeste ætatem
+agere, obedientes episcopis, presbyteris et diaconis,
+insuperque et diaconissis ; reverentes, pudibundas,
+metuentes, non liberius vivere ac in sua esse pote-
+state nitentes, neque citra præscriptum volentes
+quidquam facere sine diaconi voluntate ; exempli
+causa , si pergendum sit ad aliquem , ut cum eo
+manducent ac bibant, vel aliquid ab aliquo acci-
+piant. Sin vero injussa horum quidquam perpetra-
+rit, jejunio punietur aut segregetur, tanquam pro-
+terva et inconsiderans.
+
+# block=4
+(50) Ἥσυχοι. Alter cod. ἴσοι, quales sunt qui non
+nunc citato gradu, nunc tardo, incedunt ; sed gravi
+et pari. Cler.
+(51) Ἀπελθούσας. Alter cod. ἀπελθεῖν, quod me-
+lius videtur. Id.
+(52) Τούτων. Habet idem τῶν εἰρημένων, quod
+glossema redolet. Id.
+(53) Ἢ τὸν ἐπίσκοπον. Hæc et sequentia inscrip-
+
+# block=5
+προσοίσει Θεῷ, καὶ εἰσακούσεται αὐτῆς, διὰ τὸ τὴν διά-
+νοιαν αὐτῆς πρὸς μόνῳ τούτῳ ἡρτῆσθαι, καὶ μήτε πρὸς
+ἀπληστίαν, μήτε πρὸς ἐπιθυμίαν πολυδάπανον ἐκκεῖ-
+σθαι· ὅτε ὀφθαλμὸς αὐτῆς ἁγνὸς, καὶ ἡ ἀκοὴ καθαρὰ, καὶ
+αἱ χεῖρες ἀμόλυντοι, καὶ οἱ πόδες ἥσυχοι (50), καὶ τὸ
+στόμα οὔτε πρὸς λαιμαργίαν, οὔτε πρὸς φλυαρίαν ἕτοι-
+μον, ἀλλὰ λαλοῦν μὲν τὰ δέοντα, μεταλαμβάνον δὲ ὧν
+προσῆκε διὰ μόνην τὴν σύστασιν. Οὕτω σεμνὴ καὶ ἀτά-
+ραχος ὑπάρχουσα, εὐάρεστος ἔσται τῷ Θεῷ· καὶ ἅμα
+τῷ αἰτήσασθαι αὐτήν τι, προφθάσει αὐτὴν ἡ δόσις·
+‹ Ἔτι γὰρ σοῦ, φησὶ, λαλοῦντος ἐρῶ· Ἰδοὺ πάρειμι. ›
+Τοιαύτη δὲ οὖσα, ὑπαρχέτω ἀφιλάργυρος, ἄτυφος,
+μὴ αἰσχροκερδὴς, μὴ ἀπληστος, μὴ λίχνος· ἀλλ᾽ ἐγ-
+κρατὴς, πραεῖα, ἀτάραχος, εὐλαβὴς, αἰδήμων, καθη-
+μένη ἐν τῇ οἰκίᾳ αὐτῆς, ψάλλουσα, προσευχομένη,
+ἀναγινώσκουσα, ἀγρυπνοῦσα, νηστεύουσα, Θεῷ πάν-
+τοτε προσομιλοῦσα ᾠδαῖς καὶ ὕμνοις· ἔριά τε ἐκλαμβά-
+νουσα , ἑτέροις μᾶλλον ἐπιχορηγείτω, ἤπερ αὐτή τινος
+δεέσθω· μιμνησκομένη τῆς ἐν τῷ Εὐαγγελίῳ μεμαρ-
+τυρημένης ὑπὸ τοῦ Κυρίου χήρας, ἥτις ἐλθοῦσα ἐν
+τῷ ἱερῷ, ἔβαλεν εἰς τὸ γαζοφυλάκιον τὰ δύο λεπτά,
+ὅπερ ἐστὶ κοδράντης· καὶ θεασάμενος αὐτὴν ὁ καρ-
+διογνώστης Χριστὸς ὁ Κύριος ἡμῶν καὶ διδάσκαλος,
+εἶπεν· ‹ Ἀμὴν λέγω ὑμῖν, ὅτι αὕτη ἡ χήρα πλεῖον πάν-
+των ἔβαλεν εἰς τὸ γαζοφυλάκιον· ὅτι οἱ πάντες ἐκ τοῦ
+περισσεύματος αὐτῶν ἔβαλον, αὕτη δὲ ἐκ τοῦ ὑστε-
+ρήματος ὅλον αὐτῆς τὸν βίον ὃν εἶχε. › Σεμνὰς οὖν
+δεῖ εἶναι τὰς χήρας, πειθομένας τοῖς ἐπισκόποις καὶ
+τοῖς πρεσβυτέροις καὶ τοῖς διακόνοις, ἔτι μὴν καὶ
+ταῖς διακόνοις, εὐλαβουμένας, ἐντρεπομένας, φοβου-
+μένας, μὴ κατεξουσιαζούσας, μήτε παρὰ τὴν διατα-
+γήν τι ποιεῖν θελούσας δίχα γνώμης τοῦ διακόνου,
+οἷον τὸ πρός τινα ἀπελθούσας (51) ἐπὶ τὸ φαγεῖν
+παρ᾽ αὐτῷ καὶ πιεῖν, ἢ λαβεῖν τι παρά τινος. Εἰ δὲ
+μὴ κελευσθεῖσα ποιήσῃ ἕν τι τούτων (52), ἐπιτιμάσθω
+νηστείᾳ, ἢ ἀφοριζέσθω, ὡς προπετής.
+
+# block=6
+tionis verba recte absunt in altero cod. Vindob.
+Id.
+(54) Παραβάλλει. Alter χορηγεῖ, quod nescio an
+non sit glossa. Certe παραβάλλειν rarius hoc sensu
+occurrit. Id.
+(55) Οὐκ ἐπισταμένη. Alter ἀγνοεῖ τοίνυν. Id.
+(56) Τὰ τοῦ. Alter τὰ τῶν τοῦ, eodem sensu. Id.
+
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=8
+Quod non oportet, ut ab indignis accipiat vidua, vel
+episcopus, vel alius fidelis.
+
+# block=9
+⁹² Isa. lviii, 9. ⁹³ I. Ignat. interpol. ad Philad. 4. ⁹⁴ Marc. xii, 43 ; Luc. xxi, 3.
+
+# block=11
+CAPUT VIII.
+
+# block=12
+VARIORUM NOTÆ.
+
+# block=13
+779
+
+# block=14
+780
+
+# block=15
+ΚΕΦΑΛΑΙΟΝ Η᾽.
+
+# block=16
+"Ὅτι οὐ χρὴ παρὰ ἀναξίων λαμβάνειν τὴν χήραν,
+ἢ τὸν ἐπίσκοπον (53), ἢ ἄλλον πιστόν.

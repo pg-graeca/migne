@@ -1,0 +1,181 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,130,797,898,1793
+2,925,797,1685,1794
+3,930,148,1681,573
+4,137,148,896,576
+5,929,677,1685,775
+6,1196,615,1411,649
+7,169,1833,1272,1870
+8,383,619,650,651
+9,141,2609,895,2710
+10,576,95,1259,131
+11,136,678,896,783
+12,137,2277,898,2611
+14,931,2017,1695,2681
+16,746,1918,1064,1955
+17,140,2008,891,2279
+18,141,92,213,138
+19,1613,92,1681,136
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Χρὴ δὲ, ἐπίσκοπε, πρὸ ὀφθαλμῶν ἔχειν καὶ τὰ
+προωδευκότα (37), καὶ ἐμπείρως αὐτοῖς κεχρῆσθαι
+πρὸς νουθεσίαν τῶν στυπτικῶν ἢ παρακλητικῶν δεο-
+μένων λόγων. Ἔτι καὶ ἐν τῷ κρίνειν σε, δίκαιον (38)
+τῷ τοῦ Θεοῦ ἐξακολουθεῖν θελήματι, καὶ ᾗ Θεὸς δικά-
+ζει τοὺς ἁμαρτάνοντας, ἢ ἐπιστρέφοντας, παραπλη-
+σίως καὶ σὲ κρίνειν. Ἦ γὰρ οὐχὶ καὶ τὸν Δαβὶδ ὀλι-
+σθήσαντα ὀνειδίσας διὰ τοῦ Νάθαν, καὶ εἰπόντα με-
+τανοεῖν, εὐθὺς καὶ τοῦ θανάτου λυτροῦται, λέγων (39)·
+« Θάρσει, οὐ μὴ ἀποθανεῖς; » Ἰωνᾶν μὴ θελήσαντα
+Νινευΐταις κηρύξαι, ὑπὸ θαλάσσης καὶ κήτους κατα-
+ποθῆναι ποιήσας, εὐξαμένου ἐν κοιλίᾳ (40), ἀνήγαγεν
+ἐκ φθορᾶς τὴν ζωὴν αὐτοῦ; Ἐζεκίαν πρὸς ὀλίγον
+τυφωθέντα, εὐξάμενον μετὰ δακρύων, ἀφῆκε τοῦ ἐγ-
+κλήματος; Ἀκούσατε δὲ, ὦ ἐπίσκοποι, πρὸς τὰ
+τοιαῦτα ὠφέλιμον ὑπόδειγμα. Γέγραπται γὰρ ἐν τῇ
+τετάρτῃ τῶν Βασιλειῶν, καὶ ἐν τῇ δευτέρᾳ τῶν Παρα-
+λειπομένων (41), τῇ τῶν Ἡμερῶν (42), οὕτως· « Καὶ
+ἀπέθανεν Ἐζεκίας· καὶ ἐβασίλευσεν ὁ υἱὸς αὐτοῦ
+Μανασσῆς, ἐτῶν δώδεκα ἐν τῷ βασιλεύειν αὐτὸν, καὶ
+πεντήκοντα καὶ πέντε ἔτη ἐβασίλευσεν ἐν Ἱερουσα-
+λήμ· καὶ ὄνομα τῇ μητρὶ αὐτοῦ Ἐψιβὰ (43)· καὶ
+ἐποίησε τὸ πονηρὸν ἐνώπιον Κυρίου, οὐκ ἀπέσχετο
+
+# block=2
+Oportet autem, episcope, te ante oculos habere
+etiam præterita, et eis perite uti ad erudiendos eos
+qui vel acerbis vel mitibus indigent sermonibus.
+Æquum quoque est ut, in judicando, Dei obsequa-
+ris voluntati ; et ut quo pacto Deus judicat aut pec-
+catores aut conversos, eodem et tu judices. Nonne
+enim Davidem lapsum, cum increpasset per Natha-
+nem, et ille pœnitere se profiteretur, statim morte
+liberat, dicens : « Confide, non morieris ⁶⁹ ? » Nonne
+cum Jonas Ninivitis prædicare recusans, et a mari
+atque ceto absorberi jussus, in ventre piscis oras-
+set; ex interitu eduxit vitam illius ⁷⁰? Nonne Eze-
+chiam paululum in superbiam elatum, sed postea
+lacrymose deprecantem, a crimine absolvit? Verum
+audite, episcopi, exemplum ad hæc accommodatum.
+Ita scriptum est in quarto libro Regum, et in se-
+cundo Præteritorum, seu Dierum ⁷¹ : « Et mortuus est
+Ezechias : et regnavit filius ejus Manasses : duode-
+cim annorum erat cum regnare cœpit, et quinqua-
+ginta quinque annos regnavit in Hierosolymis : et
+nomen matri ejus Hepsiba : fecitque malum coram
+Domino ; non abstinuit abominationibus gentium,
+quas delevit Dominus a facie filiorum Israel. Et con-
+
+# block=3
+bonitatis ejus erga pœnitentes ; nec hac in re eos
+tanquam exemplar considerans, qui multorum pec-
+catorum veniam per pœnitentiam obtinuerunt. Qua-
+propter qui innocentem ejicit, corporali homicida
+truculentior est. Similiter qui non recipit pœniten-
+tes, quæ Christi sunt dissipat, fitque adversarius
+ejus. Quia ut justus est Deus in judicandis peccato-
+ribus, ita et misericors est in excipiendis conversis.
+Misericordiam enim et judicium illi cecinit pius
+David.
+
+# block=4
+μετανοοῦσιν ἀγαθωσύνην, οὐδὲ λαμβάνων σκοποὺς (36)
+τῶν τοιούτων τοὺς ἐκ πλήθους παραπτωμάτων ἐν
+μετανοίᾳ εἰληφότας ἄφεσιν. Διὰ τοῦτο ἰταμώτερος
+σωματικοῦ φονέως ὁ τὸν ἀναίτιον ἀποῤῥίπτων. Ὡσ-
+αύτως καὶ ὁ μὴ προσδεχόμενος τοὺς μετανοοῦντας,
+σκορπίζει τὰ τοῦ Χριστοῦ, κατ’ αὐτοῦ γινόμενος. Ὡς
+γὰρ δίκαιός ἐστιν ὁ Θεὸς ἐν τῷ κρίνειν τοὺς ἁμαρ-
+τωλοὺς, οὕτως ἐλεήμων ἐν τῷ προσδέχεσθαι τοὺς ἐπι-
+στρέφοντας. Ἔλεος γὰρ καὶ κρίσιν ᾖδεν αὐτῷ ὁ θεο-
+φιλὴς Δαβίδ.
+
+# block=5
+Quod magnum pœnitentiæ exemplum in Davide pro-
+ponatur ; item in Ninivitis, in Ezechia, et in filio
+ejus Manasse.
+
+# block=6
+CAPUT XXII.
+
+# block=7
+⁶⁹ II Reg. xii, 13. ⁷⁰ Jon. iii. ⁷¹ IV Reg. xx, xxi ; II Paralip. xxxii, xxxiii.
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ ΚΒ'.
+
+# block=9
+(42) Τῇ τῶν ἡμερῶν. Desunt in altero cod. Vin-
+dob., mox etiam absunt voces : Καὶ ἀπέθανεν
+Ἐζεκίας καὶ ἐβασίλευσεν ὁ. ID.
+
+# block=10
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=11
+Ὅτι μέγα παράδειγμα μετανοίας πρόκειται Δα-
+βὶδ, καὶ Νινευῖται, Ἐζεχίας τε καὶ ὁ τούτου
+υἱὸς Μανασσῆς.
+
+# block=12
+(41) Ἐν τῇ δευτέρᾳ τῶν Παραλειπομένων, τῇ
+τῶν ἡμερῶν. In re clara corrige mendum typogra-
+phicum, quod indignis modis contaminat Prologum
+S. Hilarii in Psalmorum explanationem. Paralipo-
+menon duo, in decimum librum Veteris Testamenti
+sint : sermones dierum Esdræ, in undecimum. Inter-
+pungi debet : sint ; sermones dierum : Esdræ, in un-
+decimum. COT. — Pro τῇ τῶν lege ἤτοι ἡμερῶν vel
+dierum, quemadmodum hi libri apud Hebræos vo-
+cantur. CLER.
+
+# block=14
+(43) Ἐψιβὰ. Alter Ἔψιβα, Ἀψιβὰ, Ὀφοβία, Ὀφει-
+βά. Apud Georgium Syncellum Ἐψιβαάλ. In duobus
+Bibliorum exemplaribus Bibliothecæ Regiæ Ὀφσιβά.
+Latinus interpres, Haphsiba. Hebraice חפציבה Hep-
+siba. Hoc est, Voluntas mea in ea, nomen aptum
+gratæ mulieri. Quamobrem Hieronymo, in libro De
+nominibus Hebraicis, restituenda videtur, etiam ex
+simili opere Venerabilis Bedæ, ista lectio, Epsiba,
+seu Ephsiba, voluntas mea in ea. Vulgo, Ebsiba, vo-
+luntas mea in ea. Similiterque forsan in Lucifero,
+libro De regibus apostolicis, legi debeat, Epsiba,
+non Ebsibas. Josephus Antiq. Judaic., x, 4 : Δια-
+δεξάμενος δὲ τὴν βασιλείαν ὁ παῖς αὐτοῦ (Ἐζεχίου)
+Μανασσῆς, ἐκ μητρὸς Ἀχιβᾶς (codex Regius 1051,
+Αἰχίβας) τοὔνομα πολίτιδος γεγονός. Quo loci conjici
+potest, litteram χ tenere locum litteræ vicinæ ψ,
+quanquam χ quoque lectum fuit a Rufino vetere in-
+terprete : Cui, inquit, successit in regnum filius pro-
+prius, nomine Manasses, de matre quidem Echib cive.
+Ita libri Regii, pro voce nihili excusa, Echibene. ID.
+
+# block=16
+VARIORUM NOTÆ.
+
+# block=17
+(36) Σκοπούς. Εἰς νοῦν, melius alter Vindob.,
+hoc est ad animum revocans, quod aptius loco. CLER.
+(37) Προωδευκότα. Alter προειληφότα. ID.
+(38) Δίκαιον. Δεῖ alter addit τῷ δίκαιον. ID.
+(39) Λυτροῦται λέγων. Alter ἐλυτρώσατο εἰπών. ID.
+(40) Ἐν κοιλίᾳ. Alter ἐκ κοιλίας, et mox εἰς
+ζωὴν, ὡσαύτως καὶ ἐκ φορᾶς ᾅδου τὴν ζωήν. De quo
+deliberandum. ID.
+
+# block=18
+641
+
+# block=19
+642

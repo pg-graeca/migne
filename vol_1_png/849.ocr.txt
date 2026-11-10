@@ -1,0 +1,173 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,183,2567,941,2689
+2,637,61,1363,95
+3,201,1639,961,2390
+4,211,2398,1726,2474
+5,808,2506,1142,2548
+6,975,2586,1725,2694
+7,1016,113,1770,808
+8,281,2688,547,2744
+9,1507,2698,1559,2744
+10,243,48,323,88
+11,1687,68,1771,106
+12,215,901,975,1641
+13,227,104,981,901
+14,999,807,1747,1811
+15,989,1809,1739,2375
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=183 source_y1=2567 source_x2=941 source_y2=2689
+(51) Εἰς. Quamvis minime inepta sit hæc lectio,
+at'tamen nequaquam spernenda est. cod. Vindob.
+lectio ὡς, sternens ut planitiem. CLER.
+
+# block=2 source_x1=637 source_y1=61 source_x2=1363 source_y2=95
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=3 source_x1=201 source_y1=1639 source_x2=961 source_y2=2390
+Εἰσαγαγὼν δὲ εἰς τὸν τῆς τρυφῆς παράδεισον, πάν-
+των μὲν ἀνῆκας αὐτῷ τὴν ἐξουσίαν πρὸς μετάλη-
+ψιν, ἑνὸς δὲ μόνου τὴν γεῦσιν ἀπεῖπας ἐπ' ἐλπίδι
+κρειττόνων, ἵνα, ἐὰν φυλάξῃ τὴν ἐντολὴν, μισθὸν
+ταύτης τὴν ἀθανασίαν κομίσηται. Ἀμελήσαντα δὲ
+τῆς ἐντολῆς, καὶ γευσάμενον ἀπηγορευμένου καρποῦ
+ἀπάτῃ ὄφεως καὶ συμβουλίᾳ γυναικὸς, τοῦ μὲν πα-
+ραδείσου δικαίως ἔξωσας αὐτὸν, ἀγαθότητι δὲ εἰς τὸ
+παντελὲς ἀπολλύμενον οὐχ ὑπερεῖδες· σὸν γὰρ ἦν δη-
+μιούργημα· ἀλλὰ καθυποτάξας αὐτῷ τὴν κτίσιν, δέ-
+δωκας αὐτῷ οἰκείοις ἱδρῶσι καὶ πόνοις πορίζειν ἑαυ-
+τῷ τὴν τροφὴν, τοῦ πάντα φύοντος καὶ αὔξοντος
+καὶ πεπαίνοντος· χρόνῳ δὲ πρὸς ὀλίγον αὐτὸν κοι-
+μίσας, ὅρκῳ εἰς παλιγγενεσίαν ἐκάλεσας· ὅρον θα-
+νάτου λύσας, ζωὴν ἐξ ἀναστάσεως ἐπηγγείλω· καὶ
+οὐ τοῦτο μόνον, ἀλλὰ καὶ τοὺς ἐξ αὐτοῦ εἰς πλῆθος
+ἀνάριθμον (53) χέας, τοὺς ἐμμείναντάς σοι ἐδόξα-
+
+# block=4 source_x1=211 source_y1=2398 source_x2=1726 source_y2=2474
+⁹² Job xxviii, 25. ⁹³ Gen. i, 26. ⁹⁴ pseudo-Ignat., ad Heron. 4. ⁹⁵ Gen. ii. ⁹⁶ Gen. iii.
+⁹⁷ Hebr. vi.
+
+# block=5 source_x1=808 source_y1=2506 source_x2=1142 source_y2=2548
+VARIORUM NOTÆ.
+
+# block=6 source_x1=975 source_y1=2586 source_x2=1725 source_y2=2694
+(52) Αὐτόν. Omittitur in cod. Vindob., sed per-
+inde est. ID.
+(53) Ἀνάριθμον. Vind. cod. ἀναρίθμητον. ID.
+
+# block=7 source_x1=1016 source_y1=113 source_x2=1770 source_y2=808
+sum facientibus sit ad navigationem facilis, in le-
+nitatem serenitatis ducis : qui mundum creatum a
+te per Christum, fluviis cinxisti, torrentibus pro-
+luisti, perennibus fontibus perfudisti, et, ad terræ
+inconcussam ac firmissimam sedem, montibus con-
+strinxisti. Implevisti mundum tuum ac exornasti
+herbis odoratis et salubribus; multis variisque ani-
+mantibus, robustis ac infirmioribus, esculentis ac
+operariis, cicuribus ac feris; et serpentum sibilis,
+atque diversarum volucrum clangoribus; annorum
+circulis, mensium ac dierum numeris, tempesta-
+tum serie; nubium imbres procreantium cursi-
+bus, ad fructuum fœtus, ad animalium conserva-
+tionem, libramentum ventorum flantium cum a te
+jubentur ⁹⁸, multitudinem stirpium ac herbarum.
+Neque solum condidisti mundum, sed et in ipso,
+
+# block=8 source_x1=281 source_y1=2688 source_x2=547 source_y2=2744
+PATROL. GR. I.
+
+# block=9 source_x1=1507 source_y1=2698 source_x2=1559 source_y2=2744
+35
+
+# block=10 source_x1=243 source_y1=48 source_x2=323 source_y2=88
+1097
+
+# block=11 source_x1=1687 source_y1=68 source_x2=1771 source_y2=106
+1098
+
+# block=12 source_x1=215 source_y1=901 source_x2=975 source_y2=1641
+ποιήσας, κόσμου κόσμον αὐτὸν (52) ἀναδείξας. Εἶπας
+γὰρ τῇ σῇ Σοφίᾳ· « Ποιήσωμεν ἄνθρωπον κατ' εἰκό-
+να ἡμετέραν, καὶ καθ' ὁμοίωσιν· καὶ ἀρχέτωσαν
+τῶν ἰχθύων τῆς θαλάσσης, καὶ τῶν πετεινῶν τοῦ
+οὐρανοῦ. » Διὸ καὶ πεποίηκας αὐτὸν ἐκ ψυχῆς ἀθα-
+νάτου καὶ σώματος σκεδαστοῦ· τῆς μὲν ἐκ τοῦ μὴ
+ὄντος, τοῦ δὲ ἐκ τῶν τεσσάρων στοιχείων· καὶ δέ-
+δωκας αὐτῷ, κατὰ μὲν τὴν ψυχὴν, τὴν λογι-
+κὴν διάγνωσιν, εὐσεβείας καὶ ἀσεβείας διάκρισιν,
+δικαίου καὶ ἀδίκου παρατήρησιν· κατὰ δὲ τὸ σῶμα
+τὴν πεντάθλον ἐχαρίσω αἴσθησιν, καὶ τὴν μετα-
+βατικὴν κίνησιν. Σὺ γὰρ, Θεὲ παντοκράτορ, διὰ
+Χριστοῦ παράδεισον ἐν Ἐδὲμ κατὰ ἀνατολὰς ἐφύτευ-
+σας, παντοίων ἐδωδίμων κόσμῳ, καὶ ἐν αὐτῷ ὡς
+ἂν ἐν ἑστίᾳ πολυτελεῖ εἰσήγαγες αὐτόν· κἀν τῷ
+ποιεῖν νόμον δέδωκας αὐτῷ ἔμφυτον, ὅπως οἴκοθεν
+καὶ παρ' ἑαυτοῦ ἔχοι τὰ σπέρματα τῆς θεογνωσίας.
+
+# block=13 source_x1=227 source_y1=104 source_x2=981 source_y2=901
+ποτὲ δὲ στρωννύων αὐτὴν εἰς (51) πεδίον, καὶ ποτὲ
+μὲν ἐκμαίνων χειμῶνι, ποτὲ δὲ πραΰνων γαλήνῃ, ὡς
+ναυσιπόροις πλωτήρωσιν εὔκολον εἶναι πρὸς πορείαν·
+ὁ ποταμοῖς διαζώσας τὴν ἀπὸ σοῦ διὰ Χριστοῦ γε-
+νόμενον κόσμον, καὶ χειμάῤῥοις ἐπικλύσας, καὶ
+πηγαῖς ἀεννάοις μεθύσας, ὄρεσι δὲ περισφίγξας εἰς
+ἕδραν ἀτρεπῆ γῆς ἀσφαλεστάτην. Ἐπλήρωσας γὰρ
+σου τὸν κόσμον, καὶ διεκόσμησας αὐτὸν βοτάναις εὐ-
+όσμοις καὶ ἰασίμοις· ζώοις πολλοῖς καὶ διαφόροις,
+ἀλκίμοις καὶ ἀσθενεστέροις, ἐδωδίμοις καὶ ἐνεργοῖς,
+ἡμέροις καὶ ἀτιθάσσοις· ἑρπετῶν συριγμοῖς, πτηνῶν
+ποικίλων κλαγγαῖς· ἐνιαυτῶν κύκλοις, μηνῶν καὶ
+ἡμερῶν ἀριθμοῖς, τροπῶν τάξεσι· νεφῶν ὀμβροτό-
+κων διαδρομαῖς, εἰς καρπῶν γονὰς, καὶ ζώων σύ-
+στασιν, σταθμὸν ἀνέμων διαπνεόντων ὅτε προσ-
+ταχθῶσι παρὰ σοῦ, τῶν φυτῶν καὶ τῶν βοτανῶν τὸ
+πλῆθος. Καὶ οὐ μόνον τὸν κόσμον ἐδημιούργησας·
+ἀλλὰ καὶ τὸν κοσμοπολίτην ἄνθρωπον ἐν αὐτῷ ἐ-
+
+# block=14 source_x1=999 source_y1=807 source_x2=1747 source_y2=1811
+mundi civem hominem effecisti, ac eum mundi
+mundum, seu ornatus ornatum constituisti. Di-
+xisti enim Sapientiæ tuæ : « Faciamus hominem ad
+imaginem nostram, et ad similitudinem : et domi-
+nentur piscibus maris, et volatilibus cœli ⁹³, » ⁹⁴ Ideo
+que fecisti eum ex anima immortali et corpore dis-
+sipabili; illa quidem ex nihilo effecta, hoc vero ex
+quatuor elementis, et dedisti ei, in anima quidem
+rationalem dijudicationem, pietatis ac impietatis
+discretionem, justi ac injusti animadversionem; in
+corpore autem donasti quinquertium sensuum at-
+que motum progressivum. Tu namque, Deus om-
+nipotens, per Christum, in Edene ad orientem
+plantasti paradisum ⁹⁵, omni genere esculentarum
+plantarum ornatum, et in eum tanquam in opipa-
+ram domum induxisti hominem; quem, cum effi-
+ceres, lege naturali ac insita donasti, quo intus
+ac ex se haberet cognitionis Dei semina. Introdu-
+cens autem eum in paradisum deliciarum, potesta-
+tem quidem omnium ad participandum concessisti,
+unius vero solius gustatum in spem meliorum re-
+rum interdixisti, ut si mandatum custodiret, illius
+servati mercedem ferret immortalitatem. Cum au-
+
+# block=15 source_x1=989 source_y1=1809 source_x2=1739 source_y2=2375
+tem mandatum neglexit, et fraude serpentis, mu-
+lierisque consilio, gustavit prohibitum fructum; ex
+paradiso quidem juste illum expulisti ⁹⁶, bonitate
+vero tua, funditus pereuntem non despexisti : erat
+enim opificium tuum; sed qui ei subjeceras creatu-
+ram, dedisti ut suis sudoribus ac laboribus sibi
+pararet victum, te omnia producente, augente ac
+maturante : atque eum brevi somno affectum, per
+jusjurandum ad regenerationem vocasti; decreto
+mortis soluto, vitam ex resurrectione promisisti ⁹⁷.
+Neque hoc solum; verum etiam ex posteris ejus, a
+te in multitudinem innumerabilem effusis, eos qui
+tibi adhæserunt, glorificasti, eos vero qui a te de-

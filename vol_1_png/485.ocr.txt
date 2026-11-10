@@ -1,0 +1,192 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,944,1714,1693,2311
+2,156,1110,909,1792
+3,945,1328,1693,1705
+4,155,1802,910,2269
+5,160,416,913,882
+6,950,158,1699,1016
+7,153,2277,903,2616
+8,940,2317,1704,2615
+9,947,1153,1694,1317
+10,159,891,908,1099
+11,164,156,917,406
+12,950,1025,1695,1146
+13,184,2663,1217,2698
+14,619,104,1267,139
+16,153,92,229,142
+17,1631,90,1709,138
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=16 fontSize=16px
+# block=17 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+370
+
+# block=16
+369
+
+# block=14
+EPISTOLÆ AD VIRGINES. — PROCEMIA.
+
+# block=11
+ut auctor Dialogi Philopatris qui sub Trajani im-
+perio scripsit, hanc ipsa ratione Christianos derideat,
+et cuidam fideli dicat : Jura mihi per Deum cœli, et
+supremum Dominum, per Filium Patris, per Spiri-
+tum qui a Patre procedit, Deum unum in tribus, et
+trinum in uno.
+
+# block=6
+scipulis suis ut eos ipsi abjicerent, quando dixit :
+Dæmones ejicite ²⁷. Quid mirum igitur si auctor
+Epistolarum regulas statuat quas sequi debeant
+exorcistæ? Quid porro istæ redolent nisi castitatem,
+mortificationem, humilitatem? Indicat quid sit
+agendum ut spiritus malignus efficaciter expella-
+tur; sed non ideo fraudis insimulat eos qui hanc
+exorcizandi rationem non adhibuerint. Ipse Christus
+docuit discipulos suos quibusnam armis muniti
+pravos spiritus debellare deberent; sed fraudis aut
+mendacii reos esse non pronuntiavit quando ei
+narrarunt se optato caruisse effectu. Rem sic ex-
+ponit Evangelista : Tunc discipuli accesserunt ad
+Jesum secreto, et dixerunt: Quare nos non potui-
+mus ejicere illum? Dixit illis Jesus : Propter incre-
+dulitatem vestram. Amen, quippe, dico vobis, si ha-
+bueritis fidem sicut granum sinapis, dicetis monti
+huic : Transi hinc illuc : et transibit, et nihil impos-
+sibile erit vobis. Hæc autem genus non ejicitur nisi
+per orationem et jejunium ²⁸.
+
+# block=5
+Abstinere debuisset ab omni contentione D. de
+Premagny occasione alterius textus quem deprom-
+pserat sanctus Basilius ab alio sancti Clementis
+opere quod periit. En ille textus : Clemens Roma-
+nus antiquior dicit : Vivit Deus, et Dominus Jesus
+Christus, et Spiritus sanctus ²⁶. Credidit sanctus
+Basilius hæc sancti Clementis verba sufficere ut
+stabiliretur consubstantialitas Verbi divini, Ariani-
+que refellerentur. Hoc non admittit D. de Premagny.
+Quis vero hærebit inter affirmantis et negantis au-
+ctoritatem?
+
+# block=10
+X. Ægre D. de Premagny videtur suscipere
+verba quibus Epistolarum auctor incitat ad imita-
+tionem trium divinarum personarum. Remitto hac
+de re lectorem ad ea quæ subjeci in adnotatione
+loci hujus.
+
+# block=12
+Cessent ergo philosophi hujus sæculi in sanctis
+Patribus vituperare quæ in Christo revereri de-
+bent, nisi forte Christo renuntiaverint.
+
+# block=2
+XI. Juxta adnotatorem multum nutat Epistolarum
+nostrarum auctoritas ex fraude et hypocrisi quæ
+exprobrantur quibusdam directoribus. Non major,
+ait, declamatio erat tempore Chrysostomi. Sed si
+inde anceps esset Epistolarum auctoritas, sequere-
+tur dubias quoque judicari posse plerasque sancti
+Pauli Epistolas : in his enim vehementer invehitur
+vas electionis contra pseudo-apostolos. Nos vero qui
+tenemus ab initio mendacem ac homicidam fuisse
+dæmonem, scimus quoque ab incunabulis Ecclesiæ
+huic præsto fuisse ministros quorum versutiæ omni
+tempore revelatæ sunt et fortiter exploræ. Non de-
+fuit Satanæ suppositum in ipsa Christi societate;
+nec tamen testimonium de illius perfidia ab evan-
+gelistis præstitum, infirmare unquam potuit cætera
+quæ scripserunt.
+
+# block=9
+Sed res notatu dignissima est, plerosque hæreti-
+cos et philosophos, ad solam commemorationem
+dæmonum et exorcismorum excandescere et exagi-
+tari quasi ipsi a dæmonibus obsiderentur.
+
+# block=3
+XII. Auctorem Epistolarum arguit adnotator
+quasi narratorem parum veracem eorum quæ ad
+Dominum nostrum pertinebant. « Clemens, inquit,
+non est diligens relator itineram Christi. Absque
+dubio enim, plures comitatæ sunt eum mulieres,
+paulo ante quam vitam consummaret. Non semel
+hospitatus est ac manducavit in domo Mariæ et
+Marthæ; nec semel mulieres effuderunt unguentum
+super caput et pedes illius, » etc.
+
+# block=1
+Nullus est in pauperum scholis puerulus aut
+puellula quæ eamdem ac philosophus Rothomagen-
+sis eruditionem hic producere non valuisset. Nun-
+quid propterea ausi fuissent docere aut reprehen-
+dere virum apostolicum, summum pontificem et
+martyrem? Ut autem reclamationes domini de Pre-
+magny alicujus ponderis essent, debuisset citare
+quædam sancti Clementis verba quæ suis reclamá-
+tionibus occasionem æquam dedissent; sed nulla
+prorsus ejusmodi verba existunt. Dicetur forte non
+verum, sed pseudo-Clementem hic impeti: admitti
+potest ejusmodi excusatio, quin admittatur hypo-
+thesis gratuita quam textus sedulo examinatus
+respuit.
+
+# block=4
+Occasione possessionum et exorcismorum, infert
+adnotator in illis abditas fuisse meras fraudes, ab
+Asiæ Judæis derivatas. Inde in campum divertit
+morborum, præsertim eorum qui convulsiones pa-
+riunt, quibus fideles delusos fuisse asserit, quasi
+dæmonis operationes in his fingerentur. Post hanc
+irruptionem, philosophus Rothomagensis ait : « Quo
+major antiquitas ambabus nostris Epistolis dabitur,
+eo propius ad originem Christianorum abusus
+adducentur: quod est incommodum et creditu dif-
+ficile.
+
+# block=7
+At mihi respondere permittatur : cur mutat ad-
+notator naturam rerum de quibus locutus est Epi-
+stolarum auctor? Ne unum quidem verbum ille
+protulit de fraudibus aut de fictis morbis, aut de
+convulsionibus diabolo attributis. Ergo in aerem
+locutus est D. de Premagny, ejusque opera periit.
+Certissime Christus (velit, nolit criticus noster)
+abjecit ipse dæmones, præcepitque apostolis ac di-
+
+# block=8
+Quod autem adnotator tam serena fronte asserit
+Christum non semel hospitatum fuisse in domo
+Marthæ et Mariæ, verum est quidem de prandiis;
+sed facillime contradici potest quoad pernoctatio-
+nem : veteres enim tradidere Christum secedere
+consuetum in montem et solitudinem quando apo-
+stoli ipsi ad quietem sumendam lectum petebant.
+
+# block=13
+²⁶ Bas. De Spirit. S., c. 29. ²⁷ Matth. x, 8. ²⁸ Matth. XVII, 18 et seq.

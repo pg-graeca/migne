@@ -1,0 +1,158 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,965,224,1720,991
+2,968,2427,1718,2681
+3,971,2084,1721,2421
+4,969,1000,1720,2076
+5,188,137,938,2686
+6,773,82,1134,118
+7,971,139,1716,215
+8,199,93,248,127
+9,1652,66,1728,122
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Nuper tandem v. cl. Andreas Gallandius presby-
+ter congregationis Oratorii S. Philippi Nerii,antece-
+dentium omnium editionum subsidio instructus,
+emendatissimas et castigatissimas edere omni stu-
+dio ac opere adnisus est hasce Clementis epistolas
+in sua Bibliotheca veterum Patrum opere uti ex-
+cellentissimo, et utilitatis, quam scientiarum ec-
+clesiasticarum studiosis omnibus afferat cumulatis-
+simam, laude præstantissimo; ita sumptuoso, char-
+tæ insuper nitore et characterum venustate undi-
+que expolito ex typographia Joa. Albrizii Venetiis
+1765. Quantum vero laboris, ac diligentiæ in ador-
+nanda hac editione impenderit, pluribus exponit in
+Prolegomenis , atque simul ibidem epistolarum
+istarum præstantiam, integritatem, ac sinceritatem
+invictis argumentis tuetur, ac vindicat ; cujus la-
+bore nos quoque plurimum usos fuisse, in signum
+gratitudinis palam fatemur.
+
+# block=2
+Primus Turnebus eamdem Græce et Latine edi-
+dit Parisiis anno 1554 in-4°. Clementina et Epitome
+illa exstant etiam in Coteleriana collectione; de qua
+superius mentio a nobis instituta est, cum supposi-
+titiis sancti Clementis litteris ad sanctum Jacobum
+episcopum Hierosolymitanum.
+
+# block=3
+Recognitionum libri a Rufino Latine redditi Ba-
+sileæ cum pseudo-decretalibus anno 1526, in-fol. ,
+et subin Parisiis 1541 et 1568, Coloniæ 1569. Lug-
+duni in PP. Bibliotheca anno 1677 sunt evulgati.
+Coloniensis editio præter Recognitionum libros
+Clementina quoque, et S. Petri gestorum summam
+a Perionio conversam cum notis Venradii comple-
+ctitur.
+
+# block=4
+Anglice Clementis Romani epistolæ ad Corinthios
+per Guil. Burtonium, cum notis copiosis ac Guil.
+Cavei judicio Londini 1647, atque iterum Guil.
+Wakæo interprete, una cum Barnabæ, Ignatii, Po-
+lycarpi epistolis atque Hermæ Pastore itidem in
+sermonem Anglicum conversis sub titulo : « Epistolæ
+genuinæ Patrum apostolicorum in Anglicum ser-
+monem translatæ Londini 1693, » in-8° ; et iterum
+ibidem 1710 prodierunt. In Gallicam linguam am-
+bæ a Gratio Oratorii sodale, conversæ fuere, et
+quarto Gallicorum Bibliorum tomo, anno 1717 in-
+fol. Parisiis insertæ. Easdem in idioma Germano-
+rum transtulit Jo. Otto Glüsing Hamburgi 1723, in-
+8°, cum epistolis et scriptis virorum apostolicorum.
+Antiquior adhuc habetur conversio in Bibliis Ger-
+manicis Hamburgi editis anno 1710. Nostra ætate
+utramque edidit Germanice Simon Grynæus Basi-
+leæ 1782 in-8° cum aliis Patrum apostolicorum
+monumentis, appositis quibusdam notulis dubiæ fi-
+dei : inde factum, ut P. Vitalis Moesl monachus Ord.
+S. Benedicti Salisburgi ad S. Petrum, quo faciliorem
+atque securiorem Catholicis etiam Patrum apostoli-
+corum lectionem redderet, eamdem, paucis contra
+fidem catholicam militantibus, immutatis, Augustæ
+Vindelicorum 1774 denuo procudendam curarit.
+
+# block=5
+celeberrimo de Patribus apostolicis. Eas quoque
+recensuit ac notarum spicilegium collegit Paulus
+Colomesius anno 1687 Londini in-8°, quæ editio ite-
+rata ac emendata prodiit denuo 1694 ibidem. Cote-
+lerii interpretationem adjectis suis notulis evulga-
+vit Clericus Antwerpiæ seu verius Amstelodami
+anno 1698 in collectione Patrum apostolicorum, et
+auctius adhuc anno 1724 ibidem in-fol. Collectioni
+insuper conciliorum cum Labbeanæ tum Mansia-
+næ, ac primo volumini Epistolarum Romanorum
+pontificum Coutantii epistolæ præfatæ insertæ
+sunt. Anno 1718 , Cantabrigiensis satis luculenta
+harum epistolarum editio in vulgus prodiit summa
+cura Henrici Wottoni elaborata ; eam enim haud
+semel exigens v. cl. ad fidem ms. codicis Alexan-
+drini, adhibito etiam Junii edito cum eodem co-
+dice a Millio atque Grabio collato, Junianum textum,
+quem cæteri editores sunt secuti, octogies emen-
+davit supplevitque ; quæ vero aberant a ms. exem-
+plari atque a Junio litteris miniatis designabantur,
+minutioribus typis imprimenda curavit, lectiones
+et conjecturas , Junii, Boisii, Cotelerii, Felli, Co-
+lomesii ac Clerici inter variantes lectiones po-
+suit. Hanc autem Wottonianam editionem licet
+omnium accuratissimam , qui deinceps episto-
+las Clementinas typis excuderunt, viri eruditi,
+si Richardum Russelium et Gallandium excipias,
+præteriere inconsultam. Quod quidem mirum ,
+sin minus de reliquis , saltem de Clerico, qui
+eamdem præ manibus habuit ; ex ea enim sele-
+ctiores Boisii adnotationes a Wottono tum primum
+editas descripsit, quas in secundam Amstelodamen-
+sem Patrum apostolicorum editionem Coteleria-
+nam transtulit. At eo in primis nomine illam insu-
+per habuisse videtur Clericus, quod editor Canta-
+brigiensis tum Eduardi Bernardi notulas, quibus
+epistolæ primæ αὐθεντίαν elevare conatus est, ex-
+sufflarit, tum ipsummet Clericum identidem haud
+immerito castigarit. Anno 1742, Joan. Ludovicus
+Frey epistolas Patrum apostolicorum typis Basile-
+ensibus consignavit, Wottonianum exemplar, quod
+quidem exoptabat, primum obtinuit, cum jam
+epistola 1 Clementis e prelo evasisset ; ut pro-
+inde posteriorem tantummodo paulo emendatiorem
+exhibuerit. Qualemcunque tamen hujus editionis
+Freyanæ, alioquin satis nitidæ, defectum supplere
+annisus est vir eruditus Antonius Birrius in Publico
+specimine itidem Basileæ anno 1744 edito, atque
+conjecturis haud pœnitendis ad textum Clementi-
+num editionis Wottonianæ ulterius adhuc detergen-
+dum referto. Russelius in suis Patrum apostolico-
+rum operibus genuinis Londini anno 1746 evul-
+gatis, Wottonianam editionem præ cæteris sibi se-
+quendam jure censuit ; qui et ad calcem secundæ
+partis voluminis primi laudabili consilio pleraque
+subjecit adnotata ex Joa. Millii apographo accu-
+rate ad ms. codicis Alexan. fidem exacto descri-
+pta ; quæ quidem adnotata Wottonus prætermisit ,
+quamvis et ipse apographum Millianum sibi com-
+
+# block=6
+PROCŒMIA VARIORUM.
+
+# block=7
+parasse asseveret, et passim ex eo accuratior reddi
+editio potuerit, teste Gallandio.
+
+# block=8
+181
+
+# block=9
+182

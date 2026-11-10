@@ -1,0 +1,151 @@
+# layer=rawLLM
+# block=17
+235
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=18
+236
+
+# block=10
+CAPUT XIII. ΚΕΦΑΛΑΙΟΝ ΙΓʹ.
+
+# block=12
+ΚΕΦΑΛΑΙΟΝ ΙΓ΄.
+
+# block=2
+Humiles itaque simus, fratres, deponentes omnem
+arrogantiam, et fastum, et amentiam, et iras; at-
+que faciamus quod scriptum est : dicit enim Spiri-
+tus sanctus : Non glorietur sapiens in sapientia sua,
+neque fortis in fortitudine sua, neque dives in divitiis
+suis; sed qui gloriatur, in Domino glorietur, quæ-
+rendo illum, et faciendo judicium ac justitiam 79:
+præcipue memores sermonum Domini Jesu, quos
+locutus est docens mansuetudinem et æquanimita-
+tem. Sic enim dixit : Estote misericordes, ut miseri-
+cordiam consequamini; dimittite, ut dimittatur vo-
+bis; sicut facitis, ita vobis fiet; sicut datis, ita da-
+bitur vobis; sicut judicatis, ita judicabimini; sicut
+indulgetis, ita vobis indulgebitur; qua mensura
+metimini, in ea mensurabitur vobis 80. Hoc præcepto
+et his mandatis stabiliamus nos ipsos, ut in obe-
+dientia sanctorum eloquiorum ejus ambulemus,
+humiliter de nobis sentientes. Ait enim sanctus
+sermo : Super quem respiciam, nisi super mansue-
+tum et quietum, et trementem sermones meos 81?
+tiva [ἐπι]βλέψω, ἀλλ᾿ ἢ ἐπὶ τὸν πραῢν καὶ [ἡσύχ]υ,
+
+# block=1
+Ταπεινοφρονήσωμεν οὖν, ἀδελφοὶ, ἀποθέμενοι πᾶ-
+σαν ἀλαζονείαν, καὶ τῦφον, καὶ ἀφροσύνην, καὶ
+ὀργάς· καὶ ποιήσωμεν τὸ γεγραμμένον. Λέγει γὰρ τὸ
+Πνεῦμα τὸ ἅγιον· Μὴ καυχάσθω ὁ σοφὸς ἐν τῇ
+σοφίᾳ αὐτοῦ, μηδὲ ὁ ἰσχυρὸς ἐν τῇ ἰσχύϊ αὐτοῦ,
+μηδὲ ὁ πλούσιος ἐν τῷ πλούτῳ αὐτοῦ· ἀλλ᾿ ἢ ὁ
+καυχώμενος (87), ἐν Κυρίῳ καυχάσθω (88), τοῦ
+ἐκζητεῖν αὐτὸν, καὶ ποιεῖν κρίμα καὶ δικαιοσύ-
+ην (89)·] μάλιστα μεμνημένοι τῶν λόγων τοῦ
+Κυρίου Ἰησοῦ, οὓς ἐλάλησε διδάσκ[ων] ἐπιείκειαν
+καὶ μακροθυμίαν. [Οὗ]τως γὰρ εἶπεν· Ἐλεεῖτε ἵνα
+ἐλεη[θῆ]τε, ἀφέετε ἵνα ἀφεθῇ ὑμῖν· ὡ[ς] ποιεῖτε,
+οὕτω ποιήσεσται ὑ[μῖν·] ὡς δίδοτε, οὕτω δοθή-
+σεται ὑ[μῖν·] ὡς κρίνετε, οὕτω κριθῄσεται [ὑμῖν
+ὡς] χρηστεύσεσθε, οὕτως χρη[στευθή]σεται ὑμῖν·
+ᾧ μέτρῳ με[τρεῖτε] ἐν αὐτῷ μετρηθήσεται ὑμῖν·
+[Ταύτῃ τ]ῇ ἐντολῇ καὶ τοῖς παραγγέλ[μασι] τούτοις
+στηρίξωμεν (90) ἑαυ[τοὺς] τὸ πορεύεσθαι ὑπηκόους
+[ἡμ]ᾶς τοῖς (91) ἁγιοπρεπέσι λόγοι αὐ[τοῦ] τα-
+πεινοφρονοῦντες. [Φησί]ν γὰρ ὁ ἅγιος λόγος· Ἐπὶ
+ν (92) καὶ τρέμοντά μου τὰ λόγια;
+
+# block=9
+CAPUT XIV. ΚΕΦΑΛΑΙΟΝ ΙΔʹ.
+
+# block=4
+Justum ergo ac pium est, viri fratres, Deo potius
+obedientes nos esse, quam sequi eos qui in super-
+bia et sedicione duces fuerunt abominandæ æmula-
+tionis. Detrimentum enim non leve, imo vero
+grande periculum sustinebimus, si præcipitanter
+
+# block=3
+[Δἰ]καινοῦν (93-94) καὶ ὅσιον, ἄνδρες ἀδελφοὶ, ὑπη-
+κόους ἡμᾶς μᾶλλον γενέσθαι τῷ Θεῷ, ἢ τοῖς ἐν ἀλα-
+ζονείᾳ καὶ ἀκαταστασίᾳ μυσαροῦ ζήλου ἀρχη-
+γοῖς ἐξακολουθεῖν. Βλάβην γὰρ οὐ τὴν τυχοῦσαν (95),
+μᾶλλον δὲ κίνδυνον ὑποίσομεν μέγαν, ἐὰν ῥιψοκινδύ-
+
+# block=19
+70 Jer. ix, 23, 24; I Cor. 1, 34; II Cor. x, 17. 80 Luc. VI, 36-38. 81 Isa. Lxvi, 2.
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=14
+Ægypto populi Israëliticus exitus, transitus per mare (
+Rubrum, serpentis ænei elevatio, ut innumera alia
+præteream, ad Messix tempora pertinuisse constat,
+Sed præ aliis, peculiari quodam jure, hæc servatæ
+vitæ, quasi paschalis tessera, et in purpura san-
+guinis redempti pignus prophetix elogium meruisse
+videbantur; siquidem in lege Mosaica perpetuus
+ferè usus symboli illius, nimirum, coccini, in oma-
+nibus cujuscunque generis piamentis et lustratio-
+nibus. Ita Ep. ad Hebr. ix, 49, cuin universus po-
+pulus accepta lege lustrari deberet, Moses dicitur,
+accepisse sanguinem vitulorum et hircorum cum aqua
+et lana coccinea et hyssopo, ipsum quoque librum et
+omnem populum aspersisse. Idem in leprosi purifica-
+tione factum Levit. xiv, 49. Imo vero ex Thalinde di-
+scimus cod. Ioma, יוֹמָא ,diem Chippurim (כִּפְּוּרִים )qui,
+si quis alius, expiationis per Domini sanguinem obti-
+nendæ typum gessit), non sine הלשון לשון די (lingua
+seu filo coccineo celebratus. Imo si Gemarz ejusdem
+libri, et libro luchasin fides, exinde etiam de magnæ
+istius solemnitatis successu judicium ferebatur; si
+enim expiatio rite peracta esset, coccus albedinem
+induebat היה לשון של תורית מלבן ,suisque nivibus
+similem reconlicætiæ gentis innocentiam spopondis-
+se fertur. FELL. — Cf. Talmud, Rosch-hasschana fol.
+31 verso; Ioma, fol. 39 verso et fol. 67 recto. DRACH.
+1071 A 23 Aravovovao. Particulam 5. auam
+
+# block=15
+δικαιοσύνην. Legebat etiam ἐκζητεῖν Lucifer, ver-
+tit enim inquirere, lib. II pro S. Athanasio paulo
+post initium. Item καὶ ποιεῖν κρῖμα καὶ δικαιοσύ-
+vnr repereries in Antiochi homilia 43. Cor.
+
+# block=6
+(92) Ἐπὶ τὸν πραῢν καὶ ἡσύχιον. Nunc LXX : ἐπὶ
+τὸν ταπεινὸν καὶ ἡσύχιον, quo modo a multis lectum
+olim, Clementinæ lectioni favent Athanasius in Do-
+mini occursum, Proclus in sanctam quintam feriam,
+Theodorus Studita serm. Catechet. 90. Psellus ci-
+tatus in Catena in Psalmos et Chrysostomus hom.
+9 in Genesim, expositione in psal. cxxxi et cxlii.
+Sermone de Christi precibus, et hom. 15 et 66
+in Matthæum; qui tamen homil. 55 in Genesim
+utrumque conjungit sic : ἐπὶ τὸν πραῢν, καὶ ἡσύχιον,
+καὶ ταπεινόν; et homil. 41 in Matthæum habet, ἐπὶ
+τὸν πραῢν καὶ ταπεινόν. Cor.
+
+# block=13
+(93-94) Δίκαιον οὖν. In Pandecte Niconis Monachi
+λόγῳ ιηʹ, cod. Reg. 2418, 2423, 2424 : Κλήμεντος
+Ῥώμης. Δίκαιον οὖν καὶ ὅσιον, etc., ut supra inter
+testimonia veterum, col. 43. Connectit verba Cle-
+mentis Epistola 1, cap. hoc et sequenti et 46, item
+Epistola II, cap. 5. IDEM.
+
+# block=5
+(88) Ἐν Κυρίῳ καυχάσθω. Ita quidem D. Pau-
+lus I Cor. I, 31; II.x, 17. Verum aliter Jerem. Ix, 23,
+24. Clemens, al. Cyprianus, alii. COLOM.
+(89) Τοῦ ἐκζητεῖν αὐτὸν, καὶ ποιεῖν κρῖμα καὶ
+
+# block=16
+(95) Τὴν τυχοῦσαν. Editi omittunt articulum
+τὴν, quem Wolt. ex ms. restituit. GALL.

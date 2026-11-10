@@ -1,0 +1,175 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1015,2635,1610,2713
+2,214,2223,1748,2352
+4,246,2629,898,2708
+5,245,2450,962,2497
+6,638,84,1355,126
+7,209,144,967,2212
+9,823,2572,1122,2607
+10,233,94,305,133
+12,997,622,1752,2220
+13,1667,92,1755,136
+14,411,2410,749,2460
+15,1235,2370,1505,2408
+16,479,2364,669,2410
+17,1171,2410,1553,2448
+18,1015,2454,1737,2498
+19,239,2506,793,2554
+20,1005,140,1755,624
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1015 source_y1=2635 source_x2=1610 source_y2=2713
+(28) Τηρήσῃ. Διατηρήσῃ. Cod. Vind. ἰα.
+(29) Δέ. Οὖν cod. Vind. rectius. ἰβ.
+
+# block=2 source_x1=214 source_y1=2223 source_x2=1748 source_y2=2352
+σώσῃ εἰς τὴν βασιλείαν αὐτοῦ τὴν ἐπουράνιον. Ὑπὲρ, πάσης ψυχῆς χριστιανῆς δεηθῶμεν. Σῶσον καὶ ἀνά-
+στησον ἡμᾶς ὁ Θεὸς τῷ ἐλέει σου. Ἐγειρώμεθα. Δεηθέντες ἐκτενῶς ἑαυτοὺς καὶ ἀλλήλους τῷ ζῶντι
+Θεῷ διὰ τοῦ Χριστοῦ αὐτοῦ παραθώμεθα. Ἐπευχέσθω δὲ (29) ὁ ἀρχιερεὺς, καὶ λεγέτω·
+
+# block=4 source_x1=246 source_y1=2629 source_x2=898 source_y2=2708
+(26) Εὐοδίου. Ms. Vind. Ἀννιανοῦ. Cʟᴇʀ.
+(27) Ὀργήν. Addit cod. Vind. δεηθῶμεν. Id.
+
+# block=5 source_x1=245 source_y1=2450 source_x2=962 source_y2=2497
+Domine omnipotens, celsissime, qui in altis ha-
+
+# block=6 source_x1=638 source_y1=84 source_x2=1355 source_y2=126
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=7 source_x1=209 source_y1=144 source_x2=967 source_y2=2212
+Evodio et parcœciis ejus oremus : ut misericors
+Deus illos Ecclesiis sanctis suis præstet incolumes,
+honoratos, longævos, et præbeat eis honoratam
+senectutem in pietate ac justitia. Etiam pro pre-
+sbyteris nostris oremus , ut Dominus liberet illos
+ab omni turpi ac prava re, et concedat illis inte-
+grum et honoratum presbyterium. Pro universo
+Christi diaconio ac ministerio oremus , ut Do-
+minus inculpatam ipsis largiatur ministrationem.
+Pro lectoribus , cantoríbus , virginibus , viduis
+et pupillis oremus : pro iis qui in matrimonio et
+liberorum procreatione vivunt, oremus, ut Domi-
+nus misereatur eorum omnium. Pro eunuchis in
+sanctitate ambulantibus oremus. Pro iis qui con
+tinenter et religiosam agunt vitam, oremus. Pro
+iis qui in sancta Ecclesia oblationes faciunt, ac
+eleemosynas pauperibus dant, oremus : et pro iis
+qui Domino Deo nostro hostias et primitias offe-
+runt, oremus , ut Deus optimus remuneretur eos
+cœlestibus suis gratiis , detque iis in præsenti cen-
+tuplum, et in futuro vitam æternam; atque donet
+ipsis pro temporariis æterna, pro terrenis cœle-
+stia ⁷⁷. Oremus pro recens baptizatis fratribus no-
+stris, ut Dominus eos stabiliat ac firmet, Pro fratri-
+bus nostris mala valetudine afflictis oremus ; ut Do-
+minus liberet illos omni morbo et omni languore,
+sanosque restituat sanctæ suæ Ecclesiæ. Pro navi-
+gantibus ac iter habentibus oremus. Pro iis qui in
+metallis, exsiliis, custodiis et vinculis, propter no-
+men Domini, versantur, oremus. Pro acerba ser-
+vitute oppressis oremus. Pro inimicis et odio ha-
+bentibus nos, oremus : pro persequentibus nos
+propter nomen Domini, oremus : ut Dominus, mi-
+tigato eorum furore, dissipet iram adversus nos
+conciṭatam. Pro iis qui foris sunt, ac errore du-
+cuntur, oremus; ut Dominus illos convertat. Infan-
+tium Ecclesiæ recordemur; uti Dominus, eos in
+timore suo reddat perfectos, et ad mensuram æta-
+tis perducat. Pro nobis invicem oremus; ut Domi-
+nus gratia sua servet nos ac custodiat usque ad
+finem, et liberet nos a malo, et ab omnibus scan-
+dalis operantium iniquitatem ⁷⁸, et salvos nos du-
+cat in regnum suum cœleste. Pro omni anima
+Christiana oremus. Salva et erige nos, Deus, mi-
+sericordia tua. Surgamus. Orantes intente, nos
+ipsos atque mutuo, viventi Deo, per Christum
+ejus commendemus. Precetur autem pontifex, et
+dicat :
+
+# block=9 source_x1=823 source_y1=2572 source_x2=1122 source_y2=2607
+VARIORUM NOTÆ.
+
+# block=10 source_x1=233 source_y1=94 source_x2=305 source_y2=133
+1087
+
+# block=12 source_x1=997 source_y1=622 source_x2=1752 source_y2=2220
+ὑπηρεσίας δεηθῶμεν· ὅπως ὁ Κύριος ἄμεμπτον τὴν
+διακονίαν αὐτοῖς παράσχηται. Ὑπὲρ ἀναγνωστῶν,
+ψαλτῶν, παρθένων, χηρῶν τε καὶ ὀρφανῶν δεηθῶμεν·
+ὑπὲρ τῶν ἐν συζυγίαις καὶ τεκνογονίαις δεηθῶμεν ·
+ὅπως ὁ Κύριος τοὺς πάντας αὐτοὺς ἐλεήσῃ. Ὑπὲρ
+εὐνούχων ὁσίως πορευομένων δεηθῶμεν. Ὑπὲρ τῶν
+ἐν ἐγκρατείᾳ, καὶ εὐλαθείᾳ δεηθῶμεν, Ὑπὲρ τῶν
+καρποφορούντων ἐν τῇ ἁγίᾳ Ἐκκλησίᾳ, καὶ ποιούν-
+των τοῖς πένησι τὰς ἐλεημοσύνας δεηθῶμεν· καὶ
+ὑπὲρ τῶν τὰς θυσίας καὶ τὰς ἀπαρχὰς προσφερόντων
+Κυρίῳ τῷ Θεῷ ἡμῶν δεηθῶμεν· ὅπως ὁ πανάγαθος
+Θεὸς ἀμείψηται αὐτοὺς ταῖς ἐπουρανίαις αὐτοῦ δω-
+ρεαῖς, καὶ δῷ αὐτοῖς ἐν τῷ παρόντι ἑκατονταπλα-
+σίονα, καὶ ἐν τῷ μέλλοντι ζωὴν αἰώνιον, καὶ χαρίση-
+ται αὐτοῖς ἀντὶ τῶν προσκαίρων τὰ αἰώνια, ἀντὶ
+τῶν ἐπιγείων τὰ ἐπουράνια. Ὑπὲρ τῶν νεοφωτίστων
+ἀδελφῶν ἡμῶν δεηθῶμεν· ὅπως ὁ Κύριος στηρίξῃ
+αὐτοὺς καὶ βεβαιώσῃ. Ὑπὲρ τῶν ἐν ἀῤῥωστίᾳ
+ἐξεταζομένων ἀδελφῶν ἡμῶν δεηθῶμεν· ὅπως ὁ Κύ-
+ριος ῥύσηται αὐτοὺς πάσης νόσου καὶ πάσης μαλα-
+κίας, καὶ σώους ἀποκαταστήσῃ τῇ ἁγίᾳ αὐτοῦ Ἐκ-
+κλησίᾳ. Ὑπὲρ πλεόντων καὶ ὁδοιπορούντων δεηθῶ-
+μεν · ὑπὲρ τῶν ἐν μετάλλοις καὶ ἐξορίαις καὶ φυλα-
+καῖς καὶ δεσμοῖς ὄντων διὰ τὸ ὄνομα τοῦ Κυρίου,
+δεηθῶμεν · ὑπὲρ τῶν ἐν πικρᾷ δουλείᾳ καταπονου-
+μένων δεηθῶμεν · ὑπὲρ ἐχθρῶν καὶ μισούντων ἡμᾶς
+δεηθῶμεν · ὑπὲρ τῶν διωκόντων ἡμᾶς διὰ τὸ ὄνομα
+τοῦ Κυρίου, δεηθῶμεν · ὅπως ὁ Κύριος πραΰνας τὸν
+θυμὸν αὐτῶν διασκεδάσῃ τὴν καθ' ἡμῶν ὀργήν (27) ·
+ὑπὲρ τῶν ἔξω ὄντων καὶ πεπλανημένων δεηθῶμεν ·
+ὅπως ὁ Κύριος αὐτοὺς ἐπιστρέψῃ. Τῶν νηπίων τῆς
+Ἐκκλησίας μνημονεύσωμεν· ὅπως ὁ Κύριος τε-
+λειώσας αὐτὰ ἐν τῷ φόβῳ αὐτοῦ, εἰς μέτρον ἡλικίας
+ἀγάγῃ· ὑπὲρ ἀλλήλων δεηθῶμεν· ὅπως ὁ Κύριος
+τηρήσῃ (28) ἡμᾶς καὶ φυλάξῃ τῇ αὐτοῦ χάριτι εἰς
+τέλος, καὶ ῥύσηται ἡμᾶς τοῦ πονηροῦ καὶ πάντων
+τῶν σκανδάλων τῶν ἐργαζομένων τὴν ἀνομίαν, καὶ
+
+# block=13 source_x1=1667 source_y1=92 source_x2=1755 source_y2=136
+1088
+
+# block=14 source_x1=411 source_y1=2410 source_x2=749 source_y2=2460
+Invocatio pro fidelibus.
+
+# block=15 source_x1=1235 source_y1=2370 source_x2=1505 source_y2=2408
+ΚΕΦΑΛΑΙΟΝ ΙΑ'.
+
+# block=16 source_x1=479 source_y1=2364 source_x2=669 source_y2=2410
+CAPUT XI.
+
+# block=17 source_x1=1171 source_y1=2410 source_x2=1553 source_y2=2448
+Ἐπίκλησις τῶν πιστῶν.
+
+# block=18 source_x1=1015 source_y1=2454 source_x2=1737 source_y2=2498
+Κύριε παντοκράτορ, ὕψιστε, ὁ ἐν ὑψηλοῖς κατ-
+
+# block=19 source_x1=239 source_y1=2506 source_x2=793 source_y2=2554
+⁷⁷ Matth. xıx, 29. ⁷⁸ Psal. cxʟ, 9.
+
+# block=20 source_x1=1005 source_y1=140 source_x2=1755 source_y2=624
+ὑπὲρ τοῦ ἐπισκόπου ἡμῶν Κλήμεντος καὶ τῶν παροι-
+κιῶν αὐτοῦ δεηθῶμεν· ὑπὲρ τοῦ ἐπισκόπου ἡμῶν
+Εὐοδίου (26) καὶ τῶν παροικιῶν αὐτοῦ δεηθῶμεν·
+ὅπως ὁ οἰκτίρμων Θεὸς χαρίσηται αὐτοῖς ταῖς ἁγίαις
+αὐτοῦ Ἐκκλησίαις σώους, ἐντίμους, μακροημε-
+ρεύοντας· καὶ τίμιον αὐτοῖς τὸ γῆρας παράσχηται
+ἐν εὐσεβείᾳ καὶ δικαιοσύνῃ· καὶ ὑπὲρ τῶν πρεσβυ-
+τέρων ἡμῶν δεηθῶμεν· ὅπως ὁ Κύριος ῥύσηται αὐ-
+τοὺς ἀπὸ παντὸς ἀτόπου καὶ πονηροῦ πράγματος,
+καὶ σώους καὶ ἐντίμου τὸ πρεσβυτέριον αὐτοῖς πα-
+ράσχοι. Ὑπὲρ πάσης τῆς ἐν Χριστῷ διακονίας καὶ

@@ -1,0 +1,159 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,281,1793,1032,2259
+2,1068,2183,1808,2480
+3,283,2268,1028,2480
+4,1064,222,1818,2178
+5,282,164,1033,1784
+6,286,2603,1022,2708
+7,316,2528,536,2562
+8,814,95,1283,131
+9,1100,2600,1777,2675
+10,288,99,341,135
+11,1065,151,1810,228
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Ne quis autem putet his duobus tantummodo an-
+tiquis Patribus Epistolas de quibus agimus fuisse
+perspectas : siquidem et alios vetustiores illas haud
+ignorasse comperimus ex plerisque locis parallelis
+Justini martyris, Clementis Alexandrini, Cypriani
+atque insuper ejusdem Hieronymi, quæ diligenter
+conquisita exegit ad Clementina laudatus Wetste-
+nius (4). Et ea quidem hic describere libuisset.
+Verum pro instituti nostri ratione satius duximus
+illa prætermittere, ne longius quam par sit excur-
+rat oratio.
+
+# block=2
+Deinde scribendi, exempla in medium produ-
+cendi, et ratiocinandi methodus, eadem omnino
+utrobique perhibetur. Verbi causa, in epist. 1 ad
+Corinth., capp. 4-12 et alibi passim : Recurramus,
+inquit, ad omnes generationes. — Fixis oculis eos
+intueamur, qui magnificæ ejus gloriæ perfecte ser-
+vierunt. Sumamus Enoch, etc. — Sed ut vetera
+
+# block=3
+XIII. Quandoquidem vero præter argumenta ex-
+terna e veterum testimoniis usurpata quæ ab obje-
+ctionibus hactenus pro viribus vindicavimus, præ-
+sto sunt quoque interna quibus earundem episto-
+larum integritas magis magisque confirmatur ; ea
+
+# block=4
+Primum igitur in his epistolis Syriacis nonnul-
+las sententias perspicimus, quas pæne αὐτολεξεὶ
+Græcæ pariter exhibent. Unum alterumve speci-
+men accipe. I. Legimus in Epist. 1 ad Corinth.
+cap. 27 : Hac igitur spe animi nostri ad eum adstrin-
+gantur, qui fidelis est in promissionibus. — Qui ne
+mentiamur præcepit, multo magis ipse non mentietur :
+nihil quippe Deo impossibile, præterquam mentiri.
+Sic plane in epist. 1 ad virgines, cap. 4 : Desiderat
+spem promissam et præparatam et positam in cælis a
+Deo, qui promisit ore et non mentitur. Utrobique
+scilicet Paulum apostolum, ut assolet, imitatur
+Clemens ; apud quem eadem phrasis occurrit ⁴⁶ :
+Ut per duas res immobiles, in quibus impossibile
+est mentiri Deum, fortissimum solatium habeamus,
+qui confugimus ad tenendam propositam spem. II. In
+Epist. 1 ad Corinth., cap. 4, ita scribit S. Pater :
+Æmulatio effecit, ut Joseph ad mortem usque per-
+secutionem sustineret, et in servitutem addiceretur.
+Eadem loquendi ratio in epist. 2 ad virgin., cap.
+8 : Nonne pulchritudinem hujus casti et recti (Joseph)
+concupivit mulier ? ut in concupiscentia cum non se
+subjiceret et inclinaret ut faceret libidinem et volun-
+tatem ejus, in omnem afflictionem et in omnem cru-
+ciatum conjiceret virum justum usque ad mortem.
+III. In epist. 1 ad virgin. laudat Clemens operarios
+imitantes Patrem et Filium et Spiritum sanctum.
+Quibus affinia ex alio ejusdem Clementis loco pro-
+fert S. Basilius, sic inquiens (5) : Ὁ Κλήμης
+ἀρχαϊκώτερον· « Ζῇ, φησὶν, ὁ Θεὸς, καὶ ὁ Κύριος
+Ἰησοῦς Χριστὸς, καὶ τὸ Πνεῦμα τὸ ἅγιον. » Cle-
+mens simplicius : « Vivit, inquit, Deus, et Domi-
+nus Jesus Christus, et Spiritus sanctus. » Alia
+ejusmodi haud pauca in promptu erunt Epistolas
+Corinthiacas ac Syriacas attente legenti, easque
+sedulo invicem conferenti ; quibus proinde referen-
+dis supersedemus. Hic tamen illud solummodo
+rursum subjicere placet, quod ex viro doctissimo
+(6) superius protulimus : « Quo singularior, ait,
+est sententia iterum prolata, eo aptior est ad per-
+suadendum, epistolas in quibus pariter laudatur,
+ab uno auctore proficisci. Unum enim eumdemque
+locum, ubi sese offert occasio, ab eodem scriptore
+in eodem opere, quanto magis in diversis, iterato
+citari quid mirum ? »
+
+# block=5
+Lucinium n. 4, Hippolyti Portuensis opusculum
+Contra Gentes, cujus nulla mentio in Catalogo cap.
+61. Haud equidem miror : in eo enim recenset S.
+doctor Hippolyti libros quos reperit, ut ipse testa-
+tur : ab eo autem postea repertum opus illud apo-
+logeticum, indicat annus 397, quo scripta fertur
+eadem epistola. II. In præfatione ad librum XVIII,
+in Isaiam, Dionysium Alexandrinum librum com-
+posuisse tradit contra Irenæum Lugdunensem epi-
+scopum, chiliastici regni assertorem ; quem tamen
+omittit in Catalogo cap. 69, licet ibi ejusdem Dio-
+nysii operum recensionem longe accuratam insti-
+tuat. Cujus silentii ratio ea demum est, quod com-
+mentaria illa quinque post annos fuerint elucu-
+brata. Neque enim assentiri possum Valesio viro
+doctissimo, censenti (3) S. doctorem minus recte in
+Irenæum transferre, quæ adversus Nepotem episco-
+pum Ægyptium Dionysius litteris tradidit. Siqui-
+dem in Catalogo diserte perhibet Hieronymus, sic-
+uti ante ipsum et Eusebius, duos libros edidisse
+Dionysium adversus Nepotem : in præfatione au-
+tem ad Isaiam l. c. eumdem Dionysium librum
+evulgasse adversus Irenæum asseverat. III. De
+Pierio, Ecclesiæ Alexandrinæ presbytero, verba fa-
+ciens in Catalogo cap. 76, S. Pater, ejus tracta-
+tum de propheta Osee tantummodo nominat : in
+epistola vero 49, num. 3, sub finem anni 393,
+Pammachio inscripta, ejusdem Pierii amplissimum
+commentarium in Epistolam I ad Corinthios col-
+laudat. IV. Prætermittit in Catalogo, cap. 129,
+Didymi Commentarium in Psalmos ; cujus tamen
+meminit in Epistola 112, n. 20, anno 404, ad Au-
+gustinum missa. Dies me deficiet, si omnia recen-
+sere velim quæ veterum scriptorum opera prius
+omissa in libro De viris illustribus, in aliis postea
+lucubrationibus Hieronymianis enuntiantur. Verum
+satis hæc sunto : ex quibus lis omnis dirempta
+esse videtur.
+
+# block=6
+(3) Ad Euseb. H. E., lib. VII, cap. 24.
+(4) Wetsten., Epist. ad H. Venem., pagg. 10 seq.
+et Biblioth. raison., tom. I, art. 8, p. 365.
+
+# block=7
+⁴⁶ Hebr. VI, 18.
+
+# block=8
+AD S. CLEMENTEM I PAPAM
+
+# block=9
+(5) De Spir. sanct., cap. 29, § 72.
+(6) Coutant., Epist. Rom. pontif., pag. 39, § 5.
+
+# block=10
+115
+
+# block=11
+nunc strictim saltem proponere, nostra interesse
+existimamus.

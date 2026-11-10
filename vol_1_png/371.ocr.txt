@@ -1,0 +1,169 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,152,1030,896,1456
+2,150,1933,898,2492
+3,935,1935,1684,2493
+4,937,684,1700,1461
+5,152,166,900,1022
+6,940,165,1680,545
+7,935,2566,1678,2708
+8,145,2568,898,2707
+9,1023,585,1595,652
+10,752,1599,1067,1660
+11,191,1786,1636,1823
+12,736,109,1097,146
+13,536,1708,1261,1745
+14,158,114,213,145
+15,1596,88,1694,150
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=28px centerRows=true
+# block=11 fontSize=17px centerRows=true
+# block=12 fontSize=16px
+# block=13 fontSize=16px centerRows=true
+# block=14 fontSize=16px
+# block=15 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+142
+
+# block=12
+PROOEMIA VARIORUM.
+
+# block=14
+141
+
+# block=6
+in ovili Christi parvos et probatos inveniri , quam
+altum sapientes e spe illius ejici. Claudit epistolam ,
+Deum orans , ut per D. N. J. Christum illis det fi-
+dem , timorem , pacem , patientiam , cæterasque
+virtutes , petitque ut Claudium , Ephebum , Vale-
+sium et Fortunatum, epistolæ hujus tabellarios, brevi
+et cum gaudio remittant , ut citius , inquit , opta-
+bilem nobisque desideratissimam pacem ac con-
+cordiam annuntient.
+
+# block=5
+tionem factam fuisse. Mox contentiones ob Aaronis
+sacerdotium Moysis ætate exortas describit , et Co-
+rinthios injuste episcopatu privavisse eos , qui ab
+apostolorum successoribus constituti fuerant , et
+munere suo inculpate et præclare fungebantur.
+Schisma vestrum , inquit , multos pervertit ; multos in
+animi dejectionem , multos in vacillationem , omnes
+nos in tristitiam conjecit. Turpia sunt , dilecti , et valde
+turpia , et Christiana conversatione indigna , audiri ,
+firmissimam et antiquam Corinthiorum Ecclesiam
+propter unum aut alterum hominem contra presbyte-
+ros seditionem movere. Atque is rumor non tantum
+ad nos pervenit ; sed ad eos quoque , qui a nobis alieni
+sunt animo et sententia ; adeo ut propter vestram in-
+sipientiam , etiam blasphemiæ et convicia nomini Do-
+mini inferantur. Auferamus igitur celeriter hoc scan-
+dalum , et Domino accidamus et plangamus , orantes
+eum ut , propitius factus , reconcilietur nobis atque
+in decoram et castam fraterni amoris viam nos redu-
+cat et restituat.
+
+# block=9
+Analysis epistolæ secundæ D. Clementis
+ad Corinthios.
+
+# block=4
+In altera ad Corinthios epistola, sibi proposuisse
+videtur sanctus Clemens , ut Corinthios ad vitam
+ipsorum vocatione dignam ducendam hortaretur.
+Quare sub ipsum initium docet , eos de Christo ,
+tanquam de Deo sentire æquum esse , et quanta
+eidem debeant , atque quam gratos se illi exhibere
+oporteat , quod eos ad Evangelii lucem vocarit ,
+gratum vero animum non solam divinitatis ejus
+professionem palam edendo probari ait , sed potius
+præceptorum ejus viam ingrediendo. Subdit , ho-
+minis vitam in duo tempora , sive sæcula inter se
+diversa divisam esse , præsens unum , futurum al-
+terum , quæ quasdam veluti inimicitias invicem
+exercent ; prius scelera atque flagitia prædicare ;
+posterius his omnibus nuntium remittere ; præsens
+sæculum pœnitentiæ destinatum , atque Dei iræ et
+futuri sæculi suppliciis effugiendis aptum esse ,
+cujus diem atque tempus penitus ignoramus.
+
+# block=1
+Charitatis deinde laudes persequitur , eam Moysis
+ad instar commendans , qui e libro vitæ deleri cu-
+piebat , si populo suo veniam non impetrasset ; do-
+cetque , qua ratione inter ipsos servari possit ;
+quibus gentilium ipsorum exemplum superaddit ,
+qui ob publicam utilitatem mortem atque exsi-
+lium subiere. Fraternæ etiam correctionis utilitatem
+commemorat , subditque : Vos ergo, qui seditionis
+fundamenta jecistis , subditi estote presbyteris et in
+pœnitentiam corripimini : melius siquidem vobis est
+
+# block=10
+CAPUT III.
+
+# block=13
+S. CLEMENTIS ROMANI OPERA DUBIA.
+
+# block=11
+ARTICULUS UNICUS. — Quid de duabus Clementis ad virgines epistolis sit sentiendum.
+
+# block=2
+Quis primus has epistolas detexerit. — Nuperrime
+v. cl. Joannes Jacobus Wetstenius (13) duas alias
+produxit sancti Clementis Romani epistolas, hac-
+tenus omnibus incognitas , quas velut sinceros D.
+Clementis fetus agnovit cl. editor , ac pro viribus
+eidem asserere est aggressus. Verum duos præ cæ-
+teris viros haud incelebres nactus est adversarios :
+alterum quidem Nathanaelem Lardnerum , qui
+anno 1753 dissertationem 60 paginarum in-8° An-
+glice Londini edidit ; pluribusque in contrariam
+sententiam adductis , in eam tandem cogitationem
+devenit , has nimirum epistolas circa medium sæ-
+culi tertii ab episcopo Orientalis Ecclesiæ fuisse per-
+
+# block=3
+scriptas (14) ; alterum vero Hermannum Venema ,
+qui anno insequente 1754, Harlingæ vulgatis tri-
+bus epistolis , viris clarissimis Wesselingio , Hem-
+sterhusio, et Cannegietero inscriptis , easdem epi-
+stolas Clementinas supposititias esse omni studio
+contendit evincere ; in iis enim inter alia D. Hie-
+ronymi stylum sibi suboluisse innuit (15).Et quam-
+vis de auctore ac tempore , quo vixerit , nihil de-
+finiat ; eum tamen fuisse Orientalem, non Roma-
+num , et Origene quoque posteriorem arguit (16).
+Utrique statim respondit Wetstenius , iterumque ,
+quas edidit epistolas, magis magisque Clementi Ro-
+mano vindicavit : Lardnero quidem in Diario lit-
+
+# block=7
+(14) Lardner , A dissertation upon the two Epi-
+stles ascribed to Clement of Rome , 37, 54 et 57.
+(15) Venema , epist. 2, § 27, § 89.
+(16) Idem , ep. 3, § 16 et seqq., pag. 129.
+
+# block=8
+(13) In Novo Testamento Græco cum lectionibus
+variantibus , commentario pleniore ex scriptoribus
+Hebræis , Græcis et Latinis, Amstælodami 1751
+edito.

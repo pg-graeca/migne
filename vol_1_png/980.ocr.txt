@@ -1,0 +1,208 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,990,2294,1735,2687
+2,994,829,1750,1258
+3,210,1833,957,2027
+4,201,783,953,1520
+5,211,1602,961,1832
+6,203,133,969,776
+7,209,2033,958,2520
+8,995,1264,1742,1514
+9,995,135,1759,825
+10,215,2592,952,2690
+11,985,1604,1743,2288
+12,209,2525,946,2591
+13,599,78,1313,112
+14,222,84,294,117
+16,822,1540,1130,1574
+20,1675,80,1751,114
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=16 fontSize=15px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=20
+1360
+
+# block=14
+1359
+
+# block=6
+nam patri utpote propinquo suo et una educato,
+nobilis adæque familiæ Cæsar ipse junxit uxorem,
+ex qua duos geminos ante me filios suscepit, non
+valde, ut aiebat pater, sibi invicem similes (37), ego
+enim eos non adeo sciebam. Sed ne matris quidem
+valde memor sum, sed quasi per somnium ita te-
+nuitur vultus ejus speciem recolo. Mater ergo mea
+Matthidia, pater Faustinianus vocitatus est, fratrum
+autem meorum alter Faustinus, alter Faustus dice-
+batur (38). Interea cum ego quinque vidum essem
+annorum, mater, sicut a patre didici, somnium vidit,
+quo moneretur, nisi cum duobus filiis suis geminis
+confestim Urbem fuisset egressa et abfuisset annis
+decem, ipsam pariter cum liberis interitu exitiabili
+perituram.
+
+# block=9
+cœpit, sicubi aliquis eorum vidisset aut audisset
+aliquando ante quatuor annos corpus mulieris cum
+duobus parvulis ejectum. Cum multi multa dicerent,
+nec aliquid nobis rati elucesceret tam immensum
+pelagus perscrutantibus, pro multo tamen affectu
+pater quem erga suos gerebat, pascebatur vanis
+spebus, donec visum est ei, ut me sub procurato-
+ribus ordinatum Romæ relinqueret, annorum cum
+essem duodecim, et ipse pergeret ad requirendum.
+Flens itaque descendit ad portum, et navem con-
+scendens profectus est. Ex eo usque in hodiernum
+neque litteras ejus accepi, neque si vivat aut de-
+functus sit novi. Sed magis suspicor, quia et ipse
+obierit aut tristitia victus aut naufragio; anni
+etenim viginti elapsi sunt quibus hæc geruntur, et
+ne nuntius quidem de eo ad me aliquis venit.
+
+# block=4
+IX. Tum pater, qui tenere diligeret filios, ad-
+junctis servis et ancillis ac sumptibus sufficienter
+præbitis, navi impositos cum matre filios Athenas
+mittit erudiendos, me sibi solum filium ad solatium
+retinens et in hoc quidem gratias agens (39), quia
+non etiam me imperavit somnium pariter cum matre
+discedere. Anno autem completo pater misit ad eos
+Athenas homines et sumptus, scire simul cupiens
+quid agant, nec tamen redeunt qui missi sunt.
+Tertio rursus anno mœstissimus pater mittit alios
+cum pecuniis, qui quarto anno regressi nuntiant
+neque matrem se neque fratres vidisse, sed neque
+Athenas eos omnino pervenisse, neque usquam alicu-
+jus saltem qui cum ipsis fuerant vestigium repertum.
+X. Pater hæc audiens et multa tristitia obstupe-
+factus, nesciens quo tenderet aut ubi quæreret, una
+mecum descendit ad portum, et requirere a nautis
+
+# block=2
+XI. Petrus hæc audiens ex affectu lacrymas fudit,
+et ad eos qui aderant familiares ait : Hæc si quis
+in Dei cultu positus pertulisset quæ hujus pertulit
+pater, statim homines religioni ascriberent ærum-
+narum causam ; quæ cum accidunt miseris gentili-
+bus, malorum causam fato ascribunt. Miseros autem
+dico eos, quia et hic vexantur erroribus et ab spe
+futura fraudantur ; Dei cultores cum hæc patiuntur,
+ad purgationem peccatorum cedit eis, quod perfe-
+runt patienter.
+
+# block=8
+XII. Post hæc dicta unus ex astantibus Petrum
+rogare cœpit, ut die crastina maturius ad insulam
+proximam quæ sex non amplius stadiis aberat,
+Aradum nomine (40), pergeremus, videndi in ea
+gratia mirum aliquod opus, columnas viteas magni-
+tudinis immensæ (41). Cui Petrus, ut erat clemen-
+
+# block=16
+COTELERII NOTÆ:
+
+# block=5
+nium magis resipiunt, quam Cæsaream Romanam-
+que nobilitatem, nisi ego fallor. Fundus fabulæ,
+Flavius Clemens consul patruelis Domitiani, nemini
+non notus. Cui si Clemens noster genere fuit con-
+junctus, cognatus erat Domitiani, non Tiberii. In
+Bernardo Serm. de Clemente : Acceperat B. Clemens
+nobile genus, amplas possessiones, etc.
+
+# block=11
+tiam a Strabone notatam, viginti stadiorum. Quid si
+Rufinus loci ambitum, qui juxta illum geographum
+et Plinium septem est stadiorum, pro distantia ac-
+ceperit? Jam Aradi et Antaradi voces librariorum
+vitio confusas habes non solum in his Operibus Cle-
+menti suppositis, sed et alibi, ut apud Plinium lib.
+V, cap. 20; et in concilio Chalcedonensi, ubi repe-
+ries Paulum modo Aradi, modo Antaradi episco-
+pum; cum ibidem Alexander Antaradi antistes me-
+moretur. Tolle vero, suasore me, duo menda : al-
+terum ex Anselmo monacho in Descriptione terræ
+sanctæ, tom. VI Antiquæ lectionis Henrici Canisii :
+De Arathas (imo Marathos, Geographias vide), usque
+in Antheradum (in marg. Anteradum sive Antara-
+dum) sunt octo leucæ, ubi B. Petrus prædicavit, dum
+iret Antiochiam : aliud ex Athanasio Epistola ad so-
+litariam vitam agentes, p. 812, Κυμάτιος ὁ ἐν Τα-
+ράδῳ, ubi corrigi malo, ἐν Ἀράδῳ, quam ἐν Ἀντα-
+ράδῳ, quia in Apologia de fuga sua, non multo post
+initium sanctus doctor Antaradi episcopum facit
+Carterium.
+
+# block=3
+(37) Non valde sibi invicem similes. Nulla varie-
+tas in codicibus manu exaratis, quod mirum est,
+cum Græca Clementinorum ac Epitomes contrarium
+plane habeant; et quidem eo probabilius, quo res
+est memoratu dignior, magna similitudo gemello-
+rum, quam paulula.
+
+# block=7
+(38) Pater Faustinianus vocitatus est : fratrum
+autem meorum, etc. Ex similitudine nominum ori-
+ginem sumpsit dissimilitudo scripturarum. Siqui-
+dem Græce, ut et apud Nicephorum, Φαῦστος, Φαυ-
+στῖνος et Φαυστινιανὸς sunt pater cum duobus libe-
+ris Niceta et Aquila. Tantum Clementinorum XIII, 11,
+Faustini nomen Aquilæ datur; itemque in pseudo-
+Abdia. At Rufinus interpres fictitiam gradationem
+invertit, ab incremento nempe ad decrementum, fa-
+ciendo Faustinianum, Faustinum, et Faustum ex
+Fausto, Faustino et Faustiniano. Denique pater Ce-
+dreno, atque monacho Altissiodorensi scriptori
+Chronologiæ est Faustus, auctori Libri pontificalis
+et falso Abdiæ Faustinus; Nicetam vero idem im-
+postor Faustum appellat.
+
+# block=1
+(41) Columnas viteas magnitudinis immensæ. Sic
+legendum etiam in Abdia, ex Græcis et ex Nice-
+phoro lib. II, cap. 35 : Vites jure apud priscos ma-
+gnitudine quoque inter arbores numerabantur. Jovis
+simulacrum in urbe Populonia ex una conspicuum,
+tot ævis incorruptum; item Massiliæ pateram. Me-
+taponti templum Junonis vitigineis columnis stetit.
+Etiam nunc scalis tectum Ephesiæ Dianæ scanditur
+vite una Cypria, ut ferunt, quoniam ibi ad præcipuam
+magnitudinem exeunt. Verba Plinii lib. XIV, c. 1, qui
+et legatur lib. XVI, cap. 40. Vide mox infra cap. 26
+sub fin.
+
+# block=12
+(39) Gratias agens. Legebat, εὐχαριστῶν, pro εὐ-
+χαριστῶ.
+
+# block=10
+(40) Insulam proximam. . . . Aradum nomine. In
+Clementinis ac Epitome abesse dicitur stadiis tri-
+ginta non totis : quod propius accedit ad distan-

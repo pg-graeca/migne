@@ -1,0 +1,179 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,241,144,992,1225
+2,1024,1759,1789,2693
+3,1023,140,1781,1139
+4,239,1753,994,2691
+5,1268,1227,1532,1264
+6,645,89,1366,126
+7,859,1671,1161,1711
+9,240,1357,990,1525
+10,493,1238,734,1268
+11,1029,1281,1777,1349
+13,239,1282,991,1347
+14,233,88,317,134
+15,1697,78,1785,130
+16,1029,1364,1765,1536
+17,231,1558,1781,1640
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+adversus ipsum murmur orietur, sed adversus Do-
+minum Deum, audietque diaconus cum reliquis,
+quod audierunt Aaron et Maria, quando Mosi de-
+traxerunt : « Quomodo non timuistis detrahere de
+Moyse servo meo ¹⁹ ? » Et iterum ipse Moyses ad
+eos qui convenerant adversus ipsum, ait : « Non
+enim contra nos est murmur vestrum, sed contra
+Dominum Deum nostrum²⁰. » Si enim qui laicum
+racam aut fatuum appellaverit²¹, non feret impune,
+utpote qui nomen Christi in Christiano homine
+contumelia affecerit ; quid si aliquis loquatur contra
+episcopum? per quem Dominus dedit vobis Spiri-
+tum sanctum, in impositione manuum; per quem
+sancta dogmata didicistis, Deum cognovistis, et in
+Christum credidistis ; per quem a Deo cogniti estis ;
+per quem signati estis oleo exsultationis et un-
+guento intelligentiæ ; per quem filii lucis estis ef-
+fecti ; per quem in baptismo vestro Dominus epi-
+scopali manus impositioni testimonium præbens,
+super unumquemque vestrum sacram emisit vo-
+cem, dicens : « Filius meus es tu ; ego hodie genui
+te²². » O homo, per episcopum Deus te adoptat in
+filium : agnosce, fili, dexteram quæ mater tua est ;
+ama eum qui post Deum pater tuus exsistit ; talem
+venerare.
+
+# block=2
+S. Methodio in Convivio Virginum, orat. 8, p. 107,
+sicut et Latinam : Filius meus es tu: ego hodie genui
+te, auctore Quæstionum Veteris et Novi Testamenti,
+quæstione 54, et postea quæstione 45, Marcello in
+Apocrypho libello De conflictu Petri apostoli et Si-
+monis Magi, quem edidit ad finem Bibliothecæ Pon-
+tificiæ Ludovicus Jacob; necnon B. Hilario De Tri-
+nitate lib. ⅷ, paulo ante medium, lib. ⅹⅰ, etiam
+ante medium, et canone 2, in Matthæum : quo ul-
+timo in loco, esse Matthæi agnoscit. — Qui tamen
+Hilarius in psalm. cxxxⅷ, 1, vulgari utitur scrip-
+tura Matth. ⅲ, 17, et libro ⅸ De Trinit. multo post
+initium illam cum alia ejusdem Evangelii textu
+cap. ⅹⅶ, vers. 5, permiscet ac confundit, pari
+memoriæ errato atque Optatus lib. ⅳ circa finem,
+Epiphanius hær. 51, n. 20, et hær. 76, p. 969, ac
+is qui putatur esse Gregorius Thaumaturgus orat.
+Εἰς τὰ ἅγια Θεοφάνια. Denique, tradente S. Epipha-
+nio hæreseos 30 sectione 13, referri in Ebionæorum
+Evangelio secundum Matthæum, tres voces cœlitus
+lapsas in Domini baptismo : Tu es filius meus di-
+lectus, in te mihi complacui. Et : Ego hodie genui te.
+Et . Hic est filius meus dilectus, in quo mihi com-
+placui. Unde verisimile fit, in verum Matthæum at-
+que in Lucam prædicta verba irrepsisse. Cot.
+(16) Τοῦτον. Abest ex altero codice et quidem
+melius. Cler.
+(17) Θεῖον. Ὅσιον, cod. Vind. Id.
+
+# block=3
+τοῦ ὁ γογγυσμὸς γενήσεται, ἀλλὰ κατὰ Κυρίου τοῦ
+Θεοῦ, καὶ ἀκούσεται ὁ διάκονος καὶ οἱ λοιποὶ, ὡς
+Ἀαρὼν καὶ Μαρία καταλαλήσαντες Μωσέως ἤκου-
+σαν· « Πῶς οὐκ ἐφοβήθητε καταλαλῆσαι κατὰ Μωσῆ
+τοῦ θεράποντός μου ; » Καὶ πάλιν αὐτὸς Μωσῆς
+φησι τοῖς ἐπισυναχθεῖσιν αὐτῷ· « Οὐ γὰρ καθ’ ἡμῶν
+ὁ γογγυσμὸς ὑμῶν ἐστιν, ἀλλὰ κατὰ Κυρίου τοῦ
+Θεοῦ ἡμῶν. » Εἰ γὰρ ὁ λαϊκὸς εἰρηκὼς ῥακὰν ἢ
+μωρὸν, οὐκ ἀτιμώρητος ; ὡς ὑβρίσας τὸ τοῦ Χριστοῦ
+ὄνομα (13), τί ἄν τις κατ’ ἐπισκόπου εἴπῃ ; δι’ οὗ τὸ
+ἅγιον Πνεῦμα ὁ Κύριος ἐν ὑμῖν (14) ἔδωκεν ἐν τῇ
+χειροθεσίᾳ, δι’ οὗ ἅγια δόγματα μεμαθήκατε, καὶ
+Θεὸν ἐγνώκατε, καὶ εἰς Χριστὸν πεπιστεύκατε, δι’
+οὗ ἐγνώσθητε ὑπὸ Θεοῦ, δι’ οὗ ἐσφραγίσθητε ἐλαίῳ
+ἀγαλλιάσεως καὶ μύρῳ συνέσεως, δι’ οὗ υἱοὶ φωτὸς
+ἀνεδείχθητε, δι’ οὗ Κύριος ἐν τῷ φωτισμῷ ὑμῶν τῇ
+τοῦ ἐπισκόπου χειροθεσίᾳ μαρτυρῶν, ἐφ’ ἕκαστον
+ὑμῶν τὴν ἱερὰν ἐξέτεινε φωνὴν (15), λέγων· « Υἱός
+μου εἶ σὺ, ἐγὼ σήμερον γεγέννηκά σε. » Διὰ τοῦ
+ἐπισκόπου σου ὁ Θεὸς υἱοποιεῖταί σε, ἄνθρωπε· γνώ-
+ριζε, υἱὲ, τὴν δεξιὰν τὴν μητέρα σου, στέργε τὸν
+μετὰ Θεὸν γενόμενόν σου πατέρα, καὶ σέβου τοῦ-
+τον (16).
+
+# block=4
+(13) Ὡς ὑβρίσας τὸ τοῦ Χριστοῦ ὄνομα. Is qui
+fragmenta quædam Constitutionum inventa inter-
+pretatus est, Carolus Capellius Venetus, quæ Petrus
+Crabbe in editione Conciliorum ann. 1551 collo-
+cavit, legebat τὸν τοῦ Χριστοῦ νόμον. Vertit enim
+Christi legem. Nec spernenda ea lectio. Cot.
+(14) Ἐν ὑμῖν. Abest rectius in cod. altero. Cler.
+(15) Τὴν ἱερὰν ἐξέτεινε φωνήν. In Anselmo
+ad Matth. ⅲ, ult.: Dicitur ergo : « Hic est filius
+meus ; » quia fideles in baptisinate filii Dei efficiun-
+tur. Unicuique enim dicitur : Hic qui prius erat fi-
+lius diaboli, modo est filius meus, etc. Crediderim
+nostrum ex eorum numero exstitisse, qui in exem-
+plaribus Biblicis repererant : Υἱός μου εἶ σὺ, ἐγὼ
+σήμερον γεγέννηκά σε. Filius meus es tu ; ego hodie
+genui te : S. Augustino dicente in lib. ⅱ De con-
+sensu evangelistarum, cap. 14 : Illud vero quod non-
+nulli codices habent secundum Lucam, hoc illa voce
+sonuisse quod in Psalmo scriptum est, « Filius meus
+es tu; ego hodie genui te; » quanquam in antiquio-
+ribus codicibus Græcis non inveniri perhibeatur, ta-
+men si aliquibus fide dignis exemplaribus confirmari
+possit, quid aliud quam utrumque intelligendum est
+quolibet verborum ordine de cælo sonuisse? et in
+Enchiridio ad Laurentium cap. 49 : Vox illa Pa-
+tris, quæ super baptizatum Christum facta est :
+« Ego hodie genui te ; » eamque lectionem, Υἱός μου
+εἶ σὺ, ἐγὼ σήμερον γεγέννηκά σε, repræsentante
+
+# block=5
+ΚΕΦΑΛΑΙΟΝ ΛΓ'.
+
+# block=6
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=7
+VARIORUM NOTÆ.
+
+# block=9
+Nam si de parentibus carnalibus divina oracula
+pronuntiant : « Honora patrem tuum et matrem
+tuam, ut bene tibi sit ²³ ; » et : « Qui maledicit patri
+vel matri, morte intereat ²⁴ ; » quanto magis de
+
+# block=10
+CAPUT XXXIII.
+
+# block=11
+Ὅπως χρὴ τιμᾶσθαι τοὺς ἱερεῖς, καὶ σεπτοὺς ἡγεῖ-
+σθαι, πνευματικοὺς ὄντας γονεῖς.
+
+# block=13
+Quomodo oporteat sacerdotes, utpote patres spiritua-
+les, honorare, ac veneratione dignos habere.
+
+# block=14
+679
+
+# block=15
+680
+
+# block=16
+Εἰ γὰρ περὶ τῶν κατὰ σάρκα γονέων φησὶ τὸ
+θεῖον (17) λόγιον· « Τίμα τὸν πατέρα σου καὶ τὴν
+μητέρα σου, ἵνα εὖ σοι γένηται. » Καί· « Ὁ κακο-
+λογῶν πατέρα ἢ μητέρα θανάτῳ τελευτάτω· πόσῳ
+
+# block=17
+¹⁹ Num. xii, 8. ²⁰ Exod. xvi, 8. ²¹ Matth. v, 22. ²² Psal. ii, 7. ²³ Exod. xx, 12. ²⁴ Exod.
+xxi, 17.

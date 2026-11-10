@@ -1,0 +1,156 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,948,673,1696,2517
+2,951,156,1692,667
+3,169,158,914,1186
+4,170,1191,914,2520
+5,983,2585,1624,2690
+6,759,105,1117,140
+7,169,104,222,141
+8,172,2573,911,2689
+9,1612,94,1700,140
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Sed ecce tibi rursus vir ille doctissimus, cujus
+paulo ante meminimus, qui ex Hieronymi silen-
+tio in libro De viris illustribus, harum Epistolarum
+suppositionem evincere existimat. « Hieronymus,
+inquit, in Catalogo scriptorum ecclesiasticorum
+Clementem non negligit, laudatque ejus epistolam
+primam ad Corinthios : meminit et secundæ, quam
+tamen non ab omnibus admitti affirmat. Profecto
+non siluisset et geminas alias, si nosset. » Ilias
+utique non omisisset sanctus doctor, si nosset quo
+tempore librum De viris illustribus edidit. Hincne
+vero earum integritatem suspectam reddere liceat?
+Cedo, quo demum anno confecti fuere sive Catalogus
+ille Hieronymianus ubi nulla nostrarum epistola-
+rum mentio, sive libri duo contra Jovinianum in
+quibus eædem ex nostra sententia laudantur? Scili-
+cet ex ipso Hieronymo discimus (2), librum De viris
+illustribus fuisse absolutum anno Theodosii princi-
+pis xiv, hoc est anno Christi 392. Patet præterea ex
+eodem sancto doctore, libros adversus Jovinianum
+post hunc ipsum annum prodiisse : siquidem in
+eorum primo, num. 26 operis De viris illustribus
+meminit. Quare, anno minimum 393, aut serius
+fortasse, contra Jovinianum scripserit S. doctor.
+Nihil igitur mirum, si de quibus loquitur Clemen-
+tinis epistolis in iis libris, eas in Catalogo præter-
+ierit. Cur ita demum, inquies? quia videlicet in
+prologo ad eumdem Catalogum queritur ipsemet
+Hieronymus, pleraque tunc sibi fuisse incomperta.
+Neque enim, ait, de his quæ non legi, nosse potui;
+et quod aliis forsitan sit notum, mihi in hoc terra-
+rum angulo fuerit ignotum. Quid porro, si sanctis-
+simus doctor in subsecutis libris plura memoret
+tractatorum ecclesiasticorum opera, quæ dum eo-
+rumdem reliqua in Catalogo recenseret, omisit? An
+vero fictitia reputanda opera illa, eo quod eadem in
+Catalogo prætermisisset doctor maximus? Imo vero
+nemo jure non dixerit cum ipso Hieronymo, illum
+nempe quæ tunc non legerat, nosse non potuisse,
+quodque in illo terrarum angulo, in solitudine Be-
+thleemitica , ei antea fuerat ignotum, postea comper-
+isse. Agedum, uno vel altero exemplo rem adstrua-
+mus. 1. Memorat Hieronymus in epistola 71, ad
+
+# block=2
+servanda. His denique cum Wetstenio (100) addas
+velim, epistolas quidem Syriacas pro Hieronymo
+et contra Jovinianum maxime facere : in iis enim
+statuit Clemens (1) , virginibus sanctis excellentio-
+rem in cælis locum datum iri , quam conjugibus
+sanctis : quæ est ipsissima sententia Hieronymi.
+Verum ex Epistolis Græcis nullum suæ causæ præ-
+sidium quærere potuisset sanctus doctor , ubi
+nullum de virginitate colenda vestigium. Quæ
+cum ita se habeant , nonnisi de nostris ad vir-
+gines epistolis Hieronymi verba intelligenda esse
+noscuntur.
+
+# block=3
+iis in locis quæ nunc desiderantur; neque enim
+integra ad nos pervenit. Quid loquar? Quovis
+equidem pignore contendere ausim, ex tribus notis
+in testimonio Hieronymiano observatis , nullam
+omnino posteriori epistolæ Corinthiacæ ; at contra
+epistolis nostris ad unam omnes rite congruere.
+Primum enim hæ virginibus fratribus et virgini-
+bus sororibus , id est eunuchis spiritualibus quos ca-
+stravit voluntas , inscriptæ feruntur. Deinde, non
+unam, sed duas epistolas ad illos misit S. Clemens.
+Denique in iisdem omnem pene sermonem de virgi-
+nitatis puritate contexuit. Ubi advertendum, per-
+quam apposite fuisse locutum sanctum Hierony-
+mum : vigilanti siquidem verbo usus, ut phrasi
+Augustiniana loquar (98) , atque restrictionis vo-
+culam pene usurpans , non omnem absolute dixit ,
+sed omnem pene sermonem de virginitate a Cle-
+mente fuisse contextum : propterea scilicet, ut
+optime Wetstenius (99) , quod in prima epistola
+cap. 14 , agitur de visitandis ægrotis, et cap. 15 ,
+de aliis officiis , quæ non magis ad virgines
+quam ad conjuges pertinent ; in secunda vero
+proponuntur exempla Mosis , Aaronis et Josuæ,
+qui certe in conjugio vixerunt.
+
+# block=4
+At enim Hieronymus in disputationibus cum ad-
+versariis, ac præsertim eo in libro contra Jovinia-
+num, omnia exaggerat atque hyperbolice loquitur :
+ut proinde haud miretur quispiam , si secundam
+tantummodo epistolam Corinthiacam respiciens,
+epistolas fuisse a Clemente perscriptas testetur :
+quæ est primum Grabii , deinde Lardneri et Vene-
+mæ sententia. Esto : consueverit aliquando in dis-
+putationis æstu exaggerare Hieronymus ; non est
+tamen cur hic ipsum non humane, non proprie
+locutum existimemus. Præterea , epistolas ad eu-
+nuehos evangelicos dedisse Clementem perhibet
+S. Pater. Num ergo et hic illum hyperbole fuisse
+usum ; aut ad eos quos castravit non necessitas ,
+sed voluntas, missam putabimus quæ est posterior
+ad Corinthios? Quid quod Hieronymo consentiens
+Epiphanius, testatur circulares epistolas eumdem
+missitasse Clementem, in quibus virginitatem edo-
+cet? An vero sanctus quoque Constantiensis epi-
+scopus exaggerasse dicendus? Fac denique in re-
+liquis quæ exciderunt posterioris Epistolæ Corin-
+thiacæ, fuisse de Virginitate locutum Clementem :
+at quomodo, sodes , in ea quæ supersunt quadrent
+Hieronymi verba , quibus affirmat in illis Clemen-
+tinis Epistolis omnem pene sermonem fuisse de vir-
+ginitatis puritate contextum? Ibi namque potissi-
+mum pleraque occurrunt de Christo Deo , de
+vocationis Christianæ præstantia , de mundi con-
+temptu , de certamine spirituali , de carnis resur-
+rectione, de bonis promissis, etc. , paucissima vero
+de castitate in genere , omnibus etiam conjugatis,
+
+# block=5
+(100) Epist., pag. 34.
+(1) Clem., epist. 1 De virgin.. cap. 4.
+(2) De vir. illustr., in prolog. et cap. 135.
+
+# block=6
+PROOEMIA VARIORUM.
+
+# block=7
+113
+
+# block=8
+(98) Aug., in Joan. tract. 120, § 2, Opp. t. III ,
+part. ᴵᴵ, col. 804.
+(99) L. c., pag. 40.
+
+# block=9
+114

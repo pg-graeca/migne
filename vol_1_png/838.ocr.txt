@@ -1,0 +1,204 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,244,2475,991,2710
+2,245,2314,993,2480
+3,1033,141,1790,1004
+4,251,1425,993,1624
+5,248,1621,995,2316
+6,256,141,999,999
+7,665,90,1383,126
+8,1042,1146,1775,1214
+9,288,1216,994,1262
+10,1285,1102,1529,1138
+11,1019,1321,1774,2712
+12,543,1105,711,1138
+13,256,1324,991,1427
+15,1707,94,1791,134
+16,249,90,335,130
+17,277,1144,957,1196
+18,853,1268,1181,1316
+19,1051,1210,1775,1262
+20,247,1008,1789,1088
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=244 source_y1=2475 source_x2=991 source_y2=2710
+(99) Προσλαλησάτω τῷ λαῷ λόγους παρακλή-
+σεως. Rituale Cophthitarum in Ordinatione sacer-
+dotis : Et juramento præstito osculetur altare, epi-
+scopum, et præsentes. Deinde explanet aliquid de
+mysteriis. Huic primo novi antistitis sermoni no-
+men Enthronistici dari potest ex Liberato cap. 19
+Breviarii : Fertur, inquit, expositio ejus, Severi An-
+
+# block=2 source_x1=245 source_y1=2314 source_x2=993 source_y2=2480
+(98) Ἡ χάρις τοῦ Κυρίου, etc. Ita etiam Litur-
+giæ. Ex Apostolo, II Corinth. XIII, 13. In Ordi-
+nationibus : Εἰρηνεύει τὸν ἀπόστολον, καὶ εἰς τὸν
+ἀπόστολον. Δίδωσιν εἰρήνην εἰς τὸν ἀπόστολον, de
+hujusmodi salutatione. Ib.
+
+# block=3 source_x1=1033 source_y1=141 source_x2=1790 source_y2=1004
+ἡμῶν· δι’ οὗ (94) σοὶ δόξα, τιμὴ καὶ σέβας, ἐν ἁγίῳ
+Πνεύματι, νῦν, καὶ ἀεὶ, καὶ εἰς τοὺς αἰῶνας τῶν
+αἰώνων (95). Καὶ ταῦτα ἐπευξαμένου, οἱ λοιποὶ ἱε-
+ρεῖς ἐπιλεγέτωσαν, Ἀμήν (96)· καὶ σὺν αὐτοῖς ἅπας
+ὁ λαός. Καὶ μετὰ τὴν προσευχὴν, εἷς τῶν ἐπισκό-
+πων ἀναφερέτω τὴν θυσίαν ἐπὶ τῶν χειρῶν τοῦ χει-
+ροτονηθέντος (97)· καὶ τῇ ἔωθεν ἐνθρονιζέσθω εἰς
+τὸν αὐτῷ διαφέροντα τόπον παρὰ τῶν λοιπῶν ἐπισκό
+πων, πάντων αὐτὸν φιλησάντων τῇ ἐν Κυρίῳ φιλήματι.
+Καὶ μετὰ τὴν ἀνάγνωσιν τοῦ νόμου καὶ τῶν προ-
+φητῶν, τῶν τε ἐπιστολῶν ἡμῶν καὶ τῶν πράξεων
+καὶ τῶν εὐαγγελίων, ἀσπασάσθω ὁ χειροτονηθεὶς τὴν
+ἐκκλησίαν, λέγων· Ἡ χάρις τοῦ Κυρίου (98) ἡμῶν
+Ἰησοῦ Χριστοῦ, ἡ ἀγάπη τοῦ Θεοῦ καὶ Πατρὸς,
+καὶ ἡ κοινωνία τοῦ ἁγίου Πνεύματος, μετὰ πάντων
+ὑμῶν· καὶ πάντες ἀποκρινέσθωσαν· Καὶ μετὰ τοῦ
+πνεύματός σου. Καὶ μετὰ τὴν πρόσρησιν, προσλα-
+λησάτω τῷ λαῷ λόγους παρακλήσεως (99). Καὶ πλη-
+ρώσαντος αὐτοῦ τὸν τῆς διδασκαλίας λόγον, φημὶ
+ἐγὼ Ἀνδρέας (100) ὁ ἀδελφὸς Πέτρου, ἀναστάντων
+
+# block=4 source_x1=251 source_y1=1425 source_x2=993 source_y2=1624
+(96) Ἀμήν. Concilium Toletanum IV, can. 4
+Unus ex episcopis senioribus surgens, orationem pa-
+lam fundat ad Dominum, cunctis adhuc in terra ja-
+centibus. Finita autem oratione, et responso ab om-
+nibus Amen, etc. Legenda Hincmari Epistola ad
+Adventium. Cor.
+
+# block=5 source_x1=248 source_y1=1621 source_x2=995 source_y2=2316
+(97) Εἰς τὸν ἐπισκόπων ἀναφερέτω, etc. Ali-
+quatenus similia continent ordinationes presbyte-
+rorum Græcæ. et episcoporum ac presbyterorum
+Latinæ. Lege Fulberti epistolam 2, quæ est ad Fi-
+nardum ; ac si in ms. codicem illius Patris inci-
+deris, vide in isto loco depravato : Ad hoc episcopi
+responsum, cum ego familiaritatis ausu studiosus
+perquirerem, num idem mysterium supplere potuisset
+panis a presbytero quotidiana celebratione sacratus,
+uti in eo passionis Dominicæ et resuscitati corporis
+et manifestati discipulis speciem, satisfuisset nobis,
+Perpende, ait, etc.; vide, inquam, scriptum ne sit
+pro satisfuisset, satisfecit, uti suspicor emendan-
+dum. Sed et absque ms. fidenter ita constitue ac
+restitue Epistolæ finem : Hæc pauca de multis, quæ
+repetita memoria, et multo ex tempore dissuta licet,
+recitasse ad præsens sufficiat, dum ego codicem de
+ejusmodi exemplaribus a Romano scrinio prolatum
+perlegam. Vobis facile est de paucis multa cogitare,
+aut certe quod irrationabiliter factum videtur, sa-
+nioris consilii ratione corrigere. Ib.
+
+# block=6 source_x1=256 source_y1=141 source_x2=999 source_y2=999
+strum ; per quem tibi gloria, honor et cultus, in
+sancto Spiritu, nunc, et semper, et in sæcula sæ-
+culorum. Et postquam ita oraverit ; reliqui sacer-
+dotes respondeant, Amen; atque cum eis omnis
+populus. Et post precationem, unus ex episcopis
+hostiam offerat in manus ordinati. Et mane in loco
+ac throno ad ipsum pertinente a cæteris episcopis
+collocetur, cunctis eum osculantibus, osculo in Do-
+mino. Postque lectionem legis, et prophetarum, ac
+epistolarum nostrarum, et actorum, atque Evange-
+liorum, ordinatus ecclesiam salutet, dicens : Gra-
+tia Domini nostri Jesu, Christi, charitas Dei ac Pa-
+tris, et communicatio Spiritus sancti, cum omni-
+bus vobis. Ac universi respondeant : Et cum spi-
+ritu tuo. Et post salutationem, populum alloquatur
+verbis exhortationis. Cumque doctrinæ sermonem
+finierit, aio ego Andreas frater Petri, ut, universis
+consurgentibus, diaconus, in excelsum locum as-
+cendens, proclamet : « Ne quis audientium ; Ne
+quis infidelium. » Ac silentio facto, dicat :
+
+# block=7 source_x1=665 source_y1=90 source_x2=1383 source_y2=126
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=8 source_x1=1042 source_y1=1146 source_x2=1775 source_y2=1214
+Ἡ θεία λειτουργία, ἐν ᾗ προσφώνησις ὑπὲρ τῶν
+κατηχουμένων (2).
+
+# block=9 source_x1=288 source_y1=1216 source_x2=994 source_y2=1262
+Orate, catechumeni. Et omnes fideles pro illis cum
+
+# block=10 source_x1=1285 source_y1=1102 source_x2=1529 source_y2=1138
+ΚΕΦΑΛΑΙΟΝ Ϛʹ.
+
+# block=11 source_x1=1019 source_y1=1321 source_x2=1774 source_y2=2712
+tiocheni, quæ ab eo dicta est in Inthronismo ; sicut
+Enthronisticas epistolas memorat Evagrius lib. IV,
+cap. 4, agens de eodem Severo. Adi ad Socratem
+lib. II, cap. 43 ; et lib. VII, cap. 29. Ib.
+(100) Ἀνδρέας. Additur hic, in altero Vindob.
+codice, hoc scholium : Ἀνδρέας ὁ ἀδελφὸς Πέτρου
+κηρύττει τὸ Εὐαγγέλιον Σκύθαις, Σογδιανοῖς, Θρᾳξὶν,
+ὸς διὰ τὸ Χριστοῦ κήρυγμα σταυρῷ τελειοῦται ὑπὸ
+Αἰγαία, τοῦ ἀνθυπάτου, καὶ ἐτάφη ἐν Πάτραις,
+ὕστερον δὲ μετετέθη ἐν Κωνσταντίνου πόλει ὑπὸ Κων-
+σταντίνου αὐτοκράτορος. Vide Abdiæ Babylonici
+Act. apost., lib. III. Cʟᴇʀ.
+(1) Ὁ διάκονος ἐφ’ ὑψηλοῦ, etc. Et cap. 12 : Ἵν’
+εὐθὺς ὁ διάκονος λέγῃ· Μή τις τῶν κατηχουμένων· Μή
+τις τῶν ἀκρωμένων· Μή τις τῶν ἀπίστων· Μή τις τῶν
+ἑτεροδόξων. Apud Chrysostomum Homilia de filio
+prodigo : Τῶν λειτουργῶν τῆς θείας ἱερουργίας, ἐν τῇ
+ἐκκλησίᾳ περιτρεχόντων καὶ βοώντων· Μή τις τῶν κατ-
+ηχουμένων, etc., supra ad cap. 54, lib. II. Vox autem
+ἀκρούμενοι, ex usu scriptorum ecclesiasticorum,
+significat tum omnes eos quibus placebat verbum
+Dei lectum vel prædicatum in ecclesia audire, nec
+licebat mysteriis interesse : tum catechumenos ge-
+neratim sumptos pro omnibus iis qui Christianam
+religionem ambiebant, etsi nomen Ecclesiæ non-
+dum dedissent ; tum catechumenos proprie dictos,
+ad quos missa catechumenorum pertinebat ; tum
+denique pœnitentes in auditione, quæ est secunda
+pœnitentiæ statio, positos. Sed hic in primo sensu
+acceperim : quemadmodum et canone Laodiceno 5,
+a Græcis interpretatoribus non intellecto : Περὶ
+τοῦ μὴ δεῖν τὰς χειροτονίας ἐπὶ παρουσίᾳ ἀκροωμέ-
+νων γίνεσθαι. Quod non oporteat ordinationes sub
+conspectu audientium celebrari. Ἀκρουμένους etiam
+concilii Nicæni non intellexit Rufinus, suaque ver-
+sione alios in fraudem egit. Cæterum Latinis au-
+ditores et audientes sunt catechumeni, sive per-
+fectiores sive imperfectiores, juxta illud tractatus
+de non rebaptizandis semel tinctis, quem Rigaltus
+in Observationibus ad S. Cyprianum edidit, p. 136:
+Vel audiens, aut audire incipiens Cor.
+(2) Ἡ θεία λειτουργία, etc. Proclus De divina
+
+# block=12 source_x1=543 source_y1=1105 source_x2=711 source_y2=1138
+CAPUT VI.
+
+# block=13 source_x1=256 source_y1=1324 source_x2=991 source_y2=1427
+(94) Δι’ οὗ. Μεθ’ οὗ καὶ σοὶ, pro solenni muta-
+tione doxologiæ Arianicæ. Cʟ.
+(95) Αἰώνων. Additur etiam Ἀμήν. Ib.
+
+# block=15 source_x1=1707 source_y1=94 source_x2=1791 source_y2=134
+1076
+
+# block=16 source_x1=249 source_y1=90 source_x2=335 source_y2=130
+1075
+
+# block=17 source_x1=277 source_y1=1144 source_x2=957 source_y2=1196
+Divina liturgia, in qua oratio pro catechumenis.
+
+# block=18 source_x1=853 source_y1=1268 source_x2=1181 source_y2=1316
+VARIORUM NOTÆ.
+
+# block=19 source_x1=1051 source_y1=1210 source_x2=1775 source_y2=1262
+Εὔξασθε, οἱ κατηχούμενοι. Καὶ πάντες οἱ πιστοὶ
+
+# block=20 source_x1=247 source_y1=1008 source_x2=1789 source_y2=1088
+ἁπάντων, ὁ διάκονος (1), ἐφ’ ὑψηλοῦ τινος ἀνελθὼν, κηρυττέτω · « Μή τις τῶν ἀκρωμένων· Μή τις τῶν
+ἀπίστων. » Καὶ ἡσυχίας γενομένης, λεγέτω·

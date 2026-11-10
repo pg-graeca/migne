@@ -1,0 +1,85 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1071,122,1694,1027
+2,1068,1056,1691,2616
+3,127,127,1041,2593
+4,693,66,1128,113
+5,1628,72,1684,109
+6,195,2606,775,2652
+7,603,2660,973,2738
+8,153,66,235,114
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+389
+
+# block=4
+EPISTOLA I AD VIRGINES.
+
+# block=5
+390
+
+# block=1
+Sollicita sit necesse est quæ Domini
+sunt, quomodo placeat Deo, ut sit
+sancta corpore et spiritu ⁶² An
+probe calles quantum splendens sit
+oporteat virginitas, et huic nihilo-
+minus te devoves? Notane tibi ac
+perspecta via est quam tenere cu
+pis? Quæ præscribat sancta virgini
+tas an tu probe nosti? Tune athleta
+tam fortis ac peritus, ut in agone
+conspici valeas legitime certans,
+Spiritus sancti virtute corroboratus,
+et hanc palæstram ingressus, gloriæ
+coronam sis adepturus? Num quæ
+te sors beata in cælesti Jerusalem
+maneat, perpendisti?
+
+# block=2
+Igitur si viam et finem hujus vo-
+cationis peroptas, debella corpus;
+appetitus carnales doma; vince
+mundum Spiritu Dei; fluxas et ca-
+ducas, fœdas et flaccidas contemne
+hujus sæculi vanitates. Victor dra-
+conis, victor leonis, victor serpentis,
+victor Satanæ, remaneas in Christo
+Jesu, ejus doctrina divinaque eu-
+charistia confortatus. Tolle crucem
+tuam, et sequere illum qui te abluit
+Jesum Christum Dominum tuum.
+Recte ac secure certaminis cursum
+consumma, non timens, sed fidu-
+cialiter sperans adventum Domini
+nostri Jesu Christi ut assequuaris
+bravium supernæ vocationis tuæ in
+Christo Jesu ⁶³. Qui enim verbis
+fidei fuerit enutritus, quippe im-
+perterritus in hoc stadio perman-
+serit, virginitatis coronam certis-
+sime repositam habet : grandi
+nempe operi, grandis reservatur
+merces. An scrutatus et assecutus
+es quantam gloriam sanctitas adve-
+hat, quamque sublimi eximioque
+encomio virginitas extolli valeat?
+
+# block=6
+⁶² I Cor. ᴠɪɪ, 32-34. ⁶³ Phil. ɪɪɪ, 14.

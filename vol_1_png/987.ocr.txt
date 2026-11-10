@@ -1,0 +1,171 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,253,2386,1006,2720
+2,1043,1297,1787,2167
+3,247,951,1013,2166
+4,257,174,1017,942
+5,1047,171,1795,1290
+6,1041,2385,1796,2685
+7,869,2310,1176,2344
+8,252,2209,1780,2279
+9,830,113,1259,148
+10,273,119,348,154
+15,1723,117,1807,151
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+RECOGNITIONUM LIB. VIII.
+
+# block=15
+1374
+
+# block=10
+1373
+
+# block=5
+prius dicere, sive hoc magis placet ut ego dicam,
+nihil interest, apud eos præcipue, qui bona venia
+disputant. Dic tamen tu prior, libenter accipio,
+atque utinam possis etiam quæ a me dicenda sunt
+prosequi, atque his quæ contraria sunt objicere, et
+ex utrorumque collatione ostendere veritatem. Ni-
+ceta respondit : Si vis, inquit, possum etiam tuas
+partes dicere, et ad hæc respondere. Et senex :
+Ostende mihi prius, quomodo potes scire ea quæ
+nondum locutus sum, et ita tibi credam, quod par-
+tes meas prosequi possis. Et Niceta : Secta, inquit,
+tua et sententia quam definisti, manifesta est his
+qui eruditi sunt in hujusmodi disciplinis, certaque
+est ejus consequentia. Et quia ego non sum ignarus
+quæ sint definitiones philosophorum, ex his quæ
+proposuisti, quid consequatur agnosco, maxime
+quia præ cæteris philosophis Epicuri scholas fre-
+quentavi. Frater autem meus Aquila, magis Pyr-
+rhonios secutus est, alius autem frater noster Pla-
+tonicos et Aristotelicos (48); itaque cum eruditis
+tibi auditoribus sermo est. Tum senex : Bene, inquit,
+et consequenter docuisti, quomodo ex his quæ propo-
+sitæ sunt definitionibus, etiam ea quæ consequuntur
+adverteres. Sed ego amplius aliquid professus sum,
+quam sentit Epicurus, quia introduxi genesim,
+eamque causam omnium gestorum hominibus posui.
+
+# block=4
+morum facilius ea quæ ignorantur inveniet ⁸⁶. Tum
+ergo Niceta respondit : Non me æstimes, Pater,
+temere fecisse, quod inserui me sermonibus do-
+mini mei Petri, sed magis pro honore ejus hoc
+mihi facere visus sum. Homo enim Dei est, plenus
+totius scientiæ, quem ne Græca quidem latet erudi-
+tio, quia Spiritu Dei repletus est quem nihil latet.
+Sed quia ipsi de cœlestibus loqui convenit, ego de
+his quæ ad Græcorum loquacitatem pertinent, re-
+spondebo. Postea vero quam a nobis Græcorum
+more fuerit disputatum, atque ad id ventum, ubi
+exitus nullus appareat, tunc ipse quasi scientia
+Dei repletus, aperte et dilucide rerum nobis om-
+nium patefaciet veritatem, ut non solum nos, sed
+et omnes qui præsto sunt auditores, viam verita-
+tis agnoscant. Et ideo nunc ipse quasi arbiter se-
+deat, ut cum unus aliquis ex nobis cesserit, tunc
+ipse suscipiens indubitatam sententiam ferat.
+
+# block=3
+VI. Hæc cum dixisset Niceta, hi qui convene-
+rant inter semetipsos colloquebantur : Hicne est
+ille quem audiebamus Petrus, illius qui in Judæa
+apparuit et signa ac virtutes plurimas fecit, disci-
+pulus probatissimus? Et intendentes in eum, cum
+timore ac veneratione ingenti stabant, tanquam
+boni servi honorem domino deferentes. Quod ubi
+Petrus sensit, ait ad eos : Attentius audiamus, re-
+ctum tenentes judicium de his quæ dicentur ab utro-
+que, et post ipsorum conflictum, quod necessarium
+visum fuerit, addemus et nos. Et cum hæc dixisset
+Petrus, gavisæ sunt turbæ. Niceta vero dicere hoc
+modo aggressus est : Definisti, Pater, quod non
+per Dei providentiam mundus regatur, sed omnia
+genesi subjaceant, vel quæ ad mores uniuscu-
+jusque vel quæ ad gesta pertinent. Ad quæ statim
+quidem potui respondere, sed quia justum est ser-
+vare ordinem, definimus et nos quid teneamus,
+sicut ipse fieri rogasti. Ego dico providentia Dei
+gubernari mundum, in his duntaxat quæ guberna-
+tione ejus indigent. Unus est enim omnia tenens
+qui et mundum fecit, justus Deus, unicuique se-
+cundum gesta sua quandoque redditurus. Ecce ha-
+bes et nostram definitionem; nunc quod vis prose-
+quere, vel mea destruens, vel tua asserens, ut ego
+his quæ a te prosequentur, occurram. Aut si me
+vis priorem dicere, non morabor.
+VII. Et senex respondit : Sive tibi placet, fili,
+
+# block=2
+VIII. Cumque hæc senex dixisset, ego Clemens
+aio ad eum : Audi, Pater, si a te frater meus Niceta
+obtinuerit, quia non sine Dei providentia mundus
+agitur, in ista parte quæ superest de genesi, ego
+tibi potero respondere; est enim mihi notitia hujus
+scientiæ. Et cum hæc dixisset, frater meus Aquila :
+Quid necesse est, inquit, ut eum patrem vocemus,
+cum in mandatis habeamus neminem super terram
+patrem vocare? Et post hæc respiciens ad senem :
+Non injuriose, inquit, accipias, Pater, quod fra-
+trem meum culpavi, quia te patrem vocaret; ha-
+bemus enim tale mandatum, ne aliquem nomine
+isto vocitemus ⁸⁵. Cumque hæc dixisset Aquila,
+risit omnium astantium cœtus una cum sene et
+Petro. Aquila autem requirente causam, cur omnes
+riserint, aio ad eum : Quod tu in quo alios culpas,
+id ipse facis, qui senem appellaveris patrem. At ille
+negabat, dicens : Vere nescio si eum patrem vocavi.
+Interea Petrus movebatur suspicionibus quibusdam,
+sicut ipse nobis enarravit postmodum, et respi-
+
+# block=8
+⁸⁵ Quæ sequuntur usque ad finem hujus libri, breviter tantummodo et in compendium redacta in codd.
+mss. Lipss. continentur. Vid. præfat. ⁸⁶ Matth. xxɪɪɪ, 9.
+
+# block=7
+COTELERII NOTÆ.
+
+# block=6
+σοφίᾳ καὶ γνώσει. Anastasius, Hodegi cap. 1. Et Cle-
+mentem philosophum Dionysio laudatum De divinis
+nominibus, cap. 5; Maximus et Pachymeres hunc
+Romanum interpretantur. Verba S. Nili sunt, lib. ɪɪ,
+epist. 49, p. 140 : Οὐκ Ἀπολλὼς ὁ Ἀλεξανδρεὺς λό-
+γιος ὁ πιστευθεὶς τῶν Χριστοῦ μαθητῶν, οὐ Κλήμης ὁ
+Ῥωμαίων φιλόσοφος, quæ sic verto : Non Apollo
+Alexandrinus vir eloquens, rigator discipulorum
+Christi; non Clemens, Romanus philosophus.
+
+# block=1
+(48) Alius autem frater noster, Platonicos et Ari-
+stotelicos. Elogia Clementis in litteris humanis hæc
+sunt : Clemens ex philosopho magnæ doctrinæ vir;
+Commentario Epist. ad Philippenses, in c. ɪᴠ, t. VIII
+Hieronymi : Clemens omni scientia refertus, omnium-
+que liberalium artium peritissimus; Eucherius, Pa-
+rænesi De contemptu mundi : Acceperat B. Clemens
+scientiam quamplurimam, ita ut optimus quidem il-
+lius temporis philosophus haberetur, apud Bernar-
+dum Sermone de S. Clemente : Κλήμης ὁ πολὺς ἐν

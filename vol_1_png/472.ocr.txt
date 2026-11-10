@@ -1,0 +1,233 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,266,532,1019,1171
+2,263,1276,1015,1612
+3,1051,529,1821,1214
+4,267,2358,1024,2707
+5,1048,1264,1796,1610
+6,266,2028,1021,2292
+7,1050,2466,1790,2670
+8,267,140,1018,483
+9,1050,2195,1796,2327
+10,1054,140,1813,477
+11,267,2292,1011,2360
+12,1049,2325,1792,2394
+13,1047,2401,1802,2470
+14,550,1222,717,1255
+15,647,83,1408,121
+16,890,1702,1187,1736
+17,298,1640,530,1675
+20,269,1761,1025,2026
+21,1048,1761,1810,2194
+22,1300,1222,1562,1257
+23,270,92,325,125
+24,1729,80,1799,122
+25,547,488,745,528
+26,1293,486,1551,526
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=16px
+# block=24 fontSize=16px
+# block=25 fontSize=15px
+# block=26 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=24
+344
+
+# block=15
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA
+
+# block=23
+343
+
+# block=8
+regnum Dei. Donec tempus habemus in quo sane-
+mur, dedamus nos medico Deo, remunerationem
+ipsi tribuyentes. Quam ? Pœnitentiam ex sincero
+corde. Namque præscius omnium est, et quæ in
+corde nostro versantur novit. Demus itaque illi
+laudem, non ab ore solum, sed etiam ex corde: ut
+nos tanquam filios suscipiat. Etenim Dominus dixit:
+Fratres mei sunt ii qui faciunt voluntatem Patris mei².
+
+# block=10
+καιρὸν τοῦ ἰαθῆναι, ἐπιδῶμεν ἑαυτοὺς τῷ θεραπεύοντι
+Θεῷ, ἀντιμισθίαν αὐτῷ διδόντες. Ποίαν ; Τὸ μετανοῆσαι
+ἐξ εἰλικρινοῦς καρδίας. Προγνώστης γάρ ἐστιν τῶν
+πάντων, καὶ εἰδὼς ἡμῶν τὰ ἐν καρδίᾳ. Δῶμεν οὖν
+αὐτῷ αἰώνιον (43), μὴ ἀπὸ στόματος μόνον, ἀλλὰ καὶ
+ἀπὸ καρδίας, ἵνα ἡμᾶς προσδέξηται ὡς υἱούς (44).
+Καὶ γὰρ εἶπεν ὁ Κύριος· ᾿Αδελφοί μου οὗτοί εἰσιν,
+οἱ ποιοῦντες τὸ θέλημα τοῦ Πατρός μου.
+
+# block=26
+ΚΕΦΑΛΑΙΟΝ Ι΄.
+
+# block=25
+CAPUT X.
+
+# block=3
+Ὥστε, ἀδελφοί μου, ποιήσωμεν τὸ θέλημα τοῦ
+Πατρὸς τοῦ καλέσαντος ἡμᾶς, ἵνα ζήσωμεν, καὶ
+διώξωμεν μᾶλλον τὴν ἀρετήν, τὴν δὲ κακίαν κατα-
+λείψωμεν, ὡς προοδόπορον τῶν ἁμαρτιῶν (45) ἡμῶν,
+καὶ φύγωμεν τὴν ἀσέβειαν, μὴ ἡμᾶς καταλάβῃ κακά
+(46). Ἐὰν γὰρ σπουδάσωμεν ἀγαθοποιεῖν, διώξεται
+ἡμᾶς εἰρήνη. Διὰ ταύτην γὰρ τὴν αἰτίαν οὐκ ἔστιν
+εὑρεῖν ἄνθρωπον (47). Οἵτινες παράγουσι (48) φό-
+βους ἀνθρωπίνους, προῃρημένοι μᾶλλον τὴν ἐνθάδε
+ἀπόλαυσιν, ἢ τὴν μέλλουσαν ἐπαγγελίαν. Ἀγνοοῦσιν
+γὰρ ἡλίκην ἔχει βάσανον ἡ ἐνθάδε ἀπόλαυσις, καὶ
+οἵαν τρυφὴν ἔχει ἡ μέλλουσα ἐπαγγελία. Καὶ εἰ
+μὲν αὐτοὶ μόνοι ταῦτα ἔπρασσον, ἀνεκτὸν ἦν· νῦν
+δὲ ἐπιμένουσι κακοδιδασκαλοῦντες τὰς ἀνετίους (49)
+ψυχάς, οὐκ εἰδότες ὅτι δισσὴν ἕξουσιν τὴν κρίσιν,
+αὐτοί τε, καὶ οἱ ἀκούοντες αὐτῶν.
+
+# block=1
+Itaque, fratres mei, faciamus voluntatem Patris
+qui vocavit nos, ut vivamus; et persequamur po-
+tius virtutem, vitium autem derelinquamus veluti
+præcursorem peccatorum nostrorum; et fugiamus
+impietatem, ne nos mala comprehendant. Nam si
+bene agere studuerimus, consectabitur nos pax. Ob
+eam siquidem causam non est reperire hominem.
+Quilibet humanis timoribus ducuntur, præponentes
+voluptatem præsentem repromissioni futuræ. Igno-
+rant enim quantum habeat tormentum præsentium
+usus; et quantas habeat delicias futura promissio.
+Ac quidem, si illi ista facerent soli, tolerabile esset;
+jam vero perseverant insontes animas pravis doctri-
+nis imbuere; nescientes quod duplicem habebunt
+condemnationem, et ipsi, et qui audiunt eos.
+
+# block=14
+CAPUT XI.
+
+# block=22
+ΚΕΦΑΛΑΙΟΝ ΙΑ'.
+
+# block=5
+Ἡμεῖς οὖν ἐν καθαρᾷ καρδίᾳ δουλεύσωμεν τῷ Θεῷ,
+καὶ ἐσόμεθα δίκαιοι: ἐὰν δὲ μὴ δουλεύσωμεν, διὰ τοῦ
+μὴ πιστεύειν ἡμᾶς τῇ ἐπαγγελίᾳ τοῦ Θεοῦ, ταλαί-
+πωρ[οι] ἐσόμεθα. Λέγει γὰρ καὶ (50) ὁ προ[φη]τι-
+κὸς λόγος· « Ταλαίπωροι εἰσιν οἱ δίψυχοι, οἱ διστάζοντες
+τῇ καρδίᾳ, οἱ λέγοντες (51)· Ταῦτα πά [ντα] ἠκούσαμεν
+καὶ ἐπὶ τῶν πατέρων ἡμῶν, ἡμεῖς δὲ υἱοὶ (52) ἡμέραν
+ἐξ ἡμέρας προσδεχόμενοι, οὐδὲν τούτων ἑωράκαμεν
+
+# block=2
+Nos ergo in corde mundo Deo serviamus, et eri-
+mus justi: quod si non servierimus quia fidem non
+habemus promissioni Dei, erimus miseri. Dicit enim
+et sermo propheticus: « Miseri sunt qui animo du-
+plices et corde incerti sunt; qui dicunt: Hæc om-
+nia audivimus etiam tempore patrum nostrorum
+filii; nos vero diem de die exspectantes, nihil horum
+vidimus. Amentes, comparate vos arbori; sumite
+
+# block=17
+² Matth. XII, 50.
+
+# block=16
+VARIORUM NOTÆ.
+
+# block=20
+(43) Αἰώνιον. Al. αἴνον vel δόξαν αἰώνιον. Birr.
+scripsisse Clementem αἴνον αἰώνιον indubitanter
+affirmat; errorem inde manasse contendens, quod
+alterum vocabulum inter dictandum vel describen-
+dum, ob similitudinem fuerit omissum. GALL.
+(44) Ὡς υἱούς. Editi, ὡς Θεοῦ υἱούς. Verum apud
+Wott. ms. Θεοῦ non agnoscit, neque postulat con-
+textus. ID.
+
+# block=21
+tum præseferunt. DAV. — Si modestiori conjecturæ
+locus est, totum locum, parvula mutatione, sic ar-
+bitror restituendum esse : Διὰ ταύτην γὰρ τὴν αἰ-
+τίαν οὐκ ἔστιν εὑρεῖν ἀνθρώπων, οἵτινες παράγουσι
+φόβους ἀνθρωπίνους; id est : Hanc enim ob causam
+non est invenire hominum, qui prætereunt timores
+humanos. Vel, ut Latinitas nil detrimenti capiat :
+Quam ob causam non temere inter homines invenias,
+qui humanos timores negligant. Οὐκ ἔστιν εὑρεῖν
+ἀνθρώπων, constructio Græcanica nota est. BIRR.
+(48) Παράγουσι. Ita ms. apud Wott. At editi,
+præter Lond., γὰρ ἄγουσι. Bois. vero leg. γὰρ
+ἔχουσι. GALL.
+
+# block=6
+(45) Ἁμαρτιῶν. Al. τιμωριῶν. Sic et Cot. qui
+vertit suppliciorum. Retinet Wott. ms. lectionem.
+Vox enim κακία denotare potest internum mentis af-
+fectum, τὴν ἐπιθυμίαν, et ἁμαρτία scelus foris per-
+actum : et recte sane. Quidni enim respexerit Cle-
+mens ad illud Jac. 1, 15 : Ἡ ἐπιθυμία συλλαβοῦσα
+τίκτει ἁμαρτίαν· Concupiscentia cum conceperit, pa-
+rit peccatum ? ID.
+
+# block=9
+(49) Ἀνετίους. Cum Wott. observarit in ms. ε
+pro αι frequenter -poni, procul dubio legit ἀναι-
+τίους. DAV. mallet ἀνοήτους. His similia habet S.
+Ignatius ad Ephes., cap. 16. ID.
+
+# block=11
+(46) Κακά. Mill. et Wott. leg. in ms. κακά· abs-
+que articulo τά, quod exhibent editi. ID.
+
+# block=12
+(50) Λέγει γὰρ καί. Editi, præter Londin., omit-
+tunt καί, quod exhibet ms. apud Wott. ID.
+
+# block=4
+(47) Ἄνθρωπον. Forte legendum ἂν θεόν.
+Cum enim in hoc ms. hoc modo scribatur ANON;
+deleta transversa linea τοῦ θ, ΑΝΘΝ, id est, ἂν
+θεόν, exhibet ΑΝΟΝ sive ἄνθρωπον. Quod si ita le-
+gatur, oportet ut inseramus, αὐτοῖς post ἔστιν, sicque
+restituatur lectio : Διὰ ταύτην γὰρ τὴν αἰτίαν οὐκ
+ἔστιν αὐτοῖς εὑρεῖν, οἵτινες παράγουσι φόβους ἀνθρω-
+πίνους. WOTF. — Scribendum puto : Οὐκ ἔστιν
+εὑρεῖν οὐρανὸν, οἵ τινες παράγουσι φόβους ἀνθρωπί-
+νους· Cælum non possunt invenire, qui hominum me-
+
+# block=13
+(51) Οἱ λέγοντες. Ms. non agnoscit δέ, quod in-
+terserunt editi. WOTT.
+
+# block=7
+(52) Ἡμεῖς δὲ υἱοί. Editi omittunt υἱοὶ quam vo-
+cem, interlinearem quidem et minutiore charactere,
+at eadem manu exaratam exstare in ms. testatur
+Wott. Verum Dav. non inani additamento habet
+Ea sane non comparet in superioris epist. cap. 23,
+ubi hæc pene eadem occurrunt. GALL.

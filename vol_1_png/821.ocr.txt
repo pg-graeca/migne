@@ -1,0 +1,222 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,200,295,964,990
+2,194,1202,950,1888
+3,986,1199,1746,1888
+4,991,298,1749,991
+5,197,2426,952,2730
+6,1262,1082,1461,1114
+7,978,2264,1750,2729
+8,976,2096,1749,2266
+9,990,1125,1735,1193
+10,1269,147,1450,181
+11,200,1129,941,1195
+12,809,2026,1103,2067
+13,437,1086,705,1118
+14,197,2092,945,2427
+15,454,145,700,180
+16,205,187,955,290
+17,615,92,1326,127
+18,993,190,1750,292
+19,1671,99,1743,130
+21,197,1925,1741,2003
+26,191,82,281,136
+27,195,988,1747,1080
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=21 fontSize=15px
+# block=26 fontSize=15px
+# block=27 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=26
+1041
+
+# block=17
+CONSTITUTIONES APOSTOLICÆ. — LIB. VII.
+
+# block=19
+1042
+
+# block=15
+ΚΕΦΑΛΑΙΟΝ M'.
+
+# block=10
+CAPUT XL
+
+# block=16
+Διάταξις, ὅπως χρὴ τοῦς κατηχουμένους (20) ὑπὸ
+τῶν ἱερέων ἐν τῇ μνήσει εὐλογεῖσθαι, καὶ τίνα
+διδάσκεσθαι αὐτούς.
+
+# block=18
+Constitutio, quomodo oporteat catechumenos a sacer-
+dotibus in initiatione benedici, et quænam eos do-
+ceri conveniat.
+
+# block=1
+Καὶ ὅταν ᾖ πρὸς αὐτὸ λοιπὸν τὸ βαπτισθῆναι ὁ
+κατηχηθεὶς, μανθανέτω τὰ περὶ τῆς ἀποταγῆς τοῦ
+διαβόλου, καὶ τὰ περὶ τῆς συνταγῆς τοῦ Χριστοῦ.
+Δεῖ γὰρ αὐτὸν πρῶτον μὲν ἀποσχέσθαι τῶν ἐναντίων·
+καὶ τότε ἐντὸς γενέσθαι τῶν μυστηρίων, προκαθά-
+ραντα ἑαυτοῦ τὴν καρδίαν πάσης κακοηθείας (21),
+σπίλου τε καὶ ῥυτίδος· καὶ τότε τῶν ἁγίων μεταλα-
+χεῖν· ὡς γὰρ γεωργὸς ἄριστος ἐκκαθαίρει τὴν ἄρου-
+ραν πρότερον τῶν ὑπερφυουσῶν ⁷¹ ἐν αὐτῇ ἀκανθῶν,
+καὶ τότε σπείρει τὸν πυρόν· οὕτω δεῖ καὶ ὑμᾶς πρό-
+τερον πᾶσαν ἀσέβειαν ἐξελόντας ἀπ' αὐτῶν, τότε
+τὴν εὐσέβειαν αὐτοῖς ἐγκαταβάλλεσθαι, καὶ τοῦ
+βαπτίσματος ἀξιῶσαι (22). Καὶ γὰρ καὶ ὁ Κύριος
+ὑμῖν (23) οὕτως ἡμῖν παρήγγειλεν, εἰπών· « Μαθη-
+τεύσατε πρότερον (24) πάντα τὰ ἔθνη· » καὶ τότε
+ἐπήγαγε, τὸ, «Καὶ βαπτίσατε αὐτοὺς, εἰς τὸ ὄνομα
+
+# block=4
+Cumque jamjam erit baptizandus catechumenus,
+discat quæ ad renuntiandum diabolo, et quæ ad se
+ascribendum Christo pertinent. Oportet enim illum
+primo quidem abstinere a contrariis ; et deinde
+ingredi ad mysteria, cum prius cor suum purgave-
+rit ab omni perversitate, macula et ruga ; atque
+tunc demum ad sacramenta percipienda accederė.
+Nam ut optimus agricola repurgat prius arvun
+a supercrescentibus in eo spinis, tuncque serit tr -
+ticum ; ita oportet etiam vos, prius omni impietate
+ab eis extracta, tunc pietatem inseminare, et ba-
+ptismo donare. Sic etenim Dominus noster nobis
+præcepit, dicens : « Docete » prius « omnes gentes : »
+post quod subjunxit illud : « Et baptizate eos in
+nomine Patris, et Filii, et Spiritus sancti ⁷⁴. » Cum
+ergo renuntiat qui baptizatur, ita recitet :
+
+# block=27
+τοῦ Πατρὸς, καὶ τοῦ Υἱοῦ, καὶ τοῦ ἁγίου Πνεύματος. » 'Ἀπαγγελλέτω οὖν ὁ βαπτιζόμενος ἐν τῷ ἀπο-
+τάσσεσθαι·
+
+# block=6
+CAPUT XLI.
+
+# block=13
+ΚΕΦΑΛΑΙΟΝ MA'.
+
+# block=9
+Renuntiatio in adversarium, et ascriptio ad Christum
+Dei.
+
+# block=11
+Ἀποταγὴ πρὸς τὸν ἐναντίον (25), καὶ συνταγὴ
+πρὸς τὸν Χριστὸν τοῦ Θεοῦ.
+
+# block=3
+⁷³ Renuntio Satanæ, et operibus ejus, et pompis
+ejus, et cultibus ejus, et angelis ejus, et inventis
+ejus, ac omnibus quæ sub eo sunt. Post renuntia-
+tionem vero, dum ascribit se, dicat : Et ascribor
+Christo, et credo, et baptizor in unum Ingenitum,
+solum verum Deum omnipotentem, Patrem Christi,
+creatorem atque opificem universorum, ex quo
+omnia ; et in Dominum Jesum Christum, unigeni-
+tum illius Filium, primogenitum omnis creaturæ,
+qui ante sæcula beneplacito Patris genitus est
+[non creatus], per quem omnia facta sunt quæ in
+cœlis et in terra, visibilia et invisibilia ; qui in no-
+vissimis diebus descendit de cœlis, et carnem as-
+sumpsit, ac ex sancta Virgine Maria natus est,
+sancteque se gessit in vita secundum leges Dei ac
+Patris sui, et crucifixus est sub Pontio Pilato, et
+
+# block=2
+Ἀποτάσσομαι (26) τῷ Σατανᾷ, καὶ τοῦς ἔργοις αὐ-
+τοῦ, καὶ ταῖς πομπαῖς αὐτοῦ, καὶ ταῖς λατρείαις αὐ-
+τοῦ, καὶ τοῦς ἀγγέλοις αὐτοῦ, καὶ ταῖς ἐφευρέσεσιν
+αὐτοῦ, καὶ πᾶσι τοῦς ὑπ' αὐτόν. Μετὰ δὲ τὴν ἀποτα-
+γὴν, συντασσόμενος λεγέτω, ὅτι καὶ συντάσσομαι τῷ
+Χριστῷ, καὶ πιστεύω, καὶ βαπτίζομαι εἰς ἕνα ἀγέν-
+νητον, μόνον ἀληθινὸν Θεὸν παντοκράτορα, τὸν πα-
+τέρα τοῦ Χριστοῦ, κτίστην καὶ δημιουργὸν τῶν ἁπάν-
+των, ἐξ οὗ τὰ πάντα· καὶ εἰς τὸν Κύριον Ἰησοῦν τὸν
+Χριστὸν, τὸν μονογενῆ αὐτοῦ Υἱὸν, τὸν πρωτότοκον
+πάσης κτίσεως, τὸν πρὸ αἰώνων εὐδοκίᾳ τοῦ Πατρὸς
+γεννηθέντα ⁷² (27), οὐ κτισθέντα, δι' οὗ τὰ πάντα ἐγένετο
+τὰ ἐν οὐρανοῖς καὶ ἐπὶ γῆς, ὁρατά τε καὶ ἀόρατα, τὸν
+ἐπ' ἐσχάτων ἡμερῶν κατελθόντα ἐξ οὐρανῶν, καὶ
+σάρκα ἀναλαβόντα, καὶ ἐκ τῆς ἁγίας παρθένου Μα-
+ρίας γεννηθέντα, καὶ πολιτευσάμενον ὁσίως κατὰ
+
+# block=21
+⁷¹ αἰ. ὑπερφυουσῶν.   ⁷² Matth. XXVIII, 19.   ⁷³ l. Ignat. interpol. ad Magn. 11.   ⁷⁴ Deest in al. ut in al-
+tero cod.Vind.
+
+# block=12
+VARIORUM NOTÆ.
+
+# block=14
+(20) Κατηχουμένους. Addit uterque cod. Vind.
+μέλλοντας βαπτίζεσθαι. ID.
+(21) Κακοηθείας. In cod. Vind. legere est κακο-
+νοίας, eodem sensu. ID.
+(22) Ἀξιῶσαι. Præmittitur huic voculæ αὐτοὺς
+in cod. Vind. recte. ID.
+(23) Ὑμῖν. Ἡμῖν in cod. Vind. ID.
+(24) Πρότερον. Non legitur in cod. Vind. ID.
+(25) Ἐναντίον. Addit cod. Vind. uterque τοῦ
+κατηγουμένου. ID.
+
+# block=8
+ei qui in occidente est, nobisque moritur cum pec-
+catis, et sic versi ad orientem, pactum inimus cum
+Sole justitiæ,et ei servituros nos esse promittimus,cum
+quibus Hieronymi conferri debent quæ habet Isaac
+Catholicus, Invectiva I in Armenios, cap. 8. COT.
+
+# block=7
+(27) Οὐ κτισθέντα. Videtur e margine irrepsisse
+in textum. Legito quæ notabo ad Recognit. lib. III,
+cap. 8. Quod autem solerent baptizandi recitare ac
+reddere Symbolum, res est longe notissima ex ca-
+nonibus, Patribus, et rituum libris. Paulo ante
+citatus Isaac : Ὁ Χριστὸς τὸ Σύμβολον τῆς πίστεως
+τῶν τιν' ἁγίων πατέρων οὐκ εἶπε μέλλων βαπτισθῆ-
+ναι· μηδ' αὐτοὶ ὁμολογήσωσιν. Auctarii Combefisiani
+tom. II, col. 548. IB. — In accuratiore cod. Vindobo-
+nensi XIII sæculo scripto leguntur hæc verba ; in
+altero antiquiore, sed minus accurato, non compa-
+rent. Videntur orthodoxi librarii, aut critici Ariani-
+cas opiniones hinc tollere voluisse, additis aut mu-
+tatis verbis, prout videbatur. CLER.
+
+# block=5
+(26) Ἀποτάσσομαι, etc. Juverit fortassis ad
+illustrationem aliquam celeberrimi ritus, ex innu-
+meris locis duo decerpere, insignia et brevia, unum
+Græci doctoris, alterum Latini. Ergo apud Joannem
+Chrysostomum homil. 21, ad populum Antiochenum
+in fine dicitur : Ἀποτάσσομαί σοι, Σατανᾶ, καὶ τῇ
+πομπῇ σου· καὶ τῇ λατρείᾳ σου, καὶ συντάσσομαί
+σοι, Χριστέ. Hieronymus vero ad finem capitis VI
+Amos : In mysteriis, inquit, primum renuntiamus

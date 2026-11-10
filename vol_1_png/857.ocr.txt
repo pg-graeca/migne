@@ -1,0 +1,194 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,964,942,1708,1715
+2,180,2242,923,2739
+3,183,1875,926,2241
+4,182,941,929,1716
+5,957,1976,1705,2338
+6,951,2342,1694,2735
+7,972,867,1706,932
+8,808,1817,1100,1848
+9,1234,824,1428,856
+10,958,1879,1702,1977
+11,603,119,1302,154
+12,217,868,917,935
+14,222,1740,945,1778
+15,192,119,260,160
+16,177,175,937,732
+17,967,176,1712,723
+18,1639,123,1707,157
+19,427,827,690,859
+20,185,734,1707,822
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=964 source_y1=942 source_x2=1708 source_y2=1715
+³² Porro de ordinatione presbyterorum, ego dile-
+ctus a Domino, constituo vobis episcopis. Cum pre-
+sbyterum ordinas, episcope, manum super caput
+ejus ipse impone, astante tibi presbyterio, necnon
+diaconis; et orans, dic: Domine omnipotens, Deus
+noster, qui per Christum universa condidisti,
+et per ipsum cunctis provides convenienter. In quo
+enim potestas est efficiendi varia, in eo et inest
+potestas providendi variis modis. Nam idcirco, Deus,
+provides; immortalibus quidem, sola conservatione;
+mortalibus vero, successione; animæ, cura legum;
+corpori, expletione indigentiæ. Ipse igitur et nunc
+respice in sanctam tuam Ecclesiam; auge illam;
+ac eos qui in ea præsunt multiplica, virtutemque
+da ut ii verbo ac opere ad ædificationem populi tui
+laborent. Ipse nunc quoque respice super hunc fa-
+mulum tuum, qui suffragio ac judicio totius cleri
+in presbyterium cooptatus est; et imple illum spi-
+
+# block=2 source_x1=180 source_y1=2242 source_x2=923 source_y2=2739
+(75) Μυστικῆς λατρείας. Cyrillus Hierosolymi-
+tanus, catechesi Mystag. 5: Ἀπαρτισθῆναι τὴν πνευ-
+ματικὴν θυσίαν, τὴν ἀναίμακτον λατρείαν ἐπὶ τῆς
+θυσίας ἐκείνης τοῦ ἱλασμοῦ. Dicitur etiam, λατρεία,
+λογικὴ καὶ ἀναίμακτος λατρεία, λογικὴ λατρεία,
+ἀναίμακτος θυσία, οἰκονομία λατρείας, et λατρεία
+οἰκονομίας. Eusebio, cap. 71, lib. IV, De vita Con-
+stantini, ἔνθεος λατρεία, ἀμφὶ μυστικὴ λειτουργία.
+In epistola synodica Cyrilli Alexandrini ad Nesto-
+rium: Τὴν ἀναίμακτον ἐν ταῖς ἐκκλησίαις τελοῦμεν
+θυσίαν· (vel juxta aliam lectionem quam sequitur
+Macarius Antiochenus, actione 8 concilii genera-
+lis IV, λατρείαν; vel quod vertitur a Dionysio Exi-
+guo, θυσίας λατρείαν, sacrificii servitutem) πρόσ-
+ιμ'ν τε οὕτω ταῖς μυστικαῖς εὐλογίαις. ID.
+
+# block=3 source_x1=183 source_y1=1875 source_x2=926 source_y2=2241
+(74) Ἀπολύεσθε ἐν εἰρήνῃ. Verbum ἀπολύειν
+hoc sensu solet usurpari. Atque ita sumo, p. 100
+Ordinationum Græcarum, ubi de diaconissa: Μετὰ
+δὲ τὸ μεταλαβεῖν αὐτὴν ἐπιδίδωσιν αὐτῇ ὁ ἱερεὺς τὸ
+ἅγιον ποτήριον, ὅπερ δεχομένη οὐδενὶ μεταδίδω-
+σιν ἐξ αὐτοῦ, ἀλλ' ἐν τῇ ἁγίᾳ τραπέζῃ ἀποτίθησι·
+καὶ ἀπολύει. Postquam autem ipsa communicavit,
+tradit ipsi sacerdos sanctum poculum; quod accipiens,
+nulli ex eo impertitur, sed in sancta mensa reponit:
+et dimittit. Hoc est, dat diaconissæ veniam disce-
+dendi is qui ordinat. COT.
+
+# block=4 source_x1=182 source_y1=941 source_x2=929 source_y2=1716
+Περὶ δὲ χειροτονίας πρεσβυτέρων, ἐγὼ ὁ φιλούμε-
+νος ὑπὸ τοῦ Κυρίου (77), διατάσσομαι ὑμῖν τοῖς ἐπι-
+σκόποις. Πρεσβύτερον χειροτονῶν, ὦ ἐπίσκοπε, τὴν
+χεῖρα ἐπὶ τῆς κεφαλῆς ἐπιτίθει αὐτὸς, τοῦ πρεσβυ-
+τερίου παρεστῶτός σοι καὶ τῶν διακόνων· καὶ εὐχό-
+μενος λέγε· Κύριε (78) παντοκράτορ, ὁ θεὸς ἡμῶν, ὁ
+διὰ Χριστοῦ τὰ πάντα δημιουργήσας, καὶ δι' αὐτοῦ
+τῶν ὅλων προνοῶν καταλλήλως. Ὧι γὰρ δύναμις διά-
+φορα ποιῆσαι, τούτῳ δύναμις καὶ διαφόρως προνοῆ-
+σαι. Διὰ γὰρ τοῦτο ὁ θεὸς προνοεῖς, τῶν μὲν ἀθανά-
+των φυλακῇ μόνῃ, τῶν δὲ θνητῶν, διαδοχῇ, τῆς ψυ-
+χῆς φροντίδι νόμων, τοῦ σώματος ἀναπληρώσει τῆς
+ἐνδείας. Αὐτὸς οὖν καὶ νῦν ἐπίβλεψον ἐπὶ τὴν ἁγίαν
+σου Ἐκκλησίαν, καὶ αὔξησον αὐτὴν, καὶ πλήθυνον
+τοὺς ἐν αὐτῇ προεστῶτας, καὶ δὸς δύναμιν πρὸς τὸ
+κοπιᾷν αὐτοὺς λόγῳ καὶ ἔργῳ εἰς οἰκοδομὴν τοῦ λαοῦ
+σου. Αὐτὸς καὶ νῦν ἔπιδε ἐπὶ τὸν δοῦλόν σου τοῦτον,
+τὸν ψήφῳ καὶ κρίσει τοῦ κλήρου παντὸς (79) πρε-
+
+# block=5 source_x1=957 source_y1=1976 source_x2=1705 source_y2=2338
+(77) Ἐγὼ ὁ φιλούμενος ὑπὸ τοῦ Κυρίου. Imi-
+tationem Constitutionum in ordinationibus presby-
+teri, diaconi et subdiaconi, circa nomina apostolo-
+rum Joannis, Philippi ac Thomæ, exhibet Eucho-
+logium Allatianum. COT.—Ad hæc verba ascriptum
+hoc scholion in Vindob. cod.: Ἰωάννης ὁ Εὐαγ-
+γελιστὴς, ὁ ἀδελφὸς Ἰακώβου, φυγαδευθεὶς ὑπὸ
+Δομετιανοῦ ἐν Πατμῷ τῇ νήσῳ συνεγράψατο τὸ κατ'
+αὐτὸν Εὐαγγέλιον ἐν γ' Τραϊανοῦ χρόνῳ, καὶ ἐν
+Ἐφέσῳ ἰδίῳ τέλει χρησάμενος· οὗ τὸ λείψανον ζητη-
+θὲν οὐχ εὕρηται. ID.
+
+# block=6 source_x1=951 source_y1=2342 source_x2=1694 source_y2=2735
+(78) Κύριε, καὶ τὰ ἑξῆς. In codice Vindob. hæc
+vocantur ἐπίκλησις χειροτονίας πρεσβυτέρου. ID.
+(79) Ψήφῳ καὶ κρίσει τοῦ κλήρου παντός. Me-
+morabilis est hanc in rem canon Theophili Alexan-
+drini, quo formam ordinandis istam præscribit:
+Πᾶν τὸ ἱερατεῖον συμφωνεῖν καὶ αἱρεῖσθαι, καὶ τότε
+τὸν ἐπίσκοπον δοκιμάζειν, ἢ καὶ συναινοῦντος αὐτῷ
+τοῦ ἱερατείου, χειροτονεῖν ἐν μέσῃ τῇ ἐκκλησίᾳ,
+παρόντος τοῦ λαοῦ, καὶ προσφωνοῦντος τοῦ ἐπισκό-
+που, εἰ καὶ ὁ λαὸς δύναται αὐτῷ μαρτυρεῖν. En cleri
+electio, et populi testimonium. Auctor vero Quæ-
+stionum Veteris et Novi Testamenti, tomo IV S
+
+# block=7 source_x1=972 source_y1=867 source_x2=1706 source_y2=932
+De ordinatione presbyterorum constitutio Joannis a
+Domino dilecti.
+
+# block=8 source_x1=808 source_y1=1817 source_x2=1100 source_y2=1848
+VARIORUM NOTÆ.
+
+# block=9 source_x1=1234 source_y1=824 source_x2=1428 source_y2=856
+CAPUT XVI.
+
+# block=10 source_x1=958 source_y1=1879 source_x2=1702 source_y2=1977
+(76) Deest hæc inscriptio in cod. Vind., et quæ
+sequuntur, usque ad ἐπισκόποις, habentur tituli
+instar. CLER.
+
+# block=11 source_x1=603 source_y1=119 source_x2=1302 source_y2=154
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=12 source_x1=217 source_y1=868 source_x2=917 source_y2=935
+Περὶ χειροτονίας πρεσβυτέρων διάταξις Ἰωάν-
+νου τοῦ φιλημένου ὑπὸ Κυρίου (76).
+
+# block=14 source_x1=222 source_y1=1740 source_x2=945 source_y2=1778
+³² Psal. cxx, 8. ³³ 1. Ignat. interpol. ad Philad. 9.
+
+# block=15 source_x1=192 source_y1=119 source_x2=260 source_y2=160
+1113
+
+# block=16 source_x1=177 source_y1=175 source_x2=937 source_y2=732
+λαοῦ σου· εὐμενὴς γενόμενος ἐπάκουσόν μου διὰ τὸ
+ὄνομά σου, καὶ εὐλόγησον τοῦς σοι κεκλικότας τοὺς
+ἑαυτῶν αὐχένας καὶ δὸς αὐτοῖς τὰ αἰτήματα τῶν
+καρδιῶν αὐτῶν τὰ ἐπὶ συμφέροντι, καὶ μηδένα αὐ-
+τῶν ἀπόβλητον ποιήσῃς ἐκ τῆς βασιλείας σου· ἀλλὰ
+ἁγίασον αὐτοὺς, φρούρησον, σκέπασον, ἀντιλαβοῦ,
+ῥῦσαι τοῦ ἀλλοτρίου, παντὸς ἐχθροῦ, τοῦς οἴκους
+αὐτῶν φύλαξον, τὰς εἰσόδους αὐτῶν καὶ τὰς ἐξόδους
+φρούρησον· ὅτι σοὶ δόξα, αἶνος, μεγαλοπρέπεια,
+σέβας, προσκύνησις, καὶ τῷ σῷ Παιδὶ Ἰησοῦ τῷ
+Χριστῷ σου τῷ Κυρίῳ ἡμῶν καὶ Θεῷ καὶ βασιλεῖ,
+καὶ τῷ ἁγίῳ Πνεύματι, νῦν, καὶ ἀεὶ, καὶ εἰς τοῦς
+αἰῶνας τῶν αἰώνων. Ἀμήν. Καὶ ὁ διάκονος ἐρεῖ·
+
+# block=17 source_x1=967 source_y1=176 source_x2=1712 source_y2=723
+exaudi me propter nomen tuum: ac benedic iis qui
+tibi inclinarunt cervices suas; atque da eis cordis
+eorum petitiones, quæ utiles sunt, et neminem
+eorum abjici facias a regno tuo; verum sanctifica
+illos, custodi, protege, adjuva, libera ab adversario,
+ab omni inimico; domos eorum serva; eorum in-
+troitus et exitus tuere ³³: quoniam tibi gloria, laus,
+majestas, cultus, adoratio; et Filio tuo Jesu
+Christo tuo, nostro Domino, Deo, ac regi; et sancto
+Spiritui; nunc, et semper, et in sæcula sæculorum.
+Amen. Et diaconus dicat: Ite in pace. Hæc de
+mystico cultu nos apostoli constituimus vobis epi-
+scopis, presbyteris et diaconis.
+
+# block=18 source_x1=1639 source_y1=123 source_x2=1707 source_y2=157
+1114
+
+# block=19 source_x1=427 source_y1=827 source_x2=690 source_y2=859
+ΚΕΦΑΛΑΙΟΝ ΙΖ'.
+
+# block=20 source_x1=185 source_y1=734 source_x2=1707 source_y2=822
+Ἀπολύεσθε ἐν εἰρήνῃ (74). Ταῦτα περὶ τῆς μυστικῆς λατρείας (75) διατασσόμεθα ἡμεῖς οἱ ἀπόστολοι
+ὑμῖν τοῦς ἐπισκόποις, καὶ τοῦς πρεσβυτέροις, καὶ τοῦς διακόνοις.

@@ -1,0 +1,209 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,169,1439,905,2364
+2,168,2368,906,2708
+3,935,2527,1678,2702
+4,167,1367,919,1435
+5,168,999,922,1362
+6,171,154,918,802
+7,950,155,1706,800
+8,940,1452,1704,2502
+9,776,941,1072,981
+10,683,93,1160,144
+11,952,996,1718,1458
+12,210,906,468,937
+13,176,95,230,139
+14,161,798,1711,894
+15,1627,102,1693,148
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=16px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+EPISTOLA I AD CORINTHIOS.
+
+# block=13
+325
+
+# block=15
+326
+
+# block=6
+Ἰδοὺ προσήσομαι [ὑμῖν] ἐμῆς πνοῆς ῥῆσιν, δι-
+δάξω [δὲ ὑμᾶς τὸν ἐμὸν λόγον. Ἐπ[ειδὴ ἐκάλουν]
+καὶ οὐχ ὑπηκούσατ[ε, καὶ ἐξέτει]νον λόγους,
+καὶ οὐ [προσείχετε˙] ἀλλ᾿ ἀκύρους ἐποι[εῖτε ἐμὰς]
+βουλὰς, τοῖς δὲ ἐμ[οῖς ἐλέγχοις] ἠπειθήσατε.
+Τοιγαρ[οῦν κἀγὼ] τῇ ὑμετέρᾳ ἀπωλεί[ᾳ (92) ἐπι-
+γελάσο]μαι˙ καταχαροῦμαι δὲ[ἡνίκα ἂν] ἔρχεται
+ὑμῖν ὄλεθρο[ς, καὶ ὡς ἂν ἀ]φίκηται ὑμῖν ἄφφω
+θ[όρυβος˙ ἡ δὲ] καταστροφὴ ὁμοία κ[αταιγίδι
+πα[ρῇ, ἢ ὅταν ἔρχεται ὑμ[ῖν θλίψις] καὶ πολιορ-
+κία. Ἕσται γ[ὰρ (93) ὅταν ἐπι]καλέσῃσθέ με, ἐγὼ
+δὲ [οὐκ εἰσα]κούσομαι ὑμῖν˙ ζητή[σουσι]με κακοὶ,
+καὶ οὐχ εὑρή[σουσιν.] Ἐμίσησαν γὰρ σοφίαν,
+[τὸν δὲ φό]βον τοῦ Κυρίου οὐ προείλα[ντο, οὐδὲ]
+ἤθελον ἐμᾶς προσέχ[ειν βουλαῖς˙] ἐμυκτηρίζον
+
+# block=7
+vos meum sermonem. Quoniam vocabam, ei non
+obedistis; et extendebam verba, et non attendistis;
+sed irrita fecistis mea consilia; et meis increpatic-
+nibus rebelles fuistis. Itaque et ego vestra perditione
+ridebo : gaudebo autem cum venerit vobis interitus,
+et cum advenerit vobis subito tumultus; eversio
+autem similis procellæ adfuerit; vel cum venerit
+vobis tribulatio et oppressio. Erit enim cum invoca-
+bitis me; ego autem non exaudiam vos : quærent
+me mali, et non invenient. Oderunt enim sapientiam;
+timorem autem Domini non assumpserunt; neque
+volebant meis attendere consiliis : subsannabant
+autem meas redargutiones. Ergo comedent viæ suæ
+fructus, et suá ipsorum impietate saturabuntur 86, .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+# block=14
+δὲ ἐμοῦ[ς ἐλέγχοις.] Τοιγαροῦν ἔδονται τῆς [ἑαυτῶν] ὁδοῦ τοὺς καρπούς, [καὶ τῆς ἑαυτῶν]
+ἀσεβείας πλησθήσον[ται (94).]. . . . . . . . . . . . . . . . ιπον (95).
+
+# block=12
+⁸⁶ Prov. I, 23-32.
+
+# block=9
+V.ARIORUM NOTÆ.
+
+# block=11
+menti nostro ποδαγρῶντι subveniat. Quæ in reliquo
+corpore medicam manum prorsus refugere non
+videbantur, pro facultatis nostræ modulo, sarcire
+et καταρτίζειν conati sumus; quam bene? penes
+doctos, et artis criticæ mystas, judicium esto.
+Passim autem in membranis ex quibus epistola
+hæc descripta est observare licet, 𝜈 finale additum
+esse tertiis personis verborum, desinentibus in 𝜀 et
+in 𝜊, licet sequentis dictionis littera initialis sit
+consona, contra receptum et communem scribendi
+usum; quod summæ antiquitatis non leve argu-
+mentum est, cum in antiquis marmoribus, et mss.
+omnibus codicibus, qui grandioribus litteris exarati
+sunt, eadem scribendi forma reperiatur.
+
+# block=5
+κεκλεισμένος, πηγὴ ἐσφραγισμένη (Cant. IV, 12).
+Auctor Operis imperfecti in Matthæum apud eum-
+dem Patrem, ad Matth. VI, 6 : Sicut in Canticis ex
+persona Ecclesiæ Sapientia dicit; et consarcinator
+epistolæ decretalis primæ, Clementi nostro affictæ :
+Dicente Sapientia, Valida est dilectio ut mors. Cant.
+VIII, 6. Cor. — Πανάρετος. SS. Patres quorum
+mentio Euseb. lib. IV, c. 22, vocabant sapientiam
+πανάρετον librum Parabolorum Salomonis apocry-
+phum, non Proverbia aut Ecclesiasten. Hunc locum
+citat Clemens Alexandrinus, p. 126. BERN.
+
+# block=4
+(92) Ἀπωλείᾳ. Sic Wott. ex ms. editi, præter
+Lond. ἀπωλείᾳ. GALL.
+
+# block=1
+(93) Πολιορκία. Ἔσται γάρ. Non agnoscit quæ in-
+terseruntur in quibusdam LXX Interpretum edi-
+tionibus, ἢ ὅταν ἔρχεται ὑμῖν ὄλεθρος, et ab aliis
+rectius absunt; quemadmodum ab Hebræo, a Vul-
+gata, a Catena in Proverbia, et ab initio libri De
+singularitate clericorum, in Operibus S. Cypriani:
+videntur autem ex versiculo præcedente, Proverb.
+1, 26 irrepsisse, perperam repetita; aut esse Scho-
+lium, vel interpretatio alia. Certe versio Luciferi
+lib. I pro S. Athanasio, ex solo additamento con-
+stat : Itaque et ego vestra perditione ridebo : gratula-
+bor autem adversus vos, cum venerit vobis subito tu-
+multus, eversio autem similis procellæ, cum advenerit
+autem vobis interitus. Erit enim cum me invocabitis,
+ego autem non exaudiam. Quem textum ampliorem
+ideo retuli, quia principium illius simili modo
+concipitur in antiquissima Cypriani editione anni
+1471, dicto tractatu De singularitate clericorum:
+Itaque et ego vestræ perditioni superridebo. Gratula-
+bor ergo adversus vos; cum advenerit vobis subito
+tumultus; eversio autem simul et procella, et cum
+advenerit vobis pressura et expugnatio. Erit enim
+cum me invocaveritis; ego autem non exaudiam vos.
+Addiderunt ergo recentiores ex LXX post adversum
+vos, cum advenerit vobis interitus. Quo modo etiam
+codex Regius 156, qui opusculum attribuit Origeni,
+in eoque impressis libris hic emendatior est, quod
+exhibet, Eversio autem similis procellæ. Cor.
+
+# block=8
+Sed manum de tabula, præter enim operas typo-
+graphicas, quæ desinente jam opere plus solito
+festinant, et notas has abrumpunt; muneris nostri
+cura, et familiæ privata negotia domum revocant, nec
+sine dispendio diutius abesse sinunt. Si ῥακώματα
+hæc nostra, benigne Lector, purpuræ Clementinæ
+assuta, non indigne te ferre, (cum scias, ut loqui-
+tur Libanius, ad Evagoram epistola nondum edita,
+ὅτι καὶ ῥάκια, καὶ τὴν καλλίστην ἐσθῆτα, πολλάκις ἕν
+δέχεται κιβώτιον) et primitias has subita manu col-
+lectas, quas nunc in ara benevolentiæ tuæ colloco,
+palato tuo non ingratas esse, nec omnino displicere
+intellexero; postea, si Deus vitam cum valetudine
+indulserit, largioribus manipulis sinum implebo,
+et uberiorem messem adolebo. Interea his fruere,
+et ornatissimo humanissimoque viro, domino do-
+ctori Duppa, celeberrimæ Academiæ Oxoniensis
+vicecancellario dignissimo, gratias mecum agito;
+qui dum opus hoc urgeo, humanitate me sin-
+gulari et benevolentia complexus est, qui thesauros
+Academiæ reclusit, qui typos Savilianos πρόφρονι
+θυμῷ communicavit, qui lentas typographorum
+moras auctoritate sua castigavit, et aucto opera-
+riorum numero, editionem hanc multum promovit.
+Errata quæ a nobis, vel typographis, commissa
+sunt, humaniter condona, festinationi da veniam,
+et quales alios tibi fieri velis, talem te nobis præbe.
+Vale, et humanum esse, errare, memineris. JUN.
+— Hic haud dubie locum habuit Sibyllæ testimo-
+nium, de quo auctor Quæstionum ad orthodoxos,
+ut ex Irenæo erudite colligit Cl. Cotelerius. Videant
+etiam
+
+# block=2
+(94) Desideratur hic in exemplari antiquo folium
+integrum, quod quatuor impressi codicis folia con-
+stituit. Si unius tantum aut alterius vocis defectus
+fuisset et paucarum litterarum lacuna, medicinam
+qualemcunque huic loco male affecto, non minus
+quam aliis, afferre conati fuissemus, sin minus pri-
+stinæ sanitati et integritati reddere, licuisset ; sed
+πάθος est ἀνίατον, et vulnus majus quam ut ullo
+conjecturæ emplastro tegi possit; exspectandus est
+ex Ægypto vel Græcia novus Æsculapius, qui Cle-
+
+# block=3
+(95)... Ιπον. Editi, excepto Londin. ἦτον . Deest
+folium in ms. Comina tamen proxime sequens post
+πλησθήσονται, ex Proverbiis legendum esse non
+dubitat Wott. Et τὸ—ιπον, forte εἶπον vel ἔλιπον,
+claudere sententiam putat. GALL.

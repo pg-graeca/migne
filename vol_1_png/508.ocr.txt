@@ -1,0 +1,82 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,254,1902,1780,2142
+2,1180,147,1795,1057
+3,261,141,1139,1646
+4,1172,1073,1806,1707
+5,310,1744,1079,1844
+6,1239,1764,1715,1812
+7,649,72,1405,114
+8,273,70,335,114
+9,1721,78,1795,124
+10,729,2192,1105,2262
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+415
+
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=9
+416
+
+# block=2
+quæstum esse Dei timorem et justi-
+tiam ; operarios non servientes ven-
+tri suo; operarios, non eos qui per
+dulces sermones et benedictiones se-
+ducunt corda innocentium ²⁷ ; ope-
+rarios, non qui specie tantum sunt
+filii lucis, reipsa autem lux non
+sunt, sed tenebræ, quorum finis in-
+teritus ²⁸ ; operarios, non qui ope-
+rantur iniquitatem, nequitiam et
+fraudem ; operarios non dolosos,
+non ebriosos, non infideles ; opera-
+rios non quærentes sub Christo lu-
+crum temporale ; operarios non de-
+ceptores, non avaros, non male-
+volos.
+
+# block=4
+Intueamur ergo et sectemur ope-
+rarios fideles, ut decenter agamus
+in Domino, prout dignum est, et
+sicut decet vocationem nostram. Sic
+Domino serviemus in sanctitate et
+justitia coram ipso ²⁹, per omnia pla-
+centes ³⁰, providentes bona, non solum
+coram Deo, sed etiam coram homini-
+bus ³¹ : hoc enim bonum est et ac-
+ceptum ³², ut Deus in omnibus nobis
+glorificetur. Amen.
+
+# block=6
+Explicit Epistola prior Clementis.
+
+# block=1
+viris apostolicis imitandæ proponuntur. Illæ conjunctim semper agunt in operibus aa extra, ut loquun-
+tur theolcgi. Hinc in plurali numero dicit Creator omnium : Faciamus hominem ad imaginem et simili-
+tudinem nostram (Gen. I, 26). Ignoro qua mente motus fuerit D. de Prémagny qui hunc locum Epistolæ
+sancti Clementis quasi suggillare tentaverit. In Levitico, c. XX, 26, ipsemet Deus dicit : Eritis mihi sancti,
+quia sanctus sum ego Dominus. Et Salvator noster : Qui sequitur me, non ambulat in tenebris (Joan. VIII,
+12). Exemplum dedi vobis, ut quemadmodum ego feci vobis, ita et vos faciatis (Joan. XIII, 15). ²⁷ Rom.
+XVI, 18. ²⁸ Philip. III, 19. ²⁹ Luc. I, 75. ³⁰ Coloss. I, 10. ³¹ II Cor. VIII, 21. ³² I Tim. II, 3.

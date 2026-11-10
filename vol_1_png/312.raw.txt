@@ -1,0 +1,140 @@
+# layer=rawLLM
+# block=11
+25
+
+# block=12
+24
+
+# block=10
+DE OMNIBUS GENERATIM
+
+# block=8
+lud definire videtur his verbis : Hoc igitur uno tan A
+a Judæis, quam a Christianis differunt : ab illis qui-
+dem quod in Christum credant; a Christianis vero
+quod Judaicis ritibus implicantur.
+
+# block=4
+usus indifferens feminarum. Hi nec ab iis, quæ idolis
+immolantur, cibos suos separant, et alios ritus genti-
+lium superstitionum non aversantur. Narrant alia
+quædam fabulosa, de mundo, nescio quæ barbara
+principum nomina miscentes disputationibus suis.
+Barbara illa nomina refert quidem Epiphanius, sed
+eos de iisdem inter se dissentire monet. Aliqui, in-
+quit 79, Barbelonem nescio quam celebrant, cui in oc-
+tavo cœlo domicilium attribuunt. Hanc a Patre pro-
+ductam affirmant, matremque alii Jaldabaoth, alii Su-
+baoth faciunt.... alii Prunicam quamdam; alii Caulau-
+cauch cuidam eamdem venerationem deferunt, quo nomi-
+ne unum ex principibus appellant ... Alii dicunt initio
+tenebras, ac voraginem, et aquam fuisse , quæ a se
+invicem spiritus secreverit. Verum tenebræ contra spi-
+ritum iracundia ac furore percitæ, sursum excurren-
+tes, cum eo congressæ sunt. Inde matrix nescio quæ,
+genita prodiit, quæ ejusdem spiritus consuetudinem
+appetiit, ex eaque quatuor æones producti sunt, ab iis
+quatuor decem alii procreati, item dextra sinistraque,
+nec non lumen et tenebræ. Secundum hos omnes tur-
+pem quemdam æonem editum narrant, eumque cum
+ea, quam paulo ante diximus, matrice coiisse ; et ab
+utroque deos, atque angelos, et dæmones, ac septem
+spiritus ortum habuisse. Subjungit tandem : Certos
+libros Jaldabaoth nomine inscriptos, ac commentitios
+habent.
+
+# block=1
+Hos autem iisdem propemodum ac Ebionæi erro-
+ribus imbutos docet idem Epiphanius 71 : Ambo col-
+latis inter se capitibus, suam alter cum altero impro-
+bitatem ac nequitiam communicavit. Atque etsi qua-
+damtenus a se mutuo dissolveant, in excogitando ta-
+men pravissimo dogmate sese invicem expresserunt.
+Utrum vero ipsis et cum Cerinthianis eodem modo
+convenerit, anceps ille est : De Christo vero, inquie-
+bat 72, certo affirmare nequeo, utrum Cerinthhi, vel
+Merinthhi impietate illa decepti, simplicem illum ho-
+minem asseverarent, ac uti sese res habet, per Spiritum
+sanctum de Maria Virgine genitum esse fateantur.
+Theodoretus vero brevius planiusque edisserit, qui
+fuerint Nazaræi, et quæ eorum hæresis, quo tem-
+pore exorta, et a quibus tandem expugnata : Naza-
+ræi Judæi sunt, Christum honorantes, tanquam ho-
+minem justum, et Evangelio utuntur, quod secundum
+Petrum dicitur. Has hæreses, imperante Domitiano,
+conflatas auctor est Eusebius. Contra quas scripsit
+Justinus philosophus et martyr, et Irenæus successor
+apostolorum, et Origenes.
+
+# block=3
+Hic autem obiter observa illud difficultate omni
+non carere, quod ait eos usos Evangelio κατὰ Πέτρου ,
+quodamquidem affirmat Epiphanius illud secundum
+Matthæum , et Hebraice scriptum fuisse 73 : Est ve-
+ro, inſit, penes illos Evangelium secundum Mat-
+thæum Hebraice scriptum, et quidem absolutissimum.
+Hoc enim certissime, prout Hebraicis litteris initio
+scriptum est, in hodiernum tempus usque conservant.
+Hæc sane assertio tam certa et perspicua scrupu-
+lum sane et quamdam dubitationem injicit, num
+aliquod in textum Theodoreti mendum irrepserit,
+vel ipse falsus sit, aut memoria lapsus; ac pro
+κατὰ Πέτρου apud ipsum legi debeat, κατὰ Ματθαῖον .
+Et certe huic conjecturæ favet Hieronymus, ubi
+dixit 74 : In Evangelio quo utuntur Nazaræi, et Ebio-
+nitæ, quod nuper in Græcum de Hebræo transtuli-
+mus, et quod vocatur a plerisque Matthæi authenti-
+cum. Idem alibi repetit 75, ac tandem docet Evange-
+lium non Matthæi sed Marci Petro fuisse attribu-
+tum 76 : Sed et Evangelium secundum Marcum, qui
+auditor ejus et interpres fuit, hujus, Petri, esse dici-
+tur.
+
+# block=2
+Hos hæreticos, si Irenæum 80 et Eusebium 81 au-
+dias, Joannes his verbis in Apocalypsi notat 82 : Sed
+hoc habes boni, quia odisti facta Nicolaitarum, quæ
+et ego odi. A quibus autem sint oppugnati, accipies
+a Theodoreto 83 : Contra hos, inquit, scripsit Cle-
+mens, et Irenæus, et Origenes, et Hippolytus episco-
+pus et martyr. Quam vero feliciter contra eos pugna-
+verint, colligas ex victoria ab eis perquam citissime
+reportata. Etenim hæc hæresis, teste Eusebio 84,
+brevissimo temporis spatio permansit. Ex hoc tamen
+fonte corruptissimo fluxerunt Gnostici, aliique com-
+plures, de quibus Epiphanius 85 : Ab hoc fonte, ait,
+derivati, ac pessime in mundum introducti sunt hæ-
+retici illi, qui eam sibi, quam falso nominant, cogni-
+tionem vindicant, cujusmodi sunt Gnostici, Phibioni-
+tæ, et quibus ab Epiphane nomen est inditum. Tum
+etiam Militares, Levitici, aliique complures. Quorum
+quilibet hæresim propriam, ad animi sui affectiones
+accommodans, sexcentas nequitiæ vias excogitavit.
+Atque inde procul dubio orta est, ea quam supra
+memoravimus, hos inter hæreticos de barbaris prin-
+cipum nominibus dissensio.
+
+# block=9
+CAPUT VIII.
+De hæreti Nicolaitarum.
+
+# block=5
+Nicolaitæ novam quoque primo sæculo sectam
+commenti sunt. Errores eorum paucis verbis expo-
+uit Irenæus 77 : Indiscrete vivunt, nullam differen-
+tiam esse dicentes in mœchando, et idolothytum ede-
+re. Augustinus autem paulo dilucidius 78 : Placet
+
+# block=7
+Quis autem hujusce hæreseeos auctor fuerit, non
+ita promptum est definire. Plurimi existimant non
+alium fuisse quam Nicolaum, unum ex septem illis
+Ecclesiæ diaconibus, qui ab apostolis electi et inau-
+gurati sunt. Et hæc quidem fuit Irenæi 86, Epipha-
+
+# block=6
+⁷¹ Hæres. 30, § 2. ⁷² Hæres. 29 § 7. ⁷³ Hæres. 29. § 9. ⁷⁴ Lib. ɪɪ Comment. in Matth.
+ad cap. ₓɪɪ. ⁷⁵ De scriptor. eccles. , in Matth. ⁷⁶ Ibid. , in Petr. ⁷⁷ Lib. ɪɪ Adv. hæres.
+cap. 27. ⁷⁸ Lib. de hæres., § 5. ⁷⁹ Hæres. 25, § 2, 3 et 5. ⁸⁰ Loc. cit. ⁸¹ Lib. v Hist. cap. 29.
+⁸² Apoc. ɪɪ, 6. ⁸³ Lib. ɪɪɪ Hæret. Fabul., cap. 1. ⁸⁴ Lib. ɪɪɪ Histor., cap. 29. ⁸⁵ Hæres. 25, § 2.
+⁸⁶ Locis citatis.

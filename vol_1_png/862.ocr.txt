@@ -1,0 +1,289 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,195,604,946,994
+2,192,111,945,458
+3,201,1303,950,1736
+4,979,603,1743,1017
+5,979,117,1741,457
+6,994,2512,1749,2689
+7,981,1161,1357,2499
+8,198,1236,949,1305
+9,195,534,944,602
+10,1230,485,1488,524
+11,802,1093,1105,1136
+12,233,1024,694,1058
+13,984,527,1733,601
+14,191,66,261,104
+15,198,1167,948,1238
+16,605,55,1315,102
+18,203,1734,952,2301
+19,211,2307,582,2478
+20,437,484,691,530
+21,1647,64,1725,108
+22,595,2306,957,2458
+23,203,2490,571,2702
+24,589,2472,955,2700
+25,1367,1166,1741,2504
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=15px
+# block=16 fontSize=16px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=16px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=21
+1124
+
+# block=14
+1123
+
+# block=2
+ordinari episcopus debeat. Episcopus a tribus vel
+duobus episcopis ordinetur. Si quis autem ordinatus
+fuerit ab uno episcopo, deponatur, et ipse, et is
+qui ordinavit eum. Quod si necessitas incidens
+coegerit ab uno ordinari, eo quod propter perse-
+cutionem, aut aliam similem causam plures inter-
+esse non possint, afferat auctoritatem mandati
+plurium episcoporum.
+
+# block=5
+σων ὀφείλει χειροτονεῖσθαι ὁ ἐπίσκοπος. Ἐπίσκοπος
+ὑπὸ τριῶν ἢ δύο ἐπισκόπων χειροτονείσθω. Ἐὰν δέ
+τις ὑπὸ ἑνὸς χειροτονηθῇ ἐπισκόπου, καθαιρείσθω,
+καὶ αὐτὸς, καὶ ὁ χειροτονήσας αὐτόν. Ἐὰν δὲ ἀνάγκη
+καταλάβῃ ὑπὸ ἑνὸς χειροτονηθῆναι, διὰ τὸ μὴ δύνα-
+σθαι πλείονας παραγενέσθαι διωγμοῦ ὄντος, ἢ ἄλλης
+τοιαύτης αἰτίας, ψήφισμα κομιζέσθω τῆς ἐπιτροπῆς
+πλειόνων ἐπισκόπων.
+
+# block=20
+CAPUT XXVIII.
+
+# block=10
+ΚΕΦΑΛΑΙΟΝ ΚΗ'.
+
+# block=13
+Τοῦ αὐτοῦ (1) κανόνες περὶ ἐπισκόπων, πρεσβυ-
+τέρων, διακόνων, καὶ λοιπῶν κληρικῶν.
+
+# block=9
+Ejusdem canones de episcopis, presbyteris, diaconis,
+et reliquis clericis.
+
+# block=4
+Ὁ αὐτὸς (2), διατάσσομαι περὶ κανόνων. Ἐπίσκοπος
+εὐλογεῖ, οὐκ εὐλογεῖται· χειροθετεῖ, χειροτονεῖ, προσ-
+φέρει, εὐλογίαν παρὰ ἐπισκόπου λαμβάνει, παρὰ δὲ πρε-
+σβυτέρων οὐδαμῶς (3)· ἐπίσκοπος καθαιρεῖ πάντα κλη-
+ρικὸν (4) ἄξιον ὄντα καθαιρέσεως, πλὴν ἐπισκόπου· μό-
+νος γὰρ οὐχ οἷός τε (5). Πρεσβύτερος εὐλογεῖ, οὐκ εὐλο-
+γεῖται· εὐλογίας δέχεται παρὰ ἐπισκόπου, καὶ (6) συμ-
+πρεσβυτέρου, ὡσαύτως ἐπιδίδωσι συμπρεσβυτέρῳ· χει-
+ροθετεῖ, οὐ χειροτονεῖ· οὐ καθαιρεῖ, ἀφορίζει δὲ τοῦς
+
+# block=1
+³² Idem ipse, constituo de canonibus. Episcopus
+benedicit, non benedicitur; manus imponit, ordi-
+nat, offert; benedictionem ab episcopis accipit, a
+presbyteris vero nequaquam. Episcopus deponit
+omnem clericum dignum qui deponatur, excepto
+episcopo : id enim solus non potest. Presbyter be-
+nedicit, non benedicitur; benedictionem recipit ab
+episcopo, et a compresbytero; eamque pariter
+compresbytero dat : manus imponit, non ordinat;
+
+# block=12
+³² 1. pseudo-Ignat. ad Heron. 3.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=7
+Licet jam subscripse-
+ritis illis quæ ad Arium
+et Arianos misi, adhor-
+tans eos ad negandam
+impietatem et ad assen-
+tiendum sanæ atque ca-
+tholicæ fidei, rectamque
+sententiam vestram os-
+tenderitis, necnon in do-
+gmatibus consonantiam
+cum Ecclesia catholica ;
+tamen quia et ad omnes
+ubique terrarum commi-
+nistros de Ariana secta
+litteras dedi, necessarium
+censui, ut vos quidem ci-
+vitatis clericos congrega-
+rem, vos vero qui de Ma-
+reota estis arcesserem ,
+præcipue cum ex vobis
+quoque Chares et Pistus
+presbyteri, Serapio, Pa-
+rammon, Zosimus et Ire-
+næus diaconi, Arianos
+assectati fuerint, atque
+cum illis deponi volue-
+rint ; quo tum quæ nunc
+scriptis mandata sunt co-
+gnoscatis , tum vestrum
+in iis consensum demon-
+stretis , itemque Arii ,
+Pisti, sociorumque depo-
+sitioni suffragemini. De-
+cet enim vos quæ a me
+scripta sunt scire , et
+unumquemque ea quasi
+a se essent exarata, corde
+retinere.
+
+# block=25
+Εἰ καὶ φθάσαντες ὑπε-
+γράψατε οἷς ἐπέστειλα τοῖς
+περὶ Ἄρειον, προτρέπων
+αὐτοὺς [f. αὐτοὺς] ἀρνή-
+σασθαι μὲν τὴν ἀσέβειαν,
+πεισθῆναι δὲ τῇ ὑγιαινού-
+σῃ καὶ καθολικῇ πίστει ,
+καὶ ἐδείξατε ἑαυτῶν ὀρθὴν
+τὴν προαίρεσιν, καὶ τὴν
+ἐν τοῦς δόγμασι συμφω-
+νίαν τῆς καθολικῆς Ἐκκλη-
+σίας, ὅμως ἐπειδὴ καὶ
+πρὸς τοῦς ἀπανταχοῦ συλ-
+λειτουργοὺς ἐπέστειλα πε-
+ρὶ τῶν περὶ Ἄρειον, ἀ-
+ναγκαῖον ἡγησάμην ὑμᾶς
+μὲν τοῦς τῆς πόλεως
+κληρικοὺς συναγαγεῖν, ὕ-
+μᾶς δὲ τοῦς ἀπὸ τοῦ Μα-
+ρεώτου μεταπέμψασθαι,
+μάλιστα ὅτι καὶ ἀφ' ὑμῶν
+Χάρης καὶ Πιστὸς πρε-
+σβύτεροι, καὶ Σαραπίων,
+καὶ Παράμμων, καὶ Ζώ-
+σιμος, καὶ Εἰρηναῖος διά-
+κονοι , ἐπηκολούθησαν
+τοῖς περὶ Ἄρειον, καὶ ἠ-
+γάπησαν σὺν αὐτοῖς καθ-
+αιρεθῆναι· ἵνα καὶ τὰ
+νῦν γραφόμενα γνῶτε ,
+τήν τε ἐν τούτοις συμφω-
+νίαν ἑαυτῶν ἐπιδείξησθε,
+καὶ τῇ καθαιρέσει τῶν
+περὶ Ἄρειον καὶ τῶν περὶ
+Πιστὸν σύμψηφοι γένη-
+σθε. Πρέπει γὰρ τὰ παρ'
+ἐμοῦ γραφόμενα γινώ-
+σκειν ὑμᾶς, καὶ ἕκαστον
+ὡς παρ' αὐτοῦ γραφόμενα,
+ἐν τῇ καρδίᾳ κατέχειν .
+
+# block=15
+(1) Τοῦ αὐτοῦ, etc. Deest titulus in cod .Vind.
+CLER.
+
+# block=8
+(2) Ὁ αὐτός. Hæc et hic seqq. verba sunt loco
+inscriptionis, in cod. Vind. Ib.
+
+# block=3
+(3) Παρά δὲ πρεσβυτέρων οὐδαμῶς. Sine ulla
+contradictione, quod minus est, a meliore benedicitur.
+Hebr. VII, 7. Additur a Nicolao papa, epist. 8, nul-
+lum jus inferiores habere ut benedicant præpositis
+suis. Interdum tamen per humilitatem majores mi-
+noribus virtute præstantibus caput submittebant.
+Ut de quodam sancto monacho refertur apud Seve-
+rum, dialogo 1, cap. 14 : Episcopi quoque sanctissimi,
+inquit, sacerdotali auctoritate deposita, contingi se
+ab eo, atque benedici humiliter postulantes, sanctifi-
+catos se, ac divino munere illustratos, quoties manum
+illius vestemque contigerant, non immerito credide-
+runt. COT.
+
+# block=18
+(4) Ἐπίσκοπος καθαιρεῖ πάντα κληρικόν. Hoc
+jus primum fuisse discimus etiam ex epist. Cypriani
+65, et Hieronymi 53, 61. Sed ei postea derogatum
+est, ob quorumdam tyrannicam licentiam : juxta
+effatum concilii Hispalensis II : Episcopus sacerdoti-
+bus ac ministris solus honorem dare potest, auferre
+solus non potest, can. 6, cujus canonis extrema
+mutile ac depravate leguntur apud Reginonem, Ap-
+pendice I, cap. 31, sic : Sed præstanti synodali
+judicio quod canon de illis præceperit ; pro, sed præ-
+sentati synodali judicio, quod canon de illis præce-
+rit, definiri (repete ex præcedentibus, poterit). Cæ-
+terum circa celeberrimam depositionem Arii pre-
+sbyteri, et sociorum, nactus in Bibliotheca Regis,
+codice 2417, Alexandri Alexandrini allocutionem
+ineditam, dignissimam quæ hic attexeretur judi-
+cavi.
+
+# block=22
+Depositio Arii et eorum
+qui cum illo, per A-
+lexandrum archiepisco-
+pum Alexandriæ.
+
+# block=19
+Καθαίρεσις Ἀρείου καὶ
+τῶν σὺν αὐτῷ, ὑπὸ
+Ἀλεξάνδρου, ἀρχι-
+επισκόπου Ἀλεξαν-
+δρείας.
+
+# block=24
+ALEXANDER, presby-
+teris et diaconis Alexan-
+driæ atque Mareotæ præ-
+sens præsentibus, dilectis
+fratribus in Domino sa-
+lutem.
+
+# block=23
+ἈΛΕΞΑΝΔΡΟΣ πρε-
+σβυτέροις καὶ διακόνοις Ἀ-
+λεξανδρείας καὶ Μαρεώ-
+του παρὼν παροῦσιν, ἀγα-
+πητοῖς ἀδελφοῖς ἐν Κυρίῳ
+χαίρειν.
+
+# block=6
+Vide Lambecium Biblioth. Cæsar., lib. III, ms. 57,
+pag. 87. COT.
+(5) Οἷός τε. Additur ἐστὶν in codice Vindobo-
+nensi. CLER.
+(6) Καί. Καὶ παρὰ, idem cod.

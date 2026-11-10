@@ -1,0 +1,91 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1172,141,1788,2052
+2,1161,2457,1774,2616
+3,240,2445,1114,2604
+4,248,131,1136,2055
+5,289,2662,801,2704
+6,1357,2363,1566,2405
+7,558,2351,800,2415
+8,641,69,1409,115
+9,1729,74,1795,124
+10,253,66,331,116
+11,245,2072,1781,2178
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+439
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=9
+440
+
+# block=1
+perfectum, sanctum et verum ? Hic
+nudam conspexit mulierem, Beth-
+sabee videlicet ex adverso se lavan-
+tem. Erat autem mulier pulchra val-
+de ⁶¹. Ad cujus conspectum, vir usque-
+dum sanctus, formæ illius desiderio
+captus est. Porro, animadvertite quot
+facinora, propter hanc mulierem,
+perpetraverit ! Adulterium enim
+cum ea commisit, et virum illius in
+prælio occidi præcepit. Quot etiam
+dolos ut finem suum assequeretur
+strui jussérit, non ignoratis. Sic,
+sic, ut muliere frueretur, vir san-
+guinis et homicida factus est ille
+ipse David qui christus Domini vo-
+catus est. Hujusmodi factum, o
+homo, te doceat ! Si enim tales viri
+in perditionem a mulieribus inducti
+sunt, quænam est justitia tua, aut
+quisnam es tu, inter sanctos, ut
+præsumptuose, timore Dei sublato,
+cum mulieribus et virginibus die
+nocteque tempus teras ?
+Non sic, fratres, non sic agamus,
+ut non eadem sit nostra ac aliorum
+ruina. Memores vero simus verbi de
+muliere hæc monentis : Laqueus
+venatorum est et sagena cor ejus ;
+vincula sunt manus illius : qui pla-
+cet Deo effugiet illam ; qui autem
+peccator est cupietur ab illa ⁶². Nobis
+ergo qui Deo consecrati sumus ca-
+
+# block=11
+vendum ne cum quacunque muliere nubili habitemus : servos quippe Dei talia contu-
+bernia non decent, nec permitti queunt.
+
+# block=6
+CAPUT XI.
+
+# block=2
+Nonne legisti quid narretur de
+Amnon et Thamar, filiis David ?
+Propriam sororem iste Amnon de-
+
+# block=5
+⁶¹ II Reg. xi, 2. ⁶² Eccle. vii, 27.

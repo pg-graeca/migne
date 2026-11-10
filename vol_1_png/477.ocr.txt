@@ -1,0 +1,101 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,151,2351,1664,2680
+2,153,1468,1669,1886
+3,149,880,1664,1158
+4,147,489,1664,859
+5,154,1179,1668,1450
+6,154,1902,1667,2083
+7,154,2099,1665,2332
+8,148,290,1662,467
+9,145,139,1658,275
+10,575,82,1204,122
+13,1595,70,1663,120
+14,139,84,213,130
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Venia mihi concedatur si laborem viribus forte meis superiorem assumpserim. Homo-
+nymus filius Patrem honorare voluit. Praeterea saepius clare exprimit beatus Clemens sa-
+cramentorum Ecclesiae usum, praesertim divinae Eucharistiae, sacraeque exomologesis pec-
+catorum ; intemeratam extollit virginitatem beatissimae Mariae, quae coeli Dominum gremio
+suo gestare meruit. Pectori meo dulcis erat reproductio hujus antiquae fidei Romanae quae
+semper eadem fuit, est et erit. Sanctum Clementem amare debet Gallia, quae ab ipso suscepit
+plures antistites suos, generososque martyres. Nemo autem eum plus diligere ac venerari
+
+# block=2
+His temporibus, quemadmodum hodie, castitati se devovebant duplicis generis personae :
+primo, qui ad ministerium sacrum vocabantur; deinde qui in saeculo remanentes, homines
+vel feminae, ad perfectionem evangelicam tendebant. Prioribus sanctus Clemens comme-
+morat vocationis sublimitatem, ne degeneri conversatione illam deprimant. Et, quoniam
+humilitas custos est vitae angelicae quam ducere debent praesertim Christi ministri, sanctus
+Pontifex superbiam, quocunque se vertat et abscondat, persequitur, ejusque latebras de-
+tegit in praedicatione, exorcismis, caeterisque actibus etiam sanctissimis. Cum autem prae-
+sumptio ac temeritas plurimos in perditionem induxerint, cautiones suggerit quibus pe-
+riculum devitetur.
+
+# block=3
+Lector attentus et prudens, modo primitivae Ecclesiae tantisper calleat spiritum, move-
+bitur has legendo Epistolas, extrinsecis quas praebent authenticitatis probationibus, sen-
+tietque quam insulsae viroque gravi indignae sint cavillationes D. de Prémagny. Sine fuco
+aut ambitiosis ornamentis sanctum Pontificem, spiritu apostolico plenum, locutum fuisse,
+nemo partium studio alienus, inficiabitur. Hanc doctus Junius Patricius jam odoratus fue-
+rat authenticitatem primae sancti Clementis Epistolae ad Corinthios.
+
+# block=4
+Omnem fere sermonem suum sanctus Clemens e fontibus sacris desumpsit. Nullis ergo
+laboribus parcens, eosdem fontes assidue adivi, quos, ut jam dictum est, Wetstinus ne
+suspicatus quidem fuisse videtur. Unde textus deprompti fuerint, fere ubique notavi,
+saltem quando phrasis satis integra apparuit : non enim vocabulum quodlibet sacrum in-
+dicari debuit, ne innumerae forent notae. Versionem adoptavi, non Septuaginta Interpretum
+aut alterius cujusvis traductoris ; sed Vulgatae, etsi nondum tempore sancti Clementis
+existeret. Imo, in caeteris locis, quando libera mihi poterat esse verborum idem significan-
+tium electio, praetuli fere semper voces a Vulgata consecratas.
+
+# block=5
+Monita quae virginibus dantur, a Scripturis sacris, ut jam dixi, sed praesertim a scriptis
+apostolorum et evangelistarum, eruuntur. Ad eosdem quandoque revertitur sensus pius
+Pontifex : tam ardens est ejus desiderium virginibus suis inspirandi amorem virtutum et
+vitiorum horrorem ! Oblique perstringit Christianos hypocritas, qui carnales sensus sub
+vestimento pietatis occultabant; praecipue vero perfidos haereticos qui jam tunc Eccle-
+siam lacerabant, quosque pagani saepius confundebant cum veris Christi discipulis.
+
+# block=6
+Utrisque, id est clericis et virginibus in saeculo degentibus, ut sanctum timorem animis
+eorum incutiat, lapsum exhibet quarumdam columnarum quae inconcussae et immotae credi
+poterant. Eis tamen animum addit, memorans gratias protectionemque a coelo praeparatas
+animabus cautis ac prudentibus.
+
+# block=7
+Wetstinus, qui certe laudari meretur quod sancti Clementis epistolas non depravaverit
+absona elegantia quae sensum earum intervertere potuisset, negligentiam interdum eas de-
+decorantem admisit, quae multum nocere debuit ipsarum auctoritati. Adeo parum curavit
+conjungere auctoris sui cogitationes, ut eas potius disjungere studuisse videatur. Nihil
+tamen facilius erat quam phraseos regularis constructio.
+
+# block=8
+Prima hujus loci verba Wetstini modestiam commendant: posteriora quae non intel-
+lexerit aut neglexerit, confitentur. Modestiam laudo; tenebrosis locis, quantum in me est,
+lucem affero; negligentiam, si quae fuerit, reparare conor. Nonne sic Wetstini votis ob-
+tempero ?
+
+# block=9
+molesto parum exercitato, et amicorum etiam consiliis, licet undique expetitis, destituto.
+Quosdam etiam qui in textum Syriacum irrepserunt errores..., etiam me non monente,
+facile corriget. »
+
+# block=10
+EPISTOLAE AD VIRGINES. — PROOEMIA.
+
+# block=13
+354
+
+# block=14
+353

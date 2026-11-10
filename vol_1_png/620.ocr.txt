@@ -1,0 +1,155 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,264,149,1016,2054
+2,1054,154,1804,2058
+3,271,2087,1815,2161
+4,883,2207,1187,2246
+5,270,2279,1028,2692
+6,657,91,1369,127
+7,259,98,312,135
+8,1729,82,1803,132
+9,1061,2285,1809,2693
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+gem tuum dissipabis, et devorandum trades lupis,
+hoc est dæmonibus et pravis hominibus; imo vero
+non hominibus, sed feris humana forma præditis,
+ethnicis nempe, Judæis et impiis hæreticis. ⁶² Nam
+ad eum qui ex Ecclesia ejectus est, continuo acce-
+dunt truculenti lupi, et quasi agnum devorare ge-
+stiunt, in proprium lucrum mortem illius reputan-
+tes: etenim illorum pater diabolus, homicida est ⁶³: et
+qui per imprudentiam tuam injuste segregatus fuit,
+tum tristitia oppressus, et pusillo animo effectus;
+aut ad gentes evagabitur, aut implicabitur hæresi-
+bus; et ab Ecclesia ac spe in Deum penitus abalie-
+nabitur, atque ab impietate compedietur; fiesque
+tu de illius interitu reus. Porro æquum non est
+promptum quidem esse ad ejiciendum peccatorem,
+tardum vero ad recipiendum conversum; et teme-
+rarium quidem ad amputandum existere, immitem
+autem ad medendum dolenti; de talibus dicente
+Scriptura divina: « Pedes eorum ad malitiam cur-
+runt: veloces sunt ad effundendum sanguinem ⁶⁴:
+contritio et miseria in viis eorum, et viam pacis non
+cognoverunt: non est timor Dei ante oculos eo-
+rum ⁶⁵. » Via autem pacis est Servator noster Jesus
+Christus, qui etiam nos docuit his verbis: « Dimit-
+tite, et dimittetur vobis; date, et dabitur vobis ⁶⁶; »
+hoc est, date peccatorum remissionem, et remittentur
+vobis delicta: quemadmodum et per orationem insti-
+tuit nos, ut ad Deum diceremus: « Dimitte nobis de-
+bita nostra, sicut et nos dimittimus debitoribus no-
+stris ⁶⁷. » Quare si peccatoribus veniam non tribuitis,
+quomodo peccatorum vestrorum veniam accipietis?
+An non contra vos ipsos ligatis, cum dicitis vos di-
+mittere, et non dimittitis? Annon vestro ori repugna-
+bitis, dicendo, Dimittimus, et non dimittendo? Sci-
+tote enim quod qui nulla iniquitate contactum ab-
+jicit, aut ad bonam frugem reversum non admittit,
+fratris sui interfector est, et sanguinem ejus fundit,
+ut Cainus Abeli fratris; sanguisque illius clamans
+ad Deum, requiretur ⁶⁸. Justus quippe injuste a
+quoquam occisus, apud Deum requiescet in æter-
+num, et simili modo qui ab episcopo perperam fue-
+rit excommunicatus. Sed qui inculpatum, quasi esset
+scelerosus, eliminat, is interemptore sævior est,
+non respiciens ad misericordiam Dei, nec memor
+
+# block=2
+ἔστι δαίμοσι, καὶ πονηροῖς ἀνθρώποις, μᾶλλον δὲ οὐκ
+ἀνθρώποις, ἀλλὰ θηρίοις ἀνθρωποειδέσιν, ἐθνι-
+κοῖς (29), καὶ Ἰουδαϊσταῖς, καὶ αἱρεσιώταις ἀθέοις·
+τῷ γὰρ ἐκβληθέντι τῆς Ἐκκλησίας, εὐθὺς προσπελά-
+ζουσιν (30) οἱ λυμεῶνες λύκοι, καὶ ὡς ἄρνα βορὰν
+ἡγοῦνται, κέρδος ἴδιον ἡγούμενοι τὴν ἐκείνου ἀπώ-
+λειαν· καὶ γὰρ ὁ τούτων πατὴρ διάβολος ἀνθρωπο-
+κτόνος ἐστί· καὶ ὁ διὰ τῆς σῆς ἀκρισίας, ἀδίκως
+ἀφορισθεὶς, καὶ ἀθυμίᾳ συσχεθεὶς, καὶ ὀλιγοψυχήσας,
+ἢ εἰς ἔθνη ἀποπλανηθήσεται, ἢ εἰς αἱρέσεις συμπο-
+δισθήσεται, καὶ παντελῶς τῆς Ἐκκλησίας καὶ τῆς
+εἰς Θεὸν ἐλπίδος ἀπαλλοτριωθήσεται, καὶ συμποδι-
+σθήσεται ὑπὸ ἀσεβείας, καὶ γενήσῃ σὺ τῆς ἐκείνου
+ἀπωλείας ἔνοχος. Οὐ γὰρ δίκαιόν ἐστιν, ἕτοιμον μὲν
+εἶναι ἐκβάλλειν τὸν ἡμαρτηκότα, ὀκνηρὸν δὲ ὑπάρχειν
+εἰς τὸ προσδέχεσθαι τὸν ἐπιστρέφοντα, καὶ πρόχειρον
+μὲν εἰς τὸ ἀποκόπτειν, ἀνηλεῆ δὲ εἰς τὸ τὸν ἀλγοῦντα
+ἰᾶσθαι· περὶ γὰρ τῶν τοιούτων λέγει ἡ θεία Γραφή·
+« Οἱ πόδες αὐτῶν εἰς κακίαν τρέχουσι· ταχινοί εἰσι
+τοῦ ἐκχέειν αἷμα· σύντριμμα καὶ ταλαιπωρία ἐν
+ταῖς ὁδοῖς αὐτῶν, καὶ ὁδὸν εἰρήνης οὐκ ἔγνωσαν· οὐκ
+ἔστι φόβος Θεοῦ ἀπέναντι τῶν ὀφθαλμῶν αὐτῶν. »
+Ὁδὸς δὲ εἰρήνης ἐστὶν ὁ Σωτὴρ ἡμῶν Ἰησοῦς ὁ Χρι-
+στὸς, ὃς καὶ ἐδίδαξεν ἡμᾶς λέγων· « Ἄφετε, καὶ
+ἀφεθήσεται ὑμῖν, δίδοτε, καὶ δοθήσεται ὑμῖν· » τουτ-
+έστι, δίδοτε ἄφεσιν ἁμαρτιῶν, καὶ ἀφεθήσεται ὑμῖν
+τὰ παραπτώματα (31)· ὡς καὶ διὰ τῆς εὐχῆς ἡμᾶς
+ἐπαίδευσε λέγειν πρὸς τὸν Θεόν· « Ἄφες ἡμῖν τὰ
+ὀφειλήματα ἡμῶν, ὡς καὶ ἡμεῖς ἀφίεμεν τοῖς ὀφειλέ-
+ταις ἡμῶν. » Ἐὰν οὖν μὴ ἀφῆτε τοῖς ἡμαρτηκόσι,
+πῶς ὑμεῖς λήψεσθε τὴν ἄφεσιν τῶν ἁμαρτιῶν ὑμῶν ;
+οὐχὶ τοὐναντίον ἑαυτοὺς (32) δεσμεύετε, λέγοντες ἀφιέ-
+ναι, καὶ μὴ ἀφιέντες ; οὐ τῷ ἑαυτῶν στόματι ἐναν-
+τιωθήσεσθε, λέγοντες ἀφιέναι, καὶ μὴ ἀφιέντες ; γι-
+νώσκετε γὰρ ὅτι ὁ τὸν μὴ ἀδικήσαντα ἐκβάλλων, ἢ
+τὸν ἐπιστρέφοντα μὴ προσδεχόμενος, φονεὺς (33) τοῦ
+ἀδελφοῦ αὐτοῦ ἐστι, καὶ αἷμα ἐκχέει, ὡς Καῒν Ἄβελ
+τοῦ ἀδελφοῦ (34), καὶ τὸ αἷμα αὐτοῦ βοῶν πρὸς Θεὸν
+ἐκζητηθήσεται· δίκαιος γὰρ ἀδίκως φονευθεὶς ὑπό
+τινος, παρὰ Θεῷ ἐν ἀναπαύσει ἔσται εἰς τὸν αἰῶνα·
+ὡσαύτως καὶ ὁ ματαίως (35) ἀφορισθεὶς ὑπὸ τοῦ ἐπι-
+σκόπου. Ὁ μὲν ἐκβαλὼν ὡς λοιμὸν τὸν ἀναίτιον, πι-
+κρότερος φονέως ὁ τοιοῦτος, οὐκ ἀφορῶν εἰς τὸ τοῦ
+Θεοῦ ἔλεος, οὐδὲ μνημονεύων αὐτοῦ τὴν ἐπὶ τοῖς
+
+# block=3
+⁶² Ignat. ad Smyrn. 4. ⁶³ Joan VIII, 44. ⁶⁴ Prov. I, 16; Is. LIX; Rom. III, 15. ⁶⁵ Psal. XXXV,
+2. ⁶⁶ Luc. VI, 37, 38. ⁶⁷ Matth. VI, 12. ⁶⁸ Gen. IV.
+
+# block=4
+VARIORUM NOTÆ.
+
+# block=5
+(29) Ἐθνικοῖς, καὶ Ἰουδαϊσταῖς, καὶ αἱρεσιώ-
+ταις. Judaistas, opinor, appellat, non tam Judæos
+quam judaizantes. Quocirca statim post, gentium
+duntaxat ac hæreseon mentionem facit, Judaistas
+complectens in hæreticis : Ὅτι οὐ δεῖ Χριστιανοὺς
+Ἰουδαΐζειν, est 29 canon Synodi Laodicenæ, καὶ
+ἐν τῷ Σαββάτῳ σχολάζειν, ἀλλὰ ἐργάζεσθαι αὐτοὺς
+ἐν τῇ αὐτῇ ἡμέρᾳ, τὴν δὲ Κυριακὴν προτιμῶντας,
+εἴγε δύναιντο, σχολάζειν ὡς Χριστιανοί. Εἰ δὲ εὑρε-
+θεῖεν Ἰουδαϊσταὶ, ἔστωσαν ἀνάθεμα παρὰ Χριστῷ. Sic
+in Dialogis qui Origeni ascribuntur, dialogo 2,
+Marcus hæreticus Marcionista Catholicis nomen
+
+# block=6
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=7
+639
+
+# block=8
+640
+
+# block=9
+Judaistarum dat, eo quod Legem, Prophetas ac
+Deum Judæorum non aversentur. Cot.
+(30) Προσπελάζουσι. Alter Vind. προσπαίζουσι,
+et mox ὡς λύκοι, deinde pro ἡγοῦνται, αὐτὸ ποιοῦν-
+ται. Cler.
+(31) Παραπτώματα. Addit alter codex ὑμῶν. Id.
+(32) Ἑαυτούς. Alter ἑαυτὸν δεσμεύεις λέγων. Mi-
+nus bene. Id.
+(33) Φονεύς. Uterque cod., φονεύει τὸν ἀδελφὸν
+αὐτοῦ. Id.
+(34) Τοῦ ἀδελφοῦ. Αὐτοῦ in Vind., rectius. Id.
+(35) Ματαίως. Ἀδίκως alter cod. Id.

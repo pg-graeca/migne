@@ -1,0 +1,283 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,749,968,1045,1000
+2,167,566,921,871
+3,940,1029,1314,1395
+4,962,410,1706,511
+5,1242,346,1418,382
+6,177,403,921,539
+7,922,1603,1689,2730
+8,178,159,931,238
+9,164,1017,912,1294
+10,596,103,1277,144
+12,184,892,1584,928
+13,955,160,1711,248
+14,165,246,1183,288
+15,171,94,237,140
+16,1645,110,1713,154
+17,953,562,1713,888
+18,419,326,693,390
+19,139,1294,519,2736
+20,529,1298,905,2748
+21,941,1392,1701,1596
+22,1327,1024,1695,1402
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+817
+
+# block=10
+CONSTITUTIONES APOSTOLICÆ.-LIB. IV.
+
+# block=16
+818
+
+# block=8
+μὴ προσέλθης μοι περὶ αὐτῶν, ὅτι οὐκ εἰσακούσο-
+μαί σου. »
+
+# block=13
+ipsis, non exaudiam eos ⁵⁰. Et tu noli orare pro
+populo hoc, neque postules ut misericordiam con-
+
+# block=14
+scuantur, et ne accedas ad me pro his, quia non exaudiam te ⁵¹.
+
+# block=18
+ΚΕΦΑΛΑΙΟΝ Ζ'.
+
+# block=5
+CAPUT VII.
+
+# block=6
+Ὅτι αἱ τῶν ἀναξίων καρποφορίαι, ἕως ἂν ὦσι
+τοιούτοι, οὐ μόνον οὐκ ἐξιλεοῦνται τὸν Θεόν,
+ἀλλ' ἐκ τῶν ἐναντίων κινοῦσιν αὐτὸν πρὸς
+ἀγανάκτησιν.
+
+# block=4
+Quod indignorum hominum oblationes, quandiu ii
+tales sunt, non modo non placant Deum, sed con-
+tra ad indignationem eum provocant.
+
+# block=17
+⁵² Quin etiam in peccatis versantes, et pœniten-
+tiam non agentes, non solum inter orandum non
+exaudientur, sed insuper Deum irritabunt, illuni
+commonefacientes improbitatis eorum. Evitate igi-
+tur hujusmodi subministrationes, tanquam pretium
+canis, et mercedem meretricis : utraque enim legi-
+bus prohibentur 53. Nam nec Elisæus allata ab
+
+# block=2
+Οὐ μὴν δὲ, ἀλλὰ καὶ οἱ ἐν ἁμαρτίαις (38) γενόμενοι,
+καὶ μὴ μεταγνόντες, οὐ μόνον οὐκ εἰσακουσθήσονται
+προσευχόμενοι, ἀλλὰ καὶ τὸν Θεὸν παροξυνοῦσιν,
+ὑπομιμνήσκοντες αὐτὸν τῆς ἑαυτῶν μοχθηρίας. Περι-
+ἵστασθε οὖν τὰς τοιαύτας διακονίας, ὡς ἄλλαγμα
+κυνὸς, καὶ μίσθωμα πόρνης · ἑκάτερα γὰρ τοῖς νόμοις
+ἀπηγόρευται. Οὔτε (39) γὰρ Ἐλισσαῖος τὰ παρὰ
+
+# block=12
+⁵⁰ Jer. xv, 1. ⁵¹ Jer. vii, 16. ⁵² Etiam hoc caput subjungit Anastasius. 53 Deut. xxviii, 18.
+
+# block=1
+VARIORUM NOTÆ.
+
+# block=9
+(38) Οἱ ἐν ἁμαρτίαις, etc., usque ad μοχθηρίας.
+Legebat ista Gentianus Hervetus, quæstione 1 Ana-
+stasianarum. Non legebat Jacobus Gretserus. Cum
+primo faciunt libri Regii, in quorum uno post μοχ-
+θηρίας positum est τὴν τιμωρίαν. Coт.
+(39) Ἀπηγόρευται. Οὔτε. Hæc inter, in membra-
+nis Regiis melioris notæ cod. 1789'Anastasii Quæ-
+stionum, inserta sunt Græca quæ sequuntur:
+
+# block=22
+λεὺς, λέγων · Συλλάβετε
+αὐτόν · καὶ ἐξηράνθη ἡ
+χεὶρ αὐτοῦ · καὶ ὑπ' αὐ-
+τοῦ παρακληθεὶς ὁ ἄνθρω-
+πος τοῦ Θεοῦ, ἰάσατο αὐ-
+τόν. Καὶ λέγει ὁ βασιλεὺς
+πρὸς αὐτόν · Εἴσελθε μετ'
+ἐμοῦ εἰς τὸν οἶκόν μου,
+καὶ ἀρίστησον, καὶ δώσω
+σοι δόμα. Καὶ εἶπεν ὁ ἄν-
+θρωπος τοῦ Θεοῦ · Ἐὰν
+
+# block=3
+et dabo tibi donum. Et
+dixit homo Dei: Si dede-
+ris mihi dimidium domus
+tuæ, non ingrediar tecum;
+neque manducabo panem.
+Hic est propheta ille, qui
+a pseudopropheta dece-
+ptus, et transgressus man-
+datum Dei, a leone inter-
+emptus fuit, ac extera
+sepultura multatus est.
+
+# block=19
+Ἀπεστάλη Ἁζαὴλ πα-
+ρὰ Ἄδερ βασιλέως Συρίας
+πρὸς Ἐλισσαὲ, καὶ ἔλα-
+βεν μάννα ἐν τῇ χειρὶ
+αὐτοῦ, καὶ πάντα ἀγαθὰ
+Δαμασκοῦ, ἄρσιν τεσσαρά-
+κοντα καμήλων, δῶρα,
+καὶ ἦλθεν, καὶ ἔστη ἐνώ-
+πιον Ἐλισσαὲ, καὶ εἶπεν·
+Ὁ υἱός σου υἱὸς Ἄδερ βα-
+σιλεὺς Συρίας μαλακι-
+σθεὶς, ἀπέστειλέν με πρὸς
+σὲ, λέγων· Εἰ ζήσομαι;
+Καὶ ἔστη Ἁζαὴλ κατὰ
+πρόσωπον αὐτοῦ, καὶ παρ-
+έθηκεν ἐνώπιον αὐτοῦ τὰ
+δῶρα, ἕως ᾐσχύνετο. Καὶ
+Ἐλισσαὲ πρὸς αὐτὸν εἶ-
+πε· Πορεύου, καὶ εἰπὲ
+αὐτῷ· ζωῇ ζήσῃ σύ· καὶ
+αὐτὸς ἀποθάνηται. Καὶ
+ἐπορεύθη. Φοβηθεὶς ὁ Ἰε-
+ροβοὰμ, ὅπως μὴ ἀπο-
+στῇ ὁ λαὸς ἀπ' αὐτοῦ, καὶ
+προσκολληθῇ τῷ Ῥοβοὰμ,
+ἐποίησε δαμάλεις δύο, καὶ
+ἔθετο τὴν μὲν μίαν ἐν Βε-
+θὴλ, τὴν δὲ ἑτέραν ἐν Δὰν,
+καὶ σὺν τῷ ὑπ' αὐτοῦ λαῷ
+ἐλθὼν, ἀνέβη αὐτὸς ἐπὶ τὸ
+θυσιαστήριον τὸ ἐν Βεθὴλ
+θῦσαι. Καὶ ἰδοὺ Ἀχίας ὁ
+Σιλωνίτης, ὃς ἦν προφή-
+της τοῦ Θεοῦ, παρεγένετο
+ἐξ Ἰούδα εἰς Βεθὴλ, καὶ
+εἶπε· Θυσιαστήριον, θυ-
+σιαστήριον, ἰδοὺ υἱὸς τί-
+κτεται τῷ οἴκῳ Δαυῒδ,
+Ἰωσίας ὄνομα αὐτοῦ, καὶ
+θύσει τοὺς ἱερεῖς, καὶ ὀ-
+στᾶ ἀνθρώπων κατακαύ-
+σει ἐπὶ σέ. Καὶ ἐξέτεινε
+τὴν χεῖρα αὐτοῦ ὁ βασι-
+
+# block=20
+Missus est Azael ab
+Adere rege Syriæ ad Eli-
+sæum; et sumpsit manna
+in manu sua, et omnia bona
+Damasci, onus quadra-
+ginta camelorum, dona;
+et venit, ac stetit coram
+Elisæo, et dixit: Filius
+tuus filius Ader rex Syriæ
+ægrotans misit me ad te,
+dicens: An vivam? Et ste-
+tit Azael ad faciem ejus,
+et apposuit coram eo dona,
+donec confusus est. Eli-
+sæus autem dixit ad eum:
+Vade, dic illi : Tu vita vi-
+ves : ipse tamen morietur.
+Et abiit. Veritus Jeroboam
+ne populus ab eo abscede-
+ret, ac Roboamo adjunge-
+retur, fecit duas vitulas,
+posuitque unam quidem
+Bethele, alteram vero Da-
+ne; veniensque cum populo
+sibi subdito, ascendit ipse
+ad altare quod Bethele, ut
+sacrificaret. Et ecce A-
+chias Silonites, qui erat
+Dei propheta, advenit e
+Juda Bethelem, dixitque:
+Altare, altare! ecce filius
+nascitur domui Davidis,
+Josias nomen ejus; et
+immolabit sacerdotes, et
+ossa hominum comburet
+super te. Et extendit ma-
+num suam rex, dicens:
+Comprehendite eum : et
+exaruit manus ejus. Atque
+ab illo rogatus homo Dei,
+sanavit eum. Et ait rex ad
+ipsum : Intra mecum in
+domum meam, et prande,
+
+# block=21
+δῷς μοι τὸ ἥμισυ τοῦ οἴκου σου, οὐκ εἰσελεύσο-
+μαι μετὰ σοῦ, οὐδὲ μὴ φάγω ἄρτον. Οὗτος ἦν ὁ
+προφήτης ὁ ὑπὸ ψευδοπροφήτου ἀναπατηθεὶς,
+καὶ τὴν ἐντολὴν παραβὰς τοῦ Θεοῦ, καὶ ὑπὸ λέοντος
+θανατωθεὶς, καὶ ξενόταφος γενόμενος [in marg. νε-
+γονώς.)
+
+# block=7
+En duo scholia ad duas historias a Constitutore
+allatas, accepta ex litteris sacris, IV Regum viii,
+8, etc., et III Reg. xii, 26, etc., et XIII, 1, etc. Ob-
+servabilis in primo, tum vox δῶρα ad explicandam
+vocem μναvá, quam loco μαννά poni solere dixi ad
+interpretationem Chrysostomi in Daniele; tum
+lectio editionis Complutensis, IV Reg. viii, 11: Καὶ
+ἔστη Ἁζαὴλ κατὰ πρόσωπον αὐτοῦ, καὶ παρέθηκεν
+ἐνώπιον αὐτοῦ τὰ δῶρα, ἕως ᾐσχύνετο. In 2 scholio
+falsa est Græculi sententia illa, quam prætermisimus
+in penultima adnotatione. Quis credat ei, prophetam
+illum esse Achiam Silonitén, contempta auctoritate
+sacræ. Scripturæ, quæ III Reg. cap. XIII et XIV, non
+obscure ambos distinguit, huncque illi supervixisse
+significat? Neque vero hoc dicitur in Constitutioni-
+bus, sed a scholiaste confusi fuerunt Adonias et
+Achias; quemadmodum a pseudo-Dorotheo pro uno
+homine binomini sumuntur. Græca Dorothei illius
+sunt. . . . . . : Περὶ τοῦ ᾿Αχιᾶ. . . . . . Οὗτος ἦν
+ἐκ Σιλὼμ, ὅπου ἦν ἡ σκηνὴ ἡ πάλαι, ἐκ τῆς πόλεως
+Ἠλί. Καὶ ἀπέθανε. Καὶ ἐτάφη ἐγγὺς τῆς δρυὸς Σι-
+λὼμ· οὗτος δὲ καὶ ᾿Αδωνίας καλεῖται. Latina Vul-
+gata. . . . . . . Achias. . . . . . . Iste erat ex
+Silon, ubi olim erat tabernaculum, e civitate Eli.
+Mortuus est, ac sepultus prope quercum Silon. Idem
+etiam Adonias vocatur. . . . . . Emenda in nomine
+Ahiæ S. Gregorium homil. 1 in Ezechielem. Sic
+Ahiæ prophetæ animum, prophetiæ spiritus, et ex
+præsenti, atque ex futuro tetigerat, cum caligantibus
+oculis, eam quæ se esse aliam simulabat, et uxorem
+Jeroboam esse cognovit, et quidquid ei futurum esset
+aperuit. Male vulgo Abiæ. Corruptus quoque mul-
+tipliciter est Lucifer Calaritanus libro De regibus
+apostaticis, pag. 167. 168, in textu III Reg., cap. XII

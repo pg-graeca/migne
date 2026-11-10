@@ -1,0 +1,180 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,261,1727,1011,2110
+2,1049,1556,1798,2024
+3,265,1291,1011,1716
+4,1045,2030,1803,2370
+5,260,2117,1010,2369
+6,269,171,1022,1284
+7,1052,248,1807,1548
+8,1044,2483,1791,2686
+9,258,2414,1011,2617
+10,258,2617,1002,2680
+11,291,2679,852,2719
+12,1074,2416,1486,2486
+13,794,113,1261,147
+14,1050,164,1807,244
+15,246,96,354,156
+16,1752,102,1826,150
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Inficiari equidem nolim, haud leve aliquando ar-
+gumentum ex dissimilitudine styli suppetere, quo
+alicui scriptori opus abjudicetur, aliique addicatur ;
+dummodo tamen reliqua rite cohæreant. Verum
+hunc canonem criticum non esse nimium urgen-
+dum, nemo non videt ; siquidem, ut optime Cotele-
+rius, quem sequitur et Grabius (81), styli dissimili-
+tudo ab eodem scriptore pro varietate temporum et
+causarum oriri potuit.
+
+# block=2
+Occurritur tertiæ objectioni. Responsio. — Nec
+dicat vir eruditus, suppositionis suspicionem sibi
+injicere sententiam e libro quodam apocrypho acce-
+ptam, quæ in hujus epistolæ capite 11 exstat, cum
+jam et in prioris capite 23, paucis mutatis, occur-
+rat. Si enim contra secundam epistolam hæc ratio
+vim haberet, jam de primæ quoque integritate con-
+clamatum foret. Adde, quod repetita ejusdem sen-
+tentiæ citatio nullatenus idonea sit falsi suspi-
+candi causa, ita censente viro in re critica peritissi-
+mo Coutantio.
+
+# block=3
+Objectio prima contra authentiam hujus Epistolæ
+Clementinæ. — Joannes Morinus hanc epistolam
+suppositionis suspectam habet eo argumento, quod
+nimirum illius stylus, non ut prioris, sit simplex,
+sed argutulus (79), non sponte fluens, sed pro au-
+ctoris captu studiose elaboratus ; non ἀπεριοδικὸς
+et nonnunquam ἀνανταπόδοτος, sed verborum am-
+bitum, antitheses, earumque repetitiones ambitiose
+affectet. Idem quoque argumentum urget Richardus
+Simonius (80).
+
+# block=4
+Objectio quarta, et responsio. — Sunt insuper, qui
+secundæ hujus epistolæ veritati locum objiciant a
+pseudo-Justino desumptum, qui sic se habet : Si
+præsentis rerum status finis est impiorum per ignem
+judicium, prout testantur Scripturæ prophetarum et
+apostolorum, atque insuper sibyllæ, ut ait B. Cle-
+mens in epistola ad Corinthios, ad quæ quidem ver-
+ba plura erudite observat Cotelerius, atque ex eo
+
+# block=5
+Objectio secunda ex Dionysio Corinthiorum episco-
+po desumpta.—Vir. cl. Joannes Grabius (82) ex ver-
+bis Dionysii Corinthiorum episcopi apud Eusebium
+(83) confici putat, unam duntaxat a D. Clemente epi-
+stolam esse scriptam, quam τὴν προτέραν διὰ Κλή-
+μεντος γραφεῖσαν Dionysius appellat, quod scilicet ad
+
+# block=6
+Joannis Damasceni opera intelligitur ; atque ex ms.
+codice, quo Junius ad eam in publicum edendam
+usus est, quem a primi usque Nicæni concilii tem-
+poribus exaratum (78) fuisse existimat. Prior qui-
+dem epistola in laudato codice ad calcem sic inscrip-
+ta legitur : Κλήμεντος πρὸς Κορινθίους ἐπιστολὴ Α' ;
+posterior vero sic : Κλήμεντος ἐπιστολὴ Β' ; licet au-
+tem posterior ex librariorum forte incuria, prænotata
+πρὸς Κορινθίους haud compareat ; quidni et eam ad
+Corinthios missam existimemus, cum prioris inscri-
+ptio hac de re satis superque indubios nos reddat ?
+Enimvero neque prior legitur in indiculo fuisse ad
+Corinthios perscripta. Quis porro ne illam quidem
+Corinthiorum nomine signatam ex ejusdem Indiculi
+silentio jure arguat ? Neque item silentium nos mo-
+veat Eusebii, et qui eum secuti sunt, Hieronymi
+atque Rufini, qui, dum epistolæ secundæ memine-
+runt, Ecclesiæ Corinthiacæ fuisse illam inscriptam
+non perhibent. Cum enim laudati scriptores, ut re-
+cte Coutantius, memorata priore Clementis epistola
+ad Corinthios statim subdant : fertur et altera, ne-
+que ad alios hanc alteram scriptam designent ; eam
+quoque ad eosdem scriptam intelligere merito exi-
+stimantur : alioquin si ad alios missam nossent,
+neque id innuissent , hæc ipsorum reticentia jure
+ac merito negligentiæ culpanda videretur.
+
+# block=7
+Responsio. — Verum esto, meminerit hic Diony-
+sius prioris tantum Clementis epistolæ : neque pla-
+cet enim Beveregii sententia (84), conjicientis, epi-
+scopum Corinthiorum omissa Soteris epistola de
+utraque Clementina verba fecisse. Minus item no-
+bis probatur, quod alii arbitrantur, Dionysium
+nempe illam Clementis epistolam, quæ publice le-
+gebatur, ideo fortasse προτέραν vocasse, ut eam ab
+altera Soteris ad Corinthios pariter scripta distin-
+gueret. At his missis, num propterea rite cum Gra-
+bio colligas, post ævum demum Dionysii vertente
+sæculo II ita scribentis , Clementinam secun-
+dam fuisse confictam ? Hoc unum scilicet ex iis ,
+observante Coutantio nostro, confici posse videtur,
+fuisse in more positum, institutoque Ecclesiæ Co-
+rinthiorum, priorem quidem Clementis epistolam
+legi, posteriorem non item. Nunquid demum tunc
+temporis erant legendæ in publicis ecclesiarum con-
+ventibus omnes non apostolorum modo, sed etiam
+apostolicorum virorum epistolæ ; ut proinde poste-
+rior Clementis censenda sit pseudepigrapha eo no-
+mine, quod de illius lectione in conventu Corin-
+thiaco nullam injiciat mentionem Dionysius ? Cum
+itaque priorem quidem minime vero posteriorem
+in cætu ecclesiastico perlegi consuevisse ab episco-
+po Corinthiorum addiscamus ; hinc sane perspici-
+mus, cur priorem eximiam prorsus atque mirabilem
+appellarit episcopus Cæsareensis ; de posteriore ve-
+ro scripserit : Illam minus notam fuisse, neque a ve-
+teribus usurpatam.
+
+# block=8
+(83) Hodie S. diem Dominicum transegimus, in
+quo vestram legimus epistolam : quam quidem per-
+petuo deinceps legentes, perinde ac priorem illam a
+Clemente scriptam, unde optimis monitis instruamur,
+habemus. Euseb., H. E., l. IV, c. 23.
+(84) Cod. canon., l. II, cap. 9, § 10, pag. 115.
+
+# block=9
+(78) S. Clementis ex epist. 2 ad Corinth.:«Qui res
+præsentis vitæ cognoscit, intelligit, neque ea, quæ
+nonnulli jucunda reputant, aliena esse, aut procul
+dissita ab iis, quæ odio habentur,»l. II Parallelo-
+rum, cap. 20. Junius præfat. in Clem. epist., tom. I
+Patrum apostolicorum, pag. 132.
+
+# block=10
+(79) Exercitat. Biblic., l. I, cap. 4, 5, 9, exerci-
+tat. 9.
+
+# block=11
+(80) Bibl. Chois., t. I, c. 38, pag. 282.
+
+# block=12
+(81) Spicileg. t. I, pag. 268.
+(82) Ibid., pag. 266.
+
+# block=13
+AD S. CLEMENTEM I PAPAM
+
+# block=14
+Ecclesiam Corinthiacam prius ea missa fuerit, quam
+Soter suam deinceps eidem inscripserit.
+
+# block=15
+131
+
+# block=16
+132

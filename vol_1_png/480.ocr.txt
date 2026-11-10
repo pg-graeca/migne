@@ -1,0 +1,167 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1020,1622,1786,2401
+2,237,1318,990,1965
+3,249,535,997,1093
+4,230,1974,990,2399
+5,244,1102,990,1309
+6,1015,2529,1764,2698
+7,1033,142,1787,1614
+8,227,2523,976,2699
+9,635,92,1394,128
+10,259,150,1009,525
+11,264,2457,1454,2498
+14,261,84,331,124
+15,1735,96,1807,138
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Certum est sanctum Clementem Romæ natum
+fuisse patre Fausto quem Faustinianum plerique
+nominant, matre vero Mathidia. A parentibus Athe-
+nas, ubi tunc maxime florebant studia, ad discen-
+dam philosophiam missus est : brevique tempore
+scientiæ princeps fuit existimatus. Cum autem opi-
+nionum varietas ancipitem illum efficeret quamnam
+sententiam amplecteretur de sublimioribus religionis
+quæstionibus, in manus Principis apostolorum inci-
+disse fertur, et ab ipso in comitem itinerum assump-
+tus, sic sub tali magistro profecit, ut, eodem jubente,
+prædicationis munus nonnumquam impleret. Magnum
+deinde Paulum audivit, eumdemque aliquandiu
+comitatus est : cui ita se probavit, ut ab ipso inter
+præcipuos et sanctissimos Evangelii collaboratores
+fuerit numeratus ⁸. Imo, probati scriptores, ut san-
+ctus Hieronymus, probabiliter putant a sancto
+Paulo sanctum Clementem fuisse adhibitum ut in-
+
+# block=2
+Abbas Gratianus, qui nuper de Græco in Italicam
+linguam traduxit primam Epistolam sancti Clemen-
+tis ad Corinthios, super hæc verba quæ num. 38.
+hujus Epistolæ reperiuntur : Qui carne castus est,
+ne insolescat, sciens alium esse qui ei continentiam
+donat : ait : ‹ Quidam sentiunt hunc locum desi-
+gnari a sancto Epiphanio et a sancto Hieronymo,
+quando asserunt sanctum Clementem de virginitate
+disseruisse : sed quamvis expresse ibi mentio fiat
+de castitate et continentia, cum hæc raptim tantum
+dicantur, videtur probabilius de his materiis ex-
+tensivo modo, et ex professo tractatum fuisse in
+quodam ex capitulis sancti Clementis quæ casu per-
+ierunt. Firmatur hæc conjectura ratiocinio et non
+ambigua assertione prædictorum sanctorum. ›
+
+# block=3
+Hæc verba, certissime adeo clare designant
+epistolas quas de Virginitate scripsit sanctus Cle-
+mens, ut de earum existentia dubitari nequeat.
+Enimvero, sanctus Clemens, juxta beatum Hiero-
+nymum, omnium virorum apostolicorum martyrum-
+que sanctitate ac eloquentia illustrium qui hocce
+thema tractandum susceperunt, antesignanus est.
+Imo de iisdem Epistolis testatur sanctus Epipha-
+nius eas, adhuc suo tempore, in Ecclesiis lectas
+fuisse. Quædam insuper narrat quæ in his Episto-
+lis, et nusquam alibi, sanctus Clemens tractat : vi-
+delicet, quæ attinent, hac in re, ad Davidem,
+Samsonem et prophetas.
+
+# block=4
+Non sic profecto locutus fuisset honorabilis iste
+scriptor, si ad eum pervenisset notitia inventionis
+Epistolarum quas denuo in lucem edimus, post
+Wetstinum et D. de Prémagny. Præterea, non tan-
+tum capitula quædam indicant sancti Epiphanius et
+Hieronymus, sed Epistolas integras. Veniamus nunc
+ad probationes intrinsecas. Prima eruitur ex lingua
+primigenia. Quamvis sanctus Clemens esset Roma-
+nus, nulla memorantur ipsius scripta quæ Latino
+sermone evulgaverit. Græce scripsit ambas Episto-
+
+# block=5
+Lambertus Gruterus Venradius, qui duo fere sæ-
+cula ante Wetstinum scribebat, expresse ponit has
+Epistolas inter sancti Clementis scripta quæ desi-
+derantur. Idem sentit Baronius, cui Rondininus
+consentire videtur.
+
+# block=6
+Clementi tribuitur, fuse narrat relationes sancti
+Clementis cum sancto Petro. A Græco in Latinum
+versum est a Rufino. Omnes confitentur ab hære-
+ticis corruptum fuisse librum hunc cæteroqui sublim
+philosophia plenum.
+
+# block=7
+las ad Corinthios. Patet etiam Græce scriptum fuisse
+archetypum duarum Epistolarum ad Virgines : ver-
+sio quippe Syriaca plura conservavit vocabula quæ
+mere Græca sunt (1). Tempore quo sanctus pontifex
+scripsit, nulla probabiliter existebat adhuc sacra-
+rum Scripturarum versio Latina, saltem authen-
+tica : et inde conjici potest cur Græce potius quam
+Latine sanctus Clemens opera sua scripserit : cum
+enim, ut plurimum, ex verbis sacris scrino-
+nem suum texuerit, multo commodius et securius
+citare poterat translationem Græcam quæ in mani-
+bus omnium erat, quam sententias in Latinam
+vertere linguam. Utitur ergo jugiter versione Græca
+Veteris Testamenti, etiam quando ab Hebraica le-
+ctione recedit. Quod certe magnam denotat antiqui-
+tatem istarum Epistolarum. Vetustatem etiam ar-
+guit narratio lotionis pedum quæ, temporibus apo-
+stolicis, a provectæ ætatis mulieribus adhuc perage-
+batur, et quæ, ni fallor, ubique cessavit post dies
+apostolicorum virorum. Nemo mirari debet quod
+sanctus Clemens initio et fine harum Epistolarum
+vocetur Discipulus Petri apostoli, cum potius beati
+Pauli discipulus censeatur : Origenes enim, sancti
+Clementis ætati tam vicinus, sic ipse loquitur in
+Philocalia¹ : Clemens Romanus, Petri apostoli di-
+scipulus. Si qua præterea fides quibusdam Recogni-
+tionum (2) narrationibus concedatur, nullum disci-
+pulum vel comitem magis assiduum ac unanimem
+habuit beatus Petrus quam sanctum Clementem.
+Quid autem incredibile, imo quid non maxime pro-
+babile quod sanctus Clemens, qui Romanus erat et
+Christianus, Romæ sancto Petro adhæserit, ipsius-
+que discipulus fuerit diu antequam sanctus Paulus
+Romam veniret ?
+
+# block=8
+(1) Exemplo sint istæ voces : Eucharistia, asotia,
+kindymos, praxis, schema, taxis, diatheke, agon,
+autolexei, philadelphia, philoxenia, philargyria, phi-
+loproteia, paraiteistai, etc.
+(2) Opus Recognitionum quod ab antiquis sancto
+
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=10
+illustres tam sanctitate quam eloquentia viri, quos
+ex propriis scriptis nosse perfacile est. ›
+De iisdem Epistolis sic loquitur sanctus Epipha-
+nius ⁶ : ‹ Ipse Clemens illos per omnia refutat in
+his quas scripsit epistolis circularibus quæ in san-
+ctis Ecclesiis leguntur... Virginitatem Clemens edo-
+cuit ; isti repudiant. Ille etiam Davidem et Samso-
+nem omnesque prophetas commendat; Ebionitæ de-
+testantur. ›
+
+# block=11
+⁶ Epiph. contra Ebionitas, hæres. 30, n. 15. ⁷ Philoc. c. 23. ⁸ Philipp. iv, 3.
+
+# block=14
+359
+
+# block=15
+360

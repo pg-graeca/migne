@@ -1,0 +1,194 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,936,778,1684,1075
+2,139,777,908,1072
+3,138,1307,896,1442
+4,124,1562,897,2703
+5,138,1450,893,1554
+6,936,152,1697,628
+7,147,148,902,622
+8,1217,724,1411,758
+9,395,725,652,757
+10,644,88,1134,130
+11,164,1118,1036,1160
+12,919,1304,1689,1902
+13,763,1228,1066,1266
+15,909,1924,1680,2694
+16,139,616,1229,672
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=16px
+# block=7 fontSize=16px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+EPISTOLA II AD CORINTHIOS.
+
+# block=7
+ἔτι (53). ᾿Ανόητοι, συμβάλετε ἑαυτοὺς ξύλῳ· λάβετε
+ἄμπελον· πρῶτον μὲν φυλλοῤῥοεῖ, εἶτα βλαστός γίνε-
+ται, μετὰ ταῦτα ὄμφαξ, εἶτα σταφυλὴ παρεστηκυῖα·
+οὕτως καὶ ὁ λαός μου ἀκαταστασίας καὶ θλίψεις ἔσχεν,
+ἔπειτα ἀπολήψεται τὰ ἀγαθά. » Ὥστε, ἀδελφοί μου,
+μὴ διψυχήῶμεν, ἀλλὰ ἐλπίσαντες ὑπομείνωμεν, ἵνα
+καὶ τὸν μισθὸν κομισώμεθα. Πιστὸς γάρ ἐστιν ὁ
+ἐπαγγειλάμενος τὰς ἀντιμισθίας ἀποδιδόναι ἑκάστῳ
+τῶν ἔργων αὐτοῦ. Ἐὰν οὖν ποιήσωμεν τὴν δικαιοσύ-
+νην ἐναντίον τοῦ Θεοῦ, εἰσήξομεν εἰς τὴν βασιλείαν
+αὐτοῦ, καὶ ληψόμεθα τὰς ἐπαγγελίας, ἃς [οὓς ]οὐκ
+
+# block=6
+vitem : primo quidem foliis defluit, deinde germi-
+nat; postea uva acerba oritur, indeque uva matura.
+Ita et populus meus agitationes et pressuras tulit ;
+dehinc bona excipiet ³. » Itaque, fratres mei, animo
+ne vacillemus, sed sperantes sustineamus , ut et
+mercedem reportemus. Fidelis enim est, qui pro-
+misit se unicuique retributurum secundum opera
+ejus. Si ergo fecerimus justitiam coram Deo, in
+regnum illius ingrediemur, et accipiemus promis-
+siones , quas nec auris audivit, nec oculus vidit;
+quæque in cor hominis non ascenderunt ⁴.
+
+# block=16
+ἤκουσεν (54), οὐδὲ ὀφθαλμὸς ἴδεν, οὐδὲ ἐπὶ καρδίαν ἀνθρώπου ἀνέβη.
+
+# block=8
+CAPUT XII.
+
+# block=9
+ΚΕΦΑΛΑΙΟΝ ΙΒʹ.
+
+# block=2
+Ἐκδεχώμεθα οὖν καθ᾿ ὥραν (55) τὴν βασιλείαν
+τοῦ Θεοῦ, ἐν ἀγάπῃ καὶ δικαιοσύνῃ· ἐπειδὴ οὐκ οἴδα-
+μεν τὴν ἡμέραν τῆς ἐπιφανείας τοῦ Θεοῦ. ᾿Επερωτηθ-
+θεὶς γὰρ αὐτὸς ὁ Κύριος ὑπό τινος (56), πότε ἥξει
+αὐτοῦ ἡ βασιλεία, εἶπεν· "Οταν ἔσται τὰ δύο ἕν,
+καὶ τὸ ἔξω, ὡς τὸ ἔσω, καὶ τὸ ἄρσεν μετὰ τῆς θη-
+λείας, οὔτε ἄρσεν οὔτε θῆλυ. Τὰ δύο δὲ ἕν ἐστιν,
+
+# block=1
+Igitur in horas regnum Dei exspectemus, in cha-
+ritate et justitia : quandoquidem Dei adventus diem
+nescimus. Interrogatus enim a quodam ipse Domi-
+nus , quando venturum esset regnum ejus, dixit :
+Cum duo erunt unum , et quod foris ut quod intus,
+et masculum cum femina, neque mas neque femina.
+Duo autem sunt unum, quando alter ad alterum
+
+# block=11
+³ Vid. sup. epist. I, cap. XXIII. ⁴ Isa. LXIV, 4; I Cor. II, 9.
+
+# block=13
+VARIORUM NOTÆ.
+
+# block=12
+hoc dictum, sed in eo quod est secundum Ægyptios.
+Deinde mihi videtur (Cassianus) ignorare, quod
+(Evangelium illud) per masculum quidem significet
+iram, impetum, per feminam vero cupiditatem; qua
+cum operata fuerint, pœnitentia et pudor consequi-
+tur. Quando ergo neque iræ quis, neque cupiditati
+obsequens; quæ quidem et ex consuetudine et ex
+mala educatione incremento accepto, obumbrant ac
+contegunt rationem; sed exuens caliginem quæ ex iis
+proficiscitur, et pudore affectus ex pœnitentia, spiri-
+tum et animam unierit in obedientia rationis, tunc,
+ut ait Paulus, ‹ non est in vobis nec masculus nec
+femina (Gal. III, 28). › Recedens enim anima ab ea
+forma qua mas et femina discernuntur, traducitur
+ad unionem, neutrum cum sit. Similia Ægyptiaci
+Evangelii citantur ac exponuntur in Alexandrino
+presbytero, pag. 445, 452, 453, et p. 799, col. 1.
+Vide Oracula Sibyllina, l. II, v. 70, 71.
+
+# block=3
+(53) Ἑωράκαμεν ἔτι. Habetur in ms. vox ὍΤΙ,
+interlinearis eodem modo quo præcedens viol. Pro-
+cul dubio legendum est ἔτι. Deest in editis præter
+Londin. Ex WOTT. GALL.
+
+# block=5
+(54) Ἃς οὓς οὐκ ἤκουσεν. Οὓς desideratur in
+ms. recte suppletum in editis ex 1 Cor. II, 9.
+WOTT.
+
+# block=4
+(55) Καθ᾿ ὥραν. Id est singulis horis; ut καθ᾿
+ἡμέραν, singulis diebus; κατὰ μῆνα, singulis men-
+sibus; κατ᾿ ἐνιαυτόν, singulis annis. Plena locutio
+est καθ᾿ ἑκάστην ὥραν. Bois.
+(56) Ἐπερωτηθεὶς γὰρ αὐτὸς ὁ Κύριος ὑπὸ
+τινος. Interrogatus enim ipse Dominus a quodam. A
+Salome, in Evangelio secundum Ægyptios. Disci-
+mus ex his Clementis alterius, Strom., III, p. 465,
+unde nostris et lux et supplementum accedit : Δὶς
+τοῦτό τοι, ὁ Κασσιανός φησι, πυνθανομένης τῆς Σα-
+λόμης, πότε γνωσθήσεται τὰ περὶ ὧν ἠρέτο, ἔφη ὁ
+Κύριος· "Οταν τὸ τῆς αἰσχύνης ἔνδυμα πατήσητε,
+καὶ ὅταν γένηται τὰ δύο ἕν, καὶ τὸ ἄρρεν μετὰ
+τῆς θηλείας, οὔτε ἄρρεν οὔτε θῆλυ. Πρῶτον μὲν
+οὖν ἐν τοῖς παραδεδομένοις ἡμῖν τέτταρσιν Εὐαγγε-
+λίοις οὐκ ἔχομεν τὸ ῥητὸν, ἀλλ᾿ ἐν τῷ κατ᾿ Αἰγυπ-
+τίους· ἔπειτα δὲ ἀγνοεῖν μοι δοκεῖ, ὅτι θυμὸν μὲν,
+ἄρρενα, ὁρμήν, θήλειαν δὲ, τὴν ἐπιθυμίαν αἰνίττεται·
+οἷς ἐνεργήσασι, μετάνοια ἕπεται καὶ αἰσχύνη. "Οταν
+οὖν μήτε τις θυμῷ, μήτ᾿ ἐπιθυμίᾳ χαρισάμενος· ἃ δὴ
+ἐξ ἔθους καὶ τροφῆς κακῆς αὐξήσαντα, ἐπισκιάζει καὶ
+ἐγκαλύπτε τ τὸν λογισμόν· ἀλλ᾿ ἀποδυσάμενος τὴν
+ἐκ τούτων ἀχλὺν, ἐκ μετανοίας κατασχυνθεὶς, πνεῦμα
+καὶ ψυχὴν ἑνώσει κατὰ τὴν τοῦ λόγου ὑπακοήν· τότε,
+ὡς ὁ Παῦλος φησιν, οὐκ ἔνι ἐν ὑμῖν οὐκ ἄρρεν,
+οὐ θῆλυ. ᾿Αποστᾶσα γὰρ τοῦδε τοῦ σχήματος, ᾧ διά-
+κρίνεται τὸ ἄρρεν καὶ τὸ θῆλυ, ψυχὴ, μετατίθεται
+εἰς ἕνωσιν, οὔθ᾿ ἕτερον οὖσα : Propterea, ait Cassia-
+nus, cum percontaretur Salome, quando cognosce-
+rentur ea de quibus interrogabat, dixit Dominus :
+« Quando pudoris indumentum conculcaveritis , et
+quando duo facta fuerint unum, et masculum cum
+femina, neque mas neque femina. » Primo quidem,
+in nobis traditis quatuor Evangeliis non habemus
+
+# block=15
+Sed et Evangelii Ægyptiorum mentio fit apud
+Origenem, hom. 1 in Lucam; Hieronymum, prooemio
+Commentariorum in Matthæum; Epiphanium, hæ-
+resi 62, cap. 2; Titum ac Theophylactum, ad prin-
+cipium Lucæ. Quanquam vero hæretici veteres ad
+stabiliendum odium suum in nuptias, Evangelii
+juxta Ægyptios testimoniis uterentur, non tamen
+ea talia sunt, quæ non queant ad pium sensum
+adduci, ex sententia utriusque Clementis, ut dicta
+habeantur et litteraliter, et mystice, ὡς ἐν παρα-
+δεύστῳ μυστηριωδῶς, inquit Epiphanius, more Ægy-
+ptiaco; ac de Christi regno duplici, intra nos, at-
+que in futura vita, ubi summa erit corporis et
+animæ unio, ubi spirituale corpus gestabimus, ubi
+perstantibus sexibus cessabunt sexuum officia.
+Profecto, si ab aliquo eorum qui temporibus apo-
+stolicis prohibebant nubere, compositum fuit Evan-
+gelium Ægyptiorum dictum, admodum ille virus
+erroris sui occultavit, qui a viris doctissimis juxta
+ac sanctissimis deprehensus non fuit, sed laudatus
+ac expositus. Unum affirmare possum, pseudo-
+evangelistam ex solemni apud apocryphorum scri-
+ptores consuetudine imitandi canonicos libros, al-

@@ -1,0 +1,190 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,241,1949,1006,2683
+2,1034,2180,1799,2699
+3,245,1338,999,1548
+4,1039,1753,1794,2183
+7,1034,1338,1794,1558
+8,871,1699,1171,1732
+9,244,1573,1791,1675
+10,245,1745,1000,1952
+11,673,79,1394,117
+12,263,1262,988,1334
+15,252,75,309,116
+18,1075,1264,1753,1334
+19,505,1217,734,1255
+21,1037,130,1803,1213
+22,241,134,1011,1214
+23,1241,1218,1565,1260
+24,1733,72,1797,122
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=241 source_y1=1949 source_x2=1006 source_y2=2683
+(53) Καὶ τὸν νόμον ἔξω τῶν ὅρων τῆς Ἰουδαίας
+ἀναγινώσκειν.Interpretatio est legis Mosaicæ; quod
+discere licet ex B. Chrysostomo contra Judæos |
+oratione 2, et allusio ad locum Amos IV, 5, juxta
+Septuaginta : Πῶς γὰρ ἀναγγέλλει τοῦ Θεοῦ τὴν δό-
+ξαν ἐν τοῖς ἔθνεσιν, ὁ μηδὲ νόμον ἀναγινώσκειν ἔξω
+τῶν ὅρων τῶν οἰκείων συγχωρούμενος; τοῦτο γὰρ
+αὐτὸ Ἀμὼν ὁ προφήτης ἐφθέγγετο· « Καὶ ἀνέγνωσαν
+ἔξω νόμον, καὶ ἐπεκαλέσαντο ὁμολογίας. » Quo modo
+enim populus Judæorum posset annuntiare gloriam
+Dei inter gentes, qui ne legem quidem extra proprios
+terminos legere permissus est? Hoc ipsum enim Amos
+propheta pronuntiavit : « Et legerunt foris legem, et
+invocaverunt confessiones. » Incertus ad ps. xcv, 5,
+relatus in Catena : Οὔτε γὰρ στῆσαι βωμὸν, οὔτε
+θυσίαν ἀνενεγκεῖν, οὐ σπεῖσαι, οὐ πρόβατον ἐπιθεῖ-
+ναι, οὐ θυμίαμα, οὐκ ἀναγνῶναι νόμον, οὐχ ἑορτὴν
+ἐπιτελέσαι, οὐκ ἄλλο τι τῶν τοιούτων αὐτοῖς ἐκτὸς
+τῶν προθύρων ἐκείνων ἐξῆν. Et postea : Καὶ τί λέγω
+θύειν καὶ σπένδειν; οὐδὲ ἁπλῶς ἀναγνῶναι τὸν νόμον
+ἐξῆν αὐτοῖς· καὶ τοῦτο πότε ἐγκαλῶν ἕτερος προφή-
+της ἔλεγεν·«Καὶ ἀνέγνωσαν ἔξω νόμον, καὶ ἐπεκαλέ-
+
+# block=2 source_x1=1034 source_y1=2180 source_x2=1799 source_y2=2699
+(57) Ἀρνοῦνται γάρ, etc. De Simone Mago ad-
+ditamentum ad apostolorum canonem 50, in colle-
+ctione Joannis Antiocheni tit. 36, ποτὲ δὲ καὶ τὸ πά-
+θος τοῦ Χριστοῦ, καὶ τὴν γέννησιν περικόψας. Et in
+epistola apocrypha Corinthiorum ad Paulum, quam
+una cum responsione Apostoli seu epistola tertia
+ad Corinthios, pariter pseudepigrapha, ferri apud
+Armenios testatur Jacobus Usserius, in epistola in
+Ignatii ad Trallianos. Simoni et Cleobio hi tribuun-
+tur errores, citante eodem viro doctissimo : « Pro-
+phetas non esse legendos; Deum non esse omnipoten-
+tem; non esse futuram corporis resurrectionem; homi-
+nem a Deo non fuisse creatum; Jesum Christum ex
+corpore Mariæ Virginis natum non fuisse : neque a
+Deo creatum fuisse mundum, sed a quibusdam ange-
+
+# block=3 source_x1=245 source_y1=1338 source_x2=999 source_y2=1548
+Abstinete igitur, episcopi et laici, ab omnibus
+hæreticis ; qui legem ac prophetas improbant ⁴⁰ :
+nam omnipotenti Deo infesti, non credunt ; et Chri-
+stum non confitentur Filium Dei; negant enim ge-
+nerationem ejus secundum carnem, crucem erube-
+
+# block=4 source_x1=1039 source_y1=1753 source_x2=1794 source_y2=2183
+σαντο ὁμολογίας. » Joannes Chrysostomus libro Quod
+Christus sit Deus cap. ult. ; cujus et legi debet ora-
+tio 5 adversus Judæos, paulo post initium. Sed
+consuli etiam debet Methodius, in Virginum convi-
+vio, p. 56, edit. Par. Ib.
+(54) Πολυθέους. Longe melius Vindob. codex
+μισοθέους, ut referatur res ad Judæos. Ib.
+(55) Πειθαρχήσωμεν. Addit alter codex Χριστῷ,
+ut legit interpres, et quidem recte. Ib.
+(56) Φθορέας. Καὶ τί ἑκάστη αἵρεσις δοξάζει
+ὁμοίως καὶ ἐν τῷ η', καὶ θ', καὶ ι' κεφ. Hæc addun-
+tur in cod. Vindobonensi hujus capitis inscriptioni.
+Ib.
+
+# block=7 source_x1=1034 source_y1=1338 source_x2=1794 source_y2=1558
+Ἀπεχέσθω οὖν αἱρεσιωτῶν πάντων, ὦ ἐπίσκοποι
+καὶ λαϊκοὶ, τῶν φαυλιζόντων τὸν νόμον καὶ τοὺς προ-
+φήτας· Θεῷ γὰρ παντοκράτορι ἐχθραίνοντες, ἀπει-
+θοῦσι· καὶ Χριστὸν οὐχ ὁμολογοῦσιν Υἱὸν Θεοῦ· ἀρ-
+νοῦνται γὰρ (57) καὶ τὴν κατὰ σάρκα αὐτοῦ γέννη-
+
+# block=8 source_x1=871 source_y1=1699 source_x2=1171 source_y2=1732
+VARIORUM NOTÆ.
+
+# block=9 source_x1=244 source_y1=1573 source_x2=1791 source_y2=1675
+³⁵ Joan. xıx, 15. ³⁶ Joan. xı, 48. ³⁷ Gal. ııı, 10; Deut. xxvıı, 26. ³⁸ Deut. xıı. ³⁹ I. Ignat.
+interpol. ad Philad. 6, ad Trall. 11. Pseudo-Ignat. ad Her. 2, ad Philipp. vııı. ⁴⁰ I. Ignat. interpol.
+ad Philad.
+
+# block=10 source_x1=245 source_y1=1745 source_x2=1000 source_y2=1952
+. (51) Ὅς. Cod. Vind. πᾶς ὃς, ut est in textu. Cl.
+(52) Καί. Καὶ θυσιαστήριον, et seqq. usque ad
+ἀναγινώσκειν desunt in cod. Vind. Certe falsa sunt
+quæ iis significantur, nec usquam leguntur in V. T.
+Qui finxit has constitutiones, in Scripturis versa-
+tus, vix hac in re errare potuit. Ib.
+
+# block=11 source_x1=673 source_y1=79 source_x2=1394 source_y2=117
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=12 source_x1=263 source_y1=1262 source_x2=988 source_y2=1334
+Quod oporteat fugere hæreticos, ut animarum perdi-
+tores.
+
+# block=15 source_x1=252 source_y1=75 source_x2=309 source_y2=116
+975
+
+# block=18 source_x1=1075 source_y1=1264 source_x2=1753 source_y2=1334
+Ὅτι χρὴ φεύγειν τοὺς αἱρεσιώτας, ὡς ψυχῶν
+φθορέας (56).
+
+# block=19 source_x1=505 source_y1=1217 source_x2=734 source_y2=1255
+CAPUT XXVI.
+
+# block=21 source_x1=1037 source_y1=130 source_x2=1803 source_y2=1213
+εἰπόντες· « Οὐκ ἔχομεν βασιλέα, εἰ μὴ Καίσαρα· »
+καὶ, Ἐὰν μὴ ἀποκτείνωμεν, φησὶ, τὸν Χριστὸν, « πάν-
+τες εἰς αὐτὸν πιστεύσουσι· καὶ ἐλεύσονται οἱ Ῥωμαῖοι,
+καὶ ἀροῦσιν ἡμῶν καὶ τὸν τόπον καὶ τὸ ἔθνος· » καὶ
+ἄκοντες προεφήτευσαν· καὶ γὰρ καὶ ἐπίστευσαν εἰς
+αὐτὸν τὰ ἔθνη, καὶ αὐτοὶ ὑπὸ Ῥωμαίων τῆς ἐξου-
+σίας περιῃρέθησαν, καὶ τῆς νομικῆς λατρείας · κε-
+κωλυμένοι δέ εἰσι, καὶ ἀναιρεῖν οὓς ἂν θέλωσι, καὶ
+θύειν ὅταν θέλωσι· διὸ καὶ εἰσὶν ἐπικατάρατοι, μὴ
+δυνάμενοι ποιεῖν τὰ διατεταγμένα· «Ἐπικατάρατος
+γὰρ, φησὶν, ὃς (51) οὐκ ἐμμένει ἐν πᾶσι τοῖς γεγραμ-
+μένοις ἐν τῷ βιβλίῳ τοῦ νόμου, τοῦ ποιῆσαι αὐτά· »
+ἀδύνατον δέ ἐστιν ἐν διασπορᾷ μεταξὺ ἐθνῶν ὄντας,
+πάντα τὰ τοῦ νόμου ἐπιτελεῖν αὐτούς. Ἀπαγορεύει
+γὰρ αὐτοῖς ὁ θεῖος Μωϋσῆς καὶ (52) θυσιαστήριον ἔξω
+Ἱερουσαλὴμ ἱστᾷν, καὶ τὸν νόμον ἔξω τῶν ὅρων
+τῆς Ἰουδαίας ἀναγινώσκειν (53). Ἑπόμενοι οὖν ἡμεῖς
+Χριστῷ, τὰς εὐλογίας κληρονομήσωμεν· νόμῳ καὶ
+προφήταις διὰ τοῦ Εὐαγγελίου στοιχήσωμεν· φύγω-
+μεν τοὺς πολυθέους (54), καὶ τοὺς χριστοκτόνους καὶ
+τοὺς προφητοκτόνας, καὶ τοὺς δυσωνύμους καὶ ἀθέους
+αἱρεσιώτας· πειθαρχήσωμεν (55) ὡς βασιλεῖ, ὡς ἐξου-
+σίαν ἔχοντι μετατιθέναι διατάξεις διαφόρους, καὶ
+ἔχοντι, ὡς νομοθέτῃ, σοφίαν τοῦ διατάσσεσθαι διαφόρως,
+πανταχοῦ τῶν φυσικῶν ἀμεταθέτων φυλαττομένων.
+
+# block=22 source_x1=241 source_y1=134 source_x2=1011 source_y2=1214
+centes : « Non habemus regem, nisi Cæsarem ³⁵ ; »
+et : Nisi occidamus Christum, inquit Synagoga,
+« omnes in eum credent; et venient Romani, et tol-
+lent nostrum locum et gentem nostram ³⁶ ; » atque
+inviti prophetarunt : siquidem et crediderunt in
+eum gentes; et ipsi a Romanis potestate, ac legis
+cultu sunt privati; prohibiti etiam sunt, et interi-
+mere quos vellent, et sacrificare quando vellent :
+quocirca maledicti existunt, cum non possint im-
+perata facere. « Maledictus enim, inquit, qui non
+permanserit in omnibus quæ scripta sunt in libro
+legis, ut faciat ea ³⁷ ; » fieri autem nequit, ut qui in
+dispersione inter gentes versantur, omnia legis
+mandata perficiant. Nam interdicit eis divinus Mo-
+ses et altare extra Hierosolymam statuere, et legem
+extra terminos Judææ legere ³⁸. Nos igitur Christum
+sequentes, benedictiones in hæreditatem consequa-
+mur; legi ac prophetis per Evangelium adhærea-
+mus; fugiamus, tum deorum multitudini addictos,
+tum Christi ac prophetarum interfectores, tum in-
+fames ac impios hæreticos; Christo pareamus, ut
+regi, ut prædito potestate retractandi diversas con-
+stitutiones; et, quatenus legislator, habenti sapien-
+tiam constituendi varie ; naturalibus ubique absque
+ulla mutatione servatis ³⁹.
+
+# block=23 source_x1=1241 source_y1=1218 source_x2=1565 source_y2=1260
+ΚΕΦΑΛΑΙΟΝ ΚΖ'.
+
+# block=24 source_x1=1733 source_y1=72 source_x2=1797 source_y2=122
+976

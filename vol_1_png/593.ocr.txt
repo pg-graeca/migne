@@ -1,0 +1,201 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,173,232,935,617
+2,962,237,1710,616
+3,175,807,931,1042
+4,959,805,1724,2629
+5,176,1102,930,2667
+6,771,727,1079,761
+7,178,1041,923,1109
+8,214,653,644,689
+9,208,180,885,217
+10,1042,182,1608,218
+11,336,2672,617,2709
+12,1238,129,1411,164
+13,174,81,231,116
+14,390,132,703,168
+15,610,76,1267,111
+16,1645,78,1698,117
+17,1537,2662,1602,2699
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Περίστασο καὶ τὴν ἐν βαλανείῳ μετὰ ἀνδρῶν
+ἄτακτον γινομένην λοῦσιν · πολλὰ γὰρ τὰ δίκτυα τοῦ
+πονηροῦ. Ἀνδρόγυνον γυνὴ πιστὴ μὴ λουέσθω. Εἰ
+γὰρ περικαλύπτεται τὸ πρόσωπον, τὴν ἀπ' ἀλλοτρίων
+ἀνδρῶν ὄψιν μετὰ αἰδοῦς κρύπτουσα, πῶς γυμνὴ
+μετὰ ἀνδρῶν ἡ τοιαύτη εἰς λουτρὸν εἰσελεύσεται ;
+Γυναικείου δὲ ὄντος βαλανείου, εὐτάκτως μετὰ αἰδοῦς
+μεμετρημένως λουέσθω. Μὴ περισσοτέραν δὲ λοῦ-
+σιν (80) ποιείσθω (81) , μηδὲ ἐν μέσῃ τῇ ἡμέρᾳ,
+
+# block=2
+Cave etiam inordinatam in balneo cum viris la-
+vationem : multa enim sunt mali retia. Mulier fi-
+delis lavacro viris ac feminis communi ne utatur.
+Nam si pudoris ergo os tegit, et ab alienorum vi-
+rorum aspectu arcet; quo modo hujusmodi mulier
+cum viris nuda in balneas ingredietur? Itaque in
+muliebri balneario, cum disciplina, verecundia ac
+moderatione lavet.⁵³ Porro lavationem non usurpet
+frequentius, nec per medium diem, nec si fieri
+
+# block=3
+in antiquis scriptoribus : imo sancti Patres, etiam
+qui post Decium floruerunt, Apostolum secuti I Co-
+rinth. XI, præcipiunt feminis caput obnubere ac ve-
+lare. Quocirca existimo historiolam confictam
+fuisse ab aliquo nugatore, ad fulciendam sæculi
+sui pravam consuetudinem. Lege caput sequens,, et
+lib. II, cap. 57. Cot.
+
+# block=4
+rum cap. penult. tom. IX Operum Hieronymi, nec-
+non Florentinæ sorori Leander, libro De institutione
+virginum cap. 10, utque de Paula refert Hieronymus
+in Epitaphio illius cap. 7. de Olympiade Palladius in
+Vita Chrysostomi cap. 17, aut certa ætate certisque
+temporibus ad balneas non accedere. Siquidem la-
+vacra in adultis virginibus et juvenculis viduis
+Hieronymo displicent. Tertullianus vero De corona 3
+ostendit fideles sui temporis ex die baptismi, la-
+vacro quotidiano per totam hebdomadam absti-
+nuisse; et cap. 1, De jejuniis commemorat lavacri
+abstinentiam congruentem arido victui seu jejunii
+xerophagiis : secundum illa verba S. Augustini
+epist. 118 : Jejunia simul et lavacra tolerare non
+possunt. Et libro De pœnitentia cap. 11, pœnitentes
+appellat inlotos et sordulentos : ἀλουσίας τὸν χρό-
+νον περιμένοντας, ait Sozomenus, lib. VII, cap. 16,
+Hist. eccl., qua de re vide Pacianum in Parænesi
+ad pœnitentiam. Addo tempus Eucharistiæ, ex Re-
+sponsis Theodori Balsamonis ad Interrogationes
+Marci Alexandrini num. 11, Juris Græco-Romani
+lib. V, necnon tempus publicæ calamitatis, ex Ter-
+tull., Apolog. 40. Absit modo ab hujusmodi vel usu
+vel abstinentia superstitio; qualis in usu reprehen-
+ditur a sæpe laudato Tertulliano De oratione ,
+cap. 11, plerorumque, qui ad omnem orationem
+etiam cum lavacro totius corporis aquam sumebant,
+in commemorationem Dominicæ deditionis; et ab
+Attone episcopo Vercellensi Capitularis cap. 76,
+eorum qui in aqua sanctificata balneum faciebant
+pro aliqua infirmitate vel necessitate. VIII tomo Spi-
+cilegii ; qualisque in abstinentia arguitur tum a
+Gregorio Papa jam citato, prædicantium nemini li-
+cere diebus Dominicis corpus lavare, etiam exigente
+necessitate; tum a pariter citato papa Nicolao,
+Græcorum, quarta et sexta feria balneum omnino
+prohibentium. Certe, si ea quoque juvat cognoscere,
+Pythagoras vetuit usum balnei; abhorruerunt a la-
+vacris quidam idolorum cultores; non licuit militi-
+bus ire in balneas; diesque certi fuerunt apud pa-
+ganos, quibus lavari erat nonnullis religio. Primum
+docemur ab Æliano Variæ Historiæ lib. IV, cap. 17 ;
+secundum, a Clemente Alexandrino in Admonitione
+ad Gentes p. 58 ; tertium, ab Ælio Lampridio, scri-
+ptore vitæ Alexandri Severi ; postremum, a Ter-
+tulliano I ad Nationes 13, et a Plutarcho in Quæstio-
+nibus Romanis, edit. Paris. Græco-Latin. t. II, 285.
+Postea noster Constitutor rejecto meridie, oppor-
+tunæ lavationi definit horam decimam; quia scili-
+cet a moderatioribus ei rei assumebantur tempora
+vespertina : id quod certius est, quam ut proba-
+tionis ullius indigeat. Cot.
+(81) Ποιείσθω. Post hanc vocem addunt ambo
+codd. μηδὲ πολλὴν, μηδὲ πολλάκις. Quod minus ne-
+cessarium videtur. Cler.
+
+# block=5
+(80) Μὴ περισσοτέραν δὲ λοῦσιν ποιείσθω.
+Frequentiores ac non necessariæ lavationes dam-
+nantur sententiis Clementis Alexandrini lib. III
+Pædagogi, cap. 9 ; Cypriani, Opere de lapsis, ante
+finem ; Hieronymi, epist. 4, 48, 99; et ad Jeremiæ
+XXIII, 21, 22 ; consarcinatoris Epistolæ ad Præsi-
+dium de cereo Paschali, apud eumdem magnum
+doctorem tom. IX, atque Augustini, epist. 109. Et-
+enim semper licuit, exemplo Joannis evangelistæ
+(si fides Theodorito Hæreticarum fabularum II, 5) ;
+veterum Christianorum, referente Tertulliano in
+capite 42 Apologetici, et 3 Libri de Corona ; multo-
+rum monachorum, ex eorum Regulis ; Chrysostomi,
+in Photio Bibliothecæ cod. LIX, aliorumque pluri-
+morum piorum hominum; semper, inquam, licuit
+balneum aliquando ingredi : non quidem propter
+voluptatem, inquiunt Gregorius Magnus lib. XI,
+epist. 3, et Nicolaus I ad Consulta Bulgarorum,
+cap. 6 ; neque propter calorem, addit Clemens
+Alexandrinus in capite Pædagogi laudato ; sed pro-
+pter necessitatem corporis , docetur a duobus pon-
+tificibus ; propter sanitatem ratione virorum, atque
+etiam munditiem ratione mulierum , exponitur per
+doctissimum Presbyterum ; quanquam Tertullianus
+in Apologetico dicat : Lavo et debita hora et salu-
+bri, quæ mihi et calorem et sanguinem servet. Tum
+fovendorum corporum causa , ut loquar cum Optato
+Milevitano (lib. VI). Aut quod in Augustini Confessio-
+nibus, lib. IX, cap. 12, legitur, ad anxietatem ex
+animo pellendam. Nec minus licitum fuit, aut bal-
+neis in totum abstinere, post Jacobum fratrem Do-
+mini, teste Hegesippo apud Eusebium Hist. eccl. ,
+lib. II, cap. 23, et apud Hieronymum libro De viris
+illustribus in Jacobo, teste etiam Epiphanio hæ-
+resi 78, cap. 13, item post Joannem evangelistam,
+eodem Epiphanio auctore hæresi 30, cap. 24, nec
+repugnante Irenæo lib. III, cap. 3, post monachos
+plures et sanctimoniales, de quibus Epiphanius in
+Expositione fidei cap. 23. Hieronymus epist. 48,
+cap. 3, post presbyterum illum, cujus mentio
+actione decima concilii Chalcedonensis, in libello
+Samuelis et aliorum contra Ibam ; postque pluri-
+mos et plurimas sanctitatis conspicuæ, quorum
+quarumque gesta habemus descripta ; aut lavacro
+uti duntaxat in magna necessitate, quemadmodum
+virgini præcipit Athanasius in tractatu De virgini-
+tate , præcipit monialibus auctor Regulæ monacha-
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=7
+(79) θ'. In mss. incipit hic κεφάλαιον ι', quia su-
+perius est in duas partes divisum. Cler.
+
+# block=8
+⁵³ Pseudo-Ignat. ad Hieron. 1.
+
+# block=9
+Περὶ τοῦ μὴ συλλούεσθαι γυναῖκα ἀνδράσιν.
+
+# block=10
+Quod mulier non debet cum viris lavare.
+
+# block=11
+PATROL. GR. I.
+
+# block=12
+CAPUT IX.
+
+# block=13
+585
+
+# block=14
+ΚΕΦΑΛΑΙΟΝ Θ' (79).
+
+# block=15
+CONSTITUTIONES APOSTOLICÆ.—LIB. I.
+
+# block=16
+586
+
+# block=17
+19

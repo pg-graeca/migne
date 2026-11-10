@@ -1,0 +1,166 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1054,2125,1796,2738
+2,273,1021,1028,2476
+3,1055,1023,1806,2088
+4,273,2480,1012,2737
+5,282,254,1025,592
+6,1068,177,1812,551
+7,793,716,1254,773
+8,528,798,1579,856
+10,423,880,1597,923
+11,285,169,1021,247
+13,686,119,1397,154
+14,1747,118,1817,160
+15,283,106,357,152
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=28px
+# block=8 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=15px
+# block=13 fontSize=16px
+# block=14 fontSize=16px
+# block=15 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+519
+
+# block=14
+520
+
+# block=13
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=11
+ante dictis, probabilius censeri διδαχὴν inter et δι-
+δασκαλίαν ac διάταξιν nihil intercedere discriminis.
+
+# block=6
+limine Conciliorum ponere; quo de ultimo auctor
+mihi Abraham Ecchellensis in Notis ad Catalogum
+Hebedjesu p. 167, etc. Nam de totius operis Ara-
+bicæ versione exploratum habebam, eam in non una
+Bibliotheca servari. III, denique spem dari, Cle-
+mentinas constitutiones cum variis apostolorum ca-
+nonibus aliisque Æthiopicis scriptis brevi in lucem
+prodituras, cura et studio Vanslebii clarissimi illius
+linguæ peritia, in Prædicatorum familia theologi.
+
+# block=5
+Reliqua ad Constitutiones apostolicas pertinentia,
+vel visa sunt leviora ac tritiora, vel infra in locis
+controversis, explicabuntur commodius. Non præ-
+teribo tamen quæ inter scribenda hæc didici. I. Non-
+nulla harum Constitutionum capitula referri in
+principio trium Collectionum canonum manu exara-
+tarum Reg. Biblioth. unius Arabicæ, Græcarum alia-
+rum. II. Solemne esse Orientalibus, eadem capita in
+
+# block=7
+FRANCISCI PAGI
+
+# block=8
+DE CONSTITUTIONIBUS ET CANONIBUS APOSTOLICIS JUDICIUM.
+
+# block=10
+(Ex breviario Gestorio Pontificum Romanorum, in Vita Clementis, § V et seqq.)
+
+# block=2
+- Hic paucis agendum de Constitutionibus et Cano-
+nibus apostolorum nomine inscriptis; quarum dua-
+rum collectionum multi auctorem faciunt S. Cle-
+mentem; quia licet ambæ inter apocrypha recen-
+seantur, Canones tamen apostolorum vulgo dicti sin-
+gulari quadam Ecclesiæ Primitivæ doctrina referti
+sunt. Constitutiones quidem VIII libris comprehen-
+sas Carolus Bovius, Ostunensis episcopus, anno
+1573 in lucem emisit, et e Græco in Latinum ser-
+monem transtulit. Eas postea Franciscus Turrianus
+Latine interpretatus est, et commentariis illustravit.
+Verum harum Constitutionum auctor non est Cle-
+mens Romanus, quia Eusebius, lib. III, c. 15, et
+Hieronymus De scriptoribus ecclesiasticis, cum de
+scriptis S. Clementis agunt, unam duntaxat illius
+ad Corinthios Epistolam recensent. Præterea Hum-
+bertus Cardinalis, episcopus Silvæ Candidæ, Leo-
+nis IX, apud Constantinopolin legatus, Nicetæ Pe-
+ctorato, Constitutionum apostolicarum loca quædam
+contra Sabbati jejunium, objicienti, his verbis re-
+spondet : Hoc asserere conaris ex Apocryphis libris
+et canonibus, pari sententia SS. Patrum repudiatis;
+et paulo post : Unde nos quoque omne Apocryphum
+abjicientes dedignamur audire eorum fabulosas tra-
+ditiones, quia non sunt ut lex Domini. Citaverat
+autem Nicetas quintum et septimum librum Ordina-
+tionum, seu Constitutionum apostolicarum. Ex qua
+Humberti responsione Christianus Lupus, p. 11, ad
+Canonem I Trullanum, colligit Constitutiones illas
+apocryphas esse, fuisse sententiam sedis apostolicæ,
+cujus legationem Humbertus gerebat. Præter Lu-
+pum, legendi etiam Schelstratius in p. 11 Antiquit.
+illustratæ, dissert. 2, c. 2; Natalis Alexander sec. 1,
+aliique, qui plura de hisce constitutionibus habent.
+
+# block=3
+videri scribit. Ratio prioris est, quia Constantinus
+imp. ep. 2 ad Eusebium et Antiochenos citat cano-
+nem 13, ex quo eruitur, eos canones ante Nicænam
+synodum cognitos fuisse. Eos vero fuisse poste-
+riores anno 258, ex eo deducit, quod Firmilianus
+Cæsareæ episcopus iis usus est ad probandam con-
+suetudinem, quæ vigebat in Oriente, repudiandi
+hæreticorum baptismi, cum tamen ipsi aperte fa-
+verent. Canon enim 45 sic conceptus est : Episco-
+pum vel presbyterum, qui hæreticorum baptismum,
+vel sacrificium admiserit, deponi jubemus. Quæ est
+enim conventio Christi cum Belial? Vel quæ pars
+est fideli cum infideli? Et canon 46 : Episcopus vel
+presbyter eum, qui vere habet baptismum, si de inte-
+gro baptizaverit; vel si eum, qui ab impiis pollutus
+est, non baptizaverit, deponatur, ut qui irrideat mor-
+tem et crucem Domini, et non discernat sacerdotes a
+falsis sacerdotibus. Cum itaque Firmilianus in epist.
+ad Cyprianum contra hæreticorum baptisma mi-
+litans, consuetudinem a Stephano Papa laudatam,
+stylo acriore, quam oportebat Christianum episco-
+pum, excipiens anno 256 aut 257 quo eam scripsit,
+canones prædictos non allegarit, ex ejus silentio
+colligere est, incognitos ea ætate fuisse canones
+apostolicos.
+
+# block=1
+Eos canones, post concilii Nicæni tempora, tam
+in Oriente quam in Occidente, apud quosdam Ca-
+tholicos, prævaluisse (varia tamen de eorum nu-
+mero fortuna) licet colligere ex antiquissima cano-
+num collectione, quæ primum in Oriente a Græcis
+fuit confecta, et ante tempora Dionysii Exigui
+exstitit. Unde quod Gelasius papa in Romana LXX
+episcoporum synodo posuit: Liber canonum aposto-
+licorum apocryphus, commodo sensu venit intelli-
+gendum. Præterquam enim quod hæc verba non
+habentur in cod. Justelli, dici potest id a Papa Ge-
+lasio dictum, quia hi canones non sunt ab aposto-
+lis, sed ab aliis collecti, unde recte Marca lauda-
+tus num. 7 : Variæ sunt classes apocryphorum in
+
+# block=4
+Quod attinet ad collectionem, quæ sub ejusdem
+Clementis nomine circumfertur, qui apostolorum
+canones numero 85, in unum corpus collectos fide-
+libus proposuisse perhibetur, eam Petrus de Marca
+Concord. sacerdotii et imperii, lib. III, c. 2, n. 5, an-
+teriorem synodo Nicæna, sed posteriorem anno 258

@@ -1,0 +1,207 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,978,1853,1743,2716
+3,963,162,1720,975
+4,177,164,932,974
+5,978,1114,1724,1237
+7,190,1421,951,2718
+8,1239,990,1450,1026
+9,1009,1038,1684,1103
+10,184,1112,938,1237
+11,432,994,692,1027
+12,981,1422,1739,1853
+13,807,1339,1107,1370
+14,594,105,1302,147
+15,220,1264,975,1297
+16,183,1038,935,1103
+18,161,110,239,156
+19,1651,100,1717,144
+
+# layer=format
+# block=1 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=18 fontSize=16px
+# block=19 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=19
+742
+
+# block=14
+CONSTITUTIONES APOSTOLICÆ. — LIB. II.
+
+# block=18
+741
+
+# block=3
+sive ejusdem regionis ³³ : tu, episcope, dum de Deo
+sermonem habes ad plebem, aut dum audis eum qui
+psallit vel legit ; ne per acceptionem personæ relin-
+quas verbi ministerium, ut illi locum inter primas
+sedes constituas; verum quietus mane, nec inter-
+rumpe sermonem tuum, vel auditionem ; fratres
+vero eum per diaconos recipiant ; atque si locus
+desit, diaconus, omnium juniorem, prudenter, non
+autem præfracte loco movens, honoratum illum se-
+dere faciat; cui æquum est ut alter fraternæ cha-
+ritatis studiosus cedat sponte ; quod si renuerit, vi
+motus, post omnes colloca, quo etiam ceteri discant
+honoratioribus concedere. Cum autem pauper, vel
+ignobilis, vel peregrinus, isque senex, aut juvenis,
+intervenerit, sedibus occupatis, iis quoque diaconus
+ex toto corde locum faciet, ut non gratificatio ejus
+homines spectet, sed Deo acceptum fiat ministerium
+ejus. Idem et servet diaconissa, in advenientibus
+mulieribus, sive pauperibus sive divitibus.
+
+# block=4
+τῷ βίῳ, ἢ ξένος, ἢ ἐγχώριος· σὺ ὁ ἐπίσκοπος ὁ προσ-
+λαλῶν τὸν περὶ Θεοῦ λόγον, ἢ ὁ ἀκούων τοῦ ψάλλον-
+τος, ἢ τοῦ ἀναγινώσκοντος, μὴ προσωποληπτῶν κα-
+ταλίπῃς τὴν διακονίαν τοῦ λόγου, ἵνα διατάξῃ αὐτῷ
+προεδρίαν· ἀλλὰ μένε ἡσύχιος, μὴ διακόπτων σου τὸν
+λόγον, ἢ τὴν ἀκοήν· οἱ δὲ ἀδελφοὶ διὰ τῶν διακόνων πα-
+ραδεχέσθωσαν αὐτόν· εἰ δὲ τόπος οὐκ ἔστιν, ὁ διάκονος
+τὸν μᾶλλον νεώτερον ἐγείρας, μετὰ λόγου, ἀλλὰ μὴ μετ’
+ὀργῆς, ἐκεῖνον καθισάτω· δίκαιον δὲ τοῦτο καὶ ἀφ’
+ἑαυτοῦ τὸν φιλάδελφον (68) ποιῆσαι· ἐὰν δὲ ἀνανεύῃ,
+ἐγείρας αὐτὸν ἀναγκαστῶς, ὀπίσω πάντων στῆσον (69),
+ἵνα παιδευθῶσι καὶ οἱ λοιποὶ ἀντιπαραχωρεῖν τοῖς
+ἐντιμοτέροις. Εἰ δὲ πτωχὸς, ἢ ἀγενὴς (70), ἢ
+ξένος ἐπέλθοι, πρεσβύτης ἢ νέος τῇ ἡλικίᾳ, καὶ τόπος
+οὐχ ὑπάρχει, καὶ τούτοις τόπον ποιήσει ἐξ ὅλης τῆς
+καρδίας αὐτοῦ ὁ διάκονος, ἵνα μὴ πρὸς ἄνθρωπον αὐτοῦ
+γένηται ἡ προσωπολήψις, ἀλλὰ πρὸς Θεὸν ἡ διακονία
+εὐάρεστος. Τῷ δ’ αὐτῷ ³⁴ ποιείτω καὶ ἡ διάκονος, ταῖς
+ἐπερχομέναις γυναιξὶ, πτωχαῖς ἤτοι πλουσίαις.
+
+# block=8
+CAPUT LIX.
+
+# block=11
+ΚΕΦΑΛΑΙΟΝ ΝΘ'.
+
+# block=16
+"Οτι χρὴ ἕκαστον ὄρθρου καὶ ἑσπέρας σπουδαῖον
+εἶναι περὶ τὰς συνάξεις.
+
+# block=9
+Quod debeat unusquisque mane et vespere colle-
+ctarum esse studiosus.
+
+# block=10
+Διδάσκων δὲ, ὦ ἐπίσκοπε, κέλευε καὶ παραίνει τῷ
+λαῷ, εἰς τὴν ἐκκλησίαν ἐνδελεχίζειν ὄρθρου καὶ ἑσπέ-
+ρας ἑκάστης ἡμέρας (71), καὶ μὴ ἀπολείπεσθαι τὸ
+
+# block=5
+Cum autem doces, episcope, jube et persuade po-
+pulo, ut singulis diebus mane et vespere ecclesiam
+frequentet, nec ullatenus desists, sed assidue con-
+
+# block=15
+³³ l. Jacob. II. ³⁴ al. τὸ δ’ αὐτό. Sic alter cod. Vind.
+
+# block=13
+VARIORUM NOTÆ.
+
+# block=7
+stans vel sedens; adeat ille ad Bernardini Ferrarii
+libros De sacris concionibus, et ad Jacobi Sirmondi
+notas in carmen 46 Apollinaris Sidonii. Noster in
+ea vivebat Ecclesià, in qua sessionis consuetudo ob-
+tinebat. Cernere licet hic, et capp. 11, 57; et lib.
+VIII, cap. 5. Observatum adhæc fuit, ritus eos a Ju-
+dæis ad Christianos pervenisse: citanturque eam in
+rem cum aliis testimoniis verba Philonis corrupta,
+libro Quod quisquis virtuti studet liber sit, circa
+medium : Εἰς ἱεροὺς ἀφικνούμενοι τόπους, οἳ καλοῦν-
+ται συναγωγαὶ, καθ’ ἡλικίας ἐν τάξεσιν ὑπὸ πρεσβυ-
+τέροις νέοι καθέζονται, μετὰ κόσμου τοῦ προσήκοντος
+ἔχοντες ἀκροατικῶς· εἶθ’ ὁ μὲν τὰς βίβλους ἀναγινώσ-
+κειλαβὼν, ἕτερος δὲ τῶν ἐμπειροτάτων, ὅσα μὴ γνώ-
+ριμα παρελθὼν ἀναγινώσκει. Constabit sensus, si
+expulso ultimo ἀναγινώσκει, substituatur ἀναδιδάσ-
+κει, quo modo citatur ab Eusebio Præpar. evang.,
+l. VIII, c. 12. Consule, si placet, Micrologi caput 9
+de Græcis non sedentibus dum legitur epistola. Con-
+sule etiam Opusculum 39 Petri Damiani contra
+eos qui sedent, quando vel canonica Horarum cele-
+brantur officia, vel etiam ipsa missarum offeruntur
+terribilia sacramenta; ubi tamen probatur mos se-
+dendi inter nocturni officii lectiones. Videre quoque
+poteris, ubi te ad magnificentissimam regis Chri-
+stianissimi bibliothecam conferes, antiquissimum a
+me jam memoratum codicem ms. S. Gregorii Na-
+zianzeni seu theologi, recensitum numero 155, in
+cujus variis tabellis unam reperies theologi cum
+diacونو suo, opinor, stantis, et ad populum pariter
+stantem, mulieribus modico intervallo post viros
+collocatis, concionem habentis. Cor.
+(68) Φιλάδελφον. In altero Vind. codice ἀδελφὸν
+ὣς, ut fratrem. CLER.
+(69) Ἐγείρας αὐτὸν ἀναγκαστῶς, ὀπίσω πάν-
+των στῆσον. In Regula S. Pachomii articulo 85.
+Si quis iracundus et furiosus, frequenter irascatur
+sine causa, et propter rem inanam et vacuam; per sex
+vices commonebitur, et in septima facient eum sur-
+
+# block=12
+gere de ordine sessionis suæ, et inter ultimos colloca-
+bitur, etc. Et in Regula S. Benedicti cap. 43 : Quod
+si quis ad nocturnas vigilias post Gloriam psalmi XCIV
+(quem propter hoc omnino protrahendo et morose vo-
+lumus dici) occurrerit, non stet in ordine suo in choro,
+sed omnium ultimus stet, aut in loco quem talibus ne-
+glicentibus seorsum constituerit abbas, etc. Cujus po-
+sterioris præcepti vestigia premit caput 131, lib. I
+synodi Aquisgranensis anno 816, congregatæ. Nec
+multum dissimilis est alia censura concilii Trullani
+can. 7; et concilii Nicæni 2, can. 5, per quam cle-
+ricus ad ultimum gradum ordinis sui amandatur,
+sitque sociorum omnium ὑποβάθμιος. Cor.
+
+# block=1
+(70) Ἀγενής. Ἐθαγενής, alter cod. Vindob. CLER.
+(71) Εἰς τὴν ἐκκλησίαν ἐνδελεχίζειν ὄρθρου,
+etc. Et capitibus 36, 39. Libri autem VIII, cap. 12,
+oratur pro iis qui justam ob causam a Synaxi ab-
+sentes sunt. Ita passim antiqui Christianos ad col-
+lectas invitant, ecclesiæ frequentationem suadent,
+queruntur de neglectu ea in re, eumque neglectum
+non paucis canonibus castigant. Et vero celebraban-
+tur conventus sacri, tempore apostolorum singulis
+diebus, Act. II, 46, sed solemniores die Dominica,
+Act. XX, 7, et I Corinth. XVI, 2. Postea effecerunt
+persecutiones, cum summe sævirent hostes verita-
+tis, ut rarius conveniretur : tantumque in Domini-
+cis diebus: quod colligitur ex Apologetico Justini
+Martyris, et ex Plinii Epistola. Invaluerunt deinde
+Synaxes Sabbati, quas fortassis infra illustrabimus;
+et stationes seu congregationes quartæ sextæque
+feriæ, de quibus Tertullianus in Libro de jejuniis,
+Epiphanius in Expositione fidei, et Socrates lib. V,
+cap. 22: Τῶν δὲ λαῶν, verba sunt Athanasii Epistolæ
+ad Solitarios p. 847, ἐν τῇ μεγάλῃ ἐκκλησίᾳ συνελ-
+θόντων, τετάρτη γὰρ ἦν Σαββάτου. et in Protestatione
+populi Alexandrini p. 867: Σύναξις γὰρ ἔμελλε τῇ
+παρασκευῇ γίνεσθαι. Prætereaque anniversariæ mar-
+tyrum commemorationes ex S. Cypriano notæ in-
+vectæ sunt, retentis semper cœtibus, quos sacer-

@@ -1,0 +1,179 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,172,159,927,540
+2,949,151,1688,1147
+3,942,1158,1695,2055
+4,165,557,916,1293
+5,161,1318,907,1911
+6,161,1938,908,2705
+7,940,2058,1692,2661
+9,977,2667,1670,2700
+10,727,103,1139,136
+14,174,105,244,140
+20,1835,0,1896,27
+21,1620,90,1704,144
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=14 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=20
+—
+
+# block=21
+1362
+
+# block=10
+RECOGNITIONUM LIB. VII.
+
+# block=14
+1361
+
+# block=2
+alius sane filius quatenus patri maneret ad sola-
+tium, cogitavi.
+XVI. Sed ut hæc ita fieri possent, somnium
+finxi, quasi assistente mihi per visum quodam nu-
+mine et dicente, ut confestim cum geminis meis
+Urbe discederem et tandiu abessem, donec redire
+me ipse præciperet; quod si non facerem, cum
+liberis omnibus me pariter perituram. Et ita fa-
+ctum est. Statim enim ut somnium viro enarravi,
+extimuit, et sociatis mihi duobus filiis, servis quo-
+que et ancillis, pecunia etiam abundanti data, na-
+vigare Athenas jubet ubi simul et erudire liberos
+possem, mansura, inquit, ibi usquequo visum fue-
+rit ei qui præcepit exire, ut redeas ad nos. Interea
+navigans una cum meis natis ventorum violentia
+ad hos infelix nocturno naufragio depulsa sum lo-
+cos, et cum omnes interissent, arreptam me cru-
+delem supra saxum quoddam vehementior fluctus
+ejecit, ubi cum sederem ea sola spe qua meos
+possem forte natos invenire, in profundum me non
+præcipitavi, tunc cum adhuc perturbata anima
+et doloribus ebria facere hoc et audebat et po-
+terat.
+
+# block=1
+tissimus, acquiescit, sed monuit nos, cum navem
+descendissemus, non una omnes concurrere ad vi-
+dendum ; nolo enim, inquit, notari vos a turba.
+Cum ergo die postera navi sub momento horæ ve-
+nissemus ad insulam, continuo ad locum in quo
+erant columnæ mirabiles, properamus. Erant autem
+in æde quadam positæ, in qua Phidiæ opera per-
+magnifica habebantur, quibus intento unusquisque
+nostrum detinebatur aspectu.
+
+# block=4
+XIII. Petrus vero ubi solas columnas miratus est
+viteas, nequaquam raptus picturæ gratia, egressus
+vidit pro foribus mulierculam quandam stipem ab
+introeuntibus deposcentem ; quam attentius consi-
+derans ait : Dic, mulier, quod tibi membrum corpo-
+ris deest, quod huic te injuriæ subjecisti ut stipem
+petas, et non potius manibus tuis quas a Deo acce-
+pisti operans cibum quæras ? At illa suspirans ait :
+Utinam mihi quidem essent manus quæ moveri
+possent, nunc autem species tantum servata est
+manuum, nam ipsæ sunt emortuæ, et meis morsibus
+debiles et sine sensu redditæ. Et Petrus : Quæ, in-
+quit, fuit causa, ut hoc tibi tantum mali ipsa con-
+ferres ? Ignavia, inquit, nec aliud quidquam ; si
+enim fuisset in me aliquid virtutis, potui vel præci-
+pitio uti vel profundo maris injicere memetipsam,
+et finem dare doloribus meis.
+
+# block=3
+XVII. Verum ubi dies exortus est, et ego cum
+clamore et ululatu infelicium natorum circumspi-
+cerem sicubi vel ejecta possim videre cadavera,
+miseratione commoti quidam ex his qui me vide-
+rant, primo per pelagus, tum etiam circa littora
+requirunt, si quem forte de meis infantibus in-
+venirent. Sed ubi nusquam ullus inventus est, mi-
+serantes me mulieres loci consolari cœperunt, enar-
+rantes singulæ suas quæque miserias, ut ex simi-
+litudine calamitatum solatium caperem; quod me
+magis contristabat, non enim tale mihi erat inge-
+nium, ut aliorum mala mea esse solatia ducerem.
+Et cum me multæ hospitio cœperent recipere, una
+quædam paupercula hic habitans extorsit mihi tu-
+gurio ejus succedere, dicens fuisse sibi virum
+nautam eumque in mari adolescentem defunctum,
+sibique ex eo die cum multi eam accipere in con-
+jugium cuperent, amore viri viduitatem fuisse cha-
+riorem. Erunt ergo, inquit, nobis communia, quæ-
+cunque manibus nostris operantes quærere pote-
+rimus.
+
+# block=5
+XIV. Tum Petrus : Ecquid putas, ait, mulier, quod
+qui semetipsos perimunt, a suppliciis liberantur ?
+nisi quia majoribus subjacent pœnis animæ eorum
+qui sibi ipsi intulerint manus. At illa : Utinam,
+inquit, istud mihi certum fieret, quia vivunt animæ
+in inferno, libenter amplecterer etiam pœnas ferre
+mortis illatæ, tantum ut dulces mihi natos horam
+saltem unam viderem. Et Petrus : Quid tantum is-
+tud est, quod te tam gravi afficit tristitia, scire ve-
+lim. Si enim doceres me causam, possem tibi et
+ego evidenter ostendere, o mulier, quod in inferno
+vivant animæ, et pro præcipitio vel profundo pos-
+sem tibi dare medicamentum aliquod, ut sine cru-
+ciatu valeas vitam finire.
+
+# block=6
+XV. Tunc mulier promissione hac gratanter ac-
+cepta cœpit dicere : Genus quidem mihi et patria
+quæ sit, nec credi facile, nec dici necessarium puto,
+sed causam tantum sufficit doloris exponere, cur
+morsibus meis meas ipsa debiles reddiderim manus.
+Ego generosis orta parentibus et potentis adæque
+viri sortita matrimonium, duos suscepi geminos
+liberos et post hos unum alium. Sed frater viri
+mei illicito in me amore vehementer exarsit; mihi
+autem cum super omnia cura esset pudicitiæ, et
+neque tanto sceleri acquiescere neque viro vellem
+flagitium fratris aperire, cogitavi quatenus et ego
+impolluta evaderem, et fratrem inimicum et ho-
+stem non facerem fratri, ne genus omne quod erat
+nobilis familiæ in opprobrium darem. Patria ergo
+et urbe cum duobus meis geminis discedere statui,
+donec incestus amor conquiesceret, quem forte
+præsentia mea palparet et inflammaret aspectus ;
+
+# block=7
+XVIII. Et ne longa ac minus utili narratione
+utar, libenter habitavi cum ea propter affectum fi-
+dei quam servaverat viro. Sed non multo post mihi
+infelici, laceratæ dudum morsibus, resolutæ sunt
+manus, et illa quæ me susceperat, incurrit para-
+lysin et domi in lecto jacet. Illarum autem mulierum
+quæ prius miserabantur, refrixit affectus ; nos
+ambæ debiles, ego ut vides sedeo stipem petens,
+et si quid forte quæsiero fit unus duarum infeli-
+cium cibus. Ecce jam quæ mea sunt sufficienter
+audisti, tu nunc quid moraris implere quod promi-
+seras, et dare medicamentum quo possit absque
+cruciatu, ut ais, utraque nostrum miserabilis vitæ
+sortem finire ?
+
+# block=9
+XIX. Hæc dicente muliere, multa Petrus cogita-

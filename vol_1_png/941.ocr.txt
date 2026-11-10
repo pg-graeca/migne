@@ -1,0 +1,188 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,231,680,967,1014
+2,220,1354,968,2166
+3,1011,2545,1748,2712
+5,1009,169,1758,1014
+6,237,1044,1737,1113
+7,1006,2346,1742,2545
+8,229,162,968,671
+9,751,1206,1219,1260
+10,833,2296,1134,2331
+11,239,2346,971,2481
+12,219,2168,1747,2277
+13,239,2480,975,2714
+14,1008,1350,1742,1683
+15,777,111,1189,147
+19,1665,112,1742,145
+25,1007,1693,1748,2168
+27,228,117,319,149
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=19 fontSize=15px
+# block=25 fontSize=15px
+# block=27 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+RECOGNITIONUM LIB. III.
+
+# block=19
+1282
+
+# block=27
+1281
+
+# block=8
+nihil prosim. Hoc enim pro certo scire te volo, quia
+omnis qui idola coluit aliquando, et eos quos pa-
+gani nominant deos, adoravit vel de immolatis eorum
+degustavit, spiritu immundo non caret; conviva
+enim factus est dæmonum, et participium sumpsit
+ejus dæmonis cujus in mente sua speciem, vel ti-
+more vel amore formavit ⁷³. Et per hæc mundus
+non est a spiritu immundo, et ideo purificatione
+indiget baptismi, ut exeat ab eo spiritus immundus,
+qui interiores animæ ipsius insedit affectus ⁷⁴, et
+quod est deterius, nec quod intrinsecus lateat indi-
+catur, uti ne publicatus fugetur.
+
+# block=5
+tra voluntatem ejus habitat in eo dæmon, et
+ideo ⁷⁵ si eum quis fugare velit et expellere ab
+eo, cum sit inseparabilis, et, ut ita dicam, anima
+jam ejus effectus, videbitur magis necare eum et
+homicidii crimen incurrere. Nemo ergo vestrum
+contristetur a convivio nostro separatus, tempore
+enim aliquo observare debet unusquisque sane
+quanto ipse voluerit. Parvo enim tempore seque-
+stratur qui cito voluerit baptizari, multo autem qui
+tardius. Unusquisque ergo in sua habet potestate,
+breve aut longum pœnitentiæ suæ tempus exi-
+gere, et ideo in vobis est, quando velitis ad nostram
+convenire mensam, et non in nobis, quibus per-
+missum non est sumere cum aliquo cibum, nisi
+fuerit baptizatus. Vos ergo magis nos prohibetis
+a vestro convivio, si ad purificandum moras ha-
+beatis et tardius baptizemini. His dictis cum bene-
+dixisset, cibum sumpsit. Et post hæc cum gratias
+egisset Deo, ingressus quievit, similiter autem et
+nos omnes, erat enim jam nox.
+
+# block=1
+LXXII. Amant enim isti spiritus immundi in-
+hærere corporibus hominum, ut ipsorum ministerio
+cupiditates suas expleant, et ad ea quæ ipsi deside-
+rant inclinantes animæ motus, suis eos parere li-
+bidinibus cogant, ut efficiantur ex integro vasa dæ-
+monum. Ex quibus unus est Simon hic, qui tali
+quodam morbo comprehensus nec sanari jam po-
+test, quia voluntate et proposito ægrotat. Nec con-
+
+# block=6
+⁷⁴ I Cor. x, 20. ⁷⁵ Quæ sequuntur vocabula usque ad finem hujus cap. desunt in codd. Lips. omnia.
+⁷⁶ Et ideo—crimen incurrere non inveniuntur in codd. Lips.
+
+# block=9
+LIBER TERTIUS.
+
+# block=14
+rumpant et fatigent prædicatores verbi Dei. Propter
+quod et ego in plurimis circuitu quodam verbi utens
+tentare nitebar, ne principalem de summa Divini-
+tate intelligentiam minus dignis auribus publica-
+rem. Et post hæc incipiens (80) de Patre et Filio et
+Spiritu sancto, breviter nobis et evidenter exposuit,
+ut omnes audientes mirarentur quomodo homines,
+derelicta veritate, conversi sunt ad vanitatem.
+
+# block=2
+I. Interea Petrus gallorum cantibus surgens et
+excitare nos volens invenit vigilantes, vespertino
+adhuc lumine perdurante, cumque ex more saluta-
+visset et resedissemus omnes, ita exorsus est : Ni-
+hil est difficilius, fratres mei, quam de veritate
+apud permisti populi multitudinem disputare. Quod
+enim est, omnibus ut est dici non licet, propter
+eos qui maligne et insidiose audiunt; fallere vero
+non expedit propter eos qui sincere audire desiderant
+veritatem. Quid ergo faciet cui ad indiscretum
+populum sermo est; occultet quod verum est? Et
+quomodo instruet eos qui digni sunt? Sed si meram
+proferat veritatem his qui salutem consequi non
+desiderant, illi a quo missus est injuriam facit, a
+quo et mandatum accepit, ne mittat verborum
+ejus margaritas ante porcos et canes ⁷⁴, qui adver-
+sum eas argumentis ac sophismatibus reluctantes,
+ipsas quidem cœno intelligentiæ carnalis involvant,
+latratibus autem suis et responsionibus sordidis
+
+# block=25
+II. [Hæc Petro dicente ⁷⁷ (81) Aquila ait : Recte
+dixisti, propterea nobis dicito quæ veritatis sunt
+propria. Et Petrus : De quibus vultis interrogate
+me. Et Aquila ait : De principio et principiis ver-
+bum disputa, et de eo quod reprehendit Simon
+quasi inconveniens, Filium Dei dici Christum, ne
+similia plantationibus et cæteris inanimatis pati
+videatur Deus. Petrus autem videns omnes hoc
+ipsum volentes audire, omnem rationem ita expo-
+suit :
+III. Principii nomen (82) in multis et diversis
+
+# block=12
+⁷⁶ Matth. vii, 6. ⁷⁷ Ista quæ sequuntur usque ad finem cap. 12, in cod. mss. plerisque iisdem optimæ
+notæ desunt, et tantum habent vel obscuritatis vel erroris ut spuria ea esse et ab hæretico quodam
+recentioris ætatis intrusa non dubitemus.
+
+# block=10
+COTELERII NOTÆ.
+
+# block=11
+(80) Et post hæc incipiens... ad vanitatem. Hæc
+periodus exstat in libris editis et in ms. Reg. ; at in
+Sorb. et Th. transfertur ad finem cap. 11, ubi eam
+vide.
+
+# block=7
+intrusa , Eunomiana; quæque veteres Ebionitica
+censuerunt, Ariana, et addititia. Nescio quis igitur
+quod a Rufino prætermissum fuerat, sibi sumpsit
+ut interpretaretur. Vide Clementina, hom. 16, cap.
+16. Ista vero usque ad cap. 12 desunt in impressis :
+desumpta autem sunt ex cod. Sorb. et Th.
+
+# block=13
+(81) Hæc Petro dicente. Codex Candelerianus hoc
+caput et sequentia novem continet, quemadmodum
+Sorbonicus et Thuanus : Carmeliticus autem et ille
+Petri Petiti Regio similes sunt, librisque impressis.
+Nec dubium, quin ad illa pertineant quæ Rufinus
+abstulit, de ingenito Deo genitoque disserta, de Fi-
+lio creato, de aliis nonnullis, periculosa, obscura,
+
+# block=3
+(82) *Principii nomen, etc. In marg. ms. Th. hæc
+leguntur : Caute legi oportet hanc scripturam, quia
+nescientibus facile error subrepere potest. Usque ad
+simile signum legere noli. Vid. infra notam ejusdem
+cod. ad cap. 12.

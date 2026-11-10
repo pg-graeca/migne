@@ -1,0 +1,126 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,179,1418,1740,2587
+2,189,1238,1722,1306
+3,466,1123,1437,1193
+4,318,496,1616,562
+5,432,916,1480,954
+6,1646,65,1713,109
+7,550,987,1350,1032
+8,895,736,1016,771
+9,584,663,1300,698
+10,309,217,1612,329
+11,925,589,980,623
+12,606,796,1307,879
+13,193,68,273,124
+14,617,368,1227,450
+15,681,64,1195,110
+16,181,2612,1713,2704
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=14px centerRows=true
+# block=3 fontSize=34px centerRows=true
+# block=4 fontSize=28px centerRows=true
+# block=5 fontSize=19px
+# block=6 fontSize=16px
+# block=7 fontSize=16px
+# block=8 fontSize=12px
+# block=9 fontSize=16px centerRows=true
+# block=10 fontSize=55px centerRows=true
+# block=11 fontSize=16px
+# block=12 fontSize=42px centerRows=true
+# block=13 fontSize=16px
+# block=14 fontSize=36px centerRows=true
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+RECOGNITIONES. — PRÒŒMIA.
+
+# block=6
+1202
+
+# block=13
+1201
+
+# block=10
+S. CLEMENTIS ROMANI
+
+# block=14
+RECOGNITIONES
+
+# block=4
+RUFINO AQUILEIENSI PRESB. INTERPRETE
+
+# block=11
+AD
+
+# block=9
+LIBRORUM MSS. ET ED. FIDEM EXPRESSÆ,
+
+# block=8
+CURANTE
+
+# block=12
+E. G. GERSDORF
+
+# block=5
+Ph. D. AA. M. Bibliothecæ Univ. Litt. Lips. Præf. prim., etc.
+
+# block=7
+(Lipsiæ, sumptibus Bernh. Tauchnitz jun., 1838, in-8.)
+
+# block=3
+E. G. GERSDORF PRÆFATIO
+
+# block=2
+(Bibliotheca Patrum ecclesiasticorum Latinorum selecta, ad optimorum librorum fidem edita, curante E. G. GERSDORF.
+— vol. I. S. Clementis Romani Recognitiones. Lipsiæ, 1838, in-8°.)
+
+# block=1
+Recognitiones, quæ S. Clementis Romani nomine circumferuntur, cum inter se maximē diversa de iis olim
+pronuntiata essent judicia, S. V. Moshemio auctore inter præstantissima veteris ævi monumenta a plerisque
+viris antiquitatis et scriptorum veterum Christianorum literatē peritis relatæ sunt. Nam etsi Clementem, qui
+sæculo primo exeunte episcopi loco Romanæ præfuit Ecclesiæ Petri apostoli discipulus, auctorem horum
+librorum fuisse nulla possit ratione comprobari, imo sæculo secundo extremo aut tertio ineunte demum com-
+positos eos esse multis ex causis et verisimile et probabile videatur, a viro tamen docto et librorum sacrorum
+studiis et philosophorum Græcorum disciplinis liberaliter erudito editos, et tum ad consuetudines instituta-
+que Christianorum, qui sæculo secundo vixerunt pernoscenda, tum ad ævi illius rationes et hæreticorum commenta
+intelligenda cum maximē eos idoneos esse veteres et recentiores consentiunt omnes. Ad impugnandas enim et ever-
+tendas illius ævi falsas de numine divino opiniones fabulam ingeniosē excogitavit auctor, qua Petrus apostolus inter
+peregrinandum socio sibi ascito Clemente cive Romano, viro doctrina atque optimarum artium studiis a prima
+ætate erudito, Simonis Magi hæreticorum principis commenta sceleratēque facta convincit, et ex ipsa Clementis
+historia, qui parentes charissimos et fratres duos uterinos sorte iniqua jam multis abhinc annis sibi ereptos
+et inter se sejunctos salvos paulatim recipit et recognoscit, fati diram necessitatem non esse ab hominibus con-
+querendam, consuli a Deo rebus humanis et fiduciam Christi, evulsis ex mentibus hominum vanis istis atque
+perversis opinionibus verē salutarem argumentis comprobat gravissimis. Cum vero adversarii, quotquot tum
+aut simulacrorum cultum, aut philosophorum opiniones, aut Judæorum decreta, aut hæreticorum denique
+commenta amplexi sacris Christianis infensi erant, subtili hac disputatione et uno volumine castigarentur
+omnes, narrationis autem genus quo usus est auctor novum plane atque inusitatum haud displiceret legenti-
+bus, jam sæculo tertio exstiterunt, qui in sectatorum gratiam sive augerent sive diminuerent sive alia quavis
+ratione interpolatos corrumperent hos libros hæretici, νοθεύσαντες μὲν τὰ ἐν αὐτοῖς, ὀλίγα δὲ ἀληθινὰ
+ἐάσαντες, ut ait Epiphanius, hæres. 30, 15, (Vol. I, p. 139 ed. Petav.) (96) Pluribus inde iisque maximē
+diversis veteres Ecclesiæ scriptores usi sunt horum librorum editionibus, quarum tres ad nostra pervenerunt
+tempora I. Recognitiones, quæ Græce Περίοδοι τοῦ Πέτρου, s. τοῦ Κλήμεντος, πρὸς Σίμωνα τὸν Μάγον
+διαλέξεις, πράξεις, ἀναγνώσεις, ἀναγνωρισμός dicebantur, et a Rufino Aquileiensis Ecclesiæ presbytero
+sub finem sæculi quarti in Latinam linguam conversæ diversis modis in codd. scribuntur, v. c. Clementis
+Itinerarium ad Jacobum fratrem Domini, Liber itinerarius prædicationis Petri, Gesta s. Historia Cle-
+mentis, Clem. libri de disputatione Petri cum Simone Mago, etc.; II. Clementina (τὰ Κλημέντια s. Κλή-
+μεντος τῶν Πέτρου ἐπιδημιῶν κηρυγμάτων ἐπιτομή), quorum homilias duodeviginti priores et undevi-
+gesimam altera parte mutilam primus ex cod. Paris. Græce edidit Cotelerius; III. Clementina epitome de
+gestis Petri (Κλήμεντος περὶ τῶν πράξεων ἐπιδημιῶν τε καὶ κηρυγμάτων τοῦ ἁγίου καὶ κορυφαίου τῶν
+ἀποστόλων Πέτρου ἐπιτομή, κ. τ. λ.), cujus ab Adr. Turnebo primum typis descriptæ tres teste Cotelerio
+recensiones inter se haud parum diversæ in bibliotheca regia Parisina asservantur. Jam vero Recognitionum
+libros si cum Clementinis istis et Epitome curiosē conferuntur, utrisque antiquiorem Περιόδων τοῦ
+Πέτρου editionem exhibere probabili ratione dicitur, quamvis nec ipsos ab omni vitio et errore vacuos atque
+
+# block=16
+(96) Cf. Rufin. in præf. ad Gaudentium, et Id. De adulter. libr. Origenis, Photius in Bibliotheca
+cod. 113 all.

@@ -1,0 +1,194 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,223,786,980,1656
+2,1012,787,1786,1699
+3,224,135,980,647
+4,1012,133,1765,649
+6,222,1939,1773,2045
+7,224,710,968,783
+8,1022,2116,1778,2664
+9,1255,669,1520,705
+10,491,1705,706,1739
+11,1018,1795,1777,1919
+12,869,2076,1177,2108
+13,1012,713,1765,781
+14,1216,1751,1600,1788
+15,226,1783,980,1916
+16,617,78,1337,116
+18,1262,1702,1515,1742
+19,238,2113,986,2685
+20,229,81,297,121
+21,1685,82,1756,117
+22,469,662,711,708
+23,361,1742,835,1786
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=223 source_y1=786 source_x2=980 source_y2=1656
+Cum autem oraveritis, ne sitis quemadmodum
+hypocritæ; sed, sicut Dominus nobis in Evangelio
+præcepit, ita orate: « Pater noster qui es in cœlis,
+sanctificetur nomen tuum; adveniat regnum tuum;
+fiat voluntas tua, sicut in cœlo, et in terra: panem
+nostrum quotidianum da nobis hodie: et dimitte
+nobis debita nostra, sicut et nos dimittimus debi-
+toribus nostris: et ne nos inducas in tentationem;
+sed libera nos a malo; quia tuum est regnum, in
+sæcula. Amen ⁶⁵. » ⁶⁶ Ter in die sic orate : et præ-
+parate vos, ut sitis digni adoptione Patris; ne, cum
+eum indigne Patrem appellabitis, probrum ab eo re-
+feratis; sicut et Israel, qui olim erat p imogenitus
+filius, audivit: « Si pater ego sum, ubi est honor
+meus? et si dominus sum, ubi est timor meus? »
+⁶⁸ Honor enim patrum est sanctitas filiorum; et ho-
+nor herorum, famulorum metus : quemadmodum
+utique quod contrarium est, despectio et imperii
+abjectio censetur. « Propter vos enim, inquit, no-
+men meum blasphematur in gentibus ⁶⁹. »
+
+# block=2 source_x1=1012 source_y1=787 source_x2=1786 source_y2=1699
+Ὅταν δὲ προσεύχησθε, μὴ γίνεσθε ὡς οἱ ὑποκρι-
+ταί· ἀλλ' ὡς ὁ Κύριος ἡμῖν ἐν τῷ Εὐαγγελίῳ διετά-
+ξατο, οὕτω προσεύχεσθε· « Πάτερ ἡμῶν, ὁ ἐν τοῖς
+οὐρανοῖς, ἁγιασθήτω τὸ ὄνομά σου· ἐλθέτω ἡ βασι-
+λεία σου· γενηθήτω τὸ θέλημά σου, ὡς ἐν οὐρανῷ,
+καὶ ἐπὶ τῆς γῆς· τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς
+ἡμῖν σήμερον· καὶ ἄφες ἡμῖν τὰ ὀφειλήματα ἡμῶν,
+ὡς καὶ ἡμεῖς ἀφίεμεν τοῖς ὀφειλέταις ἡμῶν· καὶ μὴ
+εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν, ἀλλὰ ῥῦσαι ἡμᾶς
+ἀπὸ τοῦ πονηροῦ· ὅτι σοῦ ἐστιν ἡ βασιλεία, εἰς τοὺς
+αἰῶνας. Ἀμήν.» Τρὶς τῆς ἡμέρας (54) οὕτω προσ-
+εύχεσθε, προπαρασκευάζοντες ἑαυτοὺς ἀξίους τῆς
+υἱοθεσίας τοῦ Πατρός, ἵνα μὴ ἀναξίως ὑμῶν αὐτὸν
+Πατέρα καλοῦντων, ὀνειδισθῆτε ὑπ' αὐτοῦ· ὡς καὶ
+ὁ Ἰσραὴλ ὁπότε πρωτότοκος υἱὸς ἤκουσε, ὅτι ⁶⁷· « Εἰ
+πατὴρ ἐγώ εἰμι, ποῦ ἐστιν ἡ δόξα μου; καὶ εἰ κύριός
+εἰμι, ποῦ ἐστιν ὁ φόβος μου; » δόξα γὰρ πατέρων,
+ὁσιότης παίδων, καὶ τιμὴ δεσποτῶν, οἰκετῶν φόβος·
+ὥσπερ οὖν τὸ ἐναντίον ἀδοξία καὶ ἀναρχία. « Δι' ὑμᾶς
+γάρ, φησὶ (55), τὸ ὄνομά μου βλασφημεῖται ἐν τοῖς
+ἔθνεσι. »
+
+# block=3 source_x1=224 source_y1=135 source_x2=980 source_y2=647
+diit, cum Judas pecunia proditionem esset polli-
+citus: Parasceve autem, quia eo die Dominus
+mortem crucis passus est, sub Pontio Pilato. At-
+qui Sabbatum et Dominicam, festos dies habete:
+quia illud quidem Creationis recordatio est; hæc
+vero, Resurrectionis. Unum vero duntaxat Sab-
+batum vobis observandum est in toto anno; illud
+quo Dominus sepultus fuit; quo jejunare decuit,
+non autem festum agere: quandiu enim Creator
+sub terra degit, plus valet luctus de eo susceptus,
+quam lætitia de creatione: quoniam Creator crea-
+turis suis natura ac dignitate præstat.
+
+# block=4 source_x1=1012 source_y1=133 source_x2=1765 source_y2=649
+Ἰούδα χρήμασιν ἐπαγγειλαμένου τὴν προδοσίαν· τὴν
+δὲ παρασκευήν, ὅτι ἔπαθεν ὁ Κύριος ἐν αὐτῇ πάθος
+τὸ διὰ σταυροῦ, ὑπὸ Ποντίου Πιλάτου. Τὸ Σάββατον
+μέντοι καὶ τὴν Κυριακὴν ἑορτάζετε, ὅτι τὸ μὲν ⁶³,
+δημιουργίας ἐστὶν ὑπόμνημα, ἡ δὲ (52), ἀναστάσεως·
+ἐν δὲ μόνον Σάββατον ὑμῖν φυλακτέον ⁶⁴ ἐν ὅλῳ τῷ
+ἐνιαυτῷ, τὸ τῆς τοῦ Κυρίου ταφῆς (53), ὅπερ νη-
+στεύειν προσῆκεν, ἀλλ' οὐχ ἑορτάζειν· ἐν ὅσῳ γὰρ ὁ
+Δημιουργὸς ὑπὸ γῆν τυγχάνει, ἰσχυρότερον τὸ περὶ
+αὐτοῦ πένθος, τῆς κατὰ τὴν δημιουργίαν χαρᾶς· ὅτι
+ὁ Δημιουργὸς τῶν ἑαυτοῦ δημιουργημάτων φύσει τε
+καὶ ἀξίᾳ τιμιώτερος.
+
+# block=6 source_x1=222 source_y1=1939 source_x2=1773 source_y2=2045
+⁶⁵ hoc comma non habet Anastasius. ⁶⁶ Anast. inserit ὡς εἴρηται. ⁶⁶ Matth. vI, 9-13. ⁶⁶ Citatur ab
+Anastasio, quæst. 1. ⁶⁷ Anast. υἱὸς δόξαζει πατέρα, καὶ δοῦλος τὸν κύριον αὐτοῦ φοβηθήσεται, καὶ et, etc.
+⁶⁸ Mal. I, 6. ⁶⁹ Isa. LII, 5. ⁷⁰ Tº 1. Ignat. interpol. ad Philad. 9.
+
+# block=7 source_x1=224 source_y1=710 source_x2=968 source_y2=783
+Quales esse oporteat eos qui orant a Domino tradi-
+tam orationem.
+
+# block=8 source_x1=1022 source_y1=2116 source_x2=1778 source_y2=2664
+vicibus oret, mane, scilicet, et vespere, dicens Sym-
+bolum, vel Orationem Dominicam, etc. Quæ verba
+Capitularis Theodulſi capitulo 25, ideo apposui, ut
+monerem capitulum illud et sequentia duo cum
+præcedentibus septem, in conciliorum Collectio-
+nibus subjici canonibus Trullanis, nec indicari
+cujus sint. ID.
+(55) Φησί. Deest in altero, sed rectius subaudi-
+tur Γραφή, ut et infra animadvertimus. CLER
+(56) Μυστική. Deest in altero Vind. Sed perinde
+est, sive addatur, sive detrahatur; res enim ipsa
+ostendit de grata commemoratione mortis Christi
+agi. IB.
+(57) Εὐχαριστοῦμεν, etc. Confer sodes cum li-
+bro Athanasiano De virginitate, p. 1051; piget enim
+transcribere. COT.
+
+# block=9 source_x1=1255 source_y1=669 source_x2=1520 source_y2=705
+ΚΕΦΑΛΑΙΟΝ ΚΔ'.
+
+# block=10 source_x1=491 source_y1=1705 source_x2=706 source_y2=1739
+CAPUT XXV.
+
+# block=11 source_x1=1018 source_y1=1795 source_x2=1777 source_y2=1919
+Γίνεσθε δὲ πάντοτε εὐχάριστοι, ὡς πιστοὶ καὶ εὐ-
+γνώμονες δοῦλοι· περὶ μὲν τῆς εὐχαριστίας οὕτω
+λέγοντες· Εὐχαριστοῦμέν (57) σοι, Πάτερ ἡμῶν, ὑπὲρ
+
+# block=12 source_x1=869 source_y1=2076 source_x2=1177 source_y2=2108
+VARIORUM NOTÆ.
+
+# block=13 source_x1=1012 source_y1=713 source_x2=1765 source_y2=781
+Ὅλους εἶναι χρὴ τοὺς προσευχομένους τὴν ὑπὸ
+τοῦ Κυρίου δοθεῖσαν προσευχήν.
+
+# block=14 source_x1=1216 source_y1=1751 source_x2=1600 source_y2=1788
+Εὐχαριστία μυστική (56),
+
+# block=15 source_x1=226 source_y1=1783 source_x2=980 source_y2=1916
+⁷⁰ Estote autem semper ad gratias agendas in-
+tenti, ut fideles et grati servi: et de eucharistia
+quidem ita dicite: Gratias agimus tibi,Pater noster,
+
+# block=16 source_x1=617 source_y1=78 source_x2=1337 source_y2=116
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=18 source_x1=1262 source_y1=1702 source_x2=1515 source_y2=1742
+ΚΕΦΑΛΑΙΟΝ ΚΕ'.
+
+# block=19 source_x1=238 source_y1=2113 source_x2=986 source_y2=2685
+(52) Ἡ δέ. Alter cod. Τὸ δέ, minus commode,
+respicitur enim ἡ Κυριακὴ ἡμέρα. CLER.
+(53) Τὸ τῆς τοῦ Κυρίου ταφῆς. Ita expresserat
+Balsamon ad canonem Trullanu m 89 : Ὅτι τότε
+κατέκειτο ἐν τῷ τάφῳ τὸ τεθεωμένον σῶμα αὐτοῦ
+(Χριστοῦ scilicet), concordante in hanc lectionem
+sensu cūm exaratis manu codicibus. Unde ejici de-
+bet e Theodoro edito inconcinnum plane illud, τεθεα-
+μένον. Sequitur in Constitutione: ὅπερ νηστεύειν
+προσῆκεν, ἀλλ' οὐχ ἑορτάζειν· quod inepte et con-
+tra fidem mss. Regiorum adjecerunt · loco Eusebii in
+Anastasii quæstione 65, p. 450, l. νι, νιι. COT.
+(54) Τρὶς τῆς ἡμέρας. In honorem sanctissimæ
+Trinitatis : ut colligo ex Theodorito epist. 145, et
+Isidoro Originum lib. vI, cap. ult. Euthymium con-
+sule ad psalm. LIV, 18: Dicendum illis, fidelibus, ut
+singulis diebus, qui amplius non potest, saltem duabus
+
+# block=20 source_x1=229 source_y1=81 source_x2=297 source_y2=121
+1015
+
+# block=21 source_x1=1685 source_y1=82 source_x2=1756 source_y2=117
+1016
+
+# block=22 source_x1=469 source_y1=662 source_x2=711 source_y2=708
+CAPUT XXIV.
+
+# block=23 source_x1=361 source_y1=1742 source_x2=835 source_y2=1786
+Gratiarum actio sacramentalis.

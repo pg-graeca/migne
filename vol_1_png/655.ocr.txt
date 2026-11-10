@@ -1,0 +1,180 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,974,1366,1723,2277
+2,187,1366,950,2275
+3,979,146,1730,1225
+4,234,1296,889,1361
+5,191,134,945,1135
+6,194,2330,1668,2407
+7,428,1242,693,1276
+8,1071,1297,1631,1332
+9,629,90,1295,130
+10,189,2516,934,2693
+11,1242,1241,1454,1278
+12,980,2520,1724,2665
+13,798,2449,1103,2489
+15,1669,88,1725,132
+16,193,90,269,132
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+710
+
+# block=16
+709
+
+# block=9
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=5
+σιν, ἀλλ’ ἑκάστης ἰδίαν· μετὰ πολλῆς φρονήσεως
+κρίνοντες ἕκαστα τῶν πλημμελημάτων, τά τε σμικρὰ,
+καὶ τὰ μεγάλα, καὶ ἄλλως (87) ἔργου, καὶ λόγου
+πάλιν ἑτέρως, καὶ προθέσεως (88), ἢ λοιδορίας, ἢ
+ὑπολήψεως διαφόρως, καὶ τοὺς μὲν ὑποβαλεῖς μόναις
+ἀπειλαῖς, τοὺς δὲ πενήτων χορηγίαις, ἄλλους δὲ
+νηστείαις στιβώσεις, καὶ ἑτέρους ἀφορίσεις, πρὸς τὸ
+μέγεθος τοῦ ἐγκλήματος αὐτῶν. Καὶ γὰρ καὶ ὁ νόμος
+οὐ παντὸς ἁμαρτήματος τὴν αὐτὴν ἐποιεῖτο τιμω-
+ρίαν, ἀλλὰ ἄλλως μὲν τὰ εἰς Θεὸν καὶ εἰς ἱερέα καὶ
+εἰς ἱερὸν καὶ εἰς ἱερεῖον, ἑτέρως τὰ εἰς βασιλέα καὶ
+ἄρχοντα καὶ στρατιώτην καὶ ὑπήκοον, ὁμότιμον, ἢ
+οἰκέτην, ἢ εἰς κτῆμα, ἢ εἰς ἄλογον, καὶ πάλιν παρηλ-
+λαγμένως τὰ εἰς γονεῖς καὶ συγγενεῖς, ἄλλως τὰ ἐξ
+ἐφόδου, καὶ τὰ ἀκουσίως ἑτέρως· καὶ τοῖς μὲν θάνα-
+τον ἢ διὰ σταυροῦ, ἢ τὸν διὰ λίθων, τοῖς δὲ ζημίαν, ἢ
+μάστιγας, ἢ τὸ τὰ ὅμοια παθεῖν οἷς ἔδρασεν. Οὐκοῦν
+καὶ ὑμεῖς τῶν διαφόρων ἁμαρτημάτων διαφόρους
+ποιεῖσθε καὶ τὰς τιμωρίας, ἵνα μή τις ἀδικία παρεμ-
+πεσοῦσα κινήσῃ τὸν Θεὸν πρὸς ἀγανάκτησιν. Ἧς γὰρ
+ἂν ἀδίκου κρίσεως μεσῖται γένησθε, ταύτης καὶ τὸν
+ἀπὸ Θεοῦ λήψεσθε μισθόν· « Ὧ γὰρ κρίματι κρίνετε,
+κριθήσεσθε. »
+
+# block=3
+tiam , sed de unoquoque propriam cum multa
+prudentia judicantes singula delicta , cum parva
+tum magna; atque aliter sancientes de peccato
+operis, iterumque aliter de peccato sermonis, di-
+verse etiam de delictis propositi, aut convicii, aut
+suspicionis. Et quidem ex peccatoribus hos solis
+minis subjicies ; illos eleemosynis erga pauperes ;
+alios vero jejuniis comprimes, et alios pro gravi-
+tate criminis sui a fidelibus separabis. Neque enim
+lex omni peccato eamdem decernebat pœnam; sed
+aliam quidem commissis in Deum, et in sacerdo-
+tem, et in templum, et in sanctuarium; alteram
+vero designatis adversus regem, et principem , et
+militem, et subjectum, adversus æqualem, vel fa-
+mulum, sive contra possessionem , aut pecus ;
+iterumque diversam delictis in parentes et cognatos;
+peccatis ex industria aliam, et aliam non volunta-
+riis : atque aliquos quidem reos afficiebant morte ,
+seu crucis, seu lapidationis, cæteros mulcta, aut
+verberibus, aut talionis supplicio. Igitur vos quo-
+que diversis peccatis diversas pœnas imponite , ne
+qua injuria incidens provocet Deum ad iracundiam.
+Cujus etenim iniqui judicii eritis arbitri, ejus et
+mercedem accipietis a Deo : « Quo enim judicio
+judicaveritis, judicabimini ⁸⁴. »
+
+# block=11
+CAPUT XLIX.
+
+# block=7
+ΚΕΦΑΛΑΙΟΝ ΜΘ΄.
+
+# block=4
+Ὁποίους εἶναι χρὴ τοὺς κατηγόρους, καὶ
+μάρτυρας.
+
+# block=8
+Quales esse decet accusatores, et testes.
+
+# block=2
+Καθίσαντες οὖν ἐπὶ τὸ κριτήριον, παρόντων ἑκα-
+τέρων τῶν προσώπων, οὐ γὰρ ἐροῦμεν ἀδελφῶν,
+μέχρις οὗ ἑαυτοὺς ἐν εἰρήνῃ ἀπολάβωσιν, ἐρευνᾶτε
+ἀκριβῶς περὶ τῶν ἐνεχομένων· καὶ πρῶτον περὶ τοῦ
+κατηγοροῦντος, εἰ πρώτου (89) τούτου κατηγορεῖ, ἢ
+καὶ ἑτέροις τισὶν ἐγκλήματα κατενήνοχε, καὶ εἰ μὴ
+ἐκ μέμψεως αὐτῶν ἡ φιλονεικία ⁸⁵ καὶ τὸ ἔγκλημα
+ὑπόκειται, καὶ ὁποία τις ἡ ἀναστροφὴ αὐτοῦ ὑπάρ-
+χει· καὶ τοιοῦτος δὲ ὢν εὐσυνείδητος, μὴ πιστευέσθω
+μόνος· παράνομον γὰρ τὸ τοιοῦτον· ἀλλ’ ἐχέτω καὶ
+ἑτέρους μάρτυρας, ὁμοίους αὐτῷ τὸν τρόπον· καθώς
+ὁ νόμος λέγει · « Ἐπὶ στόματος δύο καὶ τριῶν μάρ-
+τύρων σταθήσεται πᾶν ῥῆμα. » Διατί δὲ εἴπομεν, τὸν
+τρόπον αὐτῶν ἐπιζητεῖσθαι, ὁποῖος (90) τυγχάνει;
+ἐπειδὴ πολλάκις ἐγχωρεῖ, καὶ τοὺς δύο καὶ τοὺς
+πλεἰονας ἐπὶ κακῷ μαρτυρῆσαι , καὶ συμφώνως προ-
+στῆναι τοῦ ψεύδους· ὡς τοὺς δύο πρεσβυτέρους κατὰ
+Σωσάννης ἐν Βαβυλῶνι, καὶ τοὺς υἱοὺς τῶν παρανό-
+μων κατὰ τοῦ Ναβουθαὶ ἐν Σαμαρείᾳ, καὶ τὸ πλῆθος
+τῶν Ἰουδαίων κατὰ τοῦ Κυρίου ἐν Ἱερουσαλήμ, καὶ
+κατὰ Στεφάνου τοῦ πρωτομάρτυρος αὐτοῦ. Ἔστωσαν
+
+# block=1
+Sedentes igitur in tribunali, præsentibus utris-
+que personis ( non enim eos appellabimus fratres,
+donec cum pace se in benevolentiam susceperint),
+exquirite diligenter de altercantibus; ac primo de
+accusatore, an hunc primum accuset, vel aliis quo-
+que crimina impegerit, et annon ex querela eorum
+ac contentione crimen suppositum sit, et quales
+sint mores accusantis : cui licet bona conscientia
+freto, soli tamen fides non habeatur ⁸⁶ ; id quippe
+iniquum est; sed habeat et alios testes, ei probi-
+tate morum consimiles; quemadmodum lex dicit:
+« In ore duorum et trium testium stabit omne ver-
+bum ⁸⁷. » Quare autem diximus, inquiri oportere quæ
+sit testium vita? quia, scilicet, sæpenumero evenit,
+ut duo vel plures testimonium dicant in malo , et
+una voce mendacio suffragentur; ut Babylone duo
+senes contra Susannam ⁸⁸, et in Samaria filii ini-
+quitatis contra Nabuthæum ⁸⁹, et Hierosolymis turba
+Judæorum adversus Dominum ⁹⁰, ejusque primum
+martyrem Stephanum ⁹¹. Sint igitur testes mansueti,
+iræ expertes, æqui, charitate præditi, temperantes,
+
+# block=6
+⁸⁴ Matth. vii, 2. ⁸⁵ Ἢ φιλονεικίας, vel ἢ φιλονεικίᾳ. ⁸⁶ Laudatur a Cedreno. Vide Test. Veterum.
+⁸⁷ Deut. xix, 15. ⁸⁸ Dan. xiii. ⁸⁹ III Reg. xxi. ⁹⁰ Matth. xxvi. ⁹¹ Act. vi et vii.
+
+# block=13
+VARIORUM NOTÆ.
+
+# block=10
+(87) Καὶ ἄλλως. Abest καὶ in Vindob. cod. nec
+necessarium est. Cler.
+(88) Καὶ προθέσεως. Dele καὶ ex eodem codice,
+et sic distingue ἑτέρως· προθέσεως, etc. Id.
+(89) Εἰ πρώτου. Cod. Vind. Εἰ πρὸ τούτου οὗ
+
+# block=12
+κατηγορεῖ καὶ ἑτέροις : an ante hunc quem accusat,
+etiam aliis accusationes impegerit. Eodem sensu.
+Cler.
+(90) Ὁποῖος. Vind. cod. ὁποῖός τις. Id.

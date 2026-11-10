@@ -1,0 +1,237 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,239,870,989,1078
+2,251,2321,1003,2728
+3,1031,874,1781,1084
+4,1028,359,1786,747
+5,237,352,993,740
+6,860,1186,1155,1222
+7,287,1110,532,1145
+8,651,91,1353,129
+9,1029,796,1780,864
+10,1038,2020,1796,2726
+12,229,148,991,236
+14,412,311,808,348
+15,227,1248,996,2324
+16,239,99,313,136
+17,1027,142,1776,268
+18,272,794,950,827
+20,1033,1262,1793,2025
+21,499,750,717,782
+22,507,268,721,308
+23,1263,274,1543,306
+24,1199,316,1601,352
+25,1247,750,1545,792
+26,1697,86,1779,128
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=16px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=16px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=26 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=26
+1048
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=16
+1047
+
+# block=17
+τηρίων εἰστήκεισαν κατὰ ἀνατολὰς, αἰνοῦντες, καὶ
+ἐξομολογούμενοι, καὶ λέγοντες· « Αἰνεῖτε τὸν Κύριον,
+ὅτι ἀγαθὸς, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ. »
+
+# block=12
+dientes : « Laudate Dominum , quoniam bonus,
+quoniam in sæculum misericordia ejus ⁷⁹. »
+
+# block=22
+CAPUT XLV.
+
+# block=23
+ΚΕΦΑΛΑΙΟΝ ΜΕ'.
+
+# block=14
+Oratio recenter initiatorum.
+
+# block=24
+Προσευχὴ τῶν νεοτελῶν.
+
+# block=5
+Precetur vero hæc, post priorem orationem, di-
+cens: Deus omnipotens, Pater Christi tui, unige-
+niti Filii tui; da mihi corpus immaculatum, cor
+mundum, mentem vigilem, cognitionem non erran-
+tem, Spiritus sancti adventum ad possessionem et
+certam fidem veritatis, per Christum tuum; per
+quem tibi gloria in sancto Spiritu, in sæcula. Amen.
+Atque hæc de catechumenis constituere æquum
+duximus.
+
+# block=4
+Προσευχέσθω δὲ ταῦτα μετὰ τὴν προτέραν εὐχὴν,
+λέγων· Ὁ Θεὸς ὁ παντοκράτωρ, ὁ Πατὴρ τοῦ Χρι-
+στοῦ σου, τοῦ μονογενοῦς Υἱοῦ σου, δός μοι σῶμα
+ἄσπιλον, καρδίαν καθαρὰν, νοῦν γρήγορον (41),
+γνῶσιν ἀπλανῆ, Πνεύματος ἁγίου ἐπιφοίτησιν
+πρὸς κτῆσιν καὶ πληροφορίαν τῆς ἀληθείας,
+διὰ τοῦ Χριστοῦ σου· δι' (42) οὗ σοι δόξα ἐν ἁγίῳ
+Πνεύματι, εἰς τοὺς αἰῶνας. Ἀμήν. Ταῦτα καὶ περὶ
+τῶν κατηχουμένων δίκαιον ἡγησάμεθα διατάξασθαι.
+
+# block=21
+CAPUT XLVI.
+
+# block=25
+ΚΕΦΑΛΑΙΟΝ ΜΓ'.
+
+# block=18
+Quosnam sancti apostoli miserunt et ordinarunt.
+
+# block=9
+Τίνας (43) πέμποντες ἐχειροτόνησαν οἱ ἅγιοι
+ἀπόστολοι.
+
+# block=1
+De episcopis vero, qui a nobis in vita nostra or-
+dinati sunt, indicamus vobis, quod hi sunt : Hiero-
+solymorum quidem Jacobus frater Domini, quo mor-
+tuo secundus fuit Simeon Cleophæ filius, post quem
+tertius Judas Jacobi; Cæsareæ autem Palæstinæ pri-
+
+# block=3
+Περὶ δὲ τῶν ὑφ' ἡμῶν χειροτονηθέντων ἐπισκόπων
+ἐν τῇ ζωῇ ἡμετέρᾳ (44), γνωρίζομεν ὑμῖν, ὅτι εἰσὶν
+οὗτοι· Ἱεροσολύμων μὲν Ἰάκωβος (45), ὁ τοῦ Κυρίου
+ἀδελφὸς, οὗ τελευτήσαντος,δεύτερος Συμεὼν ὁ τοῦ Κλεό-
+πα (46), μεθ' ὃν τρίτος Ἰούδας Ἰακώβου (47)· Και-
+
+# block=7
+⁷⁹ II Paral. v, 13.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=15
+(41) Γρήγορον. Alter cod. Vindob. ἐγρήγορα, pro
+ἐγρηγορότα, quæ vera lectio esse videtur, nisi γρή-
+γορος sit vox inferioris ævi. Cot.
+(42) Δι'. Hæc etiam est δοξολογία Arianorum
+quam emendavit librarius in altero Vindob., ubi est
+μεθ', ut et postea pro ἐν τῷ πνεύματι habet σὺν. Iᴅ.
+(43) Τίνας. Addit cod. Vind., ἐπισκόπους. Iᴅ.
+(44) Ἐν τῇ ζωῇ ἡμετέρᾳ. Imprudenter aposto-
+los scriptor hic loquentes inducit, quasi post mor-
+tem, aut certe morti vicini scriberent, quippe nul-
+los postea episcopos creaturi. li vero nunquam ita
+convenerunt omnes, ut sic, morte instante, loqui
+possent. Iᴅ.
+(45) Ἰάκωβος. Ex placitis veterum, Jacobus
+constitutus est Hierosolymorum episcopus, vel ab
+ipso Domino, vel ab apostolis, vel a Christo et apo-
+stolis, vel a Petro, aut denique a Petro, Jacobo et
+Joanne. Quod cum doctorum hominum disputatio-
+nibus satis superque fuerit ventilatum, restat mihi
+perstringendus locus Chronici Alexandrini, p. 580 :
+Τῷ αὐτῷ ἔτει ὁ ἅγιος Ἰάκωβος ὁ ἀπόστολος καὶ πα-
+τριάρχης Ἱεροσολύμων , ὃν ἐνεθρόνισεν ὁ ἅγιος Πέ-
+τρος εἰς τόπον ἑαυτοῦ ἀνιὼν ἐπὶ τὴν Ῥώμην, ἐτε-
+λεύτησεν, καὶ παρέλαβε τὸ σχῆμα τῆς ἐπισκοπῆς Ἱε-
+ροσολύμων Συμεὼν , ὁ καὶ Σίμων, καὶ γέγονε πα-
+τριάρχης, qui sic interpungi debet, verii autem ad
+hunc modum : Eodem anno sanctus Jacobus apo-
+stolus, et patriarcha Hierosolymitanus,quem sanctus
+Petrus Romam petiturus, in locum suum in sede
+sua collocaverat, mortuus est : et dignitatem episco-
+palem Hierosolymorum suscepit Simeon, qui et Si-
+mon, factusque fuit patriarcha. COT.
+
+# block=20
+stantem; partim ex Epiphanio, apud quem sub
+finem tomi 1, libri 1, et in Anacephalæosi, Judas di-
+citur is qui evangelistis est Jacobus Alphæi. Simon,
+inquit Dorotheus excusus, Judas cognominatus, qui
+et post Jacobum Hierosolymorum episcopus factus
+est (arbitror eum esse Jacobum Alphæi) sub Trajano
+rege cruci alligatus, occisus est in Ostracina civitate
+Ægypti Cæsareæ, cum annos vixisset 102. Dixi excu-
+sus, nam in Græce scripto habetur : Σίμων δὲ, ὁ
+ἐπικληθεὶς Ἰούδας, ἐν Ἐλευθεροπόλει, καὶ ἀπὸ Γά-
+ζης ἕως Αἰγύπτου κηρύξας τὸν Χριστὸν, θάπτεται ἐν
+τῇ Ὀστρακίνῃ πόλει τῆς Αἰγύπτου, σταυρωθεὶς ἐπὶ
+Τραϊανοῦ τοῦ βασιλέως. Ast ubi de discipulis disserit,
+Simonem Cleopæ cum Cleopa confundit, dicens :
+Cleopas, qui et Simon, consobrinus Domini fuit. Hic
+cum una cum Luca proficisceretur, Dominum post re-
+surrectionem ex mortuis vidit, cumque illo locutus
+est, quemadmodum in Evangelio scribitur. Tandem
+alter Hierosolymorum episcopus factus est. Græce :
+Κλεώπας, ὁ καὶ Συμεὼν, ἀνεψιὸς τοῦ Κυρίου γενόμε-
+νος, καὶ δεύτερος ἐπίσκοπος Ἱεροσολύμων, ὃς καὶ
+ἶδεν αὐτὸν μετὰ τὰ ἀναστῆναι αὐτὸν ἐκ νεκρῶν. Er-
+roris
+
+# block=10
+(47) Ἰούδας Ἰακώβου. Tertium Hierosolymæ
+episcopum Judam nuncupat Eusebius, lib. ı Chro-
+nicorum, p. 80, ultimæ editionis ; Epiphanius, hæ-
+resi 66, seu Manichæorum, sect. 20, et Georgius
+Syncellus in Chronographia : Justum idem Euse-
+bius in Chronicis et in Historia, ambo Nicephori
+chronographus et historicus, auctor Raderiani Chro-
+nici, Zonaras, et alii : Judam Jacobi nullus, quod
+sciam, præter Constitutorem hunc, et pseudo-Epi-
+phanium in Apostolorum ἀνεκδότῳ Indiculo : Ἰού-
+δας, ὁ ἀδελφὸς τοῦ Κυρίου μετὰ Ἰάκωβον τὸν ἑαυ-
+τοῦ ἀδελφὸν, καὶ Συμεὼν ἐξάδελφον τοῦ Κυρίου. Λι-
+πὼν [f. λίπον pro ἔλιπον] δὲ καὶ αὐτὸν ἐπίσκοπον ἐν
+Ἱεροσολύμοις·ἔτη ζ', ἐκήρυξε δὲ τὸ Εὐαγγέλιον τοῦ
+Χριστοῦ ἐν πάσῃ τῇ Ἰουδαίᾳ καὶ Σαμαρείᾳ. Ἐποίησε
+δὲ καὶ καθολικὴν ἐπιστολήν· καὶ πρώην ἔσχε δύο
+υἱοὺς, Ἰάκωβον καὶ Ζωχήρ· ἀπέθανε δὲ ἐν Ἱερουσα-
+λὴμ ἐνδόξως. Imo adversari videtur ei sententiæ
+Hegesippus, apud Eusebium Historiæ lib. ııı, cap.
+20 et 32. Innuit enim Judam e vita migrasse ante
+Simeonem. Ib.
+
+# block=2
+(46) Συμεὼν, ὁ τοῦ Κλεόπα. Qui et apud Græ-
+cos appellatus reperitur Σίμων, ὁ τοῦ Κλεοπᾶ,
+Κλεώπα, Κλεωπᾶ, Κλωπᾶ, Κλοπᾶ; apud Latinos,
+Simeon, aut Symeon, et Simon, filius Cleopæ, vel
+Cleophæ, vel Cleopæ. Hunc pseudo Dorotheus agens
+de apostolis vocat Judam, et eundem facit cum Ja-
+cobo Alphæi : accepta forsan occasione, partim ex
+iis qui Simeoni Clæophæ dant Judæ nomen, in quam
+sententiam discedunt pseudo-Hippolytus in Catalo-
+go apostolorum, auctor adnotationis De 12 aposto-
+lis adductæ supra ad cap. ult., lib. u, et qui Indi-
+cutum apostolorum composuit initio OEcumenii ex-

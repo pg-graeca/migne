@@ -1,0 +1,163 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,268,652,1013,866
+2,1042,1475,1793,1862
+3,247,1259,998,2690
+4,1057,313,1812,824
+5,1045,1258,1804,1467
+6,272,306,1025,644
+7,1040,1869,1788,1995
+8,1029,2002,1787,2688
+9,785,1018,1286,1081
+10,582,1127,1474,1170
+11,940,231,1129,267
+12,805,115,1277,149
+13,1769,127,1807,163
+14,274,105,312,136
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=28px
+# block=10 fontSize=18px
+# block=11 fontSize=18px
+# block=12 fontSize=16px
+# block=13 fontSize=16px
+# block=14 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+67
+
+# block=12
+AD S. CLEMENTEM I PAPAM
+
+# block=13
+68
+
+# block=11
+LECTORI.
+
+# block=6
+Hactenus Vendelinus, cujus verba ex editione
+Pauli Colomesii descripsimus. Cæterum qui annos,
+quibus sedit Clemens, multo certius rescire avebit,
+is adeat oportet eruditissimas Dissertationes Joan-
+nis Pearsonii et Henrici Dodwelli, de successione
+primorum Romanæ urbis episcoporum ; qui viri to-
+tam chronologiam pontificiam feliciter illustrarunt,
+quamvis per omnia non consentiant.
+
+# block=4
+buisse episcopi nomine scribi, quamvis episcopum
+jam Clementem fuisse testari videantur Hegesippus
+atque Irenæus. Digna sunt lectu quæ hanc in rem
+habet, sed prolixiora, quam quæ huc transferan-
+tur. Idem in Dissertationum Irenaicarum prima,
+§ 28, suspicatur non immerito, alteram, quæ dici-
+tur, Clementis epistolam, esse potius διδαχὴν ejus seu
+ejus doctrinam, ab alio scriptis mandatam, atque ex
+ejus concionantis ore exceptam, vel ex auditorum
+ab eo memoria exaratam. Eum, Lector, adito, quo
+rebus ecclesiasticis antiquissimi ævi nemo facem
+hactenus intulit fulgentiorem.
+
+# block=1
+Pearsonius vult Clementem sedisse ab anno 69
+ad 83. Dodwellus vero ab anno 64, vel 65 ad 81.
+Hic etiam cap. 11 Diss. de success. pontificum Rom.
+contendit incertum esse, an epistola Clementis prior
+ab eo jam episcopo scripta sit ; at certe non de-
+
+# block=9
+J. B. COTELERII
+
+# block=10
+JUDICIUM DE PRIORE EPISTOLA S. CLEMENTIS.
+
+# block=5
+piam suspiceris apostolorum Canonis Clementinas
+epistolas ; quæ apud Græcos aut nullæ fuerunt,
+aut non seorsum lectæ, sed initio Recognitionum,
+Actuum Petri, Clementinorum , similisque farinæ
+apocryphorum.
+
+# block=3
+Cum quæcunque de Epistola a B. Clemente, Ro-
+manæ Ecclesiæ nomine ad Corinthiorum Ecclesiam
+scripta, proferri potuissent, fere omnia partim ab
+antiquis tradita, partim a recentioribus occupata
+fuerint, vice præfationis, pauca duntaxat adnota-
+bimus ad ea veterum testimonia, quæ nonnihil
+scrupuli legentibus forte injicerent, nisi expone-
+rentur ; ac deinde quæremus quando stylum acue-
+rit Κλήμης, τὸ τοῦ Χριστοῦ κλῆμα. Equidem ab Euse-
+bio lib. III, cap. 16 et 38, epistola vocatur ὁμολο-
+γουμένη, ἀνωμολογημένη παρὰ πᾶσιν, ab omnibus uno
+consensu recepta. Ille tamen historicus lib. VI, cap.
+13, refert Clementem Alexandrinum in libris Στρω-
+ματέων uti testimoniis Scripturarum a quibusdam
+repudiatarum, nempe Sapientiæ Salomonis, Sapien-
+tiæ Siracidis, Epistolæ ad Hebræos, Epistolarumque
+Barnabæ, Clementis et Judæ. Quo modo volumen
+ab omnibus admissum, a quibusdam rejicitur ?
+Eam repugnantiam tolles, si dixeris cunctos qui-
+dem opus agnovisse pro genuino Pontificis fœtu,
+sed non omnes habuisse pro scripto canonico : de
+primo, nullam motam antiquitus controversiam ;
+de secundo, motam, aliis extra canonem ponenti-
+bus, quæ sententia obtinuit, aliis intra, ut auctor
+Canonum apostolicorum, canone ultimo, proinde-
+que forsan et qui eos canones in numero sacrarum
+Scripturarum collocat Joannes Damascenus, quique
+eosdem admittunt Trullani episcopi. Atque hujus
+postremæ opinionis documentum præbet antiquis-
+simus codex bibliorum manu Theclæ exaratus, ex
+quo duæ istæ epistolæ prodierunt ; quandoquidem
+eas cum libris Novi Testamenti conjunctas exhibet.
+Neque vero quidquam causæ est, cur alias quas-
+
+# block=2
+Ad ejusdem Eusebii observationem, imitatum
+esse Clementem Epistolam ad Hebræos, addi potest
+consimilis, de imitatione aliorum Novi Testamenti
+librorum, præsertimque Epistolarum ad Corinthios
+et Epistolarum Petri : utriusque enim apostoli erat
+discipulus. Nec mirum, quod Dominicæ ac apo-
+stolicæ sententiæ et dictiones in ore fuerint ho-
+minum apostolicorum, atque in usu primorum
+Christianorum.
+
+# block=7
+Photius Bibliothecæ codice cxxvi videtur scripsisse :
+Αἰτιάσοιτο δ᾽ ἄν τις αὐτὸν ἐν τούτοις, non autem ἐν
+ταύταις. Reprehenderit vero eum quispiam in his.
+
+# block=8
+In Libro pontificali, ubi de Clementis vita, necnon
+in ejus Operis exscriptoribus, memorantur duæ Cle-
+mentis epistolæ, eæque canonicæ et catholicæ.
+Quod ita acceptum ab auctore libri De gestis Ro-
+manorum pontificum, credito Luitprando, quasi
+ageretur de duabus primis Clementis Decretalibus
+ad Jacobum. Gravi, ut equidem sentio, errore. Nam
+si Decretales in animo habuisset scriptor Pontifica-
+lis libri, non solum duas dixisset, verum quinque.
+Quemadmodum βιογράφος ille, qui mira supinitate,
+postquam de duabus epistolis catholicis a Clemente
+ad Jacobum datis retulit, subjungit quænam conti-
+neantur in illis duabus, et in reliquis tribus. Adde
+quod in Pontificali opere sejungi videtur epistola
+ad Jacobum a duabus canonicis epistolis. Hic fecit
+duas epistolas, quæ canonicæ nominantur. Et infra :

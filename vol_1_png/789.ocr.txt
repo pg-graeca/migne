@@ -1,0 +1,167 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,965,152,1726,972
+2,168,149,929,970
+3,167,1577,923,2712
+4,170,1311,928,1581
+5,173,1059,1714,1129
+6,955,1306,1730,2680
+8,796,1207,1094,1241
+9,591,93,1296,131
+12,1655,99,1713,132
+13,159,88,239,132
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=965 source_y1=152 source_x2=1726 source_y2=972
+scunt, inhonestam putant passionem ac mortem,
+resurrectionem ignorant, ejus nativitatem, quæ ante
+sæcula rescant ⁴¹. Quidam vero eorum alio modo
+impii sunt, Dominum imaginati hominem tantum-
+modo, ex corpore et anima eum constare existi-
+mantes ⁴². At ex iis alii eundem Jesum esse Deum
+super omnia existentem suspicantur, eum, sui ip-
+sius Patrem opinati, eum Filium simul et Paracle-
+tum conjicientes; quibus quid potest esse exsecra-
+bilius? Alii rursus eorum, damnant quosdam cibos;
+et nuptias cum procreatione liberorum malas esse
+ac diaboli commentum dicunt ⁴³: et propter mali-
+tiam suam impii cum sint, nolunt a mortuis exci-
+tari, ideoque resurrectionem criminantur; aiunt ·
+« Sancti et casti viri sumus; » comedere ac bibere
+nolunt; imaginantur vero se dæmonia carne carentia
+suscitandos a mortuis. Qui omnes in perpetuum et
+ad ignem æternum damnabuntur. Fugite igitur ab
+eis, ne pariter eorum impietatibus pereatis.
+
+# block=2 source_x1=168 source_y1=149 source_x2=929 source_y2=970
+σιν, τὸν σταυρὸν ἐπαισχύνονται, τὸ πάθος καὶ τὸν
+θάνατον ἀδοξοῦσι, τὴν ἀνάστασιν ἀγνοοῦσι, τὴν πρὸ
+αἰώνων αὐτοῦ γέννησιν περικόπτουσι (58). Τινὲς δὲ
+ἐξ αὐτῶν ἑτέρως (59) ἀσεβοῦσι, ψιλὸν ἄνθρωπον φαν-
+ταζόμενοι τὸν Κύριον, ἐκ ψυχῆς καὶ σώματος αὐτὸν
+εἶναι νομίζοντες (60). Ἕτεροι δὲ ἐξ αὐτῶν, αὐτὸν εἶ-
+ναι τὸν Ἰησοῦν τὸν ἐπὶ πάντων Θεὸν (61) ὑποπτεύου-
+σιν, αὐτὸν ἑαυτοῦ Πατέρα δοξάζοντες, αὐτὸν Υἱὸν καὶ
+Παράκλητον ὑποπτεύοντες· ὧν τί ἂν εἴη ἐναγέστερον;
+Ἄλλοι δ' αὖ πάλιν αὐτῶν, βρώματά τινα φαυλίζουσι·
+καὶ γάμον κακὸν σὺν παιδοποιίᾳ λέγουσιν εἶναι, δια-
+βόλου τε μηχάνημα· καὶ διὰ τὴν πονηρίαν αὐτῶν ἀσε-
+βεῖς ὄντες, οὐ θέλουσιν ἐκ νεκρῶν ἀναστῆναι, διὸ καὶ
+τὴν ἀνάστασιν διαβάλλουσι· φάσκοντες, ὅτι « Σεμνοί τι-
+νές ἐσμεν· » ἐσθίειν καὶ πίνειν μὴ βουλόμενοι, δαιμόνια
+δὲ ἄσαρκα φανταζόμενοι ἐκ νεκρῶν ἀναστήσεσθαι. Οὗ-
+τινες καταδικασθήσονται δι' αἰῶνος ἐν τῷ αἰωνίῳ
+πυρί. Φεύγετε οὖν ἀπ' αὐτῶν, ἵνα μὴ συναπόλησθε
+ταῖς αὐτῶν ἀσεβείαις.
+
+# block=3 source_x1=167 source_y1=1577 source_x2=923 source_y2=2712
+(60) Ψιλὸν ἄνθρωπον φανταζόμενοι τὸν Κύριον,
+ἐκ ψυχῆς καὶ σώματος αὐτὸν εἶναι νομίζοντες.
+Sensum catholicum admittunt hæc, et sensum Aria-
+num; quia adversus Ebionæos similesque pestes di-
+ci possunt ab orthodoxo et ab Ariomanita. A primo
+quidem, qui videlicet arbitretur in Christo præter
+corpus et animam esse etiam Dei Verbum. A poste-
+riori vero, qui existimet loco animæ in Domino ex-
+stitisse patibilem divinitatem. Ario quippe ac Aria-
+nis a pluribus tribuitur is error; qui, tempore S.
+Augustini, apud Latinos minus erat notus, videtur-
+que ab eruditissimo et diligentissimo Usserio igno-
+ratus, aut non animadversus, illustrante B. Igna-
+tium. Obiter emenda in Operibus S. Hieronymi au-
+ctorem Commentariorum ad Paulinas epistolas, in
+I Corinth. 11, 8 : Hoc loco ad defensionem perversi
+dogmatis, duæ hæreses abutuntur, Apollinarii, scili-
+cet, et Arii. Una ut perfectam assumpti hominis natu-
+ram destruat : alia ut Dei Verbum asserat esse passi-
+bile. Neque erat [lego ea] intelligentis, majestatis Do-
+minum etiam assumptum hominem dictum : neque
+ista sciens, non divinitatis, sed humanitatis passibi-
+lem esse naturam. Observatu quoque dignum est,
+quod cum idem error Eunomio ascribatur, per
+Theodoritum, in fine interpretationis psalmi xv,
+epistola 145, dialogo 2, et Hæreticarum fabularum
+lib. v, cap. 11, quod ultimum testimonium Nicetas
+Choniates transcribit Thesauri lib. III, cap. 39,
+itemque per Gennadium cap. 2 De ecclesiasticis
+dogmatibus ; Eunomius tamen ipse in fidei suæ ex-
+positione, a Valesio τῷ πάνυ ad Socratem publicata,
+Christum suum proponit ἀναλαβόντα τὸν ἐκ ψυχῆς
+καὶ σώματος ἄνθρωπον. Qui hominem ex anima con-
+stantem et corpore assumpsit. Cot.
+
+# block=4 source_x1=170 source_y1=1311 source_x2=928 source_y2=1581
+tis. Lege epistolam ad Philippenses Ignatio martyri
+tributam cap. 5. Post hæc exarata, didici ab illu-
+strissimo archiepiscopo Armeno, qui in hac regia
+urbe versabatur, haberi apud suos dictas epistolas,
+et apocryphas haberi. Cot.
+(58) Περικόπτουσι. Cod. Vind. περιγράφουσι.
+Cler.
+(59) Ἑτέρως. Idem cod. καὶ ἑτέρως. ID.
+
+# block=5 source_x1=173 source_y1=1059 source_x2=1714 source_y2=1129
+⁴¹ Ignat. interpol. ad Trall. 6 et 11; ad Philad. 6, ad Sm. 2, 7. ⁴² Pseudo-Ignat. ad Tars. 2. ⁴³ I.
+Ignat. interpol. ad Philad. 6.
+
+# block=6 source_x1=955 source_y1=1306 source_x2=1730 source_y2=2680
+(61) Αὐτὸν εἶναι τὸν Ἰησοῦν τὸν ἐπὶ πάντων
+Θεόν. Sane etiam accipio, ex more notissimo theo-
+logorum, tam veterum quam recentiorum, juxta
+quem nomina quædam toti Trinitati communia, uni
+personæ acco. modantur : exempli gratia, Patri
+Deus, ὁ τῶν ὅλων Θεός, omnipotens, aliaque, et in iis
+ὁ ἐπὶ πάντων Θεός. Gregorius Nyssenus Περὶ διαφο-
+ρᾶς οὐσίας καὶ ὑποστάσεως, ante medium : Ὁ δὲ ἐπὶ
+πάντων Θεὸς, ἐξαίρετόν τι γνώρισμα τῆς ἑαυτοῦ ὑπο-
+στάσεως, τὸ Πατὴρ εἶναι, τὸ ἐκ μηδεμιᾶς αἰτίας ὑφε-
+στάναι, μόνος ἔχει. Illius frater in sanctum baptisma,
+sub finem : Οὔτε οὖν ἀλλότριον τῆς τοῦ Θεοῦ δόξης.
+τὸ Πνεῦμα, ἐκ τοῦ ἀῤῥήτου στόματος ἀῤῥήτως ἐκ-
+πεφηνός, οὔτε αὐτὸς ὁ Θεὸς, ἀλλὰ Θεοῦ Πνεῦμα, καὶ
+παρὰ Θεῷ, ἀποστελλόμενον δὲ παρὰ Θεοῦ, καὶ διὰ
+Υἱοῦ χορηγούμενον. Ecce, magno Basilio Spiritus
+sanctus non est Deus, ut nostro Filius non est Qui
+super omnia exsitit Deus : quia neuter est prima
+sanctissimæ Trinitatis persona. Videtur autem Con-
+stitutio jugulum petere Simonis Magi; utpote per-
+sonas confundentis, quod colligere datur ex Irenæo,
+Augustino ac Theodorito. In Appendice canonis 50
+apostolici, de qua in adnotatione proximam præce-
+dente : Ἐφ' ἡμῶν γὰρ Σίμων ὁ Μάγος ἐξῃρεύξατο
+σπάσας τὸ ἄλαλον (codex Seguerianus τῷ λαῷ), πλά-
+νον καὶ ἄστατον καὶ πονηρὸν εἰς ἑαυτὸν πνεῦμα, καὶ
+ἕνα τριώνυμον εἶναι φλυαρήσας τὸν Θεόν. Id est :
+Temporibus enim nostris Simon Magus eructavit, at-
+tracto in seipsum spiritu loquendi ignaro, erroneo,
+instabili et malo, atque Deum esse unum trinominem
+deblateravit. Sed forte legi debeat λάλον, aut potius,
+quo manu ducimur per ms. Segu., λαοπλάνον, ut
+apud Ignatium interpolatum ad Ephes. ix, ad Phila-
+delph. 5, favente etiam Cedreno, p. 173, l. xxxvii.
+Consule Epiphanium hæresi 62, sectione 2, ubi de
+Sabellianismo ex Ægyptiaco evangelico. Cot.—Hæc
+multo aptius ex calamo Ariani fluxisse intelligan-
+tur, cum illi negarent aperte Jesu Christi divinita-
+tem esse τὸν ἐπὶ πᾶσι Θεόν. Vid. lib. III, cap. 17.
+Quando alii similiter sunt locuti, Arianorum stylo
+aliquo modo sese accommodarunt. Cler.
+
+# block=8 source_x1=796 source_y1=1207 source_x2=1094 source_y2=1241
+VARIORUM NOTÆ.
+
+# block=9 source_x1=591 source_y1=93 source_x2=1296 source_y2=131
+CONSTITUTIONES APOSTOLICÆ. — LIB. VI.
+
+# block=12 source_x1=1655 source_y1=99 source_x2=1713 source_y2=132
+973
+
+# block=13 source_x1=159 source_y1=88 source_x2=239 source_y2=132
+977

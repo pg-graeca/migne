@@ -1,0 +1,173 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,245,302,1002,1646
+2,1033,301,1810,1648
+3,222,1854,987,2698
+4,255,191,1000,298
+7,1289,150,1550,182
+8,523,151,726,184
+10,273,1692,1758,1743
+11,1033,196,1791,293
+12,1729,95,1782,131
+13,855,1781,1160,1817
+14,243,92,307,136
+15,635,86,1391,134
+16,1023,1854,1777,2702
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+At quæ beneficium largitur, nomen suum occul-
+tet, ut sapiens ; nec tuba canat ante se ; quo fiat elee-
+mosyna apud Deum in abscondito, sicut Dominus ait :
+« Te autem faciente eleemosynam, nesciat sinistra
+tua, quid faciat dextera tua; ut sit eleemosyna tua in
+abscondito ⁶. » ⁷ Ac vidua precetur pro largitore,
+quicunque tandem ille sit, cum ipsa sanctum Christi
+altare existat : « Et Pater, qui videt in abscondito,
+in aperto reddet ⁸ , conferenti benignitatem. Sed
+viduæ quæ secundum Dei mandatum vivere nolunt,
+curam habent sciscitandi multum, quæ fuerit sub-
+ministratrix, et quæ acceptrices. Quod cum vidua
+rescivit, queritur de illa quæ subministravit, di-
+cens : An nesciebas me tibi esse illa calamitosio-
+rem? Quid igitur illam mihi prætulisti? Talia di-
+cendo, decipit; neque cogitat, non fuisse hanc vo-
+luntatem hominis, sed Dei mandatum. Si enim ipsa
+testatur, se propiorem ac nudiorem illa fuisse, ma-
+jorique inopia afflictam ; considerare debet eum
+qui ita ordinavit, et cum silentio ac sine accusa-
+tione largitricis ingressa in domum suam, atque in
+faciem procumbens, supplicare Deo, ut peccatum
+ei remittatur. Nam Deus præcepit beneficæ ne velut
+tragico boatu decantet beneficium : vidua vero
+conquesta est quod illa nomen suum non procla-
+mavit, ut ipsa quoque eo audito ad accipiendum
+curreret : neque solum expostulavit, sed etiam ipsi
+maledixit, oblita illius qui ait : « Qui benedicit
+tibi, benedictus est; et qui maledicit tibi, maledi-
+ctus est ⁹. » Dicit autem Dominus : « Cum intrave-
+ritis in domum, dicite : Pax huic domui; et si fue-
+
+# block=2
+Ἡ μέντοι εὖ ποιοῦσα, ἀποκρυψάτω τὸ οἰκεῖον ὄνο-
+μα, ὡς σοφή· μὴ σαλπίζουσα ἔμπροσθεν αὐτῆς· ἵνα
+γένηται ἡ ἐλεημοσύνη πρὸς τὸν Θεὸν ἐν κρυπτῷ·
+καθώς φησιν ὁ Κύριος, ὅτι· « Σοῦ δὲ ποιοῦντος ἐλεη-
+μοσύνην, μὴ γνώτω ἡ ἀριστερά σου, τί ποιεῖ ἡ δεξιά
+σου (71), ὅπως ᾖ σου ἡ ἐλεημοσύνη ἐν τῷ κρυπτῷ. »
+Καὶ ἡ χήρα προσευχέσθω ὑπὲρ τοῦ δεδωκότος, ὅστις
+ποτ’ ἂν ᾖ, ἅγιον θυσιαστήριον Χριστοῦ (72) ὑπάρχου-
+σα· « Καὶ ὁ Πατὴρ ὁ βλέπων ἐν τῷ κρυπτῷ, ἀποδώ-
+σει » τῷ εὖ ποιοῦντι « ἐν τῷ φανερῷ. » Ἀλλ’ αἱ μὴ
+κατ’ ἐντολὴν Θεοῦ ζῇν θέλουσαι χῆραι, φροντίζουσι
+πολυπευστεῖν , τίς ἡ διακονησαμένη, καὶ τίνες αἱ λα-
+βοῦσαι· καὶ μαθοῦσα, ἐπιμέμφεται τῇ διακονησαμέ-
+νῃ, λέγουσα· Οὐκ ἴδης ὅτι ἐγώ σοι μᾶλλον παρ’ (73)
+ἐκείνην θλιβομένη; Ὅτι οὖν προετίμησας ἐκείνην
+ἐμοῦ ; Ταῦτα δὲ λέγει ἄφρων ὑπάρχουσα, οὐ νοοῦσα
+ὅτι οὐκ ἀνθρώπου τοῦτο θέλημα γέγονεν, ἀλλὰ Θεοῦ
+πρόσταγμα. Εἰ γὰρ μαρτυρεῖ αὕτη ὅτι ἐγγυτέρω
+ὑπῆρχε, καὶ ἐν πλείονι ἐνδείᾳ ἐξητάζετο, καὶ μᾶλλον
+αὐτὴ γυμνὴ ἢ ἐκείνη, ὀφείλει νοεῖν τὸν διαταξάμε-
+νον, καὶ ἀποσιγήσασα, καὶ μὴ μεμψαμένη τὴν δια-
+κονήσασαν, εἰσελθοῦσα εἰς οἶκον ἑαυτῆς, καὶ ἐπὶ
+πρόσωπον ἑαυτὴν βαλοῦσα, ἱκετεῦσαι τὸν Θεὸν ἀφε-
+θῆναι αὐτῇ τὸ πλημμέλημα. Ὁ γὰρ Θεὸς ἐνετείλατο
+τῇ εὖ ποιούσῃ μὴ τραγῳδεῖν τὴν εὐποιΐαν· ἡ δὲ ἐμέμ-
+φετο, ὅτι μὴ ἐκήρυξεν αὐτῆς (74) τὸ ὄνομα, ἵνα καὶ
+αὐτὴ μαθοῦσα δράμῃ εἰς τὸ λαβεῖν· καὶ οὐ μόνον
+ἐμέμφετο, ἀλλά γε καὶ κατηρᾶτο αὐτῇ, ἐπιλαθομένη
+τοῦ εἰπόντος· « Ὁ εὐλογῶν σε εὐλόγηται, καὶ ὁ κατα-
+ρώμενός σε κεκατήραται. » Λέγει δὲ ὁ Κύριος· « Ὅταν
+εἰσέρχησθε εἰς οἶκον (75), λέγετε· Εἰρήνη τῷ οἴκῳ·
+
+# block=3
+θητε οἱ κατέχοντες τὰ ἀλλότρια, καὶ μιμήσασθε
+ἰσότητα Θεοῦ, καὶ οὐδεὶς ἔσται πένης. Sed falli-
+tur Nicetas interpres Græcus, dum adnotat : "Ἔστι δὲ
+ἡ χρῆσις ἐκ τῆς ὀκταβίβλου τῶν ἀποστολικῶν διατάξε-
+ων (in uno ms. διδαγμάτων), ἣν ὕστερον ἡ ἕκτη σύνοδος
+ἀπεδοκίμασεν ὡς ἐπιβουλευθεῖσαν καὶ νοθευθεῖσαν
+παρὰ τῶν αἱρετικῶν. Est autem hic locus ex illo
+apostolicarum Constitutionum opere octo libros com-
+plectente, quod postea sexta synodus improbavit,
+tanquam ab hæreticis depravatum et adulteratum.
+Sed et Latini scriptores nomen diaconiæ ita usur-
+parunt. Cassianus collatione 18, cap. 7 : Cum dia-
+coniam nostris fratribus deferremus. Similiterque
+collat. 21, cap. 1, 8, 9. Et Gregorius papa, lib.
+viii, epist. 20 ; lib. ix, epist. 24. Quem ultimum
+locum operæ pretium fuerit conferre cum loco
+Joannis Diaconi lib. ii De Vita S. Gregorii cap. 51,
+ut alter per alterum corrigatur. Melius enim in
+Gregorio, mensis pauperum, et exhibendæ diaconiæ.
+Ac vice versa rectius in Joanne, ad mensas paupe-
+rum, vel diaconis exhibitionem. Hinc diaconiæ (qua-
+rum mentio passim) appellatæ sunt ædes erogandis
+eleemosynis consecratæ. Cot.
+(71) Μὴ γνώτω ἡ ἀριστερά σου, τί ποιεῖ ἡ δε-
+ξιά σου. Matth. vi, 3. Citavimus in Testimoniis
+
+# block=4
+Quod secundum Domini constitutionem, non debeat
+jactare se, nec nomen suum prædicare, quæ munus
+tribuit.
+
+# block=7
+ΚΕΦΑΛΑΙΟΝ ΙΔ'.
+
+# block=8
+CAPUT XIV.
+
+# block=10
+⁶ Matth. vi, 2. ⁷ I. Polycarp., cap. 4 ; pseud-Ignat. ad Tars. 9 ⁸ Matth. vi, 6. ⁹ Gen. xxvii, 29.
+
+# block=11
+Ὅτι οὐ χρὴ κομπάζειν, καὶ περιαγγέλλειν τὸ
+ἑαυτῆς ὄνομα, τὴν καρποφοροῦσαν, κατὰ τὴν
+τοῦ Κυρίου διάταξιν.
+
+# block=12
+792
+
+# block=13
+VARIORUM NOTÆ.
+
+# block=14
+791
+
+# block=15
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=16
+veterum ista ex Commentariis Incerti ad Matthæum :
+Aliter certo, sicut apostoli interpretantur in libro
+Canonum qui est de episcopis, dextra est populus
+Christianus qui est ad dextram Christi, sinistra au-
+tem omnis populus qui est ad sinistram. Hoc vero
+dicit, ne Christianum facientem eleemosynam, qui
+est dextra, infidelis aspiciat, qui est sinistra. Chri-
+stianus autem si Christianum viderit eleemosynas fa-
+cientem, non est contra Christi præceptum, quoniam
+ambo dextra sunt. Ea vero cum nec in hoc loco, ubi
+textus evangelicus profertur, nec in toto libro ii,
+qui peculiariter de episcopis est, nec alibi Constitu-
+tionum reperiantur, procul dubio per posteriores
+sublata fuerunt, quemadmodum diximus initio no-
+tarum; quia, scilicet, displicebant. Certe allatam
+interpretationem, probatam licet pseudo-Theophilo
+Antiochensi, Joannes Chrysostomus arguit. Id.
+(72) Χριστοῦ. Alter Vindobon, cod. Θεοῦ. Pas-
+sim miscentur Θεός, Κύριος et Χριστός, etiam in
+Novi Testamenti codicibus. Cler.
+(73) Παρ’. Sequuntur in altero cod. : Ἐγγυτέρω
+παρ’ ἐκείνην ὑπῆρχον καὶ μᾶλλον. Id.
+(74) Αὐτῆς. Alter cod. ἑαυτῆς. Id.
+(75) Οἶκον. Addit cod. alter τινός. Id.

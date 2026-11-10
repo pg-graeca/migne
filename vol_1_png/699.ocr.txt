@@ -1,0 +1,200 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+2,206,761,971,1241
+3,1000,159,1751,589
+5,208,157,963,671
+7,1000,765,1753,1195
+8,989,1408,1756,2739
+9,200,1424,959,2735
+10,641,99,1325,137
+11,245,1278,1296,1313
+12,829,1346,1127,1380
+14,245,725,925,757
+15,1087,724,1639,760
+19,212,101,265,138
+20,1681,100,1751,146
+21,449,678,731,718
+22,1263,670,1473,722
+
+# layer=format
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=19 fontSize=16px
+# block=20 fontSize=16px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+CONSTITUTIONES APOSTOLICÆ.-LIB. III.
+
+# block=20
+798
+
+# block=19
+797
+
+# block=5
+διάκονος ἀλείψει αὐτάς· οὐ γὰρ ἀνάγκη τὰς γυναῖ-
+κας ὑπὸ ἀνδρῶν κατοπτεύεσθαι· ἀλλὰ, μόνον ἐν τῇ
+χειροθεσίᾳ (88), τὴν κεφαλὴν αὐτῆς χρίσει ὁ ἐπίσκο-
+πος, ὃν τρόπον οἱ ἱερεῖς καὶ οἱ βασιλεῖς τὸ πρότερον
+ἐχρίοντο· οὐχ ὅτι καὶ οἱ νῦν βαπτιζόμενοι, ἱερεῖς
+χειροτονοῦνται, ἀλλ' ὡς ἀπὸ τοῦ Χριστοῦ Χριστια-
+νοὶ (89), βασίλειον ἱεράτευμα, καὶ ἔθνος ἅγιον, 'Εκ-
+κλησία Θεοῦ, στύλος καὶ ἑδραίωμα τοῦ νυμφῶνος ¹⁸ · οἱ
+ποτὲ οὐ λαὸς, νῦνδὲ ἠγαπημένοι (90) καὶ ἐκλεκτοὶ · οἷς
+ἐπεκλήθη (91) τὸ καινὸν αὐτοῦ ὄνομα· ὡς μαρτυρεῖ καὶ
+Ἠσαΐας ὁ προφήτης, λέγων· «Καὶ καλέσουσι τὸν λαὸν
+τὸ ὄνομα αὐτοῦ τὸ καινὸν, ὃ ὁ Κύριος ὀνομάσει αὐτόν. »
+
+# block=3
+sacerdotes et reges antiquitus ungebantur : non
+quod qui nunc baptizantur, ordinentur sacerdotes ;
+sed quia fiunt a Christo Christiani (hoc est, un-
+ctionis cognomines), regale sacerdotium, et gens
+sancta ¹⁶, Ecclesiæ Dei, columna et firmamentum
+præsentis luminis ¹⁷ : qui aliquando non populus;
+nunc autem dilecti et electi; super quos invocatum
+est novum nomen ejus; ut testatur Isaias prophe-
+ta, dicens : « Et vocabunt populum nomine ejus
+novo, quo Dominus nominabit illum ¹⁹. »
+
+# block=22
+CAPUT XVI.
+
+# block=21
+ΚΕΦΑΛΑΙΟΝ ΙϚ'.
+
+# block=15
+De divina sancti baptismi initiatione.
+
+# block=14
+Περὶ μυήσεως θείας τοῦ ἁγίου βαπτίσματος.
+
+# block=2
+Σὺ οὖν, ὦ ἐπίσκοπε, ἐκείνῳ τῷ τύπῳ χρίσεις τὴν
+κεφαλὴν τῶν βαπτιζομένων, εἴτε ἀνδρῶν εἴτε γυναι-
+κῶν, τῷ ἁγίῳ ἐλαίῳ, εἰς τύπον τοῦ πνευματικοῦ
+βαπτίσματος (92) · ἔπειτα ἢ σὺ ὁ ἐπίσκοπος, ἢ ὁ ὑπὸ
+σὲ πρεσβύτερος τὴν ἱερὰν ἐπ' αὐτοῖς εἰπὼν καὶ ἐπο-
+νομάσας ἐπίκλησιν Πατρὸς καὶ Υἱοῦ καὶ ἁγίου Πνεύ-
+ματος, βαπτίσεις αὐτοὺς ἐν τῷ ὕδατι· καὶ τὸν μὲν
+ἄνδρα ὑποδεχέσθω ὁ διάκονος (93) · τὴν δὲ γυναῖκα ἡ
+διάκονος (94) · ὅπως σεμνοπρεπῶς ἡ μετάδοσις τῆς
+ἀθραύστου σφραγῖδος γένηται. Καὶ μετὰ τοῦτο ὁ ἐπί-
+σκοπος χριέτω τοὺς βαπτισθέντας τῷ μύρῳ (95).
+
+# block=7
+Tu igitur, episcope, ad illam formam caput eo-
+rum qui baptizantur, sive viri sint, sive mulieres,
+unges oleo sancto, in figuram spiritualis baptismi.
+Deinde aut tu, episcope, aut tibi subjectus presby-
+ter, sacram super eos proferens nominatim invoca-
+tionem Patris, et Filii, et Spiritus sancti, bapti-
+zabis eos in aqua. Ac virum quidem suscipiat dia-
+conus ; mulierem vero diaconissa : ut cum decenti
+gravitate collatio sigilli infragilis peragatur. Et
+postea episcopus baptizatos ungat chrismate.
+
+# block=11
+¹⁶ I Pet. II, 9. ¹⁷ I Tim. III, 15. ¹⁸ al. νῦν φωτός. ¹⁹ Isa. LXII, 2.
+
+# block=12
+VARIORUM NOTÆ.
+
+# block=8
+Et cap. seq. τὸ ἔλαιον, ἀντὶ Πνεύματος ἁγίου. Li-
+bro autem VII, cap. 22 : Ἵνα τὸ μὲν χρίσμα μετοχὴ
+ᾖ τοῦ ἁγίου Πνεύματος. Quia, scilicet, teste Theo-
+dulfo, lib. De ordine Baptismi cap. 10: In olei no-
+mine intelligitur unctio sancti Spiritus. Origenes in
+fine homiliæ 8 in Leviticum; Donum autem gratiæ
+Spiritus, per olei imaginem designatur. Cor.
+(93) Καὶ τὸν μὲν ἄνδρα ὑποδεχέσθω ὁ διάκο-
+νος. Masculi masculos, feminæ feminas de bapti-
+smo suscipiebant, juxta canonem 22 aut 24 Ni-
+cænum Arabicum, et Æthiopicum. In Actis S. Se-
+bastiani : Omnes isti sexaginta octo, a S. Polycarpo
+presbytero baptizati, et a S. Sebastiano suscepti
+sunt : feminarum autem matres factæ sunt Beatrix
+et Lucina. Vita S. Epiphanii, sect. 8 : Ὃς καὶ πατὴρ
+αὐτοῦ (ita lego cum interprete) ἐγενήθη ἐπὶ τοῦ
+ἁγίου φωτίσματος. Qui Lucianus etiam fuit pater
+ejus Epiphanii in sancto baptismate. Paucisque in-
+terpositis : Βερνίκην τὴν ἁγίαν παρθένον, ἥτις ἐγέν
+νετο μήτηρ τῆς ἀδελφῆς Ἐπιφανίου. Quæ sic ver-
+tenda : Bernicem sanctam virginem, quæ mater,
+spiritualis, intellige, fuerat sororis Epiphanii. Per-
+peram enim interpres, cum non posset concoquere
+in virgine nomen matris, transformavit matrem
+sororis in sororem matris. ID.
+(94) Διάκονος. Hic et infra διακόνισσα habet al-
+ter cod. Vind. CLER.
+(95) Καὶ μετὰ τοῦτο ὁ ἐπίσκοπος, etc. Seu il-
+los sacramento confirmationis donet. Unde cap.
+seq. μύρον dicitur βεβαίωσις τῆς ὁμολογίας, confir-
+matio confessionis. In Rituali Græcorum, pag. 368:
+Τὸ χρίσμα τοῦ μύρου βεβαιοῖ τὴν πίστιν. Unguenti
+chrisma fidem confirmat. Ambrosiaster in caput VI
+Epistolæ ad Hebræos : Impositionis manuum, per
+quam Spiritus sanctus accipi posse (Primasius et
+Haymo videntur legisse plenissime) creditur : quod
+post baptismum ad confirmationem unitatis in Ec-
+clesia Christi a pontificibus fieri solet. Lege infra
+cap. 44, lib. VII. Cor.
+
+# block=9
+quentia : Cyrilli Hierosolymitani Catechesi mysta-
+gogica 2; Chrysostomi sub finem orationis 6, in
+Epistolam ad Coloss.; Dionysii cap. 2 Cœlestis hie-
+rarchiæ; auctoris Responsorum ad Orthodoxos, in
+operibus Justini Martyris, quæst. 157; Ambrosii, I
+De sacramentis, 2; Augustini Sermone de illitu neo-
+phytorum, et Serm. de mysterio baptismatis; Theo-
+dulti De ordine baptismi, cap. 10; concilii Matisco-
+nensis 11, can. 3; et Capitularium lib. I, cap. 162;
+seu concilii Meldensis, cap. 1; apud Ivonem, parte I
+Decreτι, cap. 269. Infeliciter porro lacunam in Re-
+sponsione supposititii Justini supplere tentarunt
+interpreτες : Ἐπειδὴ ἃ ποιεῖ... τὸν ἐνταφιασμὸν μετὰ
+τὸν θάνατον αὐτοῦ ποιεῖ τοῦ ἐνταφιαζομένου, repo-
+nendo, sive ἡ Μαρία, πρός, sive ἡ μυρίζουσα τὸν
+Κύριον, πρός, contra contextus sensum, qui sane
+hæc aut similia postulat : ἡ Ἐκκλησία, πρός, quem-
+admodum legenti clarum fiet. Nec felicius paulo
+post expungunt vocem παλαιῷ, ex isto commate,
+χριόμεθα δὲ παλαιῷ ἐλαίῳ, ἵνα γινώμεθα χριστοί ·
+substluuntque ἁπλῶ : non considerantes solemnem
+apud Patres allusionem ad Veteris Testamenti
+oleum, quo reges ac sacerdotes ungebantur, ideoque
+appellabantur christi. Codex Regius 2392 : Ἐκ τῶν
+Διατάξεων· "Ὅτι γυναῖκα βαπτιζομένην, ὁ ἐπί-
+σκοπος μόνην τὴν κεφαλὴν χρίει· ὁ δὲ διάκονος,
+τὸ στόμα καὶ τὸ στῆθος, ἡ δὲ διακόνισσα, ὅλον
+τὸ σῶμα. Cor. — 'O. Melius ὁ γάρ, ut habet alter
+cod. Vind. omisso μέν quod sequitur. CLER.
+(88) Ἐν τῇ χειροθεσίᾳ. Hæc impositio manuum
+super baptizandos, tempore baptismi, nota est ex
+Ritualibus, ex Dionysio, ex aliis. Cor.
+(89)Χριστιανοί. Subjicitur in altero cod. καλοῦν-
+ται, nec male. CLER.
+(90) Ἠγαπημένοι. In singulari ἠγαπημένος καὶ
+ἐκλεκτός, in eodem. ID.
+(91) Οἷς ἐπεκλήθη, etc. Ad finem capitis desunt
+in altero cod. ID.
+(92) Εἰς τύπον τοῦ πνευματικοῦ βαπτίσματος.

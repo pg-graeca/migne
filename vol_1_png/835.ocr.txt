@@ -1,0 +1,191 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,943,834,1692,1433
+2,940,1544,1684,1968
+3,155,835,908,1437
+4,152,1542,901,1970
+5,947,143,1691,610
+6,163,143,915,698
+7,971,760,1663,828
+8,154,2014,1678,2092
+9,146,2199,899,2702
+10,1183,1452,1410,1489
+11,1235,714,1403,749
+12,393,719,666,751
+13,580,87,1302,124
+14,762,2131,1060,2166
+15,1188,1492,1453,1530
+16,145,762,929,827
+17,930,2203,1683,2708
+18,165,92,230,125
+19,394,1502,664,1534
+20,409,1458,654,1491
+21,1609,84,1699,124
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=943 source_y1=834 source_x2=1692 source_y2=1433
+Quæ igitur prima erant hujus orationis exposui-
+mus, de charismatibus, quæcunque Deus juxta vo-
+luntatem suam præbuit hominibus ; et quo modo
+eorumqui mendacia loqui aggrediebantur, aut alieno
+spiritu movebantur, mores confutavit ; et quod
+sæpe Deus improbis ad prophetiam et miraculorum
+editionem elargitus est³⁶ gratiam suam. Nunc vero
+ad præcipuum ecclesiasticæ dispositionis, oratio
+nos pertrahit ; ut et hanc a nobis discentes consti-
+tutionem, vos qui Christi nutu per nos ordinati estis
+episcopi, omnia faciatis secundum mandata a nobis
+tradita ; scientes quod qui nos audit, Christum au-
+dit ; qui vero Christum audit, Deum ejus ac Patrem
+audit³⁷ ; cui gloria in sæcula. Amen.
+
+# block=2 source_x1=940 source_y1=1544 source_x2=1684 source_y2=1968
+Simul igitur existentes, nos duodecim Domini
+apostoli, hasce divinas Constitutiones nostras de
+omni ecclesiastico ordine injungimus ; una præ-
+sentibus, tum electionis vase Paulo coapostolo
+nostro, tum Jacobo episcopo, tum reliquis pre-
+sbyteris, ac septem diaconis. Primus igitur ego
+Petrus aio, ordinandum esse episcopum, ut in
+superioribus omnes pariter constituimus, inculpa-
+tum in omnibus, electum a cuncto populo ut præ-
+stantissimum. Quo nominato et placente, congre-
+
+# block=3 source_x1=155 source_y1=835 source_x2=908 source_y2=1437
+Τὰ μὲν οὖν πρῶτα τοῦ λόγου ἐξεθέμεθα, περὶ τῶν
+χαρισμάτων, ὅσαπερ ὁ Θεὸς κατ' ἰδίαν βούλησιν παρ-
+έσχεν ἀνθρώποις · καὶ ὅπως τῶν ψευδῆ ἐπιχειρούν-
+των λέγειν, ἢ ἀλλοτρίῳ πνεύματι κινουμένων, ἤλεγξε
+τὸν τρόπον· καὶ ὅτι πονηροῖς πολλάκις ἀπεχρήσατο³⁵
+(85) ὁ Θεὸς πρὸς τε προφητείαν καὶ τερατουργίαν. Νυνὶ
+δὲ ἐπὶ τὸ κορυφαιότατον τῆς ἐκκλησιαστικῆς διατυ-
+πώσεως ὁ λόγος ἡμᾶς ἐπείγει· ὅπως καὶ ταύτην παρ'
+ἡμῶν μαθόντες τὴν διάταξιν, οἱ ταχθέντες δι' ἡμῶν
+γνώμῃ Χριστοῦ ἐπίσκοποι, πάντα κατὰ τὰς παραδο-
+θείσας ἡμῖν ἐντολὰς ποιῆσθε· εἰδότες ὅτι ὁ ἡμῶν
+ἀκούων, Χριστοῦ ἀκούει· ὁ δὲ Χριστοῦ ἀκούων, τοῦ
+Θεοῦ αὐτοῦ καὶ Πατρὸς ἀκούει· ᾧ ἡ δόξα, εἰς τοὺς
+αἰῶνας. Ἀμήν.
+
+# block=4 source_x1=152 source_y1=1542 source_x2=901 source_y2=1970
+Ἄμα τοίνυν ὑπάρχοντες ἡμεῖς οἱ δεκάδυο τοῦ Κυ-
+ρίου ἀπόστολοι τάσδε τὰς θείας ἡμῶν (86) ἐντελλό-
+μεθα διατάξεις περὶ παντὸς ἐκκλησιαστικοῦ τύπου,
+συμπαρόντων ἡμῖν καὶ τοῦ τῆς ἐκλογῆς σκεύους Παύ-
+λου τοῦ συναποστόλου ἡμῶν, καὶ Ἰακώβου τοῦ ἐπι-
+σκόπου, καὶ τῶν λοιπῶν πρεσβυτέρων, καὶ τῶν ἑπτὰ
+διακόνων· πρῶτος οὖν ἐγώ φημι Πέτρος (87), ἐπίσκο-
+πον χειροτονεῖσθαι ὡς ἐν τοῖς προλαβοῦσιν ἅμα πάν-
+τες διεταξάμεθα, ἐν πᾶσιν ἄμεμπτον, ἀριστίνδην (88)
+ὑπὸ παντὸς τοῦ λαοῦ ἐκλελεγμένον. Οὗ ὀνομασθέντος
+
+# block=5 source_x1=947 source_y1=143 source_x2=1691 source_y2=610
+bora ³⁰; postque illas Holda ³⁰* et Juditha ³¹, illa sub
+Josia, hæc sub Dario, Mater etiam Domini prophe-
+tavit; et Elisabeta cognata ejus, et Anna ³²; ac no-
+stra ætate filiæ Philippi ³³. Verumtamen illæ non se
+adversum viros extulerunt ; sed custodierunt mo-
+dum suum. Itaque si et in vobis vir quispiam sit,
+aut mulier, alicujus hujusmodi gratiæ particeps,
+humiliter de se sentiat, ut Deum habeat benevo-
+lum : « Super quem enim, inquit, respiciam, nisi
+super humilem et quietum, et trementem sermones
+meos ³⁴ ? »
+
+# block=6 source_x1=163 source_y1=143 source_x2=915 source_y2=698
+θεοφιλεῖς ὄντες. Προεφήτευσαν δὲ καὶ γυναῖκες· τὸ
+μὲν παλαιὸν Μαριὰμ ἡ Μωϋσέως καὶ Ἀαρὼν ἀδελφή·
+μετὰ δὲ ταύτην Δέββοῤῥα· καὶ μετὰ ταύτας, Ὀλδὰ
+καὶ Ἰουδήθ, ἡ μὲν ἐπὶ Ἰωσίου, ἡ δὲ ἐπὶ Δαρείου (83).
+Καὶ ἡ μήτηρ δὲ τοῦ Κυρίου προεφήτευσε, καὶ Ἐλι-
+σάβετ ἡ συγγενὴς αὐτῆς, καὶ Ἄννα· καὶ ἐφ' ἡμῶν αἱ
+Φιλίππου θυγατέρες. Ἀλλ' οὐκ ἐπήρθησαν κατὰ τῶν
+ἀνδρῶν αὗται, ἀλλ' ἐφύλαξαν τὰ οἰκεῖα μέτρα. Οὐκ-
+οὖν καὶ ἐν ὑμῖν κἂν ἀνήρ τις ᾖ, κἂν γυνὴ, καὶ τύχῃ
+τοιαύτης τινὸς χάριτος, ταπεινοφρονείτω, ἵνα ἐπ'
+αὐτῷ εὐδοκῇ ὁ Θεός· « Ἐπὶ τίνα γὰρ, φησὶν, ἐπιβλέ-
+ψω, ἀλλ' ἢ ἐπὶ τὸν ταπεινὸν καὶ ἡσύχιον, καὶ τρέ-
+μοντά μου τοὺς λόγους ; »
+
+# block=7 source_x1=971 source_y1=760 source_x2=1663 source_y2=828
+Quod constituere ea quæ in Ecclesiis peraguntur
+summum ac potissimum sit.
+
+# block=8 source_x1=154 source_y1=2014 source_x2=1678 source_y2=2092
+³⁰ Judic. IV, 4. ³⁰* IV Reg. XXII, 14. ³¹ Judith. VIII. ³² Luc. I, 11. ³³ Act. XXI, 9. ³⁴ Isa. LXVI, 2.
+³⁵ al. ἀπεχρήσατο. Sic et alter Vind. ³⁶ usus est. ³⁷ Luc. X, 16.
+
+# block=9 source_x1=146 source_y1=2199 source_x2=899 source_y2=2702
+(83) Ἐπὶ Δαρείου. Huc specialiter, in difficili
+multumque ac varie agitata quæstione chronologica,
+pertinet ingens error Cedreni, ubi de Judithæ tem-
+poribus ac historia, quod Cambyses Cyri filius Da-
+rius etiam appellatus fuerit. Ideo quippe ita con-
+finxisse videtur, ut sententiam apostolici Constitu-
+toris conciliaret cum Julii Africani opinione. Euse-
+bius : Καμβύσην τινές φασι εἶναι Ναβουχοδονόσορ
+δεύτερον, τὸν κατὰ Ὁλοφέρνην καὶ τὴν Ἰουδίθ. Ὥσ-
+περ Ἀφρικανός. Eademque Georgius Syncellus ; ex
+quibus emaculabis Suidam in voce Ἰουδίθ, ad hunc
+modum : Ἰούλιος δὲ Ἀφρικανός λέγει, ὅτι Ναβουχοδο-
+νόσορ ὁ Καμβύσης (vel ὁ καὶ Καμβύσης) (male vulgo
+ὁ Καμβύσου) ἀναιρεῖται ὑπ' αὐτῆς. Atque ita vete-
+res codices Regii. COT.
+
+# block=10 source_x1=1183 source_y1=1452 source_x2=1410 source_y2=1489
+CAPUT IV.
+
+# block=11 source_x1=1235 source_y1=714 source_x2=1403 source_y2=749
+CAPUT III.
+
+# block=12 source_x1=393 source_y1=719 source_x2=666 source_y2=751
+. ΚΕΦΑΛΑΙΟΝ Γ'.
+
+# block=13 source_x1=580 source_y1=87 source_x2=1302 source_y2=124
+CONSTITUTIONES APOSTOLICÆ. -- LIB. VIII.
+
+# block=14 source_x1=762 source_y1=2131 source_x2=1060 source_y2=2166
+VARIORUM NOTÆ.
+
+# block=15 source_x1=1188 source_y1=1492 source_x2=1453 source_y2=1530
+De ordinationibus.
+
+# block=16 source_x1=145 source_y1=762 source_x2=929 source_y2=827
+Ὅτι (84) τὸ διατάσσεσθαι τὰ ἐν ταῖς ἐκκλησίαις
+ἐπιτελούμενα κορυφαιότατόν ἐστι.
+
+# block=17 source_x1=930 source_y1=2203 source_x2=1683 source_y2=2708
+(84) Ὅτι, etc. Deest inscriptio tota in utroque
+Vindob., CLER.
+(85) Ἀπεχρήσατο. Sic melius legas, vertasque :
+Abusus est Deus ad prophetiam, etc. Est enim veluti
+abusus, pravis instrumentis ad rem bonam uti. Ver-
+bum enim ἀποχράομαι non tantum cum accusativo,
+sed et cum dativo conjungitur. ID.
+(86) Τὰς θείας ἡμῶν. Aliter ὑμῶν. COT.
+(87) Πρῶτος, etc. Sic in altero cod. Vind. in-
+choatur caput : Πέτρος ὁ τῶν ἀποστόλων πρόκριτος
+ἐκήρυξε τὸ Εὐαγγέλιον Πόντῳ, Γαλλατίᾳ, Καππα-
+δοκίᾳ, Ἀσίᾳ, Βιθυνίᾳ, καὶ τελευταῖον ἐν Ῥώμῃ ἐν ᾗ
+καὶ ἐσταυρώθη ὑπὸ πραιφέκτου βασιλεύοντος Νέρω-
+νος, εἰς ἣν καὶ θάπτεται. CL.
+(88) Ἀριστίνδην. Deest in altero cod. Vind. ID.
+
+# block=18 source_x1=165 source_y1=92 source_x2=230 source_y2=125
+1069
+
+# block=19 source_x1=394 source_y1=1502 source_x2=664 source_y2=1534
+Περὶ χειροτονιῶν.
+
+# block=20 source_x1=409 source_y1=1458 source_x2=654 source_y2=1491
+ΚΕΦΑΛΑΙΟΝ Δ'.
+
+# block=21 source_x1=1609 source_y1=84 source_x2=1699 source_y2=124
+1070

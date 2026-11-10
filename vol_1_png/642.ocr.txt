@@ -1,0 +1,188 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,288,146,1037,489
+2,1072,155,1819,536
+3,1067,674,1823,1494
+4,287,1690,1041,1895
+5,284,630,1043,1497
+6,287,1893,1042,2693
+7,1320,557,1577,591
+8,289,551,1032,624
+9,316,1530,1585,1570
+10,693,92,1409,133
+11,1076,598,1820,665
+12,1069,1688,1827,2320
+13,902,1604,1195,1647
+14,1069,2318,1825,2691
+15,545,500,787,556
+16,285,86,361,140
+17,1757,98,1825,140
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+stras primitias ac decimas, vestra exceptitia ac
+munera; primitias frumenti, vini, olei, pomorum,
+lanæ, omnium denique quæ vobis Deus concesserit.
+Si ita te gesseris, erit oblatio tua accepta in odo-
+rem suavitatis Domino Deo tuo, et benedicet Do-
+minus operibus manuum tuarum, et multiplicabit
+bona terræ tuæ; quoniam « Benedictio in capite
+ejus qui largitur ²⁶. »
+
+# block=2
+ὑμῶν προσφέροντες αὐτῷ, τὰς ἀπαρχὰς ὑμῶν,
+καὶ τὰς δεκάτας ὑμῶν, καὶ τὰ ἀφαιρέματα ὑμῶν,
+καὶ τὰ δῶρα ὑμῶν διδόντες αὐτῷ ὡς ἱερεῖ Θεοῦ,
+ἀπαρχὴν σίτου, οἴνου, ἐλαίου, ὀπώρας, ἐρέας (23),
+καὶ πάντων ὧν Κύριος ὁ Θεὸς ἐπιχορηγεῖ ὑμῖν·
+καὶ ἔσται σοι ἡ προσφορά σου δεκτὴ εἰς ὀσμὴν
+εὐωδίας Κυρίῳ τῷ Θεῷ σου, καὶ εὐλογήσει Κύριος τὰ
+ἔργα τῶν χειρῶν σου, καὶ πληθυνεῖ τὰ ἀγαθὰ τῆς γῆς
+σου· ἐπείπερ « εὐλογία εἰς κεφαλὴν τοῦ μεταδιδόντος. »
+
+# block=3
+Χρὴ δὲ ὑμᾶς γινώσκειν, ὅτι εἰ καὶ ἐῤῥύσατο ὑμᾶς
+Κύριος τῆς δουλείας τῶν ἐπεισάκτων δεσμῶν, καὶ
+ἐξήγαγεν ὑμᾶς εἰς ἀνάψυξιν, μηκέτι ἐάσας ὑμᾶς
+θύειν ἄλογα ζῶα περὶ ἁμαρτιῶν, καὶ καθαρισμοῦ καὶ
+ἀποπομπαίων καὶ λουτρῶν συνεχῶν καὶ περιῤῥαντη-
+ρίων· οὐ δήπου καὶ τῶν εἰσφορῶν ὑμᾶς ἠλευθέρω-
+σεν (24), ὧν ὀφείλετε τοῖς ἱερεῦσι, καὶ τῶν εἰς τοὺς
+δεομένους εὐποιιῶν. Λέγει γὰρ ὁ Κύριος ὑμῖν ἐν τῷ
+Εὐαγγελίῳ· « Ἐὰν μὴ περισσεύσῃ ὑμῶν ἡ δικαιοσύνη
+πλεῖον τῶν γραμματέων καὶ Φαρισαίων, οὐ μὴ εἰσέλ-
+θητε εἰς τὴν βασιλείαν τῶν οὐρανῶν. » Οὕτως οὖν
+πλεονάσει ἡ δικαιοσύνη ὑμῶν, ἐν τῷ πλέον ὑμᾶς
+πρόνοιαν ποιεῖσθαι τῶν ἱερέων καὶ τῶν ὀρφανῶν καὶ
+τῶν χηρῶν καὶ πάντων δεομένων (25)· ὡς γέγραπ-
+ται· « Ἐσκόρπισεν, ἔδωκε τοῖς πένησιν, ἡ δικαιο-
+σύνη αὐτοῦ μένει εἰς τοὺς αἰῶνας. » Καὶ πάλιν·
+« Ἐλεημοσύναις καὶ πίστεσιν ἀποκαθαίρονται ἁμαρ-
+τίαι. » Καὶ πάλιν· « Ψυχὴ εὐλογημένη, πᾶσα
+ἁπλῆ (26). » Οὕτως οὖν ποιήσεις σὺ, ὡς ὁ Κύριος δι-
+
+# block=4
+(23) Ἐρέας. Ille Capellius, de quo paulo supra,
+vertendo sobolis, ostendit a se lectum γενέας. Vide
+lib. vii, cap. 29. ID. — Alter codicum Vindobon.
+ἐλαίας, olea, cujus decimæ solvebantur, cum sale
+conderetur, seorsum a decimis olei, quod e matu-
+rioribus oleis exprimitur. CLER.
+
+# block=5
+Scire autem vos oportet, quod licet liberaverit
+vos Dominus a servitute ascitorum vinculorum,
+eduxeritque in refrigerium ac recreationem, non
+amplius permittens vobis brutorum animantium
+sacrificia pro delictis; et licet exemerit vos ab ex-
+piationibus, victimis emissariis, lavationibus assi-
+duis, et lustralibus aspersionibus: neutiquam ta-
+men a collationibus, quas sacerdotibus debetis, vos
+liberavit, nec a munificentia erga pauperes. Vobis
+enim ait in Evangelio Dominus: « Nisi abundaverit
+justitia vestra plusquam scribarum et pharisæorum,
+non intrabitis in regnum cœlorum ²⁷. » Sic igitur re-
+dundabit justitia vestra, cum majorem sacerdotum,
+pupillorum, viduarum, egentiumque omnium curam
+gesseritis, sicut scriptum est: « Dispersit, dedit
+pauperibus, justitia ejus manet in sæcula ²⁸. » Et rur-
+sus: « Eleemosynis et fide purgantur peccata ²⁹. » Et
+iterum: « Anima quæ benedicit, tota recta est ³⁰. »
+Ita ergo tu facies, uti Dominus constituit; et sa-
+cerdoti tanquam mediatori inter Deum ac indigos
+
+# block=6
+(24) Οὐ δήπου καὶ τῶν εἰσφορῶν ὑμᾶς ἠλευ-
+θέρωσεν. Veteris legis decimæ, δεκάδαι, δευτερο-
+δεκάδαι, πτωχοδεκάδαι (ut cum Hieronymo loquar
+circa initium libri xiv in Ezechielem), primitiæ,
+portiones, voluntaria dona, ministeria, victimæ,
+fructus, vota, primitiva, primogenita, omnesque
+oblationes ac pensiones sacræ duo complecteban-
+tur; nimirum, naturale aliquid, et aliquid quod vo-
+cant positivum. Ad naturam, sive ad rectam ra-
+tionem moresque bonos pertinebat sacris operan-
+tium et paupertate afflictorum sustentatio per ejus-
+modi collationes; positivum vero et certis regulis a
+Deo determinatum erat reliquum. Atque posteriori
+quidem per Novum Testamentum abrogato, prius
+obligat etiam Christianos, qui tenentur, sive dando
+decimas et primitias, sive alio quo Ecclesiæ visum
+fuerit modo, clericorum et inopum necessitatibus
+subvenire. Hinc interdum Patres de decimis tan-
+quam abolitis disserunt, ut Epiphanius hæresi 8,
+cap. 6, et Chrysostomus homil. 74 in Matthæum;
+interdum non sublatas fuisse aiunt, ut fuse Ori-
+genes hom. 11 in Numeros, ubi consimiliter Δια-
+ταγεῖ adhibet testimonium Matth. v, 21, et obiter
+Chrysostomus oratione 5 adversus Judæos, atque
+
+# block=7
+ΚΕΦΑΛΑΙΟΝ ΛΕʹ.
+
+# block=8
+Quod Judaicæ leges, et Evangelium, præcipiant mu-
+nerum oblationem.
+
+# block=9
+²⁶ Prov. xi, 26. ²⁷ Matth. v, 28. ²⁸ Psal. cxi, 9. ²⁹ Prov. xv, 27. ³⁰ Prov. xi, 25.
+
+# block=10
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=11
+" Ὅτι παρακελεύονται οἱ νόμοι καρποφορεῖν· ὡσαύ-
+τως καὶ τὸ Εὐαγγέλιον.
+
+# block=12
+pseudo-Chrysostomus ad Matth. xxiii, 23. Præterea
+ad decimas Deo Ecclesiisque persolvendas habemus
+exhortationes SS. Ambrosii, Augustini, aliorum.
+Domos tunc, inquit martyr Cyprianus in fine tra-
+ctatus De unitate Ecclesiæ, et fundos venumdabant,
+et thesauros sibi in cœlo reponentes, distribuenda in
+usus indigentium pretia apostolis offerebant. At nunc
+de patrimonio nec decimas damus; et cum vendere
+jubeat Dominus, emimus potius et augemus. Et B.
+Hieronymus ad Malachiæ caput iii: Quod de de-
+cimis primitiisque diximus, quæ olim dabantur a po-
+pulo sacerdotibus ac levitis, in Ecclesiæ quoque po-
+pulis intelligite, quibus præceptum est, non solum
+decimas dare et primitias, sed et vendere omnia quæ
+habent, et dare pauperibus, et sequi Dominum Salva-
+torem. Quod si facere nolumus, saltem Judæorum
+imitemur exordia, ut pauperibus partem demus ex
+toto, et sacerdotibus ac levitis honorem debitum defe-
+ramus. COT.
+
+# block=13
+VARIORUM NOTÆ.
+
+# block=14
+(25) Καὶ πάντων δεομένων. Hæc verba in utro-
+que Vindobon. codice absunt. CLER.
+(26) Ψυχὴ εὐλογημένη, πᾶσα ἁπλῆ. Vulgata ex
+Hebræo Proverb. xi, 25 : Anima quæ benedicit, im-
+pinguabitur; LXX vero : Ψυχὴ εὐλογημένη, aut εὐ-
+λογουμένη, πᾶσα ἁπλῆ. Ubi Græcus explanator cum
+SS. Chrysostomo homil. 16 in Joannem, Ambrosio
+libro De Isaac et anima, cap. 2, Hieronymo lib. iii
+adversus Rufinum, cap. ult. (quo loci interpunctio
+mutari debet) verbum εὐλογοῦμαι in sensu passivo
+accipit; minus apte, si non ad mentem Senum,
+
+# block=15
+CAPUT XXXV.
+
+# block=16
+683
+
+# block=17
+.684

@@ -1,0 +1,149 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,992,541,1739,1446
+2,250,2622,1242,2696
+3,537,398,1387,437
+4,512,222,1441,289
+5,249,2391,1697,2477
+8,567,2208,1384,2274
+9,987,1455,1748,2055
+10,771,2570,1138,2608
+11,622,87,1336,123
+12,1661,80,1731,118
+13,704,326,1224,361
+14,220,87,291,119
+15,197,528,959,2066
+16,455,2310,1495,2384
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=35px
+# block=5 fontSize=16px
+# block=8 fontSize=32px
+# block=9 fontSize=15px
+# block=10 fontSize=18px
+# block=11 fontSize=16px
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=15px
+# block=16 fontSize=28px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+1188
+
+# block=14
+1187
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=4
+J. B. COTELERII JUDICIUM
+
+# block=13
+DE LIBRIS RECOGNITIONUM.
+
+# block=3
+(Patres apostolici, t. I, p. 490, ed. Amstælod. 1724, in-fol.)
+
+# block=15
+Quantum ex re ipsa, veterum testimoniis, ac re-
+centiorum judiciis colligere licet, libri isti pseude-
+pigraphi sunt et apocryphi, secundo sæculo compo-
+siti a viro docto quidem juxta ac diserto, sed phi-
+losopho magis et philologo quam theologo, in
+excogitandis autem connectendisque fictis narra-
+tionibus plane rudi. Isque videtur plerorumque
+aut saltem quorumdam apocryphorum parens, quæ
+nomen Petri vel Clementis præferebant : qualia
+etiam Actus Petri, Doctrina Petri, Judicium Petri,
+Apocalypsis seu Revelatio Petri, Prædicatio Petri,
+Evangelium Petri, Clementina, atque Disputatio
+Petri et Apionis. Quibus nunc adde ex conspectu
+Operum R. P. Joannis Michaelis Vanslebii ord.
+Prædicatorum, Epistolam Petri ad Clementem lin-
+gua Æthiopica. Inscribitur opus ex toto et ex par-
+tibus, idque vel a Clemente, vel a Petro, A Cle-
+mente vocatur, Clementis Recognitiones et Reco-
+gnitio ; Clementis Itinerarium, Gesta, Historia,
+Historia, Chronica ; et Clemens. A Petro, Petri Pe-
+riodi et Itinerarium ; Petri Actus, per Clementem
+scilicet, alii ab Actibus Petri quasi Petro actore ;
+et Disputatio Petri cum Apione, recte enim putatur
+pars esse operis. Codex Oxoniensis : B. Clementis
+Romani Itinerarium ad Jacobum fratrem Domini.
+Carmelitarum discalceatorum in hac urbe : Itine-
+rarium Clementis. Bibliothecæ Thuanæ : Liber Iti-
+nerarius Prædicationis Petri. Ms. V. cl. Petri Can-
+delerii : Gesta Clementis. Regis Christianissimi,
+et Sorbonæ nostræ, atque Petri Petiti typographi
+regii : Historia Clementis. Liber Monachensis bi-
+bliothecæ : S. Martyris Clementis episcopi Romæ
+S. Petri discipuli Narratio missa ad Jacobum fra-
+trem Domini, episcopum Hierosolymorum. Joannes
+Antiochenus in Appendice concilii Basileensis, in
+
+# block=1
+Chronicis Clementis. Rufinus vero perorans ad
+translationem suam Commentariorum Origenis in
+Epistolam ad Romanos non quidem juxta editiones,
+verum ex optimo ms. bibliothecæ Thuanæ, sic lo-
+quitur: Post hoc sane vocat nos opus, quod olim
+quidem injunctum est, sed nunc a beato Gaudentio
+episcopo vehementius perurgetur, Clementis scilicet
+Romani episcopi, apostolorum comitis ac succes-
+soris, de Recognitione libri, ut in Latinum vertan-
+tur. In quo opere, bene novi quod laborem labor
+multiplicata sorte suscipiet. Satisfaciam sane in eo
+amicis meis. Dabo titulo nomen meum, auctoris
+nihilominus vocabulo permanente. Nam Rufini Cle-
+mens inscribetur. Accedit ad nominis varietatem,
+multo majoris momenti diversitas textus ac per-
+versio : varie quippe et miseris modis distractus,
+divisus, interpolatus, auctus, minutus, atque in
+compendium redactus fuit, nec non per hæreticos
+corruptus, insertis multis erroribus ; quorum par-
+tem tollere labor exstitit cum Rufini interpretis,
+tum illius qui Epitomen fecit.
+
+# block=9
+Rufini Torani, sive, ut alii appellant, Turanii,
+Torannii, Turrantii, Tyrannii, esse præfationem
+cum sequenti versione stylus clamat, ostenduntque
+Gennadius, Adhelmus, Anastasius Bibliothecarius,
+atque ipse Rufinus : itemque Excalceatorum Car-
+melitarum liber, qui sic incipit : Rufini presbyteri
+præfatio ad Gaudentium pontificem in Itinerarium
+Clementis, ab eo ex Græco in Latinum conversum. Et
+post præfationem, Clementisque ad Jacobum epi-
+stolam, scriptum habet : Itinerarii Clementis Petri
+apostoli successoris liber primus incipit a Rufino
+traductus. Quod si quis objecerit epistolam Paulini
+47, is responsum feret nec illam esse indubiæ au-
+ctoritatis, nec in ea mentionem fieri Recognitionum.
+
+# block=8
+DE AUCTORE ANONYMO
+
+# block=16
+RECOGNITIONUM CLEMENTINARUM.
+
+# block=5
+(GALLAND., Vet. Patr. II, XXXII, ex Historia Litteraria Aquileiensi V. C. Justi Fontanini, lib. v,
+cap. 10.)
+
+# block=10
+SYNOPSIS CAPITUM.
+
+# block=2
+I. Auctor Recognitionum inquiritur.
+II. Ejusdem ætas statuitur. Cur opus titulo Recognitionum inscriptum.

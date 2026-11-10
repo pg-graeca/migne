@@ -1,0 +1,89 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1187,1079,1800,1587
+2,1189,1615,1801,2412
+3,263,1060,1160,2460
+4,1178,167,1792,776
+5,259,169,1150,931
+6,1390,983,1581,1024
+7,643,96,1422,136
+8,1735,100,1797,146
+9,245,106,341,140
+10,527,958,851,1054
+11,311,2484,1089,2536
+12,631,2572,1079,2710
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=8
+384
+
+# block=9
+383
+
+# block=4
+operum ex timore Dei profluentium :
+sicque adimplentur Christi verba :
+Videant opera vestra bona, et glori-
+ficent Patrem vestrum qui in cælis
+est ⁵¹. Igitur in omni verbo et ope-
+re perfectus sit homo Dei necesse
+est et in conversatione ornatus, ita
+ut ab illo omnia honeste et secundum
+ordinem fiant ⁵², et omnes actus
+illius in justitia peragantur, ut vi-
+rum Dei decet.
+
+# block=6
+CAPUT III.
+
+# block=1
+Hoc modo utriusque sexus virgines
+credentibus et credituris mirifica
+virtutum exempla præbebunt. Et
+vero, solum nomen, si desint opera,
+in regnum cælorum non introducit,
+cum solus ille salvari queat qui vere
+fidelis fuerit, nullatenus autem qui
+nomine tantum fidelis vocatur,
+quemque opera infidelem arguunt.
+
+# block=2
+Itaque nemo vos seducat inanibus
+verbis⁵³ : etenim, quod vir aut mulier
+virginitatis nomen gestent, non pro-
+pterea eorum salus in tuto esse po-
+test, si non exhibeant opera fructi-
+bus plena, splendentia et virginitati
+consentanea : fatuam quippe Domi-
+nus talem virginitatem in Evangelio
+nuncupat, quæ cum oleo careat et
+luce, foris remanet, regno cælorum
+extranea, gaudio sponsi aliena, et
+inter inimicos sponsi computata. De
+talibus enim scriptum est : Haben-
+tes speciem quidem pietatis, virtutem
+
+# block=11
+⁵¹ Matth. v, 16.  ⁵² I Cor. xiv, 40.  ⁵³ Ephes. v, 6.

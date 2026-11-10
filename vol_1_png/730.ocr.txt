@@ -1,0 +1,237 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1033,1020,1807,1808
+2,293,160,1040,328
+3,1060,461,1818,1023
+4,890,397,1189,444
+5,280,453,649,858
+7,704,101,1410,150
+8,283,2680,1388,2735
+10,321,348,696,389
+11,247,1713,1001,2671
+12,1069,164,1817,342
+13,1747,120,1821,164
+14,291,102,371,142
+15,661,458,1025,854
+16,261,856,1023,1390
+17,1031,2624,1711,2684
+18,1027,1808,1777,2606
+19,263,1390,1003,1720
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=14
+859
+
+# block=13
+860
+
+# block=2
+Epiphaniæ sit vobis maxime honorabilis, in quo
+Dominus nobis divinitatem suam patefecit; is au-
+tem agatur sexta decimi mensis. Post quos dies,
+servandum vobis est jejunium Quadragesimæ, con-
+
+# block=12
+ἐπιφάνιος⁷⁶ (62) ὑμῖν ἔστω τιμιωτάτη (63), καθ' ἣν
+ὁ Κύριος ἀνάδειξιν ὑμῖν⁷⁷ τῆς οἰκείας θεότητος ἐποιή-
+σατο· γινέσθω δὲ καὶ αὕτη ἕκτη τοῦ δεκάτου μηνός
+(64). Μεθ' ἃς (65) ὑμῖν φυλακτέα ἡ νηστεία τῆς Τεσ-
+
+# block=10
+⁷⁶ ἐπιφανειῶν. ⁷⁷ f. ἡμῖν.
+
+# block=4
+VARIORUM NOTÆ.
+
+# block=5
+βόλου, τῇ ιδ' τοῦ Φε-
+βρουαρίου μηνός. Ἐγέ-
+νετο δὲ τὸ σωτήριον πά-
+θος τοῦ Κυρίου, ἐν ἔτει
+,εφλθ'. Τὰ δὲ πάντα ἔτη
+αὐτοῦ τῆς ἐνσάρκου ζωῆς
+λγ'. Ἐν τῇ κγ' τοῦ Μαρ-
+τίου μηνὸς ἐσταυρώθη ἐν
+τῇ ιδ' τῆς σελήνης ἡμέ-
+ρᾳ, παρασκευῇ, τῇ ἑορτῇ
+τῶν Ἰουδαίων, ἐν ὥρᾳ ϛ'.
+Καὶ ἀνέστη τῇ κε' τοῦ αὐ-
+
+# block=15
+anno 5539. Cæterum cun-
+cti anni vitæ Christi in
+carne 33. Die Martii 23,
+cruci affixus est, 14 lunæ
+die, in Parasceve et Judæo-
+rum festo, hora 6. Resur-
+rexitque 25 ejusdem men-
+sis, hora 6 noctis. Et as-
+sumptus est in cælos 3 Maii,
+hora nona diei, post qua-
+draginta dies a Resurre-
+ctione sua (a).
+
+# block=3
+ea quæ diximus, Epiphania divisa fuit in primam
+et secundam: Duæ sunt autem Epiphaniæ, ait Isido-
+rus, Originum vi, 18: prima, in qua natus Christus
+pastoribus Hebræorum angelo nuntiante apparuit; se-
+cunda, in qua ex gentium populis stella indice præse-
+pis cunabula magos adoraturos exhibuit. Cui parti-
+tioni suffragatur Rufinus, dum Gregorii Nazianzeni
+orationi 39 titulum facit, De secundis Epiphaniis,
+in codice Divionensi, quem ad Virgilium Tapsen-
+sem laudat Chiffletius, cujusque lectionem confir-
+mat Adrianus papa scribens ad Carolum Magnum
+pro synodo Nicæna ii, per citationem hujusmodi:
+Item S. Gregorii theologi de secundis Epiphaniis.
+Pari vero ratione Natale Dominicum dividi potest
+in prius ac posterius, ex loco proxima nota lau-
+dando, et ex sermone Ambrosiano 17, quem con-
+sulat studiosus lector. Id.
+
+# block=16
+τοῦ μηνός, ἐν ὥρᾳ ϛ' τῆς νυκτὸς καὶ ἀνελήφθη
+εἰς τοὺς οὐρανοὺς τῇ γ' τοῦ Μαΐου μηνός, ὥρᾳ θ' τῆς
+ἡμέρας μετὰ μ' ἡμέρας τῆς αὐτοῦ ἀναστάσεως. Cot.
+(62) Ἡ ἐπιφάνιος. Niconis Pandectes ineditus
+λόγῳ νζ': τὴν ἐπιφάνειαν. Anastasii quæstiones ex-
+cusæ, τὴν ἐπιφανειῶν: at manu scriptæ in biblio-
+theca Regis, τὴν ἐπιφάνιον, cod. 1326, 1789, τὴν ἐπι-
+φάνειαν, cod. 200, ut in typico fol. 135 et τὴν ἐπιφά-
+νειον, cod. 1110, 2347. Vide infra lib. viii, cap. 33.
+Epiphaniorum et Epiphaniæ, Theophaniorum et
+Theophaniæ nomina ambigua sunt apud auctores.
+Interdum enim pro uno eodemque festo sumun-
+tur: ut in Codino, in libro Sacramentorum S. Gre-
+gorii, in libro De divinis officiis, qui Alcuino tri-
+buitur, et in Ordine Romano. Unde codex viri cla-
+rissimi Claudii Jolii loco tituli orationis 39, Gre-
+
+# block=1
+(63) Ἔστω τιμιωτάτη. Hinc forte Æthiopes in
+confessione fidei suæ adeo extollunt hoc festum
+Epiphaniorum Domini. Nec prætereundum est, ap-
+posite dicitur in Ordine Romano, et in libro De offi-
+ciis divinis, quod hæc secunda Nativitas Christi, tot
+illustrata mysteriis, honoratior sit quam prima. Qui-
+bus haud absimilia Proclus oratione in sancta Theo-
+phania, qui dicitur Epiphanius oratione in Domini
+Assumptionem, et Ambrosius in sermone 18. Vide
+clarissimum Allatium De Dominicis et hebdomadibus
+Græcorum, p. 1471. Id.
+(64) Ἔκτη τοῦ δεκάτου μηνός. Ita semper Latini
+et fere omnes alii. Exceptis Basilidianis, apud
+Alexandrinum Clementem Strom. i, p. 340 memo-
+ratis, qui 15 mensis Tybi hoc festum celebrabant,
+id est 10 Januarii; cum quidam in Tybi 11, Janua-
+rii 6, recte baptismum Christi collocarent. Excepto
+præterea S. Epiphanio, cujus peculiaris sententia,
+de Christo baptizato die 8 Novembris, exstat in Pa-
+nario, hær. 51, n. 16, 24 et 28. Item Asianis, circa
+quorum ritum Theophania peragendi Januar. 5 ope-
+ræ pretium fuerit legere præclaram observationem
+Jac. Usserii, de anno solari Macedonum et Asiano-
+rum lib. ii. Cæterum præsens locus exigit, ut saltem
+
+# block=19
+gorii Nazianzeni, εἰς τὰ ἅγια φῶτα τῶν ἐπιφανίων,
+ostendit, εἰς τὰ ἅγια θεοφάνια, et ejusdem Patris
+oratio 38, εἰς τὰ θεοφάνια, inscribitur a Rufino in-
+terprete, De Epiphaniis, citaturque a Leone papa,
+epist. 97, cap. 9, De Epiphania. In catologo autem
+Gennadii, cap. 21, 40, 58, editiones variant de no-
+mine Theophaniæ seu Epiphaniæ. Interdum vero
+dicta nomina duos festos dies significant. Quare
+Theodorus Studita catechesim Post lumina, quæ in-
+ter Latine cusas trigesima septima ita est, orditur
+
+# block=11
+in codice Regio 2340, αἱ ἑορταὶ ἤδη παρῆλθον, τά τε
+θεοφάνια, καὶ ἐπιφάνια (ms. 2376 τά τε θεοφάνεια καὶ
+ἐπιφάνεια). Hoc est, interprete Livineio: Jam feriæ
+transiere cum Natalis, tum Epiphania. Aliquando
+sunt Natale Domini; aliquando dies baptismi Christi,
+et adorationis magorum. Sic invenias pro γενεθλίοις,
+τὰ θεοφάνια et θεοφάνεια apud Basilium, homil. 25;
+Nazianzenum, orat. 39; Epiphanium, hæres. 51, n.
+29; Isidorum Pelusiotam lib. iii, epist. 110, et τὰ
+ἐπιφάνια apud Epiphanium ibidem n. 16, 27, ac in
+Expositione fidei, n. 22; Chrysostomum, serm. 36,
+De diversis, et Suidam. Contra vero pro altero festo
+τὰ θεοφάνια leges in Chrysostomo, homil. de B. Phi-
+logonio; in eo qui putatur Gregorius Thaumaturgus
+serm. 4; in Epiphaniana oratione de Christi As-
+sumptione; S. Proclo orat. 7; in Georgio Alexan-
+drino De vita Chrysostomi, n. 30; in Kalendario Græ-
+corum, et alibi; Theophaniam autem in S. Gregorio,
+homil. 38 in Evangelia; Amalario, lib. iv, cap.
+33; Martyrologio Wandalberti, et Capitulis Ahyto-
+nis. Denique Epiphaniæ et Epiphaniorum nomine
+hoc secundo sensu nihil usitatius. Imo juxta S. Chry-
+sostomum, homilia de baptismo Christi, dies Nati-
+vitatis Dominicæ non appellatur ἐπιφάνεια: Et S. Hie-
+ronymus, initio Commentariorum in Ezechielem,
+hanc acceptionem Epiphaniorum videtur impro-
+bare; quia in Natali Christus absconditus est, et
+non apparuit. Latini apparitionem, ostensionem et
+manifestationem Domini nuncuparunt. Atque propter
+
+# block=18
+paucis agatur de celebri illa confusione solemnita-
+tum Natalis et Epiphaniæ, apud Hierosolymitanos,
+Orientales, Ægyptios et Armenios: cujus pertur-
+bationis in genere mentionem facit auctor homiliæ
+De Epiphania Domini, parte ii, operum Origenis.
+Quo et referendus forsan Ammiani Marcellini
+lib. xxi, de Juliano Apostata locus: Feriarum die,
+quem celebrantes mense Januario Christiani Epipha-
+nia dictitant, progressus in eorum ecclesiam solem-
+niter numine orato discessit, collatus cum verbis
+Zonaræ tom. iii Annalium: Αὐτὸς δὲ τῆς γενεθλίου
+τοῦ Σωτῆρος ἡμέρας ἐφεστηκυίας εἰσῆλθεν εἰς τὸν
+ναὸν, καὶ προσκυνήσας ἵνα ὁμόδοξος τοῖς στρατιώταις
+δοχῇ ἀπῆλθε. Ipse vero Julianus natali Salvatoris die,
+ecclesiam ingressus, cum adorasset, quo ejusdem cum
+militibus religionis esse videretur, discessit, ut idem
+dies Marcellino sit Epiphania, Zonaræ Natalis.
+Quanquam quid vetat, ut a Juliano ecclesia bis adita
+fuerit, et in utroque festo? cum in Galliis tunc ver-
+saretur, ubi more occidentali dies illi separate ob-
+servabantur. Itaque quod attinet ad Hierosolymi-
+tanos, quantum colligi datur ex opere fabuloso
+Joannis archiepiscopi Nicæni, videntur illi, quando
+6 Januar.
+
+# block=17
+(65) Ἃς. Alter cod. ἣν omisso ὑμῖν. Cler.
+
+# block=8
+(a) Locus videtur corruptus et transpositus. Lege versionem, et Chron. Alex. p 552.

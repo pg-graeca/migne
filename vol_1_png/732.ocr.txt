@@ -1,0 +1,292 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,242,2496,609,2637
+2,247,348,996,2489
+3,277,2652,865,2724
+4,870,281,1169,319
+5,1025,1959,1786,2297
+6,1029,337,1400,814
+7,291,218,783,256
+8,257,92,327,140
+9,657,98,1373,134
+10,1725,100,1783,134
+11,247,150,999,200
+12,1045,154,1791,200
+13,617,2492,993,2642
+14,1039,816,1795,880
+15,1035,882,1793,956
+16,1419,332,1781,812
+17,1021,964,1393,1896
+18,1411,962,1783,1954
+19,1023,2300,1391,2638
+20,1401,2292,1779,2636
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+863
+
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA
+
+# block=10
+864
+
+# block=11
+legis latæ⁷⁸ : celebretur vero jejunium hoc ante' je-
+
+# block=12
+ρίου πολιτείας τε καὶ νομοθεσίας · ἐπιτελείσθω δὲ
+
+# block=7
+⁷⁸ l. Pseudo-Ignat. ad Philipp. 13.
+
+# block=4
+VARIORUM NOTÆ.
+
+# block=16
+τῶν φώτων δωδεκαήμερον
+τοῦτο νηστεύοντες , οὕτω
+τὰς τρεῖς ἑορτάς τῇ πέμ-
+πτῃ τοῦ Ἰαννουαρίου μη-
+νὸς συνημμένως ἐπιτε-
+λοῦσι· τὸν εὐαγγελισμόν
+φημι, τὴν τοῦ Χριστοῦ
+γέννησιν, καὶ τὴν βάπτι-
+σιν. Μᾶλλόν γε μὴν ἀμυ-
+δρῶς πως καὶ σκιωδῶς τῇ
+ὀλεθρίῳ καὶ μιαρᾷ δόξῃ
+τοῦ σφῶν αἱρεσιάρχου,
+Ἰχάνιος αὐτῷ ὄνομα, ἐν-
+τεῦθεν τιθέμενοι, φαντα-
+
+# block=6
+bus ante festum Luminum
+jejunant, sicque tria festa
+5 Januarii mensis conjun-
+cte celebrant : Annuntia-
+tionem , inquam , Christi
+Natale, et baptismum .
+Quin potius obscure et
+adumbrate ita ponunt, ex
+impura opinione hæresar-
+cha sui, nomine Icha-
+nii, qui Verbi Dei Incar-
+nationem phantusia, non
+autem veritate factam esse
+dicit.
+
+# block=2
+gare testimonium B. Chrysostomi, homilia in Nata-
+lem Domini, tom. V. Ægyptii, referente Cassiano,
+collatione 10, cap. 2, cujus locus citatur ab Isidoro
+lib I De offic. ecclesiast., cap. 26, diem Epiphanio-
+rum definiebant diem baptismi Dominici et Domi-
+nicæ Nativitatis. Unde forsan Timotheus ille epi-
+scopus, qui a Gennadio dicitur composuisse librum
+De Nativitate Domini, quam credebat in Epiphania
+factam, est Timotheus Alexandrinus. Ac nescio an
+non ad eundem errorem pertineat illud quod ex
+Ægyptiacis constitutionibus citat Abrahamus Ec-
+chellensis in notis ad præfationem Arabicam con-
+cilii Nicæni : In die autem Nativitatis et Epiphaniæ,
+eo tempore quo concilium Nicænum coactum est,
+præceperunt ejus Patres, ut noctu celebretur missa.
+Sed quod Ægyptii, vivente adhuc Cassiano, rectam
+sententiam anplexi sint, et Natale Domini celebrare
+cœperint 25 Decembris, seu, ut ipsi computabant,
+29 mensis Chœac, discimus ex titulo homiliæ Pauli
+Emiseni, habitæ in civitate Alexandrina coram
+S. Cyrillo, concilii Ephesini parte III, c. 31. De-
+nique in Armeniorum errore, corrigas velim ex
+Futhymio et aliis Nicephorum Hist. eccles. lib. XVIII,
+cap. 53 : Ἀθετοῦντες δὲ καὶ τὴν κατὰ σάρκα γέννησιν
+τοῦ Χριστοῦ, καὶ ὡς φαντασιωδῶς γεγονῆσθαι λέγον-
+τες˙ οὐχὓς ἡμεῖς ἀνὰ μέρος, ἀλλὰ κατὰ τὴν ιe' (imo
+ε') τοῦ Ἰαννουαρίου μηνὸς παρατείνοντες τὴν νηστείαν,
+τὸν εὐαγγελισμὸν ὁμοῦ καὶ τὴν γέννησιν καὶ τὸ βά-
+πτισμα ἑορτάζουσι. Atque fidem etiam nativitati
+Christi secundum carnem denegantes, et eam velut
+in speciem tantum, phantasmalis instar factam esse
+dicentes; non sicut nos per intervalla particulatim,
+sed ad quintam Januarii mensis diem jejunium ex-
+tendentes, Annuntiationem simul et Nativitatem et ba-
+ptisma celebrant. Ex Græca Euthymianæ Panopliæ :
+Ἀθετοῦντες οὗτοι τὴν κατὰ σάρκα γέννησιν τοῦ Χρισ-
+τοῦ, καὶ τὸ τῆς ἀληθοῦς ἐνανθρωπήσεως μυστήριον,
+καὶ φαντασιῶδες γεγονέναι τοῦτο λέγοντες, οὐχ ὅτε
+ἡμεῖς τὸν εὐαγγελισμὸν τῆς θεομήτορος ἑορτάζομεν,
+ἑορτάζουσιν, ἤτοι κατὰ τὴν εἰκοστὴν πέμπτην τοῦ Μαρ-
+τίου μηνός· ὡς οἱ θεοφόροι Πατέρες παραδεδώκασιν,
+ὁ μέγας ᾿Αθανάσιος, καὶ Ἰωάννης ὁ Χρυσόστομος,
+καὶ οἱ κατ’ ἐκείνους καὶ μετ’ ἐκείνους · ἀλλὰ ἐν τῇ
+πέμπτῃ τοῦ Ἰαννουαρίου μηνός, ἐν βραχεῖ πάνυ
+καιρῷ φαντασιωδῶς τε καὶ ἀμυδρῶς τὸν εὐαγγελι-
+σμὸν καὶ τὴν Χριστοῦ γέννησιν καὶ τὴν βάπτισιν
+ἑορτάζειν ὑποκρίνονται. Isti qui Christi ortum in
+carne, veræque humanitatis assumptæ mysterium re-
+jiciunt, commentitiumque ac simulatum fuisse dicunt,
+non eodem quo nos die celebramus Dei Genetricis An-
+nuntiationem celebrant, nimirum 25 mensis Martii;
+ut tradiderunt divini Patres, magnus Athanasius, et
+Joannes Chrysostomus, et qui eodem tempore, quique
+post eos fuerunt : sed quinta Januarii mensis, in
+brevi omnino tempore imaginarie ac obscure tum
+Annuntiationem, tum Christi Nativitatem et bapti-
+smum celebrare se fingunt. Quo loco in S. Athanasio
+utpote Ægyptio, errare arbitror Euthymium; de-
+ceptum videlicet opere pseudepigrapho Quæstionum
+ad Antiochum ἄρχοντα, vel ut habent codices Regii
+1026, 1316 δούκα, quæstione 54 De Conceptione 25
+Martii. Joannes episcopus Citri in responsis ad
+episcopum Dyrrachii Cabasilam, quæ leguntur post
+Matthæi monachi Nomocanonem, codd. regiis 912,
+2381, 2419 et codice Joliano :
+
+# block=14
+σία καὶ οὐκ ἀληθείᾳ τὴν τοῦ Θεοῦ λόγου οἰκονομίαν
+λέγοντος γεγενῆσθαι.
+
+# block=15
+Quibus ista addit, non quidem huc facientia, sed
+spectantia pariter ad Armenios, nec relatu indigna :
+
+# block=18
+Καταλύομεν καὶ τὴν
+πρὸ (d) τῆς ἀπόκρεω ἅπα-
+σαν ἑβδομάδα. Ἕτερον
+πονηρὸν ἔθος τῶν αὐτῶν
+Ἀρμενίων ἀνάστατον ἐν-
+τεῦθεν τιθέμενοι· νηστεύ-
+ουσι γὰρ οὗτοι καὶ ταύτην,
+διὰ τὴν ἀπώλειαν τοῦ κυ-
+νὸς, ᾧ ἐπώνυμον ἦν ᾿Αρ-
+τζιβούρτζιος, διὰ τὸ προ-
+ιέναι καὶ μηνύειν τὴν ἐν
+πόλεσιν ἤ κώμαις ἐπιδη-
+μίαν τοῦ διδασκάλου αὐ-
+τῶν Σεργίου. Τὸ γὰρ ᾿Αρ-
+τζιβούρτζιος τῇ τῶν ᾿Αρ-
+μενίων διαλέκτῳ μανδά-
+τωρ ἑρμηνεύεται. Ὃν πεν-
+θήσας ὁ Σέργιος ὑπὸ θη-
+ρίων βρωθέντα, ἐπέσκηψε
+πᾶσι τοῖς ᾿Αρμενίοις νη-
+στεύειν ἐν ταύταις ταῖς
+ἡμέραις ὑπὲρ τῆς τοῦ κυ-
+νὸς τελευτῆς, καὶ κατη-
+φιᾷν ἐτησίως καὶ σκυθρω-
+πάζειν· εἰ καὶ σύγκαλύ-
+πτειν τὸ αἰσχρὸν μηχα-
+νώμενοι , εἰς ἀνάμνησιν
+τῆς τῶν Νινευιτῶν νη-
+στείας ἰσχυρίζονται ταύ-
+την ἐπιτελεῖν.
+
+# block=17
+Non jejunamus quoque
+totam hebdomadem quæ
+carnisprivium præcedit;
+eo pacto aliam pravam
+eorumdem Armeniorum
+consuetudinem abrogan-
+tes. Hi namque etiam eam
+jejunant, ob interitum ca-
+nis, cui nomen erat Artzi-
+burtzius, eo quod præce-
+deret, ac adventum docto-
+ris eorum Sergii in urbi-
+bus et vicis indicaret :
+Artziburtzius enim Arme-
+niorum lingua mandator
+exponitur : quem canem
+Sergius cum a feris devo-
+ratum lugeret , injunxit
+cunctis Armeniis, ut illis
+in diebus pro canis obitu
+jejunarent, singulisque an-
+nis mærerent et contrista-
+rentur. Quanquam niluntur
+rei turpitudinem velare,
+contenduntque se in me-
+moriam jejunii Ninivita-
+rum istud observare jeju-
+nium.
+
+# block=5
+Atque hæc sufficiebant: si temperare mihi valuis-
+sem ab adjungendis iis, quæ de tota religione Arme-
+niorum nactus sum in ms. Regio 1818, uti compo-
+nantur præcipue cum alio ejusdem codicis tractatu,
+quem supra ad caput 24 libri II collocavi, et cum
+invectivis Isaaci catholici adversus Armenios, tomo
+II Auctarii noni Græco-latina Patrum Bibliothecæ.
+Quod si cui nimium longa videbuntur; poterit ille
+nullo negotio ea prætergredi, et ad sequentem notam
+properare.
+
+# block=20
+Ἀπόταξις τῶν αἱρετικῶν
+Ἀρμενίων. Ἰδὼ πῶς
+ὀφείλουσιν ἀναθεματί-
+ζειν ἐπιστρέφοντες πρὸς
+τὴν πίστιν τῶν ὀρδοδό-
+ξων Ῥωμαίων˙ οἳ οὐ
+βαπτίζονται, ἀλλὰ μυ-
+ροῦνται.
+Ἐγὼ ὁ δεῖνα, ἢ ἡμεῖς ὁ
+δεῖνα καὶ ὁ δεῖνα, προσέρ-
+
+# block=19
+Renuntiatio hæreticorum
+Armeniorum. Quo modo
+debeant anathematiza-
+re, cum ad fidem ortho-
+doxorum Romanorum
+redeunt. Non baptizan-
+tur autem, sed ungun-
+tur.
+EgoIlle, vel nos Ille et
+Ille, accedo ad orthodo-
+
+# block=13
+Non jejunamus in do-
+decahemero , ad subver-
+sionem jejunii Armenio-
+rum. Ii enim his XII die-
+
+# block=1
+Καταλύομεν (c) καὶ τὸ
+δωδεκαήμερον, εἰς ἀναίρε-
+σιν τῆς τῶν ᾿Αρμενίων νη-
+στείας. Οὗτοι γὰρ τὸ πρὸ
+
+# block=3
+(c) Vide in Typico, f. 176, 157.
+(d) Ita leg. in Jure Græco-Rom., p. 388, l. 7.

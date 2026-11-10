@@ -1,0 +1,325 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1043,1758,1795,1882
+2,1045,2454,1796,2576
+3,253,1973,1002,2099
+4,1042,1542,1798,1664
+5,1041,1673,1799,1748
+6,252,1670,1003,1750
+7,1043,277,1798,356
+8,255,1541,1002,1663
+9,252,1105,1006,1228
+10,256,2367,1001,2448
+12,1049,1021,1797,1099
+13,1046,406,1794,484
+14,1048,846,1799,966
+15,1048,581,1794,660
+16,1042,2582,1799,2707
+17,1048,493,1790,572
+18,1045,2366,1792,2446
+19,1042,1890,1797,1971
+20,250,1453,997,1533
+21,1040,1978,1800,2057
+22,254,2101,1000,2185
+23,252,1321,1002,1446
+24,259,2454,1010,2579
+25,1041,2106,1796,2185
+26,253,1234,1005,1313
+27,1038,1455,1797,1532
+28,253,1757,1004,1924
+29,1047,977,1589,1011
+30,261,273,1007,399
+31,1048,2194,1791,2271
+32,257,404,1002,485
+33,262,2585,1012,2666
+34,254,2192,1005,2274
+36,1043,2280,1789,2363
+38,1042,1239,1798,1303
+39,254,1015,1009,1096
+40,1045,670,1796,840
+43,254,582,993,661
+44,1062,147,1794,268
+46,1040,1108,1801,1228
+47,1041,1312,1795,1444
+50,258,669,1001,796
+51,255,492,1004,575
+52,253,142,1003,258
+53,239,92,327,136
+54,643,90,1391,124
+55,1727,90,1793,132
+56,253,820,1001,1022
+57,257,2272,1003,2362
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=26 fontSize=15px
+# block=27 fontSize=15px
+# block=28 fontSize=15px
+# block=29 fontSize=15px
+# block=30 fontSize=15px
+# block=31 fontSize=15px
+# block=32 fontSize=15px
+# block=33 fontSize=15px
+# block=34 fontSize=15px
+# block=36 fontSize=15px
+# block=38 fontSize=15px
+# block=39 fontSize=15px
+# block=40 fontSize=15px
+# block=43 fontSize=15px
+# block=44 fontSize=15px
+# block=46 fontSize=15px
+# block=47 fontSize=15px
+# block=50 fontSize=15px
+# block=51 fontSize=15px
+# block=52 fontSize=15px
+# block=53 fontSize=16px
+# block=54 fontSize=16px
+# block=55 fontSize=16px
+# block=56 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=57
+LIII. Quod non oporteat fideles inter se discor-
+dare.
+
+# block=54
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=55
+592
+
+# block=53
+591
+
+# block=52
+XXXII. Quod non oporteat diaconus præter volun-
+tatem episcopi det cuipiam ; id enim in calum-
+niam episcopi cessurum.
+
+# block=44
+λβ'. "Ὅτι μὴ χρὴ τὸν διάκονον παρὰ γνώμην τοῦ
+ἐπισκόπου διδόναι τινὶ, ἐπὶ διαβολῇ γὰρ τοῦ
+ἐπισκόπου τοῦτο πράξει.
+
+# block=30
+XXXIII. Quo modo oporteat sacerdotes, utpote
+patres spirituales, honorare ac veneratione di-
+gnos habere.
+
+# block=7
+λγ'. "Ὅπως χρὴ τιμᾶσθαι τοὺς ἱερεῖς, καὶ σεπτοὺς
+ἡγεῖσθαι, πνευματικοὺς ὄντας γονεῖς.
+
+# block=32
+XXXIV. Quod principibus ac regibus præstantiores
+sint sacerdotes.
+
+# block=13
+λδ'. "Ὅτι τῶν ἀρχόντων καὶ βασιλέων εἰσὶ κρείτ-
+τους οἱ ἱερεῖς.
+
+# block=51
+XXXV. Quod Judaicæ leges, et Evangelium,
+præcipiant munerum oblationem.
+
+# block=17
+λε'. "Ὅτι παρακελεύονται οἱ νόμοι καρποφορεῖν·
+ὡσαύτως καὶ τὸ Εὐαγγέλιον.
+
+# block=15
+λϛ'. Ὑπόμνησις τῶν δέκα τοῦ Θεοῦ λογίων, καὶ
+ὅπως αὐτὰ ἐνταῦθα διαγορεύουσι.
+
+# block=43
+XXXVI. Commemoratio decem Dei mandatorum
+et quo modo ea hic edisserunt.
+
+# block=50
+XXXVII. De accusatoribus et delatoribus ; et
+quod judex non debeat illis facile credere, vel
+non credere, sed adhibita diligenti inquisitione.
+
+# block=40
+λζ'. Περὶ κατηγόρων καὶ συκοφαντῶν · καὶ ὅπως
+χρὴ μὴ προχείρως πιστεύειν ἢ ἀπιστεῖν τού-
+τοις τὸν κριτὴν, ἀλλὰ μετὰ ἀκριβοῦς ἐξετά-
+σεως.
+
+# block=56
+XXXVIII. Quod oporteat delinquentes privatim
+arguere, et pœnitentes recipere, secundum con-
+stitutionem Domini.
+XXXIX. Exempla pœnitentiæ.
+
+# block=14
+λη'. "Ὅτι χρὴ τοὺς ἁμαρτάνοντας ἰδιαζόντως ἐξ-
+ελέγχειν, καὶ τοὺς μετανοοῦντας προσδέχεσθαι,
+κατὰ τὴν τοῦ Κυρίου διάταξιν.
+
+# block=29
+λθ'. Παραδείγματα περὶ μετανοίας.
+
+# block=39
+XL. Quod non oporteat hostiliter affici erga illum
+qui semel vel iterum peccavit.
+
+# block=12
+μ'. "Ὅτι οὐ χρὴ ἐχθρωδῶς διακεῖσθαι, περὶ τὸν
+ἅπαξ ἢ δεύτερον ἁμαρτάνοντα.
+
+# block=9
+XLI. Quomodo oporteat recipere pœnitentem, et
+quomodo agere cum peccatoribus, et quando
+ab Ecclesia abscindere.
+
+# block=46
+μα'. "Ὅπως δεῖ προσίεσθαι τὸν μετανοοῦντα, καὶ
+ὅπως διαγίνεσθαι πρὸς ἁμαρτάνοντας, καὶ πότε
+ἐκκόπτειν τῆς ἐκκλησίας.
+
+# block=26
+XLII. Judicem non debere esse acceptatorem per-
+sonarum.
+
+# block=38
+μβ'. "Ὅτι χρὴ ἀπροσωπόληπτον εἶναι τὸν κριτήν.
+
+# block=47
+μγ'. "Ὅπως χρὴ τοὺς συκοφάντας τιμωρεῖσθαι.
+μδ'. "Ὅτι χρὴ τὸν διάκονον ἐπικουφίζειν τὸ βάρος
+τῶν ἐπισκόπων, καὶ διευθύνειν τὰ κουφότερα.
+
+# block=23
+XLIII. Quomodo oporteat punire calumniatores.
+XLIV. Quod debeat diaconus sublevare onus epi-
+scopi, et leviora quæque dirigere.
+
+# block=20
+XLV. Quod non conveniant Christianis contro-
+versiæ et altercationes.
+
+# block=27
+με'. "Ὅτι μὴ προσῆκον Χριστιανοῖς ἀντιλογίαι καὶ
+διαπληκτισμοί.
+
+# block=8
+XLVI. Quod non oporteat fideles apud infideles
+litigare ; neque ex his quempiam vocare in testi-
+monium adversus Christianos.
+
+# block=4
+μϛ'. "Ὅτι οὐ χρὴ τοὺς πιστοὺς ἐπὶ τῶν ἀπίστων
+δικάζεσθαι, οὔτε μὴν ἐξ αὐτῶν τινα καλεῖν εἰς
+μαρτυρίαν τῶν Χριστιανῶν.
+
+# block=6
+XLVII. Quod oporteat in secunda Sabbatorum,
+forum agere.
+
+# block=5
+μζ'. "Ὅτι χρὴ ἐν δευτέρᾳ σαββάτων ποιεῖσθαι τὰς
+δίκας.
+
+# block=28
+XLVIII. Quod non oporteat eamdem pœnam in
+omni delicto irrogare, sed variam, pro varietate
+delinquentis.
+XLIX. Quales esse decet accusatores, et testes.
+
+# block=1
+μη'. "Ὅτι μὴ χρὴ ταύτην ἐπάγειν τιμωρίαν ἐπὶ
+πάσης πλημμελείας, ἀλλὰ διάφορον, πρὸς τὸ
+διάφορον τοῦ ἁμαρτάνοντος.
+
+# block=19
+μθ'. Ὁποίους εἶναι χρὴ τοὺς κατηγόρους, καὶ
+μάρτυρας.
+
+# block=3
+L. Quod usu veniat, ut conjectura ex prioribus
+malis ducta, aliquis facile credatur posteriora
+designasse.
+
+# block=21
+ν'. "Ὅτι ἐγχωρεῖ, τινὰ καὶ ἐκ προτέρων κακῶν μὴ
+ἀπιστεῖσθαι τὰ δεύτερα.
+
+# block=22
+LI. Quod non oporteat in judicando, uni parti
+favere.
+
+# block=25
+να'. "Ὅτι οὐ χρὴ μονομερεῖς τὰς κρίσεις ποιεῖ-
+σθαι.
+
+# block=34
+LII. Exemplum justi judicii capiatur de cautione,
+quam in sententiis judices Gentiles adhibent.
+
+# block=31
+νβ'. Παράδειγμα τοῦ δικαίου κρίματος ἡ τῶν ἔξω-
+θεν δικαστῶν περὶ τὰς ἀποφάσεις ἀσφάλεια.
+
+# block=36
+νγ'. "Ὅτι μὴ χρὴ κατ' ἀλλήλων ἔχειν τοὺς πι-
+στούς.
+
+# block=18
+νδ'. "Ὅτι χρὴ τοὺς ἐπισκόπους τὰ περὶ εἰρήνης διὰ
+τοῦ διακόνου ὑπομιμνήσκειν τῷ λαῷ.
+
+# block=10
+LIV. Quod oporteat episcopos de pace per diaco-
+num populo in memoriam suggerere.
+
+# block=24
+LV. Enumeratio variæ providentiæ, et quemad-
+modum ab initio Deus per singulas generationes
+ad pœnitentiam omnes homines vocavit.
+
+# block=2
+νε'. Ἀπαρίθμησις διαφόρου προνοίας, καὶ ὅπως
+ἐξ ἀρχῆς καθ' ἑκάστην γενεὰν ἐκάλεσεν ὁ Θεὸς
+εἰς μετάνοιαν πάντας.
+
+# block=16
+νϛ'. "Ὅτι θέλημα τοῦ Θεοῦ, ὁμόφρονας εἶναι τοὺς
+ἀνθρώπους περὶ τὴν εὐσέβειαν, παραπλησίως
+ταῖς ἐν οὐρανῷ δυνάμεσι.
+
+# block=33
+LVI. Quod voluntas Dei sit, ut omnes homines in
+pietate consentiant, instar cœlestium Virtutum.
+
+# layer=rawOCR
+# block=57
+1.III. Quod non oporteat fideles inter se discor-
+dare.

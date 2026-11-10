@@ -1,0 +1,160 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1058,979,1808,1708
+2,1065,1716,1822,2408
+3,1060,2467,1814,2674
+4,274,1108,1031,2408
+5,261,153,1019,1099
+6,322,2463,1036,2704
+7,1052,161,1797,970
+8,796,104,1262,141
+9,272,102,323,136
+10,1718,100,1800,144
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+At potiori jure notandus H. Venema, qui eo po-
+tissimum nomine Epiphanii auctoritate abutitur,
+quo nimirum commento suo de Grapte Clementis
+uxore fundamentum præjaciat, nullo innixus vete-
+rum testimonio, quin e contra obnitente scripto-
+rum antiquorum fide. Nam, ut Ignatii Epistolarum
+interpolatorem omittamus (18), quem unum no-
+vit hic censor, vetustiorem adhuc habemus Reco-
+gnitionum scriptorem, sæculo ɪɪ desinente, cujus
+hæc sunt verba (19) : Ego Clemens in urbe Roma
+natus, ex prima ætate pudicitiæ studium gessi. Quæ
+postea tum Clementinorum (20), tum Epitomes (21)
+auctores exscripsere. His accedit Althelmus, qui Cle-
+mentis virginitatem sive prosa sive carmine cele-
+brasse comperitur (22). Clemens itaque virgo, si
+fides his auctoribus. Et quidni fides? ait doctissi-
+mus Cotelerius (23).
+
+# block=2
+Verum, quid porro de Grapte dicendum? Si Her-
+mæ quidem verba penitus inspicias, sentias uti-
+que cum viris eruditis (24) oportet, ipsam fuisse
+feminam spectatæ pietatis, forsitan diaconissam,
+sive Ecclesiæ Romanæ πρεσβύτιδα, viduam scilicet,
+cui reliquas viduas juniores atque orphanos sub vi-
+duarum cura positos, optimis præceptis institutisque
+imbuendi munus commissum fuerit. Cum igitur
+sive ex verbis Clementis, sive ex Epiphanii aucto-
+ritate, suæ causæ præsidium frustra quærat erudi-
+tus Venema, quin et ipsi obstent tum Ecclesiæ
+scriptorum vetustissimi, tum recentiorum doctis-
+simi; neque ullum omnino vadem ipsemet pro sua
+sententia in medium adducat : in nihilum abeat
+necesse est Grapte Clementis uxor, quam commi-
+niscitur ; cumque istiusmodi figmento evanescit
+
+# block=3
+(21) Auct. Epitom. cap. 1.
+(22) De laud. virg. et de laudib. virginit. cap. 22.
+(23) Cotel. in not ad Clem. epist. 1, cap. 38.
+(24) Cotel. et Fell., ad Herm. vis. 2, cap. 4, ac
+Dodw. in addit. ad Pearson. opp. posthum., p. 196,
+et ibid., in dissert. singul. p. 158.
+
+# block=4
+Sed nondum dimittendus Hermannus Venema.
+Pergit vir criticus ! et, quo probet allata verba esse
+accipienda velut a Clemente de se ipso prolata, hæc
+subdit : « Licet nomine Ecclesiæ Romanæ, ipse
+tamen epistolam scripsit, et ad se subinde expresse
+digitum intendit , uti in verbis (14) : Si propter me
+seditio, et discordia, et schismata, discedo, abeo :
+fieri, Epiphanius statuit (15). » Operam ludit cen-
+sor iste. Et ægre quidem ferendum , quod non
+perspexerit vir oculeus totus, Epiphanium Cle-
+mentis sententiam non ex ipsius epistola, sed
+ex quibusdam commentariis in quibus dictum illud
+invenerat, descripsisse. Sic enim ille l. c. : Λέγει
+γὰρ ἐν μιᾷ τῶν ἐπιστολῶν αὐτοῦ· Ἀναχωρῶ, ἄπειμι.
+.... εὕρομεν γὰρ ἔν τισιν ὑπομνηματισμοῖς τοῦτο
+ἐγκείμενον. « Dicit enim (Clemens) in una Epi-
+stolarum suarum: Recedo, abeo:...nam in quibusdam
+commentariis ita scriptum reperimus. » Quid quod
+ipsemet Epiphanius luculenter testatur, quod Cle-
+mens illa proferens, nonnullis hoc modo consule-
+bat? τισὶ τοῦτο συμβουλεύων ; tantum abest, ut san-
+ctus Constantiensis episcopus memoriæ tradiderit,
+Clementem eo loci ad se digitum expresse inten-
+disse, quemadmodum præpostere contendit vir clar.
+Verumtamen Clementem ipsum ita loquentem audia-
+mus : Τίς οὖν ἐν ἡμῖν γενναῖος ; τίς εὔσπλαγχνος ; τίς
+πεπληροφορημένος ἀγάπης ; εἰπάτω· εἰ δι’ ἐμὲ
+στάσις, καὶ ἔρις, καὶ σχίσματα, ἐκχωρῶ, ἄπειμι,
+οὗ ἐὰν βούλησθε. — Τοῦτο ὁ ποιήσας, ἑαυτῷ μέγα
+κλέος ἐν Κυρίῳ περιποιήσεται, καὶ πᾶς τόπος δέξεται
+
+# block=5
+Quid quæris, inquies ? Esto : scripserit Clemens τὰ
+τέκνα ὑμῶν : at ipsum τὰς γυναῖκας ἡμῶν scripsisse
+liquet : quod utique ad Venemæ sententiam con-
+firmandam satis est. Næ, qui sic sentiat, minus
+attente Clementem legerit. Siquidem, quod scri-
+pserit S. Pater τὰς γυναῖκας ἡμῶν, in causa fuit ver-
+bum διορθωσώμεθα ; ut sermoni paulo ante in pri-
+ma persona instituto, ἐντραπῶμεν, αἰδεσθῶμεν, τι-
+μήσωμεν, παιδεύσωμεν, sententia congrueret. Cum
+autem mox aliud loquendi genus usurpet, scripsisse
+omnino censendus est τὰ τέκνα ὑμῶν : perinde ac si
+ab orationis cursu abreptus, quod modo scripserat
+minus sibi consentanee, uxores nostras corrigamus,
+emendare voluerit ; adeoque stylum statim castiga-
+tius exacuens, docentisque dignitati prospiciens,
+orationem permutat, atque, filii vestri suscipiant,
+convenientius rescribit. Retinenda igitur proba le-
+ctio ms. codicis Alexandrini, ac procul amandanda
+de Grapte Clementis uxore hinc eruta conjectura
+viri eruditi ; qui Cotelerianam versionem a Clerico
+recensitam sive mendosam sive infidam exscribere
+maluit, quam textum ipsum consulere.
+
+# block=6
+(14) Epist. 1 ad Corinth., cap. 54.
+(15) Hæres. xxxvɪɪɪ, § 6.
+(16) Origin. eccles., pag. 386.
+(17) In not. ad Clem. l. c.
+(18) Ignat. Epist. ad Philadelph. interpol. cap. 4.
+(19) Auct. Recognit. lib. ɪ, cap. 1.
+(20) Auct. Clement. hom. ɪ, cap. 1.
+
+# block=7
+αὐτόν. « Quis ergo inter vos generosus? quis miseri-
+cors? quis charitatis plenus? dicat : Si propter me se-
+ditio, et discordia, et schismata ; discedo, abeo quo-
+cunque volueritis... Qui hoc fecerit, sibi magnum
+decus in Domino comparabit, omnisque locus eum
+suscipiet. » Quibus sane verbis nemo non videt,
+hortari Clementem Corinthios, ut etiamsi justus
+quis inter eos fuerit, atque immunis a schismate,
+quin et omni virtutum genere ornatus ; juri tamen
+suo cedat, ut Ecclesiæ Corinthiacæ tranquillitas
+inde consurgat. An non igitur Clementi mire con-
+cinit Epiphanius, dum ait ipsum ita fuisse locu-
+tum , τισὶ τοῦτο συμβουλεύοντα ? Hinc immerito
+insimulant sanctum illum Constantiensem episco-
+pum Thorndicius (16) et Burtonus (17), quod Cle-
+mentinam sententiam haud sit assecutus. Imme-
+rito item ex ejusdem S. Patris verbis , Clementis
+abdicationem confirmare nituntur alii magni nomi-
+nis viri.
+
+# block=8
+AD S. CLEMENTEM I PAPAM.
+
+# block=9
+119
+
+# block=10
+120

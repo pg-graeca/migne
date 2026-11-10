@@ -1,0 +1,219 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,956,1452,1712,2351
+2,951,2369,1700,2581
+3,170,423,925,1712
+4,162,1860,528,2576
+5,549,1866,930,2582
+6,566,192,929,403
+7,959,188,1341,1195
+8,166,1740,529,1843
+9,561,134,1320,171
+10,180,181,538,402
+11,141,2638,1708,2749
+12,173,122,251,172
+13,1655,134,1725,176
+14,959,1202,1729,1422
+15,1353,186,1731,1198
+16,557,1738,929,1858
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Idemque fragmentum ἐκ τῶν ἀποστολικῶν Διατά-
+ξεων exhibet codex 1067, cum quibusdam varietati-
+bus; ut quod prætermittit quæ in margine prioris
+leguntur, et quod non ponit dies mensium Chœac,
+Tybi et Phamenoth. Verum dici potest pertinere
+ἀποσπασμάτιον ad Διδασκαλίας et Διδάξεις τῶν ἀπο-
+στόλων, aut ad Diataxes primas, vel aliquam earum
+interpolationem nobis incognitam; qualis Æthio-
+pica; quam nostræ partim similem esse, partim dis-
+similem, colligitur ex iis quæ apud Damianum a
+Goes de Æthiopum religione referuntur. Sane in
+Quæstionibus Anastasii, quæst. 60, p. 598, ista ha-
+bentur, ex Constitutionibus apostolicis, ὅταν γὰρ
+καθίσῃ, etc., nec inveniuntur in nostris. Apostolicæ
+etiam nescio cujus Constitutionis Jacobi meminit
+Joannes Nicænus de nativitate Domini tom. II Au-
+ctarii Combefisiani. Atque apostolicam Constitutio-
+nem fictitiam nec exstantem contra sacras imagines
+Catholicis objiciunt Iconomachi apud Nicephorum
+CP. in Antirrhetico 2, cod. Reg. 781. Vide quoque
+infra ad lib. III, cap. 14.
+
+# block=2
+Ad 2 conclusionem. Etiamsi concedatur Doctri-
+nam apostolorum et Constitutiones differre, incer-
+tum adhuc remanet, an primarum Constitutionum
+corruptor illam Doctrinam compilarit; sicut Episto-
+lam Barnabæ videtur exscripsisse. Concludo ego ex
+
+# block=3
+Ubi Διδαχὰς τῶν ἀποστόλων et Διδασκαλίαν Κλή-
+μεντος distingui video, non video qua ratione dis-
+tinguantur. Quidni ut Liber, à Libri Epitome? Ad
+hæc multæ fuerunt διδασκαλίαι et Doctrinæ. Ignatii
+et Polycarpi hic. Doctrina Petri, apud Origenem et
+Damascenum. Διδασκαλίαι τῶν ἁγίων ἀποστόλων,
+lib. v, juris Græco-Romani in Interrogatione 2
+Marci Alexandrini et Responsione Theodori Balsa-
+monis ad illam, necnon Didascalia apostolica, quæ
+apud Æthiopes circumfertur. Cur itaque non exsti-
+terit etiam Διδασκαλία Κλήμεντος, diversa a Καθο-
+λικῇ διδασκαλίᾳ? Ad 4. Bene duo libri fiunt in Syn-
+opsi Athanasii vocitata, Διδαχὴ τῶν ἀποστόλων, et
+Κλημέντια, quo pacto apud Nicephori Historiam
+lib. III, cap. 18, Διατάξεις ἀποστολικαί et τὰ Κλη-
+μέντια. Ad 5. Ad eumdem forsan modum omittun-
+tur ab Eusebio Clementinæ Diataxes, quarum alibi
+meminit sub nomine Doctrinarum apostolicarum,
+quo videntur præteriri Clementinæ Periodi, quas
+alio in loco commemorat, appellans Petri Actus.
+Ad 6. Quot alia Veterum citare licuit Arianis, et
+dissolvenda Athanasio relinquere? Verbi gratia, ut
+a Clemente non discedam, Recognitionum libros,
+plenos Arianismi. Quæ tamen ab iis fuisse prolata
+non legimus in S. Athanasii Scriptis. Ad primam
+conclusionem. Locus Anastasii non exstat quidem
+in Quæstionibus editis per Jacobum Gretserum; sed
+in Editione Gentiani Herveti profertur. Liber vero
+ms. num. 1789, Thesauri regii, post Anastasii
+Quæstiones centum, habet scriptum :
+
+# block=4
+Nam natus quidem est
+Dominus noster Jesus
+Christus ex sancta Vir-
+gine Maria, in Bethlehem,
+secundum Ægyptios Chœ-
+ac 29 ⁶⁶, hora decima no-
+ctis; quod est VIII Kalen-
+das Januarii. Baptizatus
+autem est tricesimo æta-
+tis suæ anno, a Joanne,
+11 mensis Tybi, Janua-
+rii 6, hora septima diei,
+in fluvio Jordane. Mansit
+autem nobiscum in mundo,
+prædicans evangelium re-
+gni cælorum, et curans
+
+# block=5
+Ἐτέχθη μὲν γὰρ ὁ Κύ-
+ριος ἡμῶν Ἰησοῦς Χρι-
+στὸς ἐκ τῆς ἁγίας παρ-
+θένου Μαρίας ἐν Βηθλεὲμ,
+ἐν μηνὶ κατὰ Αἰγυπτίους
+Χοιάκ (al. Χυάκ) κεʹ
+(f. κθʹ) [in marg. Δεκεμ-
+βρίῳ (f. add. κεʹ)], ὥρᾳ
+ἑβδόμῃ τῆς ἡμέρας (f.
+δεκάτῃ τῆς νυκτός), ὅ ἐ-
+στιν πρὸ ὀκτὼ Καλάνδων
+Ἰανουαρίων· ἐβαπτίσθη
+δὲ ἐν τῷ τριακοστῷ αὐ-
+τοῦ ἔτει, ὑπὸ Ἰωάννου, τοῦ
+Τυβὴ (al. Τυβὶ) ιαʹ, [in
+marg. Ἰανουαρίῳ, ϛʹ.]
+
+# block=6
+κβʹ, Ἰγνατίου διδασκαλία.
+κγʹ, Πολυκάρπου διδασκα-
+λία. κδʹ, Εὐαγγέλιον κατὰ
+Βαρνάβα. κεʹ, Εὐαγγέλιον
+κατὰ Ματθαῖον.
+
+# block=7
+ὥρᾳ δεκάτῃ τῆς νυκτὸς
+(f. ἑβδόμῃ τῆς ἡμέρας), ἐν
+τῷ Ἰορδάνῃ ποταμῷ. Ἔ-
+μεινεν δὲ σὺν ἡμῖν ἐν τῷ
+κόσμῳ, κηρύσσων τὸ εὐ-
+αγγέλιον τῆς βασιλείας
+τῶν οὐρανῶν, καὶ θερα-
+πεύων πᾶσαν νόσον καὶ
+πᾶσαν μαλακίαν ἐν τῷ
+λαῷ, ἕως ἐγένετο ἐτῶν
+λβʹ, καὶ μηνῶν τριῶν, ἐν
+δὲ τῷ τριακοστῷ τρίτῳ
+ἔτει αὐτοῦ ἐσταυρώθη,
+Φαμενὼθ κθʹ [ in marg.
+Μαρτίῳ, κγʹ], ἡμέρᾳ ἕκ-
+τῃ, ὥρᾳ ἕκτη τῆς ἡμέρας·
+καὶ τῆς σελήνης ιδʹ· ἀν-
+έστη δὲ ἐν τριημέρῳ,
+Ηαρμουθή (al. Φαρμουθί)
+(f. deest. αʹ) [in marg.
+Ἀπριλλίῳ] ἡμέρᾳ πρώ-
+τῃ, ὥρᾳ ἕκτη τῆς νυκτός·
+καὶ ὤφθη πᾶσιν ἡμῖν τοῖς
+
+# block=8
+De apparitione Domini;
+ex Constitutionibus
+apostolicis.
+
+# block=9
+CONSTITUTIONES APOSTOLICÆ. — PROOEMIA.
+
+# block=10
+ctrina. 23, Polycarpi Do-
+trina. 24, Evangelium
+secundum Barnabam. 25,
+Evangelium secundum
+Matthæum.
+
+# block=11
+⁶⁵ Vide infra ad lib. v, cap. 13 et 14. ⁶⁶ Decembris 25, I. Chron. Alex., p. 532, 534.
+⁶⁷ Matth. IV, 23; IX, 35. ⁶⁸ Martii 23. ⁶⁹ Aprili maxima ex parte respondet. ⁷⁰ Luc. XXIV, 47.
+⁷¹ Maii 5.
+
+# block=12
+517
+
+# block=13
+519
+
+# block=14
+μαθηταῖς αὐτοῦ· καὶ ἐφανέρωσεν τὴν δόξαν αὐ-
+τοῦ δι' ἡμερῶν τεσσαράκοντα, διδάσκων ἡμᾶς κη-
+ρύσσειν ἐπὶ τῷ ὀνόματι αὐτοῦ μετάνοιαν καὶ ἄφε-
+σιν ἁμαρτιῶν. Ἀνελήφθη δὲ Παγὼν γʹ (f. ιʹ) [in
+marg. Μαΐῳ γʹ], ὥρᾳ θʹ τῆς ἡμέρας.
+
+# block=15
+omnem morbum et omnem
+ægritudinem in populo ⁶⁷,
+donec natus fuit annos
+XXXII, et menses tres. In
+tricesimo tertio autem
+ætatis suæ anno crucifi-
+xus est, Phamenoth. 23,
+(Martii 25) ⁶⁸, die sexto,
+hora diei sexta, et XIV,
+Luna. Resurrexit autem
+in triduo, mensis Phar-
+muthi 1, (Martii 27) die
+primo, hora sexta noctis;
+et visus est ab omnibus
+nobis discipulis ejus ⁶⁹ ;
+ac manifestavit gloriam
+suam per dies quadragin-
+ta, docens nos prædicare
+in nomine suo pœnitentiam
+et remissionem peccato-
+rum ⁷⁰. Assumptus est au-
+tem Pachon decimo (Maii
+5) ⁷¹, hora diei nona.
+
+# block=16
+⁶⁵ Περὶ τῆς ἐπιφανείας τοῦ
+Κυρίου· ἐκ τῶν ἀποστο-
+λικῶν Διαταγμάτων.

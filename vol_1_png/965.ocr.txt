@@ -1,0 +1,168 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,206,130,959,1040
+2,216,1047,957,2123
+3,994,611,1748,1426
+4,997,1437,1759,2616
+5,213,2133,966,2600
+6,1001,134,1754,601
+8,778,77,1205,112
+9,211,82,285,115
+14,1680,77,1755,113
+19,237,2641,1344,2690
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=14 fontSize=15px
+# block=19 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+RECOGNITIONUM LIB. IV.
+
+# block=14
+1330
+
+# block=9
+1329
+
+# block=1
+ctantur, adjutis, religio Dei quæ per continentiam
+sobrietatemque constabat, rarescere inter homines
+atque aboleri propemodum cœpit.
+XXXI. Nam cum ex initio homines, utpote ju-
+stum et omnia continentem Deum colentes, neque
+peccare auderent neque injuriam facere proximis
+suis, certi quod uniuscujusque actus et motus
+aspiceret Deus : ubi religionis cultus ad simulacra
+exanima conversus est, tanquam de quibus certi
+essent, quod neque viderent neque audirent neque
+moverentur in aliquo, licenter peccare et in omne
+facinus progredi cœpere, quippe qui nihil pati ve-
+rerentur ab his quos colebant ut deos. Hinc bello-
+rum rabies exarsit, hinc prædæ, rapinæ, captivi-
+tates, et libertas in servitutem redacta, prout quis-
+que potuit libidini et cupiditati suæ satisfecit,
+quamvis satisfacere cupiditati nulla vis possit. Sic-
+ut enim ignis quanto magis ligna acceperit, tanto
+amplius accenditur et invalescit, ita et cupiditatis
+rabies, per ea quæ adipiscitur, auctior et vehemen-
+tior efficitur.
+
+# block=6
+viribus, tamen dicit huic vade, et vadit, et alii veni,
+et venit, et alii fac hoc, et facit ²¹, hoc autem po-
+test non propria virtute, sed Cæsaris metu : ita fi-
+delis quisque dæmonibus imperat, etiamsi videan-
+tur illi multo esse hominibus fortiores, non propter
+suam virtutem, sed propter Dei qui eos subjecit
+potestatem. Nam et quod diximus, ut Cæsar apud
+omnes milites et in omnibus castris atque in omni
+regno timeatur, cum sit unus et fortassis exiguus
+viribus, nonnisi potestate Dei agitur, qui timorem
+dat omnibus ut uni obtemperent.
+
+# block=3
+XXXIV. Hoc sane scire vos volumus quod dæ-
+mon, nisi quis voluntatibus ejus se sponte subdi-
+derit, potestatem adversum hominem non habet.
+Unde et ipse qui est princeps malitiæ, ad hunc
+quem diximus a Deo destinatum regem pacis ac-
+cessit tentans, et polliceri ei cœpit omnem gloriam
+mundi, quod cum aliis obtulisset decipiendi causa,
+adoratum se noverat. Impius et immemor sui, quod
+est proprium et speciale malitiæ, adorandum se ab
+eo præsumebat, a quo se noverat destruendum.
+Dominus ergo noster unius Dei cultum confirmans,
+respondit ei : Scriptum est : Dominum Deum tuum
+adorabis et illi soli servies ²² ; qua responsione
+deterritus, et metuens ne unius et veri Dei repara-
+retur vera religio, festinat continuo emittere in
+hunc mundum pseudoprophetas et pseudoaposto-
+los falsosque doctores, qui sub nomine quidem Chri-
+sti loquerentur, dæmonis autem facerent volun-
+tatem.
+
+# block=2
+XXXII. Propter quod incipite jam meliore intelle-
+ctu vobismetipsis resistere in his quæ non recte
+cupitis, si quo forte modo reparare in vobis ac re-
+stituere possitis illam, quæ ex initio mortalibus a
+Deo tradita est, religionis puritatem et innocentiam
+vitæ, ut per eam vobis etiam spes bonorum im-
+mortalium reparetur ; et agatis gratias largitori
+omnium patri, per eum quem posuit regem pacis et
+thesaurum ineffabilium bonorum, ut in præsenti
+quidem tempore diluantur peccata vestra per
+aquam fontis, aut fluminis, aut etiam maris, in-
+vocato super vos trino beatitudinis nomine, ut per
+hoc non solum fugentur, si intra vos habitant spi-
+ritus maligni, verum etiam cum destiteritis a
+peccatis, et tota fide totaque mente puritate Deo
+credideritis, etiam ex aliis vos malignos spiritus et
+dæmones effugetis, atque a passionibus et languo-
+ribus alios liberare possitis. Ipsi enim dæmones
+sciunt et agnoscunt eos qui se tradiderint Deo, et
+interdum sola eorum præsentia propelluntur, sicut
+paulo ante vidistis, quomodo cum vocem tantum
+salutationis fecissemus ad vos, continuo dæmones
+propter honorem religionis nostræ exclamare cœ-
+perunt, et ne parum quidem temporis potuerunt
+ferre præsentiam nostram.
+
+# block=4
+XXXV. Propter quod observate cautius, ut nulli
+doctorum credatis, nisi qui Jacobi fratris Domini
+ex Hierusalem detulerit testimonium, vel ejus qui-
+cunque post ipsum fuerit. Nisi enim quis illuc
+ascenderit, et ibi fuerit probatus quod sit doctor
+idoneus et fidelis ad prædicandum Christi verbum ;
+nisi, inquam, inde detulerit testimonium, recipien-
+dus omnino non est ; sed neque propheta, neque
+apostolus in hoc tempore speretur a vobis aliquis
+alius præter nos. Unus enim est verus propheta,
+cujus nos duodecim apostoli verba prædicamus.
+Ipse enim est annus Dei acceptus, nos apostolos
+habens duodecim menses ²³. Qua autem causa vel
+mundus ipse factus sit, vel diversitates quæ sunt
+in eo acciderint, et cur ad reparationem ejus ve-
+niens Dominus noster, elegerit nos duodecim apo-
+stolos et miserit, alias latius explanabitur. In-
+terim nos jussit exire ad prædicandum et invitare
+vos ad cœnam Regis cœlestis, quam præparavit
+Pater in nuptiis Filii sui, et ut domus vobis indu-
+menta nuptialia ²⁴, quod est gratia baptismi, quam
+qui fuerit consecutus, tanquam vestimentum mun-
+dum, cum quo ei ingrediendum est ad cœnam
+regis, observare debet, ne peccato aliqua ex parte
+maculetur, et ob hoc tanquam indignus et reprobus
+abjiciatur.
+XXXVI. Causæ autem quibus maculetur istud
+
+# block=5
+XXXIII. Nunquid nos alterius sumus naturæ su-
+perioris alicujus, et propterea nos dæmones ti-
+ment ? Unius ejusdem vobiscum naturæ sumus,
+sed religione differimus. Quod et si vos esse vultis,
+non invidemus, quin potius et hortamur certosque
+esse vos volumus, quod cum fuerit in vobis eadem
+quæ in nobis est fides et religio ac vitæ innocen-
+tia, remunerante Deo fidem vestram, erit par
+vobis atque eadem etiam contra dæmones potestas
+et virtus. Sicut enim is qui acceperit sub se mi-
+lites, etiamsi ipse inferior, et illi superiores sint
+
+# block=19
+²¹ Matth. VIII, 9. ²² Matth. IV, 10. ²³ Luc. IV, 19. ²⁴ Matth. XXII, 2-14.

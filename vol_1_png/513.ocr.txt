@@ -1,0 +1,97 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1094,152,1698,748
+2,151,2194,1706,2704
+3,1089,772,1730,2165
+4,697,76,1132,120
+5,1646,91,1695,127
+6,167,72,235,114
+7,149,138,1057,2164
+8,295,2708,573,2762
+9,1403,2708,1495,2752
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=6
+425
+
+# block=4
+EPISTOLA ⅱ AD VIRGINES.
+
+# block=5
+426
+
+# block=1
+quæ instant ut ibidem pernoctemus,
+in unum locum eas congregamus;
+his deinde ad dextrum latus colloca-
+tis, inquirimus de singularum agendi
+ratione, ab ipsis discere cupientes
+quæ ipsæ solæ manifestare queunt.
+Quo peracto, omnes simul accedunt;
+sciscitamur ab eis utrum pacifice
+vivant et monita eis damus quæ cas-
+titatem ac Dei timorem redolent ⁴².
+
+# block=3
+Deinde legimus ipsis Scripturam
+quam breviter ac verecunde com-
+mentamur, servantes exterius gra-
+vitatem quæ mentis circumspectio-
+nem pingit. Hæc omnia agimus ut
+illæ ædificentur ac roborentur. Mu-
+lieres etiam quæ sociæ sunt alloqui-
+mur, prout fert ipsarum status ⁴³.
+Si tunc die recedente nocteque vi-
+cina, alio divertere nequeamus ad
+pernoctandum, eligimus inter omnes
+hujus loci mulieres, ætate gravio-
+rem ac modestiorem, ut assignet
+nobis locum aliquem segregatum
+quo non appropriet ulla mulier aut
+virgo. Huic mulieri ætate maturæ in-
+cumbit cura afferendi nobis et lumen
+et quid nobis necessarium est. Liben-
+ter hujusmodi officia adimplet, cha-
+ritatis viscera gestans in fratres qui
+ibidem hospitantur. Hæc autem præ
+aliis senescens mulier eligitur quæ
+diu probata est assiduitate medita-
+
+# block=2
+⁴² In his quæ ad mysteria et sacramenta spectabant, nihil expresse ab oratore quolibet revelabatur, præser-
+timque nihil a quovis auctore claris verbis scribebatur; sensum vero intentum penetrabant initiati quibus da-
+tum erat nosse veritates absconditas. Cæteris autem, licet catechumenis, in parabolis serius evolvendis om-
+nia dicebantur. Num quis mirari deberet si diebus istis fervoris ac persecutionis animæ devotæ cum gaudio
+excepissent reconciliationis ministros, istique, modestiæ causa, in unum ejusdem loci latus mulieres secrevis-
+sent, dum unaquæque, vicissim, internam mentem, in exomologesi, revelasset! Textui superiori satis con-
+gruit illa sententia. Conferri possunt quæ hic a sancto Clemente dicuntur cum verbis sancti Basilii in Regulis
+brevioribus, præsertim 108 et 110, et nota erit prudentia primis sæculis adhibita in mulierum confessione,
+quæ sæpe fiebat coram testibus saltem satis distantibus. Solum discrimen inter verba utriusque sancti in
+eo est, quod prudenter tacuerit sanctus Clemens nomen confessionis quam sæculo ⅳ sanctus Basilius ex-
+primere potuit. Genuflexi fideles ante sacerdotem confitebantur. Hinc prodiit ab infidelibus ad quos im-
+perfecta pervenerat hujus ritus notitia, turpis adorationis accusatio erga confessarium: ut videre est apud
+Minutium Felicem, cap. 9. Usus sedilis confessionalis, qualis hodie adhibetur, serius introductus est.
+⁴³ Quemadmodum socios ad catechumenorum aliorumque virorum Christianis addictorum ordinem re-
+ferri posse judicavimus, sic mulieres socias eidem ordini ascribere nihil vetat.
+
+# block=8
+PATROL. GR. Ⅰ.
+
+# block=9
+14.

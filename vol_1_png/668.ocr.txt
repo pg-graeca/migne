@@ -1,0 +1,196 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,240,141,995,746
+2,1029,137,1800,742
+3,244,1766,995,2704
+4,242,1672,1000,1740
+5,641,72,1374,126
+6,239,883,1001,1672
+7,853,792,1158,830
+8,243,79,300,132
+9,278,1740,663,1774
+10,1719,74,1779,122
+11,1023,876,1781,2710
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=5
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10
+736
+
+# block=8
+735
+
+# block=2
+σαντες (55), μετὰ τὴν τῶν κατηχουμένων καὶ τὴν
+τῶν μετανοούντων ἔξοδον, προσευξάσθωσαν τῷ Θεῷ,
+« τῷ ἐπιβεδηκότι ἐπὶ τὸν οὐρανὸν τοῦ οὐρανοῦ, κατὰ
+ἀνατολάς, » ὑπομιμνησκόμενοι καὶ τῆς ἀρχαίας νοـ
+μῆς τοῦ κατὰ ἀνατολὰς παραδείσου, ὅθεν ὁ πρῶτος
+ἄνθρωπος ἀθετήσας τὴν ἐντολήν, ὄφεως συμβουλίᾳ
+πεισθείς, ἀπεβλήθη. Οἱ δὲ διάκονοι μετὰ τὴν προσευـ
+χήν, οἱ μὲν τῇ προσφορᾷ τῆς εὐχαριστίας σχολαζέـ
+τωσαν, ὑπηρετούμενοι τῷ τοῦ Κυρίου σώματι μετὰ
+φόβου, οἱ δὲ τοὺς ὄχλους διασκοπείτωσαν, καὶ ἡσυـ
+χίαν αὐτοῖς ἐμποιείτωσαν. Λεγέτω δὲ ὁ παρεστὼς τῷ
+ἀρχιερεῖ (56) διάκονος τῷ λαῷ· Μή τις κατά τινος·
+μή τις ἐν ὑποκρίσει. Εἶτα καὶ ἀσπαζέσθωσαν ἀλλήـ
+λους (57) οἱ ἄνδρες, καὶ ἀλλήλας αἱ γυναῖκες, τὸ ἐν
+
+# block=1
+ristiæ vacent, corpori Domini cum timore mini-
+strantes; alii turbam circumspectent, eique silentia
+faciant. Qui autem pontifici assistit diaconus, plebi
+dicat: Ne quis contra aliquem; ne quis in hypo-
+crisi. His transactis, mutuo se salutent viri, mutuo
+se mulieres, osculo in Domino; nemo tamen do-
+lose id agat, quemadmodum Judas Dominum os-
+culo tradidit. Et post hoc precetur diaconus pro
+universa Ecclesia, pro toto mundo, et ejus parti-
+bus, et frugibus terræ, pro sacerdotibus, et prin-
+cipibus, pro pontifice ac rege, pro pace universali.
+Deinde episcopus, populo pacem precatus, bene-
+dicat ei; sicut et Moyses sacerdotibus præcepit, ut
+populo his verbis benedicerent: « Benedicat tibi
+
+# block=7
+VARIORUM NOTÆ.
+
+# block=11
+ximi imperatoris uxore, quæ Martino in convivio
+ministraverat: Præclare, inquit Posthumianus,
+nostros istos, ut Martini non egrediantur exemplum,
+tua constringit oratio: sed profiteor tibi, quia hæc
+surdis auribus audientur. Nam si Martini seque-
+rentur vias, numquam causas de osculo diceremus, et
+universis sævæ opinionis opprobriis careremus. Ἀγάπη
+δέ. verba sunt Clementis Alexandrini Pædag. III,
+11, paulo ante finem, οὐκ ἐν φιλήματι, ἀλλ᾽ ἐν εὐـ
+νοίᾳ κρίνεται. Οἱ δὲ οὐδὲν ἀλλ᾽ ἢ φιλήματι καταψωـ
+φοῦσι τὰς ἐκκλησίας, τὸ φιλοῦν ἔνδον οὐκ ἔχοντες
+αὐτό. Καὶ γὰρ δὴ καὶ τοῦτο ἐκπέπληκεν ὑπονοίας
+αἰσχρὰς καὶ βλασφημίας, τὸ ἀναίδην χρῆσθαι τῷ φιـ
+λήματι, ὅπερ ἐχρῆν εἶναι μυστικόν. Dilectio autem
+non in osculo censetur, sed in benevolentia. Illi autem
+nihil aliud quam osculo ecclesias conturbant, cum
+ipsam intus non habeant amicitiam. Etenim hoc uti-
+que turpem incussit opinionem, et maledicentiam,
+quod impudenter osculo uterentur, quod esse oportebat
+mysticum. Hæc de osculo pacis et dilectionis, inter-
+missarum solemnia dari solito. Præter quod, aliud,
+nempe recens baptizatis datum, observasse mihi
+videor in hoc S. Cypriani loco epist. 59: Nam et
+quod vestigium infantis in primis partus sui diebus
+constituti mundum non esse dixisti, quod unusquis-
+que nostrum adhuc horreat exosculari, nec hoc pu-
+lamus ad cœlestem gratiam dandam impedimento
+esse oportere. Scriptum est enim: « Omnia munda
+sunt mundis (Tit. I, 15). » Nec aliquis nostrum id
+debet horrere, quod Deus dignatus est facere. Nam
+etsi adhuc infans a partu novus est, non ita est ta-
+men, ut quisquam illum in gratia danda atque in
+pace facienda horrere debeat osculari, quando in os-
+culo infantis unusquisque nostrum pro sua religione
+ipsas adhuc recentes Dei manus debeat cogitare, quas
+in homine modo formato et recens nato quodammodo
+exosculamur, quando id quod Deus fecit amplecti-
+mur. Et in isto B. Chrysostomi ad finem sermonis
+De utilitate lectionis Scripturarum, tom. V : Οὐδαـ
+μοῦ θρῆνος, οὐδαμοῦ δάκρυα ἐνταῦθα, ἀλλ᾽ ἀσπασμοὶ,
+καὶ φιλίαι, καὶ περιπλοκαὶ τῶν ἀδελφῶν, τὸ οἰκεῖον
+μέλος ἐπιγινωσκόντων, καὶ ὥσπερ ἐκ μακρᾶς ἀπολαـ
+βόντων ἀποδημίας. Ἐπειδὴ γὰρ πρὸ τοῦ φωτίσματος
+ἐχθρὸς ἦν, μετὰ δὲ τὸ φώτισμα γέγονε φίλος τοῦ κοιـ
+νοῦ πάντων ἡμῶν Δεσπότου, διὰ τοῦτο πάντες συνηـ
+δόμεθα, διὰ τοῦτο καὶ τὸ φίλημα εἰρήνη καλεῖται,
+ἵνα μάθωμεν ὅτι πόλεμον κατέλυσεν ὁ Θεός, καὶ πρὸς
+τὴν οἰκείωσιν ἐπανήγαγε τὴν ἑαυτοῦ. Nusquam la-
+menta, nusquam lacrymæ hic; sed salutationes, et
+oscula, et amplexus fratrum qui suum membrum
+agnoscunt, et tanquam ex longinqua reversum pere-
+grinatione recipiunt. Nam quoniam ante baptismum
+inimicus erat, post baptismum autem amicus est
+factus omnium nostrum communis Domini, propterea
+gratulamur omnes; idcirco etiam osculum pax voca-
+
+# block=6
+tuitos scribit auctor libri De moribus illorum, tom.
+V B. Ambrosii. Et de περιστροφῇ circumactu ado-
+rantium, cæremonia per Numam Pompilium indu-
+cta, legendus est Plutarchus tom. I, p. 69. Sicuti
+de conversione in ortum mane, in austrum meri-
+die, in occasum vesperi, dum oratur, consuli potest
+Mercurius cap. ult. Asclepii. Denique consuetudo
+Manichæorum, in precibus suis vertentium sese ad
+locum in quo sol et luna apparerent, notatur a S.
+Augustino in loco citato, et in Disputat. contra
+Fortunatum non procul ab initio, et lib. XIV contra
+Faustum cap. 11 (edentur infra ad Recognit. IV, 27).
+Qui ritus in 'Aνεχδότοις Manichaismi anathema-
+tismis hoc modo exprimitur : ᾿Αναθεματίζω τοὺς μὴ
+πρὸς ἀνατολὰς μόνον, τῷ ἀληθεῖ Θεῷ εὐχομένους,
+ἀλλὰ τῇ τοῦ ἡλίου κινήσει συμπεριφερομένους, ἐν
+ταῖς μυρίαις αὐτῶν προσευχαῖς. Verum ut a diver-
+ticulo redeamus ad viam, mos inflectendi corpus
+versus nascentem solem non placuit S. Leoni serm.
+7 De Christi Nativitate cap. 4. Adeo in hujusmodi
+rebus judicium uniuscujusque ceteris non facit
+præjudicium. Videatur Vallridus Strabo cap. 4,
+libri De exordiis et incrementis rerum ecclesiastica-
+rum. ID.
+
+# block=4
+(55) Κατανοήσαντες. Idem codex : ἐπιβλέψανـ
+τες. CLER.
+
+# block=9
+(56) ᾿Αρχιερεῖ. Ἱερεῖ. ΙΒ.
+
+# block=3
+(57) Ἀσπαζέσθωσαν ἀλλήλους. Et lib. VIII, cap.
+11; Amalarius diaconus lib. III De ecclesiasticis
+officiis, cap. 32: Interrogatus sum ab aliquibus,
+quare non invicem porrigant sibi oscula viri et fe-
+minæ in officio missæ. Quibus quamvis tunc non re-
+sponderim, respondendum nunc fore arbitror. Car-
+nales amplexus, quibus junguntur sæpissime viri et
+feminæ, vitandi sunt in ecclesiæ conventu. Ac ideo
+sequestrantur viri et feminæ in ecclesia, non solum ab
+osculo carnali, sed etiam situ locali. Ab his personis
+dantur oscula mutua in ecclesia, quæ nullam titilla-
+tionem libidinosæ suggestionis cogunt excitare. Quæ
+postrema periodus legitur cap. 39 libri De officiis
+divinis, Albuino tributi. Atque hujus moris vestigia
+inhærent opusculo Ad virginem lapsum, apud Ambro-
+sium, et apud Hieronymum : Nonne, inquit, vel illum
+locum tabulis separatum, in quo in ecclesia stabas,
+recordari debuisti: ad quem religiosæ et nobiles matronæ
+certatim currebant, tua oscula petentes, quasi sanctio-
+ris, quasi dignioris? aut ut codex Regius 31 : Quæ
+sanctiores et meliores steterant? Contrariam con-
+suetudinem (ut in disciplina variatum est) innuit
+Tertullianus lib. II Ad uxorem, cap. 4, his verbis :
+Quis autem gentilis sinat conjugem suam visitando-
+rum fratrum gratia vicatim aliena, et quidem pau-
+periora quæque tuguria circuire? etc. Jam vero ali-
+cui fratrum ad osculum convenire? Item Severus
+dialogo 2, cap. 7, ubi de B. Martino et regina Ma-

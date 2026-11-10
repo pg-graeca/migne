@@ -1,0 +1,194 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,253,140,1007,744
+2,235,954,1001,1430
+3,1038,145,1787,742
+4,1020,1959,1777,2624
+5,1026,958,1788,1437
+6,1084,2629,1693,2704
+7,247,816,992,918
+8,1053,816,1790,954
+9,234,2392,989,2702
+11,235,1586,993,2395
+13,1282,778,1529,810
+14,515,772,728,807
+15,1022,1596,1778,1961
+16,669,83,1396,127
+17,868,1537,1164,1570
+19,255,83,310,123
+20,277,1458,1224,1499
+21,1727,90,1789,132
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=253 source_y1=140 source_x2=1007 source_y2=744
+enim amicitia oblectatus, diuturnus eris ⁷⁸. » Diligite
+igitur eas, tanquam vestra membra, tanquam
+vestra corpora. Ita enim scriptum est : ‘ Dominus
+testificatus est inter te, et inter uxorem adolescen-
+tiæ tuæ; et ipsa socia tua, et non alius fecit; et
+reliquiæ spiritus tui, et custodite spiritum vestrum,
+et uxorem adolescentiæ tuæ ne derelinquas ⁷⁹. » Igitur
+vir ac mulier, cum in legitimo matrimonio liberis
+operam dant, et a communi lecto exsurgunt, pre-
+centur, nulla superstitione deterriti; etsi non lave-
+rint, puri sunt : qui vero alienam uxorem corrupe-
+rit ac maculaverit, vel cum meretrice se comma-
+cularit : ab ea surgens, neque si toto pelago, et
+fluviis omnibus abluerit se, purus esse poterit.
+
+# block=2 source_x1=235 source_y1=954 source_x2=1001 source_y2=1430
+Ne igitur observetis hujusmodi legalia et natura-
+lia, existimantes contaminari per ea; neque requi-
+ratis Judaicas separationes, aut assiduas lavatio-
+nes ⁸⁰, aut expiationes de tactu mortui ⁸¹ : sed abs-
+que ulla observatione congregamini in cæmeteriis,
+lectionem sacrorum librorum facientes, atque
+psallentes pro defunctis martyribus et omnibus a
+sæculo sanctis, et pro fratribus vestris qui in Do-
+mino dormierunt : item antitypam regalis corporis
+Christi et acceptam seu gratam eucharistiam offerte
+in ecclesiis vestris, et in cæmeteriis; atque in fu-
+
+# block=3 source_x1=1038 source_y1=145 source_x2=1787 source_y2=742
+συμπεριφερόμενος, πολλοστὸς ἔσῃ. » Ἀγαπᾶτε οὖν
+αὐτὰς, ὡς οἰκεῖα μέλη, ὡς ὑμέτερα σώματα. Γέγρα-
+πται γὰρ οὕτω· « Κύριος διεμαρτύρατο ἀνὰ μέσον σου
+καὶ ἀνὰ μέσον γυναικὸς νεότητός σου· καὶ αὕτη κοινω-
+νός σου· καὶ οὐκ ἄλλος ἐποίησε· καὶ ὑπόλειμμα πνεύ-
+ματός σου· καὶ φυλάξασθε τῷ (85) πνεύματι ὑμῶν, καὶ
+γυναῖκα νεότητός σου μὴ ἐγκαταλίπῃς. » Ἀνὴρ οὖν
+καὶ γυνὴ, νομίμῳ (86) γάμῳ συνερχόμενοι, καὶ
+ἀπ’ ἀλλήλων ἐγειρόμενοι, ἀπαρατηρήτως προσευχέ-
+σθωσαν (87)· καὶ μὴ λουσάμενοι (88), καθαροί εἰσιν·
+ὃς δ’ ἂν ἀλλοτρίαν γυναῖκα ὑποφθείρας μιάνῃ, ἢ συμ-
+μιανθῇ πόρνῃ, ἀναστὰς ἀπ’ αὐτῆς, οὐδ’ ἂν τὸ πέλα-
+γος ὅλον καὶ τοὺς ποταμοὺς πάντας ἀπολούσηται,
+καθαρὸς εἶναι δυνήσεται.
+
+# block=4 source_x1=1020 source_y1=1959 source_x2=1777 source_y2=2624
+ (93) Ψάλλοντες ὑπὲρ τῶν κεκοιμημένων μαρ-
+τύρων. Pro martyribus cæterisque beatitudine
+fruentibus psallere ac offerre, non est precari ut
+remissionem delictorum consequantur et salvi fiant,
+quæ preces illos injuria afficerent : est tum orare
+ut eorum meriti fiamus participes, utque ipsorum
+deprecationibus nostræ exaudiantur, tum gratias
+agere Deo in memoriam illorum, laudem, gloriam
+atque honorem. Sic explicant liturgiæ, etiam Clemen-
+tis nostri ; Constantinus imperator oratione ad san-
+ctorum cœtum cap. 12, quo loci memorantur ὕμνοι
+καὶ ψαλτήρια καὶ εὐφημίαι καὶ εὐχαριστίας θυ-
+σία· Cyrillus Hierosol., catechesi mystagoga 5;
+Epiphanius hæresi 75, quæ est Aerii, sect. 7;
+Chrysostomus in Acta, homil. 21; Augustinus Tra-
+ctatu 84 in Joannem, et sermone 17 de verbis
+Apostoli; Dionysius, De ecclesiastica hierarchia
+cap. 3; Innocentius PP. III, Nicolaus Cabasilas,
+Symeon Thessalonicensis, cum aliis. Noti sunt ver-
+sus Hildeberti :
+
+# block=5 source_x1=1026 source_y1=958 source_x2=1788 source_y2=1437
+ Μὴ παρατηρεῖσθε οὖν τὰ ἔννομα καὶ φυσικὰ (91),
+νομίζοντες μολύνεσθαι δι’ αὐτῶν· μηδὲ ἐπιζητεῖτε
+Ἰουδαϊκοὺς ἀφορισμοὺς, ἢ συνεχῆ βαπτίσματα, ἢ
+καθαρισμοὺς ἐπὶ θίξει νεκροῦ· ἀπαρατηρήτως δὲ
+συναθροίζεσθε ἐν τοῖς κοιμητηρίοις (92), τὴν ἀνά-
+γνωσιν τῶν ἱερῶν βιβλίων ποιούμενοι, καὶ ψάλλοντες
+ὑπὲρ τῶν κεκοιμημένων μαρτύρων (93) καὶ πάντων
+τῶν ἀπ’ αἰῶνος ἁγίων, καὶ τῶν ἀδελφῶν ὑμῶν τῶν
+ἐν Κυρίῳ κεκοιμημένων· καὶ τὴν ἀντίτυπον τοῦ βα-
+σιλείου σώματος Χριστοῦ δεχτὴν εὐχαριστίαν προσ-
+φέρετε ἔν τε ταῖς ἐκκλησίαις ὑμῶν, καὶ ἐν τοῖς κοι-
+
+# block=6 source_x1=1084 source_y1=2629 source_x2=1693 source_y2=2704
+Nam dum pro justo sacris assistitur aris,
+Pro justo grates ipse minister agit. COT.
+
+# block=7 source_x1=247 source_y1=816 source_x2=992 source_y2=918
+Quod Judæis ac gentilibus consuetudo sit, una ob-
+servare naturales purgationes et mortuorum reli-
+quias abominari; a Christianis vero alienum.
+
+# block=8 source_x1=1053 source_y1=816 source_x2=1790 source_y2=954
+Ὅτι ἔθος Ἰουδαίοις τε καὶ Ἕλλησι, συμπαρατη-
+ρεῖσθαι (89) τὰς φυσικὰς καθάρσεις, καὶ τῶν
+τεθνεώτων τὰ λείψανα βδελύσσεσθαι· Χριστια-
+νῶν δὲ ἀλλότριον (90).
+
+# block=9 source_x1=234 source_y1=2392 source_x2=989 source_y2=2702
+(88) Λουσάμενοι. Cod. Vind., λελουμένοι. CLER.
+(89) Συμπαρατηρεῖσθαι. Sine præpositione σὺν,
+est παρατηρεῖσθαι in cod. Vind. ID.
+(90) Ἀλλότριον. In eodem cod. : τοῦτο ἀλλότριον·
+οὐ δεῖ καὶ συνιέναι ἐν τοῖς κοιμητηρίοις τῶν καὶ
+ψάλλειν ὑπὲρ τῶν ἐν πίστει κεκοιμημένων. ID.
+(91) Φυσικά. Τὰ φυσικά. Cod. Vind. IB.
+(92) Ἀπαρατηρήτως δὲ συναθροίζεσθε ἐν τοῖς
+κοιμητηρίοις. Conventuum qui in cæmeteriis fieri
+
+# block=11 source_x1=235 source_y1=1586 source_x2=993 source_y2=2395
+(85) Tῷ. Est ἐν τῷ in ms. Vind. CLER.
+(86) Νομίμῳ. Legit idem cod. νομίμων, eodem
+sensu. ID.
+(87) Ἀπαρατηρήτως προσευχέσθωσαν. Thea-
+nus Pythagoricæ elegans fertur apophthegma, lauda-
+tum a Clemente Alexandrino, postque eum a Theo-
+dorito : quæ interrogata, postea quam ἀπὸ ἀνδρὸς
+εἰς τὸ θεσμοφόριον κάτεισιν, respondit : ’Ἀπὸ μὲν
+τοῦ ἰδίου, καὶ παραχρῆμα, ἀπὸ δὲ τοῦ ἀλλοτρίου,
+οὐδέποτε. Quod sequitur de lavatione, accipiet
+lucem ex his B. Chrysostomi, homil. 18, in I ad
+Corinthios : Τοῦτο δὲ καὶ ἡμῖν ἔθος· ἀπὸ μὲν γὰρ
+πλεονεξίας καὶ ἁρπαγῆς οὐκ ἄν τις σπουδάσειεν ἐπὶ
+βαλανεῖον ἐλθεῖν, ἀλλ’ ἀδιαφόρως ἐπὶ τὴν οἰκίαν
+ἄνεισιν· ἀπὸ δὲ μίξεως πόρνης, καθάπερ ὅλως γενό-
+μενος ἀκάθαρτος, ἐπὶ τὸ λούσασθαι ἔρχεται. Est
+autem hic quoque noster mos : nam ab avaritia qui-
+dem, fraude, et rapina non curarit quisquam ire in
+balneum, sed citra ullum discrimen redit domum : a
+concubitu autem cum meretrice, tanquam totus effec-
+tus immundus, venit ad lavandum. Vide Luciani
+Amores. Tertullianus de Oratione cap. 11 : Omnibus
+licet membris lavet quotidie Israel, nunquam tamen
+mundus est. COT.
+
+# block=13 source_x1=1282 source_y1=778 source_x2=1529 source_y2=810
+ΚΕΦΑΛΑΙΟΝ Λ.
+
+# block=14 source_x1=515 source_y1=772 source_x2=728 source_y2=807
+CAPUT XXX.
+
+# block=15 source_x1=1022 source_y1=1596 source_x2=1778 source_y2=1961
+solebant meminit Eusebius Hist. eccl. lib. IX, cap. 2,
+estque mos ille longe notissimus. Sed nolim eo trahi
+locum S. Athanasii Apologia de fuga sua p. 704: Tῇ
+γὰρ ἑβδομάδι· μετὰ τὴν ἁγίαν Πεντηκοστὴν ὁ λαὸς
+νηστεύσας ἐξῆλθε περὶ (ita quoque apud Socratem
+ac Theodoritum, at in Nicephoro παρὰ) τὸ κοιμητή-
+ριον εὔξασθαι. Nam περὶ illud seu παρὰ, quod hi-
+storiæ tripartitæ lib. V, cap. 3, vertitur ad, signi-
+ficat prope sive juxta; ἐν ἑρήμῳ τόπῳ πλησίον τοῦ
+κοιμητηρίου, dicitur ab eodem magno Patre Apolo-
+gia ad imperatorem, p. 692. COT.
+
+# block=16 source_x1=669 source_y1=83 source_x2=1396 source_y2=127
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA,
+
+# block=17 source_x1=868 source_y1=1537 source_x2=1164 source_y2=1570
+VARIORUM NOTÆ.
+
+# block=19 source_x1=255 source_y1=83 source_x2=310 source_y2=123
+987
+
+# block=20 source_x1=277 source_y1=1458 source_x2=1224 source_y2=1499
+⁷⁸ Prov. v, 18. ⁷⁹ Mal. II, 14. ⁸⁰ Levit. XII, etc. ⁸¹ Num. XIX.
+
+# block=21 source_x1=1727 source_y1=90 source_x2=1789 source_y2=132
+988

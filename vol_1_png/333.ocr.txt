@@ -1,0 +1,151 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,206,638,954,1103
+2,202,1501,952,2141
+3,204,1112,952,1492
+4,201,2147,943,2401
+5,986,508,1744,2358
+6,212,161,956,630
+7,995,164,1741,500
+8,788,109,1153,142
+9,202,2480,1739,2551
+11,1699,116,1739,148
+12,208,100,286,156
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Anno igitur nostro 83, Domitiano Ⅸ et Rufo
+consulibus, obierit Cletus, die 26 Aprilis, ut est in
+Hemerologio, intervallum illud a creatione illius,
+ad unguem confirmante. Vacasse traditur sedes
+diebus 15. Ergo ex die undecima Maii, quæ tunc
+fuit Pentecoste, rursum electus Anacletus sedit
+annos 12, menses 2 (non 10) dies 3, usque ad an-
+num nostrum 95, diemque Hemerologio agnitum
+decimum tertium Julii, Domitiano ⅩⅦ et Flavio
+Clemente consulibus, quos etiam agnoscit Indicu-
+lus, mira in his constantia et veri fide.
+
+# block=2
+Interim autem, sive occiso jam Anacleto, sive
+conjecto in vincula, Evaristus successor designa-
+tus est, cui membranæ tribuunt annos 13, menses
+7, dies 2, usque ad Gallum et Braduam, consules
+anni nostri 108, ut omnino cœperit ex anno illo jam
+dicto 95. Quia vero Clemens jam decrepitus obie-
+rat anno, sicut diximus, nostro 100, die 23 No-
+vembris; neque mors ejus ex Ponto Romam per-
+ferri potuit, nisi post dies saltem triginta, hinc fa-
+ctum est ut abinde, numerato altero velut initio,
+Evaristus sedisse scribatur annos 7, menses 10,
+dies 2, usque ad diem vicesimam sextam Octobris
+anni 108, utque in Græcis legamus, post electionem
+Evaristi pontificis, successisse Alexandrum anno
+12 Trajani.
+
+# block=3
+Erat hic annus Domitiani tyranni 14, quo per-
+secutionem suscitavit in Christianos, cujus causam
+Clemens, in Epistola illa luculenta (quam ex per-
+sona non sua, sed Ecclesiæ Romanæ scripsit ad
+Corinthios adversus episcopum suum seditiosos) re-
+fert ad dissidia illa Christianorum, adversus se in-
+vicem consurgentium; quale quid etiam Romæ fa-
+ctum innuit; suum ipsius certamen ante annos oc-
+todecim tacite innuens.
+
+# block=4
+Alexander ergo sedere cœpit ex anno 108 jam
+dicto, seditque annos 10, menses 5, dies 21. Con-
+jectus in carcerem anno nostro 116, octavo sui
+pontificatus, Æliano et Vetere consulibus, vivente
+adhuc Trajano, ut habent Acta ; in quo carcere
+duos annos egit, usque ad tertium Adriani, no-
+
+# block=5
+Sic ergo specimine saltem præbito restituendæ,
+quod pollicebar, chronologiæ pontificiæ, intellecto-
+que tempore, quo episcopatum gessit Clemens,
+quoque post abdicatum pontificatum tandem occi-
+sus est, videamus nunc et de vero epistolarum il-
+lius tempore, istius maxime ³⁰ quam nunc damus.
+Nam illa præclara omnibusque antiquis Patribus
+laudata, et in Ecclesiis, instar apostolicarum, re-
+citari solita, quæ data est sub persona non abdi-
+cati Clementis, sed potius Romanæ Ecclesiæ (post
+Anacletum sine episcopo degentis scilicet) ad Ec-
+clesiam Corinthiam, satis jam suam occasionem
+annumque indicavit, nostrum 95, fervente perse-
+cutione Domitiani quam maxime, perscripta ; eo-
+dem admodum stylo, quo idem Romanus clerus ad
+Cyprianum utitur. At character nostræ hujus ho-
+miliæ similior, quam epistolæ, et ab altero diversis-
+simus, privatum scriptorem arguit. Tempus quoque
+insinuat pacatissimum, nullis in Ecclesiam procel-
+lis turbidum ; tantoque magis ad charitatem mu-
+tuam fovendamque pacem hortatoriam. Ad quam
+obtinendam non oporteat inveniri hominem ³¹ qui
+eam largiatur, sed Deum scilicet. Quibus verbis
+vel ego fallor, vel innuitur Vespasianus imperator,
+qui anno nostro 75, sexto suo consulatu, templum
+Pacis Æternæ omnium toto orbe pulcherrimum de-
+dicavit ; semet existimans illum principem pacis,
+patrem futuri sæculi prænuntiati apud Isaiam, cu-
+jus imperii non foret finis. Non hunc ergo mortalem
+hominem, sed Deum inveniri debere monet Cle-
+mens, qui æternam pacem suis largiturus sit.
+Tanto ergo Epistola hæc prior illa, quæ post 20 de-
+mum annos missa fuit Corinthum. Idque subindi-
+cat apud Eusebium, lib. ⅳ, cap. 23, Dionysius Co-
+rinthiorum episcopus, in epistola dicata Soteri papæ
+circa annum nostrum 167, in qua Romanos allo-
+quitur, his verbis : Hodie Dominicam sacram diem
+peregimus, in qua legimus vestram ³² epistolam, quam
+semper ad nostram instructionem legemus , sicut et
+priorem nobis a Clemente scriptam. De quibus verbis
+quod volui conficio, Clementis ipsius esse hanc
+epistolam ; illam vero alteram, non tam decrepiti
+Clementis, quam etiam Romani cleri.
+
+# block=6
+conclusam : Secedo, abeo, bene stabiliatur populus
+Dei; addens, se id in commentariis quibusdam sic
+invenisse. Abdicaverit ergo die 12 Februarii, quæ
+tunc fuit feria quarta Cinerum. Ita post quatuor
+dies Cletus, et re et nomine electus, sedere cœpit
+ex die 16 Februarii, Dominica ipsa Quadragesimæ,
+tenuitque pontificatum, vivo Clemente, annis sex,
+mensibus duobus, diebus decem, quos Indiculus
+repræsentat exserte : A consulatu, inquit, Vespa-
+siani Ⅷ et Domitiani Ⅴ, qui est annus mihi jam
+indicatus 77, planissime.
+
+# block=7
+strum 119, Adriano Ⅲ et Rustico consulibus,
+quando ad diem tertiam Maii occisus est, et vaca-
+vit sedes diebus 25, usque ad vicesimam nonam
+Maii Dominicam, qua successit Xystus. Post quem
+anno 128 Telesphorus, 138 Hyginus, 142 Pius, sub
+quo Marcion hæreticus exortus est, annis 115 post
+duos geminos consules, hoc est, anno nostro 143,
+docente hoc Tertulliano.
+
+# block=8
+PROOEMIA VARIORUM.
+
+# block=9
+³⁰ Intellige secundam. ³¹ Hæc legas sect. ⅺ. ³² Quæ Clementi Alexandrino, Strom. lib. ⅴ, p. 786,
+ἡ πρὸς Κορινθίους Ῥωμαίων ἐπιστολή.
+
+# block=11
+66
+
+# block=12
+66

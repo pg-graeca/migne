@@ -1,0 +1,203 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,188,537,940,2055
+2,827,469,1125,505
+3,973,537,1733,1864
+4,730,104,1205,150
+7,223,158,966,335
+8,221,108,279,150
+9,1675,110,1739,152
+10,221,334,1221,382
+11,993,166,1741,334
+12,961,1863,1707,2713
+13,183,2053,929,2715
+14,233,392,487,438
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=16px
+# block=7 fontSize=15px
+# block=8 fontSize=16px
+# block=9 fontSize=16px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+⁵²  Isa. lx, 17.
+
+# block=4
+EPISTOLA I AD CORINTHIOS.
+
+# block=8
+293
+
+# block=9
+294
+
+# block=7
+καὶ διακόνους τῶν μελλόντων πιστεύειν (85). Καὶ
+τοῦτο οὐ καινῶς· ἐκ γὰρ δὴ πολλῶν χρόνων ἐγέγρα-
+pto περὶ ἐπισκόπων καὶ διακόνων. Οὕτως γάρ που
+λέγει ἡ Γραφή· Καταστήσω (86) τοὺς ἐπισκόπους
+
+# block=11
+nove : a multis enim temporibus de episcopis et
+diaconis scriptum fuerat. Sic enim alicubi dicit
+Scriptura : Constituam episcopos eorum in justitia
+et diaconos eorum in fide 87.
+
+# block=10
+αὐτῶν ἐν δικαιοσύνῃ καὶ τοὺς διακόνους (87) αὐτῶν ἐν πίστει.
+
+# block=2
+VARIORUM NOTÆ.
+
+# block=1
+(85) Εἰς ἐπισκόπους καὶ διακόνους τῶν μελ-
+λόντων πιστεύειν. Hic insurgunt adversus Eccle-
+siam novi Aeriani, clamantes agnosci duntaxat a
+Clemente duos in clero ordines, episcoporum
+eorumdemque presbyterorum, et diaconorum. Ad
+quos breviter, uti notarum scriptorem decet, ita
+respondeo. Non sunt expressiora verba Epistolæ
+nostræ testimoniis Novi Testamenti; de episcopis
+et diaconis solummodo, Philipp. 1, 1, et 1 Tim. ꙇꙇꙇ.
+De episcopis et presbyteris, Act. ꙇꙇ, 17, 28, Tit. 1,
+5, 7 et 1 Petr. v, 1, 2; de presbyteris ac presby-
+terio, Act. ꙇꙇꙇ, 23; xv, 2, 4, 6, 22, 23, 41; ꙇꙇꙇꙇ, 4;
+ꙇꙇꙇ, 18; I Timoth. iv, 14; v, 17, 19; Jac. v, 14;
+II et III Joan. 1. Verum hos textus nequaquam
+officere orthodoxiæ, fuse solideque demonstratur a
+catholicis doctoribus; quod neminem latet. Certe
+nomina apostoli, episcopi, presbyteri, in Scriptu-
+ris ponuntur ὁμωνύμως. Apostolus Christus; 'apos-
+toli, modo tantum duodecim, modo etiam Barna-
+bas, Paulus, Andronicus, Junias; Epaphroditus,
+aliique plures I Corinth. xv, 7. Jam vero episcopus
+dicitur Christus, I Petri ꙇꙇ, 25. Episcopatus tri-
+buitur apostolis, Act. 1, 20. Episcoporum nomen
+veris episcopis, hoc est, antistitibus primi ordinis
+datur I Tim. ꙇꙇꙇ, 2, et Tit. 1, 7, juxta communem
+SS. Patrum doctrinam. Et episcopi Philipp. 1, 1,
+sunt secundi gradus, δευτέρου θρόνου, sacerdotes,
+Chrysostomo, Œcumenio, Theophylacto, Theodo-
+rito, necnon Auctori Commentariorum inter Hiero-
+nymi Opera cusorum : item Act. xx, 28; pseudo-
+Hieronymo illi ad I Tim. ꙇꙇꙇ, 8; Theodorito in
+interpretatione versus primi Epistolæ ad Philip-
+penses, et Maximo ad initium Cœlestis hierarchiæ,
+ac libri De divinis nominibus : præterea I Tim. ꙇꙇꙇ,
+2, et Tit. 1, 7; Theodorito eidem. Denique πρεσβύ-
+τερον se appellat apostolus Petrus, itidemque apo-
+stolus Joannes; et I Tim. iv, 14. Presbyterium de
+primo sacerdotii gradu exponunt antiqui interpre-
+tes; in aliis vero locis presbyteros seu seniores,
+interdum volunt esse summos primosque sacer-
+dotes, interdum sacerdotes inferiores ac segundos:
+observantque sæpenumero, indiscriminatim solere
+appellari episcopos et presbyteros. Quinetiam ex
+mente Chrysostomi ad Philipp. 1, 1, initio Chri-
+stianismi sub diaconorum nomine episcopos etiam
+ac presbyteros designabant. Unde apostolicas pa-
+
+# block=3
+diaconis generaliter sumptis, quatenus sunt sacer-
+dotes et pastores, qui Christianam plebem inspi-
+ciunt ac regunt, qui laicis hominibus res sacras
+administrant. Infra enim ἱερατεύειν et λειτουργεῖν,
+ἐπισκοπὴν et λειτουργίαν pro eodem habet; altum-
+que tota in Epistola silentium de episcopis et dia-
+conis, cum plurima fiat mentio presbyterorum.
+Adde quod suspicari non nemo possit, in testimo-
+nio quod subjungitur, Isaiæ lx, 17: Καταστήσω (ita
+quoque Joannes Chrysostomus libro Quod Christus
+sit Deus, cap. 7, tom. V) τοὺς ἄρχοντάς σου ἐν
+εἰρήνῃ, καὶ τοὺς ἐπισκόπους σου ἐν δικαιοσύνῃ, ideo
+nostrum mutasse ἄρχοντας in διακόνους, quia Chri-
+stus Dominus Matth. xx, 25, apostolis hunc in
+modum est locutus : Οἴδατε ὅτι οἱ ἄρχοντες τῶν
+ἐθνῶν κατακυριεύουσιν αὐτῶν, καὶ οἱ μεγάλοι κατ-
+εξουσιάζουσιν αὐτῶν· οὐχ οὕτως δὲ ἔσται ἐν ὑμῖν·
+ἀλλ’ ὃς ἐὰν θέλῃ ἐν ὑμῖν μέγας γενέσθαι, ἔστω ὑμῶν
+διάκονος· καὶ ὃς ἐὰν θέλῃ ἐν ὑμῖν εἶναι πρῶτος, ἔστω
+ὑμῶν δοῦλος. Improbabiliter quippe conjectant duo
+viri docti [Hammond., De episcop. dissert. 4. c. 7;
+dissert. 5, cap. 7; Morinus Exercit. Bibl., lib. 1,
+Exercit. 9, cap. 4]: unus, Clementinam lectionem
+fuisse codicis quo utebantur apostoli, atque hodier-
+næ esse præferendam; alter, decerptum hic aliquem
+ex non exstantibus libris, sive sacrum sive apocry-
+phum. Mallem dicere, confusa fuisse duo Isaiæ
+testimonia; citatum cap. lx, vers. 17, et istud
+cap lxvi, vers. 21 : Ἀπ’ αὐτῶν λψψομαι ἱερεῖς καὶ
+Λευΐτας. Primus sane locus ad sensum Clementis
+citatur ab Irenæo lib. iv, cap. 44 : Tales, inquit,
+presbyteros nutrit Ecclesia; de quibus et Propheta
+ait : ἶ Et dabo principes tuos in pace, et episcopos
+tuos in justitia. » COL. — Locus iste aliter concipi-
+tur in editionibus hodiernis, ut apud Irenæum
+lib. iv, c. 44. Vix itaque dubitem, quin B. Clemens
+locum illum, ut alios aliquot, paulo immutarit, ut
+ad propositum suum aptaret, nec Hebræus textus
+secus sentire nos cogit, ut pluribus contendit vir
+notissimæ eruditionis Henr. Hanimondus. COL.
+
+# block=12
+1. (86) Καταστήσω, κ. τ. λ. Suspicatur Mill.
+locum istum Clementis respexisse Irenæum, dum
+scriberet lib. ⅳ, cap. 44 : Τοιούτους πρεσβυτέρους
+ἀνατρέφει ἡ Ἐκκλησία, περὶ ὧν καὶ ὁ προφήτης
+φησίν· Δώσω τοὺς ἄρχοντάς σου ἐν εἰρήνῃ, καὶ τοὺς
+ἐπισκόπους σου ἐν δικαιοσύνῃ. Gall. — Καταστή-
+σῳ, etc. In Hebr. ושיםתי פקדתי שלום ונגשיך צדקה
+quod LXX Intt. vertunt : Δώσω τοὺς ἄρχοντάς σου
+ἐν εἰρήνῃ καὶ τοὺς ἐπισκόπους σου ἐν δικαιοσύνῃ.
+Observari potest פקדה, quod alibi sæpe ἐπισκοπή
+redditur (sed procurationem et officium omine
+significat), hic efferri per διακόνους, et שלום quod
+per εἰρήνην explicari solet, sed bona quæcumque
+denotat, hic πίστιν, nec id quidem incommode,
+verti; insuper transponi episcoporum, diaconorum-
+que mentionem, ut ordo utriusque muneris rectius
+constaret; hæc autem satis opportune a S. Clemente
+referri ad Ecclesiæ Christianæ præfectos, non facile
+diffitebitur quisquis locum Isaiæ inspexerit, atque
+totum hoc caput ad Messiæ tempora pertinere, Ju-
+dæis ipsis calculum apponentibus, meminerit. FELL.
+(87) Καὶ τοὺς διακόνους, etc. Qui ausus est tot
+ineptias Clementis nomine vendere, etiam sacris
+litteris hanc clausulam adjecit, ut assumentum
+hoc præcedentibus responderet. BERN.
+
+# block=13
+ginas scriptaque Ecclesiæ magistrorum evolvens,
+passim offendes hæc et similia de ordine eccle-
+siastico dicta, διάκονοι, διάκονοι Θεοῦ vel Χριστοῦ,
+vel Ἐκκλησίας, vel Εὐαγγελίου, vel καινῆς διαθήκης
+vel δικαιοσύνης, λειτουργοί, ὑπηρέται, ministri, mi-
+nistri Ecclesiarum, etc., διακονία, κλῆρος τῆς δια-
+κονίας, ministerium ecclesiasticum, etc. Unde etiam
+cum B. Hieronymus sub principium Commentario-
+rum in Epistolam ad Philemonem, propter illa
+verba Coloss. iv, 17 : Εἴπατε Ἀρχίππῳ· Βλέπε τὴν
+διακονίαν ἣν παρέλαβες ἐν Κυρίῳ, suspicetur Ar-
+chippum fuisse episcopum; quæ etiam est pseudo-
+Ambrosii inductio; ex iisdem verbis qui sub per-
+sona Hieronymi latet ὑπομνηματιστής, Archippum
+diaconum facit; atque ad Rom. xii, 7 : Ministe-
+rium in ministrando : subnotat, Ministerium sacer-
+dotalis, vel diaconatus officii. Demum in Epistola
+conciliabuli Sardicensis, episcopi Ariani queruntur
+omnes se -diaconos et sacerdotes Dei despici. Ac
+forsan Clementi sermo duntaxat de episcopis et

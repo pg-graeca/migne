@@ -1,0 +1,180 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,195,735,953,1945
+2,202,2305,953,2509
+3,196,132,949,729
+4,988,1130,1743,2044
+5,988,127,1741,1124
+6,200,1952,961,2034
+7,201,2503,955,2677
+8,201,2174,949,2277
+9,767,73,1156,109
+10,204,73,276,109
+11,983,2111,1750,2646
+12,245,2274,927,2312
+13,202,2108,952,2180
+14,808,2045,1134,2099
+15,1658,68,1740,114
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=195 source_y1=735 source_x2=953 source_y2=1945
+V. Quid igitur faciam? Ægyptum petam, atque
+ibi hierophantis vel prophetis qui adytis præsunt,
+amicus efficiar, et pecunia ab eis invitatum magnum
+precabor, ut educat mihi animam de infernis, per
+eam quam necromantiam vocant, tanquam de ali-
+quo negotio consulere cupienti. Mihi vero hæc erit
+consultatio : si immortalis est anima. Probatio au-
+tem animæ, quod immortalis sit, non ex eo quod
+loquitur, erit mihi certa, vel ex eo quod audio, sed
+ex eo quod video ; ut oculis meis cernens eam, cer-
+tissimam de reliquo immortalitatis ejus sententiam
+teneam. Neque enim ultra poterit veritatem visus,
+verborum fallacia et auditio incerta turbare. Ve-
+rumtamen hanc ipsam deliberationem meam retuli
+ad quemdam familiarem meum philosophum, qui
+mihi consilium dedit, ne hoc facere auderem. Sive
+enim, inquit, evocanti mago non obediat anima, tu
+post hæc tanquam nihil esse putans post mortem,
+desperabilius vives, quippe qui et illicita tentave-
+ris. Si vero et aliquid ibi videre tibi visus fueris,
+quæ tibi religio, aut quæ pietas ex illicitis tradetur
+et impiis? Exosum namque Divinitati hujuscemodi
+negotium ferunt, et adversari Deum his qui ani-
+mas post absolutionem corporum vexant. Ego vero,
+his auditis, pigrior quidem sum redditus ad hoc
+quod parabam, nec tamen usquequaque aut deside-
+rium ponere poteram, aut molestiam cogitationis
+abjicere.
+
+# block=2 source_x1=202 source_y1=2305 source_x2=953 source_y2=2509
+(9) Si quis tamen, etc. Freculfus : Si qui tamen,
+et direxerint, quemadmodum in Græco. Simili modo
+postea ac præmiis abest a Freculfo et a Græcis. No-
+tanda quoque varia lectio docendi pro divendi ; et
+utraque conferenda cum Græcis Epitomes ac Cle-
+mentinorum.
+
+# block=3 source_x1=196 source_y1=132 source_x2=949 source_y2=729
+vixero, et secundum nonnullorum sententias philo-
+sophorum, Pyriphlegethonti fluvio vel Tartaro, ut
+Sisyphus et Tityus, et ut Ixion ac Tantalus æter-
+nis in inferno suppliciis tradar. Et rursus mihi ipsi
+respondebam : Sed hæc fabulæ sunt, aut si ita est,
+in rebus dubiis præstat pie vivere. Sed iterum re-
+putabam mecum, quomodo possem sub incerto ju-
+stitiæ præmio, a peccati me libidine continere?
+Maxime cum etiam, quæ sit ipsa justitia, quæ Deo
+placeat, apud me habeatur incertum, et neque si
+immortalis sit anima, ac sit, quæ aliquid sperare
+possit, agnoscam, neque quid certi futurum sit no-
+verim. Nec tamen quiescere ab hujuscemodi cogita-
+tionibus possum.
+
+# block=4 source_x1=988 source_y1=1130 source_x2=1743 source_y2=2044
+VII. Denique in urbe per loca conventus fieri et
+de hoc sermone tractari, atque in admiratione res
+haberi cœpit, quisnam is esset, qui apparuerit, vel
+quid nuntii a Deo hominibus detulisset ; donec sub
+eodem anno vir quidam astans in urbis loco cele-
+berrimo, proclamaret ad populum, dicens : Audite
+me, o cives Romani; Filius Dei adest in partibus
+Judææ, promittens omnibus volentibus audire se,
+vitam æternam, si quis tamen (9) secundum volun-
+tatem ejus, a quo missus est Dei Patris, actus suos
+direxerit. Propter quod convertimini a malis ad bo-
+na, a temporalibus ad æterna. Agnoscite unum esse
+Deum cœli terræque rectorem, in cujus justis aspe-
+ctibus vos injusti mundum ejus habitatis. Sed si
+convertimini et secundum voluntatem ejus agitis, ad
+futurum sæculum venientes et æterni effecti, inef-
+fabilibus ejus bonis ac præmiis perfruemini. Erat
+autem vir iste, qui hæc loquebatur ad populum, ex
+Orientis partibus, natione Hebræus (10), nomine
+Barnabas, qui se etiam unum ex ejus discipulis (11)
+esse dicebat, missumque ob hoc, ut hæc volentibus
+
+# block=5 source_x1=988 source_y1=127 source_x2=1741 source_y2=1124
+sim in imperio Tiberii Cæsaris, initio ex Orientis
+partibus sumpto, pervenit ad nos, et per singula
+convalescens, velut a Deo bonus quidam nuntius
+missus, universum replebat orbem, nec patiebatur
+divinam voluntatem silentio tegi (7). Diffundebatur
+ergo per singula loca, annuntians, quod esset qui-
+dam in Judæa, qui sumpto a tempore veris exor-
+dio (8), regnum Dei evangelizaret Judæis, idque per-
+cepturos diceret eos, qui mandatorum suorum et
+doctrinæ instituta servassent. Ut autem sermo ejus
+fide dignus, ac divinitatis plenus esse crederetur,
+virtutes multas, et signa ac prodigia mira efficere
+jussione sola dicebatur, ita ut, tanquam a Deo po-
+testatem habens, surdos faceret audire et cæcos vi-
+dere, claudos erigeret, atque omnem infirmitatem
+cunctosque dæmones ex hominibus effugaret, sed
+et oblatos sibi mortuos suscitaret, leprosos quoque
+eminus videns curaret, et nihil omnino esset, quod
+ei impossibile videretur. Hæc et horum similia pro-
+cessu temporis, crebris jam non rumoribus, sed
+manifestis quodammodo adventantium ex illis par-
+tibus nuntiis firmabantur, et ipsa jam per dies sin-
+gulos rei veritas patescebat.
+
+# block=6 source_x1=200 source_y1=1952 source_x2=961 source_y2=2034
+VI. Et ne longa utar narratione, cum his ego co-
+gitationis meæ æstibus agitarer, fama quædam sen-
+
+# block=7 source_x1=201 source_y1=2503 source_x2=955 source_y2=2677
+(10) Natione Hebræus. Barnabam Cyprium fa-
+ciunt Interpretes ad Act. IV, 36, necnon Epiphanius
+hæresi 30, c. 25, Hieronymus in Catalogo, et
+Alexander monachus in Encomio S. Barnabæ.
+(11) Unum ex ejus discipulis. Ita apud Clementem
+
+# block=8 source_x1=201 source_y1=2174 source_x2=949 source_y2=2277
+(8) Sumpto a tempore veris exordio. Martyrologium
+Hieronymi dictum : Kalend. Maii. Initium prædi-
+cationis Domini nostri Jesu Christi. Wandalbertus :
+
+# block=9 source_x1=767 source_y1=73 source_x2=1156 source_y2=109
+RECOGNITIONUM LIB. I.
+
+# block=10 source_x1=204 source_y1=73 source_x2=276 source_y2=109
+1209
+
+# block=11 source_x1=983 source_y1=2111 source_x2=1750 source_y2=2646
+Alexandrinum, Eusebium et Epiphanium. Sic quo-
+que in Chronico vocato Alexandrino, Dorothei Syn-
+opsi, et Laudatione Alexandri. Sed Beda negat, in-
+firmo nixus fundamento. Mirum, inquit, Retracta-
+tione in Acta apostolorum, ad cap. 4, quomodo
+hunc Barnabam, qui postea cum Paulo gentium est
+ordinatus apostolus, ac post longum ejus contuber-
+nium Cyprum unde ortus fuerat, prædicaturus rediit,
+Eusebius in Historia ecclesiastica, de numero esse
+LXX discipulorum Domini Salvatoris arbitratur, cum
+manifeste scribat B. Lucas eum post ascensionem
+Domini ad discipulatum apostolorum venisse : nisi
+forte putandum est, eum prius ita discipulatum
+Christi secutum, ut necdum renuntiaverit omnibus
+quæ possidebat, quod utrum evangelicæ doctrinæ
+convenerit, cuivis facillime patet.
+
+# block=12 source_x1=245 source_y1=2274 source_x2=927 source_y2=2312
+Maias prima sacrat Christi doctrina Kalendas.
+
+# block=13 source_x1=202 source_y1=2108 source_x2=952 source_y2=2180
+(7) Tegi. In Freculfo, tegere, quod respondet
+Græco στέγειν.
+
+# block=14 source_x1=808 source_y1=2045 source_x2=1134 source_y2=2099
+COTELERII NOTÆ.
+
+# block=15 source_x1=1658 source_y1=68 source_x2=1740 source_y2=114
+1210

@@ -1,0 +1,92 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,271,1419,1185,2592
+2,294,132,1180,1117
+3,1212,1880,1821,2522
+4,1215,152,1829,1243
+5,1221,1418,1827,1870
+6,1408,1314,1637,1379
+7,289,2634,1813,2719
+9,679,84,1444,132
+10,277,76,383,136
+11,1749,86,1829,132
+12,559,1322,883,1410
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+443
+
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=11
+444
+
+# block=4
+res? Non enim recordati sunt quod
+dictum est : Ne circumspicias spe-
+ciem alienam. Propter speciem mu-
+lieris multi perierunt ⁶³ ; et : Cum
+muliere aliena ne sedeas omnino ⁶⁴.
+Et iterum : Nunquid potest homo
+abscondere ignem in sinu suo, ut
+vestimenta illius non ardeant? aut
+ambulare super prunas, ut non com-
+burantur plantæ ejus? Sic, qui in-
+greditur ad mulierem proximi, non
+erit mundus cum tetigerit eam ⁶⁵. Et
+iterum : Non concupiscat pulchritu-
+dinem ejus (mulieris) cor tuum, ne
+capiaris nutibus illius ⁶⁶ . Cum salta-
+trice ne assiduus sis, nec audias il-
+lam, ne pereas in efficacia illius ⁶⁷.
+Et iterum : Qui se existimat stare,
+videat ne cadat ⁶⁸.
+
+# block=6
+CAPUT XIV.
+
+# block=5
+Videte etiam quæ dixerint viri
+sancti de prophetis et apostolis Do-
+mini nostri. Nullum porro sanctum
+animadvertetis frequenter fuisse
+conversatum cum virginibus aut
+adolescentioribus virorum uxoribus
+vel viduis, quas devitandas esse di-
+vinus docet Apostolus ⁶⁹.
+
+# block=3
+Inspiciamus quomodo in Dei ti-
+more homines sancti vixerint. De
+Moyse et Aaron scriptum est quod
+relationes et contubernia ipsorum
+fuerint cum viris qui ipsis adhæse-
+rant. Idem est de Josue filio Nun.
+Nulla mulier fuit cum illis ; sed ipsi
+soli, scilicet viri cum viris, mini-
+sterium suum cum Deo impleverunt.
+Præterea populum monuerunt ut,
+quotiescunque castra moverentur,
+
+# block=7
+⁶³ Eccli. IX, 8. ⁶⁴ Ibid., 12. ⁶⁵ Prov. VI, 27, 28, 29. ⁶⁶ Ibid. , 25. ⁶⁷ Eccli. IX, 4. ⁶⁸ I Cor. X, 12.
+⁶⁹ I Tim. v. 11.

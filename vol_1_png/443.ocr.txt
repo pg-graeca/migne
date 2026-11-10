@@ -1,0 +1,202 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,179,632,938,1407
+2,181,1869,927,2730
+3,970,636,1740,1427
+7,971,164,1726,500
+8,182,160,932,497
+10,965,2063,1733,2695
+11,216,1447,945,1484
+12,1219,593,1464,629
+13,419,592,687,628
+14,178,1606,930,1867
+15,730,101,1214,145
+16,960,1601,1723,2065
+17,795,1526,1093,1560
+19,186,102,239,136
+20,1651,108,1719,150
+21,179,506,1725,586
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=19 fontSize=16px
+# block=20 fontSize=16px
+# block=21 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+EPISTOLA I AD CORINTHIOS.
+
+# block=19
+285
+
+# block=20
+286
+
+# block=8
+τῇ σαρκὶ (60) καὶ μὴ (61) ἀλαζονευέσθω , γινώσ[κων
+ὅτι ἔτε]ρός ἐστιν ὁ ἐπιχορηγῶν (62) [αὐτῷ] τὴν ἐγ-
+κράτειαν. ᾿Αναλογι[σώμε]θα οὖν, ἀδελφοὶ, ἐκ ποίας
+[ὕλης] ἐγενήθημεν (63), ποῖοι καὶ τί[νες εἰ]σήλθομεν
+εἰς τὸν κόσμον, [ὡς ἐκ τ]οῦ τάφου καὶ σκότους· (64)
+ὁ ποιήσας ἡμᾶς καὶ δημιουργήσας [εἰσή]γαγεν εἰς
+τὸν κόσμον αὐτοῦ, [προε]τοιμάσας τὰς εὐεργεσίας
+[αὐτ]οῦ, πρὶν ἡμᾶς γεννηθῆναι. [Ταῦ]τα οὖν πάντα
+
+# block=7
+nat. Reputemus ergo, fratres, ex qua materia facti
+simus; qui et quales in mundum ingressi sumus,
+tanquam e sepulcro et tenebris : auctor et opifex
+noster in mundum suum nos introduxit, præparatis
+ante quam nasceremur benefactis suis. Hæc igitur
+omnia ab eo habentes, in omnibus gratias ipsi
+agere debemus; cui gloria in sæcula sæculorum.
+Amen.
+
+# block=21
+ἐξ αὐτοῦ ἔχοντες, [ὀ]φείλομεν κατὰ πάντα εὐχαριστεῖν [αὐ]τῷ · ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων.
+᾿Αμήν.
+
+# block=13
+ΚΕΦΑΛΑΙΟΝ ΛΘ΄.
+
+# block=12
+CAPUT XXXIX.
+
+# block=1
+Ἄφρονες καὶ ἀσύνετοι, καὶ μωροὶ, καὶ ἀπαίδευτοι
+χλευάζουσιν ἡμᾶς καὶ μυκτηρίζουσιν , ἑαυτοὺς βου-
+λόμενοι ἐπαίρεσθαι ταῖς διανοίαις αὐτῶν. Τί γὰρ
+δύναται θνητός; ἢ τίς ἰσχὺς γηγενοῦς; γέγραπται
+γάρ· Οὐκ ἦν μορφὴ πρὸ ὀφθαλμῶν μου· ἀλλ’
+ἢ αὔραν καὶ φωνὴν ἤκουον. Τί γάρ ; μὴ καθαρὸς
+ἔσται βροτὸς ἔναντι Κυρίου (65); ἢ ἀπὸ τῶν ἔρ-
+γων αὐτοῦ ἄμεμπτος ἀνήρ; εἰ κατὰ παίδων αὐ-
+τοῦ οὐ πιστεύει, κατὰ δὲ ἀγγέλων αὐτοῦ σκολιόν
+τι ἐπενόησεν, οὐρανὸς δὲ οὐ καθαρὸς ἐνώπιον
+αὐτοῦ· ἔα δέ, οἱ κατοικοῦντες οἰκίας πηλί-
+νας (66), ἐξ ὧν καὶ αὐτοὶ ἐκ τοῦ αὐτοῦ πηλοῦ
+ἐσμεν · ἔπαισεν αὐτοὺς σητὸς τρόπον , καὶ ἀπὸ
+πρωΐθεν ἕως ἑσπέρας οὐκ ἔτι εἰσίν · παρὰ τὸ μὴ
+δύνασθαι αὐτοὺς ἑαυτοῖς βοηθῆσαι, ἀπώλοντο ·
+ἐνεφύσησεν αὐτοῖς, καὶ ἐτελεύτησαν, παρὰ τὸ μὴ
+ἔχειν αὐτοὺς σοφίαν. Ἐπικάλεσαι δὲ, εἴ τίς σοι
+ὑπακούσεται, ἢ εἴ τινα ἁγίων ἀγγέλων ὄψῃ ʹ (67).
+
+# block=3
+Stulti et insipientes, et fatui, et imperiti derident
+nos ac subsannant, dum cogitationibus suis se ex-
+tollere cupiunt. Quid enim potest mortalis? aut
+quale robur terrigenæ? Scriptum est enim : Non
+erat figura ante oculos meos; sed auram et vocem
+audiebam. Quid enim? nunquid homo coram Domino
+mundus erit? vel de operibus suis inculpabilis vir?
+Si in servis suis non credit, et adversus angelos suos
+pravum quid advertit ⁴⁵ ; cælum autem non est mun-
+dum coram eo ⁴⁶ : hem vero, qui habitant domos lu-
+teas, ex quibus et ipsi de eodem luto sumus. Percussit
+illos tanquam tinea, et a mane usque ad vesperam
+ultra non sunt : eo quod non possent sibi ipsis sub-
+venire, perierunt : insufflavit eis, et interierunt; quia
+non habebant sapientiam ⁴⁷. Invoca autem, si quis
+tibi respondeat; vel si quem sanctorum angelorum
+aspicias : etenim stultum perimit ira; errantem autem
+occidit zelus. Ego autem vidi stultos radices mitten-
+
+# block=11
+⁴⁵ Job iv, 16-18. ⁴⁶ Job xv, 15. ⁴⁷ Job iv, 19-21.
+
+# block=17
+VARIORUM NOTÆ.
+
+# block=16
+culæ vis et potestas. Quod si interpretemur, tan-
+quam ex sepulcro, sive receptam distinctionem ser-
+vemus, sive prout voluit Cl. Potterus eam mute-
+mus, oratio non recte cohæret, meraque fit arena
+sine calce. » Cæterum hæc verba, ἐκ τοῦ τάφου καὶ
+σκότους, interpretatur Bois. ex tenebricoso sepulcro,
+per figuram quæ dicitur ἓν διὰ δυοῖν : « Tenebrico-
+sum autem sepulcrum, inquit, vocare videtur
+S. Pater uterum maternum, quia inde tanquam ex
+tenebricoso aliquo sepulcro homines in hanc lucem
+prodeunt. » ID.
+(65) Ἔναντι Κυρίου. Ita ms. Ita quoque cod.
+Alex. Job v, 17. Vat. tamen, ἐναντίον τοῦ Κυρίου.
+Wотт. ID.
+
+# block=14
+(60) Ὁ ἁγνὸς ἐν τῇ σαρκί. Unus est iste ex illis
+locis, in quibus Clemens, juxta relationem cum
+Epiphanii, hæresi 30, cap. 15, tum Hieronymi,
+lib. 1 contra Jovinianum, cap. 7, pro virginitate per
+epistolas suas locutus fuerat. Ipse virgo; si fides
+auctori Recognitionum, interpolatori epistolarum
+S. Ignatii, atque Althelmo, seu Adelmo. Et quidni
+fides? Cor.
+
+# block=2
+(61) Καὶ μή. Istud καὶ non agnoscit Clemens
+Alex. expunxitque Russel. in edit. Lond. Delendum
+sane cum viris eruditis, utpote ortum ex male re-
+petita præcedentis voculæ syllaba. Gall.
+(62) Ἔτερός ἐστιν ὁ ἐπιχορηγῶν. Cyprianus
+ad Donatum de gratiæ divinæ efficacia eleganter :
+Dei est, inquam, Dei omne quod possumus, inde vivi-
+mus, inde pollemus, etc., ubi ad verba divi Pauli
+Act. XVII, 28, alludere videtur : Ἐν αὐτῷ γὰρ ζῶ-
+μεν, καὶ κινούμεθα, καὶ ἐσμέν. Jun.
+(63) Ἐγενήθημεν. Ita ms. quomodo vertit Ju-
+nius : ex qua materia facti sumus, licet ejus editio
+cum ceteris omnibus præ se ferat, ἐγεννήθημεν.
+Wотт. Gall.
+(64) Εἰς τὸν κόσμον, ὡς ἐκ τοῦ τάφου καὶ
+σκότους. Potterus in notis ad Clem. Alex. l. c. ista
+sic potius distinguenda censet : ᾿Αναλογισώμεθα—
+ποῖοι καὶ τίνες εἰσήλθομεν εἰς τὸν κόσμον· ὡς ἐκ
+τοῦ τάφου καὶ σκότους ὁ ποιήσας ἡμᾶς καὶ δημιουργ-
+γήσας εἰσήγαγεν εἰς τὸν κόσμον αὐτοῦ. Reputemus
+—qui et quales in mundum ingressi sumus : tanquam
+e sepulcro et tenebris auctor et opifex noster in
+mundum suum nos introduxit. Aliter Dav.cujus hæc
+sententia : « Deleta post vocem κόσμον interpun-
+ctione, vertendum quasi legeretur, ὅτι ἐκ τοῦ τάφου
+καὶ σκότους : aliquando enim hæc est istius parti-
+
+# block=10
+(66) Ἔα δέ, οἱ κατοικοῦντες οἰκίας πηλίνας.
+Melior ea lectio Vulgata et Ambrosiana, τοὺς δὲ κατ-
+οικοῦντας, a qua non sine labe, abest vox ἔα, ut
+patet ex ms. Alex. Quid sit ἔα, docent grammati-
+corum filii, nec non Polychronius ad Job xv, 16.
+In Catena autem libri Job, non quidem edita, sed
+ms. regiæ Bibliothecæ, ad illud: “Ἔα δὲ ἄνθρωπος,
+xxv, 6, ex Olympiodori expositione reperi : “Ἔα δέ,
+ἀντὶ τοῦ, Καὶ περιττὸν καὶ λογίσασθαι περὶ ἀν-
+θρώπου. Chrysostomus, Περὶ ἀκαταλήπτου· “Ἔα
+(sic omnino legendum, pro quo unus cod. Reg. ἐάν,
+alter ἐῶ) δέ τοὺς κατοικοῦντας οἰκίας πηλίνας ἐξ οὗ
+καὶ αὐτοὶ ἐσμεν ἐκ ( abest præpositio in 2 Reg. )
+τοῦ αὐτοῦ πηλοῦ. Apud Augustinum. lib. Adnot. in
+Job : Habitantes autem (alias etiam) domos luteas,
+quorum conversatio non est in cælis, percussit illos
+tanquam tinea. Cor.
+(67) Ὄψη. Sic ms. cod. apud Wott. Editi, præ-
+ter Londin., ὄψεις. Gall.

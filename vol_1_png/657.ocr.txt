@@ -1,0 +1,227 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,955,130,1708,642
+2,162,133,926,561
+3,160,781,934,1166
+4,955,781,1710,1167
+5,957,2016,1723,2320
+6,959,2322,1722,2574
+7,160,1645,919,2695
+8,961,2577,1711,2651
+9,953,1315,1725,2023
+10,162,1310,920,1647
+11,777,1246,1073,1284
+12,593,77,1267,115
+13,407,656,667,699
+14,303,2687,547,2726
+15,1528,2670,1570,2723
+16,261,1202,510,1238
+17,1231,660,1424,697
+18,955,703,1708,774
+19,159,705,916,776
+21,1645,75,1699,113
+23,161,82,231,120
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=21 fontSize=15px
+# block=23 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=21
+713
+
+# block=12
+CONSTITUTIONES APOSTOLICÆ.-LIB. II.
+
+# block=23
+713
+
+# block=1
+tores fueritis senum illorum Babylonis incolarum
+qui falso testimonio contra Susannam dicto, eam
+injusta mortis damnatione affecerunt ; obnoxii eri-
+tis sententiæ et condemnationi adversum eos latæ.
+Quoniam Susannam quidem Dominus per Danielem
+eripuit e manibus iniquorum, reos autem sanguinis
+feminæ senes ad ignem damnavit ; vobis vero per
+Danielem exprobravit, dicens : ‹ Sic fatui filii Is-
+rael, non dijudicantes, neque quod manifestum est
+cognoscentes, condemnastis filiam Israel? Reverti-
+mini ergo ad judicium, quia falsum testimonium
+isti locuti sunt adversus eam 96 . ›
+
+# block=2
+καταμαρτυρήσαντες τῆς Σωσάννης ἀδίκως κατεδίκα-
+σαν αὐτὴν εἰς θάνατον, ἔνοχοι τῆς ἐκείνων κρίσεως
+καὶ καταδίκης γένησθε. "Οτι τὴν μὲν Σωσάνναν ὁ
+Κύριος διὰ τοῦ Δανιὴλ ἐρρύσατο ἐκ χειρὸς παρανό-
+μων, τοὺς δὲ ἐνόχους τοῦ αἵματος αὐτῆς πρεσβυτέ-
+ρους ἐν πυρὶ κατεδίκασεν (97), ὑμᾶς δὲ δι' αὐτοῦ
+ὠνείδισε λέγων· ‹ Οὕτως μωροὶ οἱ υἱοὶ 'Ισραήλ, οὐκ
+ἀνακρίναντες , οὐδὲ τὸ σαφὲς ἐπιγνόντες κατεκρίνατε
+θυγατέρα 'Ισραήλ; ᾿Αναστρέψατε οὖν εἰς τὸ κριτή-
+ριον· ψευδῆ γὰρ οὗτοι κατεμαρτύρησαν αὐτῆς. ›
+
+# block=13
+ΚΕΦΑΛΑΙΟΝ ΝΒ'.
+
+# block=17
+CAPUT LII.
+
+# block=18
+Exemplum justi judicii capiatur de cautione quam in
+sententiis judices gentiles adhibent.
+
+# block=19
+Παράδειγμα τοῦ δικαίου κρίματος ἢ τῶν ἔξωθεν
+δικαστῶν περὶ τὰς ἀποφάσεις ἀσφάλεια.
+
+# block=3
+Θεάσασθε δὲ καὶ τὰ κοσμικὰ δικαστήρια, ὧν τῇ
+ἐξουσίᾳ ὁρῶμεν ἀγομένους φονεῖς , μοιχοὺς, φαρμα-
+κούς, τυμβωρύχους, λῃστάς· καὶ τὰς ἀνακρίσεις (98)
+αὐτῶν λαβόντες οἱ ἡγούμενοι ὑπὸ τῶν προσαγόντων,
+λέγουσι τῷ κακουργῷ, εἰ ταῦτα οὕτως ἔχει· κἀκείνου
+συγκαταθεμένου, οὐκ εὐθέως ἐπὶ τὴν κόλασιν αὐτὸν
+ἐκπέμπουσιν, ἀλλὰ πλείοσιν ἡμέραις ποιοῦνται αὐτοῦ
+τὴν ἐξέτασιν μετὰ συμβουλίου πολλοῦ, καὶ παραπε-
+τάσματος μέσου (99). Τελευταῖον (100) ὅρον καὶ ψῆ-
+
+# block=4
+Respicite etiam ad mundana judicia, quorum
+potestate videmus trahi homicidas, adulteros, vene-
+ficos, sepulcrorum prædatores, latrones. Etenim
+cum magistratus ab iis qui reos in jus rapiunt, ea
+acceperint quæ ad horum pertinent causam, quæ-
+runt ex malefico, an ita se res habeat : et licet
+confiteatur, non illico eum mittunt ad supplicium ;
+sed pluribus diebus, cum multa consultatione et
+interjecto velo, inquirunt de crimine. Postremo
+
+# block=16
+96 Dan. XIII, 48.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=10
+(97) ᾿Εν πυρὶ κατεδίκασεν. Juxta Hebræorum
+traditionem apud Origenem Epistola ἀμοιβαίᾳ ad
+Africanum; et apud Hieronymum tum epist. 10,
+tum in Commentariis ad Jeremiæ XXIX, 21, 22, 23,
+et ad Danielis XIII, 5, 62, quod Achabus et Sedecias
+pseudoprophetæ, quos frixit rex Babylonis in ignε,
+atque duo senes judices Susannæ calumniatores,
+iidem extiterint. De quo consulendi interpretes.
+Cот. Pro ἐν πυρὶ, in altero Vindob. cod. est tantum
+πυρί. CLER.
+
+# block=9
+διαπορθμεύει τῷ δικαστῇ· καὶ τοιοῦτον ἂν ἴδοι τις
+τῶν δικαζόντων πανταχοῦ τὸ ἔθος. Et concione 2 De
+Lazaro : Οἱ τὸ δεσμωτήριον οἰκοῦντες, ἀεὶ μὲν ἐν κατη-
+φείᾳ καὶ ὀδύναις εἰσὶ, μάλιστα δὲ κατὰ τὴν ἡμέραν
+ἐκείνην, καθ' ἣν ἂν μέλλωσιν ἐξάγεσθαι, καὶ παρ'
+αὐτὰς τὰς τοῦ δικάζοντος ἄγεσθαι θύρας· καὶ πρὸ
+τῶν κιγκλίδων ἐστῶτες, καὶ τῆς τοῦ κρίνοντος φωνῆς
+ἔνδοθεν ἀκούοντες, ἀποπήγνυνται τῷ φόβῳ, καὶ τῶν
+νεκρῶν οὐδὲν ἄμεινον διάκεινται. Concione 4 : ᾿Επὶ
+τῶν ἔξωθεν δικαστηρίων τούτων, ὅταν ὦσί τινες ὑπεύ-
+θυνοι λῃσταὶ καὶ ἀνδροφόνοι, πόρῤω τῆς ὄψεως τοῦ
+δικάζοντος ἀποστήσαντες τούτους οἱ νόμοι, τῆς τοῦ
+κρίνοντος οὐκ ἐπιτρέπουσιν ἀκοῦσαι φωνῆς, κἂν
+τούτῳ μετὰ τῶν ἄλλων αὐτοὺς ἀτιμάζοντες, ἀλλὰ
+μέσος τις διακονεῖ ταῖς ἐρωτήσεσι τοῦ δικάζοντος,
+καὶ ταῖς ἀποκρίσεσι τῶν δικαζομένων. Noti sunt
+Prudentii versus Hamartigeniæ 440, etc. :
+Qui summum solidumque bonum putat, ambitionis
+Crescere successu; præconum voce trementes
+Examinare reos.
+ID.
+
+# block=7
+(98) ᾿Ανακρίσεις. Quid in judiciis sit ἀνάκρισις
+docent lexicographi. Totam autem judicialem sce-
+nam graphice descriptam habes in Opere imper-
+fecto, ad Matth. xxv, 31, hoc pacto : Criminosas
+personas judex auditurus in publico, tribunal suum
+collocat in excelso, circa se constituit vexilla regalia,
+ante conspectum suum ponit super mensam caliculam
+(f. caliculum), unde tribus digitis mortem hominum scri-
+bat aut vitam : hinc inde officiales ordinate consistunt;
+in medio secretario ponuntur genera horrenda pœnarum
+quæ non solum pati, sed et videre, tormentum : stant
+juxta parati tortores, crudeliores aspectu quam ma-
+nibus. Tota judicii facies cujusdam schematis terrore
+vestitur. Et cum ad medium productæ fuerint crimi-
+nosæ personæ, ante interrogationem judicis ipsius,
+judicii terribili discutiuntur aspectu. Et ad ejusdem
+capitis versiculum 33 : Quando aliquis ante con-
+spectum regis aut judicis introducitur, ex ipso loco
+ubi stare jubetur, intelligit si propter bonum intro-
+ductus est, aut propter malum. Si enim propter bo-
+num, statim vocatur in proximo ; si propter malum,
+longe stare jubetur. Genuinus Chrysostomus homil.
+17 in Genesim, interpretans Dei interrogationem,
+Adam, ubi es? ait: "Ιστε γὰρ ὅτι ἐπειδὰν ἐφ' ὑψηλοῦ
+τοῦ βήματος καθήμενοι δίκην εἰσπράττονται τοὺς τὰ
+φαῦλα ἐργασαμένους, οὐκ ἀξιοῦσιν αὐτοὺς τῆς οἰ-
+κικίας ἀποκρίσεως, καὶ διὰ τοῦτο δεικνύντες αὐτοῖς,
+ὅση ἀτιμίᾳ ἑαυτοὺς περιέβαλον διὰ τῆς τῶν πονηρῶν
+πραγμάτων ἐργασίας· ἀλλ' ὁ μὲν δικαστής ἀποκρί-
+νεται, ἕτερος δέ τις ἐστὼς διαβιβάζει τὰ παρὰ τοῦ
+δικαστοῦ τῷ ὑπευθύνῳ ; καὶ τὰ παρ' ἐκείνου πάλιν
+
+# block=5
+(99) Παραπετάσματος μέσου. Suidæ Lexicon,
+παραπέτασμα· παρακάλυμμα , παράπλωμα, τὸ λεγό-
+μενον βῆλον. Basilius epist. 79, circa finem : Οἱ τοῦ
+κόσμου τούτου ἄρχοντες, ὅταν τινὰ τῶν κακούργων
+θανάτῳ καταδικάζειν μέλλωσιν, ἐφέλκονται τὰ παρα-
+πετάσματα, καλοῦσι δὲ τοὺς ἐμπειροτάτους πρὸς τὴν
+ὑπὲρ τῶν προκειμένων σκέψιν, καὶ πολὺν ἐνσχολά-
+ζουσι χρόνον, etc. Ad quod ultimum pertinet etiam
+versus Juvenalis, sat. 6 :
+
+# block=6
+Nulla unquam de morte hominis cunctatio longa est.
+Ubi (ut id obiter indicem) supplendus est vetus
+Scholiastes, sic : De nece ingenui nulla est longa
+dubitatio. Cæterum non habeo quod addi mereatur
+observationibus virorum doctorum de velis judicum,
+principum, magnorum, basilicarum, et de judiciis
+interjecto aut levato velo. Сот.
+
+# block=8
+(100) Τελευταῖον. Ms. Vind. Ẽτα τελευταῖον.
+CLER.
+
+# block=15
+23
+
+# block=14
+PATROL. GR. I.

@@ -1,0 +1,234 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,192,514,952,1146
+2,980,294,1742,1499
+3,192,166,951,506
+4,980,1504,1734,1715
+5,981,1886,1734,2054
+6,979,2283,1736,2484
+7,982,1752,1736,1887
+8,194,1593,942,1716
+9,195,2216,950,2516
+10,979,164,1730,289
+11,196,1886,954,2085
+12,980,2052,1739,2218
+13,193,1247,940,1585
+14,193,1753,950,1889
+15,304,1157,833,1238
+16,202,2512,945,2718
+17,774,113,1141,149
+19,192,2082,951,2216
+20,1016,2216,1376,2251
+22,194,111,248,149
+24,1016,2250,1377,2285
+25,1671,116,1727,152
+26,970,2483,1726,2683
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=12px centerRows=true
+# block=16 fontSize=15px
+# block=17 fontSize=16px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=22 fontSize=16px
+# block=24 fontSize=15px
+# block=25 fontSize=16px
+# block=26 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=22
+129
+
+# block=17
+PROOEMIA VARIORUM.
+
+# block=25
+130
+
+# block=10
+sti verba, quæ in Evangelio non leguntur, proferre,
+quorum aliqua ex apocrypho Ægyptiorum Evange-
+lio petita sunt (64).
+
+# block=3
+tyrem manu versasse; quin et nonnulla ex ea ver-
+botenus excerpta in suam ad Philippenses Episto-
+lam transtulisse, suadent loca ex Clementina et
+Polycarpiana epistola desumpta, in medium pro-
+lata, atque invicem collata (59). Hanc unam ob
+causam, Bernardi, Clerici ac Moshemii, conjecta-
+tiones de hujus laciniis ex Clemente Alexandrino
+desumptis omnino evanescant oportet.
+
+# block=2
+His vero posthabitis contendunt Cotelerius (65),
+Coutantius (66), Gallandius (67), et Bullus (68), et
+alii, epistolam hanc revera sancti Clementis esse.
+Cernimus enim eam (69) postremo apostolorum ca-
+none non modo sancto Clementi tributam esse,
+verum etiam prioris instar inter Scripturas sacras
+recenseri. Sanctus Epiphanius (70) eam quoque
+S. Clementis nomine recitat, cui et a sancto Hiero-
+nymo (71) atque etiam a Photio (72) tribuitur.
+Quibus fit, ut, cum eam tanquam supposititiam
+habitam dixerunt, non ex sua, sed aliorum senten-
+tia locuti fuerint. Eusebius vero inter eos, qui epi-
+stolam hanc ut supposititiam duxerunt, minime est
+numerandus, cum nihil de ea pronuntiet, nisi (73)
+eam non adeo ut priorem celebrem, atque a veteri-
+bus memoratam fuisse. Id autem mirum videri non
+debet, cum non, ut prior, Romanæ Ecclesiæ, sed
+pontificis tantum nomine scripta, neque publice in
+Ecclesia lecta fuerit: unde factum, ut conjectat
+Bullus (74) ut quod paulatim, quasi Clementis re-
+vera non esset, neglectui habita fuerit; quam etiam
+ob causam aliæ Clementis epistolæ (nam et alias
+scripsisse virum sanctum mihi indubium est) pror-
+sus interciderunt. Cæterum in exiguis illis hujus
+epistolæ reliquiis multa cum priore similitudo elu-
+cet: idem quoque vetustatis color, eædem dicendi
+formæ et plures loci (75) ex apocryphis libris prolati
+in utraque spectantur.
+
+# block=1
+Neque alii profecto desunt, qui ejusdem epistolæ
+sinceritatem in dubium revocant, quod nimirum
+nonnulla fabulosa præ se ferat; quod aliqua in ea
+desiderentur a vetustis Patribus allegata, etc. Sed
+hos morosiores criticos missos facimus: tum quod
+eorum objectiones fluxo adeo talo nitantur, ut pe-
+dem cum singulis conferre haud expediat, tum in-
+primis, quod a plerisque viris eruditis res abunde
+satis fuerit pertractata. Firmum igitur, ratumque
+sit, germanam omnino priorem esse Clementis epi-
+stolam: quidquid enim in ea continetur, tempora
+plane apostolica refert; neque ullum ex omni retro
+antiquitate quispiam testem produxerit, qui ho-
+mines cordatos de illius sinceritate merito ancipites
+reddere valeat.
+
+# block=15
+ARTICULUS Ⅱ.
+DE SECUNDA AD CORINTHIOS EPISTOLA.
+
+# block=13
+Dubitationes veterum de altera sancti Clementis
+epistola. — Præter sancti Clementis ad Corinthios
+epistolam, de qua hactenus egimus, altera eidem
+ab Eusebii (60) ætate tribuitur, quæ tamen, ut est
+ab eo adnotatum, adeo celebris ut prior non erat, ne-
+que a veteribus recitabatur. Imo sanctus Hieronymus
+veteres eam rejecisse refert (61); Photius (62) vero
+ætate sua pro supposititia habitam fuisse testatur.
+
+# block=4
+Corinthiis inscripta fuit.— Eusebius, ad quos data
+sit hæc epistola, non commemorat; Photius vero aper-
+te ait (76), eam ad Corinthios datam fuisse, quod ex
+Dorothei Archimandritæ Niconis monachi atque ex
+Parallelorum auctoris testimonio (77) inter sancti
+
+# block=8
+Queritur hic præterea (63) humiles sententias,
+neque satis apte invicem nexas in ea exstare, atque
+alieniores interpretationes Scripturæ, et Jesu Chri-
+
+# block=7
+(69) Sint autem vobis libri venerabiles et sancti
+Veteris Testamenti Moysis quinque... libri vero no-
+stri, hoc est Novi Testamenti Evangelia quatuor...
+Clementis epistolæ duæ. Can. apost. 85.
+
+# block=14
+(59) Confer caput 1 epistolæ S. Clem. ad Co-
+rinth. cum cap. 4 epist. Polycarpi ad Philipp.;
+cap. 5 cum cap. 9; cap. 7 cum cap. 7; cap. 9 cum
+cap. 2; cap. 13 cum cap. 2; cap. 21 cum cap. 4.
+
+# block=11
+(60) Sciendum autem est alteram quoque sancti
+Clementis epistolam circumferri; verum hanc non
+perinde cognitam fuisse, ac primam, pro certo habe-
+mus; quandoquidem vetustiores illa nequaquam usos
+esse comperimus. Eusebius, H. E. l. Ⅲ, c. 38,
+pag. 117.
+
+# block=5
+(70) Dicit Clemens in una epistolarum suarum, etc.
+Epiphan. hæres. 77, n. 6. Ipse Clemens omnibus
+illos (Ebionitas) modis redarguit in Epistolis circula-
+ribus, quas scripsit, quæque in Ecclesiis leguntur.
+Idem hæres. 30, n. 15.
+
+# block=12
+(71) Ad hos (eunuchos) et Clemens successor apo-
+stoli Petri, cujus Paulus apostolus meminit, scribit
+epistolas, omnemque fere sermonem suum de virginita-
+tis puritate contexuit. Hieron., l. Ⅰ advers. Jovin.,
+cap. 7.
+
+# block=19
+(61) Fertur et secunda ejus nomine epistola, quæ
+a veteribus reprobatur. Hieron., in Catalog., c. 15.
+(62) Quæ secunda ad eosdem dicitur, ut notha re-
+jicitur. Phot. cod. cxiii.
+
+# block=9
+(63) Secunda vero epistola et ipsa institutionem
+ac admonitionem melioris vitæ inducit, atque in prin-
+cipio Christum Deum prædicat. Verum dicta quæ-
+dam peregrina, velut e sancta Scriptura subinducit,
+quibus ne prima quidem epistola vacat, et interpreta-
+tiones locorum quorumdam alieniores profert: alio-
+quin ipsa, quæ in his epistolis insunt, sensa non-
+nihil abjecta sunt, nec continentem seriem, ac con-
+sequentiam servant. Cod. 126, Photius.
+
+# block=20
+(72) Photius, cod. cxxvi.
+
+# block=24
+(73) Eusebius, ut supra.
+
+# block=6
+(74) Est id a Photio observatum codice 125. Ve-
+rum dicta quædam peregrina, inquit hic criticus,
+velut e Scriptura sacra subinducit, quibus ne prima
+quidem epistola omnino vacat. Vide num. 23 prioris,
+et 12 ac 13 numeros posterioris Clementis epi-
+stolæ.
+
+# block=26
+(75) Defensio fidei Nicænæ, pag. 50.
+(76) Lectus est libellus, in quo Clementis epistolæ
+duæ ad Corinthios continebantur. Photius, ibid.
+(77) Ut enim ait S. Clemens : Etiamsi quis non
+coronetur, studeat tamen non procul a coronatis in-
+veniri. Epist. 2, c. 7.
+
+# block=16
+(64) Clemens epist. 2 ad Corinth., n. 4, 5, 12.
+(65) T. 1 PP. apostolicorum, pag. 182.
+(66) Epistol. Rom. pontif., pag. 34.
+(67) In Biblioth. PP. noviss. Græco-Latina, t. Ⅰ,
+pag. 14, prolegom.
+(68) Defensio fidei Nicæn., pag. 49 et 50.

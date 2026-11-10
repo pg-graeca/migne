@@ -1,0 +1,163 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,185,173,934,2548
+2,964,900,1717,2554
+3,180,2576,1719,2751
+4,720,110,1145,148
+7,959,470,1717,892
+8,959,290,1709,464
+9,1637,98,1709,144
+10,177,124,239,168
+11,959,164,1713,290
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=11
+tis dæmones cum passionibus , quas hominibus in-
+vexerant, transierunt et fugati sunt. ³⁰ Quia ergo alii
+quidem homines patiuntur , alii patientes sanant,
+
+# block=9
+494
+
+# block=4
+EPISTOLÆ DECRETALES
+
+# block=10
+493
+
+# block=8
+causa sine dubio vel patiendi vel curandi noscenda
+est ; quæ non alia esse, quam patientibus quidem,
+infidelitatis, curantibus vero , fidei, demonstratur.
+Infidelitas enim dum non credit futurum Dei judi-
+
+# block=1
+bis per Dei providentiam collata est, instruere igna-
+ros et docere. Desiderium ergo habere omnes erga
+doctorem veritatis, eumque ut oculos suos amare
+oportet ; quia et ipsum populum sibi commissum,
+ceu proprios filios, amare et docere condecet ; hoc
+enim ei a Patre cœlesti donatum est 23. Sed et salus
+in eo est, ut voluntatem ejus cujus amorem et de-
+siderium, Deo largiente, conceperint, faciant 23, Si
+quis ergo fidelis voluerit existere, et desiderat ba-
+ptizari, exutus prioribus malis, de reliquo pro bonis
+actibus hæres honorum cœlestium ex gestis propriis
+fiet. Accedat autem qui vult ad sacerdotem suum,
+et ipsi det nomen suum, atque ab eo audiat myste-
+ria regni cœlorum, jejuniis frequentibus operam im-
+pendat, ac semetipsum in omnibus probet, ut tribus
+mensibus jam consummatis, in die festo possit ba-
+ptizari. Baptizetur autem unusquisque in aquis pe-
+rennibus, nomine trinæ beatitudinis invocato super
+se, perunctus primo oleo per orationem sanctificato,
+ut ita demum, per hæc consecratus, possit perci-
+pere locum cum sanctis.24 Nullus enim propter op-
+probrium senectutis aut juventutis, vel nobilitatem
+generis, a parvulis et minus eruditis, si quid forte
+est utilitatis aut salutis, inquirere negligat. Qui enim
+rebelliter vivit, et discere atque agere bona recusat,
+magis diaboli quam Christi membrum esse ostendi-
+tur, et potius infidelis quam fidelis monstratur.
+Quomodo ergo non omnibus hoc amabile est, cun-
+ctisque exoptatum, ut quæ ignorat, discat, et quæ
+didicerit, doceat ? 25 Certissimum namque est, quod
+neque amicitia, neque propinquitas generis, neque
+regni sublimitas, homini debet esse pretiosior veri-
+tate, quia nihil est pretiosius anima. 26 Dominus au-
+tem creator omnium, ex initio ad imaginem suam
+hominem fecit, eique dominationem terræ, ma-
+risque et aeris ipsius dedit, veritatemque in-
+quirere præcepit, sicut et verus nobis propheta
+enarravit, et ipsa rerum ratio docet. Solus enim
+homo rationalis est, et consequens est, ut ratio in
+rationalibus 27 dominetur. Hic enim ab initio, cum
+adhuc justus esset, cunctis vitiis et omni fragilitate
+superior erat; ubi autem peccavit, et factus est
+servus peccati, simul et fragilitati efficitur debitor
+et obnoxius. Quod idcirco scriptum est, ut sciant
+homines, quia sicut ex impietate passibiles facti
+sunt, ita per pietatem possunt esse impassibiles 28 :
+et non solum impassibiles, verum et parva in Deum
+fide aliorum passiones curantes. Ita enim verus ipse
+propheta promisit, dicens : Amen dico vobis, si ha-
+bueritis fidem sicut granum sinapis, dicetis monti
+huic : Transi hinc, et transibit 29. Hujus vocis etiam
+vos ipsi documenta cepistis, et jam facta quædam
+per magistros nostros, ipsos videlicet apostolos,
+non ignoratis ; quia, astantibus nobis, eorum meri-
+
+# block=7
+cium , peccandi licentium præbet ; peccatum vero,
+hominem passionibus obnoxium facit. Fides autem,
+futurum Dei judicium esse credens, continet homi-
+nes a peccato. Non peccantes vero , non solum li-
+beri sunt a dæmonibus et passionibus, verum et alio-
+rum dæmones et passiones fugare possunt. ³¹ Ex his
+ergo omnibus colligitur, quod origo totius mali ab
+ignorantia descendat, et ipsa sit omnium malorum
+mater, quæ incuria et ignavia gignitur, negligentia ve-
+ro alitur et augetur, atque in sensibus hominum radi-
+
+# block=2
+catur, dum amatur; quam si quis forte doceat effu-
+gandam velut antiquis et hæreditariis sedibus, mo-
+leste et indignanter avellitur. Et ideo paululum la-
+borandum nobis est, ut indignantes, ignorantiæ
+præsumptionem scientiæ ratione resecemus ; in his
+præcipue, qui in aliquibus minus rectis opinionibus
+præventi sunt, per quas, quasi sub specie alicujus
+scientiæ, ignorantia in his vehementius radicata
+est. Nihil enim est gravius, quam si id quod ignorat
+quis, scire se credat, et defendat verum esse, quod
+falsum est : quod tale est, quale si quis ebrius so-
+brium se putet, et agat quidem cuncta ut ebrius,
+sobrium se tamen et ipse putet, et dici a cæteris
+velit. Ita sunt ergo et hi, qui ignorantes quod verum
+est, speciem tamen alicujus scientiæ tenent, et
+mala quasi bona gerunt, atque ad perniciem quasi
+ad salutem festinant. ³² Propter quod ante omnia
+properandum est ad agnitionem veritatis, ut possi-
+mus, quasi lumine nobis inde accenso ³³, errorum
+tenebras depellere. Grande enim malum est, ut di-
+ximus, ignorantia ; sed quia substantiam non habet,
+facile ab his, qui studiosi sunt, effugatur. Non
+enim aliud est ignorantia, nisi non cognovisse quod
+expedit. Ubi autem cognoveris, perit ignorantia.
+Quæri ergo magnopere debet veritatis agnitio, quam
+nemo alius assignare potest, nisi verus propheta
+Hæc enim ³⁴ via ³⁵ est, vitam volentibus ingredi
+et summum ³⁶ iter bonorum operum pergentibus ad
+civitatem salutis. ³⁷ Si quis sane audiens sermonem
+veri prophetæ velit aut nolit recipere et amplecti
+onus ejus, id est mandata vitæ, habet in sua pote-
+state; liberi enim sumus arbitrii. Nam si hoc esset,
+ut videntes ea, jam non haberent in potestate aliud
+facere, quam audierant ; vis erat quædam naturæ,
+per quam liberum non esset ad aliam migrare sen-
+tentiam. Aut si rursus ex audientibus nullus om-
+nino reciperet, et hoc naturæ vis erat, quæ unum
+aliquid fieri cogeret, et alteri parti non daret locum.
+
+# block=3
+²² Recognit. ɪᴠ, c. 5. ²³ Recognit. ɪɪɪ, c. 67. ²⁴ Dist. 38, Nullus episcopus. — Recognit. ɪ, c. 67.
+²⁵ Ans. Luc. lib. ɪ In Wibertum. ²⁶ Recognit. ᴠ, c. 2. ²⁷ rationalis irrationabilibus. ²⁸ ἀπαθεῖς.
+²⁹ Matth. xᴠɪɪ, 19. ³⁰ Recognit. ᴠ, c. 3. ³¹ Recognit. ᴠ, c. 4. ³² Recognit. ibid., c. 5. ³³ succenso.
+³⁴ Ms. et Recognit. porta est vitæ, volentibus ingredi, et iter. HARDUINUS. ³⁵ porta. ³⁶ semita. ³⁷ Re-
+cognit., ᴠ, c. 6.

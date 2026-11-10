@@ -1,0 +1,217 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,217,405,970,916
+2,215,1021,964,1319
+3,994,1031,1739,1322
+4,224,138,965,302
+6,426,938,768,974
+7,1220,937,1497,979
+8,997,403,1744,918
+9,218,1364,1731,1433
+10,999,138,1752,306
+11,1007,2121,1731,2201
+13,650,78,1356,121
+18,996,1528,1737,1973
+19,824,1473,1110,1508
+20,995,2207,1546,2244
+21,1000,2423,1577,2457
+22,1004,2467,1734,2548
+23,1174,2064,1576,2103
+27,226,81,297,119
+29,997,2553,1719,2674
+30,422,321,758,354
+33,209,1526,962,2003
+34,1000,2381,1321,2412
+35,996,2291,1736,2373
+36,1661,84,1741,132
+37,1223,360,1489,404
+38,1199,316,1519,364
+39,471,360,717,406
+40,447,976,735,1016
+41,1231,976,1489,1018
+42,313,2060,845,2106
+43,195,2105,957,2703
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=217 source_y1=405 source_x2=970 source_y2=916
+« Αἰνεῖτε, παῖδες, Κύριον· αἰνεῖτε τὸ ὄνομα Κυρίου. »
+Αἰνοῦμέν σε, ὑμνοῦμέν σε, εὐλογοῦμέν σε, διὰ τὴν
+μεγάλην σου δόξαν· Κύριε βασιλεῦ, ὁ Πατὴρ τοῦ
+Χριστοῦ, τοῦ ἀμώμου ἀμνοῦ, ὃς αἴρει τὴν ἁμαρτίαν
+τοῦ κόσμου· σοὶ πρέπει αἶνος· σοὶ πρέπει ὕμνος·
+σοὶ δόξα πρέπει τῷ Θεῷ καὶ Πατρὶ, διὰ τοῦ Υἱοῦ, ἐν
+Πνεύματι τῷ παναγίῳ (68), εἰς τοὺς αἰῶνας τῶν αἰώ-
+νων. Ἀμήν. « Νῦν ἀπολύεις τὸν δοῦλόν σου, Δέσποτα,
+κατὰ τὸ ῥῆμά σου, ἐν εἰρήνῃ· ὅτι εἶδον οἱ ὀφθαλμοί
+μου τὸ σωτήριόν σου, ὃ ἡτοίμασας κατὰ πρόσωπον
+πάντων τῶν λαῶν, φῶς εἰς ἀποκάλυψιν ἐθνῶν, καὶ
+δόξαν λαοῦ σου Ἰσραήλ.»
+
+# block=2 source_x1=215 source_y1=1021 source_x2=964 source_y2=1319
+« Εὐλογητὸς εἶ, Κύριε, » ὁ τρέφων με ἐκ νεότητός
+μου, ὁ διδοὺς τροφὴν πάσῃ σαρκί· πλήρωσον χαρᾶς
+καὶ εὐφροσύνης τὰς καρδίας ἡμῶν· ἵνα πάντοτε πᾶ-
+σαν αὐτάρκειαν ἔχοντες, περισσεύωμεν εἰς πᾶν ἔρ-
+γον ἀγαθὸν, ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν· δι’
+oὗ (69) σοι δόξα, τιμὴ, καὶ κράτος, εἰς τοὺς αἰῶνας.
+’Ἀμήν (70).
+
+# block=3 source_x1=994 source_y1=1031 source_x2=1739 source_y2=1322
+« Benedictus es, Domine ⁸⁷, » qui nutris me a
+pueritia mea ⁸⁸, qui das escam omni carni ⁸⁹ : im-
+ple gaudio et lætitia corda nostra, ut, semper om-
+nem sufficientiam habentes, abundemus in omne
+opus bonum ⁹⁰, in Christo Jesu Domino nostro ; per
+quem tibi gloria, honor, et imperium in sæcula.
+Amen.
+
+# block=4 source_x1=224 source_y1=138 source_x2=965 source_y2=302
+πρόσδεξαι τὴν δέησιν ἡμῶν· ὁ καθήμενος ἐπὶ τῶν
+χερουβίμ. Ὅτι σὺ μόνος ἅγιος· σὺ μόνος Κύριος Ἰη-
+σοῦς, Χριστὸς τοῦ Θεοῦ (66) πάσης γενητῆς φύσεως,
+τοῦ βασιλέως ἡμῶν· δι’ οὗ σοι δόξα, τιμὴ, καὶ σέβας.
+
+# block=6 source_x1=426 source_y1=938 source_x2=768 source_y2=974
+ΚΕΦΑΛΑΙΟΝ ΜΘ′.
+
+# block=7 source_x1=1220 source_y1=937 source_x2=1497 source_y2=979
+CAPUT XLIX.
+
+# block=8 source_x1=997 source_y1=403 source_x2=1744 source_y2=918
+« Laudate pueri Dominum ; laudate nomen Do-
+mini ⁸⁵. » Laudamus te, hymnis celebramus te, be-
+nedicimus te, propter magnam gloriam tuam : Do-
+mine rex, Pater Christi, Agni immaculati, qui tollit
+peccatum mundi ; te decet laus ; te decet hymnus ;
+te decet gloria Deum et Patrem ; per Filium, in
+Spiritu sanctissimo, in sæcula sæculorum. Amen.
+« Nunc dimittis servum tuum, Domine, secundum
+verbum tuum, in pace : quia viderunt oculi mei
+salutare tuum, quod parasti ante faciem omnium
+populorum ; lumen ad revelationem gentium, et
+gloriam populi tui Israelis ⁸⁶. »
+
+# block=9 source_x1=218 source_y1=1364 source_x2=1731 source_y2=1433
+⁸⁵ Psal. CXII, 1. ⁸⁶ Luc. II, 29. ⁸⁷ Psal. CXVII, 12. ⁸⁸ Gen. XLVIII, 15. ⁸⁹ Psal. CXXXV, 25. ⁹⁰ II
+Cor. IX, 8.
+
+# block=10 source_x1=999 source_y1=138 source_x2=1752 source_y2=306
+tionem nostram : qui sedes super cherubinos.
+Quoniam tu solus sanctus ; tu solus Dominus Jesus,
+Christus Dei universæ naturæ creatæ, regis nostri,
+per illum tibi gloria,honor, et adoratio.
+
+# block=11 source_x1=1007 source_y1=2121 source_x2=1731 source_y2=2201
+... Quare et propter quosnam edantur signa et mi-
+racula.
+
+# block=13 source_x1=650 source_y1=78 source_x2=1356 source_y2=121
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=18 source_x1=996 source_y1=1528 source_x2=1737 source_y2=1973
+sed rectius apud Porphyrium De abstinentia ab ani-
+malis, lib. IV, ἀριστοποιησομένοις) ἐπεύχεται πάλιν·
+ἀρχόμενοί τε καὶ παυόμενοι γεραίρουσι τὸν Θεόν.
+IB.
+(68) Θεῷ καὶ. Desunt in cod. Vind. et sequentia
+verba διὰ τοῦ Υἱοῦ, ἐνΠνεύματι τῷ παναγίῳ, sunt sic
+interpolata in utroque codice : καὶ τῷ Υἱῷ καὶ τῷ
+ἁγίῳ Πνεύματι, ut et alibi. CLER.
+(69) Δι’ οὗ. Μεθ’ οὗ, ut passim alibi, ne divinitas
+Filii Patre inferior esse videatur. ID.
+(70). Ἀμήν. Ad calcem hujus libri adscriptum est :
+Διαταγαὶ τῶν ἁγίων ἀποστόλων, διὰ Κλήμεντος ἀπο-
+σταλεῖσαι τοῖς ἔθνεσι. Βιβλίον ζ′. COT.
+
+# block=19 source_x1=824 source_y1=1473 source_x2=1110 source_y2=1508
+VARIORUM NOTÆ
+
+# block=20 source_x1=995 source_y1=2207 source_x2=1546 source_y2=2244
+II. De episcopis et presbyteris indignis.
+
+# block=21 source_x1=1000 source_y1=2423 source_x2=1577 source_y2=2457
+V. Invocatio in ordinatione episcoporum.
+
+# block=22 source_x1=1004 source_y1=2467 source_x2=1734 source_y2=2548
+VI. Divina liturgia, in qua oratio pro catechu-
+menis.
+
+# block=23 source_x1=1174 source_y1=2064 source_x2=1576 source_y2=2103
+CAPITA LIBRI OCTAVI.
+
+# block=27 source_x1=226 source_y1=81 source_x2=297 source_y2=119
+1057
+
+# block=29 source_x1=997 source_y1=2553 source_x2=1719 source_y2=2674
+VII. Oratio pro energumenis.
+VIII. Oratio pro iis qui jamjam baptizandi sunt.
+IX. Impositio manuum, et oratio pro pænitentibus.
+
+# block=30 source_x1=422 source_y1=321 source_x2=758 source_y2=354
+ΚΕΦΑΛΑΙΟΝ ΜΗ′.
+
+# block=33 source_x1=209 source_y1=1526 source_x2=962 source_y2=2003
+ησον ἡμᾶς, ὅτι σὺ εἶ μόνος ἅγιος, σὺ εἶ μόνος Χρι-
+στὸς, Ἰησοῦς Χριστὸς, εἰς δόξαν τοῦ Θεοῦ Πατέρος.
+Ἀμήν. CLER.
+(66) Σὺ μόνος Κύριος Ἰησοῦς Χριστὸς τοῦ
+Θεοῦ, etc. Tota orationis series postularet Ἰησοῦ
+Χριστοῦ. Non ausim tamen quidquam mutare ; præ-
+sertim ob illud cap. 13, lib. VII : Εἷς ἅγιος, εἷς
+Κύριος, εἷς Ἰησοῦς Χριστός. COT.
+(67) Eamdem orationem leges apud Athanasium
+Περὶ παρθενίας, ἤτοι περὶ ἀσκήσεως, p. 1051, De
+Essenis Josephus Belli Judaici lib. II, cap. 12 :
+Προκατεύχεται δὲ ὁ ἱερεὺς τῆς τροφῆς, καὶ γεύσα-
+σθαί τινα πρὶν τῆς εὐχῆς ἀθέμιτον ἀριστοποιησαμέ-
+νοις (ita quoque in Euseb., Præp. evang., IX, 3,
+
+# block=34 source_x1=1000 source_y1=2381 source_x2=1321 source_y2=2412
+IV. De ordinationibus.
+
+# block=35 source_x1=996 source_y1=2291 source_x2=1736 source_y2=2373
+III. Quod constituere ea quæ in Ecclesiis peraguntur
+summum ac potissimum sit.
+
+# block=36 source_x1=1661 source_y1=84 source_x2=1741 source_y2=132
+1058
+
+# block=37 source_x1=1223 source_y1=360 source_x2=1489 source_y2=404
+Oratio vespertina.
+
+# block=38 source_x1=1199 source_y1=316 source_x2=1519 source_y2=364
+CAPUT XLVIII.
+
+# block=39 source_x1=471 source_y1=360 source_x2=717 source_y2=406
+Ἑσπερινός (67).
+
+# block=40 source_x1=447 source_y1=976 source_x2=735 source_y2=1016
+Εὐχὴ ἐπ’ ἀρίστῳ.
+
+# block=41 source_x1=1231 source_y1=976 source_x2=1489 source_y2=1018
+Oratio in prandio.
+
+# block=42 source_x1=313 source_y1=2060 source_x2=845 source_y2=2106
+ΚΕΦΑΛΑΙΑ ΤΟΥ ΟΓΔΟΟΥ ΒΙΒΛΙΟΥ.
+
+# block=43 source_x1=195 source_y1=2105 source_x2=957 source_y2=2703
+α′. Τίνων χάριν ἐπιτελοῦνται αἱ τῶν σημείων δυ-
+νάμεις.
+β′. Περὶ τῶν ἐπισκόπων καὶ πρεσβυτέρων ἀνα-
+ξίων.
+γ′. Ὅτι τὸ διατάσσεσθαι τὰ ἐν ταῖς ἐκκλησίαις
+ἐπιτελούμενα κορυφαιότατόν ἐστι.
+δ′. Περὶ χειροτονιῶν.
+ε′. Ἐπίκλησις ἐπὶ χειροτονίας ἐπισκόπων.
+ς′. Ἡ θεία λειτουργία, ἐν ᾗ προσφώνησις ὑπὲρ
+κατηχουμένων.
+ζ′. Ὑπὲρ τῶν ἐνεργουμένων.
+η′. Ὑπὲρ τῶν βαπτιζομένων.
+θ′. Χειροθεσία, καὶ εὐχὴ ὑπὲρ τῶν ἐν μετανοίᾳ.

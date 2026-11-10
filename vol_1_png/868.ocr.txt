@@ -1,0 +1,175 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,249,1096,996,1917
+2,1037,1098,1791,1921
+3,248,1938,1785,2110
+4,859,2137,1165,2174
+6,271,1025,937,1060
+7,681,103,1383,142
+8,259,167,1009,890
+9,1723,103,1789,141
+11,1037,159,1791,989
+12,265,106,335,146
+13,1085,1025,1738,1092
+14,1028,2178,1786,2713
+15,249,2188,988,2709
+16,495,970,755,1018
+17,1241,980,1585,1020
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=249 source_y1=1096 source_x2=996 source_y2=1917
+⁷⁵ Precationes facite mane, et tertia hora, ac
+sexta, et nona, et vespere, atque in gallicinio.
+Mane : gratias agentes, quod Dominus, abducta
+nocte, et inducto die, illuminavit vos. Tertia hora :
+quoniam in ea Dominus sententiam damnationis
+excepit a Pilato. Sexta : quod in ea crucifixus est.
+Nona : quia cuncta, crucifixo Domino, commota
+sunt, dum horrent impiorum Judæorum temerita-
+tem, nec ferre possunt contumeliam Domino illa-
+tam. Vespere : gratias agentes, quod vobis noctem
+dederit, laborum diurnorum requietem. In gallo-
+rum cantu : eo quod illa hora nuntiet adventum
+diei, ad facienda opera lucis. Si propter infideles
+impossibile est ad ecclesiam procedere, in domo
+aliqua congregationem facies, episcope; ne pius
+ingrediatur in ecclesiam impiorum : non enim
+locus hominem sanctificat, sed homo locum. Quod
+si impii locum detineant ; fugiendus tibi sit, utpote
+ab iis profanatus : quemadmodum enim pii sacer-
+
+# block=2 source_x1=1037 source_y1=1098 source_x2=1791 source_y2=1921
+Εὐχὰς ἐπιτελεῖτε ὄρθρου (41), καὶ τρίτῃ ὥρᾳ, καὶ
+ἕκτῃ, καὶ ἐννάτῃ, καὶ ἑσπέρᾳ, καὶ ἀλεκτοροφωνίᾳ.
+Ὄρθρου μὲν, εὐχαριστοῦντες ὅτι ἐφώτισεν ὑμῖν ⁷⁶ ὁ
+Κύριος, παραγαγὼν τὴν νύκτα, καὶ ἐπαγαγὼν τὴν
+ἡμέραν. Τρίτῃ δὲ,ὅτι ἀπόφασιν ἐν αὐτῇ ὑπὸ Πιλάτου
+ἔλαβεν ὁ Κύριος. Ἕκτῃ δὲ, ὅτι ἐν αὐτῇ ἐσταυρώθη.
+Ἐννάτῃ δὲ, ὅτι πάντα κεκίνητο τοῦ Δεσπότου ἐσταυ-
+ρωμένου, φρίττοντα τὴν τόλμαν τῶν δυσσεβῶν Ἰου-
+δαίων, μὴ φέροντα τοῦ Κυρίου τὴν ὕβριν. Ἑσπέρᾳ
+δὲ, εὐχαριστοῦντες ὅτι ὑμῖν ⁷⁷ ἀνάπαυσιν ἔδωκε τῶν
+μεθημερινῶν κόπων, τὴν νύκτα· ἀλεκτρυόνων δὲ
+κραυγῇ, διὰ τὸ τὴν ὥραν ⁷⁸ εὐαγγελίζεσθαι τὴν παρ-
+ουσίαν τῆς ἡμέρας, εἰς ἐργασίαν τῶν τοῦ φωτὸς
+ἔργων. Εἰ μὴ ⁷⁹ δυνατὸν ἐν Ἐκκλησίᾳ προἰέναι ⁸⁰ διὰ
+τοὺς ἀπίστους ⁸¹, κατ' οἶκον συνάξεις, ὦ ἐπίσκοπε·
+ἵνα μὴ εἰσέρχηται εὐσεβὴς εἰς Ἐκκλησίαν ἀσεβῶν·
+οὐχ ὁ τόπος γὰρ τὸν ἄνθρωπον ἁγιάζει, ἀλλ' ὁ ἄνθρω-
+πος τὸν τόπον. Ἐὰν δὲ ἀσεβεῖς κατέχωσι τὸν τόπον,
+φευκταῖός σοι ἔστω, διὰ τὸ βεβηλῶσθαι ὑπ' αὐτῶν·
+
+# block=3 source_x1=248 source_y1=1938 source_x2=1785 source_y2=2110
+⁶⁵ al. ἀναστήσας ἡμᾶς. ⁶⁶ Anast. τρίτον, τὴν. ⁶⁷ Anast. γενέθλιον. ⁶⁸ al. χαρὰν. ⁶⁹ vel gaudium. ⁷⁰ Anast.
+ἐπιφάνειαν; cod. Vind. θεοφανίων. ⁷¹ Luc. III. ⁷² Anast. inserit ἁγίων. ⁷³ al. κατεστάθησαν. Anast.
+γεγόνασι. ⁷⁴ Anast. Πνεύματος ἁγίου. ⁷⁵ Citat Anastasius, quæst. eadem ; l. Ignat. interpol. ad Trall-
+9. ⁷⁶ al. ἡμᾶς, nos, et ita Anastasius. ⁷⁷ Anast. ἡμῖν, nobis. ⁷⁸ Anast. ὥραν ἐκείνην. ⁷⁹ Anast. καὶ
+εἰ. ⁸⁰ Anast. προσιέναι. ⁸¹ Anast. κακοπίστους.
+
+# block=4 source_x1=859 source_y1=2137 source_x2=1165 source_y2=2174
+VARIORUM NOTÆ.
+
+# block=6 source_x1=271 source_y1=1025 source_x2=937 source_y2=1060
+- Quibus horis, et quare in eis precandum sit.
+
+# block=7 source_x1=681 source_y1=103 source_x2=1383 source_y2=142
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=8 source_x1=259 source_y1=167 source_x2=1009 source_y2=890
+quique resuscitavit. Ascensio sit dies feriatus ;
+propter finitam tunc œconomiam Christi. In Pen-
+tecoste ferientur ; ob Spiritus sancti adventum,
+concessum iis qui in Christum crediderunt. Festo
+Natalis cessent ab opere ; eo quod tunc hominibus
+tributum fuit inexpectatum beneficium ⁶⁹, ut,
+nempe, Dei Verbum Jesus Christus ex Maria Virgine
+nasceretur ad mundi salutem. In Epiphaniæ festo
+vacent ; quia in eo demonstrata est Christi divini-
+tas, quando Pater testimonium ei præbuit in ba-
+ptismo, et Paracletus in specie columbæ ostendit
+eum, cui perhibitum erat testimonium ⁷¹. In apo-
+stolorum diebus opus non faciant : doctores enim
+vestri fuerunt in Christo, vosque Spiritu donarunt.
+In die Stephani primi martyris ferientur, atque in
+diebus cæterorum sanctorum martyrum, qui Chri-
+stum prætulerunt vitæ suæ.
+
+# block=9 source_x1=1723 source_y1=103 source_x2=1789 source_y2=141
+1136
+
+# block=11 source_x1=1037 source_y1=159 source_x2=1791 source_y2=989
+τίς ὁ συγχωρήσας, ἢ καὶ ἀναστήσας ⁶⁵. Τὴν ⁶⁶ Ἀνάλη-
+ψιν ἀργείτωσαν, διὰ τὸ πέρας τῆς κατὰ Χριστὸν οἰ-
+κονομίας. Τὴν Πεντηκοστὴν ἀργείτωσαν, διὰ τὴν
+παρουσίαν τοῦ ἁγίου Πνεύματος τὴν δωρηθεῖσαν
+τοῖς πιστεύσασιν εἰς Χριστόν. Τὴν τῶν γενεθλίων ⁶⁷
+ἑορτὴν ἀργείτωσαν, διὰ τὸ ἐν αὐτῇ τὴν ἀπροσδόκητον
+χάριν ⁶⁸ δεδόσθαι ἀνθρώποις, γεννηθῆναι τὸν τοῦ
+Θεοῦ Λόγον Ἰησοῦν Χριστὸν ἐκ Μαρίας τῆς παρθέ-
+νου ἐπὶ σωτηρίᾳ τοῦ κόσμου. Τὴν τῶν Ἐπιφανίων ⁷⁰
+ἑορτὴν (37) ἀργείτωσαν, διὰ τὸ ἐν αὐτῇ ἀνάδειξιν
+γεγενῆσθαι τῆς τοῦ Χριστοῦ θεότητος, μαρτυρήσαν-
+τος αὐτῷ τοῦ Πατρὸς ἐν τῷ βαπτίσματι, καὶ τοῦ
+Παρακλήτου ἐν εἴδει περιστερᾶς ὑποδείξαντος τοῖς
+παρεστῶσι τὸν μαρτυρηθέντα. Τὰς ἡμέρας τῶν ⁷¹
+ἀποστόλων ἀργείτωσαν· (38) διδάσκαλοι γὰρ ὑμῶν
+εἰς Χριστὸν κατέστησαν ⁷², καὶ Πνεύματος ⁷⁴ ὑμᾶς
+ἠξίωσαν (39). Τὴν ἡμέραν Στεφάνου τοῦ πρωτομάρ-
+τυρος ἀργείτωσαν, καὶ τῶν λοιπῶν ἁγίων μαρτύρων,
+τῶν προτιμησάντων Χριστὸν τῆς ἑαυτῶν ζωῆς.
+
+# block=12 source_x1=265 source_y1=106 source_x2=335 source_y2=146
+1135
+
+# block=13 source_x1=1085 source_y1=1025 source_x2=1738 source_y2=1092
+Ποίαις ὥραις, καὶ διατί ἐν ταύταις δεῖ προσ-
+εύχεσθαι.
+
+# block=14 source_x1=1028 source_y1=2178 source_x2=1786 source_y2=2713
+nem Psalterium cantabant; similiterque epist. 7
+et 8. Idem aut alius, exponens psalm. cxix sub
+finem Commentariorum in Psalmos : Hora tertia
+oramus : hora sexta oramus : nona lucernarium fa-
+cimus (præstat sic distinguere, quam cum Me-
+nardo, Concord. regul., p. 368, legere, Nona ora-
+mus, vespera lucernarium facimus, aut post Goarum
+Euchologii p. 30 nona explicare, post nonam) me-
+dia nocte consurgimus : deinde gallicinio oramus. Mox-
+que : Hora, tertia, sexta, nona, lucernarium , medio
+noctis, gallicinio, mane primo, ad eum modum punxi,
+ut hæc præcedentibus responderent, quod non aliter
+fiet, ni mane primum sit velut explicatio gallicinii.
+Vide Cassianum lib. III De cœnob. instit., cap.
+4. De horis canonicis viri docti plures accurate
+disputarunt. ID.
+
+# block=15 source_x1=249 source_y1=2188 source_x2=988 source_y2=2709
+(37) Τὴν τῶν ἐπιφανίων ἑορτήν. Anastas. im-
+press. et cod. Reg. 200, ut in Typico, τὴν ἐπιφά-
+νειαν. Cod. vero Reg. 1110, 1789, τὴν ἐπιφανίαν.
+Supra mss. 2336, 2392, 2430, θεοφανίων, ut Nicon
+monachus ; et liber synodicus ms. Reipublicæ Au-
+gustanæ citatus ab Hæschelio in Notatiunculis ad
+Ὁμιλίας quorundam Patrum p. 550, 551. Cot.
+(38) Τὰς ἡμέρας τῶν ἀποστόλων, etc. Vide
+supra. ID.
+(39) Ἠξίωσαν. Addit codex Vindobonensis
+ἁγίου, et quidem recte. ID.
+(40) Κεφάλαιον· Hæc vox et duo versus sequen-
+tes desunt in cod. Vind. ID.
+(41) Εὐχὰς ἐπιτελεῖτε ὄρθρου, κ.τ.λ. Hieronymus
+in Epitaphio Paulæ epist. 27, cap. 10 : Mane, hora
+tertia, sexta, nona, vespere, noctis medio, ver ordi-
+
+# block=16 source_x1=495 source_y1=970 source_x2=755 source_y2=1018
+CAPUT XXXIV.
+
+# block=17 source_x1=1241 source_y1=980 source_x2=1585 source_y2=1020
+ΚΕΦΑΛΑΙΟΝ ΛΔ' (40).

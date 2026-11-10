@@ -1,0 +1,221 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,277,923,1032,1177
+2,284,2532,1036,2704
+3,1068,920,1816,1178
+4,1063,156,1812,841
+5,279,153,1031,880
+6,279,1378,1028,2467
+7,1065,1369,1822,1972
+8,1069,2367,1812,2504
+9,285,2469,1033,2536
+10,1068,1972,1812,2039
+11,535,881,776,917
+12,1066,2036,1821,2206
+13,1067,2500,1808,2672
+14,1069,2204,1820,2370
+15,652,95,1408,136
+16,901,1303,1200,1337
+17,1302,878,1572,914
+18,282,95,334,132
+19,1745,88,1807,134
+20,293,1220,1079,1270
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=16px
+# block=19 fontSize=16px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=19
+308
+
+# block=18
+307
+
+# block=15
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=5
+fecto in Spiritu ad vos litteras dedit de seipso et
+Cepha et Apollo ⁶² (17), quia etiam tum diversa in
+studia scissi eratis. Sed varia illa animorum incli-
+natio minus peccatum vobis intulit : propendebatis
+enim in apostolos testatæ sanctitatis, et in virum
+ab illis probatum. Nunc vero quinam vos perverte-
+rint, et nominatissimi vestri fraterni amoris immi-
+nuerint decus, animadvertite. Turpia sunt, dilecti,
+ac valde turpia, et Christiana conversatione indigna,
+audiri firmissimam et antiquam Corinthiorum Ec-
+clesiam propter unum aut alterum hominem contra
+presbyteros seditionem movere. Atque is rumor
+non tantum ad nos pervenit; sed ad eos quoque
+qui a nobis alieni sunt animo et sententia ; adeo ut
+propter vestram insipientiam ⁶³, etiam blasphemiæ
+nomini Domini inferantur, vobis autem periculum
+crectur.
+
+# block=4
+ἐγραψεν ; ἐπ' ἀληθείας πνευματικῶς ἐπέστειλεν ὑμῖν,
+περὶ αὐτοῦ τε καὶ Κηφᾶ τε (16) καὶ ᾿Απόλλω, διὰ τὸ κα-
+τότε προσκλίσεις ὑμᾶς πεποιῆσθαι. ᾿Αλλ' ἡ πρόσκλισις
+ἡ ἐκείνη (18) ἧττον ἁμαρτίαν (19) ὑμῖν προσήνεγκεν·
+προσεκλίθητε γὰρ ἀποστόλοις μεμαρτυρημένοις, καὶ
+ἀνδρὶ δεδοκιμασμένῳ παρ' αὐτοῖς. Νυνὶ δὲ κατανο-
+ήσατε τίνες ὑμᾶς διέστρεψαν, καὶ τὸ σεμνὸν τῆς πε-
+ριβοήτου φιλαδελφίας ὑμῶν ἐμείωσαν (20). Αἰσχρὰ,
+ἀγαπητοὶ, καὶ λίαν αἰσχρὰ, καὶ ἀνάξια τῆς ἐν Χριστῷ
+ἀγωγῆς, ἀκούεσθαι, τὴν βεβαιοτάτην, καὶ ἀρχαίαν (21)
+Κορινθίων ᾿Εκκλησίαν, δι' ἕν ἢ δύο πρόσωπα, στάσι-
+άζειν πρὸς τοὺς πρεσβυτέρους. Καὶ αὕτη ἡ ἀκοὴ οὐ
+μόνον εἰς ἡμᾶς ἐχώρησεν, ἀλλὰ καὶ εἰς τοὺς ἑτερο-
+κλινεῖς ὑπάρχοντας ἀφ' ἡμῶν· ὥστε καὶ βλασφημίας
+ἐπιφέρεσθαι τῷ ὀνόματι Κυρίου, διὰ τὴν ὑμετέραν
+ἀφροσύνην, ἑαυτοῖς δὲ κίνδυνον ἐπεξεργάζεσθαι.
+
+# block=17
+ΚΕΦΑΛΑΙΟΝ ΜΗ'.
+
+# block=11
+CAPUT XLVIII.
+
+# block=3
+Ἐξάρωμεν οὖν τοῦτο ἐν τάχει, καὶ προσπέσωμεν
+τῷ Δεσπότῃ, καὶ κλαύσωμεν ἱκετεύοντες αὐτὸν, ὅπως
+ἵλεως γενόμενος ἐπικαταλλαγῇ ἡμῖν, καὶ ἐπὶ τὴν
+σεμνὴν τῆς φιλαδελφίας ἡμῶν (22) ἀγνὴν (23) ἀγω-
+γὴν ἀποκαταστήσῃ ἡμᾶς. Πύλη γὰρ δικαιοσύνης
+ἀνεωγυῖα εἰς ζωὴν αὕτη, καθὼς γέγραπται· ᾿Ανοι-
+
+# block=1
+Auferamus igitur hoc celeriter, et Domino acci-
+damus, et plangamus orantes eum, ut propitius
+factus nobis reconcilietur, nosque decoræ et castæ
+fraterni amoris conversationi nostræ restituat.
+Hæc enim est porta justitiæ ad vitam aperta, sicut
+scriptuṁ est : Aperite mihi portas justitiæ ; ingres-
+
+# block=20
+⁶² I Cor. I, 12, seq. ⁶³ Rom. II, 24; I Tim. VI, 1.
+
+# block=16
+VARIORUM NOTÆ.
+
+# block=7
+sule etiam Eusebium Hist. eccl., lib. I, cap. 12;
+Theophylactum cum OEcumenio ad prædictum Ga-
+lat. caput, necnon Dorotheum in Synopsi. Videntur
+autem qui hoc modo senserunt, habuisse nomen
+Cephæ in codicibus suis Galat. II, 11, 14, ut colli-
+gere licet cum ex Eusebio, tum ex quibusdam edi-
+tionibus ac interpretibus. Cor. — Aperte hic docet
+Clemens Cepham, cujus Paulus I Cor. I, 10 memi-
+nit, non unum e septuaginta discipulis Christi, sed
+apostolum celeberrimum exstitisse. Ubi enim his
+Pauli verbis : Ego quidem sum Pauli, ego autem
+Apollo, ego vero Cepha, apostolos celeberrimos et
+virum ab illis probatum significari prædicat, per-
+spicuum est eum et Paulum et Cepham duos apo-
+stolos celeberrimos, et Apollo virum ab utroque
+probatum intelligere. Sic porro locum illum inter-
+pretatur, licet in eo Cephas non primus, sed ter-
+tius appelletur. CouST.
+
+# block=6
+runt; ut usurpem dicta Tertulliani De virginibus
+velandis, cap. 2; De præscriptione hæreticorum, cap.
+32; lib. IV adversus Marcionem, cap. 5; et Augu-
+stini II De doctrina christiana, 8. Alio sensu Hiero-
+nymus lib. II, contra Jovinianum, cap. 11, scribit : In
+foribus Evangelii, Anna, filia Phanuelis, univira indu-
+citur semperque jejunans, et ante eum Tertullianus
+De jejuniis, cap. 8: In limine Evangelii, Anna, etc.
+Fores enim ac limen Evangelii dicuntur tempora
+præcedentia mox secuturum Evangelium, quod te-
+ste Hieronymo, 1 in Jovin. 14 ante crucem Christi
+non est. Cor.—Εὐαγγέλιον hoc loco late sumitur, et
+apostolorum scripta comprehendit, ut apud Nysse-
+num, qui contra Apollinarem locum ex Epistola
+Joannis laudans, scribit : Καθώς φησι τὸ Εὐαγγέ-
+λιον, ὅλον τότε τὸν κόσμον ἐν τῷ πονηρῷ κεῖσθαι. Sic
+legis nomine non tantum Πεντάτευχος Moysis, sed
+prophetarum etiam interpretationes, et reliqui Ve-
+teris Testamenti libri intelliguntur. Unde Joannis
+cap. X, 34, locus Psalmista : ᾿Εγὼ εἶπα, Θεοί ἐστε,
+scriptus esse dicitur ἐν τῷ νόμῳ· et cap. XV ejus-
+dem Evangelii, vers. 25 : Ὅτι ἐμίσησάν με δωρεάν,
+quæ verba sunt Psalmista, psal. XXXIV, 19 ; ᾿Εν τῷ
+νόμῳ, scripta esse dicuntur, et ad I Corinth. XIV,
+21, locus Isaiæ, et Apostolo ἐν νόμῳ scriptus esse
+dicitur. Ignorantia hujus latioris acceptionis in er-
+rorem quosdam induxit, qui Moysis tantum quin-
+que libros a LXX Senioribus in linguam Græcam
+versos esse opinantur, quia apud quosdam Patres
+inveniatυr, ex Hebraico fonte illos τὸν νόμον trans-
+tulisse, ac si legis nomine, libri Moysis tantum in-
+telligendi essent; (sed de versione τῶν Οὓ alias for-
+tasse commodior disserendi occasio dabitur. Jun.
+
+# block=10
+(18) ῾Η ἐκείνη. Sic Wott. ex ms. At codd. impp.
+omittunt ἡ. GALL.
+
+# block=12
+(19) Ἧττον ἁμαρτίαν. Legendum, ἥττονα ἁμαρ-
+τίαν. Sic Joann. XVII, 11 : Διὰ τοῦτο, ὁ παραδιδούς
+μέ σοι μείζονα ἁμαρτίαν ἔχει. Omisit, ut fit, libra-
+rius ultimam prioris vocis litteram, quod ab eadem
+littera vox posterior inciperet. DAV. GALL.
+
+# block=14
+(20) Τὸ σεμνὸν... ἐμείωσαν. Τὸ σεμνὸν μειοῦν,
+id est majestatem minuere, formula est loquendi,
+quæ ad Romanorum consuetudinem propius ali-
+quanto accedat. Clemens patria Romanus fuit. Bois.
+ID.
+
+# block=8
+(21) ᾿Αρχαίαν. Loquitur hic B. Clemens non ab-
+solute sed comparate ad alias Ecclesias ab aposto-
+lis fundatas. Non erat itaque cur locus iste sapien-
+tissimum Bignonium torqueret. COLOM.
+
+# block=9
+(16) Κηφᾶ τε. Editis deest τε, quod exhibet ms.
+apud Wott. GALL.
+
+# block=13
+(22) ῾Ημῶν. Deest hæc vox codd. impp. præter
+Londin. quam tamen exhibet ms. apud Wott. GALL.
+(23) ᾿Αγνήν. Ex Clem. Alex., Στρωμ., lib. IV,
+cap. 17, pag. 613. Wott. præmittere mallet καί. Al.
+aliter. ID.
+
+# block=2
+(17) Cepham memoratum I Corinth. I, 12, et III,
+22, Petrum intelligit. Nam quod alius Cephas a Pe-
+tro agnosci non debeat, nos docent Hieronymus,
+Claudius Taurinensis, et Anselmus, ad Galat. c. II,
+ubi contrariam refellunt sententiam, de qua con-

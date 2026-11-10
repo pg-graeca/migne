@@ -1,0 +1,194 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,256,674,1780,845
+2,256,353,1782,564
+3,254,957,998,1167
+4,1028,2535,1789,2664
+5,243,1314,999,1394
+6,245,2539,987,2666
+7,629,880,1415,920
+8,817,1433,1204,1468
+9,253,1194,1794,1265
+10,870,601,1149,640
+11,1025,1515,1791,2211
+12,247,1516,1002,2256
+14,261,145,1004,267
+15,273,2681,690,2721
+16,456,288,1599,324
+17,1726,89,1785,131
+18,244,2344,997,2471
+19,687,92,1397,131
+20,262,87,315,126
+21,335,2268,1711,2324
+22,1025,2382,1787,2472
+23,735,2482,1293,2528
+24,1041,150,1781,254
+25,1035,954,1791,1172
+26,1027,1304,1787,1388
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=26 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=20
+547
+
+# block=17
+548
+
+# block=19
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=14
+bæ, neque usurpandum meretricium ornatum, ne-
+que debere justitiæ incessum superbiæ speciem ha-
+bere. Constit., lib. I, cap. 3.
+
+# block=24
+μηδὲ ἑταιρισμῷ κατάκομεῖσθαι, μήτε ὑπερηφα-
+νίας ὑπόδειγμα δικαιοσύνης τὴν προσέλευσιν ἔχειν.
+
+# block=16
+Auctor Operis imperfecti in Matthæum, apud S. Chrysostomum. Ad Matth. VI, 3.
+
+# block=2
+Aliter certe sicut apostoli interpretantur in libro Canonum, qui est de episcopis; dextra est populus
+Christianus, qui est ad dextram Christi; sinistra autem, omnis populus, qui est ad sinistram. Hoc ergo
+dicit : Ne Christianum facientem eleemosynam, qui est dextra, infidelis aspiciat, qui est sinistra. Chri-
+stianus autem si Christianum viderit eleemosynas facientem, non est contra Christi præceptum, quoniam
+ambo dextra sunt. Vide Not. ad Const. ap., lib. III, c. 14.
+
+# block=10
+Ad Matth. xxv, 18.
+
+# block=1
+Qui ministerium suum bene consummaverit, apparet quia ex Deo fuerat ordinatus; qui autem mini-
+sterium suum non bene consummaverit, ex hominibus ordinatus est. Quo modo autem quidam sacerdotes ex
+hominibus ordinantur, manifeste in libro octavo Canonum apostolorum dicitur. Qui autem ex hominibus
+ordinatus est, quantum ad Deum non est diaconus aut sacerdos. Constit., lib. VIII, cap. 2.
+
+# block=7
+Maximus, in epistolam octavam Dionysii, post medium.
+
+# block=25
+῾Ιεροθέτην δὲ καλεῖ τὸν ἅγιον ἀπόστολον Παῦλον,
+ὡς χειροτονήσαντα αὐτῷ τὴν ἀρχιερωσύνην τῆς ᾿Εκ-
+κλησίας τῶν ᾿Αθηνῶν, καθὼς ἐν ταῖς ἱεραῖς τῶν ἀπο-
+στόλων γέγραπται διαταγαῖς. Lege ad cap. 2, De Ec-
+cles. hierarch., et in Prologo.
+
+# block=3
+᾿Ανεγνώσθη Κλήμεντος τοῦ ῾Ρώμης τεύχη βιβλίων
+δύο· ὧν τὸ μὲν ἐπιγράφεται, Διαταγαὶ τῶν ἀποστό-
+λων διὰ Κλήμεντος, ἐν ᾧ καὶ οἱ τῶν συνοδικῶν κανό-
+
+# block=9
+Timotheus presbyter, tractatu de iis qui accedunt ad Ecclesiam, in Auctario Bibliothecæ Patrum Combeﬁ-
+siano, tom. II, p. 453 D.
+
+# block=26
+῎Ακουε τῶν ἀποστολικῶν· ῾Ορᾶτε τὰ ἐπ᾿ ὀνό-
+ματι, etc.
+
+# block=5
+Audi apostolorum verba : Videte, etc. Constit.,
+lib. VI, cap. 16.
+
+# block=8
+Canon Trullanus secundus.
+
+# block=11
+῎Εδοξε δὲ καὶ τοῦτο τῇ ἁγίᾳ ταύτῃ συνόδῳ κάλλι-
+στά τε καὶ σπουδαιότατα, ὥστε μένειν καὶ ἀπὸ τοῦ
+νῦν βεβαίους, καὶ ἀσφαλεῖς πρὸς ψυχῶν θεραπείαν
+καὶ ἰατρείαν παθῶν, τοὺς ὑπὸ τῶν πρὸ ἡμῶν ἁγίων
+καὶ ἐνδόξων ἀποστόλων ὀγδοήκοντα πέντε κανόνας.
+᾿Επειδὴ δὲ ἐν τούτοις τοῖς κανόσιν ἐντέταλται δέχε-
+σθαι ἡμᾶς, τὰς τῶν αὐτῶν ἁγίων ἀποστόλων διὰ Κλή-
+μεντος διατάξεις, αἷς τισι πάλαι ὑπὸ τῶν ἑτεροδόξων
+ἐπὶ λύμῃ τῆς ᾿Εκκλησίας, νόθα τινὰ καὶ ξένα τῆς
+᾿Εκκλησίας ⁷⁸⁻³⁹ παρενετέθησαν, τὸ εὐπρεπὲς κάλλος
+τῶν θείων δογμάτων ἡμῖν ἀμαυρώσαντα, τὴν τῶν
+τοιούτων διατάξεων προσφόρως ἀποβολὴν πεποιήμεθα,
+πρὸς τὴν τοῦ Χριστιανικωτάτου ποιμνίου οἰκοδομὴν
+καὶ ἀσφάλειαν, οὐδαμῶς ἐγκρίνοντες τὰ τῆς αἱρετι-
+κῆς ψευδολογίας κυήματα, καὶ τῇ γνησίᾳ τῶν ἀπο-
+στόλων καὶ ὁλοκλήρῳ διδαχῇ παρενείροντες, etc.
+
+# block=12
+Placuit autem et hoc sanctæ huic synodo pul-
+cherrime ac optime, ut ab hoc tempore ﬁrmi stabi-
+lesque maneant ad animarum medelam et pertur-
+bationum curationem, octoginta quinque canones,
+sanciti a sanctis et gloriosis apostolis, qui præ-
+cesserunt nos. Quoniam autem in illis canonibus
+præceptum est, ut recipiamus eorumdem sancto-
+rum apostolorum per Clementem constitutiones,
+quibus jam olim ab heterodoxis ad Ecclesiæ per-
+niciem inserta sunt quædam adulterina et aliena
+a pietate, quæ elegantem ac decoram speciem
+divinorum dogmatum nobis obscurarunt; has
+constitutiones conducibiliter ad Christianissimi
+gregis ædiﬁcationem ac securitatem, rejecimus;
+hæreticæ falsitatis fetus nequaquam immiscentes,
+et germanæ ac integræ apostolorum doctrinæ inse-
+rentes, etc.
+
+# block=21
+Nicephorus Constantinopolitanus patriarcha, in ﬁne Chronologiæ, ubi de libris Scripturarum.
+
+# block=18
+Ex versione Anastasii Bibliothecarii.
+Et quæ Novi (Testamenti) sunt apocrypha, etc.
+Doctrina apostolorum, versus 200, etc.
+
+# block=22
+Καὶ ὅσα τῆς Νέας εἰσὶν ἀπόκρυφα, etc. Διδαχὴ
+ἀποστόλων· στίχοι σ΄ ⁴⁰, etc.
+
+# block=23
+Photius, Bibliothecæ cod. CXII, CXIII.
+
+# block=4
+Porro in sacris institutorem vocat beatum aposto-
+lum Paulum, ut eum qui ipsum ordinaverat in pon-
+tificatum Ecclesiæ Atheniensis, sicut in sacris
+apostolorum Constitutionibus scriptum est. Lib. VII,
+cap. 46.
+
+# block=6
+Lecta sunt Clementis Romani duo volumina li-
+brorum; quorum alteri titulus est, Constitutiones
+apostolorum per Clementem; in quo etiam continen-
+
+# block=15
+⁷⁸⁻³⁹ al. εὐσεβείας. ⁴⁰ al. ϛ΄.

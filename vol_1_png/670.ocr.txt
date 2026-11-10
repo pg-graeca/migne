@@ -1,0 +1,186 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,281,145,1037,966
+2,277,2143,1029,2709
+3,1060,149,1817,965
+4,275,1779,1026,2145
+6,273,1143,1028,1711
+7,1049,1144,1807,2728
+8,682,94,1429,131
+9,883,1067,1189,1103
+10,289,993,1285,1032
+11,379,1713,868,1747
+12,286,91,343,130
+13,374,1748,777,1782
+14,1749,90,1817,138
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+ad eos spectant probet, inquirens, an fideles sint,
+an Ecclesiæ filii, an a nulla hæresi contaminati : et
+rursum an illa nupta vel vidua sit, atque ita, co-
+gnito eorum statu, quod vere credant, et in Domini
+religione cum Ecclesia concordent, deducat singulos
+ad congruum eis locum. Si autem presbyter ex pa-
+rœcia advenerit, excipiatur a presbyteris in commu-
+nitatem : et si diaconus, a diaconis ; si vero episco-
+pus, cum episcopo sedeat, a quo parem honorem
+obtinebit ; rogabisque eum, o episcope, ut populum
+alloquatur in sermone doctrinæ; peregrinorum enim
+cohortatio et admonitio acceptissima et utilissima
+est : « Nullus quippe propheta, ait Dominus, acce-
+ptus est in sua patria ³². » Permittes etiam arbitrio
+illius, ut offerat eucharistiam; quam si , tanquam
+sapiens, propter reverentiam et honorem tibi habi-
+tum, offerre noluerit, coges ut saltem populo be-
+nedicat. Quod si, dum sedetur, vir quispiam super-
+veniat honestus, et in sæculo clarus, sive alterius
+
+# block=2
+(65) Εἰ δὲ καὶ πρεσβύτερος, etc. Enarrantur
+frequenter in Operibus ecclesiasticis, quæ ad epi-
+scopos cæterosque clericos peregrinos spectant ;
+honor illis haberi solitus ; jura synthroni, sacri-
+ficii, concionis et benedictionis delata ; ususque in
+hujusmodi rebus et abusus. Sed præcipue cum con-
+stitutione conferri debent loca Irenæi , apud Euse-
+bium, Hist. lib. v, cap. 24; Cypriani epist. 28 et 32;
+Athanasii Homilia de semente , edit. Paris. , t. I,
+p. 1064 ; Basilii epist. 72, 82, 85 ; Chrysostomi in
+fine epistolæ 125 ; Hieronymi epist. 61, cap. 4; Syne-
+sii sub finem epistolæ 67 ; Socratis Eccl. hist. lib. vi,
+cap. 14 ; Georgiique Alexandrini in Vita Chryso-
+stomi num. 43, et scriptoris anonymi , ejusdem Vitæ
+num. 91; denique Gennadii De viris illustribus cap.
+21 et penult. Notetur insuper quod in Gestis colla-
+tionis Carthaginensis cum Donatistis dicitur, cogni-
+
+# block=3
+νέτω τὰ κατ’ αὐτοὺς, ἀνακρίνων εἰ πιστοὶ, εἰ ἐκ-
+κλησιαστικοὶ, εἰ μὴ ἀπὸ αἱρέσεώς εἰσι μεμολυσμένοι·
+καὶ πάλιν, εἰ ὕπανδρος, ἢ χήρα· καὶ οὕτω γνοὺς
+τὰ κατ’ αὐτοὺς, ὥς εἰσιν ἀληθῶς πιστοὶ καὶ ὁμογνώ-
+μονες ἐν τοῖς Κυριακοῖς, ἀπαγέτω ἕκαστον εἰς τὸν προσ-
+ήκοντα αὐτῷ τόπον· εἰ δὲ καὶ πρεσβύτερος (65) ἀπὸ
+παροικίας ἐπέλθοι, προσδεχέσθω ὑπὸ τῶν πρεσβυτέ-
+ρων κοινωνικός ³¹· εἰ δὲ διάκονος, ὑπὸ τῶν διακόνων·
+εἰ δὲ ἐπίσκοπος, σὺν τῷ ἐπισκόπῳ καθεζέσθω , τῆς
+αὐτῆς ἀξιούμενος ὑπ’ αὐτοῦ τιμῆς· καὶ ἐρωτήσεις
+αὐτὸν, ὦ ἐπίσκοπε, προσλαλῆσαι τῷ λαῷ λόγους δι-
+δακτικούς· ἡ γὰρ τῶν ξένων παράκλησις καὶ νουθεσία
+εὐπαράδεκτος (66) καὶ ὠφελιμωτάτη σφόδρα· « Οὐδεὶς
+γὰρ προφήτης , φησὶν , δεκτὸς ἐν τῇ ἰδίᾳ πατρίδι. »
+Ἐπιτρέψεις δ’ αὐτῷ καὶ τὴν εὐχαριστίαν ἀνοῖσαι· ἐὰν
+δὲ δι’ εὐλάβειαν , ὡς σοφὸς, τὴν τιμήν σοι τηρῶν, μὴ
+θελήσῃ ἀνενέγκαι, κἂν εἰς τὸν λαὸν εὐλογίαν αὐτὸν
+ποιήσασθαι καταναγκάσεις. Εἰ δὲ ἐν τῷ καθέζε-
+σθαι (67), ἕτερός τις ἐπέλθοι εὐσχήμων καὶ ἔνδοξος ἐν
+
+# block=4
+Ξένος ἱερεὺς ἅμα συστατικῷ, vel μετὰ συστατικοῦ,
+ἀνακρινέσθω, καὶ εἰ ὀρθοτομεῖ, προσδεχέσθω, εἰ δ’
+οὔκ, ἀποπεμπέσθω, τὰ πρὸς χρείαν λαβών. Res est,
+non conjectura. Denique suppleo Nicephorum Hist.
+eccles. lib. xii, cap. 30, unde excidit syllaba αὐ :
+et rescribo, γραμμάτων δίχα, ἃ πρὸς αὐτοὺς (vulgo
+τοὺς) ὁμοδόξους δηλοῖ. Absque litteris, quæ illos ejus-
+dem secum opinionis esse declarant. Fundus supple-
+menti , archetypa verba Sozomeni, lib. vii, cap.
+27 : Δίχα γραμμάτων ἀφικνουμένοις; ἃ πρὸς σφᾶς
+αὐτοὺς ὁμοδόξους δηλοῖ. Cot.
+
+# block=6
+ρικὸν, ἄνευ κελεύσεως ἐπισκόπου ὁδεύειν, quadrage-
+simus primus haberi, hic vero : Ὅτι οὐ δεῖ ἱερατι-
+κὸν ἢ κληρικὸν, ἄνευ κανονικῶν γραμμάτων ὁδεύειν,
+quadragesimus secundus. Scio dicta decreta aliter
+ordinari solere. Verum Balsamonis ordo servatur in
+versione Gentiani Herveti, in ms. codice viri cla-
+rissimi, nec unquam satis, ob propensam erga lit-
+teratos voluntatem, laudati Claudii Jolii canonici
+Parisiensis, et in Zonara Bibliothecæ Regiæ cod.
+277, 566, favente ejusdem Zonaræ interpretatione,
+innuiturque his verbis Matthæi Blastaris : Ἀλλ’
+οὐδὲ ὁ μα’ τῆς ἐν Λαοδικείᾳ, ἔτι δὲ καὶ ὁ μβ’, κληρι-
+κὸν ἢ ἱερατικὸν ὅλως ὁδεύειν οὐκ οἴεται δεῖν, δίχα
+κελεύσεως τοῦ ἰδίου ἐπισκόπου, ἢ κανονικῶν τούτου
+ἐπιστολῶν. Ad hæc aut falsus est Harmenopulus,
+aut verba illius mutila legimus, aut scripsit in Epi-
+tome canonum, sect. 2, tit. 3 :
+
+# block=7
+tione 1, num. 16 : Poterit unusquisque nostrum hono-
+ris sibi socio copulato, vicissim sedere eminentius,
+sicut peregrino episcopo juxta considente collega.
+Quibus omnibus adjungi possunt canones, Arela-
+tensis 19 : De episcopis peregrinis qui in urbem so-
+lent venire, placuit, eis locum dari ut offerant ; in Ca-
+pitularibus, lib. vi, cap. 240 : Ut peregrino episcopo
+locus sacrificandi detur, utque benigne suscipiatur ;
+undecimus Sardicensis, 30 Patricii, Auxilii et Isser-
+nini, Trullanus 20 ; et iste concilii Carthaginensis
+4, num. 33: Episcopi vel presbyteri si causa visi-
+tandæ ecclesiæ ad alterius ecclesiam venerint, in
+gradu suo suscipiantur, et tam ad verbum faciendum,
+quam ad oblationem consecrandam invitentur. Ex locis
+porro citatis critica nostra indigere videtur ille
+Athanasii, utpote (nisi fallor) mancus et imperfe-
+ctus : Παραγίνεται πολλάκις εἰς πόλιν ἀνὴρ δυνάμε-
+νος διδάσκειν Ἑλληνιστί. Ὁ τὴν ἀκοὴν θελγόμενος,
+σπεύδει εἰς τὴν ἐκκλησίαν, οὐ τὴν λατρείαν τῆς ψυ-
+χῆς, ἀλλὰ τῶν λόγων τὸ κάλλος μόνον ἁρπάσαι. Ἀνε-
+χώρησεν ὁ εὐγλώττως λαλῶν, ἀνεχώρησε καὶ τῆς ἐκ-
+κλησίας τὸ ζιζάνιον· οὐ γὰρ ἔχει τὸ σιτῶδες, τὸ πιστόν.
+Ὁ δὲ πιστὸς, κἂν εὐγλώττως λέγῃ, τὰ λεγόμενα
+σπουδάζει κατακούειν, κἂν Συριστὶ, κἂν Ῥωμαϊστὶ,
+κἂν διαφόρῳ γλώττῃ· οὐ γὰρ ζητεῖ λόγους, ἀλλ’ ἔργα.
+Sensum integrum ac probum elicies, si post εὐγλώτ-
+τως inserueris κἂν ἀγλώττως. Venit sæpe in urbem vir
+Græce docendi peritus : ibi captator voluptatis aurium,
+in ecclesiam deproperat, non ut medicinam animæ,
+sed ut duntaxat pulchritudinem verborum rapiat. Re-
+cedit facundus ille habita oratione, recedit etiam ab
+ecclesia zizanium : non enim habet quidquam frumen-
+tale, quidquam fidei. Fidelis vero, sive quis diserte
+sive indiserte dicat, contendit audire ea quæ dicuntur,
+sive Syriaco, sive Latino, sive alio quovis sermone
+ille utatur : non enim verba quærit, sed opera. Per
+Socratem vero corrigendus venit Nicephorus lib.
+xiii, cap. 13, sic : Ἰδίᾳ αὐθεντίᾳ μὴ προσταγεὶς ἐλει-
+τούργησας. In Socrate : Μὴ προσταγεὶς παρ’ ἐμοῦ,
+ἐν αὐταῖς (ἐκκλησίαις) ἐλειτούργησας, οἰκείᾳ αὐθεν-
+τίᾳ χρησάμενος, et cætera a Nicephoro et ab Epi-
+phanio Scholastico non intellecta. Id.
+(66) Εὐπαράδεκτος. Deest in altero cod. Cler.
+(67) Ἐν τῷ καθέζεσθαι. Si quem clam sunt di-
+versi antiquorum mores, ut concionatores sedentes
+aut stantes sermonem haberent ad populum, utque
+plebs conciones, lectiones, et psalmodiam audiret
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9
+VARIORUM NOTÆ.
+
+# block=10
+ ³¹ al. κοινωνικῶς. Sic alter cod. Vind.  ³² Luc. iv, 24; Joann. iv, 44.
+
+# block=11
+Ὁ λγ’ τῶν ἀποστόλων, ὁ ιγ’ τῆς δ’.
+
+# block=12
+739
+
+# block=13
+Καὶ ὁ ζ’ τῆς ἐν Ἀντιοχείᾳ.
+
+# block=14
+740

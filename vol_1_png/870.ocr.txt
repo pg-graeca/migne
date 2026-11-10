@@ -1,0 +1,192 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,242,249,997,2062
+2,260,2600,1002,2704
+3,1028,245,1791,2068
+4,256,2534,1004,2602
+5,299,2110,571,2141
+6,395,201,805,234
+7,488,142,742,181
+8,1275,139,1535,175
+9,254,2266,1004,2535
+10,1221,193,1585,229
+11,850,2181,1171,2219
+12,1711,88,1781,122
+13,653,88,1374,121
+14,1040,2432,1795,2673
+15,1035,2267,1793,2438
+16,231,92,315,136
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=13 fontSize=16px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=12
+1140
+
+# block=16
+1139
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ ΑΖ'.
+
+# block=7
+CAPUT XXXVII.
+
+# block=10
+Εὐχαριστία ἐπιλύχνιος.
+
+# block=6
+Gratiarum actio lucernalis.
+
+# block=3
+Ὁ ἄναρχος Θεὸς καὶ ἀτελεύτητος, ὁ τῶν ὅλων ποιη-
+τὴς διὰ Χριστοῦ καὶ κηδεμών, πρὸ δὲ πάντων (51)
+αὐτοῦ Θεὸς καὶ Πατήρ, ὁ τοῦ Πνεύματος (52) Κύ-
+ριος (53), καὶ τῶν νοητῶν καὶ αἰσθητῶν βασιλεύς,
+ποιήσας ἡμέραν πρὸς ἔργα φωτός, καὶ νύκτα εἰς ἀνά-
+παυσιν τῆς ἀσθενείας ἡμῶν· « Σὴ γάρ ἐστιν ἡμέρα,
+καὶ σή ἐστιν ἡ νύξ, σὺ κατηρτίσω φαῦσιν καὶ
+ἥλιον· » αὐτὸς νῦν, δέσποτα, φιλάνθρωπε καὶ
+πανάγαθε, εὐμενῶς πρόσδεξαι τὴν ἑσπερινὴν εὐχαρι-
+στίαν ἡμῶν ταύτην. Ὁ διαγαγὼν ἡμᾶς τὸ μῆκος τῆς
+ἡμέρας, καὶ ἀγαγὼν ἐπὶ τὰς ἀρχὰς τῆς νυκτός, φύ-
+λαξον ἡμᾶς διὰ τοῦ Χριστοῦ σου, εἰρηνικὴν παράσχου
+τὴν ἑσπέραν, καὶ τὴν νύκτα ἀναμάρτητον, καὶ καταξίω-
+σον ἡμᾶς τῆς αἰωνίου ζωῆς, διὰ τοῦ Χριστοῦ σου· δι'
+οὗ σοι δόξα, τιμὴ καὶ σέβας, ἐν ἁγίῳ (54) Πνεύματι, εἰς
+τοὺς αἰῶνας. Ἀμήν. Καὶ ὁ διάκονος λεγέτω· Κλίνατε
+τῇ χειροθεσίᾳ. Καὶ ὁ ἐπίσκοπος λεγέτω· Θεὲ πατέ-
+ρων (55), καὶ Κύριε τοῦ ἐλέους, ὁ τῇ σοφίᾳ σου κα-
+τασκευάσας ἄνθρωπον τὸ λογικὸν ζῷον, τὸ θεοφιλὲς
+τῶν ἐπὶ γῆς, καὶ δοὺς αὐτῷ τῶν ἐπὶ τῆς χθονὸς ἄρ-
+χειν, καὶ καταστήσας γνώμῃ σῇ ἄρχοντας καὶ ἱερεῖς,
+τοὺς μὲν πρὸς ἀσφάλειαν τῆς ζωῆς, τοὺς δὲ πρὸς λα-
+τρείαν ἔννομον· αὐτὸς καὶ νῦν ἐπικάμφθητι, Κύριε
+παντόκρατορ, καὶ ἐπίφανον τὸ πρόσωπόν σου ἐπὶ τὸν
+λαόν σου, τοὺς κάμψαντας αὐχένα καρδίας αὐτῶν,
+καὶ εὐλόγησον αὐτοὺς διὰ Χριστοῦ, δι' οὗ ἐφώτισας
+ἡμᾶς φῶς γνώσεως, καὶ ἀπεκάλυψας ἡμῖν σαυτόν·
+μεθ' οὗ σοι καὶ ἡ ἐπάξιος ὀφείλεται προσκύνησις
+παρὰ πάσης λογικῆς καὶ ἁγίας φύσεως, καὶ Πνεύματι
+τῷ Παρακλήτῳ, εἰς τοὺς αἰῶνας. Ἀμήν. Καὶ ὁ διά-
+κονος λεγέτω· Προέλθετε ἐν εἰρήνῃ. Ὡσαύτως ὄρ-
+θρου, ὁ διάκονος, μετὰ τὸ ῥηθῆναι τὸν ὀρθρινὸν, καὶ
+ἀπολῦσαι αὐτὸν τοὺς κατηχουμένους, καὶ χειμαζομέ-
+νους, καὶ βαπτιζομένους, καὶ τοὺς ἐν μετανοίᾳ, καὶ
+τὴν ὀφειλομένην ποιήσασθαι προσφώνησιν, ἵνα μὴ
+πάλιν λέγωμεν τὰ αὐτὰ, ἐπιφερέτω μετὰ τό· Σῶσον
+αὐτοὺς ὁ Θεὸς, καὶ ἀνάστησον ἐν τῇ χάριτί σου· Αἰ-
+τησώμεθα (56) παρὰ Κυρίου τὰ ἐλέη αὐτοῦ καὶ τοὺς
+οἰκτιρμοὺς, τὸν ὄρθρον τοῦτον, καὶ τὴν ἡμέραν, εἰ-
+ρηνικὴν καὶ ἀναμάρτητον, καὶ πάντα τὸν χρόνον τῆς
+παρεπιδημίας ἡμῶν, τὸν ἄγγελον τὸν ἐπὶ τῆς εἰρήνης,
+χριστιανὰ τὰ τέλη, ἵλεων καὶ εὐμενῆ τὸν Θεόν· ἑαυ-
+
+# block=1
+Deus, principii expers ac fine carens, omnium
+per Christum opifex et rector, ante cuncta vero
+illius Deus ac Pater, Spiritus Dominus, et eorum
+quæ intelligi ac sentiri possunt rex; qui fecisti diem
+ad opera lucis, et noctem ad requiem infirmitatis
+nostræ: ‘Tuus enim est dies, et tua est nox; tu
+aptasti lucem et solem ⁸²’ ; » ipse et nunc, Domine,
+hominum amator, ac optime, suscipe elementer
+hanc nostram gratiarum actionem vespertinam.
+Qui traduxisti nos per diei longitudinem, et duxisti
+ad noctis initia; custodi nos, per Christum tuum;
+tranquillam præbe vesperam, et noctem peccato li-
+beram; atque nos vitæ æterna dignare, per Christum
+tuum; per quem tibi gloria, honor ac veneratio, in
+sancto Spiritu, in sæcula. Amen. Et diaconus dicat:
+Inclinatæ ad manuum impositionem. Ac dicat epi-
+scopus: Deus patrum, ac Domine misericordiæ,
+qui sapientia tua fabricatus es hominem, animal
+ratione præditum, maxime ex iis quæ in terra sunt
+charum Deo; et tribuisti ei ut imperaret rebus ter-
+restribus; quique voluntate tua principes ac sacer-
+dotes constituisti; illos quidem ad vitæ securitatem;
+hos vero ad legitimum cultum: ipse nunc etiam in-
+flectere, Domine omnipotens, et ostende faciem
+tuam super populum tuum, eos qui cervicem cordis
+sui incurvarunt; et benedic eis per Christum,
+per quem illustrasti nos lumine cognitionis, ac re-
+velasti nobis teipsum; cum quo ab omni rationali
+et sancta natura debetur tibi adoratio condigna, et
+Spiritui Paracleto, in sæcula. Amen. Et diaconus
+dicat: Exite in pace. Similem in modum mane, dia-
+conus, cum dictus fuerit psalmus matutinus, cum-
+que ipse dimiserit catechumenos, energumenos,
+competentes, ac pœnitentes, feceritque solemnem
+precationem (ne iterum eadem referamus); post
+illud: Serva nos, Deus, et suscita in gratia tua;
+subjugat: Postulemus a Domino misericordias
+ejus atque miserationes, hoc matutinum et hunc
+diem, cunctumque peregrinationis nostræ tempus
+pacatum ac peccato vacuum, angelum paci præpo-
+situm, finem vitæ Christianum, Deum propitium et
+clementem. Nos ipsos, et mutuo, viventi Deo com-
+
+# block=5
+⁶⁵ Psal. LXXIII, 16.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=9
+(51) Πρὸ δὲ πάντων. Hæc verba omissa sunt in
+altero codice Vindobonensi, quod Arianismo fa-
+veant; nam ex sententia Arianorum, Deus Pater
+ante omnium creationem, ac proinde antequam es-
+set natura humana Christi, erat Deus ejus naturæ
+divinæ; cum ex sententia Nicænæ synodi sit tantum
+Deus Pater humanæ naturæ Deus, cum sit ei Filius,
+secundum divinam ὁμοούσιος, hoc est par. CLER.
+
+# block=15
+λεύς, ut antea observavimus, ad lib. VI, c. 41, quasi
+vero ejusmodi vocibus res ἀκατάληπτος clarior fie-
+ret! At quanto melius fuisset una cum Scriptura
+loqui, omissa omni καινολογίᾳ, quæ periculosa est!
+CLER.
+
+# block=14
+(54) Ἐν ἁγίῳ. Alter codex habet σὺν ἁγίῳ. Sic
+passim mutata est δοξολογία, ne ei Arianismus sub-
+esset. ID.
+(55) Θεὲ πατέρων. Vocatur hæc invocatio in al-
+tero cod. προσφώνησις ὄρθριος. ID.
+(56) Αἰτησώμεθα. Vocatur hæc in eodem cod.
+προσφώνησις ὄρθριος. ID.
+
+# block=4
+(52) 'Ὁ τοῦ Πνεύματος Κύριος. Durissima lo-
+cutio, Macedonianismum redolens. COT.
+
+# block=2
+(55) Κύριος. Est in altero cod. Vindobonensi,
+προβολεύς. Filius et Spiritus sanctus dicuntur a
+multis Patris προβολαί, ipse vero Πατὴρ προβο-

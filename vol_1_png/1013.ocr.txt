@@ -1,0 +1,188 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,212,1833,965,2634
+2,217,158,967,980
+3,999,1399,1766,2130
+4,210,1393,965,1827
+5,212,986,965,1241
+6,1003,155,1755,1246
+7,1002,2210,1761,2414
+8,212,2634,962,2745
+9,1001,2134,1755,2206
+10,1002,2421,1753,2494
+11,840,1314,1138,1349
+13,802,99,1196,135
+14,223,104,290,143
+16,994,2495,1753,2749
+17,1664,92,1762,144
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=212 source_y1=1833 source_x2=965 source_y2=2634
+(11) Vide mathematicum, etc. Expressit ista scri-
+ptor Actorum S. Sebastiani, mea quidem sententia
+alius a S. Ambrosio. Præcipe hodie, inquit, ad te
+Mathesis venire doctorem; cui dicas, illo tempore te
+asperis casibus laborasse; et inquire per quas stellas
+hoc tibi evenerit mali. Responsa ejus erunt procul-
+dubio talia; quod tempus tuum a malitioso Marte
+susceptum est, aut Saturnus apocatastaticus fuit,
+aut annus tuus ex diametro susceptus est, aut clima-
+cterica tibi in centro sunt nata, aut syndetus fuit cum
+malo, aut invisibilis, aut in schemate, aut immobilis
+circa te exstitit cursus in stellis. Hæc et his similia
+cum dixerit, rationis tibi verisimile assignare nititur
+aliquid et probare. Age nunc, interroga alterum ma-
+thematicum; cui ipsas horas, ipsumque tempus in bo-
+nis tibi exuberasse casibus dicas : illico videbis eum
+tibi rationabilia schemata infinita afferre, quibus ap-
+probet, quia in ipsis tibi temporibus evenire debuerint
+bona. Circulum etenim tenet ex omni parte collectum,
+in quo diversas et varias causas accipit, ex quibus
+occasionem capiat dicendi quod voluerit. Nam futura
+penitus prævidere non possunt, climactericas dicunt,
+id est naturæ rei incerta profugia. Lege si lubet no-
+tas sequentes.
+
+# block=2 source_x1=217 source_y1=158 source_x2=967 source_y2=980
+facile acquiescere, priusquam diligenter examinetur
+sermo propositus, aut si jam acquievimus et con-
+firmata sententia est, servare semper quod semel
+definitum est, ut possimus et de aliis quærere.
+Et pater (10) ait : Bene dicis, fili, et scio quàm ob
+causam dicis, quia hesterno die de naturalibus di-
+sputans causis, ostendisti quia virtus quædam ma-
+ligna transformans se in ordinem stellarum huma-
+nas concupiscentias exagitat, diversis modis pro-
+vocans ad peccatum, non tamen cogens aut efficiens
+peccatum. Cui ego respondi : Bene, quia et me-
+ministi et cum memineris errasti. Et pater : Igno-
+sce, inquit, fili : nondum enim usum multum in his
+habeo; nam et hesterni sermones tui veritate ipsa
+concluserunt me ut tibi acquiescerem, in conscien-
+tia tamen mea sunt quasi quædam reliquiæ febrium,
+quæ paululum me a fide quasi a sanitate retrahunt.
+Discrucior enim, quia scio multa mihi, imo pene
+omnia accidisse secundum genesim.
+
+# block=3 source_x1=999 source_y1=1399 source_x2=1766 source_y2=2130
+tum apud Sidonium lib. VIII, epist. 11, tum deni-
+que loco Philocaliæ superius allato; in quo e Re-
+giis mss. restitui ἀποκαταστατικὸς pro ἀποκαταστι-
+χὸς vulgato. Sed Sidonii verba non debeo præterire.
+Illud sane non solum culpabile in viro fuit, sed per-
+emptorium; quod mathematicos quondam de vitæ
+suæ fine consuluit, urbium cives Africanarum; qui-
+bus ut est regio, sic animus ardentior : qui constella-
+tione percunctantis inspecta, pariter annum, mensem,
+diemque dixerunt, quos (ut verbo Matheseos utar)
+climactericos esset habiturus : utpote quibus themate
+oblato, quasi sanguinariæ genituræ schema patuisset,
+quia videlicet amici nascentis anno, quemcunque cle-
+mentem planeticorum siderum globum in diastemate
+Zodiaco prosper ortus erexerat, hunc in occasu cruen-
+tis ignibus inrubescentem, seu super diametro Mercu-
+rius asyndetus, seu super tetragono Saturnus retro-
+gradus, seu super centro Mars apocatasticus exacer-
+bassent. De ἀποκαταστάσει, hoc est reditu planetæ
+ad idem signum cœleste, agunt Maximus in c. 8
+libri De divinis nominibus, Columella lib. III, c. 6, et
+alii.
+
+# block=4 source_x1=210 source_y1=1393 source_x2=965 source_y2=1827
+(10) Et pater. Tota περιοχή, ex lib. XIV Periodo-
+rum laudata ab Origene tom. III Explanationum in
+Genesim, ac Geneseos I, 14, exstat Philocaliæ c. 22.
+Et quidem citantis verba protuli in Testimoniis Ve-
+terum : ubi recte legebam, ἐχθεδρηκέναι, quod re-
+peri postea in duobus Regiis codicibus. Nunc vero
+ut intelligatur facilius quid hoc loco non usquequa-
+que Græco respondeat, utque notis sequentibus
+veluti fax præferatur, placet citata ab Origene et
+Rufiniana versionem nostram sub unum con-
+spectum dare. — Quæ hic exhibet Cotelerius, ha-
+bes infra in Appendice Recognitionibus subjecta,
+num. 5.
+
+# block=5 source_x1=212 source_y1=986 source_x2=965 source_y2=1241
+XI. Et ego respondi : Audi ergo, pater, quæ sit
+mathesis natura, et facito secundum ea quæ dico
+tibi. Vide mathematicum (11) et dic ei primo, quia
+talia quædam mihi acciderunt mala in illo tem-
+pore; unde ergo aut quo modo aut per-quas mihi
+acciderint stellas, discere volo. Respondebit tibi
+
+# block=6 source_x1=1003 source_y1=155 source_x2=1755 source_y2=1246
+sine dubio, quia tempora tua malitiosus suscepit
+Mars aut Saturnus, aut aliquis eorum apocatasta-
+ticus fuit (12), aut aliquis annum tuum aspexit (13)
+ex diametro aut conjunctus aut in centro, vel alia
+his similia respondebit, addens, quia in his omni-
+bus aliquis aut asyndetus fuit cum malo (14), aut
+invisibilis, aut in schemate, aut extra hæresim, aut
+deficiens (15), aut non contingens, aut in obscuris
+stellis, et multa alia his similia secundum rationes
+proprias respondebit et de singulis assignabit. Post
+hunc alium adito mathematicum et dicito contraria,
+quia illud mihi boni contigit in illo tempore; tem-
+pus autem hoc idem dicito, et require ex quibus
+partibus genesis hoc tibi evenerit boni, et tempora
+ut dixi, eadem quæ de malis interrogaveras, custo-
+dito. Cumque tu fefelleris de temporibus, vide
+quanta tibi inveniet schemata, per quæ ostendat
+quod tibi in illis ipsis temporibus evenire debue-
+rint bona. Impossibile enim est hominum genesim
+tractantibus, non in omni quam dicunt regione
+stellarum (16) semper invenire quasdam bene po-
+sitas stellas, et quasdam male; circulus enim est
+æqualiter ex omni parte collectus secundum ma-
+thesim, diversas et varias accipiens causas, ex
+quibus occasionem capiant dicendi quod volunt.
+
+# block=7 source_x1=1002 source_y1=2210 source_x2=1761 source_y2=2414
+(14) In his omnibus aliquis aut asyndetus fuit cum
+malo. Legebat, ἀσύνδετος, quod sensu idem est ac
+ἀσύνθετος. Qui autem hic et in Gestis Sebastiani
+syndetus scripserunt, dum corrigere conantur, ob
+imperitiam lapsi sunt. Neque vero omitti debuit a
+Rufino vox ἀγαθοποιός.
+
+# block=8 source_x1=212 source_y1=2634 source_x2=962 source_y2=2745
+(12) Aut aliquis eorum apocatastaticus fuit. Non
+mirandum si ignotam vocem in apostaticus muta-
+rint librarii, tum hic, tum in Gestis S. Sebastiani,
+
+# block=9 source_x1=1001 source_y1=2134 source_x2=1755 source_y2=2206
+(13) Aspexit. Græce ἐπεθεώρησεν. Igitur in Actis
+Sebastiani, susceptus corruptum est ex suspectus.
+
+# block=10 source_x1=1002 source_y1=2421 source_x2=1753 source_y2=2494
+(15) Aut deficiens. Ἢ ἐν ἐκλείψει. Manilius lib. IV
+Astronomicôn :
+
+# block=11 source_x1=840 source_y1=1314 source_x2=1138 source_y2=1349
+COTELERII NOTÆ.
+
+# block=13 source_x1=802 source_y1=99 source_x2=1196 source_y2=135
+RECOGNITIONUM LIB. X.
+
+# block=14 source_x1=223 source_y1=104 source_x2=290 source_y2=143
+1425
+
+# block=16 source_x1=994 source_y1=2495 source_x2=1753 source_y2=2749
+. Percipe nunc etiam, quæ sint Ecliptica Graio
+Nomine, quæ certos quasi delassata per annos
+Nonnunquam cessant sterili torpentia motu.
+Atque hinc patet cur in Actis Sebastiani habeatur :
+Aut immobilis circa te exstitit cursus in stellis.
+(16) In omni quam dicunt regione stellarum. Χώρᾳ,
+non ὅρῳ.
+
+# block=17 source_x1=1664 source_y1=92 source_x2=1762 source_y2=144
+1426

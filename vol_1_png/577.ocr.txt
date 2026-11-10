@@ -1,0 +1,209 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,960,413,1719,755
+2,163,419,931,758
+3,961,827,1713,1081
+4,163,831,930,1042
+5,164,1153,920,1321
+6,960,1153,1715,1363
+7,961,1433,1711,1687
+8,165,1437,931,1688
+9,166,1757,922,1924
+10,955,1757,1712,2012
+11,171,2381,1714,2507
+12,150,2082,1718,2206
+13,169,2241,1718,2381
+15,170,2511,1724,2723
+16,162,155,899,251
+17,948,139,1710,309
+18,717,778,1148,814
+19,1559,2729,1597,2777
+20,523,1705,1354,1739
+21,604,1383,1275,1417
+22,485,2028,1376,2066
+23,165,316,1713,401
+24,839,1100,1052,1137
+25,558,91,1331,132
+27,1635,82,1703,124
+28,151,98,231,140
+29,297,2730,575,2786
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=27 fontSize=15px
+# block=28 fontSize=15px
+# block=29 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=27
+554
+
+# block=25
+CONSTITUTIONES APOSTOLICÆ. — PROŒMIA.
+
+# block=28
+553
+
+# block=17
+earum lectionem prohibuit, quoniam in illis adul-
+teratio facta est. Lege ejusdem Responsa ad Inter-
+rogationes Marci Alexandrini, cap. 1 et 2, in Jure
+Græco-Romano, tom. I, p. 363.
+
+# block=16
+όδου ἀπηγόρευσε τὴν τούτων ἀνάγνωσιν, διὰ τὸ γε
+νέσθαι παραποίησιν ἐν αὐταῖς.
+
+# block=23
+Matthæus Blastares, nondum editus, initio Collectionis canonum, per titulos, ordine alphabetico ; ubi de
+canonibus apostolorum.
+
+# block=1
+Ait enim, (sancta et œcumenica sexta synodus)
+a sanctis Patribus qui ante nos fuerunt, receptos
+atque confirmatos, sed et nobis nomine sanctorum
+et gloriosorum apostolorum traditos, octoginta
+quinque canones, auctoritatem habere nos quoque
+præcipimus, exceptis Clementis epistolis et con-
+stitutionibus : illæ enim ab impiis multam adulte-
+rationem ac falsitatem acceperunt.
+
+# block=2
+Φησὶ γὰρ (ἡ ἁγία καὶ οἰκουμενικὴ ἕκτη σύνοδος)
+τοὺς ὑπὸ τῶν πρὸ ἡμῶν ἁγίων Πατέρων καὶ δε-
+χθέντας καὶ κυρωθέντας, ἀλλὰ μὴν καὶ παραδοθέντας
+ἡμῖν ἐπ' ὀνόματι τῶν ἁγίων καὶ ἐνδόξων ἀποστόλων,
+ὀγδοήκοντα πέντε κανόνας, τὸ κῦρος ἔχειν καὶ ἡμεῖς
+κελεύομεν· πλὴν τῶν τοῦ Κλήμεντος ἐπιστολῶν τε
+καὶ διατάξεων. Αὗται γὰρ πρὸς τῶν δυσσεβῶν πολὺ
+τὸ νόθον καὶ σφαλερὸν εἰσεδέξαντο.
+
+# block=18
+Ibidem, littera β', capite 11.
+
+# block=3
+Quas vero (canon apostolorum octogesimus
+quintus) adjicit duas Clementis epistolas, et ab
+eodem elaboratas Constitutiones apostolorum, post-
+ea secundus sextæ synodi canon abrogavit, quasi
+quæ per hæreticos multum adulterationis ac inter-
+polationis accepissent.
+
+# block=4
+Ἃς δὲ προστίθησι διὰ τοῦ Κλήμεντος δύο ἐπιστο-
+λὰς, καὶ τὰς πονηθείσας τούτῳ Διατάξεις τῶν ἀπο-
+στόλων· ὕστερον ὁ τῆς ἕκτης συνόδου δεύτερος κανὼν
+διέγραψεν, ὡς πολὺ τὸ νόθον πρὸς τῶν αἱρετικῶν καὶ
+παρέγγραπτον δεξαμένας.
+
+# block=24
+Et paulo post :
+
+# block=5
+Ἔξωθεν δὲ τῶν κανονιζομένων εἶναί φησιν (ὁ μέ-
+γας Ἀθανάσιος) τὴν Σοφίαν Σολομῶντος, etc., καὶ
+τὴν Διδαχὴν τῶν ἁγίων ἀποστόλων· ταύτην δὲ ἡ ἕκτη
+σύνοδος ἠθέτησεν, ὡς δεδήλωται.
+
+# block=6
+Extra autem canonicos libros ait esse, (magnus
+Athanasius) Sapientiam Salomonis, etc., et Do-
+ctrinam sanctorum apostolorum : hanc autem
+sexta synodus rejecit, quemadmodum jam decla-
+ratum est.
+
+# block=21
+Et infra, de canone apostolorum sexagesimo.
+
+# block=7
+Non solum enim qui maximi faciunt mendacium,
+propriis libris impiam suam sententiam nituntur
+confirmare ; sed etiam sua, scriptis piorum insc-
+runt ; quemadmodum in memoratis sacri Clemen-
+tis epistolis et Constitutionibus perperam factum
+fuit.
+
+# block=8
+Οὐ μόνον γὰρ οἱ περὶ πλείστου τὸ ψεῦδος ποιούμε-
+νοι, λόγοις οἰκείοις τὸ δυσσεβὲς αὐτῶν φρόνημα κρα-
+τύνειν πειρῶνται, ἀλλὰ καὶ τοῖς τῶν εὐσεβῶν συγ-
+γράμμασιν τὰ σφέτερα παρενείρουσιν· ὡς ἐν ταῖς
+ῥηθείσαις ἐπιστολαῖς τοῦ ἱεροῦ Κλήμεντος, καὶ ταῖς
+Διατάξεσιν ἐσκαιώρηται.
+
+# block=20
+In littera κ', capite 5, ubi de canone Trullano secundo.
+
+# block=9
+Τοὺς πέντε καὶ ὀγδοήκοντα τῶν ἁγίων ἀποστόλων,
+φημὶ, πλὴν τῶν διὰ Κλήμεντος Διατάξεων, αὗται γὰρ
+πολὺ τὸ νόθον πρὸς τῶν κακοδόξων δίκην ζιζανίων
+εἰσεδέξαντο, τὸ κῦρος ἔχειν κελεύει.
+
+# block=10
+Octoginta quinque canones sanctorum apostolo-
+rum, inquam ; exceptis Constitutionibus per Cle-
+mentem scriptis (ipsæ enim multam adulterationem
+a pravæ sententiæ hominibus, instar zizaniorum
+acceperunt) jubet habere auctoritatem. Vide not.
+in Const. ap., lib. VI, c. 8.
+
+# block=22
+Nicephorus Callisti, Ecclesiasticæ historiæ lib. III, cap. 18
+
+# block=12
+Τοῦτον συγγραφέα καὶ τῶν ἀποστολικῶν Διατάξεων, D Hunc (Clementem) et apostolicarum Constitutio-
+ἀλλὰ δὴ καὶ τῶν ἱερῶν κανόνων πιστεύομεν. num, et sacrorum quoque apostolicorum Canonum
+auctorem esse credimus. Lege lib. II, c. 46.
+
+# block=13
+Nicetas Serronius, vel, ut alii, Serranus aut Serrensis, ad Orationem quadragesimam secundam S. Gregorii
+Nazianzeni, num. 26, pag. 1153. C. tom. II. Ad ista verba Theologi, tom. I, p. 685. A. Τοιοῦτον γὰρ
+τὸ ὑπὲρ ἡμῶν σφάγιον, ἔνδυμα ἀφθαρσίας καὶ ὂν καὶ καλούμενον. Talis enim est victima pro nobis cæsa,
+quæ incorruptionis indumentum et est et appellatur.
+
+# block=11
+Illud autem, Incorruptionis indumentum, ex Octabiblo Clementina sumptum est, ubi hæc verba sunt :
+Ut dignos eos habeat lavacro regenerationis, quod incorruptionis indumentum est. In Constit. lib. VIII,
+cap. 6, ubi vide not.
+
+# block=15
+Constitutiones apostolicas laudant præterea Anastasius, quem alii Sinaitam, alii Nicænum vocant, in
+Quæstionum et Responsionum volumine ; editionis Gretseri, Resp. 1, 6, 12, 14, 15, 16, 20, 22, 35, 46,
+52, 60, 64 et 65. Nicolaus Methonensis, De corpore et sanguine Christi, in Bibliotheca Patrum, et alii.
+Denique a multis refertur, Æthiopes has Constitutiones pro vere apostolicis habere. Qua de re plus semel
+egimus in notis.
+
+# block=19
+18
+
+# block=29
+PATROL. GR. I.

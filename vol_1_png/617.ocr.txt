@@ -1,0 +1,188 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1001,454,1762,1106
+2,204,455,968,1153
+3,237,1218,919,1285
+4,195,1293,958,2302
+5,985,1287,1750,2301
+6,208,2324,1455,2362
+7,460,281,717,313
+8,456,1171,719,1205
+9,1006,150,1780,273
+10,651,92,1317,129
+12,188,144,979,272
+15,999,1212,1748,1281
+16,811,2397,1110,2433
+17,1276,1169,1467,1202
+18,216,325,965,447
+20,975,2457,1732,2699
+22,1699,105,1760,137
+23,1003,339,1756,422
+24,1269,284,1489,334
+25,169,2444,951,2702
+26,185,88,287,132
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Audite episcopi, et audite laici, quo modo dicit
+Deus : « Judicabo arietem ad arietem, et ovem ad
+ovem ⁴⁵ ; » et quo modo pastoribus ait: Judicabi-
+mini propter imperitiam vestram, et propter ovium
+perditionem : hoc est, Episcopum ad episcopum
+judicabo, et laicum ad laicum, et principem ad
+principem. Rationales enim sunt tam oves, quam
+arietes, non autem rationis expertes; ne forte
+laicus dicat : Ego ovis sum, et non pastor; si nul-
+lam mei rationem habui, viderit pastor, is solus
+pœnas pro me dabit. Nam sicuti ovis quæ bonum
+pastorem non sequitur, lupis exposita est ad interi-
+tum; ita quæ malum pastorem sectatur, mortem
+vitare nequit; ab eo, scilicet, devorabitur. Quo-
+circa fugiendi sunt perniciosi pastores.
+
+# block=2
+Ἀκούσατε οἱ ἐπίσκοποι, καὶ ἀκούσατε οἱ λαϊκοὶ,
+ὡς (8) φησιν ὁ Θεός· « Κρινῶ κριὸν πρὸς κριὸν, καὶ
+πρόβατον πρὸς πρόβατον· » καὶ πρὸς τοὺς ποιμένας
+λέγει· « Κριθήσεσθε ἕνεκεν τῆς ἀπειρίας αὐτῶν καὶ
+τῆς εἰς τὰ πρόβατα διαφθορᾶς· τουτέστιν, ἐπίσκοπον
+πρὸς ἐπίσκοπον κρινῶ, καὶ λαϊκὸν πρὸς λαϊκὸν, καὶ
+ἄρχοντα πρὸς ἄρχοντα. Λογικὰ γὰρ τὰ πρόβατα, καὶ
+οἱ κριοὶ οὗτοι, ἀλλ’ οὐκ ἄλογα· ἵνα μήποτε εἴπῃ ὁ
+λαϊκὸς, Ὅτι ἐγὼ πρόβατόν εἰμι, καὶ οὐ ποιμὴν, καὶ
+οὐδένα λόγον (9) ἐμαυτοῦ πεποίημαι, ἀλλ’ ὁ ποιμὴν
+ὄψεται, καὶ αὐτὸς μόνος εἰσπραχθήσεται τὴν ὑπὲρ
+ἐμοῦ δίκην. Ὥσπερ γὰρ τῷ καλῷ ποιμένι τὸ μὴ ἀκο-
+λουθοῦν πρόβατον, λύκοις ἔκκειται εἰς διαφθορὰν,
+οὕτω τῷ πονηρῷ ποιμένι τὸ ἀκολουθοῦν, πρόδηλον
+ἔχει τὸν θάνατον, ὅτι κατατρώξεται αὐτό. Διὸ φευκ-
+τέον ἀπὸ τῶν φθορέων ποιμένων.
+
+# block=3
+Ὅπως χρὴ τοὺς ἀρχομένους πειθαρχεῖν τοῖς
+ἄρχουσιν ἐπισκόποις.
+
+# block=4
+Τὸν μέντοι ποιμένα τὸν ἀγαθὸν ὁ λαϊκὸς τιμάτω,
+ἀγαπάτω, φοβείσθω, ὡς κύριον (10), ὡς δεσπότην,
+ὡς ἀρχιερέα Θεοῦ, ὡς διδάσκαλον εὐσεβείας. Ὁ γὰρ
+αὐτοῦ ἀκούων, Χριστοῦ ἀκούει, καὶ ὁ αὐτὸν ἀθετῶν,
+Χριστὸν ἀθετεῖ, καὶ ὁ τὸν Χριστὸν μὴ δεχόμενος, οὐ
+δέχεται τὸν αὐτοῦ Θεὸν καὶ Πατέρα. « Ὁ ὑμῶν, γάρ
+φησιν, ἀκούων, ἐμοῦ ἀκούει, καὶ ὁ ὑμᾶς ἀθετῶν, ἐμὲ
+ἀθετεῖ, καὶ ὁ ἐμὲ ἀθετῶν, ἀθετεῖ τὸν ἀποστείλαντά
+με. » Ὁμοίως ὁ ἐπίσκοπος ὡς τέκνα τοὺς λαϊκοὺς
+ἀγαπάτω, θάλπων καὶ στέργων (11) τῇ σπουδῇ τῆς
+ἀγάπης, ὡς ὠὰ, εἰς περιποίησιν νοσσίων, ἢ ὡς νοσ-
+σία, ἀγκαλιζόμενος εἰς περιποίησιν ὀρνίθων· πάντας
+νουθετῶν, πᾶσι τοῖς πληκτισμοῦ (12) ἐπιδεομένοις
+ἐπιπλήσσων, ἀλλὰ μὴ πλήσσων, ὑποπιέζων εἰς ἐντρο-
+πὴν, ἀλλὰ (13) μὴ εἰς ἀνατροπὴν, νουθετῶν εἰς ἐπι-
+στροφὴν, ἐπιτιμῶν εἰς διόρθωσιν, καὶ εὐθύτητα πο-
+ρείας· τὸ ἰσχυρὸν φυλάσσων, τουτέστι, τὸ ἑδραῖον τῇ
+πίστει ἀσφαλὲς τηρῶν· τὸν λαὸν εἰρηνικῶς ποιμαίνων·
+τὸ ἐνοχλούμενον ἐνισχύων, τουτέστι, τὸ πειραζόμενον
+ἐν τῇ νουθεσίᾳ στεῤῥοποιῶν· τὸ ἀῤῥωστοῦν ἰώμενος,
+τουτέστι, τὸ νοσοῦν ἐκ τῆς πίστεως ἐν διχονοίᾳ, διὰ
+τῆς διδασκαλίας θεραπεύων· τὸ συντετριμμένον κα-
+ταδεσμῶν, τουτέστι, τὸ πεπλανημένον, ἢ τὸ τεθραυσ-
+
+# block=5
+⁴⁶ Et quidem bonum pastorem laicus veneretur,
+amet, metuat, tanquam dominum, tanquam herum,
+tanquam Dei pontificem, tanquam magistrum pie-
+tatis. Qui enim audit eum, Christum audit; et qui
+spernit eum, Christum spernit; et qui non recipit
+Christum, non recipit illius Deum ac Patrem. Ait
+enim : « Qui vos audit, me audit; et qui vos sper-
+nit, me spernit; et qui me spernit, spernit eum
+qui me misit ⁴⁷. » Similiter episcopus laicos ut fi-
+lios diligat; naturalis studio charitatis prosequens,
+ac fovens, quasi ova ad exclusionem pullorum, aut
+quasi pullos ut in gallinas educentur sinu com-
+plectens : cunctos admonens; omnes qui castiga-
+tione indigent lædens, sed non illidens; ad conver-
+sionem premens, non autem ad eversionem; sua-
+dens ad regressum; increpans ut corrigat et in viam
+rectam deducat : quod firmum est retinens; id
+est, quod fide fundatum est, in tuto servans ;
+populum pacifice pascens : quod quassum est
+roborans; hoc est, quod tentatione concutitur,
+admonitione consolidans : quod ægrotum est sa-
+nans; id est, quod ex fide vacillante laborat, per
+doctrinam curans : quod contritum est ligans; hoc
+
+# block=6
+⁴⁴ Ezech. xxxiv, 30, 31. ⁴⁵ Ibid. 17. ⁴⁶ I. Ignat. interpol. ad Trall. 7. ⁴⁷ Luc. x, 16.
+
+# block=7
+ΚΕΦΑΛΑΙΟΝ ΙΘ΄.
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ Κ΄.
+
+# block=9
+subjungit : « Et cognoscetis quia ego Dominus, et
+vos oves pascuæ meæ; homines mei estis, et ego
+Deus vester, dicit Adonai Dominus ». »
+
+# block=10
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=12
+γνώσεσθε, ὅτι ἐγὼ Κύριος, καὶ ὑμεῖς πρόβατα τῆς
+νομῆς μου, ἄνθρωποί μου ἐστὲ, καὶ ἐγὼ Θεὸς ὑμῶν,
+λέγει Ἀδωναῒ Κύριος. »
+
+# block=15
+Quomodo subjecti præpositis sibi episcopis obedire
+debeant.
+
+# block=16
+VARIORUM NOTÆ.
+
+# block=17
+CAPUT XX.
+
+# block=18
+Ὅτι καὶ ὁ ποιμὴν, ἀμελῶς φερόμενος περὶ τὰ
+πρόβατα, δίκην τίννυσιν, καὶ τὸ πρόβατον
+μὴ (7) πειθαρχοῦν τῷ ποιμένι, κολάζεται.
+
+# block=20
+(10) Ὡς κύριον. Præmittit alter codex ὡς πατέρα,
+omittitque quod sequitur ὡς δεσπότην. Id.
+(11) Στέργων. Idem habet θερμαίνων. Id.
+(12) Πληκτισμοῦ. Alter διαπληκτισμοῦ δεομέ-
+νοις. Id.
+(13) Ἀλλά. Hanc vocem et tres sequentes non
+legimus in altero cod. Id.
+
+# block=22
+634
+
+# block=23
+Quod pastor, ovium negligens, pœnas solvat; et ovis
+non obediens pastori, puniatur.
+
+# block=24
+CAPUT XIX.
+
+# block=25
+(7) Μή. Τὸ μή in altero codicum, nec male. Cler.
+(8) Ὡς. Τί, quid. Id.
+(9) Καὶ οὐδένα λόγον. Hæc verba et sequentia
+ad δίκην desunt in altero codice. Sunt revera am-
+plificatio eorum, quæ proxime antecesserunt; sed
+nihil vetat hæc quoque esse a Scriptoris manu.
+Id.
+
+# block=26
+633

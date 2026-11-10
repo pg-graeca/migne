@@ -1,0 +1,203 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,250,478,1005,1202
+2,1034,1125,1788,1980
+3,248,1294,997,1938
+4,1034,137,1784,1118
+5,252,135,1004,469
+6,250,2107,995,2373
+7,251,2437,1003,2607
+8,280,1220,962,1292
+9,249,2376,988,2440
+10,282,1944,990,1982
+11,781,79,1249,120
+12,283,2604,997,2676
+14,1028,2066,1792,2643
+15,256,75,308,117
+16,284,2009,747,2047
+18,284,2070,715,2109
+19,1716,80,1776,130
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=16px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+159
+
+# block=11
+AD S. CLEMENTEM I PAPAM
+
+# block=19
+160
+
+# block=5
+βάθη τῆς θείας accepta esse de Evangelio, in quo
+est μυστήριον Θεοῦ, arcana olim voluntas Dei de
+salute hominum ; bene idem sanctus Cyrillus Cate-
+chesi XVI, pag. 429, συγκρίνειν pro interpretari ex
+I Corinth. cap. II, v. 13. Curiosus atque studiosus
+lector, qui plura hac de materia desiderat, con-
+sulat v. cl. Fromanni observationes ad Novum Te-
+stamentum e Clemente Romano.
+
+# block=4
+deratione dignæ sunt sententiæ quas circa divini-
+tatem Jesu Christi in utraque epistola divi Cle-
+mentis habemus. Omnes autem, ait sanctus Cle-
+mens (95), humili animo eratis.... Dei viatico con-
+tenti.... et accurate attendentes sermonibus ejus.....
+Passiones illius (Dei) præ oculis vestris erant : Τὰ
+παθήματα αὐτοῦ (Θεοῦ) ἦν πρὸ ὀφθαλμῶν ὑμῶν (96).
+Hoc in loco divus Clemens passiones Christi pas-
+siones Dei appellat, sic nempe ab apostolo Paulo
+institutus, cujus erat συνεργός (cooperator), qui eo-
+dem plane sensu Christi Ecclesiam appellavit ²⁰ :
+Ἐκκλησίαν τοῦ Θεοῦ ἣν περιεποιήσατο διὰ τοῦ ἰδίου
+αἵματος. — Ecclesiam Dei, quam acquisivit sanguine
+suo. Nec dubito, quin hisce verbis : Καὶ τὰ παθή-
+ματα αὐτοῦ ἦν πρὸ ὀφθαλμῶν ὑμῶν, repexerit san-
+ctus Pater ad illud ejusdem Apostoli, Galatas ita
+objurgantis ²¹ : O insensati Galatæ..... ante quorum
+oculos Christus præscriptus est, in vobis crucifixus.
+Nimirum Clemens, ut assolet, Paulum imitatus, in
+memoriam redegit Corinthiis, quomodo ante mo-
+tus in eorum Ecclesia nuper exortos, omni virtu-
+tum genere florerent, atque Dei passiones semper
+ante oculos ipsis obversarentur.
+
+# block=1
+De traditione. Controversiæ non sola Scriptura
+duce, sed et per traditionem decidendæ. — Sanctus
+Clemens Romanus in prima sua ad Corinthios
+epistola ad controversias in Corinthiorum Ecclesia
+excitatas dijudicandas, finiendasque non divinarum
+solum Scripturarum, verum traditionis etiam utitur
+auctoritate. Vult enim Corinthiis ad ea suis in
+disceptationibus esse respiciendum, quæ post Jesum
+Christum usque ad eam diem in Ecclesia tradita
+et servata fuerant. Apostoli nobis, inquit (91),
+evangelizarunt a Domino Jesu Christo missi, Jesus
+Christus a Deo...... Et apostoli nostri cognoverunt
+per D. N. J. Christum, quod futura esset contentio
+de nomine episcopatus; ob eam ergo causam con-
+stituerunt supradictos (scilicet episcopos et dia-
+conos) et deinceps futuræ successionis regulam tra-
+diderunt.
+
+# block=2
+Duæ in Christo naturæ; una divina, altera hu-
+mana; et una Persona. — Divinæ igitur naturæ ma-
+jestatem cùm carnis humilitate, crucisque ignomi-
+nia hoc loco conjungit sanctus Pater; duas item
+naturas agnoscit in Christo : unam Verbi Personam,
+quæ carne passa est, ac Dei passiones Ecclesiæ
+Corinthiacæ proponit velut longe maximum myste-
+rium, unde vitæ sanctioris præcepta institutaque
+omnia deducantur. Ex quibus ergo liquido patet,
+non solum quid sanctus Clemens, sed etiam quid
+Romani, quid Corinthii, quid demum cæteri Chri-
+stiani sæculo I apostolico de Deo in carne passo
+senserint, atque crediderint. Quæ quidem non
+solum contra Arianismum ac hæresin Nestorianam
+multum valent, sed etiam valde contra Socinianos
+urget vir doctus noster Maranus (97) : idemque
+argumentum jam pridem pluribus fuerat persecutus
+Grabius (98) qui aliorum sancti Patris nostri loco-
+rum parallelismo instituto, hunc ipsum, de quo
+agimus, strenue vindicavit, atque Christi Deitatis
+
+# block=8
+§ II. De SS. Trinitatis mysterio, Filio Dei Jesu
+Christo, ejusque gratia.
+
+# block=3
+De Trinitate. — In fragmento VII divi Clementis
+ex Basilio Lib. de Spiritu sancto c. 29, quod Cou-
+tantius, Gallandius ac Grabius epistolis sancti hu-
+jus pontificis adjungunt, expressa habetur trium
+divinarum Personarum a sancto Clemente profes-
+sio (92). Nonnulli viri eruditi insuper arbitrantur
+referente Coutantio (93) a sancto Clemente specia-
+lem de Spiritu sancto habitum fuisse sermonem,
+idque fragmento VIII, in quo de Spiritu sancto
+disseritur, confirmant; sed rem non evincunt;
+cum etiam in epistolis de Spiritu sancto hæc
+disserere licuerit, ac certum sit mutilas esse epi-
+stolas ad Corinthios. In laudato hoc fragmento
+VIII, perspicue sanctus hic papa tradit doctrinam
+de Spiritu sancto (94).
+
+# block=10
+Divinitas Dei Filii Jesu Christi. — Attenta consi-
+
+# block=16
+²⁰ Act. xx , 28. ²¹ Gal. III, 1.
+
+# block=14
+conjectasse pro παθήματα legendum forte μαθή-
+ματα. Sed plane respuendum cum Grabio, Wottono
+aliisque viris doctis inane commentum, quod tex-
+tum citra ullam necessitatem, neque ullius ms.
+codicis auctoritate sollicitare comperitur. Et jure
+quidem : etenim nonne demum apte cohærent omnia,
+si verba Dei mentis attentioni, ejusque passiones
+cordis oculis proponantur ? quod ubi diligenter at-
+tendo, mirari subit, cl. Fleurium in sua Historia
+ecclesiastica, tom. I, pag. 277, edit. Lat. in-8° vitio-
+sam Junii conjecturam sequi maluisse, quam sin-
+ceram textus lectionem, qui Gallice non passiones,
+sed doctrinam reddiderit.
+(97) Divinitas D. N. J. Christi manifest., lib. IV,
+cap. 3, p. 377.
+(98) In adnotat. ad Bulli defens. fid. Nic., pag.
+60.
+
+# block=18
+(91) Clem. Rom., 1, cap. 44.
+
+# block=6
+(92) « Sed et antiquior Clemens: Vivit, Deus, Do-
+minus Jesus Christus, et Spiritus sanctus. Nemo non
+videt Dei nomine Personam Patris intelligi. Id enim
+antiquis moris esse nullus ignorat, nisi qui in
+ipsorum scriptis peregrinus est, ut cum Deum sim-
+pliciter sine adjuncto in Scripturis legunt, vel ipsi
+enuntiant, Patrem hoc nomine expressum inter-
+pretentur, atque ipsi exprimant.
+
+# block=9
+(93) Apud Mansi, t. I Concil., col. 234, in
+nota 2.
+
+# block=7
+(94) Beatus vir (inquit sanctus Clemens) qui co-
+gnoscit Patris donum per processionem sanctissimi Spi-
+ritus. Beatus vir, qui agnoscit et comprehendit Spiri-
+tum sanctum esse donum illius, ab eo in figura co-
+lumbæ traditum, etc., etc.
+
+# block=12
+(95) Epistola 1, cap. 2.
+(96) Haud me latet in eo Clementino loco Junium

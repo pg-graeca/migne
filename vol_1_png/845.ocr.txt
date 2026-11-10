@@ -1,0 +1,166 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,196,2521,935,2722
+2,973,2491,1720,2723
+3,231,2248,1246,2286
+4,187,138,936,2175
+5,802,2328,1104,2364
+6,599,84,1294,121
+8,978,2389,1721,2489
+9,196,2386,936,2524
+10,194,83,262,125
+11,963,128,1728,2166
+12,1629,84,1703,125
+13,187,2164,1389,2222
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=196 source_y1=2521 source_x2=935 source_y2=2722
+(32) Ἀσπαζέσθωσαν οἱ τοῦ κλήρου τὸν ἐπί-
+σκόπον. Canone Laodiceno 19 : εἶθ' οὕτως τὴν
+εἰρήνην δίδοσθαι, καὶ μετὰ τὸ πρεσβυτέρους δοῦναι
+τῷ ἐπισκόπῳ τὴν εἰρήνην, τότε τοὺς λαϊκοὺς τὴν
+εἰρήνην διδόναι, quod postremum Zonaras inter-
+pretatur De salutatione sacerdotum a laicis, Diony-
+
+# block=2 source_x1=973 source_y1=2491 source_x2=1720 source_y2=2723
+(33) Τὶς. Deest in cod. Vind. CLER.
+(34) Εἰς δὲ ὑποδιάκονος, etc. Rem, idemque rei
+symbolum tradit Cyrillus Hierosolymitanus initio
+ultimæ Catecheseos Mystagogicæ; sed ministrum
+facit diaconum. Ut autem, ait auctor Quæstionum
+Veteris et Novi Testamenti, tom. IV Operum S. Au-
+gustini, quæstione 101, non omnia ministeria obse-
+
+# block=3 source_x1=231 source_y1=2248 source_x2=1246 source_y2=2286
+⁷⁹ Joan. x, 29.  ⁸⁰ Joan. xvii, 17.  ⁸¹ Psal. lxiii, 2.  ⁸² Psal. xc, 5.
+
+# block=4 source_x1=187 source_y1=138 source_x2=936 source_y2=2175
+αἰῶν, ἅγιε ἐν ἁγίοις ἀναπαυόμενε, ἄναρχε, μόναρχε·
+ὁ διὰ Χριστοῦ κήρυγμα γνώσεως δοὺς ἡμῖν εἰς
+ἐπίγνωσιν τῆς σῆς δόξης καὶ τοῦ ὀνόματός σου, οὗ
+ἐφανέρωσεν ἡμῖν εἰς κατάληψιν· αὐτὸς καὶ νῦν
+ἔπιδε δι' αὐτοῦ ἐπὶ τὸ ποίμνιον σοῦ τοῦτο· καὶ λύ-
+τρωσαι αὐτὸ πάσης ἀγνοίας, καὶ πονηρᾶς πράξεως·
+καὶ δὸς φόβῳ φοβεῖσθαί σε, καὶ ἀγάπῃ ἀγαπᾷν σε,
+καὶ στέλλεσθαι ἀπὸ προσώπου δόξης σου· εὐμενὴς
+αὐτοῖς γενοῦ, καὶ ἵλεως, καὶ ἐπήκοος ἐν ταῖς προσ-
+ευχαῖς αὐτῶν· καὶ φύλαξον αὐτοὺς ἀτρέπτους,
+ἀμέμπτους, ἀνεγκλήτους· ἵνα ὦσιν ἅγιοι · σώματι
+καὶ ψυχῇ, μὴ ἔχοντες σπίλον ἢ ῥυτίδα ἤ τι τῶν
+τοιούτων· ἀλλ' ἵνα ὦσιν ἄρτιοι, καὶ μηδεὶς ἐν αὐτοῖς
+ᾖ κολοβὸς ἢ ἀτελής. Ἀρωγὲ, δυνατό, ἀπροσωπόληπτε,
+γενοῦ ἀντιλήπτωρ τοῦ λαοῦ σου τούτου, ὃν ἐξηγόρα-
+σας (30) τῷ τιμίῳ τοῦ Χριστοῦ σου αἵματι. Προστά-
+της, ἐπίκουρος, ταμίας, φύλαξ, τεῖχος ἐχυρώτατον,
+φραγμὸς, ἀσφάλεια (31), ὅτι ἐκ τῆς σῆς χειρὸς
+οὐδεὶς ἁρπάσαι δύναται· οὐδὲ γάρ ἐστι Θεὸς ὥσπερ
+σὺ ἕτερος· ὅτι ἐν σοὶ ἡ ὑπομονὴ ἡμῶν. « 'Αγίασον
+αὐτοὺς ἐν τῇ ἀληθείᾳ σου, ὅτι ὁ λόγος ὁ σὸς ἀλήθειά
+ἐστιν.» Ἀπροσχάριστε, ἀπαραλόγιστε· ῥῦσαι αὐτοὺς
+πάσης νόσου καὶ πάσης μαλακίας, παντὸς παραπτώ-
+ματος, πάσης ἐπηρείας καὶ ἀπάτης, ἀπὸ φόβου
+ἐχθροῦ, ἀπὸ βέλους πετομένου ημέρας, ἀπὸ πράγμα-
+τος ἐν σκότει διαπορευομένου · καὶ καταξίωσον
+αὐτοὺς τῆς αἰωνίου ζωῆς, τῆς ἐν Χριστῷ τῷ Υἱῷ
+σου τῷ μονογενεῖ, τῷ Θεῷ καὶ Σωτῆρι ἡμῶν· δι' οὗ
+σοι δόξα καὶ σέβας, ἐν ἁγίῳ Πνεύματι, νῦν, καὶ ἀεὶ,
+καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν. Καὶ μετὰ
+τοῦτο λεγέτω ὁ διάκονος· Πρόσχωμεν. Καὶ ἀσπα-
+ζέσθω ὁ ἐπίσκοπος τὴν ἐκκλησίαν, καὶ λεγέτω· Ἡ
+εἰρήνη τοῦ Θεοῦ μετὰ πάντων ὑμῶν· καὶ ὁ λαὸς
+ἀποκρινάσθω· Καὶ μετὰ τοῦ πνεύματός σου. Καὶ ὁ
+διάκονος εἰπάτω πᾶσιν· Ἀσπάσασθε ἀλλήλους ἐν
+φιλήματι ἁγίῳ. Καὶ ἀσπαζέσθωσαν οἱ τοῦ κλήρου
+τὸν ἐπίσκοπον (32), οἱ λαϊκοὶ ἄνδρες τοὺς λαϊκοὺς,
+αἱ γυναῖκες τὰς γυναῖκας. Τὰ παιδία δὲ στηκέτωσαν
+πρὸς τῷ βήματι, καὶ διάκονος αὐτοῖς ἕτερος ἔστω
+ἐφεστὼς, ὅπως μὴ ἀτακτῶσι. Καὶ ἄλλοι διάκονοι πε-
+ριπατείτωσαν, καὶ σκοπείτωσαν τοὺς ἄνδρας καὶ τὰς
+γυναῖκας, ὅπως μὴ θόρυβός τις (33) γένηται, καὶ
+μή τις νεύσῃ, ἢ ψιθυρίσῃ, ἢ νυστάξῃ. Οἱ δὲ διάκονοι
+ἱστάσθωσαν εἰς τὰς τῶν ἀνδρῶν θύρας, καὶ οἱ ὑπο-
+διάκονοι εἰς τὰς τῶν γυναικῶν· ὅπως μήτις ἐξέλθοι,
+μήτε ἀνοιχθῇ ἡ θύρα, κἂν πιστός τις ᾖ, κατὰ τὸν
+καιρὸν τῆς ἀναφορᾶς. Εἷς δὲ ὑποδιάκονος διδότω
+
+# block=5 source_x1=802 source_y1=2328 source_x2=1104 source_y2=2364
+VARIORUM NOTÆ.
+
+# block=6 source_x1=599 source_y1=84 source_x2=1294 source_y2=121
+CONSTITUTIONES APOSTOLICÆ.—LIB. VIII.
+
+# block=8 source_x1=978 source_y1=2389 source_x2=1721 source_y2=2489
+sius Exiguus De salutatione laicorum inter se;
+utrumque autem factum fuisse satis constat.
+Cot.
+
+# block=9 source_x1=196 source_y1=2386 source_x2=936 source_y2=2524
+(30) Ἐξηγόρασας. Vind. codices : Ὃν ἐξελέξω
+ἐκ μυριάδων. CLER.
+(31) Φραγμὸς, ἀσφάλεια. Idem : φραγμὸς ἀσφα-
+λείας, paries securitatis. Ib.
+
+# block=10 source_x1=194 source_y1=83 source_x2=262 source_y2=125
+1089
+
+# block=11 source_x1=963 source_y1=128 source_x2=1728 source_y2=2166
+bitas, sancte, qui in sanctis requiescis, originis
+expers, monarcha; qui per Christum dedisti nobis
+cognitionis prædicationem in agnitionem gloriæ
+tuæ ac nominis tui, quod manifestavit nobis ad
+comprehensionem : ipse nunc quoque respice per
+ipsum in hoc ovile tuum; et libera illud omni igno-
+rantia, et prava actione; et da ut te timore timeat,
+ac dilectione te diligat, et contremiscat a facie glo-
+riæ tuæ : sis eis clemens, propitius, ac exauditor
+in precibus eorum; et custodi illos immutabiles,
+irreprehensos, inculpatos : ut sint sancti corpore
+atque anima, non habentes maculam, aut rugam,
+aut aliquid hujusmodi; sed ut sint integri, nullus-
+que inter eos sit mutilus, vel imperfectus. Defen-
+sor, potens, personarum non acceptor; sis auxilia-
+tor populi tui hujus, quem redemisti pretioso Chri-
+sti tui sanguine : patronus, adjutor, propugnator,
+custos, murus tutissimus, vallum, firmum præsi-
+dium, quoniam ex manu tua nemo potest rapere ⁷⁹ ;
+non enim est alius Deus sicut tu, quia in te est
+nostra exspectatio. « Sanctifica eos in veritate tua ;
+quoniam sermo tuus veritas est ⁸⁰.» Qui gratiæ
+causa nihil agis, qui decipi non potes; libera eos
+omni morbo et omni infirmitate, omni delicto, omni
+injuria et fraude, a timore inimici ⁸¹, a sagitta
+volante per diem, a negotio in tenebris perambu-
+lante ⁸²; et dignare illos æterna vita, quæ in Chri-
+sto Filio tuo unigenito, Deo ac Salvatore nostro;
+per quem tibi gloria et cultus, in sancto Spiritu,
+nunc, et semper, et in sæcula sæculorum. Amen.
+Postea diaconus dicat : Attendamus. Et salutat
+episcopus ecclesiam, ac dicat : Pax Dei, cum om-
+nibus vobis. Et populus respondeat : Et cum spi-
+ritu tuo. Diaconus vero dicat omnibus : Salutate
+vos invicem in osculo sancto : et clerici osculentur
+episcopum, laici viri laicos, feminæ feminas. Pueri
+autem stent ad suggestum. Ac diaconus alius ipsis
+præsit, ne inordinate se gerant. At alii diaconi de-
+ambulent,inspiciantque viros ac mulieres, ne strepi-
+tus aliquis oriatur, et ne quis. nutum faciat, vel
+susurret, vel dormitet. Diaconi vero stent ad ianuas
+virorum, et subdiaconi ad ianuas mulierum; ut
+nemo egrediatur, neve aperiatur ianua tempore
+oblationis, licet adveniat quispiam fidelis. Unus
+autem subdiaconus det sacerdotibus aquam, ad la-
+vandum manus; quæ res signum est puritatis ani-
+marum Deo consecratarum.
+
+# block=12 source_x1=1629 source_y1=84 source_x2=1703 source_y2=125
+1090
+
+# block=13 source_x1=187 source_y1=2164 source_x2=1389 source_y2=2222
+ἀπόνιψιν χειρῶν τοῖς ἱερεῦσι (34), σύμβολον καθαρότητος ψυχῶν Θεῷ ἀνακειμένων.

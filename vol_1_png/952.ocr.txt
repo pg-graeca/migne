@@ -1,0 +1,188 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1011,813,1752,1197
+2,217,557,970,1161
+3,232,1716,964,2350
+4,1003,1198,1738,2144
+5,222,129,981,549
+6,213,1156,967,1708
+7,215,2533,965,2665
+8,1009,2534,1747,2669
+9,1005,127,1759,812
+10,820,2478,1147,2513
+12,1007,2147,1752,2351
+13,655,70,1384,105
+14,243,73,312,102
+16,224,2380,1744,2451
+21,1676,68,1762,112
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=16 fontSize=15px
+# block=21 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=21
+1304
+
+# block=13
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=14
+1303
+
+# block=9
+magis deflendus est Simon, quod vas electionis fa-
+ctus est maligno; quod utique non fuisset, nisi
+potestatem in eum pro peccatis prioribus accepis-
+set. Nam inde quid dicam, quod et Jesu nostro cre-
+diderat ¹, et quod immortales esse animas sibi ipse
+persuasit? Quamvis in eo ludatur a dæmonibus,
+tamen persuasit sibi, quod pueri violenter necati
+habeat animam ministrantem sibi ad quæcunque
+voluerit; in quo vere, ut dixi, a dæmonibus illudi-
+tur. Et ideo ego secundum ea quæ ipsi videbantur
+locutus sum ad eum; nam et a Judæis didicit, quia
+sit judicium et ultio proferenda adversum eos, qui
+contra veram fidem veniunt nec pœnitentiam ge-
+runt; sed isti sunt quibus malignus tanquam per-
+fectis in sceleribus apparet, ut decipiat eos, ne
+aliquando ad pœnitentiam convertantur.
+
+# block=5
+professus fueram, et si non permanerem, ut tu
+sapiens credereris, qui ista prævideris, ego autem
+deceptus viderer, quia tuum non prævidi dolum;
+tu vero meum prævidens, calliditate usus circum-
+scripsisti me. Sed, ut dixi, fortunæ est, non verita-
+tis ista victoria, scio tamen cur ego ista non præ-
+viderim, quia astans locutus sum tibi per bonita-
+tem meam, et patienter egi tecum. Nunc autem tibi
+ostendam divinitatis meæ potentiam, ut repente
+procidas et adores me.
+
+# block=2
+XLVII. Ego sum prima virtus, qui semper et sine
+initio sum. Ingressus autem uterum Rachel, natus
+sum ut homo ex ea, quo ab hominibus videri pos-
+sem; ego per aërem volavi, igni commistus unum
+corpus effectus sum, statuas moveri feci, animavi
+exanima, lapides panes feci, de monte in montem
+volavi, transmeavi, manibus angelorum sustentatus
+ad terras descendi. Hæc non solum feci, sed et nunc
+facere possum, ut rebus ipsis probem omnibus, quia
+ego sum Filius Dei stans in æternum, et credentes
+mihi similiter stare in perpetuum faciam (92). Tua
+autem verba vana sunt omnia, nec ullum potes opus
+ostendere veritatis, sicut et ille qui misit te magus,
+qui nec se ipsum potuit liberare de crucis pœna.
+
+# block=1
+L. Vos ergo qui ad Dominum convertimini per
+pœnitentiam, curvate ei genua. Hæc cum dixisset,
+omnis multitudo genua flexit Deo. Et Petrus respi-
+ciens ad cœlum, cum lacrymis orabat super eos,
+ut Deus pro sua bonitate suscipere eos dignaretur
+confugientes ad se. Et postquam oravit et præcepit
+ut postera die maturius convenirent, multitudinem
+missam fecit (93). Tum deinde secundum consue-
+tudinem, cibo sumpto, quievimus.
+
+# block=6
+XLVIII. His dictis a Simone, Petrus respondit :
+Ne agas aliena, tu enim quod sis magus ex ipsis
+quæ gessisti, confessus es et manifestatus, noster
+autem magister qui est Filius Dei et hominis, ma-
+nifeste bonus est; quod autem vere sit Filius Dei,
+quibus oportuit, dictum est et dicetur. Tu autem si
+non vis confiteri quod magus es, cum omni hac turba
+pergamus ad domum tuam, et tunc apparebit quis sit
+magus: Hæc autem Petro dicente, Simon blasphe-
+miis et maledictis agere cœpit, ut seditione facta,
+perturbatis omnibus argui non posset, et Petrus
+quasi blasphemiæ causa secedens, victus videretur.
+Sed perstitit et arguere eum vehementius cœpit.
+
+# block=4
+LI. Igitur Petrus solita noctis hora consurgens,
+invenit nos vigilantes, et cum ex more salutans
+consedisset, primus Niceta ² ait : Si permittis, m,
+domine Petre, habeo quod rogem. Et Petrus : Per
+mitto, inquit, non solum tibi sed et omnibus, et nor
+solum modo sed et semper, ut unusquisque quod
+eum movet, et partem quam dolet in animo fatea-
+tur, ut possit consequi medicinam. Quæ enim si-
+lentio conteguntur nec innotescunt nobis, velu
+multi temporis vitia difficile curantur, et ideo quo-
+niam tacentibus non facile potest medela oppor-
+tuni et necessarii sermonis adhiberi, proferre de-
+bet unusquisque in quo animus per ignorantian
+languet; tacenti vero dare remedium solius es
+Dei; possumus autem et nos, sed circuitu mult
+temporis. Necesse est enim ut sermo doctrinæ ad
+initio per ordinem currens, et singulis quibusque
+quæstionibus obvians cuncta aperiat, et cuncta
+dissolvat et perveniat etiam ad hoc quod unusquis-
+que in animo suo requirit; sed hoc, ut dixi, per
+multum tempus fieri potest. Nunc autem quod de-
+sideras roga.
+
+# block=3
+XLIX. Tunc populus indignatus Simonem atrio
+ejectum extra januam domus pepulit, eumque de-
+pulsum unus secutus est solus. Facto autem silentio
+Petrus alloqui populum hoc modo cœpit : Patien-
+ter, fratres, malos ferre debetis, scientes quia Deus
+cum possit eos excidere, patitur tamen durare
+usque ad præstitutam diem, in qua de omnibus ju-
+dicium fiet; quomodo ergo nos non patiemur, quos
+patitur Deus ? Cur autem non forti animo illatas
+ab eis toleramus injurias, cum suas ille qui potest
+omnia non ulciscatur, ut et ipsius bonitas, et ma-
+lorum noscatur impietas? Verum si non invenisset
+Simonem malignus ministrum sibi, invenisset alium
+sine dubio; necesse est enim sæculo huic venire
+scandala; væ tamen illi per quem veniunt ¹⁰⁰. Et idco
+
+# block=12
+LII. Et Niceta ait : Uberes tibi gratias ago, o
+clementissime Petre, verum hoc est quod discere
+cupio : Cur Simon qui adversatur Deo, facere tanta
+hæc et talia potuit ? Non enim mentitus est aliquid
+ex his, quæ se fecisse professus est. Ad hæc bea-
+
+# block=16
+¹⁰⁰ Matth. XVIII, 7. ¹ Act. VIII, 15. ² Primus Niceta et quæ sequuntur vocabula usque ad illa cap. 63
+exortus est et, etc. in cod. Lips. desunt; nec male quidem, ut videtur.
+
+# block=10
+COTELERII NOTÆ.
+
+# block=7
+(92) Et credentes mihi, similiter stare in perpe-
+tuum faciam. Hinc Menander Simonis discipulus, eos
+qui baptismum suum acceperant, dicebat immorta-
+les permansuros.
+
+# block=8
+(95) Multitudinem missam fecit. Risum tenere non
+potui, cum pro his, in impostore pseudo-Abdia legi,
+sacrificium fecit, quasi scriptum esset dumtaxat,
+missam fecit.

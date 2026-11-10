@@ -1,0 +1,176 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,197,1151,954,2178
+2,199,626,954,1138
+3,981,1670,1742,2699
+5,982,148,1743,1665
+6,238,2672,945,2705
+7,192,137,954,615
+8,616,90,1318,125
+14,1668,94,1737,128
+15,1723,2819,1749,2834
+16,203,2191,951,2660
+17,190,86,292,132
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+1387
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=14
+1388
+
+# block=7
+ut mollitie sui palpet et foveat cordis vigorem, in
+quo videtur vita consistere, vita dico, non anima.
+Nam quid dicam de substantia sanguinis, qui velut
+fluvius ex fonte procedens, et uno prius alveo in-
+vectus tum deinde per innumeras venas, quasi per
+areas derivatus, totam humani corporis terram
+vitalibus rigat fluentis, jecoris opere ministratus,
+quod ad efficaciam digestionis ciborum, atque in
+sanguinem mutandorum in dextro latere jacet. In
+sinistro vero splenis est locus, qui trahere ad se et
+purgare quodammodo sordes sanguinis possit.
+
+# block=5
+et quare tam tarde? Hoc possis obtendere etiamsi
+ante factus fuisset; diceres enim, Cur non et ante
+hoc? et ita immensa sæcula transcendens semper
+possis requirere, cur non et ante hoc? Sed nobis
+nunc sermo non de eo est (cur non sit ante factus
+quam factus est), sed si omnino factus est. Si enim
+factum constat, necessario potentis et summi arti-
+ficis opus est; quod si constat, quando eum facere
+voluerit, sapientis artificis arbitrio judicioque re-
+linquendum est. Nisi videatur tibi omnis hæc sa-
+pientia, quæ tam immanem mundi machinam
+struxit, et singulis quibusque rebus formas et spe-
+cies dedit, quarum habitum non decori solum con-
+venientem, sed et futuris usibus aptissimum et ne-
+cessarium poneret, hoc eam solum fugerit, quo tam
+magnificæ conditionis opportunum tempus assume-
+ret. Est apud illum profecto certa ratio, sunt evi-
+dentes causæ, cur et quando et qualiter fecerit mun-
+dum, quas hominibus, quibus hæc quæ ante oculos
+posita sunt et de ejus providentia contestantur, in-
+quirere et intelligere pigrum fuit, aperiri utique
+non oportuit; quæ enim in occulto habentur et
+intra sapientiæ sensus, velut intra regios thesauros
+recondita sunt, nemini patent, nisi his qui ab illo
+didicerint, apud quem signata sunt hæc et repo-
+sita. Deus ergo est qui fecit omnia, et ipse a ne-
+mine factus est. Qui autem naturam pro Deo nomi-
+nant, et per naturam facta esse cuncta testantur,
+latet eos appellationis suæ error. Si enim naturam
+irrationabilem putant, stultissimum est rationabi-
+lem facturam ab irrationabili factore progredi. Si
+vero ratio est, id est logos, per quam facta constat
+universa, superfluo nomen immutant, ubi de Condi-
+toris ratione profitentur. Ad hæc si quid habes, Pa-
+ter, prosequere.
+
+# block=2
+XXXI. Intestinorum quoque ratio quanta est!
+quæ idcirco longis nexibus in circulorum ordinata
+sunt modum, ut susceptas digestiones ciborum
+paulatim egerant, quo neque ad subitum inanes
+efficiant locos, et his qui superadditi fuerint non
+impediantur cibis. Membranæ autem in modum id-
+circo facta sunt, ut ex ipsis ea quæ extrinsecus
+sunt, humorem sensim suscipiant, qui neque su-
+bito effusus exinaniret interna, neque densiore cute
+prohibitus, arida quæ extrinsecus habentur effi-
+ceret, et totam hominis fabricam sitis necessitate
+turbaret.
+
+# block=1
+XXXII. Porro vero feminea positio, et vulvæ si-
+nus ad recipiendum germen et confovendum vivifi-
+candumque commodissimus, quem non ratione et
+prudentia effecta esse quæ facta sunt, suadeat, quod
+in ea solum parte membrorum a virili specie fe-
+mina discrepat, qua posteritas sata suscipitur et
+fovetur, et rursus virilis habitus ea tantummodo
+membrorum parte immutatur, qua ei vis serendi
+et generandi hominis inest? Et in hoc magnum
+quidem testimonium Providentiæ datur, ex neces-
+saria diversitate membrorum, sed ibi majus, ubi in
+habitus similitudine, usus diversitas et officii va-
+rietas invenitur. Nam mamillæ viris æque sunt ac
+feminis, sed feminarum solæ sunt quæ lactis mu-
+nere replentur, ut statim ubi genuerint, apta sibi
+parvulus inveniat nutrimenta. Quod si tanta ratione
+videmus in homine membra disposita, ut in cæte-
+ris omnibus similis habitus videatur, in his tan-
+tummodo discrepant, in quibus usus diversitatem
+requirit, et neque in viro aliquid superfluum aut
+egens, neque in femina quod desit videamus vel
+quod abundet, quis ex his omnibus non eviden-
+ter agnoscat rationis opus et sapientiam Condi-
+toris?
+
+# block=3
+XXXV. Hæc cum Niceta dixisset, senex ita
+respondit: Tu quidem, fili, prudenter et fortiter
+prosecutus es, in tantum ut melius dici posse de
+Providentia non putem. Sed quoniam hora jam
+multa est, crastino ad hæc quæ prosecutus es,
+respondere aliqua volo, de quibus si mihi satisfe-
+ceris gratiæ me fateor debitorem. Et his a sene di-
+ctis, surrexit Petrus. Quidam vero ex astantibus
+Laodicensium primus rogabat Petrum et nos, ut se-
+nis indumenta quæ habebat sordida et scissa mu-
+taret; quem Petrus et nos amplexi, et collaudantes
+pro honesta et optima voluntate sua, dicebamus:
+Quia nec nos ita insipientes sumus et impii, ut cui
+tam pretiosa verba concredimus, non multo magis
+etiam hæc quæ ad usus corporeos sunt necessaria
+præbeamus, quæ eum et libenter suscepturum cre-
+dimus, tanquam a filiis patrem, sed et tectum nobis
+et vitam communem fore credimus. Hæc cum nos
+diceremus, et ille primarius civitatis summa vi et
+blandimentis plurimis avellere a nobis cuperet se-
+nem, nos vero eo vehementius retineremus, omnis
+populus acclamavit ut illud magis fiat, quod ipsi
+placet seni; et cum silentium factum fuisset, senex
+juramento prævenit, dicens: Hodie apud nullum
+
+# block=16
+XXXIII. His astipulatur etiam cæterorum ani-
+malium rationabilis diversitas, et suo quodque usui
+ministerioque conveniens. Hæc testatur et arbo-
+rum varietas herbarumque diversitas, tam specie
+variata quam succis. Hæc asserit et permutatio
+temporum in quatuor distincta vicissitudines, et
+certis horis, diebus, mensibus, annum circulus
+claudens, et ne unam quidem horam statutæ rationis
+excedens; hinc denique etiam mundi ipsius ætas,
+certa et stabili ratione, concepto annorum numero
+censetur.
+
+# block=6
+XXXIV. Sed dices, Quando mundus factus est,
+
+# block=15
+-

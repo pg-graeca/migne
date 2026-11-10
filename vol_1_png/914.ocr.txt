@@ -1,0 +1,184 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,251,326,1007,1398
+2,1036,848,1794,2010
+3,1047,159,1801,840
+4,243,1408,998,2029
+5,1027,2167,1787,2468
+6,1023,2532,1782,2702
+7,260,155,1010,320
+8,237,2165,992,2434
+9,237,2434,991,2571
+10,236,2635,986,2705
+11,1026,2467,1781,2535
+12,237,2569,987,2636
+13,663,99,1384,135
+14,848,2113,1158,2146
+15,263,101,331,136
+16,263,2038,653,2073
+17,1711,100,1793,140
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=251 source_y1=326 source_x2=1007 source_y2=1398
+XXXIII. Igitur Abraham cum rerum causas desi-
+deraret agnoscere, idque secum intenta mente per-
+volveret, apparuit ei verus Propheta, qui solus
+hominum corda et propositum novit, et omnia ei
+quæ desiderabat aperuit, Divinitatis scientiam do-
+cuit, mundi originem finemque pariter indicavit,
+animæ immortalitatem ac vivendi instituta quibus
+Deo placeretur, ostendit, resurrecturos quoque
+mortuos, ac judicium futurum, bonorum remunera-
+tionem, malorum pœnas, justo cuncta moderando
+judicio declaravit, omnibusque rite ac sufficienter
+edoctis ad sedes rursus invisibiles secessit. Verum
+cum adhuc Abraham in ignorantia versaretur, sic-
+ut tibi et antea jam diximus, nati sunt ei filii duo,
+quorum unus Ismael, alius Heliesdros (32) appellati
+sunt. Ex alio barbaræ gentes, ex alio Persarum
+populi descendunt. E quibus nonnulli Brachmano-
+rum vitam et vicina instituta sectati sunt, alii apud
+Arabiam consederunt, ex quorum posteris nonnulli
+etiam in Ægyptum dispersi sunt. Inde denique et
+Indorum quidam et Ægyptiorum circumcidi didi-
+cere ac purioris observantiæ esse quam cæteri,
+licet processu temporis quamplurimi eorum ad
+impietatem verterent argumentum et indicium ca-
+stitatis.
+
+# block=2 source_x1=1036 source_y1=848 source_x2=1794 source_y2=2010
+XXXV. Post hæc Moyses, Dei omnia providen-
+tis præcepto Hebræorum populum eduxit in deser-
+tum, et iter brevissimum, quod fert de Ægypto ad
+Judæam, relinquens, per longos eremi (35) plebem
+duxit anfractus, ut quadraginta annorum exercitiis
+mala quæ eis ex Ægyptiorum moribus usu longi
+temporis inoleverant, innovatione mutatæ consue-
+tudinis aboleret. Interea venitur ad montem Sina,
+et inde lex eis, vocibus et visionibus cœlestibus
+traditur decem conscripta præceptis; quorum
+primum et maximum fuit, ut ipsum solum cole-
+rent Deum, nec ullam sibi aliam speciem vel for-
+mam statuerent ad colendum. Sed cum Moyses
+ascendisset ad montem, ibique diebus quadraginta
+moraretur, populus qui decem plagis percussam
+viderat Ægyptum, et abruptum mare ac pedibus
+digressum, manna quoque sibi pro pane cœlitus
+datum et ex sequenti petra poculum ministratum ⁸⁴
+(quæ species cibi (36) per virtutem Dei, in quem
+quisque desiderasset, verteretur saporem), cumque
+sub plaga cœli ardentiore positi essent, ne æstibus
+coquerentur, nube obumbrabantur in die, nocte vero
+columna ignis illuminabantur, ne ad eremi vasti-
+tatem horror quoque accederet tenebrarum : cum,
+inquam, moraretur Moyses, ipsi secundum spe-
+ciem Apidis, quem coli in Ægypto viderant, au-
+reum caput vituli facientes adoraverunt (37), et
+
+# block=3 source_x1=1047 source_y1=159 source_x2=1801 source_y2=840
+patriam terram, decem plagis cœlestibus affecit,
+populum vero Dei eduxit ex Ægypto. Sed qui su-
+perfuerant ex Ægyptiis, conspirati cum animosi-
+tate regis sui, insecuti sunt Hebræos; quos cum
+reperissent super littus maris, et interimere omnes
+ac delere cogitarent, Moyses oratione ad Deum
+fusa mare in duas partes divisit, ita ut aqua dex-
+tera lævaque quasi gelu concreta teneretur, et
+populus quidem Dei transiret velut iter aridum,
+insequentes vero eos Ægyptii temere ingressi ne-
+carentur. Ubi enim ultimus ex Hebræorum populo
+ascendit, Ægyptiorum quoque ultimus descendit
+in mare, et continuo aquæ maris quæ ut gelu con-
+stricte tenebantur, præcepto ejus qui constrinxerat
+relaxatæ, pœnas de impiorum populo recepta na-
+turæ suæ libertate sumpserunt.
+
+# block=4 source_x1=243 source_y1=1408 source_x2=998 source_y2=2029
+XXXIV. Verumtamen cum hos duos filios tem-
+pore, quo adhuc in ignorantia rerum vixerat,
+suscepisset, Dei agnitione percepta petit ab eo, quia
+erat justus, ut ex Sara quæ ei erat conjux legitima,
+cum esset sterilis, habere progeniem mereretur;
+et accepit, quem et Isaac nominavit, ex quo natus
+est Jacob, de Jacob autem duodecim patriarchæ,
+et ex ipsis duodecim septuaginta duo (33). Hi fame
+exorta in Ægyptum veniunt cum omni domo sua,
+et intra annos quadringentos (34) benedictione et
+promissione Dei multiplicati, affligebantur ab Ægy-
+ptiis. Cumque affligerentur, apparuit verus Pro-
+pheta Moysi ⁶⁹, et Ægyptios quidem resistentes, ne
+Hebræorum populus exiret ab eis et rediret ad
+
+# block=5 source_x1=1027 source_y1=2167 source_x2=1787 source_y2=2468
+tes vestigia commeantium, extremo suorum bara-
+thrum ingresse (non ingressi), novissimoque plebis
+Dei ad naturale littus transgresso, ita sunt montibus
+aquarum involuti, ut nullus remaneret qui factum
+domi residentibus referre potuisset. Et cap. 6 : Sic
+eos per desertum quadraginta annos ad terram pro-
+missionis circumduxit, donec desuescerent idololatriam
+de qua erant educti, et quam ubicunque venirent erant
+inventuri.
+
+# block=6 source_x1=1023 source_y1=2532 source_x2=1782 source_y2=2702
+(37) Ipsi secundum speciem Apidis... adoraverunt.
+Scribit tamen hunc in modum Joannes Damascenus,
+III, contra Iconomachos : Οὐ γὰρ ἐποίησαν Διὸς εἴ-
+δωλον, ἢ τοῦδε, ἢ τοῦδε, ἀλλ' ὡς ἔτυχεν ἔδωκαν τὸν
+χρυσὸν ἐπὶ τὸ ποιῆσαι εἴδωλον ὅπερ ἂν τύχῃ, καὶ
+
+# block=7 source_x1=260 source_y1=155 source_x2=1010 source_y2=320
+plenius eum de his quæ sentire cœpit, edocuit. Sed
+et quid generi ejus ac posteritati deberetur, osten-
+dit, et non tam eis danda hæc loca, quam reddenda
+promisit.
+
+# block=8 source_x1=237 source_y1=2165 source_x2=992 source_y2=2434
+(32) Heliesaros. Exemplar Candelerianum, Elies-
+dros. Carmeliticum, Helimesdros. Petiti, Helihes-
+drus. Puto esse idem nomen ac Ἐλιέζερος, Eliezerus,
+Damascus Eliezer, Genes. xv, 2, per quem locum
+evertitur fabula hæc, a pseudo-Clemente ex apo-
+crypho vetustiori, ut videtur, desumpta. Lege lib. II,
+cap. 1 ; Clementina homil. 2, n. 1, et Epitomes
+cap. 20.
+
+# block=9 source_x1=237 source_y1=2434 source_x2=991 source_y2=2571
+(33) Septuaginta duo. Numerus iste non con-
+stat. Constaret 62, quia 62, cum duodecim patriar-
+chis et Jacobo, faciunt 75, quot ponuntur a LXX.
+Genes. XLVI, 27, et Exod. I, 5, indeque Act. VII, 14.
+
+# block=10 source_x1=236 source_y1=2635 source_x2=986 source_y2=2705
+(35) Per longos eremi, etc. Ita lego in sermone
+S. Galli confessoris, cap. 5 : Omnes igitur sequen-
+
+# block=11 source_x1=1026 source_y1=2467 source_x2=1781 source_y2=2535
+(36) Quæ species cibi, etc. Respicit ad locum li-
+bri Sapientiæ, cap. XVI, vers. 20, 21.
+
+# block=12 source_x1=237 source_y1=2569 source_x2=987 source_y2=2636
+(34) Intra annos quadringentos. Geneseos XV, 13,
+ubi consulendi interpretes.
+
+# block=13 source_x1=663 source_y1=99 source_x2=1384 source_y2=135
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=14 source_x1=848 source_y1=2113 source_x2=1158 source_y2=2146
+COTELERII NOTÆ.
+
+# block=15 source_x1=263 source_y1=101 source_x2=331 source_y2=136
+1227
+
+# block=16 source_x1=263 source_y1=2038 source_x2=653 source_y2=2073
+⁴⁰ Exod. III. ⁸¹ 1 Cor. x.
+
+# block=17 source_x1=1711 source_y1=100 source_x2=1793 source_y2=140
+1228

@@ -1,0 +1,154 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1057,1993,1803,2687
+2,1052,1367,1801,1970
+3,256,121,1008,993
+4,1045,113,1793,1352
+5,267,997,1025,2693
+7,660,70,1373,109
+8,259,81,313,120
+9,1725,58,1791,106
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Perperam quoque confunduntur Constitutiones
+cum Clementinis. Aperte siquidem ac exserte distin-
+guit Nicephorus Historiæ ecclesiasticæ lib. III,
+cap. 18. Nec sinit hæsitare præsens editio, quæ
+utrumque σύγγραμμα, ac posterius nunc primum
+complectitur. Errat itidem Humbertus Cardinalis,
+dum Ordinationes seu Constitutiones, a Niceta Pecto-
+rato laudatas, ad Itinerarium Petri apostoli trans-
+fert, cum quo nihil commune habent, longe de aliis
+rebus quam de Petri peregrinationibus disserentes.
+Ansam erroris Humberto dedit ignoratio utriusque
+apocryphi, solaque notitia hujus Gelasiani decreti,
+Itinerarium nomine Petri apostoli, quod appellatur
+sancti Clementis libri decem (ita rectius dubio pro-
+cul antiquæ editiones, quam recentiores octo vel no-
+vem) apocryphum. Creditum Cardinali, Græcos nihil
+
+# block=2
+Jam vero præter supra dictis veris opposita, fal-
+sum etiam est, auctorem Constitutionum atque Re-
+cognitionum eumdem esse. Habemus Photii judi-
+cium, qui prærogativam quidem sanioris doctrinæ
+tribuit primo operi; at eloquentiæ, ac polymathiæ
+posteriori. Et quis non videt illius scriptorem vi-
+rum fuisse sanctarum Scripturarum rituumque ec-
+clesiasticorum scientissimum; hujus , hominem
+in iis rudiorem? Huc accedit quod non semper
+conveniunt dogmata utriusque. Verbi gratia Con-
+stitut., lib. VIII, cap. 46 , inter inanima recensen-
+tur sol, luna, stellæ; contra Recognit. lib. V, cap. 16.
+Sic (alia prætereo) Ebioniticæ Ἀναγνωρισμοῦ lotio-
+nes, in καθολικῇ διδασκαλίᾳ condemnantur.
+
+# block=3
+dine pugnantia, recentiora temporibus apostolicis,
+atque ab apostolico charactere remotissima.
+Nec minus verum est, antiquas constitutiones
+dictas apostolorum, post compositionem suam inter-
+polatricibus manibus subjacuisse. Id clare demon-
+strant loca citata a B. Epiphanio, et a parente
+Operis imperfecti in Matthæum; quorum pleraque
+nunc partim non exstant , partim cum magna dif-
+ferentia verborum et sensuum leguntur. Atque ob
+eam interpolationis famam Græci in Trullo congre-
+gati profitentur, canone 2, Constitutionibus aposto-
+lorum Clementinis jam olim ab hæreticis vim factam
+per nonnulla malaque additamenta. Sed quod merito
+mirere, Photius, diligentissimus hujusmodi rerum
+investigator, neque depravationis, neque judicii
+Trullani mentionem facit, nostris διαταγαῖς beni-
+gnior, quemadmodum et Nicetas Pectoratus atque
+Georgius Cedrenus. Quippe qui sextam suam syno-
+dum videantur sprevisse , et in constitutionibus
+nullam agnovisse corruptionem.
+
+# block=4
+non tam suam , quam Eusebii proponit opinionem.
+Sed de Photio hactenus. Suo quisque utatur arbitrio?
+Veritate etiam, sicut et auctoritate, nituntur va-
+riæ hujus apocryphi appellationes, διατάγματα ἀπο-
+στόλων seu ἀποστολικά, τῶν ἀποστόλων seu ἀποστολι-
+καὶ διατάξεις aut διαταγαί, διαταγαὶ vel διατάξεις Κλή-
+μεντος sive διὰ Κλήμεντος, τῶν ἀποστόλων διὰ Κλήμεν-
+τος διατάξεις aut διαταγαί, et ὀκτάβιβλος Κλήμεντος :
+item διάταξις, διδασκαλία, καθολικὴ διδασκαλία , et
+κανόνες sive libri Canonum apostolorum. Cujus pos-
+tremi nominis mentio quoque, apud Œcumenium, ad
+Actorum IX, 10, hoc modo, καὶ οὗτος ὁ Ἀνανίας διάκο-
+νος ἦν ὡς αὐτὸς Παῦλος μαρτυρεῖ ἐν τοῖς κανόσι. Sed
+cum hujus editionis typis veterum testimonia manda-
+rentur, nondum occurrerat locus; de quo vide quæ
+adnotabo ad libri VII caput 46. Cæterum an Joannes
+Damascenus Orthodoxæ fidei lib. IV, cap. 18, quando
+canones apostolorum per Clementem editos cum
+divinis voluminibus annumerat, constitutiones, vel
+duntaxat canones constitutionibus subnexos intel-
+ligat, quæri potest. Malim accipere de solis cano-
+nibus ; quo majori parte erroris vir sanctus et do-
+ctus sublevetur; et quia rarior prima acceptio ; et
+propter Trullanos Patres, quorum sententiam videtur
+secutus. Adde quod ejusdem libri cap. 13, morem
+adorandi ad Orientem refert ad traditionem aposto-
+lorum non scriptam ; cum tamen is mos scriptus
+reperiatur in Constitutionibus.
+
+# block=5
+Quod autem Διαταγαῖς τῶν ἀποστόλων διὰ Κλήμεν-
+τος favet Photius, causa non est odium in Latinos;
+quibus iniquus in Μυριοβίβλῳ non apparet , utpote
+tunc orthodoxus et catholicus; cum contra Trullani
+episcopi, Latinæ Ecclesiæ hostes haud dubii, iisdem
+διατάξεσι nigrum theta præfixerint. Causa est, libri
+præstantia, et forte Epiphanii encomium. Certe si,
+quemadmodum verisimile sit, existimavit Photius,
+Constitutiones opus esse vetus ac probum, sub
+nomine apostolorum et Clementis confictum, tribus
+reprehensionibus iisque non insolubilibus obnoxium,
+κακοπλαστίας, contumeliarum Deuteronomio facta-
+rum, et Arianismi; non intelligo cur adeo culpanda
+putetur illius critica. Ita fateri ille poterit quod in
+re est, ab antiquo homine non indocto, at fingendi
+satis imperito, nec semper veraci, in lucem prola-
+tos fuisse post apostolicum sæculum libros pluri-
+mis inconsequentiis ac inconsiderantiis, nonnullis
+erroribus respersos, de Deuteronomio incaute, de
+sancta et individua Trinitate periculose loquentes.
+Ut vero suspicer Constitutiones a Photio non esse
+attributas Romano Clementi , facit tum magni Ma-
+gistri existimatio, tum quod eodem loci non magis
+abjudicat apostolico Recognitiones , quas refertas
+docet absurdis, et Arianismo, quam Constitutiones :
+quis autem credat ita sentire virum doctissimum
+et prudentissimum, ut tale scriptum non putet falso
+auctoris titulo fuisse donatum? tum denique quia
+idem in Præfatione ad Nomocanonem ambigue de
+apostolorum canonibus disserit, ut et in his ipsis
+Bibliothecæ codicibus CXII, CXIII. Quocirca secun-
+dum nostram suspicionem , Clementis dicta sunt
+Photio ea duo Scripta, quoniam Clementino nomine
+inscripta ferebantur. Quanquam, ut dicam ingenue,
+contextus orationis, et censura cum posterioris
+epistolæ Clementis, tum disputationis Petri cum
+Apione, non mediocrem pariunt difficultatem. Cur
+enim non pari modo proscripsit Constitutionum ac
+Recognitionum libros, nisi forte quia in censuris illis
+
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=8
+511
+
+# block=9
+512

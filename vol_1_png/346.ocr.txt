@@ -1,0 +1,235 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,262,611,1016,993
+2,1045,482,1797,993
+3,266,135,1010,603
+4,263,1836,1017,2088
+5,1049,138,1798,477
+6,1042,1839,1788,2048
+7,262,1664,1017,1830
+8,1045,1413,1791,1535
+9,1044,2105,1793,2272
+10,1043,1065,1789,1191
+11,1043,1669,1788,1835
+12,263,1064,1012,1187
+13,263,1408,1019,1531
+14,1044,1541,1791,1664
+15,1044,2276,1790,2633
+16,263,1279,1014,1402
+17,265,2105,1020,2533
+18,250,1536,1017,1658
+19,1042,1284,1787,1407
+20,1209,1014,1612,1048
+21,272,2552,1016,2662
+22,380,1013,868,1047
+23,263,1193,1010,1276
+24,798,82,1263,123
+25,1045,1197,1788,1275
+26,1744,79,1782,122
+28,204,64,334,126
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=26 fontSize=15px
+# block=28 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=28
+91
+
+# block=26
+92
+
+# block=24
+AD S. CLEMENTEM I PAPAM
+
+# block=3
+recitare, sed pro arbitrio suo nunc contrahere,
+nunc de suo inserere, alia omittere, alia variis
+modis mutare. — Si ad hæc sedulo attendas,
+agnosces, pie Lector, mecum, ex Alexandrino non
+interpolatam fuisse, toties ab Ecclesia primæva
+celebratam laudibus, imo et cum sacris Scripturis
+publice lectam Romani Clementis Epistolam.› Hæc
+Wottonus ; cui tamen præiverat Joannes Potterus
+vir clar. in animadversionibus ad Clementem Ale-
+xandrinum (11), ubi summatim quidem, sed acri-
+ter, Bernardi conjectationes elisit.
+
+# block=5
+drini ex quo descriptum est pretiosum illud κει-
+μήλιον, tum ex veterum Patrum testimoniis, nos
+eamdem omnino epistolam habere, quam habuit
+vetusta Ecclesia ; quam audierunt in sacris cœti-
+bus primævi Christiani, dum adhuc ejus lectionis
+usus vigeret ; quam denique legerunt Dionysius Co-
+rinthius, Clemens Alexandrinus , Cyrillus Hieroso-
+lymitanus, Hieronymus, et cæteri.
+
+# block=2
+Verum si altius adhuc assurrexisset vir clar.,
+vetustis illis Ecclesiæ scriptoribus vetustiorem
+etiam addere poterat Polycarpum, sanctissimum
+Smyrnensem episcopum et martyrem , qui eamdem
+Clementinam Epistolam manu versasse, quin et
+nonnulla ex ea pene verbo tenus excerpta in suam
+ad Philippenses Epistolam transtulisse perhibetur.
+Neque fortasse otiosum fuerit, quæ viris eruditis
+nobisque observata de Polycarpiana lectione oc-
+currunt, in unum congesta atque invicem compa-
+rata in medium proferre. En itaque locorum ali-
+quot parallelismum institutum.
+
+# block=1
+Hujus vero critici Angli vestigia presso pede per-
+sequitur Joannes Laurentius Moshemius (12), quem
+si audias, Clementis epistola 1 quarta sui parte
+mulctanda tibi erit hinc et illinc, a capite 9 ad 55.
+Sed non priora quidem decem capita, eo judice,
+ab interpolatione sunt prorsus immunia. At inania
+esse ac futilia Moshemii argumenta in oculis posuit
+Joannes Ludovicus Frey (13) : siquidem invicte vir
+eruditus evincit cum ex antiquitate codicis Alexan-
+
+# block=22
+Epist. 1 Clementis ad Corinthios.
+
+# block=20
+Epist. Polycarpi ad Philipp.
+
+# block=12
+Cap. I. Γυναιξίν τε — παρηγγέλλετε, στεργούσας
+καθηκόντως τοὺς ἄνδρας ἑαυτῶν — πάνυ σωφρο-
+νούσας.
+
+# block=10
+Cap. IV. Διδάξωμεν — τὰς γυναῖκας ὑμῶν —
+στεργούσας τοὺς ἑαυτῶν ἄνδρας ἐν πάσῃ ἀληθείᾳ καὶ
+— ἐν πάσῃ ἐγκρατείᾳ.
+
+# block=23
+Cap. V. Πέτρος — οὕτω μαρτυρήσας ἐπορεύθη εἰς
+τὸν ὀφειλόμενον τόπον τῆς δόξης.
+
+# block=25
+Cap. IX. Πέτρος καὶ Παῦλος — οὗτοι πάντες — εἰς
+τὸν ὀφειλόμενον αὐτοῖς τόπον εἰσὶ παρὰ τῷ Κυρίῳ.
+
+# block=16
+Cap. VII. Διὸ ἀπολείπωμεν τὰς κενὰς καὶ ματαίας
+φροντίδας, καὶ ἔλθωμεν ἐπὶ τὸν εὐκλεῆ καὶ σεμνὸν
+τῆς ἁγίας κλήσεως ἡμῶν κανόνα.
+
+# block=19
+Cap. VII. Διὸ ἀπολιπόντες τὴν ματαιότητα τῶν
+πολλῶν — ἐπὶ τὸν ἐξ ἀρχῆς ἡμῖν παραδοθέντα λό-
+γον ἐπιστρέψωμεν.
+
+# block=13
+Cap. IX. Διὸ ὑπακούσωμεν τῇ μεγαλοπρεπεῖ καὶ
+ἐνδόξῳ βουλήσει αὐτοῦ [Θεοῦ] — ἀπολιπόντες τὴν
+ματαιοπονίαν, τήν τε ἔριν, κ. τ. λ.
+
+# block=8
+Cap. II. Διὸ ἀναζωσάμενοι τὰς ὀσφύας, δουλεύσατε
+τῷ Θεῷ ἐν φόβῳ καὶ ἀληθείᾳ, ἀπολιπόντες τὴν κενὴν
+ματαιολογίαν, καὶ τὴν τῶν πολλῶν πλάνην.
+
+# block=18
+Cap. XIII. Μεμνημένοι τῶν λόγων τοῦ Κυρίου
+Ἰησοῦ, οὓς ἐλάλησεν διδάσκων· — ᾧ μέτρῳ μετρεῖτε,
+ἐν αὐτῷ μετρηθήσεται ὑμῖν.
+
+# block=14
+Cap. II. Μνημονεύσαντες δὲ ὧν εἶπεν ὁ Κύριος δι-
+δάσκων· — ἐν ᾧ μέτρῳ μετρεῖτε, ἀντιμετρηθήσεται
+ὑμῖν.
+
+# block=7
+Cap. XXI. Ἴδωμεν πῶς ἐγγύς ἐστιν [ὁ Κύριος] καὶ
+ὅτι οὐδὲν λέληθεν αὐτὸν τῶν ἐννοιῶν ἡμῶν, οὐδὲ τῶν
+διαλογισμῶν ὧν ποιούμεθα· — ἐρευνητὴς γάρ ἐστιν
+ἐννοιῶν καὶ ἐνθυμήσεων.
+
+# block=11
+Cap. IV. Γινώσκ. — ὅτι [ὁ Θεὸς] πάντα ἡμῶν
+σκοπεῖται, καὶ λέληθεν αὐτὸν οὐδὲν, οὔτε λογισ-
+μῶν, οὔτε ἐννοιῶν, οὔτε τι τῶν κρυπτῶν τῆς καρ-
+δίας.
+
+# block=4
+Ibid. Τοὺς νεοὺς παιδεύσωμεν τὴν παιδείαν τοῦ
+φόβου τοῦ Θεοῦ· τὰς γυναῖκας ἡμῶν ἐπὶ τὸ ἀγαθὸν
+διορθωσώμεθα· τὸ ἀξιαγάπητον τῆς ἁγνείας ἦθος
+ἐνδειξάσθωσαν· — τὴν ἀγάπην αὐτῶν μὴ κατὰ
+προσκλίσεις, ἀλλὰ πᾶσιν τοῖς φοβουμένοις τὸν Θεὸν
+ὁσίως, ἴσην παρεχέτωσαν.
+
+# block=6
+Ibid. Διδάξωμεν — τὰς γυναῖκας ὑμῶν [ πο-
+ρεύεσθαι ] ἐν τῇ δοθείσῃ αὐταῖς πίστει καὶ ἀγάπῃ
+καὶ ἁγνείᾳ — καὶ ἀγαπώσας πάντας ἐξ ἴσου ἐν πάσῃ
+ἐγκρατείᾳ· καὶ τὰ τέκνα παιδεύειν τὴν παιδείαν τοῦ
+φόβου τοῦ Θεοῦ.
+
+# block=17
+Ex hactenus allatis collatisque locis manifeste li-
+quet, ut quidem arbitror, ab ultima usque antiqui-
+tate Polycarpo, Joannis evangelistæ discipulo, fuisse
+perlectam Clementis Romani Epistolam qua de
+agimus , eamque præ oculis habuisse sanctum
+Smyrnensem antistitem, dum suam scriberet ad
+Philippenses : unde orta similitudo illa, quæ non
+solum eumdem stylum ubique, sed eadem quoque
+pene verba referre haud semel videtur. Cum ita-
+que in Polycarpiana perbrevi Epistola tot appa-
+
+# block=9
+reant Clementinæ vestigia ; hanc unam ob causam,
+Bernardi, Clerici ac Moshemii conjectationes de
+hujus laciniis ex Clemente Alexandrino desumptis,
+omnino evanescant oportet.
+
+# block=15
+Neque alii profecto desunt, qui ejusdem Episto-
+læ sinceritatem in dubium revocent ; quod nimirum
+nonnulla fabulosa præ se ferat ; quod aliqua in ea
+desiderantur a vetustis Patribus allegata, etc. Sed
+hos morosiores criticos missos facimus : tum quod
+eorum objectiones fluxo adeo talo nitantur, ut pe-
+(13) Præfat. ad Epist. SS. PP. apostol. circa
+med.
+
+# block=21
+(11) Potter. ad Clem. Alex. Strom. lib. ⅳ, cap.
+18, p. 610, not. 4.
+(12) Instit. hist. Christ. major. sæc. ⅰ, p. 212-215.

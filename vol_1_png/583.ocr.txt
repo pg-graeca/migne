@@ -1,0 +1,208 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,147,2150,902,2718
+2,934,2051,1683,2520
+3,939,154,1692,711
+4,154,155,910,710
+5,932,2577,1681,2690
+6,148,1986,899,2151
+7,934,891,1707,1787
+9,737,826,1034,855
+10,582,94,1252,132
+11,146,1886,901,1987
+12,147,891,907,1890
+13,174,746,938,786
+15,935,1785,1685,2053
+16,145,98,217,138
+17,1609,90,1693,134
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+566
+
+# block=10
+CONSTITUTIONES APOSTOLICE.—L. I.
+
+# block=16
+555
+
+# block=3
+indicia sunt ; quibus si præter officium studueris,
+juste non ages. Tibi quoque qui fidelis et homo Dei
+es, non licet nutrire comam, et in unum colligere,
+quod spatalium est ; vel effundere, aut discrimina-
+tam servare; neque etiam tumefacere, neque car-
+pendo ac formando crispam reddere, neque flavam
+facere eam : quandoquidem et lex in Deuteronomio
+vetat dicens : ‹ Non facietis vobis sisoem, neque
+anaxyridas 89. › Oportet præterea non barbæ pilum
+corrumpere, nec formam hominis contra naturam
+mutare 90. ‹ Non › enim, inquit lex, ‹ depilabitis
+barbas vestras 91. › Nam decori gratia creator Deus
+leves mulieres fecit; id porro viris inconcinnum
+
+# block=4
+κρηπῖδάς σου τοῖς ποσὶ κακοτέχνως ὑπορράψῃς (28) ·
+ὁ δὲ τὸ τῆς σεμνότητος καὶ τῆς χρείας μόνον · μηδὲ
+χρυσήλατον σφενδόνην τοῖς δακτύλοις σου περιθῇς,
+ὅτι ταῦτα πάντα ἑταιρισμοῦ τεκμήρια ὑπάρχει (29),
+ἅπερ παρὰ τὸ προσῆκον ἐπιτηδεύων οὐ ποιήσεις δι-
+καίως. Πιστῷ γὰρ σοι ὄντι καὶ ἀνθρώπῳ τοῦ Θεοῦ οὐκ
+ἔξεστί σοι τρέφειν τὰς τρίχας (30) τῆς κεφαλῆς, καὶ
+ποιεῖν εἰς ἕν (31), ὅ ἐστι σπατάλιον · ἢ ἀπόχυμα (32),
+ἢ μεμερισμένην τηρεῖν · οὐδὲ μὲν ὀγκοποιεῖν, ἢ δια-
+ξαίνοντά (33) τε καὶ πλάσσοντα οὔλην διατιθεῖν, ἢ
+ξανθοποιεῖν αὐτήν· ἐπείπερ καὶ ὁ νόμος ἀπαγορεύει
+φάσκων ἐν τῷ Δευτερονομίῳ · ‹ Οὐ ποιήσετε ὑμῖν σει-
+σόην (34), οὐδὲ ἀναξυρίδας (35). › Χρὴ δὲ οὐδὲ γενείου
+
+# block=13
+89 Lev. xix, 27 ; et xxi, 5. 90 Epiph. ibid. 91 Ibid.
+
+# block=9
+VARIORUM NOTÆ.
+
+# block=12
+tur de superbo incessu, sed de inani curiosaque cur-
+sitatione. ᾿Αναξυρίδες porro quid sint, præter Lexi-
+cographos Pollucem, Hesychium, Suidam, Phryni-
+chum, auctorem Etymologici magni, auctorem Glos-
+sarum Herodoti, et præter Diodorum Siculum lib. v,
+Himerium Sophistam in Photii codice CCXLIII; alios-
+que, Hieronymus et Theodorus docent, quando
+exponunt textum Danielis III, 21, ad quem legi debet
+Scholium Græcum prout correctum fuit a Drusio
+Quæst: Hebraic. lib. III, cap. 60. Imperite vero Era-
+smus, interpretans Chrysostomi homiliam 37 in Acta
+apostolorum, ἀναξυρίδας facit gladios peculiares,
+anaxyridas dictos. At recte Rufinus in Josephu ᾿Αρ-
+χαιολογίας lib. III, cap. 11 (al. 8), vertit Vastrapas,
+quæ, teste Glossarii Latino-Græci scriptore, femi-
+nalia sunt. A nobis Gallis inde appellantur des
+guêtres. Atque de integumentis ac ornamentis fe-
+morum et pedum, multa ne diceremus, eo nos fasce-
+levarunt viri docti diligentia sua. Monemus tantum
+de loco Nomicarum Glossarum: ᾿Οβδονάρια (seu
+οὐδονάρια aut οὐδωνάρια) τὰ περιπτόμενα τοῖς ποσὶν
+ὑφάσματα, ἃ λέγεται ποδάπανα κατὰ Καθαρῶν · τὰ
+δὲ ἄλλα, πόδια (ita corrigunt) ὡς εἰπεῖν, τὰ ἐξ ἱμα-
+τίων γεγενημένα, ἃ παρά τισιν ὀδώνια κέκληται · ἢ
+βράκαι, χερσὶ περιτιθέασι, δακτυλίους δὲ τοῖς ποσίν;
+sic eum restituendum videri, ἃ λέγεται πόδια. Πα-
+νάριον vel Πανάρια κατὰ Καθαρῶν ; non vero juxta
+sententiam clarissimi theologi Dionysii Petavii ad
+Panarii Epiphaniani verba, hæresi 59. Catharorum,
+cap. 11: Ὡς ᾿Επιφάνιος κατὰ Καθαρῶν. Cl.
+
+# block=7
+στῆρος καθιεμένους εἰ δυνατόν, inquit Zonaras ad
+canonem 96 Trullanum. Perspicue demonstratur,
+locus est S. Hieronymi ad Ezechielis XLIV, 20, nec
+rasis capitibus, sicut sacerdotes cultoresque Isidis at-
+que Serapis, nos esse debere; nec rursum comam di-
+mittere, quod proprie luxuriosorum est, barbarorum-
+que et militantium; sed ut honestus habitus sacerdo-
+tum facie demonstretur. Adde Senecain Epist. ult. :
+Quid capillum ingenti diligentia comis? Cum illum
+vel effuderis more Parthorum, vel Germanorum nodo
+vinxeris, vel ut Scythæ solent sparseris; in quolibet
+equo densior jactabitur juba, horrebit in leonum cor-
+vice formosior, et lib. I Naturalium quæstionum,
+cap. ult. de prisco tempore : Conjugum quidem manu
+crinis ille, quem effundere olim mos viris fuit, attre-
+ctabatur; sed illum sibi sine ullo artifice formosi qua-
+tiebant, non aliter quam jubam generosa animalia.
+Reliqua τῆς τριχὸς ornamenta · μεμερισμένην τηρεῖν
+more Samsonis (Judic. XVI, 19), ὀγκοποιεῖν, διαξαί-
+νοντά τε καὶ πλάσσοντα οὔλην διατιθεῖν, et ξανθο-
+ποιεῖν, quod Plinio dicitur rufare, Tertulliano et
+Hieronymo irrufare, notiora sunt, quam ut remo-
+rentur nos. Videsis Claudii Salmasii Plinianas exer-
+citationes, ejusdemque Epistolam de cæsarie viro-
+rum et mulierum coma. Ad præsens porro caput vi-
+dentur respexisse Trullani Patres, canonem 96 san-
+cientes. In.
+
+# block=15
+(31) Εἰς ἕν. Alter cod. Vind. σισόην, qua de voce
+vide not. ad Levit. xIx, 27. Hic quidem sermo est
+de cæsarie, sed an conveniat hic σισόην nescio. Pro
+σπατάλιον melius forte esset σπαταλῶντος, delicias fa-
+cientis, quamvis σπατάλιον muliebre nescio, quod or-
+namentum vulgo interpretentur. Sed nihil muto. Cl.
+(32) ᾿Απόχυμα. Alter cod. ἀπόσχημα, quod quid
+sit me fugit. ID.
+
+# block=11
+(28) Ὑπορράψης. Alter codex Vind. ὑπορρίψης,
+forte nequitiæ signum fuit, crepidam subjicere
+puellæ, quasi casu pedi excidisset. ID.
+
+# block=6
+(29) Ταῦτα πάντα ἑταιρισμοῦ τεκμήρια ὑπάρχει.
+In Epiphanio hæresi 80, num. 7 : Μηδὲ ἑταιρισμῷ
+κατακομεῖσθαι, vel κατακοσμεῖσθαι. Clemens Alexan-
+drinus lib. III Pædagogi, cap. 3 : Κουρὰς ἀγενεῖς
+καὶ πορνικὰς ἀποκειρόμενοι. Cor.
+
+# block=2
+(33) Διαξαίνοντα. Διαξαίνειν, alter Vind. ID.
+(34) ᾿Εν τῷ Δευτερονομίῳ, Οὐ ποιήσετε ὑμῖν σει-
+σόην. Aut lapsu memoriæ constitutor Deutero-
+mium dixit pro Levitico, aut latius accepit Deute-
+ronomii nomen, eo sensu, de quo paulo post ad ca-
+put sextum disseremus. Constitutorem non exami-
+nata re secutus est Zonaras, in explicatione canonis
+96 Trullani, Zonaramque Theodorus Balsamon, nec
+non Matthæus Blastares, scriptor ineditus, ad eum-
+dem canonem. σεισόην autem, σισόην, aut ut alii
+σισόης, σισώης, dictio Alexandrinorum videtur
+fuisse, ac juxta Hesychium, Phaselitarum, usur-
+pata a LXX, in interpretando textu Levit. xIx,
+27, quo prohibetur quædam capilli σύνθεσις τau.
+
+# block=1
+(30) Τρέφειν τὰς τρίχας, etc. Varios compti ca-
+pitis modos enumerat. Est autem spatalium, ut
+multi docent, armilla, atque, quod ex pseudo-Cle-
+mente hic discimus, coma in unum collecta, forsan-
+que armillis nodata. Seneca, lib. III De ira, cap.
+26 : Nec rufus crinis et coactus in nodum apud Ger-
+manos virum dedecet. Tacitus de Moribus Germano-
+rum, Insigne gentis, obliquare crinem, nodoque sub-
+stringere. Thucydides, lib. I : Χρυσῶν τεττίγων ἐν
+ἕρσει (vel ἐνέρσει) κρώβυλον ἀναδούμενοι τῶν ἐν τῇ
+κεφαλῇ τριχῶν. Apud Philonem Judæum De vita
+contemplativa, τὰς τῆς κεφαλῆς τρίχας εὖ πως δια-
+πλέκονται σφηκούμενοι. Sic κρώβυλος, et cincinnum
+significat, et nodum capilli, retiolum quod colligit
+comas ex Servio ad Æneid. IV. Sequitur in Catholica
+doctrina ἀπόχυμα, capillus cum cura effusus : Κο-
+μᾶν, καὶ γυναικώδεις φέρειν βοστρύχους μέχρι ζω-
+
+# block=5
+(35) Οὐδὲ ἀναξυρίδας. Ad hunc locum nullate-
+nus mihi satisfacio. Quid enim, quæso, faciunt
+anaxyrides pedum, ubi de capillamento ex Levit.

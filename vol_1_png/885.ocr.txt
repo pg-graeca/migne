@@ -1,0 +1,169 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,191,2068,940,2238
+2,192,2454,937,2536
+3,963,2615,1710,2687
+4,202,136,952,1822
+5,195,2621,929,2692
+6,422,2368,1472,2404
+7,973,2450,1718,2543
+8,981,133,1738,1746
+9,578,1985,1330,2018
+10,711,80,1205,115
+11,912,1899,1006,1930
+13,1663,88,1734,121
+14,207,74,291,126
+15,973,2068,1727,2238
+16,907,2284,995,2330
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+1169
+
+# block=10
+RECOGNITIONES.— PROŒMIA.
+
+# block=13
+1170
+
+# block=8
+, nem et allocutionem, velut in forma Episto.æ, habet
+ad Jacobum fratrem Domini. In hoc continentur
+Acta quæ dicuntur Petri apostoli, et cum Simone
+Mago disputationes ; ad hæc Recognitio Clementis,
+ejusque patris ac aliorum fratrum. Quare in qui-
+busdam codicibus inscriptio præfigitur . Clementis
+Romani Recognitio. In nonnullis autem, ut diximus,
+Epistola præponitur, tanquam ad Jacobum fratrem
+Domini. Atque hæc quidem, non eadem, neque vel-
+uti ab eodem homine profecta : sed in quibusdam
+quidem libris, quasi a Petro apostolo ad Jacobum
+missa; in aliis autem, ut a Clemente ad Jacobum ;
+alia atque alia, quemadmodum jam diximus. Et illa
+quidem declarat, Petrum propria gesta conscri-
+psisse, ac Jacobo postulanti ea misisse; hæc vero
+refert, Clementem eadem gesta jussu Petri scri-
+psisse; ac postquam ille ad vitam immortalem com-
+migrasset, transmisisse ad Jacobum. Itaque conje-
+ctura deprehendere licet, Actuum Petri duas edi-
+tiones factas fuisse; sed cum temporis longinqui-
+tate altera periisset, illam Clementis superasse. In
+omnibus enim codicibus quos vidimus, iisque certe
+non paucis, post diversas illas Epistolas atque in-
+scriptiones, idem omnino sine variatione opus inve-
+nimus, incipiens sic : Ego Clemens; et quæ ordine
+deinceps sequuntur. Refertum autem est hoc Opus
+innumeris absurde dictis; plerumque blasphemiæ
+in Filium, juxta Arii opinionem. Et infra : Cæte-
+rum liber Actorum Petri, splendore et majestate,
+ad hæc puritate et vehementia, aliisque orationis
+dotibus atque multiplici doctrina, tantum Constitu-
+tiones superat, nulla ut hos inter libros compara-
+tio, ad litteras quod attinet , institui debeat. Et
+paulo post : At quæ secunda (Epistola) ad eosdem
+(Corinthios) dicitur, rejicitur ut notha : quemadmo-
+dum et longa illa disputatio, beati Petri et Apionis
+nomen præferens.
+
+# block=4
+ἐπιστολῆς εἶδες, πρὸς Ἰάκωβον τὸν ἀδελφόθεον
+ποιεῖται. Ἐν ᾧ αἵ τε λεγόμεναι τοῦ ἀποστόλου Πέτρου
+Πράξεις, καὶ αἱ πρὸς Σίμωνα τὸν Μάγον διαλέξεις,
+καὶ ἔτι ὁ Ἀναγνωρισμὸς Κλήμεντος, καὶ τοῦ πατρός,
+καὶ τῶν ἄλλων ἀδελφῶν. Διὸ καὶ ἔν τισι τῶν βιβλίων
+ἡ ἐπιγραφή, Κλήμεντος τοῦ Ῥωμαίου Ἀναγνω-
+ρισμός, ἐπιγράψεται. Ἔν τισι δὲ, ὡς ἔφημεν, Ἐπι-
+στολὴ προτάττεται, ὡς πρὸς τὸν ἀδελφόθεον Ἰάκω-
+βον. Καὶ αὕτη δὲ, οὐχ ἡ αὐτὴ, οὐδὲ ὡς ἀπὸ τοῦ αὐ-
+τοῦ προσώπου προενηνεγμένη· ἀλλ' ἐπὶ μέν τινων
+βιβλίων, ὡς ἀπὸ Πέτρου τοῦ ἀποστόλου πρὸς Ἰάκω-
+βον ἐπεσταλμένη· ἐφ' ἑτέρων δὲ, ὡς ἀπὸ Κλήμεντος
+πρὸς Ἰάκωβον· ἄλλη καὶ ἄλλη, καθὼς προείπομεν.
+Καὶ ἡ μὲν δηλοῖ, Πέτρον τὰς οἰκείας συγγράψαι πρά-
+ξεις, καὶ πρὸς Ἰάκωβον αἰτησάμενον ταύτας ἀπο-
+στεῖλαι· ἡ δὲ διαλαμβάνει, ὡς Κλήμης ταύτας κατὰ
+πρόσταγμα Πέτρου συγγράψεις, κἀκείνου πρὸς τὴν
+ἀγήρω μεταστάντος, ἀποστείλοι Κλήμης πρὸς Ἰά-
+κωβον. Ἔστιν οὖν εἴκασμῇ διαλαβεῖν, ὡς δύο μὲν
+εἴησαν τῶν Πέτρου Πράξεων ἐκδόσεις γεγενημέναι·
+τῷ δὲ χρόνῳ τῆς ἑτέρας διαῤῥυείσης, ἐπεκράτησεν ἡ
+τοῦ Κλήμεντος. Ἐν πᾶσι γὰρ τοῖς βιβλίοις ἃ εἴδο-
+μεν, καὶ τοῖ οὐκ ὀλίγων ὄντων, μετὰ τὰς διαφόρους
+ἐκείνας Ἐπιστολὰς καὶ ἐπιγραφὰς,τὴν αὐτὴν εὕρομεν
+ἀπαραλλάκτως πραγματείαν, ἀρχομένην· Ἐγὼ Κλή-
+μης· καὶ τὰ ἑξῆς ἐνταττόμενα. Μυρίων (16) δὲ ἀτο-
+πημάτων ἡ πραγματεία γέμει αὕτη, καὶ τῆς εἰς τὸν
+Υἱὸν βλασφημίας κατὰ τὴν Ἀρείου δόξαν ἐστὶν ἀνά-
+πλεως. Parcis deinde circa Constitutiones aposto-
+licas interjectis, subdit: Ἡ μέντοιγε τῶν τοῦ Πέτρου
+Πράξεων βίβλος, τῷ τε λαμπρῷ καὶ τῇ σεμνότητι,
+καὶ ἔτι τῷ καθαρῷ καὶ συντόνῳ, καὶ τῇ ἄλλῃ ἀρετῇ
+τοῦ λόγου, καὶ πολυμαθείᾳ , τοσοῦτο ἔχει πρὸς τὰς
+διαταγὰς τὸ παραλλάττον, ὡς μηδὲ συγκρίσει τῇ κατὰ
+τοὺς λόγους πρὸς ἀλλήλας παραβάλλεσθαι τὰς βίβλους.
+Et infra : Ἡ δὲ λεγομένη δευτέρα πρὸς τοὺς αὐτοὺς,
+ὡς νόθος ἀποδοκιμάζεται· ὥσπερ ἐπιγραφόμενος ἐπ'
+ὀνόματι αὐτοῦ Πέτρου καὶ Ἀπίωνος πολύστιχος διά-
+λογος.
+
+# block=11
+XVIII.
+
+# block=9
+HINCMARUS. De divortio Lotharii et Tetbergæ, cap. 9.
+
+# block=1
+Et in Petri Itinerario, de Clementis patre legitur;
+quod ut a fidelibus interficeretur, a Simone Mago
+quem deseruerat, unguento perunctus, ejusdem Si-
+monis imaginem omnium oculis referebat; solus
+
+# block=15
+Petrus eum qui erat intuebatur : et orans, discipu-
+los ad eorum oculos revocavit ; et deluso phantas-
+mate, intuentium obtutibus speciem propriam red-.
+didit. Recognit. lib. x, cap. 53, etc.
+
+# block=16
+XIX.
+
+# block=6
+HINCMARUS, episcopus Sylvæ Candidæ, in Responsione ad Nicetæ librum.
+
+# block=7
+apocrypha. Vide Decreti primam partem , dist. 16,
+cap. 3.
+
+# block=2
+Nam Clementis liber, id est Itinerarium Petri
+apostoli, et Canones apostolorum numerantur inter
+
+# block=3
+τότητα τῇ Θεοῦ Ἐκκλησίᾳ ἀπέθετο. Sic ad margi-
+nem cod. Maximi Margunii. HOESCH.
+
+# block=5
+(16) Μυρίων ἀτοπημάτων γέμει. Al. Ἀλλ' ἐπαν-
+ορθωκὼς ταύτην ὁ μεταφραστὴς, πλοῦτον καὶ ταυ-

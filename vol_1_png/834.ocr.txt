@@ -1,0 +1,159 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,237,149,992,1874
+2,229,1900,1769,2104
+3,1028,2371,1778,2676
+4,239,2203,996,2709
+5,837,2134,1144,2170
+6,1028,2200,1778,2376
+7,675,93,1387,130
+8,240,93,312,136
+10,1025,144,1793,1899
+11,1693,88,1787,132
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=237 source_y1=149 source_x2=992 source_y2=1874
+prophetat, pius est; nec omnis qui dæmones expel-
+lit, sanctus ⁸. Etenim et Balaamus filius Beoris va-
+tes, prophetavit, licet impius ⁹; et Caiphas, falso
+nominatus pontifex ¹⁰ :· multa quoque diabolus præ-
+dicit, et illius dæmones; neque ideo quidem inest
+illis pietatis scintilla; ignorantia quippe opprimun-
+tur, propter voluntariam improbitatem. ¹⁵ Liquet
+igitur quod impii, quamvis prophetent, non obdu-
+cunt per prophetiam impietatem suam; quodque
+qui dæmones expellunt, ex eorum discessu non ef-
+ficiuntur sancti : nam se mutuo decipiunt; sicut
+qui ludicra risus causa ostendant; eosque qui ad
+illos advertunt animum, perdunt. ¹⁶ Neque vero rex
+impius, amplius rex est, sed tyrannus; neque epi-
+scopus inscitia vel animi pravitate constrictus, epi-
+scopus est, sed falsum nomen gerit, non a Deo,
+verum ab hominibus promotus; ut Ananias, et Sa-
+mæas Hierosolymis, et Sedecias atque Achias pseu-
+doprophetæ Babylone ²⁰. Sed et Balaamus vates pœ-
+nas dedit, cum Israelem in Beelphegore ²¹ corrupis-
+set : et Caiphas postea sui ipsius interfector exsti-
+tit ²³ : ac filii Scevæ aggressi expellere dæmones,
+ab iis vulnerati fugerunt turpiter ²⁴; et reges Israe-
+lis ac Judæ, cum impie viverent, diversa supplicia
+perpenderunt. Constat igitur ementiti nominis epi-
+scopos ac presbyteros, non evasuros Dei vindictam :
+dicetur enim illis nunc quoque : « Vos sacerdotes,
+qui despicitis nomen meum : tradam vos in occi-
+sionem ²⁵; ut Sedeciam et Achiam, quos frixit rex Ba-
+bylonis; » sicuti ait Jeremias propheta ²⁶. Hæc au-
+tem dicimus, non quod veras prophetias contemna-
+mus, quas scimus Dei afflatu in sanctis fieri, sed ut
+confidentiam arrogantium cohibeamus : illud adden-
+tes, Deum auferre gratiam his : « Superbis enim
+Deus resistit; humilibus autem dat gratiam ²⁷. »
+Sane quidem Silas, et Agabus, nostri temporis
+prophetæ, non se coæquarunt apostolis, neque su-
+pergressi sunt fines suos, etsi a Deo amarentur ²⁸.
+Sed et mulieres prophetaverunt : olim quidem Ma-
+ria Moysis et Aaronis soror ²⁹; post eam vero De-
+
+# block=2 source_x1=229 source_y1=1900 source_x2=1769 source_y2=2104
+⁸ Laudat Anastasius, quæst. 20. ¹⁰ Num. xxiii, xxiv. ¹¹ Anast. καὶ Σαοὺλ, καὶ. ¹² Joan. xi, 51.
+¹³ Anast. μέτεστιν. ¹⁴ l. Pseudo-Ignat. ad Philipp. 4. ¹⁵ aliter in Anast. ¹⁶ Citatur ab Anastasio,
+quæst. 16, et ab auctore Oper. imperf. in Matth. ad Matth. xxv, 18. ¹⁷ Anastasius inserit ἔτι. ¹⁸ Anast.
+Σαμέας. ¹⁹ al. Ἰσραήλ. ²⁰ Jerem. xxviii, xxix. ²¹ Num. xxv, xxxi. ²² Anast. Σαοὺλ καὶ Καϊάφας
+αὐτοφονευτὰ γεγόνασι. ²³ Anast. quæst. 20. ²⁴ Act. xix, 14. ²⁵ Mal. i, 6. ²⁶ Jer. xxix, 22. ²⁷ Jac.
+iv, 6; II Petr. v. 5. ²⁸ Act. xv, 32; xxi, 10. ²⁹ Exod. xv, 20.
+
+# block=3 source_x1=1028 source_y1=2371 source_x2=1778 source_y2=2676
+(82) Ὡς Ἀνανίας καὶ Σαμαίας ἐν Ἱερουσα-
+λήμ. Ita Anastasius in ms. Regiis 200, 938, 1789.
+At in 1107 et 2206 : Ὡς Ἀνανίας καὶ Σαμαίας καὶ
+Σαμέας ἐν Ἰσραήλ. Apud Niconem scriptorem ine-
+ditum Πανδέκτου serm. 41 : Σαμαίας ἐν Ἰσραὴλ, καὶ
+Σεδεκίας, καὶ Ἀχίας, καὶ οἱ ἐν Βαβυλῶνι ψευδοπρο-
+φῆται. Et vero Samæas cum cæteris Babylonem ab-
+ductus, illic populum Israeliticum falsis prophetiis
+vanaque spe lactabat. ID.
+
+# block=4 source_x1=239 source_y1=2203 source_x2=996 source_y2=2709
+(80) Οὐ καλύπτουσι διὰ τῆς προφητείας τὴν
+ἑαυτῶν ἀσέβειαν. Pari modo Anastasii quæstionem
+manu descriptæ, ac typis mandatæ, οὐκ ἀποκαλύ-
+πτουσι διὰ τῆς προφητείας αὐτῶν εὐσέβειαν. COT.
+(81) Οὔτε ἐπίσκοπος, etc. Hunc locum indicat
+magis quam citat auctor Operis imperfecti in Mat-
+thæum, relatus in testimoniis veterum. Quid porro
+frequentius apud omnis generis scriptores, quam eos
+qui indigne in aliqua vivunt dignitate, nomine ho-
+norifico privare? Nonne solemus flagitiosum homi-
+nem negare hominem esse? similiterque loquimur
+de malis Christianis, aut monachis, aut clericis, etc.
+Athanasius : Οἱ παρ' αὐτοῖς κατάσκοποι, οὐ γὰρ ἐπί-
+σκοποι. Et alibi : Κακοήθεις κατασκόπους · οὐ γὰρ
+ὄντως ἐπισκόπους εἶποι. HIERONYMUS : Non omnes
+
+# block=5 source_x1=837 source_y1=2134 source_x2=1144 source_y2=2170
+VARIORUM NOTÆ.
+
+# block=6 source_x1=1028 source_y1=2200 source_x2=1778 source_y2=2376
+episcopi, episcopi sunt, interpositisque nonnullis :
+Non facit ecclesiastica dignitas Christianum. Ac ea-
+dem ratione, ut innumeros omittam, negatur a Nilo
+sacerdos esse, qui pro sacerdotis dignitate non vi-
+vit. ID.
+
+# block=7 source_x1=675 source_y1=93 source_x2=1387 source_y2=130
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=8 source_x1=240 source_y1=93 source_x2=312 source_y2=136
+1067
+
+# block=10 source_x1=1025 source_y1=144 source_x2=1793 source_y2=1899
+φητεύων, ὅσιος · οὔτε πᾶς ὁ δαίμονας ἐλαύνων, ἅγιος.
+Καὶ γὰρ καὶ Βαλαὰμ ὁ τοῦ Βεὼρ ὁ μάντις προεφή-
+τευσεν, δυσσεβὴς ὤν · ¹¹ καὶ Καϊάφας, ὁ ψευδώνυμος
+ἀρχιερεύς · πολλὰ δὲ καὶ ὁ διάβολος προλέγει, καὶ οἱ
+ἀμφ' αὐτὸν δαίμονες · καὶ οὐ παρὰ τοῦτο μὲν ἔστιν ¹³
+αὐτοῖς εὐσεβείας σπινθήρ · ἀγνοίᾳ γὰρ εἶσι πεπιεσμέ-
+νοι δι' ἑκούσιον μοχθηρίαν. Δῆλον ¹⁵ οὖν ὅτι οἱ ἀσεβεῖς
+κἂν προφητεύωσιν, οὐ καλύπτουσι διὰ τῆς προφητείας
+τὴν ἑαυτῶν ἀσέβειαν (80) · οὐδὲ οἱ δαίμονας ἐλαύνον-
+τες, ἐκ τῆς τούτων ὑποχωρήσεως ὁσιωθήσονται · ἀλ-
+λήλους γὰρ ἀπατῶσι · καθάπερ οἱ τὰς παιδιὰς γέλω-
+τος ἕνεκα ἐπιδεικνύμενοι · καὶ τοὺς προσανέχοντας
+αὐτοῖς, ἀπολλύουσιν. Οὔτε δὲ βασιλεὺς δυσσεβὴς, ἔτι
+βασιλεύς ὑπάρχει, ἀλλὰ τύραννος · οὔτε ἐπίσκοπος (81)
+ἀγνοίᾳ ἢ κακονοίᾳ πεπιεσμένος, ¹⁷ ἐπίσκοπός ἐστιν,
+ἀλλὰ ψευδώνυμος, οὐ παρὰ Θεοῦ, ἀλλὰ παρὰ ἀνθρώ-
+πων προβληθείς · ὡς Ἀνανίας (82), καὶ Σαμαίας ¹⁸
+ἐν Ἱερουσαλὴμ ¹⁹, καὶ Σεδεκίας καὶ Ἀχίας οἱ ἐν Βα-
+βυλῶνι ψευδοπροφῆται. Ἀλλὰ καὶ Βαλαὰμ ὁ μάντις
+τιμωρίαν ἔτισε διαφθείρας τὸν Ἰσραὴλ ἐν τῷ Βεελ-
+φεγώρ · καὶ ²² Καϊάφας ὕστερον αὐτοφονευτὴς ἑαυτοῦ
+ἐγένετο · καὶ οἱ υἱοὶ Σκευᾶ ἐπιχειροῦντες δαίμονας
+ἐλαύνειν, ὑπ' αὐτῶν τραυματίαι γενόμενοι, ἔφυγον
+ἀπρεπῶς · καὶ οἱ βασιλεῖς τοῦ Ἰσραὴλ, καὶ τοῦ
+Ἰούδα ἀσεβήσαντες, παντοίας τιμωρίας ἔτισαν. Δῆ-
+λον οὖν ὡς καὶ οἱ ψευδώνυμοι ἐπίσκοποι, καὶ πρε-
+σβύτεροι, οὐκ ἐκφεύξονται τὴν παρὰ Θεοῦ δίκην · ῥη-
+θήσεται γὰρ αὐτοῖς καὶ νῦν · « Ὑμεῖς οἱ ἱερεῖς, οἱ
+φαυλίζοντές μου τὸ ὄνομα · παραδώσω ὑμᾶς εἰς σφα-
+γήν · ὡς Σεδεκίαν, καὶ Ἀχίαν, οὓς ἀπετηγάνισε βα-
+σιλεὺς Βαβυλῶνος, ὥς φησιν Ἱερεμίας ὁ προφήτης.
+Ταῦτα δὲ φάμεν, οὐ τὰς ἀληθεῖς προφητείας ἐξουθε-
+νοῦντες, ἴσμεν γὰρ αὐτὰς κατ' ἐπίπνοιαν Θεοῦ ἐν
+τοῖς ὁσίοις ἐνεργεῖσθαι, ἀλλὰ τὸ θράσος τῶν ἀλαζο-
+νευομένων καταστέλλοντες · καὶ προστιθέντες ἐκεῖνο,
+ὅτι τῶν τοιούτων θεὸς περιαιρεῖ τὴν χάριν · « Ὑπερη-
+φάνοις γὰρ ὁ θεὸς ἀντιτάσσεται, ταπεινοῖς δὲ δί-
+δωσι χάριν. » Σίλας μὲν οὖν καὶ Ἄγαβος ἐφ' ἡμῶν
+προφητεύσαντες, οὐ παρεξέτειναν ἑαυτοὺς τοῖς ἀπο-
+στόλοις, οὐδὲ ὑπερέβησαν τὰ ἑαυτῶν μέτρα, καὶ τοι
+
+# block=11 source_x1=1693 source_y1=88 source_x2=1787 source_y2=132
+1068

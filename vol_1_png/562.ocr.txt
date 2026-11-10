@@ -1,0 +1,172 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,256,784,1008,1430
+2,251,2104,1009,2708
+3,1036,1890,1796,2711
+4,260,132,1008,777
+5,1042,133,1795,1431
+6,681,76,1391,113
+7,251,1953,1016,2087
+10,491,1884,759,1923
+11,976,1647,1062,1673
+12,258,1742,1784,1816
+14,661,1685,1398,1731
+15,259,70,341,112
+16,1735,72,1799,112
+17,485,1524,1541,1612
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=16px
+# block=7 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=19px
+# block=15 fontSize=16px
+# block=16 fontSize=16px
+# block=17 fontSize=28px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+523
+
+# block=16
+524
+
+# block=6
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=4
+recentiorem prodit consuetudo illa templorum ritu
+Christianis peculiari excitatorum, cujus meminit
+auctor lib. II, cap. 57. Templa enim a Christianis
+sæculo demum secundo primum erigi cœpisse mihi
+admodum probatur. Cum episcopos ad varias orbis
+ecclesias destinatos recenset, eos commemorat, qui
+diu post apostolos vixerunt. Vide lib. VII, cap. 47.
+Quin et scriptoris illius ætate Ecclesia Christi to-
+tum per orbem diffusa, catholicæ nomen sibi merito
+vindicabat, quo illam elogio idem auctor non semel
+mactat. Id vero quam immerito de Ecclesia, qualis
+erat apostolorum ætate affirmaretur, nemo non in-
+telligit. Ex his omnibus probatum arbitror lucu-
+brationem hanc apostolorum ætatem nec sapere,
+nec præferre.
+
+# block=5
+dit, se definire nihil ausurum, cum Romani ad
+galli cantum illud prorogare consueverint, alii ci-
+tius solverint. Id profecto demonstrat ignoratas ab
+illo fuisse apostolicas constitutiones, cum in illis
+lib. V, cap. 18, ad gallicinium prorogandum Sab-
+bati hujus jejunium edicatur. Cum tamen, ut supra
+monui, ætate illa vixerit auctor, qua Ecclesia totum
+late per orbem tandem promulgata, et dilatata
+erat; idque demum ætate Constantini obtinuerit :
+ideo Constantini ætate antiquiorem non existima-
+verim. Rursus autem sæculo quarto ineunte, anno,
+quantum arbitror 309, concilium Eliberitanum ce-
+lebratum est, cujus primus canon admitti vetat ad
+communionem illos, qui a fide ad idololatriam apo-
+stataverint, quantumcunque de crimine dein pœni-
+tuerint, idque demum repugnare videtur apostolicæ
+illi constitutioni, cujus supra mentio facta est; ex
+qua conjectura docemur constitutionem illam non-
+dum anno illo innotuisse. Vicissim vero auctor de
+Filio Dei ita passim et frequenter loquitur, quem-
+admodum Antenicæni Patres scribere consueve-
+runt, et voce omousion, quanquam sæpe res et oc-
+casio postulaverit, nunquam utitur, quo argumento
+probari posse arbitror Nicæni concilii celebrationem
+opus idem præcessisse. Quæ si conjecturæ admittan-
+tur, intra spatium illud, quod anno 309 et 325 conclu-
+ditur, vulgatarum constitutionum sedes figenda est.
+Utcunque res habeat sese, utile est opus ad
+multa, et dogmatum nostrorum vetustati astruendæ
+apprime necessarium.
+
+# block=1
+At cujus demum ætatis opus illud judicaremus?
+Alii aliter sapiunt. Ego vero cum in lib. I, cap.
+23, etc., adeo multis commendatam legerim epi-
+scopis erga resipiscentes fideles benignitatem, et
+clementiam; cum omnes cujuscunque tandem cri-
+minis reos, idololatria quidem excepta, ad pœni-
+tentiam et pacem, siquidem veniam poposcerint,
+admitti : scriptor ille mandet; id ego quidem con-
+tra Montanistas dictum suspicor, quorum hæresis
+sæculo labente secundo emersit. Ex quo confici
+posse censeo lucubrationem hanc sæculo tertio
+procudi facile potuísse. Sed et medio circiter sæ-
+culo illo tertio evoluto S. Dionysius Alexandrinus
+a Basilide episcopo consultus quota noctis hora je-
+junium solvi liceret Sabbato antepaschali, respon-
+
+# block=17
+DE CONSTITUTIONIBUS APOSTOLICIS
+
+# block=11
+EDITIS
+
+# block=14
+AB HIPPOLYTO EPISCOPO PORTUENSI,
+
+# block=12
+([DE MAGISTRIS] Acta Martyrum ad Ostia Tiberina sub Claudio Gothico (Romæ, 1795, in folio), in Dis-
+sertatione De Vita et Scriptis S. Hippolyti episcopi Portuensis, p. 134.)
+
+# block=10
+CAPUT PRIMUM.
+
+# block=3
+primus manum admovit, cæterisque viam stravit
+ad eximium opus novis accessionibus locupletan-
+dum; quo in opere, quibus institutis ac moribus
+ab initio Ecclesia usa fuerit, appareret. Adhuc
+titulus earumdem Constitutionum sui editoris nomen
+prodit, est enim hujusmodi : Διαταγαὶ τῶν ἁγίων
+ἀποστόλων διὰ Κλήμεντος τοῦ Ῥωμαίων ἐπισκόπου
+τε καὶ πολίτου, ἢ καθολικὴ διδασκαλία : Constitutiones
+sanctorum apostolorum per Clementem episcopum
+et civem Romanum, seu Catholica Doctrina. Mirari
+quis possit viros acutissimos, maxime Cotelerium,
+Beveregium, Grabium, Clericum, qui minutissima
+quæque scrutati sunt, non animadvertisse Clemen-
+tem dici non modo episcopum, sed et civem Roma-
+num : idque importune admodum præter morem
+totius antiquitatis. Ac plures quidem Clementis
+Romani cum laude meminerunt, nemo unus tamen
+civem Romanum appellat. Accedunt ,scripta Cle-
+mentis, partim vera, partim falso ipsi tributa, in
+
+# block=7
+Titulus in Constitutionibus apostolicis corruptus re-
+stituitur. Clemens Romanus et Hippolytus in his
+colligendis edendisque adlaborarunt. Paulus Sa-
+mosatenus Constitutionum corruptor.
+
+# block=2
+I. Inter vetustiora sacræ antiquitatis monumenta,
+quem locum sibi vindicent Constitutiones apostolo-
+rum, nemo ignorat, quamvis auctor, earumque
+editor ignoretur; quemadmodum et corruptor qui
+eas interpolavit hactenus delituit. Neque enim si
+nomen Clementis Romani præseferunt, ipsi tribui
+possunt, qui ante vixit, quam plura in Constitutio-
+nibus enarrata locum haberent. In editorem vero
+earumdem Constitutionum, qui III sæculo vixit,
+hujusmodi censura non cadit, quando huic tempori
+omnia fere conveniunt, quæ his Constitutionibus
+continentur. Hunc editorem fuisse Hippolytum
+palam faciemus, qui non levem ob causam, sed
+gravissimam, Ecclesiæ Canonum editioni omnium

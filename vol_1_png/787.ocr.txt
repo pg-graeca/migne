@@ -1,0 +1,205 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,981,1885,1747,2611
+2,195,2251,952,2683
+3,984,1137,1727,1434
+4,191,1131,954,1475
+5,975,134,1753,917
+6,982,1526,1723,1597
+8,194,1882,953,2091
+9,195,2092,952,2251
+10,202,1525,948,1626
+11,193,1712,1729,1785
+12,1257,1486,1461,1521
+13,190,137,947,914
+15,621,82,1314,122
+16,1010,2611,1639,2647
+17,436,1014,701,1050
+18,439,1484,704,1516
+21,820,1813,1125,1848
+23,1245,1017,1459,1053
+25,190,1057,953,1128
+26,218,1632,950,1700
+27,195,82,249,120
+29,181,910,1749,968
+30,1659,80,1737,128
+31,987,1056,1733,1128
+32,999,1620,1739,1686
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=981 source_y1=1885 source_x2=1747 source_y2=2611
+bis, ipseque imperator Severus (ibid. cap. 4) ; cum
+denique Judæi, post expugnationem Jerosolymæ,
+dispersi, palabundi, cœli et soli sui extorres vaga-
+bantur per orbem, sine homine, sine Deo Rege ;
+prohibiti etiam vel advenarum jure terram patriam
+ingredi, et saltem vestigio salutare (Apologet. 21 ;
+Adversus Judæos 13); tunc, inquam, in pace ac ho-
+nore Ecclesiæ, Romani dici utcunque poterant jus-
+titiæ legem conspicuam reddere, fidem suscepisse,
+descivisse ab idololatria, bonos laudare, in malos
+animadvertere, Judæos habere vectigales propriis-
+que legibus privatos. Cot. — Sed quod Romani di-
+cuntur non sinere Judæos suis legibus vivere, vide-
+tur potius convenire Christianis, quam ethnicis.
+Ac sane captivitas, de qua hic sermo est, est major
+dispersio Judæorum, deleta Jerosolyma, quam pau-
+ci apostoli viderunt; qui tamen hic omnes loquen-
+tes inducuntur ab impostore, qui satis apte eorum
+personam agere nescivit. Idem etiam, sui instituti
+immemor, disciplinam et vitia sæculi IV, ubi de
+Christianis agit, imprudens describit passim in
+hoc opere. Cl.
+
+# block=2 source_x1=195 source_y1=2251 source_x2=952 source_y2=2683
+(49) Διὰ Ῥωμαίων. Certum ac manifestum est
+non potuisse hæc ab apostolis scribi. Sed an de-
+duci debeant usque ad tempora imperatorum Chri-
+stianorum, id vero ut parvi momenti, ita ambiguum,
+obscurumque mihi videtur. Quidni enim conve-
+niant ætati Tertulliani, verbi gratia? Cum ethnici
+mœrebant omnem sexum, ætatem, conditionem, et
+dignitatem transgredi ad Christianum nomen (Apo-
+logetici cap. 1); Christiani impleverant urbes, insu-
+las, castella, municipia, conciliabula, castra ipsa,
+tribus, decurias, palatium, senatum, forum (cap.
+37), eranque pars pene major civitatis cujusque
+(ad Scapulam 2) ; cum præsides multi favebant no-
+
+# block=3 source_x1=984 source_y1=1137 source_x2=1727 source_y2=1434
+Non modo autem justitiæ legem per nos vult ma-
+nifestam fieri; verum etiam per Romanos eam con-
+spici ac resplendere cupivit. Etenim illi quoque fide
+in Dominum suscepta, desciverunt a multorum
+deorum cultu,et ab injustitia; atque bonos laudant,
+et pravos puniunt; Judæos vero tributarios habent,
+ac propriis juribus uti non sinunt.
+
+# block=4 source_x1=191 source_y1=1131 source_x2=954 source_y2=1475
+Ὦ μόνον δὲ τῆς δικαιοσύνης νόμον δι’ ἡμῶν (48)
+ἐπιδείκνυσθαι βούλεται, ἀλλὰ καὶ διὰ Ῥωμαίων (49)
+εὐδόκησεν αὐτὸν φαίνεσθαι καὶ λάμπειν. Καὶ γὰρ
+καὶ οὗτοι πιστεύσαντες ἐπὶ τὸν Κύριον (50), καὶ πο-
+λυθεΐας ἀπέστησαν καὶ ἀδικίας· καὶ τοὺς ἀγαθοὺς
+ἀποδέχονται, καὶ τοὺς φαύλους κολάζουσιν· Ἰου-
+δαίους δὲ ὑποφόρους ἔχουσι, καὶ τοῖς ἰδίοις δικαιώ-
+μασιν οὐκ ἐῶσι χρῆσθαι.
+
+# block=5 source_x1=975 source_y1=134 source_x2=1753 source_y2=917
+sed quæ sit eorum qui delinquunt religio ac vita :
+pro sacrificio cruento, rationale, incruentum et
+mysticum instituit quod in mortem ejus propter
+symbola celebratur, sacrificium corporis et sangui-
+nis Domini; denique pro cultu ad locum quemdam
+astricto, præcepit ac æquum censuit, ut a solis
+ortu usque ad occasum in omni loco dominationis
+suæ eum laudibus prosequamur ²⁹. Non ergo legem
+a nobis abstulit, sed vincula. Nam de lege Moses
+dicit : « Meditaberis verbum quod ego præcipio tibi,
+sedens in domo, et surgens, et ambulans in via ³⁰. »
+David quoque ait : « In lege Domini voluntas ejus;
+et in lege ejus meditabitur die ac nocte ³¹. » Ubi-
+que enim vult nos legi obtemperare, non legem
+transgredi. « Beati enim, inquit, immaculati in via,
+qui ambulant in lege Domini : beati qui scrutantur
+testimonia ejus; in toto corde exquirent eum ³²; »
+et rursus : « Beati sumus, Israel, quia quæ placita
+
+# block=6 source_x1=982 source_y1=1526 source_x2=1723 source_y2=1597
+Quod Deus Judæos, propter impietatem in Christum
+ad captivitatem redactos, tributo subjecerit.
+
+# block=8 source_x1=194 source_y1=1882 source_x2=953 source_y2=2091
+(45) Συμβόλων χάριν. Quia quod est symbolicum
+et sacramentale in eucharistia, mortis Dominicæ
+signum est : juxta illud S. Chrysostomi ad Matthæi
+XXVI, 28 : Εἰ γὰρ μὴ ἀπέθανεν ὁ Ἰησοῦς, τίνος σύμ-
+βολα τὰ τελούμενα; et Eusebii Hist. Eccl. lib. X, cap.
+3 : Σωτηρίου πάθους ἀπόῤῥητα σύμβολα. Cot.
+
+# block=9 source_x1=195 source_y1=2092 source_x2=952 source_y2=2251
+(46) Καί. Abest a cod. Vind. Cl.
+(47) Καὶ ἐδικαίωσεν. Deest in cod. Vind. nec
+sane necessarium est. Ib.
+(48) Δι’ ἡμῶν. In margine habet cod. Vind. τῶν
+ἀποστόλων δηλονότι. Vere. Ib.
+
+# block=10 source_x1=202 source_y1=1525 source_x2=948 source_y2=1626
+Ὡς θεὸς Ἰουδαίους διὰ τὴν εἰς Χριστὸν ἀσέ-
+βειαν αἰχμαλώτους ποιησάμενος, ὑπὸ φόρον
+κατέστησεν.
+
+# block=11 source_x1=193 source_y1=1712 source_x2=1729 source_y2=1785
+²⁹ Psal. CXII, 5; Malach. I, 11. ³⁰ Deut. VI, 6. ³¹ Psal. I, 2. ³² Psal. CXVIII, 1. ³³ Bar. IV, 4.
+³⁴ Joan. XIII, 17.
+
+# block=12 source_x1=1257 source_y1=1486 source_x2=1461 source_y2=1521
+CAPUT XXV.
+
+# block=13 source_x1=190 source_y1=137 source_x2=947 source_y2=914
+τὸν θάνατον τοῦ Κυρίου συμβόλων χάριν (45) ἐπιτε-
+λεῖται, τοῦ σώματος αὐτοῦ καὶ τοῦ αἵματος· ἀντὶ δὲ
+τοπικῆς λατρείας, ἀπὸ ἀνατολῶν καὶ (46) μέχρι δυ-
+σμῶν ἐν παντὶ τόπῳ τῆς δεσποτείας αὐτοῦ προσέταξε
+δοξάζεσθαι αὐτὸν, καὶ ἐδικαίωσεν (47). Οὐ νόμον οὖν
+περιεῖλεν ἀφ’ ἡμῶν, ἀλλὰ δεσμά. Περὶ γὰρ τοῦ νόμου
+Μωσῆς λέγει· « Μελετήσεις τὸ ῥῆμα ὃ ἐγὼ σοὶ ἐν-
+τέλλομαι, καθήμενος ἐν οἴκῳ, καὶ ἀνιστάμενος, καὶ
+περιπατῶν ἐν ὁδῷ. » Καὶ ὁ Δαβὶδ λέγει· « Ἐν τῷ
+νόμῳ Κυρίου τὸ θέλημα αὐτοῦ· » καὶ ἐν τῷ νόμῳ αὐ-
+τοῦ μελετήσει ἡμέρας καὶ νυκτός. » Πανταχοῦ γὰρ
+ἐννόμους ἡμᾶς εἶναι βούλεται, ἀλλ’ οὐχὶ παρανόμους.
+« Μακάριοι γὰρ, φησὶν, οἱ ἄμωμοι ἐν ὁδῷ, οἱ πορευ-
+όμενοι ἐν νόμῳ Κυρίου· μακάριοι οἱ ἐξερευνοῦντες τὰ
+μαρτύρια αὐτοῦ, ἐν ὅλῃ καρδίᾳ ἐκζητοῦσιν αὐτόν· »
+καὶ πάλιν· « Μακάριοί ἐσμεν, Ἰσραὴλ, ὅτι τὰ ἀρεστὰ
+τῷ θεῷ ἡμῖν γνωστά ἐστιν· » καὶ ὁ Κύριός φησιν· « Εἰ
+ταῦτα οἴδατε, μακάριοί ἐστε ἐὰν ποιῆτε αὐτά. »
+
+# block=15 source_x1=621 source_y1=82 source_x2=1314 source_y2=122
+CONSTITUTIONES APOSTOLICÆ. — LIB. VI.
+
+# block=16 source_x1=1010 source_y1=2611 source_x2=1639 source_y2=2647
+(50) Κύριον. Addit, cod. Vind. Ἰησοῦν. Ib.
+
+# block=17 source_x1=436 source_y1=1014 source_x2=701 source_y2=1050
+ΚΕΦΑΛΑΙΟΝ ΚΔ΄.
+
+# block=18 source_x1=439 source_y1=1484 source_x2=704 source_y2=1516
+ΚΕΦΑΛΑΙΟΝ ΚΕ΄.
+
+# block=21 source_x1=820 source_y1=1813 source_x2=1125 source_y2=1848
+VARIORUM NOTÆ.
+
+# block=23 source_x1=1245 source_y1=1017 source_x2=1459 source_y2=1053
+CAPUT XXIV.
+
+# block=25 source_x1=190 source_y1=1057 source_x2=953 source_y2=1128
+Ὅτι καὶ διὰ Ῥωμαίων εὐδόκησεν ὁ Κύριος τὸν
+τῆς δικαιοσύνης νόμον ἐπιδείκνυσθαι.
+
+# block=26 source_x1=218 source_y1=1632 source_x2=950 source_y2=1700
+Ἐπειδὴ καὶ ἑκούσιον ἐπεσπάσαντο τὴν δουλείαν,
+
+# block=27 source_x1=195 source_y1=82 source_x2=249 source_y2=120
+973
+
+# block=29 source_x1=181 source_y1=910 source_x2=1749 source_y2=968
+sunt Deo manifesta sunt nobis ³³, et Dominus ait : « Si hæc scitis, beati eritis si feceritis ea ³⁴. »
+
+# block=30 source_x1=1659 source_y1=80 source_x2=1737 source_y2=128
+974
+
+# block=31 source_x1=987 source_y1=1056 source_x2=1733 source_y2=1128
+Quod placuit Domino, etiam per Romanos legem
+justitiæ demonstrari.
+
+# block=32 source_x1=999 source_y1=1620 source_x2=1739 source_y2=1686
+Quoniam servitutem ultro sibi attraxerunt, di-

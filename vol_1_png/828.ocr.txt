@@ -1,0 +1,208 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,232,802,984,1144
+2,1008,2499,1752,2711
+3,1012,139,1778,614
+4,1015,801,1766,1145
+5,231,2400,975,2704
+6,230,140,977,613
+7,1014,1514,1759,1715
+8,476,716,730,755
+9,231,618,1777,710
+10,1008,2370,1753,2505
+11,258,1181,1623,1229
+13,1008,1315,1765,1514
+14,224,1313,979,1975
+15,1011,1710,1756,2371
+16,629,85,1341,124
+17,232,85,305,132
+19,1187,763,1553,800
+20,213,1971,978,2403
+21,1181,708,1549,768
+22,465,748,741,794
+23,831,1240,1143,1284
+24,1667,82,1759,128
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=232 source_y1=802 source_x2=984 source_y2=1144
+« Gloria in excelsis Deo, et in terra pax, in ho-
+minibus bona voluntas ⁸⁴. » Laudamus te, hymnis
+celebramus te, benedicimus te, glorificamus te, ado-
+ramus te, per magnum pontificem, te verum Deum,
+ingenitum unum, solum inaccessum; propter ma-
+gnam gloriam tuam: Domine rex cœlestis, Deus Pater
+omnipotens; Domine Deus, Pater Christi, Agni imma-
+culati, qui tollit peccatum mundi: suscipe depreca-
+
+# block=2 source_x1=1008 source_y1=2499 source_x2=1752 source_y2=2711
+(65) Κύριε, etc. Hæc verba ad orthodoxorum for-
+mulam sunt mefleta in cod. Vindobon. hoc modo : Κύ-
+ριε Υἱὲ μονογενῆ, Ἰησοῦ Χριστὲ, καὶ ἅγιον Πνεῦμα·
+Κύριε ὁ Θεὸς, ὁ ἀμνὸς τοῦ Θεοῦ, ὁ Υἱὸς τοῦ Πατέρος,
+ὁ αἴρων τὰς ἁμαρτίας τοῦ κόσμου, πρόσδεξαι τὴν δέ-
+ησιν ἡμῶν, ὁ καθήμενος ἐν δεξιᾷ τοῦ Πατέρος, ἐλέ-
+
+# block=3 source_x1=1012 source_y1=139 source_x2=1778 source_y2=614
+τῆς δὲ ἐν Φοινίκῃ Τριπόλεως Μαραθόνης ⁸² (59)· τῆς δὲ
+ἐν Φρυγίᾳ Λαοδικείας Ἄρχιππος (60)· Κολοσσαέων δὲ
+Φιλήμων (61)· Βεροίας δὲ τῆς κατὰ Μακεδονίαν Ὀνή-
+σιμος ὁ Φιλήμονος· Κρήστης δὲ τῶν κατὰ Γαλατίαν
+ἐκκλησιῶν. Ἀκύλας δὲ καὶ Νικήτης (62) τῶν κατὰ
+Ἀσίαν παροικιῶν· Κρίσπος δὲ τῆς κατὰ Αἴγιναν Ἐκ-
+κλησίας· οὗτοι οἱ ὑφ’ ἡμῶν ἐμπιστευθέντες τὰς ἐν
+Κύρῳ, παροικίας· ὧν τῆς διδασκαλίας μνημονεύ-
+οντες πάντοτε παραφυλάσσεσθε τοὺς ἡμετέρους λόγους·
+καὶ ἔτη ὁ Κύριος μεθ’ ὑμῶν, νῦν τε καὶ εἰς τοὺς ἀτε-
+λευτήτους χρόνους· ὡς αὐτὸς εἴρηκεν ἡμῖν, μέλλων
+
+# block=4 source_x1=1015 source_y1=801 source_x2=1766 source_y2=1145
+ « Δόξα ἐν ὑψίστοις Θεῷ, καὶ ἐπὶ γῆς εἰρήνη, ἐν
+ἀνθρώποις εὐδοκία. » Αἰνοῦμέν σε, ὑμνοῦμέν σε,
+εὐλογοῦμέν σε, δοξολογοῦμέν (64) σε , προσκυνοῦμέν
+σε, διὰ τοῦ μεγάλου ἀρχιερέως· σὲ τὸν ὄντα Θεὸν,
+ἀγέννητον ἕνα, ἀπρόσιτον μόνον· διὰ τὴν μεγάλην σου
+δόξαν· Κύριε βασιλεῦ ἐπουράνιε, Θεὲ Πάτερ παντό-
+κρατορ· Κύριε ὁ Θεὸς ὁ Πατὴρ τοῦ Χριστοῦ, τοῦ ἀμώ-
+μου ἀμνοῦ (65), ὃς αἴρει τὴν ἁμαρτίαν τοῦ κόσμου·
+
+# block=5 source_x1=231 source_y1=2400 source_x2=975 source_y2=2704
+ (60) Ἄρχιππος. Coloss. iv, 16 : Et cum lecta
+fuerit apud vos Epistola hæc, facite ut et in Laodicen-
+sium Ecclesia legatur; et ea quæ Laodicensium est, ut
+vobis legatur. Et dicite Archippo : Vide ministerium
+quod accepisti in Domino, ut illud impleas, Quo in
+loco interpretando variantes antiqui, alii Archippum
+Colossensium Ecclesiæ addixerunt, ut episcopum
+quidam, ut diaconum nonnulli, ut clericum aliqui;
+alii Laodicensium fecere antistitem, quod cernere
+
+# block=6 source_x1=230 source_y1=140 source_x2=977 source_y2=613
+doniam Onesimus Philemonis ⁸¹ : Ecclesiarum Ga-
+latiæ Crescens : Asiæ parœciarum Aquila et Nice-
+tas : et Ecclesiæ Æginensis Crispus. Hi sunt quibus
+parœciarum cura a nobis credita est : quorum
+doctrinæ memores, semper observate sermones
+nostros : et sit Dominus vobiscum, nunc et in tem-
+pora infinita; quemadmodum ipse nobis dixit, cum
+esset ad suum Deum ac Patrem assumendus :
+« Ecce. enim, inquit, ego vobiscum sum omni-
+bus diebus, usque ad consummationem sæculi.
+Amen ⁸⁵.»
+
+# block=7 source_x1=1014 source_y1=1514 source_x2=1759 source_y2=1715
+ (61) Φιλήμων. Quando Philemon litteras apostoli
+accepit, clericus non erat, nec ulla ecclesiasticæ
+ordinationis dignitate præditus, teste Ambrosiastro.
+Sed postea creatus fuisse episcopus creditur : Co-
+lossensium, ait Constitutor; Gazæ, fingit Dorotheus.
+ ID.
+
+# block=8 source_x1=476 source_y1=716 source_x2=730 source_y2=755
+CAPUT XLVII.
+
+# block=9 source_x1=231 source_y1=618 source_x2=1777 source_y2=710
+ἀναλαμβάνεσθαι πρὸς τὸν ἑαυτοῦ Θεὸν καὶ Πατέρα· « Ἰδοὺ γὰρ, φησὶν, ἐγὼ μεθ’ ὑμῶν εἰμι πάσας τὰς
+ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. Ἀμήν. »
+
+# block=10 source_x1=1008 source_y1=2370 source_x2=1753 source_y2=2505
+ (64) Δοξολογοῦμεν. In cod. Vindob. εὐχαριστοῦ-
+μεν, quod idem ferme est, cum doxologia atque
+eucharistia, seu gratiarum actio sejungi nequeant.
+ CLER.
+
+# block=11 source_x1=258 source_y1=1181 source_x2=1623 source_y2=1229
+⁸¹ Philem. 10. ⁸² f. Μαραώτης, cod. Vind. Μαρθόνης. ⁸³ Matth. xxviii, 20. ⁸⁴ Luc. 11, 14.
+
+# block=13 source_x1=1008 source_y1=1315 source_x2=1765 source_y2=1514
+est apud Theodoritum ad eum textum. In ms. Regio
+1253, post Epistolam ad Philemonem scriptum re-
+peri : Πρὸς Φιλήμονα καὶ Ἀρχιππον δεσπότας Ὀνησί-
+μου, καὶ πρὸς Ἄρχιππον διάκονον τῆς ἐν Κολοσσαῖς
+Ἐκκλησίας, ἐγράφη ἀπὸ Ῥώμης διὰ Ὀνησίμου
+οἰκέτου. στίχ. λζ'. ID.
+
+# block=14 source_x1=224 source_y1=1313 source_x2=979 source_y2=1975
+νον ἐν ἑβδόμῳ βιβλίῳ τῶν ἀποστολικῶν διαταγμά-
+των ὁ Διονύσιος ἐπίσκοπος ὑπὸ Παύλου τοῦ Χρι-
+στοφόρου τῶν ἐν Ἀθήνῃσι πιστευσάντων. Et ad § v
+epistolæ 8 : Ἱεροθέτην δὲ καλεῖ τὸν ἅγιον ἀπόστολον
+Παῦλον, ὡς χειροτονήσαντα (hoc est ad verbum, eum
+qui suffragio suo dederat, et in manus tradiderat)
+αὐτῷ τὴν ἀρχιερωσύνην τῆς Ἐκκλησίας τῶν Ἀθηνῶν,
+καθὼς ἐν ταῖς ἱεραῖς τῶν ἀποστόλων γέγραπται
+διαταγαῖς. Verum aperte non dicitur in Constitu-
+tione, Dionysium a Paulo fuisse ordinatum; nec
+necesse est ut cuncta quæ sequuntur postremum
+ὑπὸ Παύλου ad Paulum referantur, sufficit ut ad
+aliquem ex apostolis. Pari modo verbo Dionysii
+Corinthii apud Eusebium non intelligentes Rufinus
+et Nicephorus eamdem Dionysii Areopagitæ ab apo-
+stolo promotionem ex eo retulerunt. Atque hæc cum
+ita se habeant, non negaverim tamen rem ipsam;
+magnæ enim auctoritatis est, et a multis mediæ infi-
+mæque ætatis scriptoribus tradita. Vide subse-
+quentia. COT.
+
+# block=15 source_x1=1011 source_y1=1710 source_x2=1756 source_y2=2371
+ (62) Ἀκύλας δὲ καὶ Νικήτης. Ut Petri comites,
+a Petro ordinatos fuisse crederim. ID.
+ (63) Huic capitulo de oratione matutina, doxologia
+magna, et hymno angelico, unice splendorem affe-
+rent verba tractatus De virginitate in Athanasio,
+p. 1057 : Πρὸς ὄρθρον δὲ τὸν ψαλμὸν τοῦτον λέγετε·
+Ὁ Θεὸς, ὁ Θεός μου, πρὸς σὲ ὀρθρίζω· ἐδίψησέ σε
+ἡ ψυχή μου· διάψαλμα [l.διὰ ψάλμα] δὲ· Εὐλογεῖτε
+πάντα τὰ ἔργα Κυρίου τὸν Κύριον· δόξα ἐν ὑψί-
+στοις Θεῷ, καὶ ἐπὶ γῆς εἰρήνη, ἐν ἀνθρώποις εὐ-
+δοκία· ὑμνοῦμέν σε, εὐλογοῦμέν σε, προσκυνοῦμέν σε
+καὶ τὰ ἑξῆς. Quæ sic verto : Matutino autem tem-
+pore hunc psalmum dicite : « Deus, Deus meus, ad te
+de luce vigilo; sitivit te anima mea (Psal. LXII) ; »
+diluculo autem : « Benedicite omnia opera Domini
+Domino (Dan. III, 57). Gloria in excelsis Deo, et in
+terra pax, in hominibus bona voluntas (Luc. 11, 14); »
+laudamus te, benedicimus te, adoramus te, et reliqua.
+Libri Rituales videantur. Item sedulus, solidusque
+scriptor Jacobus Usserius de Symbolis, etc. ID.
+
+# block=16 source_x1=629 source_y1=85 source_x2=1341 source_y2=124
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA,
+
+# block=17 source_x1=232 source_y1=85 source_x2=305 source_y2=132
+1055
+
+# block=19 source_x1=1187 source_y1=763 source_x2=1553 source_y2=800
+ Προσευχὴ ἑωθινή.
+
+# block=20 source_x1=213 source_y1=1971 source_x2=978 source_y2=2403
+ (59) Μαραθόνης. Imo Μαρούνης, seu potius Ma-
+ronius, episcopus Tripolitanus creatus a Petro apostolo.
+Maronem hunc aut Maroonem vitiose appellatum
+Marcum invenies in fragmento quod sub nomine So-
+phronii Hierosolymitani exstat tomo VII Biblio-
+thecæ Patrum, quodque non adverterunt viri docti
+excerptum fuisse per Epitomen ex Commentario de
+certaminibus, peregrinationibus, et consummatione
+SS. Petri et Pauli apud Surium die Junii 29. Nec
+rectius ipse Commentarius Marsonem præfert. De
+Marone Flaviæ Domitillæ, Latini 15 Aprilis, necnon
+Acta Nerei et Achillei in Surio 12 Maii. IB.
+
+# block=21 source_x1=1181 source_y1=708 source_x2=1549 source_y2=768
+ΚΕΦΑΛΑΙΟΝ ΜΖ' (63).
+
+# block=22 source_x1=465 source_y1=748 source_x2=741 source_y2=794
+Oratio matutina.
+
+# block=23 source_x1=831 source_y1=1240 source_x2=1143 source_y2=1284
+VARIORUM NOTÆ.
+
+# block=24 source_x1=1667 source_y1=82 source_x2=1759 source_y2=128
+1056

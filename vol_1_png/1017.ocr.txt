@@ -1,0 +1,210 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1016,535,1769,1002
+2,1017,143,1765,526
+3,1016,1013,1772,1399
+4,228,751,983,1392
+5,229,1482,978,1716
+6,229,141,978,742
+7,228,2106,980,2709
+8,229,89,296,133
+9,798,87,1203,126
+10,232,1712,986,1915
+11,230,1910,989,2043
+12,231,2042,984,2110
+15,1020,1485,1770,1688
+16,1004,1686,1771,2720
+17,1690,87,1761,126
+18,833,1422,1137,1459
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+RECOGNITIONUM LIB. X.
+
+# block=17
+1434
+
+# block=8
+1433
+
+# block=6
+mutatus in formicam, ex qua nascitur Myrmidon ;
+Thaliam (Ætnam) (38) nympham mutatus in vultu-
+rem, ex qua nascuntur apud Sicillam Palisci; Iman-
+dram Geneani (39) apud Rhodum, mutatus in im-
+brem ; Cassiopeiam (40) mutatus in virum ejus Phœ-
+nicem, ex qua nascitur Anchinos ; Ledam Thestii
+mutatus in cycnum, ex qua nascitur Helena ; et ite-
+rum eamdem mutatus in stellam, ex qua nascuntur
+Castor et Pollux ; Lamiam mutatus in upupam ; Mne-
+mosynen mutatus in pastorem, ex qua nascuntur
+Musæ novem; Nemesin mutatus in anserem; Se-
+melen Cadmiam mutatus in ignem, ex qua nascitur
+Dionysius. Ex filia autem sua Cerere genuit Persepho-
+nen, quam et ipsam corrupit mutatus in draconem.
+
+# block=2
+confiteri deum non erubescunt ; unde mirum mihi
+et valde mirum videtur, quomodo is qui super om-
+nes mortales scelere et flagitiis eminet, sanctum et
+quod est super omne bonum nomen acceperit, ut
+pater deorum atque hominum vocaretur ; nisi forte
+ille qui malis hominum gaudet, eum quem scele-
+ribus eminere supra cæteros vidit, supra cæteros
+ei honorem conferre infelices animas suasit, ut ad
+imitationem malorum invitaret universos.
+
+# block=1
+XXIV. Sed et filiorum ejus, qui apud eos dii putan-
+tur, sepulcra singulis quibusque in locis manife-
+stissime demonstrantur : Mercurii apud Hermopo-
+lim (43), Cypriæ Veneris apud Cyprum (44), Martis
+in Thracia (45), Liberi apud Thebas (46), ubi di-
+scerptus traditur, Herculis apud Tyrum, ubi igni
+crematus est (47), in Epidauro Æsculapii (48) ;
+quique omnes non solum ut homines defuncti, sed
+ut nequam homines puniti pro sceleribus docen-
+tur , et tamen ab stultis hominibus ut dii adoran-
+tur.
+
+# block=4
+XXIII. Sed et Europam patrui sui Oceani uxorem
+et sororem ejus Eurynomen adulterat, et patrem
+punit, et Pluten Atlantis filii sui adulterat filiam, ex
+qua natum sibi filium Tantalum damnat. Ex La-
+risse (41) etiam Orchomeni genuit Tityonem, quem
+et ipsum suppliciis tradidit, Diam Ixionis filii sui
+diripiens uxorem, ipsum perennibus subjicit pœnis,
+et pene omnes quos ex adulteriis genuit filios, vio-
+lentæ mortis conditione damnavit, quorum et se-
+pulcra pene omnium manifesta sunt. Ipsius deni-
+que parricidæ (42), qui et patruos peremit et uxores
+eorum vitiavit, sororibus stuprum intulit, multifor-
+mis magi sepulcrum evidens est apud Cretenses,
+qui tamen scientes et confitentes infanda ejus atque
+incesta opera, et omnibus enarrantes ipsi eum
+
+# block=3
+XXV. Quod si argumentari volunt, et magis hæc
+loca ortus eorum quam sepulturæ vel mortis affir-
+mant, ex vicinis et adhuc recentibus gestis priora
+et vetera vincentur, cum docuerimus adorari ab
+eis eos, quos etiam homines ipsi et defunctos vel
+potius punitos esse profitentur, verbi gratia ut Syri
+Adonem, Ægyptii Osirin (49), Ilienses Hectorem (50),
+apud Leuconessum Achillem (51), apud Pontum Pa-
+troclum (52), apud Rhodum Alexandrum Macedo-
+
+# block=18
+COTELERII NOTÆ.
+
+# block=5
+(38) Thalam Ætnam. Palicorum, non Palisco-
+rum, matrem dictam fuisse ab aliis Thaliam, ab
+aliis Ætnam discimus ex Stephano in Παλική, et
+Servio ad Æneid. ix. Quare videtur hoc loco alter-
+utrum solummodo nomen ad textum pertinere, aliud
+vero esse glossema marginale. Certe Gallica inter-
+pretatio solius Thaliæ mentionem facit.
+
+# block=15
+μένην. Martyrium S. Ignatii : Ἀφροδίτης ὁ τάφος ἐν
+Πάφῳ δείκνυται.
+(45) Martis in Thracia. Pergit Cæsarius : Ἐν δὲ
+Θρᾴκῃ Ἄρην, τὸν τῆς ἀρᾶς ἐπώνυμον. In Chronico
+Alexandrino, pag. 88 : Καὶ ἐλθὼν ἐν τῇ Θρᾴκῃ ἐκεῖ
+τελευτήσας κεῖται.
+
+# block=16
+(46) Liberi apud Thebas. Cæsarius : Ἐν Θήβαις
+Διόνυσος. Vide Clementina, hom. 5, c. 23.
+(47) Herculis, apud Tyrum ubi igni crematus est.
+In Vita S. Ignatii apud Bollandum : Hercules igne
+consumptus est in Tyro. Arnobius lib. I : Thebanus
+aut Tyrius Hercules; hic in Finibus sepultus Hispa-
+niæ, flammis alter concrematus Œteis. Apud Cæsa-
+rium : Ἐν Τύρῳ Ἡρακλῆς, μᾶλλον δὲ Ἡρακλῆς πυ-
+ριάλωτος γενόμενος διὰ κακίαν, ὑπὸ τῶν ἀθέων ἐκθειά-
+ζεται· qui locus, modo sanus sit, ita ex Etymologico
+magno intelligendus videtur, quod Ἡρακλῆς potius
+sit ἐν ἤρᾳ seu ἔρᾳ ἀκλεής, in terra inglorius, quam
+Ἥρας seu ἔρας κλέος, terræ gloria.
+(48) In Epidauro, Æsculapii. Ἐν Ἐπιδαύρῳ Ἀσκλή-
+πιος. Cæsarius. Lege Pausaniæ Corinthiaca.
+(49) Syri Adonem. Ægypti Osirin. Cæsario : Καὶ
+Σύροι μὲν οἳ φερώνυμοι συρφετοί, τὸν τοῦ ᾅδου ἐπώ-
+νυμον Ἄδωνιν ἐξεθείασαν κακῶς. Αἰγύπτιοι δὲ τὸν
+συρόμενον καὶ γεωπετῆ Ὄσιριν.
+(50) Ilienses Hectorem. Id quoque traditur ab
+Athenagora in Legatione pro Christianis ; et a Cæ-
+sario. Sed apud hunc τὸν Νέκτορα pro τὸν Ἕκτορα
+perperam ediderunt.
+(51) Apud Leuconessum Achillem. In Clementinis,
+Ἀχιλλέα ἐν Λεύκῃ τῇ νήσῳ. Notissima est hæc Achil-
+lis insula Leuce, seu Achillea, et Macaron, Μακά-
+ρων. Non intelligo autem quid sit Ἰσαχὸν in his
+Cæsarii, οἱ ἐν Λεύκῃ τῇ νήσῳ τὸν Ἰσαχὸν Ἀχιλλέα.
+Substitui posset, ἀσίχακον.
+(52) Apud Pontum Patroclum. Simili modo lege-
+bat Cæsarius. Πόντιοι, inquit, τὸν πατραλοίαν Πά-
+
+# block=10
+(39) Imandram Geneani. Codd. Sorb. et Th. ,
+Mandam Geneanam. Reg. et Pet., Imandam Geneam.
+Candel. Immandam Gegeneam. Clementinorum v, 13,
+Εἶμα τῇ γηγενεῖ. Ex quibus suspicor Rufinum audien-
+tem a lectore suo Εἶμαν τὴν γηγενέα, vertisse Iman-
+dam Gegeneam, cum debuisset, Imam terrigenam.
+
+# block=11
+(40) Cassiopeiam. Addunt codd. nostri sex : mu-
+tatus in virum ejus Phœnicem ; recte, ut patet ex
+Clementinis, ac ex Scholiaste Apollonii ad Argo-
+naut. lib. II, 178.
+
+# block=12
+(41) Ex Larisse. Tityonis, seu potius Tityi ma-
+trem alii Elaram vocant.
+
+# block=7
+(42) Ipsius denique parricidæ, etc. Cæsarii locus
+Dialogo 2, Respons. ad Interrogat. 112, qui ex hoc
+formatus videtur, pessime acceptus fuit a librariis:
+Οὐ Θεῷ, ἀλλὰ σποδῷ προσκυνοῦσι, διὰ τοῦ πατρα-
+λοίου, καὶ τῶν οἰκείων τέκνων τοὺς γάμους φθείραν-
+τος, καὶ ἐν τάφῳ παρὰ κρίσει φθαρέντος, ὅπερ οὐκ ἔστι
+Θεοῦ. Adeone difficile erat videre, παρὰ Κρησί ?
+Non Deum, sed cinerem adorant, in parricida, eo
+qui liberorum suorum matrimonia corrupit, atque in
+sepulcro apud Cretenses computruit ; id quod non est
+Dei. Sed et forsan legendum Διὸς ῥίψ διά.
+(43) Mercurii, apud Hermopolim. Hinc Cæsarius
+loco citato : Ἐν μὲν τῇ Ἑρμουπόλει τὸν ἐπὶ τὸ χεῖρον
+ἀνερμήνευτον Ἑρμῆν εἰς κόνιν διαλυθέντα. Hermopoli
+quidem Mercurium cujus exponi oratione flagitia ne-
+queunt, redactum in pulverem.
+(44) Cypriæ Veneris apud Cyprum. Cæsarius ibi-
+dem : Ἐν δὲ Κύπρῳ τὴν Κύπριν, Κύπρῳ ἐν τάφῳ κει-

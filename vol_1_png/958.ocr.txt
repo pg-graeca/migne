@@ -1,0 +1,170 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,222,2447,969,2717
+2,207,936,968,1929
+3,216,1941,966,2322
+4,1006,2450,1755,2684
+5,996,1288,1762,2341
+6,223,156,975,673
+7,1003,938,1755,1277
+8,1008,159,1755,669
+9,831,2373,1127,2407
+10,690,781,1219,840
+11,641,95,1351,134
+14,1686,103,1757,138
+16,230,102,305,136
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=30px
+# block=11 fontSize=16px
+# block=14 fontSize=16px
+# block=16 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=16
+1315
+
+# block=14
+1316
+
+# block=6
+quod duo sint cœli, quorum unum sit istud visi-
+bile firmamentum quod et transibit, aliud vero
+æternum et invisibile. Sextus, de bono et malo et
+quod bono cuncta subjiciantur a Patre, malum au-
+tem quare et quomodo, et unde sit, et quod coope-
+retur quidem bono, sed non proposito bono; et
+quæ sint signa boni, quæ vero mali, et quæ sit dif-
+ferentia dualitatis et conjugationis. Septimus, quæ
+sint, quæ prosecuti sunt duodecim apostoli apud
+populum in templo. Octavus, de verbis Domini quæ
+sibi videntur esse contraria, sed non sunt, et quæ
+sit horum absolutio. Nonus, quia lex quæ a Deo
+
+# block=8
+posita est, justa sit et perfecta, et quæ sola possit
+facere pacem. Decimus, de nativitate hominum
+carnali et de generatione quæ est per baptismum,
+et quæ sit in homine carnalis seminis successio, et
+quæ animæ ejus ratio, et quomodo in ipsa est li-
+bertas arbitrii; quæ quoniam non est ingenita sed
+facta est, immobilis a bono esse non poterat. De
+his ergo singulis quæ apud Cæsaream disserta sunt
+a Petro, jubente, ut dixi, ipso decem conscripta ad
+te transmisi volumina. Nos autem die postera, ut
+statutum fuerat, cum aliquantis qui Petrum sequi
+decreverant fidelibus viris, a Cæsarea proficiscimur.
+
+# block=10
+LIBER QUARTUS.
+
+# block=2
+I. Profecti a Cæsarea ut Tripolim pergeremus,
+apud Doram breve oppidum primam fecimus man-
+sionem, quia nec longe aberat. Et omnes pene qui
+per sermonem Petri crediderant, divelli ab eo satis
+ægre habebant, sed pariter incedentes, dum iterum
+videre, iterum complecti juvat, iterum conferre
+sermonem, ad diversorium pervenimus. Sequenti
+vero die venimus Ptolomaidem, ubi decem dies de-
+morati cum aliquanti verbum Dei recepissent, non-
+nullis eorum, qui attentiores videbantur et diutius
+detinere nos doctrinæ gratia cupiebant, Tripolim si
+hoc velint, ut sequerentur indicavimus. Similiter
+et apud Tyrum ac Sidonem et Berytum fecimus, et
+his qui plenius desiderabant audire sermonem,
+apud Tripolim nobis hiemandum denuntiavimus.
+Igitur cum ex singulis civitatibus studiosi quique
+comitarentur Petrum, electorum multitudo plurima
+ingredimur Tripolim. Continuo autem ante portas
+civitatis fratres qui præmissi fuerant, occurrunt et
+suscipientes nos adducunt per hospitia, quæ præ-
+paraverant. Commotio autem et concursus pluri-
+mus fiebat in civitate, desiderantium videre Pe-
+trum.
+
+# block=7
+tribus qui præmissi sunt, quia a civibus pro desi-
+derio quod erga Petrum conceperant, non solum
+hospitiis sed et omni humanitate suscepti sint, in
+tantum ut et contristarentur aliquanti, quibus de-
+fuere quos susciperent; ita enim omnes paratos
+fuisse, ut si multo plures venissent, adhuc tamen
+suscipiendos magis quam suscipientes fuisse defu-
+turos.
+
+# block=5
+III. Super his Petrus valde delectatus, collauda-
+vit et benedixit eos ac secum manere jussit. Ipse
+vero cum lavisset in mari (99), cibo sumpto quievit
+in vespera. Et ex more pullorum cantibus surgens,
+vespertino adhuc lumine perdurante, cunctos inve-
+nit vigilantes; eramus autem omnes cum eo sede-
+eim, Petrus et ego Clemens, Niceta et Aquila, et
+illi qui præcesserant duodecim. Salutans itaque ut
+solebat Petrus ait : Hodie quia aliis occupati non
+sumus, nobis simus. Et ego quidem vobis, quæ
+apud Cæsaream post digressum vestrum gesta
+sunt, enarrabo; vos autem mihi quæ hic a Simone
+perpetrata sunt, indicate. Et cum de his ab alter-
+utro sermo ederetur, illucescente die ingressi qui-
+dam de familiaribus nuntiant Petro, quod Simon
+ubi eum didicisset ingressum, per noctem profectus
+esset Syriam tendens. Turbæ autem diem hanc,
+inquiunt, quam interposuisti eis, desiderio tui
+longissimum sibi esse tempus opinantur, denique
+non ferentes stant ante januam, inter se invicem
+de his quæ audire cupiunt conferentes, et te ante
+præfinitum tempus omnimodis se visuros sperant,
+quantoque magis dies clarescit multitudines colli-
+guntur, et audituros se sermonem tuum, nescio
+
+# block=3
+II. Et cum venissemus ad domum Maronis, in
+qua Petro fuerat præparatum, conversus ad turbas,
+post diem crastinum sermonem se ad eos promisit
+facturum. Igitur qui præmissi fuerant fratres, omni-
+bus qui nobiscum venerant hospitia dividunt. Pe-
+trus vero Maronis domum ingressus cum rogaretur
+cibum sumere, nequaquam se facturum respondit,
+nisi prius scisset, si omnes qui eum fuerant comi-
+tati hospitiis requiescerent. Comperit autem a fra-
+
+# block=9
+COTELERII NOTÆ.
+
+# block=1
+(99) Ipse vero cum lavisset in mari. Vide omnino
+S. Epiphanium, hæresi 50, num. 2, 15, 21, et ab eo
+monitus, Ebionitica hæc et similia quæ non raro
+occurrunt in Recognitionibus, Epitome et Clemen-
+tinis, caute legito. Alias lavare manus, faciem, os,
+pedes, totum corpus, certis diebus, aut singulis,
+aut sæpius in d'e, ac definitis horis, idque post
+somnum, post concubitum, ante 'e et post cibum,
+
+# block=4
+ante preces, ante reconciliationem in pœnitentia,
+ante sumptionem Eucharistiæ : hæc, inquam, om-
+nia, ad consuetudines ritusque gentium et Eccle-
+siarum pertinentia, quemadmodum notum est satis,
+pietatem non lædunt, imo adjuvare possunt, si ad
+bonum finem dirigantur, nec superstitiose ac vel-
+uti ad salutem necessaria usurpentur.

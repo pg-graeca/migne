@@ -1,0 +1,185 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,250,1071,1006,2214
+2,1040,1077,1818,2210
+3,1041,157,1796,847
+4,1286,907,1552,939
+5,519,903,730,936
+6,254,954,1006,1065
+7,651,98,1369,135
+8,252,163,1010,887
+9,1054,959,1796,1063
+11,251,2407,1018,2715
+12,256,106,310,143
+14,1723,92,1803,132
+15,267,2245,1559,2295
+16,857,2319,1183,2373
+17,1045,2405,1805,2691
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+660
+
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=12
+659
+
+# block=3
+ἔχειν δεῖ, τούτου μιμητὰς (50) εἶναι (51), πραεῖς,
+ἡσυχίους, εὐσπλάγχνους, ἐλεήμονας, εἰρηνικοὺς, ἀορ,
+γήτους, διδακτικοὺς, ἐπιστρεπτικοὺς, εἰσδεκτικοὺς,
+παρακλητικοὺς, μὴ πλήκτας, μὴ ὀργίλους, μὴ ὑβρι-
+στὰς, μὴ ἀλαζόνας, μὴ ὑπεροπτικοὺς, μὴ οἰνόφλυγας,
+μὴ μεθύσους, μὴ εἰκαιοδαπάνους, μὴ τρυφητὰς, μὴ
+πολυδαπάνους, μὴ ὡς ἀλλοτρίοις ἀλλ’ ὡς ἰδίοις τοῖς
+τοῦ Θεοῦ δόμασι χρωμένους, ὡς ἀγαθοὺς οἰκονόμους
+καθεστῶτας, ὡς μέλλοντας ἀπαιτεῖσθαι παρὰ τοῦ
+Θεοῦ τὸν λόγον. Αὐτάρκη ἐχέτω τροφὴν, καὶ ἀμφια-
+σμὸν, ὁ ἐπίσκοπος, τὸν τῇ χρείᾳ καὶ τῇ σεμνότητι
+προσήκοντα· μὴ τοῖς Κυριακοῖς ὡς ἀλλοτρίοις κε-
+χρήσθω, ἀλλὰ μεμετρημένως. « Ἄξιος γὰρ ὁ ἐργά-
+της τοῦ μισθοῦ αὐτοῦ ἐστι. » Μὴ σπάταλος (52), μὴ
+πέρπερος, ἀλλὰ μόνων (53) τῶν πρὸς σύστασιν ἐφιέ-
+μενος.
+
+# block=8
+venit; hunc imitari, mites esse, quietos, humanos,
+misericordes, pacificos, expertes iræ; ad docen-
+dum, convertendum, recipiendum, hortandum et
+consolandum accommodatos; non percussores, non
+iracundos, non contumeliosos, non arrogantes, non
+contemptores, non vinolentos, non ebriosos, non
+sumptuosos temere, non voluptarios, non consum-
+ptores; non utentes Dei donis tanquam alienis sed
+tanquam propriis, ut constitutos in bonos dispen-
+satores, utque rationem a Deo reposcendos. Epi-
+scopus moderato victu contentus sit; item vestitu
+ad necessitatem et honestatem apto : bonis Domi-
+nicis tanquam extraneis non abutatur, sed cum
+modo : « Dignus est enim operarius mercede
+sua ⁸⁰ . » Non sit luxuriosus, non impensæ ac or-
+natus cupidus, sed necessariarum duntaxat rerum
+appetens.
+
+# block=5
+CAPUT XXV.
+
+# block=4
+ΚΕΦΑΛΑΙΟΝ ΚΕ'.
+
+# block=6
+De primitiis, et decimis; et quo modo debeat epi-
+scopus, ex eis vel ipse accipere, vel aliis distri-
+buere.
+
+# block=9
+Περὶ ἀπαρχῶν καὶ δεκατῶν, καὶ ὅπως ὀφείλει ὁ
+ἐπίσκοπος, ἢ αὐτὸς μεταλαμβάνειν ἐξ αὐτῶν,
+ἢ ἑτέροις διανέμειν.
+
+# block=1
+Decimas et primitias, quæ juxta Dei mandatum
+erogantur, consumat, ut hominem Dei decet; quæ
+causa pauperum sponte conferuntur, recte in pu-
+pillos, viduas, afflictos, et peregrinos inopes dis-
+penset, velut, qui habeat horum impendiorum ra-
+tiocinatorem Deum, a quo ipsi hæc procuratio est
+commissa. Quin etiam, o episcopi, omnibus
+egentibus juste dispertientes; et ipsi Dominicis
+rebus utentes, sed non abutentes; ex iis cibum
+sumentes, sed non eas absumentes soli, imo
+cum egentibus communicantes; inoffensum Deum
+habetote. Nam si soli bona Dei consumpseri-
+tis, hoc ab eo tanquam insatiabiles et solico-
+medones probrum reportabitis; « Lac comeditis,
+et lanis operimini ⁸¹ . » Et alio in loco : « Nunquid
+habitabitis soli in terra ⁸²? » Quapropter et in Lege
+mandatum est vobis : « Diliges proximum tuum
+sicut teipsum⁸³. » Atque hæc dicimus, non ut labo-
+ribus vestris nullatenus fruamini; scriptum est
+enim : « Non alligabis os bovi trituranti⁸⁴; » sed
+ut moderate cum justitia utamini. Quemadmodum
+ergo bos in area operans, cami libero ore, pascitur
+quidem, sed non totum depascitur : ita et vos labo-
+rantes in area, hoc est, in Ecclesia Dei, ex Eccle-
+sia vivite; instar quoque levitarum, qui ministra-
+bant testimonii tabernaculo, quod omni ex parte fi-
+
+# block=2
+Τὰ διδόμενα κατ’ ἐντολὴν Θεοῦ τῶν δεκατῶν καὶ τῶν
+ἀπαρχῶν, ὡς Θεοῦ ἄνθρωπος ἀναλισκέτω· τὰ εἰσφερό-
+μενα ἐπὶ προφάσει πενήτων ἑκούσια, καλῶς οἰκονομεί-
+τω, ὀρφανοῖς, καὶ χήραις, καὶ θλιβομένοις, καὶ ξένοις
+ἀπορουμένοις, ὡς ἔχων Θεὸν λογιστευτὴν τούτων,
+τὸν ἐγχειρίσαντα αὐτῷ ταύτην τὴν οἰκονομίαν· πᾶσι
+δὲ (54) τοῖς δεομένοις μετὰ δικαιοσύνης ἐπιμερίζοντες
+(55), καὶ ὑμεῖς αὐτοὶ χρώμενοι ἐκ τῶν Κυριακῶν, ἀλλὰ
+μὴ παραχρώμενοι, ἐσθίοντες ἐξ αὐτῶν, ἀλλὰ μὴ κατ-
+εσθίοντες αὐτὰ μόνοι, κοινωνοῦντες δὲ τοῖς χρήζουσιν,
+ἀπρόσκοποι Θεῷ γίνεσθε· ἐὰν γὰρ μόνοι αὐτὰ ἀνα-
+λώσητε, ὀνειδισθήσεσθε παρὰ Θεοῦ, λέγοντος ὡς πρὸς
+ἀπλήστους καὶ μονοφάγους· « Τὸ γάλα κατεσθίετε, καὶ
+τὰ ἔρια περιβάλλεσθε. » Καὶ ἐν ἄλλοις· « Μὴ οἰκή-
+σετε μόνοι ἐπὶ τῆς γῆς; » Διὸ καὶ ἐν τῷ νόμῳ προσ-
+τέτακται ὑμῖν (56)· « Ἀγαπήσεις τὸν πλησίον σου
+ὡς σεαυτόν. » Καὶ ταῦτα (57) λέγομεν, οὐχ ἵνα μὴ
+μεταλαμβάνητε ὑμῶν τῶν πόνων· γέγραπται γάρ·
+« Οὐ φιμώσεις βοῦν ἀλοῶντα· » ἀλλ’ ἵνα μεμετρημέ-
+νως μετὰ δικαιοσύνης. Ὃν τρόπον οὖν (58) ὁ βοῦς ἐρ-
+γαζόμενος ἐν τῇ ἅλῳ ἀκήμωτος (59), ἐσθίει μὲν, ἀλλ’
+οὐ τὸ πᾶν κατεσθίει· οὕτω καὶ ὑμεῖς ἐργαζόμενοι εἰς
+τὴν ἅλω, τουτέστιν εἰς τὴν Ἐκκλησίαν τοῦ Θεοῦ, ἐκ
+τῆς ἐκκλησίας ἐσθίετε (60)· ὃν τρόπον καὶ οἱ λευῖ-
+ται οἱ λειτουργοῦντες τῇ σκηνῇ τοῦ μαρτυρίου, ἥτις
+ἦν τύπος τῆς Ἐκκλησίας κατὰ πάντα· προσέτι δὲ
+
+# block=15
+⁸⁰ Luc. x, 7. ⁸¹ Ezech. xxxiv, 3. ⁸² Is. v, 8. ⁸³ Lev. xix, 18. ⁸⁴ Deut. xxv, 4.
+
+# block=16
+VARIORUM NOTÆ.
+
+# block=17
+sensu. ID.
+(56) Ὑμῖν. Omittitur in altero codice, nec male,
+nam mutuus amor est omnibus præceptus. ID.
+(57) Ταῦτα. Ibid. τοῦτο. ID.
+(58) Οὖν. Ibid. γάρ. ID.
+(59) Ἀκήμωτος. Ibid. ἀφίμωτος, quod est per-
+inde. ID.
+(60) Ἐσθίετε. Ἐσθίειν ὀφείλετε, codex alter. ID.
+
+# block=11
+(50) Alter cod. habet : Ὑμᾶς ἔχειν δεῖν τούτου
+καταμίμησιν, non male. CLER.
+(51) Εἶναι. In eodem sequitur εἶναι πραεῖς χρή. ID.
+(52) Σπάταλος. Idem codex : πολυανάλωτος, quod
+videtur esse τοῦ σπατάλου glossema. ID.
+(53) Μόνων, etc. Idem : μόνοις τοῖς π. σ. ἀρκού-
+μενος. ID.
+(54) Δέ. In eodem τοίνυν. ID.
+(55) Ἐπιμερίζοντες. Ibid. διανέμοντες eodem

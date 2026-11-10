@@ -1,0 +1,247 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,249,1519,1020,1983
+2,1029,1116,1403,2222
+3,631,2031,1007,2701
+4,247,1118,998,1524
+5,245,143,1000,922
+6,641,88,1384,131
+7,1024,147,1789,932
+8,1037,2262,1789,2683
+9,867,1056,1165,1097
+10,243,952,1790,1034
+12,1718,91,1769,138
+14,764,1991,865,2026
+15,243,2033,623,2706
+17,249,82,307,132
+18,365,1992,505,2028
+19,1405,1120,1787,2250
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Unicam mulierem arbitrantur Apollinarius in Ca-
+tena in Joannem, ad cap. xii, vers. 3 ; Gregorius
+papa homilia 33 in Evangelia, Beda multis in locis,
+et auctor homiliæ De Maria Magdalena , Origeni
+sine causa ascriptæ. Utrique probabiliter. Sed
+quinam vere, nunc ἐπέχω. Quæ enim ab evange-
+listis referuntur, duas insinuant. Possunt tamen de
+una explicari : ex qua duæ factæ fuerint : sicut ex
+una Magdalena duas fecerunt, et ex una muliere
+quæ Dominum unxit, multas. Quo de ultimo appo-
+nam e ms. codice non ita pridem Mazarinianæ, nunc
+Regiæ Bibliothecæ , testimonium insigne Severi ;
+quia Latine tantum ac imperfecte, atque sub emen-
+tito nomine Servii exstat in Catena Lucæ, ad c. vii:
+
+# block=2
+quia post biduum Pascha
+fiet, » subdit quod in Be-
+thania in domo Simonis
+leprosi , mulier fuderit
+unguentum super caput
+Domini, non autem pedes
+unxerit, ut Maria. Mar-
+cus ( cap. xiv, 3 ) autem
+consonans cum Matthæo
+eodem modo omnia con-
+tigisse dicit. Lucas vero
+(cap. vii, 37) , non circa
+tempus passionis, sed cir-
+ca media tempora Evan-
+gelii, vel etiam ante, re-
+fert ; a Pharisæo quodam
+fuisse invitatum Domi-
+num ad convivium; eoque
+qui ab hypocrisi fraudu-
+lenta, et ab incredulitate
+liber non erat. Nos igitur
+tres mulieres esse cense-
+mus. Ille vero aureæ lin-
+guæ et maxime prædican-
+dus Pater, orbis magnus
+splendor, ac explanator
+difficultatum, binas asse-
+rit has mulieres fuisse :
+unam quidem cujus a
+Joanne, alteram vero cu-
+jus mentio fit a tribus :
+cui et magis credendum.
+Cor.
+
+# block=3
+Cum quatuor Evange-
+listæ a muliere Dominum
+unguento perunctum fui-
+se scripserint, quærendum
+utrum una fuerit an duæ.
+Ego quidem intente re-
+spiciens ad exactum evan-
+gelicarum Scripturarum,
+tres colligo fuisse mulie-
+res, ex personarum qua-
+litate, ex ipso modo agen-
+di, ex differentia tempo-
+rum. Joannes ( cap. xii,
+3) siquidem de Maria so-
+rore Lazari narrat, quod
+sex diebus ante Pascha
+in domo propria Jesu pe-
+des unxerit. At Matthæus
+(cap. xxvi, 2), postquam
+Dominus dixit , « Scitis
+
+# block=4
+riam sororem Marthæ et Lazari a Maria Magdalena,
+ex qua Dominus septem dæmonia ejecit, Joannes
+Thessalonicensis sub finem orationis de Dominica
+resurrectione, et Theophylactus ad Joan. xix, 25,
+necnon Nicephorus in his versibus :
+Αἱ μυροφόροι καὶ μαθήτριαι Λόγου.
+Πρώτη μέν ἐστι Μαγδαληνὴ Μαρία,
+ἡ δ᾽ Ἰωάννα δευτέρα, καὶ Σαλώμη,
+μήτηρ Ἰωσῆ καὶ Ἰακώβου τρίτη [l. τετάρτη],
+Μάρθα, Μαρία σύγγονοι τοῦ Λαζάρου,
+καὶ Σωσάννα δ᾽ ἔνεστιν ἑβδόμη πάλιν,
+ἄλλαι τε πολλαὶ μὴ γραφαῖς γεγραμμέναι.
+
+# block=5
+ipse primus eas jussisset nobiscum populum in-
+struere. Si enim vir caput mulieris censetur ⁸³,
+æquum non est capiti præesse reliquum corpus.
+⁸⁴ Sciat ergo vidua se Dei altare esse, et domi suæ
+sedeat, nec ullo prætextu in domos fidelium aliquid
+acceptura ingrediatur ; nunquam enim altare Dei
+circumambulat, sed uno in loco figitur. Itaque et
+virgo et vidua ne circumcursent , aut per alienas
+domos vagentur : quia vagæ, et impudentes, et
+tales, pedes in uno loco non continent ⁸⁵, eo quod
+non viduæ, sed viduli sunt , ad accipiendum faci-
+les, vaniloquæ, maledicæ, rixarum consultrices,
+impudentes, inverecundæ ; quæ cum tales sint, in-
+dignas se exhibent vocatore suo. Non enim ad com-
+munem congregationis stationem in Dominica con-
+veniunt, ut ii qui vigilantes sunt ; sed aut dormi-
+tant, aut garriunt, aut lenocinantur, aut petunt ,
+aut alios in captivitatem agunt, et ad diabolum
+
+# block=6
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=7
+τινες (41). Εἰ γὰρ ἦν ἀναγκαῖον γυναιξὶ διδάσκειν, αὐτὸς
+ἂν ἐκέλευσε πρῶτος καὶ ταύταις σὺν ἡμῖν κατηχεῖν τὸν
+λαόν. Εἰ γὰρ κεφαλὴ γυναικὸς ὁ ἀνὴρ ⁸³, οὐκ ἔστι δίκαιον
+τὸ λοιπὸν σῶμα τῆς κεφαλῆς ἐξάρχειν. Γνωριζέτω (42)
+οὖν ἡ χήρα, ὅτι θυσιαστήριόν ἐστι Θεοῦ, καὶ καθήσθω
+ἐν τῇ οἰκίᾳ αὐτῆς· μὴ μετά τινος προφάσεως ἐν ταῖς
+τῶν πιστῶν οἰκίαις ἐπὶ τῷ λαμβάνειν εἰσπορευομένη·
+οὐδὲ γάρ ποτε τὸ θυσιαστήριον τοῦ Θεοῦ περιτρέχει,
+ἀλλ᾽ ἐν ἑνὶ τόπῳ ἵδρυται· ὑπαρχέτω οὖν καὶ ἡ παρ-
+θένος καὶ ἡ χήρα μὴ περιτρέχουσα, ἢ ῥεμβομένη
+κατὰ τὰς τῶν ἀλλοτρίων οἰκίας· ὅτι ῥεμβοὶ καὶ ἀναι-
+δεῖς (43), καὶ αἱ τοιαῦται οὐχ ἡσυχάζουσι τοὺς πόδας
+ἐν ἑνὶ τόπῳ, διὰ τὸ μὴ χήρας, ἀλλὰ πήρας αὐτὰς
+ὑπάρχειν, ἑτοίμους εἰς τὸ λαμβάνειν, φλυάρους, κα-
+ταλάλους, μαχοσυμβούλους, ἀναιδεῖς, ἀναισχύντους·
+αἵτινες τοιαῦται ὑπάρχουσαι, οὐκ ἄξιαι τοῦ καλέ-
+σαντος τυγχάνουσιν. Οὐ γὰρ ἐπὶ τὸ κοινὸν τῆς συνα-
+γωγῆς ἀνάπαυμα ἐν τῇ Κυριακῇ (44) καταντῶσιν,
+
+# block=8
+(41) Καὶ ἕτεραί τινες. Inter quas Maria mater
+Rufi ; si audimus S. Epiphanium Panarii hæresi
+78, cap. 13, et hæresi 79, cap. 7, ex lapsu memoriæ,
+ex apocrypho, aut aliunde loquentem. Id.
+(42) Γνωριζέτω. In cod. antiquiore hic incipit
+cap. 7, cum hac inscriptione : "Ὅτι αἱ χῆραι μεμε-
+τρημένας ὀφείλουσιν ἔχειν τὰς προόδους. Cler.
+(43) Ῥεμβοὶ καί. Hæc desunt in altero cod. et
+quidem merito. Idem habet in seqq. καὶ αἱ τοιαῦται
+ἀναιδεῖς. Id.
+(44) Ἐν τῇ Κυριακῇ. Absunt hæc in altero co-
+dice, nec sane necessaria sunt. Id.
+
+# block=9
+VARIORUM NOTÆ.
+
+# block=10
+⁸³ 1 Cor. xi, 3. ⁸⁴ l. Polycarpum , cap. 4 ; Pseudo-Ignat. ad Tars. 9 ; l. Ignat. interpol. ad Phi-
+lad. 4. ⁸⁵ Prov. vii, 11.
+
+# block=12
+776
+
+# block=14
+Severi.
+
+# block=15
+Ἐπεὶ οἱ τέσσαρες Εὐ-
+αγγελισταὶ μύρῳ ὑπὸ γυ-
+ναικὸς ἠλεῖφθαι τὸν Κύ-
+ριον ἔγραψαν, ζητητέον,
+μία τις ἦν, ἢ δύο. Ἐνατε-
+νίζων τοίνυν ἐγὼ τῷ ἀ-
+κριβεῖ τῶν εὐαγγελικῶν
+Γραμμάτων, τρεῖς εἶναι
+τὰς γυναῖκας λογίζομαι,
+ἐκ τῆς τῶν προσώπων
+ποιότητος, ἐξ αὐτοῦ τοῦ
+τρόπου τῆς πράξεως, ἐκ
+τῆς διαφορᾶς τῶν καιρῶν.
+Ὁ μὲν γὰρ Ἰωάννης, περὶ
+Μαρίας τῆς τοῦ Λαζάρου
+ἀδελφῆς ἱστορεῖ, ὅτι πρὸ
+ἓξ ἡμερῶν τοῦ Πάσχα κα-
+τὰ τὴν οἰκίαν αὐτῆς ἤλει-
+ψε τοὺς πόδας τοῦ Ἰησοῦ.
+Ὁ δέ γε Ματθαῖος μετὰ
+
+# block=17
+775
+
+# block=18
+Σεβήρου.
+
+# block=19
+τὸ εἰπεῖν τὸν Κύριον, Οἴ-
+δατε ὅτι μετὰ δύο ἡμέ-
+ρας τὸ Πάσχα γίνεται,
+ἐπάγει ὅτι ἐν οἰκίᾳ Σίμω-
+νος τοῦ λεπροῦ, γυνὴ τῆς
+κεφαλῆς τοῦ Κυρίου μύ-
+ρον κατέχεεν, οὐ τοὺς
+πόδας ἤλειψεν ὡς ἡ Μα-
+ρία. Καὶ Μάρκος δὲ σύμ-
+φωνος ἅπαντα τῷ Ματ-
+θαίῳ γεγενῆσθαί φησι.
+Λουκᾶς γε μὴν, οὐ περὶ
+τὸν καιρὸν τοῦ πάθους,
+ἀλλὰ περὶ τὰ μέσα που
+τοῦ Εὐαγγελίου, ἢ καὶ
+ἔτι πρὸ τούτου, τινὰ τῶν
+Φαρισαίων εἰς ἑστίασιν
+κεκληκέναι λέγει τὸν Κύ-
+ριον, ὃς καὶ τῆς δολερᾶς
+ὑποκρίσεως καὶ ἀπιστίας
+οὐκ ἀπήλλακτο. Ἡμεῖς
+μὲν οὖν, τρία εἶναι τὰ
+γύναια νομίζομεν. Ὁ δὲ
+χρυσοῦς τὴν γλῶτταν καὶ
+πανεύφημος πατὴρ, ὁ τῆς
+οἰκουμένης μέγας φω-
+στὴρ καὶ ἑρμηνεὺς τῶν
+ἀπόρων ( S. Chrysos-
+tomus), δύο ταύτας τὰς
+γυναῖκας εἶναί φησι, μίαν
+μὲν τὴν παρὰ τῷ Ἰωάννῃ,
+ἑτέραν δὲ τὴν παρὰ τοῖς
+τρισίν· ᾧ καὶ μᾶλλον πει-
+στέον, etc

@@ -1,0 +1,187 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,176,2510,924,2718
+2,182,2345,923,2445
+3,967,786,1735,2055
+4,182,130,946,873
+5,183,871,935,2134
+6,966,2338,1716,2676
+7,975,135,1738,788
+8,179,2162,927,2241
+9,970,2068,1719,2234
+11,756,78,1159,113
+14,1659,85,1735,119
+17,229,2451,759,2511
+18,196,82,272,117
+20,796,2268,1098,2302
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=14 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=11
+RECOGNITIONUM LIB. V.
+
+# block=18
+1337
+
+# block=14
+1338
+
+# block=4
+cultoribus suis, quorum similitudinem habere con-
+tumelia est ? Quid ergo? Solvite simulacra inutilia,
+et facite vasa utilia (18) ; solvite otiosam pigramque
+materiam, et facite humano usui apta ministeria.
+Sed non sinunt, inquit, leges humanæ. Bene, quia
+humanæ leges, et non ipsorum virtus. Quomodo ergo
+dii sunt qui humanis legibus et non suis viribus
+defenduntur? sicque et a furibus canum vigiliis et
+claustrorum munitionibus conservantur, et hoc si
+fuerint argentea vel aurea vel etiam ærea ; nam la-
+pidea et fictilia ipsa sui vilitate muniuntur, nemo
+enim lapideum aut fictilem deum furatur. Unde
+miserabiliores videntur hi, quibus pretiosius me-
+tallum pericula viciniora conquirit. Qui ergo furari
+possunt, qui ab hominibus custodiri, qui conflari et
+appendi et malleis cædi, isti hominibus sensum ha-
+bentibus dii debent videri ?
+
+# block=7
+stiones, qui quasi per prudentiam decipit vos, et
+velut ratione quadam serpit per sensus vestros,
+atque ab ipso vertice incipiens per meilores dila-
+bitur meilullas, lucrum magnum computans dece-
+ptionem vestram. Interserit ergo sensibus vestris
+opiniones quorumcunque deorum, tantum ut vos
+ab unius Dei revocet ſide, sciens peccatum vestrum
+suum esse solatium. Ille enim pro nequitia sua ab
+initio terram edere condemnatus est, propter eum
+quem de terra assumptum, iterum resolvi fecit in
+terram, usque ad tempus quo animæ vestræ per
+ignem traductæ reparentur, sicut alias de hoc ple-
+nius edocebimus. Ex ipso ergo sunt omnes errores
+et ambiguitates, quibus ab unius Dei fide et credu-
+litate conturbamini.
+
+# block=3
+XVIII. Et primo omnium subjicit cogitationibus
+hominum, ut ne audiant verba veritatis, per quæ
+malorum ignorantiam fugent. Et hoc facit quasi
+occasione alterius scientiæ, asseverans eis illam
+opinionem qua utuntur plurimi, ut putent se reos
+futuros non esse si in ignorantia fuerint, nec reddi-
+turos esse rationem pro his quæ non audierint, et
+ideo a verbo declinare eos suadet auditum. Sed ac-
+cipite contra hæc : ipsa per semetipsam ignorantia
+validissimum venenum est, quod sufficitat animam,
+nulla extrinsecus quæsita adjectione, perimere. Et
+ideo nemo est qui ignorans, per hoc quod ignorat,
+evadat, sed certum est quod intereat. Naturaliter
+enim peccatorum vis interimit peccatorem. Sed
+quoniam judicium rationabile erit, tam ignorantiæ,
+quam uniuscujusque peccati causa et origo require-
+tur. Is ergo qui scire noluit quomodo possit venire
+ad vitam, sed maluit ignorare ne per hoc reus fieri
+videretur, ex hoc ipso jam, quasi qui scierit et ha-
+buerit scientiam, judicatur. Agnovit enim quid esset
+quod nolebat audire, et nihil ei conferet ad excusa-
+tionem serpentis artificiose quæsita calliditas; cum
+eo enim erit ei ratio quem non latet cor. Ut autem
+scias quia ignorantia per semetipsam generat inter-
+itum, anima cum discesserit a corpore, si talis
+exeat quæ ignoret eum a quo creata est, a quo in
+hoc mundo omnia quæ usibus suis erant necessaria
+consecuta est, tanquam ingrata et infidelis a regni
+ejus luce projicitur.
+
+# block=5
+XVI. O in quantam miseriam mortalium decidit
+intelligentia! Nam si mortuos timere summæ stul-
+titiæ ducitur, quid judicemus de his qui deterius
+aliquid, quam sunt mortui, timent? ista enim simu-
+lacra nec in mortuorum numero habenda sunt, quia
+nunquam vixerunt. Præferenda sunt eis etiam se-
+pulcra mortuorum, quoniam, licet nunc mortui sunt,
+habuerunt tamen aliquando vitam; isti autem quos
+colitis, nec eam quidem quæ est in omnibus teter-
+rima, ranarum ac bubonum vitam aliquando gesse-
+runt. Sed quid opus est de his plura memorare, cum
+sufficiat dicere ei qui adorat ea : Non vides quia
+quem adoras, non videt? audi quia quem adoras,
+non audit, et intellige quia non intelligit; opus
+enim mortalis manus est, et necessario sensu ca-
+ret. Tu ergo adoras insensibilem, cum unusquisque
+habens sensum, nec ea quidem credat adoranda,
+quæ a Deo facta sunt et habent sensum (19), id est
+solem et lunam, vel stellas, omniaque quæ in cœlo
+sunt et super terram. Justum enim putant, non ea
+quæ pro mundi ministerio facta sunt, sed ipsorum
+et mundi totius Creatorem debere venerari ; gau-
+dent enim etiam hæc, cum ille adoratur et colitur,
+nec libenter accipiunt, ut honor Creatoris creaturæ
+deferatur. Exceptus enim est Dei solius cultus,
+qui solus increatus est, omnia autem cætera factura
+ejus sunt. Sicut ergo proprium est ejus qui solus
+non est factus, Deum esse, ita omne quod factum
+est, Deus vere non est.
+
+# block=9
+XIX. Subjicit iterum nequissimus serpens aliam
+hominibus opinionem, quam plures vestrum pro-
+ferre solent : Unum esse et nos dicimus Deum, qui
+est omnium Dominus ; sed et isti, inquiunt, dii
+
+# block=8
+XVII. Ante omnia ergo intelligere debetis dece-
+ptionem serpentis antiqui et callidas ejus sugge-
+
+# block=20
+COTELERII NOTÆ.
+
+# block=6
+bemus sane libellos sex sancti Hilarii episcopi Picta-
+viensis, quos de Græco Origenis in Latinum vertit;
+sed non omnia secundum ordinem libri sancti Job
+exposuit. Et satis miror hominem doctissimum et
+sanctum, ut de stellis nænias Origenis transferret.
+Mihi, sanctissime Pater, nullo pacto suaderi potest,
+ut credam astra cœli spiritus rationales, quæ neque
+cum angelis, neque cum hominibus facta esse Scri-
+ptura sancta declarat. Sunt verba Liciniani epi-
+scopi, ad Gregorium papam.
+
+# block=2
+(18) Solvite simulacra inutilia, et facite vasa uti-
+lia. Huic germanus est locus Commodiani, instru-
+ctione 20:
+
+# block=17
+Ei deos audetis æramina dicere ſusos.
+Solveritis eos magis in vascula vobis.
+
+# block=1
+(19) Et habent sensum. Astra animata esse pauci
+Patrum existimaverunt, secuti philosophos. Item
+pleriqne Hebræorum. Contra, Constitutionum scri-
+ptor, lib. viii, cap. 46, et reliqui. Junge cum hoc
+loco loca Clementinorum, x, 9; iii, 35. Ac relege
+mecum insignia hæc Spicilegii II, pag. 371 : Ha-

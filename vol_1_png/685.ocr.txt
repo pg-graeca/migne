@@ -1,0 +1,269 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,938,321,1688,661
+2,150,320,909,662
+3,138,820,908,2221
+4,153,206,892,272
+5,939,203,1687,304
+6,1625,94,1677,133
+7,937,2675,1682,2723
+8,1214,149,1406,184
+9,150,102,204,137
+10,577,97,1265,133
+11,189,682,479,736
+12,769,754,1079,794
+13,139,2228,511,2726
+14,531,2230,903,2724
+15,931,826,1305,2430
+16,925,2496,1301,2666
+17,1311,822,1687,2486
+18,1307,2494,1689,2668
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Non igitur licere volumus mulieribus, ut in eccle-
+sia doceant ; precentur duntaxat, et doctores au-
+diant ⁸². Etenim ipse doctor noster ac Dominus
+Jesus, nos duodecim ad docendum populum ac
+gentes mittens, nusquam mulieres ad prædicatio-
+nem destinavit ; quanquam ipsi non deessent : erat
+enim nobiscum Mater Domini, ejusdemque sorores;
+item Maria Magdalena, et Maria Jacobi, Martha et
+
+# block=2
+Οὐκ ἐπιτρέπομεν οὖν γυναῖκας διδάσκειν ἐν ἐκ-
+κλησίᾳ, ἀλλὰ μόνον προσεύχεσθαι, καὶ τῶν διδασκά-
+λων ἐπακούειν. Καὶ γὰρ αὐτὸς ὁ διδάσκαλος ἡμῶν
+καὶ Κύριος Ἰησοῦς ἡμᾶς τοὺς δώδεκα πέμψας μα-
+θητεῦσαι τὸν λαὸν καὶ τὰ ἔθνη, γυναῖκας οὐδαμοῦ
+ἐξαπέστειλεν εἰς τὸ κήρυγμα· καίτοι οὐκ ἀπορῶν·
+συνῆν γὰρ ἡμῖν ἥτε Μήτηρ τοῦ Κυρίου καὶ αἱ
+ἀδελφαὶ αὐτοῦ (39)· ἔτι δὲ Μαρία ἡ Μαγδα-
+
+# block=3
+(39) Αἱ ἀδελφαὶ αὐτοῦ. Sorores Domini, hoc est
+cognatæ illius, aut Josephi filiæ ex priore conjugio,
+Hieronymo impugnanti Helvidium, cap. 6 , sunt
+innumeræ : quia (opinor) in Novo Testamento nec
+numerantur, nec nominantur, Matth. xiii, 56 ;
+Marc. vi, 3. Filias Josephi Epiphanius hæresi 78,
+cap. 8 et 9, duas facit, appellatque Mariam et Sa-
+lomen ; ut et refertur in Anastasii Antiocheni quæ-
+stione 153. Quanquam ms. liber Bibliothecæ Re-
+giæ 750, in Anastasiano loco, qui illic subnectitur
+interpretationi Chrysostomi ad Joannem, exhibet,
+Μάρθα καὶ Μαρία, non ἡ Μαρία καὶ ἡ Σαλώμη.
+Quod adnotavi : cum propter Hippolyti Thebani
+Chronicum, Josepho tribuens filias, τήν τε Ἐσθὴρ
+καὶ τὴν Μάρθαν, saltem in libris impressis, tom. III
+Antiquæ lectionis Henrici Canisii, et in Bibliothecæ
+Regiæ mss. 1026, 2442, nam in ejusdem Bibliothecæ
+codicibus 750, 2374, 2004, necnon in illo Thuanæ
+cujus memini ad Pastoris lib. iii, Sim. 9, cap. 16,
+itemque in Vindobonensi ex Lambecio, lib. iii,
+c. 46, pro Μάρθαν legitur Θάμαρ, quemadmodum
+in pseudo-Hippolyto Portuensi apud Nicephorum
+Hist. Eccl., lib. ii, cap. 3 ( lege infra hic fragmen-
+tum Chrysostomo ascriptum ) : tum propter infide-
+lium objectionem, relatam ab eodem Anastasio,
+Ὁδηγοῦ cap. 22: Τοῦ Ἰωάννου λέγοντος Μάρθαν
+ἀδελφὴν Μαρίας τῆς Μητρὸς τοῦ Κυρίου ἡμῶν
+[l. ὑμῶν] , πῶς ὑμεῖς τοῦτο οὐ λέγετε ; Cum Joannes
+dicat, Martham esse sororem Mariæ Matris Domini
+vestri ; qui fit, ut vos idem non dicatis ? objectionem,
+inquam, ortam fortassis etiam ex fama Marthæ
+istius, confusæ cum Martha sorore et Lazari et
+Mariæ unctricis. Sed Ancorati cap. 60, idem Epi-
+phanius, retenta Salome, Annam loco Mariæ sub-
+stituit : nisi si erratum est librariorum, qui Mariam
+in Annam mutaverint ; quemadmodum Josem fra-
+trem Christi eodem loci transformarunt in Joan-
+nem. Obstant tamen conjecturæ, quæ subjunxi ac
+Latina feci, cum reperissem in dicto codice regio
+750 , post Evangelium Matthæi, et in alio similiter
+2375 , ejusdem Bibliothecæ ; quibus confirmatur
+vulgata lectio Ancorati, et Annæ nomen.
+
+# block=4
+Ὅτι οὐ χρὴ γυναῖκας διδάσκειν , ἀπρεπὲς γάρ·
+καὶ ποῖαι γυναῖκες εἵποντο τῷ Κυρίῳ.
+
+# block=5
+Quod non oportet mulieres, docendi officio fungi ;
+indecorum enim esse : et quales mulieres Dominum
+sequebantur.
+
+# block=6
+770
+
+# block=7
+Jam de Salome uxore Zebedæi, matre Jacobi
+
+# block=8
+CAPUT VI.
+
+# block=9
+769
+
+# block=10
+CONSTITUTIONES APOSTOLICÆ.—LIB. III.
+
+# block=11
+⁸² I Cor. xiv, 34.
+
+# block=12
+VARIORUM NOTÆ.
+
+# block=13
+Σωφρονίου τοῦ ἁγιωτάτου
+ἀρχιεπισκόπου Ἱεροσο-
+λύμων ἐκ τοῦ ἐγκωμίου
+τοῦ εἰς τὸν ἅγιον Ἰω-
+άννην τὸν θεολόγον καὶ
+εὐαγγελιστήν, οὗ ἡ
+ἀρχή· Ἰωάννης ὁ τῆς
+βροντῆς υἱὸς , τὸ
+« Ἐν ἀρχῇ ἦν ὁ Λό-
+γος, » βροντᾷ.
+Καὶ μεθ' ἕτερα·
+Ζεβεδαίου Ἰωάννης
+παῖς καὶ Σαλώμης προ-
+έλαμψεν. Αὕτη γὰρ καὶ
+
+# block=14
+Sophronii sanctissimi ar-
+chiepiscopi Hierosoly-
+mitani, ex encomio san-
+cti Joannis theologi et
+evangelistæ, quod inci-
+pit ab his verbis : Joan-
+nes tonitrui filius ista
+tonat, « In principio erat
+Verbum. »
+Et post alia :
+Illuxit Joannes filius
+Zebedæi et Salomes. Hoc
+quippe nomen matris com-
+
+# block=15
+pertum est : quemadmo-
+dum etiam qui Spiritu
+Dei locuti sunt sancti Pa-
+tres agnoverunt. Ideoque
+et aliam bonam sortem
+sorte omni prosperæ sor-
+tis multo meliorem ac
+majorem. Hæc autem erat
+Matris quæ peperit, ut so-
+roris Dei gloria. Etenim
+Salome quæ magnum
+Joannem genuit, erat filia
+Josephi, qui omnium no-
+strum Ṡalvatoris Christi
+pater existimabatur : si-
+cuti sapientissimus Lucas
+retulit (Luc. iii, 23). Ne-
+que enim pater re vera
+erat : quandoquidem nec
+vere Dei Genitricem ac
+semper virginem Matrem
+Domini ullatenus cogno-
+vit, aut eam immaculata
+virginalique gratia priva-
+vit. Fuit etiam Salome
+Jacobi, Josæ, Judæ, et
+Simeonis, necnon Mariæ
+ac Annæ soror atque con-
+sors : quos Numine afflati
+Patres ἀδελφοθέους , hoc
+est , fratrem habentes
+Deum , præclare appel-
+lant, et nomine tenus nec
+ultra illos ea dignitate
+ornant : quia plane pro-
+creati sunt ab eo qui pater
+Christi putabatur esse ab
+hominibus, quique ita in
+Evangeliis vocatur : sicut
+et Josephum nuncupare
+cernitur ipsa purissima
+et prorsus immaculata
+virgo mater Dei , quæ
+nunquam omnino virum
+cognovit. « Fili enim, in-
+quit , et ego , et pater
+tuus dolentes quæreba-
+mus te (Luc. ii, 48). »
+
+# block=16
+Et post pauca : Ut Sa-
+lomen novam Saram Ze-
+bedæus in medium vocavit,
+quo tanquam soror Chri-
+sto supplicaret.
+
+# block=17
+τῆς μητρὸς ἡ προσηγορία
+ἐπεφώρατο· καθάπερ καὶ
+ταύτην οἱ Πνεύματι Θεοῦ
+λαλοῦντες Πατέρες ἐφώ-
+ρασαν ἅγιοι. Ὅθεν καὶ
+εὐκληρίαν ἄλλην, κλήρῳ
+πάσης εὐκληρίας πολλῷ
+κρείττονά τε καὶ μείζονα.
+Αὕτη δὲ ἦν ἡ τῆς τεκού-
+σης Μητρὸς ἀδελφόθεος
+εὔκλεια. Σαλώμη γὰρ ἡ
+τὸν μέγαν Ἰωάννην κυή-
+σασα, τοῦ μὲν Ἰωσὴφ θυ-
+γάτηρ ἐγένετο , ὃς τοῦ
+πάντων ἡμῶν Σωτῆρος
+Χριστοῦ πατὴρ ἐνομίζε-
+το , ὡς ὁ πάνσοφος Λουκᾶς
+ἀπεγράψατο (Luc. iii, 23).
+Οὐ γὰρ ἦν πατὴρ ἔργῳ
+καὶ πράγματι· ἐπεὶ οὐδὲ
+τὴν ἀληθῶς θεοτόκον καὶ
+ἀειπάρθενον Μητέρα τοῦ
+Κυρίου τὸ σύνολον ἔγνω-
+κεν , ἢ τῆς ἀχράντου καὶ
+παρθενικῆς αὐτὴν ἀπεγύ-
+μνωσε χάριτος. Ἰακώβου
+δὲ καὶ Ἰωσῆ καὶ Ἰούδα
+καὶ Συμεῶνος , καὶ μὴν
+καὶ Μαρίας καὶ Ἄννης ἦν
+ἀδελφὴ γνησία καὶ σύγ-
+κληρος , οὓς καὶ Πατέρες
+οἱ ἔνθεοι ἀδελφοθέους κα-
+λῶς ὀνομάζουσι , μέχρις
+ὀνόματος καὶ μόνου τῷ
+τοιούτῳ κατακοσμοῦντες
+αὐτοὺς ἀξιώματι· ἐπειδὴ
+ὅλως ἐκ τοῦ παρὰ ἀνθρώ-
+ποις νομισθέντος εἶναι τοῦ
+Χριστοῦ καὶ κληθέντος ἐν
+τοῖς Εὐαγγελίοις πατρὸς
+ἀπετέχθησαν καθὰ τὸν
+Ἰωσὴφ καὶ ἡ πάναγνος
+αὕτη καὶ πανάχραντος
+παρθένος Θεομήτωρ προσ-
+αγορεύουσα φαίνεται, ἡ
+μηδαμῶς ἄνδρα τὸ παρά-
+παν γινώσκουσα· Τέκνον
+γὰρ , φησὶν , καὶ ἐγὼ καὶ
+ὁ πατήρ σου ὀδυνώμε-
+νοι ἐζητοῦμέν σε.
+
+# block=18
+Καὶ μετὰ βραχέα· Ὡς
+Σαλώμην τὴν νέαν Σάῤῥαν
+ὁ Ζεβεδαῖος εἰς μέσον ἐκά-
+λεσεν, ἵνα ὡς ἀδελφὴ τὸν
+Χριστὸν ἱκετεύσειεν.

@@ -1,0 +1,86 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,256,2427,1787,2707
+2,264,1613,1159,2406
+3,1191,119,1814,964
+4,1182,1655,1802,2098
+5,275,116,1163,1605
+6,1183,2108,1794,2419
+7,650,64,1417,115
+8,1384,1572,1592,1624
+9,291,68,351,110
+10,1739,74,1809,118
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=9
+407
+
+# block=10
+408
+
+# block=3
+scientiæ, aut munus doctrinæ, vel
+prophetiæ, vel ministerii, gratias
+age Deo qui omni homini auxilium
+præstat, nec invidet; dat, et non
+improperat ¹². Cura ut gratia quam
+tibi Dominus largitus est, prosit fide-
+libus fratribus et prophetis, qui
+agnoscunt Domini esse verba quæ
+loqueris : et quando convenerint fra-
+tres qui Christo serviunt, interpre-
+tare coram illis quæ tibi revelata
+sunt, ut inde fluant fructus boni et
+abundantes qui homines Dei adju-
+vent si vere charismata divina pos-
+sideas ¹³.
+
+# block=8
+CAPUT XII.
+
+# block=4
+Decorum quoque ac utile est ut
+quis visitet orphanos ac viduas, præ-
+cipue pauperes ac liberis gravatas;
+sed præ omnibus domesticos fidei
+qui, dubio procul, in necessitate
+sunt, quorum vita in oculis servorum
+Dei splendet atque clarescit, quique
+sincere stant pro veritate.
+
+# block=6
+Honorabile etiam, æquum præ-
+clarumque est, ut fratres in Christo
+visitent exagitatos a spiritibus malis,
+pro eis exorcismos adhibeant, pru-
+denterque orationem fundant Deo
+
+# block=1
+¹² Jac. 1, 5. ¹³ Cuicunque homini rem ac verba serio perpendenti meditantique, locus iste suffice-
+ret ad probandam hujus Epistolæ authenticitatem : evidens est enim mentionem hic fieri de donis et re-
+velationibus quæ communia erant temporibus apostolicis, et de quibus disserit sanctus Paulus (I Cor.
+xiv). Quis falsarius de talibus fictionem struere unquam cogitasset? Detur vero reperiri potuisse impos-
+torem qui hujusmodi charismatum fraudulentam existentiam finxisset : sermonem tunc non raptim ab-
+solvisset, sed late tractasset. Igitur et materia et brevitas, et candor virum apostolicum demonstrant. Et
+quid dicam de auctoritate loquentis? Quis enim ausus fuisset ita fidelium et perfectorum mores dirigere,
+nisi vir apostolicus, imo pontifex?

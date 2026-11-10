@@ -1,0 +1,163 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,228,1871,983,2712
+2,1021,1873,1778,2720
+3,223,146,981,1580
+5,276,1706,1069,1743
+6,833,1795,1145,1828
+7,653,90,1349,130
+9,230,90,300,126
+10,1012,145,1776,1588
+11,1679,92,1765,138
+12,221,1584,1765,1672
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=228 source_y1=1871 source_x2=983 source_y2=2712
+(14) Ἐπανάγων. Ἐνάγων, cod. Vind. CLER.
+(15) Ὁ χειροθετῶν. Manus imponebant catechu-
+menis, quando eos faciebant catechumenos. Seve-
+rus, dialogo 2, cap. 5 : Nec cunctatus Martinus, in
+medio ut erat campo, cunctos, imposita universis manu,
+catechumenos fecit. Vide in libris Ritualibus orationes
+ad faciendum catechumenum. Ac si mecum sentire
+vis, hunc ritum intellige expressum in conciliis
+Arelatensi et Eliberitano, ubi frustra gladiantur
+interpretes, alii accipientes de baptismo, alii de
+confirmatione. Aiunt Patres Arelatenses in Epi-
+stola ad Silvestrum PP. : De his qui in infirmi-
+tate sunt constituti, et credere volunt, placuit eis
+manum imponi; et canone 6 : De his qui in infir-
+mitate credere volunt, placuit eis debere manum
+imponi. Eliberitani vero can. 39 : Gentiles si in
+infirmitate desideraverint sibi manum imponi, si fue-
+rit eorum ex aliqua parte vita honesta, placuit eis
+manum imponi, et fieri Christianos. Neque enim di-
+citur, in gravi infirmitate, aut in periculo mortis, sed
+in infirmitate tantum. Verum objicit vir hac præ-
+sertim in parte longe doctissimus Joannes Morinus
+De pœnitentia lib. x, cap. 8, dogma esse in Ecclesia
+inauditum, aliquem non baptizatum esse posse
+Christianum. Quasi vero canonis Eliberitani 45
+
+# block=2 source_x1=1021 source_y1=1873 source_x2=1778 source_y2=2720
+verba non sint, quæ eodem loci a Morino laudantur :
+Qui aliquando fuerit catechumenus, et per infinita
+tempora nunquam ad Ecclesiam accesserit, si eum
+de clero quisque cognoverit esse Christianum, aut
+testes aliqui extiterint fideles, placuit ei baptismum
+non negari, eo quod in veterem hominem deliquisse
+videatur. Quid quod Græci ex canone CP. 7, eum
+qui accedit ad Ecclesiam antequam baptizent, fa-
+ciunt primo Christianum, hoc est Χριστιανὸν ἀβά-
+πτιστον, οἷα τυχεῖν ἐστι τὰ τῶν Χριστιανῶν παιδία
+τὰ μέλλοντα βαπτίζεσθαι, docetur Euchologii pa-
+gina 345, ac deinde catechumenum ? Præterea ma-
+nus imponebant catechumenis, inter tempus initi
+catechumenatus, et tempus baptismi ; qua de ma-
+nus impositione, vel quotidiana, vel crebra, vel
+certis Quadragesimæ diebus, agitur præcipue in
+Clementinis, lib. III, cap. ult., in concilio Carthagi-
+nensi IV, cap. 85, et in concilio Matisconensi II,
+can. 3. COT.
+(16) Συνετίσῃ. In cod. Vind. συστήσῃ καὶ συνε-
+τίσῃ εἰς τὸ θέλημα αὐτοῦ, commendet et suam intel-
+ligere faciat voluntatem. CLER.
+(17) Τoῦ θανάτου. Omittuntur in cod. Vind. Ib.
+(18) Ἐπ'. Omissum in eodem. IB.
+(19) Τέ. Deest in cod. Vind. ID.
+
+# block=3 source_x1=223 source_y1=146 source_x2=981 source_y2=1580
+Deus improbos aqua et igne punierit ⁶⁸ ; sanctos
+vero, per singulas ætates, honore ac gloria deco-
+raverit : Sethum dico, Enosum, Henochum,
+Noam, Abrahamum et posteros ejus, Melchisede-
+cum, Jobum, Mosem, Jesum, Chalebum, et Phi-
+neem sacerdotem, sanctosque singularum ætatum.
+Item edoceatur quemadmodum per providentiam,
+Deus humanum genus non aversatus fuerit; imo
+ab errore ac vanitate ad agnitionem veritatis di-
+versis temporibus vocarit, reducens a servitute
+ac impietate ad libertatem et pietatem, ab injustitia
+ad justitiam, a morte æterna ad vitam perpetuam.
+Hæc et his consentanea discat in catechesi, qui ac-
+cedit. Qui autem manus ei imponit, adoret Deum,
+universorum Dominum, gratias agens pro creatura
+ejus ; quod miserit Filium suum unigenitum Chri-
+stum, ut salvet hominem, deletis iniquitatibus,
+utque remittat impietates ac peccata, et purget ab
+omni inquinamento carnis et spiritus ⁶⁹, hominem-
+que sanctificet, secundum beneplacitum bonitatis
+suæ, atque indicet voluntatem suam, ac illuminet
+oculos cordis ejus ad consideranda mirabilia ejus ;
+necnon manifestet ei judicia justitiæ, ut odio ha-
+beat omnem viam injustitiæ, ambulet autem viam
+veritatis : quo ille dignus habeatur regenerationis
+lavacro, in adoptionem in Christo; ut complantatus
+similitudini mortis Christi ⁷⁰, in spe gloriosæ so-
+cietatis, necetur quidem peccato, vivat autem Deo
+secundum mentem, sermonem, et actionem, atque
+annumeretur in libro viventium. Post vero gratia-
+rum actionem hanc, doceat eum de Domini incar-
+natione, et de passione ejus, resurrectione ex mor-
+tuis, et assumptione.
+
+# block=5 source_x1=276 source_y1=1706 source_x2=1069 source_y2=1743
+⁶⁸ Gen. VII et XIX. — ⁴⁹ II Cor. VII, 1 — ⁷⁰ Rom. VI, 5.
+
+# block=6 source_x1=833 source_y1=1795 source_x2=1145 source_y2=1828
+VARIORUM NOTÆ.
+
+# block=7 source_x1=653 source_y1=90 source_x2=1349 source_y2=130
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9 source_x1=230 source_y1=90 source_x2=300 source_y2=126
+1039
+
+# block=10 source_x1=1012 source_y1=145 source_x2=1776 source_y2=1588
+ἑαυτοῦ φύσιν, οἷα τις ὑπάρχει. Παιδευέσθω ὅπως
+ὁ Θεὸς τοὺς πονηροὺς ἐκόλασεν ὕδατι καὶ πυρὶ, τοὺς
+δ' ἁγίους ἐδόξασε καθ' ἑκάστην γενεάν· λέγω δὴ τὸν
+Σὴθ, τὸν Ἐνὼς, τὸν Ἐνὼχ, τὸν Νῶε, τὸν Ἀβραὰμ
+καὶ τοὺς ἐκγόνους αὐτοῦ, τὸν Μελχισεδὲκ, καὶ τὸν
+Ἰὼβ, καὶ τὸν Μωσέα, Ἰησοῦν τε, καὶ Χαλὲβ, καὶ
+Φινεὲς τὸν ἱερέα, καὶ τοὺς καθ' ἑκάστην γενεάν
+ὁσίους. Ὅπως τε προνοούμενος οὐκ ἀπεστράφη ὁ Θεὸς
+τὸ τῶν ἀνθρώπων γένος· ἀλλὰ ἀπὸ πλάνης καὶ μα-
+ταιότητος εἰς ἐπίγνωσιν ἀληθείας ἐκάλει κατὰ δια-
+φόρους καιροὺς, ἀπὸ τῆς δουλείας καὶ ἀσεβείας εἰς
+ἐλευθερίαν καὶ εὐσέβειαν ἐπανάγων (14), ἀπὸ ἀδικίας
+εἰς δικαιοσύνην, ἀπὸ θανάτου αἰωνίου εἰς ζωὴν
+ἀΐδιον. Ταῦτα καὶ τὰ τούτοις ἀκόλουθα μανθανέτω ἐν
+τῇ κατηχήσει ὁ προσιών. Προσκυνείτω δὲ ὁ χειρο-
+θετῶν (15) αὐτὸν, τὸν Θεὸν τῶν ὅλων Δεσπότην,
+εὐχαριστῶν ὑπὲρ τοῦ πλάσματος· ὅτι κατέπεμψε
+τὸν Υἱὸν αὐτοῦ τὸν μονογενῆ Χριστὸν, ἵνα σώσῃ τὸν
+ἄνθρωπον, ἐξαλείψας τὰς ἀνομίας, καὶ ἵνα ἀφῇ τὰς
+ἀσεβείας καὶ τὰς ἁμαρτίας, καὶ καθαρίσῃ ἀπὸ παντὸς
+μολυσμοῦ σαρκὸς καὶ πνεύματος· ἁγιάσῃ δὲ τὸν
+ἄνθρωπον κατ' εὐδοκίαν τῆς χρηστότητος αὐτοῦ,
+συνετίσῃ (16) δὲ τὸ θέλημα αὐτοῦ, καὶ φωτίσῃ τοὺς
+ὀφθαλμοὺς τῆς καρδίας αὐτοῦ εἰς κατανόησιν τῶν
+θαυμασίων αὐτοῦ· γνωρίσῃ αὐτῷ τὰ κρίματα τῆς
+δικαιοσύνης, ὅπως ἂν μισήσῃ πᾶσαν ὁδὸν ἀδικίας, πο-
+ρεύηται δὲ τὴν ὁδὸν τῆς ἀληθείας· εἰς τὸ καταξιωθῆναι
+αὐτὸν τοῦ λουτροῦ τῆς παλιγγενεσίας, εἰς υἱοθεσίαν
+τὴν ἐν Χριστῷ· ἵνα σύμφυτος γενόμενος τῇ ὁμοιό-
+τητι τοῦ θανάτου (17) τοῦ Χριστοῦ, ἐπ' (18) ἐλπίδι
+τῆς ἐνδόξου κοινωνίας, νεκρωθῇ μὲν τῇ ἁμαρτίᾳ,
+ζήσῃ δὲ τῷ Θεῷ κατὰ τε (19) νοῦν καὶ λόγον καὶ
+πρᾶξιν, καὶ ἐν τῇ βίβλῳ τῶν ζώντων συναριθμηθῇ.
+
+# block=11 source_x1=1679 source_y1=92 source_x2=1765 source_y2=138
+1040
+
+# block=12 source_x1=221 source_y1=1584 source_x2=1765 source_y2=1672
+Καὶ μετὰ τὴν εὐχαριστίαν ταύτην, παιδευσάτω αὐτὸν τὰ περὶ τῆς τοῦ Κυρίου ἐνανθρωπήσεως, τά τε περὶ
+τοῦ πάθους αὐτοῦ, καὶ τῆς ἐκ νεκρῶν ἀναστάσεως, καὶ ἀναλήψεως.

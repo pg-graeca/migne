@@ -1,0 +1,169 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,217,572,976,2220
+2,1021,162,1756,413
+3,1008,568,1772,2230
+4,1258,446,1507,478
+5,261,2260,993,2297
+6,1016,2434,1774,2714
+7,221,161,974,371
+8,274,500,906,535
+9,227,2435,986,2745
+10,1014,496,1756,566
+12,848,2350,1150,2393
+13,501,446,692,482
+14,633,109,1351,145
+15,1679,109,1752,146
+16,217,108,297,154
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=217 source_y1=572 source_x2=976 source_y2=2220
+Adhuc atque adhuc oremus Deum per Chri-
+stum` ejus, pro munere, quod Domino Deo obla-
+tum est; ut Deus, qui bonus est, illud, mediante
+Christo suo, recipiat in cœleste suum altare, ad
+odorem suavitatis. Pro Ecclesiæ hac, et populo
+oremus; pro universo episcopatu, omni pres-
+byterio, cuncto Christi diaconiæ ac ministerio, omni
+Ecclesiæ cœtu cremus; ut Dominus universos con-
+servet atque custodiat. Pro regibus, et in sublimi
+potestate constitutis oremus; ut res nostræ paci-
+ficæ sint; quo vitam quietam et tranquillam naeti,
+in omni pietate ac morum castitate degamus ²⁵.
+Sanctorum martyrum memores simus, ut digni ha-
+beamur participes fieri eorum certaminis. Pro iis
+qui in fide requieverunt oremus. Pro cœli tempe-
+ratura et frugum maturitate oremus. Pro recenter
+baptismo illuminatis oremus, ut confirmentur in fide;
+omnes, alii ab aliis incitentur. Suscita nos, Deus,
+in gratia tua. Suscitati, nos ipsos Deo per Christum
+ejus commendemus. Et episcopus dicat: Deus, qui
+magnus et magni nominis es, magnus consilio ²⁶,
+et potens operibus; Deus et Pater sancti Filii tui
+Jesu Salvatoris nostri, respice super nos ac super
+gregem tuum hunc, quem per eum delegisti ad
+nominis tui gloriam; et sanctificans corpus nostrum
+et animam nostram, concede, ut effecti puri ab
+omni inquinamento carnis ac spiritus ²⁷, proposita
+bona consequamur; neminemque nostrum indi-
+gnum judices, verum sis noster adjutor, opitulator,
+propugnator, per Christum tuum; cum quo tibi
+gloria, honor, laus, glorificatio, gratiarum actio,
+et sancto Spiritui, in sæcula. Amen. Et postquam
+omnes dixerint, Amen; diaconus dicat: Attenda-
+mus. Ac episcopus ita ad populum proloquatur:
+Sancta sanctis. Populusque respondeat: Unus
+sanctus, unus Dominus, unus Jesus Christus, in
+gloriam Dei Patris, benedictus in sæcula. Amen.
+« Gloria in altissimis Deo, et in terra pax, in ho-
+
+# block=2 source_x1=1021 source_y1=162 source_x2=1756 source_y2=413
+καὶ τῷ Υἱῷ, καὶ τῷ ἁγίῳ Πνεύματι, καὶ νῦν, καὶ ἀεὶ,
+καὶ εἰς τοὺς ἀνελλιπεῖς καὶ ἀτελευτήτους αἰῶνας τῶν
+αἰώνων. Καὶ πᾶς ὁ λαὸς λεγέτω· Ἀμήν. Καὶ ὁ ἐπί-
+σκοπος εἰπάτω· Ἡ εἰρήνη τοῦ Θεοῦ εἴη μετὰ πάντων
+ὑμῶν. Καὶ πᾶς ὁ λαὸς λεγέτω· Καὶ μετὰ τοῦ πνεύ-
+ματός σου. Καὶ ὁ διάκονος κηρυσσέτω πάλιν·
+
+# block=3 source_x1=1008 source_y1=568 source_x2=1772 source_y2=2230
+Ἔτι καὶ ἔτι δεηθῶμεν τοῦ Θεοῦ διὰ τοῦ Χριστοῦ
+αὐτοῦ, ὑπὲρ τοῦ δώρου τοῦ προσκομισθέντος Κυρίῳ
+τῷ Θεῷ, ὅπως ὁ ἀγαθὸς Θεὸς προσδέξηται αὐτὸ διὰ
+τῆς μεσιτείας τοῦ Χριστοῦ αὐτοῦ εἰς τὸ ἐπουράνιον
+αὐτοῦ θυσιαστήριον, εἰς ὀσμὴν εὐωδίας. Ὑπὲρ τῆς
+Ἐκκλησίας ταύτης καὶ τοῦ λαοῦ δεηθῶμεν, ὑπὲρ πά-
+σης ἐπισκοπῆς, παντὸς πρεσβυτερίου, πάσης τῆς ἐν
+Χριστῷ διακονίας καὶ ὑπηρεσίας (62), παντὸς τοῦ
+πληρώματος τῆς Ἐκκλησίας δεηθῶμεν· ὅπως ὁ Κύ-
+ριος πάντας διατηρήσῃ καὶ διαφυλάξῃ. Ὑπὲρ βασι-
+λέων καὶ τῶν ἐν ὑπεροχῇ δεηθῶμεν· ἵνα εἰρηνεύων-
+ται τὰ πρὸς ἡμᾶς, ὅπως ἤρεμον καὶ ἡσύχιον βίον
+ἔχοντες, διάγωμεν ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι.
+Τῶν ἁγίων μαρτύρων μνημονεύσωμεν· ὅπως κοινωνοὶ .
+γενέσθαι τῆς ἀθλήσεως αὐτῶν καταξιωθῶμεν. Ὑπὲρ
+τῶν ἐν πίστει ἀναπαυσαμένων δεηθῶμεν. Ὑπὲρ τῆς
+εὐκρασίας τῶν ἀέρων καὶ τελεσφορίας τῶν καρπῶν
+δεηθῶμεν. Ὑπὲρ τῶν νεοφωτίστων δεηθῶμεν· ὅπως
+βεβαιωθῶσιν ἐν τῇ πίστει, πάντες ὑπ’ ἄλλων παρα-
+καλέσθωσαν (63). Ἀνάστησον ἡμᾶς ὁ Θεὸς ἐν τῇ
+χάριτί σου· ἀναστάντες ἑαυτοὺς τῷ Θεῷ διὰ τοῦ
+Χριστοῦ αὐτοῦ παραδώμεθα. Καὶ ὁ ἐπίσκοπος λεγέ-
+τω· Ὁ Θεὸς ὁ μέγας καὶ μεγαλώνυμος, ὁ μέγας τῇ
+βουλῇ, καὶ κραταιὸς τοῖς ἔργοις, ὁ Θεὸς καὶ Πατὴρ
+τοῦ ἁγίου Παιδός σου Ἰησοῦ τοῦ Σωτῆρος ἡμῶν,
+ἐπίβλεψον ἐφ’ ἡμᾶς καὶ ἐπὶ τὸ ποίμνιόν σου τοῦτο,
+ὃ δι’ αὐτοῦ ἐξελέξω εἰς δόξαν τοῦ ὀνόματός σου, καὶ
+ἁγιάσας ἡμῶν τὸ σῶμα (64) καὶ τὴν ψυχὴν καταξίω-
+σον καθαροὺς γενομένους ἀπὸ παντὸς μολυσμοῦ σαρ-
+κὸς καὶ πνεύματος, τυχεῖν τῶν προκειμένων ἀγαθῶν,
+καὶ μηδένα ἡμῶν ἀνάξιον κρίνῃς, ἀλλὰ βοηθὸς ἡμῶν
+γενοῦ, ἀντιλήπτωρ, ὑπερασπιστὴς, διὰ τοῦ Χριστοῦ
+σου· μεθ’ οὗ σοι δόξα, τιμὴ, αἶνος, δοξολογία, εὐχα-
+ριστία, καὶ τῷ ἁγίῳ Πνεύματι, εἰς τοῦς αἰῶνας.
+Ἀμήν. Καὶ μετὰ τὸ πάντας εἰπεῖν, Ἀμήν· ὁ διά-
+κονος λεγέτω· Πρόσχωμεν. Καὶ ὁ ἐπίσκοπος προσ-
+φωνησάτω τῷ λαῷ οὕτω· Τὰ ἅγια τοῖς ἁγίοις. Καὶ
+ὁ λαὸς ὑπακουέτω· (65) Εἷς ἅγιος, εἷς Κύριος, εἷς
+
+# block=4 source_x1=1258 source_y1=446 source_x2=1507 source_y2=478
+ΚΕΦΑΛΑΙΟΝ ΙΓ′.
+
+# block=5 source_x1=261 source_y1=2260 source_x2=993 source_y2=2297
+²⁵ I Tim. II, 2.   ²⁶ Jer. xxxii, 19.   ²⁷ II Cor. vii, 1.
+
+# block=6 source_x1=1016 source_y1=2434 source_x2=1774 source_y2=2714
+Constantium imperat., p. 685 : Ποῦ πρέπον ἦν καὶ
+ὅσιον ὑπακοῦσαι τὸν λαὸν τὸ Ἀμήν; Ubi conveniens
+erat et sanctum, ut populus responderet Amen? non
+ἐπακοῦσαι, ut audiret. Patet ex eo quod sequitur
+eadem pag. : ἐὰν τοσούτων λαῶν συνελθόντων μία
+γένηται φωνὴ, λεγόντων τῷ Θεῷ τὸ Ἀμήν· ubi ex tot
+tantisque populis in unum congregatis , una vox
+oriatur, dicentium Deo : Amen. COT.
+
+# block=7 source_x1=221 source_y1=161 source_x2=974 source_y2=371
+infinita ac sempiterna sæcula sæculorum. Atque
+omnis populus Amen respondeat. Et dicat episco-
+pus : Pax Dei sit cum omnibus vobis; Cunctusque
+populus respondeat : Et cum spiritu tuo. Ac dia-
+conus iterum prædicet :
+
+# block=8 source_x1=274 source_y1=500 source_x2=906 source_y2=535
+Oratio pro fidelibus post divinam oblationem.
+
+# block=9 source_x1=227 source_y1=2435 source_x2=986 source_y2=2745
+(62) Καὶ ὑπηρεσίας. Desunt in cod. Vind. ac
+sane abesse hinc possunt. Cʟᴇʀ.
+(63) Ὑπ’ ἄλλων παρακαλέσθωσαν. In eodem
+codice ὑπὲρ ἀλλήλων παρακαλέσωμεν. Quod rectius,
+si legas ὑπ’ ἀλλήλων. Iᴅ.
+(64) Τὸ σῶμα. Τὰ σώματα in cod. Vind., quod
+melius. Iᴅ.
+(65) Ὑπακουέτω. Dixi nonnihil supra. Nunc ad-
+jicio emendationem in S. Athanasio, Apologia ad
+
+# block=10 source_x1=1014 source_y1=496 source_x2=1756 source_y2=566
+Προσφώνησις ἐπὶ τῶν πιστῶν μετὰ τὴν θείαν ἀνα-
+φοράν.
+
+# block=12 source_x1=848 source_y1=2350 source_x2=1150 source_y2=2393
+VARIORUM NOTÆ.
+
+# block=13 source_x1=501 source_y1=446 source_x2=692 source_y2=482
+CAPUT XIII.
+
+# block=14 source_x1=633 source_y1=109 source_x2=1351 source_y2=145
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=15 source_x1=1679 source_y1=109 source_x2=1752 source_y2=146
+1108
+
+# block=16 source_x1=217 source_y1=108 source_x2=297 source_y2=154
+1107

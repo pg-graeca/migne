@@ -1,0 +1,206 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,967,1035,1727,1947
+2,173,1030,930,2029
+3,172,514,933,975
+4,966,513,1731,956
+5,174,2123,938,2378
+6,967,2122,1726,2378
+7,175,142,932,354
+8,969,404,1721,507
+9,1237,360,1453,395
+10,1179,2072,1510,2117
+11,172,2404,1710,2475
+12,424,365,670,397
+13,169,2560,923,2704
+14,571,85,1292,125
+15,238,994,860,1028
+16,178,406,926,475
+18,1232,946,1532,983
+19,304,2082,797,2117
+20,418,2039,683,2074
+22,800,2497,1105,2535
+25,177,87,246,126
+27,415,950,687,982
+29,1637,86,1729,126
+30,961,144,1737,324
+31,1043,990,1643,1034
+32,1217,2024,1461,2082
+33,959,2554,1725,2716
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=967 source_y1=1035 source_x2=1727 source_y2=1947
+Eligite autem episcopos dignos Domino, et pre-
+sbyteros, ac diaconos, viros pios, justos, mites, non
+avaros, amantes veritatis, probatos, sanctos, non
+acceptores personarum, qui valeant docere sermo-
+nem pietatis, qui recte secent ac tractent dogmata
+Domini. Vos vero hos honorate ut patres, ut do-
+minos, ut beneficos, ut auctores quod bene estis.
+Arguite etiam vos mutuo, non in ira, sed in æqua-
+nimitate, cum benignitate ac pace. Omnia vobis a
+Domino præcepta servate. Vigilate pro vita vestra.
+« Sint lumbi vestri præcincti, et lucernæ ardentes;
+et vos similes hominibus exspectantibus dominum
+suum, quando veniet, vespere an mane, galli cantu
+an media nocte : qua enim hora non exspectant,
+veniet Dominus : et si ei aperuerint, beati servi
+illi, quia inventi sunt vigilantes : quoniam præ-
+cinget se, et faciet illos discumbere, et transiens
+ministrabit illis ⁸⁰. » Vigilate igitur, et orate ne
+dormiatis in mortem ⁸⁰* : non enim juvabunt vos
+priora recte facta, si in extremis vestris a fide veræ
+aberraveritis.
+
+# block=2 source_x1=173 source_y1=1030 source_x2=930 source_y2=2029
+Προχειρίσασθε δὲ ἐπισκόπους ἀξίους τοῦ Κυρίου,
+καὶ πρεσβυτέρους, καὶ διακόνους, ἄνδρας εὐσεβεῖς ⁷⁹,
+δικαίους, πράεις, ἀφιλαργύρους, φιλαλήθεις, δεδοκι-
+μασμένους, ὁσίους, ἀπροσωπολήπτους, δυναμένους
+διδάσκειν τὸν λόγον τῆς εὐσεβείας, ὀρθοτομοῦντας ἐν
+τοῖς τοῦ Κυρίου δόγμασιν. Ὑμεῖς δὲ τιμᾶτε τούτους
+ὡς πατέρας, ὡς κυρίους, ὡς εὐεργέτας, ὡς τοῦ εὖ
+εἶναι αἰτίους. Ἐλέγχετε δὲ ἀλλήλους, μὴ ἐν ὀργῇ,
+ἀλλ' ἐν μακροθυμίᾳ, μετὰ χρηστότητος καὶ εἰρήνης.
+Πάντα τὰ προστεταγμένα ὑμῖν ὑπὸ τοῦ Κυρίου φυ-
+λάξατε. Γρηγορεῖτε ὑπὲρ τῆς ζωῆς ὑμῶν. « Ἔστω-
+σαν αἱ ὀσφύες ὑμῶν περιεζωσμέναι, καὶ οἱ λύχνοι
+καιόμενοι· καὶ ὑμεῖς ὅμοιοι ἀνθρώποις προσδεχομέ-
+νοις τὸν κύριον ἑαυτῶν, πότε ἥξει, ἑσπέρας ἢ πρωῒ
+(70), ἀλεκτοροφωνίας ἢ μεσονυκτίου· ᾗ γὰρ ὥρᾳ οὐ
+προσδοκῶσιν, ἐλεύσεται ὁ Κύριος· καὶ ἐὰν αὐτῷ
+ἀνοίξωσι, μακάριοι οἱ δοῦλοι ἐκεῖνοι, ὅτι εὑρεθήσαν
+γρηγοροῦντες· ὅτι περιζώσεται, καὶ ἀνακλινεῖ αὐ-
+τοὺς, καὶ παρελθὼν (71) διακονήσει αὐτοῖς. » Νήψατε
+οὖν, καὶ προσεύχεσθε μὴ ὑπνῶσαι εἰς θάνατον· οὐ
+γὰρ ὀνήσει ὑμᾶς τὰ πρότερα κατορθώματα, ἐὰν εἰς
+τὰ ἔσχατα ὑμῶν ἀποπλανηθῆτε τῆς πίστεως τῆς
+ἀληθοῦς.
+
+# block=3 source_x1=172 source_y1=514 source_x2=933 source_y2=975
+Τὴν ἀναστάσιμον τοῦ Κυρίου ἡμέραν, τὴν Κυρια-
+κήν φαμεν, συνέρχεσθε ἀδιαλείπτως, εὐχαριστοῦντες
+τῷ Θεῷ, καὶ ἐξομολογούμενοι ἐφ' οἷς εὐηργέτησεν
+ὑμᾶς (69) ὁ Θεὸς διὰ Χριστοῦ, ῥυσάμενος ἀγνοίας,
+πλάνης, δεσμῶν· ὅπως ἄμεμπτος ᾖ ἡ θυσία ὑμῶν,
+καὶ εὐανάφορος Θεῷ, τῷ εἰπόντι περὶ τῆς οἰκουμενι-
+κῆς αὐτοῦ Ἐκκλησίας, ὅτι « ἐν παντὶ τόπῳ μοι
+προσενεχθήσεται θυμίαμα, καὶ θυσία καθαρά· ὅτι
+βασιλεὺς μέγας ἐγώ εἰμι, λέγει Κύριος παντοκρά-
+τωρ, καὶ τὸ ὄνομά μου θαυμαστὸν ἐν τοῖς ἔθνεσι. »
+ΚΕΦΑΛΑΙΟΝ ΛΑ'.
+
+# block=4 source_x1=966 source_y1=513 source_x2=1731 source_y2=956
+Die resurrectionis Domini, hoc est Dominica,
+convenite assidue, gratias agentes Deo, et confi-
+tentes de beneficiis quæ in vos contulit Deus per
+Christum, liberando ignorantia, errore, vinculis;
+ut sacrificium vestrum sit irreprehensum, et Deo
+acceptum, qui de Ecclesia sua œcumenica, seu per
+totum orbem diffusa dixit : « In omni loco mihi
+offeretur incensum, et sacrificium mundum : quia
+rex magnus ego sum, dicit Dominus omnipotens;
+et nomen meum admirabile in gentibus ⁷⁸. »
+
+# block=5 source_x1=174 source_y1=2123 source_x2=938 source_y2=2378
+Ἐν γὰρ ταῖς ἐσχάταις ἡμέραις πληθυνθήσονται οἱ
+ψευδοπροφῆται καὶ οἱ φθορεῖς τοῦ λόγου· καὶ στρα-
+φήσονται πρόβατα εἰς λύκους καὶ ἡ ἀγάπη εἰς μῖ-
+σος· πληθυνθείσης γὰρ τῆς ἀνομίας, ψυγήσεται ἡ
+ἀγάπη τῶν πολλῶν· μισήσουσι γὰρ ἀλλήλους οἱ ἀν-
+θρωποι, καὶ διώξουσι, καὶ προδώσουσι. Καὶ τότε
+
+# block=6 source_x1=967 source_y1=2122 source_x2=1726 source_y2=2378
+In ultimis enim diebus multiplicabuntur falsi
+prophetæ et corruptores sermonis; et convertentur
+oves in lupos, et charitas in odium : nam multi-
+plicata iniquitate, refrigescet charitas multorum ⁸¹ :
+scilicet homines odio se invicem habebunt, et
+persequentur, et prodent. Ac tunc apparebit orbis
+
+# block=7 source_x1=175 source_y1=142 source_x2=932 source_y2=354
+πᾶσαν ἀπαρχὴν ἄρτων θερμῶν, κεραμίου (68) οἴνου,
+ἢ ἐλαίου, ἢ μέλιτος, ἢ ἀκροδρύων, σταφυλῆς, ἢ τῶν
+ἄλλων τὴν ἀπαρχὴν δώσεις τοῖς ἱερεῦσιν· ἀργυρίου
+δὲ καὶ ἱματισμοῦ, καὶ παντὸς κτήματος, τῷ ὀρφανῷ
+καὶ τῇ χήρᾳ.
+
+# block=8 source_x1=969 source_y1=404 source_x2=1721 source_y2=507
+Quomodo oporteat diem Dominicum, nostri Salva-
+toris resurrectioni dicatum, congregatos, cele-
+brare.
+
+# block=9 source_x1=1237 source_y1=360 source_x2=1453 source_y2=395
+CAPUT XXX.
+
+# block=10 source_x1=1179 source_y1=2072 source_x2=1510 source_y2=2117
+Denuntiatio de futuris.
+
+# block=11 source_x1=172 source_y1=2404 source_x2=1710 source_y2=2475
+⁷⁸ Mal. I, 11, 14.  ⁷⁹ αἰ, εὐλαβεῖς. Sic et cod. Vind.  ⁸⁰ Luc. XII, 35.  ⁸⁰* Marc. XIII, 35.
+⁸¹ Matth. XXIV,
+
+# block=12 source_x1=424 source_y1=365 source_x2=670 source_y2=397
+ΚΕΦΑΛΑΙΟΝ Λ'.
+
+# block=13 source_x1=169 source_y1=2560 source_x2=923 source_y2=2704
+(68) Κεραμίου. I: altero cod. Vind. est κεράμιον,
+minus recte CLER.
+(69) Ὑμᾶς. Alter codex Vindobon. habet ἡμᾶς,
+æque bene, ID.
+
+# block=14 source_x1=571 source_y1=85 source_x2=1292 source_y2=125
+CONSTITUTIONES APOSTOLICÆ. — LIB. VII.
+
+# block=15 source_x1=238 source_y1=994 source_x2=860 source_y2=1028
+Ὅλους εἶναι χρὴ τοὺς χειροτονουμένους.
+
+# block=16 source_x1=178 source_y1=406 source_x2=926 source_y2=475
+Ὅπως χρὴ τὴν ἀναστάσιμον τοῦ Σωτῆρος ἡμῶν
+ἡμέραν συναθροιζομένους ἑορτάζειν.
+
+# block=18 source_x1=1232 source_y1=946 source_x2=1532 source_y2=983
+CAPUT XXXI.
+
+# block=19 source_x1=304 source_y1=2082 source_x2=797 source_y2=2117
+Πρόῤῥησις περὶ τῶν μελλόντων.
+
+# block=20 source_x1=418 source_y1=2039 source_x2=683 source_y2=2074
+ΚΕΦΑΛΑΙΟΝ ΛΒ'.
+
+# block=22 source_x1=800 source_y1=2497 source_x2=1105 source_y2=2535
+VARIORUM NOTÆ.
+
+# block=25 source_x1=177 source_y1=87 source_x2=246 source_y2=126
+1021
+
+# block=27 source_x1=415 source_y1=950 source_x2=687 source_y2=982
+ΚΕΦΑΛΑΙΟΝ ΛΑ'.
+
+# block=29 source_x1=1637 source_y1=86 source_x2=1729 source_y2=126
+1022
+
+# block=30 source_x1=961 source_y1=144 source_x2=1737 source_y2=324
+num calidorum, vini e dolio, aut olei, aut mellis,
+aut fructuum, uvæ, aut aliorum primitias dabis
+sacerdotibus; argenti vero et vestimenti, omnis-
+que possessionis, orphano ac viduæ.
+
+# block=31 source_x1=1043 source_y1=990 source_x2=1643 source_y2=1034
+Quales esse oporteat eos qui ordinantur.
+
+# block=32 source_x1=1217 source_y1=2024 source_x2=1461 source_y2=2082
+CAPUT XXXII.
+
+# block=33 source_x1=959 source_y1=2554 source_x2=1725 source_y2=2716
+(70) Πρωῒ. Addit codex Vind. ἢ, mane, aut galli
+cantu, aut, etc. ID.
+(71) Καὶ παρελθὼν, etc. Hæ et duæ sequentes
+voces desunt in cod. Vindob. ID.

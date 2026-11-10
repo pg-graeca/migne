@@ -1,0 +1,186 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,152,138,911,611
+2,941,149,1701,622
+3,581,84,1248,128
+4,125,735,896,2706
+5,720,658,1048,694
+6,925,716,1695,2710
+7,151,78,213,124
+8,1621,96,1693,136
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=7
+573
+
+# block=3
+CONSTITUTIONES APOSTOLICÆ.-LIB. I.
+
+# block=8
+574
+
+# block=1
+τὸ γινώσκειν σε, καὶ δοξάζειν τὸν Θεὸν, ὅτι ἀπὸ
+τοιούτων καὶ τοσούτων ἐῤῥύσατό σε δεσμῶν. Ἔστω
+δέ σοι πρὸ ὀφθαλμῶν γινώσκειν, τί νόμος φυσικὸς,
+καὶ τί τὰ τῆς Δευτερώσεως (44), τά τε ἐν τῇ ἐρήμῳ
+τοῖς μοσχοποιήσασι δοθέντα· ἐπείσακτα. Νόμος γάρ
+ἐστι, τίνα (45) ἐλάλησε Κύριος ὁ Θεὸς πρὸ τοῦ τὸν
+λαὸν εἰδωλολατρῆσαι καὶ μοσχοποιῆσαι τὸν παρ' Αἰ-
+γυπτίοις Ἄπιν, τουτέστιν (46) ἡ Δευκάλογος· ἃ δὲ
+ἁμαρτήσασιν αὐτοῖς ἐπετέθη δεσμὰ, σὺ σεαυτῷ μὴ
+ἐπισπάσῃ. Ὁ γὰρ Σωτὴρ ἡμῶν οὐ δι' ἕτερόν τι ἦλθεν,
+ἢ ἵνα ῥύσηται τοὺς ὑποδίκους τῆς ἀποκειμένης ὀργῆς,
+
+# block=2
+cognitionis causa lege; ut agnoscas, laudesque
+Deum, quod te talibus tantisque vinculis liberarit.
+Sit autem tibi ante oculos propositum, cognoscere
+quid sit lex naturalis; et quid sint adjuncta illa,
+quæ ad Deuterosim spectant, quæque in eremo con-
+flatoribus vituli data sunt. Lex enim in iis consistit
+quæ antequam populus in idololatriam incideret,
+et vitulum, Apim illum Ægyptiorum, fabricaretur,
+Dominus Deus locutus est; id est, in Decalogo: por-
+ro vincula quæ illis, postquam peccarunt, injecta
+sunt, tu tibi ne attrahas. Salvator quippe noster
+
+# block=5
+VARIORUM NOTÆ.
+
+# block=6
+Pascha, oblationes varias, festa, etc. Quinimo dimit-
+ti præcipiuntur Hebræi ex Ægypto, ut sacrificent ac
+iminolent Deo. Accedit huc inconstantia nostri con-
+stitutoris, quam nemo non perspiciet, si loca illius
+conferre voluerit. Negare tamen non ausim μοσχο-
+ποιΐα factum esse, ut Deus multo pluribus ac du-
+rioribus observationum vinculis ligaverit populum
+contumacem. ID.
+(44) Τῆς Δευτερώσεως. Alter librorum Vindobo-
+nensium, διὰ τῆς Δευτερώσεως, quæ sunt per Deute-
+rosim addita. CLER.
+(45) Τίνα. "A, qua', in iisdem, quod forte jungen-
+dum, hoc modo ἅτινα. ID.
+(46) Καὶ μοσχοποιῆσαι τὸν παρ' Αἰγυπτίοις Ἄπιν,
+τουτέστι. Hæc omnia desunt in Vindobonensibus
+codd. et re ipsa Glossema redolent, quo ostenditur
+quæ fuerit idololatria hic memorata. Traditur idem
+a pseudo-Clemente altero Recognitionum lib. I,
+cap. 35; Lactantio lib. IV, cap. 10; Hieronymo ad
+Osee IV, 15, 16; VII, 14; VIII, 13 (qui etiam de Mnevi
+altero hove Ægyptiorum); Rufino in Amos. v, 25,
+26; et Isidoro Originum lib. vIII, cap. ult. Theophy-
+lactus enarrans Actorum caput VII: μόσχῳ εἰς τόπον
+ὄντι ἑωσφόρου. At Apim soli sacrum fuisse refert
+Macrobius lib. I Saturn., cap. 21; Lunæ, non solus
+Ammianus lib. XXII, ut dictum Salmasio, in Exer-
+citationibus Plinianis, pag. 458, sed etiam Ælianus
+lib. II De natura animalium, cap. 11; Porphyrinus
+apud Eusebiun Præparationis Evangelicæ lib. III,
+cap. 13; Theodorus Græcarum affectionum cura-
+tionis sermone 3, ante medium, et Suidas pag. 514
+in Ἄπις ac Μέμφις. Apud Ælianum vero, libro II
+De natura animalium, cap. 10, Ægyptii Apidi suo
+tribuent viginti novem notas, quæ sidera aliasque
+res significant. Atque de Api scripserunt omnes :
+nemo, quod sciam, correxit depravatissimum locum
+Georgii Cedreni, ubi de gestis Theodosii Magni :
+Τοῦτον τὸν Σάραπιν οἱ μὲν τὸν Δία εἶναι λέγουσιν,
+οἱ δὲ τὸν Νεῖλον, διὰ τὸ τὸν μόδιον ἔχειν ἐν τῇ κε-
+φαλῇ καὶ τὸν πῆχυν. Οἱ δὲ Ἄπιν τινὰ ἄνθρωπον εὔ-
+πορον ἐν Αἰγύπτω γεγονέναι, ὃς ἐν καιρῷ λιμοῦ, ἐκ
+τῶν ἰδίων ἐπήρκεσεν Ἀλεξανδρεῦσιν, ᾧ καὶ τελευ-
+τῶντι ναὸν καὶ στήλην ἀνέστησαν. Καὶ βοῦς αὐτοῦ
+ἐτρέφετο, ὃν καὶ Ἄπιν ἐκάλουν, ὁμωνύμως τῷ δεσ-
+πότῃ. Σύμβολον οὗτος ἦν τοῦ γεωργοῦ· μετωνόμασαν
+δὲ τὸν ἄνθρωπον ἐκεῖνον καὶ Γόρασιν, καὶ Σάραπιν
+τὴν στήλην. Legendum, μετωνόμασαν δὲ τοῦ ἀνθρώ-
+που ἐκείνου καὶ Σάραπιν καὶ Σάραπιν τὴν στήλην·
+uti patet per hæc Nicephori, Hist. eccl. lib. xv,
+cap. 8 : Σέραπις δ᾽ ἐστὶν ὁ Ζεὺς, ἢ ὁ Νεῖλος, ἢ Ἄπις
+τις ἀνὴρ ἐν Μέμφιδι πόλει, ὃς λιμοῦ γενομένου, ἐκ
+τῶν ἰδίων Ἀλεξανδρεῦσιν ἐπήρκεσεν· ᾧ τελευ-
+τήσαντι, νεὼν καὶ στήλην ἱδρύσαντο· ὅπου, δὴ
+καὶ βοῦς ἐπίσημά τινα ἔχων διετρέφετο, εἰς σύμ-
+βολον ὡς εἰκάσαι τῆς γεωργίας, ὃν καὶ αὐτὸν Ἄπιν
+ὁμωνύμως τῷ δεσπότῃ ἐκάλουν. Τὴν δὲ σορὸν τοῦ Ἄ-
+πιδος ἐκείνου τοῦ ἀνθρώπου μεταγαγόντες εἰς τὸν
+ναὸν, Σόραπιν ἐκάλουν αὐτοῦ τὴν στήλην, ἣ καὶ Σέ-
+ραπιν, μεταθέσει τῶν στοιχείων. Cor.
+
+# block=4
+tionem B. Hieronymi, δευτερώσεις, mutat in Deute-
+ronomium. Et Maximus in Scholiis ad Epistolam
+nonam Dionysii, Judaicas Deuteroses et traditio-
+nes per nomen Deuteronomii exprimit : ὅπερ ἡ μὲν
+Γραφὴ οὐ λέγει, οἱ δὲ Ἑβραῖοι ἐν τῷ Δευτερονομίῳ
+ἔχουσιν. Photius autem, dum de Constitutionibus
+apostolicis judicat, respiciendo ad loca de quibus
+agimus, refert opponi libro, quod contra Deutero-
+nomium criminationes quasdam emittat. Ubi admo-
+dum suavem se præstat David Blondellus, qui in
+pseudo-Isidoro pag. 36, suspicatur pro κατὰ τοῦ
+Δευτερονομίου legendum κατὰ τοῦ δευτέρου γάμου.
+Consule quod observavi paulo antea. Jam relatæ
+Auctoris nostri sententiæ favet Chrysostomus orat.
+2, adversus Judæos, et homil. 17 in Acta apostolo-
+rum. Si quidem priori in loco docetur, quod post
+festum dæmonibus celebratum Deus Judæis permi-
+serit sacrificia ; in posteriori ( quem parte descri-
+bunt OEcumenius ac Theophylactus) quod idolola-
+triam in deserto cum victimis peractam secuta sint
+sacrificia Deo oblata, et præcepta cærimonialia. Favet
+qui sub Chrysostomi nomine interdum latet auctor
+Operis imperfecti in Matthæum, dum ad cap. 8, vers.
+5, et ad cap. XI, vers. 11 et 30, ponit legem levem
+et justam, id est, Decalogum ante idolum vituli
+fabricatum; et legem gravem, inimitem, superbam,
+atque observatu impossibilem, dictatam a Deo irato,
+postquam populus vitulum adorasset, in pœnam
+commissæ idololatriæ, ab eodem autem placato merito
+rescissam. Favet quoque Lactantius, quia dicit
+lib. IV, cap. 10, a Deo idololatriæ scelere offenso Ju-
+dæos legi, quam per Moysem dederat, fuisse subju-
+gatos. Quibus adde Hieronymum ad Jeremiæ VII,
+22: Manifeste, inquit, intelligitur quod primum De-
+calogum dederit in tabulis lapideis, scriptum digito
+Dei; et post offensam idololatriæ caputque vituli, post-
+ea jusserit sibi magis fieri-quam dæmonibus; aufe-
+rens puram religionem mandatorum Dei, et concedens
+et sanguinem victimarum, carniumque desiderium.
+In Ezech. xx, 23, etc. Potest et hoc dici, quod ante
+offensam, Decalogum tantum acceperint, post idolola-
+triam vero et blasphemiam, multiplices legis cære-
+monias. Quod loci sacri interpretatio Theodoriti
+cum Hieronymiana concordat. Denique Photius vi-
+detur excusare apostolicas Diataxes. Mitto enim Jus-
+tinum, qui colloquens cum Tryphone (p. 263)
+agnoscit tantum in lege Mosaica τὰ φύσει καλὰ, καὶ
+εὐσεβῆ καὶ δίκαια, τὰ καθόλου καὶ φύσει καὶ αἰώνια,
+καλὰ et τὰ πρὸς σκληροκαρδίαν τοῦ λαοῦ διαταχθέντα :
+itemque Irenæum, ex cujus sententia lib. IV, cap.
+27, dividitur lex in naturalia et libertatis decreta,
+atque in vincula servitutis; necnon Anastasii Abba-
+tis dictum tom. III Antiquæ lectionis Henrici Cani-
+sii, sacrificia Judæis permussa non fuisse, nisi post-
+quam dæmoniis sacrificarunt. Verum non obstante
+horum auctoritate, compertum habetur ex veritate
+divinorum eloquiorum, ante vitulum conflatum et
+cultum, præceptos fuisse eodem modo quo postea,
+multos legales ritus, circumcisionem, sacrificia,

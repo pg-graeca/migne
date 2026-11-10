@@ -1,0 +1,192 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,996,1685,1745,1982
+2,206,1161,957,1678
+3,993,1991,1748,2287
+4,992,853,1754,1675
+5,996,371,1745,538
+6,991,2297,1742,2463
+7,206,2025,966,2323
+8,206,154,969,1151
+9,996,240,1746,363
+10,995,633,1746,756
+11,1021,2506,1485,2696
+12,995,547,1741,627
+13,997,763,1745,843
+14,1058,154,1743,235
+15,208,1752,957,2006
+16,239,1698,794,1733
+18,207,2501,950,2708
+19,212,2332,957,2460
+20,782,98,1146,136
+22,182,88,302,142
+23,1620,96,1758,142
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Hugo Grotius (36) non simulatæ vetustatis indicia
+in epistola nostra reperiri contendit : De Christo
+semper loquitur, non ut posteriores πλατωνικώτερον,
+sed simpliciter plane, et ut Paulus Apostolus solet.
+Alia quoque dogmata, postea subtilius explicata, tra-
+ctat ἀφελέστερον, et vocibus κλήσεως, κλητῶν, ἐκλε-
+κτῶν, sensu plane Paulino utitur.
+
+# block=2
+Quod Bernardi et Clerici attinet argumentationem,
+bene Wottonus (33) ita disserit : Irriti tamen sunt
+hujus conatus. Qui enim hoc modo ex Clemente
+Alexandrino arguit, aut eum non probe novit, aut
+mala fide agit. Eadem enim ratione actum erit de au-
+thentia et fide eorum omnium, qui a Clemente Alexan-
+drino usquam citantur, scriptorum. Nemo enim Pa-
+trum majore licentia usus est in citandis auctoribus,
+sive sacris, sive ethnicis; cum ei in more sit, non in-
+tegra auctorum verba semper recitare, sed pro arbi-
+trio suo nunc contrahere, nunc de suo inserere, alia
+omittere, alia variis modis mutare.
+
+# block=3
+. VII. Magna fuit apud veteres epistolæ nostræ au-
+ctoritas, quam Irenæus ἱκανωτάτην γραφήν (37), Eu-
+sebius μεγάλην τε καὶ θαυμασίαν (38) appellat. Pu-
+blice eam, præsertim diebus Dominicis, in nonnul-
+lis Ecclesiis fuisse prælectam, Dionysius Corinthius
+(39), Eusebius (40), Hieronymus (41), et Photius (42)
+testantur.
+
+# block=4
+VI. Recentiorum temporum viri docti et authen-
+tiam et integritatem primæ Clementis epistolæ ad
+unum omnes agnoscunt, et nulla jam gravior dubi-
+tatio hac de re movetur. Quem enim lateat primæva
+simplicitas, qua ornatur, evangelica sapientia, qua
+excellit, apostolica prædicatio, quam sonat hæc Cle-
+mentis epistola? Nonne viro apostolico ea se præ-
+bet dignissimam? Omnia sane ei authentiæ indicia
+adsunt. Audi Wottonum (34) : In illa, inquit, non
+violatur temporis ratio, nihil contra (antiquam) Ec-
+clesiæ disciplinam instituitur; nihil contra doctri-
+nam Christianam præcipitur ; stylus ac dicendi me-
+thodus proxime accedunt ad Novum Testamentum,
+neque aliquid, quod non est maxime viro apostolico
+dignum, in ea reperitur. Et alio loco (35) : Illa vis et
+ἐνέργεια divina ubique in eo (Clemente) refulget, quæ
+suo fulgore percellit animum legentis; adeo, ut pæne
+dicam, Spiritum Dei, non hominem in eo loquentem
+sentias.
+
+# block=5
+(ε) Porro nonnulla capita, Moshemio displicentia,
+jam a Veteribus laudantur et citantur, e. g. c.
+LIV ab Origene in Joann. 1, 29 ; c. XXV a Cy-
+rillo Hieros. Catech. 18, 8.
+
+# block=6
+Minoris eam Photius ipse æstimabat, quod Cle-
+mens mundos trans oceanum existere supponeret
+(c. 20), phœnicis avis exemplo tanquam verissimo
+uteretur (c. 25), quodque Pontificem Præsidemque
+
+# block=7
+(β) Nec capita XXIII—XXVIII a consilio Clementis
+remota sunt. Resurrectionis enim Clemens aut
+ideo meminit, quia teste I Cor. 15, 12, nonnulli
+Corinthiorum resurrectionem mortuorum ne-
+gabant ; aut ideo , ut ea, quæ Noster c. 21 et
+22 de pœnis improborum dixerat , probaren-
+tur.
+
+# block=8
+enim in epistola nostra multa proferri videntur,
+quorum nulla est cum consilio, Corinthios ad con-
+cordiam vocandi, cognatio. Priora, inquit, decem
+capita quædam habent vestigia manus fallacis, sed
+non ita multa : persequitur auctor constanter consi-
+lium suum. At capite XI et XII ad fidem et hospi-
+tualitatem commendandam accedit, in quo nulla plane
+apparet cohærentia cum præcedentibus. Quocirca pa-
+rum abest, quin hæc capita existimem intrusa esse.
+Redit ad institutum Clemens capite XIII, et in eo
+pergit ad c. XXII. Hoc vero capite repente, nulla ip-
+sum ratione invitante, ad argumentum longe aliud pro-
+perat, ad resurrectionem corporum mortuorum, de
+qua ad caput usque XXVIII disserit. Capite XXVIII
+instituti sui recordari videntur iterum; atque hujus ca-
+pitis initium bene concinit fini capitis XXI, difficilli-
+me vero cum exitu capitis XXVII jungi potest. Qua-
+propter quæ de cadaverum in vitam reditu præcipiun-
+tur sex capitibus, subjecta videntur esse Clementi...
+Neque melius existimo de capitibus XL — XLV et de
+capite LV quibus ea legas, quæ nulli potuerunt in
+mentem venire nisi homini, rei quam agit, prorsus
+immemori.
+
+# block=9
+(δ) Caput denique LV nil nisi exempla ejus chari-
+tatis profert, de qua capite antecedenti verba
+fiebant.
+
+# block=10
+(η) Quum epistola Clementis publice in Ecclesiis
+prælegeretur, vix fieri poterat, ut ab homine
+improbo fœdaretur.
+
+# block=11
+(38) H. E. III, 16.
+(39) Apud Euseb. H. E. IV, 33.
+(40) H. E. III, 16.
+(41) Catal. script. eccl. c. 15.
+(42) Biblioth. cod. cxiii.
+
+# block=12
+(ζ) Omnia capita in dubium vocata in antiquissi-
+mo illo codice Alexandrino reperiuntur.
+
+# block=13
+(θ) Styli ac orationis diversitas nullibi in epistola
+nostra est reperienda.
+
+# block=14
+Clementis respondent, simulque arctissime cum
+capitibus 37 et 38 cohærent.
+
+# block=15
+(α) Capp. XI et XII epistolæ nostræ cum antece-
+dentibus bene cohærent, quippe quæ eamdem
+cum his materiam tractent, invidiæ Corinthio-
+rum exempla hospitalitatis, pietatis et fidei op-
+ponant, simulque pœnas dissensionis (c. XI)
+ostendant.
+
+# block=16
+Moshemio denique ita respondeamus
+
+# block=18
+(33) In Notis ad I Clem., c. 9.
+(34) Præf. p. ccvi.
+(35) In Dedicat.
+(36) In Epist. ad Bignonium, apud Coteler., ed.
+Patr. apost., t. I, p. 134. (Supra, col. 47.)
+(37) Adv. hær., III, 3.
+
+# block=19
+(γ) Capita XL—XLV aperte id agunt, ut Corinthios,
+contra clerum rebellantes , ad concordiam et
+subjectionem revocarent. Optime igitur consilio
+
+# block=20
+PROOEMIA VARIORUM.
+
+# block=22
+193
+
+# block=23
+194

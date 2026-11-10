@@ -1,0 +1,212 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,222,124,995,2705
+2,241,75,307,121
+3,716,75,1303,123
+4,1014,132,1790,2708
+5,1686,82,1786,124
+6,1564,2702,1630,2754
+7,352,2700,652,2754
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=222 source_y1=124 source_x2=995 source_y2=2705
+CAP. XVI. — Enumeratio prædictionum propheticarum,
+quæ Christum prædicant; quarum eventum Judæi intuiti,
+propter malevolentiam eum esse Christum Dei non cre-
+diderunt, et ad crucem Dominum gloriæ condemnaverunt.
+885
+CAP. XVII. — Quomodo Pascha debeat celebrari. 887
+CAP. XVIII. — Constitutio de magna hebdomade Paschæ.
+890
+CAP. XIX. — De privilegio magni Sabbati; et de die
+resurrectionis. 891
+CAP. XX. — Prædictio prophetiæ de Christo Jesu. 895
+LIBER SEXTUS. — De schismatibus. 910
+CAP. I. — Quinam schismata ausi facere, non effuge-
+runt supplicium. 910
+CAP. II. — Quod neque regno, neque sacerdotio fas sit
+insurgere. 911
+CAP. III. — De virtute Moysis, et de infidelitate gen-
+tis Judaicæ, et de miraculis quæ Deus per illum edi-
+dit. 914
+CAP. IV. — Quod schisma facit, non qui separat se ab
+impiis, sed qui a piis abscedit. 914
+CAP. V. — Qua de causa rejectus fuerit qui falso nomi-
+natur Israel, demonstratio ex propheticis prædictio-
+nibus. 915
+CAP. VI. — Quod etiam apud Judæos exstiterit diver-
+sarum hæresium odiosa Deo doctrina. 918
+CAP. VII. — Unde prodierint hæreses, et quis fuerit
+impietatis earum dux et auctor. 919
+CAP. VIII. — Quinam successerint impietati Simonis et
+quas hæreses induxerint. 925
+CAP. IX. — Quomodo Simon cum quibusdam præ-
+stigiis valore instituisset, precibus Petri ex alto
+deorsum præcipitatus, fregit pedum et manuum extremi-
+tates. 930
+CAP. X. — Quomodo hæreses et inter se et a veritate
+discrepent. 931
+CAP. XI. — Enarratio apostolicæ prædicationis. 935
+CAP. XII. — Contra eos qui Christianæ religioni cum
+assentiantur, volunt tamen Judaicos ritus observare.
+939
+CAP. XIII. — Quomodo oporteat separari ab hære-
+ticis. 943
+CAP. XIV. — Qui prædicarint catholicam doctrinam, et
+quæ sint illorum præcepta. 946
+CAP. XV. — Quod nec oporteat rebaptizare; nec reci-
+pere baptismum ab impiis collatum, qui non est bapti-
+smus, sed inquinamentum. 947
+CAP. XVI. — De libris falso inscriptis. 950
+CAP. XVII. — Conjugalia præcepta de clericis. 955
+CAP. XVIII. — Cohortatio, invitans ad fugiendam im-
+piorum hæreticorum communionem. 958
+CAP. XIX. — Contra improbantes legem. 962
+CAP. XX. — Quæ sit lex naturalis, et quæ invectitia, et
+quam ob causam invecta fuit. 965
+CAP. XXI. — Quod simus sub gratia, non autem sub
+servitute legis inductæ, qui in Christum credimus. 967
+CAP. XXII. — Quod adcititia erat lex de sacrificiis,
+quam Christus adveniens sustulit. 967
+CAP. XXIII. — Quomodo Christus fuerit perfector
+legis; et quænam ex ea aboleverit, aut mutarit, aut
+transtulerit. 971
+CAP. XXIV. — Quod placuit Domino, etiam per Roma-
+nos, legem justitiæ demonstrari. 974
+CAP. XXV. — Quod Deus Judæos, propter impieta-
+tem in Christum, ad captivitatem redactos, tributo subje-
+cerit. 974
+CAP. XXVI. — Quod oporteat fugere hæreticos, ut ani-
+marum perditores. 975
+CAP. XXVII — De observationibus Judaicis ac ethni-
+cis. 979
+CAP. XXVIII. — De nefando amore puerorum, adulte-
+rio et fornicatione. 983
+CAP. XXIX. — Quomodo oporteat mulieres subjectas,
+esse viris suis, et viros diligere uxores suas. 986
+CAP. XXX. — Quod Judæis et gentilibus consuetudo
+sit una observare naturales purgationes, et mor-
+tuorum reliquias abominari; a Christianis vero alic-
+num. 987
+LIBER SEPTIMUS. — De ratione vitæ, actione gratia-
+rum, et Christiana initiatione. 993
+CAP. I. — Quod duæ sint viæ : una vitæ, naturalis;
+altera mortis, adscititia : et quod illa quidem ex Deo
+est; hæc vero ex depravatione, secundum insidias ad-
+versarii. 995
+CAP. II. — Morales admonitiones Dominicarum consti-
+tutionum, concordantes cum antiqua exhortatione divina-
+rum legum. Interdictio iræ, homicidii, abominandæ Ve-
+neris, adulterii, omnisque vetitæ actionis. 998
+
+# block=2 source_x1=241 source_y1=75 source_x2=307 source_y2=121
+1481
+
+# block=3 source_x1=716 source_y1=75 source_x2=1303 source_y2=123
+QUÆ IN HOC TOMO CONTINENTUR.
+
+# block=4 source_x1=1014 source_y1=132 source_x2=1790 source_y2=2708
+CAP. III. — Interdictio magicarum artium, interfectie-
+nis filiorum, perjurii, falsi testimonii. 999
+CAP. IV. — Interdictio maledicentiæ, iræ permanen-
+tis, moris subdoli, otiosi sermonis, mendacii, fraudis, si-
+mulationis. 1002
+CAP. V. — Interdictio malignitatis, acceptionis perso-
+narum, iræ, odii erga homines, invidiæ. 1002
+CAP. VI. — De arte augurali, incantatione, etc. 1003
+CAP. VII. — Interdictio murmurationis, pervicaciæ, su-
+perbiæ, feritatis. 1005
+CAP. VIII. — De longanimitate, innocentia, mansuetu-
+dine, patientia. 1006
+CAP. IX. — Quod oporteat doctrinæ Christi magistros
+pluris ducere quam parentes : illi siquidem, bene esse .
+hi vero esse tantum præstant. 1006
+CAP. X. — Quod non oporteat disjungere se a sanctis,
+sed pacificare contendentes, et judicare juste, et personas
+non accipere. 1006
+CAP. XI. — De homine duplicis animi, seu modicæ
+fidei. 1006
+CAP. XII. — De beneficentia. 1007
+CAP. XIII. — Quales se exhibere debeant famulis
+domini, et quomodo oporteat famulos esse subjectos.
+1007
+CAP. XIV. — De hypocrisi, et legum observantia, et
+confessionibus. 1007
+CAP. XV. — De cultu erga parentes. 1007
+CAP. XVI. — De subjectione erga regem et magistra-
+tus. 1010
+CAP. XVII. — De munda conscientia precantium. 1010
+CAP. XVIII. — Quod via quæ ex insidiis adversarii
+ascita fuit, impietate ac iniquitate sit plena. 1010
+CAP. XIX. — Quod non oporteat a pietate declinare
+dextrorsum vel sinistrorsum, admonet legislator. 1010
+CAP. XX. — Quod non oporteat improbare cibum quem-
+libet usui accommodatum, sed cum gratiarum actione et
+ordinate sumere. 1011
+CAP. XXI. -- Quod oporteat abstinere ab esu idolothy-
+torum. 1011
+CAP. XXII. — Constitutio Dominica, quomodo oporteat
+baptizare, et in cujus mortem. 1011
+CAP. XXIII. — Quibus diebus hebdomadis jejunan-
+dum sit, et quibus non jejunandum; et cujus rei gratia.
+1014
+CAP. XXIV. — Quales esse oporteat eos qui orant a
+Domino traditam orationem. 1015
+CAP. XXV. — Gratiarum actio sacramentalis. 1015
+CAP. XXVI. — Gratiarum actio super divina commu-
+nione. 1018
+CAP. XXVII. — Gratiarum actio pro mystico et sacra-
+mentali unguento. 1019
+CAP. XXVIII. — Quod non oporteat indifferenter ad
+communionem admittere. 1019
+CAP. XXIX. — De oblationibus constitutio. 1019
+CAP. XXX. — Quomodo oporteat diem Dominicum
+nostri Salvatoris resurrectioni dicatum, congregatos cele-
+brare. 1022
+CAP. XXXI. — Quales esse oporteat eos, qui ordinan-
+tur. 1022
+CAP. XXXII. — Denuntiatio de futuris. 1022
+CAP. XXXIII. — Oratio variam providentiam prædicans.
+1025
+CAP. XXXIV. — Oratio variam creationem prædicans.
+1026
+CAP. XXXV. — Oratio cum gratiarum actione prædicans
+Dei erga creaturas sollicitudinem. 1027
+CAP. XXXVI. — Oratio commemorans incarnationem
+Christi, et variam erga sanctos providentiam. 1031
+CAP. XXXVII. — Oratio continens memoriam provi-
+dentiæ, ac enumerationem variorum beneficiorum, quæ
+Dei providentia sanctis collata sunt per Christum. 1034
+CAP. XXXVIII. — Oratio pro ope justis allata. 1035
+CAP. XXXIX. — Quomodo oporteat catechumenos in-
+stitui. 1038
+CAP. XL. -- Constitutio, quomodo oporteat catechume-
+nos a sacerdotibus in initiatione benedici, et quænam
+eos doceri conveniat. 1042
+CAP. XLI. — Renuntiatio in adversarium, et ascriptio
+ad Christum Dei. 1042
+CAP. XLII. — De unctione olei mystici actio gratiarum.
+1045
+CAP. XLIII. — Gratiarum actio de mystica aqua. 1045
+CAP. XLIV. — De mystico unguento actio gratiarum.
+1046
+CAP. XLV. Oratio recenter initiatorum. 1047
+CAP. XLVI. Quosnam sancti apostoli miserunt et ordi-
+narunt. 1047
+CAP. XLVII. — Oratio matutina. 1055
+
+# block=5 source_x1=1686 source_y1=82 source_x2=1786 source_y2=124
+1482
+
+# block=6 source_x1=1564 source_y1=2702 source_x2=1630 source_y2=2754
+47
+
+# block=7 source_x1=352 source_y1=2700 source_x2=652 source_y2=2754
+PATROL. GR. I.

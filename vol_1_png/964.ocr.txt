@@ -1,0 +1,209 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,188,494,954,1218
+2,202,1808,957,2106
+3,1001,2140,1755,2405
+4,202,1231,955,1477
+5,193,1608,962,1807
+6,995,1609,1756,1942
+7,1004,2541,1760,2672
+8,996,1942,1757,2139
+9,206,149,958,486
+10,991,703,1739,1500
+12,204,2113,967,2715
+13,828,1533,1139,1567
+16,598,89,1319,124
+17,207,91,281,124
+19,1676,90,1752,123
+23,1003,2407,1758,2540
+24,994,146,1753,694
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=19 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=19
+1328
+
+# block=17
+1327
+
+# block=24
+quoniam difficile erat humanum genus ab amore
+Dei abstrahi, et ad surda atque exanima simulacra
+deduci, idcirco excelsioribus usi sunt magi moli-
+tionibus, ut astrorum signis ac motibus tanquam
+cœlitus et voluntate Dei delatis, ad suadendos
+cultus erraticos verterentur. Et ejus quem supra
+diximus indignatione dæmonis, cui nimis molestus
+fuerat conflagrasse, busti cineres (13), tanquam
+fulminei ignis reliquias colligentes hi, qui erant
+primitus decepti, deferunt ad Persas, ut ab eis
+tanquam divinus e cœlo lapsus ignis, perpetuis
+conservaretur excubiis, atque ut cœlestis Deus co-
+leretur.
+
+# block=9
+quenter intentus (9), et volens apud homines videri
+Deus, velut scintillas quasdam ex stellis producere
+et hominibus ostentare cœpit, quo rudes atque
+ignari in stuporem miraculi traherentur, cupiens-
+que augere de se hujusmodi opinionem, sæpius ista
+moliebatur usquequo ab ipso dæmone, quem im-
+portunius frequentabat, igni succensus concre-
+maretur.
+
+# block=1
+XXVIII. Sed stulti homines qui tunc erant, cum
+debuissent utique opinionem, quam de eo con-
+ceperant abjicere, quippe quam pœnali morte ejus
+viderant confutatam, in majus eum extollunt. Ex-
+structo enim sepulcro ad honorem ejus, tanquam
+amicum Dei ac fulminis ad cœlum vehiculo sub-
+levatum, adorare ausi sunt et quasi vivens
+astrum colere. Hinc enim et nomen post mortem
+ejus Zoroaster, hoc est vivum sidus (10), appella-
+tum est ab his, qui post unam generationem Græcæ
+linguæ loquela fuerant repleti. Hoc denique exem-
+plo etiam nunc multi eos qui fulmine obierint, se-
+pulcris honoratos tanquam amicos Dei colunt (11).
+Hic ergo cum quartadecima generatione cœpisset,
+quintadecima defunctus est, in qua turris ædifi-
+cata est, et linguæ hominum multipliciter divisæ
+sunt.
+
+# block=10
+XXX. Simili exemplo (14) etiam per cætera loca
+reliqui homines his, quos vel in artibus aliquibus
+vel in virtute fuerant admirati, vel certe in amore
+plurimo habuerant, templa construere, imagines
+collocare, mysteria et cæremonias ac sacrificia in-
+stituere (15), et per omnia deorum de his famam
+posteris tradere gestierunt, eo præcipue quod ut
+supra diximus, phantasiis aliquibus magicæ artis
+fulti videbantur, ut invocatione dæmonum agi ab
+his aliquid ad deceptionem hominum moverique
+videretur. His adjiciunt et solemnitates quasdam
+ac temulenta convivia, quibus et homines libentius
+indulgerent, et dæmones crapulis tanquam vehi-
+culis illati, ipsis eorum visceribus miscerentur, in
+quibus collocati ad omnem voluntatem suam actus
+hominum cogitationesque deflecterent. Hujusmodi
+igitur ex initio erroribus introductis, eisque libidine
+et temulentia, qua carnales homines maxime dele-
+
+# block=4
+XXIX. Inter quos primus magica nihilominus
+arte quasi corusco ad eum delata, rex appellatur
+quidam Nemrod, quem et ipsum Græci Ninum voca-
+verunt, ex cujus nomine Ninive civitas vocabulum
+sumpsit (12). Sic ergo diversæ et erraticæ super-
+stitiones ab arte magica initium sumpsere. Etenim
+
+# block=13
+COTELERII NOTÆ.
+
+# block=5
+Prodici, cum loco Porphyrii in Vita Plotini de libro
+adulterino Zoroastris nomine inscripto apud Gno-
+sticos. Addo ex recenti lectione, in Dictionario
+Latino-Persico, p. 6, mentionem fieri Exegeseos
+libri Zind dicti, quo religionis magicæ seu colendi
+ignis præcepta tradidit Zoroastres.
+
+# block=6
+natis : Λαμπρὰ δὲ ἱμάτια αὐτοῖς περιτίθεται, ὡς ὑπὸ
+Διὸς τετιμημένοις. Splendida autem vestimenta eis
+circumdantur, velut honore a Jove affectis; et multis
+interpositis : Οὐδεὶς κεραυνωθεὶς ἄτιμός ἐστιν· ὅθεν
+γε καὶ ὡς θεὸς τιμᾶται. Nullus fulmine ictus infamis
+et ignominiosus exsistit: unde etiam velut deus coli-
+tur. Festus : Pullus Jovis dicebatur Q. Fabius, cui
+Eburno cognomen erat propter candorem, quod ejus
+natis fulmine icta erat. Antigui autem puerum, quem
+quis amabat, pullum ejus dicebant.
+
+# block=2
+(9) "Hic ergo astris multum ac frequenter inten-
+tus, etc. De Zoroastreo igne varii varia. Dio Chry-
+sostomus, orat. 36; Nicolaus Damascenus in
+Collectaneis Constantini Porphyrogenitæ; Ammia-
+nus Marcellinus lib. XXIII; auctor Clementinorum,
+hom. 9, cap. 3, seq.; Arnobius lib. 1; qui Chroni-
+cum a Radero editum composuit p. 88; Gregorius
+Turonensis Historiarum lib. I, cap. 5; Suidas in
+Zoroastre; Cedrenus, p. 13, et Glycas, p. 129.
+
+# block=8
+(12) Græci Ninum vocaverunt, etc. Si jungatur
+iste locus cum illo Clementinorum in Chronici
+Alexandrini p. 64, dicetur, Assyrios, ac postea
+Græcos, Nemrodum nomine Nini appellasse ; ex eo
+autem nomine dictam fuisse urbem Niniven, quam
+Assur condidit.
+
+# block=12
+(10) Zoroaster, hoc est vivum sidus. Gregorius
+Turonensis pari modo interpretatur, viventem stel-
+lam. Apud Laertium autem in Proœmio, Dinon
+Historiarum lib. V : Ἀστροθύτην, astrorum sacri-
+ficulum. In Clementinis, IX, 5 : Ἀστροάστης, διὰ τὴν
+τοῦ ἀστέρος κατ' αὐτοῦ ζῶσαν ἐνεχθῆναι ῥοήν. Millio
+recentiores, qui more majorum in hujusmodi no-
+minum explicationibus, re omnino incerta, mirum
+quantum sibi indulgeant. Consulere potes Scalige-
+rum ad Eusebii Chronologica, ubi de Zoroastre;
+Croium in quædam loca Origenis, Irenæi, Tertul-
+liani et Epiphanii, p. 31, illiusque antagonistam
+Petavium Appendicis ad Synesianas notas cap. 4;
+Salmasium De lingua Hellenistica p. 368; et Bo-
+chartum, Geographiæ sacræ parte I, lib. IV, cap. 1.
+Vid. et Thomam Hyde in Hist. vet. Persar. CLER.
+(11) Tanquam amicos Dei colunt. In Clementinis,
+ὡς θεοφιλεῖς. Artemidorus lib. II, cap. 8, De fulmi-
+
+# block=3
+(13) Bunti cineres, tanquam fulminei ignis reli-
+quias, etc. De superstitione Persarum erga Zoroa-
+stris reliquias et ignem e cœlo lapsum, præter Re-
+cognitiones et Clementina, Chronicum Alexandr.,
+p. 88, 94; Suidas in Zoroastre; Cedrenus, p. 15,
+18; Glycas, p. 129, 140; Tzetzes, Histor. Chil. III,
+cap. 66; et Ammianus Marcellinus, Rerum gestarum
+lib. XXIII, edit. Vales., p. 253.
+
+# block=23
+(14) Simili exemplo, etc. Victorinus Massiliensis,
+lib. III Commentariorum in Genesim, a Nemrodo
+filium unicum amissum, statua, aris et divinis ho-
+noribus donatum fuisse canit.
+
+# block=7
+(15) Sacrificia instituere. Ridicule in Cedreno,
+ubi de Cecrope, ediderunt, οὗτος πρῶτος βοῦν ἐθαύ-
+μασε, pro ἐθυσίασε, vel quemadmodum apud Euse-
+bium, ἔθυσε.

@@ -1,0 +1,163 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,181,1940,938,2673
+2,979,1001,1733,1469
+3,973,1941,1740,2677
+4,183,1261,938,1557
+5,184,134,941,1253
+6,976,1475,1731,1556
+7,975,132,1736,990
+8,488,1683,1433,1751
+9,564,1809,1337,1871
+10,782,76,1153,112
+12,178,58,246,120
+13,1668,64,1740,116
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=33px centerRows=true
+# block=9 fontSize=28px centerRows=true
+# block=10 fontSize=16px
+# block=12 fontSize=16px
+# block=13 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+53
+
+# block=13
+54
+
+# block=10
+PROOEMIA VARIORUM.
+
+# block=7
+deprehendas quod Photius notavit, nempe νουθε-
+σίαν καὶ παραίνεσιν κρείττονος βίου, καὶ ἐν
+ἀρχῇ τὸ κήρυγμα Χριστοῦ τοῦ Θεοῦ. Solam,
+nimirum, illam primam cum omni antiquitate
+germanam agnosco : alteram non item, etsi
+sit vetusta, et longe melioris notæ, atque sunt
+illæ quæ vulgo apud Latinos Clementis nomine cir-
+cumferuntur. Et vero nonnisi unicam a Clemente
+epistolam profectam esse, reliqua vero omnia, quæ
+sive Constitutionum apostolicarum, sive Recognitio-
+num, sive Epistolarum nomine veniunt, mentiri
+auctorem, vel illud unum pro sufficiente est argu-
+mento, quod S. Irenæus nonnisi unicam illam lau-
+det in veritatis catholicæ testimonium, dum stu-
+diose oppugnat hæreses, episcoporum Romanorum
+consensu. Imo tanti est roboris illa Irenæi com-
+mendatio, ut par sit reliquorum etiam episcoporum
+Romanorum ejus ævi epistolis, quas Isidorus Mer-
+cator edidit, falsi convincendis. Quod ulcus tangere
+non est hujus instituti.
+
+# block=5
+dico numerari non alios quam episcopos et diaco-
+nos, episcopi nomine omnes presbyteros compre-
+hendente : secus quam infra apostolica et aposto-
+licis viciniora tempora obtinuit. Huic uni ætati
+etiam congrua est sacrificiorum celebratio in Hie-
+rosolymitano templo, cujus hæc Epistola meminit.
+Multa alia non simulatæ vetustatis indicia conges-
+sit Hugo Grotius, vir summus, epistola quadam ad
+Hieronymum Bignonium, quæ in libro Epistolar.
+ad Gallos est CLIV : quæ non possum non pro-
+bare : nisi in eo erraverit ille ὁ πάνυ, quod neget
+Clementem aliquid ex Evangeliis, quæ appellamus,
+adduxisse, cum tamen ex S. Lucæ cap. VI verba
+Domini nostri sint repetita. Satis vero vel illa a
+nobis allata sunt paria vindicandæ suæ dignitati illi
+nostræ epistolæ : eoque nihil attinet plura in con-
+firmationem nunc producere. Et sane tibi quidem,
+mi Madere, fortasse satis est id, quod nemine ad-
+versante omnes omnino, penes quos hodie criticæ
+regnum est, Epistolam hanc ut germanam admit-
+tant. Quidni enim tuto sequaris hac in re Grotios,
+Salmasios, Calixtos, Horneios, Vossios, Rivetos,
+Blondellos, Seldenos, Petavios, Patricios, aliosque
+censores librorum exactissimos? Præsertim si nemo
+doctior dissentiat, ut hic dissentit, quod sciam,
+nemo.
+
+# block=2
+Ut redeam igitur ad epistolæ hujus meæ initium,
+laudabilem profecto operam præstas bono publico,
+vir doctissime, aurea illa primitivæ Ecclesiæ mo-
+numenta, variora inventu hisce in oris et paucis
+lecta, nostris typis publicans. Non possum sane
+ego non tibi auctor esse, in illo instituto strenue
+pergendi. Ejusmodi utique scripta volvere, longe
+præstabilius utiliusque est, quam rixosis, imo con-
+tumeliosis libellis legendis tempus terere, quales
+hæc nostra ætas æterna cum infamia edit passim
+plurimos.
+
+# block=4
+Loquor vero, uti novisti, tantum de Epistola illa
+prolixiore ad Corinthios, non de altera ista, cujus
+fragmentum itidem publicavit Patricius ille Junius.
+Quanquam et hanc existimem esse illam Photio le-
+ctam, imo illam cujus Eusebius, Hieronymus, et alii
+meminerunt, ut Clementi quidem auctori tributæ,
+sed perperam. Utique enim in hoc ipso fragmento
+
+# block=6
+Vale, mi Madere, et salve plurimum. Helmesta-
+dii in Acad. Julia 1654, VI Kal. Decembr.
+
+# block=8
+JOACHIMI JOANNIS MADERI
+
+# block=9
+AD LECTOREM PRÆFATIO.
+
+# block=1
+Properat ad te, Lector benevole, hæc Clementis ad
+Corinthios epistola ἱκανωτάτη καὶ θαυμασία, juxta Ire-
+næum et Eusebium, multis jam sæculis desiderata.
+Luci illam non ita pridem donavit rursum vir cla-
+rissimus Patricius Junius, serenissimi, heu quon-
+dam! Britanniarum regis bibliothecarius, cui
+propterea maximas certe gratias debemus. Quantæ
+vero apud veteres fuerit auctoritatis, tot tibi illo-
+rum, quos deinceps exhibemus, suggerunt testi-
+monia; quæ una cum aliis propheticis apostolicis-
+que scriptis legi olim in quibusdam Ecclesiis soli-
+tam, fidem faciunt, itidemque de causa scriptionis
+et styli genere te certiorem reddunt. Non ergo erat,
+quo te amplius morarer, quandoquidem nunquam
+satis laudatus Patricius sua ad Lectorem præfatione
+veterum testimoniis supra subnexa, in reliquis tibi
+poterat satisfacere : ni fuisset qui tantam lucem
+
+# block=3
+nebula nuper voluisset obducere, et hujus scripti
+γνησιότητα temere nimis atque inconsiderate ne-
+gare. Sane in verminoso libro suo quem interim,
+dum de hac editione cogito, in vulgus emisit, tam
+audacter famam ejus arrodit, ut ne tineis quidem
+trucibusque blattis, quæ damnum ipsi jam ante
+summum intulerant, mordacitate cedat. Nec tamen
+virum istum alias magnum, vel hanc epistolam, vel
+loca auctorum a quibus testimonia sumit, attente
+unquam reor legisse et probe examinasse, sed fu-
+cum potius simplicioribus parum ab antiquitate
+instructis facere voluisse. Ut enim silentio invol-
+vam frivola ista de minio rubro, quo lacunæ in su-
+periore editione magna diligentia sunt notatæ, et
+quæ præterea de styli simplicitate et incondita ejus
+connexione profert, ut jamdudum ipsi Photio ob-
+servata primum imprudenter satis consarcinato-

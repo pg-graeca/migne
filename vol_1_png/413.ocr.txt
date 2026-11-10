@@ -1,0 +1,210 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,186,1981,923,2638
+3,978,144,1715,396
+6,186,2635,921,2702
+8,196,147,946,448
+9,186,1483,935,1980
+10,961,2015,1720,2640
+11,802,1423,1103,1458
+12,1251,446,1447,482
+13,981,2670,1558,2707
+14,709,91,1169,125
+15,191,492,948,1311
+16,964,1493,1725,2014
+17,970,486,1718,1314
+18,446,452,692,484
+19,198,96,248,132
+20,1659,92,1713,127
+21,191,1316,1717,1396
+
+# layer=format
+# block=1 fontSize=15px
+# block=3 fontSize=15px
+# block=6 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+EPISTOLA I AD CORINTHIOS.
+
+# block=20
+226
+
+# block=19
+225
+
+# block=3
+tentiæ locum Dominus dedit volentibus ad ipsum
+converti (54) Noe pœnitentiam prædicavit ⁶¹ ; et
+qui obedierunt, servati sunt. Jonas Ninivitis prædi-
+cavit ⁶² ; illi autem de peccatis suis acta pœniten-
+tia, Deum precibus placarunt, et salutem consecuti
+sunt, licet alieni a Deo essent.
+
+# block=8
+[καὶ] γενεᾷ μετανοίας τόπον (53) ἔδω[κ]εν ὁ Δεσπότης
+τοῖς βουλομένοις ἐπιστραφῆναι ἐπ' αὐτόν. Νῶε ἐκή-
+ρυξεν μετάνοιαν, καὶ οἱ (55) ὑπακούσαντες ἐσώθη-
+σαν. Ἰωνᾶς Νινευΐταις καταστροφὴν ἐκήρυξεν, οἱ δὲ
+μετανοήσαντες ἐπὶ τοῖς ἁμαρτήμασιν αὐτῶν, ἐξιλά-
+σαντο τὸν Θεὸν ἱκετεύσαντες, καὶ ἔλαβον σωτηρίαν,
+καίπερ ἀλλότριοι τοῦ Θεοῦ ὄντες.
+
+# block=12
+CAPUT VII.
+
+# block=18
+ΚΕΦΑΛΑΙΟΝ Η'.
+
+# block=17
+Ministri divinæ gratiæ per Spiritum sanctum de
+pœnitentia sunt locuti : ipsèque omnium Dominus
+de pœnitentia locutus est cum juramento. Vivo
+enim ego, dicit Dominus : nolo mortem peccatoris,
+sicut pœnitentiam ⁶³ : addens (56) et pulchram sen-
+tientiam : Resipiscite domus Israel ab iniquitate ve-
+stra ⁶⁴. Dic filiis populi mei : si peccata vestra a
+terra usque ad cælum pertingant, et si sint rubriora
+cocco et nigriora sacco ; conversi autem fueritis ad
+me ex toto corde ⁶⁵, et dixeritis : Pater; exaudiam
+vos tanquam populum sanctum ⁶⁶. Et in alio loco sic
+dicit : Lavamini et mundi estote, auferte mala ex
+animabus vestris ab oculis meis : quiescite a malitiis
+vestris, discite facere bonum, quærite judicium, li-
+berate oppressum, judicate pupillo, et justificate vi-
+duam : et venite, et disputemus, dicit : Et si fuerint
+peccata vestra quasi phœnicium, sicut nivem deal-
+babo ; et si fuerint ut coccinum, sicut lanam deal-
+babo. Et si volueritis ac audieritis me, bona terræ
+
+# block=15
+Οἱ λειτουργοὶ τῆς χάριτος τοῦ Θεοῦ διὰ Πνεύματος
+ἁγίου περὶ μετανοίας ἐλάλησαν, καὶ αὐτὸς δὲ ὁ Δε-
+σπότης τῶν ἁπάντων περὶ μετανοίας ἐλάλησε μεθ'
+ὅρκου· Ζῶ γὰρ ἐγὼ, λέγει Κύριος, οὐ βούλομαι
+τὸν θάνατον τοῦ ἁμαρτωλοῦ, ὡς τὴν μετάνοιαν·
+προστιθεὶς καὶ γνώμην ἀγαθήν· Μετανοήσατε
+οἶκος Ἰσραὴλ (57) ἀπὸ τῆς ἀνομίας ὑμῶν. Εἶπον
+τοῖς υἱοῖς τοῦ λαοῦ μου· Ἐὰν ὦσιν αἱ ἁμαρτίαι
+ὑμῶν ἀπὸ τῆς γῆς ἕως τοῦ οὐρανοῦ, καὶ ἐὰν ὦσι
+πυῤῥότεραι κόκκου, καὶ μελάντεραι σάκκου, καὶ
+ἐπιστραφῆτε πρός με ἐξ ὅλης τῆς καρδίας, καὶ
+εἴπητε, Πάτερ, ἐπακούσομαι ὑμῶν ὡς λαῷ ἁγίῳ (58).
+Καὶ ἐν ἑτέρῳ τόπῳ λέγει οὕτως· Λούσασθε καὶ
+καθαροὶ γένεσθε, ἀφέλεσθε τὰς πονηρίας ἀπὸ
+τῶν ψυχῶν ὑμῶν, ἀπέναντι τῶν ὀφθαλμῶν μου·
+παύσασθε ἀπὸ τῶν πονηριῶν ὑμῶν, μάθετε καλὸν
+ποιεῖν, ἐκζητήσατε κρίσιν, ῥύσασθε ἀδικούμενον,
+κρίνατε ὀρφανῷ, καὶ δικαιώσατε χήραν, καὶ δεῦτε
+καὶ διελεγχθῶμεν (59), λέγει (60)· Καὶ ἐὰν ὦσιν
+
+# block=21
+⁶¹ Gen. VII ; Sap. x, 4 ; Eccli. XLIV, 17 ; Heb. XI, 7 ; I Petr. III, 20 ; II Petr. II, 5 . ⁶² Jon. III. ⁶³ Ezech.
+XXXIII, 11. ⁶⁴ Ezech. XVIII, 30. ⁶⁵ Isa. I, 18. ⁶⁶ Jer. III, 19, 22.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=9
+(53) Μετανοίας τόπον. Forte τύπον, id est ὑπό-
+δειγμα, ut est vers. 15, cap. XLIV Sap. Sirach ad
+quem locum respexisse videtur auctor noster.
+JUN.
+(54) Elegantius quidem Cotelerius hæc ita vertit :
+recurramus ad omnes mundi ætates, discamusque
+quod in singulis ætatibus pœnitentiæ, etc.; sed satius
+visum est litteram Græcam exprimere. COUST.
+(55) Καὶ οἱ. Articulus οἱ deest editt. quem ex ms.
+restituunt Mill. et Wott. GALL.
+(56) Postrema hujus sententiæ verba Clemens
+Alexandr., lib. I Pædag., c. x, Ezechielis nomine
+sic citat: Dicit enim per Ezechielem: Si conversi
+fueritis ex toto corde, et dixeritis, Pater, audiam vos
+tanquam populum sanctum. COUST.
+
+# block=16
+chielis nomine laudat, cujus etiam videntur esse
+superiora. Hinc itaque firmatur Cotelerii conjectura.
+Porro locus ille Ezechielis vel deest in libris no-
+stris, vel desumptus est ex altero Ezechielis volu-
+mine, quod is, Josepho teste, scripserat, quodque
+inter apocrypha recenset Synopsis Athanasiana.
+vel potius Eusebiana. Sic Esdræ locum laudat Ju-
+stinus martyr, in Dialogo cum Tryphone, apud La-
+ctantium Latine versum lib. IV, c. 18, quem in co-
+dicibus nostris incassum quæras. Alium citat ex
+Sophonia Clemens Al., Strom., lib. V, qui in ejus
+vaticinio non comparet. Hunc desumptum esse su-
+spicor ex Sophoniæ prophetia, vel Apocalypsi, inter
+libros apocryphos memorata, in canone Scriptura-
+rum Nicephoro patriarchæ CP. tributo, et in ms.
+bibliothecæ Barrocianæ. COLOM.
+
+# block=1
+(57) Μετανοήσατε, οἶκος Ἰσραήλ. Verba con-
+textus aliter se habent; verum de hoc loco, et
+aliis S. Scripturæ testimoniis, quæ frequenter in
+hac epistola citantur, plura loca in unum interdum
+compingi (quod ab aliis etiam Patribus non raro
+fit, nec apostoli ipsi exemplis carent), sensum quo-
+que aliquoties, et non verba exprimi, observandum
+est, quod utrumque in hoc loco, deprehendere est.
+Quin et in verbis ipsis non parva sæpenumero dif-
+ferentia occurrit: varietates autem singulas notare
+longum esset, et cuivis ex collatione cum editione
+τῶν Ο', quæ exstat, et omnium manibus teritur, ob-
+vium est. Quare laborem hunc aliis relinquimus,
+et damnum, si quod inde existit, majore lucro po-
+stea compensabimus, cum novam editionem biblio-
+rum Græcorum, ex manuscripto exemplari Theclæ,
+quod omnium quotquot hodie in Europa sunt,
+longe optimum et antiquissimum est, divini numi-
+nis auspiciis, et serenissimi regis domini mei gra-
+tia et favore, in lucem emittere dabitur. JUN.
+
+# block=10
+(59) Διελεγχθῶμεν. Mill. sic legit in ms. veritati He-
+braicæ congruenter, Isa. I, 18, Editi, διαλεχθῶμεν: Al.
+cum codd. Alex. et Vat. διελέγχωμεν. GALL. —
+Καὶ δεῦτε, καὶ διαλεχθῶμεν. Ita Aldina editio. At
+in aliis, aut καὶ δεῦτε, διελεγχθῶμεν, aut καὶ δεῦτε,
+καὶ διαλεγχθῶμεν, ut Procopius, aut καὶ δεῦτε, δια-
+λεχθῶμεν. Sane verbo Hebraico utrumque significa-
+tur, increpatio et discrepatio; quæ duo valde sunt
+affinia. Hesychii codices in mendo videntur cubare,
+διελέγχωμεν, εἰς ἔλεγξιν ἀλλήλων ἔλθωμεν, pro διε-
+λεγχθῶμεν. Apud Basilium autem et Chrysostomum,
+διαλεχθῶμεν in textu, suspectum est; quia διελεγχθῶ-
+μεν commentarii supponunt. Jam Hilarius ad psalm.
+quidem II, 5: Et venite, arguamur; præfatione vero
+in psalmum CXIX: Et venite, disputemus. Nec dissi-
+milis varietas in Michæa, cap. VI, vers. 2, διελεγ-
+χθήσεται, vel ut Basilius ad locum Isaiæ de quo
+agimus habet, διαλεχθήσεται. A Tertulliano exhibe-
+tur
+
+# block=6
+(58) Λαῷ ἁγίῳ. Clemens Alexandrinus, Pædag.,
+lib. I, c. 10, habet λαοῦ ἁγίου, ubi verba hæc Eze-
+
+# block=13
+(60) Λέγει. Add. Κύριος ex LXX. GALL.

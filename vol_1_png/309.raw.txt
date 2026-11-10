@@ -1,0 +1,143 @@
+# layer=rawLLM
+# block=14
+18
+
+# block=12
+PRIMI ECCLESIÆ SÆCULI SCRIPTORIBUS.
+
+# block=13
+17
+
+# block=10
+enim ibi de ea reperias, nisi in libri illius capite
+45, quod ab impostoribus ibi assutum esse cri-
+tici peritiores observant.
+
+# block=9
+cujus tamen legi, tamquam bonæ obtemperare vide-
+tur. Hinc etiam Cerinthiani, ut idem Epiphanius
+subdit ⁴¹ : Paulum penitus explodunt, propterea quod
+circumcisionem abdicavit. Philastrius vero arguit
+Cerinthum, quod et alios plures novi fœderis libros
+repudiaverit : Apostolum Paulum non accipit, Judam
+proditorem honorat, Evangelium secundum Mat-
+thæum solum accipit, tria Evangelia spernit, beatos
+martyres blasphemat. Neque tamen ab eo integrum
+Matthæi Evangelium acceptum fuisse auctor est
+Epiphanius ⁴² : Matthæi Evangelio non integro, sed
+ex parte duntaxat utuntur, nimirum propter genea-
+logiam, quæ ejus est carnis propria. Nec mirum;
+quando quidem ea Christi genealogia omnes erro-
+res funditus evertebantur.
+
+# block=4
+Non diu stetit illa Menandri hæresis. Justinus si-
+quidem quamvis plures initio a Menandro deceptos
+esse agnoscat; paucos tamen suo tempore super-
+stites extitisse non obscure declarat ³¹ : Menan-
+drum Antiochiæ multos arte magica recepisse sci-
+mus... suntque adeo nunc quoque ab eo reliqui non-
+nulli, qui hoc sic profitentur. Inde ergo Menandria-
+nam hæresim ante Simonianam excidisse non ab-
+surde colliges; nisi eam in Saturnili et Basilidis
+sectas influxisse dixeris.
+
+# block=11
+CAPUT V.
+De hæresi Cerinthi.
+
+# block=2
+Caius autem apud Eusebium Cerintho errorem
+Chiliastarum tribuit ⁴³ : Per revelationes a se , tan-
+quam a magno Apostolo conscriptas, portenta qua-
+dam, quasi ab angelis sibi ostensa commentus, nobis
+introducit, affirmans post resurrectionem regnum
+Christi in terris futurum, ac rursus homines Hieroso-
+lymis degentes, cupiditatibus et voluptati corporis ob-
+noxios fore; additque mille annorum spatium in
+nuptialibus festis transactum iri. Unde etiam Chi-
+liastæ, inquit Augustinus ⁴⁴, sunt appellati. Id con-
+firmat Eusebius hac Dionysii Alexandrini auctori-
+tate : Aiunt eum, Cerinthum, librum composuisse,
+indito Joannis nomine, dum auctoritatem figmentis
+suis ex Joannis nomine mutuari vellet. Sed de hoc
+ridiculo Cerinthi commento alibi dabitur fusius
+disputandi locus.
+
+# block=5
+Cerinthus ab ipso apostolorum tempore novæ
+hæreseos parens, in Ægypto, inquit Theodoretus ³²,
+plurimo tempore versatus, et in philosophicis scien-
+tiis eruditus, venit postea in Asiam, et discipulos suos
+de nomine suo appellavit. Cui concinit quidem Epi-
+phanius, sed addit eos dictos fuisse Merinthiani :
+Utrum vero, ait ille ³³, Cerinthus ipse Merinthus alio
+nomine sit dictus, nescire me fateor, an præter hunc
+alter eo nomine appellatus exstiterit, adjutor illius et
+socius, id quidem soli Deo compertum est.
+
+# block=1
+Primum autem, teste Irenæo ³⁵, Cerinthus : Non
+a primo Deo factum esse mundum docuit, sed a vir-
+tute quadam separata, et distante ab ea principalitate,
+quæ est super universa, et ignorante eo qui est super
+omnia Deo. Christum autem, auctore Theodoreto ³⁵,
+duas in partes, seu personas a se invicem distinctas,
+dividebat; tradebatque Jesum secundum naturam
+ortum ex Joseph et Maria, temperantia autem, et jus-
+titia, et aliis virtutibus excelluisse. Vel ut ait Ire-
+næus ³⁶ : Plus potuisse ab omnibus, et post baptis-
+mum descendisse in eum Christum ab ea principali-
+tate, quæ est super omnia, figura columbæ, et tunc
+annuntiasse incognitum Patrem, et virtutes perfecis-
+se; in fine autem revolasse iterum Christum de Jesu,
+et Jesum passum esse et resurrexisse, Christum au-
+tem impassibilem perseverasse, existentem spirita-
+lem. Contra tamen Epiphanius ³⁷, ac post eum Au-
+gustinus ³⁸ : Dicere, inquit, nihil est veritus passum
+quidem et crucifixum esse Christum, nondum tamen a
+mortuis excitatum, ac tum demum cum mortui resur-
+gent omnes, excitandum. Unde merito quidem juro
+Cerinthianos secum invicem aperte pugnasse con-
+cludit.
+
+# block=6
+Visum est nonnullis eos, qui viventes baptismo
+non fuerunt abluti, post mortem ab iis hæreticis
+sacramento illo fuisse initiatos. Verum cum ii solo
+Epiphanii, quem de aliis potius hæreticis ibidem lo-
+qui plures existimant, testimonio innitantur, id isti
+vel negant omnino, vel penitus incertum esse con-
+tendunt.
+
+# block=3
+Quanto horrori Cerinthus Joanni evangelistæ
+fuerit, discimus ex Irenæo ⁴⁵, qui ab aliis se acce-
+pisse testatur, Joannem, cum lavandi causa balneum
+Ephesi esset ingressus, viso intus Cerintho, mox il-
+lotum ex balneo profugisse, atque in hæc prorupisse
+verba : Fugiamus hinc, ne forte balneum corruat, in
+quo est Cerinthus veritatis inimicus. Epiphanius igi-
+tur, qui hæc Ebioni tribuit, memoria procul dubio
+lapsus est. Neque tamen ad expugnandam Cerinthi
+hæresim ibi stetit divinus plane Joannis ardor et
+studium. Ille enim, ut tradit Hieronymus ⁴⁶ : Scrip-
+sit evangelium, rogatus ab Asiæ episcopis, adversus
+Cerinthum, aliosque hæreticos. Epiphanius ⁴⁷ autem
+arbitratur Jacobum aliosque apostolos adversus
+eumdem hæresiarcham litteras in hæc verba Antio-
+
+# block=7
+Nec minus hæresis illa sibi ipsi in eo adversaba-
+tur, quod: Carne circumcidi oportere, verba sunt
+Augustini ⁴⁹, atque alia hujusmodi legis, nimirum
+Mosaica, præcepta servari juberet. Nam eum a quo
+lex tradita sit, bonum negat esse, ait Epiphanius ⁴⁰,
+
+# block=8
+³¹ Apolog. 2. ³² Lib. 11 Hæret. Fabul. cap. 5. ³³ Hæres. 28. ³⁴ Lib. 1 Adv. hæres.
+cap. 25. ³⁵ Loc. cit ³⁶ Loc. cit. ³⁷ De hæres. § 8. ³⁸ Loc. cit. § 6. ³⁹ De hæres.
+cap. 8. ⁴⁰ Loc. cit. ⁴¹ Lib. de hæres. ⁴² Loc. cit., § 5. ⁴³ Lib. 111 Hist., cap. 28. Vid.
+Theodor. loc. cit. et eumdem Euseb. lib. vII Hist., cap. 25. ⁴⁴ Loco cit. ⁴⁵ Euseb. lib. 111 Histor.
+cap. 28, et lib. Iv, cap. 14, et ipse Irenæus lib. 3, adv. Hæres. cap. 3 et Theod. lib. 11. ⁴⁶ De script.
+eccles., in Joan. ⁴⁷ Hæres. 28, § 2.

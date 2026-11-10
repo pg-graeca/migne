@@ -1,0 +1,184 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,953,323,1696,662
+2,172,1232,933,2440
+3,181,2510,925,2716
+4,995,2508,1715,2684
+5,158,156,925,1228
+6,963,2219,1716,2437
+7,951,151,1693,317
+8,950,746,1703,915
+9,966,2107,1719,2218
+10,951,916,1703,1015
+11,959,1326,1722,2103
+12,552,96,1305,134
+13,957,1023,1702,1304
+16,955,680,1711,754
+17,1625,94,1699,132
+18,159,92,225,136
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=16px
+# block=18 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=18
+525
+
+# block=17
+526
+
+# block=12
+CONSTITUTIONES APOSTOLICÆ. — PROOEMIA.
+
+# block=7
+ctrina per Hippolytum, in qua colligenda atque
+ordinanda nescio an plus operæ auctor posuerit,
+quam in cæteris operibus, quæ bene multa et la-
+boriosa confecit.
+
+# block=5
+quibus hujusmodi appellatio nusquam occurrit nisi
+in Homiliis et Constitutionibus, idque tam nulla fide,
+ut etiamnum de Clementis patria disputent eruditi.
+Constitutionum itaque titulus hoc modo se habuit :
+Διαταγαὶ τῶν ἁγίων ἀποστόλων διὰ Κλήμεντος τοῦ
+Ῥωμαίων ἐπισκόπου, καὶ Ἱππολύτου, ἡ καθολικὴ
+διδασκαλία : Constitutiones sanctorum apostolorum
+per Clementem Romanorum episcopum, et Hippolyti
+Catholica doctrina. Quam facile nomen Ἱππολύτου
+in aliud τοῦ πολίτου, Hippolyti in civis immutatum
+sit, quisque videt, unaque apparet quanti sit hæc
+emendatio. Nam diserte quid Clementi, quidve
+Hippolyto tribuendum in Constitutionibus, ipso
+titulo distinguitur ; et Clementi quidem Constitu-
+tiones apostolorum, sive earum collectio ascribitur :
+Hippolyto autem Catholica Doctrina, hæreticis op-
+posita. Recte autem Baronius aliique doctissimi
+viri censuerunt uno eodemque opere contineri
+apostolorum Constitutiones, et Doctrinas, διαταγὰς
+καὶ διδασκαλίας, quod opus critici alioqui solertis-
+simi in duo dissecarunt (34). Neque enim ab ipsis
+animadversum est, ex hisce Constitutionibus excer-
+pta quædam exstare breviora vel prolixiora, ut
+cuique commodum fuit ; ea vero excerpta criticis
+imposuerunt, quasi ad opus aliud pertinerent.
+
+# block=1
+III. In Oriente fere ubique permansit Hippolyti
+nomen.—Quamobrem in Oriente ubi locum non
+habuit illa depravatio nominis Hippolyti, contra-
+rium contigit ; extrito nimirum Clementis nomine,
+illud Hippolyti apud Orientales fere permansit, in
+quem veluti Ecclesiæ legum conditorem universi
+respiciunt. Namque in Syrorum vetustissimis co-
+dicibus ante sæculum VIII exaratis occurrunt
+
+# block=8
+Constitutiones apostolorum per Hippolytum (38).
+Atque in sacris Arabum voluminibus, vel Coptita-
+rum potius Ecclesiæ Alexandrinæ, eorum lingua
+utentium
+
+# block=13
+Isti sunt canones Ecclesiæ, mandata quæ scripsit
+Hippolytus , per quem loquitur [ Ecclesia ] (39).
+Æthiopes autem a priscis temporibus post Cano-
+nes apostolorum quos CXXVII numerant, recensent
+ሕኖደስ : ዘአቡሊድስ : ሊቀ : ጳጳሳት :
+ዘሮሜ : ሀገር
+
+# block=2
+II. Cur nomen Hippolyti servatum sit in VIII Con-
+stit. libro.—Mansit vero incorruptum Hippolyti no-
+men octavo libro earumdem Constitutionum, sive
+quia is liber aliquando primus fuit ; sive quia a cæ-
+teris avulsus Hippolyti nomen tantummodo retinuit.
+Est autem inscriptio hujus octavi libri : Περὶ χειρο-
+τονιῶν διὰ Ἱππολύτου : De ordinationibus per Hippoly-
+tum (35), aut etiam Ἱππολύτου κανόνες ἐκκλησια-
+στικοὶ περὶ ἀπαρχῶν : Hippolyti canones ecclesiastici
+de primitiis (36), prout nimirum sibi quisque de-
+scripserat vel caput quartum quod est de ordinatio-
+nibus, vel tricesimum de primitiis ex hisce Consti-
+tutionibus. Is certe liber VIII in varias lacinias dis-
+cerptus est, indeque alii confecti libelli, quemad-
+modum Πέτρου καὶ Παύλου τῶν ἁγίων Ἀποστόλων
+διατάξεις, vel κανόνες διάφοροι : Petri et Pauli SS.
+apostolorum constitutiones vel canones diversi (37).
+Neque temere octavo huic libro Hippolyti nomen
+præmitti consuevit, quando initium sumit ex opu-
+sculo Περὶ χαρισμάτων, De charismatibus, quod
+certissime Hippolyto vindicat inscriptio cathedræ
+marmoreæ, in qua legitur ΠΕΡΙ ΧΑΡΙCΜΑΤΩΝ
+ac deinde sequitur ΑΠΟCΤΟΛΙΚΗ ΠΑΡΑΔΟCΙC.
+Quod sane argumento est, octavum librum fuisse
+initium Apostolicæ traditionis atque adeo Constitu-
+tionum, quas Clemens collegerat, Hippolytus vero
+in vulgus emisit. Aliis autem libris VII continebatur
+ἡ Καθολικὴ διδασκαλία δι’ Ἱππολύτου : Catholica Do-
+
+# block=11
+(40). Canones Hippolyti doctoris papæ Romæ XXXVIII.
+Quinimo Hippolyti nomen apud Æthiopes adeo in-
+valuit, ut pro voce Canonis acceptum sit : neque
+enim aliunde repetere licet dictiones Abtelis, Ab-
+seltis, et Betelsat quibus secundam collectionem
+appellant, quam ab ipso Abulides, nomine quo Hip-
+polytum dicunt, varie inflexo et corrupto. Cum
+enim in sua lingua non habeant illarum dictionum,
+quibus pro titulis utuntur, originem ; aiunt hos
+titulos Abtelis seu Betelsat et Abseltis lingua Græca
+significare Canonem (41), quod falsum esse ac alie-
+num nemo non videt. Ludolphus hujusmodi corru-
+ptiones tribui mavult Coptitis ; imo vero cum
+omnem doctrinam ab ipsis acceperint Æthiopes,
+necesse non est menda etiam accepisse, ac facilius
+ab ultimis, nisi ab utrisque, id nomen vitiatum est.
+Hæc autem ita se habere titulus ipse confirmat
+hujus alterius Collectionis
+
+# block=9
+ግጽው : ወሥርዓት : አብሳልጥስ :
+ቀኖና : ዘእግዚእነ :
+
+# block=6
+Repræsentatio et ordinatio Absattis Canonum Domini
+nostri. Ubi apparet suo Canones, ac suo Collecto-
+rem appellari proprio nomine, quod aliud non est
+ab illo Hippolyti. Cum vero plurium numero etiam
+utantur ad eam collectionem significandam, nempe
+
+# block=4
+(38) Mss. cod. Vat., n. 107.
+(39) Ex cod. mss. Macarii presb. Vid. Asseman.
+O. tom. I, p. 619 et III, p. 1, p. 15.
+(40) Ap. Ludolph. Hist. Æthiop., II, p. 304.
+(41) Ludolph., l. c., p. 330.
+
+# block=3
+(34) Usser. Proleg. in Ep. Ignat., cap. 7 ; Pearson.,
+Vind. Ignat. I, 4.
+(35) Grab. ex cod. Barocc. XXVIII et Vindob.
+(36) LLoyd. in Collat. Synodic. Bevereg. ap. Wolf.
+Anecd. IV, p. 116.
+(37) V. Grab., Spicil. I, p. 85.

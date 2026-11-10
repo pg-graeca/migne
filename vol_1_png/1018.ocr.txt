@@ -1,0 +1,177 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,177,489,932,1304
+2,961,312,1741,1174
+3,183,140,936,480
+4,961,2244,1727,2546
+5,173,2478,928,2714
+6,959,2543,1717,2716
+7,172,2244,924,2346
+8,973,137,1725,303
+9,173,2344,924,2480
+10,964,1184,1720,1700
+11,964,1709,1726,2227
+12,175,1314,927,2186
+13,585,83,1295,118
+14,185,89,258,126
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=177 source_y1=489 source_x2=932 source_y2=1304
+XXVI. Jam hinc additum est, ut et poetæ elegan-
+tia verborum commenta erroris ornarent, et suavi-
+tate dicendi immortales effectos esse ex mortalibus
+persuaderent; imo et amplius aliquid, ex homini-
+bus aiunt stellas fieri, et arbores, et animalia, et
+flores, et aves fontesque ac fluvios, et ni verbositas
+videretur, omnes pene stellas, quas ex hominibus
+effectas asserunt enumerare vel arbores vel fontes ac
+fluvios possem; exempli tamen causa singula saltem
+ex singulis memorabo. Andromedam[Cephei in stellam
+dicunt esse conversam, Daphnen Ladonis fluvii fi-
+liam in arborem commutatam, Hyacinthum Apolli-
+nis dilectum in florem, Callisto in sidus quod Arc-
+ton vocant, Prognen et Philomelam cum Tereo (54)
+in aves, Thysben apud Ciliciam in fontem, et Pyra-
+mum inibi in fluvium resolutos, omnesque pene, ut
+dixi, vel stellas, vel arbores, fontesque ac fluvios,
+floresque et animalia, vel aves, aliquando homines
+fuisse confirmant.
+
+# block=2 source_x1=961 source_y1=312 source_x2=1741 source_y2=1174
+XXVIII. Verum ad propositum revertamur. Quæ,
+malum! ratio est, imo quæ amentia mortalium
+possidet mentes, ut hominem quem impium, sce-
+lestum, profanum, Jovem dico, incestum, parrici-
+dam, adulterum non solum sciunt esse, sed et pu-
+blice in theatris cantant, hunc ut deum colant et
+adorent? Aut si pro his gestis deus esse meruit,
+ergo et si quos audiunt homicidas, adulteros, par-
+ricidas, incestos etiam nunc debent ut deos adorare.
+Sed quod in aliis exsecrantur, scire omnino non
+possum cur in illo venerentur. Et Petrus respondit :
+Quoniam te nescire dicis, disce a me cur in illo
+facinorosa gesta venerentur; primo quidem, ut
+cum ipsi similia egerint, acceptos se ei futuros
+sciant, utpote quem imitantur in flagitiis; secundo,
+quod hæc litteris scite recondita et versibus elegan-
+ter inserta veteres reliquerunt. Et nunc puerilis
+eruditionis obtentu, cum eorum notitia teneris et
+simplicibus adhæserit mentibus, revelli ex eis atque
+abjici difficulter potest.
+
+# block=3 source_x1=183 source_y1=140 source_x2=936 source_y2=480
+nem (53), multosque alios per diversa loca singuli
+ut deos colunt et adorant, quos homines mortuos
+fuisse non dubitant. Unde consequens est etiam
+priores simili errore prolapsos, mortuis homini-
+bus, qui forte potentiæ aliquid vel artis habuerant,
+maximeque si phantasiis magicis in stuporem stoli-
+dos homines adduxerant, honorem contulisse di-
+vinum.
+
+# block=4 source_x1=961 source_y1=2244 source_x2=1727 source_y2=2546
+(55) Osiri aquam. Quia per Osiridem aquam in-
+telligebant ; μεταλαμβάνουσι, τὸν μὲν Ὄσιριν εἰς
+ὕδωρ, τὴν δὲ Ἶσιν εἰς γῆν. Origines, v in Celsum,
+p. 65; seu τὸ ὑγρον, in Sallustio philosopho De diis
+et mundo c. 4; seu Nilum, teste Heliodoro lib. ix,
+post Ælianum lib. x, De natura animalium, c. 46,
+Plutarchum De Iside ac Osiride, atque Eusebium
+Præparat. evang. lib. III, c. 11. Videantur Clemen-
+tina hom. VI, n. 9.
+
+# block=5 source_x1=173 source_y1=2478 source_x2=928 source_y2=2714
+(54) Prognem et Philomelam cum Tereo. Legatur
+velim elegans Epistola Gregorii Nazianzeni, prima
+numero, noteturque eam epistolam in codice Vindo-
+bonensi, Lambeciano 75, Theologicorum Græcorum,
+tribui Basilio, perperam : ms. autem Regio 1474
+titulum habere : Πρὸς Κελεύσιον ἄρχοντα, ἥνικα ἐν
+Γλαμίδι (f. τῇ Δαμίδι ex epist. 99) ἡσύχασεν.
+
+# block=6 source_x1=959 source_y1=2543 source_x2=1717 source_y2=2716
+(56) Orpheus igitur. De Orphei doctrina inter
+alia lege Græcum fragmentum Timothei Chronogra-
+phi in Eusebii Chronicis paulo post initium, atque ex
+eo corrige Cedrenum pag. 46, ubi pudendo scripturæ
+errato Orpheus dicitur ὁ Βρωώσιος, qui Ὀβρύσιος erat.
+
+# block=7 source_x1=172 source_y1=2244 source_x2=924 source_y2=2346
+τροχλον ἀπεθέωσαν. Sed malim, Opuntum aut Opun-
+tem, ex Clementinis, Πάτροκλον Ὑπούντιοι. Opuntius
+enim erat Patroclus.
+
+# block=8 source_x1=973 source_y1=137 source_x2=1725 source_y2=303
+placare velint, pro honore omnium abstinere se ab
+omnibus oportebat, ut ante diem judicii justa a
+semetipsis sententia condemnati, morte miserrima
+per inediam deperirent.
+
+# block=9 source_x1=173 source_y1=2344 source_x2=924 source_y2=2480
+(53) Apud Rhodum Alexandrum Macedonem. Jo-
+culariter apud Cæsarium, Ῥόδιοι τὸν εἰκήμαχον Μα-
+κέδονα, verterunt, Rhodii Icemachum Macedonem.
+Tu serio, temerarium pugnatorem intellige.
+
+# block=10 source_x1=964 source_y1=1184 source_x2=1720 source_y2=1700
+XXIX. Hæc cum dixisset Petrus, Niceta respon-
+dit : Non putes, domine mi Petre, non habere eru-
+ditos quosque gentilium verisimilitudines quasdam,
+quibus astruant hæc quæ culpabilia videntur et
+probrosa : quæ quidem ego non ut confirmans erro-
+res eorum dico (absit enim a me, ut hoc vel ad
+cogitationem meam veniat), sed tamen scio esse
+apud prudentiores ipsorum defensiones quasdam,
+quibus astruere et colorare solent hæc quæ videntur
+absurda. Et si tibi placet, ut aliqua ex his profe-
+ram, quæ ex parte aliqua retineo, ut jubes faciam.
+Cumque Petrus permisisset, Niceta hoc modo cœpit :
+
+# block=11 source_x1=964 source_y1=1709 source_x2=1726 source_y2=2227
+XXX. Omnis sermo apud Græcos, qui de antiqui-
+tatis origine conscribitur, cum alios multos, tum
+duos præcipuos auctores habet, Orpheum et Hesio-
+dum. Horum ergo scripta in duas partes intelligen-
+tiæ dividuntur, id est, secundum litteram et secun-
+dum allegoriam; et ad ea quidem quæ secundum
+litteram sunt, ignobilis vulgi turba confluxit, ea
+vero quæ secundum allegoriam constant, omnis
+philosophorum et eruditorum loquacitas admirata
+est. Orpheus igitur (56) est, qui dicit primo fuisse
+chaos sempiternum, immensum, ingenitum, ex
+NOTÆ.
+
+# block=12 source_x1=175 source_y1=1314 source_x2=927 source_y2=2186
+XXVII. At Petrus hæc audiens ait : Ergo secun-
+dum ipsos, antequam homines mutarentur in stellas,
+vel cætera quæ enumeras, et cœlum sine stellis erat
+et terra sine arboribus et animalibus, nec fontes,
+nec flumina, nec aves erant; et quomodo ipsi ho-
+mines vixerunt sine his, qui in hæc postmodum mu-
+tati sunt, cum constet nec potuisse prorsus sine his
+vitam ducere homines in terris? Et ego respondi: Sed
+ne ipsum quidem cultum deorum suorum observare
+consequenter norunt; unusquisque enim eorum quos
+colunt, habet aliquid sibi dicatum, a quo debent se
+continere cultores, utpote Minervæ olivam, Jovi
+capram ferunt dicatam, Cereri semina, Libero vi-
+num, Osiri aquam (55), Hammoni arietem, Dianæ
+cervum, Syrorum dæmoni piscem et columbam,
+Vulcano ignem; et unicuique, ut dixi, est aliquid
+proprie dicatum, a quo oportebat abstinere se cul-
+tores ad honorem eorum quibus dicata sunt. Nunc
+autem singuli ab uno aliquo se observantes, pro unius
+honore cæteros omnes iratos habent ; quos utique si
+
+# block=13 source_x1=585 source_y1=83 source_x2=1295 source_y2=118
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=14 source_x1=185 source_y1=89 source_x2=258 source_y2=126
+1435

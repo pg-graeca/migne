@@ -1,0 +1,194 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,278,275,1038,2691
+2,899,233,1213,270
+4,677,64,1452,113
+5,295,129,1040,211
+6,1077,126,1815,208
+7,1749,78,1817,120
+8,297,64,367,110
+9,1067,282,1817,2694
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=4 fontSize=16px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=16px
+# block=8 fontSize=16px
+# block=9 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+263
+
+# block=4
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=7
+264
+
+# block=6
+τοῦτο μονογενὲς ὑπάρχον ζῇ ἔτη πεντακόσια·
+γενόμενόν τε ἤδη πρὸς ἀπόλυσιν τοῦ ἀποθα-
+
+# block=5
+vivit quingentos; cumque jam morte dissolvenda
+est, loculum sibi conficit e thure et myrrha et re-
+
+# block=2
+VARIORUM NOTÆ.
+
+# block=1
+viro apostolico, Tertulliano, Origene, Cyrillo Hie-
+rosolymitano, Eusebio, Nazianzeno, Epiphanio,
+Synesio, Hieronymo, Ambrosio, Lactantio, Plinio,
+Seneca, Mela, Solino, Philostrato, Libanio, et
+aliis, errare; quam Maximum et ejus sequacium
+opinionem sequi, qui τὴν παντοκρατορικὴν τοῦ δη-
+μιουργοῦ δύναμιν rationis humanæ imbecillitate me-
+tiuntur et ancillantis naturæ dominum circumscri-
+bunt. Maximo autem Origenem oppono, qui lib. iv
+contra Celsum, secundum naturam hoc fieri posse
+asserit; ejus verba ita se habent: Δύναται καὶ αὐτὸ
+φυσικὸν τυγχαίνειν, ἐπιδαψιλευσαμένης τῆς θείας προ-
+νοίας, καὶ ἐν ταῖς διαφοραῖς τῶν ζώων παραστῆσαι
+τοῖς ἀνθρώποις τὸ ποικίλον τῆς τῶν ἐν κόσμῳ κατα-
+σκευῆς, φθάνον καὶ ἐπὶ τὰ ὄρνεα· καὶ ζῷον τι μονογενὲς
+ὑπέστησεν, ἵνα κἂν τούτῳ ποιήσῃ θαυμασθῆναι, οὐ τὸ
+ζῷον, ἀλλὰ τὸν πεποιηκότα αὐτό. Et plenissimo huic
+et firmissimo (ut Tertulliani verbis utar) resurre-
+ctionis specimini, ex Methodio, etiam novissimi diei
+non absimile in natura indicium et documentum,
+addo: pyragnum, scilicet, plantam, quæ ardente
+Olympo in mediis flammis viret et floret, ac si
+juxta aquarum decursus plantaretur; sed præstat
+ipsum audire, qui miraculi hujus αὐτόπτης fuit.
+[Phot. Bibl., p. 623, edit. Schot.] 'Ἐθεασάμην ἐν
+Ὀλύμπῳ ἐγὼ πῦρ αὐτομάτως κατὰ τὴν ἀκρώρειαν
+τοῦ ὄρους κάτωθεν ἐκ τῆς γῆς ἀναδιδόμενον· περὶ ὃ
+πύραγνος φυτόν ἐστιν, οὕτω μὲν εὐθαλὲς καὶ χλοερόν,
+οὕτω δὲ σύσκιον, ὡς ὑπὸ πηγῆς [ἳς. ἐπὶ πηγῇ] μᾶλ-
+λον αὐτὸ βεβλαστηκέναι· δι' ἥντινα οὖν αἰτίαν, εἰ
+φύσείς εἰσι φθαρτῶν, καὶ ὑπὸ πυρὸς καταναλουμέ-
+νων σωμάτων, οὐ μόνον οὐ καταφλέγεται τὸ φυτὸν
+τοῦτο, ἀλλὰ μᾶλλον ἀκμαιότερον ὑπάρχει εἰ τῇ φύσει
+ἐστὶν εὔκαυστον, καὶ ταῦτα περὶ αὐτὰς αὐτοῦ τὰς
+ῥίζας τοῦ πυρὸς ἐντυφημένου ; κλάδους γοῦν ἐγὼ
+δένδρων ἐκ τῆς παρακειμένης ὕλης ἐπέῤῥιψα, καθ'
+ὃν ἂν ἐρεύγεται τὸ πῦρ τόπον, καὶ εὐθέως εἰς φλόγα
+ἀρθέντες ἐτεφρώθησαν. Τί οὖν βούλεται τὸ παράδο-
+ξον; δεῖγμα τοῦτο τῆς μελλούσης ὁ Θεὸς ἡμέρας καὶ
+προοίμιον ἔθετο, ἵνα γινώσκωμεν ὅτι πάντων πυρὶ
+κατομβρουμένων, τὰ ἐν ἀγνείᾳ σώματα διατρίψαντα
+καὶ δικαιοσύνῃ, καθάπερ ψυχρῷ ὕδατι. πυρὶ ἐπιβή-
+σονται. [Legendum forsan divisim πῦρ ἄγνος. Sic
+certe H. St. et ejus gener Casaubonus. Quibus fa-
+vere videtur Vitruvius lib. vIII, c. 3. Sic autem
+ille: In Thessalia fons est profluens, ex quo fonte
+piscus nullum gustat, ad quem fontem proxime est
+arbor florens purpureo colore. Ut enim Vitruvius
+vocem fons bis iterat, sic potuit Methodius vocem
+πῦρ repetere. COLOM.] Verum solertibus naturæ
+mystis, abditas harum rerum causas curiosius in-
+dagandas relinquo, et cum Cyrillo Alexandrino, de
+ceto qui Jonam Dei jussu devoravit, verba faciente,
+locum hunc concludo: Φαμὲν οὖν ὅτι παράδοξον
+ἀληθῶς, καὶ λόγου καὶ συνηθείας ἐπέκεινα, νοοῖτ' ἂν
+εἰκότως τὸ συμβεβηκός· ἀλλ' εἰ Θεὸς λέγοιτο κατορ-
+θοῦν, τίς ὁ ἀπιστεύσων ἔτι; παναλκὲς γὰρ τὸ θεῖον,
+καὶ τὰς τῶν ὄντων φύσεις μεταπλάττον εὐκόλως,
+πρὸς ὅπερ ἂν ἕλοιτο, καὶ τοῖς ἀῤῥήτοις αὐτοῦ πνεύ-
+μασι τὸ ἀντεξάγον οὐδέν· τὸ γὰρ φθείρεσθαι πεφυκὸς,
+κρεῖττον ἂν γένοιτο καὶ φθορᾶς· αὐτοῦ ἐθέλοντος, καὶ
+τὸ πεπηγὸς καὶ ἀκράδαντον, καὶ τοῖς τῆς φθορᾶς δυσ-
+άντητον νόμοις, πάθοι ἂν εὐκόλως φθοράν· φύσις
+γὰρ, οἶμαι, τοῖς οὖσι τὸ τῷ κτίσαντι δοκοῦν. Sed
+dum hæc scribimus, longe funestissimum nuntium
+huc allatum est, de cæde incomparabilis herois, et
+regis bellicosissimi, Gustavi vere Augusti, phœ-
+nicis hujus sæculi; cui egregia facinora æternus
+annalium honor celebrabit: nos subitam heu nimis
+et immaturam orbi Christiano ejus mortem (si vera
+sunt quæ tristi fama percrebrescunt) similitudine
+a phœnice sumpta, et verbis Libanii, in necem stre-
+nui bellatoris, sed longe dissimilis principis, non
+
+# block=9
+inepte deflere possumus; si tantam, et tam cala-
+mitosam tanti ducis jacturam verba ulla satis ex-
+primere valerent: “ᾤχετο γεύσας μὲν ἀγαθῶν τὴν
+οἰκουμένην, κορέσαι δὲ οὐκ ἀρκέσας· ἀλλὰ πεπόν-
+θamen οἱονεὶ τῷ φοίνικι τῷ ὀρνίθι πάρεστι, διὰ πά-
+σης μὲν τῆς γῆς ἐκτεῖναι τὴν πτῆσιν, στῆναι δὲ μη-
+δαμοῦ, μήτε ἀγρῶν, μήτε ἀστέων· ἀμυδρὰ γὰρ οὕτως
+ἂν γέγονε τοῖς ἀνθρώποις ἡ τοῦ ὄρνιθος ὄψις· καὶ
+νῦν ἣν οὗτος ἀπέδωκεν εὐδαιμονίαν, ὥσπερ ὑπόπτε-
+ρος διέδραμεν: nisi Deus Opt. Max. Ecclesiæ suæ
+misertus, ex ejus favillis novum et redivivum alium
+phœnicem laboranti suo populo suscitaverit; quod
+ut faciat, votis assiduis et ardentibus flagitare non
+cessabimus. Γένοιτο, γένοιτο. JUN. — Photius in Bi-
+bliotheca, pro irritabili criticorum indole, vitio
+vertit auctori nostro, quod de phœnice hic verba fe-
+cerit. Meminisse tamen potuit, in sacris litteris,
+saltem ex mente LXX Intt., Hieronymi, atque alio-
+rum interpretum animalia recenseri, non magis a
+naturalis historiæ et philosophiæ peritis agnita,
+quam Assyria hæc volucris, quæ proprii corporis
+hæres et cinerum fetus, redivivo carnis suæ humore
+reparari, et de funebri rogo resurgere perhibetur ; ibi
+etenim ,λίשׁ, פרס, אבן, לִילִית, תנִים, שׂעִירִים
+τραγέλαφοι, gryphes, μυρμηκολέοντες, fauni, sa-
+tyri, sirenes, lamiæ redduntur. Imo vero disquisi-
+tionem aliquam meretur, annon de phœnice ex-
+pressa habeatur mentio in S. Scriptura, nimirum,
+libro Jobi, c. xxix, 18, ubi dicit: ימים עם קני אגע
+וכותל ארבה,expirabo in nido meo et sicut phœnix
+multiplicabo dies. Vetustissimi, apud Hebræos,
+auctores, lib. Zohar, Thalmud in tract. Sanhedrin,
+Bereschith Rabbah, lib. Jalkut, R. Salomo Jarchi,
+in comment. ad hunc locum sane sunt in ea sen-
+tentia. Quin et in Massora specialiter notatur, quod
+hæc vox חול aliud significet quam vulgo, de qua
+Hieronymus in ep. ad Præsidium. Et vero ex nota
+quadam Massorethica quæ ascripta legitur, in qui-
+busdam Bibliis mss. qua præscribitur bis reperiri
+idque in duabus significationibus, sequitur apud
+Jobum phœnicem significare, cum Gen. xxii, 17,
+arenam significet. Porro dicit R. David Kimchi, se
+invenisse vocem חול cum Schurek, ut phœnicem
+significet, in libro correcto Hierosolymitano. Revera
+LXX seniores ita reddunt has voces, ἡ ἡλικία μου
+γηράσει ὥσπερ στέλεχος φοίνικος, ubi φοῖνιξ homo-
+nymum est et palmam non minus quam phœnicem
+effert. Sed quandoquidem חול palmam numquam de-
+notare cognoscitur, cogitandum venit, utrum in-
+credibile prorsus sit τὸ στέλεχος hic in eo signifi-
+catu apud eos positum, quo stirps et stemma, in om-
+nibus fere dialectis, passim usurpantur. Quod si
+fiat, ipsi LXX Intt. omnino phœnicem agnovere. At
+vero si mantissæ loco adjiciatur, auctores lauda-
+tissimos, qua sacros, qua profanos, nimirum, He-
+rodotum, Tacitum, Dionem, Plutarchum, Plinium,
+Senecam, Melam, Solinum, Philostratum, Liba-
+nium, Tertullianum, Origenem, Cyrillum Hierosol.,
+Eusebium, Nazianzenum, Epiphanium, Synesium,
+Hieronymum, Ambrosium, Lactantium, Bedam, etc.,
+ut taceam poetarum gentem et sequioris ævi scrip-
+tores præteream, eadem fuisse in sententia; mi-
+nime mirum videri debet (utcunque Bochartus
+aliter senserit) doctissimum Junium apud se sta-
+tuisse tantis auspiciis errare, præsertim in re ubi
+sine noxa peccatur, quam contrariæ sententiæ fau .
+toribus accedendo vel recte sentire. Certe cum
+Corn. Tacitus, cui astulantur reliqui istius sæ-
+culi historici, diserte dicat Paulo Fabio et Lucio
+Vitellio coss. post longum sæculorum ambitum, avem
+phœnicem in Ægyptum venisse, et præbuisse mate-

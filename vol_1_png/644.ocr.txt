@@ -1,0 +1,182 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,295,147,1036,490
+2,1070,149,1816,488
+3,905,610,1207,649
+5,271,667,1033,2704
+6,692,91,1404,137
+7,327,536,1067,580
+8,1756,91,1810,129
+10,297,94,352,135
+11,1059,658,1815,2712
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+bora, offer Domino spontanea tua. Ait enim Scri-
+ptura: « Honora Dominum de justis tuis laboribus ³⁴. »
+In Corbonam mittere si non potes, saltem peregri-
+nis unum, vel duo, vel quinque æra minuta tribue ³⁵.
+Thesauriza tibi cœlestes divitias, quas neque tinea,
+neque fures devastare queant ³⁶. Hæc agens, noli
+episcopum tuum judicare, neque laicum gregalem
+tuum; nam si fratrem judices, judex absque ele-
+
+# block=2
+ξένοις ἓν, ἢ δύο, ἢ πέντε λεπτά. Θησαύριζε σαυτῷ
+τὸν οὐράνιον πλοῦτον, ὃν οὔτε σὴς, οὔτε κλέπται λυ-
+μανοῦνται. Καὶ ποιῶν οὕτω, μὴ κρῖναι τὸν ἐπίσκοπόν
+σου ἢ τὸν συλλαϊκόν· ἐὰν γὰρ κρίνῃς τὸν ἀδελφὸν,
+κριτὴς ἐγένου, μηδενός σε προχειρισαμένου· τοῖς γὰρ
+ἱερεῦσιν ἐπετράπη κρίνειν μόνοις· ὅτι εἴρηται αὐτοῖς·
+« Κρῖμα δίκαιον κρίνατε. » Καὶ πάλιν· « Γίνεσθε τρα-
+πεζῖται δόκιμοι (31). » Ὑμῖν γὰρ οὐκ ἐπιτέτραπται.
+
+# block=3
+VARIORUM NOTÆ.
+
+# block=5
+evangelistam, et Josephum explicare per δῶρον. Sed
+ab illis δῶρον sumitur duntaxat de dono pietatis.
+Δῶρον τῷ Κυρίῳ reddunt LXX, Levit. ι, 10, et ιι,
+4, et ιιι, 1. Δῶρον τῷ Θεῷ apud Epiphanium hære-
+si 33, cap. 4; et δῶρον Θεοῦ in Josepho lib. ι con-
+tra Apionem statim a medio. Neque enim sollicitare
+oportet Josephi lectionem, cum δῶρον Θεοῦ eodem
+modo dicat, quo alibi χρήματα Θεοῦ, et Θεοῦ θησαυ-
+ρόν : quove Lucas c. xxi, v. 4, posuit τὰ δῶρα τοῦ
+Θεοῦ, munera Dei. Cot.
+(31) Γίνεσθε τραπεζῖται δόκιμοι. Mandatum hoc,
+licet nullibi Scripturarum exstet, laudatur tamen
+tanquam Scripturæ etiam a Clemente Alexandrino,
+sub finem Stromatei ι; Origene ad Matth. xxii, 23,
+24; xxiv, 4, 5; Pamphylo, initio Apologetici pro
+Origene; Palladio, De vita Chrysostomi c. 4 et Ni-
+cephoro, Historiæ ecclesiasticæ lib. x, c. 26. Evan-
+gelicum autem esse tradunt cum Apelle hæretico,
+apud Epiphanium hæresi 44, c. 2, Cassianus, col-
+latione ι, cap. 20, et ιι, c. 9, atque auctor Quæ-
+stionum Cæsario, Gregorii Nazianzeni fratri, ascri-
+ptarum, responsione ad interrogationem 140. Qui
+tamen locus effictus est ex illo citato Palladii, scri-
+ptoris Cæsario recentioris. Christo tribuunt præter
+postremos tres, Clementinorum pater homil. 2, n.
+51, homil. 3, n. 50, et homil. 18, n. 20; Origenes
+tom. xix in Joannem ad cap. viii, vers. 20; Hiero-
+nymus sub finem epistolæ 152; Chrysostomus, ser-
+mone Cur in Pentecoste Acta apostolorum legantur,
+paulo post initium, et Socrates lib. iii Historiæ
+cap. 16. Contra, apostolicam vocem appellat Diony-
+sius Alexandrinus in Epistola ad Philemonem Roma-
+norum presbyterum, cujus verba referuntur ab Euse-
+bio Hist. eccl., lib. vii, c. 7. Et Pauli esse ait Cy-
+rillus Alexandrinus, ad Isaiæ iii, 3. Usurpant vero
+idem effatum, aut ob oculos habent e Patribus plu-
+rimi. Vide præcipue, si lubet, Clementem Stroma-
+teum lib. vi, p. 655; lib. vii, p. 754; Origenem ho-
+milia 3 in Leviticum, homil. 12 (Hieronymo 9) in
+Jeremiam paulo post medium, homil. 19 in eumdem
+prophetam sub finem, homilia 2 in Ezechielem paulo
+post initium, tom. xii in Matthæum non longe a
+principio, et ad Matthæi xxiii, 37; item homil. 1 in
+Lucam, quem locum imitatur Ambrosius initio
+Commentariorum in illud Evangelium; præterea in
+Joannem tom. xxv, ad capitis viii versiculum 46,
+et tom. xxxii, ad cap. xiii, vers. 20; Athanasium
+Epistola ad Solitarios circa principium, Cyrillum
+Hierosolymitanum catechesi vi, in fine; Basilium
+homilia in principium Proverbiorum ante medium
+et ad Isaiæ ι, 22; iii, 2; v, 20; Gregorium Nazian-
+zenum carmine iambico 18, p. 218; Ambrosium in
+Lucæ xix, 45; Hieronymum lib. ι Apologiæ adver-
+sus Rufinum cap. 4, lib. iii Commentariorum in
+Epistolam ad Ephes., in finem capitis iv, et ad
+vers. 10 cap. v, et libro in Epistolam ad Philémo-
+nem ad vers. 5; Procopium Gazæum super Levi-
+ticum pag. 33; Gregorium Papam lib. xxxiv Mora-
+lium cap. 26; Damascenum Orthodoxæ fidei lib. iv,
+cap. 18, et Epiphanium diaconum, sermone pane-
+gyrico ad Synodum generalem septimam. Quæritur
+nunc, quid de celeberrimo loco sentiendum sit.
+
+# block=6
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=7
+³⁴ Prov. iii, 9. ³⁵ Marc. xii, 41. ³⁶ Matth. vi, 20.
+
+# block=8
+688
+
+# block=10
+687
+
+# block=11
+Equidem doctorum virorum sententiæ studiosos do-
+ctrinarum non fugiunt. Meam ego paucis verbis le-
+ctori examinandam ita propono. Ex traditione, sive
+non scripta, sive in quodam melioris notæ apocry-
+pho relata ferebatur, divino Novi Testamenti ora-
+culo pronuntiari : Estote probi trapezitæ. Id aliquis
+compertum apposuit ad oram codicis sui, Matth.
+xxv, 27, et Luc. xix, 23, ubi τραπεζιτῶν mentionem
+factam videbat. Alius adnotandum putavit ad locum
+consimilem Apostoli I Thessal. v, 21. Tertius for-
+san, tribus in prædictis locis collocavit. Ac nescio
+an non etiam scriptum fuerit in margine Epistolæ
+primæ Joannis cap. iv, vers. 1. Inde postea in sa-
+crum contextum verba spuria irrepserunt. Quo fa-
+ctum, ut velut Scripturæ, velut evangelica, velut
+Christi, velut apostolica, velut Pauli, velut
+Christi simul et Pauli (quod videtur putasse Socra-
+tes) citarentur. Certe cum textibus memoratis so-
+lent conjungi. Remque declarat Cyrillus Alexandri-
+nus, cum dicit : Τοιοῦτόν τι καὶ ὁ μακάριος Παῦλός
+φησι· Γίνεσθε φρόνιμοι τραπεζῖται, πάντα δοκιμάζετε,
+τὸ καλὸν κατέχετε, ἀπὸ παντὸς εἴδους πονηροῦ ἀπέ-
+χεσθε. Quæ posteriora leguntur in dicta Epistola ad
+Thessalonicenses. Itaque notari meretur ingens Ru-
+fini confidentia : qui eo quod nostrum testimonium
+non reperiret in apostolicis exemplaribus quibus
+utebatur, vertendo locum Dionysii in Eusebii Hi-
+storia, γίνεσθε δόκιμοι τραπεζῖται, non est interpre-
+tatus, sed pro eo substituit, Omnia legite, quæ bo-
+na sunt tenete; quo modo dictum Apostolicum I
+Thessalon. v, 21, adducit S. Augustinus libro De
+natura et gratia cap. 39. Minoris errati reus argui-
+tur Nicephorus lib. x, cap. 26, ubi Socratem Hi-
+storicum pro more compilans, quod ille Christo et
+Apostolo ascribit, generali voce θείου λόγου propo-
+nit : quo (si mea valet suspicio) Constitutionum
+præsentem locum involvat, de quibus dici θεῖον λό-
+γον ex Epiphanio et Cedreno observavimus initio
+notarum. Sicut autem hic habetur τραπεζῖται δόκι-
+μοι, et capite sequenti ἀργυρονόμοι ἐπιστήμονες :
+ita in Philone Judæo, libro De judice, ad finem,
+ἀργυραμοιβὸς ἀγαθός; in Gregorio Nazianzeno, car-
+mine supra citato, εὐφυὴς ἀργυρογνώμων· in Cyrillo
+Alexandrino, φρόνιμοι τραπεζῖται· in Origene, tra-
+ctatu 27 in Matthæum, prudentes nummularii; ho-
+mil. 1 in Lucam, ab exercitatissimis trapezitis; ad
+Joannis xiii, 20, καλοὶ τραπεζῖται· in Theodoro Stu-
+dita, serm. Catechet. 125, τῶν καλῶν τραπεζιτῶν;
+in Hieronymo,1 adversus Rufinum, probus trapezita,
+in caput v Epistolæ ad Ephesios prudentissimi tra-
+pezitæ, in Epistolam ad Philemonem callidus trape-
+zita, in Ambrosio ad c. ι et xix Lucæ, bonus num-
+mularius, boni nummularii; in Epiphanio diacono, a
+divinis trapezitis, et in Joanne Climaco Scalæ gra-
+du 4, paulo ante finem, ἄριστος τραπεζίτης. Deni-
+que cum verbis capitis subsequentis merito confe-
+rentur ista Chrysostomi in sermone jam laudato :
+Καθάπερ γὰρ οἱ τραπεζῖται τὸ μὲν κίβδηλον καὶ πα-
+ράσημον ἐκβάλλουσι νόμισμα, τὸ δὲ δόκιμον καὶ ὑγιὲς
+δέχονται; necnon ista Damasceni pariter citati : Γε-
+νώμεθα δόκιμοι τραπεζῖται, τὸ μὲν γνήσιον καὶ κα-
+θαρὸν χρυσίον σωρεύοντες; τὸ δὲ κίβδηλον παραιτού-

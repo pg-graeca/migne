@@ -1,0 +1,185 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,980,483,1731,1384
+2,199,1223,942,1648
+3,200,749,948,1214
+4,200,145,947,742
+5,198,2361,948,2695
+6,196,1767,942,2199
+7,980,1393,1729,1645
+8,981,140,1724,473
+9,200,2196,948,2363
+10,977,1935,1742,2700
+11,759,87,1154,125
+12,794,1688,1087,1723
+13,978,1768,1734,1938
+14,204,99,271,134
+15,1626,78,1722,122
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=980 source_y1=483 source_x2=1731 source_y2=1384
+XII. Igitur post obitum Dosithei Simon accepit
+Lunam, cum qua usque ad præsens circuit, ut vi-
+detis decipiens turbas et asserens, semetipsum qui-
+dem virtutem esse quamdam, quæ sit supra condi-
+torem Deum, Lunam vero quæ secum est, esse de
+superioribus cœlis deductam, eamdemque cuncto-
+rum genitricem asserit esse sapientiam, pro qua,
+inquit, Græci et barbari confligentes, imaginem
+quidem ejus (66) aliqua ex parte videre potuerunt,
+ipsam vero ut est, penitus ignorarunt, quippe quæ
+apud illum primum omnium et solum habitaret
+Deum. Et hæc atque alia his similia cum verborum
+pompa proferens, decepit multos. Sed et hoc in-
+dicare debeo, quod ipse ego vidisse me memini,
+cum esset aliquando Luna illa ejus in turri quadam,
+multitudo ingens ad eam convenerat pervidendam
+et undique circa turrim stabat; at illa per omnes
+fenestras turris illius omni populo procumbere ac
+prospicere videbatur. Et multa alia mirabilia fecit
+et facit, ita ut stupentes pro his homines putent
+eum ipsum esse summum Deum.
+
+# block=2 source_x1=199 source_y1=1223 source_x2=942 source_y2=1648
+XI. Interim in initio cum adhuc inter triginta
+Dosithei discipulos haberetur, cœpit ipsi Dositheo
+derogare, tanquam qui non integre nec perfecte
+doceret, idque eum non invidia facere sed in scien-
+tia. Verum Dositheus ubi sibi derogari sensit a Si-
+mone, verens ne opinio sua obscuraretur apud ho-
+mines, qui eum putabant ipsum esse Stantem,
+furore commotus, cum ad scholam solito convenis-
+sent, virga correpta verberare Simonem cœpit, et
+repente per corpus ejus quasi per fumum, visa est
+
+# block=3 source_x1=200 source_y1=749 source_x2=948 source_y2=1214
+X. Sed hæc cum diceret de virgultis productis
+et monte perforato, stupescebam pro eo, quod etiam
+nos circumvenire velit, quibus se commendare et
+concredere videbatur; sciebamus enim quod a
+proavis hæc fuissent, quæ a se nuper facta perhibe-
+bat. Hæc ergo nos ab eo flagitia audientes, et horum
+deteriora, sequebamur tamen et ipsi ejus scelera,
+et alios ab eo decipi patiebamur, multa etiam men-
+tientes pro eo, et hoc priusquam aliquid faceret
+eorum quæ promiserat, ita ut nullis adhuc gestis,
+a nonnullis tamen putaretur Deus.
+
+# block=4 source_x1=200 source_y1=145 source_x2=947 source_y2=742
+vis barbam producam, in aerem volando invehar,
+aurum plurimum ostendam, reges faciam eosque
+dejiciam. Adorabor ut Deus, publice divinis donabor
+honoribus, ita ut simulacrum mihi statuentes (64)
+tanquam Deum colant et adorent. Et quid opus est
+multa dicere? quidquid voluero facere, potero.
+Multa etenim jam mihi meı̃ experimẽti causa consum-
+mata sunt. Denique aliquando, inquit, cum mater
+mea Rachel juberet me exire ad agrum, ut meterem,
+ego falcem videns positam præcepi ei ut iret et
+meteret, et messuit decuplo amplius cæteris. Multa
+jam nova virgulta produxi de terra et convalescere
+ea feci, sub momento temporis apparere feci et
+montem proximum, ego secundo perforavi.
+
+# block=5 source_x1=198 source_y1=2361 source_x2=948 source_y2=2695
+(66) Imaginem quidem ejus, etc. Haud dubium
+quin Simon commentum hoc de Luna seu Selene,
+dicta etiam Helena, hauserit ab ethnicis; cum Pla-
+tonis insignia verba exstent, lib. ix De republica :
+Τὸ τῆς Ἑλένης εἴδωλον ὑπὸ τῶν ᾿εν Τροίᾳ Στησίχο-
+ρός φησι γενέσθαι περιμάχητον, ἀγνοίᾳ τοῦ ἀληθοῦς.
+De Helenæ imagine Stesichorus ait Trojanos veri
+ignoratione decertasse. Item Sexti Empirici adversus
+Mathematicos lib. vii, p. 184, 185 : Ἑλένης εἴδωλον,
+περὶ οὗ δεκαέτης συνέστη πόλεμος. Helenæ simula-
+
+# block=6 source_x1=196 source_y1=1767 source_x2=942 source_y2=2199
+(64) Ita ut simulacrum mihi statuentes. Recte a
+S. Irenæo lib. 1, cap. 20, publica statua Simonis
+Magi Romæ posita, secernitur ab imagine privata
+Simonis specie Jovis, quam Simoniani cum imagine
+Selenes seu Helenæ facta ad figuram Minervæ ado-
+rabant. Id monui, quia B. Augustinus in libro De
+hæresibus videtur minus distincte loqui, dicens de
+Simone : Jovem se credi volebat, Minervam vero me-
+retricem quamdam Selenen; quam sibi sociam scele-
+rum fecerat : imaginesque et suam et ejusdem mere-
+tricis discipulis suis præbebat adorandas, quas et Ro-
+mæ tanquam deorum simulacra auctoritate publica
+constituerat.
+
+# block=7 source_x1=980 source_y1=1393 source_x2=1729 source_y2=1645
+XIII. Nam mihi aliquando et Nicetæ rogantibus,
+ut exponeret quomodo hæc possint arte magica ef-
+fici, et quæ esset hujus rei natura, Simon tanquam
+familiaribus suis explanare ita cœpit : Pueri, in-
+quit, incorrupti et violenter necati, animam (67)
+adjuramentis ineffabilibus evocatam assistere mihi
+
+# block=8 source_x1=981 source_y1=140 source_x2=1724 source_y2=473
+virga transire; super quo obstupefactus Dositheus,
+ait ad eum : Dic mihi, si tu es Stans, ut adorem te.
+Cumque Simon respondisset, ego sum, Dositheus
+videns se non esse Stantem, cecidit et adoravit
+eum, et Simoni quidem cedit principatum suum,
+ipsique obedire omnem triginta virorum ordinem
+jubet, semetipsum vero in locum Simonis statuit
+et non multo post defunctus est (65).
+
+# block=9 source_x1=200 source_y1=2196 source_x2=948 source_y2=2363
+(65) Et non multo post defunctus est. Mortem Do-
+sithei describit post Epiphanium hæresi 13, Nicetas
+Choniates lib. 1 Thesauri, c. 35. Paulò aliter in No-
+tis Abrahami Ecchellensis Maronitæ ad Catalogum
+Hebedjesu, p. 164.
+
+# block=10 source_x1=977 source_y1=1935 source_x2=1742 source_y2=2700
+(67) Pueri incorrupti et violenter necati animam.
+Justinus martyr apologetico 2, p. 65 : Αἱ ἀδιαφθó-
+ρων παίδων ἐποπτεύσεις. Παῖδας ἀφθόρους, in So-
+crate, lib. III, cap. 13. Horatius epod. v, puer, im-
+pube corpus. Apud Eusebium, Hist. lib. VII, cap. 10:
+σπλάγχνα νεογενῆ, lib. VIII, cap. 13, et De vita
+Constantini I, 36, νεογενῶν σπλάγχνα βρεφῶν. Chry-
+sostomus, tom. V, concione 2 De Lazaro, νέων ἀπα-
+λῶν σώματα κατασφάττειν, quem et vide homilia
+28 in Matthæum. Augustinus lib. XVIII De civitate
+Dei cap. 53 : Puer anniculus occisus, et dilaniatus,
+et ritu nefario sepultus est. Alii innumeri. Quis enim
+non memoravit quam vocant Psychagogiam, Psy-
+chomantiam, Necyomantiam, Necromantiam, seu
+juxta Barbarorum filios, Nigromantiam, peritiam
+ciendi animas ab inferis, Manes sepulcris eliciendi?
+Nec præteriri debet de Simonianis locus Tertul-
+liani cap. penult. lib. De anima : Ecce hodie ejus-
+dem Simonis hæreticos tanta præsumptio artis extol-
+lit, ut etiam prophetarum animas ab inferis movere se
+spondeant. Et credo quia mendacio possunt. Quod au-
+tem doctissimus Gronovius Observator. in Scripto-
+ribus ecclesiasticis cap. 4 legit in Adelhelmi loco su-
+
+# block=11 source_x1=759 source_y1=87 source_x2=1154 source_y2=125
+RECOGNITIONUM LIB. II.
+
+# block=12 source_x1=794 source_y1=1688 source_x2=1087 source_y2=1723
+COTELERII NOTÆ.
+
+# block=13 source_x1=978 source_y1=1768 source_x2=1734 source_y2=1938
+crum, pro quo conflatum fuit bellum decem annorum.
+Cæterum quando Celsus apud Origenem Simonianis
+vult impositum fuisse nomen Helenianorum ab He-
+lena, vel præceptore Heleno, in Heleno non jocatur,
+opinor, sed errat.
+
+# block=14 source_x1=204 source_y1=99 source_x2=271 source_y2=134
+1253
+
+# block=15 source_x1=1626 source_y1=78 source_x2=1722 source_y2=122
+1254

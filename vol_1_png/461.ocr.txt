@@ -1,0 +1,208 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,941,442,1697,1626
+2,155,2099,906,2300
+3,955,135,1698,347
+5,158,2431,907,2702
+6,157,2297,905,2432
+7,169,135,921,352
+8,937,2064,1684,2699
+9,407,403,686,439
+10,192,1654,970,1690
+11,156,1797,908,2102
+12,685,82,1159,122
+13,768,1727,1070,1763
+14,173,81,224,125
+15,143,451,911,1620
+16,163,355,1498,392
+17,940,1797,1687,2067
+18,1213,402,1439,438
+19,1629,86,1705,128
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+321
+
+# block=12
+EPISTOLA I AD CORINTHIOS.
+
+# block=19
+322
+
+# block=7
+χειρὶ θηλείας. Οὐχ ἧττον αὐ (78) καὶ ἡ τελεία κατὰ
+πίστιν ᾿Esθὴρ, κινδύνῳ ἑαυτὴν παρέβαλεν, ἵνα τὸ
+δωδεκάφυλον τοῦ ᾿Iσραὴλ μέλλον ἀπολέσθαι, ῥύσηται·
+διὰ γὰρ τῆς νηστείας, καὶ τῆς ταπεινώσεως αὐτῆς,
+ἠξίωσεν τὸν παντεπόπτην (79) Δεσπότην, Θεὸν τῶν
+
+# block=3
+liberaret. Nam in jejunio et humilitate precata
+est omnium inspectorem Dominum, Deum sæculo-
+rum; qui animi ejus humilitatem cernens, popu-
+lum liberavit, cujus gratia periculis sese illa
+obtulerat.
+
+# block=16
+αἰώνων· ὃς ἰδὼν τὸ ταπεινὸν τῆς ψυχῆς αὐτῆς, ἐῤῥύσατο τὸν λαὸν, ὧν χάριν (80) ἐκινδύνευσεν.
+
+# block=18
+CAPUT LVI.
+
+# block=9
+ΚΕΦΑΛΑΙΟΝ ΝΓ'.
+
+# block=1
+Et nos igitur oremus pro eis, qui in aliquod
+peccatum lapsi sunt, ut detur illis moderatio et
+humilitas; quo non nobis, sed voluntati Dei cedant;
+sic enim erit ipsis fructuosa et perfecta quæ est
+apud Deum et sanctos, cum misericordia recorda-
+tio. Assumamus disciplinam, juxta quam nemo
+debet indignari, dilecti. Admonitio quam invicem
+facimus, bona est et perquam utilis : siquidem
+nos voluntati Dei agglutinat. Sic enim ait sacer
+sermo : Castigans castigavit me Dominus ; et morti
+non tradidit me ⁸¹. Quem enim diligit Dominus,
+corripit, flagellat autem omnem filium quem sus-
+cipit ⁸². Corripiet enim me, inquit, justus in mise-
+ricordia, et arguet me : oleum autem peccatorum non
+impinguet caput meum ⁸³. Et iterum dicit : Beatus
+homo, quem arguit Dominus ; monitionem vero
+Omnipotentis ne renuas. Ipse enim dolere facit, et
+rursus restituit : percussit, et manus ejus sanave-
+runt. Sexies de necessitatibus eruet te; et in septimo
+non tanget te malum. In fame liberabit te a morte:
+in prælio vero, de manu ferri solvet te : et a flagello
+linguæ abscondet te, et non timebis a malis ingruen-
+tibus : injustos et iniquos deridebis; et feroces be-
+stias non timebis : bestiæ enim feræ pacatæ erunt
+tibi. Deinde scies, quod in pace erit domus tuæ:
+habitatio autem tabernaculi tui non peccabit. Scies
+autem, quod multum semen tuum, et filii tui quasi
+
+# block=15
+Καὶ ἡμεῖς οὖν ἐντύχωμεν περὶ τῶν ἔν τινι παρα-
+πτώματι (81) ὑπαρχόντων, ὅπως δοθῇ αὐτοῖς ἐπιεί-
+κεια καὶ ταπεινοφροσύνη, εἰς τὸ εἶξαι αὐτοὺς μὴ
+ἡμῖν, ἀλλὰ τῷ θελήματι τοῦ Θεοῦ· οὕτως γὰρ ἔσται
+αυτοῖς ἔγκαρπος καὶ τελεία ἡ πρὸς τὸν Θεὸν καὶ τοὺς
+ἁγίους μετ᾿ οἰκτιρμῶν μνεία (82). ᾿Aναλάβωμεν παι-
+δείαν ἐφ᾿ ᾗ οὐδεὶς ὀφείλει (83) ἀγανακτεῖν, ἀγαπη-
+τοί. Ἡ νουθέτησις (84), ἣν ποιούμεθα εἰς ἀλλήλους,
+καλή ἐστιν, καὶ ὑπεράγαν ὠφέλιμος· κολλᾷ γὰρ ἡμᾶς
+τῷ θελήματι τοῦ Θεοῦ. Οὕτως γὰρ φησιν ὁ ἅγιος
+λόγος • Παιδεύων ἐπαιδεύσέ με ὁ Κύριος, καὶ τῷ
+θανάτῳ οὐ παρέδωκέν με. Ὃν γὰρ ἀγαπᾷ Κύριος
+παιδεύει (85), μαστιγοῖ δὲ πάντα υἱὸν ὃν παρα-
+δέχεται. Παιδεύσει με γὰρ, φησιν, δίκαιος ἐν
+ἐλέει, καὶ ἐλέγξει με, ἔλαιον δὲ ἁμαρτωλῶν (86)
+μὴ λιπανάτω τὴν κεφαλήν μου. Καὶ πάλιν λέγει •
+Μακάριος ἄνθρωπος ὃν ἤλεγξεν ὁ Κύριος, νουθέ-
+τημα δὲ Παντοκράτορος μὴ ἀπαναίνου. Αὐτὸς
+γὰρ ἀλγεῖν ποιεῖ, καὶ πάλιν ἀποκαθίστησιν· ἔπαι-
+σεν, καὶ αἱ χεῖρες αὐτοῦ ἰάσαντο. Ἐξάκις ἐξ
+ἀναγκῶν ἐξελεῖταί σε, ἐν δὲ τῷ ἑβδόμῳ οὐχ ἅψε-
+ται (87) σου κακόν. Ἐν λιμῷ ῥύσεταί σε ἐκ θα-
+νάτου, ἐν πολέμῳ δὲ ἐκ χειρὸς σιδήρου λύσει σε·
+καὶ ἀπὸ μάστιγος γλώσσης σε κρύψει, καὶ οὐ
+μὴ φοβηθήσῃ κακῶν ἐπερχομένων. ᾿Aδίκων
+καὶ ἀνόμων καταγελάσῃ, ἀπὸ δὲ θηρίων
+ἀγρίων οὐ μὴ φοβηθῇς· θῆρες γὰρ ἄγριοι
+
+# block=10
+⁸¹ Psal. cᶍṽῑῑ, 18. ⁸² Prov. ῑῑῑ, 12. ⁸³ Psal. cᶍῑ, 5.
+
+# block=13
+VARIORUM NOTÆ.
+
+# block=11
+(78) Οὐχ ἧττον αὐ. Ms. pro αὐ exhibet εἰ. Wott.
+tamen leg. αὐ cum editis. Sic et Clemens Alex. l. c.
+Πάλιν τε αὐ ἡ τελεία κατὰ πίστιν ᾿Eσθὴρ. Et rursus
+perfecta illa in fide Esther. GALL.
+(79) Παντεπόπτην. Editi, præter Londin. παν-
+τοποιητήν. Mill. et Wott. ex ms. restituunt παντ-
+επόπτην. Quæ vox occurrit etiam infra, cap. 58,
+et apud S. Polycarpum Epist. ad Philipp., cap. 7.
+ID.
+
+# block=17
+(83) ᾿Οφείλει. Sic procul dubio legendum, quod et
+Jun. in margine libri sui ex conjectura posuit.
+Codd. impp. omnes (præter Londin.), ἐφίλει. At ms.
+exhibet ΟΦΙΛΕΙ : in eoque vocalis ι pro diphthongɔ
+ει sæpius ponitur. Wott. ID.
+(84) Ἧ νουθέτησις, etc. Vide Clementem Alexan-
+drinum, p. 122, unde interpolator hæc habet.
+BERN.
+
+# block=8
+(85) Παιδεύει. Ita quædam exemplaria Proverb. ῑῑῑ,
+12; et Apostolus Hebr. xῑῑ, 6, item Alexandrinus
+Clemens Pædag. I, 9, Chrysostomus in Psalm. cᶍ,
+et Catena Græcorum in Proverbia. Alii codices
+ἐλέγχει. At in Apocalypsi vers. 19, cap. 3, utrumque
+verbum conjungitur : ᾿Eγὼ ὅσους ἐὰν φιλῶ, ἐλέγχω
+καὶ παιδεύω. Сот.
+(86) Ἔλαιον δὲ ἁμαρτωλῶν. ךאשׁ Hebræis est
+caput, præcipuum, venenum, amaror. Ideo in hoc
+loco psalm. cᶍῑ, 5, interpretantur capitis, vel præ-
+cipuum, vel amaritudinis : quam ultimam interpre-
+tationem Hieronymi sequitur Augustinus in Spe-
+culo. At LX᙭, vertentes ἁμαρτωλοῦ, aut legerunt
+רע seu רשׁע aut putaverunt veneni metaphoram per
+nomen peccatoris esse reddendam. ID.
+(87) Οὐχ ἅψεται. Sic editi juxta LX᙭ cod.
+Alex., quam quidem lectionem probat Wott. licet
+ms. exhibeat OYK OΨETAI. Sed Mill. ms. adha-
+rens, ita distinguit : οὐ κόψεται. GALL.
+
+# block=2
+(80) Ὃν χάριν. Cujus gratia, seu secundum lit-
+teram Græcam, quorum; ita tamen ut illud quorum
+pariter referatur ad populum : quod nomen, cum
+collectivum sit, hanc patitur constructionem. Quo-
+circa minus placet hic versio Cotelerii : propter
+pericula quæ illa adierat. Cout.
+
+# block=6
+(81) Παραπτώματι. Al. malunt περιπτώματι.
+Sed ms. lectio confirmatur ex Gal. vῑ, 1 : ᾿Αδελφοὶ,
+ἐὰν καὶ προληφθῇ ἄνθρωπος ἔν τινι παραπτώματι :
+quo sane S. Pater respexisse videtur. GALL.
+
+# block=5
+(82) Mνεία. Mill. in Prolegom. ad N. T., num.
+142, ex isto Clementino loco colligit, S. Patrem in
+archetypo suo Epistolæ Paulinæ ad Rom. xῑῑ, 13 le-
+gisse, prout Interpres Vulgatus ac codices aliqui qui
+hodieque exstant pervetusti, ταῖς μνείαις τῶν ἁγίων
+κοινωνοῦντες. Sic et Wetst. in nupera N. Test. Gr.
+edit. l. c. Aliter Whitbyus in Exam. var. lect.,
+p. 129. ID.

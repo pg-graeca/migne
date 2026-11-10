@@ -1,0 +1,201 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,965,1234,1745,1922
+2,174,1185,932,2093
+3,969,584,1739,1225
+4,179,369,942,621
+5,177,931,933,1141
+6,178,626,930,793
+7,943,1927,1728,2142
+8,173,2131,937,2629
+9,972,156,1731,576
+10,178,801,931,924
+11,965,2466,1725,2672
+12,962,2167,1734,2470
+13,180,155,934,362
+14,174,2627,930,2697
+15,761,99,1125,137
+16,259,1150,843,1186
+17,327,2699,599,2743
+18,206,2096,927,2136
+19,156,90,254,146
+20,1648,86,1726,144
+21,1530,2706,1604,2754
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+De Ecclesia Romana.—« Quinam porro erant Ro-
+mani, ad quos Ecclesia Corinthia confugit? Nonne
+in ipsa Ecclesia Romana viventibus adhuc apostolis
+Petro et Paulo contentiones ortæ erant inter eos,
+qui ex Synagoga, et inter eos, qui ex gentibus ad
+Jesu Christi fidem vocati erant, ut Epistola divi
+Pauli ad Romanos sat clare docet. Nonne jam bina
+vice gravem persecutionem perpessa fuerat, aut
+adhuc tunc exantlabat Ecclesia Christianorum Ro-
+mana? nonne nulla ei ab imperatoribus totius fere
+orbis dominis salus, nullum eidem a senatu, popu-
+loque Romano auxilium? nonne vel ipsi nobiliores
+Ecclesiæ Romanæ, vel in exsilium missi erant Chri-
+stiani, aut in angulis delitescebant? ad hanc igitur
+Ecclesiam celeberrima Corinthiorum Ecclesia con-
+fugit.
+
+# block=2
+De dogmate quidem catholico, quod ex præscripto
+concilii Tridentini etiam publice profitemur : san-
+ctam nimirum catholicam et apostolicam Ecclesiam
+Romanam esse omnium Ecclesiarum matrem et
+magistram, in epistola sua nullibi explicitam men-
+tionem facit divus Clemens. Verum si potissimum
+scopum, aliaque hujus epistolæ accidentia rite per-
+pendamus, sat clare præfatum dogma inde colligi-
+tur, deduxitque vir clarissimus Pater Conradus
+Ebert Benedictinus sacrosanctæ theologiæ professor
+Fuldensis in hunc fere modum. En ipsius verba :
+« Enimvero si perscrutemur, quinam illi fuerint,
+qui vel litteris ante datis, vel ut saltem probabilis-
+simum videtur, legatione missa a Romana Ecclesia
+post ortas inter se contentionis turbas auxilium pe-
+tierunt, si tempus, quo, si, ad quos confugerit Ec-
+clesia Corinthiorum, si ea, quæ post scriptam hanc
+epistolam evenerint, rite examinemus, plura certe
+occurrent, quæ celeberrimum hoc Ecclesiæ catho-
+licæ dogma quam maxime illustrant et confir-
+mant.
+
+# block=3
+« Advertamus pariter ad tempus, quo seditio
+hæc in Ecclesia Corinthia orta est, nempe, quo Ec-
+clesia Romana sat gravem exantlabat persecutio-
+nem; quo quidem adhuc vivebant apostoli; disci-
+puli vero Christi et apostolorum quamplurimi, viri
+autem apostolico spiritu ducti vere innumeri; quo
+in Asia multo magis, ut saltem ominari licet, vige-
+bat Christiana religio, ac in ipsa urbe Romana, ubi
+superstitio gentilis fere omnis sua templa, suos
+cultores habebat; quo Ecclesiæ columnæ, divi
+nempe apostoli Petrus et Paulus jam defuncti erant,
+quo autem vivebat adhuc, ut ex Eusebio discimus,
+dilectus Christi discipulus divus apostolus et evan-
+gelista Joannes, vel in insula Patmos, vel Ephesi de-
+gens.
+
+# block=4
+Confessionem autem faciendam esse presbyteris
+ex Clementis epistolæ capite 57 constat, ubi ait :
+Subditi estote presbyteris, et correptionem suscipite
+in pœnitentiam; flectentes genua cordis vestri, discite
+subjici, deponentes arrogantem et superbam linguæ
+vestræ jactantiam....
+
+# block=5
+Multis insuper sanctus Clemens declarat præcepta
+Dei omnia et nos posse servare, et a nobis necessa-
+rio servanda esse. Cum diligentia et alacritate, ait
+ipse (37), festinemus omne opus bonum perficere.....
+Ex totis viribus operemur opus justitiæ.
+
+# block=6
+Tradit quoque universalem esse peccatorum re-
+missionem, et nullum esse peccatum, quod post se-
+riam pœnitentiam per Christi meritum non remit-
+tatur (35).
+
+# block=7
+« Et quæ demum eveniunt post obtentam a divo
+Clemente, nomine Ecclesiæ Romanæ, epistolam in
+Ecclesia Corinthiorum? cessat seditio, redit sereni-
+tas pacis, ut ex Irenæo discimus. Epistola hæc
+tanto applausu ibidem suscipitur, ut porro per plura
+
+# block=8
+seditionis ac dissensionis duces et principes fuerunt,
+debent communem spem contemplari...... Melius est
+homini confiteri de lapsibus et peccatis (ἐξομολογεῖ-
+σθαι περὶ τῶν παραπτωμάτων) quam indurare cor
+suum, prout induratum est cor eorum qui contra fa-
+mulum Dei Moysen seditionem fecerunt.... Clemens,
+epist. 1, cap. 51 et capite 52, ait : Nullius rei, fra-
+tres, indigus est Dominus omnium, nec quidquam de-
+siderat, præterquam ut ei fiat confessio. Ait enim
+electus David : « Confitebor Domino, et placebit ei su-
+per vitulum novellum, cornua producentem et ungulas.
+Videant pauperes et lætentur. » Et iterum : « Immola
+Deo sacrificium laudis. Nam sacrificium Deo spiri-
+tus contribulatus. »
+
+# block=9
+stolo fundata, ad quam rite instituendam - idem D.
+Paulus binas dederat Epistolas afflante Spiritu di-
+vino scriptas, quæ eodem fere tempore fidem Christi
+ab apostolis edocta fuerat, quo Ecclesia Romana;
+aut quæ majori forte gloriari poterat antiquitate;
+in qua adeo divites et nobiles versabantur Christiani,
+ut suas eleemosynas exteris quoque Ecclesiis trans-
+mitterent; Ecclesia, inquam, Corinthia, orta qua-
+dam seditione, ad Ecclesiam Romanam confugit, et
+ab ea auxilium petit.
+
+# block=10
+Alibi etiam docet (36) ad justificationem nostram
+ac remissionem peccatorum nostrorum non fidem
+tantum, sed et charitatem requiri.
+
+# block=11
+(36) Beati sumus, dilecti, si præcepta Domini in
+charitatis concordia fecerimus, ut per charitatem re-
+mittantur nobis peccata, scriptum quippe est : « Beati
+quorum remissæ sunt iniquitates, et quorum tecta
+sunt peccata. » Clemens, epistola 1, capite 50.
+(37) Clemens, epistola 1, capite 34.
+
+# block=12
+propter nostram salutem effusus, toti mundo pœniten-
+tiæ gratias obtulit. Recurramus ad omnes generatio-
+nes, discamusque quod in generatione et generatione
+pœnitentiæ locum Dominus dedit volentibus ad ipsum
+converti, capite 7 et capite 8. Ministri divinæ gratiæ
+per Spiritum sanctum de pœnitentia locuti : ipseque
+omnium Dominus de pœnitentia locutus est cum jura-
+mento : « Vivo enim ego, dicit Dominus, nolo mor-
+tem peccatoris, sed ut convertatur. »
+
+# block=13
+dam sacræ Scripturæ locis : correptionem quoque
+aut potius correctionem fraternam a ministris Ec-
+clesiæ suscipiendam docet. Ast nonne idem etiam
+docet concilium Tridentinum sessione 14, cap. 5 et
+canone 6?
+
+# block=14
+(35) Animam intendamus in sanguinem Christi,
+cernamusque quam pretiosus Deo sit ejus sanguis, qui
+
+# block=15
+PROCŒMIA VARIORUM.
+
+# block=16
+§ VI. De auctoritate Ecclesiæ Romanæ.
+
+# block=17
+PATROL. GR. I.
+
+# block=18
+« Ecclesia Corinthia a celeberrimo gentium Apo-
+
+# block=19
+169
+
+# block=20
+170
+
+# block=21
+6

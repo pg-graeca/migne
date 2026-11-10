@@ -1,0 +1,164 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,173,958,926,1861
+2,962,438,1710,1080
+3,170,484,920,951
+4,172,1867,927,2607
+5,966,2127,1711,2604
+6,960,1088,1719,2122
+7,960,134,1711,429
+8,170,137,919,474
+9,214,2654,915,2694
+10,554,77,1266,113
+11,164,68,250,118
+12,1624,76,1722,122
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=173 source_y1=958 source_x2=926 source_y2=1861
+XLVII. Si quis vero cupit examussim veritatem
+nostræ prædicationis agnoscere, conveniat ad au-
+diendum, et quid sit verus propheta cognoscat, et
+tunc demum omnis in eo cessabit ambiguitas; si ta-
+men non obstinatis animis resistat his, quæ vera
+esse compererit. Sunt enim quidam qui quolibet modo
+ad hoc tantum respiciunt ut vincant, et laudem pro
+hoc magis quam salutem quærant, quibus non eve-
+niat vel dici aliquid, ne et sermo nobilis patiatur
+injuriam, et injuriæ suæ reum æterna morte con-
+demnet. Quid enim est in quo adversari prædica-
+tioni nostræ quis debeat? aut in quo contra veri
+honestique fidem sermo prædicationis nostræ de-
+prehenditur? qui dicit honorandum esse Deum et
+Patrem omnium conditorem, ejusque Filium, qui
+solus eum et voluntatem ejus novit, cuique soli de
+omnibus credendum est quæ præcepit; solus enim
+est lex et legislator et judex justus, cujus lex decer-
+nit honorandum esse Deum Dominum omnium per
+vitam sobriam, castam, justam, misericordem, et
+in ipso solo omnem collocandam spem.
+
+# block=2 source_x1=962 source_y1=438 source_x2=1710 source_y2=1080
+XLIX. Sed ais : nec Deus debuit facere malum.
+Verum dicis; neque fecit. Sed qui ab eo creati
+sunt, dum judicandos se esse non credunt, indul-
+gentes voluptatibus suis, a pietate et justitia devo-
+luti sunt. Sed dices : Si justum est punire malos,
+statim ut male agunt puniri debent. Tu quidem bene
+festinas; sed ille qui æternus est et quem nihil la-
+tet, quanto nullus ei finis, tanto et prolixa patien-
+tia est, et non ad velocitatem vindictæ, sed ad sa-
+lutis respicit causas; delectatur enim non tam
+morte, quam conversione peccantis ⁷⁶. Ideo denique
+et sanctum baptisma largitus est hominibus, ad
+quod si quis venire festinet, et de reliquo maneat
+emendatus, delentur ex eo omnia peccata, quæ per
+ignorantiam commissa sunt.
+
+# block=3 source_x1=170 source_y1=484 source_x2=920 source_y2=951
+XLVI. Nemo ergo differat, nemo cunctetur; quæ
+enim causa cunctandi est ad bene agendum? aut ti-
+mes, ne cum bene feceris, ibi remunerationem non
+invenias ut putasti? Et quid senties detrimenti si
+bene feceris gratis, nonne etiam sola in his suffice-
+ret conscientia? Quod si inveneris ut præsumis,
+nonne pro parvis magna, et pro temporalibus æterna
+recipies? verum ego hæc propter incredulos dixi.
+Nos autem quæ prædicamus, ita se habent, quia
+nec aliter esse possunt, quæ prophetica voce pro-
+missa sunt.
+
+# block=4 source_x1=172 source_y1=1867 source_x2=927 source_y2=2607
+XLVIII. Sed dicet aliquis, etiam a philosophis
+hujusmodi præcepta dari. Nihil est simile; nam de
+justitia quidem ab eis et sobrietate mandatur, sed
+remuneratorem Deum gestorum bonorum malorum-
+que non norunt, et ideo leges et præcepta eorum
+accusatorem tantummodo publicum vitant, conscien-
+tiam vero purificare non possunt. Quid enim timeat
+in occulto peccare, qui occultorum esse arbitrum
+et judicem nescit? Addunt præterea philosophi in
+præceptis suis, etiam deos qui sunt dæmones hono-
+randos, quod solum, etiamsi in aliis probabiles vi-
+derentur, gravissimæ eos potest impietatis arguere
+et propriis condemnare sententiis, qui unum quidem
+esse pronuntiant Deum, pro adsentatione tamen er-
+roris humani plures mandent colendos. Aiunt autem
+et illud philosophi, Deum non irasci, nescientes
+quid dicant. Ira enim mala est, ubi mentem turbat, ut
+
+# block=5 source_x1=966 source_y1=2127 source_x2=1711 source_y2=2604
+LI. Tum præterea et illud quale est, quod præ-
+sumserunt nonnulli philosophorum vel de Deo lo-
+qui, cum sint mortales, et opinione sola de invisi-
+bilibus dicere vel de mundi origine, ubi non ade-
+rant cum fieret, vel de fine ejus vel de animarum
+in infernis dispensatione et judicio, nescientes quia
+præsentia quidem et visibilia nosse hominis est ra-
+tionabilis, præterita vero et futura et invisibilia
+scire, solius propheticæ præscientiæ est. Non ergo
+hæc conjecturis et opinionibus colligenda sunt, in
+quibus valde falluntur homines, sed fide propheticæ
+
+# block=6 source_x1=960 source_y1=1088 source_x2=1719 source_y2=2122
+L. Nam philosophi quid contulerunt vitæ morta-
+lium, dicendo hominibus non irasci Deum? nempe
+ut docerent eos nullum habere vindictæ alicujus
+vel judicii metum, et per hoc tota peccantibus
+frena laxarent. Aut quid illi humanum genus juva-
+runt, qui dixerunt non esse Deum, sed casu omnia
+et fortuito agi? nonne ut hæc audientes homines et
+arbitrantes nullum esse judicem, nullum proviso-
+rem rerum, ad omne facinus, quod vel furor vel
+avaritia vel libido dictasset, neminem verendo
+præcipites agerentur? Nam illi multum revera juve-
+runt mortalium vitam, qui dixerunt nihil posse
+sine genesi fieri, scilicet ut unusquisque peccati sui
+causam genesi ascribens, semetipsum in sceleribus
+suis pronuntiaret innoxium, dum crimen suum non
+pœnitendo diluit, sed fatum culpando congeminat.
+Nam de illis quid dicam philosophis, qui deos co-
+lendos esse introduxerunt, et tales deos, quales
+paulo ante audistis? Quid fuit aliud decernere, nisi
+ut vitia, nisi ut crimina, nisi ut flagitia colerentur?
+Pudet miseretque me vestri, si creditis quod indi-
+gna hæc essent et impia atque exsecrabilia, aut
+non deprehendistis hactenus, aut deprehensa et
+intellecta mala pro bonis et optimis coluistis.
+
+# block=7 source_x1=960 source_y1=134 source_x2=1711 source_y2=429
+rectum consilium perdat; illa vero quæ malos pu-
+nit, perturbationem menti non infert, sed unus, ut
+ita dixerim, idemque affectus est, qui et bonis præ-
+mia et malis retribuit pœnam; nam si bonis et ma-
+lis bona restituat, et simili remuneratione erga pios
+utatur et impios, injustus potius quam bonus vide-
+bitur.
+
+# block=8 source_x1=170 source_y1=137 source_x2=919 source_y2=474
+anima tua, et quæ præparasti cujus erunt ⁷⁵?Itaque
+festinet ad pœnitentiam omnis ætas, omnis sexus,
+omnisque conditio, ut vitam consequatur æternam.
+Juvenes quidem in eo grati sint, quod in ipso im-
+petu desideriorum cervices suas jugo subjiciunt
+disciplinæ. Senes et ipsi laudabiles, quia multi tem-
+poris consuetudinem, in qua male præventi sunt,
+pro Dei timore commutant.
+
+# block=9 source_x1=214 source_y1=2654 source_x2=915 source_y2=2694
+⁷⁵ Luc. XII, 17, 19, 20. ⁷⁶ Ezech. XVIII, 53
+
+# block=10 source_x1=554 source_y1=77 source_x2=1266 source_y2=113
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=11 source_x1=164 source_y1=68 source_x2=250 source_y2=118
+1443
+
+# block=12 source_x1=1624 source_y1=76 source_x2=1722 source_y2=122
+1444

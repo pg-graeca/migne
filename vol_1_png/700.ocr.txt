@@ -1,0 +1,195 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,245,301,996,777
+2,1020,308,1783,817
+4,243,901,999,1600
+5,230,1782,985,2743
+6,1026,911,1784,1606
+7,242,1622,1774,1700
+8,1282,827,1523,863
+9,1020,1792,1792,2742
+11,853,1728,1150,1763
+12,323,867,899,905
+14,642,101,1362,139
+15,1016,200,1786,302
+18,266,200,976,269
+19,229,104,315,144
+20,507,158,729,194
+21,1255,154,1539,194
+22,491,824,729,862
+23,1143,864,1663,910
+24,1703,100,1789,150
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Baptismus igitur, in mortem Jesu datur ²⁰ : et
+aqua adhibetur pro sepultura ; oleum , pro Spiritu
+sancto ; signum crucis , pro cruce ; chrisma, con-
+firmatio est confessionis : Pater commemoratur, ut
+auctor ac emissor ; Spiritus coassumitur, ut testis ;
+dum mergimur, commorimur ; dum emergimus ,
+consuscitamur. Pater est super omnia Deus ; Chri-
+stus , unigenitus Deus, et dilectus Filius , et glo-
+riæ Dominus ; Spiritus sanctus, Paracletus , qui a
+Christo mittitur ac docetur, quique Christum præ-
+dicat ²¹.
+
+# block=2
+Ἔστι δὲ νῦν τὸ μὲν βάπτισμα, εἰς τὸν θάνατον τοῦ
+Ἰησοῦ ἐκδιδόμενον· τὸ δὲ ὕδωρ, ἀντὶ ταφῆς· καὶ (96)
+τὸ ἔλαιον, ἀντὶ Πνεύματος ἁγίου· ἡ σφραγὶς, ἀντὶ
+τοῦ σταυροῦ· τὸ μύρον , βεβαίωσις τῆς ὁμολογίας·
+τοῦ Πατρὸς ἡ μνήμη, ὡς αἰτίου καὶ ἀποστολέως· τοῦ
+Πνεύματος ἡ συμπαράληψις, ὡς μάρτυρος (97)· ἡ
+κατάδυσις, τὸ (98) συναποθανεῖν· ἡ ἀνάδυσις , τὸ συν-
+αναστῆναι· Πατὴρ ὁ ἐπὶ πάντων Θεός· Χριστὸς ὁ
+μονογενὴς Θεὸς , ὁ ἀγαπητὸς Υἱὸς, ὁ τῆς δόξης Κύ-
+ριος. Πνεῦμα ἅγιον, ὁ Παράκλητος, τὸ ὑπὸ Χριστοῦ
+πεμπόμενον, καὶ ὑπ’ ἐκείνου διδασκόμενον (99), καὶ
+ἐκεῖνον κηρύττον.
+
+# block=4
+²² Cæterum qui baptizatur, se præstet alienum ab
+omni impietate , inefficacem ad peccatum , amicum
+Dei , hostem diaboli , hæredem Dei Patris , et co-
+hæredem Filii ejus ; eumque qui renuntiaverit Sa-
+tanæ, illiusque dæmonibus ac fallaciis. Sit castus ,
+purus, sanctus , Deo amicus , filius Dei ; orans ,
+tanquam filius patrem ; atque hoc modo , veluti
+nomine communis fidelium cœtus , proloquens :
+« Pater noster, qui es in cœlis; sanctificetur nomen
+tuum ; adveniat regnum tuum ; fiat voluntas tua ,
+sicut in cœlo , et in terra : panem nostrum quoti-
+dianum da nobis hodie : et dimitte nobis debita
+nostra ; sicut et nos dimittimus debitoribus no-
+stris : et ne nos inducas in tentationem , sed libera
+nos a malo : quia tuum est regnum , et potentia,
+et gloria , in sæcula. Amen ²³. »
+
+# block=5
+(96) Καί. Dele cum altero cod. Vindob. CLER.
+(97) Τοῦ Πνεύματος ἡ συμπαράληψις , ὡς
+μάρτυρος. Ita alibi. Quia , opinor, Spiritus sanctus
+in Christi baptismo testis exstitit : sicuti docent S.
+Gregorius Nazianzenus, orat. 37, p. 610; orat. 39,
+p. 634 ; et S. Epiphanius in Expositione fidei ca-
+tholicæ, num. 16. Accedunt huc duo Scripturæ testi-
+monia , Roman. VIII, 16 : Ipse enim Spiritus testi-
+monium reddit spiritui nostro, quod sumus filii Dei.
+I Joan. v, 8 : Tres sunt qui testimonium dant in ter-
+ra: Spiritus, aqua et sanguis. Qui 2 locus a B. Am-
+brosio , lib. 1 De Spiritu sancto , cap. 6 , et Libro
+de initiandis cap. 4, exponitur de baptismo. COT.
+(98) Τό: Hic et paulo post τοῦ , subaudiendo
+μάρτυρος , e superioribus verbis. CLER.
+(99) Καὶ ὑπ’ ἐκείνου διδασκόμενον. Joannis
+cap. XVI, vers. 13 , 14 : Cum autem venerit ille
+Spiritus veritatis , docebit vos omnem veritatem :
+non enim loquetur a semetipso; sed quæcunque au-
+diet loquetur, et quæ ventura sunt annuntiabit vobis.
+Ille me clarificabit ; quia de meo accipiet, et annun-
+tiabit vobis. Dogma quidem catholicum proponunt
+Ecclesiæ magistri Didymus , Chrysostomus, Am-
+brosius, Augustinus et Theophylactus , Spiritum
+sanctum audire ea quæ non ignorat ; unam esse
+Patris , Filii, et sancti Spiritus scientiam , ut et
+substantiam ; audire Spiritum sanctum per unita-
+tem substantiæ , et per proprietatem scientiæ ;
+
+# block=6
+Ὁ δὲ βαπτιζόμενος ὑπαρχέτω ἀλλότριος ἀσεβείας
+πάσης , ἀνενέργητος πρὸς ἁμαρτίαν, φίλος Θεοῦ ,
+ἐχθρὸς διαβόλου , κληρονόμος Θεοῦ Πατρὸς , συγκλη-
+ρονόμος δὲ τοῦ Υἱοῦ , ἀποτεταγμένος τῷ Σατανᾷ
+καὶ τοῖς δαίμοσι καὶ ταῖς ἀπάταις αὐτοῦ (100)· ἁγνὸς,
+καθαρός, ὅσιος, θεοφιλὴς , υἱὸς τοῦ Θεοῦ· προσευ-
+χόμενος , ὡς υἱὸς πατρὶ , καὶ λέγων ὡς ἀπὸ κοινοῦ
+τοῦ τῶν πιστῶν συναθροίσματος οὕτως· «Πάτερ ἡμῶν
+ὁ ἐν τοῖς οὐρανοῖς, ἁγιασθήτω τὸ ὄνομά σου· ἐλθέτω
+ἡ βασιλεία σου · γενηθήτω τὸ θέλημά σου , ὡς ἐν οὐ-
+ράνῳ καὶ ἐπὶ τῆς γῆς· τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον
+δὸς ἡμῖν σήμερον· καὶ ἄφες ἡμῖν τὰ ὀφειλήματα
+ἡμῶν , ὡς καὶ ἡμεῖς ἀφίεμεν τοῖς ὀφειλέταις ἡμῶν ,
+καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμὸν , ἀλλὰ ῥῦσαι
+ἡμᾶς ἀπὸ τοῦ πονηροῦ· ὅτι σοῦ ἐστιν ἡ βασιλεία (1),
+καὶ ἡ δύναμις, καὶ ἡ δόξα, εἰς τοὺς αἰῶνας. Ἀμήν.»
+
+# block=7
+²⁰ Rom. VI, 3. ²¹ Citatur a Maximo, ad caput 2, Dion. de Eccl. hier. ²² Citat. Anastasius , quæst.
+1. ²³ Matth. VI, 9.
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ ΙΗʹ.
+
+# block=9
+auditionem in illo esse scientiam , scientiam vero
+essentiam ; nec indigere Spiritum sanctum do-
+ctrina, utpote αὐτοδίδακτον. Attamen , quia scien-
+tiam cæteraque omnia habet Spiritus a Filio , tan-
+quam a processionis principio , utcunque ratione
+originis dici potest ab eo edoctus : quemadmodum
+eadem de causa per B. Athanasium oratione 2 con-
+tra Arianos, p. 357, minor illo prædicatur. Pericu-
+losissime vero Origenes tomo III in Joannem, vocari
+vult in quæstionem, an Spiritus sanctus , quem
+doceri a Filio ex Joannis XIV, 14, colligit , omnia
+capiat quæ Filius cognoscit ; quamvis sanctus Spi-
+ritus εὐλάβειαν, reverentiam, inibi profiteatur. COT.
+(100) Ἀποτεταγμένος τῷ Σατανᾷ, etc. Ita apud
+Anastasium codices Regii : ubi in libris impressis
+inseritur, καὶ πᾶσι τοῖς ἔργοις αὐτοῦ , et ubi Gen-
+tianus Hervetus legisse videtur, τοῖς δαίμοσι , καὶ
+ταῖς ἀπάταις αὐτῶν· vertit enim dæmonibus , et
+eorum fraudibus. Vide infra cap. 41, lib. VII. ID.
+(1) Ὅτι σοῦ ἐστιν ἡ βασιλεία , etc. Clausula
+orationis Dominicæ Matth. VI, 13, in Græco dun-
+taxat. Quam tamen majori ex parte agnoscit auctor
+Operis imperfecti in illud Evangelium , Latinus ut
+videtur. Eam viri docti plures censent ex Consti-
+tutionibus apostolicis et ex Liturgiis in sacrum tex-
+tum irrepsisse , probabili sane judicio , maxime
+quia varie effertur tam in Liturgiis et Euchologio ,
+quam in aliis libris. Legesis Chrysostomum tomo V,
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=12
+Qualis esse debeat baptismo initiatus.
+
+# block=14
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=15
+Ποίαν αἰτίαν ἔχει τὸ εἰς τὸν Χριστὸν βάπτισμα·
+καὶ διατὶ τῶν ἐν αὐτῷ ἕκαστον λέγεταί τε καὶ
+πράττεται.
+
+# block=18
+Quam causam habeat baptismus in Christum , et
+quare singula in eo , et dicantur, et fiant.
+
+# block=19
+799
+
+# block=20
+CAPUT XVII.
+
+# block=21
+ΚΕΦΑΛΑΙΟΝ ΙΖʹ.
+
+# block=22
+CAPUT XVIII.
+
+# block=23
+Οἷος ὀφείλει εἶναι ὁ μεμυνημένος.
+
+# block=24
+800

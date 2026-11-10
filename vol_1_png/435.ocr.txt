@@ -1,0 +1,231 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,164,2342,917,2728
+2,168,1864,919,2232
+3,173,1050,936,1654
+4,969,441,1715,960
+5,965,1049,1724,1657
+6,179,443,935,1001
+7,166,2237,918,2340
+8,953,1864,1715,2032
+9,947,2526,1704,2731
+10,171,1691,1714,1762
+11,951,2097,1707,2198
+12,950,2031,1707,2098
+13,973,139,1713,349
+14,1235,1008,1436,1044
+15,770,1803,1068,1836
+16,429,1010,673,1044
+17,1236,399,1445,435
+18,948,2257,1709,2528
+19,182,135,929,391
+20,697,85,1157,120
+21,951,2198,1704,2266
+22,177,80,245,124
+23,1649,92,1719,130
+24,407,398,697,438
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=22
+269
+
+# block=20
+EPISTOLA I AD CORINTHIOS.
+
+# block=23
+270
+
+# block=19
+ἀφήξω (92), καὶ ποῦ κρυβήσομαι ἀπὸ τοῦ προσώ-
+που σου ; ἐὰν ἀναβῶ εἰς τὸν οὐρανόν, σὺ εἶ ἐκεῖ ·
+ἐὰν ἀπέλθω εἰς τὰ ἔσχατα τῆς γῆς, ἐκεῖ ἡ δεξιὰ
+σου · ἐὰν καταστρώσω εἰς τὰς ἀβύσσους (93),
+ἐκεῖ τὸ πνεῦμά σου. Ποῖ οὖν τις ἀπέλθῃ, ἢ ποῦ
+ἀποδράσῃ ἀπὸ τοῦ τὰ πάντα ἐμπεριέχοντος ;
+
+# block=13
+dar a facie tua? Si ascendero in cœlum, tu es illic :
+si abiero ad extrema terræ, illic est dextera tua : si
+divertero in abyssos, illic est spiritus tuus ¹⁶. Quo
+igitur abibit quispiam, vel quo aufugiet ab eo qui
+omnia complectitur ?
+
+# block=24
+ΚΕΦΑΛΑΙΟΝ ΚΘ'.
+
+# block=17
+CAPUT XXIX.
+
+# block=4
+Accedamus ergo ad eum in sanctitate animæ,
+castas et impollutas manus elevantes ¹⁷ ad illum,
+diligentes benignum et misericordem Patrem no-
+strum, qui [nos] sibi ipsi electionis partem fecit.
+Sic enim scriptum est : Quando dividebat Altissimus
+gentes, quando disseminavit filios Adæ; constituit
+terminos gentium secundum numerum angelorum
+Dei : factus est pars Domini, populus ejus Jacob,
+funiculus hæreditatis ejus, Israel ¹⁸. Et in alio loco
+ait : Ecce Dominus accipit sibi gentem e medio gen-
+tium, sicut homo accipit primitias areæ suæ : et ex
+gente illa egredientur Sancta sanctorum ¹⁹.
+
+# block=6
+Προσέλθωμεν οὖν αὐτῷ ἐν ὁσιότητι ψυχῆς, ἀγνὰς
+καὶ ἀμιάντους χεῖρας αἴροντες πρὸς αὐτόν, ἀγα-
+πῶντες τὸν ἐπιεικῆ καὶ εὔσπλαγχνον Πατέρα ἡμῶν,
+ὃς ἐκλογῆς (94) μέρος ἐποίησεν ἑαυτῷ. Οὕτω γὰρ γέ-
+γραπται· "Ὅτε διεμέριζεν (95) ὁ Ὕψιστος ἔθνη, ὡς
+διέσπειρεν (96) υἱοὺς Ἀδάμ, ἔστησεν ὅρια ἐθνῶν
+κατὰ ἀριθμὸν ἀγγέλων Θεοῦ (97). Ἐγενήθη μερὶς
+Κυρίου λαὸς αὐτοῦ Ἰακώβ, σχοίνισμα κληρονο-
+μίας αὐτοῦ Ἰσραήλ. Καὶ ἐν ἑτέρῳ τόπῳ λέγει·
+Ἰδοὺ Κύριος λαμβάνει ἑαυτῷ ἔθνος ἐκ μέσου
+ἐθνῶν, ὥσπερ λαμβάνει ἄνθρωπος (98) τὴν ἀπαρ-
+χὴν αὐτοῦ τῆς ἅλω, καὶ ἐξελεύσεται ἐκ τοῦ
+ἔθνους ἐκείνου "Ἅγια ἁγίων.
+
+# block=14
+CAPUT XXX.
+
+# block=16
+ΚΕΦΑΛΑΙΟΝ Λ'.
+
+# block=5
+Cum igitur Sancti pars simus, faciamus omnia
+quæ ad sanctitatem pertinent ; vitantes obtrecta-
+tionem, impuros ac impudicos complexus, ebrieta-
+tes novarumque rerum studia, et abominandas cu-
+piditates, detestandum adulterium, exsecrabilem
+superbiam. Deus enim, inquit ²⁰, superbis resistit ;
+humilibus autem dat gratiam. Agglutinemur ergo
+ad eos, quibus gratia a Deo concessa est. Indua-
+mus concordiam, humiles, continentes, ab omni
+susurro et obtrectatione procul recedentes, operibus
+et non verbis justi effecti. Dicit enim : Qui multa
+loquitur, et vicissim audiet : aut eloquens videtur
+esse justus ? Benedictus natus mulieris, brevis vitæ.
+Ne multus sis in verbis ²¹. Laus nostra in Deo sit,
+
+# block=3
+Ἁγίου οὖν μερὶς ὑπάρχοντες, ποιήσωμεν τὰ τοῦ
+ἁγιασμοῦ πάντα, φεύγοντες καταλαλιάς, μιαράς τε
+καὶ ἀγνοὺς (99) συμπλοκάς, μέθας τε καὶ νεωτερι-
+σμούς, καὶ βδελυκτὰς ἐπιθυμίας, μυσαρὰν μοιχείαν,
+βδελυκτὴν ὑπερηφανίαν. Θεὸς γάρ, φησίν, ὑπερη-
+φάνοις ἀντιτάσσεται, ταπεινοῖς δὲ δίδωσι χάριν.
+Κολληθῶμεν οὖν ἐκείνοις, οἷς ἡ χάρις ἀπὸ τοῦ Θεοῦ
+δέδοται. Ἐνδυσώμεθα τὴν ὁμόνοιαν, ταπεινοφρονοῦν-
+τες, ἐγκρατευόμενοι, ἀπὸ παντὸς ψιθυρισμοῦ καὶ κα-
+ταλαλιᾶς πόῤῥω ἑαυτοὺς ποιοῦντες, ἔργοις δικαιού-
+μενοι, καὶ μὴ λόγοις. Λέγει γάρ· 'Ο τὰ πολλὰ λέ-
+γων, καὶ ἀντακούσεται, ἢ ὁ εὔλαλος οἴεται εἶναι
+δίκαιος ; εὐλογημένος γεννητὸς γυναικὸς ὀλιγό-
+βιος. Μὴ πολὺς ἐν ῥήμασιν γίνου. Ὁ ἔπαινος ἡμῶν
+
+# block=10
+¹⁶ Psal. cxxxviii, 7-10.  ¹⁷ I Tim. ii, 8.  ¹⁸ Deut. xxxii, 8, 9.  ¹⁹ Deut. iv, 34 ; Num. xviii, 27 ; II
+Paral. xxxi, 14.  ²⁰ Jac. iv, 6 ; I Petr. v, 5.  ²¹ Job xi, 2, 3 ; xiv, 1.
+
+# block=15
+VARIORUM NOTÆ.
+
+# block=2
+auctoritatis Ecclesiæ tenent. Si autem alias invenerit
+a pluribus, alias a gravioribus haberi; quanquam
+hoc facile invenire non possit, æqualis tamen aucto-
+ritatis eas habendas puto. COT. — Hinc patet cla-
+riss. Is. Vossium in responsione ad iteratas Ric.
+Simonii objectiones immerito existimare vocem
+γραφεῖον ab Aquila fuisse confictam. Hinc etiam
+firmatur Epiphanii locus hæres. 29, sect. 7, ubi de
+Nazarenis agens, ait libros hagiographos a Judæis
+γραφεῖα appellari. Post Epiphanium idem tradit Da-
+mascenus. COLOM.
+
+# block=8
+(94) "Ος ἐκλογῆς. Mancam esse lectionem putant
+nonnulli interseruntque ἡμᾶς vel τὰ ἔθνη. Rem ta-
+men acu tetigisse mihi videtur DAV. qui levi muta-
+tione rescribit, οὓς ἐκλογῆς, ut ad vocem ἡμῶν re-
+feratur. GALL.
+
+# block=12
+(95) Διεμέριζεν. Ita ms. apud Wott.,' sic et
+edit. Londin. Al. διεμέρισεν. ID.
+
+# block=11
+(96) Διέσπειρεν. Sic ms. ut apud LXX, cui veræ
+lectioni in marginem rejectæ, istam in textu substi-
+tuit Jun., cum edit. δὲ ἔσπειρεν. Wott. ID.
+
+# block=21
+(97) Θεοῦ. Hæc vox deest codd. impp, si Londin.
+excipias, quæ tamen exstat in ms. et exhibent LXX. ID.
+
+# block=7
+(92) 'Αφήξω. Vox nonnullis suspecta ; sed eam
+fuisse usurpatam a Platone, VII De rep., idemque
+significare ac ἀφίξομαι, advertit Mill. GALL.
+
+# block=18
+(98) "Ὥσπερ λαμβάνει ἄνθρωπος. Recte obser-
+vavit Frey. hunc locum Clementem efformasse tum
+ex Num xviii, 27, tum ex II Paral. xxxi, 14, ubi
+legitur : Δοῦναι τὰς ἀπαρχὰς Κυρίου, καὶ τὰ "Ἅγια
+τῶν ἁγίων. Ut sensus sit : Deus sibi ex reliquis
+hominibus separavit nos, et fecit ἐκλογῆς μέρος, ut
+ex area decerpitur ἡ ἀπαρχὴ Deo sacra, quæ sit
+"Ἅγια ἁγίων. ID.
+
+# block=1
+(93) 'Εὰν καταστρώσω. Sic optime expressit
+Clemens vim verbi Hebraici הִצִּיַע, quod sonat stra-
+vit. Neque enim semper ille sequitur versionem τῶν
+O', sed interdum vel suam, vel aliorum Hebraice do-
+ctorum præfert. Veritas Hebraica sonat Latine : Si
+stratum fecero, vel stratum posuero in abysso, vel
+in sepulcro. Et sic Græce : 'Εὰν καταστρώσω εἰς τὰς
+ἀβύσσους. BOIS. GALL. — 'Εὰν καταστρώσω εἰς τὰς
+ἀβύσσους. Sic Job xvii, 13 : 'Εν δὲ γνόφῳ ἔστρωταί
+μου ἡ στρωμνή, verbum autem καταστρωννύειν hoc
+loco, proxime accedit ad fontem Hebraicum. JUN.
+
+# block=9
+(99) 'Αγνοὺς συμπλοκάς. Ex incuria librarii
+mendum hic sane patet. Hinc al. legunt λάγνους. Al.
+et forte rectius, ἀναγνούς : vox ecclesiasticis scri-
+ptoribus usitatior. ID. — 'Αγνούς, lege λάγνους ex
+reverendi Patris conjectura. Hesychius : λάγνος, ὁ
+αἰσχρός, περὶ πορνείαν ἐπτοημένος. COLOM.

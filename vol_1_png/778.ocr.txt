@@ -1,0 +1,204 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1027,2433,1778,2706
+2,262,121,1022,598
+3,245,2534,995,2706
+4,1050,124,1808,599
+5,244,2400,997,2538
+6,253,785,1800,862
+7,244,934,999,2405
+8,672,67,1389,109
+9,872,888,1172,925
+12,1024,946,1798,2438
+14,288,645,1023,692
+15,257,66,341,110
+16,1739,70,1815,114
+17,513,602,743,644
+18,269,688,1009,742
+19,1277,596,1551,646
+20,1125,642,1723,696
+21,1075,680,1805,748
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1027 source_y1=2433 source_x2=1778 source_y2=2706
+ (97) Ἐπίσκοπον καὶ πρεσβύτερον, etc. Imitatur
+atque explicat pseudoapostolica lex præceptum
+apostolicum de ordinandis monogamis : quos vult
+manere cælibes, si uxorem ante ordinationem ami-
+serint, vel postea amittant. Verum constitutionem
+Nicetas Pectoratus libro contra Latinos detorquet ad
+Græcorum morem ; apud quos prohibentur quidem
+a nuptiis qui antequam uxorem ducerent ordinati
+
+# block=2 source_x1=262 source_y1=121 source_x2=1022 source_y2=598
+ac repugnantes veritati. Consimiles libros nunc
+quoque ediderunt inauspicati homines, calumnian-
+tes creationem, nuptias, providentiam, procrea-
+tionem liberorum, legem, prophetas, ascribentes
+barbara quædam nomina, scilicet, ut ipsi dicunt
+angelorum, ut verum autem proferatur, dæmonum,
+quorum afflatu loquuntur. ⁴⁷ Fugite doctrinam
+eorum, ne participes efficiamini supplicii parati iis
+qui hæc, ut fallerent ac perderent fideles et incul-
+patos Christi Jesu discipulos, [filios ac hæredes]
+conscripserunt.
+
+# block=3 source_x1=245 source_y1=2534 source_x2=995 source_y2=2706
+ (94) Ἠλία. Meminit Georgius Syncellus, Chronici
+pag. 27, post Origenem ad Matthæi xxvii, 9, et Atha-
+nasium in Synopsi sacræ Scripturæ. Canone Scri-
+pturarum Nicephori patriarchæ, Ἠλίας προφήτης,
+210 quo ab Anastasio bibliothecario interprete le-
+
+# block=4 source_x1=1050 source_y1=124 source_x2=1808 source_y2=599
+Ἠσαΐου (92) τε καὶ Δαβὶδ (93), καὶ Ἠλία ⁴³ (94), καὶ
+τῶν τριῶν πατριαρχῶν (95), φθοροποιά, καὶ ⁴⁴ τῆς
+ἀληθείας ⁴⁵ ἐχθρά. Τοιαῦτα καὶ νῦν ἐποίησαν ⁴⁶ οἱ
+δυσώνυμοι, διαβάλλοντες δημιουργίαν, γάμον, πρό-
+νοιαν, τεκνογονίαν, νόμον, προφήτας· βάρβαρά τινα
+ὀνόματα (96) ἐγγράφοντες, καί, ὡς αὐτοί φασιν, ἀγ-
+γέλων, τὸ δ᾽ ἀληθὲς εἰπεῖν, δαιμόνων, τῶν αὐτοῖς
+ὑπηχούντων· ὧν ἀποφεύγετε τὴν διδασκαλίαν, ἵνα
+μὴ μετάσχητε τῆς τιμωρίας τῶν αὐτὰ συγγραψαμέ-
+νων ἐπ᾽ ἀπάτῃ καὶ ἀπωλείᾳ τῶν πιστῶν καὶ ἀμέμ-
+πτων τοῦ Κυρίου ⁴⁸ Ἰησοῦ μαθητῶν ⁴⁹.
+
+# block=5 source_x1=244 source_y1=2400 source_x2=997 source_y2=2538
+ (93) Δαβίδ. Ut psalmus qui apud Græcos sequi-
+tur centesimum quinquagesimum. Quo de psalmo
+dicemus forsan aliquid in notis ad Ignatianas epi-
+stolas. ID.
+
+# block=6 source_x1=253 source_y1=785 source_x2=1800 source_y2=862
+⁴³ Tim. Ἠλίου. ⁴⁴ Tim. δὲ καί. ⁴⁵ Tim. ἀντίθητα. ⁴⁶ Tim. ἐπενόησαν. ⁴⁷ Ignat. l. interpol. ad
+Philad. 6. ⁴⁸ Deest in Timotheo. ⁴⁹ al. add. καὶ υἱῶν καὶ κληρονόμων.
+
+# block=7 source_x1=244 source_y1=934 source_x2=999 source_y2=2405
+tant qui appellantur Chaldæi, Mandaitæ, Sabaitæ,
+et Christiani S. Joannis Baptistæ, referente Abra-
+hamo Ecchellensi ad præfationem concilii Nicæni,
+et ad Hebedjesu catalogum Cот.
+ (92) Ἠσαΐου. Generatim, Origenes in Matth.
+xiii, 57; xxiii, 37, cujus et videnda epistola ad Ju-
+lium Africanum. Specialiter, nomine τοῦ ἀναβατικοῦ
+Ἠσαΐου, Epiphanius hær. 40, 2; 67, 3, Hiero-
+nymus in Isaiæ lxiv, 4 : Ascensio Isaiæ. Item no-
+mine Ἠσαΐου ὁράσεως, in paulo ante laudato cata-
+logo exemplaris Regii 1789. Quia vero (ut id obiter
+moneam) teste Hieronymo legebatur in Ascensione
+Isaiæ illud quod ab Apostolo citatur I Corinth. ii,
+9 : Quod oculus non vidit, etc., accusat autem He-
+gesippum Stephanus Gobarus apud Photium, quod
+hoc esse falsum putaverit, suspicari quis posset ita
+factum ab Hegesippo in contemptum voluminis
+apocryphi. Verum aliter ego conjicio, ac Hegesip-
+pum culpa carere arbitror : ut qui non neget verum
+aliquando extitisse, ea quæ Deus suis præparavit,
+invisa esse, inaudita et incognita ; sed qui velit,
+amplius verum non esse post incarnationem Chri-
+sti, et missionem S. Spiritus. Subjungente Paulo :
+Nobis autem revelavit Deus per Spiritum suum, at-
+que Hegesippo confirmante sententiam suam per
+testimonium Matth. xiii, 16. En verba Stephani
+Tritheitæ cum aliquantulo exactiori versione : Ὅτι
+τὰ ἡτοιμασμένα τοῖς δικαίοις ἀγαθὰ οὔτε ὀφθαλ-
+μὸς εἶδεν, οὔτε οὖς ἤκουσεν, οὔτε ἐπὶ καρδίαν ἀν-
+θρώπου ἀνέβη. Ἡγήσιππος μέντοι, ἀρχαῖός τε ἀνὴρ
+καὶ ἀποστολικός, ἐν τῷ πέμπτῳ τῶν ὑπομνημάτων,
+οὐκ οἶδ᾽ ὅ τι καὶ παθών, μάτην μὲν εἰρῆσθαι ταῦτα
+λέγει, καὶ καταψεύδεσθαι τοὺς ταῦτα φαμένους τῶν
+τε θείων Γραφῶν, καὶ τοῦ Κυρίου λέγοντος· Μακά-
+ριοι οἱ ὀφθαλμοὶ ὑμῶν οἱ βλέποντες, καὶ τὰ ὦτα
+ὑμῶν τὰ ἀκούοντα, καὶ τὰ ἑξῆς. Quod bona quæ præ-
+parata sunt justis nec oculus vidit, nec auris audivit,
+nec in cor hominis ascenderunt. Quanquam Hegesip-
+pus vir antiquus et apostolicus, libro quinto Commen-
+tariorum, haud scio quid in animo habens aut qua-
+nam ratione permotus, frustra hæc dici ait, et eos
+qui hæc loquuntur mentiri adversus sacram Scriptu-
+ram, et contra Christum dicentem : Beati oculi vestri
+qui vident, et aures vestræ quæ audiunt, etc. ID.
+
+# block=8 source_x1=672 source_y1=67 source_x2=1389 source_y2=109
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9 source_x1=872 source_y1=888 source_x2=1172 source_y2=925
+VARIORUM NOTÆ.
+
+# block=12 source_x1=1024 source_y1=946 source_x2=1798 source_y2=2438
+gebatur Ἠλίου προφητεία. Verum Hieronymus,
+epist. 101 ad Pammachium De optimo genere in-
+terpretandi cap. 4, et lib. xvii Commentariorum in
+Isaiam non multo ante finem, Apocalypsim Eliæ
+appellat; quo etiam nomine donatur in ins. canone,
+seu indiculo sæpe citato. Cæterum positum fuisse
+eo in apocrypho testimonium quod exstat I Corinth.
+ii, 9, docent Origenes, Hieronymus, Syncellus et
+cod. Reg. 607, 1525, idemque de altero testimonio
+Ephes. v, 14, colligitur ex Epiphanii verbis, hæresi
+42, quæ est Marcionistarum, p. 372, quod tamen
+a Georgio Syncello et in dictis mss. tribuitur
+pseudo-Jeremiæ, sed potuit ad utrumque apocry-
+phum pertinere, ut de priori apostoli textu ait
+Hieronymus. An autem ex hoc libro, vel unde He-
+bræi hauserint fabulam ab Origene relatam in
+Joan. I, 21, quod Phinees sit etiam Elias, quis va-
+leat divinare? ID.
+ (95) Τριῶν πατριαρχῶν. Opinor, - Abrahami,
+Isaaci et Jacobi. Atque is est forsan liber qui in-
+scribitur Πατριάρχαι, in Athanasii Synopsi, in Nice-
+phori CP. Canone, et in ms. Laterculo. Et si tibi
+placuerit, Hieronymus Vigilantio, legito fictas reve-
+lationes omnium patriarcharum et prophetarum. ID.
+ (96) Βάρβαρά τινα ὀνόματα. Hæc fuerunt pri-
+morum hæreticorum deliramenta, Simonianorum,
+Nicolaitarum, Basilidianorum, Gnosticorum, Phi-
+bionitarum, Ophitarum, etc., compilantium tum
+vocabula Hebraica sacræ Scripturæ, tum nomina
+magicis libris inserta : ut discimus ab Origene
+tomo vi Contra Celsum, p. 306, Augustanæ edi-
+tionis; quem tamen locum Fullerus Miscellaneo-
+rum sacrorum lib. iv, cap. 15, ac post eum Capel-
+lus oratione De nomine tetragrammato, ex mendaci
+ms. tribuunt ejusdem Patris operi Περὶ ἀρχῶν. At-
+que hinc lux oritur Gennadii verbis De dogmatibus
+ecclesiasticis, cap. 52 : Duo principia sibi ignota
+introducunt, ut Cerdon et Marcion : vel contraria, ut
+Manichæus : vel tria et barbara, ut Sethianus et
+Theodotus : vel multa, ut Valentinus. Pari modo
+nomina angelorum habent Esseni apud Josephum
+lib. II De bello Judaico, cap. 12, multaque invenies
+in apocrypho Henochi, in oratione Aldeberti, Act.
+concilii Romani III, anno 745, in libris magorum,
+Hæbræorum, Mahometanorum. ID.
+
+# block=14 source_x1=288 source_y1=645 source_x2=1023 source_y2=692
+De clericis conjugalia præcepta.
+
+# block=15 source_x1=257 source_y1=66 source_x2=341 source_y2=110
+955
+
+# block=16 source_x1=1739 source_y1=70 source_x2=1815 source_y2=114
+956
+
+# block=17 source_x1=513 source_y1=602 source_x2=743 source_y2=644
+CAPUT XVII.
+
+# block=18 source_x1=269 source_y1=688 source_x2=1009 source_y2=742
+In episcopum, presbyterum et diaconum consti-
+
+# block=19 source_x1=1277 source_y1=596 source_x2=1551 source_y2=646
+ΚΕΦΑΛΑΙΟΝ ΙΖ΄.
+
+# block=20 source_x1=1125 source_y1=642 source_x2=1723 source_y2=696
+Περὶ κληρικῶν γαμικὰ παραγγέλματα.
+
+# block=21 source_x1=1075 source_y1=680 source_x2=1805 source_y2=748
+Ἐπίσκοπον καὶ πρεσβύτερον (97) καὶ διάκονον εἶ-

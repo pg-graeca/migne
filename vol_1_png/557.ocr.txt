@@ -1,0 +1,160 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,167,171,923,815
+2,165,825,920,2654
+3,956,166,1704,1477
+4,956,1489,1706,2654
+9,532,117,1296,155
+10,170,114,226,151
+11,208,2690,568,2732
+13,1642,130,1697,165
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+513
+
+# block=9
+CONSTITUTIONES APOSTOLICÆ. — PROOEMIA.
+
+# block=13
+514
+
+# block=3
+in loco præponit pseudo-Clemens, in aliis multis
+postponit. Phœnicenne patriam habuerunt quicun-
+que iisdem mensium nominibus usi inveniuntur,
+quibus διαταγεῖς nostri?
+Ad hæc, dubito affirmare cum viris doctis, τῶν
+ἀποστόλων διδαχάς seu διδαχήν, apud Eusebium
+Hist. lib. Ⅲ, cap. 25, Athanasium in Epistola fes-
+tali 39, et in Synopsi sacræ Scripturæ, si illius est,
+Nicephorum Constantinopolitanum in Στιχομετρίᾳ,
+(ubi vulgo legitur διδαχή, cum ms. codex, si fides
+Joanni Croio, cap. 1 Observationum in Novum
+Testamentum, exhibeat διαδοχαί, manifesto arbi-
+tror, vitio pro διδαχαί) et Nicephorum Callisti Eccles.
+Hist., lib. Ⅱ, cap. 46, diversum esse opus a Con-
+stitutionibus apostolicis, sive Catholica doctrina. Zo-
+naras enim ad mox dictam Athanasii Epistolam,
+laudatus ab eruditissimo ac diligentissimo Usserio,
+in Prolegomenis epistolarum Ignatianarum, cap. 7,
+quique exstat etiam in mss. 277, 507. Reg. Biblioth.
+loquitur ad hunc modum : Τὴν δὲ διδαχὴν τῶν ἀπο-
+στόλων, τινὲς λέγουσιν εἶναι τὰς διὰ τοῦ Κλήμεντος
+γραφείσας τῶν ἀποστόλων διατάξεις, ἃς ἡ λεγομένη
+ἕκτη σύνοδος ἀναγινώσκεσθαι οὐ συγχωρεῖ, ὡς νοθευ-
+θείσας καὶ παραφθαρείσας³⁹·⁵⁸ ὑπὸ αἱρετικῶν. Conci-
+nitque Matthæus Blastares, collector Canonum ine-
+ditus, in multorum bibliothecis latens, littera β,
+cap. 11, ubi de S. Athanasii loco, his verbis : "Ἔξω-
+θεν δὲ τῶν κανονιζομένων εἶναί φησι, τὴν Σοφίαν
+Σολομῶντος, etc., τὸν Ποιμένα, καὶ τὴν διδαχὴν τῶν
+ἁγίων ἀποστόλων· ταύτην δὲ ἡ ἕκτη σύνοδος ἠθέτησεν.
+
+# block=1
+habere nomine Clementis prænotatum, extra Itine-
+rarium Petri et Canones apostolorum.
+Sed et veritati adversatur, Constitutionum apo-
+stolicarum compositorem nomen Clementis Romani
+sibi non assumpsisse. Quod nomen et in fronte
+voluminis præfixum cernitur, et assertores habet cum
+canonibus, apostolorum ultimo, et Trullano 2, Pho-
+tium, Nicetam Pectoratum, Zonaram, Alexium Ari-
+stinum, Balsamonem, Matthæum Blastarem, Nice-
+phorum Callisti, Nicetam Serronium, etc., refraga-
+torem autem ex antiquis neminem. Nec mirum si
+qui apostolorum Diataxes scribebat , apostolorum
+personam induerit ; Clementem vero, hoc est, ut
+credi volebat, se, putaverit in libri corpore occul-
+tandum.
+
+# block=2
+At ista mihi ambigua sunt, quo primum tempore
+libri Constitutionum pseudoapostolicarum lucem
+conspexerint, quando interpolati sint, quem habue-
+rint parentem, quem corruptorem, et quibus in lo-
+cis fuerint depravati. Certo novi, quod primus scri-
+ptor post tempora apostolica et ante Epiphanium
+vixerit; sed an propior illis vel huic, plane nescio.
+Nempe Patrum secundi ac tertii sæculi silentium
+non est nota indubia, non exstitisse eorum ætate
+Diataxes : quandoquidem apocrypha diu ignorantur,
+diutius contemnantur; unde incerta solent habere
+principia. Utrum etiam is in eodem ac Arius hære-
+seos luto hæserit , necne, dicere non possum.
+S. Epiphanius laudem orthodoxiæ ei tribuit ; et quæ
+in opere Ariana videntur, forte interpolatori tribui
+debent, ut a Trullanis censetur ; forte ἀρχαϊκὰ sunt,
+hæretica non sunt, depellique, licet ægre , possunt
+juxta mentem Photii. Quid tamen si Epiphanium
+deceperit titulus? si catholicum putaverit, quod
+apostolicum autumabat, nec inexcusabile videbatur?
+Jam interpolationis centones ignoti fuerunt Epi-
+phanio, et scriptori Operis imperfecti in Matthæum;
+noti Anastasio Antiocheno Quæstionum ac Respon-
+sionum auctori : quo autem tempore primum ex
+otiosi hominis officina manaverint, similiter non li-
+quet. Obscurum præterea quod aiunt, alii ab eadem
+manu mutationes in Ignatio et in Constitutionibus
+prodiisse, alii a Diataxeon consarcinatore pseudo-
+Ignatium solere compilari quasi vel non potuerit
+B. Ignatii depravator ex Catholica doctrina complura
+mutuari; vel non credibilius fiat, sua ex pseudo-
+Clementinis Diataxibus auxisse pseudo-Ignatium;
+cujus interpolationes verus Ignatius manifestissimas
+facit; cum Constitutionum corruptelæ præter pau-
+cissimas occultissimæ sint? Mitto viri docti Davidis
+Blondelli in censura epistolæ primæ decretalis Cle-
+menti ascriptæ divinationem : Quod qui διαταγὰς
+scripsit, natione fuerit Palæstinus aut Phœnix, ut-
+pote qui thronum Hierosolymitanum reliquis præ-
+ferat, lib. Ⅷ, cap. 10, et nomina mensibus inventa
+a Tyriis imponat. Non agitur de eminentia sedium,
+ubi episcopus Alexandrinus præteritur. Jacobum eo
+
+# block=4
+Sed contra sic argumentantur. Primo, Athana-
+sius Διδαχὴν τῶν ἀποστόλων inter eos libros nume-
+rat qui catechumenis legendi essent; cum libri Con-
+stitutionum episcopis sint dicati, resque ad Eccle-
+siæ regimen spectantes tractent, et alia quædam
+μυστικώτερα , quæ idcirco canone apostolorum ul-
+timo in vulgus efferri vetantur. Secundo, διδαχή,
+apud Nicephorum Constantinopolitanum , ejusque
+στιχομετρίας interpretem Anastasium Bibliotheca-
+rium, versiculis 200, solummodo constat; longe
+autem prolixiores sunt Constitutiones. Tertio, in
+Scripturarum indiculo, Anastasii Nicæni Quæstioni-
+bus subjecto, in publica Oxoniensis Academiæ Bi-
+bliotheca, Διδαχαὶ τῶν ἀποστόλων et Διδασκαλία Κλή-
+μεντος, ut distincta opera, pariterque apocrypha
+recensentur; at διδασκαλίας titulum præferunt Dia-
+taxes; itaque Διδαχαὶ a Constitutionibus secerni de-
+bent. Quarto, a Synopsi Athanasiana Διδαχὴ ἀπο-
+στόλων et Κλημέντια velut duo libri memorantur;
+in Clementinis autem continentur Constitutiones,
+quippe quæ Clementis nomen præferunt. Quinto,
+agens de Clementis operibus Eusebius, Doctrinas
+apostolorum omittit. Sexto, codicem apostolicarum
+Constitutionum multa Ariana complectentem, nec
+Ariani pro confirmatione sui erroris adduxerunt,
+nec adductum Athanasius expendit : quo fit ut,
+exstante Athanasianis temporibus Apostolorum Do-
+
+# block=11
+³⁹·⁵⁸ Al. παραγραφείσας.

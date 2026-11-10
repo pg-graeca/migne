@@ -1,0 +1,179 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,204,1051,951,2254
+2,198,2562,938,2698
+3,974,1444,1728,2413
+4,202,2263,938,2384
+5,202,147,951,482
+6,977,149,1737,1434
+7,192,488,943,1036
+8,808,2499,1110,2532
+9,982,2564,1732,2700
+10,753,89,1149,125
+11,232,2422,452,2454
+13,203,94,285,131
+19,1644,87,1721,120
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+# block=19 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=19
+1286
+
+# block=10
+RECOGNITIONUM LIB. III.
+
+# block=13
+1285
+
+# block=5
+tuin insinuatur ? Sic enim et futura sperantes non
+irascimur, et furorem cohibemus et mulieres despi-
+cimus spe futurorum sensum sublevantes, ut dixi,
+non omne quod sumus servile habentes femineis
+operationibus, sed aliud quidem serviens naturæ
+quod est corpus, sicut ostendimus, aliud vero
+liberum , mentem , quod est motus animæ immor-
+talis.
+
+# block=6
+se dividens , non defluens , non extendens aliquid.
+Mementote enim quia hæc corporum sunt passio-
+nes , quas etiam animæ tribuere subterfugimus ,
+timore ne forte immortalitas ei his attributis aufe-
+ratur. Genuit ergo Deus, quod et facturam vocare
+didicimus (84), hoc ipsum ergo vocare et genitu-
+ram et facturam et reliqua horum vocabuloruin ,
+illud quod sine schemate constat genitoris speci-
+men, ponere permittit. Quibus enim est differentia
+schematum , in ipsis necesse est observanda geni-
+tura et factura. Manendo ergo genuit Deus, non
+passus divisionem aliquam. Non enim honorabilius
+est Deo et hoc Ingenito illud quod est, eo quod non
+est velut genitum. Volens enim non tardam habuit
+virtutem ad quod voluit, nec excessit virtus volun-
+tatem; sed secundum mensuram, qualem voluit,
+talem et genuit. Si enim manendo , non patiendo,
+necessitati crassitudinis corpora servientia umbras
+exstare faciunt, quanto magis ingenitæ virtuti sub-
+sequentem demus Unigenitum voluntate proceden-
+tem. Sicuti autem rursus præintelliguntur umbris
+corpora, ita et plus præintelligitur et ingenita sub-
+stantia genitæ , etiam si ex eo quod erat, ut esset
+accepit. Idcirco igitur vere et genitura et factura
+et creatura competenter appellatur, quia substan-
+tia non est Ingenitum. Memor sum sane Simonem
+accusasse nos blasphemiæ, eo quod diceremus Fi-
+lium Dei Christum, tanquam hominibus et planta-
+tionibus Deum æquantes; vos vero ex desiderio
+discere festinate.
+
+# block=7
+VI. His igitur ita se habentibus, vestigium opti-
+mum ad intelligibilium comprehensionem invenimus
+cum Deo dicente. Incedamus ergo per eum sine
+periculo, utentes animæ immortali gubernaculo,
+ultra non sinentes irruere passionem carnalem illi
+immortali et intelligibili substantiæ, honorem tan-
+tum unicuique intelligibilium sequestrantes, quan-
+tum ei is quem esse vel præesse constat Deo per-
+mittit. Est enim primum, quod est ingenitum, cui
+et prophetæ testimonium perhibent : Ego Deus
+primus, et ego post hæc, et præter me Deus non
+est ⁸¹; hoc vero subauditur esse sine initio et in-
+genitum.
+
+# block=1
+VII. Clemens vero et cæteri interrogaverunt, quid
+est hoc Ingenitum , audire volentes. Et Petrus
+animadvertens ait : Non modicum periculum est
+de eo, quod sine principio est loqui vel audire, vos
+vero pro desiderio eorum quæ dicta sunt , immen-
+sitatem irruere periclitamini; et me hoc pati ut
+video captatis , qui putatis posse mihi de illo quod
+ineffabile est subripere. Moneo autem vos fratres
+et conservi , non quid sit quærere, sed quia ᵉˢᵗ
+tantummodo audire desiderare. Et de hoc plus ali-
+quid dicere non oportet. Est Ingenitum non sola
+appellatione honorandum, est enim et sine initio;
+hoc autem sine initio et Ingenitum est Deus, quod
+a sola opinione eorum quæ facta sunt annuntiatur,
+a se ipso autem comprehenditur. Non enim inve-
+niet aliquid sui primo fuisse, et aliquid postea
+factum conspicere sui, eo quod sine principio eum
+esse constat ; hæc autem eorum quæ facta sunt vi-
+sitatio, propter quod illud quod est ineffabile, ad
+inquisitionem sui, quod fuerit ante prævidere quam
+fuerit, spatium non habet; non enim secundatur
+ab eo qui est ipsius essentiæ curiositas. Novit igitur
+se ipsum , qui non interrogat se de se ipso. Sed
+hæc quidem etiam plus quam oportet diximus, amat
+enim illud quod est Ingenitum , silentio honorari
+tantummodo. Sine principio ergo hanc substan-
+tiam, secundum quod sentire potuimus, absque pe-
+riculo suscepistis. .
+
+# block=3
+IX. Omnibus autem libenter annuentibus ait Pe-
+trus : Manifesta est hujus incredulitatis via , o
+Aquila et cæteri. Qui enim pro certo nescierit,
+opinionem autem usque ad auditum susceperit,
+credere timet, cum facile possit excusationem ipsius
+incredulitatis a se abjicere præ gaudio ejus quod
+promittitur, assumptus publicare illam quam ha-
+buit de eo quod quæritur incredulitatem, cupiditate
+discendi non dubitat. Sed in secundo de hac re
+sermo, ne quando abstrahens vos incerta fidei spes
+excipiatur pro fide in inquisitionem. Ubique autem
+præferatur nobis Deus et de ipso cogitatus. Ultro
+inviolabilis exstans Deus ingenitus, operationem-
+que voluntate virginaliter custodivit. Quod autem
+non est Ingenitum, ultro virgo esse non potest.
+Factum est enim, tanquam sub tactum genitoris et
+factoris adductum. Intelligatur autem qualiter Deum
+decuit Unigenitum generare et primogenitum omnis
+creaturæ, sed non quasi ex aliquo; hæc enim ani-
+mantium et inanimantium est servitus. Sed nec in
+operationem veniens ipse sui aliquid genuit; non
+enim maneret inviolabilis et impassibilis, operatus
+
+# block=4
+VIII. Qui ergo esse non inchoavit prædictus Deus,
+genuit primogenitum omnis creaturæ, sicut Deum
+decuit ; non se immutans, non se convertens. non
+
+# block=11
+⁸¹ Isa. XLIV, 6.
+
+# block=8
+COTELERII NOTÆ.
+
+# block=2
+(84) Genuit ergo Deus, quod et facturam vocare di-
+dicimus, etc. Sic Ariani γέννημα, ποίημα, κτίσμα
+confundebant, eaque nomina tribuebant Filio, quem
+et substantiam genitam solebant appellare. Atque
+
+# block=9
+observatum fuit a viris doctis, non abstinuisse ante
+Arium quosdam antiquos Patres tribus postremis
+locutionibus, et consimilibus aliis. De substantia ge
+nita diximus ad Ignatium.

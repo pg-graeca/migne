@@ -1,0 +1,89 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,278,252,1160,2434
+2,1190,1276,1819,2013
+3,1186,2021,1816,2418
+4,1204,279,1826,1261
+5,272,2459,1807,2636
+6,650,2646,1091,2724
+7,1410,197,1618,238
+8,703,73,1467,135
+9,293,88,349,128
+10,605,165,852,236
+11,1745,82,1823,146
+
+# layer=format
+# block=1 fontSize=16px
+# block=2 fontSize=16px
+# block=3 fontSize=15px
+# block=4 fontSize=16px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=11
+392
+
+# block=9
+391
+
+# block=4
+Filium Dei Dominum nostrum
+Jesum Christum sancta virginitas
+suo gremio contulit, et corpus
+quod induit Dominus noster quod-
+que in hoc mundo doloribus et
+ærumnis destinavit ex sacra assum-
+psit virginitate. Hinc saltem menti
+tuæ pateat quanta sit virginitatis
+excellentia dignitasque. Visne
+Christianus esse? Omnia Christi ve-
+stigia sectare. Angelus fuit Joannes:
+talem esse decebat Domini nostri
+præcursorem, quo major non fuit
+inter natos mulierum ⁶⁴. Sanctus
+ille Domini angelus virgo fuit. Nun-
+tium ergo Domini æmulare et eum
+præ omnibus dilige.
+
+# block=2
+Sanctus quoque erat alter ille
+Joannes qui recubuit super pectus
+Domini : non enim sine causa illum
+Dominus sua prædilectione dignatus
+est. Eamdem viam amplexati sunt
+et Paulus, et Barnabas, et Timo-
+theus, quorum nomina sunt in libro
+vitæ 65, quique hujusmodi sancti-
+tati cum toto animi affectu adhæ-
+rentes, idemque certamen certantes,
+cursum suum consummærunt sine
+macula, sicut imitatores Christi, et
+filii Dei viventis.
+
+# block=3
+Scriptura sane idem nos docet de
+Elia, Eliseo, multisque aliis sanctis,
+quorum conversatio sancta fuit et
+immaculata. Hos itaque si æmulari
+peroptas, fortiter æmulare. Scri-
+ptum est enim : Mementote præposi-
+torum vestrorum, quorum intuentes
+
+# block=5
+“ Luc. vɪɪ, 28. “ Phil. ɪɶ, 3. Hæc verba dulcia erant et in ore et sub calamo sancti Clementis, qui,
+in hac Epistola sancti Pauli expresse inter electos nominatur. Seipsum vero sanctus pontifex præ mode-
+stia nominare non debuit. Cum Clemente, ait Apostolus, et cæteris adjutoribus meis quorum nomina sunt
+in libro vitæ! O prophetia beatitudinis, ore apostolico prolata! Utinam involvas homonymum exsulem
+sorti beatæ patroni anhelantem!

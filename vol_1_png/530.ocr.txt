@@ -1,0 +1,158 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,262,485,1020,1311
+2,1051,483,1816,1266
+3,263,2346,1812,2651
+4,1054,1345,1810,1481
+5,262,1347,1020,1484
+6,1051,348,1815,472
+7,262,353,1019,475
+8,671,1657,1436,1752
+9,298,2682,940,2727
+10,579,1871,1492,1975
+11,845,2006,1221,2058
+12,784,264,1290,302
+13,865,1790,1200,1831
+16,646,2223,1438,2262
+17,262,119,315,150
+18,680,113,1388,151
+19,1735,100,1811,150
+20,971,172,1131,226
+21,481,2146,1549,2200
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=47px
+# block=9 fontSize=15px
+# block=10 fontSize=37px
+# block=11 fontSize=17px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=16 fontSize=17px
+# block=17 fontSize=16px
+# block=18 fontSize=16px
+# block=19 fontSize=16px
+# block=20 fontSize=15px
+# block=21 fontSize=19px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=19
+460
+
+# block=18
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=17
+459
+
+# block=20
+IX (27).
+
+# block=12
+Ex vetere codice bibliothecæ Regiæ.
+
+# block=6
+.Τοῦ ἁγίου Κλήμεντος ἐπισκόπου Ῥώμης, μετὰ τὸν
+ἀπόστολον Πέτρον τοῦ ἀποστολικοῦ θρόνου ἡγησα-
+μένου, εἰς τὸ ἅγιον Πνεῦμα.
+
+# block=7
+S. Clementis episcopi Romani, qui post aposto-
+lum Petrum sedi apostolicæ præfuit, de Spiritu
+sancto.
+
+# block=2
+Μακάριος ὁ κεκλεισμένους ὀφθαλμοὺς ἀνοίξας, καὶ
+διωκόμενον ἄσθματι πνεῦμα διὰ τοῦ ἐγεῖραι ἀναλα-
+βών. Τὸ χαμαὶ κεῖσθαι τοῦτο ἦν καὶ τὸ ἐπὶ ποδῶν μὴ
+ἑστάναι, τὸ τὴν ἀλήθειαν οὐκ ἔχειν. Ἀνάστασις δέ ἐστι
+Πατρὸς ἡ ἐπίγνωσις, καὶ ἐπιφάνεια τοῦ Υἱοῦ, ᾗ τὰς
+αἰσθήσεις ἐφανέρωσε. Μακάριος ἀνὴρ ὁ γινώσκων τὴν
+τοῦ Πατρὸς δόσιν δι’ ἐκπορεύσεως τοῦ παναγίου
+Πνεύματος. Μακάριος ὁ γινώσκων καὶ λαβὼν, ὅτι τὸ
+ἅγιον Πνεῦμά ἐστιν ἡ δόσις αὐτοῦ, καὶ τοῦτο ἐν τύπῳ
+περιστερᾶς παρέσχε. Τὸ γὰρ ζῶον ἀκακίαν ἔχει, καὶ
+ἄχολόν ἐστιν. Ἄκακος δὲ ὁ Πατὴρ Πνεῦμα ἔδωκεν
+ἄκακον, ἀόργητον, ἀπίκραντον, τέλειον, ἀμίαντον, ἀπὸ
+σπλάγχνων ἰδίων προϊέμενος, ἵνα ῥυθμήσῃ τοὺς αἰῶ-
+νας, καὶ τοῦ ἀοράτου δῷ τὴν ἐπίγνωσιν. Ἔστιν οὖν
+τοῦτο ἅγιον καὶ εὐθὲς, τὸ ἀπ’ αὐτοῦ προελθὸν, καὶ
+δύναμις αὐτοῦ, καὶ θέλημα αὐτοῦ, εἰς πλήρωμα δόξης
+αὐτοῦ φανερωθέν. Τοῦτο οἱ λαβόντες τυποῦνται ἀλη-
+θείας τύπῳ, χάριτος τελείας.
+
+# block=1
+Beatus vir qui clausos oculos aperuit, et expul-
+sum flatus difficultate spiritum per resurrectionem
+accepit. Hoc erat humi jacere, et in pedes non
+stare, non habere veritatem. Resurrectio autem
+est Patris agnitio, et apparitio Filii, qua sensus
+patefecit. Beatus vir qui cognoscit Patris donum
+per processionem sanctissimi Spiritus. Beatus vir
+qui agnoscit et comprehendit Spiritum sanctum
+esse donum illius, ab eo in figura columbæ tradi-
+tum. Hoc enim animal innocentiam habet, et caret
+felle. Pater autem äb omni malitia alienus Spiri-
+tum dedit a malitia alienum, expertem iræ atque
+acerbitatis, perfectum, intaminatum e suis visce-
+ribus emittens, ut componeret sæcula, et ejus,
+qui videri non potest, præberet cognitionem. Ille
+ergo Spiritus sanctus est et rectus, qui ab ipso
+procedit, item virtus illius, et voluntas ejus, qui
+ad plenitudinem gloriæ ejus apparuit. Hunc qui ac-
+cipiunt, veritatis et gratiæ perfectæ typo signantur.
+
+# block=4
+mentum exscripsit. Nempe cum Basilii consilio,
+non secus atque præcedens, opportunum accom-
+modumque esset, probabile est Basilium neque
+illud omissurum fuisse, si ibidem exstitisset.
+
+# block=5
+(27) A Joanne Baptista Cotelerio erutum est, et
+vulgatum inter notas ad libri I Recognitionum ca-
+put 24, pag. 347. Non ausim asserere ex eodem
+opere excerptum, ex quo Basilius superius frag-
+
+# block=8
+S. CLEMENTIS I
+
+# block=13
+ROMANI PONTIFICIS
+
+# block=10
+EPISTOLÆ DECRETALES
+
+# block=11
+(MANSI, Concil., I, 107.)
+
+# block=21
+D. COUSTANTII MONITUM IN EPISTOLAM SEQUENTEM.
+
+# block=16
+(Epistolæ Romanorum Pontif., t. I; Append., p. 1.)
+
+# block=3
+Joannes Baptista Cotelerius inter ea, quæ Clementina inscripsit ⁸⁰⁻⁸⁵, epistolam sequentem Græce et
+Latine edidit. Ejusdem interpretationem jam habebamus a Rufino acceptam, quam Isidorus Mercator,
+adoptans in fronte collectionis suæ cum non modica accessione præposuit. Cum autem hanc Isidori col-
+lectionem suo loco exhibituri simus, nonnullis forte supervacaneum videbitur, epistolam ei insertam
+aut hic repræsentare, aut illic recudere. Sed neque hanc sine Græco, quo primum scripta est, edere,
+neque in mera Isidori collectione Græcum, quo caruit, adjicere convenit. Eo autem propensius primige-
+nium textum Græcum una cum Cotelerii interpretatione hic præmittimus, quod Rufini e Græco in
+Latinum conversiones quam liberæ sint et indiligentes, nemo non novit. Qui autem illius desiderat in-
+terpretationem, Mercatoris collectionem, in qua competentem sibi locum obtinebit, adeat.
+
+# block=9
+⁸⁹⁻⁹³ Patres Apost., I sæc., tom. I, pag. 535.

@@ -1,0 +1,140 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,202,166,950,2207
+2,199,2246,1722,2716
+3,977,161,1727,2218
+5,762,115,1176,150
+7,201,114,283,156
+8,1307,160,1311,164
+9,1661,102,1741,152
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+tertia vel quarta hora acceperint, jejunent usque ad
+vesperam. Sic secreta sanctificatione æterna custo-
+dienda sunt sacramenta. De vasis sane sacris ita
+gerendum est : Altaris palla, cathedra ³⁹, cande-
+labrum et velum, si fuerint vetustate consumpta,
+incendio dentur, quoniam non licet ea quæ in san-
+ctuario fuerint, male tractari, sed incendio universa
+tradantur. Cineres quoque eorum in baptisterio
+inferantur, ubi nullus transitum habeat, aut in
+pariete, aut in fossis pavimentorum jactentur, ne
+introeuntium pedibus inquinentur. Nemo per ⁴⁰
+ignorantiam clericus palla mortuum credat obvol-
+vendum, aut diaconus scapulas operire velit ⁴¹,
+quæ fuit in altari, aut certe quæ data est in men-
+sam ⁴² Domini. Qui hæc fecerit, vel leviter quasi
+nihil et negligenter habuerit divina mysteria ⁴³,
+diaconus triennio, sexque mensibus a Dominico
+alienus erit altari, gravi percussus anathemate.
+Quod si clericum presbyter non commonuerit ⁴⁴,
+decem annis et quinque mensibus excommunicatus
+sit ; propterea quod de Dominicis sacramentis sub-
+jecta sibi non commonuerit ministeria, et postea
+cum grandi humilitate matri reconcilietur Eccle-
+siæ. ⁴⁵ Pallas vero et vela, quæ in sanctuarii sor-
+didata fuerint ministerio, diaconi cum humilibus
+ministris juxta ⁴⁶ sacrarium lavent, non ejicientes
+foras a sacrario velamina Dominicæ mensæ, ne
+forte pulvis Dominici corporis male decidat a sin-
+done foris abluta, et erit hæc operanti peccatum :
+idcirco intra sacrarium ministris præcipimus, hæc
+sancta ⁴⁷ cum diligentia custodire. Sane pelvis nova
+comparetur, et præter hoc nihil aliud tangat. Sed
+nec ⁴⁸ ipsa pelvis velis apponatur lavandis, nisi
+quæ ad Dominici altaris cultum pertinent. ⁴⁹ Pallæ
+altaris solæ in ea laventur, et in alia vela janua-
+rum ⁵⁰. De velis autem januarum ⁵¹ cura sit ⁵²
+ostiariis ex admonitione majorum, ne quis negli-
+gens aut ignarus ad velum januæ domus Domini
+manus incondite tergat ; sed statim coercitus di-
+scat omnis homo, quia velum atrii domus Domini
+sanctum est. ⁵³ Præcipimus etiam ne excommuni-
+cato ⁵⁴ Ecclesiæ, sive laico, de fragmentis oblatio-
+num Domini ponatur ad mensam. Unde scis tu,
+qui passim sacrarii ⁵⁵ panes indignis impendis,
+unde nosti, si a mulieribus mundi sunt hi quibus
+impendis ? Hinc et David ab Abimelech ⁵⁶ sacerdote
+interrogatus, cum panes sibi ad comedendum po-
+
+# block=2
+³⁹ canthara. De consec. distinct. ~ : Altaris palla. ⁴⁰ De consec. distinct. 1 : Nemo per. ⁴¹ Conc. Aru., cap.
+3, et 5; Autiss. 12, 13. ⁴² Ms. in mensa; at Gratianus in mensam. ⁴³ Ms. habuerit ministeria. ⁴⁴ Ms. admo-
+nuerit, et ita rursum postea. ⁴⁵ Ivo. part. III, c. 266. ⁴⁶ Ms. intra, ut mox. ⁴⁷ In ms. absunt hæc
+duo verba. ⁴⁸ Ms. non. ⁴⁹ Ms. Pallæ, in alia pelve laventur, et in. ⁵⁰ Absunt a c. Justelli. ⁵¹ De con-
+sec. distinct. 2 : Tribus gradibus, § Tanta in. ⁵² Ms. etiam cura sit, cæteris omissis, de velis autem
+januarum. ⁵³ Matisc. II, c. 6. ⁵⁴ Ms. ne unquam extero. ⁵⁵ sanctuarii. ⁵⁶ Ita ms. at Vulgata, et He-
+bræa Achimelech. ⁵⁷ Aliter in mss. Hard. et Just. quæ reservantur notis. ⁵⁸ Ms. qui ante ordinationem
+conjuges suas noverint. ⁵⁹ Scilicet, si semper continere noluerint. Sic legit hunc locum et interpretatur Hum-
+bertus cardinalis, tempore Leonis IX, lib. contra Nicetam. ⁶⁰ portionem c. Just. ⁶¹ sed. ⁶¹* Ms. aquam
+sacerdotum porrigat manibus ; ostia, etc. ⁶² urcium sane ad altare suggerat. c. Har. et Just. ⁶³ II Tur.
+25, III Brac. 3. ⁶⁴ Ms. Inde similis æstimabitur Scariotis. ⁶⁵ Hipp. 26. ⁶⁶ In ms. deest hæc integra
+sententia, quoniam inferius repetitur. ⁶⁷ Turon. III, 2, 9. ⁶⁸ hum. vel officii. ⁶⁹ Ms. secretini. ⁷⁰ pro.
+⁷¹ Ms. debeat sanare. ⁷² In ms. abest vox ea clericorum. ⁷³ Συνεισάκτῳ, de qua sæpe in conciliis
+et Patribus. ⁷⁴ Distinct. 25 : Tales ad.
+
+# block=3
+sceret, si mundus esset a muliere, cum se mundum
+ante triduum profiteretur, panes propositionis
+manducavit.
+⁵⁷ Ad Dominicæ autem mysteria tales eligantur,
+⁵⁸ qui ante ordinationem suam conjuges suas non
+noverint ⁵⁹. Quod si post ordinationem, ministro
+altaris contigerit proprium invadere cubile uxoris,
+sacrarii non intret limina, nec sacrificii portitor
+fiat, nec altare contingat, nec ab offerentibus holo-
+causti oblationem suscipiat, nec ad Dominici cor-
+poris portationem ⁶⁰ accedat, nec ⁶¹ aquam sacer-
+dotibus porrigat ad manus. Ostia ⁶¹* forinsecus
+claudat, minora gerat officia, urceum sive calicem
+ad altare non sufferat ⁶². Si forte quispiam pre-
+sbyter, sive diaconus, sacrarii sindonem vel velum,
+subtracta vendiderit, ⁶³ Judæ Iscariotis similis æsti-
+mabitur ⁶⁴. Qui propter cupiditatem fecerit hoc
+opus, noverit se supradicti Judæ suscepturum pœ-
+nam ⁶⁵. Clericus vero solus ad feminæ tabernacu-
+lum non accedat, nec properet, sine majoris natu
+principis jussione. ⁶⁶ Nec presbyter solus cum sola
+adjungatur, sed duobus adductis testibus visitet
+infirmam. Nec solus cum sola femina fabulas mi-
+sceat. ⁶⁷ Nec archidiaconus aut diaconus, sub præ-
+textu officii humilitatis ⁶⁸, frequenter domicilia
+matronarum, aut forte per clericos aut domesticos
+ejus, matronæ mandent secreti ⁶⁹ aliquid. Si cogni-
+tum fuerit, et ille deponatur, et illa a liminibus
+arceatur Ecclesiæ. Sed si forte aliqua intercessio
+fuerit, episcopo suggeratur. Et si talis est, ad quam
+debeat ire pio ⁷⁰ interventu ipse pergat. Sin autem,
+de latere suo dirigat, cum duobus aut tribus, qui
+hoc sanare debeant ⁷¹. Sane ad visitandam mulie-
+rem infirmam nullus clericus ingrediatur, nisi cum
+duobus aut tribus. Nemo tamen clericorum ⁷² cum
+extranea habitet femina ⁷³, nisi proxima aut soror
+fuerit. Et hoc cum magna sollicitudine fiat. Non
+ignoramus malitias Satanæ. Universa hæc cum
+mansuetudine ecclesiastica complenda sunt mini-
+steria. Negotium enim Dei non decet negligenter
+expleri. Iterum atque iterum de fragmentis Domi-
+nici corporis demandamus. Calicem vero ad per-
+ferendum sanguinem Domini, præparatum cum tota
+munditia ministerii, minister præparet, ne, non
+bene lotus calix, diacono peccatum fiat offerenti.
+Ita cum omni honestate, cuncta quæ supra expo-
+suimus, oportet impleri. Tales ad ⁷⁴ ministerium
+
+# block=5
+EPISTOLÆ DECRETALES.
+
+# block=7
+485
+
+# block=9
+486

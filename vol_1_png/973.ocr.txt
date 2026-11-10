@@ -1,0 +1,161 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,231,2356,977,2616
+2,224,927,995,1830
+3,232,1843,988,2355
+4,238,152,1002,922
+5,1024,789,1779,1533
+6,1016,1531,1756,2618
+7,1032,151,1782,792
+8,814,95,1220,129
+9,265,2675,1189,2712
+10,250,95,326,129
+11,1700,86,1798,132
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=231 source_y1=2356 source_x2=977 source_y2=2616
+ XXXIII. Hinc omnis impietatis origo descendit,
+hinc homicidia, adulteria, furta, et seminarium ma-
+lorum omnium flagitiorumque concipitur, dum pro-
+fanis libaminibus ex odoribus indulgetis, ac locum
+dominandi in vos et jus quodammodo obtinendi ma-
+lignis spiritibus datis. Ingressi enim sensus vestros,
+
+# block=2 source_x1=224 source_y1=927 source_x2=995 source_y2=1830
+ XXXI. Sed quidam dicunt : Hæc lætitiæ gratia et
+ad relevandos animos instituta, et ad hoc inventa,
+ut humana mens aliquantulum curis et mœroribus
+relaxetur. Videte quomodo ipsi accusatores estis
+eorum quæ geritis. Si hæc levandi mœroris et læ-
+titiæ capiendæ causa reperta sunt, quomodo in lucis
+et silvis invocationes dæmonum fiunt? quomodo in-
+sani rotatus hominum, sectionesque membrorum,
+et abscisiones verendorum? quomodo in his furor
+rabidus concipitur? quomodo invitatur insania?
+quomodo mulieres sparsis crinibus furibundæ ja-
+ctantur? unde stridor et fremitus dentium? unde
+mugitus cordis et viscerum, et omnia illa quæ vel
+simulata, vel etiam ministerio dæmonum compagi-
+nata, ad terrorem stultorum et ignorantium homi-
+num proferuntur? hæc levandi animi gratia fiunt, an
+potius opprimendi? Nondum sentitis neque intelligi-
+tis latentis intra vos serpentis hæc esse consilia?
+qui vos per irrationabiles errorum suggestiones a ra-
+tione veritatis abducit, ut vos libidinis et concupis-
+centiæ ac totius dedecoris servos teneat ac ministros.
+
+# block=3 source_x1=232 source_y1=1843 source_x2=988 source_y2=2355
+ XXXI!. Sed ego clara vos omnes prædicationis
+voce contestor, quod e contrario religio Dei ad so-
+brietatem vos revocat et pudicitiam, a luxuria ac
+furore jubet esse continentes, et per patientiam ac
+mansuetudinem resecare lapsus iracundiæ, propriis
+esse contentos, et virtute parcimoniæ, ne egestate
+quidem compulsos aliena diripere, sed in omnibus
+servare justitiam, ab idolorum vos immolatione pe-
+nitus removere; per hæc enim invitatis dæmones
+ad vosmetipsos, et introeundi eis aditum sponte
+præbetis, et ex hoc jam vel furoris causas vel illi-
+citi amoris accipitis.
+
+# block=4 source_x1=238 source_y1=152 source_x2=1002 source_y2=922
+perseveret. Alii dicunt : Non debemus molesti esse
+Deo; et ipsum semper aut miseriarum querelis, aut
+petitionum nostrarum necessitatibus onerare. Quam
+stulta et absque omni sale responsio! Molestum
+Deo putas, si ei pro beneficiis suis gratias agas,
+cui molestum non putas, si pro ipsius muneribus,
+lignis et lapidibus gratias referas? Et quomodo,
+cum forte imber longa serenitate suspenditur, om-
+nes ad cælum oculos tendimus, et ab omnipotente
+Deo pluviarum munera flagitamus, omnesque cum
+parvulis, ad Deum fusis precibus, miserationes
+ipsius exoramus? Sed revera ingratæ animæ cum
+impetraverint, cito obliviscuntur; collectis enim
+messibus aut vindemiis, continuo ad surda et muta
+simulacra primitias frugum deferunt, et pro his
+quæ Deus concessit, in templis aut lucis vota per-
+solvunt, et ibi sacrificia dæmoniis offerunt, atque
+accepta gratia permutant gratiæ largitorem.
+
+# block=5 source_x1=1024 source_y1=789 source_x2=1779 source_y2=1533
+ XXXIV. Sed dicet aliquis : Passiones istæ inter-
+dum accidunt etiam his qui Deum colunt. Non est
+verum; etenim nos illum Dei dicimus esse culto-
+rem, qui voluntatem Dei facit et legis præcepta cu-
+stodit. Apud Deum enim non ille qui apud homines
+Judæus dicitur, Judæus est, neque qui gentilis vo-
+catur, ille gentilis est ³⁶, sed qui Deo credens legem
+impleverit ac voluntatem ejus fecerit, etiamsi non
+sit circumcisus. Verus Dei cultor est is, qui non so-
+lum ipse a passionibus liber est, verum et alios ab
+eis liberos reddit, etiamsi sint ita graves ut monti-
+bus coæquentur; per fidem qua credit Deo, trans-
+fert eas, sed et montes vere cum arboribus suis, si
+necesse sit, per fidem transfert ³⁷. Qui autem vide-
+tur quidem colere Deum, sed neque fide plena neque
+operibus mandatorum munitur, sed est peccator,
+pro peccatis locum dedit in semetipso passionibus,
+
+# block=6 source_x1=1016 source_y1=1531 source_x2=1756 source_y2=2618
+quæ ad pœnam peccantium constitutæ sunt a Deo
+ut ab eis per illata supplicia exigant debita pecca
+torum, et purgatores eos ad judicium illud om
+nium generale perducant, si tamen castigationes
+eorum non deserat fides. Nam infidelium castigati
+in præsenti vita judicium est, quo alieni existere
+incipiunt a futuris bonis; Deum vero colentium cas
+stigatio cum pro peccatis quæ acciderint eis infer
+tur, commissi ab eis exigit debitum, ut prævenien
+tes judicium in præsenti sæculo peccati debitum sol
+vant, et liberentur vel ex parte media ab æternis
+quæ illic præparatæ sunt, pœnis.
+ XXXV. Sed hæc ita esse non recipit, qui non cre
+dit futurum esse judicium Dei, et ob hoc præsentis
+sæculi voluptatibus obligatus, ab æternis excluditur
+bonis. Et ideo nos non negligimus prædicare vobis
+quæ saluti vestræ scimus esse necessaria, et qui sit
+verus Dei cultus ostendere, ut credentes Deo per
+opera bona possitis una nobiscum futuri sæculi hæ
+redes existere. Quod si nondum apud vos certum est,
+vera esse quæ dicimus, interim pro hoc primo non
+debetis ægre accipere et infesti esse, quia quæ puta-
+mus bona, hæc vobis annuntiamus, et quod nobis
+salutare esse credimus, hoc etiam vobis conferre
+non invidemus, omni, ut dixi, studio laborantes, quo
+
+# block=7 source_x1=1032 source_y1=151 source_x2=1782 source_y2=792
+quid nisi quæ libidinis, quæ injustitiæ, quæ crude-
+litatis sunt operentur, et ad omnia vos quibus ipsi
+delectantur, subjugant obedire? permittente revera
+hoc Deo pati vos ab eis justo quodam judicio, ut ex
+ipso dedecore actuum sensuumque vestrorum intel-
+ligatis, quam indignum sit dæmonibus et non Deo
+esse subjectos. Hinc et ad indecoros et fœdos actus
+per amicitias dæmonum pervenitur; hinc usque ad
+ipsius vitæ perniciem vel per flammam libidinis ac-
+cenditur, vel per iracundiæ rabiem aut nimietatem
+tristitiæ pervenitur, ut sæpe notum est, etiam manus
+sibi intulisse nonnullos; quod, ut diximus, justo
+quadam Dei sententia fieri ab his non prohibetur,
+ut et quibus se subdiderint, intelligant, et quem de-
+servierint cognoscant.
+
+# block=8 source_x1=814 source_y1=95 source_x2=1220 source_y2=129
+RECOGNITIONUM LIB. V.
+
+# block=9 source_x1=265 source_y1=2675 source_x2=1189 source_y2=2712
+³⁶ Rom. 11, 28; Apoc. 11, 9. — ³⁷ Matth. xv'ı, 19; Luc. xvıı, 6.
+
+# block=10 source_x1=250 source_y1=95 source_x2=326 source_y2=129
+1345
+
+# block=11 source_x1=1700 source_y1=86 source_x2=1798 source_y2=132
+1346

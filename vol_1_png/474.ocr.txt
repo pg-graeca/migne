@@ -1,0 +1,91 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,248,154,1009,453
+2,1025,162,1784,458
+3,246,720,1010,1152
+4,861,641,1164,674
+5,1033,720,1787,1154
+6,899,524,1126,559
+7,1720,93,1779,136
+8,629,99,1394,140
+10,250,94,309,137
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=16px
+# block=8 fontSize=16px
+# block=10 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=7
+348
+
+# block=10
+347
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=1
+loquemur veritatem, et in duobus corporibus absque A
+simulatione fuerit una anima. Et quod foris ut quod
+intus, hoc ait: animam vocat, quod intus; et cor-
+pus, quod foris. Quo modo igitur corpus tuum con-
+spicuum est, ita et anima tua manifesta sit in bonis
+operibus. Et masculum cum femina, neque mas neque
+femina: hoc . . . . .
+
+# block=2
+ὅταν λαλῶμεν αὐτοῖς (57) ἀλήθειαν, καὶ ἐν δυσι σώ-
+μασιν ἀνυποκρίτως εἴη μία ψυχή. Καὶ τὸ ἔξω ὡς τὸ
+ἔσω, τοῦτο λέγει· τὴν ψυχὴν λέγει τὸ ἔσω, τὸ δὲ
+ἔξω τὸ σῶμα λέγει. Ὃν τρόπον οὖν σου τὸ σῶμα
+φαίνεται, οὕτως καὶ ἡ ψυχή σου δῆλος (58) ἔστω ἐν
+τοῖς καλοῖς ἔργοις. Καὶ τὸ ἄρσεν μετὰ τῆς θηλείας
+οὔτε ἄρσεν οὔτε θῆλυ, τοῦτο (59).....
+
+# block=6
+Reliqua desunt.
+
+# block=4
+VARIORUM NOTÆ.
+
+# block=3
+lusisse ad Apostoli verba Galat. III, 28, quod et
+innuit Clemens Stromateus; atque etiam forte ad
+Ephes. II, 15. COT.
+(57) Αὐτοῖς. Jun. ἄλλοις vel ἀλλήλοις. Mill. mallet
+nil mutatum, vel certe legendum ἑαυτοῖς. Vide su-
+pra ad cap. 4, not. 16. GALL.
+(58) Δῆλος. Al. δήλη. Al. πρόδηλος; qua sane
+voce utitur S. Pater, epist. 1, capp. 11 et 12. GALL.
+(59) Τοῦτο ...... Reliqua desunt : supplenda ta-
+men ex Clem. Alex., Στρὸμ., lib. IV, cap. 13, pag.
+553. Ad quem locum vide Grabii Spicil., tom. I,
+pagg. 35, 263. ID. — Τοῦτο. Verisimile fit ex Epi-
+phanio, hæresi 30, cap. 15, et Hieronymo 1 adversus
+
+# block=5
+Jovinianum 7, Apostolicum nostrum in iis quæ de-
+siderantur istius epistolæ, de virginitate disse-
+ruisse non paucis.
+Hæc supplenda ex Clemente AlexAnd., III Strom..
+Masculum cum femella, nec mas, nec fœmina; hoc
+dicit : Animum (θυμὸν) ejusque impetum vocat ma-
+sculum, concupiscentiam (ἐπιθυμίαν) intelligit fœ-
+mellam, etc. Exhinc nata occasione disserendi de
+castitate, de virginitate loquebatur. Αὐτὸς παρθε-
+νίαν διδάσκει, inquit de Clemente Epiphanius hæ-
+res. 30. Idem Hieronymus, lib. I contra Jovinianum.
+Nec dubito apud Clem. Alexandrinum aliosque Pa-
+tres plurima ejus superesse. COLOM.

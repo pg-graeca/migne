@@ -1,0 +1,81 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,267,2499,1805,2723
+2,1185,1833,1816,2398
+3,1190,136,1823,1635
+4,264,129,1155,2459
+5,657,78,1441,119
+6,1749,72,1827,122
+7,267,84,337,122
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=6
+432
+
+# block=5
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=7
+431
+
+# block=3
+ubi nullus sit Christianus, nosque
+dies quosdam incolæ loci retineant,
+debemus esse prudentes sicut ser-
+pentes, et simplices sicut columbæ ⁵¹,
+non quasi insipientes, sed ut sa-
+pientes ⁵², scientes timorem Domini,
+ut glorificetur Deus in omnibus per
+Dominum Jesum Christum, propter
+castas et sanctas conversationes no-
+stras ⁵³; sive enim manducamus,
+sive bibimus, omnia in gloriam Dei
+faciamus necesse est, ut quicunque
+nos intuentur, in omni sermone, in
+reverentia, in modestia, in æquitate
+cæterisque rebus omnibus agno-
+scant nos esse semen benedictum et
+sanctum filiosque Dei viventis. Cum
+enim simus fideles, in nullo gentes
+imitari debemus, quibus, e contra,
+omnino dissimiles nos esse oportet,
+et in omnibus a malo abhorrentes,
+ne demus sanctum canibus, mitta-
+musque margaritas ante porcos ⁵⁴;
+sed in omni disciplina, scientia, ti-
+more Dei mentisque constantia glo-
+rificemus Deum ⁵⁵.
+
+# block=2
+Cultus enim quo servimus Deo
+longe nos discernit a gentibus quæ
+blasphemant in deliciarum suarum
+ebrietate, verbaque seductionis in
+impietate sua proferunt. Et ideo in
+gentium cœtibus non canimus Psal-
+mos, nec legimus Scripturas, ne
+similes videamur musicis, citharœ-
+dis, cantoribus, ariolis multisque
+aliis qui ista, quasi artem exercent
+
+# block=1
+⁵¹ Matth. x, 16. ⁵² Ephes. v, 15, 16. ⁵³ Wetstinus scribit vestras, sed mendose, ni fallor. ⁵⁴ Matth.
+vii, 6. ⁵⁵ Pastores animarum qui vitæ sanctimonia bonum Christi odorem non spargunt, ca-
+nibus sanctum projiciunt et margaritas ante porcos mittunt. Inde enim pravi, aut præoccupatis
+opinionibus obcæcati homines facile inducuntur ut a religionis ministris in religionem contemptum suum
+ac furorem convertant eamque cum ipsis dilacerent; sicque impletur Christi vaticinium dicentis: Ne
+forte conculcent eas pedibus et conversi dirumpant vos (Matth. vii, 6).

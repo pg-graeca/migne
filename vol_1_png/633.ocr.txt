@@ -1,0 +1,207 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,182,141,934,703
+2,183,855,936,1010
+3,188,2577,937,2687
+4,187,2128,946,2575
+5,968,852,1716,1008
+6,961,1228,1734,2685
+7,964,135,1714,695
+8,219,1067,732,1105
+9,169,1233,936,2028
+10,1237,799,1456,835
+11,797,1144,1097,1186
+12,214,2047,890,2122
+13,618,82,1306,127
+14,422,801,700,838
+15,184,77,235,133
+17,1643,82,1711,124
+18,183,700,1723,788
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=16px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=17 fontSize=16px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+665
+
+# block=13
+ÇONSTITUTIONES APOSTOLICÆ.— LIB. II.
+
+# block=17
+666
+
+# block=7
+cisti, et in Jesum credidisti, illiusque nomine nun-
+cuparis, atque in consummatione gloriæ ejus fir-
+maris ac splendes; ea quæ olim victimæ erant, nunc
+sunt preces, et obsecrationes, et gratiarum actio-
+nes; quæ tunc primitiæ, et decimæ, et partes dem-
+ptæ, et dona, nunc oblationes, quas sancti episcopi
+Domino Deo offerunt per Jesum Christum, pro
+ipsis offerentibus mortuum. Hi namque vestri pon-
+tifices sunt; sicut locum sacerdotum nunc apud vos
+tenent presbyteri ; ac levitarum diaconi, et lectores,
+et cantores, et ostiarii, diaconissæ, et viduæ, et
+virgines, et orphani : his vero omnibus superior
+existit pontifex.
+
+# block=1
+σία, ἡ τὴν δεκάπληγον ἐκπεφευγυῖα, καὶ τὴν Δεκά-
+λογον εἰληφυῖα, καὶ τὸν νόμον μεμαθηκυῖα (75) , καὶ
+ἐπὶ τὸν ᾿Iησοῦν πεπιστευκυῖα (76), καὶ τὸ ὄνομα αὐ-
+τοῦ ἐπονομαζομένη , καὶ ἐπὶ τῇ τελειώσει τῆς δόξης
+αὐτοῦ ἐστηριγμένη καὶ λάμπουσα (77) · αἱ τότε θυ-
+σίαι, νῦν εὐχαὶ, καὶ δεήσεις, καὶ εὐχαριστίαι· αἱ τότε
+ἀπαρχαὶ, καὶ δεκάται , καὶ ἀφαιρέματα , καὶ δῶρα,
+νῦν προσφιραὶ, αἱ διὰ τῶν ὁσίων ἐπισκόπων προσφε-
+ρόμεναι Κυρίῳ τῷ Θεῷ διὰ ᾿Iησοῦ Χριστοῦ τοῦ ὑπὲρ
+αὐτῶν ἀποθανόντος· οὗτοι γάρ εἰσιν ὑμῶν οἱ ἀρχιε-
+ρεῖς· οἱ δὲ ἱερεῖς ὑμῶν, οἱ πρεσβύτεροι· καὶ οἱ λευ-
+ῖται ὑμῶν, οἱ νῦν διάκονοι, καὶ οἱ ἀναγινώσκον-
+τες (78) ὑμῶν, καὶ οἱ ᾠδοὶ, καὶ οἱ πυλωροὶ, αἱ
+
+# block=18
+διάκονοι ὑμῶν, καὶ αἱ χῆραι, καὶ αἱ παρθένοι, καὶ οἱ ὀρφανοὶ ὑμῶν· ὁ δὲ τούτων πάντων ἀνώτερος ὁ ἀρ-
+χιερεύς ἐστι.
+
+# block=10
+CAPUT XXVI.
+
+# block=14
+ΚΕΦΑΛΑΙΟΝ KϚ'.
+
+# block=5
+Ad cujus formam et dignitatem unusquisque de clero,
+a Deo sit ordinatus.
+* Qui episcopus est, hic verbi est minister,
+scientiæ custos, mediator Dei et vestrum in divino
+
+# block=2
+Εἰς τίνος τύπον καὶ ἀξίαν (79) ἕκαστος τῶν ἐν
+τῷ κλήρῳ τέτακται, παρὰ Θεῷ.
+Ὁ ἐπίσκοπος, οὗτος λόγου διάκονος, γνώσεως (80)
+φύλαξ, μεσίτης Θεοῦ καὶ ὑμῶν ἐν ταῖς πρὸς αὐτὸν
+
+# block=8
+** Lege Ignat. interpol. ad Trall. 7.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=6
+vide Cotelerii notas. In altero ms. hoc scholium
+legitur: *Οτι αἱ προσφοραὶ αἱ λεγόμεναι δεκάται
+σωτηρίου, ἀρχὴ τοῦ ὀνόματος ᾿Iησοῦ· τὸ γὰρ ᾿Iησοῦς
+ὄνομα σωτὴρ ἑρμηνεύεται, ὡς καὶ ἐν Εὐαγγελίῳ λέ-
+γει· Αὐτὸς γὰρ σώσει τὸν λαὸν αὐτοῦ ἀπὸ τῶν
+ἁμαρτιῶν αὐτῶν. Τὸ δὲ αὖ στοιχεῖον τοῦ ᾿Iησοῦ
+ὀνόματος τὸ ἰῶτά ἐστιν, ὅπερ τὴν δεκάτην σημαίνει. Id.
+(77) Λάμπουσα. Deest in utroque. ID.
+(78) Οἱ ἀναγινώσκοντες. Quo post apostolos
+tempore minores ordines, diaconatu inferiores,
+cœperint in Ecclesia institui, adeo obscuritate in-
+volvitur, ut nulla possit certa conjectura depre-
+hendi atque explici. Aperte quidem S. Ignatius,
+qui initio secundi sæculi scripsit, agnoscit solum-
+modo tres majores gradus, episcopatum, presbyte-
+ratum , diaconatum. Primus vero, quod sciam, le-
+ctores nominat Tertullianus libro De præscriptione
+hæreticorum cap. 41. Hypodiaconi autem, exorcistæ,
+et acoluthi non comparent ante Cyprianicas episto-
+las 24, 28, 78, 79, 80, 16, 55, et Epistolam Cor-
+nelii papæ ad Fabium Antiochenum in Eusebio
+lib. vi, cap. 43, quæ etiam ostiarios adjungit. Sed
+e media ætate nihil clari affertur. Augetque diffi-
+cultatem , tum quod credi debeat quasdam Ecclesias
+hac in disciplina præivisse aliis, exemplo suo: tum
+quod in diaconis soleant clerici minoris loci com-
+prehendi; unde Optatus multo post introductionem
+clericorum diaconis suppositorum , postquam po-
+suisset lib. I, p. 39; lib. II, p. 53, Ecclesiæ membra,
+episcopos, presbyteros, diaconos, ministros, et laicos
+seu turbam fidelium, eodem lib. II, p. 59, subjungit :
+Cum sint (sicut supra dixi) quattuor genera capitum
+in Ecclesia : episcoporum, presbyterorum, diacono-
+rum, et fidelium ; pro quibus enumerantur quinque
+ordines Ecclesiæ apud Hieronym. in Isaiæ cap. XIX,
+episcopi., presbyteri , diaconi, fideles , et catechu-
+meni. Itaque dubium remanet, an hic et similes
+Constitutionum loci, a primo earum editore, vel ab
+earumdem interpolatore profecti sint. Omist parvæ
+auctoritatis librum De Romanis pontificibus. Is in
+Hygino habet, Hic clerum composuit , et distribuit
+gradus. Et in Victore, Hic fecit sequentes cleros. CoT.
+(79) ᾿Aξίαν. ᾿Ασφάλειαν, alter codex. CLER.
+(80) Γνώσεως. Idem, λόγου. ID.
+
+# block=9
+ἀσφαλιζομένη, ἵνα μὴ λάθῃ ἡμᾶς τὸ ᾿Iῶτα, ἡ δεκὰς,
+τὸ πρῶτον στοιχεῖον τοῦ ᾿Iησοῦ ὀνόματος. Et erat ibi
+apud Judæos decimatio stabilita; ut non lateret nos
+littera Iota, quæ est signum numeri denarii, et pri-
+mum elementum nominis Jesu. Alii ad litteram I
+primam in nomine ᾿Iησοῦς accommodant Decalo-
+gum : ut Clemens Alexandrinus, Strom. VI, p. 687,
+auctor Operis imperfecti in Matthæum ad vers. 19,
+cap. XXIV, et Maximus in Catena ad eumdem evan-
+gelistam cap. x , vers. 29. Quibus addere potes In-
+terpretes ad Matthæi v, 18, cum loco Euthymii
+Panopliæ parte II, tit. 23, num. 36. Alia vero circa
+decussim, primamque litteram nominis Jesu com-
+mentantur Origenes in Matthæi xxv, 57; Epiphanius
+hæres. 50, cap. 3, et hær. 70, cap. 12; Hieronymus
+ad Zachariæ vIII, ult., atque jam citatus pseudo-
+Chrysostomus ad Matth. 1, 4 et 17. In fragmentis
+B. Irenæi e Catena in Judices ad cap. VI, vers. 27 :
+Εἰρηναίου • Καὶ τοῦτο οὐκ ἀργῶς, ἀλλ᾽ ἵνα διὰ τοῦ
+ἀριθμοῦ τῶν δέκα ἀνδρῶν, ᾿Iησοῦν μεθ᾽ ἑαυτοῦ ἔχων
+φανῇ βοηθός. Denique ab Alexandro Clemente
+Pædag. I, 9, iota nominis Jesu refertur ad recti-
+tudinem et unitatem; juxta illud Corippi lib. II De
+laudibus imperatoris,
+
+# block=12
+Ut sua rectus
+Littera, quæ signo stabili non flectitur unquam,
+
+# block=4
+juxta Methodium in Convivio virginum, oratione 6,
+pag. 75, 76, et juxta omnes eos qui testimonium
+Matth. v, 18 : Iota unum, aut unus apex, non præ-
+teribit, de cruce interpretati sunt. Videsis Catenam
+Græcorum Patrum in Lucam, ad cap. XVI, vers. 17,
+atque inde et ex sensu corrige locum Clementis
+Pædag. I, 9 , p. 126, scribendo , τὰς ἐπιπλέξεις
+(male vulgo ἐπιπλήξεις) τῶν ἁμαρτωλῶν πλαγίας
+αἰνιττόμενος ὁδούς. Hoc est ad verbum, implicatio-
+nes peccantium, obliquas significans vias. CoT.
+(75) Μεμαθηκυῖα. Sequitur in utroque Vindob.
+codice : Καὶ τὴν πίστιν κεκρατηκυῖα, quæ fidem re-
+tinuit. CLER.
+
+# block=3
+(76) Πεπιστευκυῖα. Proxime in iisdem sequitur :
+Καὶ τὴν δεκάδα ἐγνωκυῖα καὶ ἐπὶ τὸ ἰῶτα, ὅπερ ἐστὶν
+ἀρχὴ ὀνόματος ᾿Iησοῦ, πεπιστευκυῖα. Qua de re,

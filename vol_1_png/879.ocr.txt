@@ -1,0 +1,167 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,203,1510,955,1723
+2,211,2449,1752,2589
+3,992,1509,1753,1676
+4,993,1078,1757,1378
+5,199,1081,959,1334
+6,662,733,1258,772
+7,241,268,1713,359
+8,241,2669,770,2704
+9,181,1926,706,2394
+10,469,990,1494,1028
+11,574,503,1372,573
+12,703,1426,1192,1462
+13,699,1841,1243,1880
+15,700,91,1190,126
+16,1670,96,1736,130
+17,420,626,1522,682
+18,953,1769,983,1799
+21,199,86,268,122
+22,939,900,989,948
+23,721,1948,1227,2396
+24,1241,1964,1761,2362
+25,1347,1904,1641,1966
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=46px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=33px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=16px
+# block=17 fontSize=29px
+# block=18 fontSize=15px
+# block=21 fontSize=16px
+# block=22 fontSize=28px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=21
+1157
+
+# block=15
+RECOGNITIONES.— PROŒMIA.
+
+# block=16
+1158
+
+# block=7
+RECOGNITIONES S. CLEMENTIS.
+
+# block=11
+VETERUM TESTIMONIA
+
+# block=17
+DE RECOGNITIONIBUS CLEMENTINIS.
+
+# block=6
+(GALLAND., Vet. Patr. Biblioth., I, 211.)
+
+# block=22
+I.
+
+# block=10
+ORIGENES, tomo III Commentariorum in Genesim , in Philocalia cap. 22.
+
+# block=4
+Et vero Clemens Romanus , Petri apostoli disci-
+pulus, his consentanea de præsenti quæstione, ad
+Patrem, Laodiceæ in Periodis (seu Circuitionibus)
+locutus ; ad finem hujusmodi sermonum , aliquid
+maxime necessarium profert, de iis quæ per genitu-
+ram videntur evenisse; oratione decima quarta :
+Et Pater, etc, Recognit. lib. x, cap. 10.
+
+# block=5
+Καὶ Κλήμης δὲ ὁ Ῥωμαῖος, Πέτρου ἀποστόλου μα-
+θητὴς, συνῳδὰ τούτοις ἐν τῷ παρόντι προβλήματι,
+πρὸς τὸν Πατέρα, ἐν Λαοδικείᾳ εἰπὼν ἐν ταῖς Περιό-
+δοις, ἀναγκαιότατόν τι ἐπὶ τέλει τῶν τοιούτων λόγων
+φησὶ, περὶ τῶν τῆς γενέσεως δοκούντων ἐμβεβηκέναι
+(2), λόγῳ τεσσαρεσκαιδεκάτῳ· Καὶ ὁ Πατὴρ, κ. τ. λ.
+
+# block=12
+IDEM, ad Matthæi XXVI, 6, etc,
+
+# block=3
+manam. Qui autem propter Deum faciunt, id est
+fideles; non solum in hoc sæculo proficit cis, sed et
+in illo ; magis autem in illo. Recogn. lib. VII, cap.
+38.
+
+# block=1
+Tale aliquid dicit et Petrus ad Clementem ; quo-
+niam opera bona quæ fiunt ab infidelibus, in hoc sæ-
+culo eis prosunt; non et in illo, ad consequendam
+vitam æternam. Et convenienter; quia nec illi pro-
+pter Deum faciunt, sed propter ipsam naturam hu-
+
+# block=18
+II.
+
+# block=13
+EUSEBIUS, Histor. eccl. lib. III, cap. 3.
+
+# block=25
+Ex versione Rufini.
+
+# block=9
+Librum vero qui Actus Petri di-
+citur, et Evangelium ejus nomine
+inscriptum, ejusdem quoque Præ-
+dicationis et Revelationis libros ,
+pro catholicis scriptis nunquam
+esse habitos constat; quandoqui-
+dem nec vetustiorum quisquam,
+nec recentiorum Ecclesiæ scripto-
+rum, desumpto ex iis libris testi-
+monio usus fuit.
+
+# block=23
+Τὸ μὲν τῶν ἐπικεκλημένων αὐ-
+τοῦ Πράξεων , καὶ τὸ κατ' αὐτὸν
+ὠνομασμένον Εὐαγγέλιον, τό τε λε-
+γόμενον αὐτοῦ Κήρυγμα, καὶ τὴν
+καλουμένην Ἀποκάλυψιν , οὐδ'
+ὅλως ἐν καθολικοῖς ἴσμεν παραδε-
+δομένα· ὅτι μήτε ἀρχαίων, μήτε
+τῶν καθ' ἡμᾶς τις ἐκκλησιαστικὸς
+συγγραφεὺς, ταῖς ἐξ αὐτῶν συνε-
+χρήσατο μαρτυρίαις.
+
+# block=24
+Ille vero libellus qui dicitur Ac-
+tus Petri, et quod nomine ejus
+Evangelium nuncupatur, sed et qui
+dicitur ejus Prædicatio vel Revela-
+tio , in Scripturis prorsus canoni-
+cis non habentur. Sed ne aliquis
+quidem scriptorum veterum, uti
+eorum testimoniis invenitur. Lege
+Nicephorum, lib. II, cap. 46.
+
+# block=2
+De his Actibus Petri, in quibus contenti videntur libri Recognitionum, item de aliis ejusdem nominis, con-
+suli debent ; Hieronymus, infra, Isidorus Pelusiota, lib. II, epist. 99; Philastrius, De hæresibus, cap. 40;
+Innocentius papa, epist. 3, cap. 7; Gelasius, in concilio Romano; Photius, cum infra tum cod. CXIV, et
+Sigebertus, De viris illustribus, cap, 1.
+
+# block=8
+(2) Ἐμβεβηκέναι, Forte ἐκβεβηκέναι

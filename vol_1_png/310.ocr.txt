@@ -1,0 +1,173 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,268,1283,1020,2226
+2,1057,1630,1806,2099
+3,1056,2105,1799,2444
+4,272,163,1022,803
+5,272,897,1020,1275
+6,268,2233,1014,2443
+7,1056,156,1814,1619
+8,261,2502,1800,2706
+9,836,104,1246,142
+10,273,108,305,146
+11,510,810,780,885
+12,1758,92,1814,148
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px centerRows=true
+# block=12 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+20
+
+# block=9
+DE OMNIBUS GENERATIM
+
+# block=10
+19
+
+# block=7
+more procreatum; ipsumque Filium Dei progres-
+sione quadam virtutis, verba sunt Epiphanii ⁵³ , et
+conjunctione cum Deo factum : proindeque adopti-
+vum duntaxat esse Dei Filium, ut eidem Ebioni ex-
+probrat Mercator. Sectatores tamen Ebionis non
+uno eodemque modo hunc magistri sui errorem se-
+cuti sunt : Alii enimvero ab his eodem nomine nun-
+cupati, inquit Eusebius ⁵⁴, absurdam eorum senten-
+tiam rejicientes, Christum quidem ex Virgine et Spi-
+ritu sancto genitum esse non negant : sed iidem ni-
+hilominus cum Christum, utpote Deum, Verbum, ac
+sapientiam Patris, ante omnia substitisse minime fa-
+teantur, in eandem cum prioribus sententiam de-
+lapsi sunt. Unde etiam Epiphanii ⁵⁵ : Alii aliter de
+Christo pronuntiant.... Nonnulli enim ex eis Ada-
+mum fuisse Christum prædicant... Alii e cœlo Chri-
+stum esse confitentur, sed ante omnia creatum, ac
+spiritum quemdam esse, angelisque præstare, atque
+omnium rerum dominatum tenere. Qui cum perpetuam
+illic habitationem sortitus sit, quoties libuerit, in hæc
+infima delabitur, quemadmodum in Adamo descendit,
+et patriarchis corpore circumfusus apparuit, velut
+cum ad Abrahamum, Isaacum et Jacobum adiit,
+Idem denique postremis temporibus venit, Adami cor-
+pore contectus, et homo visus est, et in crucem sub-
+latus surrexit, et ascendit in cœlum. Rursus ubi li-
+buerit, ita se rem habere negant, in eumque duntaxat
+sese sanctum infudisse Spiritum, qui est Christus,
+eumque qui Jesus vocatus est, induisse. Et infra ⁵⁶ :
+Duos a Deo constitutos esse asserunt, Christum et
+diabolum, quorum illi futuri, huic præsentis sæculi
+potestas est commissa : idque adeo omnipotentis il-
+lius mandato ad cujusque postulationem esse fa-
+ctum, etc.
+
+# block=4
+chiam direxisse : Quoniam cognovimus quosdam a
+nobis ad vos esse profectos, etc. Nullus quoque dubi-
+tat Petrum et Paulum, eodem penitus evertendi er-
+roris amore succensos, contra ipsum inito certa-
+mine, hæresim ejus confutasse et profligasse. His
+Theodoretus adjungit Caium, Dionysium Alexan-
+drinum, Justinum martyrem, Irenæum atque Orige-
+nem. Porro autem cum non alios qui contra Ce-
+rinthum pugnaverint, commemoret vir ille doctis-
+simus, hinc non leve ducitur argumentum hæresim
+illam, circa Origenis tempora exstinctam, nullos
+amplius habuisse fautores. Certum tamen est præ-
+cipuos Cerinthi errores ab aliis postea adoptatos
+fuisse hæreticis, qui nova sectis suis, ut dicemus,
+nomina imposuerunt.
+
+# block=11
+CAPUT VI.
+De hæresi Ebionis.
+
+# block=5
+Ebion cujus nomen apud Patres doctissimos ⁴⁸,
+idem ac mendicus sonat, a Mario Mercatore ⁴⁹ vo-
+catur philosophus et stoicus philosophus. Eruditus
+autem scriptor quidam nomen mendici ipsi inditum
+putat, quod spretis divitiis, voluntariam pauperta-
+tem profiteretur. Verum Epiphanio Ebionitæ se
+mendicos prædicant, quod apostolorum tempore mos
+esset bona sua distrahere, et ad illorum pedes abji-
+cere.
+
+# block=1
+Quo autem loco et tempore orta sit Ebionis hæ-
+resis idem Epiphanius his verbis declarat ⁵⁰ : Hu-
+jus factionis exordium post Hierosolymitanæ urbis
+excidium cœpit. Quo tempore Christiani omnes cum
+in Peræa degerent, atque in urbe Fella potissimum,
+quæ in Decropolitana provincia est... prope Batanæam
+ac Basanitidem ; cum illic, inquam, domicilium col-
+locassent, hinc Ebioni data est propagandi erroris
+occasio. Qui in pago quodam Gocabe, in regione
+Carnaimorum, Arnëmi, et Astarotharum, et Basa-
+nitidis tractu habitare cœpit, quemadmodum vetus ad
+nos usque fama pertulit. Postea vero adjicit ⁵¹ : In
+Asia ac Romæ errorem suum disseminavit. Cum ita-
+que urbs Hierosolymitana juxta peritiorum chrono-
+logiam anno Christi 70 capta fuerit ac diruta, per
+id ferme tempus Ebion in locis, ab Epiphanio com-
+memoratis, errores suos disseminare cœpit. Nec
+longe abest ab hac sententia Hieronymus, qui
+Joannem, consurgente Ebionis hæresi, Evangelium
+suum scripsisse affirmat ⁵² : Scripsit Evangelium ad-
+versus Cerinthum..... et maxime nunc Ebionitarum
+dogma consurgens.
+
+# block=2
+⁵⁷ Hanc porro opinionum divisionem et differen-
+tiam Elxæo pseudoprophetæ tribuendam esse suspi-
+catur. Quidaro vero hunc Elxæum, seu Elceai pe-
+culiaris cujusdam hæresis, quæ ab illius nomine
+Helcesaitarum dicta est, tradunt fuisse auctorem.
+Illius porro errores ab Eusebio ⁵⁸ et Theodoreto ⁵⁹
+notantur; sed eam simul natam, simul exstinctam
+idem Eusebius in ecclesiastica sua Historia testa-
+tus est. Citatum a nobis illius locum si adire vo-
+lueris, lege etiam in eum Valesii notas et animad-
+versiones.
+
+# block=3
+Ebionitæ autem præterea docebant omnes lege
+Mosaica teneri, servandamque Sabbati celebratio-
+nem, quamvis Dominicam quoque diem in Resur-
+rectionis Christi memoriam ipsimet observaverint.
+Quapropter ii juxta Irenæum ⁶⁰ : Paulum recusant,
+apostatam eum legis dicentes..... solo autem eo quod
+est secundum Matthæum Evangelio utuntur. His quæ
+de Evangelio Matthæi dicuntur, concinit Theodo-
+
+# block=6
+Errores vero Ebionis iidem propemodum erant,
+ac Cerinthi; ita ut ille a quibusdam, quod tamen
+indubitatum omnino non est, ejusdem Cerinthi di-
+scipulus fuisse asseratur. Docebat autem Christum
+merum esse hominem, ex Maria et Joseph humano
+
+# block=8
+⁴⁸ Origen. lib. 11 cont. Cels. et lib. iv Periarch.; Euseb. lib. III Hist. cap. 37; Epiphan.,
+hæres. 30; Theodor. Hær. Fabul. cap. 11. ⁴⁹ Mercat. Anathem. Nestor., 12. ⁵⁰ Hæres. 30,
+§ 1. ⁵¹ Ibid. § 18. ⁵² De script. eccles., in Joan.; Tertul. Lib. de carne Christi, cap. 18. Origen.
+homil. 17 in Luc.; Hieronym. De script. eccles. ⁵³ Hæres. 30, § 18, et Euseb. lib. III Histor.
+cap. 27. ⁵⁴ Loc. cit. ⁵⁵ Hæres. 30, § 3. ⁵⁶ Ibid. § 16. ⁵⁷ Ibid. § 3. ⁵⁸ Euseb. lib. vi Hist. cap. 30.
+⁵⁹ Theod. lib. II Hæret, Fab., cap. 7. ⁶⁰ Loc. cit.

@@ -1,0 +1,153 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1064,1646,1813,2505
+2,285,1994,1032,2508
+3,273,262,1022,1984
+4,1060,132,1807,1637
+5,292,2564,1805,2669
+6,278,134,1019,256
+7,817,81,1286,118
+8,268,72,332,122
+9,1756,70,1814,122
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Jam vero cum cura nostram hanc legenti nihil
+occurrit fucati aut subdoli; et tamen omnia refe-
+runt plane apostolica tempora, charactere scriben-
+di, et doctrina ipsa. Quod firmo est argumento,
+saltem ex illo ævo ad nos Epistolam illam perve-
+nisse, etsi de auctore forte non constaret. Sermo
+sane is est, qualem summus criticus Photius judi-
+cavit, ἁπλοῦς κατὰ τὴν φράσιν καὶ σαφὴς, καὶ
+ἐγγὺς τοῦ ἐκκλησιαστικοῦ χαρακτῆρος; extra autem
+primum illud Ecclesiæ ævum frustra formam illam
+scribendi quæsieris, Sic quod epistola Romanæ
+Ecclesiæ, non vero episcopi et presbyterorum aut
+episcopi solius nomine exarata est, alteri ætati
+quam soli apostolicæ non convenit : paulatim cre-
+scente auctoritate primum collegii presbyteralis,
+inde unius episcopi, et sensim a curatione sacra-
+rum rerum remoto populo. Sequens etiam ævum
+longe aliter de persona Christi locutum est : cum
+hic non fere alia reperias, quam illa quibus S. Pau-
+lus est usus. Videre etiam hic est in ordine hierar-
+
+# block=2
+Par ratio est Clementinæ illius Epistolæ ad Co-
+rinthios, quam ex vetustissimo Alexandrino codice
+nobis non adeo pridem Patricius Junius vir clariss.
+communicavit, et tu hodie ex Londinensi exprimis.
+Etiam hic enim invenire est, quæ cum de illa, tum
+ex illa veteres omnes prodiderunt. Observamus
+sane et στάσιν οὐκ ὀλίγην Corinthi ortam inter fra-
+tres, progressam nimirum ad vim et bellum, sive
+duella : et Romanæ Ecclesiæ, non autem unius Cle-
+mentis nomine exaratas litteras; easque ad pacem
+et concordiam Corinthios flectentes, memorantes-
+que eorum fidem, quam recenter ab apostolis acce-
+
+# block=3
+Neque vero quidquam video causæ, cur suspice-
+mur alias esse illas nostras ab iis quas tanto in
+pretio prisca Ecclesia habuit. In Polycarpi sane
+epistola deprehendere est ipsam illam de Deo et
+Domino nostro Jesu Christo sanam doctrinam, cu-
+jus nomine refellendis sui sæculi hæresibus, ἱκανω-
+τάτην illam pronuntiavit commendavitque S. Ire-
+næus : deprehendere est locum integrum unum
+alterumque, quem adducit Eusebius ¹⁴, et post il-
+lum Nicephorus Callistus, et quidem ita ut liquido
+appareat, fraude nulla insertos esse : deprehendere
+est ex prima Petri Epistola deprompta haud pauca,
+quæ idem Eusebius notaverat; deprehendere deni-
+que est illud omne, quod Photius, accuratissimus
+librorum censor, in lecta Polycarpi epistola ani-
+madverterat, multis nimirum refertam admonitio-
+nibus, μετὰ σαφηνείας καὶ ἁπλότητος κατὰ τὸν
+ἐκκλησιαστικὸν τῆς ἑρμηνείας τύπον, quodque in
+ea dicat auctor se Ignatii epistolas ad Philippen-
+ses misisse, petereque ab illis edoceri si quid de eo
+inaudiant. Horum, inquam, omnium desideratur
+nihil. Ad hoc, ipsum Epistolæ exordium ostendit,
+scriptam illam, quo tempore non unius exsortis
+episcopi in manu Ecclesiæ erat administratio, sed
+communi presbyterorum consilio et auctoritate
+omnia regerentur : quod non diu post Polycarpum
+mutavit. Sed et videre est damnata placita Marcio-
+nis de carne et passione Christi, resurrectione
+item et judicio mortuorum, illamque adeo solem-
+nem et uni illi martyri propriam detestationem,
+qua obviam sibi Romæ factum Marcionem exce-
+pisse Polycarpum, πρωτοτόκου scilicet τοῦ Σατανᾶ,
+memorat Irenæus ¹⁵. Ex adverso, quibus Flacius,
+eumque secuti alii, dubiam reddere Epistolam illam
+tentavere, talia sunt ut in commodum συλλογι-
+σμὸν referre nequeas, quamvis coneris. Simplici-
+tas certe dictionis et inelaboratus sermo, quæ illi
+causantur, arguunt potius apostolicam ætatem scri-
+ptionemque, ut quæ uni illi tempestati et solis apo-
+stolis, eorumque discipulis familiaria fuerint.
+
+# block=4
+perant, plane quemadmodum Epistolam illam lauda-
+vit S. Irenæus ¹⁶. Quæ Clemens Alexandrinus et
+Origenes ¹⁷ ex illa Epistola proferunt, verbis toti-
+dem in nostra reperiuntur, et quidem ita ut ibi nata
+dixeris, non autem dolosa manu inducta. Euse-
+bius ¹⁸ quoque prodit, dissidio apud Corinthios orto,
+scriptam a Clemente nostro Epistolam ὡς ἀπὸ τῆς
+Ῥωμαίων Ἐκκλησίας, aut ut alibi loquitur, ἐκ
+προσώπου τῆς Ῥωμαίων Ἐκκλησίας, eamque di-
+ctionis charactere et sententiis cum Epistola ad
+Hebræos plurimum convenire : quæ omnia hic lu-
+culentissime apparent. Qualem vero Epistolam il-
+lam Eusebius, talem et S. Hieronymus ¹⁹ eam no-
+bis descripsit : ut proinde nostra hæc ab illa quæ
+Hieronymo ad manum fuit, nihil abeat. Sed et quæ
+idem S. Hieronymus ²⁰ semel iterumque ex Epistola
+illa in medium affert, haud in nostra desideran-
+tur : perinde ut hic reperitur etiam illa phœnicis
+commemoratio, quam ex Clementis epistola produ-
+cit Cyrillus Hierosolymitanus ²¹. Omni ex parte
+quoque nostra hæc respondet illi descriptioni quam
+Photius in Bibliotheca habet, argumento videlicet,
+dictione et doctrina de mundis trans oceanum, de
+Phœnice et de Christi persona. Tantum deest for-
+tassis quod S. Justinus martyr ²², sive quis alius
+auctor Responsion. ad orthodox. ex Epistola illa re-
+fert, quodque ceu Clementi dictum laudat Basilius
+ad Amphilochium. Verum non est quod propterea
+sequius suspicemur, cum quatuor integra folia no-
+bis deesse testetur is cui editionem primam debe-
+mus, Patricius Junius : et Basilius (sive alius libri
+illius scriptor) illa sua ex hac Epistola forte non
+prompserit. Nihil sane ex omni antiquitate pro-
+duxeris de Clementis illa germana Epistola, quod
+merito quem fecerit de nostra dubitare.
+
+# block=5
+¹⁴ Lib. III Hist., c. 36; l. IV, c. 14. ¹⁵ Loc. citat. ¹⁶ Lib. III, c. 13. ¹⁷ Lib. IV Strom.; lib. II
+Περὶ ἀρχῶν. ¹⁸ Lib. III Hist. c. 12 et 32. ¹⁹ De scriptor. ²⁰ In cap. LII Isai. et cap. IV Ephes.
+²¹ Catech. 18. ²² Resp. 74 Basil., c. 29.
+
+# block=6
+autem illa publicanda hactenus tuam operam collo-
+casti, primum Polycarpi, nunc et Clementis san-
+ctas illas litteras edens.
+
+# block=7
+AD S. CLEMENTEM I PAPAM
+
+# block=8
+51
+
+# block=9
+52

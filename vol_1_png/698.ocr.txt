@@ -1,0 +1,185 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,264,140,1013,528
+2,1040,2239,1788,2712
+3,1048,147,1798,529
+4,260,690,1008,2705
+5,1034,682,1804,2243
+6,312,557,754,592
+7,872,617,1175,656
+8,656,85,1375,128
+9,265,80,321,131
+10,1715,90,1803,136
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+ad mulieres non possis mittere, propter infideles :
+destinabis igitur mulierem diaconissam, ob impro-
+borum cogitationes. Diaconissa siquidem femina
+ad multos usus indigemus. Ac in primis quidem
+cum baptizantur mulieres, diaconus tantum earum
+frontem unget oleo sancto, et post diaconissa eas
+illinet : non enim opus est ut feminæ aspiciantur
+a viris. Verum, duntaxat in manus impositione,
+caput mulieris unget episcopus : quemadmodum
+
+# block=2
+(87) Ὁ διάκονος χρίσει, etc. Unctio ante ba-
+ptismum facta oleo sancto, benedicto, et exorcizato,
+mera cæremonia est ; quæ ideo a diacono, vel pre-
+sbytero, seu episcopo, semel aut bis, hoc vel illo
+modo, in his aut illis, aut in omnibus corporis
+membris peracta invenitur, juxta variam ecclesia-
+rum ac gentium consuetudinem. Innumera hujusce
+rei possent proferri documenta, desumpta ex Ri-
+tualibus Æthiopum, Syrorum, Græcorum, Latino-
+rum, ex conciliis, et ex Patribus. Sed peculiarem
+merentur animadversionem, præter textus Consti-
+tutionum hic, et lib. VII, cap. 22 ; Recognitionum
+lib. III, cap. 67 ; Joannis Moschi, qui citatus fuit in
+nota superiore, ac Ritualium librorum, loca se-
+
+# block=3
+χρείας εὐσκύλτους. Προχείρισαι δὲ καὶ διάκονον (85)
+πιστὴν καὶ ἁγίαν εἰς τὰς τῶν γυναικῶν ὑπηρεσίας.
+Ἔστι γὰρ ὁπόταν ἔν τισιν οἰκίαις ἄνδρα διάκονον
+γυναιξὶν οὐ δύναται ¹⁵ πέμπειν, διὰ τοὺς ἀπίστους·
+ἀποστελεῖς οὖν γυναῖκα διάκονον, διὰ τὰς τῶν φαύλων
+διανοίας. Καὶ γὰρ εἰς πολλὰς χρείας, γυναικὸς χρή-
+ζομεν διακόνου (86). Καὶ πρῶτον μὲν ἐν τῷ φωτί-
+ζεσθαι γυναῖκας, ὁ διάκονος χρίσει μὲν μόνον τὸ μέτ-
+ωπον αὐτῶν τῷ ἁγίῳ ἐλαίῳ (87), καὶ μετ’ αὐτὸν ἡ
+
+# block=4
+(85) Διάκονον. Alter cod. διακόνισσαν, ut et
+paulo post. ID.
+(86) Εἰς πολλὰς χρείας, γυναικὸς χρήζομεν
+διακόνου. Officia diaconissarum, præter ea de qui-
+bus antea diximus, alia multa fuerunt. Diaconissa
+in Constitutionibus, lib. II, cap. 26, introducit mu-
+lieres ad diaconum et ad episcopum ; lib. III, cap.
+7, præest viduis ; hoc capite, et 19, feminarum
+curam gerit, ad quas mittitur honestatis causa, ubi
+ministerio illius opus est. Atque ita Epiphanius,
+cap. 3, hæres. 79, et cap. 21 Expositionis fidei. In
+suo sexu ministrat, in ministerio verbi, et priva-
+tim docendo ; dicitur in Commentariis ad Rom. XVI,
+1, tom. VIII Hieronymi. Hoc etiam loco ad baptizan-
+das feminas adhibentur diaconissæ, ut eas inun-
+gant, neve a viris aspiciantur nudæ. Et quidem
+quod spectat ad unctionem, illustre habemus in
+Joannis Moschi Prato spirituali, cap. 3, exemplum,
+de Conone presbytero, cui in cœnobio ibi memo-
+rato baptisnum accedentibus conferre demandatum
+fuerat : Αὐτὸς δὲ ἔχριεν καὶ ἐβάπτισεν τοὺς ἐπὶ τοῦτο
+παραγενομένους. Καθ’ ὅτι οὖν ἔχριεν γυναῖκα, ἐσκαν-
+δαλίζετο. Ipse autem ungebat et baptizabat eos qui
+ad hoc veniebant. Quoties ergo mulierem inungeret,
+scandalizabatur. Ἐν μιᾷ οὖν ἦλθεν κόρη Περσία,
+ἐπὶ τὸ βαπτισθῆναι· ἦν δὲ εὐειδὴς πάνυ ὡραία, ὥστε
+μὴ δυνηθῆναι τὸν πρεσβύτερον αὐτὴν χρίσαι τῷ ἁγίῳ
+ἐλαίῳ. Καὶ ποιησάσης αὐτῆς δύο ἡμέρας, ἤκουσεν
+ἀρχιεπίσκοπος Πέτρος, ἐξεπλάγη ἐπὶ τῷ γεγονότι,
+καὶ ἠθέλησεν ἀφορίσαι διάκονον γυναῖκα ἐπὶ τῷ
+αὐτῷ. Ἀλλὰ τοῦτο οὐκ ἐποίησεν, διὰ τὸ μὴ ἐπιδέχε-
+σθαι τὸν τόπον. Quadam vero die venit puella orta ex
+Perside, ut baptizaretur ; quæ ita speciosa erat, ac
+tantæ pulchritudinis, ut non posset presbyter eam
+sancto oleo inungere. Cum sic vero illic puella man-
+sisset duos dies, audiens archiepiscopus Petrus, ob-
+stupuit ea de re vehementer, voluitque ad hoc opus
+delegare diaconissam mulierem ; sed non fecit, quod
+locus, cœnobium videlicet, id non pateretur. Am-
+brosius Camaldulensis vertit, ne contra canones fe-
+cisse videretur, quia male legebat τύπον, quemad-
+modum pro γεγονότι, γέροντι. Quod pertinet autem
+ad revelandas velandasque feminas, et ad reliqua
+diaconarum munia in baptismo mulierum, consuli
+possunt Epiphanius et pseudo-Hieronymus citati,
+Atto Vercellensis Epistola ad Ambrosium, Justinia-
+nus Novella 6. Noster cum lib. ult., cap. 28, tum
+hocce lib. III, cap. 16, ubi diaconissæ fiunt susce-
+ptrices feminarum, ut et in canone 74 Nicæno Ara-
+bico, et in Vita S. Pelagiæ, cap. 8, lib. I, De Vitis
+Patrum, Rosweydi. Et unam de diaconissis, inquit
+Jacobus diaconus, Vitæ illius scriptor, juberet ejus
+beatitudo transmittere mecum. Et mox : Statim trans-
+misit mecum dominam Romanam primam diaconis-
+sarum. Posteaque : Sanctus Nonnus episcopus exorci-
+zavit eam, Pelagiam, et baptizavit, et imposuit ei si-
+gnum Domini, tradiditque illi corpus Christi : fuit-
+que illi mater spiritalis sancta domina Romana prima
+diaconissarum. In Matthæo Blastare elemento γ, cap.
+13 : Αἱ μέντοι διάκονοι γυναῖκες τίνα τὴν ὑπηρε-
+σίαν τῷ τότε ἐν τῷ κλήρῳ ἐπλήρουν, τοῖς πᾶσι σχε-
+
+# block=5
+δὸν ἠγνόηται νῦν· πλὴν εἰσὶν οἱ λέγουσιν, ὅτι ταῖς
+βαπτιζομέναις τῶν γυναικῶν ὑπηρέτουν, ἀνδρῶν
+ὀφθαλμοῖς οὐ θεμιτὸν ὂν, γυμνουμένας ταύτας ὁρᾶ-
+σθαι, ὑπεράκμους ἤδη βαπτιζομένας. Hoc est : Porro
+diaconissæ quidnam ministerii per illud tempus in
+clero adimplerent, ab omnibus fere nunc ignoratur.
+Sunt tamen qui dicant, quod in baptismo mulierum
+ministrarent, cum nefas sit feminas in ætatis flore
+baptizandas, oculis virorum nudas objici. Videre
+etiam potes in canone 12 synodi Carthagin. IV, quo-
+modo eas quæ baptismo initiabantur docerent tam
+respondenda baptizatori, quam vitæ post lavacrum
+transmittendæ rationem. Denique ad diaconas per-
+tinuisse puto visitationem carcere detentorum,
+necnon collectionem pecuniæ ad liberandos eos. Id
+sane innuunt Lucianus et Libanius. Ille hisce ver-
+bis de Peregrino : Καὶ ἔωθεν μὲν εὐθὺς ἦν ὁρᾷν
+παρὰ τῷ δεσμωτηρίῳ περιμένοντα γραΐδια, χήρας
+τινὰς, καὶ παιδία ὀρφανά· οἱ δὲ ἐν τέλει αὐτῶν καὶ
+συνεκάθευδον ἔνδον μετ’ αὐτοῦ, διαφθείροντες τοὺς
+δεσμοφύλακας. Ac mane quidem illico videre erat
+juxta carcerem præstolantes anus, viduas aliquas,
+et pueros orbos : qui autem apud ipsos in dignitate
+erant, cum ipso intus dormiebant, corruptis custodi-
+bus : Οἱ ἐν τέλει mihi sunt diaconi ecclesiastica
+dignitate suffulti ; quorum fuisse in carcerem com-
+meare, discimus ex epistola 10 S. Cypriani. Liba-
+nius vero orat. 16, in Tisamenum, edit. Morell.,
+p. 452, sic loquitur : Μητέρα δὲ γραῶν, εἴπερ εἴη
+τῷ δεδεμένῳ, πλανωμένην ἀγείρειν ὅσον προσαιτοῦσα
+δύνηται. Matrem vero vetularum, si vincto contigerit,
+vagantem colligere quidquid mendicando possit. Pau-
+cisque interjectis : ἢ τοῖς ὑπηρέταις ἦν ἀναμιμνή-
+σκων, πρὸς πολλῶν γόνατα προσπεσεῖν, id est : aut
+ministros (diaconos mea quidem sententia) commo-
+nefaceret ad multorum genua procidere. Ac Oratione
+de vinctis, quam Jacobo Gothofredo debemus :
+Ταῦτα εἰπὼν ἀκούει· Διατί οὐ καλεῖς διὰ τῶνδε τῶν
+(malim ita, quam ut editum est, διὰ τῶν δετῶν per
+vinctos) ἐξιόντων γυναῖκα δεῦρο, τῶν ἐπὶ φιλανθρω-
+πία φιλοτιμουμένων, εἶτ’ αὐτῆς πρὸς τὰ γόνατα προσ-
+πεσὼν, πείθεις προσαιτοῦσαν ἄγειν τί σοι ; Postea-
+quam hæc dixit, audit : Cur non vocas per hosce qui
+egrediuntur, mulierem huc aliquam ex iis quæ pro
+humanitate sua claræ habentur ; indeque ad genua
+illius procidens, persuades ut mendicando aliquid
+tibi afferat ? Cor.
+
+# block=6
+¹⁵ f. δύνασαι. Sic cod. Vindob.
+
+# block=7
+VARIORUM NOTÆ.
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9
+795
+
+# block=10
+796

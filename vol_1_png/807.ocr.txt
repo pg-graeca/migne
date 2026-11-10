@@ -1,0 +1,189 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,999,2347,1755,2682
+2,1001,1624,1764,2349
+3,221,1617,969,2418
+4,218,2415,964,2683
+5,229,1334,1764,1509
+6,214,1083,982,1293
+7,1019,147,1779,872
+8,233,138,989,865
+9,1015,1075,1766,1293
+11,853,1549,1147,1579
+12,1277,965,1501,1003
+13,466,967,742,1004
+14,646,87,1360,125
+16,226,76,316,124
+17,1678,88,1774,134
+18,234,868,1776,952
+19,214,1006,982,1078
+20,1018,1004,1762,1078
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=999 source_y1=2347 source_x2=1755 source_y2=2682
+(51) Ἡ κρίσις ἐξῆλθεν ἡ κατὰ τοῦ Κυρίου.
+Expone per illud lib. v, cap. 14: Ὥρισαν τῷ σταυ-
+ρῷ ἀνελεῖν αὐτόν. Et per Anastasium hic : Ἡ κατὰ
+τοῦ Κυρίου κρίσις ὑπὸ τῶν Ἰουδαίων ἐμελετήθη·
+quo etiam modo in Typico S. Sabæ, B. Augustinus
+epist. 86 : Quarta Sabbati, quam vulgo quartam fe-
+riam vacant, consilium reperiuntur ad occidendum
+Dominum fecisse Judæi. Τῇ μὲν κατὰ τοῦ λυτρωτοῦ
+τὸ παράνομον συνήχθη συνέδριον, Leo Augustus Ora-
+tione in laudem S. Nicolai. Ib.
+
+# block=2 source_x1=1001 source_y1=1624 source_x2=1764 source_y2=2349
+Post hæc edita, cum incidissem in locum apud
+Chrysostomum Græce seu Savilianæ editionis
+tom. V, p. 821, in eoque legerem l. xıv, xv, πενθη-
+μέρους σπονδάς, statim arbitrabar imitationem
+esse Basilianam; sed re examinata, visoque ms.
+illo regio, qui numeratur 1010, comperi, initium
+illius homiliæ 126, In venerandam crucem, a
+p. 819 usque ad nomen ἐδέσματα l. xvı, xvıı,
+p. 820, esse principium Orationis Josephi Thessa-
+lonicensis, quam edidit Gretserus tom. II operıs
+De cruce; quod vero ἐδέσματα sequitur, πᾶσιν
+ὁμοίως ἐπιτρέπει, etc., usque ad νηφαλίου p. 821,
+l. x, ad Basilii homiliam secundam De jejunio per-
+tinere, ubi habetur edit. Paris. ann. 1638, tom. I
+a pag. 291 B, 7, 8, ad p. 292 D, 8, 9, et quod
+νηφαλίου excipit, τῶν πεμμάτων, etc., usque ad
+κολάζουσά σε p. 822, l. xLııı, esse pariter Basilii
+homilia 1 De jejunio, p. 281 D, 11, etc., usque ad
+p. 284 D, 4; reliqua demum, τοῦ εὑρεῖν, etc.,
+claudere narrationem De sacris imaginibus et festo
+orthodoxiæ, in Auctario Combefisiano, t. II, p. 742
+E, 4, etc. ID.
+
+# block=3 source_x1=221 source_y1=1617 source_x2=969 source_y2=2418
+(47) Καὶ γὰρ ὁ Κύριος. Omnino Tertullianum
+vide cap. ult. De baptismo. ID.
+(48) Βαπτισάσθω. Alter cod. Vindob. βαπτι-
+σθῆναι. Eodem sensu, nisi quod prius significat
+ἀντιπεπονθός, hoc est, curare se baptizari; po-
+sterius vero simpliciter baptizari. Cт.
+(49) Νηστεύουσι γὰρ δευτέρᾳ Σαββάτων καὶ
+πέμπτῃ. Jejunare secunda et quinta Sabbati, se-
+cunda et quinta feria, seu die Lunæ ac die Jovis,
+jejunium est Pharisaicum atque Judaicum, de quo
+Rabbini sæpe : ex nostris Epiphanius hæresi 16,
+quæ 'est Pharisæorum cap. 1, Theophylactus ad
+textum Luc. xvııı, 12 : Jejuno bis in Sabbato; Ni-
+cetas in Matth. xıı, 7. Sed et Manichæos 2 feria in
+honorem Lunæ jejunasse constat testimonio Leo-
+nis PP. serm. 4 De Quadragesima, cap. 5. Paganos
+autem 5 feria celebrasse jejunium dicitur in Vita
+Melchiadis. Hos ergo duos dies esuriales non ha-
+bebant Christiani catholici, præcipue postremum,
+quo Christus Dominus Eucharistiæ instituit sacra-
+mentum, atque in cælum ascendit. Unde a multis
+tempore Quadragesimæ feria quinta jejunium sol-
+vebatur; a multis servabatur jejunium perpetuum,
+exceptis quinta Sabbati et die Dominico. Cor.
+
+# block=4 source_x1=218 source_y1=2415 source_x2=964 source_y2=2683
+(50) Tὰς πέντε νηστεύσατε ἡμέρας. Eleganter
+hanc πέντε ἡμερῶν νηστείαν appellat S. Basilius
+πενθήμερους σπονδάς, quinque dierum inducias. Te-
+statur vero B. Augustinus epist. 86 ad Casulanum,
+multos, præsertim monachos, per totam vitam
+jejunasse quinques in hebdomade, ac semper,
+.[empto Sabbato et Dominica; quod et legere est
+apud Cassianum lib. ııı De instit. cænob., cap. 9.
+
+# block=5 source_x1=229 source_y1=1334 source_x2=1764 source_y2=1509
+⁵⁵ Matth. xıı. ⁵⁶ Matth. ıv. ⁵⁷ Ignat., interpol. ad Ephes. xvııı leg. Chrysost. H. de baptismo Christi.
+⁵⁸ Citat Anastasius, quæst. 64, l. 1, lib. v, cap. 15, 14. l. Pseudo-Ignat ad Philipp. 13, Epiph., hær.
+LXXV, n. 6, l. Ignat., interpol. ad Magn. 9; Pseudo-Ignat. ad Philipp. 13; Nicetam Pectoratum, con-
+tra Latinos. ⁵⁹ Matth. vı, 5. ⁶⁰ Anast. δευτέραν καὶ πέμπτην, καὶ Σάββατον. ⁶¹ Deest in Anast.
+⁶² Anast. ὑπὸ τῶν Ἰουδαίων ἐμελετήθη.
+
+# block=6 source_x1=214 source_y1=1083 source_x2=982 source_y2=1293
+Αἱ δὲ νηστεῖαι ὑμῶν μὴ ἔστωσαν μετὰ τῶν ὑπο-
+κριτῶν· νηστεύουσι γὰρ δευτέρᾳ Σαββάτων ⁶⁰ καὶ ⁶¹
+πέμπτῃ (49) ⁶²· ὑμεῖς δὲ τὰς πέντε νηστεύσατε
+ἡμέρας (50), ἡ τετράδα καὶ παρασκευήν· ὅτι τῇ μὲν
+τετράδι ἡ κρίσις ἐξῆλθεν ἡ κατὰ τοῦ Κυρίου (51),
+
+# block=7 source_x1=1019 source_y1=147 source_x2=1779 source_y2=872
+qui baptizatur : etenim Dominus primum a Joanne
+baptizatus ⁵⁵, et in deserto commoratus postea,
+jejunavit quadraginta diebus et quadraginta nocti-
+bus ; baptizatus autem fuit ac jejunavit ⁵⁶ ; non
+quod ipse opus haberet ablutione sordium , vel je-
+junio, vel purgatione , qui natura purus et sanctus
+est ; sed partim ut Joanni veritatem attestaretur,
+partim ut nobis præscriptum ac exemplum præbe-
+ret. ⁵⁷ Igitur Dominus non equidem baptizatus est
+in passionem suam , aut mortem, aut resurrectio-
+nem : nondum enim quidpiam horum accederat ;
+sed in aliam ordinationem. Quapropter ex potestate
+jejunat post baptisma, ut Dominus Joannis : qui
+vero in mortem illius per baptismum initiatur,
+debet prius jejunare, et tum baptizari. Æquum
+quippe non est , ut qui consepultus est et consur-
+rexit , sub ipsam resurrectionem mæreat. Non
+
+# block=8 source_x1=233 source_y1=138 source_x2=989 source_y2=865
+πτιζόμενος· καὶ γὰρ ὁ Κύριος (47) πρῶτον βαπτισθεὶς
+ὑπὸ Ἰωάννου, καὶ εἰς τὴν ἔρημον αὐλισθεὶς μετέπειτα
+ἐνήστευσε τεσσαράκοντα ἡμέρας καὶ τεσσαράκοντα
+νύκτας· ἐβαπτίσθη δὲ καὶ ἐνήστευσεν· οὐχ αὑτὸς ἀπο-
+ρυπώσεως, ἢ νηστείας χρείαν ἔχων, ἢ καθάρσεως, ὁ
+τῇ φύσει καθαρὸς καὶ ἅγιος· ἀλλ' ἵνα καὶ Ἰωάννῃ ἀλή-
+θειαν προσμαρτυρήσῃ, καὶ ἡμῖν ὑπογραμμὸν παρά-
+σχηται. Οὐκοῦν ὁ μὲν Κύριος, οὐκ εἰς ἑαυτοῦ πάθος
+ἐβαπτίσατο, ἢ θάνατον, ἢ ἀνάστασιν· οὐδέπω γὰρ
+οὐδὲν τούτων ἐγεγόνει· ἀλλ' εἰς διάταξιν ἑτέραν. Διὸ
+καὶ ἀπ' ἐξουσίας μετὰ τὸ βάπτισμα νηστεύει , ὡς
+Κύριος Ἰωάννου· ὁ δὲ εἰς τὸν αὐτοῦ θάνατον μυούμε-
+νος, πρότερον ὀφείλει νηστεῦσαι, καὶ τότε βαπτίσα-
+σθαι (48). Οὐ γὰρ δίκαιον τὸν συνταφέντα καὶ συνα-
+ναστάντα , παρ' αὐτὴν τὴν ἀνάστασιν κατηφεῖν· οὐ
+γὰρ κύριος ὁ ἄνθρωπος τῆς διατάξεως τῆς τοῦ Σω-
+τῆρος· ἐπείπερ ὁ μὲν Δεσπότης ; ὁ δὲ ὑπήκοος.
+
+# block=9 source_x1=1015 source_y1=1075 source_x2=1766 source_y2=1293
+⁵⁸ Jejunia vero vestra ne sint cum hypocritis ;
+jejunant enim secunda et quinta Sabbatorum ⁵⁹ :
+vos vero aut quinque diebus jejunate, aut quarta
+feria et Parasceve ; quoniam quarto quidem heb-
+domadis die, judicium Dominum condemnans pro-
+
+# block=11 source_x1=853 source_y1=1549 source_x2=1147 source_y2=1579
+VARIORUM NOTÆ.
+
+# block=12 source_x1=1277 source_y1=965 source_x2=1501 source_y2=1003
+CAPUT XXIII.
+
+# block=13 source_x1=466 source_y1=967 source_x2=742 source_y2=1004
+ΚΕΦΑΛΑΙΟΝ ΚΓ'.
+
+# block=14 source_x1=646 source_y1=87 source_x2=1360 source_y2=125
+CONSTITUTIONES APOSTOLICÆ. — LIB. VII.
+
+# block=16 source_x1=226 source_y1=76 source_x2=316 source_y2=124
+1013
+
+# block=17 source_x1=1678 source_y1=88 source_x2=1774 source_y2=134
+1014
+
+# block=18 source_x1=234 source_y1=868 source_x2=1776 source_y2=952
+enim homo constitutionis ad Servatorem pertinentis dominus est ; quandoquidem Christus, Dominus
+est ; homo vero, subjectus.
+
+# block=19 source_x1=214 source_y1=1006 source_x2=982 source_y2=1078
+Ποίας νηστευτέον τῆς ἑβδομάδος ἡμέρας, ἢ τίνας
+οὐ νηστευτέον· καὶ οὗ χάριν.
+
+# block=20 source_x1=1018 source_y1=1004 source_x2=1762 source_y2=1078
+Quibus diebus hebdomadis jejunandum sit , et quibus
+non jejunandum ; et cujus rei gratia.

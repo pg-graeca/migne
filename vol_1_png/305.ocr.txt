@@ -1,0 +1,168 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,214,1875,970,2651
+2,989,1355,1744,2127
+3,201,835,959,1868
+4,977,663,1735,1349
+5,998,2259,1742,2648
+6,200,719,947,822
+7,429,660,695,701
+8,370,2655,625,2694
+10,999,2188,1743,2258
+12,365,427,1551,491
+14,404,523,1488,561
+15,554,191,1359,316
+16,1269,2130,1463,2176
+17,1515,2654,1601,2692
+18,730,338,1178,400
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=29px
+# block=14 fontSize=14px
+# block=15 fontSize=61px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+DISSERTATIO
+
+# block=18
+DE OMNIBUS GENERATIM
+
+# block=12
+PRIMI ECCLESIÆ SÆCULI SCRIPTORIBUS
+
+# block=14
+(D. LE NOURRY, Apparatus ad Bibliothecam maximam, Parisiis, 1703, in-folio, p. 1
+
+# block=7
+CAPUT PRIMUM.
+
+# block=4
+qui cum Christo, carne nostra induto, conversati
+sunt, longum in tempus vitam produxerint, eosque
+qui sæculo secundo florerunt, habuerint discipu-
+los. Hos ergo sacris doctrinæ Christianæ præceptis
+et dogmatibus, quæ illi a Christo ipso acceperant,
+potuerunt imbuere: nec aliis Ecclesia indiguit do-
+ctoribus, queis, tanquam canalibus, eadem dogma-
+ta voce et ore, sine scripto, de manu, ut aiunt, in
+manum ad nos transmitterentur. Denique hac tot
+tantique pretii scriptorum jactura docemur, non
+aliud divinæ Providentiæ fuisse consilium, nisi ut
+ii sanctissimi scriptores, qui omnes plerique san-
+guinem pro Christiana fide tuenda, et propaganda
+fuderunt, illam sanguineis effusi cruoris guttis al-
+tius, quam charta, calamo et atramento, animis
+hominum inscriberent, intligerentque.
+
+# block=6
+Quam pauca supersint scriptorum primi Ecclesiæ sæ-
+culi opera; cur Deus plura interire permiserit; et
+quid in hac dissertatione tractandum sit.
+
+# block=3
+Plurima quidem veterum primi Ecclesiæ sæculi
+Patrum exstant opera; in Bibliotheca nostra Lugdu-
+nensi promiscue edita; sed nulla sunt, aut certe
+paucissima, quæ veros genuinosque tantæ antiqui-
+tatis characteres præ se ferre invictis argumentis
+demonstrentur. Septem quippe Ignatii, episcopi An-
+tiocheni et martyris, epistolæ, ab eo, ut ostende-
+mus, dubio procul sunt profectæ; at illæ eadem
+non ante octavum secundi sæculi annum in lucem
+prodierunt. Ad primum vero Ecclesiæ sæculum per-
+tinere nobis videntur cum Barnabæ apostoli Epi-
+stola, tum etiam tres Pastoris, seu Hermæ libri;
+veremur tamen ne ex quibus id assequimur, con-
+jecturæ, quantumvis firmæ sint et solidæ, iis non
+probentur, qui nec præconceptas opiniones possunt
+unquam deponere; nec vinci volunt, nisi demon-
+strationibus invictissimis. Porro autem quamvis
+omnibus id esset persuasum, duæ tantum nunc su-
+peressent scriptorum primi hujus sæculi lucubra-
+tiones. His autem quod adjungatur, nihil fere aliud
+testat, nisi prima ac forsan secunda Clementis Ro-
+mani Epistola, quæ cum in Bibliotheca nostra Lug-
+dunensi non sint excusæ, nullus de iis erit nobis
+hoc in opere dicendi locus.
+
+# block=2
+Cum autem paucissima sint Patrum primi Eccle-
+siæ sæculi opera, illa sane eo pluris æstimanda
+sunt, quo majorem iidem Patres et merito suo, et
+sua cum Christo ejusque apostolis consuetudine ac
+familiaritate sibi conciliaverunt auctoritatem. Qua-
+propter ut germana eorum scripta a spuriis et sup-
+posititiis queant facile discerni, singula quæque ad
+severiores criterii regulas, studiose diligenterque
+in sequentibus dissertationibus examinabimus. Sed
+prius de iis quæ ad illos scriptores generatim ac
+universe pertinent, hac in dissertatione disputan-
+dum est. Ostendemus itaque quod eorum ingenium,
+quæ studia, quæ occupationes, quæ occasiones eis
+ad scribendum fuerint, quos prostraverint Chri-
+stiani nominis et doctrinæ hostes, ac tandem quæ
+fuerint scholæ seu loci publici, in quibus ii Chri-
+stianam didicerint fidem, vel alios ipsimet eam edo-
+cuerint.
+
+# block=1
+Mirum sane, ac forsitan incredibile nonnullis vi-
+debitur, quod tam pauca ad nos pervenerint primæ
+Christianorum ætatis opera. Extra dubium namque
+est plures hujusce temporis scriptores varia edi-
+disse opuscula, epistolas, tractatus vel alias hujus-
+cemodi lucubrationes. Qua ergo Dei providentia,
+inquies, fieri potuit, ut tam pretiosa divinorum ho-
+minum monumenta, quæ primi esse debebant tra-
+ditionis nostræ canales, penitus interierint? Verum
+his querimoniis cito modum impones, si aliunde
+damnum illud, quantumvis lugendum, plenė resar-
+citum intelligas. Etenim omnes novi fœderis libri
+scripti sunt hoc sæculo; atque eo plurimum adulto,
+et pene labente, Joannes apostolus Evangelium,
+Apocalypsinque suam publicavit. Quid quod et ea-
+dem Dei providentia factum est, ut iis acerbius in
+nascentem Ecclesiam sævientium persecutionum
+temporibus, plures cum ex apostolis, tum ex iis,
+
+# block=16
+CAPUT II.
+
+# block=10
+Quod fuerit scriptorum primi sæculi ingenium, quæ
+studia, occupationes et occasiones ad scribendum.
+
+# block=5
+Extra controversiam est illos eo potissimum om-
+nes ingenii sui nervos contendisse, omneque stu-
+dium et operam consumpsisse, ut Evangelium Chri-
+sti omnibus annuntiarent; ac demonstrata Chri-
+stianæ religionis veritate, iis persuaderent eam so-
+lam, cæteris omnibus repudiatis, esse amplexan-
+dam. Hinc Judæos variis convincebant argumentis
+Christum esse illum tandiu, tantoque ardore ab eis
+exspectatum, Messiam, verumque Deum, et Patris
+
+# block=17
+1
+
+# block=8
+PATROL. GR. I.

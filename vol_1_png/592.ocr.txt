@@ -1,0 +1,181 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1026,2398,1782,2697
+2,251,136,1002,953
+3,1026,2158,1785,2399
+4,247,1242,999,2714
+5,659,82,1382,120
+6,860,1187,1168,1223
+8,275,1135,1437,1172
+9,1025,1243,1799,2164
+10,243,84,321,122
+11,1033,134,1783,958
+12,1723,84,1781,126
+13,245,966,1789,1128
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(77) Ἐπὶ γωνίας. Alter ἐν γωνίᾳ, contra quam
+habent edit. LXX Intt. Id.
+(78) Σκέπουσα τὴν κεφαλήν. Refert Georgius
+Cedrenus Decium imperatorem edixisse, ne mulie-
+res Christianæ caput velarent; illas apparentem
+turpitudinem in gloriam vertisse; quo factum ut
+usque ad sua tempora Christianæ accuratius viven-
+tes, absque velamine prodirent; cum obtegerentur
+Judææ atque ethnicæ. Verum id nequaquam reperi
+
+# block=2
+Videamus igitur quo modo tales divina Scriptura
+traducat. Ait : «Odi supra mortem mulierem quæ est
+laqueus venatorum, et sagena cordis; vincula vero
+sunt manus illius⁹. » Et alibi : « Sicut inauris aurea
+in naribus porci ; ita mulieri fatuæ pulchritudo ¹⁰. »
+Et adhuc : « Sicut vermis in ligno, sic viros disper-
+dit mulier malefica ¹¹. » Iterumque : « Melius est
+habitare in angulo subdiali, quam cum muliere lo-
+quace et rixosa ¹². » Ne igitur vos, quæ Christianæ
+estis, hujusmodi mulieres imitemini. Quæ autem
+viro tuo fida esse vis, illi tantum grata esse con-
+tende : in plateis caput tege; nam per velamen,
+aspectum curiosioribus occludes; faciem tibi a Deo
+datam, noli pingere : nihil quippe in te est, quod
+ornatu indigeat; cum cuncta quæ Deus fecit, ad-
+modum pulchra sint; at impudicus pulchræ rei or-
+natus, artificis gratiam dedecorat : dejectis igitur
+oculis iter tuum perage, atque obvoluto capite,
+quemadmodum mulieres decet.
+
+# block=3
+(75) "Ὥσπερ ἐν ξύλῳ σκώληξ, κ. τ. λ. Melius in
+LXX ἄνδρα; qui LXX unam vocem בעצמותיו in
+ossibus ejus diviserunt in duas בעץ מותיו in ligno,
+mortes ejus scilicet viri, ac ex sensu interpretati
+sunt, οὕτως ἀπόλλυσιν ἄνδρα, sic disperdit virum. Id.
+(76) Ἄνδρας. Uterque ms. ἄνδρα, ut est in edit.
+LXX Intt. Cler.
+
+# block=4
+(73) Ἀπογνοῦσα. Id est desperans; item renun-
+tians. Cot.
+(74) Σὺν τὴν γυναῖκα. Ecclesiastis VII, 27 :
+את האשה. In Olympiodoro impresso, deest σύν; at
+in manuscripto Gazæ regiæ hic, quemadmodum
+et cap. 2, vers. 17, non omittitur. Antiochus ho-
+milia 18 corrupte, συζετεῖν γυναῖκα, pro σὺν τὴν γυ-
+ναῖκα. Corrupte etiam apud Gregorium Thaumatur-
+gum in Metaphrasi : "Ἔγνων τὴν γυναῖκα, γῆν τινὰ,
+ἢ εἴ τι ἕτερον τοιοῦτον ὑπάρχουσαν. Lege meo peri-
+culo, σαγήνην τινά. Quod additur in Constitutionibus :
+"Ἥτις ἐστὶ θήρευμα καὶ σαγήνη καρδίας, δεσμοὶ δὲ
+χεῖρες αὐτῆς, quadrat cum istis Hieronymi : Quasi
+laqueus et sagena cor adolescentis innectit : vincula
+sunt manus ejus. Apud Anastasium Quæst. 65 : Εὗ-
+ρον πικρότερον ὑπὲρ τὸν θάνατον τὴν γυναῖκα (exempl.
+Reg. 1789 : Ἀναιδῆ γυναῖκα, alterum σὺν τὴν) ἥτις
+ἐστὶ θήρευμα καὶ σαγήνη καρδίας. Porro credibile
+mihi fit, particulam σύν, quæ in editionibus Græcis
+Ecclesiastis sæpe occurrit, cap. II, vers. 12, 17;
+cap. III, vers. 10, 11, 17; cap. IV, vers. 2, 3, 4;
+cap. VII, vers. 27, 30; cap. VIII, vers. 8, 15, 17; cap.
+IX, vers. 15; cap. XI, vers. 7; cap. XII, vers. 9, quam-
+que repræsentat Alexandr. codex III Regum XIV, 8, ir-
+repsisse in textum LXX, ex Versione Aquilæ, qui
+teste Hieronymo epist. 101 De optimo genere in-
+terpretandi, ubi Aquilam et Seniores committit,
+ἄρθρα et πρόαρθρα, syllabas et litteras κακοζήλως
+interpretatus fuerat, dixeratque (quemadmodum et
+videre est in Joanne Philopono lib. I in Hexaeme-
+ron seu de mundi creatione, cap. IV) σὺν τὸν οὐρα-
+νὸν καὶ σὺν τὴν γῆν, Genes. I, 1, reddendo את per
+σύν. Et vero Hieronymus in Commentariis ad Ec-
+clesiastem, in quibus se magis Septuaginta inter-
+pretum consuetudini coaptavit, illius σύν nullam
+facit mentionem. Quin etiam in Metaphrasi Gregorii
+Nysseni non comparet : nisi quod cod. Reg. hujus,
+interdum habet; et videtur ille, dum ponit Eccle-
+siastis II, 17 : Ἐμίσησα τοίνυν καὶ τὸν σύμπαντά
+μου βίον, reperisse in exemplari suo, καὶ ἐμίσησα
+σύμπασαν τὴν ζωήν, quod etiam retinetur a ms.
+Regio 278, estque depravatum ex καὶ ἐμίσησα σὺν
+τὴν ζωήν. Atque idem judicium ferri debet de loco
+Ecclesiastis IV, 2, 3, apud Hieronymum ad initium
+
+# block=5
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=8
+⁹ Eccle. VII, 27. ¹⁰ Prov. XI, 22. ¹¹ Prov. XII, 4, in LXX. ¹² Prov. XXI, 9, 19.
+
+# block=9
+cap. VI Epistolæ ad Ephesios : Laudavi ego omnes
+mortuos, qui olim mortui sunt, super viventes, qui
+vivunt usque in præsens; et melior est super hos
+duos, qui necdum natus est, et non vidit omne opus
+malum, quod factum est sub sole. Versio Arabica :
+Totam pariter odi vitam, hoc est, ἐμίσησα σὺν πᾶ-
+σαν τὴν ζωήν, quo loci σὺν et πᾶσαν redundant.
+Observavi præterea, de σὺν Ecclesiastis, in scriptis
+ac editis Bibliis, in Catenis mss. et in Commenta-
+riis librisque Patrum, prætermitti aliquando, mu-
+tari aliquando in adjectivum σύμπας, aut σὺν πᾶς
+exponi per ὅλον, σύμπαν, τέλειον; item scribi inter-
+dum nomen σύμπας pro σὺν πᾶς; ad hæc bis male
+abesse a commentario Olympiodori, ad cap. III,
+nempe versu 10, ubi οὖν illius locum occupat, et
+versu 17, ante τὸν ἀσεβῆ, quo in Scripturæ loco
+codex Librariæ regiæ 1598 : Σὺν τῷ δικαίῳ καὶ τὸν
+ἀσεβῆ κρινεῖ ὁ Θεός, vitiose quidem, sed non absque
+industria correctoris cujuspiam. Rectius autem
+idem Olympiodorus ad versiculum 11, capitis 3,
+σύν facit loquendi modum Hebraicum, in illa lingua
+usurpari solitum passim et absque sensu; quam
+Philoponus loco citato, præpositionem cum, de-
+monstratricem copulationis. Vulgo tamen exponunt
+simul, ut exstat in Ambrosii versione Ecclesiastis
+IV, 2. Quibus assentitur sæpe auctor Arabicæ Inter-
+pretationis; sed Ecclesiastis IX, 15, legebat σύνεσιν,
+non σύν, vertit enim prudentiam. Cot.
+
+# block=10
+583
+
+# block=11
+(73) εἰσάπαξ, ἐφ' ἑτέροις ἐκτραπήσῃ πάλιν ἀπηλγη-
+κυῖα· καθά φησιν ὁ θεῖος λόγος· « Ὅταν ἔλθῃ ἀσε-
+βὴς εἰς βάθος κακῶν, καταφρονεῖ. Ἐπέρχεται δὲ
+αὐτῷ ἀτιμία καὶ ὄνειδος. » Ἡ γὰρ τοιαύτη λοιπὸν
+ἀφειδῶς τετρωμένη παγιδεύει ψυχὰς ἀφρόνων. Μά-
+θωμεν οὖν καὶ τὰς τοιαύτας πῶς θριαμβεύει ὁ θεῖος
+λόγος, φάσκων· « Ἐμίσησα ὑπὲρ τὸν θάνατον σὺν
+τὴν γυναῖκα (74), ἥτις ἐστὶ θήρευμα καὶ σαγήνη
+καρδίας, δεσμοὶ δὲ χεῖρες αὐτῆς. » Καὶ ἐν ἄλλοις·
+« Ὥσπερ ἐνώτιον χρυσοῦν ἐν ῥινὶ ὑὸς, οὕτως γυναικὶ
+κακόφρονι κάλλος. » Καὶ πάλιν· « Ὥσπερ ἐν ξύλῳ
+σκώληξ (75), οὕτως ἀπόλλυσιν ἄνδρας (76) γυνὴ
+κακοποιός. » Καὶ πάλιν· « Κρεῖσσον οἰκεῖν ἐπὶ γω-
+νίας (77) ὑπαίθρου, ἢ μετὰ γυναικὸς γλωσσώδους καὶ
+μαχίμης. » Μὴ οὖν μιμεῖσθε τὰς τοιαύτας γυναῖκας,
+ὑμεῖς αἱ Χριστιαναὶ ὑπάρχουσαι. Πιστὴ δὲ θέλουσα
+εἶναι τῷ σῷ ἀνδρὶ, πρόσεχε ἐπὶ τὸ ἀρέσκειν αὐτῷ
+μόνῳ· ἐν δὲ ταῖς πλατείαις σκέπουσα τὴν κεφα-
+λήν (78) σου, διὰ γὰρ τῆς ἐπικαλύψεως ἀποκλείσεις
+
+# block=12
+584
+
+# block=13
+τὴν θέαν τοῖς περιεργητέροις· μὴ καταζωγράφει σου τὸ ὑπὸ Θεοῦ πεποιημένον πρόσωπον· οὐδὲν γὰρ ἐν
+σοὶ, ὃ κοσμήσεως δέεται, ἐπειπέρ πάντα ὅσα ἐποίησεν ὁ Θεὸς, καλὰ λίαν· ἀσελγὴς δ' ἐν καλῷ ἐπικόσμησις,
+τεχνίτου χάριν ἐνυβρίζει· κάτω βλέπουσα τὴν ὁδοιπορίαν σου ποιοῦ, περικαλύπτουσα ἑαυτὴν, καθὼς
+πρέπει γυναιξίν.

@@ -1,0 +1,146 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,177,2096,1712,2282
+2,179,1806,1713,2086
+3,177,2294,1712,2476
+4,175,2482,1703,2620
+5,185,1661,1718,1795
+6,346,617,1639,676
+7,446,284,1508,376
+9,207,2666,778,2708
+10,1058,1064,1723,1127
+11,798,413,1126,447
+12,283,936,1647,982
+13,466,1532,1446,1564
+15,377,1595,1089,1631
+16,1425,1139,1625,1176
+17,515,1371,1394,1409
+18,736,1451,1178,1489
+19,605,1200,1314,1266
+22,352,747,1574,840
+23,397,482,1550,564
+24,619,120,1295,156
+25,1682,120,1736,162
+26,199,112,279,158
+27,839,688,1101,734
+28,661,872,1241,916
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=45px
+# block=9 fontSize=15px
+# block=10 fontSize=14px
+# block=11 fontSize=16px
+# block=12 fontSize=14px
+# block=13 fontSize=13px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=16px
+# block=18 fontSize=17px
+# block=19 fontSize=28px
+# block=22 fontSize=41px
+# block=23 fontSize=38px
+# block=24 fontSize=16px
+# block=25 fontSize=15px
+# block=26 fontSize=16px
+# block=27 fontSize=15px
+# block=28 fontSize=12px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=26
+349
+
+# block=24
+• EPISTOLÆ AD VIRGINES. — PROCEMIA.
+
+# block=25
+360
+
+# block=7
+S. CLEMENTIS ROMANI
+
+# block=11
+S. PETRI DISCIPULI
+
+# block=23
+EPISTOLE DUÆ AD VIRGINES
+
+# block=6
+LATINE ET GALLICE VERTIT, DISSERTATIONEM PRO EARUM AUTHENTIA PRÆFIXIT
+
+# block=27
+REVERENDISSIMUS
+
+# block=22
+D. D. CLEMENS VILLECOURT
+
+# block=28
+• SANCTÆ ECCLESIÆ ROMANE CARDINALIS.
+
+# block=12
+(Lutetiæ Parisiorum, apud Ludovicum Vives, editorem, 1853, in-8. Ex typis Friderici Boutet, Rupellæ.)
+
+# block=10
+Loquimur non in doctis humanæ sapientiæ verbis,
+sed in doctrina spiritus.
+
+# block=16
+(I Cor. II, 13.)
+
+# block=19
+EPISTOLA DEDICATORIA
+
+# block=17
+ILL. AC REV. D. D. J. B. MALOU EPISCOPO BRUGENSI
+
+# block=18
+CLEMENTS VILLECOURT
+
+# block=13
+EPISCOPUS RUPELLENSIS AC SANTONENSIS, PONTIFICIO SOLIO ASSISTENS.
+
+# block=15
+ILLUSTRISSIME AC REVERENDISSIME PRÆSUL,
+
+# block=5
+Prorsus ignorabam ab Amplitudine tua denuo editas fuisse, cum duabus Epistolis ad Co-
+rinthios in Latinum jam dudum conversis, ambas sancti Clementis Epistolas ad Virgines,
+quas, sæculo præcedenti, Wetstinus Basileensis e Syriaco Latinas fecerat.
+
+# block=2
+Hæc cognitio, si ad me citius pervenisset, procul dubio ab hac publicatione me deter-
+ruisset. Quomodo enim imperfectum æstimare licuisset mihi opus quod recentiore publica-
+tione dignum judicaverat tantus ac tam eruditus vir, propter litterarum splendorem ac sa-
+crarum peritiam Scripturarum, cunctis plaudentibus piis ac bonis, ad episcopalem dignita-
+tem evectus ? Sed me, labore tandem absoluto, dicere puduit : In vacuum laboravi, sine
+causa, et vane fortitudinem meam consumpsi 1.
+
+# block=1
+Verumenimvero, eamdem ambo currimus viam, et ad sanctæ Matris Ecclesiæ tendimus
+glorificationem et triumphum. Nec dubito quin vivaci qua polles oculorum perspicacitate,
+nævos Wetstini translationis permultos animadvertereris, etsi illos indicandi non susceperis
+curam, tot aliis sollicitudinibus intentus : non enim omnia possumus omnes.
+
+# block=3
+En igitur, doctissime Præsul, ad te redit, novis vestimentis indutus, apostolicus virgi-
+nitatis præco, dulcis ille Romanus Clemens, beatissimorum Petri et Pauli comes et inter-
+pres, primorum Christianorum deliciæ, incipientium et perfectorum doctor et magister,
+Ecclesiæ sedisque Romanæ vertex et decus.
+
+# block=4
+Quidni cor meum pandam ? Erubuit Pontifex ille noster, dum illum a tenebris ad lucem
+hæretica manus erueret, noluitque tunc qualis esset apparere. Alter Samuel alteri Sauli di-
+cere visus est : Quare inquietasti me ut suscitarer,... cum Dominus recesserit a te 2 ? Enim-
+
+# block=9
+¹ Isæ., XLIX, 4. ² I Reg., XXVIII, 15, 16.

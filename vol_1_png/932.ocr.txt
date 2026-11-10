@@ -1,0 +1,161 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,242,1070,992,1923
+2,1031,329,1779,973
+3,246,165,992,1061
+4,1033,979,1784,2226
+5,247,1931,995,2576
+6,1035,2231,1798,2573
+7,253,2600,1788,2708
+8,1031,156,1785,320
+9,641,105,1352,140
+10,245,111,312,144
+11,1684,94,1778,140
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=242 source_y1=1070 source_x2=992 source_y2=1923
+XXX. Similiter quoque etiam erga scribas , et
+Pharisæos ultimo doctrinæ suæ tempore bellum ge-
+rit, arguens eos super actibus non bonis et non
+recta doctrina, et quod clavem scientiæ quam a
+Moyse traditam susceperunt, occultarent, per quam
+possit janua regni cœlestis aperiri ³². Sed et nos ad
+prædicandum mittens Dominus noster præcepit
+nobis, ut in quamcunque civitatem vel domum in-
+troierimus, dicamus : Pax huic domui; et si quidem,
+inquit, fuerit ibi filius pacis, veniet super eum pax
+vestra; si vero non fuerit, pax vestra ad vos rever-
+tetur; exeuntes autem de domo vel de civitate illa,
+ut etiam pulverem, qui adhæserit pedibus nostris,
+excutiamus super eos. Tolerabilius autem erit terræ
+Sodomorum et Gomorrhæorum in die judicii, quam
+illi civitati vel domui ³³. Quod utique ita demum
+præcepit fieri, si prius in civitate vel domo verita-
+tis sermo prædicetur, ex quo vel recipientes verita-
+tis fidem filii pacis et filii Dei fiant, vel non reci-
+pientes arguantur quasi inimici pacis et Dei.
+
+# block=2 source_x1=1031 source_y1=329 source_x2=1779 source_y2=973
+XXXII. Et Simon : Stultitiam tuam demiror. Sic
+nobis magistri tui verba proponis, quasi certum de
+eo habeatur quod propheta sit, quem ego perfacile
+demonstrare possum, multa sibi contraria locutum.
+Denique ex his, quæ ipse protulisti, arguam te.
+Ais enim dixisse eum, omne regnum vel omnis ci-
+vitas divisa in semetipsa non stabit. Et alibi iterum
+ais eum dixisse, quia ipse miserit gladium, ut se-
+pararet eos qui in domo sunt, ita ut dividatur filius
+a patre, et filia a matre, et frater a fratre, ut si
+fuerint in una domo quinque, dividantur tres ad-
+versum duos, et duo adversum tres ³¹. Si ergo omne
+quod dividitur, cadit, iste qui divisiones facit ca-
+dendi præstitit causas, et si talis est, utique malus
+est. Ad hæc responde si potes.
+
+# block=3 source_x1=246 source_y1=165 source_x2=992 source_y2=1061
+patientiam invitans, bonum pacis etiam cum labore
+patientiæ suadebat esse servandum. E contrario vero
+eos qui in divitiis ac luxuria versabantur, lugebat,
+qui nihil pauperibus largiebantur, arguens eos ra-
+tionem reddituros, quia proximos suos quos dili-
+gere sicut seipsos debuerant, ne in egestate quidem
+positos miserati sunt. Hæc autem dicens alios qui-
+dem obedire fecit, alios vero reddidit inimicos.
+Credentibus ergo et obedientibus pacem habere
+inter se invicem jubet, et ipsis dicit : Beati pacifici,
+quia ipsi filii Dei vocabuntur ³⁰. His autem, qui non
+solum non credidere, verum et adversarii doctrinæ
+ejus facti sunt, bellum verbi et confutationis indicit
+et ait : Quia ex hoc videbitis separari filium a patre,
+et virum ab uxore, et filiam a matre, et fratrem a
+fratre, et nurum a socru, et inimici hominis dome-
+stici ejus ³¹. In unaquaque enim domo, cum inter
+credentem et non credentem cœperit esse diversi-
+tas, necessario pugna fit, incredulis quidem contra
+fidem dimicantibus, fidelibus vero in illis errorem
+veterem, et peccatorum vitia confutantibus.
+
+# block=4 source_x1=1033 source_y1=979 source_x2=1784 source_y2=2226
+XXXIII. Et Petrus : Non temere deroges, o Simon,
+his quæ non intelligis. Primo ergo respondeam pro
+eo quod ais, me magistri mei verba proponere, at-
+que ex ipsis ea, de quibus dubitatur, absolvere.
+Dominus noster mittens nos apostolos ad prædi-
+candum, præcepit nobis, ut doceamus omnes gentes
+de his quæ mandata sunt nobis ³⁶. Neque ergo di-
+cere ea, ut ab ipso dicta sunt, possumus. Non enim
+dicere, sed docere ea in mandatis habemus, et ex
+ipsis ostendere, quomodo unumquodque eorum ve-
+ritate subnixum sit. Neque rursus proprium nobis
+aliquid dicere permissum est. Sumus enim missi,
+et necessario qui missus est, illud quod jussus est
+nuntiat, et voluntatem mittentis exponit. Nam si
+aliud dicam, quam præcepit mihi ille qui me misit,
+falsus ero apostolus, qui non illud dico quod jussus
+sum dicere, sed quod mihi videtur. Quod qui facit,
+utique se meliorem ostendere vult quam est ille a
+quo missus est, et est sine dubio prævaricator. Si
+vero ea quæ jussus est prosequatur, eorumque as-
+sertiones manifestissimas proferat, apostoli opus
+exsequi videbitur, quod ego nunc implere conten-
+dens non tibi placeo. Non ergo reprehendas, quod
+ejus qui me misit proferam verba; sed si est in illis
+aliquid, quod non sit integre dictum, inde me ut
+arguas licet; quod tamen nullo modo fieri potest.
+(Propheta enim est, et sibi esse contrarius non po-
+test ³⁷.) Aut si non putas eum prophetam esse, hoc
+primo requiratur.
+
+# block=5 source_x1=247 source_y1=1931 source_x2=995 source_y2=2576
+XXXI. Ita ergo et nos magistri instituta servan-
+tes, pacem primo proponimus auditoribus, ut abs-
+que ulla perturbatione possit via salutis agnosci.
+Quod si quis pacis verba non suscipit neque ac-
+quiescit veritati, scimus adversum eum pugnam
+verbi movere, et arguere acrius confutando igno-
+rantiam et redarguendo peccata. Necessario igitur
+pacem proponimus, ut si quis est filius pacis, pax
+nostra veniat super eum, ab eo autem qui se alie-
+num pacis effecerit, regredietur ad nos pax nostra.
+Non ergo, ut ais, consensu malorum pacem pro-
+ponimus; nam utique continuo tibi dexteram de-
+dissemus, sed ut per quietem et patientiam disse-
+rentibus nobis, qui sit sermo verus, facilius ab au-
+ditoribus dignoscatur. Si autem dissideas et discor-
+
+# block=6 source_x1=1035 source_y1=2231 source_x2=1798 source_y2=2573
+XXXIV. Et Simon : Non opus habeo hoc dicere
+abs te, sed quomodo sibi ista conveniant. Si enim
+inconsonans ostendetur, simul etiam propheta non
+esse docebitur. Tum Petrus ; Sed si prius, inquit,
+ostendero eum prophetam, hoc quod videtur esse
+inconsonans, non erit, neque enim ex consonantia
+quis propheta esse probatur, quia hoc multis pos-
+sibile est facere; quod si consonantia prophetam
+
+# block=7 source_x1=253 source_y1=2600 source_x2=1788 source_y2=2708
+³⁰ Matth. v, 9. ³¹ Matth. x, 34, 35; Luc. xii, 53. ³² Matth. xxIII; Luc. xi. ³³ Matth. x, 12-15;
+Luc. x, 5, 6. ³⁴ Matth. xII, 25. ³⁵ Luc. xII, 52. ³⁶ Matth. xxvIII; 19, 20. ³⁷ Vocabula uncis inclusa
+in textum recepimus ex codd. Thuan., Sorb., Lipss. et all.
+
+# block=8 source_x1=1031 source_y1=156 source_x2=1785 source_y2=320
+des a temetipso, quomodo stabis? Necesse est ut
+cadat, qui in semetipso dividitur. Omne enim re-
+gnum in semetipsum divisum, non stabit ³⁴. Ad hæc
+si quid videtur, dicito.
+
+# block=9 source_x1=641 source_y1=105 source_x2=1352 source_y2=140
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10 source_x1=245 source_y1=111 source_x2=312 source_y2=144
+1263
+
+# block=11 source_x1=1684 source_y1=94 source_x2=1778 source_y2=140
+1264

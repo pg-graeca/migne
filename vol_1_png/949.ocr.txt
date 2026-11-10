@@ -1,0 +1,180 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,249,152,998,400
+2,231,405,990,1480
+3,208,2101,963,2700
+4,1026,655,1781,1013
+5,1035,152,1786,658
+6,1005,1710,1752,2706
+7,232,1495,972,2092
+8,842,95,1252,130
+10,1714,105,1790,139
+11,251,94,325,126
+15,144,2827,169,2850
+17,1018,1015,1792,1709
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=15 fontSize=15px
+# block=17 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=11
+1297
+
+# block=8
+RECOGNITIONUM LIB. III.
+
+# block=10
+1298
+
+# block=1
+miat, per diem non replet id quod omisit in nocte.
+Necessarium namque est doctrinæ studiis intente
+et indesinenter operam dare, ut mens nostra Dei
+solius memoria repleatur, quia mentem quam re-
+pleverit memoria Dei, maligno in ea non dabitur
+locus.
+
+# block=5
+siderat urbem perveniat veritatis. Qui vero impe-
+ritus est et quærendi viam nescit, sicut peregrinus
+viator, ignorans et errans, si sive et indigena nolit
+uti duce, sine dubio cum aberraverit a via verita-
+tis, extra vitæ januas remanebit, et ita noctis atræ
+tenebris involutus per semitas perditionis incedet.
+Quia ergo si per ordinem quæ quærenda sunt in-
+quirantur, inveniri facillime possunt, ordinem vero
+requirendi imperitus ignorat, rectum est ut scienti
+cedat ignarus et primo quærendi ordinem discat,
+ut ita demum interrogandi et respondendi inveniat
+disciplinam.
+
+# block=2
+XXXII. Cum hæc diceret ad nos Petrus, unus-
+quisque nostrum sollicite satis faciebat ei, quod olim
+brevi somno satiati vigilaremus, sed vereremur
+excitare eum, quia nec deceret discipulos magistro
+imperare; quod tamen pene, o Petre, ausi fueramus
+præsumere, dum cor nostrum nimio verborum tuo-
+rum desiderio tripudians, somnum penitus fugaret
+ab oculis. Sed iterum affectus erga te noster obsti-
+tit, et violenter te a nobis non tulit excitari. Tum
+Petrus : Quoniam igitur audiendi, inquit, desiderio
+libenter vos asseritis vigilare, volo vobis ea tantum
+quæ hesterno sparsim dicta sunt, repetere diligen-
+tius et cum suo ordine explicare. Quod et per sin-
+gulas quasque disputationes diurnas facere dispo-
+no, ut per noctem ubi secretum loci et temporis
+datur, si quid forte utpote in certamine minus
+plene dictum est, id integro ordine et linea directa
+explanationis aperiam. Et post hæc cœpit nobis
+ostendere quomodo hesterno haberi debuerit dis-
+putatio, et propter contentionem vel imperitiam
+contradicentis haberi non potuerit, et ideo sola pro-
+fessione usus sit, atque ea quæ ab adversario dice-
+bantur, tantum destruxerit, sua vero neque omnia
+neque manifeste exposuerit; et singula nobis repe-
+tens integro ordine et plena ratione disseruit.
+
+# block=4
+XXXV. Et Simon ad hæc : Non ergo omnium
+est veritas, sed eorum tantummodo qui artem no-
+verint disputandi, quod utique absurdum est, cum
+æqualiter sit Deus omnium, non omnes æqualiter
+posse voluntatem ejus agnoscere. Et Petrus : Æqua-
+les, inquit, omnes ab eo facti sunt, et æqualiter
+cunctis dedit capaces esse veritatis. Verum quod
+nullus eorum qui nati sunt, eruditus natus sit, sed
+
+# block=17
+posterior sit nativitate eruditio, nulli dubium est.
+Cum igitur nativitas hominum in eo teneat æqui-
+tatem, ut omnes similiter percipiendæ disciplinæ
+capaces sint, non est in natura, sed in eruditione
+diversitas. Aut quis nescit, quod ea quæ unus-
+quisque didicit, priusquam disceret, ignorabat? Et
+Simon : Vere, inquit, dicis. Tum Petrus : Si ergo
+in his artibus quas usus communis habet, primo
+discitur, deinde docetur, quanto magis oportet eos
+qui eruditores se profitentur animarum, primo di-
+scere, et ita docere, ne, cum sint ipsi imperiti, ri-
+diculum videatur, si aliis se præstituros scientiam
+repromittant. Tum Simon : In artibus, inquit, his
+quæ usus communis habet, verum est, quod unus-
+quisque nisi didicerit, nesciat, in verbo vero
+scientiæ statim ut audierit quis, didicit.
+
+# block=7
+XXXIII. Cum vero jam albesceret dies, egressus
+ad turbas post orationem solito ad disputandum
+constitit loco, et videns Simonem in mediis turbis
+stantem ex more prius salutato populo ait : Dolori
+mihi esse fateor de nonnullis hominibus, qui cum
+ita ad nos veniant ut discant aliquid, ubi eos doce-
+re cœperimus, ipsi rursus magistros se esse profi-
+tentur, et interrogant quidem ut ignorantes, contra-
+dicunt autem ut scientes. Sed fortasse dicat ali-
+quis, quia qui interrogat, ob hoc quidem ut discat
+interrogat, ubi vero id quod audierit non ei recte
+dictum videtur, necesse est ut respondeat, et hæc
+videtur esse contradictio, quæ non est contradictio,
+sed reinterrogatio.
+
+# block=6
+XXXVI. Et Petrus : Si quidem per ordinem c
+consequenter audiat, potest scire quod verum est
+sed qui emendatioris vitæ regulam conversationis
+que castioris suscipere recusat, quæ utique sequela
+est scientiæ veritatis, scire se quod scit, non vult
+fateri. Sicut etiam nonnullos videmus, qui artibus
+quas a puero didicerant derelictis, ad alios se actus
+conferunt, et ut excusatio sit eis desidiæ suæ, cul
+pare incipiunt artem velut infructuosam. Et Simon :
+Deberent omnes audientes credere verum esse,
+quod audiunt? Tum Petrus : Qui audierint per or-
+dinem sermonem veritatis, contradicere omnino
+non possunt, sed sciunt verum esse quod dicitur,
+si tamen libenter etiam vitæ instituta suscipiant.
+Hos vero quos audientes ad bona opera conferre
+se piget, male agendi libido acquiescere his quæ
+recta judicant, non sinit. Unde ostenditur positum
+esse in auditorum potestate, eligere utrum malint.
+Quod si omnes qui audiunt, obedient, naturæ
+magis esset necessitas, quæ una omnes ageret via.
+Sicut enim suaderi quis non potest, ut fiat brevior
+aut longior, quia non sinit vis naturæ; ita et ad
+veritatem, si omnes verbo converterentur aut em-
+
+# block=3
+XXXIV. Audiat ergo hæc : Totius doctrinæ di
+sciplina certum habet ordinem, et sunt quædam
+quæ prima tradenda sunt, alia vero quæ secundo
+in loco, et alia tertio, et sic singula quæque per
+ordinem, quæ utique si per consequentiam tradan-
+tur, manifesta fiunt; extra ordinem vero si proferan-
+tur, etiam contra rationem dicta videbuntur. Et
+ideo in primis ordo servandus est, si tamen hoc pro-
+posito quæramus, ut possimus quod quærimus in-
+venire. Etenim qui rectum initium viæ acceperit,
+etiam secundum locum consequenter advertet, et
+ex secundo tertium facilius inveniet; et quanto
+ultra processerit, tanto magis ei via agnitionis
+apertior fiet, usquequo ad ipsam quo tendit et de-
+
+# block=15
+. .

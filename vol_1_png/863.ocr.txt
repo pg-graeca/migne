@@ -1,0 +1,219 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,961,1002,1709,1693
+2,170,993,928,1725
+3,176,1824,933,2160
+4,953,126,1700,865
+5,965,2335,1745,2671
+6,159,138,915,865
+7,175,2332,926,2503
+8,790,2264,1101,2299
+9,208,2194,1441,2235
+10,964,1816,1713,2120
+11,184,2500,929,2603
+12,187,2601,926,2703
+13,421,1740,670,1771
+14,250,1782,843,1815
+15,555,74,1283,114
+16,1611,76,1686,115
+17,161,86,231,121
+18,212,918,862,988
+19,391,866,689,910
+20,1199,876,1441,908
+21,957,912,1697,958
+22,1081,1774,1595,1818
+23,1221,1730,1443,1766
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=16px
+# block=17 fontSize=16px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=16
+1126
+
+# block=17
+1125
+
+# block=4
+non deponit, segregat autem ac excommunicat in-
+feriores, si eam pœnam mereantur. Diaconus non
+benedicit, non dat benedictionem, accipit vero ab
+episcopo et presbytero; non baptizat; non offert;
+ipse vero, cum episcopus aut presbyter obtulit, dat
+populo, non tanquam sacerdos, sed tanquam mi-
+nistrans sacerdotibus. Nulli autem ex reliquis cle-
+ricis licet opus diaconi facere 88. Diaconissa non
+benedicit; sed nec peragit quidquam eorum quæ
+presbyteri aut diaconi faciunt; duntaxat januas
+custodit; et presbyteris, quando baptizantur mu-
+lieres, ministrat, propter decorum. Diaconus ex-
+communicat subdiaconum, lectorem, cantorem,
+diaconissam; si absente presbytero res id postulet.
+Subdiacono non licet segregare, neque lectorem,
+neque cantorem, neque diaconissam; non clericum,
+non laicum : ministri enim sunt diaconorum.
+
+# block=6
+ὑποβεβηκότας, ἔκδωσιν ὑπεύθυνοι τῇ τοιαύτῃ τιμωρίᾳ.
+Διάκονος οὐκ εὐλογεῖ, οὐ δίδωσιν εὐλογίαν, λαμβάνει δὲ
+παρὰ ἐπισκόπου καὶ πρεσβυτέρου·  οὐ βαπτίζει (7)·
+οὐ προσφέρει, τοῦ δὲ ἐπισκόπου προσενεγκόντος ἢ
+τοῦ πρεσβυτέρου, αὐτὸς ἐπιδίδωσι τῷ λαῷ, οὐχ ὡς
+ἱερεὺς, ἀλλ' ὡς διακονούμενος ἱερεῦσι. Τῶν δὲ ἄλλων
+κληρικῶν τὸ τοῦ διακόνου ἔργον ποιῆσαι οὐδενὶ ἐξόν.
+Διακόνισσα οὐκ εὐλογεῖ· ἀλλ' οὐδὲ τι ὧν ποιοῦσιν οἱ
+πρεσβύτεροι, ἢ οἱ διάκονοι, ἐπιτελεῖ, ἀλλ' ἢ τοῦ φυ-
+λάττειν τὰς θύρας, καὶ ἐξυπηρετεῖσθαι τοῖς πρε-
+σβυτέροις ἐν τῷ βαπτίζεσθαι τὰς γυναῖκας, διὰ τὸ
+εὐπρεπές. Διάκονος ἀφορίζει ὑποδιάκονον, ἀναγνώ-
+στην, ψάλτην, διακόνισσαν, ἐὰν ᾖ τι τοιοῦτον μὴ παρ-
+όντος πρεσβυτέρου.  Ὑποδιάκονῳ οὐκ ἔξεστιν ἀφορί-
+σαι, οὔτε μὴν (8) ἀναγνώστῃ, οὔτε ψάλτῃ, οὔτε
+διακόνισσαν (9), οὐ κληρικὸν, οὐ λαϊκόν. Ὑπηρέται
+γάρ εἰσι διακόνων.
+
+# block=19
+ΚΕΦΑΛΑΙΟΝ ΚΘ'.
+
+# block=20
+CAPUT XXIX.
+
+# block=21
+De benedictione aquæ et olei, Matthæi constitutio.
+
+# block=18
+Περὶ εὐλογίας (10) ὕδατος καὶ· ἐλαίου, τοῦ
+Ματθαίου διάταξις.
+
+# block=2
+Περὶ δὲ ὕδατος καὶ ἐλαίου, ἐγὼ Ματθαῖος διατάσ-
+σομαι. Εὐλογείτω ὁ ἐπίσκοπος τὸ ὕδωρ, ἢ τὸ ἔλαιον·
+ἐὰν δὲ μὴ παρῇ, εὐλογείτω ὁ πρεσβύτερος, παρε-
+στῶτος τοῦ διακόνου. Ἐπὰν δὲ ὁ ἐπίσκοπος παρῇ,
+παριστάσθω ὁ πρεσβύτερος καὶ ὁ διάκονος· λεγέτω
+δὲ οὕτως·  Κύριε Σαβαὼθ, ὁ Θεὸς τῶν δυνάμεων,
+κτίστα τῶν ὑδάτων καὶ χορηγὲ τοῦ ἐλαίου, οἰκτίρμον
+καὶ φιλάνθρωπε, ὁ δοὺς τὸ ὕδωρ πρὸς πόσιν καὶ κά-
+θαρσιν, καὶ ἔλαιον τοῦ ἱλαρῦναι πρόσωπον εἰς ἀγαλ-
+λίαμα εὐφροσύνης· αὐτὸς καὶ νῦν διὰ Χριστοῦ ἁγί-
+ασον τὸ ὕδωρ τοῦτο καὶ ἔλαιον, ἐπ' ὀνόματι τοῦ
+προσκομίσαντος, ἢ τῆς προσκομισάσης, καὶ δὸς δύνα-
+μιν ὑγιείας ἐμποιητικὴν, νόσων ἀπελαστικὴν, δαιμό-
+νων φυγαδευτικὴν, πάσης ἐπιβουλῆς διωκτικὴν, διὰ
+Χριστοῦ, τῆς ἐλπίδος ἡμῶν· μεθ' οὗ σοι δόξα, τιμὴ
+καὶ σέβας, καὶ τῷ ἁγίῳ Πνεύματι, εἰς τοὺς αἰῶνας.
+Ἀμήν.
+
+# block=1
+De aqua autem et oleo, constituo ego Matthæus.
+Benedicat episcopus aquam et oleum. Sin vero non
+adsit, benedicat presbyter, præsente diacono.
+Quando autem aderit episcopus, assistant presbyter,
+et diaconus; hunc vero in modum dicat : Domine
+Sabaoth, Deus virtutum; creator aquarum, et lar-
+gitor olei; misericors, et hominum studiose; qui
+dedisti aquam ad potum ac expurgationem, et oleum
+ad exhilarandum vultum in exsultationem lætitiæ :
+ipse et nunc per Christum sanctifica hanc aquam
+atque hoc oleum, nomine illius qui obtulit, aut
+illius quæ obtulit; et da vim effectricem sanitatis,
+morborum expultricem, dæmonum fugatricem, om-
+nium insidiarum profligatricem, per Christum spem
+nostram; cum quo tibi gloria, honor, ac veneratio,
+et sancto Spiritui, in sæcula. Amen.
+
+# block=23
+CAPUT XXX.
+
+# block=13
+ΚΕΦΑΛΑΙΟΝ Λ'.
+
+# block=22
+Ejusdem, de primitiis et decimis.
+
+# block=14
+Τοῦ αὐτοῦ περὶ ἀπαρχῶν καὶ δεκατῶν.
+
+# block=10
+Idem, de primitiis et decimis. Adhuc injungo, ut
+omnes primitiæ afferantur episcopo, et presbyteris,
+et diaconis, ad eorum alimentum; utque omnes
+decimæ offerantur, ad alendos reliquos clericos, et
+virgines, ac viduas, et paupertate afflictos. Primitiæ
+enim, sacerdotum sunt, atque iis ministrantium
+diaconorum.
+
+# block=3
+(11) Ὁ αὐτὸς, περὶ ἀπαρχῶν καὶ δεκατῶν. Ἔτι
+προστάσσω, πᾶσαν ἀπαρχὴν προσκομίζεσθαι τῷ ἐπι-
+σκόπῳ καὶ τοῦς πρεσβυτέροις καὶ τοῦς διακόνοις, εἰς
+διατροφὴν αὐτῶν· πᾶσαν δὲ δεκάτην προσφέρεσθαι,
+εἰς διατροφὴν τῶν λοιπῶν κληρικῶν, καὶ τῶν παρθέ-
+νων, καὶ τῶν χηρῶν, καὶ τῶν ἐν πενίᾳ ἐξεταζομένων.
+Αἱ γὰρ ἀπαρχαὶ τῶν ἱερέων εἰσὶ, καὶ τῶν αὐτοῖς
+ἐξυπηρετουμένων διακόνων.
+
+# block=9
+³⁸ Citat Harmenopulus, in Epit. can. sect. 2, tit. 4; l. pseudo-Ignat. ad Antioch. 12.
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=7
+(7) Οὐ βαπτίζει, etc., usque ad οὐδενὶ ἐξόν. Ci-
+tatur in fine Responsionum Nicetæ Heracleensis ad
+Interrogationes Constantini episcopi, prout exstant
+in mss. tribus ad calcem Matthæi Blastaris, duobus
+Regiis, tertio Juliano. COT.
+
+# block=5
+ψάλτην, ἢ διακόνισση. COT.
+(10) Περὶ εὐλογίας, κ. τ. λ. Tota inscriptio deest,
+ejusque loco legitur : Ματθαῖος ἐν Ἰουδαίᾳ διδάσκων
+τὸν Χριστοῦ λόγον, τὸν ἑβδομήκοντα γεγονὼς μαθητῶν,
+ὁ μετὰ τὴν Χριστοῦ ἄνοδον συγκατηριθμήτο τοῖς δώ-
+δεκα Ἀποστόλοις ἀντὶ Ἰούδα τοῦ γενομένου προδό-
+του· κεῖται ἐν Ἰερουσαλήμ. Sed pro Matthæo legen-
+dum erat Matthiam. Vide Act. 1, 23. CLER.
+(11) Ὁ αὐτός, etc. Deest inscriptio, cujus loco
+sunt sex verba sequentia.
+
+# block=11
+(8) Οὔτε μὴν, καὶ τὰ ἑξῆς. Cod. Vindob., habet
+in dativo ἀναγνώστῃ, ψάλτῃ et διακονίσσῃ, ut res
+vetetur lectori, cantori et diaconissæ. CLER.
+
+# block=12
+(9) Ἀναγνώστην, οὔτε ψάλτην, οὔτε διακό-
+νισσαν. Silentio tegi non debet varia lectio codicis
+Regii qui notatur numero 2592 : Ἀναγνώστη, ἢ

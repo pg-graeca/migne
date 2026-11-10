@@ -1,0 +1,222 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1015,1146,1768,1843
+2,233,1149,987,1791
+3,234,857,980,1025
+4,235,1888,980,2012
+5,1015,1890,1755,2056
+6,235,165,983,720
+7,1020,847,1762,1056
+8,1011,166,1760,722
+9,275,2242,926,2281
+10,275,2153,976,2187
+11,233,2377,975,2719
+12,1058,2149,1756,2191
+13,1000,769,1756,843
+14,1264,1066,1527,1103
+15,1015,2386,1775,2724
+16,652,110,1354,146
+17,511,1801,700,1838
+19,854,2320,1149,2357
+20,234,109,302,147
+21,273,792,941,833
+22,1269,2065,1560,2104
+24,1673,110,1765,154
+25,1253,726,1517,764
+26,497,744,715,790
+27,383,1100,827,1158
+28,473,1056,717,1096
+29,1127,1102,1639,1150
+30,313,1840,887,1886
+31,1069,1836,1715,1888
+32,343,2102,859,2156
+33,485,2054,699,2100
+34,1071,2108,1699,2146
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1015 source_y1=1146 source_x2=1768 source_y2=1843
+Ὁ Θεὸς, ὁ παντοκράτωρ, ὁ ἀληθινὸς καὶ ἀψευδὴς,
+ὁ πλουτῶν εἰς πάντας τοὺς ἐπικαλουμένους σε ἐν
+ἀληθείᾳ, ὁ φοβερὸς ἐν βουλαῖς, ὁ σοφὸς διανοίᾳ, ὁ
+κραταιὸς καὶ μέγας· εἰσάκουσον προσευχῆς ἡμῶν,
+Κύριε, καὶ ἐνώτισαι τὴν δέησιν ἡμῶν, καὶ ἐπίφανον
+τὸ πρόσωπόν σου ἐπὶ τὸν δοῦλόν σου τόνδε, τὸν προ-
+χειριζόμενόν σοι εἰς διακονίαν, καὶ πλήσον αὐτὸν
+Πνεύματος ἁγίου, καὶ δυνάμεως, ὡς ἔπλησας Στέ-
+φανον τὸν μάρτυρα καὶ μιμητὴν τῶν παθημάτων τοῦ
+Χριστοῦ σου, καὶ καταξίωσον αὐτὸν εὐαρέστως λει-
+τουργήσαντα τὴν ἐγχειρισθεῖσαν αὐτῷ διακονίαν,
+ἀτρέπτως, ἀμέμπτως, ἀνεγκλήτως, μείζονος ἀξιω-
+θῆναι βαθμοῦ, διὰ τῆς μεσιτείας τοῦ μονογενοῦς σου
+Υἱοῦ· μεθ' οὗ σοι δόξα, τιμὴ καὶ σέβας, καὶ τῷ
+ἁγίῳ Πνεύματι, εἰς τοὺς αἰῶνας. Ἀμήν.
+ ΚΕΦΑΛΑΙΟΝ ΙΘ'.
+
+# block=2 source_x1=233 source_y1=1149 source_x2=987 source_y2=1791
+Deus omnipotens , verax, et neque fallens neque
+falsus, dives erga omnes te in veritate invocantes,
+terribilis in consiliis; sapiens cogitatione, fortis
+et magnus : exaudi orationem nostram, Domine, et
+auribus percipe deprecationem nostram ; et ostende
+faciem tuam super servum tuum hunc, electum tibi
+in diaconatus ministerium; et imple eum Spiritu
+sancto, et virtute, sicut implevisti Stephanum, ³⁵
+martyrem, ac passionum Christi tui imitatorem ³⁶;
+et concede ei, ut cum sibi traditum ministerium
+probe, constanter, innocue, ac inculpabiliter admi-
+nistraverit, majore gradu dignus habeatur; me-
+diatore unigenito Filio tuo; cum quo tibi gloria,
+honor ac veneratio, et sancto Spiritui, in sæcula.
+Amen.
+
+# block=3 source_x1=234 source_y1=857 source_x2=980 source_y2=1025
+De ordinatione vero diaconorum, ego Philippus
+constituo. Diaconum efficies, episcopo, imponens
+ei manus, astante tibi cuncto presbyterio cum
+diaconis; et orans, dices :
+
+# block=4 source_x1=235 source_y1=1888 source_x2=980 source_y2=2012
+De diaconissa vero, Bartholomæus constituo :
+Episcope, impones ei manus, astante presbyterio
+una cum diaconis ac diaconissis; et dices :
+
+# block=5 source_x1=1015 source_y1=1890 source_x2=1755 source_y2=2056
+Περὶ δὲ διακονίσσης, Βαρθολομαῖος (81) διατάσσο-
+μαι· Ὦ ἐπίσκοπε, ἐπιθήσεις αὐτῇ τὰς χεῖρας (82),
+παρεστῶτος τοῦ πρεσβυτερίου καὶ τῶν διακόνων καὶ
+τῶν διακονισσῶν, καὶ ἐρεῖς·
+
+# block=6 source_x1=235 source_y1=165 source_x2=983 source_y2=720
+ritu gratiæ et consilii, ut adjuvet ac gubernet po-
+pulum tuum in corde mundo : quemadmodum re-
+spexisti in populum electum tuum, et sicut Moysi
+præcepisti eligere seniores, quos implevisti spi-
+ritu ³⁴. Et nunc, Domine, præsta, servans in nobis
+spiritum gratiæ tuæ non deficientem : ut repletus
+operationibus vim sanandi habentibus, ac sermone
+ad docendum apto, erudiat cum mansuetudine po-
+pulum tuum; serviat tibi sincere, mente pura et
+anima volente atque sacra ; quæ pro populo cele-
+brantur, inculpate perficiat ; per Christum tuum,
+cum quo tibi gloria, honor, ac veneratio, et san-
+cto Spiritui, in sæcula. Amen.
+
+# block=7 source_x1=1020 source_y1=847 source_x2=1762 source_y2=1056
+Περὶ δὲ χειροτονίας διακόνων, ἐγὼ Φίλιππος δια-
+τάσσομαι. Διάκονον καταστήσεις, ὦ ἐπίσκοπε, ἐπι-
+θήσεις αὐτῷ τὰς χεῖρας, παρεστῶτος σοὶ παντὸς τοῦ
+πρεσβυτερίου καὶ τῶν διακόνων, καὶ ἐπευξάμενος
+ἐρεῖς·
+
+# block=8 source_x1=1011 source_y1=166 source_x2=1760 source_y2=722
+σβυτέριον ἐπιδοθέντα, καὶ ἔμπλησον αὐτὸν πνεύματος
+χάριτος καὶ συμβουλίας, τοῦ ἀντιλαμβάνεσθαι καὶ
+κυβερνᾷν τὸν λαόν σου ἐν καθαρᾷ καρδίᾳ· ὃν τρόπον
+ἐπεῖδες ἐπὶ λαὸν ἐκλογήν σου, καὶ προσέταξας Μωϋσεῖ
+αἱρεῖσθαι πρεσβυτέρους, οὓς ἔπλησας πνεύματος. Καὶ
+νῦν, Κύριε, παράσχου, ἀνελλιπὲς τηρῶν ἐν ἡμῖν τὸ
+πνεῦμα τῆς χάριτός σου· ὅπως πλησθεὶς ἐνεργημά-
+των ἰατικῶν, καὶ λόγου διδακτικοῦ, ἐν πρᾳότητι παι-
+δεύῃ σου τὸν λαὸν, καὶ δουλεύῃ σοι εἰλικρινῶς ἐν
+καθαρᾷ διανοίᾳ καὶ ψυχῇ θελούσῃ, καὶ τὰς ὑπὲρ τοῦ
+λαοῦ ἱερουργίας ἀμώμους ἐκτελῇ, διὰ τοῦ Χριστοῦ
+σου· μεθ' οὗ σοι δόξα, τιμὴ καὶ σέβας, καὶ τῷ ἁγίῳ
+Πνεύματι, εἰς τοὺς αἰῶνας. Ἀμήν.
+
+# block=9 source_x1=275 source_y1=2242 source_x2=926 source_y2=2281
+³⁵ Exod. XVIII, XXIV, XXVIII. ³⁶ Act. VI, VII.
+
+# block=10 source_x1=275 source_y1=2153 source_x2=976 source_y2=2187
+Deus æterne, Pater Domini nostri Jesu Christi,
+
+# block=11 source_x1=233 source_y1=2377 source_x2=975 source_y2=2719
+Augustini, quæst. 101, dicit testimonio diaconi
+fieri presbyterum : quam consuetudinem unius ur-
+bis Romæ esse docemur ab Hieronymo epist. 85.
+Vide si jubet concilium Carthag. IV, can. 22. Cot.
+ (81) Deest hæc inscriptio in cod. Vindob. ejus-
+que loco hæc leguntur : Περὶ δὲ τῆς χειροτονίας,
+καὶ τὰ ἑξῆς, addito hoc scholio : Φίλιππος 'Ασιανῇ
+διοικήσει κηρύξας τὸν ζωοποιὸν λόγον, ἐν Ἱεραπόλει
+τῆς Φρυγίας τέθαπται, ἅμα ταῖς θυγατράσιν, μαρ-
+τυρίῳ τελειωθεῖς ἐπὶ Δομετιανοῦ αὐτοκράτορος. Ὁ
+
+# block=12 source_x1=1058 source_y1=2149 source_x2=1756 source_y2=2191
+Ὁ Θεὸς ὁ αἰώνιος, ὁ Πατὴρ τοῦ Κυρίου ἡμῶν
+
+# block=13 source_x1=1000 source_y1=769 source_x2=1756 source_y2=843
+ Περὶ χειροτονίας διακόνων, τοῦ Φιλίππου διά-
+ } ταξις (80).
+
+# block=14 source_x1=1264 source_y1=1066 source_x2=1527 source_y2=1103
+ΚΕΦΑΛΑΙΟΝ ΙΗ'.
+
+# block=15 source_x1=1015 source_y1=2386 source_x2=1775 source_y2=2724
+τὰς θυγατέρας ἔχων Φίλιππος ἐκ τῶν ζ' ἐστιν. Ὁ καὶ
+τὸν Εὐνοῦχον βαπτίσας. CLER.
+ (81) Βάρθολομαῖος. In cod. Vind. hic legitur hoc
+scholion : Βάρθολομαῖος 'Ινδοῖς τὸ κατὰ Ματθαῖον,
+ἐκήρυξεν Εὐαγγέλιον, ὃς καὶ τέθαπται ἐν Ἰνδίᾳ. ID.
+ (82) Ἐπιθήσεις αὐτῇ τὰς χεῖρας. Frequentissi-
+me Græci, rarissime Latini. Præter Wormatienses
+Patres ex concilio Chalcedoneusi, Fortunatus in
+Vita Radegundis. Manu superposita consecravit dia-
+conam Medardus episcopus. Vide supra, Cot.
+
+# block=16 source_x1=652 source_y1=110 source_x2=1354 source_y2=146
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=17 source_x1=511 source_y1=1801 source_x2=700 source_y2=1838
+CAPUT XIX.
+
+# block=19 source_x1=854 source_y1=2320 source_x2=1149 source_y2=2357
+VARIORUM NOTÆ.
+
+# block=20 source_x1=234 source_y1=109 source_x2=302 source_y2=147
+1115
+
+# block=21 source_x1=273 source_y1=792 source_x2=941 source_y2=833
+De ordinatione diaconorum constitutio Philippi.
+
+# block=22 source_x1=1269 source_y1=2065 source_x2=1560 source_y2=2104
+ΚΕΦΑΛΑΙΟΝ Κ'.
+
+# block=24 source_x1=1673 source_y1=110 source_x2=1765 source_y2=154
+1116
+
+# block=25 source_x1=1253 source_y1=726 source_x2=1517 source_y2=764
+ΚΕΦΑΛΑΙΟΝ ΙΖ'.
+
+# block=26 source_x1=497 source_y1=744 source_x2=715 source_y2=790
+CAPUT XVII.
+
+# block=27 source_x1=383 source_y1=1100 source_x2=827 source_y2=1158
+Invocatio ordinationis diaconi.
+
+# block=28 source_x1=473 source_y1=1056 source_x2=717 source_y2=1096
+CAPUT XVIII.
+
+# block=29 source_x1=1127 source_y1=1102 source_x2=1639 source_y2=1150
+Ἐπίκλησις χειροτονίας διακόνου.
+
+# block=30 source_x1=313 source_y1=1840 source_x2=887 source_y2=1886
+De diaconissa constitutio Bartholomæi.
+
+# block=31 source_x1=1069 source_y1=1836 source_x2=1715 source_y2=1888
+Περὶ διακονίσσης, Βαρθολομαίου διάταξις.
+
+# block=32 source_x1=343 source_y1=2102 source_x2=859 source_y2=2156
+Invocatio in ordinatione diaconissæ.
+
+# block=33 source_x1=485 source_y1=2054 source_x2=699 source_y2=2100
+CAPUT XX.
+
+# block=34 source_x1=1071 source_y1=2108 source_x2=1699 source_y2=2146
+Ἐπίκλησις ἐπὶ χειροτονίας διακονίσσης.

@@ -1,0 +1,193 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,173,135,936,477
+2,963,133,1716,477
+3,964,605,1725,1559
+4,435,490,674,521
+5,183,1583,1735,1704
+6,174,608,934,1563
+7,812,1732,1113,1766
+8,593,83,1294,121
+9,176,528,933,599
+14,965,1791,1739,2695
+16,188,1792,945,2698
+17,174,79,231,119
+18,964,490,1717,597
+20,1649,78,1711,118
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=16px
+# block=9 fontSize=15px
+# block=14 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=16px
+# block=18 fontSize=15px
+# block=20 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=20
+610
+
+# block=17
+609
+
+# block=8
+CONSTITUTIONES APOSTOLICÆ. — LIB. II.
+
+# block=2
+tes : ‹ Juste persequeris quod justum est ⁶⁷. Non
+accipies personam in judicio ⁶⁸. Non justificabis
+impium ⁶⁹. Non accipies munera propter animam,
+nam munera excæcant oculos sapientum, et perver-
+tunt verba justorum ⁷⁰. › Et alibi Scriptura pronun-
+tiat : ‹ Auferetis malum ex vobis ipsis ⁷¹. › Et Salo-
+mon in Proverbiis dicit : ‹ Ejice e consessu pesti-
+lentem, et exibit simul cum eo jurgium ⁷². ›
+
+# block=1
+λεγούσης· « Δικαίως διώξεις τὸ δίκαιον (25). Οὐ λήψῃ
+πρόσωπον ἐν κρίσει. Οὐ δικαιώσεις τὸν ἀσεβῆ (26).
+Οὐ λήψῃ δῶρα ἐπὶ ψυχῇ· τὰ γὰρ δῶρα ἐκτυφλοῖ ὀφ-
+θαλμοὺς σοφῶν, καὶ λυμαίνεται ῥήματα δικαίων. »
+Καὶ ἐν ἄλλοις φησίν· « Ἐξαρεῖτε τὸν πονηρὸν ἐξ
+ὑμῶν αὐτῶν. » Καὶ ὁ Σολομὼν λέγει ἐν Παροιμίαις·
+« Ἔκβαλε λοιμὸν συνεδρίου (27), καὶ συνεξελεύσεται
+αὐτῷ νεῖκος. »
+
+# block=4
+ΚΕΦΑΛΑΙΟΝ Ι'.
+
+# block=18
+CAPUT X.
+Quod episcopus qui temere parcit peccatori, culpa
+non careat.
+
+# block=9
+Ὅτι (28) ὁ ἐπίσκοπος ἀκρίτως φειδόμηνος τοῦ
+ἁμαρτηκότος, ὑπαίτιος γίνεται.
+
+# block=3
+Ad ista autem qui animum non adverterit, de-
+benti pœnas inconsiderate ignoscet; sicut Saul
+Agago ⁷³ ; et Heli liberis suis ⁷⁴, ignorantibus Domi-
+num. Hic ergo tum dignitatem suam, tum Dei Ec-
+clesiam sua in parœcia sitam maculat : quocirca
+coram Deo et hominibus sanctis injustus est, utpote
+auctor scandali multis recens baptizatis et cate-
+chumenis, itemque utriusque sexus adolescenti-
+bus, eumque væ manet, et mola asinaria in collo,
+et profundus gurges cui obnoxius est ⁷⁵. Nam qui
+cernent principem suum adeo in judicando negli-
+gentem ac iniquum, vacillare incipient, atque eo-
+dem vitio occupati, cogentur una cum eo perire;
+sicut populus cum Hieroboamo, et cum Core ⁷⁶
+sceleris socii interiere. Cæterum peccator cum
+episcopum et diaconos criminis puros esse cogno-
+verit, et ovile incontaminatum; principio quidem
+conscientia sua perculsus, Ecclesiam Dei per con-
+templum intrare non audebit : quod si pensi nihil
+habens, ingressus fuerit, aut statim arguetur ac
+pœnas dabit, sicut Oza cum arcam ut firmaret teti-
+git ⁷⁷, et sicut Achar cum de anathemate furatus
+
+# block=6
+Ὁ δὲ μὴ προσέχων τούτοις, ἀκρίτως φείσεται ἐπὶ
+τῷ ὀφείλοντι τιμωρίαν, ὡς ὁ Σαοὺλ ἐπὶ τῷ Ἀγάγ,
+καὶ ὁ Ἠλεὶ τοῖς υἱοῖς οὐκ εἰδόσι τὸν Κύριον. Ὅτι οὖ-
+τος (29) ἐβεβήλωσε καὶ τὴν οἰκείαν ἀξίαν, καὶ τὴν
+τοῦ Θεοῦ Ἐκκλησίαν τὴν κατὰ τὴν παροικίαν αὐτοῦ·
+ἄδικος οὖν οὗτος καὶ Θεῷ, καὶ ὁσίοις ἀνθρώποις, ὡς
+αἴτιος σκανδάλου πολλοῖς νεοφωτίστοις (30) καὶ κατ-
+ηχουμένοις γενόμενος, ἔτι δὲ νέοις καὶ νέαις τῇ
+ἡλικίᾳ, ὃν τὸ οὐαὶ περιμένει, καὶ ὀνικὸς μύλος ἐν τῷ
+τραχήλῳ, καὶ ὁ βυθὸς, ἐν ᾧ ὑπόδικος ὑπάρχει. Διὰ
+γὰρ τὴν τῆς ἀκρισίας ἀνομίαν βλέποντες τὸν τοιοῦτον
+αὐτῶν ἄρχοντα, ἐν ἑαυτοῖς διακριθήσονται, καὶ χρη-
+σάμενοι τῇ αὐτῇ νόσῳ, συναπολέσθαι αὐτῷ ἀναγκασ-
+θήσονται, ὡς τῷ Ἱεροβοὰμ ὁ λαὸς, καὶ τῷ Κορέ οἱ συν-
+αράμενοι αὐτῷ. Εἰ δὲ βλέποι ὁ ἁμαρτὼν τὸν ἐπίσκοπον
+καὶ τοὺς διακόνους ἀθώους ἐγκλήματος, καὶ τὸ ποίμ-
+νιον καθαρὸν ὑπάρχον, πρῶτον μὲν, οὐ τολμήσει, κα-
+ταφρονήσας (31), εἰς Ἐκκλησίαν Θεοῦ εἰσελθεῖν,
+πλησσόμενος τῇ συνειδήσει (32) αὐτοῦ· εἰ δὲ παρ'
+οὐδὲν ἡγησάμενος εἰσέλθοι, ἢ παραχρῆμα ἐλεγχθή-
+σεται, ὡς Ὀζᾶ ἐπὶ τῆς κιβωτοῦ ἁψάμενος, ὥστε
+ἑδράσαι, καὶ ὡς Ἄχαρ (33), ἐπὶ τῇ κλοπῇ τοῦ ἀνα-
+
+# block=5
+⁶⁷ Deut. xvl, 20. ⁶⁸ Deut. l, 17. ⁶⁹ Exod. xxiii, 7 in LXX. ⁷⁰ Ibid. 8. ⁷¹ Deut. vıı, 15, Cedrenus.
+Vide Test. Vet. ⁷² Prov. xxıı, 10. Lege Anastasius, quæst. 60. ⁷³ I Reg. xv. ⁷⁴ I Reg. ıı. ⁷⁵ Matth.
+xvııı, 6, 7. ⁷⁶ III Reg. xıı; Num. xvı. ⁷⁷ II Reg. vı.
+
+# block=7
+VARIORUM NOTÆ.
+
+# block=14
+chææ iv, ult., in quibusdam codicibus Cassiani cap.
+20 Collat. l, in Annalibus Zonaræ et in Jacobi de
+Vitriaco Epistola ad Honorium III papam, tom. VIII
+Spicil. Acher., p. 373, Nam habent Achar omnes edi-
+tiones omnium linguarum I Paralip. ıı, 7, ac in
+Josue. versio Syriaca, cuncti fere Græci codices, et
+non pauci Latini manu exarati. Atque ita effertur
+a Græcis doctoribus, necnon a multis Latinis, etiam
+non admodum antiquis. Præterea lectionem Achan
+excludit allusio ad vocem Achar, quæ cernitur
+Josue vıı, 25, in Hebræo : Achor vero non est no-
+men hominis, sed vallis; quod facile cum Achar
+confunditur; ut vice versa Achar cum Achor, apud
+Theodoritum ad Osee ıı, 15, ex Syro interprete.
+Corrigendæ editiones Origenis per Erasmum ac Ge-
+nebrardum procuratæ, quæ perperam homilia 5, in
+Isaiam Achaz exhibent, cum vetus illa Merlini me-
+lius ostendat Achan. Pari modo Balsamon im-
+pressus ad Can. apost. 73, Ἄχας, manuscriptus
+Ἄχαρ. De Achare sequentia complectuntur mem-
+branæ Regiæ cod. 2437, relatu non indigna : Ὁ νο-
+σφισάμενος ἐκ τῆς Ἱεριχὼ ψιλὴν ποικίλην λεπτήν,
+καὶ σ' δίδραχμα ἀργυρίου, καὶ γλῶσσαν μίαν χρυσῆν
+ν' διδράχμων, ἦν ὁ Ἄχαρ υἱὸς Χαρμί, υἱοῦ Ζαμβρί,
+υἱοῦ Ζαρά. ἔστι δὲ Ἑβραϊκὴ λέξις τὸ ποικίλην λεπ-
+τήν, ῥένδαν Βαβυλωνίτικον φουφουδοτήν· καλὴν· ἤγουν
+χλαμύδα βασιλικὴν χρυσῆν, τινὲς δὲ στολὴν, ὕφασμα,
+
+# block=16
+(25) Δικαίως διώξεις τὸ δίκαιον. Hunc textum,
+qui in LXX sic producitur, δικαίως τὸ δίκαιον
+διώξῃ, multum detorquet Antiochus homilia 75, dum
+citat, δικαίως τὸ δίκαιον διώξεις, si (quod nequaquam
+credo) libri impressi vitio carent. Itaque consului
+scriptos : et in membranis Regiis cod. 2420, reperi,
+δικαίως τὸ δίκαιον διώξει. Cod. vero 700 : Δικαίως τὸ
+δίκαιον διώξεις. COT.
+(26) Ἀσεβῆ. Addit uterque ἕνεκεν δώρων. CLER.
+(27) Συνεδρίου. Uterque præfigit præpositionem
+ἐκ. ID.
+(28) Ὅτι, etc. Deest in utroque hæc inscri-
+ptio. ID.
+(29) Οὗτος. Τοιοῦτος in utroque. ID.
+(30) Νεοφωτίστοις. Alter νεοφύτοις, minus re-
+cte. ID.
+(31) Καταφρονήσας. Hæc vox deest in gemino
+cod. ms. Vindob. nec sane necessaria est. ID.
+(32) Τῇ συνειδήσει. Alter codex τὴν συνείδησιν,
+æque recte. Postea pro εἰ δὲ παρ' οὐδὲν uterque εἰ
+δὲ καὶ παρ' οὐδέν, quod est ἐμφατικώτερον. ID.
+(33) Ἄχαρ. Quidquid dicat S. Hieronymus, libro
+de Locis Hebraicis, verum hujus juris nomen est
+Achar, non Achan, vel Achor; licet Achan obvium
+sit, Achor autem legatur in quibusdam Bibliis mss.
+Latinis, in Cæsariensi Eusebio Περὶ τῶν τοπικῶν
+ὀνομάτων ἐν τῇ θείᾳ Γραφῇ, in Hieronymo ad Mi-

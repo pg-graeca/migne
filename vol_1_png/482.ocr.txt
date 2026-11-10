@@ -1,0 +1,198 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1059,1510,1811,2144
+2,299,436,1053,994
+3,1074,606,1829,1502
+4,271,1771,1026,2377
+5,288,1000,1040,1509
+6,1096,143,1837,513
+7,270,2503,1011,2678
+8,1046,2519,1784,2654
+9,315,254,1056,420
+10,280,1516,1025,1762
+11,1050,2314,1789,2392
+12,1057,2207,1801,2311
+13,319,129,1057,244
+14,708,77,1454,115
+15,319,66,389,108
+16,1777,90,1843,134
+17,1163,572,1735,602
+18,269,2412,1631,2476
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=16px
+# block=16 fontSize=16px
+# block=17 fontSize=13px centerRows=true
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+363
+
+# block=14
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA,
+
+# block=16
+364
+
+# block=13
+rolliana, Aug., 1758, p. 2076; Godescard, in Vita
+sancti Clementis; Caillau, in selecta Collectione Pa-
+trum (4); etc.
+
+# block=6
+paverat dispoliari flagitaverunt et obtinuerunt anno
+1730?
+Risu digna est ratio quam affert de exorcismis in
+principio Ecclesiæ adhibitis, quosque vult confundi
+cum cura ægrotorum. Inde etiam ansam sumit
+accusandi indirecte hodiernos Ecclesiæ ritus,
+asserendo olim saltem omnem fraudis et impostu-
+ræ suspicionem, omnem sordidi quæstus spem ab-
+fuisse.
+
+# block=9
+Hocce judiciorum discrimen evidenter demons-
+trat quibus displicuerit doctrina in Epistolis nostris
+tradita, quique illas semper latuisse peroptas-
+sent.
+
+# block=2
+Quod sentio candide fatebor : nescio utrum sub
+infelicioribus auspiciis quam sub patrocinio et
+tempore Wetstini, hæ pretiosæ Epistolæ publicari
+potuerint. Cælibatus pseudo-reformatis semper odio-
+si quidam reformatus apologiam incunabulis Eccle-
+siæ coætaneam in lucem edebat : Lutherum dis-
+cipulus Lutheri pungebat. Quis favor, ex hac parte,
+sperandus? In proceres cleri catholici, non lacessi-
+tus, indistinctim calumnias struxerat, ipsis impu-
+tando mores perversos, hypocrisim ac voluntatem
+comburendi libros quorum doctrina non poterat
+ad eorum, ut aiebat, pravitatem et nequitiam
+inflecti.
+
+# block=17
+COMPENSATIO INJUSTITIÆ PRÆCEDENTIS.
+
+# block=3
+Wetstinus, in Ecclesiam catholicam ejusque cle-
+rum invehens, sectæ suæ vestigia secutus est. Igno-
+scamus illi : nesciebat fortassis quid ageret. Nullum
+inde ipsi commodam obvenit. Cultus pseudo refor-
+mati patroni in collegam primi insurrexerunt. Uti-
+nam hinc potuisset intelligere in solo matris Eccle-
+siæ gremio veritatem cum laude vera dignoque suf-
+fragio defendi ac propugnari! Nec Wetstino a Ca-
+tholicis denegandus est quem ei consectarii dispu-
+tant, meritus honos. Quis porro extraneus partium
+studiis ipsum non laudabit hæc loquentem? 10
+« Erunt forte quibus harum Epistolarum scriptor
+videbitur et matrimonio esse iniquior, cælibatum
+vero nimium extollere, quando virginibus sanctis
+excellentiorem in cœlis locum datum iri statuit
+quam conjugibus sanctis 11, et morosius quam vel
+humanitas, vel sæculi nostri consuetudo fert, omni
+cum mulieribus familiaritate et commercio interdi-
+cere, aditumque earum et sermonem defugere jube-
+re, ne quid ex contagione incommodi accipiamus, ut
+verbis Cæsaris utar.
+
+# block=5
+Maledicta nec in sectam accusatoris nec in ipsum
+accusatorem regeram : quid enim prodessent con-
+vicia ? Quid vindicta? Nemo, nisi insaniat, diffiteri
+potest mille scripta veterum, injuria temporum
+amissa et oblitterata, revixisse tandem cura et solli-
+citudine præsertim pontificum qui nullis peperce-
+runt expensis, ut hos conquirerent thesauros abs-
+conditos. Merito omnium risui se exponeret qui
+immensam comparare auderet cujusvis generis
+librorum antiquorum multitudinem a clero catho-
+lico detectorum, cum rarissimis sectariorum inven-
+tionibus.
+
+# block=1
+« Aliter, fateor, de cælibatu et matrimonio sen-
+tit Clemens quam Lutherus; at nondum probatum
+est illum male sensisse : si quis enim genium de-
+fraudat, et voluptates etiam licitas spernit, ut eo
+melius et expeditius doctrinæ Evangelii et curandæ
+Ecclesiæ vacare possit, cur non in altera vita majus
+a Deo præmium speraret, quam illi qui partem
+mercedis suæ jam in hac vita receperunt? Cæterum,
+Clemens nec cælibatum jubet, nec nuptias ve-
+tat, ut tum ex ipso loco modo allato patet,
+tum ex alia ejusdem Epistolæ scripta adversus cos
+qui matrimonium rejiciunt, quam legisse testatur
+Dionysius Barsalibi, apud Asseman 12 : nec de cæ-
+libatus præmio quidquam dicit diversum ab iis quæ
+Paulus docuerat 13. »
+
+# block=10
+Non sibi consentiunt hostes nostri : modo namque
+accusant Ecclesiæ proceres quod bellum intulerint
+libris veterum licentioribus, modo ipsis imputant
+quod, ex industria, moliti fuerint destructionem
+operum castitatem sanctamque disciplinam docen-
+tium.
+
+# block=4
+Quare clerus catholicus insimulatur a Wetstino
+nimiæ familiaritatis cum mulieribus, cum inde
+præcipue pseudo-reformationi displiceat quod sit
+continens? Hæc etiam inter se pugnant. Arguit Ec-
+clesia præsules et clericos quod contempserint et
+abjecerint sancti Clementis Epistolas, studio gulæ
+et ambitus; unde gradus ecclesiasticos, ut eos cri-
+minatur, usurpant; unde quoque sibi arrogant apo-
+stolorum vel prophetarum qualitates! Miserum,
+sane, perfugium hæresis, quæ quos aversatur, sic
+injuste dehonestat! Speravitne Wetstinus his insa-
+nis accusationibus ora claudere eorum qui, in ipso
+Lutheranorum grege, eum ut Socinianum pestife-
+rumque novatorem denuntiantes agradu quem occu-
+
+# block=12
+EXPENDUNTUR AC REFELLUNTUR RATIONES QUIBUS D.
+DE PREMAGNY IN DUBIUM REVOCAT AUTHENTICITATEM
+AMBARUM EPISTOLARUM SANCTI CLEMENTIS.
+
+# block=11
+Stephanus Franciscus Boistard de Premagny, ho-
+nesta familia, Rothomagi natus, vir magnæ littera-
+
+# block=18
+¹⁰ Prolegomen., n. 10. ¹¹ Ep. I, n. 1. ¹² Biblioth. Orient., t. II, p. 155. ¹³ I Cor. VII, 9.
+
+# block=7
+(4) Quare hic ultimus scriptor nostras Epistolas
+non admisit in sua Collectione, cum eas authenticas
+esse non neget? Probabile est aut nullum earum
+exemplar in manus ejus pervenire potuisse, aut si
+quoddam pervenerit, pedem ejus retrogressum esse
+
+# block=8
+ad solum conspectum hirsutæ translationis Wets-
+tini. Eadem de causa, ego ipse plures annos distuli
+meum laborem, qui utinam adhuc sancto Clementi
+indignus non sit!

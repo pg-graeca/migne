@@ -1,0 +1,193 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,181,813,1735,1080
+2,980,597,1734,763
+3,170,2059,935,2726
+4,184,597,948,762
+5,433,1313,1476,1382
+6,804,261,1075,314
+7,180,110,258,141
+11,653,1201,1285,1284
+12,933,439,969,477
+13,862,770,1068,803
+14,470,329,1445,364
+15,844,106,1073,141
+16,420,492,1491,526
+17,1640,104,1734,160
+18,172,548,942,594
+19,1040,550,1648,600
+20,956,1474,1732,2726
+21,168,1483,936,2057
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=29px
+# block=6 fontSize=24px
+# block=7 fontSize=16px
+# block=11 fontSize=42px
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=17 fontSize=16px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+1476
+
+# block=15
+ORDO RERUM
+
+# block=7
+1475
+
+# block=6
+ADDENDA
+
+# block=14
+Hujus tomi col. 459-460, post fragmentum num. IX prænotatum.
+
+# block=12
+X
+
+# block=16
+(Leontii et Joannis Rer. sacr. lib. II, ap. MAI, Script. vet. nova Collectio, VII, 84.)
+
+# block=18
+Toῦ ἁγίου Κλήμεντος Ῥώμης ἐκ τῆς θ' ἐπιστολῆς.
+
+# block=19
+Sancti Clementis Romani, ex epistola 9.
+
+# block=4
+Ἵνα καὶ γενώμεθα βουληθέντος αὐτοῦ, οὐκ ὄντες
+πρὶν γενέσθαι, καὶ γενόμενοι ἀπολαύσωμεν τῶν δι'
+ἡμᾶς γενομένων· διὰ τοῦτο ἐσμὲν ἄνθρωποι, καὶ
+φρόνησιν ἔχομεν καὶ λόγον παρ' αὐτοῦ λαβόντες.
+
+# block=2
+Ita ut et eo volente fieremus, qui non eramus an-
+tequam fieremus, et facti rebus in usum nostrum
+creatis frueremur; propterea homines sumus et sa-
+pientiam habemus, ratione ab ipso accepta.
+
+# block=13
+ADNOTATIO.
+
+# block=1
+Clementis Romani non exstat nisi prima ad Corinthios epistola et pars secundæ. Et quidem in codice
+exstat locus ex I ad Cor, cap. xxxııı, quem exscribere supersedeo, quanquam variat a lectione quæ est edita
+apud Cotelerium, necnon apud Damascenum, Paral., p. 310, Jam de epistola Clementis nona, quam hic
+citat Leontius, quid dicam? Num est ex illis Clementinis epistolis, in quibus Hieronymus Adv. Jov. 1, 12,
+laudes virginitatis multo ampliores legebat quam quæ in editis duabus occurrunt? Hic locus nonæ sub-
+sequitur in codice locum primæ. Certe in Mercatoris collectione quinque sunt Clementis epistolæ. Sed
+tamen Turrianus Pro epp. pontif. lib. v, cap. 20, ed. Flor., p. 555, dicit Leontium in hoc opere citare
+primam et secundam Clementis ad Corinthios.
+
+# block=11
+ORDO RERUM
+
+# block=5
+QUÆ IN HOC TOMO CONTINENTUR.
+
+# block=20
+II.— EX EDITIONE PETRI COUSTANTII. — Quando et quan-
+diu sederit S. Clemens. 73
+Admonitio in epistolam primam ad Corinthios. 77
+Admonitio in epistolam secundam. 81
+III. — EX EDITIONE GALLANDII. 85
+Dissertatio de duabus epistolis ad Corinthios. 85
+Dissertatio de duabus epistolis ad virgines. 107
+IV. — EX P. LUMPERI HISTORIA PATRUM CRITICA. 121
+CAP. I. — Articulus unicus. — Vitæ S. Clementis histo-
+ria. 121
+CAP. II. — De scriptis S. Clementis primi Romani pon
+tificis. 125
+Articulus I. — De prima ejus ad Corinthios scripta
+epistola. 125
+Articulus II. — De secunda ad Corinthios epistola.
+129
+Articulus III. — De tempore quo utraque epistola Co-
+rinthiis scripta fuit. 135
+Articulus IV. — Utriusque epistolæ brevis analysis.
+138
+CAP. III. — Articulus unicus. — Quid de duabus Cle-
+mentis ad virgines epistolis sit sentiendum. 141
+CAP. IV. — De supposititiis S. Clementis nomen præfe-
+rentibus scriptis. 143
+Articulus I. — De quinque pseudo-Clementinis episto-
+lis 143
+Articulus II. — De Recognitionum libris, liturgia Cle-
+mentina, aliisque supposititiis operibus. 145
+Articulus III. — De Clementinis et nonnullis aliis scri-
+ptis supposititiis ejus nomine inscriptis. 150
+Articulus IV. — De actis martyrii S. Clementis. 151
+CAP. V. — Doctrina sancti Clementis. 153
+Articulus I. — Observationes dogmaticæ in divi Cle-
+mentis Romani epistolas genuinas. 153
+§ I. — De sancta Scriptura et traditione. 153
+§ II. — De SS. Trinitatis mysterio, Filio Dei Jesu
+Christo, ejusque gratia. 159
+§ III. — De resurrectione. 163
+§ IV. — De hierarchia ecclesiastica. 166
+Articulus II. — Observationes morales. 172
+§ I — De humilitate, et charitate, vitioque eidem op-
+posito, æmulatione. 172
+
+# block=21
+DISSERTATIO de omnibus generatim primi Ecclesiæ
+sæculi scriptoribus. 1
+CAP. I. — Quam pauca supersint scriptorum primi Ec-
+clesiæ sæculi opera : cur Deus plura interire permiserit,
+et quid in hac dissertatione tractandum sit. 1
+CAP. II. — Quod fuerit scriptorum primi sæculi inge-
+nium, quæ studia, occupationes et occasiones ad scriben-
+dum. 10
+CAP. III. — De hæresum primi sæculi ortu, progressu,
+et interitu, earumque expugnatoribus; ac primum de hæ-
+resi Simonis Magi. 12
+CAP. IV. — De hæresi Menandri. 16
+CAP. V. — De hæresi Cerinthi. 17
+CAP. VI. — De hæresi Ebionis. 19
+CAP. VII. — De hæresi Nazaræorum. 22
+CAP. VIII. — De hæresi Nicolaitarum. 25
+CAP. IX. — Quæ ex hac hæreseon descriptione utilitas.
+26
+CAP. X. — De scholarum Christianarum origine. 27
+
+# block=3
+S. CLEMENS I PONTIFEX ROMANUS.
+Notitia ex libro pontificali Damasi papæ. 31
+VARIORUM PROŒMIA historico-litteraria ad episto-
+las sancti Clementis papæ.
+I. — EX EDITIONE COTELERII. — Veterum testimonia de
+sancti Clementis epistolis. 31
+Judicia recentiorum et primum quidem Patricii Junii
+præfatio. 43
+Ejusdem Προσφωνήσεις. 45
+Epistola Hieronymi Bignonii ad Hugonem Grottium.
+47
+Hugonis Grotii epist. ad Hieronymum Bignonium. 47
+Epistola altera ejusdem Bignonii. 49
+Hermanni Conringii epistola ad Joachimum Joannem
+Maderum. 49
+Joachimi Joannis Maderi ad lectorem præfatio. 53
+Godefridi Vendelini de Clementis et ejus epistolarum
+tempore divinatio. 61
+J. B. Cotelerii judicium de priore epistola S. Clemen-
+tis. 67
+J. B. Cotelerii judicium de posteriore epistola S. Cle-
+mentis 69

@@ -1,0 +1,161 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,258,2137,1003,2707
+2,249,163,997,1976
+3,1081,2666,1624,2703
+4,1044,2340,1788,2638
+5,1043,2139,1788,2342
+6,867,2059,1170,2092
+7,649,106,1362,146
+8,1027,165,1791,1979
+9,248,108,301,146
+11,1715,108,1779,154
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(44) Θυσιαστήρια. Addit alter codex τῇ στρατιᾷ
+τοῦ οὐρανοῦ, καὶ ᾠκοδόμησε θυσιαστήρια. CLER.
+(45) Γεβαναὶ ἐν ὀνόματι. Unde monstrum lectio-
+nis? An ex vocabulo contextus, Γὲ βενεννόμ, II Pa-
+ral. xxxiii, 6, et nonneminis ad illud nota margi-
+nali, ὄνομά τι, quoddam nomen, simul primo mistis
+ac postea corruptis? Ita sentio. Corrigo etiam in
+hac voce Luciferum libro De non parcendo in Deum
+delinquentibus, pagina 239 extrema, quo loci pro-
+ducit testimonium sanctæ Scripturæ IV Reg. xxiii,
+10 : Contaminavit quoque Thopheth, quod est in con-
+valle filii Ennom : Græce, καὶ ἐμίανε τὸν Τοφὲθ τὸν
+ἐν φάραγγι υἱοῦ Ἐννόμ : dicitque, si libris editis cre-
+dimus : Et coinquinavit Phem, quod erat in Cepenam.
+Sed rescribendum : Pheth, quod erat in Gehenam
+aut Gehennam, Gehennom, Gebenennom. Nimirum his
+nominibus donatur ea vallis. Et legebat Lucifer τὸ
+
+# block=2
+versus est Manasses, ac ædificavit excelsa, quæ
+destruxerat Ezechias pater ejus : et statuit cippos
+Baali, et erexit altare Baali : et fecit lucos, sicut
+fecerat Achab rex Israelis : et fecit altaria in domo
+Domini, de qua hæc dixit Dominus ad Davidem et
+ad filium ejus Salomonem : In illa ponam nomen
+meum. Et exstruxit Manasses altaria, et in eis ser-
+vivit Baali. Et dixit : Erit nomen meum in sæculum.
+Et ædificavit altaria, in duobus atriis domus Do-
+mini, militiæ cæli : et ipse traduxit filios suos per
+ignem in Ge Ben-Hennon : et ariolabatur, ac male-
+ficis artibus inserviebat : fecitque ventriloquos et
+incantatores, et magos, et Teraphim : et multipli-
+cavit ut faceret malum in oculis Domini, ad irri-
+tandum eum : et posuit conflatile et sculptile luci,
+imaginem, quam fecit in domo Domini, in qua elegit
+Dominus ponere nomen suum, ibi in Hierosolymis,
+urbe sancta, in sæculum, et dixit : Non adjiciam
+commovere pedem meum a terra Israelis, quam
+dedi patribus eorum, si tamen servaverint quæcun-
+que præcepi eis, et omne mandatum quod manda-
+vit servus meus Moses. Et non audierunt ; et dece-
+pit eos Manasses, ut facerent malum coram Do-
+mino, super gentes quas sustulit Dominus a facie
+filiorum Israel. Et locutus est Dominus ad Manas-
+sem et ad populum ejus, in manu servorum suorum
+prophetarum, dicens : Pro eo quod fecit Manasses
+rex Judæ, abominationes istas malas, super omnia
+quæ fecit Amorrhæus coram eo ; et peccare fecit
+Judam in idolis suis, hæc dicit Dominus Deus Israel :
+Ecce ego infero mala in Hierosolyma et Judam, ut
+quicunque ea audierit, tinniant ambæ aures ejus ;
+et extendam super Hierusalem mensuram Samariæ,
+et pondus domus Achabi ; et delebo Hierosolyma,
+sicut deletur tabula quæ deletur, et convertam su-
+per faciem suam ; et dimittam residuum hæreditatis
+meæ, et tradam eos in manus inimicorum suorum ;
+eruntque in prædam et direptionem inimicis suis,
+eo quod fecerint mala in oculis meis, et fuerint irri-
+tantes me, a die qua eduxi patres eorum ex terra
+Ægypti, et usque ad hanc diem. Etiam sanguinem
+innoxium effudit Manasses multum valde, donec
+
+# block=3
+(20) Ἐπί. Alter ἀπὸ προσώπου. CLER.
+
+# block=4
+(46) Τοῦ ποιῆσαι. Deest in altero Vind. ID.
+(47-49) Καθὼς ἀπαλείφεται, κ. τ. λ. Nota varias
+lectiones, καταστρέψω et ἀποδώσομαι. Nam vertam
+quoque exhibet Vulgata ; ἀποδώσομαι autem æque ac
+editum ἀπεώσομαι vel ἀπώσομαι, respondet verbo
+Hebraico. Quod si cum ms. Alexandrino reponatur
+in LXX : Καθὼς ἀπαλείφεται τὸ ἀλάβαστρον ἀπα-
+λειφόμενος καὶ καταστρέφεται ἐπὶ πρόσωπον αὐτοῦ,
+vertaturque
+
+# block=5
+Φὲθ τό pro Τοφὲθ τό, quod habet editio Compluten-
+sis, ubi in ms. Alexandrino τὸν Θοφθά, in versioni-
+bus Syriaca et Arabica Taphat, in Scholio antiquo
+τὸν Θοφόθ, apud Theodoritum τὸ Ταφέθ, apud Pro-
+copium Gazæum perperam τὸ Ἀφέθ, alibi Τωφέθ.
+COT. — Alter Vind. cod. habet γεβάν. CLER.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=8
+ἀπὸ τῶν βδελυγμάτων τῶν ἐθνῶν ὧν ἐξωλόθρευσε Κύ-
+ριος ἀπὸ προσώπου υἱῶν Ἰσραήλ· καὶ ἐπέστρεψε
+Μανασσῆς, καὶ ᾠκοδόμησε τὰ ὑψηλὰ, ἃ κατέσπασεν
+Ἐζεκίας ὁ πατὴρ αὐτοῦ· καὶ ἔστησε στήλας τῇ Βάαλ,
+καὶ ἀνέστησε θυσιαστήριον τῇ Βάαλ· καὶ ἐποίησεν
+ἄλση, καθὼς ἐποίησεν Ἀχαὰβ βασιλεὺς Ἰσραήλ· καὶ
+ἐποίησε θυσιαστήρια (44) ἐν οἴκῳ Κυρίου, ἐν ᾧ εἶπε
+Κύριος πρὸς Δαβὶδ, καὶ πρὸς Σολομῶντα τὸν υἱὸν αὐ-
+τοῦ, λέγων, ὅτι Ἐν αὐτῷ θήσω τὸ ὄνομά μου. Καὶ
+ἔστησε Μανασσῆς θυσιαστήρια, καὶ ἐν αὐτοῖς ἐδού-
+λευσε τῇ Βάαλ. Καὶ εἶπεν· Ἔσται τὸ ὄνομά μου εἰς
+τὸν αἰῶνα. Καὶ ᾠκοδόμησε θυσιαστήρια ἐν ταῖς δυ-
+σὶν αὐλαῖς οἴκου Κυρίου, τῇ στρατιᾷ τοῦ οὐρανοῦ·
+καὶ αὐτὸς διήγαγε τὰ τέκνα αὐτοῦ ἐν πυρὶ ἐν Γεβα-
+ναὶ (45) ἐν ὀνόματι· καὶ ἐκληδονίζετο, καὶ ἐφαρμα-
+κεύετο· καὶ ἐποίησεν ἐγγαστριμύθους, καὶ ἐπαοιδοὺς,
+καὶ γνώστας, καὶ θεραφείν· καὶ ἐπλήθυνε τοῦ ποιῆ-
+σαι (46) τὸ πονηρὸν ἐν ὀφθαλμοῖς Κυρίου, τοῦ παρ-
+οργίσαι αὐτόν· καὶ ἔθηκε τὸ χωνευτὸν καὶ τὸ γλυ-
+πτὸν τοῦ ἄλσους, τὴν εἰκόνα, ἣν ἐποίησεν ἐν οἴκῳ
+Κυρίου, ἐν ᾧ ἐξελέξατο Κύριος θέσθαι τὸ ὄνομα αὐ-
+τοῦ, ἐκεῖ ἐν Ἰερουσαλὴμ τῇ ἁγία πόλει εἰς τὸν αἰῶνα,
+καὶ εἶπεν· Οὐ προσθήσω τὸν πόδα μου σαλεῦσαι ἀπὸ
+τῆς γῆς τοῦ Ἰσραὴλ, ἣν ἔδωκα τοῖς πατράσιν αὐτῶν,
+πλὴν ἐὰν φυλάξωνται κατὰ πάντα ὅσα ἐνετειλάμην
+αὐτοῖς, κατὰ πᾶσαν ἐντολὴν, ἣν ἐνετείλατο ὁ δοῦλός
+μου Μωσῆς. Καὶ οὐκ ἤκουσαν, καὶ ἐπλάνησεν αὐτοὺς
+Μανασσῆς τοῦ ποιῆσαι τὸ πονηρὸν ἐνώπιον Κυρίου,
+ὑπὲρ τὰ ἔθνη ἃ ἐξῆρε Κύριος ἀπὸ προσώπου τῶν
+υἱῶν Ἰσραήλ. Καὶ ἐλάλησε Κύριος ἐπὶ Μανασσῇ,
+καὶ ἐπὶ τὸν λαὸν αὐτοῦ, ἐν χειρὶ δούλων αὐτοῦ τῶν
+προφητῶν, λέγων· Ἀνθ' ὧν ὅσα ἐποίησε Μανασσῆς
+ὁ βασιλεὺς Ἰούδα τὰ βδελύγματα τὰ πονηρὰ ταῦτα,
+ἀπὸ πάντων ὧν ἐποίησεν ὁ Ἀμοῤῥαῖος ἔμπροσθεν
+αὐτοῦ, καὶ ἐξήμαρτε τὸν Ἰούδαν ἐν τοῖς εἰδώλοις
+αὐτοῦ, τάδε λέγει Κύριος ὁ Θεὸς Ἰσραήλ· Ἰδοὺ ἐγὼ
+φέρω κακὰ ἐπὶ Ἰερουσαλὴμ, καὶ Ἰούδαν, ὥστε
+παντὸς ἀκούοντος αὐτὰ, ἠχῆσαι ἀμφότερα τὰ ὦτα
+αὐτοῦ, καὶ ἐκτενῶ ἐπὶ Ἰερουσαλὴμ τὸ μέτρον Σαμα-
+ρείας, καὶ τὸν σταθμὸν οἴκου Ἀχαὰβ, καὶ ἀπαλείψω
+τὴν Ἰερουσαλὴμ καθὼς ἀπαλείφεται τὸ πυξίον ἀπαλει-
+φόμενον (47-49) , καὶ καταστρέψω ἐπὶ (20) πρόσωπον
+
+# block=9
+643
+
+# block=11
+644

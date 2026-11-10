@@ -1,0 +1,114 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1204,285,1805,1766
+2,1197,2050,1816,2210
+3,1402,193,1601,231
+4,285,2416,1819,2488
+5,1415,1974,1611,2010
+6,675,89,1433,129
+7,286,2552,1815,2723
+8,265,250,1168,1916
+9,286,2484,1819,2556
+10,285,2227,1809,2339
+11,704,2342,1389,2415
+12,575,154,869,264
+13,289,86,371,130
+14,1749,88,1809,134
+15,565,1936,861,2002
+16,267,2024,1159,2198
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+423
+
+# block=14
+424
+
+# block=6
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=3
+CAPUT III.
+
+# block=1
+Quando incurrimus in locum ubi
+non est aliquis frater sanctus ³⁹,
+quia omnes hospites sunt tantum
+socii, apud quos omnis frater reci-
+pitur : his tunc omnibus hospiti-
+bus devolvitur cura subministrandi
+prona voluntate fratri cuilibet quæ
+ipsi necessaria sunt. Nec decet alios
+quam socios fratri advenæ hæc offi-
+cia præstare. Hospitibus hæc dicere
+non omittat. Nos, vocatione sancti,
+cum mulieribus nec cibum nec po-
+tum sumimus ; nec mulieres aut
+virgines nobis ministrant, vel pedes
+nostros lavant, vel nos ungunt ; nec
+nobiscum congregatæ in eodem loco
+remanent ; nec somnum capimus
+ubi ipsæ pernoctant. Cavemus enim
+ut in rebus cunctis non arguamur
+merito : solliciti quippe sumus ne
+quis in nobis offendatur aut scanda-
+lizetur : Nemini dantes ullam offen-
+sionem, ut non vituperetur ministe-
+rium nostrum ⁴⁰. Scientes ergo timo-
+rem Domini, hominibus suademus ;
+Deo autem manifesti sumus ⁴¹.
+
+# block=5
+CAPUT IV.
+
+# block=2
+Si contingat nos incidere in locum
+ubi, absque ullo viro, solæ repe-
+riuntur mulieres et virgines fideles
+
+# block=10
+etiam modestia læditur manus aspectu, imo honesto osculo. Idem dici nequit de nudati brachii apparitione.
+Porro veterum Romanorum vestes manicis carebant : unde Virgilius (Æneid. l. ix, v. 613, 614) expro-
+brat Phrygibus quasi effeminatis, quod manicis uterentur :
+
+# block=11
+Et tunicæ manicas, et habent redimicula mitræ.
+O vere Phrygiæ, neque enim Phryges. . . . .
+
+# block=4
+Et Quintilianus monet oratorem (Inst. l. xi) ne gestus brachiorum superiorem corporis partem nimis
+discooperiat.
+
+# block=9
+Non omittet eruditus lector animadvertere relatione usuum hujus temporis antiqui confirmari au-
+thenticitatem Epistolæ sancti Clementis.
+
+# block=7
+³⁹ Frater sanctus, id est Christianus. Tempore sancti Clementis, plurimi adhuc loci Christianis carebant.
+Ibi tamen sæpe reperiebantur catechumeni aut etiam gentiles in Christianos propensissimi. Hos crederem
+a sancto pontifice socios esse vocatos, quia concordibus animis in gratiam hujus novæ societatis conspi-
+rabant. Isti magnum honorem reputabant suscipere Christianos, præsertim vero Christi ministros, mox
+futuri ipsi Christi discipuli et sæpius nobilior martyrum ipsius seges. ⁴⁰ II Cor. vi, 3. ⁴¹ II Cor. v, 11.

@@ -1,0 +1,179 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1047,1683,1807,2675
+2,259,112,1011,1113
+3,253,1323,1021,2282
+4,262,2437,1018,2681
+5,261,2295,1023,2435
+6,1045,1317,1806,1686
+7,1045,116,1812,1111
+8,843,1254,1147,1292
+9,256,1140,1808,1219
+10,675,62,1390,103
+12,255,70,321,104
+13,1729,58,1801,102
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(91) Τοιούτων. Alter ms. : πάντων οὕτως. ID.
+(92) Σολομὼν δωδεκαετὴς, τοῦ Ἰσραὴλ ἐβασί-
+λευσε. Idem ætatis Salomoni regnare incipienti
+tribuunt Eupolemus ab Eusebio Præparat. evang.
+lib. IX, cap 50 , prolatus ; Chrysostomus ad Isaiæ
+III, 4, ac libro De educandis liberis per R.P. Fran-
+ciscum Combefisium publici juris facto p. 94; Hie-
+ronymus epist. 125, quæst. 2, epist. 131 et 132 ,
+et ad Isaiæ locum memoratum ; auctor Ἱστοριῶν
+συναγωγῆς cum Chronicis Eusebii a Scaligero edi-
+tis, ubi de Salomone ; Cedrenus et Zonaras in eo-
+dem rege; Chronologia Hebræorum major cap. 14,
+aliique Rabbinorum Tractatus; item Epistola inter-
+polata S. Ignatii ad Magnesianos cap. 3, et Epistola
+supposititia Mariæ Proselytæ ad S. Ignatium cap. 3.
+Nec diversa opinio Josephi , quamvis asserat re-
+gnasse Salomonem annos octoginta (perperam in
+versione Rufini edita, quadraginta, cum a Græco
+non dissentiant libri regiæ Bibliothecæ) vixisse an-
+nos quatuor et nonaginta ; hoc est, XIV vitæ anno
+regnum inchoasse ; quia videlicet non numerat
+primum Salomonici regni biennium, cum postremo
+Davidici conjunctum , ideoque Davidi potius ascri-
+bendum quam Salomoni. Sane III Regum II, 12 ad
+Σαλωμὼν ἐκάθισεν ἐπὶ θρόνου Δαυὶδ τοῦ πατρὸς αὐ-
+τοῦ, in ms. Alexandrino additur: ἐτῶν δώδεκα · et
+in quibusdam ed. υἱὸς ἐτῶν δώδεκα, quam postremam
+lectionem e 4 regiis codicibus tres servant. COT.
+(93) Ταπεινόν. Alter ms. C. πραΰν. CLER.
+(94) Διαπαντός. Deest in altero. ID.
+
+# block=2
+enim juveniles impetus quodammodo effugit , ideo-
+que et ethnicorum calumnias, insuperque obtrecta-
+tiones, quas falsi quidam fratres solent multis in-
+ferre , dum ignorant Dei vocem, in Evangelio posi-
+tam : « Quicunque locutus fuerit verbum otiosum,
+reddet rationem de eo in die judicii ²¹ . » Et iterum :
+« Ex verbis tuis justificaberis, et ex verbis tuis con-
+demnaberis ²² . » Sit ergo episcopus doctus et ser-
+monis peritus, uti decet eam ætatem. Quod si in
+quapiam parva parœcia ætate provectus non repe-
+riatur, et sit aliquis juvenis, quem Episcopatu di-
+gnum judicent contubernales, quique in adolescen-
+tia senilem mansuetudinem ac disciplinam osten-
+derit ; is testimonio illorum fretus, salva pace
+constituatur.²³ Quippe Salomon annos natus duo-
+decim, Israelitarum rex fuit ; et Josias octavum tan-
+tum agens annum, cum justitia regnavit ; Joas
+pariter septimo anno cœpit imperare ²⁴. Quare etsi
+juvenis, tamen sit mitis, verecundus et quietus ;
+ait enim Dominus Deus per Isaiam : « Super quem
+respiciam, nisi super humilem, et quietum, et tre-
+mentem sermones meos semper ²⁵ ? » Similiter et
+in Evangelio, sic : « Beati mites, quoniam ipsi possi-
+
+# block=3
+tia orat. 39 , usurpata deinde ab illo concilio Con-
+stantinopolitano quod in templo SS. Apostolorum
+congregatum fuit, canone ultimo. Notatus fuit me-
+moriæ lapsus in Hippolyto Thebano auctore vulgato
+parte I, tom. III Antiquæ lectionis Henrici Canisii,
+quando sub initium Chronici sui scribit : Οὕτως ὁ
+Κύριος Ἰησοῦς Χριστὸς λ' χρόνους ἐν τοῖς παιδικοῖς
+αὐτοῦ χρόνοις διῆγεν. Μετὰ δὲ τὸ βάπτισμα ἐπελέ-
+ξατο ἑαυτῷ τοὺς μαθητὰς, κηρύσσων σὺν αὐτοῖς τὴν
+βασιλείαν αὐτοῦ , μέχρι τοῦ σωτηρίου πάθους ἔτη
+γ'. Διὸ καὶ οἱ ἐν Νικαίᾳ κανόνες τιη' θεοφόρων Πα-
+τέρων παρακελεύονται , πρὸ τριάκοντα ἐτῶν μηδένα
+χειροτονεῖσθαι πρεσβύτερον. Ἀρκετὸν γὰρ, φησὶ, τῷ
+μαθητῇ, εἶναι ὡς ὁ διδάσκαλος αὐτοῦ, καὶ τῷ δούλῳ
+ὡς ὁ Κύριος αὐτοῦ. Id est , Sic Dominus Jesus Chri-
+stus triginta annos in ætate sua juvenili transegit.
+Post baptismum autem delegit sibi discipulos, præ-
+dicans cum illis regnum suum, usque ad salutiferam
+Passionem annis tribus. Ideoque Nicænæ synodi
+trecentorum duodeviginti divinorum Patrum canones
+decernunt, ut ante annum 30 , nemo ordinetur pres-
+byter. Sufficit enim , inquit Scriptura, discipulo, ut
+sit sicut magister ejus ; et servo, sicut dominus ejus.
+Nihil enim tale in concilio Nicæno. Sed canon 11
+Neocæsariensis ita concipitur : Πρεσβύτερος πρὸ
+τῶν τριάκοντα ἐτῶν μὴ χειροτονείσθω, ἐὰν καὶ πάνυ
+ᾖ ὁ ἄνθρωπος ἄξιος, ἀλλὰ ἀποτηρείσθω. Ὁ γὰρ Κύ-
+ριος Ἰησοῦς Χριστὸς ἐν τῷ τριακοστῷ ἔτει ἐφωτίσθη,
+καὶ ἤρξατο διδάσκειν. COT.
+
+# block=4
+(89) Πεπαιδευμένος. Uterque codex : Ἔστω οὖν
+εἰ δυνατὸν πεπαιδευμένος, εἰ δὲ ᾖ ἀγράμματος ,
+ἀλλ' οὖν. Præterea scholium hoc legitur in margine :
+Ὅτι τὸ ἀγράμματον εἶναι, ἔμπειρον δὲ τοῦ λόγου, οὐ
+κωλύει πρὸς ἐπισκοπήν. Revera Apostoli non postu-
+labant litterarum peritiam in episcopo , quas ipsi
+ignorabant, sed peritiam Evangelii, quod designa-
+
+# block=5
+(88) Εὐαγγελίῳ. Addit alter εἰρημένον, et postea
+pro λαλήσῃ habet εἴπῃ. Sic in omnibus ferme codd.
+sunt synonyma inter se mista, aut aliquid omissum,
+aut additum, sententia eadem. CLER.
+
+# block=6
+tur voce λόγος. Qui personam hic sustinet Aposto-
+lorum sic necesse habuit loqui. ID.
+(90) Μεμαρτυρημένος. Καὶ σοφὸς εἰς ἐπισκοπὴν
+κατασταθῆναι, νέος δὲ ᾖ ἐκεῖ. Sic uterque codex.
+Quæ admittenda censeo et sic vertenda : Si vero in
+parœcia, quæ parva est, ætate provectus non invenia-
+tur, qui testimonium ferat a familiaribus, quasi di-
+gnus episcopatu ; et sit illic juvenis , ea sapientia, ut
+episcopus constitui queat, quod in juventute probatus
+mansuetudine, et compositis moribus senilem indolem
+ostenderit. ID.
+
+# block=7
+ὅτι ²⁰ τρόπῳ τινὶ τὰς νεωτερικὰς ἀταξίας καὶ τὰς
+ἔξωθεν διαβολὰς ἐκπεφευγὼς ὑπάρχει, πρὸς τάς τι-
+νων ψευδαδέλφων εἰς πολλοὺς ἐπιφερομένας βλασφη-
+μίας , οὐ γινωσκόντων ῥῆμα Θεοῦ τὸ ἐν τῷ Εὐαγγε-
+λίῳ (88)· « Ὅς ἂν λαλήσῃ ῥῆμα ἀργὸν, ἀποδώσει
+περὶ αὐτοῦ λόγον τῷ Κυρίῳ ἐν ἡμέρᾳ κρίσεως. »
+Καὶ πάλιν· « Ἐκ τῶν λόγων σου δικαιωθήσῃ, καὶ ἐκ
+τῶν λόγων σου καταδικασθήσῃ. » Ἔστω οὖν πεπαι-
+δευμένος (89) καὶ ἔμπειρος τοῦ λόγου , καθήκων τῇ
+ἡλικίᾳ. Εἰ δὲ καὶ ἐν παροικίᾳ μικρᾷ ὑπαρχούσῃ που
+προβεβηκὼς τῷ χρόνῳ μὴ εὑρίσκηται , μεμαρτυρη-
+μένος (90) ὑπὸ τῶν συνόντων αὐτῷ , ὡς ἄξιος ἐπι-
+σκοπῆς, διὰ τῆς νεότητος ἐν πραότητι καὶ εὐταξίᾳ
+γῆρας ἐπιδεικνύμενος δοκιμασθεὶς , εἰ ὑπὸ τῶν τοιού-
+των (91) μαρτυρεῖται, καθιστάσθω ἐν εἰρήνῃ. Καὶ
+γὰρ Σολομὼν δωδεκαετὴς τοῦ Ἰσραὴλ ἐβασίλευσε (92),
+καὶ Ἰωσίας ἐν δικαιοσύνῃ ὀκτὼ ἐτῶν ἐβασίλευσεν,
+ὁμοίως δὲ καὶ Ἰωὰς ἑπτὰ ἐτῶν ἦρξε τοῦ λαοῦ. Ὥστε
+εἰ καὶ νέος, ἀλλὰ πρᾶος ὑπαρχέτω, δείλός τε καὶ
+ἡσύχιος· ὅτι λέγει διὰ τοῦ Ἡσαΐου Κύριος ὁ Θεός
+« Ἐπὶ τίνα ἐπιβλέψω, ἀλλ' ἢ ἐπὶ τὸν ταπεινὸν (93)
+καὶ ἡσύχιον καὶ τρέμοντά μου τοὺς λόγους διαπαν-
+τός (94); » ὁμοίως καὶ ἐν τῷ Εὐαγγελίῳ οὕτω· « Μα-
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=9
+²⁰ f. ὅτε. 2. ²¹ Matth. XII, 36. ²² Ibid., 37. ²³ Ignat. interpol. ad Magnes. 3. ²⁴ IV Reg. XXII
+et XI. ²⁵ Isa. LXVI, 2.
+
+# block=10
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=12
+595
+
+# block=13
+596

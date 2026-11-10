@@ -1,0 +1,174 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,241,1822,1786,1926
+2,243,139,996,1785
+3,1026,2055,1786,2349
+5,639,84,1358,121
+6,859,1977,1164,2012
+7,239,2216,994,2682
+10,1030,137,1811,1786
+12,1023,2350,1781,2682
+13,246,88,301,127
+15,240,2050,988,2217
+16,1715,80,1781,128
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=5 fontSize=16px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=10 fontSize=16px
+# block=12 fontSize=15px
+# block=13 fontSize=16px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+960
+
+# block=5
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=13
+959
+
+# block=10
+χειώσαντες βαπτίσατε. Τοὺς ἀθέους αἱρεσιώτας ἀμε-
+τανοήτως ἔχοντας διαστείλαντες, ἀφορίσατε ἀπὸ
+τῶν πιστῶν, καὶ τῆς Ἐκκλησίας τοῦ Θεοῦ ἐκκηρύκτους
+ποιήσατε, καὶ παραγγείλατε τοῖς πιστοῖς παντοίως
+αὐτῶν ἀπέχεσθαι, καὶ μήτε λόγοις (2), μήτε προσευ-
+χαῖς κοινωνεῖν αὐτοῖς· οὗτοι γάρ εἰσιν ἀντίδικοι καὶ
+ἐπίβουλοι τῆς Ἐκκλησίας, οἱ διαφθείροντες τὸ ποι-
+μνίον, καὶ μολύνοντες τὴν κληρονομίαν, οἳ δοξόσο-
+φοι, καὶ παμπόνηροι· περὶ ὧν ἔλεγε Σολομὼν ὁ σο-
+φός, ὅτι δυσσεβοῦντες ὑποκρίνονται εὐσεβεῖν, « Ἔστι
+γάρ, φησίν, ὁδὸς ἣ δοκεῖ τισιν ὀρθὴ εἶναι, τὰ δὲ τελευ-
+ταῖα αὐτῆς βλέπει εἰς πυθμένα ᾅδου. » Οὗτοί (3)
+εἰσι περὶ ὧν ὁ Κύριος πικρῶς καὶ ἀποτόμως ἀπεφή-
+νατο, λέγων ὅτι εἰσὶ ψευδόχριστοι καὶ ψευδοδιδάσκα-
+λοι· οἱ βλασφημήσαντες τὸ Πνεῦμα τῆς χάριτος, καὶ
+ἀποπτύσαντες τὴν παρ' αὐτοῦ δωρεὰν μετὰ τὴν χά-
+ριν· οἷς οὐκ ἀφεθήσεται οὔτε ἐν τῷ αἰῶνι τούτῳ,
+οὔτε ἐν τῷ μέλλοντι· οἱ καὶ Ἰουδαίων δυσσεβέστεροι,
+καὶ Ἑλλήνων ἀθεώτεροι (4)· οἱ θεὸν τὸν ἐπὶ πάντων
+βλασφημοῦντες, καὶ τὸν Υἱὸν αὐτοῦ καταπατοῦντες,
+καὶ τὴν διδασκαλίαν τοῦ Πνεύματος διαπτύοντες· οἱ
+τοὺς θεείους λόγους ἀρνούμενοι, ἢ μεθ' ὑποκρίσεως
+προσποιούμενοι δέχεσθαι, ἐφ' ὕβρει θεοῦ καὶ ἀπάτῃ
+τῶν αὐτοῖς προσιόντων· οἱ τὰς ἱερὰς Γραφὰς ἐνυβρί-
+ζοντες, καὶ τὴν δικαιοσύνην ὅ τι ποτέ ἐστιν ἀγνοοῦν-
+τες· οἱ τὴν Ἐκκλησίαν θεοῦ διαφθείροντες, ὡς ἀλώ-
+πεκες μικροὶ ἀμπελῶνα (5)· οὓς φεύγειν ὑμᾶς παρα-
+καλοῦμεν, ἵνα μὴ λάβητε βρόχους ταῖς ἑαυτῶν ψυχαῖς.
+« Ὁ συμπορευόμενος μὲν (6) σοφοῖς, σοφὸς ἔσται, ὁ
+δὲ συμπορευόμενος ἄφροσι, γνωσθήσεται. » Οὔτε γὰρ
+κλέπτῃ δεῖ συντρέχειν, οὐδὲ μετὰ μοιχοῦ τὴν (7) με-
+ρίδα τίθεσθαι· ἐπείπερ καὶ ὁ ὅσιός (8) φησι Δαβίδ·
+« Κύριε, τοὺς μισοῦντάς σε ἐμίσησα, καὶ ἐπὶ τοὺς
+ἐχθρούς σου ἐξετηκόμην, τέλειον μῖσος ἐμίσουν αὐ-
+τούς, εἰς ἐχθροὺς ἐγένοντό μοι. » Καὶ τῷ Ἰωσαφὰτ (9)
+ὁ Θεὸς ὀνειδίζει διὰ τὴν. πρὸς Ἀχαὰβ φιλίαν καὶ
+συμμαχίαν, καὶ ⁶⁴ τὴν πρὸς Ὀχοζίαν, λέγων διὰ
+Ἰωνᾶ ⁶⁵ (10) τοῦ προφήτου· «Εἰ ἁμαρτωλῷ σὺ φιλιάζεις,
+
+# block=2
+gionis docete, ac postea baptizate. Impios hære-
+ticos resipiscere nolentes diducite, et a fidelibus
+separate, et Ecclesiæ Dei palam expellite; simul-
+que denuntiate fidelibus, ut eos devitent, neve cum
+eis vel in sermone, vel in precibus habeant com-
+munionem. Hi enim sunt adversarii et insidia-
+tores Ecclesiæ, corruptores gregis, hæreditatis con-
+taminatores, opinione sua sapientes, et omni ex
+parte improbi; de quibus sapiens Salomon aie-
+bat, quod cum impii sint, pietatem colere simu-
+lant. « Est enim, inquit, via, quæ videtur qui-
+busdam recta esse; extrema vero ejus spectant ad
+profundum inferni ⁵⁴, ⁵⁵. » Hi sunt, de quibus Dominus
+acerbe ac rigide pronuntiavit, dicens eos esse pseu-
+dochristos et falsos doctores ⁵⁶ ; qui spiritum gratiæ
+blasphemia affecerunt, ejusque donum post gratiam
+contempserunt ; quibus non remittetur neque in hoc
+sæculo, neque in futuro ⁵⁷ : qui magis irreligiosi
+sunt quam Judæi, et magis impii ac athei quam gen-
+tiles : qui Deum super omnia existentem maledi-
+ctis appetunt, et Filium ejus conculcant, et Spiritus
+doctrinam despuunt : qui divinos sermones negant,
+aut per simulationem recipere se profitentur, in con-
+tumeliam Dei, ac fraudem ad eos accedentium; qui
+sacras Scripturas contumeliose tractant, et justitia
+quid sit ignorant; qui Dei Ecclesiam devastant,
+sicut parvæ vulpes vineam ⁵⁸; quos ut fugiatis hor-
+tamur, ne animabus vestris laqueos injiciatis ⁵⁹. Nam
+« qui cum sapientibus graditur, sapiens erit; qui
+vero graditur cum insipientibus, agnoscetur ⁶⁰. »
+Neque enim oportet cum fure currere, neque cum
+adultero portionem ponere ⁶¹, quandoquidem et
+sanctus David ait ⁶² : « Domine, eos qui te oderunt,
+odio habui; et super inimicos tuos tabescebam, per-
+fecto odio oderam illos; inimici facti sunt mihi ⁶³. »
+Et Josaphato Deus exprobrat, ob amicitiam et com-
+militium cum Achabo et Ochozia, dicens per Jehum
+filium Hananis, prophetam : « Tune cum peccatore
+
+# block=1
+⁵⁴, ⁵⁵ Prov. XIV, 12. ⁵⁶ Matth. XXIV, 24. ⁵⁷ Matth. XII, 32. ⁵⁸ Cant. II, 15. ⁵⁹ I. Ignat. interpol.
+ad Philad. 3. ⁶⁰ Prov. XIII, 20. ⁶¹ Psal. XLIX, 18. ⁶² Laudatur ab Anastasio, quæst. 52. ⁶³ Psal.
+cxxxvIII, 21. ⁶⁴ Non habentur in Anast. ⁶⁵ al. Ἰωὴλ Anast. Ἠσαΐου.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=15
+(2) Λόγοις. Alter Vind. cod. λόγῳ, quod est per-
+inde. CLER.
+(3) Οὗτοι. In margine Vind. cod. ascriptum est :
+Τινές εἰσιν οἷς οὐκ ἀφεθήσεται, οὔτε ἐν τῷ νῦν, οὔτε
+ἐν τῷ μέλλοντι αἰῶνι. ID.
+
+# block=3
+proxime καὶ ἀλωπέκων· μερίδες γενόμενοι, quibus
+verbis non deceptores describuntur, sed decepti. ID.
+(6) Μὲν. Est in altero Vind. γάρ, non male tra-
+ditur hic ratio fugæ. ID.
+(7) Τήν. Deest in altero cod. Vindob., melius.
+Habet enim hic articulus vim quamdam δεικτικήν,
+cui nullus est hic locus; vult enim hic scriptor
+nullam societatem cum ejusmodi hominibus esse
+oportere. ID.
+
+# block=7
+(4) Ἑλλήνων ἀθεώτεροι. Hanc ob rationem ex
+B, Irenæo lib. II, cap. 9, quia ethnici primum divi-
+nitatis locum attribuunt Creatori; hæretici vero
+(majorem partem primarum hæreseon intellige)
+alium superiorem Deum comminiscuntur. Hæreticos
+gentibus esse pejores dubitat nemo. Primum, quia
+gentiles per ignorantiam Christum blasphemant, hære-
+tici autem scientes Christi laniant veritatem. Deinde,
+quia in illis vel spes [f. species] fidei est, in istis au-
+tem incessabilis pugna et discordia. Auctor Operis
+imperfecti in Matthæum, ad cap. XII, vers. 45. COT.
+Verba tamen hæc desunt in altero cod. Vindob.
+quæ sunt hyperbolica. CL.
+(5) Ἀμπελῶνα. Rectius ἀμπελῶνας. Sequitur
+
+# block=12
+(8) Ὅσιος. Alter Vind. θεῖος. ID.
+(9) Καὶ τῷ Ἰωσαφάτ, etc. Excuso hic et accuso
+catholicæ doctrinæ patrem. Excuso in nomine pro-
+phetæ ; quia arbitor positum fuisse primitus Ἰησοῦ
+Ἀνανί, sed id postea ob lectu difficilem aut com-
+pendiosam scripturam mutatum ab imperitis libra-
+riis in Ἰωνᾶ, Ἰωὴλ et Ἠσαΐου. Accuso autem quod
+prophetas et loca Scripturæ confuderit. COT.
+(10) Ἰωνᾶ. In ms. Vind. του, lineola imposita,
+pro Ἰησοῦ, Hebraice יְהוּא Jehou. CL.

@@ -1,0 +1,163 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,167,2021,919,2450
+2,954,1763,1710,2450
+3,955,155,1700,407
+4,170,279,920,2010
+5,986,2475,1461,2647
+6,953,417,1712,1753
+7,169,2477,916,2681
+8,171,154,919,278
+9,173,106,229,141
+10,748,97,1115,133
+11,1618,88,1708,142
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Verum ut ad rem propius accedamus, harum
+epistolarum auctorem fuisse Clementem Romanum,
+duplici argumentorum genere demonstrandum su-
+scipimus. Primum quidem petimus ab externis,
+sive antiquorum scriptorum testimoniis quibus
+illas fuisse a Clemente perscriptas astruitur, sive
+Patrum vetustissimorum operibus unde ab iisdem
+eas fuisse perlectas colligitur. Alterum vero, in-
+ternum scilicet, ex ipsis epistolis sumimus. In his
+autem argumentis digerendis Wetstenium potissi-
+
+# block=2
+Jam cætera prosequamur. Eliam, inquit, laudat
+Clemens. Et quidem his verbis (89) : Certe etiam
+Eliæ et Elisæ, et multorum aliorum sanctorum re-
+perimus conversationem fuisse sanctam et sine ma-
+cula. Tum vero, ait, Davidem commendat. Id quo-
+que sic præstitum a Clemente (90) : Nonne docet
+te illud Davidis, quem invenit Deus virum secun-
+dum cor suum, hominem fidelem, perfectum, san-
+ctum, verum? Deinde Samsonem extollit, subjungit
+Epiphanius. En Clementinum locum (91) : Non
+audivisti de Samsone Naziræo, cum quo fuit Spiri-
+tus Dei, viro forti? Is vir Naziræus fuit, et sanctus
+Dei, et fuit in fortitudine et robore. Denique, sub-
+dit, omnes prophetas laudibus effert. Scilicet in
+hanc sententiam (92) : Porro etiam Elisam et Ge-
+hasi et filios prophetarum reperimus habitasse in
+
+# block=3
+mum assectamur : ea tamen ratione, ut nonnulla
+utrobique a nobis in medium proferantur, Wetste-
+nio prætermissa; eaque in primis quæ ex harum
+epistolarum instituta collatione cum duabus reli-
+quis Corinthiacis, ad rem magis pertinere nobis
+visa sunt.
+
+# block=4
+XI. Jam vero disquirendum, num demum Cle-
+menti Romano utraque epistola jure sit adscriben-
+da. Eas enimvero velut sinceros Clementis fetus
+agnovit cl. editor, ac pro viribus eidem asserere
+aggressus est. Verum duos præ cæteris viros haud
+incelebres nactus est adversarios : alterum quidem
+Nathanaelem Lardnerum, qui anno 1753 disserta-
+tionem 70 paginarum in-8° Anglice Londini edidit;
+pluribusque in contrariam sententiam adductis, in
+eam tandem cogitationem devenit, has nimirum
+epistolas circa medium sæculi ɪɪɪ ab episcopo Ec-
+clesiæ orientalis fuisse perscriptas (84) : alterum
+vero Hermannum Venema, qui anno insequente
+1754, Harlingæ vulgatis tribus epistolis, VV. CC.
+Wesselingio, Hemsterhusio et Cannegietero inscri-
+ptis, easdem epistolas Clementinas supposititias
+esse omni studio contendit evincere : in iis enim in-
+ter alia Hieronymi stylum sibi suboluisse innuit (85);
+et quamvis de auctore ac tempore quo vixerit nihil
+definiat, eum tamen fuisse orientalem, non Roma-
+num, et Origene quoque posteriorem arguit (86).
+Utrique statim respondit Wetstenius, iterumque
+quas edidit epistolas, magis magisque Clementi Ro-
+mano vindicavit : Lardnero quidem in Diario litte-
+rario Gallice inscripto Bibliothèque raisonnée (87) :
+Venemæ autem, epistola eo ipso anno 1754 Amstæ-
+lodamensibus typis consignata, quam epistolæ Ve-
+nemianæ opposuit. Utinam vero duabus quoque
+reliquis respondere valuisset vir doctus! At lethali
+morbo decumbebat Wetstenius, dum primam exa-
+ravit epistolam v Kal. Martii 1754 menseque se-
+quente diem supremum obiit ɪx Kal. Aprilis, an-
+num agens ʟxɪ. Quæ vero hactenus recensui opu-
+scula, ea dono accepi ab eruditissimo Jacobo Kri-
+ghout; qui datis quoque humanissimis litteris una
+cum sermone funebri, quem ipsemet habuit in ob-
+itum laudati Wetstenii decessoris sui, munera mihi
+pergrata large cumulavit : quo nomine mihi tem-
+perare haud possum, quin V. C. comitatem adeo
+singularem quam maxime testatam faciam.
+
+# block=5
+(88) Epist. ad H. Venem., p. 24.
+(89) De virg. epist. 1, cap. 6.
+(90) Epist. 2, cap. 9.
+(91) Ibid., cap. 9.
+(92) Ibid., cap. 14.
+
+# block=6
+Testis itaque antiquior Epiphanius, qui ad-
+versus Ebionæos hæc habet (87') : Αὐτὸς Κλή-
+μης αὐτοὺς κατὰ πάντα ἐλέγχει ἀφ' ὧν ἔγραψεν
+ἐπιστολῶν ἐγκυκλίων, τῶν ἐν ταῖς ἁγίαις ἐκ-
+κλησίαις ἀναγινωσκομένων· ὅτι ἄλλον ἔχει χαρακ-
+τῆρα ἡ ἑαυτοῦ πίστις καὶ ὁ λόγος, παρὰ τὰ ὑπὸ τού-
+των εἰς ὄνομα αὐτοῦ ἐν ταῖς Περιόδοις νενοθευμένα.
+Αὐτὸς γὰρ παρθενίαν διδάσκει, καὶ αὐτοὶ οὐ δέχον-
+ται· αὐτὸς γὰρ ἐγκωμιάζει Ἠλίαν, καὶ Δαβίδ, καὶ
+Σαμψών, καὶ πάντας τοὺς προφήτας, οὓς οὗτοι βδε-
+λύττονται. Id est : « Clemens ipse omnibus illos
+(Ebionæos) modis redarguit iis epistolis circula-
+ribus, quæ in sacrosanctis ecclesiis leguntur ; ex
+quibus constat, longe ab iis quæ in Circuitibus il-
+lis (Petri) sub ejus nomine adulterina exstant,
+illius fidem ac sermonem abhorruisse. Etenim Vir-
+ginitatem ipse (Clemens) edocet ; et isti (Ebionæi)
+repudiant : ille Eliam, Davidem et Samsonem om-
+nesque prophetas commendat ; quos hi detestan-
+tur. » Quæ profecto Epiphaniana duabus hisce
+Clementinis epistolis mirum in modum congruere
+noscuntur. Primum itaque in iis, Epiphanio teste,
+S. Clemens virginitatem edocet : harum enim
+epistolarum pars minima, ut recte advertit Wetste-
+nius (88), in extollenda quidem virginitate versa-
+tur ; at longe maxima, imo tota epistola secunda,
+in virginibus officii admonendis occupatur, seu de
+virginitate pie ac rite servanda pertractat : ut
+propterea S. Pater in his epistolis virginitatem
+potius edocere, quam commendare, jure ab Epi-
+phanio dicatur.
+
+# block=7
+(84) Lardner, A dissertation upon the two Epistles
+ascribed to Clement of Rome, p. 37, 54, 57.
+(85) Epist. 2, § 27, p. 89.
+(86) Epist. 3, § 16 seqq., p. 129.
+(87) Tom. L, part. ɪɪ, art. 8, p. 363 et suiv.
+(87') Hær. xxx, § 15, Opp. tom. ɪ, p. 139.
+
+# block=8
+ctis, in primis autem sanctissimo Patri Pontifici
+Maximo nosmetipsos summopere obstrictos palam
+profitemur.
+
+# block=9
+109
+
+# block=10
+PROOEMIA VARIORUM.
+
+# block=11
+110

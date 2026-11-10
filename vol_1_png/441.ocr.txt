@@ -1,0 +1,212 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,970,1113,1722,1281
+2,967,2194,1731,2732
+3,172,1111,941,1284
+5,176,2146,930,2729
+6,174,158,937,981
+7,961,1693,1730,2199
+8,177,1315,1724,1386
+10,970,155,1733,972
+11,174,1621,942,2151
+12,800,1427,1102,1465
+13,173,1487,945,1625
+14,696,92,1182,142
+15,964,1488,1729,1693
+16,407,1069,690,1106
+17,1217,1069,1486,1107
+18,163,98,261,142
+19,1649,98,1729,144
+20,171,988,1741,1064
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=16px
+# block=19 fontSize=16px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+EPISTOLA I AD CORINTHIOS.
+
+# block=18
+281
+
+# block=19
+282
+
+# block=10
+nostrarum, infirmitatis nostræ patronum et auxilia-
+torem ³⁸, ³⁹. Per hunc cœlorum altitudinem aspicimus,
+per hunc immaculatum et supremum illius vultum
+speculamur, per hunc oculi cordis nostri aperti
+sunt, per hunc insipiens et obscurata mens nostra
+in admirabilem ejus lucem assurgit, per hunc vo-
+luit Dominus ut immortalem cognitionem gustare-
+mus: qui cum sit splendor majestatis ejus, tanto
+major est angelis, quanto excellentius nomen hæredi-
+tavit ⁴⁰. Ita quippe scriptum est : Qui facit angelos
+suos spiritus, et ministros suos flammam ignis ⁴¹.
+De Filio autem suo sic dixit Dominus : Filius meus
+es tu; ego hodie genui te. Postula a me, et dabo tibi
+gentes hæreditatem tuam, et possessionem tuam ter-
+minos terræ ⁴². Et iterum dicit ad eum : Sede a
+dextris meis, donec ponam inimicos tuos scabellum
+pedum tuorum ⁴³. Quinam igitur sunt inimici Do-
+mini? Qui pravi sunt, quique divinæ voluntati suam
+voluntatem opponunt.
+
+# block=6
+ἡμῶν, τὸν προστάτην καὶ βοηδὸν τῆς ἀσθενείας
+ἡμῶν. Διὰ τούτου ἀτενίσωμεν (43) εἰς τὰ ὕψη τῶν
+οὐρανῶν • διὰ τούτου ἐνοπτριζόμεθα τὴν ἄμωμον καὶ
+ὑπερτάτην ὄψιν αὐτοῦ• διὰ τούτου ἠνεῴχθησαν ἡ-
+μῶν οἱ ὀφθαλμοὶ τῆς καρδίας• διὰ τούτου ἡ ἀσύν-
+ετος καὶ ἐσκοτωμένη διάνοια ἡμῶν ἀναθάλλει εἰς τὸ
+θαυμαστὸν αὐτοῦ φῶς (44)• διὰ τούτου ἠθέλησεν ὁ
+Δεσπότης τῆς ἀθανάτου γνώσεως ἡμᾶς γεύσασθαι• ὃς
+ὢν ἀπαύγασμα (45) τῆς μεγαλωσύνης αὐτοῦ, τοσού-
+τω μείζων ἐστὶν ἀγγέλων, ὅσῳ διαφορώτερον ὄνο-
+μα κεκληρονόμηκεν. Γέγραπται γὰρ οὕτως• 'O
+ποιῶν τοὺς ἀγγέλους αὐτοῦ πνεύματα, καὶ τοὺς
+λειτουργοὺς αὐτοῦ πυρὸς φλόγα. Ἐπὶ δὲ τῷ υἱῷ
+αὐτοῦ οὕτως εἶπεν ὁ Δεσπότης • Υἱός μου εἶ σύ, ἐγὼ
+σήμερον γεγέννηκά σε• αἴτησαι παρ' ἐμοῦ καὶ
+δώσω σοι ἔθνη τὴν κληρονομίαν σου, κ[αὶ τὴν
+κατά]σχεσίν σου τὰ πέρατα τ[ῆς γῆς]. Καὶ πάλιν
+λέγει πρὸς αὐ[τόν• Κάθου] ἐκ δεξιῶν μου, ἕως
+ἂν[θῶ τοὺς] ἐχθρούς σου ὑποπόδιο[ν τῶν πο]δῶν
+
+# block=20
+σου. Τίνες οὖν οἱ [ἐχθροὶ Κυρίου (46)]; Οἱ φαῦλοι καὶ ἀντιτασσ[όμενοι] (47) τῷ θελήματι τῷ θελημα...
+Θεοῦ. -
+
+# block=16
+ΚΕΦΑΛΑΙΟΝ ΛΖ′.
+
+# block=17
+CAPUT XXXVII.
+
+# block=3
+Στρατευσώμεθα οὖν, ἄν[δρες ἀδελ]φοῖ, μετὰ πάσης
+ἐκτενεί[ας ἐν τοῖς] ἀμώμοις προστάγμασιν [αὐτοῦ.]
+Κατανοήσωμεν τοὺς στρατ[ευο]μένους τοῖς ἡγουμέ-
+νοις ἡ[μῶν] (48), πῶς εὐτάκτως, πῶς εὐεκτι[κῶς] (49),
+
+# block=1
+Militemus igitur, viri fratres, omnibus viribus in
+inculpatis ejus præceptis. Consideremus eos qui
+sub ducibus nostris merent, quemadmodum ordi-
+nate, quam strenue, quo modo submasse imperata
+
+# block=8
+³⁸⁻³⁹ Photius, c. ᴄxxvɪ Bibliothecæ. ⁴⁰ Sap. vɪɪ, 26; Hebr. ɪ, 3, 4. ⁴¹ Psal. cɪɪɪ, 4; Hebr. ɪ, 7. ⁴² Psal. ɪɪ,
+7, 8; Hebr. ɪ, 5. ⁴³ Psal. cɪx, 1; Hebr. ɪ, 13.
+
+# block=12
+VARIORUM NOTÆ.
+
+# block=13
+(45) ‘Aτενίσωμεν. Ita sane ms. ut habent editi : C
+sed legendum, ἀτενίζομεν. Mox enim idem ms. ex-
+hibet, ἐνοπτριζόμεθα, ubi editi præ se ferunt, ἐν-
+οπτρισώμεθα. Woll. GALL.
+
+# block=15
+λήματι [τοῦ] Θεοῦ. Aliter Dav. Miratur Birr. *codicem
+hic deservuisse Wottonum. Hunc itaque locum ita
+ipse restituit : ‘Αντιτασσ[όμενοι] τῷ θελήματι [αὐτῶν],
+vel ἀντιτασσ[όμενοι αὐτῶν] τῷ θελήματι τῷ θελή-
+μα[τι τοῦ] Θεοῦ. Nimirum conjicit, αὐτῶν brevi no-
+ta scriptum, ibi fuisse a librario prætermissum. Id.
+
+# block=11
+(44) Διὰ τούτου... ἀναθάλλει. Hæc recitat Clem.
+Alex. Στρωμ. lib. Iv, cap. 16, p. 613, ubi Cl. Pot-
+ter. vocem ἀναθάλλει contra Jun. eam sollicitantem
+erudite tuetur. In eamdem sententiam præiverant
+Bois. et Fell. quibus exinde accessit Wott. Sic
+psal. xxvII, 7 : Καὶ ἀνέθαλεν ἡ σάρξ μου. Sic et Phi-
+lipp. IV, 10 : ‘Ἐχάρην δὲ ἐν Κυρίῳ μεγάλως, ὅτι ἤδη
+ποτὲ ἀνεθάλετε τὸ ὑπὲρ ἐμοῦ φρονεῖν. Videsis Svi-
+cer. in Thes. Eccl., v. ‘Aναθάλλω. Ceterum videtur
+S. Pater respexisse ad Rom. 1, 21 et I Petr. II, 9.
+ID. — Forte ἀναθρεῖ vel ἀναθεωρεῖ, i. e. diligenter
+et attente contemplatur : vel potius integer locus
+sic legendus est : Διὰ τοῦτο ἐν τῇ ἀσυνέτῳ καὶ ἐσκο-
+τισμένῃ διανοίᾳ ἡμῶν, ἀνατέλλει τὸ θαυμαστὸν αὐ-
+τοῦ φῶς, ubi phrasi Paulina ad Rom. I, 21 : Διά-
+νοιαν ἀσύνετον et ἐσκοτισμένην vocat. JUN.
+
+# block=7
+(48) Ἡγουμένοις ἡμῶν. Fell. mallet αὐτῶν : alie-
+num putans a sanctis Ecclesiæ Patribus, ut tribu-
+nos militares, duces suos appellant. Birr. locum in-
+terpretatus de impp. Rom. sic reddit : Militantes
+principibus seu ducibus nostris. Equidem S. Clemens
+supra cap. 5, eandem vocem usurpat, ἐπὶ τῶν
+ἡγουμένων, ubi Cot. vertit sub principibus, al. sub
+imperatoribus, nimirum, explicante Salmasio, sub
+Nerone. ID. — Legerem αὐτῶν, plus enim SS. Ec-
+clesiæ Patres a bello abhorrebant, quam ut tribu-
+nos militares, duces suos appellare sustinerent.
+Eo autem fidentius conjecturam interpono, quia
+vox ἡμῶν per lacunam in exemplari desiderata, ex
+conjectura quæ omnibus ex æquo patet, primitus a
+Junio restituebatur. FELL.
+
+# block=5
+(45) Ὃς ὢν ἀπαύγασμα. Hæc ex Epistola ad
+Hebræos, et capite primo, eisdem fere verbis de-
+prompta sunt, unde, et ex aliis locis, ὁμοιότης τοῦ
+χαρακτῆρος τῆς φράσεως, καὶ τῶν νοημάτων, ut lo-
+quitur Eusebius, inter hanc Clementis, et Episto-
+lam ad Hebræos, facile liquet. ID.
+(46) ᤘχθροὶ Κυρίου. Jun. cum editis, αὐτοῦ pro
+Κυρίου. Duas ad summum litteras admittere hia-
+tum ms. testis est Wott. qui proinde putat in eo
+exstitisse Kʅ, id est Κυρίου : sic enim vox ista ibi-
+dem perpetuo scribitur. GALL.
+(47) ᤙντιτασσόμενοι, κ. τ. λ. Editi sic : ἀν-
+τιτασσ[όμενοι τοῦ Θεοῦ] τῷ θελήματι τὸ θέλημα [ἴδιον],
+contra fidem cod. ms. qui sic se habet : ANTITAE̲̲̲...
+Τῲ ΘΕΛΗΜΑΤΙ Τῲ ΘΕΛΗΜΑ... ΘῩ. Hinc Wott. al-
+terum τῷ θελήματι removens, utpote librarii osci-
+tantia redundans, sic legit : ἀντιτασσ[όμενοι] τῷ θι-
+
+# block=2
+(49) Πῶς εὐεκτικῶς. Hanc lectionem tuetur
+Fell. redditque, quam strenue, alacriter, impigre.
+Malunt al. εὐείκτως, quam obsequenter. Berr. tamen
+propius ad ms. accedens, una litterula inserta,
+leg. εὐεικτικῶς; vel si mavis, εὐεκθύμως, perprom-
+pte, peralacriter. GALL. — Πῶς εὐεκτικῶς. Quam
+strenue, alacriter, impigre? Mavult quidem Junius
+ut εὐέκτως legatar; sed minime necesse est quid-
+quam mutare, etenim a Platone Delegg. εὐεκτικοὶ
+ad militiam requiruntur. Quinimo integri ætate et
+viribus ubique gentium in milites ascripti, qui
+בַּחוּרִים, παῖδες, νεανίαι, pubes passim dicti; ideo-
+que vigente disciplina, Pancratiastarum more, ad
+εὐεξίαν, sive ἀκρότητα τῆς ὑγείας exercebantur;
+unde B. Paulus 1 Tim. II, 4, mandat : Κακοπάθησον
+ὡς καλὸς στρατιώτης. FELL.

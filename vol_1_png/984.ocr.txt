@@ -1,0 +1,179 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,982,2485,1755,2697
+2,980,1131,1731,1922
+3,205,2305,960,2704
+4,194,1532,953,2305
+5,198,748,949,1520
+6,984,393,1746,1129
+7,985,1926,1743,2477
+8,182,145,954,740
+9,985,146,1743,394
+10,583,84,1302,122
+15,202,90,276,122
+19,1655,90,1741,123
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=15 fontSize=16px
+# block=19 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=15
+1367
+
+# block=19
+1368
+
+# block=8
+et Faustus. Sed et ab initio cum narrare cœpisti ,
+statim in suspicionem incidimus, ne forte ad nos
+pertinerent quæ dicebantur; rursus tamen consi-
+derantes multa similia accidere in vita hominum,
+reticuimus, licet cor nostrum spe aliqua pulsaretur.
+Aspiciebamus ergo ad finem sermonis, ut, si ad in-
+tegrum de nobis esse constaret, tum fateremur. Et
+cum hæc dixissent , lacrymantes ingrediebantur ad
+matrem. Quam cum reperissent quiescentem et
+complecti vellent, prohibuit Petrus dicens : Sinite
+me prius præparare animos matris et ita vos offerre
+ei, ne forte multo et subito gaudio mente excidat
+et sensus ejus turbetur , maxime quia nunc etiam
+somno occupata stupet.
+
+# block=9
+poterunt et una tecum etiam nos audiemus. Ubi
+hæc Petrus dixit, mater nimio gaudio intercepta
+corruit, et tandem aliquando reparata atque in se-
+metipsam regressa , ait : Obsecro vos, dulcissimi
+filii, dicite mihi, quæ acciderint vobis post illam
+feralem et crudelissimam noctem.
+
+# block=6
+XXXII. Tum Niceta cœpit dicere : In illa nocte,
+o mater, cum navis fuisset resoluta et nos inniten-
+tes fragmento cuidam tabularum per pelagus jacta-
+remur, viri quidam quibus per profundum latroci-
+nari artificium est, repertos imposuerunt nos
+naviculæ suæ, et remis undarum vortices superan-
+tes, diversis itineribus Cæsaream Stratonis per-
+duxerunt, ibique affligentes nos fame, verberibus,
+metu, uti ne quod esset in vero proderemus, im-
+mutatis etiam nominibus nostris vendiderunt nos
+cuidam viduæ, honestæ admodum feminæ, Justæ
+nomine; quæ cum emisset, habuit loco filiorum,
+ita ut etiam Græcis nos litteris et liberalibus atten-
+tissime erudiret. Ubi vero adolevimus, etiam philo-
+sophorum studiis operam dedimus, quo possemus
+religionis divinæ dogmata philosophicis disputatio-
+nibus asserentes confutare gentiles.
+
+# block=5
+XXIX. Igitur ubi mater exsurrexit e somno,
+alloqui eam Petrus cœpit dicens : Scire te volo,
+mulier, religionis nostræ observantiam. Nos unum
+colimus Deum qui fecit mundum, hujus et legem
+servamus, qua mandat in primis ipsum colendum
+et nomen ejus venerandum, parentes honorandos,
+pudicitiam justitiamque servandam. Sed et illud
+observamus, mensam cum gentilibus non habere
+communem, nisi cum crediderint et recepta veri-
+tate baptizati fuerint, ac trina quadam beati nomi-
+nis invocatione consecrati, et tunc cum eis cibum
+sumimus. Alioquin etiam si pater aut mater sint,
+aut uxor aut filii aut fratres, non possumus cum
+eis mensam habere communem. Quia ergo religio-
+nis causa præcipua hoc facimus, non tibi injurio-
+sum videatur, quod non potest filius tuus una te-
+quum sumere cibum, usquequo eadem tibi sit quæ
+illi sententia fidei.
+
+# block=2
+XXXIII. Simoni autem cuidam mago qui nobis-
+cum una educatus est, pro amicitiis et puerili con-
+suetudine adhæsimus, ita ut pene ab eo decipi
+possemus. Fertur enim in religione nostra sermo de
+propheta quodam, cujus ab omnibus qui religioni
+huic deserviunt speraretur adventus, per quem im-
+mortalis et beata vita credentibus danda promitti-
+tur. Hunc ergo nos putabamus esse Simonem. Sed
+hæc tibi, mater, opportunius exponentur. Nos inte-
+rim cum pene jam deciperemur a Simone, quidam
+collega domini mei Petri, Zacchæus nomine, monuit
+ne falleremur a mago, sed obtulit nos advenienti
+Petro ut ab ipso quæ erant sana et perfecta doce-
+remur; quod et tibi optamus evenire, sicut et nobis
+concessit Deus, ut possimus etiam cibum et mensam
+habere communem. Hinc ergo fuit, mater, quod
+nos a piratis raptos, tu in mari defunctos esse cre-
+didisti.
+
+# block=4
+XXX. Quibus illa auditis, Et quid, inquit, vetat
+hodie me baptizari? quæ etiam priusquam te vide-
+rem, illos quos dicunt deos penitus aversata sum,
+quod mihi frequenter et pene quotidie sacrificanti
+sibi præstare potuerunt nihil. Nam de pudicitia
+quid dicam? cum me neque tunc deliciæ deceperint,
+neque nunc egestas peccare compulerit. Satis au-
+tem puto innotuisse tibi, quantus mihi exinde fue-
+rit amor pudicitiæ, quæ ut evaderem illiciti amoris
+insidias somnium finxi, ut cum duobus meis gemi-
+nis peregrinarer, et hunc solum filium meum Cle-
+mentem ad solatium patri reliqui. Si enim mihi
+duo vix sufficiebant, quanto magis contristasset
+patrem, si nullum penitus habuisset? Erat enim
+miser grandi affectu erga filios, ita ut vix ei somnii
+auctoritas extorqueret, Faustinum et Faustum Cle-
+mentis hujus fratres mihi concedere, et ipse solo
+contentus esset Clemente.
+
+# block=7
+XXXIV. Cum hæc dixisset Niceta , mater nostra
+procidit ad pedes Petri , rogans et obsecrans, ut et
+seipsam et hospitam suam evocaret sine mora ac
+baptizaret, uti ne una , inquit , die damnum patiar
+consortii et societatis natorum meorum. Similiter
+autem et nos filii ejus rogabamus Petrum. At ille :
+Quid putatis , inquit, quia ego immisericors sum
+solus, et nolo vos matris convivio sociari? Sed ne-
+cesse est eam vel una die jejunare prius et ita ba-
+ptizari, et hoc quia sermonem ab ea quemdam au
+divi, per quem mihi fides ejus claruit et qui
+indicium dedit credulitatis ejus, aliquoi multis eam
+diebus oportebat ante instrui et doceri.
+
+# block=3
+XXXI. Hæc illa cum diceret, ultra non ferentes
+fratres mei irruunt in complexus matris cum multis
+lacrymis, et osculantur eam. At illa : Quid vult, in-
+quit, hoc esse? Tum Petrus : Nolo turberis, mulier,
+constans esto; isti sunt Faustinus et Faustus filii
+tui quos in profundo perisse dicebas; quomodo au-
+tem vivant et quomodo in illa horribili nocte de
+profundo evaserint, et quemadmodum alius ipsorum
+Niceta et alius Aquila dicatur, ipsi tibi exponere
+
+# block=1
+XXXV. Et ego : Quæso te, inquam, domine mi
+Petre, dic quis est iste sermo quem dicis dedisse
+tibi indicium fidei ejus? Et Petrus : Ille sermo est
+quo rogavit, ut et hospita sua cujus beneficiis vi-
+cem reddere desiderat, simul baptizetur cum ipsa.

@@ -1,0 +1,197 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,944,623,1719,829
+2,158,651,915,884
+4,959,846,1713,919
+5,950,349,1711,453
+6,198,888,907,953
+7,156,461,906,572
+9,155,144,906,273
+10,171,2572,1715,2662
+11,584,89,1269,127
+12,155,1123,921,2486
+14,947,462,1711,616
+17,953,1124,1739,2487
+18,1642,71,1700,123
+19,191,585,911,652
+21,155,350,913,455
+23,1138,1053,1522,1092
+26,794,2519,1095,2555
+27,764,287,1063,320
+33,205,1058,872,1100
+38,155,83,208,132
+39,949,140,1695,252
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=21 fontSize=15px
+# block=23 fontSize=15px
+# block=26 fontSize=15px
+# block=27 fontSize=15px
+# block=33 fontSize=15px
+# block=38 fontSize=15px
+# block=39 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=18
+806
+
+# block=38
+805
+
+# block=11
+CONSTITUTIONES APOSTOLICÆ.—LIB. IV.
+
+# block=39
+episcopo, ac presbyteris ; hoc est, ministerium seu
+diaconatum exerceat ; sed non peragat cætera.
+
+# block=9
+διάκονον ἐξυπηρετεῖσθαι τῷ ἐπισκόπῳ καὶ τοῖς πρε-
+σβυτέροις· τουτέστι, διακονεῖν· οὐ μὴν καὶ τὰ λοιπὰ
+διενεργεῖν (15).
+
+# block=27
+VARIORUM NOTÆ.
+
+# block=5
+τιμίοις [al. εἰς τοὺς μικροὺς κανόνας]· Ἔστω ἀπὸ
+εὐλογίας κατὰ τὴν ἀναλογίαν τοῦ σφάλματος, τί
+ἐστιν ;
+
+# block=21
+ad interrogationes quorumdam monachorum, apud
+Balsamonem, pag. 232.
+Quæstio IX.
+
+# block=7
+Quod dicit S. Basilius in parvis pœnis : Sit a be-
+dictione alienus pro lapsus proportione ; quid est ?
+Responsio.
+
+# block=14
+Ἀπόκρισις.
+Τὸ ἀποστερηθῆναί τινα τῆς διδομένης εὐλογίας [al.
+προσφορᾶς] ἐν τῇ ἐκκλησίᾳ.
+Ἑρμηνεία.
+
+# block=19
+Privari aliquem benedictione, quæ datur in ecclesia.
+Scholium Balsamonis.
+
+# block=1
+Ἐκκλησιαστικαὶ εὐλογίαι εἰσὶ, τὰ παρὰ τῶν ἐπι-
+σκόπων καὶ τῶν ἱερέων ἐπ᾿ ἐκκλησίας γινόμενα, ἢ
+διδόμενα πάντα εἰς εὐχὴν καὶ στηριγμὸν τοῦ κοι-
+νοῦ [al. πιστοῦ] λαοῦ. Ἕκαστος γοῦν κατ᾿ ἀναλογίαν
+τοῦ οἰκείου σφάλματος, στερηθῇ τῆς ἐκκλησιαστι-
+κῆς εὐλογίας. Cot.
+
+# block=2
+Benedictiones ecclesiasticæ sunt omnia quæ fiunt,
+vel dantur ab episcopis vel sacerdotibus in ecclesiis,
+ad preces et stabilimentum fidelis populi. Unusquis-
+que ergo pro sui lapsus proportione, ecclesiastica be-
+nedictione privetur. Græca represento ex mss. plu-
+ribus Christianissimi regis, et uno viri clarissimi
+Claudii Jolii.
+
+# block=4
+(15) Ad calcem additum est, in altero codice
+Vindobon. : Περὶ χηρῶν ἐπληρώθη βιβλίον γ΄.
+
+# block=6
+Ἐρώτησις.
+Ὅπερ λέγει ὁ ἅγιος Βασίλειος ἐν τοῖς μικροῖς ἐπι-
+
+# block=23
+CAPITA LIBRI QUARTI.
+
+# block=33
+ΚΕΦΑΛΑΙΑ ΤΟΥ ΤΕΤΑΡΤΟΥ ΒΙΒΛΙΟΥ (16).
+
+# block=12
+β΄. Ὅπως χρὴ τὸν ἐπίσκοπον προνοεῖν τῶν ὀρφα-
+νῶν.
+γ΄. Τίνες ὀφείλουσιν ἐπικουρεῖσθαι, κατὰ τὴν Κυ-
+ριακὴν διαταγήν.
+δ΄. Περὶ φιλαργυρίας.
+ε΄. Μετὰ ποίου φόβου χρὴ τῶν Κυριακῶν μετέχειν
+συνεισφορῶν.
+ϛ΄. Τίνων αἱ καρποφορίαι δεκταὶ, καὶ τίνων ἄδε-
+κτοι.
+ζ΄. Ὅτι αἱ τῶν ἀναξίων καρποφορίαι, ἕως ἂν
+ὦσι τοιοῦτοι, οὐ μόνον οὐκ ἐξιλεοῦνται τὸν Θεὸν,
+ἀλλ᾿ ἐκ τῶν ἐναντίων κινοῦσιν αὐτὸν πρὸς ἀγαν-
+άκτησιν.
+η΄. Ὅτι βέλτιον ἐκ κόπου ἰδίου παρέχειν ταῖς
+χήραις, κἂν ᾖ εὐτελῆ καὶ ὀλίγα, ἢ τὰ παρὰ τῶν
+ἀσεβῶν, κἂν πολλὰ καὶ μεγάλα τυγχάνῃ· βέλτιον
+γὰρ λιμῷ διαφθαρῆναι, ἢ παρὰ ἀσεβῶν συνεισ-
+φορὰν δέξασθαι.
+θ΄. Ὅτι χρὴ προτρέπεσθαι τὸν λαὸν ὑπὸ τοῦ
+ἱερέως εὐποιεῖν τοὺς πένητας· ὡς καὶ ὁ Σο-
+λομὼν ὁ σοφός.
+ι΄. Διάταξις, ἵν᾿ ἐάν τις τῶν ἀσεβῶν, βίᾳ προσρί-
+ψῃ χρήματα τοῖς ἱερεῦσιν, εἰς ξύλα καὶ ἀνθρά-
+κιὰν ἀναλώσωσι ταῦτα, ἀλλὰ μὴ εἰς διατρο-
+φάς.
+ια΄. Περὶ γονέων, καὶ παίδων.
+ιβ΄. Περὶ οἰκετῶν καὶ δεσποτῶν.
+ιγ΄. Ἐν τίσιν ὑποτάσσεσθαι χρὴ τοῖς κοσμικοῖς
+ἄρχουσιν.
+ιδ΄. Περὶ παρθένων.
+
+# block=17
+II. Quomodo episcopus debeat pupillis providere.
+III. Quinam adjuvandi sint, secundum constitutionem
+Dominicam.
+IV. De avaritia.
+V. Cum quanto timore oporteat collationes Domini-
+cas sumere.
+VI. Quorum oblationes recipiendæ et quorum reji-
+ciendæ.
+VII. Quod indignorum hominum oblationes , quan-
+diu ii tales sunt, non modo non placant Deum, sed
+contra ad indignationem eum provocant.
+VIII. Quod præstet ex proprio labore præbere vi-
+duis, quamvis exilia et pauca sint, quam ex donis
+impiorum, etsi multa et magna exsistant; fame
+enim perire præstat, quam ab impiis collationem
+accipere.
+IX. Quod oporteat provocari populum a sacerdote ad
+benefaciendum pauperibus, exemplo sapientis Sa-
+lomonis.
+X. Constitutio, ut si quis impius, vi pecuniam sacer-
+dotibus projecerit, in ligna et carbones eam insu-
+mant, non autem in escas.
+XI. De parentibus, et filiis.
+XII. De famulis et dominis.
+XIII. In quibus oporteat subjici sæcularibus princi-
+pibus.
+XIV. De virginibus.
+
+# block=26
+VARIORUM NOTÆ.
+
+# block=10
+(16) In altero cod. est : Βιβλίον δ΄, ἐν ᾧ περὶ ὀρφανῶν καὶ ὅπως χρὴ τὸν ἐπίσκοπον προνοεῖν τῶν
+τοιούτων.

@@ -1,0 +1,225 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,287,1866,1046,2265
+2,1074,2458,1828,2731
+3,287,1768,1039,1869
+4,297,2493,1046,2730
+5,273,1033,1020,1111
+6,294,2259,1046,2494
+10,1062,1028,1811,1113
+11,896,1210,1201,1245
+12,674,100,1447,144
+14,277,1140,810,1180
+15,276,103,335,142
+16,1072,1998,1827,2464
+17,1275,983,1585,1027
+18,1052,163,1824,899
+19,259,157,1023,892
+20,1065,1267,1822,2004
+21,280,1267,1041,1769
+22,1731,110,1801,148
+23,259,902,1821,986
+24,511,990,783,1030
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=16px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=15
+279
+
+# block=22
+280
+
+# block=19
+inanem gloriam atque amorem vanitatis. Qui enim
+ista faciunt, odiosi Deo sunt : neque solum qui ea
+faciunt, sed etiam qui consentiunt illis ³⁶. Dicit enim
+Scriptura : Peccatori autem dixit Deus : Quare tu
+enarras justitias meas, et assumis testamentum meum
+per os tuum? Tu vero odisti disciplinam, et proje-
+cisti sermones meos retrorsum. Si videbas furem,
+currebas cum eo : et cum adulteris portionem tuam
+ponebas. Os tuum abundavit malitia; et lingua tua
+concinnabat dolum. Sedens adversus fratrem tuum
+loquebaris, et adversus filium matris tuæ ponebas
+scandalum. Hæc fecisti, et tacui; existimasti, inique,
+quod ero tibi similis. Arguam te, et statuam te con-
+tra faciem tuam. Intelligite utique hæc, qui oblivisci-
+mini Deum; ne quando rapiat sicut leo, et non sit
+non sit
+qui eripiat. Sacrificium laudis honorificabit me;
+et illic iter quo ostendam illi salutare Dei ³⁷.
+
+# block=18
+ξίαν (32) τε καὶ φιλοξενίαν (33). Ταῦτα γὰρ οἱ πράσ-
+σοντες (34) στυγητοὶ τῷ Θεῷ ὑπάρχουσιν· οὐ μό-
+νὸν (35) δὲ οἱ πράσσουσιν αὐτὰ, ἀλλὰ καὶ οἱ συν-
+ευδοκοῦντες αὐτοῖς. Λέγει γὰρ ἡ Γραφή· Τῷ δὲ
+ἁμαρτῷλῷ εἶπεν ὁ Θεός· Ἵνα τί σὺ διηγῇ τὰ δι-
+καιώματά μου, καὶ ἀναλαμβάνεις τὴν διαθήκην
+μου ἐπὶ στόματός σου; Σὺ δὲ ἐμίσησας παιδείαν,
+καὶ ἐξέβαλλες (36) τοὺς λόγους μου εἰς τὰ ὀπίσω.
+Εἰ ἐθεώρεις κλέπτην, συνέτρεχες (37) αὐτῷ, καὶ
+μετὰ μοιχῶν τὴν μερίδα σου ἐτίθεις. Τὸ στόμα
+σου ἐπλεόνασε κακίαν, καὶ ἡ γλῶσσά σου περιέ-
+πλεκεν δολιότητα (38). Καθήμενος κατὰ τοῦ
+ἀδελφοῦ σου κατελάλεις, καὶ κατὰ τοῦ υἱοῦ τῆς,
+μητρός σου ἐτίθεις σκάνδαλον. Ταῦτα ἐποίησας,
+καὶ ἐσίγησα· ὑπέλαβες, ἄνομε (39), ὅτι ἔσομαί
+σοι ὅμοιος. Ἐλέγξω σε, καὶ παραστήσω σε κατὰ
+πρόσωπόν σου (40). Σύνετε δὴ ταῦτα οἱ ἐπιλαν-
+
+# block=23
+θανάμενοι τοῦ Θεοῦ, μή ποτε ἁρπάσῃ ὡς λέων (41), καὶ μή ᾖ ὁ ῥυόμενος. Θυσία αινέσεως δοξάσει
+με, καὶ ἐκεῖ ὁδὸς ἥν δείξω αὐτῷ τὸ σωτήριον τοῦ Θεοῦ (42).
+
+# block=17
+ΚΕΦΑΛΑΙΟΝ ΛϚ′.
+
+# block=24
+CAPUT XXXVI.
+
+# block=10
+Aὕτη ἡ ὁδὸς, ἀγαπητοὶ, ἐν ᾗ εὕρομεν τὸ σωτήριον
+ἡμῶν Ἰησοῦν Χριστὸν, τὸν ἀρχιερέα τῶν προσφορῶν
+
+# block=5
+Hæc est via, charissimi, in qua salutare nostrum
+invenimus, Jesum Christum, pontificem oblationum
+
+# block=14
+³⁶ Rom. 1, 32. ³⁷ Psal. XLIX, 16-23.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=21
+(32) Κενοδοξίαν. Conjicit Birr. S. Patrem scri-
+psisse καινοδοξίαν, et novarum opinionum studium
+notare voluisse. Conjecturam confirmat ex eo, quod
+in ms. codice, teste Wottono, sæpissime occurrat ε
+pro αι, positum. Sic cap. superiore legitur προτρέ-
+πετε pro προτρέπεται. Sic alibi passim. GALL.
+(33) Φιλοξενίαν. Mendosa lectio ex contextu. Al.
+ergo sic restituunt, φιλοτιμίαν. Al. φιλοκενίαν. Al.
+ἀφιλοξενίαν; idque astruunt ex Rom. 1, 31, quo re-
+spexisse S. Patrem censent, et apostoli vocem ἀνε-
+λεήμονας fuisse interpretatum, ἀφιλοξένους. At Birr.
+ἀφιλοξενίαν respuens tanquam vocabulum omnino
+adhuc novum, legendum esse φιλοδοξίαν contendit.
+Habet tamen ἀφιλοξενεῖν Cyrillus Alex. apud Svi-
+cerum in Thes. ID.
+
+# block=20
+hoc textu ita sentio. Scripserant LXX Senes, παρα-
+στήσω κατὰ πρόσωπόν σου. Id vero cum obscurum
+videretur, ex præcedentibus Psalmista verbis, ex-
+plicationis gratia, apposuit margini alius pronomen
+σέ, alius voces τὰς ἁμαρτίας σου. Hincque postea
+librarii, prout libuit, aut exscripserunt sincerum
+textum, aut σέ, te, inseruerunt, aut subjunxerunt
+τὰς ἁμαρτίας σου, peccata tua. Clementinam lectio-
+nem amplectitur Glossa in Catena aurea super Psal-
+mos ; et Apollinarius citatus a concinnatore alterius
+Catenæ aureæ in 1. priores psalmos, ubi præpostero
+ordine leges : Arguam te, et statuam contra te fa-
+ciem tuam. Item Eligius homil. 8. Eamdem exhibet
+ac interpretatur S. Augustinus enarratione in psal-
+mum hunc quadragesimum nonum. Cujus inter-
+pretatio excerpta invenitur in iis cominentariis,
+quæ Rufino Aquileiensi tribui solent. A Fausto
+apud Canisium, t. V, p. 11, p. 421, citatur sic : Ar-
+guam te et statuam illam (scribo illa) ante faciem
+tuam. Videto eumdem Basilium in ps. xxxvii. Se-
+deat quotidie in tribunali mentis suæ, et statual se
+ante faciem suam, ex Reg. solitariorum, c. 24. Cor.
+
+# block=3
+(34) Ταῦτα γὰρ οἱ πράσσουσιν. Hæc αὐτολεξεὶ fere
+apud Paulum ad Romanos capite primo, et versu
+ultimo. JUN.
+
+# block=1
+(35) Οὐ μόνον, κ. τ. λ. Hinc arguit Mill. tum in
+Prolegom. ad N. Test., numm. 147, 447, tum ad
+ultimum comma, 1 c.. Ep. ad Rom. sic legisse S. Pa-
+trem nostrum Rom. 1, 32 : Οὐ μόνον δὲ οἱ ποιοῦντες,
+ἀλλὰ καὶ οἱ συνευδοκοῦντες τοῖς πράσσουσιν, ut qui-
+dem legit Vulg. Interpres. Millio adhærent Wott.
+ad h. l. et Welst. in sua Nov. Test. Gr. edit. ad
+Rom. 1, 32. His nuper accessit vir doctus Goldha-
+genius e Soc. J. in Spicil. apolog. ad noviss. edit.
+cathol. Nov. Test. Gr. Huic tamen sententiæ adver-
+satur Whitbyus in Exam. Var. Lect. lib. 11, cap. 1,
+sect. 1, n. 16. GALL.
+
+# block=16
+(41) Ὡς λέων. Antiquissimum, ut vides, glossema
+huc translatum ex altero psalmo, nempe VII, 2. Ex-
+stat quoque apud B. Augustinum : comparetque ad-
+huc vestigium illius in Explanationibus Chrysostomi,
+Theodoriti atque Arnobii. Quod autem ab horum
+textu abest, profectum videtur ex solemni seu in-
+curia, seu fraude descrubentium, dum aut ex me-
+moria non ex codice exarant, aut gestiunt repræ-
+sentare lectionem suo sæculo vulgatam. Atque pro-
+pter hoc ultimum forsan deformem profert Theodo-
+riti interpretationem Catena in Psalmos a Baltha-
+sare Corderio publici juris facta, cum Catena mss.
+Bibliothecæ regiæ ab impresso Theodorito nullate-
+nus discrepent. ID.
+
+# block=6
+(36) Ἐξέβαλλες. Ita ms. ; editi, ἐξέβαλες. ID.
+(37) Συνέτρεχες αὐτῷ. Testatur Mill. exstare in
+ms. αὐτῷ. Sic et apud LXX. Allamen abest ab om-
+nibus editis, ne Wottoniano quidem excepto : quod
+miror. ID.
+(38) Δολιότητα. Sic ms. apud Wott. At codd.
+impp. præter Londin. δολιότητας. ID.
+
+# block=2
+(42) Ἐκεῖ ὁδὸς ἥν δείξω αὐτῷ τὸ σωτήριον τοῦ
+Θεοῦ. Servant ἥν Chrysostomus, Hieronymus,
+Theodoritus, Catenæ, et quædam Psaltéria Biblio-
+thecæ Christianissimi regis. Exponit vero Euty-
+mius καθ' ἥν. Cujus Græca ex eadem Bibliotheca
+profero : Τινὰ δὲ τῶν ἀντιγράφων, ἥν δείξω γράφου-
+σι. Καὶ νοεῖται τὸ καθ' ἥν. Τινὲς δὲ μετὰ τὸ δείξω
+ὑποστίζοντες, αὐτὸ τὸ σωτήριόν μου, φασίν. ID.
+
+# block=4
+(39) Ἄνομε. Codd. impp. ἀνομίαν, ut apud LXX.
+At ms. ἄνομαι, ubi procul dubio legendum est ἄνο-
+με, αι pro ε positis. Sic legit et Clem. Alex. Στρωμ.,
+lib. 1v, cap. 24, p. 634. Consentiunt Vulg. Syr. et
+Arab., licet textus Heb. et Hieronymi versio neque
+ἄνομε neque ἀνομίαν agnoscant. Wott. ID.

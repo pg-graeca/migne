@@ -1,0 +1,173 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1059,672,1816,1145
+2,266,671,1025,1142
+3,259,1578,1014,2698
+4,1047,1582,1799,2706
+5,269,162,1034,331
+6,635,1263,1439,1341
+7,264,482,1793,567
+8,820,102,1289,145
+10,900,1372,1157,1404
+11,636,1453,1451,1518
+13,1014,389,1070,425
+14,722,623,1309,658
+15,1005,578,1073,615
+17,1764,108,1822,150
+18,260,90,326,150
+19,1063,158,1823,362
+20,571,440,1517,478
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=34px
+# block=7 fontSize=15px
+# block=8 fontSize=16px
+# block=10 fontSize=12px
+# block=11 fontSize=30px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=17 fontSize=16px
+# block=18 fontSize=16px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=18
+43
+
+# block=8
+AD S. CLEMENTEM I PAPAM
+
+# block=17
+44
+
+# block=19
+dem epistola omnino vacat. Et interpretationes lo-
+corum quorumdam alieniores profert. Alioquin
+ipsa quæ in his epistolis insunt sensa, nonnihil ab-
+jecta sunt, neque continentem seriem ac conse-
+quentiam servant.
+
+# block=5
+οὐδ' ἡ πρώτη ἀπήλλακτο παντελῶς. Καὶ ἑρμηνείας
+δὲ ῥητῶν τινων ἀλλοκότους ἔχει · ἄλλως τε δὲ καὶ τὰ
+ἐν αὐταῖς νοήματα ἐῤῥιμμένα πως, καὶ οὐ συνεχῆ
+τὴν ἀκολουθίαν ὑπῆρχε φυλάττοντα.
+
+# block=13
+XII.
+
+# block=20
+ANASTASIUS Bibliothecarius, Hist. eccles., edit. Paris., pag. 17.
+
+# block=7
+Hujus (Clementis) Epistola fertur ad Corinthios missa, quam tota recipit, ut Hegesippus testatur
+Ecclesia.
+
+# block=15
+XIII.
+
+# block=14
+Nicon monachus, in Pandect. serm. 18.
+
+# block=2
+Κλήμεντος Ῥώμης. Δίκαιον οὖν καὶ ὅσιον... καὶ
+στάσεις τοῦ ἀπαλλοτριῶσαι ἡμᾶς τοῦ καλῶς ἔχοντος.
+Τοίνυν ἀκολουθήσωμεν τοῖς μετ' εὐσεβείας... Πόῤῥω
+ἀπέχει ἀπ' ἐμοῦ... Κολληθῶμεν οὖν τοῖς ἀθώοις καὶ
+δικαίοις · εἰσὶ δὲ οὗτοι ἐκλεκτοὶ τοῦ Θεοῦ. Γέγραπται
+γάρ · Κολλᾶσθαι τοῖς ἁγίοις, ὅτι οἱ κολλώμενοι
+αὐτοῖς, ἁγιασθήσονται. Καὶ ὁ Κύριος λέγει · Τὸν
+ὁμολογήσαντά με... τοῦ Πατρός μου. Ἐν τίνι δὲ...
+τῶν ἐντολῶν. Hæc ex codd. Regiis 2418, 2423, 2424,
+descripsit Cotelerius, ediditque in not. ad epist.
+Clem. cap. 14, unde huc translata sunt.
+
+# block=1
+Clementis Romani. Justum ergo et sanctum... in
+dissidia et seditiones (homines collimantes) ut nos
+a recto et honesto avertant. Eos ergo sequamur,
+qui cum pietate . . . Procul a me abest . . . Adhæ-
+reamus ergo viris honestis et justis: hi vero sunt
+electi Dei. Scriptum est enim : Facite ut sanctis
+adhæreatis, quia qui illis adhærent, sanctificabuntur.
+Et Dominus dicit : Qui me confessus fuerit . . . Pa-
+tris mei. In quonam autem . . . mandata illius
+(non spernendo). Epist. 1, cap. 14, 15 et 46; Epist.
+2, cap. 3.
+
+# block=6
+JUDICIA RECENTIORUM
+
+# block=10
+ET PRIMUM QUIDEM
+
+# block=11
+PATRICII JUNII PRÆFATIO.
+
+# block=3
+Si plenius de Clemente nostro et ejus scriptis,
+amice Lector, scire desideras, Gregorium Turonen-
+sem De martyrum gloria, Simeonem Metaphrastem,
+Pontificum Romanorum βιογράφους, Baronium, an-
+nalium conditorem, Sixtum Senensem, Bellarmi-
+num et alios, qui ecclesiasticos scriptores et eorum
+scripta nobis tradiderunt, per otium potes consu-
+lere. Nos nube hac tam illustrium testium, quos in
+antecessum præmisimus, contenti, oculis tuis et
+patientia diutius abuti desinimus, et de fide et au-
+ctoritate hujus operis γνησίου καὶ ἀναμφιβόλου, plura
+de nostro adjicere supersedemus, ne soli lucem
+fenerari, et faculam obscuram meridie accendere
+velle videamur. Antequam autem ad lectionem di-
+vini hujus et plane apostolici scripti te accingas,
+patere, quæso, ut de antiquitate exemplaris quo
+nos usi sumus, et de versione nostra plana et rudi,
+paucis te moneamus. Cyrillus, qui hodie Constan-
+tinopoli patriarchatum obtinet, vir pietate et erudi-
+tione insignis, ex Ægypto, cum sedem Alexandri-
+nam relinqueret, magnam librorum supellectilem
+secum advexit, inter quos codicem omnium vetu-
+stissimum et longe pretiosissimum (in quo veteris
+et novi fœderis libri litteris grandioribus, manu
+Theclæ nobilis feminæ Ægyptiæ, circa primi con-
+cilii Nicæni tempora, bellissime exarati sunt) per
+
+# block=4
+ornatissimum et clarissimum virum dominum Tho-
+mam Roe, equitem auratum, et apud Turcarum
+impp. serenissimi regis nostri oratorem, cum ex
+Oriente rediret, dono ad serenissimum regem no-
+strum transmisit. Ad calcem venerandi hujus codicis
+et κειμηλίου τιμαλφεστάτου, in membranis laceris,
+adjecta erat Clementis ad Corinthios Epistola eadem
+manu scripta, quam nunc bono publico et tuo usui
+in lucem damus, legis Pythagoricæ non immemores
+(quæ, ut Synesius in Dione auctor est, οὐκ ἐᾷ τοῖς
+βιβλίοις ἐπιποιεῖν, ἀλλὰ βούλεται μένειν αὐτὰ ἐπὶ τῆς
+πρώτης χειρὸς, ὅπως ποτὲ ἔσχε τύχης, ἢ τέχνης), nihil
+dementes, nihil de nostro addentes, non syllabam,
+non litteram, non apicem aut iota unum, fidelissime
+quantum potuit fieri expressimus. Voces autem de-
+perditas et litteras vetustate exesas, spatiis et in-
+terstitiis accuratissime dimensi, pro ingenioli nostri
+tenuitate supplevimus et minio rubro (novo hoc et
+inusitato imprimendi genere), notavimus; quod a
+nobis consulto factum est, ne rejicientes te sæpius
+ad notas, molestiam tibi inutilem crearemus, vel
+oram libri supplementis et emendationibus crebris
+nimium fœdaremus, denique ne industriis feliciori-
+bus et ingeniis στοχαστικωτέροις conjecturam libe-
+ram ad judicium liberius præriperemus. In reliquo
+etiam opere, errata quamplurima expunximus, et ut

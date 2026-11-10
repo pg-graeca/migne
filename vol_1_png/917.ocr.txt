@@ -1,0 +1,190 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,987,304,1740,1076
+2,193,435,948,1511
+3,201,132,950,426
+4,987,132,1740,294
+5,978,1083,1740,1528
+6,246,1548,591,1581
+7,191,1711,945,2705
+8,755,77,1151,111
+9,976,1708,1740,2107
+10,801,1621,1114,1661
+12,194,78,288,120
+13,1654,76,1748,122
+14,969,2105,1719,2695
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=16px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=16px
+# block=13 fontSize=16px
+# block=14 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+1234
+
+# block=8
+RECOGNITIONUM LIB. I.
+
+# block=12
+1233
+
+# block=3
+lingua gustum sumere , aut absque manibus ali-
+quid contrectare : ita impossibile est, absque vero
+Propheta quæ Deo placeant noscere. Et ego re-
+spondi : Quod ipse sit verus propheta Christus , te
+docente, jam didici ; sed quid sit hoc ipsum,Chri-
+stus , aut cur ita appelletur, velim discere , uti ne
+vaga mihi sit et incerta rei tantæ notitia.
+
+# block=4
+Spiritu sancto repleti immortalitate donentur. Vir-
+gulti vero hujus, ex quo sumptum est istud un-
+guentum , universam naturam tibi sufficienter ex-
+posuisse me memini.
+
+# block=1
+XLVI. Sed et nunc per brevissimam speciem de
+omnibus te in memoriam revocabo. In præsenti
+vita primus pontifex Aaron chrismatis composi-
+tione perunctus.⁹⁸, quod ad imaginem illius de quo
+supra diximus spiritualis unguenti factum est ,
+princeps populi fuit, et tanquam rex primitias et
+tributum per capita accepit a populo , et judicandi
+plebem sorte suscepta de mundis immundisque ju-
+dicabat. Sed et si quis alius ex ipso unguento per-
+unctus est , tanquam virtute inde concepta , jam
+ipse rex , aut propheta fiebat , aut pontifex. Quod
+si temporalis hæc gratia ab hominibus composita
+tantum potuit , intellige jam tu , quantum sit illud
+unguentum, quod a Deo de virgulto vitæ prolatum
+est , cum hoc quod ab hominibus factum est , tam
+eximias inter homines conferat dignitates. Quid
+enim in præsenti sæculo propheta gloriosius , pon-
+tifice clarius , rege sublimius ?
+
+# block=2
+XLV. Tunc Petrus docere me hoc modo cœpit :
+Deus cum fecisset mundum , tanquam universita-
+tis Dominus singulis quibusque creaturis principes
+statuit (42) , ipsis quoque arboribus , montibusque
+ac fontibus, et fluminibus, et universis , ut dixi-
+mus , quæ fecerat. Multum enim est ire per sin-
+gula. Statuit ergo angelis angelum principem , et
+spiritibus spiritum , sideribus sidus , dæmonibus
+dæmonem , avibus avem, bestiis bestiam , serpen-
+tem serpentibus , piscem piscibus , hominibus ho-
+minem , qui est Christus Jesus. Christus autem
+dicitur eximio quodam religionis ritu ; nam sicut
+regum sunt quædam communia nomina , ita ut
+apud Persas Arsaces , apud Romanos Cæsar, apud
+Ægyptios Pharao , ita apud Judæos Christus com-
+muni nomine rex appellatur. Causa autem hujus
+appellationis hæc est : quoniam quidem cum esset
+Filius Dei et initium omnium, homo factus est,
+hunc primum Pater oleo perunxit, quod ex ligno
+vitæ fuerat sumptum (43). Ex illo ergo unguento
+Christus appellatur. Inde denique etiam ipse se-
+cundum prædestinationem Patris , pios quosque,
+cum ad regnum ejus pervenerint , velut qui aspe-
+ram superaverint viam , pro laborum refectione
+simili oleo perunget , ut et ipsorum lux luceat, et
+
+# block=5
+XLVII. Et ego ad hæc respondi : Memini , Pe-
+tre, dixisse te de primo homine, quia propheta
+fuit ; quod autem unctus fuerit , non dixisti. Si
+ergo sine unguento propheta nullus est , quo modo
+primus homo , cum non esset unctus , fuit pro-
+pheta ? Tum subridens Petrus : Si primus , inquit ,
+homo prophetavit , certum est quod et unctus sit .
+Licet enim unctionem illius siluerit ille , qui le-
+gem in paginis condidit , nobis tamen intelligenda
+hæc evidenter reliquit : Sicut enim , si unctum
+
+# block=6
+⁹⁸ Exod. xxix; Lev. viii
+
+# block=10
+COTELERII NOTÆ.
+
+# block=9
+temporibus, nisi quando completi fuerint quinque
+millia et quingenti anni ; tunc veniet super terram
+amantissimus Dei Filius Christus resuscitare corpus
+humanum Adæ, et conresuscitare corpora mortuo-
+rum : et ipse veniens in Jordanis aqua baptizabitur.
+Et cum egressus fuerit de aqua Jordanis, tunc de
+oleo misericordiæ suæ unget ex eo omnes credentes
+in se, et erit oleum misericordiæ suæ in generatio-
+nem eorum qui nascituri sunt ex aqua et Spiritu san-
+cto in vitam æternam. Tunc descendens in terras
+amantissimus Dei Filius Christus Jesus, introducet
+patrem nostrum Adam in paradisum ad arborem mi-
+
+# block=7
+(42) Singulis quibusque creaturis principes sta-
+tuit, etc. Fabulæ, λόγοι. Cave gerras Ebioniticas.
+(43) Oleo perunxit, quod ex ligno vitæ fuerat
+sumptum, etc. Huc valde pertinent duo loci insi-
+gnes in nugis. Alter Origenis tomo vi, contra Cel-
+sum, p. 302, ex Celso : Ἑξῆς δὲ τοῖς περὶ τοῦ δια-
+γράμματος, μηδ' ἐκ παρακρουσμάτων περὶ τῆς κα-
+λουμένης παρὰ τοῖς ἐκκλησιαστικοῖς σφραγῖδος, ἑαυ-
+τῷ τινα ἐχτίθεται ἀλλόκοτα καὶ ἀμοιβαίας φωνὰς, ὡς
+τοῦ μὲν τὴν σφραγῖδα περιτιθέντος καλουμένου πα-
+τρὸς, τοῦ δὲ σφραγιζομένου λεγομένου νέου καὶ υἱοῦ,
+καὶ ἀποκρινομένου, « Κέχρισμαι χρίσματι λευκῷ ἐκ
+ξύλου ζωῆς. » Ὅπερ οὐδ' ἐν τοῖς ἀπὸ τῶν αἱρέσεων
+ἠκούσαμεν γίγνεσθαι, etc. Alter apocryphi libri qui
+Nicodemi nomen gerit : Cum autem hæc audisset
+protoplastus Adam pater, quia in Jordane baptiza-
+tus est Jesus, exclamavit ad filium suum Seth :
+Enarra filiis tuis patriarchis et prophetis omnia
+quæcunque audisti a Michaele archangelo, quando te
+transmisi ad portas paradisi, ut deprecareris Deum,
+et ungeres caput meum cum essem infirmus. Tunc
+Seth appropinquans sanctis patriarchis et prophetis,
+dixit : Ego Seth cum essem orans Dominum ad por-
+tas paradisi, ecce angelus Domini Michael apparuit
+mihi dicens : Ego missus sum ad te a Domino, ego
+sum constitutus super corpus humanum. Tibi dico,
+Seth, noli in lacrymis Deum orare et deprecari pro-
+pter oleum misericordiæ ligni, ut perungas patrem
+tuum Adam pro dolore capitis ejus, quia nullo modo
+poteris ex eo accipere, nisi in novissimis diebus et
+
+# block=14
+sericordiæ. Catholice Theodorus Abucara, opuscu-
+lo 33 : Α. Διατί λέγεται Χριστὸς ὁ Χριστός; Β. Ὅτι
+ἔχρισεν αὐτὸν ὁ Θεὸς Πνεύματι ἁγίῳ. Α. Τίς οὖν ὁ
+χρισθείς; ὁ Θεὸς Λόγος, ἢ ὁ ἄνθρωπος; Β. Μὴ γέ-
+νοιτο λέγειν ἡμᾶς, ὅτι Θὲὸς Λόγος ἐχρίσθη, ἀλλ' ὁ ἄν-
+θρωπος. Α. Ἄνθρωπος οὖν ἐστιν ὁ Χριστός. Εἰ γὰρ
+ὁ χρισθεὶς αὐτός ἐστιν ὁ Χριστὸς, ἄνθρωπος δὲ ὁ
+χρισθεὶς, καὶ ἕτερος δέ ἐστιν ὁ Θεὸς Λόγος παρὰ τὸν
+ἄνθρωπον καθ' ὑμᾶς· ὁ ἄνθρωπος ἄρα ἐστὶν ἀναμέ-
+ρος ὁ Χριστός. Τί οὖν ἑαυτοὺς καὶ ἄλλους ἀπατῶντες
+λέγετε, ὅτι ὁ Χριστὸς Θεός ἐστι καὶ ἄνθρωπος; Al-
+que hæc desiderantur in Græcis editionis Gretse-
+rianæ, addique debent e chartis codicum Regiorum
+2180, 572, in quibus (id quoque dicere liceat) pau-
+lo ante laudata verba scriptum habetur, εἰπέ μοι οὖν,
+ὁ Χριστός, etc. non ut in lib. impr. εἰπέ μοι, ὁ οὖν
+Χριστός.

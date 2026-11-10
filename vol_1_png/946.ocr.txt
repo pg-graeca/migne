@@ -1,0 +1,181 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,231,1379,984,2284
+2,234,564,988,1349
+3,1034,911,1785,1728
+4,1025,174,1786,901
+5,1024,1737,1779,2432
+6,236,2295,979,2420
+7,248,179,993,556
+8,244,2629,988,2732
+9,649,114,1368,154
+12,243,2457,1776,2533
+13,1032,2627,1760,2732
+14,250,121,321,155
+24,1708,115,1782,149
+25,832,2556,1164,2602
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=24
+1292
+
+# block=14
+1291
+
+# block=4
+Si quidem ut mihi videtur facere vis, ego secundum
+magistri mei præceptum fieri volo, qui primo om-
+nium Hebrææ genti, quam sciebat habere cogni-
+tionem Dei et quod ipse esset qui fecerit mundum,
+præcepit, non ut eum quæreret quem sciebat, sed
+voluntatem ejus justitiamque perquireret sciens ⁸⁶,
+quia in hominum arbitrio positum est, ut hoc quæ-
+rentes inveniant et faciant atque observent ea de
+quibus judicandi sunt. Et ideo jussit nos quærere,
+non unde sit malum, ut tu paulo ante requirebas,
+sed justitiam boni Dei regnumque ejus, et omnia,
+inquit, hæc adjicientur vobis ⁸⁷. Et Simon : Quo-
+niam, inquit, Hebræis ista mandantur velut recte
+scientibus Deum et opinantibus, quod unusquisque
+in suo arbitrio habeat agere ea, de quibus judi-
+candus est, mihi autem ab illis discrepat sententia,
+unde vis ut incipiam ?
+
+# block=7
+sit, aut cui sit malum, utrum Deo an angelis, an
+hominibus, piis an impiis, omnibus an aliquibus,
+an sibi ipsi, an nulli. Et tunc interrogares unde sit,
+utrumnam a Deo, an ex nihilo, semperne fuerit,
+an ex tempore cœperit; utile sit an inutile, et alia
+multa quæ hujuscemodi propositio exigit. Ad hæc
+Simon respondit : Ignosce mihi, erravi de prima
+interrogatione, sed puta me nunc primum interro-
+gare, est malum an non?
+
+# block=2
+XVIII. Et Petrus ait : Quomodo interrogas, quasi
+discere volens an docere, an quæstionis movendæ
+gratia? Si quidem quasi discere volens, habeo quod
+te prius doceam, ut per consequentiam et ordinem
+doctrinæ veniens, ex te ipso intelligas quid sit
+malum. Si vero ut docens proponis, non indigeo
+abs te doceri, habeo enim magistrum a quo omnia
+didici. Quod si quæstionis movendæ et disputandi
+gratia, uterque nostrum prius quod sibi videtur,
+exponat et ita certamen habeatur. Neque enim ve-
+rum est (89) ut interroges quasi discere volens, et
+contradicas ut docens, ut post responsionem meam
+in tuo judicio sit dicere, si bene an male dixerim.
+Propter quod non potes in loco contradicentis
+stans judex esse eorum quæ dicimus; et ideo, ut
+dixi, si certamen habendum est, uterque nostrum
+quod sentit exponat, et nobis in conflictu positis
+religiosi auditores hi justi judices erunt.
+
+# block=3
+XXI. Tum Petrus : Ego, inquit, suadeo primo
+quærendum esse, si in potestate nostra est scire
+unde judicandi simus. Et Simon : Non ita, inquit,
+sed de Deo, unde et omnes qui præsto sunt audire
+cupiunt. Et Petrus : Constat ergo apud te, quia est
+aliquid in arbitrii potestate; fatere hoc tantum si
+est, et requiramus ut dicis, de Deo. Simon ad hæc
+respondit : Nequaquam. Et Petrus : Si ergo nihil
+est in nostra potestate, superfluum est nos quærere
+aliquid de Deo, cum in potestate non sit quæren-
+tibus invenire. Unde bene dixeram hoc primo quæ-
+rendum esse, si est aliquid in arbitrii potestate.
+Tum Simon : Non possumus, inquit, ne hoc ipsum
+quidem intelligere quod dicis, si est aliquid in ar-
+bitrii potestate. At Petrus videns quod ad partem
+se contentiosiorem declinat, superari metuens, ut
+quasi incertum confundat omnia, respondit : Quo-
+modo ergo scis, quia non est in hominis potestate
+scire aliquid, cum hoc ipsum scias?
+
+# block=1
+XIX. Et Simon : Non tibi videtur absurdum ut
+imperitus populus de nostris dictis habeat judi-
+cium ? Et Petrus : Non ita est, quod enim uni for-
+tasse minus liquet, investigari a plurimis poterit,
+nam sæpe etiam fama vulgi prophetiæ speciem
+tenet. Super hæc autem omnia, præsens hic omnis
+populus amore Dei constrictus hic astat, verique
+cognoscendi gratia, et ideo omnes isti quasi unus
+habendus est, pro uno edemque erga amorem ve-
+ritatis affectu, sicut e contrario duo inter se si
+dissentiant, multi sunt et diversi. Si autem vis
+indicium capere, quomodo omnis hic populus qui
+astat quasi unus sit humo, ex silentio ejus ipso et
+quiete considera, quomodo cum omni patientia ut
+vides, etiam antequam discant, veritati Dei hono-
+rem deferunt. Nondum enim majorem cultum,
+quem ei deferre debeant, didicerunt. Propter quod
+spero de clementia Dei, quod religiosum proposi-
+tum mentis eorum amplectetur erga se, et veritatem
+prædicanti victoriæ palmam dabit, ut manifestum
+eis faciat veritatis præconem.
+
+# block=5
+XXII. Et Simon : Nescio, inquit, si vel hoc
+ipsum sciam; unusquisque enim sicut ei fato de-
+cernitur, vel agit aliquid vel intelligit vel patitur.
+Tum Petrus : Videte, inquit, fratres, in quæ ab-
+surda deciderit Simon, qui ante meum adventum
+docebat, quod homines in potestate haberent et
+sapere et facere quæ vellent, nunc in angustum
+redactus necessitate verborum, negat esse in ho-
+minis potestate aut sentiendi aliquid aut agendi, et
+tamen audet se doctorem profiteri. Sed dic, quo-
+modo ergo Deus judicat secundum veritatem unum-
+quemque pro actibus suis, si agere aliquid in po-
+testate non habuit ? Hoc si teneatur, convulsa sunt
+omnia, frustra erit studium sectandi meliora, sed
+et judices sæculi frustra legibus puniunt et puniunt
+eos qui male agunt; non enim in sua potestate
+
+# block=6
+XX. Tum Simon : De quo, inquit, vis haberi
+certamen? dic, ut et ego definiam quod mihi vide-
+tur, et ita quæstio incipiat. Et Petrus respondit :
+
+# block=12
+⁸⁶ Vocabula sciens — judicandi sunt et quæ paulo post sequuntur et opinantibus — judicandus est
+desunt in utroque cod. Lips. ⁸⁷ Matth. VI, 33.
+
+# block=25
+COTELERII NOTÆ.
+
+# block=13
+exemplis firmant grammatici, veteres ac recen-
+tiores. Horatius, Epist. I, VII, 98 :
+Metiri se quemque suo modulo ac pede verum est.
+
+# block=8
+(89) Neque enim verum est. Ἀληθές ἐστι pro δι-
+καιόν ἐστι, oratio Attica. Verum est pro justum est,
+æquum est, oratio Romana. Docent, adductisque

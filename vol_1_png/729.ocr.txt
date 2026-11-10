@@ -1,0 +1,279 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,191,2141,949,2711
+2,951,152,1728,808
+3,974,1312,1739,1617
+4,185,1315,936,1585
+5,179,159,926,849
+6,187,1742,945,2010
+7,182,1018,947,1144
+8,186,1174,1728,1243
+9,190,2007,936,2075
+10,180,907,946,1014
+11,191,2074,937,2143
+12,292,1589,807,1626
+13,607,93,1281,137
+14,807,1251,1110,1285
+15,973,910,1724,983
+16,286,1688,838,1728
+17,188,1643,573,1680
+18,974,1620,1336,2062
+19,980,1018,1731,1145
+21,171,106,241,152
+22,1641,90,1713,138
+23,1255,864,1455,918
+24,435,864,709,902
+25,1347,1620,1729,2102
+26,1003,2094,1725,2140
+27,967,2138,1337,2716
+28,1353,2138,1721,2722
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=26 fontSize=15px
+# block=27 fontSize=15px
+# block=28 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=22
+858
+
+# block=13
+CONSTITUTIONES APOSTOLICÆ.—LIB. V.
+
+# block=21
+857
+
+# block=2
+lunam, neque per astra; neque etiam per cœlum,
+vel terram, vel aliquod elementum, parvum sive
+magnum ⁷¹. Si enim Magister propter verum
+Deum edixit nobis, non jurare, ut sermo noster
+certior sit juramento; neque quidem per cœlum
+ipsum jurare, quia gentilis impietatis est; neque
+vero per Hierosolymam, vel per sancta Dei, aut al-
+tare, ac donum, aut templi aurum, vel per proprium
+caput; Judaicæ enim corruptionis est consuetudo
+ideoque interdicta fuit; præcipit autem fidelibus
+sermonem esse: etiam, etiam, et, non, non;
+quodque hæc excedit, mali esse declarat: quanto
+magis rei sunt qui jurant per falso cognominata,
+tanquam ea jurijurando præsideant; et cogitatione
+tradidit, pravitatis ergo, in consilii inopiam, ut
+
+# block=5
+μὴν τὸν οὐρανὸν, ἢ γῆν, ἢ τι τῶν στοιχείων, μικρὸν
+ἢ μέγα. Εἰ γὰρ ὁ Διδάσκαλος περὶ τοῦ ὄντος Θεοῦ παρ-
+ήγγειλεν ἡμῖν, μὴ ὀμνύειν, ὅπως ὁ λόγος ἡμῶν πι-
+στότερος ᾖ τοῦ ὅρκου, μήτε μὴν τὸν οὐρανὸν αὐτὸν,
+ἑλληνικὸν γὰρ τὸ δυσσέβημα, μήτε μὴν Ἱερουσα-
+λὴμ, ἢ τὰ τοῦ Θεοῦ ἅγια, ἢ τὸ θυσιαστήριον, καὶ τὸ
+δῶρον, ἢ τὴν τοῦ ναοῦ χρύσωσιν, ἢ τὴν οἰκείαν κε-
+φαλὴν, Ἰουδαϊκῆς γὰρ παραφθορᾶς ἡ συνήθεια, διὸ καὶ
+ἀπηγόρευται· εἶναι (59) δὲ τὸ ναὶ, ναὶ, καὶ τὸ οὒ, οὒ,
+τοῖς πιστοῖς παρεγγυᾷ, καὶ τὸ τούτων περισσὸν, τοῦ
+πονηροῦ εἶναι λέγει· πόσῳ μᾶλλον ὑπόδικοι, οἳ τὰ
+ψευδώνυμα ὡς ὅρκια ἐπομνύμενοι, καὶ τὰ νομιζόμενα
+ἀντὶ τῶν ἀληθῶν δοξάζοντες, οὓς ὁ Θεὸς διὰ μοχθη-
+ρίαν παρέδωκεν εἰς ἀβουλίαν, ἐνεργεῖν τὰ μὴ δέοντα.
+tantum existentia pro veris colunt; quos Deus
+operentur quæ non oportet ⁷².
+
+# block=24
+ΚΕΦΑΛΑΙΟΝ ΙΓ'.
+
+# block=23
+CAPUT XIII.
+
+# block=10
+Κατάλογος τῶν τοῦ Κυρίου ἑορτῶν (60), ἃς δεῖ
+φυλάσσειν· καὶ πότε τούτων ἑκάστη ὀφείλει
+ἐπιτελεῖσθαι.
+
+# block=15
+Enumeratio festorum Domini, quæ oportet observare;
+et quando eorum unumquodque debeat celebrari.
+
+# block=7
+Τὰς ἡμέρας τῶν ἑορτῶν ⁷³ φυλάσσητε, ἀδελφοὶ, καὶ
+πρώτην γε τὴν γενέθλιον, ἥτις ὑμῶν ⁷⁵ ἐπιτελείσθω
+εἰκάδι πέμπτῃ τοῦ ἐννάτου μηνὸς (61), μεθ' ἣν ἡ
+
+# block=19
+⁷⁴ Dies festos observate, fratres; ac primum qui-
+dem diem Domini Natalem; qui a vobis celebretur
+vigesima quinta noni mensis. Post hunc diem, dies
+
+# block=8
+⁷¹ Matth. v, 34; xxiii, 16. ⁷² Rom. i, 28. ⁷³ In Anast. τῶν τοῦ Κυρίου. ⁷⁴ Citat Anastasius
+quæst. 64. ⁷⁵ f. ὑμῖν.
+
+# block=14
+VARIORUM NOTÆ.
+
+# block=3
+drinum Strom. i, p. 340; Epiphanium, hæresi 50,
+n. 24, 27, 29; Photium, codice 232; Euthymii Pa-
+nopliam, p. 11, tit. 20; et Joannem Nicænum, epi-
+stola de Christi nativitate; tom. II Auctarii Combefi-
+siani. Quare superest ut pro more quæ in mss. co-
+dicibus inedita reperi, in gratiam lectorum adji-
+ciam. Sunt autem duæ chronologicæ observationes
+de Christo. Prima in libro Regio 1474. [Lege supra
+et infra ad cap. 14.]
+
+# block=4
+principes; neve temere Deum nominare audeant. In
+Pœnitentialibus Judaicis: Postea admonebitur ne
+juret etiam pro veritate, neque per legem, neque per
+animam patrum suorum. Verum vovebit per vitam
+capitis sui. Apud Athenæum vero lib. ii, consuetudo
+jurandi per caput refertur ad opinionem veterem
+de capite inter res sacras numerato. Notum illud
+Sophoclis [imo Euripidis] in Menalippa:
+
+# block=12
+Ὄμνυμι δ' ἱερὸν αἰθέρ' οἴκησιν Διός.
+
+# block=18
+Sciri debet quod An-
+nuntiatio facta est anno
+5505, die Dominica, Mar-
+tii 25. Nativitas vero Do-
+mini nostri Jesu Christi
+contigit anno 5506, Decem-
+bris 25. At ejusdem Do-
+mini crucifixio evenit an-
+no 5539, circulo lunæ de-
+cimo, solis autem circulo
+vigesimo tertio. Erat porro
+Pascha Judæorum Mar-
+tii 24, die Sabbati.
+
+# block=25
+Ἰστέον ὅτι ὁ εὐαγγελι-
+σμὸς γέγονεν ἐν ἔτει ,εφε',
+ἡμέρᾳ Κυριακῇ, Μαρτίῳ
+κε'. Ἡ δὲ γέννησις τοῦ Κυ-
+ρίου ἡμῶν Ἰησοῦ Χριστοῦ
+γέγονεν ἐν ἔτει ,εφς', Δε-
+κεμβρίῳ κε'. Ἡ δὲ σταύ-
+ρωσις τοῦ Κυρίου ἡμῶν
+Ἰησοῦ Χριστοῦ γέγονεν
+ἐν ἔτει ,εφλθ', κύκλῳ σε-
+λήνης δεκάτῳ, ἡλίου δὲ
+κύκλῳ κγ'. Ἦν δὲ τὸ πά-
+σχα τῶν Ἰουδαίων, Μαρ-
+τίῳ κδ', ἡμέρᾳ Σαββάτου.
+
+# block=17
+Item Euripidis in Medea:
+
+# block=16
+Ὄμνυμι γαῖαν, λαμπρὸν ἡλίου τε φῶς.
+
+# block=6
+De Christianis denique lege sis canonem 61 con-
+cilii Carthaginensis iv, Epiphanium in hæresi Osse-
+norum, num. 1; synodum Trosleianam, cap. 11 et
+Nicolaum papam, cap. 67 responsorum ad Bulga-
+rorum consulta, atque ad hunc postremum nota de
+juramento per templum; quemadmodum et in li-
+bello pœnitentiali Græco qui per Joannem Mori-
+num vulgatus fuit, p. 120 B. Cot.
+
+# block=9
+(59) Εἶναι. In duobus codd. Vindob. κατορθοῦν,
+hoc est, ut videtur, bene esse. Cler.
+
+# block=11
+(60) Κατάλογος τῶν τοῦ Κυρίου ἑορτῶν. Alter
+cod. περὶ ἑορτῶν. Id.
+
+# block=26
+Altera in alio libro ejusdem Bibliothecæ, n. 1819.
+
+# block=27
+Id vero ab omnibus scien-
+dum est, quod 25 mensis
+Decembris, anno a crea-
+tione mundi 5506, acci-
+derit Incarnatio Domini
+nostri Jesu Christi. Natus
+autem est die 2, hora 10
+noctis, illucescente die 3.
+Et cum esset annorum tri-
+ginta baptizatus est a
+Joanne 6 Januarii mensis,
+hora 7 diei. Ac post ba-
+ptisma jejunavit dies 40,
+atque sustinuit tentari a
+diabolo, 14 Februarii
+mensis. Obtigit autem
+salutaris passio Domini
+
+# block=28
+Ἰστέον δὲ τοῦτο πᾶσιν,
+ὅτι τῇ κε' τοῦ Δεκεμ-
+βρίου μηνὸς ἐν ἔτει ἀπὸ
+κτίσεως κόσμου ,εφς', ἡ
+ἔνσαρκος γέγονεν οἰκονο-
+μία τοῦ Κυρίου ἡμῶν Ἰη-
+σοῦ Χριστοῦ. Ἐτέχθη δὲ
+ἐν ἡμέρᾳ β', ὥρᾳ ζ' τῆς
+νυκτός, καὶ ἐβαπτίσθη ἐν
+τῇ ϛ' τοῦ Ἰαννουαρίου
+μηνὸς, τριακονταετὴς ὢν,
+ὑπὸ Ἰωάννου ὥρᾳ δεκάτῃ
+τῆς νυκτὸς, διαφωσκού-
+σης ἡμέρας γ'. Καὶ μετὰ
+τὸ βάπτισμα ἐνήστευσεν
+ἡμέρας μ'. Καὶ κατεδέξατο
+πειρασθῆναι ὑπὸ τοῦ δ.υ
+
+# block=1
+(61) Εἰκάδι πέμπτῃ τοῦ ἐννάτου μηνός. Vige-
+sima quinta noni mensis. Hoc est Decembris, ut pa-
+tet ex cap. sequenti et 17, ac ex illo loco Constitu-
+tionibus attributo, quem in nota præliminari ad hos
+libros posui. Ab æquinoctio vernali, ait auctor Ope-
+ris imperfecti, ad Matth. xxiv, 22, duodecimi mensis
+incipiunt paulatim tepescere aeres per singulos dies,
+usque ad mensem tertium, et dies fieri noctibus lon-
+giores. Item ab æquinoctio autumnali mensis septimi
+incipiunt paulatim iterum frigescere aeres per singu-
+los dies, et noctes fieri longiores diebus, usque ad
+mensem nonum, quando celebratur Christi Natalis.
+Ea consuetudo, ea sententia, quæ nunc obtinet,
+statuendi festum et diem Natalis Dominici 25 De-
+cembris, seu viii Kalendas Januarias, a multis fuse
+explicata fuit, nec lucem a me exspectat. De contra-
+riis vero legere licet præsertim Clementem Alexan-

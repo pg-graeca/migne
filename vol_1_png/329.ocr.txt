@@ -1,0 +1,146 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,189,135,943,2631
+2,973,132,1728,2612
+3,763,81,1125,119
+4,230,2659,1108,2701
+5,1660,70,1728,122
+6,182,78,234,126
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+ıı, cap. 73; Ovid., xv Metamorph. vers. 392; Pli-
+nius, lib. x Histor. naturalis cap. 2; Mela, lib. ııı;
+Solinus Polyhist., cap. xlvi; Aristides in Palinodia
+de Smyrna restaurata, tom. I, p. 470; Ælianus, lib. vı
+Histor. animal., cap. 58; Lucianus, Dialogo περὶ τοῦ
+Περεγρίνου τελευτῆς; Claudianus, Eidyllion primo. Ex
+Christianis vero, una cum superius memoratis, et
+quos doctissimus Weitzius ad Dracontium, Ju-
+niusque in notis huic epistolæ subjectis citat, Eu-
+sebius, ıv De vita Constantini, cap. 72, Suidas in
+Φοῖνιξ. Non ergo mirum erat, si Christianismi do-
+ctores ad rem vulgo creditam provocarent; quan-
+doquidem et Dio asserere audet lib. lviii, Sexto Pa-
+pinio et Q. Plautio coss. paulo ante Tiberii obitum
+in Ægypto phœnicem apparuisse, id quod etiam
+Plinius memorato loco ex Cornelio Valeriano refert.
+Tacitus vero, vı Annal., 28, idem ad Pauli Fabii, et
+L. Vitellii tempora reducit, quorum consulatus
+juxta Onuphrii Fastos in annum U. C. dcclxxxvii,
+Christi 35 incidit : quæ fama nostri Clementis
+tempore adhuc erat recens, utpote qui juxta Ana-
+stasium Bibliothecarium anno ejus sæculi 93, se-
+cundum alios vero citius, episcopatui Romano
+præesse cœpit. Quid quod Christianos illis tem-
+poribus phœnicem resurrectionis symbolum cœme-
+terialibus tumulis inter alia insculpsisse, ex B. Cæ-
+ciliæ Actis discas : quæ idipsum B. Maximi mar-
+tyris sarcophago curavit insculpendum. Verba Ac-
+torum, ut ex cod. ms. Vatic. Vallic. in Roma sub-
+terranea novissima Aringhius citat, hæc sunt :
+Quem, Maximum scilicet, S. Cæcilia virgo sepelivit
+in novo sarcophago, et jussit ut in sarcophago ejus
+sculperetur phœnix, ad indicium fidei ejus, qui re-
+surrectionem se inventurum exemplo phœnicis ex toto
+corde suscepit. Vides ergo, quam juste in hæc tan-
+dem verba erumpat κριτὴς ille egregius : Estne hic
+(Clemens, scilicet) bonus, fideque dignus apostolus
+et adjutor S. Pauli, qui resurrectionem carnis fabu-
+lis tam bellis potest astruere? et annon multo re-
+ctius judicarit illud Belgii sidus, Hugo Grotius,
+falso itidem illo ipso scripto verbis mox subse-
+quentibus, ut rei absurdæ auctor, sugillatus, epi-
+stola quadam ad Bignonium hactenus inedita : De
+phœnice rem fuisse eo tempore eruditis creditam, nec
+eo argumento uti Clementem ut probet τῶν νεκρῶν
+ἀνάστασιν, sed ut ostendat ex re credita non esse eam
+τῶν ἀδυνάτων. Inscitia profecto summa est, illi pro-
+pterea hanc epistolam abjudicare, præcipue
+cum jam suis temporibus Cyrillus Hierosoly-
+mitanus, Photiusque Constantinopolitanus, hic
+sæculo nono, ille quarto, commentum illud
+in eadem legerint, et exinde in scriptis suis cita-
+rint, ut ex illorum testimoniis superius manifestum
+fuit. Nec minoris est audaciæ, persuadere velle
+eruditis, Scultetum, Cocum, Blondellum, Rivetum,
+Voetium partibus reformatorum, ut jam vulgo dici
+amant, una addictos doctores, ex hac fabula arripuisse
+
+# block=2
+ansam a Patricio dissentiendi, totamque epistolam
+rejiciendi ; cum nec Scultetus, nec Cocus, unquam
+eandem, ut nondum a Patricio forte visam, nedum
+evulgatam, viderint, adeoque de re ignota judicium
+suum non potuerint interponere. Ipsernet hoc testa-
+tur Abrahamus Scultetus, quondam professor Hei-
+delbergensis Medullæ suæ ²³ pag. 371 et 372, de
+hujus Clementis scriptis inter alia inquiens : Epi-
+stolam hic quondam ad Corinthios scripsit, cujus
+meminit Dionysius Corinthius apud Euseb. (lib. ıv,
+cap. 23 ; lib. ııı, cap. 38.) Periit celebris ista epistola,
+sed in locum ejus substitutæ sunt quinque aliæ, et
+Recognitionum libri decem, qui hodie Clementis no-
+mine circumferuntur. Epistolæ exstant tomo primo
+Conciliorum, quæ singulis fere lineis Clementem adul-
+terinum loquuntur. Earumdem quinque Clementi-
+narum, quæ Decretales vulgo, non vero hujus ad
+Corinthios, examen instituit Robertus Cocus Anglus
+in sua Censura ²⁴ pag. 41 et seqq. Blondellus item
+singulari libro adversus Isidori Mercatoris figmen-
+ta, Genevæ an. Christi 1628 excuso, ubi simul
+ostendit ex quibus centonibus ex consutæ fuerint
+et confectæ. Quanto vero in pretio hanc ipsam ha-
+buerit Epistolam, Apologia ejus pererudita pro
+Hieronymi sententia de episcopis et presbyteris probat,
+in qua non veretur B. Patris sententiam testimoniis
+ex ea desumptis confirmare et asserere. Quemad-
+modum etiam ex Voetio et Riveto, qui cum Blon-
+dello eam et viderunt et legerunt, haud facile queas
+perspicere et dijudicare, num vel recipientium, vel
+respuentium sequantur partes : hujus namque ex
+editione ultima Genevensi anni 1652, hæc sunt ver-
+ba : Scripsit Clemens, teste Hieronymo in Catalogo,
+ex persona Ecclesiæ Romanæ ad Ecclesiam Corinthi
+valde utilem Epistolam, quæ nonnullis in locis pu-
+blice tum legebatur. — Hanc autem desideratam
+Patricius Junius vir clarissimus, regis magnæ Bri-
+tanniæ bibliothecarius, ex laceris reliquiis vetustissi-
+mi exemplaris regii eruit, lacunas explevit, Latine
+vertit, et brevibus notis illustravit, eamque edidit,
+cum fragmento secundæ epistolæ ad eosdem, Oxoniæ
+anno 1633. In ea reperiuntur quæ a nonnullis vete-
+ribus citantur, ut in notis suis, ex collatione, osten-
+dit eruditissimus editor, qui veram et genuinam esse
+Clementis Epistolam existimat, non obstante fabula
+de phœnice, quam ad illustrationem doctrinæ de re-
+surrectione adducit. Quod postea fecerunt alii plures
+ex veteribus. Argumenta viri doctissimi expendere po-
+terit lector eruditus. Epistola tota alioqui satis refert
+simplicitatem primævam, et quæ in ea leguntur ad
+argumentum quod in ea tractatur, satis sunt accom-
+modata. Id sane notandum quod pag. 41 de justi-
+ficatione scribitur : Nos ex voluntate Dei in Christo
+Jesu vocatos, etc. Gisbertus Voetius vero theologiæ
+in academia Ultrajectina prof., in Disputt. selectis
+theologicis, pag. 103 partis primæ, cum quæstio-
+nem attulisset hanc : Quid de epistola Clementis ad
+
+# block=3
+PROOEMIA VARIORUM.
+
+# block=4
+²³ Edit. Francofurt. 1634. ²⁴ Edit. Helmstad., anno 1641.
+
+# block=5
+58
+
+# block=6
+57

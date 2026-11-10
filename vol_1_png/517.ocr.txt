@@ -1,0 +1,92 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,246,531,1191,1581
+2,1198,1682,1844,2553
+3,1178,554,1822,1462
+4,264,1684,1172,2566
+5,1390,1619,1614,1657
+6,598,442,825,502
+8,1398,429,1633,504
+9,270,158,1168,409
+10,1199,146,1807,266
+11,633,86,1433,138
+12,253,84,357,132
+13,1743,88,1817,138
+14,567,1604,865,1670
+15,705,2642,1107,2734
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+435
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=13
+436
+
+# block=10
+dium nostrum eritis, corona nostra,
+spes nostra ac vita nostra. Amen.
+
+# block=8
+CAPUT VII.
+
+# block=3
+Igitur incipiendo a lege et descen-
+dendo usque ad Novum Testamen-
+tum, inspiciamus attente, perscru-
+temur quæ fuerit omnium patrum
+justorum vita, per totum incolatus
+sui tempus : optimum namque et
+utilissimum est a nobis haud igno-
+rari quot et quales viri, propter mu-
+lieres, perierint, quot et quales,
+propter viros, perierint feminæ,
+quia nimia inter eos exstiterat fami-
+liaritas; et, e contrario, quot et
+quales homines præterquam cum
+suo sexu necessitudinem aut habi-
+tationem habentes, castos invicem
+et sine macula servaverint se.
+
+# block=5
+CAPUT VIII.
+
+# block=2
+Nota est ac perspecta historia
+Joseph, qui semper fidelis, prudens,
+sapiens, justus et pius in omnibus
+permansit. Nonne mulier concupi-
+scentia exarsit, dum obtutus suos
+injecit in casti hujus ac recti juve-
+nis pulchritudinem? Ipse vero,
+cum operi nefario non acquiesce-
+ret, nec voluntati pravæ cederet,
+libidinem exhorrescens, mulier,
+falso testimonio suo, in omnem
+ærumnam ac cruciatum eum conje-
+cit. Deus autem eripuit illum ex
+omnibus malis quæ mulierculæ in-
+citamento in eum irruerant, etiam

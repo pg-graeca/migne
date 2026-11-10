@@ -1,0 +1,169 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,189,1147,940,1835
+2,969,1189,1741,1833
+3,187,146,935,1139
+4,967,139,1724,1180
+5,196,2541,947,2709
+6,780,1895,1080,1931
+7,586,92,1293,130
+9,193,1977,944,2548
+10,978,1981,1742,2712
+11,1636,86,1728,132
+12,172,88,268,140
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=189 source_y1=1147 source_x2=940 source_y2=1835
+XXI. Hæc quidem de incestis ejus; audi nunc et
+de adulteriis (24). Europam Oceani conjugem vitiat,
+ex qua nascitur Dodonæus (25); Helenam Pandionis,
+ex qua nascitur Musæus; Eurynomen Asopi, ex qua
+nascitur Ogygias; Hermionen Oceani, ex qua na-
+scuntur Charites, Thalia, Euphrosyne, Aglaia; The-
+min sororem suam, ex qua nascuntur Horæ, Eury-
+nomja (26), Dice, Irene; Themisto (27) Inachi, ex
+qua nascitur Arcas; Ideam Minois, ex qua nasci-
+tur Asterion; Phœnissam Alphionis, ex qua nascitur
+Endymion; Io Inachi, ex qua nascitur Epaphus;
+Hippodamiam et Isionen Danai filias, quarum unam
+Hippodamiam Olenus, Isionen vero Orchomenus sive
+Chryses habuit; Carmen Phœnicis, ex qua nascitur
+Britomartis (28), quæ fuit sodalis Dianæ; Callisto
+Lycaonis, ex qua nascitur Orcas; Lybeen (29) Mu-
+
+# block=2 source_x1=969 source_y1=1189 source_x2=1741 source_y2=1833
+XXII. Sed et alia sunt plurima ejus adulteria, ex
+quibus nec progeniem suscepit, quæ enumerare
+satis longum est. Verum ex his omnibus quas enu-
+meravimus, nonnullas transformatus, utpote magus,
+vitiavit. Denique Antiopen Nyctei versus in satyrum
+corrupit, ex qua nascuntur Amphion et Zethus;
+Alcmenam mutatus in virum ejus Amphitryonem,
+ex qua nascitur Hercules; Æginam Asopi mutatus
+in aquilam, ex qua nascitur Æacus. Sed et Gany-
+medem Dardani, mutatus nihilominus in aquilam
+stuprat; Mantheam Phoci mutatus in ursum, ex
+qua nascitur Arctos; Danaen Acrisii mutatus in au-
+rum, ex qua nascitur Perseus; Europen Phœnicis
+mutatus in taurum, ex qua nascitur Minos et Rha-
+damantus, Sarpedonque; Eurymedusam Achelai (37)
+
+# block=3 source_x1=187 source_y1=146 source_x2=935 source_y2=1139
+conceptum. Ex ipso autem Jove Medeam genuit,
+quam responso accepto, quod qui ex ea nasceretur
+fortior ipso esset et regno eum depelleret, assumens
+etiam ipse devorat; et rursum genuit de cerebro
+quidem Minervam, de femore vero Liberum. Post
+hæc Thetidem cum adamasset, aiunt Prometheum
+pronuntiasse ei, quod si concubuisset cum ea, qui ex
+ea nasceretur fortior esset patre, et ob hoc veritus
+Peleo cuidam dat eam in matrimonium; dehinc Per-
+sephonæ, quæ ei ex Cerere fuerat suscepta, mi-
+scetur, ex qua Dionysium genuit qui a Titanis di-
+scerptus est. Sed recordatus, inquit, ne forte pater
+suus Saturnus alium filium generaret, qui etiam se
+fortior nasceretur regnoque depelleret, oppugnare
+aggreditur patrem una cum fratribus ejus Titanis;
+quibus oppressis, ad ultimum etiam patrem in vin-
+cula conjecit, desectaque ejus genitalia in mare pro-
+jecit. Sed cruor qui defluxit ex vulnere, susceptus
+fluctibus et frequenti collisione in spumam versus,
+procreavit eam quam dicunt Aphroditen, quamque
+apud nos Venerem appellant. Ex hujus concubitu
+quæ erat utique soror, hunc ipsum Jovem ferunt
+genuisse Cyprin, ex qua aiunt et Cupidinem natum.
+
+# block=4 source_x1=967 source_y1=139 source_x2=1724 source_y2=1180
+nanti, ex qua nascitur Belus; Latonam, ex qua na-
+scitur Apollo et Diana; Leanidam Eurymedontis, ex
+qua nascitur Coron; Lysitheam Eveni, ex qua na-
+scitur Helenus; Hippodamiam (30) Bellerophontis,
+ex qua nascitur Sarpedon; Megacliten Macarei, ex
+qua nascitur Thebe et Locrus; Nioben Phoronei,
+ex qua nascitur Argus et Pelasgus; Olympiadam (31)
+Neoptolemi, ex qua nascitur Alexander; Pyrrham
+Promethei (32), ex qua nascitur Helmetheus (33);
+Protogeniam et Pandoram Deucalionis filias, ex
+quibus genuit Æthelium (34) et Dorum et Meleram
+et Pandorum; Thaicruciam Protei, ex qua nasci-
+tur Nympheus; Salaminam Asopi (35), ex qua na-
+scitur Saracon: Taygeten, Electram, Maiam, Plu-
+tiden (36), Atlantis filias, ex quibus genuit ex
+Taygete quidem Lacedæmonem, ex Electra Darda-
+num, ex Maia Mercurium, ex Plutide Tantalum;
+Phthiam Phoronei, ex qua genuit Achæum; [Choniam
+Aramni, ex qua genuit Laconem;] Chalceam nym-
+pham, ex qua nascitur Olympus; Charidiam nym-
+pham ex qua nascitur Alchanus; Chlorida, quæ fuit
+Ampyci, ex qua nascitur Mopsus; Cotoniam Lesbi,
+ex qua nascitur Polymedes; Hippodamiam Aniceti;
+Chrysogeniam Penei, ex qua nascitur Thissæus.
+
+# block=5 source_x1=196 source_y1=2541 source_x2=947 source_y2=2709
+Quam simul Ogygii Phœnicis filia Carme.
+Sane in Supplemento Thesauri critici scriptum in-
+venio a Jacobo Nicolao Loensi lib. VIII, c. 26: Cle-
+mens Romanus Britomartin Charmes et Jovis filiam
+fuisse dicit. Et Critomartis pro Britomartis errorem
+
+# block=6 source_x1=780 source_y1=1895 source_x2=1080 source_y2=1931
+COTELERII NOTÆ.
+
+# block=7 source_x1=586 source_y1=92 source_x2=1293 source_y2=130
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9 source_x1=193 source_y1=1977 source_x2=944 source_y2=2548
+(24) Audi nunc et de adulteriis. In Catalogo se-
+quenti præter vulgaria, multa sunt nomina igno-
+tiora · non pauca (quod etiam lectionum varietas
+indicat) depravata : quædam forsan quæ non ex-
+stant alibi. Ego vero difficiliorum nonnullis illustra-
+tis et correctis, cætera doctioribus et minus occu-
+patis hominibus reliqui expendenda quærendaque.
+(25) Dodonæus. Ἀπὸ Δωδώνου τοῦ Διὸς καὶ Εὐρώ-
+πης. Stephanus De urbibus, in Δωδώνη.
+(26) Eurynomia. Codex Regius et Petiti Liber
+Euromia; ex quo facio Eunomia.
+(27) Themisto. Stephanus in Ἀρκάδι· Ἴστρος δὲ,
+φησὶν, Θεμιστοῦς καὶ Διὸς ὁ Ἀρκὰς ἐγένετο.
+(28) Carmen... Britomartis. Diodorus Siculus et
+Pausanias Britomartin Dianæ sociam, filiam faciunt
+Jovis et Carme Eubuli filia; Virgilius vero in Ciri
+versus est :
+
+# block=10 source_x1=978 source_y1=1981 source_x2=1742 source_y2=2712
+esse librariorum idem auctor observat : pejusque
+apud Cœlium Rhodiginum lib. XVIII, c. 26 : Creto-
+martin, Κρητόμαρτιν legere est.
+(29) Lybeen. Malim, Libyen.
+(30) Hippodamiam. Alii Laodamiam. Diodorus
+Siculus Δηϊδάμειαν.
+(31) Olympiadam. Pro Olympiadem. Ὀλυμπιάδα.
+(32) Pyrrham Promethei. Al. Erimethei pro Epi-
+methei. Apollodorus lib. I, Πύῤῥαν τὴν Ἐπιμηθέως
+καὶ Πανδώρας.
+(33) Helmetheus. Videtur iste esse Hellen, a quo
+Ἕλληνες dicti.
+(34) Æthelium. Optima scriptura, Æthlium, Ἀέ-
+θλιον.
+(35) Salaminam Asopi. Σαλαμῖνα. Pausanias in
+Atticis.
+(36) Plutiden. Plutide. Infra c. 23, Pluten. Τάν-
+ταλος Διός τε καὶ Πλουτοῦς, Pausanias in Corinthia-
+cis.
+(37) Eurymedusam Achelai. Ex Clementinis, Ache-
+loi. At Clementi Alexandrino, Κλήτορος; indeque
+Arnobio, Clitoris.
+
+# block=11 source_x1=1636 source_y1=86 source_x2=1728 source_y2=132
+1432
+
+# block=12 source_x1=172 source_y1=88 source_x2=268 source_y2=140
+1431

@@ -1,0 +1,164 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,249,918,996,1777
+2,1030,2173,1780,2514
+3,247,1914,991,2512
+4,1033,574,1787,2165
+5,244,2539,1772,2713
+6,1035,141,1780,563
+7,251,143,1002,908
+8,669,84,1376,121
+9,262,1841,978,1906
+10,247,82,329,130
+11,1691,76,1779,134
+12,471,1786,759,1830
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=249 source_y1=918 source_x2=996 source_y2=1777
+Alii vero illud inter apocrypha rejiciunt. Ita
+enim de eo Patres concilii Romani sub Gelasio sta-
+tuunt : Itinerarium nomine Petri apostoli, quod ap-
+pellatur sancti Clementis libri octo, apocryphum.
+Pro octo critici scriptores putant legendum esse
+decem. Auctor vero Stichometriæ, post Nicephori
+Constantinopolitani Chronographiam additæ : Et
+quæ Novi, scilicet Testamenti, sunt apocrypha : Iti-
+nerarium Petri versus 2700. Agobardus quoque ⁴⁷ :
+Licet iidem libri, inquit, sint apocryphi; plera-
+que tamen ex iis testimonia inveniuntur a doctoribus
+usurpata. Humbertus etiam episcopus Sylvæ Can-
+didæ ⁴⁸ : Clementis liber, id est Itinerarium Petri
+apostoli et Canones apostolorum numerantur inter
+apocrypha. His accedit Honorius Augustodunen-
+sis ⁴⁹ : Clemens scripsit... Itinerarium Petri et dispu-
+tationem Petri, et Apionis, et multa alia, quæ inter
+apocrypha numerantur. Ante eos vero Athanasius
+dixisse fertur ⁵⁰. Iterum libri Novi Testamenti, qui-
+bus contradicitur, sunt Circuitus Petri, etc.
+
+# block=2 source_x1=1030 source_y1=2173 source_x2=1780 source_y2=2514
+Quibus autem accuratiori diligentia hoc Clemen-
+tis opus examinare licuit, ii certiorem de illo sen-
+tentiam ferunt. Hos inter Epiphanius memoriæ pro-
+didit Clementem nostrum de Petri Circuitibus ali-
+quid revera scriptis tradidisse, sed ejus scripta ab
+Ebionitis hæreticis adeo fuisse corrupta, ut paucis
+veris relictis, cætera ipsi falso supposuerint ⁵¹ : Sunt
+et alii libri, inquit, quibus utuntur, velut Petri Cir-
+
+# block=3 source_x1=247 source_y1=1914 source_x2=991 source_y2=2512
+Arbitrantur nonnulli Hieronymum eamdem de
+his libris tulisse sententiam, ubi dixit ⁵² : Libri au-
+tem e quibus unus Actorum ejus inscribitur, alius Evan-
+gelii, tertius Prædicationis... inter apocryphas scri-
+pturas reputantur. Rursus vero ubi de ipsomet
+..lemente disserit ⁵⁴ : Et disputatio Petri et Apionis,
+inquit, quam Eusebius in tertio Historiæ ecclesia-
+sticæ volumine coarguit. Et re quidem ipsa Euse-
+bius in eodem, quem Hieronymus citat, libro hæc
+habet ⁵⁵ : Quidam porro alia etiam opera prolixa
+sub ejus nomine heri ac nudiustertius in lumen
+protulerunt, puta Petri et Apionis disputationes,
+quarum apud antiquos nulla omnino exstat mentio.
+Neque enim sincera rectæ fidei, ab apostolis traditæ,
+
+# block=4 source_x1=1033 source_y1=574 source_x2=1787 source_y2=2165
+Verumtamen quandiu non exstabunt illa exem-
+plaria, a nostris tantopere discrepantia, tandiu in-
+certum erit utrum in eis vel in aliis ejusdem scri-
+ptoris libris hæ disputationes contineantur, aut
+tandem illæ solæ speciale aliquod volumen consti-
+tuerint. Ut ut sit, nonnullis forsitan idem Eusebius
+libros Recognitionum nomine Actus Petri appellasse
+videbitur, cum scripsit ⁵⁵ : Librum vero, qui Actus
+Petri dicitur, et Evangelium ejus nomine inscriptum,
+Prædicationis quoque et Revelationis ejusdem libros
+pro catholicis scriptis nunquam habitos esse constat.
+Nec vetustiorum siquidem, nec recentiorum Eccle-
+siæ scriptorum quisquam, desumpto ex iis libris
+testimonio usus unquam fuisse legitur. Non sumus
+quidem nescii, eos de quibus Eusebius disputat
+libros, ab antiquis, ut paulo ante vidimus, scripto-
+ribus fuisse citatos. Attamen non inde continuo
+inferri debet, illum, non de Clementis, sed de
+alterius cujusdam libris locutum esse. Nam, ut
+prudenter observat Valesius, ibi erravit, et memo-
+ria lapsus est Eusebius; quippe qui eamdem Apo-
+calypsin, seu Revelationem Petri, quam hic ab anti-
+quis citatam negat, alibi a Clemente laudari testa-
+tur ⁵⁶ : Clemens in libris Hypotyposeon Petri Apoca-
+lypsin laudat. Certum est præterea librum, qui
+Prædicatio Petri inscribitur, ab Origene ⁵⁷ et aliis
+nonnullis fuisse citatum. Potuit ergo Eusebius et in
+aliis duobus libris, quos commemorat, similiter
+decipi. His tamen opponi potest, illum de libris
+a Petro, non autem a Clemente scriptis ibi dispu-
+tare. Cæterum si Eusebius in allatis locis libros
+Recognitionum Clementis laudat, illos genuinum
+Clementis opus esse penitus inficiatur. Si vero
+eorum non meminit, idem ex ejus silentio ducitur
+argumentum. Neque enim ille tam longas lucu-
+brationes, quas a Clemente profectas esse novisset,
+tam alto potuit unquam præterire silentio.
+
+# block=5 source_x1=244 source_y1=2539 source_x2=1772 source_y2=2713
+⁴⁵ Tractat. 35 in Matth. post init. ⁴⁶ Philocal. c. 22, in fine. ⁴⁷ Cap. 10-24. ⁴⁷ Lib. De Judaic. su-
+perstit., cap. 16. ⁴⁸ In Respons. ad Nicet. lib. ⁴⁹ Lib. De lumine Eccles., cap. 15. ⁵⁰ In Synopsi. ⁵¹
+Lib. De script. eccles. ⁵² Eod. lib. ⁵³ Lib. III Hist., cap. 38. ⁵⁴ In eumd. Eus. locum. ⁵⁵ Lib.
+III Hist., cap. 3. ⁵⁶ Lib. VI Hist., cap. 14. ⁵⁷ Tom. XIII, Exposit. in Evang. Joann. ⁵⁸ Hæres.
+30, § 13.
+
+# block=6 source_x1=1035 source_y1=141 source_x2=1780 source_y2=563
+nota in illis expressa reperitur. Et Clementis quidem
+quæ genuina, et omnium consensu recepta sint scri-
+pta jam satis liquet. Unde Valesius his verbis Petri
+et Apionis disputationes libros Recognitionum ab
+Eusebio designatos opinatur. Quod si dixeris in iis
+non inveniri quas Eusebius ⁵⁵ dicit Petri et Apio-
+nis disputationes, respondet Rufinum, hujus operis
+interpretem, alia penes se habuisse eorumdem li-
+brorum exemplaria in quibus plura, quæ in nostris
+occurrunt, non repræsentabantur.
+
+# block=7 source_x1=251 source_y1=143 source_x2=1002 source_y2=908
+varias ejusdem operis sententias ipsius nomine
+absque ullo scrupulo citare non dubitaverint. Pri-
+mus inter eos nobis occurrit Origenes, qui hos li-
+bros sic laudat : Tale aliquid dicit et Petrus apud
+Clementem, quoniam bona opera quæ fiunt a fideli-
+bus in hoc sæculo eis prosunt ⁴⁵, etc. Alibi vero
+aliud fragmentum, superiore longe prolixius, in hæc
+exscripsit verba ⁴⁶ : Et Clemens Romanus, Petri
+apostoli discipulus, in hanc quæstionem et sententiam
+cum patre Laodiceæ in Circuitionibus, ἐν ταῖς Περιό-
+δοις locutus, etc. Ab auctore autem Operis imperfe-
+cti in Matthæum idem titulus his libris præfigitur ⁴⁷ :
+Petrus apud Clementem, vel : Sicut in Historia Cle-
+mentis Petrus exponit. His adjungi possunt Aldhel-
+mus, Venerabilis Beda, auctor Chronici Alexan-
+drini, Freculfus, Nicephorus, Georgius Cedrenus, et
+alii nonnulli, a quibus hoc opus eodem nomine in-
+signitum est.
+
+# block=8 source_x1=669 source_y1=84 source_x2=1376 source_y2=121
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9 source_x1=262 source_y1=1841 source_x2=978 source_y2=1906
+Quid Eusebius, Hieronymus, et Epiphanius de his
+libris senserint.
+
+# block=10 source_x1=247 source_y1=82 source_x2=329 source_y2=130
+1179
+
+# block=11 source_x1=1691 source_y1=76 source_x2=1779 source_y2=134
+1180
+
+# block=12 source_x1=471 source_y1=1786 source_x2=759 source_y2=1830
+ARTICULUS III.

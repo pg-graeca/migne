@@ -1,0 +1,179 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1047,511,1797,764
+2,258,509,1009,802
+3,248,2192,999,2447
+4,252,1148,1004,1227
+5,794,1073,1285,1111
+6,250,1883,996,2011
+7,1042,1348,1794,1734
+8,885,1265,1143,1301
+9,266,148,1021,273
+10,251,1348,1002,1775
+11,889,1810,1144,1850
+12,285,2619,1773,2674
+13,858,841,1226,877
+14,247,912,1011,1038
+15,1030,1885,1775,1968
+16,988,313,1048,346
+17,542,380,1504,418
+19,570,434,1461,473
+20,645,93,1349,133
+21,673,2119,1326,2156
+22,259,90,341,138
+23,1051,146,1803,232
+24,1709,88,1795,140
+25,1041,912,1807,1040
+26,1043,1148,1753,1198
+27,979,2042,1035,2086
+28,1029,2188,1783,2442
+29,983,2478,1029,2530
+30,753,2552,1271,2602
+31,275,2678,847,2732
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1047 source_y1=511 source_x2=1797 source_y2=764
+sæculo nihil ei prodest opus ipsius : nec enim
+collocatur inter cæteros fideles propter opus suum:
+et juste; quia naturali bono motus, fecit bonum,
+non propter Deum : ideo in corpus suum recipit
+mercedem operis sui, non in anima sua. Recognit.
+lib. VII, cap. 38.
+
+# block=2 source_x1=258 source_y1=509 source_x2=1009 source_y2=802
+Sed audi mysterium, quod Petrus apud Clemen-
+tem exposuit. Si fidelis fecerit opus bonum; et
+heic ei prodest, liberans eum a malis; et in illo
+sæculo, ad percipiendum regnum cœleste : magis
+autem ibi, quam heic. Si autem infidelis fecerit
+opus bonum; heic ei prodest opus ipsius : et heic
+ei reddit Deus bona pro opere suo. In illo autem
+
+# block=3 source_x1=248 source_y1=2192 source_x2=999 source_y2=2447
+Rufinus, Aquileiensis ecclesiæ presbyter, non
+minima pars fuit doctorum Ecclesiæ; et in transfe-
+rendo de Græco in Latinum, elegans ingenium
+habuit. Denique maxima parte Græcorum bibliothe-
+cam Latinis exhibuit : Basilii, scilicet, Cæsariensis
+Cappadociæ episcopi, Gregorii Nazianzeni eloquen-
+
+# block=4 source_x1=252 source_y1=1148 source_x2=1004 source_y2=1227
+Sicut autem Petrus apud Clementem exponit,
+Antichristo etiam plenorum signorum faciendorum
+
+# block=5 source_x1=794 source_y1=1073 source_x2=1285 source_y2=1111
+ID. ad ejusdem capitis versum 16.
+
+# block=6 source_x1=250 source_y1=1883 source_x2=996 source_y2=2011
+Unde et sapienter Petrus dicit apud Clementem,
+quomodo debet quis incessanter quæ Dei sunt co-
+gitare et loqui; quoniam si mens fuerit in his oc-
+
+# block=7 source_x1=1042 source_y1=1348 source_x2=1794 source_y2=1734
+inter ministros Christi, et ministros diaboli, ex hoc
+judicare, qui inutilia et qui utilia facerent signa. In
+fine autem temporis concedenda est potestas diabolo
+(sicut in Historia Clementis Petrus exponit) ut fa-
+ciant signa utilia, et ex ea parte qua prius facere
+consueverant sancti; ut jam ministros Christi non
+per hoc cognoscamus, quia utilia faciunt signa,
+sed quia omnia non hæc faciunt signa. Recognit.
+lib. III, cap. 59, 60.
+
+# block=8 source_x1=885 source_y1=1265 source_x2=1143 source_y2=1301
+ID. ad versum 24.
+
+# block=9 source_x1=266 source_y1=148 source_x2=1021 source_y2=273
+rim. Quo magis egeo misericordia Dei, ut plenio-
+rem mihi tui copiam tribuat; quia pro divitiis erit
+pauperi, ut micas a divitiis mensa cadentes, avido
+
+# block=10 source_x1=251 source_y1=1348 source_x2=1002 source_y2=1775
+Signa magna. Non inutilia, neque vana, quæ
+ministri diaboli facere solent; sed magna, id est
+utilia et plena, quæ sancti facere solebant. Nam in
+tempore quidem apostolorum, et postmodum, mi-
+nistri quidem Christi, utilia et plena signa facie-
+bant ex parte dextra; qualia sunt, cæcos illumi-
+nare, et alia hujusmodi facere; ministri autem
+diaboli, inutilia faciebant et vana, ex parte sinistra;
+quæ admirationem quidem videntibus excitarent,
+ad utilitatem autem nullius proficerent. Et erat
+
+# block=11 source_x1=889 source_y1=1810 source_x2=1144 source_y2=1850
+ID. ad versum 42.
+
+# block=12 source_x1=285 source_y1=2619 source_x2=1773 source_y2=2674
+Itinerarium nomine Petri apostoli, quod appellatur sancti Clementis libri decem ⁽⁵⁾; apocryphum.
+
+# block=13 source_x1=858 source_y1=841 source_x2=1226 source_y2=877
+ID. ad Matthæi xxiv, 15.
+
+# block=14 source_x1=247 source_y1=912 source_x2=1011 source_y2=1038
+Fuit enim exercitus alienigenarum et Romani
+imperatoris stans circa Hierusalem, quæ usque
+tunc fuerat sancta. Hoc et Petrus apud Clementem
+
+# block=15 source_x1=1030 source_y1=1885 source_x2=1775 source_y2=1968
+cupata, Malus non invenit locum ad mentem.
+Recognit., lib. III, cap. 31.
+
+# block=16 source_x1=988 source_y1=313 source_x2=1048 source_y2=346
+VIII.
+
+# block=17 source_x1=542 source_y1=380 source_x2=1504 source_y2=418
+Auctor Operis imperfecti in Matthæum, hom. 27, ad Matth. x, 41.
+
+# block=19 source_x1=570 source_y1=434 source_x2=1461 source_y2=473
+(Inter Opp. S. Joan. Chrysost., tom. VI, pag. 115 edit. BB.)
+
+# block=20 source_x1=645 source_y1=93 source_x2=1349 source_y2=133
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=21 source_x1=673 source_y1=2119 source_x2=1326 source_y2=2156
+GENNADIUS, libro De viris illustribus, cap. 17.
+
+# block=22 source_x1=259 source_y1=90 source_x2=341 source_y2=138
+1163
+
+# block=23 source_x1=1051 source_y1=146 source_x2=1803 source_y2=232
+famelici cordis ore colligere. Hunc locum Heriber-
+tus Rosweydus de Recognitionibus explicat.
+
+# block=24 source_x1=1709 source_y1=88 source_x2=1795 source_y2=140
+1164
+
+# block=25 source_x1=1041 source_y1=912 source_x2=1807 source_y2=1040
+exponit. Lege Recognit. lib. I, cap. 39, 45; Clemen-
+tina, hom. 3, num. 15; Lactantium, Divin. instit.
+lib. IV, cap. 21.
+
+# block=26 source_x1=1043 source_y1=1148 source_x2=1753 source_y2=1198
+est danda potestas. Recognit., lib. III, cap. 60.
+
+# block=27 source_x1=979 source_y1=2042 source_x2=1035 source_y2=2086
+IX.
+
+# block=28 source_x1=1029 source_y1=2188 source_x2=1783 source_y2=2442
+tissimi hominis, Clementis Romani Recognitionum
+libros, etc. Horum omnium quæcunque præmissis
+Prologis a Latinis leguntur, a Rufino interpretata
+sunt: quæ sunt sine Prologo, ab alio translata sunt
+qui Prologum facere noluit, etc. Lege Honorium
+Augustodun.
+
+# block=29 source_x1=983 source_y1=2478 source_x2=1029 source_y2=2530
+X.
+
+# block=30 source_x1=753 source_y1=2552 source_x2=1271 source_y2=2602
+Concilium Romanum, sub Gelasio.
+
+# block=31 source_x1=275 source_y1=2678 source_x2=847 source_y2=2732
+(5) Decem. Al. octo, vel novem. Male.

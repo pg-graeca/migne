@@ -1,0 +1,183 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1006,527,1762,1867
+2,221,524,979,1876
+4,1016,2481,1757,2650
+5,821,1964,1124,1999
+6,1017,2018,1766,2483
+7,460,481,751,516
+8,633,67,1350,104
+9,239,2514,984,2686
+10,219,70,291,111
+12,264,1892,1255,1927
+13,231,2019,980,2518
+14,1049,477,1695,520
+15,1005,122,1747,329
+16,218,125,971,419
+17,477,434,693,482
+18,1245,432,1521,476
+19,1677,60,1749,118
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1006 source_y1=527 source_x2=1762 source_y2=1867
+Ὑπὲρ ἀναπαυσαμένων ἐν Χριστῷ ἀδελφῶν ἡμῶν
+δεηθῶμεν· ὅπως ὁ φιλάνθρωπος Θεὸς, ὁ προσδεξά-
+μενος αὐτοῦ τὴν ψυχὴν, παρίδῃ ⁹⁰ (61) αὐτῷ πᾶν
+ἁμάρτημα ἑκούσιον, καὶ ἀκούσιον, καὶ ἴλεως καὶ εὐ-
+μενὴς γενόμενος, κατατάξῃ εἰς χώραν εὐσεβῶν, ἀνει-
+μένων εἰς κόλπον Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακὼβ,
+μετὰ πάντων τῶν ἀπ' αἰῶνος εὐαρεστησάντων τῷ Θεῷ,
+καὶ ποιησάντων τὸ θέλημα αὐτοῦ· ἔνθα ἀπέδρα, ὀδύνη,
+καὶ λύπη καὶ στεναγμός. Ἐγειρώμεθα. Ἑαυτοὺς
+καὶ ἀλλήλους τῷ ἀϊδίῳ Θεῷ διὰ τοῦ ἐν ἀρχῇ Λόγου
+παραθώμεθα. Καὶ ὁ ἐπίσκοπος λεγέτω· Ὁ τῇ φύσει
+(62) ἀθάνατος καὶ ἀτελεύτητος, παρ' οὗ πᾶν ἀθάνα-
+τον καὶ θνητὸν γέγονεν· ὁ τὸ λογικὸν ζῶον τὸν ἄνθρω-
+πον τὸν κοσμοπολίτην, θνητὸν ἐν κατασκευῇ (63)
+ποιήσας, καὶ ἀνάστασιν (64) ἐπαγγειλάμενος· ὁ τὸν
+Ἑνὼχ καὶ τὸν Ἠλίαν θανάτου πεῖραν μὴ ἐάσας λα-
+βεῖν· ὁ Θεὸς Ἀβραὰμ, ὁ Θεὸς Ἰσαὰκ, καὶ ὁ Θεὸς
+Ἰακὼβ, οὐχ ὡς νεκρῶν, ἀλλ' ὡς ζώντων Θεός εἶ·
+ὅτι πάντων αἱ ψυχαὶ παρὰ σοὶ ζῶσι, καὶ τῶν δικαίων
+τὰ πνεύματα ἐν τῇ χειρί σου εἰσιν, ὧν οὐ μὴ ἅψηται
+βάσανος· πάντες γὰρ ἡγιασμένοι ὑπὸ τὰς χεῖράς σού
+εἰσιν· αὐτὸς καὶ νῦν ἔπιδε ἐπὶ τὸν δοῦλόν σου τόνδε,
+ὃν ἐξελέξω, καὶ προσλάβου εἰς ἑτέραν λῆξιν, καὶ
+συγχώρησον αὐτῷ εἴ τι ἑκὼν ἢ ἄκων ἐξήμαρτεν,
+ἀγγέλους εὐμενεῖς παράστησον αὐτῷ (65), καὶ κατά-
+ταξον αὐτὸν ἐν τῷ κόλπῳ τῶν πατριαρχῶν καὶ τῶν
+προφητῶν καὶ τῶν ἀποστόλων καὶ πάντων τῶν ἀπ'
+αἰῶνός σοι εὐαρεστησάντων, ὅπου οὐκ ἔνι λύπη, ὀδύνη
+καὶ στεναγμὸς, ἀλλὰ χῶρος εὐσεβῶν ἀνειμένος, καὶ
+γῆ εὐθέων συνανειμένη (66), καὶ τῶν ἐν αὐτῇ ὁρώντων
+τὴν δόξαν τοῦ Χριστοῦ σου· δι' οὗ (67) σοι δόξα, τι-
+
+# block=2 source_x1=221 source_y1=524 source_x2=979 source_y2=1876
+Pro fratribus nostris, qui in Christo requieverunt,
+oremus; ut hominum amans Deus, qui animam
+defuncti suscepit, ei remittat omne peccatum volun-
+tarium ac non voluntarium, et propitius clemens-
+que factus, collocet eum in regione piorum, quie-
+scentium in sinu Abrahami, Isaaci et Jacobi, cum
+omnibus qui a sæculo placuerunt Deo, ac ejus vo-
+luntatem fecerunt; unde aufugit dolor, tristitia et
+gemitus. Surgamus. Nos ipsos, et invicem, æterno
+Deo commendemus, per Verbum quod erat in prin-
+cipio. Ac episcopus dicat: Qui natura es immortalis
+ac fine carens; a quo cuncta immortalia et morta-
+lia orta sunt; qui animal rationale hominem, civem
+mundi, in fabricatione effecisti mortalem, et resur-
+rectionem promisisti; qui Henochum ac Eliam non
+sivisti mortis experimentum capere: Deus Abra-
+hami, Deus Isaaci et Deus Jacobi; non tanquam
+mortuorum, sed tanquam viventium es Deus⁹¹;
+quia cunctorum animæ apud te vivunt, et spiritus
+justorum in manu tua sunt, quos non tanget cru-
+ciatus⁹²; omnes enim sanctificati, sub manibus tuis
+sunt⁹³: ipse et nunc respice super servum tuum
+hunc, quem elegisti, et assumpsisti in aliam sor-
+tem; et condona ei, si quid volens aut invitus deli-
+quit; atque angelos ei exhibe placidos; atque
+colloca eum in sinu patriarcharum, propheta-
+rum, apostolorum, omniumque qui tibi a sæ-
+culo placuerunt; ubi non est tristitia, dolor, ge-
+mitus, imo locus piorum sedatus, et pariter quieta
+terra rectorum, eorumque qui in ea vident gloriam
+Christi tui; per quem tibi gloria, honor, cultus,
+
+# block=4 source_x1=1016 source_y1=2481 source_x2=1757 source_y2=2650
+(66) Συνανειμένη. In altero, σοὶ ἀνακειμένη, tibi
+consecrata. Forte rectius. CLER.
+(67) Δι' οὗ. Meθ' οὗ in altero cod. quasi ad Aria-
+nicam doxologiam emendandam, ut passim alibi.
+Vide ad finem capitis XL, IB.
+
+# block=5 source_x1=821 source_y1=1964 source_x2=1124 source_y2=1999
+VARIORUM NOTÆ.
+
+# block=6 source_x1=1017 source_y1=2018 source_x2=1766 source_y2=2483
+eam corruptibile corporis indumentum, in cœlum
+portantes, ad Deum deducentes, δορυφοροῦντας,
+viæ duces ac comites, propugnatores, occursatores;
+impiis vero tristes, horribiles, ἀπειληφόρους, exa-
+ctores, et raptores, ad judicium acerbe pertrahentes.
+Ab Anastasio Sinaita, orat. in psalmum VI, usurpa-
+tur nomen ἐκστηλευτῶν· aut mea quidem suspi-
+cione, factum a verbo expilo, significans expilatores;
+aut, juxta conjecturam doctissimi Combefisii, for-
+matum ex voce σπήλαιον. Prætereo externæ sapien-
+tiæ ψυχοπομπούς, cum Mercurio πομπαίῳ, cumque
+angelo mortis Samaele, seu Adriele, Asraele. Quem
+mortis angelum commemorat auctor Operis imper-
+fecti in Matthæum, ad XXIV, 43. COT.
+
+# block=7 source_x1=460 source_y1=481 source_x2=751 source_y2=516
+Oratio pro mortuis.
+
+# block=8 source_x1=633 source_y1=67 source_x2=1350 source_y2=104
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9 source_x1=239 source_y1=2514 source_x2=984 source_y2=2686
+(65) Ἀγγέλους εὐμενεῖς παράστησον αὐτῷ.
+Angelorum officia in hominum morte, ex doctrina
+SS. Patrum sunt: assistere morientibus, eosque
+pro viribus adjuvare; piis esse ἀγγέλους εἰρήνης,
+placidos animæ evocatores, acceptores, exuentes
+
+# block=10 source_x1=219 source_y1=70 source_x2=291 source_y2=111
+1143
+
+# block=12 source_x1=264 source_y1=1892 source_x2=1255 source_y2=1927
+⁹⁰ f. παρίῃ. ⁹¹ Matth. XXII, 32. ⁹² Sap. III, 1. ⁹³ Deut. XXXIII, 3.
+
+# block=13 source_x1=231 source_y1=2019 source_x2=980 source_y2=2518
+(58) Δι' οὗ. Ibidem legitur μεθ' οὗ. Vide ad
+cap. 37. Sic et in sequentibus vero pro ἐν ἁγίῳ, in
+eodem legere est σὺν ἁγίῳ. CLER.
+(59) Φωνῆσαι τὰ τῆς προσευχῆς. In altero cod.
+προσφωνῆσαι τὰ τῆς πρώτης εὐχῆς. Quod melius,
+respiciuntur enim preces antea memoratæ. ID.
+(60) Κεκοιμημένων. In altero cod. ἐν Χριστῷ
+ἀναπαυσαμένων. ID.
+(61) Παρίδῃ. In altero ἀφήσῃ, quod glossema
+redolet. ID.
+(62) Ὁ τῇ φύσει, etc. Hæc in altero vocantur
+Ἐπίκλησις ὑπὲρ τῶν ἐν Χριστῷ ἀναπαυσαμένων. ID.
+(63) Ἐν κατασκευῇ. Ibidem ἐκ κατασκευῆς. ID.
+(64) Ἀνάστασιν. Rectius in altero ἀνάστασιν.
+ID.
+
+# block=14 source_x1=1049 source_y1=477 source_x2=1695 source_y2=520
+Προσφώνησις ὑπὲρ τῶν κεκοιμημένων (60).
+
+# block=15 source_x1=1005 source_y1=122 source_x2=1747 source_y2=329
+εὐεργεσίας, διὰ Χριστοῦ· δι' οὗ (58) σοι δόξα, τιμὴ
+καὶ σέβας, ἐν ἁγίῳ Πνεύματι, εἰς τοὺς αἰῶνας· Ἀμήν.
+Ἐπὶ δὲ τῶν ἐν Χριστῷ ἀναπαυσαμένων, μετὰ τὸ
+φωνῆσαι τὰ τῆς προσευχῆς (59), ἵνα -μὴ πάλιν λέ-
+γωμεν, ὁ διάκονος προσθήσει καὶ ταῦτα·
+
+# block=16 source_x1=218 source_y1=125 source_x2=971 source_y2=419
+nem. Pro his igitur omnibus summe laudandus es,
+de tua erga omnes beneficentia, per Christum; per
+quem tibi gloria, honor et veneratio, in sancto Spi-
+ritu, in sæcula. Amen. Porro de iis qui in Christo
+requieverunt; postquam diaconus clara voce protu-
+lerit ea quæ oratio complectitur (ne eadem repeta-
+mus), adjiciet etiam hæc :
+
+# block=17 source_x1=477 source_y1=434 source_x2=693 source_y2=482
+CAPUT XLI.
+
+# block=18 source_x1=1245 source_y1=432 source_x2=1521 source_y2=476
+ΚΕΦΑΛΑΙΟΝ MA'.
+
+# block=19 source_x1=1677 source_y1=60 source_x2=1749 source_y2=118
+1144

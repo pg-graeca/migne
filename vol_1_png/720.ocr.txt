@@ -1,0 +1,172 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,260,2289,1016,2588
+2,259,1888,1013,2159
+3,260,134,1011,1655
+4,259,2155,1010,2291
+5,260,2585,1006,2693
+6,1039,136,1799,1668
+7,1043,1958,1788,2682
+8,1034,1886,1790,1962
+9,646,79,1352,118
+10,261,1721,1794,1796
+11,871,1820,1174,1854
+13,263,76,317,117
+15,1719,66,1789,124
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(6) Γαβριήλ. Non exprimitur in sacro contextu
+nomen angeli. Verisimile tamen admodum sit, Ga-
+brielem esse, de quo cap. VIII et IX prophetiæ ;
+juxta sententiam Cassiani quoque collat. 8, c. 13,
+et Agobardi lib. De quorumdam illusione signorum,
+utque colligi potest ex verbis Hieronymi ad Dan.
+VIII, 16. Sic angelum, Isaiæ XXXIII, 3, memoratum,
+Hebræi Gabrielem autumant , referente eodem Hie-
+ronymo. Cot.
+
+# block=2
+fallor, a Turriano, ob versus sibyllæ, fabulam
+phœnicis, et scholium Græcum de quo antea. Ubi
+cum nonnemo ad voces ἀνάστασιν et παλιγγενεσίαν
+apposuisset nomen Stoicorum, quorum celebris
+exstitit opinio de mundi innovatione, rerum ἀνακυ-
+κλήσει et ἀποκαταστάσει, hominum cæterorumque
+reditu, putavit Turrianus hoc scholii narrationi de
+phœnice debere aptari. Cot.
+
+# block=3
+Dominum nostrum Jesum Christum, juxta promis-
+sionem suam veracem; et nos cum omnibus qui ab
+initio sæculi obierunt excitabit, tales, quales in
+præsenti forma existimus, nulla mutilatione vel
+corruptione affectos; quandoquidem incorrupti re-
+surgemus. Sive enim in mari mortui fuerimus, sive
+in terra dissipati, sive a bestiis vel avibus discer-
+pti, suscitabit nos sua potentia : quia totus mun-
+dus manu Dei continetur. Capillus, inquit, de
+capite vestro non peribit ⁸. Quapropter admonet,
+dicens : In patientia vestra possidebitis animas
+vestras ⁹. Porro de resurrectione mortuorum, et
+de martyrum remuneratione Gabriel Danieli dicit :
+Et multi de his qui dormierunt, ex terræ pulvere
+excitabuntur; alii quidem in vitam æternam, alii
+vero in ignominiam et opprobrium sempiternum.
+Et qui intellexerunt, refulgebunt sicut sol, et sicut
+firmamentum ac stellæ ¹⁰ ¹¹. Refulsuros ergo sanctos
+instar luminarium cœlestium, prædixit omni sancti-
+tate ornatus Gabriel; quippe quos veritatem intel-
+lexisse idem sacer angelus testatus est. Non so-
+lum autem martyribus promisit resurrectionem,
+sed et omnibus hominibus, justis pariter ac inju-
+stis, piis et impiis; ut unusquisque pro meritis
+exsolvat. Adducet enim, inquit, Deus omnem actio-
+nem in judicium, in omni impercepto, sive bonum,
+sive malum sit ¹². Hanc resurrectionem non creden-
+tes Judæi, olim dicebant : Arida facta sunt ossa no-
+stra, defecimus ¹³. Quibus Deus respondens, ait :
+Ecce ego aperio sepulcra vestra ; et educam vos ex eis;
+et dabo spiritum meum in vobis, et vivetis, et cognoscetis
+quia ego Dominus locutus sum, et faciam ¹⁴. Et per
+Isaiam : Resurgent, inquit, mortui, et expergiscentur
+qui sunt in monumentis, et lætabuntur qui in terra
+quiescunt; quia ros tuus sanatio illis est ¹⁵. Multa
+
+# block=4
+(5) Ἢ τὴν φθοράν. Uterque Vind. cod. ἀπὸ τῆς
+φθορᾶς. Sensus est : Nihil quod deficiat habentes a
+corruptione ; hujus, nimirum, vitæ. Quod melius
+censuerim. Cler.
+
+# block=5
+(7) Τὸ στερέωμα. Alter cod λαμπρότης τοῦ στε-
+ρεώματος. Cler.
+(8) Ἐμαρτύρησε. In alterο cod est ὁμολογῆσαι
+
+# block=6
+τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, κατὰ τὴν ἐπαγγε-
+λίαν αὐτοῦ τὴν ἀψευδῆ · καὶ ἀναστήσει ἡμᾶς σὺν
+πᾶσι τοῖς ἀπ’ αἰῶνος κοιμηθεῖσι, τοιούτους, ὁποῖοι
+ὑπάρχομεν ἐν τῇ νῦν μορφῇ, μηδὲν ἐλλειπὲς ἔχοντας,
+ἢ τὴν φθοράν (5) · ἐπείπερ ἄφθαρτοι ἀναστησόμεθα.
+Κἂν τε γὰρ ἐν πελάγει τελευτήσωμεν, κἂν ἐν γῇ δια-
+σπαρῶμεν, κἂν ὑπὸ θηρίων ἢ ὀρνέων διασπασθῶμεν,
+ἀναστήσει ἡμᾶς τῇ ἑαυτοῦ δυνάμει · ὅτι ὁ πᾶς κό-
+σμος τῇ τοῦ Θεοῦ συνέχεται χειρί. « Θρὶξ δὲ, φησὶν,
+ἐκ τῆς κεφαλῆς ὑμῶν οὐ μὴ ἀπόληται. » Διὸ παραινεῖ,
+λέγων · « Ἐν τῇ ὑπομονῇ ὑμῶν κτήσασθε τὰς ψυχὰς
+ὑμῶν. » Περὶ δὲ τῆς τῶν νεκρῶν ἀναστάσεως, καὶ τῆς
+τῶν μαρτύρων μισθαποδοσίας λέγει Γαβριὴλ (6) τῷ
+Δανιήλ · « Καὶ πολλοὶ τῶν κεκοιμημένων ἐκ γῆς χώμα-
+τος ἀναστήσονται · οἱ μὲν εἰς ζωὴν αἰώνιον , οἱ δὲ εἰς
+αἰσχύνην καὶ ὀνειδισμὸν αἰώνιον . Καὶ οἱ συνιέντες,
+ἐκλάμψουσιν ὡς ὁ ἥλιος, καὶ ὡς τὸ στερέωμα (7) καὶ
+οἱ ἀστέρες. » Ὡς φωστῆρας τοίνυν ἐκλάμψειν τοὺς
+ἁγίους προεῖπεν ὁ πανάγιος Γαβριήλ. Αὐτοῖς γὰρ τὸ
+συνιέναι τὴν ἀλήθειαν ἐμαρτύρησε (8) καὶ τὸ ἱερὸν
+αὐτοῦ ὄνομα (9). Οὐ μόνον δὲ τοῖς μάρτυσιν ἐπήγγελ-
+ται τὴν ἀνάστασιν, ἀλλὰ καὶ πᾶσιν ἀνθρώποις ,
+δικαίοις τε καὶ ἀδίκοις, εὐσεβέσι καὶ δυσσεβέσιν·
+ἵνα ἕκαστος τὰ πρὸς ἀξίαν τίσῃ (10). « Ἄξει γὰρ,
+φησὶν, ὁ Θεὸς σύμπαν τὸ ποίημα εἰς κρίσιν ἐν
+παντὶ παρεωραμένῳ, ἐὰν ἀγαθὸν, καὶ ἐὰν πονηρόν. »
+Ταύτην δὲ τὴν ἀνάστασιν μὴ πιστεύοντες Ἰουδαῖοι, τὸ
+παλαιὸν ἔλεγον · « Ξηρὰ γέγονε τὰ ὀστᾶ ἡμῶν, διαπε-
+φωνήκαμεν (11). » Οἷς ὁ Θεὸς ἀποκριθεὶς ἔφη · « Ἰδοὺ
+ἐγὼ ἀνοίγω τοὺς τάφους ὑμῶν, καὶ ἀνάξω ὑμᾶς ἐξ αὐ-
+τῶν· καὶ δώσω τὸ πνεῦμά μου ἐν ὑμῖν, καὶ ζήσεσθε,
+καὶ γνώσεσθε ὅτι ἐγὼ Κύριος λελάληκα , καὶ ποιή-
+σω. » Καὶ διὰ Ἡσαΐου φησίν· « Ἀναστήσονται οἱ
+νεκροὶ, καὶ ἐγερθήσονται οἱ ἐν τοῖς μνημείοις, καὶ εὐ-
+φρανθήσονται οἱ ἡσυχάζοντες (12) ἐν τῇ γῇ· ὅτι ἡ
+
+# block=7
+(9) Τὸ ἱερὸν αὐτοῦ ὄνομα. Dei nomen intelligit
+Turrianus, præter verba Gabrielis, atque orationis
+contextum. Malim de ipso Gabriele accipere. Non
+insolens enim est locutio, ὄνομα, nomen, pro per-
+sona et re. Act. I, 15; Apocal. III, 4; XI, 13. Θηβαίων
+ὄνομα, de Thebanis. Romanum nomen, hoc est, Ro-
+mani. Felix nomen agelli, pro agello : Nomen virgi-
+nis, aliaque per criticos acervata. Cot.
+(10) Τίσῃ. Alter cod. λάβῃ, eodem sensu. Cler.
+(11) Διαπεφωνήκαμεν. Hesychio διαπεφωνήκαμεν
+est ἀπωλόμεθα : Suidæ διαπεφώνηκεν · ἐσχάτην καὶ
+τελευταίαν φωνὴν ἀφῆκε, τουτέστιν ἀπέθανεν. Unde
+hic Ezechielis III, 11, in Ambrosio vertitur interi-
+vimus, in Cypriano exspiravimus. Verum aliter apud
+LXX videtur legisse Tertullianus. Habet enim,
+cap. 29 libri De resurrectione carnis : avulsi sumus
+in eis, quod est, opinor, διαπεφορήκαμεν ἐν αὐτοῖς.
+Sed illud ἐν αὐτοῖς jam olim excidit : reddi autem
+debet ex Hebræo, in nobis. Cot.
+(12) Ἡσυχάζοντες. Deest in altero cod. Vind.
+Cler.
+
+# block=8
+ἐμαρτύρησε. Quod melius, hoc sensu : eos enim
+scivisse veritatem atque esse confessos. Id.
+
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA
+
+# block=10
+⁸ Luc. xxi, 18. ⁹ Ibid., 19. ¹⁰ ¹¹ Dan. xii, 2; Matth. xiii, 43. ¹² Eccle. xii, 14. ¹³ Ezech. xxxvii, 4.
+¹⁴ Ibid., 13, 14. ¹⁵ Isa. xxvi, 19.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=13
+839
+
+# block=15
+840

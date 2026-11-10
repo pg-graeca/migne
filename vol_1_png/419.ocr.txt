@@ -1,0 +1,240 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,192,1151,933,2135
+2,196,137,944,696
+3,970,143,1709,650
+4,961,1152,1709,1580
+5,191,2592,924,2693
+6,958,2239,1687,2629
+7,187,2133,931,2496
+8,191,2493,927,2593
+9,965,1677,1695,1876
+10,955,2627,1690,2695
+12,191,753,941,1018
+13,434,714,687,746
+16,1244,715,1476,749
+17,724,88,1193,125
+18,963,1873,1694,2070
+19,959,2135,1689,2238
+20,967,756,1684,1016
+21,961,2069,1692,2137
+22,791,1094,1092,1124
+23,964,1580,1696,1679
+24,1630,82,1716,140
+25,190,82,270,132
+26,217,1030,1691,1080
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=16px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=16px
+# block=25 fontSize=16px
+# block=26 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=25
+237
+
+# block=24
+238
+
+# block=17
+EPISTOLA I AD CORINTHIOS.
+
+# block=2
+νως ἐπιδῶμεν ἑαυτοὺς τοῖς θελήμασι τῶν ἀνθρώπων, .
+oἵτινες ἐξακοντίζουσιν (96) εἰς ἔριν καὶ στάσεις, εἰς
+τὸ ἀπαλλοτριῶσαι ἡμᾶς τοῦ καλῶς ἔχοντος. Χρηστευσώ-
+μεθα αὐτοῖς (97) κατὰ τὴν εὐσπλαγχνίαν καὶ γλυκύτητα
+τοῦ ποιήσαντος ἡμᾶς. Γέγραπται γάρ· Χρηστοὶ ἔσον-
+ται οἰκήτορες γῆς, ἄκακοι δὲ ὑπολειφθήσονται
+ἐπ’ αὐτῆς (98)· οἱ δὲ παρανομοῦντες ἐξολεθρευ-
+θήσονται (99) ἀπ’ αὐτῆς. Καὶ πάλιν λέγει· Εἶδον
+(100) ἀσεβῆ  ὑπερυψούμενον, καὶ φιλερόμενον (1)
+ὡς τὰς κέδρους τοῦ Λιβάνου· καὶ παρῆλθον, καὶ
+ἰδοὺ οὐκ ἦν, καὶ ἐξεζήτησα τὸν τόπον αὐτοῦ, καὶ
+οὐχ εὗρον. Φύλασσε ἀκακίαν, καὶ ἴδε εὐθύτητα,
+ὅτι ἐστὶν ἐγκατάλειμμα (2) ἀνθρώπῳ εἰρηνικῷ.
+
+# block=3
+nos tradiderimus voluntatibus hominum, qui ad
+contentionem et seditiones collimant, ut nos ab eo
+quod recte habet abalienent. Benigni erga ipsos
+simus secundum misericordiam, et dulcedinem
+Creatoris nostri. Scriptum est enim : Benigni erunt
+habitatores terræ; et innocentes remanebunt in
+ea ⁸² : iniqui vero exterminabuntur ab illa ⁸³. Et rur-
+sus dicit : Vidi impium superexaltatum et elevatum
+sicut cedros Libani : et transivi et ecce non erat:
+et quæsivi locum illius, et non inveni. Custodi inno-
+centiam, et vide æquitatem; quoniam sunt reliquiæ
+homini pacifico ⁸⁴.
+
+# block=13
+ΚΕΦΑΛΑΙΟΝ ΙΕ'.
+
+# block=16
+CAPUT XV.
+
+# block=12
+Τοίνυν (3) κολληθῶμεν τοῖς μετ’ εὐσεβείας εἰρη-
+νεύουσιν, καὶ μὴ τοῖς μεθ’ ὑποκρίσεως βουλομένοις
+(4) εἰρήνην. Λέγει γάρ που· Οὗτος ὁ λαὸς τοῖς χεί-
+λεσίν με τιμᾷ, ἡ δὲ καρδία αὐτῶν πόῤῥω ἄπεσ-
+τιν ἀπ’ ἐμοῦ. Καὶ πάλιν· Τῷ στόματι αὐτῶν εὐ-
+λογοῦσαν (5), τῇ δὲ καρδίᾳ αὐτῶν (6) κατηρῶντο.
+
+# block=20
+Adhæreamus ergo iis qui cum pietate pacem
+colunt, et non iis qui cum simulatione pacem vo
+lunt. Dicit enim alicubi : Populus hic labiis me ho
+norat; cor autem eorum longe abest a me ⁸⁵. Et ite
+rum : Ore suo benedicebant; corde vero suo male
+dicebant ⁸⁶. Rursusque ait : Dilexerunt eum ore suo
+
+# block=26
+⁸² Prov. 11, 21, 22 sec. LXX. ⁸³ Psal. XXXVI, 9. ⁸⁴ Ibid. 35-37. ⁸⁵ Isa. XXIX, 13. ⁸⁶ Psal. LXI, 5.
+
+# block=22
+VARIORUM NOTÆ.
+
+# block=1
+(96) Οἵτινες ἐξακοντίζουσιν. Dominus Boisiius
+deesse aliquid putat, et vocem λόγους, aut ῥήματα,
+suppleri debere. Ego malim, sine ulla additione,
+ἐξακοντίζειν legere, atque in versione nostra a nobis
+redditum est : ut vero sensus plenior et rotundior
+sit, non recuso τὰς γλώσσας addere, si quis ita ve-
+lit; et phrasi quidem elegantissima, qua Libanius
+Epistola ad Basilium utitur : Εἰ ταῦτα γλώττης ἀροστέ-
+ρας, τίς ἂν εἴης αὐτὴν ἀκονῶν; Sic epistola ad Sallu-
+stium nondum edita, χεῖρα ἀκονᾷν dicit, ἤδη γὰρ ἀν-
+ισταμένων τῶν τὰς δεξιὰς εἰς τὸ ταχέως γράφειν ἀκο-
+νώντων · sic Psalmista, linguam improborum, qui
+iniquitatem et dolos machinantur, ξυρὸν ἠκονημέ-
+νον, vocat. Quibus vero ἐξακοντίζειν magis placet,
+ad explendum sensum addere possunt, τὰς γλώσ-
+σας vel ταῖς γλώσσαις· lingua enim conviciantium
+et pravorum hominum, βολίς ἐστι τιτρώσκουσα,
+et τόξον ψευδές, ut loquitur Jeremias cap. IX, vers.
+3 et 8, quam Salomon in Proverbiis μάχαιραν ap-
+pellat, et Jobus μάστιγα. Unde Nazianzenus, epist.
+191, quæ in ms. codice bibliothecæ Bodleianæ, non
+Timotheo, ut in impressis, sed Stagirio sophistæ,
+inscribitur : Κατάθεσθέ ποτε τὰ ὅπλα, καὶ τὰς σφεν-
+δόνας, καὶ τὰς δεινοτέρας μελίας, τὰς γλώσσας, αἷς
+κατ’ ἀλλήλων βάλλετε, καὶ τιτρώσκετε, et Nicepho-
+rus Callistus, lib. VIII, cap. 11 de Ariana hæresi,
+et schismate in Ecclesia tuin orto, verba faciens :
+Οὐ γὰρ ἀλλόγλωσσοι ταῖς ἐκκλησίαις ἐπεστράτευον,
+ἀλλ’ ὁμοδίαιτοι καὶ ὁμόφυλοι κατ’ ἀλλήλων ὡπλίζοντο,
+ταῖς γλώσσαις, οἷα δόρασι, χρώμενοι. JUN.
+
+# block=4
+Sic et ὀλεθρεύω, ὀλέθρευσις, ὀλεθρευτής : et ἐξολε-
+θρεύω, etc. Utuntur ὀλεθρεύω tum Eustathius, tum
+Suidas; adeo ut antiquior esse videatur et accura-
+tior scribendi ratio per ε : derivatur enim ὀλεθρεύω
+ab ὄλεθρος, quod semper scribitur cum ε. WOTT. GALL.
+— Quod hic de LXX asseritur manifestus est error.
+Etenim apud seniores illos perpetuo legimus ὀλο-
+θρεύω, ἐξολοθρεύω. Sic etiam ὀλόθρευσις, ἐξολό-
+θρευμα (utrumque ἅπαξ λεγόμενον, Jos. XVII, 15;
+et I Reg. XV, 21), ἐξολόθρευσις. Suidas vero in
+Lexico altum de his ambobus verbis tenet silen-
+tium. Nihil dicere possum de Eustathio quem non
+habeo præ manibus. DRACH.
+
+# block=23
+(100) Εἶδον, κ. τ. λ. Hæc et sequentia usque ad
+initium cap. 16, paucis mutatis, recitat Clemens
+Alex. Στρωμ., lib. IV, cap. 5, pag. 577. GALL.
+
+# block=9
+(1) Αἰπερόμενον. Editi αἰρόμενον. At ms. αἰπε-
+ρόμενον. Neque suspicari quis potest, quin hic le-
+gendum sit ἐπαιρόμενον, ut apud LXX. CUM enim in
+hoc ms. ε et αι sæpissime inter se permutentur,
+utraque tum vocali tum diphthongo suis locis re-
+stituta, αἰπερόμενον evadit ἐπαιρόμενον. Wott. ID.
+
+# block=18
+(2) Ἐγκατάλειμμα. Memoriam intelligit Euthy-
+mius, quæ duplici modo conservatur, vel per pro-
+lem, vel per bona opera; ingeniosissime vero Fer-
+randus locum hunc ita παραφράζει : Erit tempus
+quo insonii homini merces congruens rependetur.
+Uterque ad Hymnographi mentem. COLOM.
+
+# block=21
+(3) Τοίνυν, κ. τ. λ. Hæc quoque Nicon in Pan-
+dect., ut modo notatum, cap. 14. GALL.
+
+# block=7
+(97) Χρηστευσώμεθα αὐτοῖς. Pro αὐτοῖς al. ma-
+lunt ἀλλήλοις. Al. ἑαυτοῖς : quæ sone vox interdum
+usurpatur pro ἀλλήλοις. Sic Coloss. III, 13 : χαριζό-
+μενοι ἑαυτοῖς. At lectio ms. retinenda videtur, si
+referatur ad schismaticos, de quibus paulo supe-
+rius : τοῖς ἐν ἀλαζονείᾳ, κ. τ. λ., qui utique sensus
+contextui hujus capitis aptius cohærere videtur.
+Sin aliter sentias, ne tunc quidem mutanda lectio :
+sæpe namque utitur S. Pater his vocibus, αὐτοῖς,
+αὐτούς, pro ἀλλήλοις, ἀλλήλους, ut infra notatum ad
+Epist. 2, cap. 4. GALL.
+
+# block=19
+(4) Βουλομένοις. Αl. λαλοῦμενοις, al. βουλευομέ-
+νοις. At, amabo te, cur demum ms. lectio sollici-
+tanda? An non satis clare insinuat S. Pater et ani-
+
+# block=6
+mi perversi sententiam et verba dolosa? ID.
+(5) Εὐλογοῦσαν. Hanc ms. lectionem recte se
+habere Mill. perspexit : tertia scilicet pluralis Do-
+rica. Clem. Alex. εὐλογοῦσι. Editi vero cum LXX
+εὐλόγουν. Millio mecedo; eamque lectionem con-
+firmo ex LXX, Psalm. v, 10 : Ταῖς γλώσσαις αὐτῶν
+ἐδολιοῦσαν. Qui sane locus, Dorica item dialecto ex-
+pressus, mihi videtur huic Clementino quam simil-
+limus. Id non advertens Wott. minus recte censuit,
+hic forte legendum εὐλόγησαν : hæc enim tempo-
+rum inversio psalmi a Clemente recitati sententiam
+immutat. ID.
+
+# block=8
+(98) Χρηστοὶ ἔσονται οἰκήτορες γῆς, ἄκακοι δὲ
+ὑπολειφθήσονται ἐπ’ αὐτῆς. Hæc ergo vere sunt
+LXX Senum. CоT.
+
+# block=5
+(99) Ἐξολεθρευθήσονται. Junius et editi ad
+unum omnes legunt ἐξολοθρευθήσονται. At ms. ἐξο-
+λεθρευθήσονται, tum hic, tum perpetuo apud LXX.
+
+# block=10
+(6) Τῇ δὲ καρδίᾳ αὐτῶν. Vocem αὐτῶν, quæ deest
+editis, restituit Wott. ex ms. ID.

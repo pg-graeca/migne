@@ -1,0 +1,186 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,240,167,999,1035
+2,1030,174,1796,1037
+3,244,2301,997,2740
+4,241,2037,991,2304
+5,240,1405,988,2038
+6,238,1168,996,1407
+7,1030,1405,1792,1574
+8,661,110,1377,151
+9,835,1091,1155,1126
+10,1018,1160,1788,1408
+11,1027,1564,1800,2702
+12,239,102,325,144
+13,1699,118,1785,164
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=240 source_y1=167 source_x2=999 source_y2=1035
+gus, vates, captator carminum magicorum, mendi-
+cus, agyrta, circulator, amuleta faciens, lustrans,
+augur, ominum et signorum monstrator, palpita-
+tionum interpres ; in occursu observans vitia ocu-
+lorum aut pedum, vel observans aves, aut mustelas,
+aut voces, aut symbolicas auditiones, probentur
+tempore : vix enim elui potest malitia : cum igitur
+desierint, admittantur; si non pareant, rejician-
+tur. Concubina cujuspiam infidelis mancipium, illi
+soli dedita, admittatur; si autem etiam cum aliis
+petulanter agit, rejiciatur. Fidelis, qui habet concu-
+binam; si servam, desinat, et legitime ducat uxo-
+rem ; si liberam, eam in uxorem legitimam acci-
+piat ; si nolit, rejiciatur. Qui gentilium mores se-
+ctatur, vel Judaicas fabulas, aut mutet vitam, aut
+repellatur. Si quis animum addicit insaniæ theatri,
+aut venationibus, aut equestribus cursibus, aut lu-
+dorum certaminibus ; vel cesset, vel rejiciatur.
+Qui erit catechumenus, per tres annos catechesi
+informetur : quod si studiose se gerit, et rei desi-
+
+# block=2 source_x1=1030 source_y1=174 source_x2=1796 source_y2=1037
+μῶν ἑρμηνεὺς (25), φυλαττόμενος ἐν συναντήσει (26)
+λώβας ὄψεως (27), ἢ ποδῶν, ἢ ὀρνίθων, γαλῶν, ἢ
+ἐπιφωνήσεων, ἢ παρακροαμάτων συμβολικῶν· χρόνῳ
+δοκιμαζέσθωσαν. Δυσέκνιπτος γὰρ ἡ κακία· παυσά-
+μενοι οὖν προσδεχέσθωσαν, μὴ πειθόμενοι δὲ ἀπο-
+βαλλέσθωσαν· παλλακή τινος ἀπίστου δούλη (28),
+ἐκείνῳ μόνῳ σχολάζουσα, προσδεχέσθω· εἰ δὲ καὶ
+πρὸς ἄλλους ἀσελγαίνει, ἀποβαλλέσθω. Πιστὸς ἐὰν
+ἔχῃ παλλακήν, εἰ μὲν δούλην, παυσάσθω, καὶ νόμῳ
+γαμείτω· (29) εἰ δὲ ἐλευθέραν, ἐκγαμείτω αὐτὴν
+νόμῳ· εἰ δὲ μὴ, ἀποβαλλέσθω. Ἑλληνικοῖς τις ἔθε-
+σιν ἐξακολουθῶν, ἢ Ἰουδαϊκοῖς μύθοις, ἢ μεταθέσθω,
+ἢ ἀποβαλλέσθω. Θεατρομανίᾳ εἴ τις πρόσκειται, ἢ
+κυνηγίοις, ἢ ἱπποδρομίοις, ἢ ἀγῶσιν· (30) ἢ παυ-
+σάσθω, ἢ ἀποβαλλέσθω, Ὁ μέλλων κατηχεῖσθαι, τρία
+ἔτη κατηχείσθω· εἰ δὲ σπουδαῖός τις ᾖ, καὶ εὔνοιαν
+ἔχει περὶ τὸ πρᾶγμα, προσδεχέσθω· ὅτι οὐχ ὁ χρό-
+νος, ἀλλ’ ὁ τρόπος κρίνεται. Ὁ διδάσκων (31), εἰ καὶ
+λαϊκὸς ᾖ, ἔμπειρος δὲ τοῦ λόγου, καὶ τὸν τρόπον
+σεμνὸς, διδασκέτω· « ἔσονται γὰρ πάντες διδακτοὶ
+
+# block=3 source_x1=244 source_y1=2301 source_x2=997 source_y2=2740
+(27) Ὄψεως. Cod. Vind. ὄφιν, perperam. CLER.
+(28) Παλλακή τινος ἀπίστου δούλη. Nota sunt
+ex multis auctoribus, eoque non pluribus expli-
+canda, duo concubinarum genera : illicitum plane,
+earum quæ clam, ad tempus, libidinis solius causa
+assumuntur : aliudque permissum aliquando atque
+toleratum, feminarum publicæ in perpetuum ad
+suscipiendos liberos ductarum, absque tamen do-
+talibus instrumentis. Sed culpæ affine esset non
+ascribere B. Augustini locum, qui singulariter ad
+Constitutionem facit. De concubina quoque, si pro-
+fessa fuerit nullum se alium cognaturam, etiam si ab
+illo cui subdita est, dimittatur; merito dubitatur,
+
+# block=4 source_x1=241 source_y1=2037 source_x2=991 source_y2=2304
+(26) Φυλαττόμενος ἐν συναντήσει λώβας ὄψεως
+[al. ὄψεων], ἢ ποδῶν. Pari modo S. Chrysostomus
+homil. 21 ad populum Antiochenum : Πολλάκις ἐξελ-
+θών τις τὴν οἰκίαν τὴν ἑαυτοῦ, εἶδεν ἄνθρωπον ἑτε-
+ρόφθαλμον, ἢ χωλεύοντα, καὶ οἰωνίσατο. Sæpe do-
+mum quis suam egressus hominem vidit unoculum,
+vel claudicantem, et ominatus est. Item S. Basilius
+ad Isaiæ n, 6, IB.
+
+# block=5 source_x1=240 source_y1=1405 source_x2=988 source_y2=2038
+(25) Παλμῶν ἑρμηνεύς. Epiphanius in Exposi-
+tione fidei, num. 21, παλμῶν παρατηρήσεις. Quæ
+duo loca infeliciter tractavit infelix Magnus Miscel-
+laneorum lib. IV, cap. ult. exponens de extispicibus,
+extorum inspectione ac palpitatione. Nec felicius
+in editione Petaviana Epiphanii, παλμῶν παρατη-
+ρήσεις vertitur sortitiones. Παλμὸς est alicujus
+membri palpitatio et subsultatio, dicta saltus, sal-
+tio et salissatio : unde salitores et salissatores, qui
+inde aliquid fausti vel infausti augurabantur, au-
+gurio quod appellant παλμικόν, παλμωτικόν, et
+παλμαστικόν. Scripserunt ea de re sibylla Erythræa,
+Posidonius, et alii multi : citatque Meursius Exer-
+citationum criticarum, parte I, p. 114, 115, verba
+Melampodis Hierogrammatei ex Opere inscripto,
+περὶ παλμῶν μαντική, πρὸς Πτολεμαῖον βασιλέα.
+De παλμῶν παρατηρήσει optime omnium auctor
+Quæstionum ad orthodoxos, inter Opera Justini
+martyris, quæst. 19. IB.
+
+# block=6 source_x1=238 source_y1=1168 source_x2=996 source_y2=1407
+lib. X contra Julianum, ad finem. Porro nihil fre-
+quentius in libris omnium gentium linguarumque
+omnium occurrit symbolis, seu signis superstitio-
+sis. Scholiastes noster ad περικαθαίρων, διὰ θυσιῶν
+δοκῶν κωλύειν νόσους ἢ ἁμαρτίας ; ad οἰωνιστής,
+ἤτοι ὀρνεοσκόπος ; ad συμβολοδείκτης, ὁ διὰ συμβό-
+λου τι ὑποδεικνύων πονηρόν. COT.
+
+# block=7 source_x1=1030 source_y1=1405 source_x2=1792 source_y2=1574
+*(30) Ἱπποδρομίοις, ἢ ἀγῶσιν. Tres veteres libri
+habent in hoc fragmento, Ἱπποδρομικοῖς ἀγῶσιν. Et
+infra, εἰ δέ τις λόγος κατηχήσεως γίνεται, προτιμη-
+σάτωσαν, etc. Ac postea unus ex illis, εὐμενῶς
+προσεκείσθωσαν. COT.
+
+# block=8 source_x1=661 source_y1=110 source_x2=1377 source_y2=151
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9 source_x1=835 source_y1=1091 source_x2=1155 source_y2=1126
+VARIORUM NOTÆ.
+
+# block=10 source_x1=1018 source_y1=1160 source_x2=1788 source_y2=1408
+utrum ad percipiendum baptismum non debeat ad-
+mitti, cap. 19 Lib. de fide et operibus. COT.
+(29) Παυσάσθω, καὶ νόμῳ γαμείτω. Ancillam a
+toro abjicere, et uxorem certæ ingenuitatis accipere,
+non duplicatio conjugii, sed profectus est honestatis,
+respondet Leo papa inquirenti Rustico Narbonensi,
+epist. 92. IB.
+
+# block=11 source_x1=1027 source_y1=1564 source_x2=1800 source_y2=2702
+(31) Ὁ διδάσκων, etc. Codice Regio 1026 : Ἐκ
+τῶν διατάξεων Παύλου τοῦ ἁγίου ἀποστόλου · περὶ
+κανόνων ἐκκλησιαστικῶν. — Ὁ διδάσκων, εἰ καὶ
+λαϊκὸς εἴη, etc. Hic canon canoni 64 Trullano op-
+ponitur in alio ms. Regis 1818, his verbis : Τούτῳ
+δέ τινες ἀντιτύποντες, κανόνα παραφέρουσιν ἕτερον,
+ἐκτεθειμένον, ὥς φασι, ὑπὸ τοῦ μεγίστου τῶν ἀπο-
+στόλων Παύλου, οὕτως ἔχοντα· Ὁ διδάσκων εἰ καὶ
+λαϊκὸς εἴη, etc., usque ad διδακτοὶ Θεοῦ. Hoc est:
+Huic autem canoni sextæ synodi quidam repugnan-
+tes, canonem alium proferunt, expositum, ut aiunt,
+a maximo apostolorum Paulo, sic habentem : Qui
+docet, etsi laicus sit, etc. Respondet ille nescio quis,
+diversitatem oriri ex temporum diversitate : quando
+pauci erant Christiani, iique inter alia charismata
+accipiebant donum doctrinæ ; et quando multi facti
+sunt Christiani, et charisma illud cessavit cum aliis
+donis. Subdit posteriores canones legesque præva-
+lere prioribus. Nicon monachus in Pandecte, opere
+inedito, ejusdem Gazæ Regiæ κειμηλίῳ, cap. 8.....
+Ἐκ τῆς διατάξεως τοῦ ἁγίου ἀποστόλου Παύλου· Ὁ
+διδάσκων εἰ καὶ λαϊκὸς εἴη, etc..... Σχόλιον..... ὅρα
+πῶς ἐπιτρέπει λαϊκοὺς διδάσκειν, ὅπερ ἡ ἕκτη σύνο-
+δος ἐν τῷ ἑξηκοστῷ τετάρτῳ κανόνι κωλύει, καὶ
+ἐπιτιμᾷ τοὺς φιλαρχίαν νοσοῦντας, καὶ ἄνευ ἐπιτρο-
+πῆς αὐθαδῶς τῷ διδάσκειν δημοσίᾳ ἐπιπηδῶντας.
+Legere potes super ea quæstione, in utramque par-
+tem, Eusebii Historiam eccles., lib. VI, cap. 19;
+concilii Carthaginensis 4, canonem 98; et Leonis
+PP. epistolas 62 et 63, qui ultimus locus citatur in
+Capitularibus, addit. IV, cap. 49; atqui lib. III, cap.
+ult. docere presbyterorum esse officium notat dict.
+Interpretor de jure ordinario, aut de concionibus
+publicis in Ecclesia, ad fideles. IB.
+
+# block=12 source_x1=239 source_y1=102 source_x2=325 source_y2=144
+1131
+
+# block=13 source_x1=1699 source_y1=118 source_x2=1785 source_y2=164
+1132

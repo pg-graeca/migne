@@ -1,0 +1,205 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,266,390,1025,904
+2,1051,394,1809,908
+3,1041,1934,1800,2666
+4,256,1107,1005,2697
+6,273,135,1027,300
+7,1042,1105,1803,1703
+8,1046,1705,1783,1937
+9,1057,138,1803,343
+11,305,948,1022,982
+12,1292,351,1566,389
+13,540,349,751,384
+14,885,1033,1176,1067
+15,627,75,1402,116
+16,277,78,335,118
+17,1735,86,1803,128
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=16px
+# block=17 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=16
+291
+
+# block=17
+292
+
+# block=6
+præter id quod voluntati ejus consentaneum est,
+aliquid faciunt, morte multantur 50. Videtis, fra-
+tres : quo majori cognitione digni habiti sumus, eo
+graviori periculo sumus obnoxii.
+
+# block=9
+ἀρχιερέως καὶ τῶν προειρημένων λειτουργῶν. Οἱ
+οὖν παρὰ τὸ καθῆκον τῆς βουλήσεως αὐτοῦ ποιοῦν-
+τές τι, θάνατον τὸ πρόστιμον (81) ἔχουσιν. Ὁρᾶτε (82),
+ἀδελφοὶ, ὅσῳ πλείονος κατηξιώθημεν γνώσεως, τοσ-
+ούτῳ μᾶλλον ὑποκείμεθα κινδύνῳ.
+
+# block=13
+CAPUT XLII.
+
+# block=12
+ΚΕΦΑΛΑΙΟΝ ΜΒ'.
+
+# block=1
+Apostoli nobis evangelizarunt a Domino Jesu
+Christo, Jesus Christus a Deo. Missus igitur
+est Christus a Deo, et apostoli a Christo : et fa-
+ctum est utrumque ordinatim ex voluntate Dei. Ita-
+que acceptis mandatis, et certo persuasi per resur-
+rectionem Domini nostri Jesu Christi, et in fide
+confirmati per verbum Dei ⁵¹ cum Spiritus sancti
+plenitudine ac securitate, egressi sunt, annuntian-
+tes adventurum esse regnum Dei. Prædicantes
+igitur per regiones ac urbes, primitias earum, spi-
+ritu cum probassent, in episcopos et diaconos eo-
+rum qui credituri erant, constituerunt. Neque hoc
+
+# block=2
+Οἱ ἀπόστολοι ἡμῖν εὐηγγελήσθηκαν ἀπὸ τοῦ Κυ-
+ρίου Ἰησοῦ Χριστοῦ, Ἰησοῦς ὁ Χριστὸς ἀπὸ τοῦ
+Θεοῦ. Ἐξεπέμφθη ὁ Χριστὸς οὖν ἀπὸ τοῦ Θεοῦ, καὶ
+οἱ ἀπόστολοι ἀπὸ τοῦ Χριστοῦ· ἐγένοντο οὖν ἀμφότερα
+εὐτάκτως ἐκ θελήματος Θεοῦ. Παραγγελίας οὖν λα-
+βόντες, καὶ πληροφορηθέντες διὰ τῆς ἀναστάσεως
+τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, καὶ πιστωθέντες
+ἐν τῷ λόγῳ (83) τοῦ Θεοῦ, μετὰ πληροφορίας Πνεύ-
+ματος ἁγίου, ἐξῆλθον εὐαγγελιζόμενοι τὴν βασιλείαν
+τοῦ Θεοῦ μέλλειν ἔρχεσθαι. Κατὰ χώρας οὖν καὶ πό-
+λεις κηρύσσοντες, καθέστανον (84) τὰς ἀπαρχὰς
+αὐτῶν, δοκιμάσαντες τῷ πνεύματι, εἰς ἐπισκόπους
+
+# block=11
+⁵⁰ Vide Clem. Alex., Strom. I. ⁵¹ I Thess. I, 5.
+
+# block=14
+VARIORUM NOTÆ.
+
+# block=7
+τῶν φρικτῶν μυστηρίων in primitiva Ecclesia usur-
+pari solitam, respiciat. "ΟΣοι ἐν μετανοίᾳ, ἀπέλθετε,
+πάντες, εἰ, Ἀπέλθετε οἱ μὴ δυνάμενοι δεηθῆναι.
+Vide ejusdem homil. 3 in Epistolam ad Ephesios,
+et diligenter perpende. JUN. — Hæc ex Clemente
+Alexandr. p. 521, B, male immutata, effictaque.
+Nam et male hic hærent, vix quidem Græca, et
+falsissimum dicunt; scilicet, fuisse summi et cæte-
+rorum sacerdotum, ac levitarum esse μωμοσκό-
+πους. BERNARDUS. — Tanta cautela, inquit Philo
+Judæus initio lib. De victimis, utuntur in hoc negotio,
+ut probatissimi sacerdotum peritissimique ab extremis
+pedibus exorsi tum conspicua tum quæ sub ventre
+feminibusque latent diligenter perscrutentur, ne vel
+levis macula fugiat. Idem Philo lib. De agricultura
+observat et apud Gentiles fuisse delectos qui hoc
+munere fungerentur, hosque a nonnullis μωμο-
+σκόπους nuncupatos. CONST.
+
+# block=4
+fuerint μωμοσκόποι, abunde ex scriptoribus ethni-
+cis, Judæis, Christianis, docuerunt viri eruditi.
+Atque eos victimarum probatores μοσχοσφραγι-
+στάς vocatos invenies in lib. IV Porphyrii De ab-
+stinentia ab animatis. COT. — Μωμοσκοπηθέν.
+Sacerdotes non tantum Judæorum, sed gentium
+etiam, hostias probare solebant, et victimarum
+præcordia diligenter inspicere et examinare, ante-
+quam litarent, quod οἱ ἔξωθεν δοκιμάζειν, et ἐξε-
+τάζειν τὰ ἱερεῖα vocant, scriptores autem sacri
+μωμοσκοπεῖν. Unde Philo Judæus Περὶ γεωργίας·
+Ἄτοπον γὰρ ἱερέων μὲν πρόνοιαν ἔχειν ὡς ὁλό-
+κληροι τὰ σώματα καὶ παντελεῖς ἔσονται, τῶν τε κα-
+ταθυομένων ζῴων, ὡς οὐδὲν οὐδεμιᾷ τὸ παράπαν,
+ἀλλ' οὐδὲ τῇ βραχυτάτῃ χρήσεται λώβῃ, καὶ, τίνας
+δεῖ καὶ ὅσους ἐπ' αὐτὸ τοῦτο χειροτονεῖν τὸ ἔργον
+οὓς ἔνιοι μωμοσκόπους ὀνομάζουσιν, ἵνα ἄμωμα καὶ
+ἀσινῆ προσάγηται τῷ βωμῷ τὰ ἱερεῖα, etc., ubi no-
+minis rationem observare licet, et quod infrequen-
+ter ante ipsum, et a quibusdam tantum usurpare-
+tur. Utut est, libro De sacrificiis, et initio tractatus
+De sacrificantibus, ostendit summam curam adhi-
+bitam fuisse in deligendis his μωμοσκόποις ἀριστίν-
+δην, qui accurato examine sacrificia singula, et
+partes singulas scrutarentur ἀπὸ ποδῶν ἄκρων, ὅσα
+τε ἐμφανῆ καὶ ὅσα ἐπὶ γαστρὶ, καὶ μηροῖς ἂν κέκρυ-
+πται, ne quid vitii, corruptelæ, aut labis lateret.
+Sic Clemens Alex. lib. IV Strom.: Ἦσαν δὲ κἀν ταῖς
+τῶν θυσιῶν προσαγωγαῖς παρὰ τῷ νόμῳ, οἱ τῶν
+ἱερείων μωμοσκόποι. Et Chrys. hom. 20 in Epist.
+ad Romanos, de prævia examinatione nostra cor-
+poris et animi, antequam ad sacram synaxin acce-
+dere præsumamus, sic scribit : Διὰ χρὴ πανταχό-
+θεν μωμοσκοπεῖσθαι τὸ σῶμα τὸ ἡμέτερον. Εἰ γὰρ
+οἱ τὰς παλαιὰς ἀναφέροντες θυσίας ἐκελεύοντο πάντα
+περισκοπεῖν, καὶ οὔτε ὠτότμητον, οὔτε κολοβόκερ-
+κον, οὔτε ψωρακριῶντα, οὔτε λειχῆνα ἔχοντα ἐπετρέ-
+ποντο ἀναφέρειν· πολλῷ μᾶλλον ἡμᾶς τοὺς οὐ πρό-
+βατα ἄλογα, ἀλλ' ἑαυτοὺς ἀναφέροντας, πλείονα ἀ-
+κρίβειαν ἐπιδείκνυσθαι χρὴ, καὶ πάντοθεν εἶναι κα-
+θαρούς, etc. Et homil. 17 in Epist. ad Hebræos :
+Διὰ τοῦτο καὶ ὁ ἱερεὺς ἐπιφωνεῖ τότε τοὺς ἁγίους κα-
+λῶν καὶ διὰ τῆς φωνῆς ταύτης μωμοσκοπῶν ἅπαν-
+τας, ὥστε μὴ προσελθεῖν τινα ἀπαράσκευον, etc.
+Dominus Dunæus in notationibus suis, pro μω-
+μοσκοπῶν hoc loco μιμήσχων reponendum putat,
+ego vero μωμοσκοπῶν retinere malim, cum Chry-
+sostomus, solemnem illam vocem in participatione
+
+# block=8
+(81) Πρόστιμον. Hesychius : πρόστιμον, ζημία.
+COLOM.
+(82) Ὁρᾶτε, etc. Hinc usque ad cap. 48, omnia
+omisit Clemens Alexandrinus , nec agnovit.
+BERN.
+(83) Ἐν τῷ λόγῳ. Omnibus codd. impp. deest
+ἐν, quod apud Wott. exhibet ms. GALI.
+
+# block=3
+(84) Καθέστανον. Sic ex ms. Wott. Editi, καθί-
+στανον. ID. — Καθίστανον τὰς ἀπαρχάς. Primo-
+geniti olim, natalium jure, sibi sacerdotium vindi-
+cabant. Primitivæ autem Ecclesiæ usus id maxime
+poscebat, et plurimi intererat, ut conversus qui-
+libet non confirmaret modo, sed et faceret fratres.
+Huic mori digitum intentat Epiphanius hæres. 75,
+et ex Actorum libro et D. Pauli Epistolis constat
+Ecclesias tunc temporis fuisse, quæ civitatis to-
+tius nomine censerentur, κατ' οἶκον constitutas.
+Episcopos vero Spiritus sancti monitis huic curæ
+admotos fuisse discimus ex Act. I, 24; XXIII, 2; I
+Tim. IV, 14, quod et Eusebius, ex Clem. Alexan-
+drino, de B. Joanne refert, dum illum narrat
+episcopos in Ecclesiis Asiæ ordinasse τοὺς ὑπὸ
+τοῦ Πνεύματος σημαινομένους; cujus rei vestigia
+etiamnum comparent, siquidem nunc ad sacerdo-
+tium nemo admittitur, nisi qui prius professus fue-
+rit Spiritus sancti instinctu vocatum ad munus
+istud suscipiendum, et ita, post preces solemniter
+pro ejusdem largitione factas, demum hac for-
+mula ordinatur : Accipito Spiritum sanctum. FELL.

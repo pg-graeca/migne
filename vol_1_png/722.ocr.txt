@@ -1,0 +1,211 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,254,126,1008,1031
+2,1040,123,1805,1074
+5,252,2078,1012,2549
+6,1040,2246,1795,2414
+7,250,2546,1005,2702
+8,652,68,1382,112
+9,1042,2014,1791,2249
+10,256,1088,979,1231
+11,257,64,311,115
+13,1027,1265,1804,1468
+14,1041,1100,1801,1274
+15,1038,2413,1797,2648
+16,255,1256,953,1466
+17,257,2011,999,2084
+18,251,1476,1001,1836
+19,1033,1480,1801,1838
+20,243,1846,1799,1936
+21,855,1950,1187,1990
+22,1721,66,1795,116
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=11
+843
+
+# block=22
+844
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=2
+ριος χοῦν ἀπὸ τῆς γῆς, καὶ ἔπλασε τὸν ἄνθρωπον, καὶ
+ἐνεφύσησεν εἰς τὸ πρόσωπον αὐτοῦ πνοὴν ζωῆς, καὶ
+ἐγένετο ὁ ἄνθρωπος εἰς ψυχὴν ζῶσαν· » ὁ καὶ μετὰ
+τὴν ἀνηκουστίαν ἐπειπών· « Γῆ εἶ, καὶ εἰς γῆν ἀπε-
+λεύσῃ· » αὐτὸς καὶ εἰς τὰ μετὰ ταῦτα ἐπηγγείλατο
+ἡμῖν τὴν ἀνάστασιν. « Ἀκούσονται γὰρ, φησὶ, πάντες οἱ
+ἐν τοῖς μνημείοις τῆς φωνῆς τοῦ Υἱοῦ τοῦ Θεοῦ· καὶ οἱ
+ἀκούσαντες ζήσονται. » Πρὸς δὲ τούτοις πιστεύομεν τὴν
+ἀνάστασιν γίνεσθαι, καὶ ἐκ τῆς τοῦ Κυρίου ἀναστά-
+σεως. Αὐτὸς γάρ ἐστιν ὁ καὶ Λάζαρον ἀναστήσας τε-
+τραήμερον, καὶ τὴν θυγατέρα Ἰαείρου, καὶ τὸν υἱὸν
+τῆς χήρας, καὶ ἑαυτὸν προστάγματι τοῦ Πατρὸς διὰ
+τριῶν ἡμερῶν ἀνεγείρας, ὁ ἀῤῥαβὼν τῆς ἀναστάσεως
+ἡμῶν. « Ἐγὼ (20) γάρ, φησὶν, εἰμὶ ἡ ἀνάστασις καὶ
+ἡ ζωή. » Ὁ τὸν Ἰωνᾶν διὰ τριῶν ἡμερῶν ζῶντα καὶ
+ἀπαθῆ ἐξαγαγὼν ἐκ τῆς κοιλίας τοῦ κήτους καὶ τοὺς
+τρεῖς παῖδας ἐκ καμίνου Βαβυλωνίας, καὶ τὸν Δανιὴλ
+ἐκ στόματος λεόντων, οὐκ ἀπορήσει δυνάμεως καὶ ἡμᾶς
+ἀνεγεῖραι. Εἰ δὲ χλευάζουσιν Ἕλληνες, ἀπιστοῦντες ταῖς
+ἡμετέραις Γραφαῖς, πιστωσάτω αὐτοὺς, κἂν ἡ αὐτῶν
+προφῆτις Ἀβύλλα [altera editio Σίβυλλα. Sic etiam
+cod. Vind.] (21), οὕτω πως αὐτοῖς λέγουσα κατὰ λέξιν·
+
+# block=1
+minem, et inspiravit in faciem ejus spiraculum vitæ;
+et factus est homo in animam viventem ²⁰; quique
+post inobedientiam, subjunxit: Terra es, et in ter-
+ram redibis ²¹: idem, et in posterum promisit nobis
+resurrectionem. Audient enim, inquit, omnes qui in
+monumentis sunt vocem Filii Dei; et qui audierint,
+vivent ²². Præterea credimus resurrectionem fore,
+vel ob ipsam Domini resurrectionem. Ipse enim est,
+qui Lazarum quatuor dierum mortuum resuscita-
+vit ²³; qui filiam Jairi ²⁴, filiumque viduæ ad vitam
+reduxit ²⁵; qui de mandato Patris in tertia post mor-
+tem die excitavit se ipse, arrhabo resurrectionis
+nostræ: Ego enim, inquit, sum resurrectio et vita ²⁶.
+Qui Jonam viventem ac illæsum tertio die eduxit e
+ventre ceti ²⁷, et tres pueros ex fornace Babylo-
+niæ ²⁸, et Danielem ore leonis ²⁹: is non carebit vi-
+ribus ad suscitandum nos quoque. Quod si Græci
+seu gentiles, nostris Scripturis non creduli, ca-
+chinnant, eis fidem faciat vel prophetissa eorum
+Sibylla, ita illos ad verbum allōquens [in fine libri
+IV]:
+
+# block=10
+Omnia sea postquam in cineres collapsa jacebunt,
+Æternusque Deus succensum exstinxerit ignem,
+Inque hominem Deus ipse iterum formaverit ossa,
+Et cineres mortalibus ut fuerant renovatis:
+
+# block=14
+Ἀλλ’ ὁπότ’ ἤδη πάντα τέφρα σποδόεσσα γένηται,
+Καὶ πῦρ κοιμίσῃ Θεὸς ἄφθιτος, ὅσπερ ἀνῆψεν,
+Ὀστέα καὶ σποδιὴν αὐτὸς Θεὸς ἔμπαλιν αὐτοῖς
+Ἀνδ’ ἄρα μορφώσῃ (22), στήσῃ δὲ βροτοὺς πάλιν
+[ὡς πάρος ἦσαν,
+
+# block=16
+Judicium tunc certo erit. in quo jus feret æquum
+Ipse Deus, mundi judex: ac qui impietate
+Peccarint, iterum injecta tellure tegentur:
+Contra iterum in mundo vivent pietatis amici,
+Sanctis dante Deo vitam, statum atque favorem.
+Se tunc agnoscent omnes, seseque videbunt.
+
+# block=13
+Καὶ τότε δὴ κρίσις ἔσται, ἐφ’ ᾗ δικάσει Θεὸς αὐτὸς,
+Κρίνων ἔμπαλι κόσμον· ὅσοι δ’ ὑπὸ δυσσεβίῃσιν
+Ἥμαρτον θνητοὶ, τοὺς δ’ αὖ πάλι γαῖα καλύψει.
+Ὅσσοι δ’ εὐσεβέουσι, πάλιν ζήσοντ’ ἐνὶ κόσμῳ,
+Πνεῦμα Θεοῦ δόντος, ζωήν θ’ ἅμα καὶ χάριν αὐτοῖς
+Εὐσεβέσι. Πάντες τε τότ’ εἰσόψονται ἑαυτούς.
+
+# block=18
+Cum ergo hæc quoque resurrectionem confiteatur,
+et instaurationem non neget, discernat autem pios
+ab impiis, temere nostra non credunt. Atqui refe-
+runt iidem specialem resurrectionem, qui tamen
+narrationi suæ nolunt credere. Aiunt enim exi-
+stere quamdam avem unigenam, quæ copiosam re-
+surrectionis præbeat demonstrationem. Eam alitem
+faciunt paris ac conjugis expertem, et unicam in
+
+# block=19
+Εἰ τοίνυν καὶ αὐτὴ τὴν ἀνάστασιν ὁμολογεῖ, καὶ τὴν
+παλιγγενεσίαν οὐκ ἀρνεῖται, διακρίνει δὲ τοὺς εὐσεβεῖς
+ἐκ τῶν (23) ἀσεβῶν, μάτην ἄρα τοῖς ἡμετέροις ἀπι-
+στοῦσι (24). Καίτοι φασὶ (25) καὶ εἰδικὴν (26) δει-
+κνύειν τὴν ἀνάστασιν, μὴ πιστεύοντες οἷς αὐτοὶ διη-
+γοῦνται· φασὶ γὰρ ὀρνεόν τι μονογενὲς (27) ὑπάρχειν,
+πλουσίαν τῆς ἀναστάσεως παρέχον τὴν ἀπόδειξιν· ὃ
+λέγουσιν ἄζυγον ὑπάρχειν, καὶ μόνον ἐν δημιουργίᾳ·
+
+# block=20
+²⁰ Gen. ii, 7. ²¹ Gen. iii, 19. ²² Joan. v, 28, 25. ²³ Joan. xi, 39. ²⁴ Marc. v, 41. ²⁵ Luc. vii, 14.
+²⁶ Joan. xi, 25. ²⁷ Jon. ii, 11. ²⁸ Dan. iii, 50. ²⁹ Dan. vi, 22.
+
+# block=21
+VARIORUM NOTÆ.
+
+# block=17
+(20) Ἐγώ, etc. Totus hic locus deest in altero
+cod. CLER.
+
+# block=9
+(23) Ἐκ τῶν. Alter cod. Vind. ἀπὸ τῶν. CLER.
+(24) Ἀπιστοῦσι. Addit alter λόγοις, verbis. Recte.
+CLER.
+(25) Καίτοι φασί. Sæpe repetit. Ut omnino ex-
+tra culpam sit, dum fabula phœnicis ab ethnicis re-
+lata utitur ad probandum contra eos mysterium re-
+surrectionis. COT.
+
+# block=5
+(21) Ἡ αὐτῶν προφῆτις Ἀβύλλα. Si librario-
+rum mendum non est, Sibylla nomen Abyllæ tulerit
+per irrisionem; ut quæ non fuerit juxta notationem
+nominis Σιοβούλη seu Θεοβούλη, Dei consilium et
+mens, sed Ἀβούλη, absque mente et consilio. Sic su-
+pra vidimus μηιερέα. Passimque similia in scripto-
+ribus ecclesiasticis occurrunt. Anœtus, Atactus,
+Asebius, Adoxius, Atyches, Amacarius, pro Noeto,
+Eutacto, Eusebio, Eudoxio, Eutyche, Macario; Dor-
+mitantius de Vigilantio; Scotinus de Photino, et
+Photio. Quin etiam in codice ms. viri eruditissimi
+ac humanissimi Claudii Jolii epistola S. Basilii 293,
+ubi Sebasteni nominantur, Assebasteni scribitur.
+COT.
+
+# block=6
+(26) Εἰδικήν. Unus ἰδικήν ἄλλοθεν ἕξειν αὐτοὶ δει-
+κνύειν. Mendose. Alter εἰκῆ δείκνυσιν. In margine
+στωι, hoc est Stoici; deinde καὶ περὶ τοῦ φοίνικος.
+Verba: καίτοι φασί usque ad ἀνάστασιν abundare
+videntur. CLER.
+
+# block=15
+(27) Ὄρνεόν τι μονογενές. Ultro fatemur, di-
+versas narrationes de ave phœnice, hanc, et illam
+in epistola Clementis ad Corinthios positam, non
+ejusdem esse auctoris. Quanquam nihil repugnat,
+ut idem scriptor duobus in operibus unam fabulam
+aliter atque aliter referat, alios atque alios secutus
+fabulatores. COT.
+
+# block=7
+(22) Ἔμπαλιν αὐτοῖς Ἀνδ’ ἄρα μορφώσῃ. Re-
+ponendum ex metri legibus, atque ex codice sibyl-
+lino; ἔμπαλιν ἄνδρα Μορφώσῃ. Importuna vox αὐ-
+τοῖς abest etiam ab editione Græca Veneta. IL.

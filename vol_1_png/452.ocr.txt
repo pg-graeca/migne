@@ -1,0 +1,201 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,270,192,1015,879
+2,1046,190,1812,876
+3,266,1042,1012,1537
+4,262,1529,1011,2696
+5,537,138,765,178
+6,1031,1534,1799,2694
+7,878,990,1183,1023
+8,1283,140,1557,174
+9,301,913,1138,955
+10,1740,72,1795,117
+11,620,72,1385,112
+12,1045,1036,1800,1534
+13,273,70,337,110
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=16px
+# block=12 fontSize=15px
+# block=13 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+303
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=10
+304
+
+# block=5
+CAPUT XLVI.
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ Μϛ΄.
+
+# block=2
+Τοιούτοις οὖν ὑποδείγμασι κολληθῆναι καὶ ἡμᾶς
+δεῖ, ἀδελφοί. Γέγραπται γάρ • Κολλᾶσθε (9) τοῖς
+ἁγίοις, ὅτι οἱ κολλώμενοι αὐτοῖς ἁγιασθήσονται.
+Καὶ πάλιν ἐν ἑτέρῳ τόπῳ λέγει • Μετὰ ἀνδρὸς ἀθώου
+ἀθῶος ἔσῃ, καὶ μετ᾿ ἐκλεκτοῦ ἐκλεκτὸς ἔσῃ (10),
+καὶ μετὰ στρεβλοῦ διαστρέψεις. Κολληθῶμεν οὖν τοῖς
+ἀθώοις καὶ δικαίοις • εἰσὶν δὲ οὗτοι ἐκλεκτοὶ τοῦ Θεοῦ.
+Ἦ[να] τί ἔρεις, καὶ θυμοί, καὶ διχοστασίαι, καὶ σχίσ-
+ματα, πόλεμός τε ἐν ὑμῖν; Ἢ οὐχὶ ἕνα Θεὸν ἔχο-
+μεν (11), καὶ ἕνα Χριστὸν, καὶ ἕν Πνεῦμα τῆς χά-
+ριτος τὸ ἐκχυθὲν ἐφ᾿ ἡμᾶς, καὶ μία κλῆσις ἐν Χριστῷ;
+ἵνα τί διέλκομεν (12) καὶ διασπῶμεν τὰ μέλη τοῦ
+Χριστοῦ, καὶ στασιάζομεν ᾿πρὸς τὸ σῶμα τὸ ἴδιον,
+καὶ εἰς τοσαύτην ἀπόνοιαν ἐρχόμεθα, ὥστε ἐπιλαθέ-
+σθαι ἡμᾶς ὅτι μέλη ἐσμὲν ἀλλήλων; Μνήσθητε τῶν
+λόγων ᾿Ιησοῦ τοῦ Κυρίου ἡμῶν. Εἶπε γάρ (13) • Οὐαὶ
+
+# block=1
+Talibus itaque exemplis et nos adhærere oportet,
+fratres. Scriptum enim est : Sanctis vos adjungite;
+quia qui illis adhærent, sanctificabuntur. Et rursus in
+alio loco dicit : Cum viro innocente innocens eris, et
+cum electo electus eris, et cum perverso perverteris ⁵⁷.
+Quare innocentibus et justis jungamus nos : ii
+quippe sunt electi Dei. Utquid inter vos sunt con-
+tentiones, iræ, dissensiones, schismata et bellum?
+Nonne nobis unus est Deus, et unus Christus, et
+unus Spiritus gratiæ qui effusus est super nos, et
+una vocatio in Christo? Cur diducimus et distrahi-
+mus membra Christi ⁵⁸, et contra proprium corpus
+seditionem movemus ; eoque vesaniæ devenimus, ut
+alios aliorum membra esse obliviscamur? Recorda-
+mini verborum Jesu Domini nostri. Dixit enim :
+Væ homini illi : bonum erat ei, si natus non fuisset ⁵⁹,
+
+# block=9
+⁵⁷ Psal. XVII, 26, 27. ⁵⁸ Rom. XII, 5. ⁵⁹ Matth. XXVI, 24.
+
+# block=7
+VARIORUM NOTÆ.
+
+# block=12
+et ea aut paucioribus perstringendo, aut pluribus
+interpolando imitari convincatur. Nobis quidem,
+qui ignoramus ubi scriptum sit : Sanctis vos adjun-
+gite, etc., verborum Clementis Alexandrini ordo vi-
+detur concinnior. Sed forte hunc ea ipsa ratio, quia
+unde sumpta esset illa sententia nesciebat, adduxit,
+ut totius loci ordinem interverteret, neque Clemen-
+tis nostri nomine eum laudaret. CouST.
+(10) Καὶ μετ᾿ ἐκλεκτοῦ ἐκλεκτὸς ἔσῃ. Hæc de-
+sunt codd. impp. quæ tamen exstant in ms. apud
+Wott. Ea quoque agnoscit Jun. versio, quæ sic se
+habet : Et cum electo electus eris. Hinc non ipsi, sed
+typothetæ vitio vertendä hæc omissio. Editio Lon-
+din. Wottonianam expressit in Græcis, sed Latina
+non restituit. GALL.
+
+# block=3
+τὴν κάμινον ταύτην, τὴν τῆς Βαβυλωνίας χαλεπωτέ-
+ραν, ἐμπεπτωκότα, τὴν ἀσέλγειαν λέγω τῆς Αἰγυπτίας,
+ἀνέπαφον διαμεῖναι, καὶ καθαρὸν τῆς σωφροσύνης τὸ
+ἔνδυμα διατηρήσαντα, οὕτως ἐξελθεῖν. Jun. — ῎Επα-
+φροι. Fortasse hæc vox non prorsus absurde reti-
+neri poterit, ut sensus sit, eos qui per patientiam
+Deum honorarunt, ab ipso exaltatos, niveoque can-
+dore nitentes, apud eum in æterna memoria esse.
+῎Επαφρον dicitur, apud Galenum, et alios quod, spu-
+ma obductum renitet et albescit; στολὰς autem λευ-
+κὰς esse gloriæ cœlestis habitum abunde novimus,
+adeoque is festivæ omnis lætitiæ color; ut a B. Ju-
+da qui in pudendis gloriantur, et laudi ducunt, ab
+ipso describi meruerint, ut sint ἐπαφρίζοντες τὰς
+ἑαυτῶν αἰσχύνας. FELL.
+
+# block=4
+(9) Κολλᾶσθε, κ. τ. λ. Hunc locum in Scripturis
+non inveni, ac fortasse non ad verbum, sed ad sen-
+sum productus est, nec ex uno sed ex pluribus tex-
+tibus. Sapientia Sir. VI, 55 : Τίς σοφός; αὐτῷ προσ-
+κολλήθητι · 1 Cor. VII, 14 : Sanctificatus est vir in-
+fidelis per mulierem fidelem, et sanctificata est mu-
+lier infidelis per virum fidelem. Sic Cotel. a quo ta-
+men Cout. dissentit. Laudat hæc S. Patris verba
+Clemens Alex. Στρῳμ. lib. V, cap. 8, pag 677, sed
+ordine inverso. GALL. — Monet Cotelerius se nus-
+quam in Scripturis hunc locum invenisse, eumque
+ex pluribus textibus conflatum conjectat, puta ex
+his Ecclesiastici VI, 35 : Τίς σοφός; αὐτῷ προσκολ-
+λήθητι, et ex 1 Cor. VII, 14, ubi vir infidelis per
+mulierem fidelem, et mulier infidelis per virum fi-
+delem sanctificari dicitur. Facilius hoc darem, si
+tantum legere esset : Scriptum est enim, quia qui san-
+ctis adhærent, sanctificabuntur, nec subjungeretur
+alter disertus Scripturæ textus. Joan. Clericus Ar-
+tis crit. p. 3, sect. 2, c. 5, n. 12, observat simi-
+lem esse locum Clementis Alexandrini Strom., lib. V,
+p. 572, ita enuntiatum : Γέγραπται δέ · ‹ Μετὰ ἀνδρὸς
+ἀθώου ἀθῶος ἔσῃ, καὶ μετὰ ἐκλεκτοῦ ἐκλεκτὸς ἔσῃ,
+καὶ μετὰ στρεβλοῦ διαστρέψεις. › Κολλᾶσθαι οὖν τοῖς
+ἁγίοις προσήκει, ὅτι οἱ κολλώμενοι αὐτοῖς ἁγιασθή-
+σονται. Scriptum est autem : ‹ Cum viro innocente in-
+nocens eris, et cum electo electus eris, et cum perver-
+so perverteris. › Adhærere ergo par est sanctis, quia qui
+adhærent eis sanctificabuntur. Atque is est primus
+locus, ex quo notat vir eruditus Clementis nostri
+epistolam nonnullis videri interpolatam, utpote in
+quam hæc Clementis Alexandrini verba mutato eo-
+rum ordine translata judicent. Sed cur non potius
+hunc ibi Clementem nostrum imitari censeamus?
+maxime cum alibi ejus verba exscribat interdum,
+
+# block=6
+(11) Ἦ οὐχὶ ἕνα Θεὸν ἔχομεν. Frey. hunc locum
+ita distinguit, ut duas complectatur sententias :
+Nonne habemus unum Deum, et unum Christum, et
+unum Spiritum gratiæ in nos effusum? Nonne una
+nobis est in Christo vocatio? Videtur S. Pater re-
+spexisse ad Ephes. IV, 4, 5, 6. Confer etiam 1 Cor.
+XII. Ceterum simile dictum S. Clementis recitat S.
+Basilius de Spiritu sancto, quod infra inter Fray-
+menta reperies. Id.
+(12) Ἵνα τί διέλκομεν, κ. τ. λ. In eamdem sen-
+tentiam S. Pater superius cap. 38 : Σωζέσθω οὖν
+ἡμῶν ὅλον τὸ σῶμα ἐν Χριστῷ ᾿Ιησοῦ. Tertullianus
+Apolog., cap. 39 : Corpus sumus de conscientia reli-
+gionis, et disciplinæ divinitate, et spei fœdere. Id.
+(13) Εἶπε γάρ. Quod antiquis non insolens fuit,
+multa testimonia in unum conjungit : nempe
+Matth. XXVI, 24; Luc. XVII, 2; Matth. XVIII, 6, et
+Marc. IX, 42; Ac in Marco, aut in Luca, aut in
+utroque reperisse videtur περιτεθῇ pro hodierno
+περίκειται sicque in Luca exhibet codex Evangelio-
+rum ms. qui est bibliothecæ Regiæ, 2247. Vulgata,
+imponatur. Verbo etiam περιτεθῆναι utitur Theo-
+phylactus eum evangelistam enarrans, necnon Ori-
+genes ad Matthæi cap. XVIII. Et vero eadem divino-
+rum eloquiorum compages struitur a Clemente
+Alexandrino ad finem Centonis 3, ubi cognominis
+sui Romani verba mutuatur : nec multum absimilis,
+a Tertulliano lib. IV adversus Marcionem, cap. 35,
+sic : Conversus ibidem ad discipulos. Væ, dicit, au-
+ctori scandalorum : expedisset ei si natus non fuisset,
+aut si molino saxo ad collum deligato præcipitatus es-
+set in profundum, quam unum ex illis modicis, utique
+discipulis ejus, scandalizasset, ab Origene homil. 25
+in Numeros : Sicut et Dominus designat, cum dicit,
+quia melius fuerat homini illi non nasci, aut molam

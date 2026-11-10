@@ -1,0 +1,226 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,307,189,1062,922
+2,305,1013,1054,1308
+3,294,2373,1043,2706
+4,1087,1011,1831,1308
+5,1087,186,1840,960
+6,292,2076,1051,2375
+7,298,1880,1046,2012
+8,298,2012,1042,2078
+9,299,1748,1049,1813
+10,299,1815,1045,1879
+11,1321,971,1598,1003
+12,339,1346,1189,1383
+13,555,971,819,1005
+14,568,145,800,183
+15,676,92,1443,130
+16,894,1420,1191,1454
+17,302,1484,1044,1747
+18,1329,146,1596,181
+19,307,88,377,134
+20,1777,88,1837,132
+21,1073,1486,1817,2740
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=19
+367
+
+# block=20
+268
+
+# block=15
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=14
+CAPUT XXVII.
+
+# block=18
+ΚΕΦΑΛΑΙΟΝ ΚΖ'.
+
+# block=5
+Ταύτῃ οὖν τῇ ἐλπίδι προσδεδέσθωσαν αἱ ψυχαὶ
+ἡμῶν τῷ πιστῷ ἐν ταῖς ἐπαγγελίαις, καὶ τῷ δικαίῳ
+ἐν τοῖς κρίμασιν. Ὁ παραγγείλας μὴ ψεύδεσθαι,
+πολλῷ μᾶλλον αὐτὸς οὐ ψεύσεται· οὐδὲν γὰρ ἀδύνα-
+τον παρὰ τῷ Θεῷ, εἰ μὴ τὸ ψεύσασθαι. Ἀναζωπυ-
+ρησάτω οὖν ἡ πίστις αὐτοῦ ἐν ἡμῖν, καὶ νοήσωμεν
+ὅτι πάντα ἐγγὺς αὐτῷ ἐστιν. Ἐν λόγῳ τῆς μεγα-
+λωσύνης αὐτοῦ συνεστήσατο τὰ πάντα, καὶ ἐν λόγῳ
+δύναται αὐτὰ καταστρέψαι. Τίς ἐρεῖ αὐτῷ, Τί ἐποίη-
+σας; ἢ τίς ἀντιστήσεται τῷ κράτει τῆς ἰσχύος αὐ-
+τοῦ; ὅτε θέλει, καὶ ὡς θέλει ποιήσει (85) πάντα, καὶ
+οὐδὲν μή παρέλθῃ τῶν δεδογματισμένων ὑπ’ αὐτοῦ.
+Πάντα ἐνώπιον αὐτοῦ εἰσι, καὶ οὐδὲν λέληθεν τὴν βου-
+λὴν αὐτοῦ. Εἰ οἱ οὐρανοὶ (86) διηγοῦνται δόξαν Θεοῦ,
+ποίησιν δὲ χειρῶν αὐτοῦ ἀναγγέλλει τὸ στερέω-
+μα· ἡ ἡμέρα τῇ ἡμέρᾳ ἐρεύγεται ῥῆμα, καὶ νὺξ
+νυκτὶ ἀναγγέλλει γνῶσιν· καὶ οὐκ εἰσὶ λόγοι,
+οὐδὲ λαλιαὶ, ὧν οὐχὶ ἀκούονται αἱ φωναὶ αὐτῶν.
+
+# block=1
+Hac igitur spe, animi nostri ad eum astringan-
+tur, qui fidelis est in promissionibus et justus in
+judiciis. Qui ne mentiamur præcepit, multo magis
+ipse non mentietur. Nihil quippe Deo impossibile,
+præterquam mentiri. Exsuscitetur itaque in nobis
+fides ejus, et cogitemus quod omnia ipsi propinqua
+sint. In verbo magnificentiæ suæ constituit omnia,
+et in verbo potest illa evertere. Quis dicet ei : Quid
+fecisti? aut quis resistet virtuti fortitudinis ejus ¹²_¹³?
+Quando vult et quomodo vult, omnia faciet; ne-
+que quidquam ab eo decretum præteribit ¹⁴. Uni-
+versa coram ipso sunt; nihilque consilium ejus
+latuit. Si cæli enarrant gloriam Dei : opus autem
+manuum ejus annuntiat firmamentum; dies diei
+eructat verbum, et nox nocti annuntiat scientiam;
+et non sunt loquelæ neque sermones, quorum non
+audiantur voces eorum ¹⁵.
+
+# block=13
+CAPUT XXVIII.
+
+# block=11
+ΚΕΦΑΛΑΙΟΝ ΚΗ'.
+
+# block=4
+Πάντων οὖν βλεπομένων καὶ ἀκουομένων (87), φο-
+βηθῶμεν αὐτὸν, καὶ ἀπολείπωμεν φαύλων ἔργων μια-
+ρᾶς ἐπιθυμίας, ἵνα τῷ ἐλέει αὐτοῦ σκεπασθῶμεν (88)
+ἀπὸ τῶν μελλόντων κριμάτων. Ποῦ (89) γάρ τις ἡμῶν
+δύναται φυγεῖν ἀπὸ τῆς κραταιᾶς χειρὸς αὐτοῦ;
+ποῖος δὲ κόσμος δέξεται τινα τῶν αὐτομολούντων (90)
+ἀπ’ αὐτοῦ; Λέγει γὰρ που τὸ Γραφεῖον (91). Ποῦ
+
+# block=2
+Cum omnia igitur videantur et audiantur, ti-
+meamus eum, et pravorum operum impuras cupi-
+ditates relinquamus, ut illius misericordia a futuris
+judiciis tegamur. Quo enim quis nostrum a potente
+ejus manu fugere potest? Qualis autem mundus
+suscipiet quempiam ab eo transfugientem? Dicit
+namque Scriptura alicubi: Quo ibo, et quo abscon-
+
+# block=12
+¹² ¹³ Sap. XII, 12. ¹⁴ Matth. XXIV, 35. ¹⁵ Psal. XVIII, 1-4.
+
+# block=16
+VARIORUM NOTÆ.
+
+# block=17
+(85) Ποιήσει. Ita ms. ex Mill. et Wott. At Jun.
+cum editis, ἐποίησεν. Quam quidem lectionem al-
+teri msti præferendam putat Wott. et pro παρέλθῃ
+legendum παρῆλθε. Sed non est cur sollicitemus
+ms. lectionem, cum ποιήσει rĕcte τῷ παρέλθῃ con-
+gruat. Quando vult et quomodo vult, omnia faciet;
+neque quidquam ab eo decretum præteribit. Sic Frey.
+GALL.
+
+# block=21
+pleri omnia quæ scripta sunt in Lege Moysi, et Pro-
+phetis, et Psalmis, de me. Ac sentiunt cum evange-
+lista præstantissimi Judæi, Philo et Josephus: ille
+Libro de vita contemplativa, post initium, p. 893;
+hic lib. I contra Apionem, post initium similiter,
+p. 1036. Interdum tamen cum γραφείοις et ἁγιο-
+γράφους non numerantσαι psalmi, juxta alias Scrip-
+turæ divisiones; nimirum, Epiphanii capite 4, libri
+De mensuris et ponderibus, illiusque exscriptoris
+Joannis Damasceni cap. 18, lib. IV De orthodoxa
+fide; item Cassiodori lib. I Institutionis ad divinas
+lectiones; necnon Hieronymi in præfationibus ad
+Tobiam et Judith. Hic enim cum in supra citato
+Prologo, a libris canonicis Hebræorum, libris Le-
+gis, Prophetarum, et hagiographis, in hisque po-
+stremis Psalterio, sejunxisset volumina Tobiæ ac
+Judithæ, eadem duo volumina in præfationibus ad
+ea, tradit ab Hebræis de catalogo divinarum Scri-
+pturarum secari, atque legi inter hagiographa, quo-
+rum auctoritas ad roboranda illa quæ in conten-
+tionem veniunt, minus idonea judicatur. Quo fit,
+ut duplicis generis hagiographa habuisse dicendi
+sint Hebræi, majoris videlicet, ac minoris auctori-
+tatis, atque in prioribus duntaxat cum sacris Scri-
+pturis posuisse Psalmos. Nec miraberis diversam
+acceptionem auctoritatemque hagiographorum post-
+quam insignia ista de canonicis libris apud B. Au-
+gustinum, lib. II De doctrina Christiana, cap. 8,
+legeris: In canonicis autem Scripturis, Ecclesiarum
+catholicarum quamplurium auctoritatem sequatur;
+inter quas sane illæ sunt, quæ apostolicas sedes ha-
+bere, et Epistolas accipere meruerunt. Tenebit igitur
+hunc modum in Scripturis canonicis, ut eas quæ ab
+omnibus accipiuntσαι Ecclesiis catholicis, præponat
+eis quas quædam non accipiunt. In eis vero quæ non
+accipiuntur ab omnibus, præponat eas. quas plures
+gravioresque accipiunt, eis quas pauciores minorisque
+
+# block=9
+(86) Εἰ οἱ οὐρανοί. Conjicit Dav. legendum, Καὶ
+οἱ οὐρανοί. ID.
+
+# block=10
+(87) Ἀκουομένων. Ex Bois, subaudiendum ὑπ’
+αὐτοῦ. ID.
+
+# block=7
+(88) Σκεπασθῶμεν. Ex ms. Wott. hanc lectio-
+nem restituit, quam Jun. cum editt. præter Londin.
+margini apposuit, altera σκεπάσωμεν in textum
+illata. ID.
+
+# block=8
+(89) Ποῦ... φυγεῖν. Ita ms. Al. malunt ποῖ· ex-
+hibentque φυγέειν. ID.
+
+# block=6
+(90) Αὐτομολούντων. Hesychius: Αὐτόμολος, ὁ
+πρὸς τοὺς πολεμίους ἀπελθὼν, προδότης. In hac voce
+interpretanda peccavit magnus Casaubonus Polyb.
+lib. IV, p. 522, ubi ὁ δὲ αὐτόμολος Automolum ver-
+tit, quasi nomen esset proprium. At Polybius Æto-
+lum quemdam transfugam intelligit, cujus ante me-
+minerat, ut monuit Casaubono par, si non in qui-
+busdam superior, Henr. Valesius Præf. in excerpt.
+ex collect. Constantini Porphyrogenetæ. COLOM.
+
+# block=3
+(91) Λέγει γὰρ που τὸ γραφεῖον. Recte γραφείου
+nomine Psalterium donatur: quandoquidem, ut
+discimus ex S. Epiphanio hæresi 29, cap. 7; et
+S. Hieronymo in Prologo galeato, ac in præfatione
+ad Danielem, distribuuntur Scripturæ sacræ Tes-
+tamenti Veteris in νομοθεσίαν seu νόμον, προφήτας,
+et γραφεῖα: in libros Mosis seu Legem, Prophetas,
+et hagiographa: contineturque in tertio ordine,
+liber Davidis. Certe Lucæ xxiv, 44, Psalmos dis-
+tinctos habes a Lege et Prophetis. Necesse est im-

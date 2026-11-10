@@ -1,0 +1,200 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,164,670,919,1321
+2,947,191,1699,577
+3,162,273,914,570
+4,948,668,1699,1319
+5,167,1491,911,1724
+6,950,1489,1702,1728
+7,168,1330,1697,1424
+8,945,2393,1713,2657
+9,953,1878,1708,2124
+10,953,2307,1711,2392
+11,947,2138,1714,2306
+12,1137,1823,1510,1870
+13,164,1875,919,2139
+14,246,1827,826,1870
+15,1219,145,1414,185
+16,159,2146,920,2706
+17,376,582,676,621
+18,1630,96,1682,132
+19,588,91,1265,131
+20,163,96,216,134
+21,405,148,669,188
+22,153,192,901,278
+23,373,622,661,660
+24,1215,626,1429,660
+25,1187,582,1427,620
+26,765,1424,1089,1472
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Περὶ δὲ παρθενίας ἐντολὴν οὐκ ἐλάβομεν· τῇ δὲ
+τῶν βουλομένων ἐξουσίᾳ τοῦτο ἐπιτρέπομεν, ὡς
+εὐχήν· ἐκεῖνο μὲν οὖν (60) αὐτοῖς παραινοῦντες, μὴ
+προχείρως τι ἐπαγγείλασθαι· ἐπείπερ ὁ Σολομὼν
+φησίν· « Ἀγαθὸν τὸ μὴ εὔξασθαι, ἢ τὸ εὔξασθαι,
+καὶ μὴ ἀποδοῦναι. » Ἡ παρθένος οὖν αὕτη ἔστω
+ἁγία σώματι καὶ ψυχῇ, ὡς ναὸς Θεοῦ, ὡς οἶκος Χρι-
+στοῦ, ὡς Πνεύματος ἁγίου (61) καταγώγιον. Δεῖ γὰρ
+τὴν ἐπαγγειλαμένην, ἄξια τῆς ἐπαγγελίας ἔργα δια-
+πρασσομένην, δεικνύειν τὸ ἐπάγγελμα αὐτῆς, ὅτι
+ἐστὶν ἀληθὲς, καὶ διὰ σχολὴν εὐσεβείας, οὐ κατὰ
+διαβολὴν γάμου γενόμενον. Ἔστω δὲ μὴ ῥεμβὰς (62),
+μηδὲ ἀκαιροπεριπάτητος, μὴ δίγνωμος· ἀλλὰ σεμνὴ,
+ἐγκρατὴς, σώφρων, ἁγνὴ, φεύγουσα τὰς τῶν πολλῶν
+συντυχίας, καὶ μάλιστα τῶν ἀσέμνων (63).
+
+# block=2
+In quibus oporteat subjici sæcularibus principibus.
+Omnibus regibus ac principibus, in rebus quæ
+placent Deo, subjecti estote, tanquam ministris
+Dei, et punitoribus impiorum ⁷⁴: exhibete illis om-
+nem debitum timorem, omne vectigal, omne tribu-
+tum, omnem honorem, collationem, censum. Hoc
+enim est Dei mandatum, nemini quidquam debere,
+nisi amicitiæ tesseram, quam Deus per Christum
+constituit.
+
+# block=3
+Πάσῃ βασιλείᾳ καὶ ἀρχῇ ὑποτάγητε ἐν οἷς (58)
+ἀρέσκει Θεῷ, ὡς Θεοῦ διακόνοις, καὶ τῶν ἀσεβῶν
+τιμωροῖς· πάντα φόβον τὸν ὀφειλόμενον αὐτοῖς ἀπο-
+πληρώσατε, πᾶσαν εἰσφοράν, πᾶν τέλος, πᾶσαν τιμήν,
+δόσιν, κῆνσον. Θεοῦ γὰρ τοῦτο διάταγμα, μηδενί τι
+χρεωστεῖν, εἰ μὴ τὸ τῆς φιλίας σύμβολον (59), ὃ ὁ
+Θεὸς διετάξατο διὰ Χριστοῦ.
+
+# block=4
+De virginitate autem mandatum non accepimus ⁷⁵,
+sed rem volentium potestati permittimus, ut vo-
+tum; illud tamen iis suadentes, ne quid properan-
+ter ac temere promittant: quandoquidem Salomon
+ait: « Melius est non vovere, quam vovere et non
+reddere ⁷⁵* ». Sit igitur virgo sancta corpore et ani-
+ma, ut templum Dei, ut domus Christi, ut Spiritus
+sancti mansio ⁷⁶. Oportet enim eam quæ professa
+est, dignas professione actiones exercendo osten-
+dere, verum esse promissum suum, et studio pie-
+tatis, non autem in obtrectationem matrimonii fa-
+ctum. ⁷⁷ Sit etiam non vaga, neque intempestive
+obambulans, non ancipitis animi; sed gravis, con-
+tinens, temperata, pudica, fugiens colloquia cum
+multis, præsertimque cum inhonestis.
+
+# block=5
+(58) Ἐν οἷς. Alter cod. καθώς. CLER.
+(59) Σύμβολον. Deest in altero codice, nec satis
+in hunc locum quadrat amicitiæ tessera. Τὸ τῆς
+φιλίας recte dici queat si subaudias χρέος, debitum,
+ex antecedentibus. ID.
+(60) Μὲν οὖν. Antiquior cod. μόνον, rectius,
+ut videtur : id tantum iis suadentes. ID.
+
+# block=6
+(61) Ἁγίου. Abest in antiquiore cod. ID.
+(62) Ῥεμβάς. Alter codex φιλόκοσμος, quæ vo-
+ces, cum neque sono, neque significatu consentiant,
+forte sunt una admittendæ, hoc modo : Μὴ ῥεμβὰς,
+φιλόκοσμος. ID.
+(63) Ad calcem libri additum est in altero cod.,
+περὶ ὀρφανῶν ἐπληρώθη βιβλίον δ'. ID.
+
+# block=7
+⁷⁴ I Petr. II, 13; Tit. III, 1; Rom. XIII, 1. ⁷⁵ I Cor. VII, 25. ⁷⁵* Eccle. V, 4. ⁷⁶ I Cor. VII, 34. ⁷⁷ Ignat.
+interpol. ad Philad. 4.
+
+# block=8
+VI. Quod decet fidelem neque temerarium esse pro-
+pter securitatem, neque meticulosum propter igna-
+viam: sed fugere propter cautionem; et cum in peri-
+culum inciderit, decertare ob repositam coronam.
+VII. De resurrectione variæ demonstrationes; de
+sibylla; et quid stoici de phœnice ave.
+
+# block=9
+I. Quod iis, qui propter Christum ab infidelibus affli-
+guntur, æquum sit ut fideles necessaria præbeant,
+secundum Domini constitutionem.
+II. Quod fugienda sit cum falsis fratribus consuetudo,
+dum in malitia perseverant.
+
+# block=10
+V. Quod imitari oporteat Christum in patiendo, et
+æmulari illius tolerantiam.
+
+# block=11
+III. Quod propter Christum oppressis oportet manum
+adjutricem porrigere, quamvis adsit periculum.
+IV. Quod horrendum ac exitiate sit negare Chri-
+stum.
+
+# block=12
+CAPITA LIBRI QUINTI.
+
+# block=13
+α'. "Ὅτι τοῖς διὰ Χριστὸν θλιβομένοις παρὰ ἀπί-
+στων, δίκαιον τοῖς πιστοῖς [f. τοὺς πιστοὺς] τὰ
+δέοντα παρέχειν, κατὰ τὴν τοῦ Κυρίου διάταξιν.
+β'. "Ὅτι φευκτέον τῆς [f. τὰς] πρὸς τοὺς ψευδ-
+αδέλφους συνουσίας, ὅταν ἐπιμένωσι τῇ φαυ-
+λότητι.
+
+# block=14
+ΚΕΦΑΛΑΙΑ ΤΟΥ ΠΕΜΠΤΟΥ ΒΙΒΛΙΟΥ.
+
+# block=15
+CAPUT XIII.
+
+# block=16
+γ'. "Ὅτι τοῖς διὰ Χριστὸν πορθουμένοις χρὴ χεῖρα
+ὀρέγειν, κἂν κίνδυνος παρῇ.
+δ'. "Ὅτι φρικτὸν καὶ ὀλέθριον, τὸ ἀρνεῖσθαι Χρι-
+στόν.
+ε'. "Ὅτι μιμητέον Χριστὸν ἐν τῷ πάσχειν, καὶ
+ζηλωτέον τὴν αὐτοῦ ὑπομονήν.
+ϛ'. "Ὅτι χρὴ τὸν πιστὸν μήτε ῥιψοκίνδυνον εἶναι δι'
+ἀσφάλειαv, μήτε περιδεῆ δι' ἀνανδρίαν· ἀλλὰ
+καὶ φεύγειν δι' εὐλάβειαν, καὶ ἐμπεσόντα, ἀγω-
+νίζεσθαι διὰ τὸν ἀποκείμενον στέφανον.
+ζ'. Περὶ ἀναστάσεως ἀποδείξεις διάφοροι· περὶ
+Σιβύλλης· καὶ τί οἱ Στωϊκοὶ περὶ τοῦ φοίνικος
+τοῦ ὀρνέου.
+
+# block=17
+ΚΕΦΑΛΑΙΟΝ ΙΔ'.
+
+# block=18
+826
+
+# block=19
+CONSTITUTIONES APOSTOLICÆ.—LIB. V.
+
+# block=20
+825
+
+# block=21
+ΚΕΦΑΛΑΙΟΝ ΙΓ'.
+
+# block=22
+Ἐν τίσιν ὑποτάσσεσθαι χρὴ τοῖς κοσμικοῖς
+ἄρχουσιν.
+
+# block=23
+Περὶ παρθένων.
+
+# block=24
+De virginibus.
+
+# block=25
+CAPUT XIV.
+
+# block=26
+VARIORUM NOTÆ.

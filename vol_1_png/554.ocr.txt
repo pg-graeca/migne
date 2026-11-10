@@ -1,0 +1,119 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,292,1949,1830,2188
+2,280,101,1038,1893
+3,1069,100,1823,1854
+4,668,56,1405,92
+5,274,62,329,96
+6,1747,48,1817,90
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+²² Platonem intelligit. ²³ In ms. atque editis Merlini et Crabbi pauca inseruntur, de quibus
+in notis. Ea Surius et post eum alii resecuerunt, cum tamen legantur l. x Recogn. ²⁴ Psal. cxxxii,
+1. ²⁵ Act. iv, 34. ²⁶ Ms. Zaphira. ²⁷ Act. v. ²⁸ Non videtur tunc Hierosolymis exstitisse Cle-
+mens, natione Romanus, qui plures post annos fidem suscepit. Verba Latinii notis nostris inseremus
+²⁹ Ms. cætera, quæ talia. ³⁰ Dist. 37, Relatum est. ³¹ traditiones Patrum. ³² Recognit. x, c. 42.
+³³ Recognit., ad suum. Hæc quoque ex Harduino desumpta sunt. ³⁴ ut quoquomodo. ³⁵ Recognit. x,
+c. 43. ³⁶ satisagere. ³⁷ 2, q. 1, Dilectiss. fratribus. ³⁸ inter vos.
+
+# block=2
+minibus debuit; sed per iniquitatem alius hoc
+suum esse dixit, et alius illud, et sic inter mortales
+facta divisio est. Denique Græcorum quidam sa-
+pientissimus ²², hæc ita sciens esse, ait: Communia
+debere esse amicorum omnia ²³, et sicut non potest
+(inquit) dividi aer, neque splendor solis, ita nec re-
+liqua quæ communiter in hoc mundo omnibus data
+sunt ad habendum, dividi debere, sed habenda esse
+communia. Unde et Dominus per prophetam loqui-
+tur, dicens: Ecce quam bonum et quam jucundum
+habitare fratres in unum ²⁴. Istius enim consuetu-
+dinis more retento, etiam apostoli, eorumque disci-
+puli, ut prædictum est, una nobiscum et vobiscum
+communem vitam duxere. Unde (ut bene nostis)
+erat multitudinis eorum cor unum et anima una:
+nec quisquam eorum aut nostrum, de his quæ possi-
+debat, aliquid suum esse dicebat, sed omnia illis et
+nobis erant communia, nec quisquam egens erat inter
+nos. Omnes autem, qui domos vel agros possidebant,
+vendebant eos, et pretia eorum, et reliquas res quas
+habebant, afferebant, ponentes ante pedes apostolo-
+rum ²⁵, sicut nobiscum quidam vestrum cognoverunt
+et viderunt: et dividebant singulis, prout cuique opus
+erat. Ananias autem, vir austerus, et Sapphira ²⁶
+uxor ejus ²⁷, qui mentiti sunt apostolis de pretio
+agrorum suorum, quos vendiderant, nobis præsen-
+tibus ²⁸, in conspectu omnium circumstantium, a
+conspectu apostolorum, propter peccatum eorum
+et mendacium quod fecerunt, mortui delati sunt
+ambo. Cæteraque quæ de talibus ²⁹ cognovimus et
+vidimus, nec recordatione, nec demonstratione
+digna sunt. Quapropter hæc vobis cavenda man-
+damus, et doctrinis et exemplis apostolorum obe-
+dire præcipimus; quia hi qui mandata eorum post-
+ponunt, non solum rei, sed extorres fiunt. Quæ non
+solum vobis cavenda, sed et omnibus prædicanda
+sunt. ³⁰ Relatum est etiam nobis, quod quidam in
+vestris partibus commorantes, adversantur sanis
+doctrinis, et (prout eis videtur) non secundum tra-
+ditionem Patris ³¹, sed juxta sensum suum docere
+videntur. ³² Multas enim quidam (ut audivimus)
+
+# block=3
+vestrarum partium, secundum ingenium hominum,
+ex his quæ legunt, verisimilitudines capiunt: et
+ideo diligenter observandum est, ut lex Dei, cum
+legitur, non secundum propriam ingenii intelli-
+gentiam legatur vel doceatur. Sunt enim multa
+verba in Scripturis divinis, quæ possunt trahi ad
+eum ³³ sensum, quem sibi unusquisque sponte
+præsumpsit, sed fieri non oportet. Non enim sen-
+sum quem extrinsecus adulteretis, alienum et extra-
+neum debetis quærere, aut quomodo ³⁴ ipsum Scri-
+pturarum auctoritate confirmetis; sed ex ipsis
+Scripturis sensum capere veritatis. Et ideo oportet
+ab eo intelligentiam discere Scripturarum, qui eam
+a majoribus, secundum veritatem sibi traditam
+servavit ut et ipse possit ea, quæ recte suscepit,
+competenter asserere. Cum enim ex divinis Scri-
+pturis integram quis et firmam regulam veritatis
+susceperit, absurdum non erit, si aliquid etiam ex
+eruditione communi ac liberalibus studiis, quæ
+forte in pueritia attigit, ad assertionem veri do-
+gmatis conferat; ita tamen, ut ubi vera didicit,
+falsa et simulata declinet. ³⁵ Incertum est enim
+etiam juvenibus vitæ tempus; senibus autem jam
+nec incertum est; non enim dubitatur, quin quan-
+tumcunque est quod putatur superesse, breve sit.
+Et ideo tam juvenes quam senes oportet de con-
+versione et pœnitentia valde esse sollicitos, et sat-
+agere ³⁶, ut de reliquo ornent animam suam orna-
+mentis dignissimis, id est dogmatibus veritatis, de-
+core pudicitiæ, splendore justitiæ, candore pietatis,
+aliisque omnibus, quibus comptam decet esse ra-
+tionalem mentem. ³⁷ Unde, consilium dantes, ve-
+stram prudentiam hortamur, ut ab apostolicis re-
+gulis non recedatis, sed communem vitam ducen-
+tes, et Scripturas sacras recte intelligentes, quæ
+Domino vovistis, adimplere satagatis. Et cum ora-
+tione assidua Dei gratiam obtinere merueritis,
+tunc, sine suspicione mali interitus ³⁸, vota possint
+celebrari festiva. Deus autem pacis sit cum om-
+nibus vobis. Amen.
+
+# block=4
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=5
+507
+
+# block=6
+508

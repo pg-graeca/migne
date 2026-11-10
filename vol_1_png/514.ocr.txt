@@ -1,0 +1,88 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,266,2564,1804,2714
+2,1182,694,1817,2511
+3,252,115,1149,554
+4,1182,129,1791,405
+5,254,677,1149,2522
+6,1395,612,1587,657
+7,590,584,831,651
+8,641,59,1400,114
+10,1727,68,1793,112
+11,259,70,329,110
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=10
+428
+
+# block=11
+427
+
+# block=4
+tionum, hincque perspecta si filios
+educavit, si hospitio recepit, si san-
+ctorum pedes lavit ⁴⁴. Quando vero
+tempus quietis advenit, domum illa
+in pace repetit ⁴⁵.
+
+# block=6
+CAPUT V.
+
+# block=2
+Si autem incidamus in locum ubi
+sola, absque ullo viro, reperiatur
+mulier fidelis, ibi nequaquam sta-
+mus, neque oramus, neque Scri-
+pturas legimus ; quinimo quasi a
+facie colubri et a laqueo peccati
+fugimus. Nec propterea mulierem
+fidelem contemnimus, absit a nobis
+talis cogitatio de quibuscunque so-
+roribus nostris in Christo. Nolumus
+vero, quando mulier sola est, ansam
+præbere suspiciosis inquisitionibus
+verbisve mendacii. Ad sinistrum
+quippe judicium sponte inclinant et
+obfirmantur hominum mentes. Ca-
+vere ergo debemus ne præbeamus
+ipsis male de nobis loquendi occasio-
+nem, et ne cuiquam simus offen-
+diculo. Hinc sedulo vitamus quid-
+quid incusari potest ab his qui cu-
+riose vias nostras speculantur, ut
+nos quasi reos deprehendant, cura-
+musque ut sine offensione simus
+Judæis et gentibus et Ecclesiæ Dei :
+nec quærimus quod nobis utile est,
+sed quod multis, ut salvi fiant ⁴⁶.
+Nobis autem bonum non est ut quis-
+quam propter nos scandalizetur.
+Omni igitur tempore cavendum
+attente nobis est ne fratrum con-
+scientiam imprudentia nostra con-
+
+# block=1
+⁴⁴ I Tim. v, 10. ⁴⁵ Hic assignatur discrimen servatum, Ecclesia nascente, inter sanctos seu fideles
+laicos et Dei ministros : laïcorum quippe modestorum licet ac verecundorum mulieres lavabant pedes ;
+hos ungebant, cæteraque consueta charitatis et urbanitatis officia erga ipsos, more patriæ, impendebant ;
+clerici vero hæc omnia denegabant præter ea quibus nullatenus carere poterant. ⁴⁶ I Cor. x, 33.

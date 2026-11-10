@@ -1,0 +1,186 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,255,2327,1003,2637
+2,263,123,1007,596
+3,252,752,1010,2107
+4,651,65,1355,105
+5,1043,642,1786,714
+6,885,2266,1178,2303
+7,1043,116,1788,595
+9,1038,751,1796,2105
+10,255,2120,1795,2226
+11,267,643,1004,749
+12,551,603,722,637
+13,263,78,316,115
+14,1717,62,1789,110
+15,1035,2326,1799,2644
+16,1271,596,1553,632
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+916
+
+# block=4
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA
+
+# block=13
+915
+
+# block=7
+δημιουργίαν; Ἀλλ’ ὑμεῖς, ἀδελφοὶ, ἐκ τῆς Γραφῆς
+παιδευόμενοι, φυλάσσεσθε μὴ ποιεῖν τὰ σχίσματα τῆς
+γνώμης (77), μήτε μὴν τῆς ἑνώσεως ὑμῶν· ὅτι σκο-
+ποὶ ἀπωλείας οἱ δόξης ἀθεμίτου ἄρξαντες καθίστανται
+τοῖς λαοῖς. Ὁμοίως καὶ οἱ λαϊκοὶ, τοῖς τῇ γνώμῃ τοῦ
+Θεοῦ ἐναντία δογματίσασι μὴ πλησιάζετε, μηδὲ κοι-
+νωνοὶ τῆς ἀσεβείας αὐτῶν γίνεσθε· λέγει γὰρ ὁ Θεός·
+« Ἀποσχίσθητε ἐκ μέσου τῶν ἀνδρῶν τούτων, ἵνα μὴ
+συναπόλησθε αὐτοῖς· » καὶ πάλιν· « Ἐξέλθετε ἐκ μέσου
+αὐτῶν, ἀφορίσθητε, λέγει Κύριος, καὶ ἀκαθάρτου μὴ
+ἅπτεσθε, κἀγὼ εἰσδέξομαι ὑμᾶς. »
+
+# block=2
+ejus aut creationem blasphemant ? At vos, fratres, ex
+Scriptura eruditi, cavete ne opinionum schismata
+faciatis, neque vero unitatis vestræ : quoniam qui
+nefariæ opinioni principes se præbuerunt, populis
+speculatores ad perditionem constituuntur. Simili-
+ter et vos, laici, iis qui contraria Dei consiliis tradunt
+dogmata ne accedatis, nec impietatis eorum fiatis
+participes; ait enim Deus : « Disjungimini de medio
+horum virorum, ne cum eis pereatis ⁴⁵ ; » et iterum :
+« Exite de medio eorum, separamini, dicit Dominus; et
+immundum ne tetigeritis; et ego recipiam vos ⁴⁶. »
+
+# block=16
+ΚΕΦΑΛΑΙΟΝ Ε’.
+
+# block=12
+CAPUT V:
+
+# block=5
+Τίνος χάριν ἀπεβλήθη ὁ ψευδώνυμος Ἰσραὴλ,
+ἀπόδειξις ἐκ προφητικῶν προῤῥήσεων.
+
+# block=11
+Qua de causa rejectus fuerit, qui falso nominatur
+Israel, demonstratio ex propheticis prædicatio-
+nibus.
+
+# block=9
+Φευκταῖοι γάρ εἰσιν ὡς ἀληθῶς οἱ βλασφημοῦντες
+Θεόν. Οἱ μὲν γὰρ πλεῖστοι τῶν ἀσεβῶν ἄγνοιαν
+ἔχουσι Θεοῦ· οὗτοι δὲ κακόνοιαν ὡς θεομάχοι νοσοῦ-
+σιν. Ἐκ γὰρ τῆς κακίας τῶν αἱρεσιωτῶν (78) « ἐξῆλθε
+μόλυσμα ἐπὶ πᾶσαν τὴν γῆν, » ὡς φησιν Ἱερεμίας ὁ
+προφήτης. Ἀποβληθείσης γὰρ τῆς Συναγωγῆς τῆς
+πονηρᾶς ὑπὸ Κυρίου τοῦ Θεοῦ, καὶ τοῦ οἴκου ἀποῤ-
+ῥιφέντος ὑπ’ αὐτοῦ, καθώς πού φησιν· « Ἐγκαταλέ-
+λοιπα τὸν οἶκόν μου, ἀφῆκα (79) τὴν κληρονομίαν
+μου· » καὶ πάλιν Ἡσαΐας· « Ἀνήσω τὸν ἀμπελῶνά
+μου, καὶ οὐ μὴ τμηθῇ , οὐδ’ οὐ μὴ σκαφῇ· καὶ ἀνα-
+βήσεται εἰς αὐτὸν ὡς εἰς χέρσον ἄκανθα· καὶ ταῖς
+νεφέλαις ἐντελοῦμαι τοῦ μὴ βρέξαι εἰς αὐτὸν ὑετόν· » ἐγ-
+καταλιπὼν οὖν τὸν λαὸν, ὡς σκηνὴν ἐν ἀμπελῶνι,
+καὶ ὡς ὀπωροφυλάκιον ἐν σικυηλάτῳ (80), καὶ ὡς πό-
+λιν πολιορκουμένην, περιελὼν δὲ ἀπ’ (81) αὐτῶν καὶ
+τὸ Πνεῦμα τὸ ἅγιον καὶ τὸν προφητικὸν ὑετὸν, ἐπλή-
+ρωσε τὴν αὐτοῦ Ἐκκλησίαν πνευματικῆς χάριτος,
+ὡς ποταμὸν Αἰγύπτου ἐν ἡμέραις νέων, καὶ ὑπερύ-
+ψωσεν αὐτὴν ὡς οἶκον ἐπ’ ὄρους, ἢ ὡς ὄρος ὑπερ-
+φερὲς , ὡς ὄρος τετυρωμένον, καὶ ὄρος πῖον· « ἐν ᾧ
+εὐδόκησεν ὁ Θεὸς κατοικεῖν ἐν αὐτῷ· καὶ γὰρ ὁ Κύ-
+ριος κατασκηνώσει εἰς τέλος (82)· » καὶ ἐν τῷ Ἱε-
+ρεμίᾳ λέγει· « Θρόνος δόξης ὑψωμένος, ἁγίασμα
+ἡμῶν (83)· » καὶ ἐν Ἡσαΐᾳ λέγει· « Καὶ ἔσται ἐν ταῖς
+ἐσχάταις ἡμέραις ἐμφανὲς τὸ ὄρος Κυρίου, καὶ ὁ οἶκος
+τοῦ Θεοῦ ἐπ’ ἄκρων τῶν ὀρέων, καὶ ὑψωθήσεται ὑπεράνω
+τῶν βουνῶν. » Ἐπεὶ οὖν καὶ τὸν λαὸν ἐγκατέλιπε, καὶ
+τὸν ναὸν ἀφῆκεν ἔρημον, σχίσας τὸ καταπέτασμα τοῦ
+ναοῦ (84), καὶ λαβὼν ἀπ’ αὐτῶν τὸ Πνεῦμα τὸ ἅγιον·
+« Ἰδοὺ γὰρ, φησὶν, ἀφίεται ὑμῖν ὁ οἶκος ὑμῶν ἔρημος· »
+
+# block=3
+Vere enim fugiendi sunt, qui Deo blasphemiam
+inferunt. Siquidem impiorum quamplurimi, Dei
+ignorantia tenentur : at hi malæ mentis vitio labo-
+rant, tanquam Dei hostes. Nam ex malitia hæreti-
+corum « egressa est pollutio in omnem terram, » ut
+ait Jeremias propheta ⁴⁷. Improba quippe Synagoga
+repudiata a Domino Deo, et abjecta ab eodem do-
+nio ⁴⁸; quemadmodum quodam in loco dicit : « Re-
+liqui domum meam, dimisi hæreditatem meam ⁴⁹ ; »
+et iterum Isaias : « Deseram vineam meam et non
+putabitur, neque fodietur; et ascendet in eam tan-
+quam in terram incultam spina; et nubibus man-
+dabo, ne pluant in eam imbrem ⁵⁰ ; » derelicto, in-
+quam, populo, instar tabernaculi in vinea, et in-
+star pomarii in cucumerario, et instar civitatis ob-
+sessæ ⁵¹; detractoque eis Spiritu sancto ac imbre
+prophetico, implevit Ecclesiam suam gratia spiri-
+tuali, velut fluvium Ægypti in diebus novorum ⁵²,
+et valde exaltavit eam, sicut domum in monte si-
+tam, vel sicut montem excelsum, sicut montem coa-
+gulatum et montem pinguem; « in quo benepla-
+citum est Deo habitare in eo : etenim Dominus in-
+habitabit in finem ⁵³; » et in Jeremia dicit : « Thro-
+nus gloriæ elevatus, sanctuarium nostrum ⁵⁴ ; » et
+in Isaia : « Et erit, inquit, in novissimis diebus
+manifestus mons Domini, et domus Dei in ver-
+tice montium et elevabitur super colles ⁵⁵. » Quia
+ergo et populum reliquit, ac templum dimisit deso-
+latum, velo templi scisso, ablatoque ab iis Spiritu
+sancto : « Ecce enim, inquit, relinquetur vobis
+domus vestra deserta ⁵⁶ ; » et dedit vobis, qui estis
+
+# block=10
+⁴⁵ Num. xvi, 21. ⁴⁶ II Cor. vi, 17. ⁴⁷ Jer. xxiii, 15. ⁴⁸ Ignat. Interpol. ad Philad. 2. ⁴⁹ Jer. xii, 7.
+⁵⁰ Isa. v, 6. ⁵¹ Isa, i, 8. ⁵² Eccli. xxiv, 35. ⁵³ Psal. lxvii, 16. ⁵⁴ Jer. xvii, 12. ⁵⁵ Isa. ii, 2. ⁵⁶ Matth.
+xxiii, 38.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=15
+quod non debuerunt ignorare. Cot.
+(79) Ἀφῆκα. Alter cod. καὶ ἀφῆκα. Cl.
+(80) Σικυηλάτῳ. Rectius σικυηλάτῳ. Cot.
+(81) Ἀπ’. Deest in uno cod. Vind. Id.
+(82) Καὶ γὰρ, usque ad τέλος. Desunt in altero
+cod. Vind. Cler.
+(83) Θρόνος et sequentia ad καὶ. Desunt in eo-
+dem. Id.
+(84) Τοῦ ναοῦ. Deest in Vind. Id.
+
+# block=1
+(77) Τῆς γνώμης. Alter cod. Vind. τῆς ἑνώσεως
+ὑμῶν, omissis reliquis. Cler.
+(78) Αἱρεσιωτῶν. Natalibus hujus vocis interfue-
+rint docti viri oportet : adeo negant Ignatio per tem-
+pora licuisse eam usurpare. Usurpat enim qui non
+diu post Ignatium scripsit Justinus in Dialogo cum
+Tryphone, p. 306. Sed et multas similis termina-
+tionis agnoscit antiqua Græcia : ἡλικιῶται, θιασῶται,
+πατριῶται , νησιῶται, στασιῶται, στρατιῶται , etc.,

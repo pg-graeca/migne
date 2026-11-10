@@ -1,0 +1,200 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,273,136,1033,653
+2,1058,134,1807,700
+3,277,988,1037,2617
+4,290,2610,1035,2715
+5,1064,856,1817,1326
+6,1062,1321,1825,2682
+7,309,724,1106,762
+8,889,800,1193,835
+9,652,94,1433,135
+10,276,847,1030,997
+11,272,100,328,138
+12,1746,86,1806,132
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=16px
+# block=10 fontSize=15px
+# block=11 fontSize=16px
+# block=12 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+212
+
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=11
+211
+
+# block=2
+σθαι (6), εἴ τι ἄκοντες ἡμάρτετε. ᾿Αγὼν ἦν ὑμῖν ἡμέρας
+τε καὶ νυκτὸς ὑπὲρ πάσης τῆς ἀδελφότητος (7), τὸ σώ-
+ζεσθαι μετ᾿ ἐλέους καὶ συνειδήσεως (8) τὸν ἀριθμὸν
+τῶν ἐκλεκτῶν αὐτοῦ. Εἰλικρινεῖς καὶ ἀκέραιοι ἦτε,
+καὶ ἀναμνήσικακοι (9) εἰς ἀλλήλους. Πᾶσα στάσις, καὶ
+πᾶν σχίσμα βδελυκτὸν ὑμῖν· ἐπὶ τοῖς παραπτώμασι
+τοῖς πλησίον ⁴⁷ ἐπενθεῖτε · τὰ ὑστερήματα αὐτῶν ἴδια
+ἐκρίνατε · ἀμεταμέλητοι ἦτε ἐπὶ πάσῃ ἀγαθοποιΐᾳ,
+ἕτοιμοι εἰς πᾶν ἔργον ἀγαθόν. Τῇ παναρέτῳ καὶ σε-
+βασμίῳ πολιτείᾳ κεκοσμημένοι, πάντα ἐν τῷ φόβῳ
+αὐτοῦ ἐπετελεῖτε· τὰ προστάγματα καὶ τὰ δικαιώμα-
+τα (10) τοῦ Κυρίου ἐπὶ τὰ πλάτη τῆς καρδίας (11)
+ὑμῶν ἐγέγραπτο.
+
+# block=1
+Diu noctuque solliciti eratis pro universa fraterni-
+tate , ut numerus electorum Dei cum misericordia
+et conscientia salvaretur. Sinceri et simplices era-
+tis, atque injuriarum invicem acceptarum imme-
+mores. Omnis dissensio omnisque scissura vobis
+abominationi erat : proximorum delicta lugebatis :
+illorum defectus, vestros censebatis ; benefacti nul-
+lius pœnitebat vos , ad omne bonum opus parati ⁴⁸.
+Veneranda et virtutum omnium referta conversatio-
+ne ornati, omnia in timore ejus peragebatis : iman-
+data et præcepta Domini in tabulis cordis vestri
+scripta erant ⁴⁹.
+
+# block=7
+⁴⁷ F. τῶν vel πλησίων. ⁴⁸ Tit. III, 1. ⁴⁹ Prov. VII, 3.
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=10
+tem loco aperte prævertitur ac perimitur hæresis
+Nestoriana. Coust.
+(6) Ἴλεως. Wott. videtur vox satis apta τῷ γενέ-
+σθαι, animo propitio; al. malunt ἵλεων. GALL.
+
+# block=5
+tris sententia, quo iterum schisma retunderet. Ipse-
+met sane Cot. infra cap. 34, τῇ συνειδήσει, communi
+consensu, est interpretatus. GALL.
+(9) ᾿Αναμνήσικακοι. Ms. lectionem mendosam
+Wott. cum aliis sic emendat, ἀμνήσικακοι. Mallem
+cum Birr. παναμνήσικακοι, id est: Omnis inter vos
+offensæ immemores. Vel : Nullius omnino invicem
+injuriæ memores. Delectat certe hujusmodi com-
+positis S. Pater. Sic mox hic : Τῇ παναρέτῳ... πο-
+λιτείᾳ· cap. 33, τῷ παμμεγεστάτῳ αὐτοῦ κράτει,
+et post pauca , τὸ ἐξοχώτατον καὶ παμμέγεθες κατὰ
+διάνοιαν· cap. 35, ὁ πανάγιος· cap. 45, τῷ παναρέτῳ
+ὀνόματι αὐτοῦ· cap. 57, ἡ πανάρετος σοφία, etc.
+IDEM.
+
+# block=3
+(7) Ὑπὲρ πάσης τῆς ἀδελφότητος. Sic I Petr. II,
+17 : Τὴν ἀδελφότητα ἀγαπᾶτε. Sub lege olim, non
+tantum qui eisdem parentibus erant prognati, sed
+qui ejusdem tribus, qui eorumdem sacrorum, et
+ejusdem verbi participes erant, fratres vocabantur,
+ut Barnabas [imo Clemens Alex. ipse] apud Cle-
+mentem Alex. II Strom. : ῾Ὁ νόμος ἀπαγορεύει ἀδελ-
+φῷ δανείζειν, ἀδελφὸν ὀνομάζων, οὐ μόνον τὸν ἐκ τῶν
+αὐτῶν φυντα γονέων, ἀλλὰ καὶ ὃς ἂν ὁμόφυλος ᾖ ὁμο-
+γνώμων τε, καὶ τοῦ αὐτοῦ λόγου κεκοινωνηκώς. Sic
+in primitiva Ecclesia, cum Christiani animo anima-
+que inter se miscerentur, et omnia præter uxores
+indiscreta haberent, ut loquitur Tertullianus, fra-
+tres propter hanc πρὸς ἀλλήλους φιλοστοργίαν καὶ
+ἀγάπην dicebantur et habebantur, præcipue vero
+quia unum Patrem Deum (ut idem Tertullianus in
+Apologetico ) agnoscerent, unum spiritum sanctita-
+tis haberent, et de ejusdem ignorantiæ utero ad
+unam veritatis lucem expavissent. Sic Chrys. hom.
+25, in epist. ad Hebr. exponens v. 11, 5, primæ ad
+Cor. : ᾿Αδελφὸν ἐνταῦθα λέγων πάντα τὸν πιστὸν
+ἁπλῶς, οὐ τὸν μονάζοντα· τί γάρ ἐστι τὸ ποιοῦν τὴν
+ἀδελφότητα; τὸ λουτρὸν τῆς παλιγγενεσίας, τὸ δυνη-
+θῆναι καλέσαι Πατέρα τὸν Θεὸν, ὥστε ὁ μὲν κατ-
+ηχούμενος κἄν μοναχὸς ᾖ, οὐκ ἀδελφὸς, ὁ δὲ πιστὸς
+κἄν κοσμικὸς ᾖ, ἀδελφός ἐστιν· εἴ τις, φησὶν, ἀδελφὸς
+ὀνομαζόμενος· οὐδὲ γὰρ ἴχνος τότε μενάζοντος ἦν,
+ἀλλὰ πάντα πρὸς κοσμικοὺς διελέγετο ὁ μακάριος
+Παῦλος. Hinc apud Cyprianum, fratrum et fraterni-
+tatis frequentissima mentio, et loties in epistolarum
+fine, illud repetitum : Fraternitatem universam meo
+nomine salutate, et,Fraternitatem, quæ vobiscum est,
+multum a me salutate. O tempora vere aurea, et
+mores Christo, ac sacrosancto ejus nomine dignis-
+simos! cum unanimitas in Ecclesia floreret, et po-
+pulus omnis Christianus in solidam corporis uni-
+tatem arretissimæ concordiæ glutino copularetur.
+Longe aliter in his novissimis diebus, et mundi se-
+nio (quod deflere facilius est, quam corrigere) cum
+jurgiis et contentionibus in religione, quam vincu-
+lum pacis esse oporteret. Christi tunica inconsuti-
+lis et individua, in varias partes scinditur, et cor-
+pus ejus mysticum dissidio compaginis separatur
+(ut loquitur Cyprianus) ac divulsis laceratione vis-
+ceribus in frusta discerpitur. Fraternitas omnis ho-
+die extincta est, unanimitas primæva non tantum
+diminuta, de quo Cyprianus suis temporibus queri-
+tur, sed e medio penitus sublata esse videtur. Dii
+meliora piis! JUN.
+
+# block=6
+(10) Καὶ τὰ δικαιώματα. Hæc verba quæ desunt
+editt. restituit ex ms. Wott. Ea quoque legebat in
+suo exemplari Bois. Sic enim ille, in notis ad h. l.
+Malim ἐν τῷ φόβῳ τοῦ Κυρίου, ut deinde lin. seq.
+pro τὰ δικαιώματα τοῦ Κυρίου, scribatur τὰ δικαιώ-
+ματα αὐτοῦ. Quin et illa legit Jun., ut patet ex ejus
+versione, ubi sic : Mandata et præcepta Domini. ID.
+(11) ᾿Επὶ τὰ πλάτη τῆς καρδίας. Sic Proverb.
+VII, 3 : ᾿Επίγραφον ἐπὶ τὸ πλάτος τῆς καρδίας
+σου, hoc est ἐπὶ τοῦ στήθους· veruin ego Clementem
+nostrum respexisse potius arbitror, ad tabulas la-
+pideas, in quibus digito Dei leges insculpebantur,
+et ad locum Apostoli II ad Cor. III, 3 : Οὐκ ἐν πλαξὶ
+λιθίναις, ἀλλ’ ἐν πλαξὶ καρδίας σαρκίναις. Et Jeremiæ
+XXXVIII (Vulg. XXXI), 33, quem locum Paulus ad He-
+bræos bis laudat : Διδούς δώσω νόμους μου εἰς τὴν
+διάνοιαν αὐτῶν, καὶ ἐπὶ καρδίας αὐτῶν γράψω αὐ-
+τούς. Sic Cyrillus Alex., ut est in Catena in Psal-
+mos, collectore Niceta, quam nos ms. habemus, ad
+vers. 11 psal. CXVIII : ᾿Εν τῇ καρδίᾳ μου ἔκρυψα
+τὰ λόγιά σου, τουτέστιν ἐν τῷ ταμείῳ τῆς ψυχῆς
+ἀνεξάλειπτον ἐνεκόλαψα τὴν μνήμην τῶν ἐντολῶν
+σου, ὅπως ἀεὶ ταύτας ὁρῶν καὶ μνημονεύων μὴ
+ἁμάρτω σοι. Ubi rationem reddit, cur Domini præ-
+cepta in intimis cordium nostrorum penetralibus
+recondi debeant, et similitudine elegantissima a
+thesauris, et pretiosis κειμηλίοις petita, illustrat.
+Sic Cyrillus Hieros. catech. 5, de fidei dogmate :
+᾿Εν ὀλίγοις τοῖς στίχοις τὸ πᾶν δόγμα τῆς πίστεως
+περιλαμβάνομεν, ὃπερ καὶ ἐπ’ αὐτῆς τῆς λέξεως
+μνημονεῦσαι ὑμᾶς βούλομαι, καὶ παρ’ ἑαυτοῖς μετὰ
+πάσης σπουδῆς ἀπαγγεῖλαι, οὐκ εἰς χάρτας ἀπογρα-
+φομένους, ἀλλ’ ἐν καρδίᾳ τῇ μνήμῃ στηλογραφοῦντας,
+φυλαττομένους ἐν τῷ μελετᾶν· et paulo infra : Βλέ-
+πετε οὖν, ἀδελφοὶ, καὶ κρατεῖτε τὰς παραδόσεις ἃς
+νῦν παραλαμβάνετε, καὶ ἀπογράψασθε αὐτὰς εἰς τὸ
+πλάτος τῆς καρδίας ὑμῶν, ubi ex comparatione su-
+periorum ἐπὶ τὰς πλάκας reponi debere, ad oram
+libri nostri ante aliquot annos observavimus, atque
+ita hoc loco apud Clementem legendum esse, non
+dubium est. JUN.
+
+# block=4
+(8) Συνειδήσεως. Al. συνδέσεως, vel συνευδο-
+κήσεως. Ms. adhæreo cum Wott. Sed verterem po-
+tius, unanimi consensu. Eaque videtur fuisse S. Pa-
+-

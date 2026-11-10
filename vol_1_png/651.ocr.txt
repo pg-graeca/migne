@@ -1,0 +1,186 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,964,236,1716,1757
+2,183,1874,928,2718
+3,163,235,940,1756
+4,957,1880,1719,2723
+5,614,97,1286,132
+7,180,98,234,134
+8,1225,151,1446,186
+9,1049,195,1623,230
+10,368,150,685,187
+12,790,1802,1096,1841
+15,1647,94,1713,138
+16,223,190,881,242
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+702
+
+# block=5
+CONSTITUTIONES APOSTOLICÆ.—LIB. Ⅱ.
+
+# block=7
+701
+
+# block=10
+ΚΕΦΑΛΑΙΟΝ ΜΓ΄.
+
+# block=8
+CAPUT XLIII.
+
+# block=16
+Ὅπως χρὴ τοὺς συκοφάντας τιμωρεῖσθαι.
+
+# block=9
+Quomodo oporteat punire calumniatores.
+
+# block=3
+Ποιήσεις οὖν αὐτὸν ἀποσυνάγωγον, ὡς φονέα ἀδελ-
+φοῦ. Ἔπειτα χρόνου διαστάντος, ἐὰν λέγῃ μετανοεῖν,
+στιβώσατε αὐτὸν νηστείαις· καὶ μετὰ ταῦτα χειρο-
+θετήσαντες αὐτὸν προσδέξασθε, ἀσφαλισάμενοι μέν-
+τοι αὐτὸν, μή τινα ταράξῃ πάλιν. Εἰ δὲ πάλιν (60)
+εἰσελθὼν, ὁμοίως στασιάζει, οὐ παυόμενος τοῦ ταράσ-
+σειν, καὶ κατακερτομεῖν τὸν ἀδελφὸν, ἐκ φιλονει-
+κίας μώμους (61) ἐπιτηδεύων, ἐκβαλεῖτε αὐτὸν
+ὡς λοιμὸν, ἵνα μὴ τὴν Ἐκκλησίαν λυμαίνηται τοῦ
+Θεοῦ. Ὁ τοιοῦτος γὰρ ταραχὰς συνίστησι πόλε-
+σιν (62)· οὗτος γὰρ κἂν ἔσω ᾖ, μὴ πρέπων τῇ
+Ἐκκλησίᾳ, περισσὸς καὶ μάταιος τυγχάνει, σπιλῶν,
+ὅσον τὸ ἐπ᾿ αὐτῷ (63), τὸ σῶμα τοῦ Χριστοῦ. Εἰ γάρ
+τινες τῶν ἀνθρώπων γεννώμενοι καὶ περισσὰ τῶν
+σωμάτων μέλη προσηρτημένα ἔχοντες, οἷον δακτύ-
+λους, ἢ ὑπερσαρκώματα, περικόπτουσιν ἀφ᾿ ἑαυτῶν
+ταῦτα, διὰ τὴν ἀπρέπειαν, καὶ οὐδεμία προσγίνεται
+ἀπρέπεια, ἀπολαβόντος τοῦ ἀνθρώπου διὰ τοῦ τεχνί-
+που τὴν φυσικὴν εὐκοσμίαν· πόσῳ μᾶλλον ὑμεῖς οἱ
+ποιμένες τῆς Ἐκκλησίας, ὑπαρχούσης σώματος ἀρ-
+τίου καὶ μελῶν ὑγιεινῶν, ἐπὶ (64) Θεὸν πιστευόντων
+ἐν φόβῳ Κυρίου καὶ ἀγάπῃ, ὅταν εὑρεθῇ ἓν μέλος πε-
+ρισσὸν, πονηρὰ φρονοῦν, καὶ τῷ λοιπῷ σώματι ἀπρέ-
+πειαν ἐμποιοῦν, καὶ χειμάζον αὐτὸ στάσει καὶ μάχῃ
+καὶ καταλαλιᾷ, παρέχον αὐτῷ φόβους (65), πράγματα,
+μώμους, καταλαλίας, ἐγκλήματα, ἀκαταστασίας, καὶ
+τὰ τοιαῦτα τοῦ διαβόλου ἐνεργήματα ἐκτελῶν, ὡσὰν
+κεχειροτονημένος ὑπὸ τοῦ διαβόλου σκυβαλίζειν τὴν
+Ἐκκλησίαν διὰ βλασφημιῶν καὶ πολλῆς ἀκαταστα-
+σίας καὶ ἔριδος καὶ διχοστασίας. Οὗτος (66) οὖν δεύ-
+τερον ἔξω τῆς Ἐκκλησίας βληθεὶς, ἀξίως ἀπετμήθη
+τῆς τοῦ Κυρίου συναγωγῆς· καὶ μᾶλλον νῦν κεκό-
+σμηται ἡ τοῦ Κυρίου Ἐκκλησία, ἢ τὸ πρῶτον, ὅτε
+τὸ περιττὸν ἐκέκτητο καὶ ἑαυτῇ ἀνοίκειον μέλος· διὸ
+ἀπὸ τοῦ νῦν ἀβλασφήμητός ἐστι καὶ ἀσκυβάλιστος,
+
+# block=1
+Hunc igitur Ecclesia extorrem efficies, velut fra-
+tricidam. Interjecto dein tempore, si pœnitere se
+profiteatur, jejunia ipsi infligite ; et postea manibus
+impositis admittite, præmunitum tamen ac edo-
+ctum molestiam iterum alteri non creare. Quod si
+rursum in Ecclesiam ingressus, similem concitat
+seditionem, nec desinit turbas ciere, et fratri con-
+vicia ingerere, studio contendendi excogitans cri-
+mina ; ejicite eum tanquam pestiferum, ne Eccle-
+siam Dei depopuletur. Hujusmodi enim homo tu-
+multum facit in civitatibus ; hic, licet intro consi-
+stat, Ecclesiæ indecorus, supervacuus est ac inanis,
+maculans, quoad ejus est, corpus Christi. Nam si
+nonnulli homines, ab ortu superflua quædam mem-
+bra corpori connexa habentes, puta, digitos, vel
+carnes supercrescentes, sponte ea accrementa, pro-
+pter fœditatem, abscindunt ; neque vero ullatenus
+indecens est, quod homo opera cujuspiam artificis
+naturalem recuperat pulchritudinem ; quanto magis
+vos pastores Ecclesiæ, quæ est corpus integrum,
+constans ex membris sanis, in Deum cum timore
+Domini et charitate credentibus, facere idem opor-
+tet, quando inventum fuerit membrum quoddam
+inutile, male erga alia affectum, et reliquo corpori
+deformitatem conficiens ; illique vexationem, sedi-
+tionem, bellum ac detractionem inferens, necnon
+eidem incutiens timores, molestias, vituperationes,
+obtrectationes, criminationes, tumultus, similiaque
+exsequens diaboli opera ; quasi homo a diabolo ele-
+ctus ad Ecclesiam maledictis, multaque seditione,
+contentione, discordia inquinandam. Is igitur extra
+Ecclesiam iterum projectus, merito a Domini cœtu
+abscissus est : multoque ornatior nunc apparuit
+Domini Ecclesia, quam antea, cum supervacaneum
+eique non affine membrum habebat ; quocirca jam
+
+# block=12
+VARIORUM NOTÆ.
+
+# block=2
+Gen. Ⅸ, 6. Pono virgulam in medio, et post eam
+subintelligo vel τὸ αἷμα, quod agnoscitur a Ce-
+dreno edit. Basil., p. 238, lin. 24 ; nec non ab Ire-
+næo lib. ⅴ, cap. 14 ; et Hieronymo ad Sopho-
+niæ Ⅰ, 17, vel τό duntaxat, quemadmodum habe-
+tur in editione Complutensi, et in Chrysostomo
+hom. 27, in Genesim. Textus Hebræus : Qui
+effuderit sanguinem hominis, in homine, aut
+per hominem, sanguis ejus effundetur. LXX, vul-
+go quidem, ut in hoc Constitutionum loco ; at apud
+Complutenses : Ἀντὶ τοῦ αἵματος ἀνθρώπου, τὸ
+αὐτοῦ ἐκχυθήσεται. Hoc est ex Ambrosiana ver-
+sione, pro sanguine hominis, ejus effundetur : Quæ
+tamen verba Ambrosius cap. 26 libri De Noe et
+arca, minus commode distinxit et explicavit, collo-
+cata distinctione post pronomen ejus (ita quippe
+expositio illius postulat), acceptoque textu de effu-
+sione non sanguinis, sed hominis. In Cedreno au-
+tem : Ἀντὶ τοῦ αἵματος ἐκείνου ἐκχυθήσεται τὸ αἷμα
+αὐτοῦ· quod Hieronymus interpretatur, pro san-
+guine ejus effundetur sanguis illius ; et Irenæi inter-
+pres verterat (nisi me mea fallit critica) : sanguis
+illius pro sanguine ejus effundetur. Denique in
+Chrysostomo ἀντὶ τοῦ αἵματος αὐτοῦ τὸ αὐτοῦ ἐκ-
+χυθήσεται, atque ita in Vita Nili junioris a Ca-
+
+# block=4
+riophylo edita p. 137. Unde colligitur legisse Senes,
+בדם aut האדם בדם. Cæterum observabis, si id
+quoque dignum observatu videbitur, a Patribus
+concilii Trosleiani c. 13, usurpari verba enarra-
+tionemque Hieronymi in loco citato. Omittebam im-
+prudens locum exstantem in synodo S. Patricii ca-
+none 6, qui tamen animadversione dignus est. Audi
+item Dominum dicentem : « Qui effuderit sangui-
+nem innocentem, sanguis ipsius effundetur. » Forte
+enim qui illum textum suggessit, legebat in Græco,
+αἷμα ἀθῶον, pro αἷμα ἀνθρώπου, non bene perci-
+piens Scripturam in compendium deductam. Cot.
+(60) Πάλιν. Deest in cod. Vind. Cler.
+(61) Μώμους. In altero Vind. μωμοῦν, quod est
+melius. Verte : studio contendendi irridere eum aggres-
+sus. Id.
+(62) Πόλεσι. Codex Vind. πόλει. Idem.
+(63) Τὸ ἐπ᾿ αὐτῷ. Cod. Vind. καὶ ἐπ᾿ αὐτῷ,
+πᾶν. Id.
+(64) Ἐπί. Τῶν ἐπί, ms. Vind. Id.
+(65) Φόβους. Alter ms. φόβον, non male. Id.
+(66) Οὗτος. Ante hanc vocem habet alter codd.
+Vind. Εἰ ἐξώσητε τὸν τοιοῦτον ἑαυτῶν καὶ περικό-
+ψῃτε, si expuleritis talem a vobis et abscideritis.
+Quæ tamen necessaria non videntur. Id.

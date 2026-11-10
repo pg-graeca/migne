@@ -1,0 +1,206 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,268,806,1022,1275
+2,1053,804,1803,1275
+3,1060,2290,1811,2656
+4,1060,2650,1795,2724
+6,1055,1863,1812,2291
+7,1053,158,1796,674
+9,1053,1505,1810,1865
+10,267,167,1017,674
+11,509,744,771,778
+12,1294,743,1558,777
+13,643,103,1403,143
+14,311,1323,596,1358
+16,273,1494,1018,2734
+18,274,113,330,150
+20,882,1399,1180,1446
+21,1733,100,1801,140
+22,265,684,1125,716
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=16px
+# block=14 fontSize=15px
+# block=16 fontSize=15px
+# block=18 fontSize=16px
+# block=20 fontSize=15px
+# block=21 fontSize=16px
+# block=22 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=21
+284
+
+# block=13
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=18
+283
+
+# block=7
+πῶς ὑποποτεταγμένως ἐπιτελ[οῦ]σιν τὰ διατασσόμενα.
+Οἱ πάντ[ες] εἰσὶν ἔπαρχοι, οὐδὲ χιλίαρχοι, οὐδὲ ἑκα-
+τόνταρχοι, οὐδὲ πεντηκόνταρχοι (50), οὐδὲ τὸ καθ-
+εξῆς· ἀλλ᾽ ἕκαστος ἐν τῷ ἰδίῳ τάγματι τὰ ἐπι-
+τασσόμενα ὑπὸ τοῦ βασιλέως καὶ τῶν ἡγουμένων ἐπι-
+τελεῖ. Οἱ μεγάλοι δίχα τῶν μικρῶν οὐ δύνανται εἶναι,
+οὔτε (51) οἱ μικροὶ δίχα τῶν μεγάλων. Σύγκρασίς τίς
+ἐστιν ἐν πᾶσι, καὶ ἐν τούτοις χρῆσις. Λάβωμεν τὸ
+σῶμα ἡμῶν· ἡ κεφαλὴ δίχα τῶν ποδῶν οὐδέν ἐστιν,
+οὕτως οὐδὲ οἱ πόδες δίχα τῆς κεφαλῆς· τὰ δὲ ἐλάχι-
+στα μέλη τοῦ σώματος ἡμῶν ἀναγκαῖα καὶ εὔχρηστά
+εἰσιν ὅλῳ τῷ σώματι· ἀλλὰ πάντα (52) συμπνεῖ,
+
+# block=10
+exsequantur. Non omnes sunt præfecti, neque tri-
+buni, neque centuriones, neque quinquagenarii, et
+sic deinceps ; sed unusquisque in sua statione, quæ
+a rege ac ducibus imperantur peragit. Magni sine
+parvis, neque parvi sine magnis consistere ne-
+queunt. Mutua quædam in omnibus necessitudo est,
+et in his usus. Exempllo nobis sit corpus nostrum :
+caput absque pedibus nihil est ; sic neque pedes
+absque capite : minima autem corporis nostri
+membra , necessaria et utilia sunt toti corpori :
+tum universa conspirant, et ad conservationem
+totius corporis una subjectione utuntur 44.
+
+# block=22
+καὶ ὑποτ[α]γῇ μιᾷ χρῆται εἰς τὸ σώζεσθαι ὅλον τὸ σῶμα.
+
+# block=12
+ΚΕΦΑΛΑΙΟΝ ΛΗʹ.
+
+# block=11
+CAPUT XXXVIII.
+
+# block=2
+Σωζέσθω οὖν ἡμῶν ὅλον τὸ σῶμα (53) ἐν Χριστῷ
+Ἰησοῦ, καὶ ὑποτασσέσθω[ω] (54) ἕκαστος τῷ πλησίον
+αὐτοῦ, καθ[ὡς] καὶ ἐτέθη ἐν τῷ χαρίσματι αὐτοῦ (55).
+Ὁ ἰσχυρὸς μή· τὴμελείτω (56) τὸν ἀσθενῆ, ὁ δὲ
+ἀσθενὴς ἐντρεπέτω τὸν ἰσχυρόν· ὁ πλούσιος ἐπιχορ-
+γηείτω τῷ πτωχῷ, ὁ δὲ πτωχὸς εὐχαριστείτω τῷ
+Θεῷ, ὅτι ἔδωκεν αὐτῷ δι᾽ οὗ ἀναπληρωθῇ αὐτοῦ τὸ
+ὑστέρημα· ὁ σοφὸς (57) ἐνδειχνύσθ[ω] τὴν σοφίαν
+αὐτοῦ, μὴ ἐν λόγοις· ἀλλ᾽ ἐν ἔργοις ἀγαθοῖς· ὁ τα-
+πεινοφρωνῶν μὴ ἑαυτῷ μαρτυρείτ[ω], ἀλλ᾽ ἐάτω (58)
+ὑφ᾽ ἑτέρου (59) ἑαυτὸν μ[αρ]τυρεῖσθαι· ὁ ἁγνὸς ἐν
+
+# block=1
+Servetur itaque totum corpus nostrum in Chri-
+sto Jesu ; et unusquisque proximo suo subjiciatur
+secundum donum quod per gratiam illius obtinuit.
+Fortis ne negligat quidem imbecillem ; imbecillis
+vero fortem revereatur : dives pauperi largiatur ;
+pauper vero gratias agat Deo, quod ei dederit per
+quem inopia ejus suppleatr : sapiens ostendat sa-
+pientiam suam , non in verbis, sed in bonis operi-
+bus : humilis non sibi testimonium ferat ; sed ab
+altero sibi ferri sinat : qui carne castus est, ne in-
+solescat, sciens alium esse qui ei continentiain do-
+
+# block=14
+⁴⁴ Cor. Ⅻ. 14, 27.
+
+# block=20
+VARIORUM NOTÆ.
+
+# block=16
+(50) Πεντηκόνταρχοι. Vertit Cot. quinquaginta
+militum præfecti. Simplicius Wott. quinquagenarii.
+Sic et Cout. Hieronymo præeunte in Ⅲ Isaiæ. Hanc
+interpretationem confirmo ex Vulg. interprete Exod.
+ⅩⅧ, 21 : Et constitue ex eis tribunos, et centuriones,
+et quinquagenarios, et decanos. Ita et comm. 25. In
+Græco sic ex cod. Vat. : Καὶ καταστήσεις ἐπ᾽ αὐ-
+τῶν (cod. Alex. αὐτοὺς ἐπ᾽ αὐτῶν ) χιλιάρχους καὶ
+ἑκατοντάρχους καὶ πεντηκοντάρχους καὶ δεκαδάρ-
+χους. Sic Deut. 1, 15. GALL. — Ἔπαρχοι , etc. Pie
+admodum ac eleganter B. Hieronymus 1 adversus
+Jovinianum, 20 : Quo modo in legionibus et exercitu
+sunt duces , sunt tribuni , sunt centuriones , sunt fe-
+rentarii , ac levis armaturæ , et miles gregarius , et
+manipuli ; commissaque pugna , vacant nomina digni-
+tatum , et sola fortitudo quæritur ; ita in hoc campo ,
+et prælio , quo contra dæmones dimicamus , non quæ-
+runtur nomina , sed opera ; et gloriosior ille sub vero
+imperatore Christo , non qui nobilior , sed qui fortior
+est. Et lib. Ⅱ, cap. 15, enumerat imperatores , præ-
+fectos , comites , tribunos , centuriones , manipulos , et
+reliquum militiæ ordinem. Ad Isaiæ vero Ⅲ, 3, ubi
+ⅬⅩⅩ habent πεντηκόνταρχοι , ait : Quo modo enim
+centuriones vocantur , qui centum præsunt militibus ;
+et chiliarchi qui mille, quos nos tribunos appellamus,
+ab eo quod præsunt tribui : sic in Israelitico exercitu
+quinquagenarii vocabantur , qui in capite erant quin-
+quaginta militum : unde et decanos dicimus , qui de-
+cem præsunt hominibus. In Xenophontis Κύρου παι-
+δείας lib. Ⅷ, paulo post initium , nominantur
+δεκάδαρχοι , λοχαγοὶ , χιλίαρχοι , μυρίαρχοι , et στρα-
+τηγός. Vide Exod. ⅩⅧ , 21 , 25 ; Deuteron. 1 , 15 ;
+Ⅳ Reg. 1 , 9 , etc. , et Ⅰ Machab. Ⅲ , 55. Cot.
+(51) Οὕτε. Sic ms. At codd. impp. omnes ,
+οὐδέ. Wott. GALL.
+(52) ᾿Αλλὰ πάντα Suspecta nonnullis lectio.
+Dav. pro ἀλλά legit ἅμα. At nihil mutandum vide-
+
+# block=9
+tur, si ἀλλά vertamus, imo, quin imo, quin potius.
+Sic Luc. Ⅻ, 7, et Act. ⅩⅨ, 2. Videsis Schœttge-
+nii Lexic. Nov. Test. v. ᾿Αλλά. ID.
+(53) Ὄλον τὸ σῶμα. Sic Wott. ex ms. Sic et
+editt. Basileens. et Londin. Al. omittunt. Quæ sane
+verba hic requiri satis liquet ex initio cap. seq.
+Σωζέσθω οὖν ἡμῶν ὅλον τὸ σῶμα. ID.
+(54) Ὑποτασσέσθω, κ. τ. λ. Est imitatio Pauli,
+Ephes. ℱ, 31 : Ὑποτασσόμενοι ἀλλήλοις ἐν φόβῳ
+Χριστοῦ. Ita Cler. apud quem tamen, Θεοῦ irrepsit
+pro Χριστοῦ. ID.
+
+# block=6
+(55) Καθὼς καὶ ἐτέθη ἐν τῷ χαρίσματι αὐτοῦ.
+Legendum putabat Bois. καθὼς καθήκει, videlicet
+αὐτῷ vel ἑκάστῳ : sicut convenit in dono. At Wott.
+a ms. non recedit. Sic et Cler. verba hæc ita in-
+terpretatus : Unusquisque proximo suo subjiciatur,
+pro loco in quo proximus ejus collocatus est, dono a
+Christo accepto. ID.
+(56) Μὴ τμμελείτω. Ita ms. cujus mendum alii
+sic corrigunt, μὴ πλημμελείτω. Al. μὴ ἀτημελείτω.
+Magis placet Mill. lectio, μήτ᾽ ἀμελείτω. ID.
+(57) Ὁ σοφός, κ. τ. λ. Hæc exscribit Clem.
+Alex. Στρωμ., lib. ⅳ, cap. 16, pag. 613, paululum
+pro more suo mutata. ID.
+
+# block=3
+(58). Ἐάτω. Jubet Potter. rectam hanc lectionem
+restituendam esse quoque Clementi Alex. apud
+quem leg. ἐν τῷ corrupte : ἐάτω namque facile
+transit in ἐν τῷ, mutato α in ν. Idem postea pro-
+batum et Cout. Attamen quis credat? Russel. in
+sua noviss. edit. Londin., rejecta optima ms. le-
+ctione ἐάτω, quam exhibent præcedentes editt., se-
+qui maluit mendosam Alexandrini, ἐν τῷ. Ceterum
+in eamdem sententiam loquitur S. Pater sup. cap. 30 :
+Ἡ μαρτυρία τῆς ἀγαθῆς πράξεως ἡμῶν διδόσθω
+ὑπ᾽ ἄλλων. ID.
+
+# block=4
+(59) Ὑφ᾽ ἑτέρου. Sic ms. ut apud Clem. Alex.
+At codd. impp. præter Lond. ὑπ᾽ ἑτέρου. ID.

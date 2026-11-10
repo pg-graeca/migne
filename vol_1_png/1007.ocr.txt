@@ -1,0 +1,172 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1020,1184,1771,1866
+2,235,1267,983,1865
+3,1019,232,1772,1175
+4,235,152,983,1260
+5,233,1904,1767,2050
+6,854,2056,1149,2093
+7,1017,148,1764,225
+8,228,2116,975,2682
+9,1013,2116,1775,2683
+10,784,90,1197,129
+11,241,92,307,136
+12,1167,2780,1184,2812
+13,1693,97,1761,128
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1020 source_y1=1184 source_x2=1771 source_y2=1866
+XXVIII. Addam adhuc rem, quæ possit etiam
+valde incredulis satisfacere. Judæi omnes (1) qui
+sub lege Moysi vivunt, filios suos octava die absque
+ulla dilatione circumcidunt, et infantis teneri san-
+guinem fundunt; a sæculo autem nullus ex genti-
+bus hoc die octava perpessus est, et econtra Judæo-
+rum nullus omisit. Quomodo ergo in hoc ratio ge-
+nesis stabit? cum per cunctas orbis terræ partes
+omnes Judæi admisti gentibus vivant, et octava
+ferrum perferant die unius in membri loco, et nemo
+gentilium, sed ipsi soli, ut dixi, hoc faciunt, ⁷² non
+stella cogente nec perfusione sanguinis perurgente,
+sed lege religionis adducti, et in quocunque orbis
+loco fuerint hoc est eis insigne vernaculum. Sed et
+quod unum nomen omnibus inest ubicunque fue-
+rint, nunquid et hoc per genesim venit? et quod
+
+# block=2 source_x1=235 source_y1=1267 source_x2=983 source_y2=1865
+XXVI. ⁷⁰ Sed dicet aliquis eorum qui in disci-
+plina mathesis eruditi sunt, genesim in septem
+partes dirimi, quæ illi climata appellant (100),
+dominari vero unicuique climati unam ex septem
+stellis, et istas quas exposuimus diversas leges
+non ab hominibus positas, sed ab istis principi-
+bus secundum uniuscujusque voluntatem; et hoc
+quod stellæ visum est, legem ab hominibus obser-
+vatam. Ad hæc ergo respondebimus, quod primo
+quidem non est in septem partes orbis terræ divi-
+sus, tum deinde et si ita esset, in una parte et in
+una regione invenimus multas differentias legum,
+et ideo neque septem sunt secundum numerum
+stellarum, neque duodecim secundum numerum
+
+# block=3 source_x1=1019 source_y1=232 source_x2=1772 source_y2=1175
+XXVII. Meminisse autem debemus eorum quæ
+supra enumerata sunt, quod in una Indiæ regione
+sunt et qui hominum carnibus vescantur, et sunt
+qui etiam a pecudibus vel avibus omnibusque ani-
+mantibus abstineant, et quia Magusæi non solum
+in Perside matres ac filias accipiunt in matrimo
+nium, sed et in omni gente ubicunque habitaverint,
+malorum suorum incesta instituta custodiunt. Tum
+præterea et innumeras gentes memoravimus, quæ
+penitus studia nesciunt litterarum. Sed et aliquanti
+sapientes viri ipsas leges in nonnullis commutave-
+runt locis, aliæ vero etiam sponte pro sui vel im-
+possibilitate vel inhonestate derelictæ sunt. Certe;
+quod in promptu est noscere, quanti imperatores
+gentium quas vicerant leges et instituta mutarunt,
+et suis eas legibus subjecerunt! Quod evidenter a
+Romanis factum docetur, qui omnem pene orbem
+omnesque nationes propriis primo et variis legibus
+institutisque viventes, in Romanorum jus et civilia
+scita verterunt. ⁷¹ Superest ergo ut et stellæ gen-
+tium, quæ a Romanis victæ sunt, climata sua par-
+tesque perdiderint.
+
+# block=4 source_x1=235 source_y1=152 source_x2=983 source_y2=1260
+modo summa observantia adhuc spirantes homines
+canibus devorandos abjiciunt, ⁶⁹ et non ob hoc
+Martem cum Luna per diurnam genesim in Cancro
+positos habent. Indi mortuos suos incendunt, cum
+quibus et uxores defunctorum sponte se offerentes
+exuruntur. Sed non ideo omnes quæ vivæ incen-
+duntur Indorum mulieres, in nocturna genesi sub
+terra habent Solem cum Marte in partibus Martis.
+Germanorum plurimi laqueo vitam finiunt, nec
+idcirco omnes Lunam cum hora, Saturno et Marte
+circumcinctas habent. Sed non in omni gente, et in
+•omni die per omnem diversitatem genesis nascun-
+tur homines? Ex quibus omnibus apparet, quia
+metus legum in unaquaque regione dominatur, et
+arbitrii libertas quæ est hominibus insita per spi-
+ritum, obtemperat legibus, nec cogere potest ge-
+nesis aut Seres homicidium committere, aut Brag-
+manos carnibus vesci, aut Persas incesta vitare,
+vel Indos non exuri, aut Medos non a canibus de-
+vorari, Parthos non habere plures uxores, aut
+mulieres Mesopotamiæ non servare pudicitiam,
+Græcos non exerceri palæstris, Gallorum pueros
+non pati muliebria, vel gentes barbaras Græcorum
+studiis institui, sed, ut diximus, unaquæque gens
+suis legibus utitur pro libertatis arbitrio, et de-
+creta genesis legum severitate depellit.
+
+# block=5 source_x1=233 source_y1=1904 source_x2=1767 source_y2=2050
+⁶⁹ Et non.. habent atque illa quæ in sequentibus ad astrologiam spectant omnia sed non... Martis
+et nec idcirco... Martis non leguntur in codd. Lipss. ⁷⁰ Sed dicet .. instituta custodiunt (cap. 27) de-
+sunt in codd. Lipss. ⁷¹ Superest... perdiderint desunt in codd. Lipss. ⁷² Non stella... aut emere non le-
+guntur in codd. Lipss.
+
+# block=6 source_x1=854 source_y1=2056 source_x2=1149 source_y2=2093
+COTELERII NOTÆ.
+
+# block=7 source_x1=1017 source_y1=148 source_x2=1764 source_y2=225
+signorum, neque triginta et sex secundum nume-
+rum decanorum, sed sunt innumeræ.
+
+# block=8 source_x1=228 source_y1=2116 source_x2=975 source_y2=2682
+(100) Genesim in septem partes dirimi, quæ illi
+climata appellant. Difficile est de hoc loco statuere.
+Nam si exigatur ad Cæsarium, mutilus apparebit ;
+si vero ad Bardesanem, videbitur Rufinus legisse γε-
+νεσιν προ γην. Verba prioris sunt : Ἀλλ' ἑπτὰ ὄντων
+τῇ γενέσει ἡμῶν ἀνακειμένων ἀστέρων, εἰς ἑπτὰ λέ-
+γομεν κλίματα τὴν γῆν διαιρεῖσθαι. Posterioris au-
+tem : Οἱ δὲ ἀστρονόμοι φασὶ τὴν γῆν ταύτην μεμερί-
+σθαι εἰς ἑπτὰ κλίματα. Cæterum septem quoque cli-
+mata ponit Servius ad 1 Georgicon, enumeratque
+Isidorus Originum lib. III, cap. 41 : quæ tamen octo
+leges apud Martianum Capellam lib. VIII, p. 296.
+(1) Judæi omnes. Idem argumentum vulgo urgent
+sancti Patres. Quod autem hic dicitur nullum gen-
+tilium unquam circumcisionem octavo die passum
+fuisse, confutari posse videtur per narrationem Phi-
+lostorgii de Homeritis ea die circumcidi solitis,
+
+# block=9 source_x1=1013 source_y1=2116 source_x2=1775 source_y2=2683
+lib. III, c. 4. Verum forsan Homeritæ post tempora
+nostri Auctoris ritum suum mutavere, edocti a Ju-
+dæis inquilinis. Etenim Arabes erant : circumcide-
+bantur porro Arabes anno 13, teste Origene apud
+Eusebium Pr. evang. lib. VI, cap. 11, p. 293, et in
+Philocaliæ cap. 22, pag. 363, necnon Eustathio in
+Hexaemeron ubi de Abrahamo. Μετὰ ἔτος τρισκαι-
+δέκατον, post decimum tertium annum, inquit Jose-
+phus Antiquitatum lib. I, cap. 13, quod eodem re-
+cidit, ut constat ex ejusdem libri cap. 14, hoc est,
+anno 15 completo. Certe Ambrosius, lib. II De Abra-
+hamo, c. 11, refert ab Ægyptiis circumcisos fuisse
+pueros annum agentes quartumdecimum. Atque ex
+his suspectum habeo locum Procopii Gazæi ad Gen.
+I, 14 : Quare apud Ismaelitas sacerdotes ubi nati
+fuerint annos decem, circumcisione signantur? ne ιγ,
+detrito, γ, transierit in ι.
+
+# block=10 source_x1=784 source_y1=90 source_x2=1197 source_y2=129
+RECOGNITIONUM LIB. IX.
+
+# block=11 source_x1=241 source_y1=92 source_x2=307 source_y2=136
+1413
+
+# block=12 source_x1=1167 source_y1=2780 source_x2=1184 source_y2=2812
+—
+
+# block=13 source_x1=1693 source_y1=97 source_x2=1761 source_y2=128
+1414

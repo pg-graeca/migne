@@ -1,0 +1,192 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1036,135,1792,521
+2,245,126,1006,520
+3,851,550,1153,595
+4,1011,634,1772,2702
+5,661,72,1392,121
+7,232,637,985,1838
+8,1734,74,1788,118
+9,228,1835,979,2700
+10,241,74,317,118
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=5
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10
+727
+
+# block=8
+728
+
+# block=2
+dam loco excelso stans, legat libros Mosis et Jesu filii
+Navis, Judicum et Regnorum, item Paralipomenon,
+et quæ de populi reditu conscripta sunt ; ad hæc Jobi
+et Salomonis volumina, simulque sexdecim prophe-
+tarum. Peractisque per binos lectionibus, quidam
+alius Davidis hymnos psallat, et populus extrema
+versuum succinat. Deinde Acta nostra recitentur,
+et Epistolæ Pauli adjutoris nostri, quas sancti Spi-
+ritus ductu ad Ecclesias misit. Postea diaconus vel
+
+# block=1
+σαι. Μέσος δ᾽ ὁ ἀναγνώστης ἐφ᾽ ὑψηλοῦ τινος ἑστὼς,
+ἀναγινωσκέτω τὰ Μωσέως (40) καὶ Ἰησοῦ τοῦ Ναυὴ,
+τὰ τῶν Κριτῶν καὶ τῶν Βασιλειῶν, τὰ τῶν Παραλει-
+πομένων καὶ τὰ τῆς ἐπανόδου· πρὸς τούτοις τὰ τοῦ Ἰὼβ
+καὶ τοῦ Σολομῶνος, καὶ τὰ τῶν ἐκκαίδεκα προφητῶν.
+Ἀνὰ δύο δὲ γενομένων ἀναγνωσμάτων, ἑτερός τις
+τοὺς τοῦ Δαβὶδ ψαλλέτω ὕμνους, καὶ ὁ λαὸς τὰ ἀκρο-
+στίχια ὑποψαλλέτω (41). Μετὰ τοῦτο αἱ Πράξεις αἱ
+ἡμέτεραι ἀναγινωσκέσθωσαν, καὶ Ἐπιστολαὶ Παύλου
+
+# block=3
+VARIORUM NOTE.
+
+# block=4
+Corinthios, sub finem : Καὶ ὁ ψάλλων, ψάλλει μό-
+νος· κἂν πάντες ἀπηχῶσιν [vel ὑπηχῶσιν], ὡς ἐξ ἑνὸς
+στόματος ἡ φωνὴ φέρεται. Et is qui psallit, solus
+psallit : etiamsi omnes respondendo resonant, tan-
+quam ex uno ore vox fertur. Id B. Ambrosio est re-
+spondere psalmum, ad Lucæ caput xv circa finem;
+Cassiano De institutis cœnobiorum lib. III, cap. 8,
+psalmos uno modulante respondere ; Eucherio
+Sermo de oratione, respondere cum psalmus canitur.
+Sozomenus lib. v, cap. 49, extremo : Ἐξῆρχον δὲ
+τῶν ψαλμῶν τοῖς ἄλλοις, οἱ τούτους ἀκριβοῦντες, καὶ
+ξυνεπήχει τὸ πλῆθος ἐν συμφωνίᾳ. Præcinebant au-
+tem cœteris ii qui psalmos apprime callebant ; multi-
+tudo deinde respondebat cum concentu. Pseudo-Areo-
+pagita caput 3, libri De hierarchia ecclesiastica :
+Ὁ ἱεράρχης ἀπάρχεται τῆς ἱερᾶς τῶν ψαλμῶν μελ-
+ῳδίας, συναδούσης αὐτῷ τὴν ψαλμικὴν ἱερολογίαν ἀπά-
+σης τῆς ἐκκλησιαστικῆς διακοσμήσεως. Pontifex au-
+spicatur sacrum psalmorum melos : omni ordine ec-
+clesiastico sacram ipsi psalmodiam succinente. Legi-
+mus etiam in Veteri Testamento, Exod. xv, 21 :
+Ἐξῆρχε δὲ αὐτῶν Μαριὰμ, λέγουσα· Ἄσωμεν, etc.
+Præcinebat autem mulieribus Maria, dicens : Cante-
+mus, etc. Et Judith xv, ult.: Καὶ ἐξῆρχεν Ἰουδὶθ τὴν
+ἐξομολόγησιν ταύτην ἐν παντὶ Ἰσραὴλ, καὶ ὑπεφώνει
+πᾶς ὁ λαὸς τὴν αἴνεσιν ταύτην. Et inchoavit Judith
+confessionem hanc in omni Israel, et subcinebat om-
+nis populus laudem hanc. Distingui porro debet hæc
+subpsallendi ratio ab alia affini, apud Cassianum
+De cœnobiorum institutis, lib. II, cap. 8, et ante
+apud Philonem Judæum ubi de Essenis; ut unus
+psalmos canat, cuncti clausulas psalmis apponi so-
+litas concinant. En verba Philonis, libro De vita
+contemplativa, non procul a fine, citati etiam ab
+Eusebio Hist. eccl. II, 17 : Καὶ ἔπειτα ὁ μὲν (ita
+codd.Regii) ἀναστὰς, ὕμνον ᾄδει πεποιημένον εἰς τὸν
+Θεόν.... Μεθ᾽ ὃν καὶ οἱ ἄλλοι κατὰ τάξεις ἐν κόσμῳ
+προήκοντι, πάντων κατὰ πολλὴν ἡσυχιὰν ἀκρωμέ-
+νων, πλὴν ὁπότε τὰ ἀκροτελεύτια καὶ ἐφύμνια ᾄδειν
+δέοι. Τότε γὰρ ἐξηχοῦσι πάντες τε καὶ πᾶσαι. Hoc
+est : Tum ille (præses) assurgens, hymnum in laudem
+Dei compositum canit.... Post quem et cæteri ordinatim
+decenti modo : omnibus magno cum silentio auscul-
+tantibus, præterquam cum clausulas et hymnis finem
+imponentia canere oportet. Tunc enim universi et uni-
+versæ personant. Ac de ἀκροτελευτίοις, sive clausu-
+lis psalmorum, omitto quidem facile Sozomeni te-
+stimonia lib. VIII, cap. 8; et lib. v, cap. 19; sed
+non possum omittere insignem, qui a recentioribus
+intellectus non fuit, S. Athanasii locum in Apologia
+de fuga sua, paulo ante finem : Καθισθεὶς ἐπὶ τοῦ θρό-
+νου, προέτρεπον τὸν μὲν διάκονον ἀναγινώσκειν ψαλ-
+μὸν, τοὺς δὲ λαοὺς ὑπακούειν, ”Ὅτι εἰς τὸν αἰῶνα τὸ
+ἔλεος αὐτοῦ. Id est, ex optima versione Epiphanii
+Scholastici, lib. v Historia Tripartita, cap. 2 : Re-
+sidens in sede, præcepi ut diaconus psalmum lege-
+ret ; populi responderent : ‹ Quoniam in sæculum mi-
+sericordia ejus › (Psal. cv, 1). Male qui Athanasium,
+et Historiam ecclesiasticam Theodoriti (lib. II, c. 10)
+interpretati sunt, verbum ὑπακούειν putaverunt esse
+auscultare, audire; cum hic, et alibi sæpe, signifi-
+cet respondere. ID.
+
+# block=7
+Christo enim Jesu non est mas, neque femina. Apo-
+stolorum etiam tempore una viri et mulieres orabant,
+etc. (Gal. III, 28). Num audistis viros ac mulieres
+in cœnaculo congregatos fuisse? (Act. 1, 13.) Neque
+vero ad hunc ritum pertinet Licinii lex, relata ab
+Eusebio lib. I De vita Constantini, cap. 53, qua ve-
+tabat, viros simul cum mulieribus ad precandum
+Deum convenire. Omnem enim volebat tollere pre-
+cum communionem viros inter ac feminas, stulte
+non minus quam impuie. COT.
+(40) Ἀναγινωσκέτω τὰ Μωσέως, κ. τ. λ. Infra
+cap. 59, et lib. v, cap. 19; lib. VIII, cap. 5. Apud
+S. Basilium initio homiliæ 21, quæ habita est in La-
+cizis, mentio fit lectionum psalmicarum, prover-
+bialium, historicarum, apostolicarum et evange-
+licarum. In exhortatione vero ad sanctum baptisma
+homilia 13, paulo post initium, recitata fuisse eo
+die dicuntur loca prophetica, Davidica, apostolica
+actorum et evangelica. Quæ omnia S. Maximus ad
+cap. 3, Ecclesiasticæ hierarchiæ comprehendit per
+Vetus ac Novum Testamentum : Pachymeres au-
+tem, per prophetias, Apostolum ac Evangelium. Ad
+hæc in Gregorio Turonensi, lib. I De miraculis
+S. Martini, invenies propheticam lectionem apos-
+tolicæ seu Paulinæ esse præmissam. Denique gene-
+raliter loquuntur Patres Laodicenæ synodi can. 16 :
+Περὶ τοῦ ἐν σαββάτῳ Εὐαγγέλια μεθ᾽ ἑτέρων Γραφῶν
+ἀναγινώσκεσθαι. Ut in sabbato Evangelia cum aliis
+Scripturis legantur. Ad quem canonem quod ait Zo-
+naras, circa illa tempora in conventibus fidelium
+Scripturas sacras lectitatas non fuisse, nisi restrin-
+gatur ad diem sabbati, quemadmodum fit a Balsa-
+mone, cum veritate pugnabit. Nam patet ex Apolo-
+getico Justini martyris, multo ante concilium Lao-
+dicenum partem officii ecclesiastici Dominicarum
+exstitisse lectiones divinas. ID.
+
+# block=9
+(41) Καὶ ὁ λαὸς τὰ ἀκροστίχια ὑποψαλλέτω.
+Qui ante me hosce libros in Latinam linguam con-
+verterunt, ἀκροστίχια initia versuum interpretati
+sunt, gravi sane errato, contrarioque sensu. Quam-
+vis enim ἀκροστίχις ab Epiphanio, hæresi Audiano-
+rum, cap. 12, dicatur prior littera vocis alicujus;
+quamvis notæ sint in carminibus acrostichides;
+hoc tamen loco aperte non prima, sed postrema in-
+dicantur. Siquidem præcinebant cantores, populus
+vero succinebat. Qui Psaltæ ideo in Socratis Histo-
+ria ecclesiastica lib. v, cap. 22, appellantur ὑποβο-
+λεῖς, monitores, suggestores, Psalmi pronuntiatores
+ac prænuntiatores, quemadmodum docuit magnus
+interpres. Atque inde Græcorum κανονάρχαι, et La-
+tinorum præcentores. Quid clarius verbis Basilii
+epist. 63 ad clericos Neocæsarienses? Καὶ νῦν μὲν
+διχῇ διανεμηθέντες, ἀντιψάλλουσιν ἀλλήλοις. ”Ἔπειτα
+πάλιν ἐπιτρέψαντες ἑνὶ κατάρχειν τοῦ μέλους, οἱ λοι-
+ποὶ ὑπηχοῦσι, etc. Et modo quidem in duos choros
+divisi, alternatim psallunt. Deinde vero uni commit-
+tentes ordiri Psalmum, reliqui succinunt. Unde apud
+eundem S. doctorem interrogatio 307 Regularum
+breviorum : Εἰ χρὴ ἐξ ἐφημερίας ἀπάρχεσθαι τῆς
+ψαλμῳδίας, ἢ τῆς προσευχῆς. An oporteat per vices
+inchoare psalmodiam, aut orationem. Nec minus li-
+quido loquitur B. Chrysostomus homil. 56 in I ad

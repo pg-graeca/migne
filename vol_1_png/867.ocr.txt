@@ -1,0 +1,205 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,174,2360,930,2727
+2,960,2356,1721,2728
+3,959,689,1712,1072
+4,959,158,1715,498
+5,169,689,923,1076
+6,167,1110,1718,1216
+7,955,1856,1734,2361
+8,1061,639,1597,684
+9,987,1671,1676,1845
+10,778,1251,1086,1289
+11,410,601,679,640
+12,171,1294,923,2364
+14,563,104,1293,142
+15,987,1540,1710,1680
+16,173,161,926,509
+17,173,107,247,145
+18,256,642,825,685
+19,169,510,1717,594
+20,1203,596,1467,636
+21,1629,104,1705,146
+22,955,1298,1713,1532
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=174 source_y1=2360 source_x2=930 source_y2=2727
+ (35) Ἐγὼ Παῦλος καὶ ἐγὼ Πέτρος. Anastasius
+ms. ἐγὼ Πέτρος καὶ Παῦλος, quemadmodum in
+Typico S. Sabæ, fol. 135, in Regis mss. 1110, 2392,
+2393, 2430, et in Niconis inedito Pandecte serm.
+57 et 58. Interdum licet rarius, Paulus nominatur
+ante Petrum. Sic in Ignatio interpolato ad Magne-
+sianos 10, ad Trallianos 5, in pseudo-Ignatio ad
+Antiochenos 7. Sic etiam apud alios, verbi gratia
+Origenem homil. 25 in Numeros, 2 in Judices, 2
+in Ezechielem; Eusebium Hist. lib. VII, cap. 18, ubi
+tamen a Rufino et Nicephoro Paulus postponitur;
+
+# block=2 source_x1=960 source_y1=2356 source_x2=1721 source_y2=2728
+ (36) Τὴν μεγάλην ἑβδομάδα πᾶσαν, κ.τ.λ. Huc
+præter leges imperatorum, pertinent loca Epipha-
+nii hæresi 70, cap. 12; Chrysostomi, Homilia in
+magnam hebdomadam tom. III, et Augustini sermone
+habito Dominica in Albis, 19, Sirmondianorum;
+item canones concilii Matisconensis 2, 2, Trulla-
+nus 66, cum interpretatione Balsamonis, Melden-
+sis 77, Triburiensis 12, Engelenheimensis 6, Theo-
+dulti 41, Nicephori confessoris 9. Hebdomas autem
+passionis appellatur magna, major, authentica, san-
+cta, aurea, pœnosa, et simpliciter hebdomas. ID.
+
+# block=3 source_x1=959 source_y1=689 source_x2=1712 source_y2=1072
+⁵⁹ Ego Paulus, et ego Petrus, constituimus. Servi
+operentur quinque diebus : Sabbato autem et Do-
+minica, vacent in ecclesia, propter doctrinam pie-
+tatis. Dicimus enim Sabbatum quidem rationem
+habere creationis; Dominicam vero, resurrectionis.
+Magna hebdomade tota, et ea quæ illam sequitur,
+servi otientur : quia illa, passionis est; hæc, re-
+surrectionis; et opus est doceri, quis sit qui passus
+est ac resurrexit, item quis sit qui pati permisit,
+
+# block=4 source_x1=959 source_y1=158 source_x2=1715 source_y2=498
+derio tenetur, admittatur : quia non tempus, sed
+vitæ institutum perpenditur. Qui docet, quamvis
+laicus sit, modo peritus in sermone, ac morum
+probitate ornatus, doceat : « Erunt enim omnes a
+Deo docti ⁶⁰. » Omnis Christianus, vel Christiana,
+mane ex somno surgentes, antequam opus faciant,
+lavent ac precentur : si autem aliqua sermonis ca-
+techesis agatur, operi quisque anteponat verbum
+
+# block=5 source_x1=169 source_y1=689 source_x2=923 source_y2=1076
+Ἐγὼ Παῦλος, καὶ ἐγὼ Πέτρος ⁵⁹, (35) διατασσό-
+μεθα. Ἐργαζέσθωσαν οἱ δοῦλοι (34) πέντε ἡμέρας·
+Σάββατον δὲ καὶ Κυριακὴν σχολαζέτωσαν (35) ἐν
+τῇ Ἐκκλησίᾳ διὰ τὴν διδασκαλίαν τῆς εὐσεβείας. Τὸ
+μὲν γὰρ Σάββατον εἴπομεν ⁶⁰, δημιουργίας λόγον
+ἔχειν· τὴν δὲ Κυριακὴν, ἀναστάσεως. Τὴν μεγάλην
+ἑβδομάδα πᾶσαν, καὶ τὴν μετ' αὐτὴν ἀργείτωσαν (36)
+οἱ δοῦλοι· ὅτι ἡ μὲν πάθους ἐστὶν, ἡ δὲ ἀναστάσεως,
+καὶ χρεία διδασκαλίας, τίς ὁ παθὼν καὶ ἀναστὰς, ἢ
+
+# block=6 source_x1=167 source_y1=1110 source_x2=1718 source_y2=1216
+⁵⁸ Joan. VI, 45. ⁵⁹ al. προτιμησάσθωσαν. ⁶⁰ l. pseudo-Ignat. ad. Antioch. 10. ⁶¹ Ephes. VI;
+Col. IV; Philem.; ⁶² Laudatur ab Anastasio, quæst. 64; l. Ignat. interpol. ad Magnes. 9. ⁶³ Anast.
+ἡμεῖς Πέτρος καὶ Παῦλος. ⁶⁴ al. εἴπωμεν διὰ τό.
+
+# block=7 source_x1=955 source_y1=1856 source_x2=1734 source_y2=2361
+ (34) Ἐργαζέσθωσαν οἱ δοῦλοι. Cod. Reg. 2392,
+2430, et Niconis Pandectes, ἐργάζεσθαι τοὺς λαούς.
+Membranæ notatæ num. 2336 : ἐργάζεσθαι τοὺς
+λαϊκούς, al. ἐργάζεσθαι τοὺς δούλους. Ibid.
+ (35) Σάββατον δὲ σχολαζέτωσαν. Aliter visum
+Patribus Laodicenis can. 29. Lege Ignatii Epist.
+interpol. ad Magnes. cap. 9, ibique diligentissimum
+Usserium. Pro eo quod sequitur, διὰ τὴν διδασκα-
+λίαν τῆς εὐσεβείας, Anastasii libri impressi exhi-
+bent, διὰ τὴν διδασκαλίαν τῆς Ἐκκλησίας ὑπὲρ τῆς
+εὐσεβείας. Manifesto vitio, nam ὑπὲρ τῆς εὐσεβείας
+correctio marginalis est vocis corruptæ, τῆς Ἐκ-
+κλησίας. Mox ex varia lectione scribi potest, τὸ μὲν
+γὰρ Σάββατον εἴπομεν, διὰ τὸ δημιουργίας λόγον
+ἔχειν. ID.
+
+# block=8 source_x1=1061 source_y1=639 source_x2=1597 source_y2=684
+Quibus diebus famuli debeant feriari.
+
+# block=9 source_x1=987 source_y1=1671 source_x2=1676 source_y2=1845
+Αἰθερίοις δεσμοῖσιν ἐπιχθονίοις τε κελεύων
+Ab utraque parte stant duo Dei præcones,
+Paulus vir omni divina sapientia plenus,
+Et cœlestium januarum fortis claviger,
+Cœlestibus et terrestribus imperans vinculis. ID.
+
+# block=10 source_x1=778 source_y1=1251 source_x2=1086 source_y2=1289
+VARIORUM NOTÆ.
+
+# block=11 source_x1=410 source_y1=601 source_x2=679 source_y2=640
+ΚΕΦΑΛΑΙΟΝ ΛΓ'.
+
+# block=12 source_x1=171 source_y1=1294 source_x2=923 source_y2=2364
+ (32) Νιψάμενοι. Lavatione ad puritatem corpo-
+ris, non item animæ. Nam supra, lib. VI, cap. 6,
+damnantur Hemerobaptistæ : Πάση σπουδῇ, ait Os
+aureum, hom. 21 in Genesim, τὴν ὄψιν τοῦ σώματος
+καθ' ἑκάστην ἡμέραν ἐκπλύνεις, ὥστε μηδαμοῦ ῥύ-
+πον τινὰ ἐπικείμενον τῇ ὄψει δυσεῖδῆ αὐτὴν δεικνύ-
+ναι. Faciem corporis tui quotidie abluis; ne qua
+forte macula faciei inhærens fœdam illam reddat.
+Apud incertum auctorem Operis imperfecti in Mat-
+thæum, homilia 15, seu potius ad cap. VI, vers. 17 :
+Et quis facie non lavata procedit? Sic a S. Augu-
+stino lib. II De sermone Domini in monte, cap. 12,
+dicitur, faciem quotidiana consuetudine lavari. At-
+que eodem trahitur a Livineio locus Theodore Stu-
+ditæ in catechesi 5, quem sic scriptum reperit :
+Εὐθὺς τὸ πρωῒ ἐξανιστάμενοι προθύμως, καὶ τὸν
+ὕπνον ἀποτινασσόμενοι, καὶ νίψει προσευχόμενοι,
+correxit autem hoc modo : ἀποτινασσόμενοι νίψει,
+καὶ προσευχόμενοι, ac vertit : statim prima luce
+alacres surgentes, et somno lotione discusso compre-
+cantes. Verum mutandum duntaxat e codice Regio,
+νίψει in νίψει; unde exsurgit elegans sensus; som-
+num excutientes, et vigilanter orantes. In Actis Eliæ
+Junioris quæ debentur diligentiæ viri doctissimi
+Francisci Combefisii, pag. 160 : Ἀναστὰς τῷ πρωῒ,
+περιζώννυται κατὰ τὸ ἔθος τῆς Χριστιανικῆς πολι-
+τείας τὴν ἰδίαν αὐτοῦ ζώνην, καὶ νιψάμενος τὸ πρό-
+σωπον, ἐξῄει τοῦ οἴκου, πορευόμενος Θεῷ προσεύ-
+ξασθαι. Aristeas : Ὡς δὲ ἔθος ἐστὶ πᾶσι τοῖς Ἰου-
+δαίοις, ἀπονιψάμενοι τῇ θαλάσσῃ τὰς χεῖρας, ὡς
+ἂν εὔξωνται πρὸς τὸν Θεὸν, ἐτρέποντο πρὸς τὴν ἀνά-
+γνωσιν. COT.
+
+# block=14 source_x1=563 source_y1=104 source_x2=1293 source_y2=142
+CONSTITUTIONES APOSTOLICÆ. -- LIB. VIII.
+
+# block=15 source_x1=987 source_y1=1540 source_x2=1710 source_y2=1680
+Ἱστάμενοι δ' ἑκάτερθε δύω κήρυκε Θεοῖο,
+Παῦλος ὅλης σοφίης θεοδέγμονος ἔμπλεος ἀνὴρ,
+Καὶ σθεναρὸς κλειδοῦχος ἐπουρανίων πυλεώ-
+ [νων,
+
+# block=16 source_x1=173 source_y1=161 source_x2=926 source_y2=509
+Θεοῦ. » Πᾶς πιστὸς ἢ πιστὴ, ἕωθεν ἀναστάντες ἐξ
+ὕπνου, πρὸ τοῦ ἔργου ἐπιτελέσαι, νιψάμενοι (32),
+προσευχέσθωσαν· εἰ δὲ τις λόγου κατήχησις γένη-
+ται, προτιμησάτω ⁵⁹ τοῦ ἔργου τὸν λόγον τῆς εὐ-
+σεβείας. Ὁ πιστὸς, ἢ ἡ πιστὴ, τοῖς οἰκέταις εὐ-
+μενῶς προσεχέτωσαν· καθὼς καὶ ἐν τοῖς προλα-
+βοῦσι διεταξάμεθα, καὶ ἐν ταῖς ἐπιστολαῖς ἐδιδά-
+ξαμεν.
+
+# block=17 source_x1=173 source_y1=107 source_x2=247 source_y2=145
+1133
+
+# block=18 source_x1=256 source_y1=642 source_x2=825 source_y2=685
+Oἵας ἡμέρας δεῖ ἀργεῖν τοὺς οἰκέτας.
+
+# block=19 source_x1=169 source_y1=510 source_x2=1717 source_y2=594
+pietatis : ⁶⁰ Fidelis vir, vel fidelis mulier, benigne se habeant erga famulos : sicut et in præcedentibus
+constituimus, et in epistolis docuimus ⁶¹.
+
+# block=20 source_x1=1203 source_y1=596 source_x2=1467 source_y2=636
+CAPUT XXXIII.
+
+# block=21 source_x1=1629 source_y1=104 source_x2=1705 source_y2=146
+1134
+
+# block=22 source_x1=955 source_y1=1298 source_x2=1713 source_y2=1532
+Gregorium Nazianzenum, orat. 16, sub finem; Chry-
+sostomum lib. De virginitate cap. 82 et serm. De
+mansuetudine, non multo ante finem. Paulus Silen-
+tiarius De magna ecclesia, seu Sancta Sophia, editus
+a diffusissimæ lectionis viro stupendæque doctrinæ
+Carolo Du Fresne, post notas ad Historiam Joan-
+nis Cinnami, p. 518 :

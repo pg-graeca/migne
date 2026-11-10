@@ -1,0 +1,180 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1047,995,1797,1686
+2,1047,1693,1796,2462
+3,1053,132,1801,989
+4,263,391,1016,2551
+5,1049,2466,1791,2593
+6,299,2555,1003,2593
+7,298,2630,747,2666
+8,270,132,1018,293
+9,797,76,1267,114
+10,367,349,908,383
+11,1712,66,1808,116
+12,248,70,342,122
+13,492,298,784,342
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=16px
+# block=10 fontSize=13px
+# block=11 fontSize=16px
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=11
+152
+
+# block=12
+151
+
+# block=9
+AD S. CLEMENTEM I PAPAM
+
+# block=8
+phorus Callistus, atque nonnulli alii. De liturgia
+sancti Clementis, atque de collectione, quam ab eo
+institutam ferunt, sancti Petri revelationum, idem
+ferendum est judicium.
+
+# block=3
+storiæ hujus falsitatem demonstrandam; cum le-
+ctor facile percipere possit, fabellam sapere, quæ
+de Sisinnio referuntur. Quis enim credat ætate il-
+la, qua pagani Christianorum cultui vetando plu-
+rimum invigilabant, ecclesias vulgo adeo notas, tan-
+tamque eas subeundi licentiam fuisse, ut paganis
+ipsis aditus ad eas pateret, et Domini ministris
+nil prohibentibus, quæ in sacrorum mysteriorum
+celebratione gerebantur, perlustrare valerent? il-
+lud quoque verosimile non sit, Trajani ætate præ-
+fectum ullum tanta audacia fuisse, qui seditiones
+in urbe vel contra Christianos excitare auderet.
+Ad hæc sacrorum officiorum comitis appellatio Pu-
+blio tributa sancti Clementis ævo cognita adhuc
+non erat; sed Constantino primum imperante usur-
+patam fuisse, ex historia discimus. Fidem etiam su-
+perat, sanctum Clementem illos, qui ad mortem
+eum conquirebant, canes in homines latrantes vo-
+cavisse; quod tamen ab eo pronuntiatum in ejus
+actis legimus.
+
+# block=13
+ARTICULUS IV.
+
+# block=10
+DE ACTIS MARTYRII SANCTI CLEMENTIS.
+
+# block=4
+Acta martyrii sancti Clementis tam admirandis
+narrationibus tota conflata sunt, ut ægre legenti
+supposititia videri non possint. Constant autem mera
+miraculorum narratione; quæ licet stylo valde gravi
+conscripta sit, nativus tamen ille antiquitatis color,
+qui in genuinis ejus ætatis scriptis conspicuus est,
+ibidem non spectatur. Refert primum, Sisinnium,
+quod Theodora uxor Christianam religionem pro-
+fessa fuisset, valde indignatum, rationem, qua factum
+hoc ulcisci posset, quæsivisse; cum vero Theodora
+quadam die ad ecclesiam ivisset, Sisinnium quoque
+eo contendisse, at per aliam portam subiisse, cun-
+ctaque, quæ in Christianorum mysteriis gerebantur,
+curiose admodum perlustrasse. Precibus autem
+a sancto Clemente absolutis et populo Amen respon-
+dente Sisinnium curiositatis suæ pœnas dedisse,
+et lingua, auribusque illico captum fuisse. Eum
+vero tam celeris ultionis eventu perculsum erroris
+sui pœnituisse, et cum baptismo corporis, animæ
+quoque salutem consecutum fuisse. Publium Tar-
+quinianum sacrorum officiorum comitem, cum
+Christianam religionem tantos in urbe progressus
+facere cerneret, data regionum præfectis pecunia,
+auctorem illis fuisse ut in Christianos populum
+concitarent. Clementem igitur primum adorti sunt,
+eum de sacrilegio, de impietate, atque de violatis
+Augustorum edictis accusantes. Trajanus his om-
+nibus a Mamertino urbis præfecto acceptis san-
+ctum Pontificem in Chersonesum ultra Pontum
+Euxinum relegavit. Invenit vero ibi ultro duo millia
+Christianorum jam diu ad cædendi marmoris opus
+damnatorum. Inter maxima autem horum fidelium
+incommoda illud erat, quod sexto milliario aquam
+humeris suis deportare deberent. Pontifex autem
+eorum miseratione tactus, cum agni cujusdam
+ductu, ubi fons esset, cognovisset, eam, ut effode-
+rent, Christianis ostendit. Quibus nequidquam la-
+borantibus sanctus Clemens eum locum ipse levi
+ictu percussit, et fons illico exsiliit. Ad miraculi
+hujus famam tota provincia accurrente, cunctisque
+ad fidem traductis et baptizatis intra anni spatium
+septuaginta ecclesiæ constructæ, idola omnia con-
+fracta, templa circumjacentis regionis diruta,
+omnesque luci usque ad trecenta milliaria in cir-
+cuitu concisi fuere. Trajanus vero, ut tantum rei
+Christianæ progressum sisteret, Clementem an-
+chora ad collum ligata in mare demergi mandavit.
+At mari usque ad locum, quo Pontificis corpus ja-
+cebat, recedente, illud tumulo saxeo in templo
+quodam marmoreo conditum Christiani invenerunt.
+
+# block=1
+Ingens Christianorum in Chersonesum deporta-
+torum numerus sub sancti Clementis adventum
+argumento etiam est horum actorum falsitatis. Ne-
+que enim tempus, quo illuc deportari potuerint,
+perspicimus. Etenim si sub Domitiano damnatos
+dicamus, reponi potest, eos altero Trajani anno,
+quo sanctus Clemens eo relegatus fertur, illic am-
+plius non exstitisse; cum Nerva Domitiani succes-
+sor et proximus Trajani decessor (55) omnes a Do-
+mitiano relegatos tam Christianos, quam alterius
+cujuscunque generis revocaverit, quomodo sancti
+Joannis exemplo docemur. Sed neque sub Trajani
+imperii exordium illi damnati fuere, cum is decimo
+tantum imperii sui anno quæstiones in Christianos
+habere cœperit, quemadmodum ab Eusebio in Chro-
+nico docemur.
+
+# block=2
+Fabulis quoque est annumerandum, quod in actis
+istis refertur, intra anni unius spatium septuaginta
+ecclesias in Chersoneso conditas fuisse. Neque
+enim inscio Cæsare construi potuissent. Quod si
+Trajanus id rescisset, cum Christianis esset ini-
+quior, quod sane acta hæc sincera esse affirman-
+tes fateantur necesse est, eas tanto numero ædifi-
+cari passus non fuisset. Accedit, compertum nos
+habere, Christianos ad tertii tantum sæculi initium
+ecclesias, ad quas palam convenirent, habuisse.
+Aufidianus præses, qui a Trajano ad Christianæ
+pietatis augmentum prohibendum in Chersonesum
+missus fertur, solius sancti Clementis morte con-
+tentus non fuisset, sed eum pro sua in deos pietate
+suoque in Cæsaris jussa obsequio quamplurimos ex
+rebellibus illis Cæsaris mandatis parere renuenti-
+bus, idolorumque cultus hostibus, plectere utique
+debuisset.
+
+# block=5
+Quod de mirifico illo fonte acta ista memorant,
+qui ad sancti Clementis preces emanavit, præter-
+eundum nobis esse censemus; singulæ enim narra-
+
+# block=6
+Multa autem disquisitione opus non est, ad hi-
+
+# block=7
+(55) Dio, libro LXVIII, pag. 769.

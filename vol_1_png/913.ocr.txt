@@ -1,0 +1,205 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,187,281,944,833
+2,969,1803,1731,2566
+3,974,152,1735,834
+4,168,1009,939,2701
+5,975,1375,1733,1575
+6,968,2562,1717,2697
+7,978,1210,1731,1375
+8,978,1575,1729,1706
+9,974,1705,1726,1806
+10,278,2706,537,2745
+11,802,936,1105,974
+12,981,1011,1727,1215
+13,199,153,944,279
+14,761,92,1145,138
+15,202,104,271,141
+17,1528,2710,1571,2750
+18,1640,94,1722,138
+19,210,866,696,922
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=187 source_y1=281 source_x2=944 source_y2=833
+XXXI. Octava decima generatione mutatæ urbes
+factæ sunt, et exercitus instituti armaque (27), et
+judices legesque sancitæ, templa constructa, et
+principes gentium tanquam dii adorati sunt (28).
+Nona decima generatione posteri illius, qui post
+diluvium maledictus est (29), proprios terminos
+excedentes, quos in occidentalibus partibus sorte
+susceperant, eos qui medium terræ fuerant sortiti
+locum, in terras orientales expellunt et usque ad
+Persidem fugant, ipsique in expulsorum locis ini-
+qua sorte succedunt. Vicesima generatione ob in-
+testi crimen, primus morte propria filius ante pa-
+trem defunctus est ⁷⁸ (30).
+
+# block=2 source_x1=969 source_y1=1803 source_x2=1731 source_y2=2566
+(30) Vicesima generatione... defunctus est. Vicesima
+generatione Aran ante patrem, primus, vel secun-
+dus a Lamecho, vel tertius post Lamechum et Pha-
+legum, aut Lamechum et Arphaxadum, vel quintus
+si illis adnumerentur Abel ex Scriptura, et filius
+Nemrodi ex Victore seu Victorino Massiliensi lib.
+III in Genesim, mortem aut naturalem oppetiit ob
+patris idololatriam, aut violentam, combustus vel a
+Chaldæis, pietatis ergo, quod ignem nollet adorare,
+vel ab Abrahamo fratre nolente, propter impieta-
+tem, cum idola patris ex igne quem Abrahamus
+accenderat vellet eripere. Genes. xı, 29. Hebræi,
+Epiphanius, lib. ı, tom. I, p. 8, Hieronymus in Tra-
+ditionibus Hebraicis et in Locis Hebraicis, Eusta-
+thius in Hexaemeron, Proeopius Gazæus ad Gen.
+cap. 11, Nicephorus CP. in Chronographia, Geor-
+gius Syncellus, Georgius Cedrenus, cum aliis; nec
+non auctor orationis, Tίνι ὁμοιοῦται ὁ ἀνθρώπινος
+βίος, quam Fredericus Morellus e codice Reg. 1010,
+typis mandavit tanquam Theophili Alexandrini,
+cum sit Christophori Alexandrini, quemadmodum
+edoctus sum ex Leonis Allatii notis ad Eustathium.
+De incesto, nihil memini me legere.
+
+# block=3 source_x1=974 source_y1=152 source_x2=1735 source_y2=834
+XXXII. Vicesima prima generatione exstitit vir
+quidam sapiens, ex genere eorum qui fuerunt ex-
+pulsi, ex semine primogeniti filiorum Noe, nomine
+Abraham, a quo nostrum Hebræorum ducitur genus.
+Hic cum universus iterum mundus diversis errori-
+bus esset oppressus, et pro immanitate scelerum
+maturum ei pararetur excidium non jam per aquam,
+sed per ignem, cumque jam plaga initio a Sodomis
+sumpto immineret ei universo orbi terrarum; pro
+amicitiis, quibus erat ei familiaritas cum Deo cui
+bene placuerat, universum mundum ne pariter pe-
+riret eripuit. Ab initio tamen cæteris omnibus
+errantibus, ipse cum arte esset astrologus (31), ex
+ratione et ordine stellarum agnoscere potuit Con-
+ditorem, ejusque providentia intellexit cuncta mo-
+derari. Unde et angelus ⁷⁹ assistens ei per visionem,
+
+# block=4 source_x1=168 source_y1=1009 source_x2=939 source_y2=2701
+(25) Urbemque construxit. Puta Babylonem : cu-
+jus conditorem Nemrodum faciunt multi apud Oro-
+sium lib. II, cap. 6; item Severus, Sacræ historiæ
+lib. 1; Augustinus, XVI De civitate Dei, 4; auctor
+Chronici Alexandrini, p. 84; Gregorius Turonensis,
+Isidorus Hispanensis, Cedrenus, alii. Atque ea de
+re accipio locum difficilem ac forte corruptum,
+supra in Testimoniis veterum ad Recognitiones re-
+latum ex Chronico laudato : Οὗτος ὁ Νεβρὼδ μετοι-
+κήσας ἀπὸ Αἰγύπτου εἰς Ἀσσυρίους, καὶ οἰκήσας εἰς
+Νῖνον πόλιν, ἣν ἔκτισεν Ἀσσούρ, καὶ κτίσας τὴν πό-
+λιν, ἥτις ἦν Βαβυλῶνος, πρὸς τὸ ὄνομα τῆς πόλεως
+ἐκάλεσεν. Hoc est, nisi etiam nunc male interpre-
+tor : Hic Nebrodus, cum ex Ægypto ad Assyrios de-
+migrasset, et in urbe Nino quam Assur condiderat
+habitavisset, atque civitatem ædificasset quæ erat Ba-
+bylonis, ad hoc civitati nomen dedit : πρὸς τό loco
+πρὸς τοῦτο. Ex nomine Babylonis regionis, fecit nomen
+Babylonis urbis. Propter τὸν Νεβρὼδ, opinor, quia in
+LXX γίγας dicitur, hyle seu materia a Manichæis
+vocabatur ἡ Νεβρὼδ. In Anathematismis Mani-
+chæis infra edendıs : Ἀναθεματίζω τὸν ληρώδη
+Μάνεντος μῦθον, ἐν ᾧ φησι μὴ ὅμοιον ἡμῖν διαπεπλά-
+σθαι ὑπὸ τοῦ Θεοῦ τὸν πρῶτον ἄνθρω πον, τουτέστι τὸν
+Ἀδὰμ, ἀλλὰ ὑπὸ τοῦ Σακλᾶ τοῦ τῆς πορνείας ἄρχον-
+τος, καὶ τῆς Νεβρὼδ, ἥν εἶναι τὴν ὕλην φησὶ, γε-
+νέσθαι τὸν Ἀδὰμ καὶ τὴν Εὔαν· καὶ τὸν μὲν θηριόμορ-
+φον κτισθῆναι, τὴν δὲ ἄψυχον, καὶ τὴν μὲν Εὔαν ὑπὸ τῆς
+ἀῤῥενικῆς λεγομένης παρθένου μεταλαβεῖν ζωῆς, τὸν
+Ἀδὰμ δὲ ὑπὸ τῆς Εὔας ἀπαλλαγῆναι τῆς θηριωδίας.
+Quo ex loco, quemadmodum et per Theodoritum
+Hæret. fabul. lib. I, cap. ult., mecum velim corrigas
+anathema Euchologii Goariani, pag. 886 : Ἀναθε-
+ματίζω καὶ ὅσαπερ Ἰτεύλης, καὶ Σκότος, καὶ ὁ καλού-
+μενος Σακλακαΐτης Νεβρὼδ περὶ διαφόρων οὐρανῶν
+κατ’ ἰδίαν μυθολογοῦσιν. Lego siquidem : Ὅσα περί τε
+ὕλης καὶ σκότους καὶ τοῦ καλουμένου Σακλᾶ καὶ τῆς
+Νεβρὼδ, περὶ διαφόρων, etc. Sed et τοῦ Νεβρὼδ
+Theodoriti mutandum videtur in τῆς Νεβρὼδ. Totus
+Euchologii tractatulus, p. 885, 886, hunc ad mo-
+dum a βιβλιογράφοις codicum Regiorum 1026, 1027,
+concinnatus fuit. Ἀνάθεμα Μάνεντι ἤτοι Μανιχαίῳ,
+τῷ καὶ Κουβρίκῳ, καὶ τοῖς δόγμασι, etc., προεῖπον
+παρ’ αὐτοῦ, etc., βιβλίοις, ἃ καὶ ἐκάλεσεν οὕτως· etc.,
+καὶ τὴν τῶν ἐπιστολῶν ὁμάδα, etc., τῶν γιγάντων
+πραγματείαν, etc. Ζαράδην καὶ Βοδδᾶν, et Βουδ-
+δᾶν, etc. Ἀδδᾶν τὸν καὶ Ἀδείμαντον, etc., ἀνοσίου
+καὶ βεβήλου, etc. Ζαρουᾶν, etc. Οὐαλεντῖνον, etc., ἡ
+φύσει τὰ κακά, etc., ὅσα περί τε ὕλης καὶ σκότους,
+καὶ τοῦ καλουμένου Σάκλα, καὶ τῆς Νεβρὼδ, καὶ περὶ
+διαφόρων οὐρανῶν, καὶ αἰώνων μυθολογοῦσιν, etc.
+
+# block=5 source_x1=975 source_y1=1375 source_x2=1733 source_y2=1575
+(27) Exercitus instituti, armaque. Videantur Se-
+verus, lib. 1, p. 27, edit. Lugduno-Batavæ; Orosius,
+lib. I, cap. 4; Augustinus, in De civit. Dei, 6; Isido-
+rus Hispanensis in Chronico; Georgius Cedrenus,
+edit. Basil., p. 21, cum aliis. Qui omnes non
+multum dissident sententiis.
+
+# block=6 source_x1=968 source_y1=2562 source_x2=1717 source_y2=2697
+(31) Cum arte esset astrologus. Consentanea Be-
+rosus, Eupolemus, Artapanus, Philo, Josephus,
+Eusebius, Eustathius, Cæsarius, Ambrosius et alii
+plerique.
+
+# block=7 source_x1=978 source_y1=1210 source_x2=1731 source_y2=1375
+A veris Domini sacris traduxit ad ignem.
+Rufinus exscribit Isidorus in Chronico et in Origi-
+nibus : item Ado ac monachus Altissiodorensis in
+Chronicis suis. Πυρολατρεία Persarum, et pueris
+notissima est.
+
+# block=8 source_x1=978 source_y1=1575 source_x2=1729 source_y2=1706
+(28) Templa constructa, et principes gentium tan-
+quam dii adorati sunt. Rufini verba in Chronica, sua
+retulerunt Beda et Isidorus. In re autem ipsa, non
+magna est inter auctores controversia.
+
+# block=9 source_x1=974 source_y1=1705 source_x2=1726 source_y2=1806
+(29)¹ Posteri illius qui post diluvium maledictus est.
+Hanc veterem traditionem firmant Eusebius, Epi-
+phanius, Augustinus, Cassianus.
+
+# block=10 source_x1=278 source_y1=2706 source_x2=537 source_y2=2745
+PATROL. GR. I.
+
+# block=11 source_x1=802 source_y1=936 source_x2=1105 source_y2=974
+COTELERII NOTÆ.
+
+# block=12 source_x1=981 source_y1=1011 source_x2=1727 source_y2=1215
+(26) Et inde migravit ad Persas, eosque ignem
+colere docuit. Victor Massiliensis III in Genesim :
+Inque nefanda prior descendit crimina Nimroth,
+Impietatis apex, Cham servo e semine natus,
+Mole et mente gigas, Babylonia regna gubernans,
+Persarum hic animos capiens, venator iniquus,
+
+# block=13 source_x1=199 source_y1=153 source_x2=944 source_y2=279
+loniam Nemrod primus regnavit, urbemque con-
+struxit (25), et inde migravit ad Persas, eosque ignem
+colere docuit (26).
+
+# block=14 source_x1=761 source_y1=92 source_x2=1145 source_y2=138
+RECOGNITIONUM LIB. I.
+
+# block=15 source_x1=202 source_y1=104 source_x2=271 source_y2=141
+1225
+
+# block=17 source_x1=1528 source_y1=2710 source_x2=1571 source_y2=2750
+39
+
+# block=18 source_x1=1640 source_y1=94 source_x2=1722 source_y2=138
+1226
+
+# block=19 source_x1=210 source_y1=866 source_x2=696 source_y2=922
+⁷⁸ Gen. xi. ⁷⁹ Gen. xv, xxiii.

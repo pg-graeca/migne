@@ -1,0 +1,215 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,187,561,936,1290
+2,971,516,1715,1338
+3,183,1952,934,2676
+4,959,1683,1720,2410
+5,959,2406,1707,2640
+6,979,138,1718,389
+7,196,131,938,422
+8,184,1721,932,1887
+9,183,1886,923,1953
+10,444,1339,682,1373
+11,1264,429,1421,464
+12,989,2636,1694,2673
+13,197,487,931,555
+14,453,444,686,479
+15,759,1625,1059,1659
+16,220,1548,1409,1586
+17,215,1687,640,1725
+18,626,78,1299,121
+19,217,1470,920,1504
+20,975,472,1706,508
+21,1662,93,1715,129
+22,185,1381,918,1464
+23,963,1388,1704,1458
+24,1256,1346,1439,1378
+25,187,74,249,118
+26,995,1466,1711,1502
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Ἔστω οὖν καὶ νηφάλιος, σώφρων, κόσμιος, εὐστα-
+θὴς, ἀτάραχος , μὴ πάροινος, μὴ πλήκτης, ἀλλ’ ἐπι-
+εικής, ἄμαχος, ἀφιλάργυρος, μὴ νεόφυτος· ἵνα μὴ
+τυφωθεὶς, εἰς κρῖμα ἐμπέσῃ, καὶ παγίδα (97) τοῦ
+διαβόλου· ὅτι ‹ πᾶς ὁ ὑψῶν ἑαυτὸν ταπεινωθήσεται. ›
+Τοιοῦτον δὲ δεῖ εἶναι τὸν ἐπίσκοπον, μιᾶς ἄνδρα γε-
+γενημένον (98) γυναικὸς μονογάμου (99), καλῶς τοῦ
+ἰδίου οἴκου προεστῶτα. Οὕτω γὰρ δοκιμαζέσθω, ὁπό-
+αὐτὴν χειροτονίαν λαμβάνων καθίσταται ἐν τῷ τόπῳ τῆς
+ἐπισκοπῆς, εἰ ἔστι σεμνὸς, πιστὸς, καὶ κόσμιος· εἰ
+γυναῖκα σεμνὴν καὶ πιστὴν ἔχοι, ἢ ἔσχηκεν· εἰ τέκνα
+θεοσεβῶς ἀναθρέψας καὶ ἐν νουθεσίᾳ Κυρίου παιδεύ-
+σας προήγαγεν· εἰ οἱ κατ’ οἶκον αὐτοῦ εὐλαβούμενοι
+καὶ ἐντρεπόμενοι αὐτὸν ὑπήκοοι πάντες εἰσὶν αὐτῷ·
+εἰ γὰρ οἱ κατὰ σάρκα ἴδιοι αὐτοῦ, πρὸς αὐτὸν στα-
+σιάζουσι καὶ ἀπειθοῦσι, πῶς οἱ ἔξω τῆς οἰκίας αὐτοῦ
+ἴδιοι γενόμενοι αὐτῷ ὑποταγήσονται ;
+
+# block=2
+Episcopus itaque sit sobrius, pudicus, honestus,
+constans, sedatus , non vinolentus, non percussor,
+sed modestus ; non litigiosus, non argenti cupidus,
+non neophytus, ne in superbiam elatus in judicium
+incidat et laqueum diaboli ²⁹, quia ‹ omnis qui se
+exaltat, humiliabitur ³⁰. › Talem vero esse decet
+episcopum ; unius uxoris univiræ virum, suæ do-
+mui bene præsidentem. Per hæc siquidem probetur,
+cum ordinationem accipiens , in episcopatus loco
+constituitur ; an sit reverendus , fidelis et hone-
+stus ; an uxorem pudicam ac fidelem aut habeat,
+aut habuerit ; an liberos pie educarit ; in Domini
+disciplina erudierit , et ad virtutem deduxerit ; an
+ei domestici omnes honorem , reverentiam ac obse-
+quium præstent ; quando enim qui secundum car-
+nem ad illius familiam pertinent, ei nec concor-
+dant , nec obtemperant ; quo modo qui extranei
+sunt, se ei subjicient, cum curæ illius commit-
+tentur ?
+
+# block=3
+(98) Μιᾶς ἄνδρα γεγενημένον γυναικὸς μονο-
+γάμου. Circa clericorum uxores multi loquuntur
+multa : nos quoque quædam infra dicemus. Hic so-
+lummodo investigamus quare scripserit Tertullia-
+nus De exhortatione castitatis cap. 7 : Cautum in
+Levitico : Sacerdos mei non plus nubunt, vel nubant,
+vel nubent ; l. De monog., c. 7 : Prohibet lex sacerdo-
+tes denuo nubere; et Siricius epist. 1, cap. 8 : Ubi
+illud est , quod Deus noster data per Moysem lege
+constituit, dicens : Sacerdotes mei semel nubant ?
+ac Innocentius cap. 6 , epist. 2 : Nec is qui secun-
+dam duxit uxorem clericus fiat ; quia scriptum est :
+Unius uxoris virum. Et iterum (in collectione Cres-
+conii, alibi) : Sacerdotes mei semel nubant. Et alibi
+( eadem collectio, iterum) : Sacerdotes mei non nu-
+bant amplius ; epist. vero 25 , cap. 5 : Scriptum est
+in Veteri Testamento : Uxorem virginem accipiat
+sacerdos. Et alibi : Sacerdotes mei semel nubant:
+cum nec in Levitico, nec in tota lege, nec ullibì
+Scripturarum, quidpiam ejusmodi legatur. Et qui-
+dem dici potest Siricium ex Tertulliano accepisse ,
+ex Siricio ac Tertulliano Innocentium ; huncque
+
+# block=4
+non sine errore existimasse locum a Siricio citatum
+diversum esse a textu per Tertullianum prolato.
+Quapropter tota difficultas ad scriptorem Afrum
+redit. Visum Pamelio, adducta verba esse aut ad-
+jectionem ad versum 14 cap. xxi Levitici , aut in-
+terpretationem Symmachi vel Theodotionis. Ex
+sententia autem Seldeni Uxoris Hebraicæ lib. I,
+cap. 8 , occasionem errandi tribuit Tertulliano,
+quod capite illo Levitici, mulier sive uxor singu-
+lari numero efferatur ; unde cum Hebræi tantum
+colligant non licere pontifici maximo plures simul
+habere uxores, ille conclusit vetitas fuisse cunctis
+sacerdotibus secundas nuptias. Addo ego his, for-
+san a Tertulliano, non ad verbum, sed ex præsum-
+pto sensu Leviticum librum ita citari ; vel quia le-
+gebat, οὗτος γυναῖκα παρθένος ἐκ τοῦ γένους αὐτοῦ
+λήψεται, pro παρθένον, Levit. xxi, 13, aut quia ver-
+su 15, nonnihil repererat simile illi ex quo Arabicus
+interpres fecit : Et ne profanet stirpem suam per
+aliam mulierem de gente sua. Vel denique quoniam
+putavit virginitate uxoris ostendi ἀγαμίαν mariti.
+Cot.
+
+# block=5
+(99) Μονογάμου. Est in altero cod. Vindobon.
+μονόγαμον, ita ut referatur ad virum. Vulgata lec-
+tio ad mulierem refert, quod satius. Videntur enim
+personati apostoli exigere ab episcopo non tantum
+ut abstineat secundo conjugio, sed ne cum primum
+uxorem ducit, viduam ducat, quod illicitum erat
+sacerdotibus, sub lege. Cler.
+
+# block=6
+debunt terram ²⁶. › Sit præterea misericors; quia
+rursus dictum est : ‹ Beati misericordes, quoniam
+ipsi misericordiam consequentur ²⁷. › Ad hæc sibi
+bene conscius sit, omnis malitiæ, vitii, ac iniquita-
+tis purus; addit enim Scriptura : ‹ Beati mundi
+corde, quoniam ipsi Deum videbunt ²⁸. ›
+
+# block=7
+κάριοι πραεῖς, ὅτι αὐτοὶ κληρονομήσουσι τὴν γῆν. ›
+Ἔστω δὲ (95) καὶ ἐλεήμων, ὅτι πάλιν εἴρηται· ‹ Μα-
+κάριοι οἱ ἐλεήμονες, ὅτι αὐτοὶ ἐλεηθήσονται (96). ›
+Γινέσθω δὲ καὶ εὐσυνείδητος, πάσης κακίας καὶ πο-
+νηρίας καὶ ἀδικίας κεκαθαρισμένος· ὅτι πάλιν εἴρη-
+ται· ‹ Μακάριοι οἱ καθαροὶ τῇ καρδίᾳ, ὅτι αὐτοὶ Θεὸν
+ὄψονται. ›
+
+# block=8
+(96) Ἐλεηθήσονται. Addit uterque codex ἔστω δὲ
+καὶ εἰρηνοποιὸς, ὅτι πάλιν λέγει· Μακάριοι οἱ εἰρη-
+νοποιοὶ, ὅτι αὐτοὶ υἱοὶ Θεοῦ κληθήσονται : sit et
+pacificus, quia rursus dicit (Scriptura) : Beati paci-
+fici, quia ipsi filii Dei vocabuntur. Id.
+
+# block=9
+(97) Παγίδα. Desunt καὶ παγίδα et ὁ ante ὑψῶν,
+in utroque Vindobonensi cod. Id.
+
+# block=10
+ΚΕΦΑΛΑΙΟΝ Γ'.
+
+# block=11
+CAPUT II.
+
+# block=12
+(100) Περὶ. Unus codd. παρὰ τὰς, minus bene. Id.
+
+# block=13
+Οἷον εἶναι χρὴ τὸν ἐπίσκοπον , καὶ τοὺς λοιποὺς
+κληρικούς.
+
+# block=14
+ΚΕΦΑΛΑΙΟΝ Β'.
+
+# block=15
+VARIORUM NOTÆ.
+
+# block=16
+²⁶ Matth. v, 4. ²⁷ Ibid. 7. ²⁸ Ibid. 8. ²⁹ I Tim. iii, 2 ; Tit. i, 7. ³⁰ Luc. xiv, 11.
+
+# block=17
+(95) Δέ. Οὖν in altero. Cler.
+
+# block=18
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=19
+Δοκιμαζέσθω οὖν, εἰ ἄμωμός ἐστι περὶ (100) βιω-
+
+# block=20
+Qualem esse oporteat episcopum et reliquos clericos.
+
+# block=21
+598
+
+# block=22
+Τίνα χρὴ δοκιμάζεσθαι τὸν ἐπίσκοπον προχειρι-
+ζόμενον.
+
+# block=23
+In quibus probandus sit qui designatur in episco-
+pum.
+
+# block=24
+CAPUT III.
+
+# block=25
+597
+
+# block=26
+Examinetur ergo, an in vitæ officiis nulli culpæ

@@ -1,0 +1,202 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,944,128,1688,578
+2,164,126,907,638
+3,935,2563,1683,2673
+4,159,688,912,950
+5,771,1016,1074,1050
+6,1157,643,1418,682
+7,942,2076,1688,2210
+8,929,2209,1677,2545
+9,680,69,1150,114
+10,163,72,220,115
+12,930,1059,1706,2087
+13,160,2075,913,2672
+15,159,1056,906,1877
+16,1613,76,1691,122
+17,381,644,691,682
+18,939,690,1683,950
+19,179,954,1279,1002
+20,161,1876,901,2078
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+sus in eas, confitebor Domino. Hæc porta Domini;
+justi intrabunt in eam ⁶⁴. Cum ergo multæ portæ
+apertæ sint; quæ in justitia est, eadem et in Christo
+est : in quam beati sunt omnes qui intrarint, et
+iter suum in sanctitate ac justitia direxerint, omnia
+imperturbate peragentes. Sit aliquis fidelis, sit po-
+tens in enarranda cognitione, sit sapiens in sermo-
+num dijudicatione, sit in operibus purus; tanto enim
+humilior esse debet, quo major esse videtur; et
+quærere quod omnibus utile est, non autem sibi.
+
+# block=2
+ξατέ μοι (24) πύλας δικαιοσύνης, εισελθὼν ἐν
+αὐταῖς ἐξομολογήσομαι τῷ Κυρίῳ. Αὕτη ἡ πύλη
+τοῦ Κυρίου, δίκαιοι εισελεύσονται ἐν αὐτῇ. Πολ-
+λῶν (25) οὖν πυλῶν ἀνεῳγυιῶν, ἡ ἐν δικαιοσύνῃ αὕτη
+ἐστὶν ἡ ἐν Χριστῷ, ἐν ᾗ μακάριοι πάντες οἱ εισελ-
+θόντες, καὶ κατευθύνοντες τὴν πορείαν αὐτῶν, ἐν
+ὁσιότητι καὶ δικαιοσύνῃ, ἀταράχως πάντα επιτελοῦν-
+τες. Ἤτω τις πιστὸς, ἤτω δυνατὸς γνῶσιν ἐξεειπεῖν,
+ἤτω σοφὸς ἐν διακρίσει (26) λόγων, ἤτω ἁγνὸς ἐν ἔρ-
+γοις (27)· τοσούτῳ γὰρ (28) μᾶλλον ταπεινοφρονεῖν ὀφεί-
+λεῖ, ὅσῳ δοκεῖ μᾶλλον μείζων εἶναι, καὶ ζητεῖν (29)
+τὸ κοινωφελὲς πᾶσιν, καὶ μὴ τὸ ἑαυτοῦ.
+
+# block=3
+(32) Ἡ ἀγάπη καλύπτευ... ἀγάπη πάντα. Sic
+Wott. ex ms. Sic et edit. Londin. Al. articulum
+omittunt priore loco, et posteriore reponunt. GALL.
+
+# block=4
+Ὁ ἔχων ἀγάπην ἐν Χριστῷ, τηρησάτω τὰ τοῦ
+Χριστοῦ παραγγέλματα. Τὸν δεσμὸν τῆς ἀγάπης τοῦ
+Θεοῦ τίς δύναται ἐξηγήσασθαι; τὸ μεγαλεῖον τῆς
+καλλονῆς αὐτοῦ τίς ἀρκεῖ, ὡς ἔδει, εἰπεῖν ; τὸ ὕψος,
+εἰς ὃ ἀνάγει ἡ ἀγάπη, ἀνεκδιήγητόν ἐστιν. Ἀγάπη
+κολλᾷ ἡμᾶς (31) τῷ Θεῷ· Ἡ ἀγάπη καλύπτευ (32)
+
+# block=5
+VARIORUM NOTÆ.
+
+# block=6
+CAPUT XLIX.
+
+# block=7
+(30) Hieronymus in Ephes. Iv, 1, hæc citat, non
+quidem Barnabæ, ut in Londinensi epistolæ hujus
+editione anni 1694 adnotatur, sed ipsius Clementis
+nomine. Coust.
+
+# block=8
+(31) Ἀγάπη κολλᾷ ἡμᾶς. Hoc loco Paulum imi-
+tatur I ad Corinthios XIII, ubi charitatis, et mutuæ
+dilectionis, elegantissima descriptio est, et Ephræm
+Syrus tractatu Περὶ ἀρετῶν καὶ κακιῶν utrius-
+que vestigiis insistit, cujus verba cum Græce non
+exstent, placet hic subjungere : Μακάριος ὁ ἄνθρω-
+πος καὶ ἐκεῖνος ὁ ἔχων ἀγάπην Θεοῦ, ὅτι τὸν Θεὸν
+ἐν αὐτῷ περιφέρει, ὅτι ὁ Θεὸς ἀγάπη ἐστὶ, καὶ ὁ μέ-
+νων ἐν τῇ ἀγάπῃ, ἐν τῷ Θεῷ μένει· ὁ ἔχων ἀγάπην
+πάντων
+
+# block=9
+EPISTOLA I AD CORINTHIOS.
+
+# block=10
+309
+
+# block=12
+Sed nihil detrahendum suadet Clemens Alex. qui
+hanc S. Patris sententiam integram recitat Στρωμ.
+lib. VI, cap. 8, pag. 773. ID. — Τοσούτῳ μᾶλλον
+ταπεινοφρονεῖν ὀφείλει, ὅσῳ δοκεῖ μᾶλλον μείζων
+εἶναι. Citatur etiam ab Alexandrino Strom., VI. In
+Antonii Melissæ parte II, sermone 73... Κλήμεντος...
+Τοσοῦτόν τις μᾶλλον ὀφείλει ταπεινοφρονεῖν, ὅσον δο-
+κεῖ μᾶλλον εἶναι. Καλὸν γὰρ ἀεὶ τῷ κρείττονι τὸ χεῖ-
+ρον ἀκολουθεῖν, διὰ βελτιώσεως ἐλπίδα, et in Maxi-
+mo Locorum communium sermone 49... Κλήμεντος...
+Τοσοῦτόν τις μᾶλλον ὀφείλει ταπεινοφρονεῖν, ὅσον δο-
+κεῖ μᾶλλον εἶναι. Vides et abesse utrobique vocem
+μείζων : et sententiam καλὸν γὰρ, etc., sejungi de-
+bere a priori. Quod postremum firmat veteris co-
+dicis auctoritas : necnon Damasceni Eclogæ manu-
+scriptæ in Bibliotheca Claramontana cap. περὶ συν-
+αγωγῆς χρηστῶν ἀνδρῶν, etc., quæ Philoni ascri-
+bunt illud, καλὸν ἀεὶ, etc. Cor.
+(29) Καὶ ζητεῖν, κ. τ. λ. Hæc laudat Clemens
+Alex. Στρωμ. lib. VI, cap. 17, pag. 613. Videtur
+S. Pater digitum intendisse in illud I Cor. X. 33 :
+Μὴ ζητῶν τὸ ἐμαυτοῦ συμφέρον, ἀλλὰ τὸ τῶν πολ-
+λῶν, ἵνα σωθῶσι. GALL. — Ζητεῖν τὸ κοινωφελές.
+Chrysostomus ad illud Pauli I Cor. x, 33 : Μὴ
+ζητῶν τὸ ἐμαυτοῦ συμφέρον, ἀλλὰ τὸ τῶν πολλῶν ἵνα
+σωθῶσι, dicit publicum Ecclesiæ bonum quærere,
+et aliorum salutem privato commodo anteponere,
+canonem esse Christianismi perfectissimum. Τοῦτο
+κανὼν Χριστιανισμοῦ τοῦ τελειοτάτου, τοῦτο ὅρος
+ἠκριβωμένος, αὕτη ἡ κορυφὴ ἡ ἀνωτάτω, τὸ τὰ κοι-
+νῇ συμφέροντα ζητεῖν. JUN.
+
+# block=13
+(27) Ἤτω ἁγνὸς ἐν ἔργοις. Conjiciebat Cot. ex
+altero, Clemente reponendum fortasse, ἤτω γοργὸς
+ἐν ἔργοις. Sed nihil nos cogit, ut ms. emendemus
+ex Alexandrino ; qui aliorum scripta excerpens,
+addit, detrahit, invertit, ut viris eruditis comper-
+tum. ID. — Cogitandum an ex altero Clemente re-
+poni debeat, ἤτω γοργὸς ἐν ἔργοις, ἤτω ἁγνός. Cor.
+— Legendum, sit abundans in operibus, sit castus,
+si cum Clemente Alexandr. præferatur ἤτω γοργὸς
+ἐν ἔργοις, ἤτω ἁγνός. Sequens sententia laudatur
+in Antonii Melissæ parte 2, serm. 73, et apud Maxi-
+mum Locorum communium serm. 49. Coust.
+(28) Τοσούτῳ γάρ. Sic ex ms. Wott. quem se-
+quitur edit. Londin. At aliis deest γάρ. GALL. —
+Μᾶλλον μείζων. Grabius in Spicil., tom. I, p. 270
+censet, Epistolæ Clementinæ additam hic vocem
+μείζων, quod desit in impressis Maximi et Antonii
+Melissæ editionibus Jamque idem adverterat Cot.
+
+# block=15
+(24) Ἀνοίξατε usque ad ὁσιότητι. Hæc ex Cle-
+mente Alexandrino, p. 288, esse traducta nihil cer-
+tius est. Romani verba incipiunt ab ἤτω, etc. BERN.
+(25) Πολλῶν, κ. τ. λ. Ista exscripsit Clemens
+Alex. Στρωμ., lib. I, cap. 7, pag. 339 suppresso
+Clementis Rom. nomine; eademique iterum recitat
+lib. VI, cap. 8, pag. 772 quæ tamen memoriæ lapsu
+Barnabæ tribuit, ut viri docti observarunt. GALL.
+— Πολλῶν, κ. τ. λ. Emenda itaque Στρωματέα Cle-
+mentem lib. I, p. 288 et lib. VI, p. 646, rescribens
+in priori loco, πολλῶν τοίνυν ἀνεωγμένων πυλῶν, ἡ
+ἐν δικαιοσύνῃ, αὕτη ἡ ἐν Χριστῷ : in posteriori vero
+in quo per memoriæ erratum, quale ad Barnabæ
+caput 5 adnotabamus, tribuit Barnabæ Clementis
+verba, πολλῶν πυλῶν ἀνεῳγυιῶν, ἡ ἐν δικαιοσύνῃ,
+αὕτη ἐστὶν ἡ ἐν Χριστῷ. Legi potest inter cætera, S.
+Ignatii Epistola ad Philadelphenos cap. 9; et Seve-
+riani Gabalensis Oratio de sigillis, post initium,
+tom. VI Joannis Chrysostomi. Cor. — Hunc locum
+Clemens Strom. lib. I, imitatus Clementem in epi-
+stola ad Corinthios interpretationis suæ auctorem
+habere se notat; sed lib. VI eumdem exscribens
+Barnabæ nomine. citat in hunc modum : Prophetæ
+autem (David psal. CXVII, 19) dictum exponens Bar-
+nabas infert : Cum multæ portæ sint, etc. CouST.
+
+# block=16
+310
+
+# block=17
+ΚΕΦΑΛΑΙΟΝ ΜΘ'.
+
+# block=18
+Qui charitatem in Christo habet, servet Christi
+mandata. 65 (30) Vinculum charitatis Dei quis pot-
+est enarrare? Magnificentiam bonitatis ejus quis,
+prout oportet, eloqui valet? Altitudo ad quam evc-
+hit charitas, inenarrabilis est. Charitas nos Deo ag-
+glutinat: charitas operit multitudinem peccatorum ⁶⁶ :
+
+# block=19
+⁶⁴ Psal. CXVII, 19, 20. ⁶⁵ Col. III, 14. ⁶⁶ Jac. v, 20; I Petr. IV, 8.
+
+# block=20
+(26) Διακρίσει. Editi, δικαίᾳ κρίσει : contra cod.
+ms. fidem, qui sic se habet: ΔΙΑΚΡΙΣΙΝ. Putat
+Wott. scripsisse Clementem, διακρίσεσιν ; sed litte-
+ras ε σ incururia librarii excidisse. Verum legere
+præstat διακρίσει cum Clem. Alex. utroque in loco
+modo laudato. GALL.

@@ -1,0 +1,244 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,229,1684,977,2071
+2,1016,1677,1769,2101
+3,1027,373,1794,1099
+4,249,375,1002,1061
+5,1022,1259,1775,1512
+6,235,1259,986,1560
+7,221,2345,1762,2492
+8,225,2185,971,2314
+9,1003,2625,1776,2734
+10,1022,1607,1766,1673
+11,230,2617,976,2728
+12,1277,1109,1527,1143
+13,1295,290,1542,323
+14,254,159,1011,279
+15,1034,1152,1782,1255
+16,672,97,1368,141
+18,504,2104,697,2139
+19,510,1565,708,1603
+20,240,1146,988,1215
+22,1260,2112,1510,2148
+23,259,101,325,134
+24,852,2538,1149,2586
+26,1010,2197,1764,2324
+27,240,1611,975,1687
+28,1045,152,1799,286
+29,1705,104,1797,142
+30,1305,328,1537,378
+31,495,328,741,374
+32,491,276,787,330
+33,509,1096,723,1138
+34,1265,1552,1529,1608
+35,423,2140,767,2182
+36,1127,2156,1653,2198
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=229 source_y1=1684 source_x2=977 source_y2=2071
+²¹ Odio habebis omnem hypocrisim; et quidquid
+Domino fuerit placitum, facies. ²² Ne deseras man-
+data Domini : servabis autem quæ accepisti ab eo,
+neque addens in eis, neque ab eis detrahens : « Non
+addes enim verbis illius, ne arguat te, et mendax
+fias ²³. » ²⁴ Confiteberis Domino Deo peccata tua;
+et non amplius adjicies ad ea; ut bene sit tibi
+a Domino Deo tuo, qui non vult mortem peccatoris,
+sed pœnitentiam ²⁵.
+
+# block=2 source_x1=1016 source_y1=1677 source_x2=1769 source_y2=2101
+Μισήσεις πᾶσαν ὑπόκρισιν· καὶ πᾶν ὃ ἐὰν ᾖ ἀρεστὸν
+Κυρίῳ, ποιήσεις· οὐ μὴ ἐγκαταλίπῃς ἐντολὰς Κυρίου·
+φυλάξεις δὲ ἃ παρέλαβες παρ' αὐτοῦ, μήτε προστιθεὶς
+ἐπ' αὐτοῖς, μήτε ἀφαιρῶν ἀπ' αὐτῶν· « Οὐ προσθή-
+σεις γὰρ τοῦς λόγοις αὐτοῦ, ἵνα μὴ ἐλέγξῃ σε, καὶ
+ψευδὴς γένῃ. » Ἐξομολογήσῃ Κυρίῳ τῷ Θεῷ σου τὰ
+ἁμαρτήματά σου· καὶ οὐκέτι προσθήσεις ἐπ' αὐτοῖς·
+ἵνα εὖ σοι γένηται παρὰ Κυρίῳ τῷ Θεῷ σου, ὃς οὐ
+βούλεται τὸν θάνατον τοῦ ἁμαρτωλοῦ, ἀλλὰ τὴν με-
+τάνοιαν.
+
+# block=3 source_x1=1027 source_y1=373 source_x2=1794 source_y2=1099
+—
+Ἐὰν ἔχῃς, διὰ τῶν χειρῶν σου δῷς, ἵνα ἐργάσῃ εἰς
+λύτρωσιν ἁμαρτιῶν σου· « Ἐλεημοσύναις γὰρ καὶ
+πίστεσιν ἀποκαθαίρονται ἁμαρτίαι. » Οὐ διστάσεις
+δοῦναι πτωχῷ· οὐδὲ διδούς, γογγύσεις, γνώσῃ γὰρ
+τίς ἐστιν ὁ τοῦ μισθοῦ ἀνταποδότης. « Ὁ ἐλεῶν γάρ,
+φησί, πτωχόν, Κυρίῳ δανείζει· κατὰ δὲ τὸ δόμα αὐ-
+τοῦ, οὕτως ἀνταποδοθήσεται αὐτῷ. » Οὐκ ἀποστρα
+φήσῃ ἐνδεόμενον. « Ὡς φράσσει γάρ, φησί, τὰ ὦτα
+αὐτοῦ μὴ εἰσακοῦσαι (35) τοῦ δεημένου , καὶ αὐτὸς
+ἐπικαλέσεται, καὶ οὐκ ἔσται ὁ εἰσακούων αὐτοῦ. »
+Κοινωνήσεις εἰς πάντα τῷ ἀδελφῷ σου, καὶ οὐκ ἐρεῖς
+ἴδια εἶναι· κοινὴ γὰρ ἡ μετάληψις παρὰ Θεοῦ πᾶσιν
+ἀνθρώποις παρεσκευάσθη. Οὐκ ἀρεῖς τὴν χεῖρά σου
+ἀπὸ τοῦ υἱοῦ σου, ἢ ἀπὸ τῆς θυγατρός σου· ἀλλὰ ἀπὸ
+νεότητος (36) διδάξεις αὐτοὺς τὸν φόβον τοῦ Θεοῦ.
+« Παίδευε γάρ, φησί, τὸν υἱόν σου· οὕτω γὰρ ἔσται
+σοι εὐέλπις. »
+
+# block=4 source_x1=249 source_y1=375 source_x2=1002 source_y2=1061
+²⁶ Si habes, manibus tuis præbe, ut opereris in re-
+demptionem peccatorum tuorum: « Eleemosynis enim
+ac fide purgantur peccata ²⁷.» ²⁸ Non dubitabis largiri
+pauperi; neque largiens, murmurabis : cognosces
+enim quis sit qui mercedem retribuat : ait quippe :
+« Qui miseretur pauperis, Domino fænerat: secundum
+autem datum illius, sic retribuetur ei ²⁹, » Ne aver-
+tas te ab indigente : « Qui obturat enim , inquit,
+aures suas, ne audiat egentem, et ipse invocabit, et
+non erit qui exaudiat eum ³⁰.» ³¹ Communicabis omnia
+cum fratre tuo, et non dices propria esse : commu-
+nis enim participatio a Deo omnibus hominibus
+præparata fuit. ³² Non tolles manum tuam a filio
+tuo, aut a filia tua; sed a juventute doce eos timo-
+rem Dei : « Castiga enim , inquit, filium tuum ; sic
+enim erit tibi bonæ spei ³³.»
+
+# block=5 source_x1=1022 source_y1=1259 source_x2=1775 source_y2=1512
+—
+Οὐκ ἐπιτάξεις δούλῳ σου ἢ παιδίσκῃ, τοῖς ἐπὶ τὸν
+αὐτὸν Θεὸν πεποιθόσιν, ἐν πικρίᾳ ψυχῆς· μήποτε στε-
+νάξωσιν ἐπὶ σοὶ, καὶ ἔσται σοι ὀργὴ παρὰ Θεοῦ· καὶ
+ὑμεῖς οἱ δοῦλοι ὑποτάγητε τοῖς κυρίοις ὑμῶν, ὡς τύ-
+ποις Θεοῦ, ἐν προσοχῇ (37) καὶ φόβῳ, ὡς τῷ Κυρίῳ,
+καὶ οὐκ ἀνθρώποις.
+
+# block=6 source_x1=235 source_y1=1259 source_x2=986 source_y2=1560
+³⁴ Servo tuo aut ancillæ, in eumdem Deum fidem
+ac fiduciam habentibus, non imperabis in amaritu-
+dine animæ; ne forte ingemiscant adversus te :
+et tibi ira a Deo incumbet. Et vos, servi, dominis
+vestris , tanquam Deum repræsentantibus estote
+subjecti cum attentione, reverentia et metu ; sicut
+Domino, et non hominibus.
+
+# block=7 source_x1=221 source_y1=2345 source_x2=1762 source_y2=2492
+¹⁹ Matth. xix, 31. ²⁰ Eccli. iv, 36. ²¹ Barn. xix. ²² Prov. xv, 27; xvi, 6. ²³ Barn. xix. ²⁴ Prov.
+xix, 17. ²⁵ Prov. xxi, 13. ²⁶ Barn. xix. ²⁷ Ibid. ²⁸ Prov. xix, 18. ²⁹ Barnab. xix; Anast. ibid.
+³⁰ f. ἐξομολόγησις. Sic cod. Vind. ³¹ Barn. xxix. ³² Ibid. ³³ Prov. xxx, 6. ³⁴ Barn. xix. ³⁵ Ezech.
+xviii, 23, 32; et II Petr. iii, 9. ³⁶ Exod. xx, 12. ³⁷ Anastasius, eodem in loco.
+
+# block=8 source_x1=225 source_y1=2185 source_x2=971 source_y2=2314
+—
+Patrem tuum et matrem coles, tanquam tibi ortus
+auctores, ut fias longævus super terram ³⁸, quam
+Dominus Deus tuus dat tibi. ³⁹ Fratres tuos et co-
+
+# block=9 source_x1=1003 source_y1=2625 source_x2=1776 source_y2=2734
+—
+(36) Νεότητος. Addit ms. Vind. αὐτῶν. Ib.
+(37) Προσοχῇ. Vind. cod. αἰσχύνῃ. Utraque vox
+rei probe convenit. Cl.
+
+# block=10 source_x1=1022 source_y1=1607 source_x2=1766 source_y2=1673
+—
+Περὶ ὑποκρίσεως, καὶ προσοχῆς νόμων, καὶ ἐξο-
+μολογήσεων ³⁰.
+
+# block=11 source_x1=230 source_y1=2617 source_x2=976 source_y2=2728
+—
+(34) Ὀλιγόπιστε. Ms. ὀλιγόψυχε. Male. Vide Matth.
+xiv, 31. Cl.
+(35) Εἰσακοῦσαι. Ἐχακοῦσαι, ms. Vind. Ib.
+
+# block=12 source_x1=1277 source_y1=1109 source_x2=1527 source_y2=1143
+ΚΕΦΑΛΑΙΟΝ ΙΓ'.
+
+# block=13 source_x1=1295 source_y1=290 source_x2=1542 source_y2=323
+—
+ΚΕΦΑΛΑΙΟΝ ΙΒ'.
+
+# block=14 source_x1=254 source_y1=159 source_x2=1011 source_y2=279
+—
+Petro, in mari : « Modicæ fidei, quare dubitasti ³⁴?,
+Noli ad accipiendum quidem manum porrigere, ad
+dandum vero contrahere ³⁵.
+
+# block=15 source_x1=1034 source_y1=1152 source_x2=1782 source_y2=1255
+—
+Ὅπως δεῖ προσφέρεσθαι τοῖς οἰκέταις τοὺς
+κυρίους· καὶ ὅπως χρὴ ὑποτάσσεσθαι τοὺς οἰ-
+κέτας.
+
+# block=16 source_x1=672 source_y1=97 source_x2=1368 source_y2=141
+—
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=18 source_x1=504 source_y1=2104 source_x2=697 source_y2=2139
+—
+CAPUT XV.
+
+# block=19 source_x1=510 source_y1=1565 source_x2=708 source_y2=1603
+—
+CAPUT XIV.
+
+# block=20 source_x1=240 source_y1=1146 source_x2=988 source_y2=1215
+—
+Quales se exhibere debeant famulis domini ; et quo
+modo oporteat famulos esse subjectos.
+
+# block=22 source_x1=1260 source_y1=2112 source_x2=1510 source_y2=2148
+ΚΕΦΑΛΑΙΟΝ ΙΕ'.
+
+# block=23 source_x1=259 source_y1=101 source_x2=325 source_y2=134
+1007
+
+# block=24 source_x1=852 source_y1=2538 source_x2=1149 source_y2=2586
+VARIORUM NOTÆ.
+
+# block=26 source_x1=1010 source_y1=2197 source_x2=1764 source_y2=2324
+—
+Τὸν πατέρα σου καὶ τὴν μητέρα θεραπεύσεις, ὡς
+αἰτίους σοι γενέσεως, ἵνα γένῃ μακροχρόνιος ἐπὶ τῆς
+γῆς, ἧς Κύριος ὁ Θεός σου δίδωσί σοι. Τοὺς ἀδελφοὺς
+
+# block=27 source_x1=240 source_y1=1611 source_x2=975 source_y2=1687
+—
+De hypocrisi , et legum observantia, et confessio-
+nibus.
+
+# block=28 source_x1=1045 source_y1=152 source_x2=1799 source_y2=286
+—
+« Ὀλιγόπιστε (34), εἰς τί ἐδίστασας ; » Μὴ γίνου πρὸς
+μὲν τὸ λαβεῖν ἐκτείνον τὴν χεῖρα, πρὸς δὲ τὸ δοῦναι
+συστέλλων.
+
+# block=29 source_x1=1705 source_y1=104 source_x2=1797 source_y2=142
+1008
+
+# block=30 source_x1=1305 source_y1=328 source_x2=1537 source_y2=378
+—
+Περὶ εὐποιΐας.
+
+# block=31 source_x1=495 source_y1=328 source_x2=741 source_y2=374
+—
+De beneficentia.
+
+# block=32 source_x1=491 source_y1=276 source_x2=787 source_y2=330
+—
+CAPUT XII.
+
+# block=33 source_x1=509 source_y1=1096 source_x2=723 source_y2=1138
+—
+CAPUT XIII.
+
+# block=34 source_x1=1265 source_y1=1552 source_x2=1529 source_y2=1608
+—
+ΚΕΦΑΛΑΙΟΝ ΙΔ'.
+
+# block=35 source_x1=423 source_y1=2140 source_x2=767 source_y2=2182
+—
+De cultu erga parentes.
+
+# block=36 source_x1=1127 source_y1=2156 source_x2=1653 source_y2=2198
+—
+Περὶ τῆς πρὸς γονέας θεραπείας.

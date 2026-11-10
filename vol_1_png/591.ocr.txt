@@ -1,0 +1,166 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,171,135,939,1510
+3,170,1690,932,2696
+4,772,1620,1073,1654
+5,210,1547,1294,1587
+6,618,73,1286,114
+7,1660,80,1717,118
+8,970,131,1754,1514
+9,171,70,247,116
+10,955,1698,1717,2710
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+σινδόνας ἐποίησε, καὶ ἀπέδοτο τοῖς Φοίνιξι, περιζώματα
+δὲ τοῖς Χαναναίοις· δόξαν καὶ εὐπρέπειαν ἐνεδύσατο,
+καὶ εὐφράνθη ἐν ἡμέραις ἐσχάταις· στόμα αὐτῆς
+διήνοιξε σοφῶς καὶ προσηκόντως (67), καὶ τάξιν ἐστεί-
+λατο τῇ γλώσσῃ αὐτῆς. Στεγναὶ δὲ (68) διατριβαὶ
+οἴκων αὐτῆς, σῖτα δὲ ὀκνηρὰ οὐκ ἔφαγε· τὸ στόμα
+αὐτῆς ἀνοίξει σοφῶς καὶ ἐννόμως, θεσμοὶ δὲ ἐλεημο-
+σύνης (69) ἐπὶ τῆς γλώσσης αὐτῆς· ἀνέστησαν τὰ τέκνα
+αὐτῆς, καὶ πλουτήσαντα ἤνεσαν αὐτὴν, καὶ ὁ ἀνὴρ αὐ-
+τῆς ἐπήνεσεν αὐτήν· Πολλαὶ θυγατέρες ἐκτήσαντο πλοῦ-
+τον, πολλαὶ (70) ἐποίησαν δύναμιν· σὺ δὲ ὑπέρκεισαι
+καὶ ὑπερῆρας πάσας. Ψευδεῖς ἀρέσκειαι καὶ μάταιον
+κάλλος γυναικὸς μὴ ἔστω σοι· γυνὴ γὰρ εὐσεβὴς εὐλο-
+γεῖται, φόβον δὲ Κυρίου αὐτὴ αἰνείτω (71). Δότε αὐτῇ
+ἀπὸ καρπῶν χειλέων αὐτῆς, καὶ αἰνείσθω ἐν πύλαις
+ὁ ἀνὴρ αὐτῆς. › Καὶ πάλιν· « Γυνὴ ἀνδρεία στέφανος
+τῷ ἀνδρὶ αὐτῆς. › Καὶ πάλιν· « Πολλαὶ (72) γυναῖκες
+ᾠκοδόμησαν οἶκον. › Μεμαθήκατε , ὁποῖα ἐγκώμια
+γυνὴ σώφρων καὶ φίλανδρος λαμβάνει ἀπὸ Κυρίου τοῦ
+Θεοῦ. Εἰ πιστὴ καὶ ἀρεστὴ Κυρίῳ βούλει εἶναι, ὦ γύ-
+ναι, μὴ καλλωπίζου ἐπὶ τῷ ἀρέσκειν σε ἀλλοτρίοις ἀν-
+δράσι, μηδὲ τὰ τῆς ἑταιριζομένης ἐμπλέγματα, ἢ ἐν-
+δύματα, ἢ ὑποδήσεις μιμοῦ φορεῖν, ἐπὶ τὸ ὑπάγεσθαί
+σε τοὺς εἰς τὰ τοιαῦτα παγιδευομένους. Καὶ γὰρ εἰ
+σὺ οὐκ ἐπὶ τὸ ἁμαρτάνειν ταῦτα ποιεῖς τὰ μύση, ἐπὶ
+δὲ τὸ μόνον καλλωπίζεσθαι, οὐδ᾽ οὕτως ἐκφεύξῃ τὴν
+δίκην εἰς τὰ μετὰ ταῦτα, ἀναγκάσασα ἐπενεχθῆναί
+σοί τινα, εἰς τὸ ἐπιθυμῆσαί σου, καὶ μὴ ἑαυτὴν φυ-
+λάξασα ἐπὶ τὸ μήτε σὲ ὑποπεσεῖν ἁμαρτίᾳ, μήτε μὲν
+ἑτέρους σκανδάλῳ. Εἰ δὲ ἁμαρτήσεις ἐνδοῦσα ἑαυτὴν,
+καὶ σὺ ἐπλημμέλησας, κἀκείνου ἔνοχος τῆς ψυχῆς
+ἐγένου· εἶτα ἁμαρτήσασα ἐφ᾽ ἑνὶ, ὥσπερ ἀπογνοῦσα
+
+# block=3
+(67) Στόμα αὐτῆς διήνοιξε, κ. τ. λ. Et post unum
+versum, τὸ στόμα αὐτῆς ἀνοίξει σοφῶς καὶ ἐννόμως,
+θεσμοὶ δὲ ἐλεημοσύνης ἐπὶ τῆς γλώσσης αὐτῆς. Duæ
+sunt ejusdem 26 versiculi interpretationes. Unde
+editio Complutensis habet solummodo, στόμα δὲ
+αὐτῆς ἀνοίγει σοφῶς καὶ νομοθέσμως, ἡ δὲ ἐλεημο-
+σύνη αὐτῆς ἐν τῇ γλώσσῃ αὐτῆς. Clemens Alexan-
+drinus lib. Ⅲ Pædagogi, cap. 11, p. 250 : "Ἧτις
+σῖτα ὀκνηρὰ οὐκ ἔφαγεν. Θεσμοὶ δὲ ἐλεημοσύνης ἐπὶ
+τῇ γλώσσῃ αὐτῆς. "Ἧτις τὸ στόμα αὐτῆς διήνοιξεν
+σοφῶς καὶ ἐννόμως· ἧς τὰ τέκνα ἐμακάρισαν ἀνισ-
+τάμενα. At in Bibliotheca regia codex 721, post
+Χαναναίοις ponit, στόμα αὐτῆς διήνοιξεν προσεχόντως,
+καὶ τάξιν ἐστείλατο τῇ γλώσσῃ αὐτῆς. Ἰσχὺν καὶ εὐ-
+πρέπειαν, etc., στεγναὶ, etc. ἔφαγεν. Ἀνέστησαν
+τέκνα αὐτῆς καὶ ἐπλούτησαν. Codex 2221 : Χανα-
+ναίοις. Ἰσχὺν καὶ εὐπρέπειαν, etc., ἐσχάταις. Στόμα
+δὲ αὐτῆς διήνοιξε προσεχόντως· καὶ τάξιν ἐστείλατο
+τῇ γλώσσῃ αὐτῆς. Στεγναὶ, etc., ἔφαγεν. Ἀνέστη τὰ
+τέκνα αὐτῆς καὶ ἤνεσαν αὐτήν. In Melissa lib. Ⅱ,
+serm. 33 : Στόμα αὐτῆς διήνοιξε προσεχόντως καὶ
+ἐννόμως, καὶ τάξιν ἐνετείλατο τῇ γλώσσῃ αὐτῆς.
+Gregorius Nazianzenus oratione 12 : Τίς τάξιν οὕ-
+τως ἐστείλατο χείλεσιν. Denique in Opusculo de mu-
+liere forti legitur duntaxat, apud Ambrosium : Os
+suum aperit (vel aperuit) sapienter et legaliter, at
+gratia ejus (χάρις αὐτῆς, proxime ad edit. Symmachi
+et Theodotionis) in lingua ejus; apud Augustinum :
+Os suum aperuit attente, et ordinem posuit linguæ
+suæ. Igitur ex Hebræo, et ex Vulgata sic videtur
+
+# block=4
+VARIORUM NOTÆ.
+
+# block=5
+⁵ Prov. xxxi, 10-31. ⁶* Prov. xii, 4. ⁷ Prov. xiv, 1. ⁸ Prov. xviii, 3.
+
+# block=6
+CONSTITUTIONES APOSTOLICÆ.—LIB. I.
+
+# block=7
+582
+
+# block=8
+suum sapienter ac rite aperuit, et ordinem posuit
+linguæ suæ; angustæ autem semitæ ædium ejus, et
+cibos pigros non comedit : os suum aperiet sapien-
+ter ac legitime, et leges de eleemosyna in lingua
+ejus. Surrexerunt filii ejus, et ditati prædicaverunt
+eam, et vir ejus laudavit illam : Multæ filiæ acqui-
+sierunt divitias, multæ fecerunt virtutem : tu autem
+emines, et universas es supergressa. Fallax gratia,
+et vana pulchritudo mulieris ne sit tibi : nam mu-
+lier religiosa benedicetur; timorem autem Domini
+ipsa laudet. Date ei de fructibus labiorum ejus, et
+laudetur in portis vir illius⁶. › Et iterum; « Mulier
+fortis, corona viro suo⁶*. › Et rursus : « Multæ mu-
+lieres ædificarunt domum⁷. › Audiistis quas laudes
+mulier pudica et viri studiosa a Domino Deo ferat.
+Si vis fidelis et accepta esse Domino, o mulier,
+noli te ornare, quo alienis viris placeas; neque me-
+retricis cirros aut vestimenta aut calceos imitare
+ac gesta, ut eos quos ista irretiunt, ad te allicias.
+Sed et quamvis hæc flagitia non ad peccatum desi-
+gnes, sed tantummodo ad cultum; neque sic futuras
+pœnas effugies, quæ quempiam ad tui cupidinem
+induxeris, et non caveris ut, neque in delictum
+ipsa incideres, neque alii in scandalum. Quod si
+teipsam dedendo pecces; et ipsa deliquisti, et ani-
+mæ hominis illius rea es facta : deinde postquam
+cum uno offenderis, quasi semel amissa spe, ad alios
+rursus sine doloris sensu deflectes; sicut ait sermo
+divinus : « Cum venerit impius in profundum ma-
+lorum, contemnit; supervenit autem ei ignominia
+et opprobrium ⁸. » Hujusmodi enim mulier deinceps
+crudeliter sauciata, animas insipientium illaqueat,
+
+# block=9
+581
+
+# block=10
+constitui debere versio LXX Senum : Χαναναίοις. Ἰσ-
+χὺν καὶ εὐπρέπειαν ἐνεδύσατο, καὶ εὐφρανθήσεται ἐν
+ἡμέραις ἐσχάταις. Στόμα αὐτῆς διήνοιξε σοφῶς·
+θεσμοὶ δὲ ἐλεημοσύνης ἐπὶ τῇ γλώσσῃ αὐτῆς. Στε-
+γναὶ, etc., ἔφαγεν. Ἀνέστησαν τὰ τέκνα αὐτῆς, καὶ
+ἐμακάρισαν αὐτὴν, καὶ ὁ ἀνὴρ αὐτῆς ἤνεσεν αὐτήν.
+Cot.
+(68) Στεγναὶ δέ. Omittit alter liber Vind. δέ,
+quod rectius. Cler.
+(69) Ἐλεημοσύνης. Addit alter codex αὐτῆς,
+sed nihil opus est. Id.
+(70) Ἐκτήσαντο πλοῦτον πολλαί. Desunt in
+altero codice. Id.
+(71) Γυνὴ γὰρ εὐσεβής, κ. τ. λ. Ita Clemens Ale-
+xandrinus loco citato. Antonius autem Monachus
+Melissæ libro Ⅱ, serm. 33 : Γυνὴ συνετὴ εὐ-
+λογεῖται, φόβος δὲ Κυρίου αὐτὴν αἰνείτω. Nostri
+LXX in eo solum variant a Constitutionibus, quod
+συνετή ponunt, non εὐσεβής, pro quo Liber Regius
+2265, σοφή. In Ambrosio : Mulier enim prudens be-
+nedicitur; timorem autem Domini ista laudet. Apud
+Augustinum : Mulier enim sapiens benedicitur; ti-
+morem autem Domini ipsa collaudet. Crediderim legi
+oporterε, γυνὴ φόβος Κυρίου, αὐτὴ αἰνείσθω. Mulier
+timor Domini, (hoc est, timens Dominum), ipsa lau-
+detur. Adeo ut συνετή seu εὐσεβής seu σοφή, et εὐ-
+λογεῖται glossemata sint, priora vocum φόβος Κυ-
+ρίου, posterius verbi αἰνείσθω. Cot.
+(72) Πολλαί. Σοφαί alter codex, et sic habent
+Hebræa. Cler.

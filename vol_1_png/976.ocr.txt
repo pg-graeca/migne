@@ -1,0 +1,191 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,202,1303,952,1685
+2,200,1837,958,1971
+3,981,833,1739,1693
+4,206,2498,954,2699
+7,979,144,1738,825
+9,235,1706,689,1739
+10,612,82,1333,116
+13,203,82,272,115
+16,1661,85,1737,120
+18,197,1967,951,2495
+19,195,137,950,1305
+22,980,1836,1740,2712
+24,783,1769,1116,1804
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=7 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=13 fontSize=16px
+# block=16 fontSize=16px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=22 fontSize=15px
+# block=24 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+1351
+
+# block=10
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=16
+1352
+
+# block=19
+VII. Certum est enim quia per ferrum facta sunt
+simulacra, ferrum vero per ignem confectum est,
+qui ignis aqua extinguitur, aqua autem per spiri-
+tum movetur, spiritus autem a Deo initium habet.
+Sic enim dicit Moyses propheta : In principio fecit
+Deus cælum et terram, terra autem erat invisibilis
+et incomposita, et tenebræ erant super abyssum, et
+Spiritus Dei erat super aquas ⁴³. Qui spiritus jussu
+Dei, quasi ipsa Conditoris manus lucem separavit
+a tenebris (50), et post illud invisibile cælum istud
+visibile produxit, ut superiora quidem habitaculum
+faceret angelis, inferiora vero hominibus. Propter
+te ergo Dei jussu, aqua quæ erat super faciem terræ
+secessit, ut terra tibi produceret fructus, cui etiam
+humorum venas latenter inseruit, ut tibi ex ea pro-
+fluent fontes et flumina. Propter te producere jussa
+est animantia, et omnia quæ tuo usui voluntatique
+servirent. Aut non propter te venti spirant, ut ex
+ipsis concipiens fructus tibi terra parturiat? Non
+propter te imbres profluunt et tempora vicissitudi-
+nes mutant? Non propter te sol oritur et occidit et
+mutationes luna perpetitur? Propter te mare exhi-
+bet famulatum suum, ut tibi ingrato cuncta subja-
+ceant. Nonne pro his omnibus justa erit ultionis
+pœna, quia horum omnium largitorem, quem ante
+omnia et agnoscere et venerari debuisti, solum præ
+cæteris ignorastis?
+
+# block=7
+pletis hæres elicitur ejus a quo in incorruptione re-
+generatus est. Propter quod paratis animis accedite
+quasi filii ad patrem, ut peccata vestra diluantur et
+causa eorum sola ignorantia fuisse probetur apud
+Deum. Nam si post agnitionem horum permanetis
+in incredulitate, vobis jam perditionis vestræ causa
+et non ignorantiæ reputabitur. Nec pu es quod etiam-
+si omnem pietatem colas omnemque justitiam, ba-
+ptismum vero non accipias, spem possis habere apud
+Deum; imo potius majore pœna dignus erit qui
+bona opera non bene operatur, confertur enim me-
+ritum homini ex bonis gestis, sed si ita gerantur sic-
+ut Deus jubet. Deus autem jussit omnem colentem
+se baptismo consignari, quod si tu reniteris et tuæ
+voluntati magis quam Dei obtemperas, contrarius
+sine dubio et inimicus es voluntati ejus.
+
+# block=3
+IX. Sed dices fortasse : Quid confert aquæ ba-
+ptismus ad Dei cultum? Primo quidem, quia quod
+Deo placuit impletur; secundo, quia regenerato ex
+aquis et Deo renato, fragilitas prioris nativitatis,
+quæ tibi per hominem facta est, amputatur, et ita
+demum pervenire poteris ad salutem, aliter vero
+impossibile est. Sic enim nobis cum sacramento
+verus Propheta testatus est, dicens : Amen dico vo-
+bis, nisi quis denuo renatus fuerit ex aqua, non intro-
+ibit in regna cælorum ⁴⁴. Et ideo accelerate, est enim
+in aquis istis misericordia vis quædam, quæ ex ini-
+tio ferebatur super eas, et agnoscit eos qui bapti-
+zantur sub appellatione triplicis sacramenti, et e, i-
+pit eos de suppliciis futuris, quasi donum quoddam
+offerens Deo animas per baptismum consecratas.
+Confugite ergo ad aquas istas, solæ sunt enim quæ
+possint vim futuri ignis extinguere; ad quas qui
+moratur accedere, constat in eo infidelitatis adhuc
+idolum permanere, et ab ipso prohiberi ad aquas
+quæ salutem conferunt, properare. Sive enim justus
+
+# block=1
+VIII. Sed et nunc eisdem vos ad intelligentiam
+viis duco; videtis etenim quod omnia gignuntur ex
+aquis, aqua vero per Unigenitum ex initio facta est,
+Unigeniti vero omnipotens Deus caput est (51), per
+quem tali ordine, quo supra diximus, pervenitur ad
+Patrem; cum autem perveneris ad Patrem, agno-
+sces hanc esse voluntatem ejus, ut per aquas quæ
+primæ creatæ sunt (52), denuo renascaris. Qui enim
+regeneratus fuerit per aquam, bonis operibus adim-
+
+# block=9
+⁴³ Gen. I, 1, 2. ⁴⁴ Joan. III, 5.
+
+# block=24
+COTELERII NOTÆ.
+
+# block=22
+æqualis habet; et cum ipse sit omnium caput, ipsius
+tamen caput est Pater. Sic enim scriptum est (I Cor.
+XI, 3), Quia caput Christi Deus. Prudenter tamen
+monemur a S. Ambrosio, lib. IV De fide, cap. 2, non
+dixisse Apostolum, caput Christi, Pater; sed, caput
+Christi, Deus. Consulantur interpretes ad locum
+Apostoli, itemque S. Basilius in psalm. XXVIII, 6.
+(52) Per aquas quæ primæ creatæ sunt. Et paulo
+ante, Omnia gignuntur ex aquis. Clement. XI, 24 : Τὰ
+πάντα τὸ ὕδωρ ποιεῖ• et πρωτογόνῳ ὕδατι. Equidem
+Ebionitæ Recognitionum corruptores, ab Epiphanio, p.
+53, aquam pro Deo coluisse dicuntur. De Sampsæis
+vero seu Elcesæis, quæ eadem hæresis est, idem
+Pater scribit, p. 461 : Τετίμηται δὲ καὶ τὸ ὕδωρ• καὶ
+τοῦτο ὡς Θεὸν ἡγοῦνται, σχεδὸν φάσκοντες εἶναι τὴν
+ζωὴν ἐκ τούτου. Hinc Hydrotheitæ, aquam minime
+factam putantes : quam creavit Deus in principio
+una cum cælo et terra, et, ut loquuntur Optatus
+lib. VI, atque Ambrosius in Lucæ caput XXI, ante
+mundi natalem, hoc est, ante mundum ordine dispo-
+situm : phrasi Tertullianæ, ante mundi suggestum.
+Cyrillus Hierosolymitanus, catechesi 3 : Ἐξ ὕδάτων
+οὐρανοί• ἐξ ὕδατων ἡ γῆ. Καὶ πρὸ πάσης τῶν γενητῶν
+τῆς ἑξαημέρου κατασκευῆς, πνεῦμα τοῦ Θεοῦ ἐπε-
+φέρετο ἐπάνω τοῦ ὕδατος. Ἀρχὴ τοῦ κόσμου τὸ ὕδωρ.
+Lege Augustinum, lib. I De Genesi ad litteram, cap. 15.
+
+# block=2
+Τοῖς πιστοῖς, ἡ τῆς ἀσεβείας κατάγνωσις, αὐτάρκης
+πρὸς εὐσέβειάν ἐστι γνῶσις. Καὶ γὰρ εἰ μὴ δυνατὸν
+καταλαβέσθαι τί ἐστι Θεὸς, ἀλλὰ δυνατὸν εἰπεῖν, τί
+οὐκ ἔστιν.
+
+# block=18
+(50) Qui spiritus jussu Dei, quasi ipsa Conditoris
+manus (ita recte etiam libri scripti Clementinorum
+XI, 22, χεὶρ) lucem separavit a tenebris. Mitius in
+Clementinis, καὶ λέγοντος τοῦ Θεοῦ, sed forte Rufinus
+legebat κελεύοντος τοῦ Θεοῦ. Apud Irenæum lib. III,
+adversus hæreses, cap. 8 : Quoniam ipse præcepit, et
+creata sunt : ipse dixit, et facta sunt. Cui ergo præ-
+cepit? Verbo, scilicet : per quod, inquit, cœli firmati
+sunt, et Spiritu oris ejus omnis virtus eorum. (Psal.
+XXXII, 9, 6.) Idem legendus lib. IV, cap. 75. Libro au-
+tem V, cap. 6, dicit : Per manus enim Patris, id est,
+per Filium et Spiritum, fit homo secundum similitu-
+dinem Dei. Sed memoriæ mandanda est Chrysostomi
+aurea observatio de Spiritu sancto, ad I Cor. XII, 11 :
+Καθὼς βούλεται, οὐ καθὼς κελεύεται ἢ ἐπιτάττεται,
+Prout vult non prout jubetur ac præcipitur. Vide supra.
+
+# block=4
+(51) • Unigeniti vero omnipotens Deus caput est.
+En verba Rufini, Expositione in Symbolum apostolo-
+rum : Unicus ergo Filius est : et cum sit gloria,
+sempiternitate, virtute, regno, potestate, hoc quod
+Pater est; omnia tamen hæc non sine auctore, sicut
+Pater, sed ex Patre tanquam Filius sine initio et

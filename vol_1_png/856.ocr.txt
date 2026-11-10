@@ -1,0 +1,174 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,249,1281,985,2228
+2,308,2256,801,2293
+3,1020,2427,1764,2726
+4,1281,402,1520,436
+5,239,2425,986,2728
+7,536,398,717,434
+8,407,452,846,490
+9,1158,453,1656,494
+10,863,2345,1156,2383
+11,673,117,1378,158
+12,1034,176,1774,342
+13,262,171,993,378
+14,264,120,334,160
+15,1020,508,1770,2229
+16,1706,128,1772,166
+17,241,499,979,1281
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=249 source_y1=1281 source_x2=985 source_y2=2228
+conserva : conjuges custodi in fide : castos robora :
+infantes ad maturam ætatem perduc : nuper initia-
+tos firma : catechumenos erudi, ac dignos initia-
+tione redde : nosque omnes congrega in regnum
+cælorum, in Christo Jesu Domino nostro; cum
+quo tibi gloria, honor ac veneratio, et sancto Spi-
+ritui, in sæcula. Amen. Et diaconus dicat : Deo per
+Christum ejus inclinate, et accipite benedictionem.
+Tum episcopus precetur, his verbis : Deus omni-
+potens, verax et incomparabilis, qui ubique ex-
+sistis, ac omnibus præsens es, et in nullo instar
+eorum quæ insunt contineris : qui locis non circum-
+scriberis, temporibus non vetustescis, sæculis non
+terminaris, verbis non seduceris ; qui ortui non es
+subjectus, et custodia non indiges, et supra extra-
+que interitum es, ac conversionem recipere nequis,
+atque natura es immutabilis ; qui lucem habitas
+inaccessam ³¹, et natura invisibilis es; qui omni-
+bus naturis rationalibus te benevole requirentibus
+notus es, et deprehenderis ab iis qui in benevo-
+lentia vestigant te : Deus Israelis, vere videntis, in
+Christum credentis populi tui : propitius factus,
+
+# block=2 source_x1=308 source_y1=2256 source_x2=801 source_y2=2293
+³⁰ I Cor. xı, 29, - ³¹ I Tim. vı, 16.
+
+# block=3 source_x1=1020 source_y1=2427 source_x2=1764 source_y2=2726
+nibus sufficiente, Nihil interest, utrum sequamur.
+Utramque vocem habet Suidas, et posteriorem de
+sole dici observat , interpretaturque ἥλιου παναρ-
+κέος, τοῦ πανταχῆ λάμποντος. Recte quidem, sed
+aptius vim vocis expressisset πάσῃ τῇ γῇ ἀρκοῦντος,
+toti terræ sufficientis. ID.
+(73) 'Ο Θεός. In cod. Vind. incipit hinc cap. 10,
+addita hac inscriptione : ᾿Επίκλησις κεφαλοκλισίας
+πιστῶν ἀπολυτική. ID.
+
+# block=4 source_x1=1281 source_y1=402 source_x2=1520 source_y2=436
+ΚΕΦΑΛΑΙΟΝ ΙΕ'.
+
+# block=5 source_x1=239 source_y1=2425 source_x2=986 source_y2=2728
+(70) Tῷ Θεῷ. Rectius absunt in cod. Vindob.
+verba τῷ μόνῳ ἀγεννήτῳ Θεῷ. Quamvis cum recepta
+sententia non pugnent, nescio quomodo Arianis-
+mum redolent ; solebant enim Ariani frequenter ita
+loqui, ut discrimen naturarum in personis divinis
+innuerent. CLER.
+(71) Λείποντα. Cod. Vind. non mutato sensu
+τὰ λειπόμενα. CLER.
+(72) Παναλκεῖ. Est in cod. Vind. παναρκεῖ, om-
+
+# block=7 source_x1=536 source_y1=398 source_x2=717 source_y2=434
+CAPUT XV.
+
+# block=8 source_x1=407 source_y1=452 source_x2=846 source_y2=490
+Invocatio post communionem.
+
+# block=9 source_x1=1158 source_y1=453 source_x2=1656 source_y2=494
+᾿Επίκλησις μετὰ τὴν μετάληψιν.
+
+# block=10 source_x1=863 source_y1=2345 source_x2=1156 source_y2=2383
+VARIORUM NOTÆ.
+
+# block=11 source_x1=673 source_y1=117 source_x2=1378 source_y2=158
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=12 source_x1=1034 source_y1=176 source_x2=1774 source_y2=342
+εὐσεβείας, εἰς ἄφεσιν ἁμαρτιῶν, εἰς ζωὴν τοῦ μέλλοντος
+αἰῶνος. Ἐγειρώμεθα. Ἐν χάριτι Χριστοῦ ἑαυτοὺς τῷ
+Θεῷ (70), τῷ μόνῳ ἀγεννήτῳ Θεῷ, καὶ τῷ Χριστῷ
+αὐτοῦ παραθώμεθα. Καὶ ὁ ἐπίσκοπος εὐχαριστείτω,
+
+# block=13 source_x1=262 source_y1=171 source_x2=993 source_y2=378
+ris, in custodiam pietatis , in remissionem pecca-
+torum, in vitam futuri sæculi ³⁰. Surgamus. In gra-
+tia Christi, ' nos ipsos Deo, soli ingenito Deo , et
+Christo ³¹ejus commendemus. Atque episcopus gra-
+tiarum actionem proferat :
+
+# block=14 source_x1=264 source_y1=120 source_x2=334 source_y2=160
+1111
+
+# block=15 source_x1=1020 source_y1=508 source_x2=1770 source_y2=2229
+Δέσποτα ὁ Θεὸς ὁ παντοκράτωρ, ὁ Πατὴρ τοῦ Χρι-
+στοῦ σου τοῦ εὐλογητοῦ Παιδὸς, ὁ τῶν μετ' εὐθύτητος
+ἐπικαλουμένων σε ἐπήκοος, ὁ καὶ τῶν σιωπώντων ἐπι-
+στάμενος τὰς ἐντεύξεις· εὐχαριστοῦμέν σοι, ὅτι κατη-
+ξίωσας ἡμᾶς μεταλαβεῖν τῶν ἁγίων σου μυστηρίων, ἃ
+παρέσχου ἡμῖν, πληροφορίαν τῶν καλῶς ἐγνωσμένων,
+εἰς φυλακὴν τῆς εὐσεβείας, εἰς ἄφεσιν πλημμελημά-
+των· ὅτι τὸ ὄνομα τοῦ Χριστοῦ σου ἐπικέκληται ἐφ'
+ἡμᾶς, καὶ σοὶ προσῳκειώμεθα. Ὁ χωρίσας ἡμᾶς τῆς
+τῶν ἀσεβῶν κοινωνίας, ἕνωσον ἡμᾶς μετὰ τῶν καθ-
+ωσινμένων σοι, στήριξον ἡμᾶς ἐν τῇ ἀληθείᾳ τῇ
+τοῦ ἁγίου Πνεύματος ἐπιφοιτήσει, τὰ ἀγνοούμενα
+ἀποκαλύψον, τὰ λείποντα (71) προσαναπλήρωσον, τὰ
+ἐγνωσμένα κράτυνον. Τοὺς ἱερεῖς ἀμώμους διαφύλα-
+ξον ἐν τῇ λατρείᾳ σου· τοὺς βασιλεῖς διατήρησον ἐν
+εἰρήνῃ, τοὺς ἄρχοντας ἐν δικαιοσύνῃ, τοὺς ἀέρας ἐν
+εὐκρασίᾳ, τοὺς καρποὺς ἐν εὐφορίᾳ, τὸν κόσμον ἐν
+παναλκεῖ (72) προνοίᾳ. Tὰ ἔθνη τὰ πολεμικὰ πράϋνον·
+τὰ πεπλανημένα ἐπίστρεψον· τὸν λαόν σου ἁγίασον·
+τοὺς ἐν παρθενίᾳ διατήρησον· τοὺς ἐν γάμῳ διαφύλαξον
+ἐν πίστει· τοὺς ἐν ἁγνείᾳ ἐνδυνάμωσον· τὰ νήπια ἁδρυ-
+νον· τοὺς νεοτελεῖς βεβαίωσον· τοὺς ἐν κατηχήσει παί-
+δευσον, καὶ τῆς μυήσεως ἀξίους ἀνάδειξον· καὶ πάν-
+τας ἡμᾶς ἐπισυνάγαγε εἰς τὴν τῶν οὐρανῶν βασιλείαν,
+ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν, μεθ' οὗ σοὶ δόξα,
+τιμὴ καὶ σέβας, καὶ τῷ ἁγίῳ Πνεύματι, εἰς τοὺς αἰῶ-
+νας. Ἀμήν. Καὶ ὁ διάκονος λεγέτω· Tῷ Θεῷ διὰ τοῦ
+Χριστοῦ αὐτοῦ κλίνατε, καὶ εὐλογεῖσθε. Καὶ ὁ ἐπί-
+σκοπος ἐπευχέσθω, λέγων· Ὁ Θεὸς (73) ὁ παντοκρά-
+τωρ, ὁ ἀληθινὸς καὶ ἀσύγκριτος, ὁ πανταχοῦ ὢν καὶ
+τοῖς πᾶσι παρὼν καὶ ἐν οὐδενὶ ὡς ἐνόν τι ὑπάρχων, ὁ
+τόποις μὴ περιγραφόμενος, ὁ χρόνοις μὴ παλαιούμε-
+νος, ὁ αἰῶσι μὴ περατούμενος, ὁ λόγοις μὴ παραγό-
+μενος, ὁ γενέσει μὴ ὑποκείμενος, ὁ φυλακῆς μὴ δεόμε-
+νος, ὁ φθορᾶς ἀνώτερος, ὁ τροπῆς ἀνεπίδεκτος, ὁ
+φύσει ἀναλλοίωτος, ὁ φῶς οἰκῶν ἀπρόσιτον, ὁ τῇ φύσει
+ἀόρατος, ὁ γνωστὸς πάσαις ταῖς μετ' εὐνοίας ἐκζη-
+τούσαις σε λογικαῖς φύσεσιν, ὁ καταλαμβανόμενος
+ὑπὸ τῶν ἐν εὐνοίᾳ ἐπιζητούντων σε· ὁ Θεὸς Ἰσραὴλ,
+τοῦ ἀληθινῶς ὁρῶντος, τοῦ εἰς Χριστὸν πιστεύσαντος
+
+# block=16 source_x1=1706 source_y1=128 source_x2=1772 source_y2=166
+1112
+
+# block=17 source_x1=241 source_y1=499 source_x2=979 source_y2=1281
+Domine Deus omnipotens, Pater Christi tui, be
+nedicti Filii; exauditor eorum qui recte invocan
+te, cognitor precum etiam eorum qui tacent; gra
+tias agimus tibi, quod nos dignos censuisti qu
+participaremus sancta tua mysteria, quæ præbuist
+nobis ad plenam eorum quæ bene cognovimus
+persuasionem, ad custodiam pietatis, ad remissio
+nem delictorum ; quoniam nomen Christi tui invo
+catum est super nos, et tibi adjuncti sumus. Qu
+segregasti nos ab impiorum communione, adun
+cum iis qui tibi sunt consecrati, firma nos in veri
+tate per sancti Spiritus adventum, quæ ignoramu
+revela, quæ deficiunt supple, quæ novimus corro
+bora. Sacerdotes inculpatos conserva in cultu tuo :
+reges tuere in pace ; magistratus in justitia ; acrem
+in temperie ; fruges in ubertate ; mundum in omni
+potente providentia. Gentes bellicosas seda : erran
+tes converte : populum tuum sanctifica : virgines

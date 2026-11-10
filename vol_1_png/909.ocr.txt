@@ -1,0 +1,163 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,209,449,965,1230
+2,1003,143,1759,792
+3,206,1237,966,2192
+4,211,144,965,444
+5,207,2411,963,2720
+6,993,2416,1761,2691
+7,1000,797,1762,2200
+8,208,2220,1760,2296
+9,805,89,1193,126
+10,215,91,285,132
+11,822,2339,1133,2378
+12,1681,82,1753,118
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=209 source_y1=449 source_x2=965 source_y2=1230
+XIX. Et Petrus, his a me auditis : Gratias ago,
+inquit, Deo meo, et pro salute tua, et pro requie
+mea; valdè enim delector, quia intellexisse te vi-
+deo, quanta sit virtutis propheticæ magnitudo, et
+quia, ut ais, nec si ego ipse cupiam, quod absit !
+potero te transvertere in aliam fidem. Ex hoc jam
+incipe esse nobiscum, et crastina die interesto
+disputationibus nostris; erit enim mihi certamen
+cum Simone Mago. Cumque hæc dixisset, secessit,
+ut cibum caperet cum suis (16), me autem seorsum
+vesci jussit. Et post cibum cum laudem dedisset
+Deo et gratias egisset, etiam hujus ipsius facti mihi
+reddidit rationem, et addidit, dicens : Det tibi Do-
+minus exæquari nobis in omnibus, ut percepto
+baptismate possis ad eamdem nobiscum convenire
+mensam. Et his dictis, quiescere me jussit; jam
+enim ad somnum et natura corporis, et ratio tem-
+poris invitabat.
+
+# block=2 source_x1=1003 source_y1=143 source_x2=1759 source_y2=792
+et a quo, et per quem vel propter quem; utrum ab
+uno, an a duobus, an a multis accepere substan-
+tiam; et utrum ex nullis substantibus, an ex ali-
+quibus sumpta sint, et adornata; tum si aliqua
+virtus est in altissimis, aut in infernis; si est ali-
+quid melius omnibus, aut cunctis inferius; si sunt
+aliqui motus, aut nulli; si hæc quæ videntur, erant
+semper, et erunt; si exstitere nullo operante, et
+nullo solvente dilabentur. Si, inquam, ex his ini-
+tium acceperit disputatio, puto quod ea quæ quæ-
+rentur, diligenti examinatione discussa facile cla-
+rescant. Cum autem hæc claruerint, eorum quæ
+sequuntur, in promptu reperietur agnitio. Ego quid
+senserim protuli; quid etiam tibi videatur, indicare
+ne pigeat.
+
+# block=3 source_x1=206 source_y1=1237 source_x2=966 source_y2=2192
+XX. Postera vero die matutinus ad nos ingredie-
+batur Zacchæus, et cum salutasset, ait ad Petrum :
+Differt Simon certaminis diem in undecimam men-
+sis præsentis, quæ est post septem dies. Tunc
+enim magis vacuum sibi disceptandi tempus affir-
+mat. Sed et mihi videtur comperendinatio ejus etiam
+nobis esse necessaria, ut plures conveniant, qui
+disputationis nostræ vel auditores vel judices fiant.
+Verumtamen si probabile tibi videtur, inter moras
+ea, quæ in controversiam venire posse opinamur,
+inter nosmetipsos prius discutiamus, et unusquisque
+nostrum, cum quæ proponenda sint et quæ respon-
+denda, cognoverit, apud semetipsum pertractet, si
+recte se habeant, aut si invenire poterit aliquid ad-
+versarius quod objiciat, aut quo objecta frustretur.
+Si vero ex omni latere, quæ a nobis dicenda sunt,
+claruerit esse munita, ita demum confidenter quæ-
+stionis ineatur exordium. Et quidem ⁶⁹ mea hæc
+est sententia, quod ante omnia requiri oporteat,
+quid sit omnium primum, quidve immediatum,
+quod etiam causam esse omnium quæ sunt, docen-
+dum est; deinde cuncta quæ sunt, si facta sunt,
+
+# block=4 source_x1=211 source_y1=144 source_x2=965 source_y2=444
+qui nesciat quid acceperit, et quantum sibi com-
+missum sit muneris; certus esto, quod scienti et
+intelligenti gratiam contulisti, nec facile possum
+decipi, pro eo quod, quæ diu desiderabam, cito
+videor adeptus. Potest enim fieri ut alius deside-
+rans cito adipiscatur, alius nec tarde ad desiderata
+perveniat.
+
+# block=5 source_x1=207 source_y1=2411 source_x2=963 source_y2=2720
+(16) Secessit, ut cibum caperet cum suis, etc. Pas-
+sim hic. Apud Athanasium Lib. de virginitate,
+p. 1052 : Ἐὰν δὲ εὑρεθῇ κατηχουμένη ἐν τραπέζῃ,
+μὴ συνευχέσθω μετὰ τῶν πιστῶν, οὐδὲ μὴ καθίσεις
+φαγεῖν τὸν ψωμὸν σου μετ' αὐτῆς. Capitularium lib.
+VI, cap. 92 : Non liceat baptizatis cum catechumenis
+manducare, nec osculum eis dare, vel ave illis dicere ;
+quanto magis cum excommunicatis ab episcopo,
+aut cum gentilibus? Episcopos tamen cum Constan·
+
+# block=6 source_x1=993 source_y1=2416 source_x2=1761 source_y2=2691
+tino imperatore nondum baptizato epulatos fuisse
+testis est fide dignus Eusebius, quamvis ei nolit
+credere Nicephorus Callistus. Sed et Christiani
+multi non adeo a paganis refugiebant. Unde Non-
+nam matrem suam laudat Gregorius Nazianzenus,
+quod cibum cum idolorum cultoribus communem
+nunquam habuerit, nec gentilis feminæ manibus
+dextram injecerit, aut labra labris miscuerit.
+
+# block=7 source_x1=1000 source_y1=797 source_x2=1762 source_y2=2200
+XXI. Ad hæc Petrus : Dic, inquit, interim Si-
+moni, faciat ut libet, certus quod, divina Provi-
+dentia largiente, semper nos inveniet paratos. Et
+Zacchæus quidem quæ audierat, egressus est Si-
+moni nuntiare. Petrus vero respiciens ad nos, et
+intelligens contristatum me esse pro dilatione cer-
+taminis, ait : Qui credit summi Dei providentia
+dispensari mundum, non debet, o amice Clemens,
+de singulis quæ quoquo modo accidunt, aspernan-
+ter accipere, certus quod justitia Dei, etiam ea, quæ
+superflua videntur aut contraria, in unoquoque ne-
+gotio opportuno exitu competentique dispensat,
+præcipue tamen erga eos qui eum familiarius co-
+lunt; et ideo ⁷⁰ qui de his, ut dixi, certus est, si
+quid eveniat contra sententiam, novit pro eo mœ-
+rorem de animis expellere, meliori sententia mani-
+festum habens, quod dispensatione boni Dei, etiam
+quod contrarium putatur, vertatur in melius. Pro-
+pter quod, o Clemens, etiamnunc non te contristet
+Magi Simonis ista dilatio. Credo enim quod per Dei
+providentiam gestum sit ad utilitatem tuam, ut
+possim tibi rationem fidei nostræ, in hac septem
+dierum comperendinatione, absque aliquo strepitu
+per ordinem consequenter exponere secundum tra-
+ditionem ⁷¹ veri prophetæ, qui solus scit, quæ facta
+sunt, ut facta sint, et quæ fiunt, ut fiant, quæque
+erunt, ut erunt; quæ tamen manifeste quidem
+dicta, non tamen manifeste scripta sunt, in tantum,
+ut cum leguntur, intelligi sine expositore non pos-
+sint propter peccatum quod coadolevit hominibus,
+sicut superius diximus. Idcirco igitur explanabun-
+tur tibi per me omnia, ut in his quæ scripta sunt,
+
+# block=8 source_x1=208 source_y1=2220 source_x2=1760 source_y2=2296
+⁶⁹ Et quidem — reperietur agnitio non leguntur in utroque codd. Lipss. ⁷⁰ Et ideo—in melius desunt in
+codd. Lipss. ⁷¹ Secundum traditionem—agnoscas desunt in codd. Lipss.
+
+# block=9 source_x1=805 source_y1=89 source_x2=1193 source_y2=126
+RECOGNITIONUM LIB. I.
+
+# block=10 source_x1=215 source_y1=91 source_x2=285 source_y2=132
+1217
+
+# block=11 source_x1=822 source_y1=2339 source_x2=1133 source_y2=2378
+COTELERII NOTÆ.
+
+# block=12 source_x1=1681 source_y1=82 source_x2=1753 source_y2=118
+1218

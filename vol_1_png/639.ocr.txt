@@ -1,0 +1,208 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1002,587,1761,1151
+2,211,585,976,1195
+3,994,1341,1762,1866
+4,1009,151,1762,410
+5,206,1341,963,1860
+6,220,149,972,445
+7,989,2044,1740,2213
+8,994,1930,1745,2044
+9,995,1257,1753,1329
+10,1247,1881,1474,1919
+11,988,2379,1739,2721
+12,448,1215,716,1247
+13,1090,515,1664,548
+14,198,2378,954,2715
+15,656,95,1331,133
+16,254,508,919,584
+17,192,2248,1740,2318
+18,470,470,713,503
+19,198,2041,954,2216
+20,212,1258,960,1326
+21,440,1881,710,1919
+22,1267,462,1493,506
+23,219,90,281,146
+24,1695,98,1755,142
+25,1239,1194,1489,1248
+26,197,1930,955,2040
+27,807,2312,1123,2368
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Nunc enim vobis loco Aaronis est diaconus,
+Moysis autem loco episcopus. Cum igitur Moyses a
+Domino appellatus sit deus; a vobis episcopus
+tanquam deus observetur, et diaconus ut propheta
+ejus¹⁵. Nam sicuti Christus sine Patre nihil agit;
+ita nec diaconus sine episcopo : et sicut Filius sine
+Patre non subsistit; ita neque diaconus sine epi-
+scopo : et sicut Filius debitor est Patri, sic et omnis
+diaconus episcopo; atque ut Filius Patris angelus
+ac propheta est¹⁶; sic et diaconus angelus est ac
+propheta episcopi. Quocirca quæcunque diaconus
+erga quempiam facit, manifesta fiant episcopo, per
+quem et perficiantur.
+
+# block=2
+Νῦν γὰρ ὑμῖν μὲν (6) ὁ Ἀαρών ἐστιν ὁ διάκονος,
+Μωσῆς δὲ ὁ ἐπίσκοπος· εἰ οὖν ἐῤῥέθη Μωϋσῆς ὑπὸ
+Κυρίου θεὸς (7), καὶ ὑμῖν ὁ ἐπίσκοπος εἰς θεὸν τε-
+τιμήσθω, καὶ ὁ διάκονος ὡς προφήτης αὐτοῦ. Ὡς
+γὰρ ὁ Χριστὸς ἄνευ τοῦ Πατρὸς οὐδὲν ποιεῖ, οὕτως
+οὐδὲ ὁ διάκονος ἄνευ τοῦ ἐπισκόπου· καὶ ὥσπερ Υἱὸς
+ἄνευ τοῦ Πατρὸς οὐκ ἔστιν (8), οὕτως οὐδὲ διάκονος
+ἄνευ τοῦ ἐπισκόπου· καὶ ὥσπερ ὑπόχρεως Υἱὸς (9)
+Πατρὶ, οὕτω καὶ πᾶς διάκονος ἐπισκόπῳ· καὶ ὥσ-
+περ ὁ Υἱὸς ἄγγελος ἐστι καὶ προφήτης τοῦ Πατρὸς,
+οὕτως καὶ ὁ διάκονος ἄγγελος καὶ προφήτης ἐστὶ
+τοῦ ἐπισκόπου (10). Διὸ καὶ πάντα τὰ ἐπιτελούμενα
+ὑπ' αὐτοῦ εἴς τινα, ἐμφανῆ τῷ ἐπισκόπῳ γινέσθω,
+καὶ (11) δι' αὐτοῦ τελειούσθω.
+
+# block=3
+Nihil vero prorsus sine episcopo faciat, nec ulli
+quidpiam, absque illius voluntate, largiatur. Si
+enim clam episcopo, dederit alicui quasi egenti;
+in episcopi contumeliam tribuet, quem accusat ne-
+gligentiæ erga calamitosos : qui autem de episcopo,
+sive per sermonem, sive per actionem detrahit,
+Deum offendit, cujus hanc vocem non audit : « Diis
+ne maledicito¹⁷. » Non enim de lapideis aut ligneis
+idolis, quæ quod falso divinum nomen gerant, abo-
+minabilia sunt, legem ferebat; sed de sacerdotibus
+et judicibus, quibus alibi dixit : « Dii estis, et filii
+Altissimi¹⁸. »
+
+# block=4
+ad Pharaonem, propheta dictus est; Moses vero
+deus Pharaonis, ut rex simul et pontifex; quemad-
+modum ait illi Deus : « Posui te deum Pharaoni,
+et Aaron frater tuus erit tuus propheta¹⁴ : » cur non
+vos quoque, internuntios verbi vestri, inter pro-
+phetas reputabitis, atque tanquam deos coletis?
+
+# block=5
+Μηδὲν δὲ ποιείτω τὸ σύνολον ἄνευ τοῦ ἐπισκόπου,
+μηδέ τινι διδότω τι ἄνευ τῆς ἐκείνου γνώμης· ἐὰν
+γὰρ ὡς θλιβομένου τινὸς λάθρα τοῦ ἐπισκόπου διδῷ
+τινι, εἰς λοιδορίαν τοῦ ἐπισκόπου δώσει, καὶ δια-
+βάλλει αὐτὸν ὡς ἀμελοῦντα τῶν θλιβομένων· ὁ δὲ
+ἐπίσκοπον ἢ λόγῳ ἢ ἔργῳ κακολογῶν, θεῷ προσ-
+πταίει, οὐκ ἀκούσας αὐτοῦ εἰπόντος· « Θεοὺς οὐ
+κακολογήσεις. » Οὐ γὰρ περὶ λίθων ἢ ξύλων προσ-
+οχθισμάτων ἐνομοθέτει, βδελυκτῶν ὄντων (12) διὰ
+τὴν ψευδωνυμίαν, ἀλλὰ περὶ τῶν ἱερέων καὶ τῶν
+κριτῶν, οἷς καὶ εἶπεν, ὅτι « Θεοί ἐστε καὶ υἱοὶ
+Ὑψίστου. »
+
+# block=6
+ρὰ Μωσέως τοὺς λόγους, προφήτης εἴρηται, Μωσῆς
+δὲ θεὸς τοῦ Φαραὼ, ὡς βασιλεὺς ὁμοῦ καὶ ἀρχιε-
+ρεύς, ὥς φησιν ὁ θεὸς πρὸς αὐτόν· « Θεὸν τέθεικά
+σε τῷ Φαραὼ, καὶ Ἀαρὼν ὁ ἀδελφός σου ἔσται σου
+προφήτης· » διατί μὴ καὶ ὑμεῖς τοὺς μεσίτας ὑμῶν
+τοῦ λόγου, προφήτας εἶναι νομίσετε, καὶ ὡς θεοὺς
+σεβασθήσεσθε;
+
+# block=7
+Si quem ergo, diacone, tribulationem pati co-
+gnoscis; admone episcopum, et inde eroga : nec
+vero clam in contumeliam illius quidquam opereris,
+ne contra eum murmurationem suscites; non enim
+
+# block=8
+Quod non oporteat diaconum præter voluntatem
+episcopi dare ulli; id enim in calumniam episcopi
+cessurum.
+
+# block=9
+Quod non oporteat diaconum sine episcopo quidpiam
+facere.
+
+# block=10
+CAPUT XXXII.
+
+# block=11
+(10) Διάκονος ἄγγελος καὶ προφήτης ἐστὶ τοῦ
+ἐπισκόπου. Circa primum pseudo-Hieronymus
+epistola De septem ordinibus Ecclesiæ, ait ubi de
+diaconis : Hi sunt, quos in Apocalypsi legimus,
+septem Angeli Ecclesiarum. Circa posterius in Al-
+cuino cap. 39, lib. De divinis officiis : Procedens
+pontifex in persona Christi, ducit secum prophetas,
+id est diaconos. Cot.
+(11) Καὶ, etc. Desunt in altero cod. Cler.
+(12) Ὄντων. Deest in altero cod. Id.
+
+# block=12
+ΚΕΦΑΛΑΙΟΝ ΛΑ'.
+
+# block=13
+Quomodo oportet laicos obedire diaconis.
+
+# block=14
+(6) Ὑμῖν μέν. Desunt in altero cod. Vindob.
+nec necessariæ sunt. Cler.
+(7) Θεός. Addit codex alter : Καὶ ὁ Ἀαρὼν προ-
+φήτης, quæ excidisse videntur. Id.
+(8) Οὐκ ἔστιν. Scholium in margine hoc legitur :
+Ταὐτὸν καὶ τοῦτό ἐστι τῷ φάσκοντι λόγῳ, μεγάλης
+βουλῆς τῆς τοῦ Πατρὸς ἄγγελον, δηλονότι τὸν Υἱὸν,
+εἶναι, καί· Προφήτην ὑμῖν ἀναστήσει Κύριος ὁ Θεὸς,
+ὡς ἐμὲ, αὐτὸν ἀκούσεσθε. Cler.
+(9) Υἱός. Addit codex alter ἐστίν. Id.
+
+# block=15
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=16
+Ὅπως χρὴ τοὺς λαϊκοὺς πειθαρχεῖν τοῖς
+διακόνοις.
+
+# block=17
+¹⁴ Exod. vii, 1. ¹⁵ Ignat. ad Magnes. 7. ¹⁶ Is. ix, 6; Deut. xviii, 15. ¹⁷ Exod. xxii, 28. ¹⁸ Psal.
+lxxxi, 3.
+
+# block=18
+ΚΕΦΑΛΑΙΟΝ Λ'.
+
+# block=19
+Εἰ οὖν γινώσκεις, ὦ διάκονε, θλιβόμενόν τινα,
+ὑπομνήσας τὸν ἐπίσκοπον, οὕτω δίδου· ἀλλὰ μὴ
+λαθραίως εἰς λοιδορίαν αὐτοῦ τι ἐπιτέλει, ἵνα μὴ
+καταγογγυσμὸν ἐγείρῃς κατ' αὐτοῦ· οὐ γὰρ κατ' αὐ-
+
+# block=20
+Ὅτι μὴ χρὴ τὸν διάκονον ἄνευ τοῦ ἐπισκόπου τι
+πράττειν.
+
+# block=21
+ΚΕΦΑΛΑΙΟΝ ΛΒ'.
+
+# block=22
+CAPUT XXX.
+
+# block=23
+677
+
+# block=24
+678
+
+# block=25
+CAPUT XXXI.
+
+# block=26
+Ὅτι μὴ χρὴ τὸν διάκονον παρὰ γνώμην τοῦ
+ἐπισκόπου διδόναι τινὶ, ἐπὶ διαβολῇ γὰρ τοῦ
+ἐπισκόπου τοῦτο πράξει.
+
+# block=27
+VARIORUM NOTÆ.

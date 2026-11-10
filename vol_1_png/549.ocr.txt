@@ -1,0 +1,166 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+2,176,1981,931,2192
+3,170,2512,1713,2692
+4,750,80,1159,117
+5,188,81,238,119
+6,1661,80,1729,122
+7,181,136,931,790
+8,177,794,933,1408
+9,175,1407,927,1981
+10,175,2321,931,2501
+11,177,2201,935,2319
+13,967,134,1719,2491
+
+# layer=format
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=5 fontSize=16px
+# block=6 fontSize=16px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=6
+498
+
+# block=5
+497
+
+# block=13
+luceat omnibus qui in domo sunt 60. Si quis ergo
+his obedierit, Deo, ut dictum est, magnum munus
+offert. Qui autem his restiterit, aut inobediens exsti-
+terit, non his, sed Domino Salvatori nostro, cujus
+legatione funguntur, resistit. 61 Propter quod pri-
+mum est omnium, justitiam Dei, regnumque ejus
+inquirere, et suis jussionibus obtemperare ; justi-
+tiam quidem, ut recte agere doceamur; regnum
+vero, ut, quæ sit merces posita laboris et patientiæ,
+noverimus; in quo est bonis quidem æternorum
+bonorum remuneratio, his autem qui contra volun-
+tatem ejus egerint, pro uniuscujusque gestis pœna-
+rum digna restitutio. 62 Hic ergo, hoc est, in præ-
+senti vita positos, oportet nos agnoscere voluntatem
+Dei, ubi et agendi, et sacrificandi est locus; 63 quo-
+niam in aliis locis sacrificare et missas celebrare
+non licet, nisi in his, in quibus episcopus proprius
+jusserit, aut ab episcopo regulariter ordinato, te-
+nente videlicet civitatem, consecratus fuerit. Aliter
+enim non sunt hæc agenda, nec rite celebranda,
+docente nos Novo et Veteri Testamento. Hæc
+apostoli a Domino acceperunt, et nobis tradi-
+derunt; hæc nos 'docemus, vobisque et omnibus,
+absque reprehensione, tenere et docere, quibus
+agendum est, mandamus. 64 Unaquæque etenim
+res tempus suum habet et locum. Operum hic
+locus est, tempus vero meritorum est sæculum fu-
+turum. Ne ergo impediamur, ordinem locorum ac
+temporum permutantes, primo, quæ sit Dei justitia,
+requiramus, et tanquam iter acturi, abundanti via-
+tico bonis operibus repleamur, quo possumus ad
+regnum Dei, tanquam ad urbem maximam, perve-
+nire. Deus enim his qui recte sentiunt per ipsa
+opera mundi, quæ fecit, manifestus est 65; ipsius
+creaturæ suæ utens testimonio: et ideo cum de Deo
+dubitatio esse non debeat, de sola nunc ejus justi-
+tia requiramus et regno. Idcirco persuadeo primum,
+justitiam ejus esse requirendam, ut per hanc iter
+agentes, et in via veritatis positi, verum prophetam
+invenire possumus, non velocitate pedum, sed bono-
+rum operum velocitate currentes ; ut ipso duce usi,
+nullum viæ hujus patiamur errorem. Si enim'ipsum
+sequentes, ingredi meruerimus illam, quo perve-
+nirè cupimus, civitatem; omnia jam de quibus quæ-
+ritur, oculis videbimus, tanquam hæredes omnium
+facti. Intelligite itaque viam esse hunc vitæ nostræ
+cursum; viatores, eos qui nos instruunt, vel bona
+opera gerunt; portam vero, prophetam de quo dici-
+mus; urbem, regnum esse, in quo residet omnipo-
+tens Pater, quem soli videre possunt hi qui mundo
+sunt corde. Non ergo nobis difficilis videatur hujus
+itineris labor, quia in fine ejus requies erit. Nam et
+ipse verus propheta, ab initio mundi per sæculum
+currens, festinat ad requiem. Adest enim nobis om-
+
+# block=7
+sit ejus adventus, prophetica veritas adimpletur.
+⁴⁹ Hoc enim prophetæ ⁵⁰ prædixerant, quia a vobis
+quærendus esset, qui de eo nunquam audistis. Et
+ideo videntes in vobis ipsis prophetica dicta com-
+pleri, huic uni recte creditis, hunc recte exspecta-
+tis, de hoc recte inquiritis, ut non solum exspecte-
+tis eum, sed et hæreditatem regni ejus credentes
+consequamini, secundum quod ipse dixit, quia
+unusquisque illius sit servus, cui se ipse subjece-
+rit. ⁵¹ Propterea ergo vigilate, et Dominum Deum-
+que nostrum vobis conscribite Dominum, qui et
+cœli ac terræ Dominus est. Et ad ipsius vos ima-
+ginem ac similitudinem reformate, sicut ipse verus
+propheta docet, dicens: Estote boni, et misericordes
+sicut et Pater vester cœlestis misericors est, qui oriri
+
+# block=8
+facit solem suum super bonos et malos, et pluit super
+justos et injustos ⁸². Hunc ergo imitamini, et hunc
+timete ; et sicut mandatum datur hominibus, Do-
+minum Deum tuum timebis, et illi soli servies ⁸³.
+⁸⁴ Infidelibus quidem dormit Dominus, et absens
+habetur his a quibus esse non creditur, et manda-
+tis ejus non obediunt ; atque ob id illis videtur
+quasi dormire Dominus, quia pro peccatis suis non
+exaudiuntur. ⁸⁵ Quapropter cunctis fidelibus, et
+summopere omnibus presbyteris et diaconis et re-
+liquis clericis attendendum est ut nihil absque
+episcopi proprii licentia agant. ⁸⁶ Non utique missas
+sine ejus jussu quisquam presbyterorum in sua
+parochia agat, non baptizet, nec quidquam absque
+
+# block=9
+ejus permissu faciat. Similiter et reliqui populi,
+majores scilicet ac minores ⁵⁷, per ejus licentiam,
+quidquid agendum est, agant : nec sine ejus per-
+missu a parochia abscedant, vel in ea adventantes
+morari præsumant. Animæ vero eorum ei creditæ
+sunt. Ideo omnia ejus consilio agere debent, et eo
+inconsulto nihil. ⁵⁸ Quicunque enim obediunt episco-
+pis suis, videntur quidem aliquid gratiæ conferre
+Deo. Qui autem eis non obediunt, indubitanter rei
+et reprobi existunt. Porro ipsi a Deo donum summi
+muneris consequuntur, qui per justitiæ et præce-
+ptorum ejus semitas incedentes doctoribus suis
+(qui recte episcopi intelliguntur) libenter obediunt.
+
+# block=2
+De quibus et beatus Petrus, instructor et ordinator
+noster, et princeps apostolorum, manifeste cunctos
+audientes instruebat, dicens : ⁵⁹ Videntur mihi, qui
+loquuntur verba veritatis, et qui illuminant animas
+hominum, similes esse radiis solis; qui ut proces-
+
+# block=11
+serint et apparuerint mundo, cessari ultra aut occul-
+tari nullatenus possunt, dum non tam videntur ab
+omnibus, quam videre omnibus præstant. Unde et
+
+# block=10
+bene ipsa per se Veritas ad Veritatis præcones ait:
+Vos estis lux mundi; et: Non potest civitas abscondi
+supra montem posita, neque accendunt lucernam et
+ponunt eam sub modio, sed supra candelabrum, ut
+
+# block=3
+⁴⁹ Est quod. ⁵⁰ Isa. LXV. ⁵¹ Recognit., v, c. 13. ⁵² Luc. VI, 27; Matth. v, 45. ⁵³ Deut. VI, 13.
+⁵⁴ Recognit. VIII. ⁵⁵ 16, quæst. I, Cunctis fidelibus. ⁵⁶ Conc. Tribur. 52. Ivo, p. II, c. 223. ⁵⁷ senio-
+res ac juniores. ⁵⁸ Recognit. II. ⁵⁹ Hæc beati Petri apostoli verba habentur in libro VIII Recognition.,
+c. 4. ⁶⁰ Matth. v, 14. ⁶¹ Recognit. II, c. 20. ⁶² De consecr., distinc. 1, Hic ergo, id est. ⁶³ Felix IV,
+ep. 1. ⁶⁴ Recognit. II, et supra in epist. 1. ⁶⁵ Rom. I.

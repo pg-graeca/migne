@@ -1,0 +1,178 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,255,796,1018,1527
+2,1050,149,1802,574
+3,263,144,1018,615
+4,1039,796,1805,1535
+5,1029,1787,1802,2691
+6,254,1584,1796,1657
+7,250,1774,1010,2688
+8,662,90,1380,130
+9,546,635,727,670
+10,263,688,1013,794
+11,1298,633,1528,671
+12,845,1706,1145,1741
+13,267,89,322,132
+14,1729,92,1805,134
+15,1045,682,1801,796
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Etenim si aliqua vidua sit, quæ sibi ad vitam neces-
+saria suppeditare possit ; sit vero alia mulier non vi-
+dua, quæ vel ob morbum, vel ob multitudinem libero-
+rum, vel ob manuum infirmitatem, in egestatem deci-
+derit ; huic potius manum porrigat. Cum autem ali-
+quis, quia edax est aut crapulæ deditus, aut otiosus,
+inopia victus premitur, is subsidium non meretur,
+imo nec Ecclesia Dei dignus est. De hujusmodi
+enim loquens Scriptura ait : ‹ Piger abscondens
+manum suam in sinum, non poterit eam ad os suum
+referre ³⁴. › Et iterum : ‹ Piger complexus est ma-
+nus suas, et comedit carnes suas ³⁵. Omnis enim
+ebriosus, et scortator, mendicabit ; et omnis so-
+mniculosus laceris ac pannosis induetur ³⁶. › Et in-
+fra : ‹ Si autem in phialas et pocula dederis ocu-
+los tuos ; postea ambulabis nudior pistillo ³⁷. › Vere
+enim pigritia mater est famis
+
+# block=2
+τικὰς χρείας. Γέγραπται γάρ· ‹ Μωμοσκοπεῖσθε τὸν
+μέλλοντα εἰς ἱερωσύνην προχειρίζεσθαι. › Ὑπαρ-
+χέτω οὖν καὶ ἀόργητος· ὅτι λέγει ἡ Σοφία·
+‹ Ὀργὴ καὶ φρονίμους ἀπόλλυσιν. › Ἔστω δὲ εὔ-
+σπλαγχνος, ἀβάναυσος, ἀγαπητικός· ὅτι λέγει Κύριος·
+‹ Ἐν τούτῳ γνώσονται πάντες, ὅτι ἐμοὶ μαθηταί ἐστε,
+ἐὰν ἀγαπᾶτε ἀλλήλους. › Ἔστω καὶ εὐμετάδοτος,
+φιλόχηρος, φιλόξενος, ὑπηρετικός, εὐδιάκονος, εὔ-
+σκυλτος, ἀνεπαίσχυντος, εἰδὼς τὸν μᾶλλον ὄντα ἄξιον
+ὑπολήψεως.
+
+# block=3
+affinis sit. Scriptum namque est : ‹ Diligenter in-
+spicite an sit ulla macula in eo, qui ad sacerdotium
+est eligendus ³¹. › Sit igitur iræ vacuus, quia Sa-
+pientia dicit : ‹ Ira etiam prudentes perdit ³². › Ad
+hæc, non sit sordidus, sed misericors et charitatis
+studiosus, ait enim Dominus : ‹ In hoc cognoscent
+omnes quia discipuli mei estis, si diligatis invi-
+cem ³³. › Sit quoque liberalis, viduis ac hospitibus
+benevolus, promptus ad ministrandum ac servien-
+dum, infatigabilis, pravi pudoris expers; denique
+quis sublevatione dignior sit apprime calleat.
+
+# block=4
+Εἰ γὰρ χήρα τις ὑπάρχουσα ἡ δυναμένη ἐπαρκεῖν
+ἐν τῷ βίῳ τὰ χρηστήρια, ἑτέρα δὲ οὐ χήρα, ἀλλ’ ἐνδεὴς
+ὑπάρχει διὰ νόσον, ἢ τεκνοτροφίαν, ἢ δι’ ἀσθένειαν
+χειρῶν, ἐπὶ ταύτην μᾶλλον ἐκτεινάτω τὴν χεῖρα. Εἰ
+δέ τις (1) ὡς καταφαγὴς, ἢ μέθυσος, ἢ ἀργὸς, ἐν
+τοῖς βιωτικοῖς θλίβεται, οὐκ ἔστιν ἄξιος ἐπικουρίας
+οὔτε μὴν Ἐκκλησίας Θεοῦ. Λέγει γὰρ ἡ Γραφὴ περὶ
+τούτων φάσκουσα, ὅτι ‹ κρύψας ὀκνηρὸς τὴν χεῖρα
+αὐτοῦ ὑπὸ τὸν κόλπον, οὐ δυνήσεται ἀπενεγκεῖν αὐ-
+τὴν εἰς τὸ στόμα αὐτοῦ. › Καὶ πάλιν· ‹ Ὁ ἀργὸς πε-
+ριέλαβεν τὰς χεῖρας αὐτοῦ, καὶ ἔφαγε τὰς σάρκας
+αὐτοῦ. Πᾶς γὰρ μέθυσος, καὶ πορνοκόπος, πτωχεύσει,
+καὶ ἐνδύσεται (2) διεῤῥωγότα καὶ ῥακώδη (3)
+πᾶς ὑπνώδης. › Καὶ ἐν ἄλλοις· ‹ Ἐὰν δὲ εἰς τὰς
+φιάλας καὶ τὰ ποτήρια δῷς τοὺς ὀφθαλμούς σου,
+ὕστερον περιπατήσεις γυμνότερος ὑπέρου (4). › Ὡς
+ἀληθῶς γὰρ μήτηρ ἐστὶν ἡ ἀργία τοῦ λιμοῦ.
+
+# block=5
+Ὕστερον περιπατήσει γυμνότερος ὑπέρου, ὕπερ
+εἶ ἔστι τοὔνομα· οὐ γὰρ εἶπε γυμνὸς ἢ γυμνότατος,
+ὥσπερ ὕπερον, ὅπερ, εἴγε τὸ ὑπερῷον μηνύει, ὤφειλε
+λεχθῆναι, ἀλλὰ γυμνότερον. (in marg. f. γυμνότε-
+ρος.) Quod item in Proverbiis est : ‹ Tandem obam-
+bulabit nudior pistillo. Ὕπερον si est nomen, non
+enim dixit, Nudus aut Nudissimus, tanquam pistil-
+lum, quod dici debebat, si quidem ὑπερῷον signifi-
+cat, sed nudiorem dixit. Ex Schottana vero : Καὶ τὸ
+ἐν ταῖς Παροιμίαις· Ὕστερον περιπατήσεις γυμνό-
+τερος ὑπέρου, ὑπὲρ ὃ εἶ· συγκριτικὸν γάρ ἐστι τοὔ-
+νομα· οὐ γὰρ εἶπεν· γυμνὸς, ἢ, γυμνότατος ὡς ὕπε-
+ρον, ὅπερ, εἴτε τὸ ὕπερον, εἴτε τὸ ὑπερῷον μηνύει,
+ὤφειλε λεχθῆναι· ἀλλά· γυμνότερος ὑπέρου, ὑπὲρ ἃ
+εἶ. Quod item in Proverbiis est : Tandem obambulabis
+nudior pistillo super quo stas. Siquidem compara-
+tivi est gradus nomen : neque enim Nudus, vel Nu-
+dissimus dixit, tunc enim dixisse oportuit : Tanquam
+pistillum; sed dixit Nudior ὑπέρου super quo stas,
+sive id pistillum sive tabulatum significet. Spissas
+utrobique tenebras. Sed sensum videre videor,
+dum post περιπατήσεις γυμνότερος ὑπέρου repeto e
+superioribus verbum ἐστίν. Nisi mea fallit conjectura,
+vult clarissimus scriptor, quanquam minus probabili-
+ter, legi non oportere in Proverbiis, γυμνότερος
+ὑπέρου, aut ὑπερῴου, quia de pistillo aut cœnaculo
+dictum fuisset, γυμνός aut γυμνότατος ὡς ὕπερον
+
+# block=6
+³¹ Lev. xxi, 17. ³² Prov. xv, 1, sec. LXX. ³³ Joan. xiii, 35. ³⁴ Prov. xix, 24. ³⁵ Eccl. iv, 5.
+³⁶ Prov. xxiii, 21. ³⁷ Ibid. 31 in LXX. Pseudo Ignat. ad Tars. 9.
+
+# block=7
+(1) Τίς. Deest in altero cod. Vind. CLER.
+(2) Διεῤῥωγότα. Alter : διεῤῥηγμένα, non ma-
+le. ID.
+(3) Ῥακώδη. Deest in altero. ID.
+(4) Ὕστερον περιπατήσεις γυμνότερος ὑπέ-
+ρου. Proverb. xxiii, 31. Qui fit, inquies, ut ab He-
+bræo Græcum adeo discrepet? Dicam quod sentio.
+Non legerunt LXX במיישרים in rectitudinibus, seu
+directe, aut ut Vulgata blande. Legerunt, במעורים in
+nuditatibus : hocque παραφραστικῶς reddiderunt per
+Adagium γυμνότερος ὑπέρου, id est, nudior pistillo.
+Fallitur quippe auctor Catenæ a Peltano vulgatæ,
+ὕπερον exponendo quoddam sicci graminis fœnive ge-
+nus, quod propter naturalem debilitatem nudum et
+leve admodum exsistit ; videturque ὕπερον cum
+ὑπερικῷ confundere. Rectius Catena inedita :
+Τῆς θείας χάριτος γεγυμνωμένος πλέον ξύλου τινὸς,
+τῇ συνεχεῖ τρίψει τοῦ προστυχόντος τὸν οἰκεῖον ἀπο-
+βαλομένου φλοιόν. Nudatus divina gratia plus quam
+lignum quidpiam, quod continuo ad obvia attritu
+suum amisit corticem. Et alia pariter manu scripta,
+γυμνὸς καὶ βαρὺς ὡς τὸ ὕπερον. Exstat de isto Para-
+bolarum textu difficilis ac forte mancus atque expli-
+candus hic locus Isidori Pelusiotæ libro iv, epistola
+112, quam edidit corrupte Conradus Rittershusius,
+correctius Andreas Schottus. Ecce illum, ex edi-
+tione Rittershusiana : Καὶ τὸ ἐν ταῖς Παροιμίαις :
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9
+CAPUT IV.
+
+# block=10
+Quod non cuilibet viduæ sit largiendum ; sed quan-
+doque sit anteponenda nupta ; et quod voraci, ebrio-
+so, pigro, eleemosyna non sit præbenda.
+
+# block=11
+ΚΕΦΑΛΑΙΟΝ Δ'.
+
+# block=12
+VARIORUM NOTÆ.
+
+# block=13
+599
+
+# block=14
+600
+
+# block=15
+Ὅτι οὐχ ἑκάστῃ χήρᾳ δεῖ μεταδιδόναι, ἀλλ’ ἔσθ’
+ὅτε καὶ τὴν ὕπανδρον προκρίνειν, καὶ ὅτι κα-
+ταφαγῇ, μεθύσῳ, ἀργῷ οὐ μεταδιδόναι χρή.

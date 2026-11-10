@@ -1,0 +1,172 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,946,2188,1711,2398
+2,942,1571,1703,2045
+3,157,2189,910,2396
+4,943,2509,1704,2679
+5,157,2510,910,2680
+6,160,1319,1704,1384
+7,155,1573,916,2043
+8,495,1109,1361,1149
+9,388,897,1482,970
+10,603,660,1253,750
+11,689,1030,1174,1065
+12,1237,2134,1410,2171
+13,778,801,1082,836
+14,671,1485,1169,1543
+15,1630,65,1688,111
+16,404,2135,652,2171
+18,786,1227,1064,1265
+19,710,376,1145,409
+20,276,458,1612,545
+22,740,2425,1072,2475
+23,666,67,1163,110
+24,157,64,214,113
+25,145,219,1708,337
+27,291,2684,575,2740
+28,1473,2682,1537,2734
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=14px centerRows=true
+# block=7 fontSize=15px
+# block=8 fontSize=14px
+# block=9 fontSize=35px
+# block=10 fontSize=45px
+# block=11 fontSize=16px
+# block=12 fontSize=15px
+# block=13 fontSize=16px
+# block=14 fontSize=28px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=18 fontSize=17px
+# block=19 fontSize=15px
+# block=20 fontSize=40px
+# block=22 fontSize=15px
+# block=23 fontSize=16px
+# block=24 fontSize=16px
+# block=25 fontSize=62px
+# block=27 fontSize=15px
+# block=28 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=24
+329
+
+# block=15
+330
+
+# block=23
+EPISTOLA II AD CORINTHIOS.
+
+# block=25
+ΤΟΥ ΑΓΙΟΥ ΚΛΗΜΕΝΤΟΣ
+
+# block=19
+ΤΟΥ ΡΩΜΑΙΩΝ ΕΠΙΣΚΟΠΟΥ
+
+# block=20
+ΕΠΙΣΤΟΛΗ ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β'.
+
+# block=10
+S. CLEMENTIS
+
+# block=13
+EPISCOPI ROMANI
+
+# block=9
+EPISTOLA II AD CORINTHIOS II
+
+# block=11
+INTERPRETE J. B. COTELERIO.
+
+# block=8
+(GALLAND., Veterum Patrum Bibliotheca, I, 38, Venet. 1765 fol.)
+
+# block=18
+ARGUMENTUM.
+
+# block=6
+De præstantia vocationis Christianæ; de mundi contemptu; pœnitentiæ locum non esse post hanc vitam; de bonis
+promissis, præsentium voluptatum abdicatione promerendis.
+
+# block=14
+INDEX CAPITUM.
+
+# block=2
+VI. Sæculum præsens et futurum, duo inimici ; Chri-
+sti mandata spernentibus nulla salutis spes.
+VII. Sic certandum ut coronemus, aut coronæ pro-
+ximi simus.
+VIII. Pœnitentiæ locus non est, nisi in hac vita.
+IX. Resurrectio carnis; caro casta servanda, quia in
+carne judicabimur.
+X. Vitio relicto virtutem prosequamur; bonis pro-
+missis præsens voluptas posthabenda.
+XI. De promissis Dei non ambigendum.
+XII. Regnum Dei quotidie exspectandum.
+
+# block=7
+CAP. I. Christus Deus ; magnifice de Christo sentien-
+dum; quanta ei debeamus; per misericordiam
+Dei salvi facti sumus.
+II. Ecclesiæ prius sterilis mira fecunditas; gentiles
+per Christum salvandos Isaias prænuntiavit.
+III. Christus ergo a nobis agnoscendus, qui nos a
+cultu deorum mortuorum revocavit, notumque no-
+bis fecit veritatis Patrem.
+IV. Quis Christum vere confiteatur.
+V. Mundus contemnendus, et ad alterius vitæ felici-
+tatem nobis contendendum est.
+
+# block=12
+CAPUT I.
+
+# block=16
+ΚΕΦΑΛΑΙΟΝ. Α'.
+
+# block=1
+Fratres, ita sentire nos oportet de Jesu Christo,
+tanquam de Deo, tanquam de Judice vivorum et
+mortuorum; nec decet nos humilia sentire de
+salute nostra : dum enim humiliter sentimus de
+illo, parva etiam accepturos nos speramus : et dum
+
+# block=3
+᾿Αδελφοὶ, οὕτως δεῖ ἡμᾶς φρονεῖν περὶ ᾿Iησοῦ Χρι-
+στοῦ ὡς περὶ Θεοῦ, ὡς περὶ κριτοῦ ζώντων καὶ νεκρῶν ·
+καὶ οὐ δεῖ ἡμᾶς μικρὰ φρονεῖν περὶ τῆς σωτηρίας ἡμῶν ·
+ἐν τῷ γὰρ φρονεῖν ἡμᾶς μικρὰ περὶ αὐτοῦ, μικρὰ καὶ
+ἐλπίζομεν λαβεῖν · καὶ οἱ ἀκούοντες (2) ὥσπερ μικρῶν
+
+# block=22
+VARIORUM NOTÆ.
+
+# block=4
+Quique negligenter audimus, quasi tenuia sint, pec-
+camus. Vel : Quique aures non attendimus, quasi
+tenuibus vel parvi momenti rebus, nempe his, quæ
+de Christo et parta per ipsum salute ante propo-
+suerat. GALL.
+
+# block=5
+(2) Καὶ οἱ ἀκούοντες. Hiulca nonnullis visa hæc
+sententia. Al. sic eam restituunt : Καίτοι ἀκούοντες
+ὡς περὶ μικρῶν. Al. Καὶ ἡμεῖς οἱ ἀκούοντες τούτων,
+ὥσπερ μικρῶν. Birr. ita illam integram reddit:
+Καὶ οἱ παρακούοντες, ὥσπερ μικρῶν, ἀμαρτάνομεν.
+
+# block=28
+11
+
+# block=27
+PATROL. GR. I.

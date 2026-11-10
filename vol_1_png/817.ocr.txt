@@ -1,0 +1,187 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,951,1662,1713,1767
+2,157,1771,917,2030
+3,1193,1623,1450,1655
+4,399,1624,671,1657
+5,950,1774,1705,2029
+6,774,2191,1075,2225
+7,561,84,1280,125
+8,291,2720,636,2767
+10,156,2049,1702,2159
+11,152,141,913,1532
+13,151,89,223,126
+14,156,2251,909,2721
+16,940,2255,1750,2735
+17,164,1666,912,1768
+18,948,140,1721,1530
+19,1623,84,1694,121
+20,147,1530,1715,1614
+21,1463,2732,1531,2774
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=951 source_y1=1662 source_x2=1713 source_y2=1767
+Oratio continens memoriam providentiæ ac enumera-
+tionem variorum beneficiorum, quæ Dei providentia,
+sanctis collata sunt per Christum.
+
+# block=2 source_x1=157 source_y1=1771 source_x2=917 source_y2=2030
+Ὁ τὰς ἐπαγγελίας τὰς διὰ τῶν προφητῶν πλη-
+ρώσας, καὶ ἐλεήσας τὴν Σιών, καὶ οἰκτειρήσας τὴν
+Ἱερουσαλήμ, τῷ τὸν θρόνον Δαβὶδ τοῦ παιδός σου
+ἀνυψῶσαι ἐν μέσῳ αὐτῆς, τῇ γενέσει τοῦ Χριστοῦ,
+τοῦ ἐκ σπέρματος αὐτοῦ τὸ κατὰ σάρκα γεννηθέντος ἐκ
+μόνης παρθένου (2). Αὐτὸς καὶ νῦν, Δέσποτα ὁ Θεός,
+
+# block=3 source_x1=1193 source_y1=1623 source_x2=1450 source_y2=1655
+CAPUT XXXVII.
+
+# block=4 source_x1=399 source_y1=1624 source_x2=671 source_y2=1657
+ΚΕΦΑΛΑΙΟΝ ΛΖ'.
+
+# block=5 source_x1=950 source_y1=1774 source_x2=1705 source_y2=2029
+Qui promissa per prophetas implevisti, et mise-
+ratus es Sionem, et Hierosolymæ misertus es, ex-
+tollendo solium Davidis pueri tui in medio ejus,
+per nativitatem Christi, qui ex genere Davidis se-
+cundum carnem natus est ex sola virgine ³⁴.
+Tu, Domine Deus, nunc quoque suscipe preces
+
+# block=6 source_x1=774 source_y1=2191 source_x2=1075 source_y2=2225
+VARIORUM NOTÆ.
+
+# block=7 source_x1=561 source_y1=84 source_x2=1280 source_y2=125
+CONSTITUTIONES APOSTOLICÆ. — LIB. VII.
+
+# block=8 source_x1=291 source_y1=2720 source_x2=636 source_y2=2767
+PATROL. GR. I.
+
+# block=10 source_x1=156 source_y1=2049 source_x2=1702 source_y2=2159
+²⁶ Deut. VII, 6. ²⁷ Deut. IV, 20. ²⁸ Exod. I, et V; Deut. I, 31. Act. XIII, 18. ²⁹ f. δεκαλόγιον.
+³⁰ l. Ignat. Interpol. ad Magnes. 9. ³¹ Levit. XXIII, 25. ³² l. Ignat. interpol. ibid. ³³ l. Ignat. in-
+terpol. ad Magnes. 11, ad Sm. 1. ³⁴ Luc. I, 32.
+
+# block=11 source_x1=152 source_y1=141 source_x2=913 source_y2=1532
+γάρ, Κύριε, καὶ τοὺς πατέρας ἡμῶν ἐξήγαγες ἐκ γῆς
+Αἰγύπτου, καὶ ἐῤῥύσω ἐκ καμίνου σιδηρᾶς, καὶ ἐκ
+πηλοῦ, καὶ πλινθουργίας · ἐλυτρώσω ἐκ χειρὸς Φαραὼ
+καὶ τῶν ὑπ' αὐτόν, καὶ διὰ θαλάσσης ὡς διὰ ξηρᾶς
+αὐτοὺς παρήγαγες · καὶ ἐτροποφόρησας αὐτοὺς ἐν τῇ
+ἐρήμῳ παντοίοις ἀγαθοῖς · νόμον αὐτοῖς ἐδωρήσω, ἢ
+δέκα λογίων ²⁹, σῇ φωνῇ φθεγχθέντα, καὶ χειρὶ κατα-
+γραφέντα· σαββατίζειν ἐνετείλω, οὐ πρόφασιν ἀργίας
+διδούς, ἀλλ' ἀφορμὴν εὐσεβείας, εἰς γνῶσιν τῆς σῆς
+δυνάμεως, εἰς κώλυσιν κακῶν ὡς ἐν ἱερῷ καθείρξας
+περιβόλῳ, διδασκαλίας χάριν, εἰς ἀγαλλίαμα ἑβδο-
+μάδος · διὰ τοῦτο ἑβδομὰς μία, καὶ ἑβδομάδες ἑπτά,
+καὶ μὴν ἑβδομος · καὶ ἐνιαυτὸς ἑβδομος· καὶ τοῦτου
+ἀντανακύκλησις (100), ἰοβηλαῖος, ὅ ἐστιν ἔτος πεντη-
+κοστόν, εἰς ἄφεσιν· ὅπως μηδεμίαν ἔχωσι πρόφασιν
+οἱ ἄνθρωποι ἄγνοιαν σκήψασθαι, τούτου χάριν πᾶν
+Σάββατον ἐπέτρεψεν ἀργεῖν, ὅπως μηδὲ λόγον τις ἐν
+ὀργῇ ἐκ τοῦ στόματος αὐτοῦ προέσθαι θελήσῃ ἐν τῇ
+ἡμέρᾳ τῶν Σαββάτων. Σάββατον γάρ ἐστι κατάπαυ-
+σις δημιουργίας, τελείωσις κόσμου, νόμων ζήτησις,
+αἶνος εἰς Θεὸν εὐχάριστος ὑπὲρ ὧν ἀνθρώποις ἐδωρή-
+σατο. Ὧν ἁπάντων ἡ Κυριακὴ προύχουσα · αὐτὸν τὸν
+μεσίτην, τὸν προνοητήν, τὸν νομοθέτην, τὸν ἀναστά-
+σεως αἴτιον, τὸν πρωτότοκον πάσης κτίσεως, τὸν
+Θεὸν Λόγον, καὶ ἄνθρωπον, τὸν ἐκ Μαρίας γεννη-
+θέντα μόνον δίχα ἀνδρός, τὸν πολιτευσάμενον ὁσίως,
+τὸν σταυρωθέντα ἐπὶ Ποντίου Πιλάτου, καὶ ἀποθανόν-
+τα, καὶ ἀναστάντα ἐκ νεκρῶν ὑποδεικνύουσα. Ὡς
+Κυριακὴ παρακελεύεται, σοί, Δέσποτα, τὴν ὑπὲρ
+πάντων εὐχαριστίαν προσφέρειν· αὕτη γὰρ ἡ ὑπὸ
+σοῦ (1) παρασχεθεῖσα χάρις, ἥτις διὰ μέγεθος πᾶσαν
+εὐεργεσίαν ἐκάλυψεν.
+
+# block=13 source_x1=151 source_y1=89 source_x2=223 source_y2=126
+1033
+
+# block=14 source_x1=156 source_y1=2251 source_x2=909 source_y2=2721
+Deum, a verbo ראה. Sed longe præstat alia e sacris
+Scripturis petita, a verbo שׂרה et nomine שׂר, se-
+cundum quam Israel Josepho est ἀντιστάς ἀγγέλῳ
+Θεῷ, Reluctans angelo sacro. Adversus angelum di-
+vinum stans. Justino martyri ἄνθρωπος νικῶν δύ-
+ναμιν, homo vincens virtutem. Tertulliano, cum
+Deo invalescens. Hieronymo, princeps cum Deo,
+princeps Dei. Qui Hieronymus aliam quoque profert
+significationem, εὐθύτατος Θεοῦ, rectissimus Dei,
+directus Dei, rectus Dei, ab ישר. Locum Justini
+Dialogi, p. 354, me vindice, ita supplebis : Tὸ Ἰσραὴλ
+ὄνομα τοῦτο σημαίνει, ἄνθρωπος νικῶν δύναμιν. Τὸ
+γὰρ Ἰσρὰ ἄνθρωπος νικῶν ἐστι· τὸ δὲ Ἰλ δύναμις.
+Repeti quippe participium νικῶν plane necessarium
+
+# block=16 source_x1=940 source_y1=2255 source_x2=1750 source_y2=2735
+est. Parum feliciter vir doctus Mericus Casaubo-
+nus primam et postremam notationem conjungere
+tentavit in Optato Milevitano sub finem libri II, sol-
+icitando probam lectionem, Israel, id est qui mente
+Deum videat, ut hanc non nauci induceret, qui recte
+vel erecte Deum videat. Cor. Israel est Hebraice
+ישרה אל ischrah-el contendet cum Deo, ut pluribus
+ostendimus ad Gen. XXXII, 28. CLER.
+(100) Ἀντανακύκλησις. In cod. Vindob. κατα-
+νακύκλησις, hoc est, revolutio septies septenarii
+numeri annorum. Verba sequentia ἰοβηλαῖος, ὅ ἐσ-
+τιν ἔτος, perperam. ID.
+(1) Ὑπὸ σοῦ. Desunt in cod. Vindobon. ID.
+(2) Παρθένου. Tῆς παρθένου cod. Vindob. ID.
+
+# block=17 source_x1=164 source_y1=1666 source_x2=912 source_y2=1768
+Προσευχὴ περιέχουσα μνήμην προνοίας, καὶ ἀπ-
+αρίθμησιν εὐεργεσιῶν διαφόρων τῶν προνοίᾳ
+Θεοῦ διὰ Χριστοῦ παρασχεθεισῶν τοῖς ἁγίοις.
+
+# block=18 source_x1=948 source_y1=140 source_x2=1721 source_y2=1530
+verum Israelem, Deo charum, quique Deum vi-
+det ²⁶, Nam tu, Domine, etiam patres nostros edu-
+xisti de terra Ægypti, et eripuisti ex fornace fer-
+rea ²⁷, atque ex luto, et. laterum confectione : libe-
+rasti de manu Pharaonis et subjectorum ei; ac per
+mare quasi per aridam eos deduxisti; et morem
+gessisti eis in deserto per multiplicia bona ²⁸ : le-
+gem, scilicet Decalogi, tua voce pronuntiatam, ac
+tua manu descriptam donasti ²⁹; Sabbatum servare
+præcepisti, non dans occasionem vacationis, sed
+opportunitatem pietatis, ad cognitionem potentiæ
+tuæ, atque eos tanquam in sacro septo concludens,
+ut male agere prohiberentur, et ut docerentur, ut-
+que de septenario exsultarent : propter hoc una
+hebdomas, et hebdomades septem, et mensis
+septimus, et annus septimus ³¹; et hujus anni se-
+ptimi reciproca seu septima revolutio, jubilæus, hoc
+est, annus quinquagesimus, qui remissionis : ut
+nullam haberent homines occasionem excusandi
+ignorantiam, idcirco in omni Sabbato feriari voluit,
+quo ne verbum quidem irate quisquam ex ore suo
+vel. et emittere in die Sabbatorum. ³² Sabbatum enim
+est requies a creatione, mundi absolutio, legum
+inquisitio; laus Dei grata, pro iis quæ hominibus
+donavit. Supra quæ omnia eminet Dominicus dies;
+utpote qui repræsentet ipsum mediatorem, pro-
+visorem, legislatorem, auctorem resurrectionis,
+primogenitum omnis creaturæ; Deum Verbum, ac
+hominem, ex Maria natum solum sine viro, sancte
+in vita versatum, crucifixum sub Pontio Pilato,
+mortuum et a mortuis excitatum. ³³ Quare Domi-
+nica dies, tibi, Domine, gratiarum actionem pro
+
+# block=19 source_x1=1623 source_y1=84 source_x2=1694 source_y2=121
+1034
+
+# block=20 source_x1=147 source_y1=1530 source_x2=1715 source_y2=1614
+cunctis offerre suadet : hæc quippe est a te exhibita gratia, quæ magnitudine sua omne beneficium
+obtexit.
+
+# block=21 source_x1=1463 source_y1=2732 source_x2=1531 source_y2=2774
+33

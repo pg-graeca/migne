@@ -1,0 +1,290 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1039,277,1800,648
+2,259,2541,1015,2716
+3,257,279,1008,1538
+4,1030,1374,1792,1518
+5,871,217,1171,258
+6,259,1540,625,2536
+7,654,89,1387,132
+8,1029,653,1404,1344
+10,261,94,321,136
+11,1717,94,1789,136
+12,253,150,997,188
+13,1415,656,1799,1378
+14,1027,1536,1405,2722
+15,1419,1534,1791,2716
+16,639,1546,1007,2480
+17,1035,146,1787,188
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Mariam Jacobi Minoris ac Josephi seu Josæ ; sive
+Mariam Cleophæ, Mariam Jacobi Minoris, et Ma-
+riam Josæ. Vide Epiphanium, hæres. 78, cap. 13;
+Hieronymum, cap. 7 libri contra Helvidium, epi-
+stola 150, quæst. 4, et ad Matthæi XII, ac XXVII;
+interpretes in Galat. 1, 19 ; Bedam ad Lucæ XXIV :
+Euthymium ad Matth. XXVII, 56, et Joannem Thes-
+salonicensem Homilia de Christi resurrectione, circa
+finem, tom. I Auctarii novi Græco-Latinæ Patrum
+Bibliothecæ. Symeon Magister et Logotheta in Chro-
+nico Reg. ms. 2363 :
+
+# block=2
+Minus commode, tum qui Mariam Cleophæ cum
+Salome confundunt ; tum qui unam Mariam in duas
+aut tres partiuntur : duas, Mariam Cleophæ mater-
+teram Domini, et Mariam Jacobi ac Josetis ma-
+trem : tres, Mariam Cleophæ, Mariam Jacobi, et
+
+# block=3
+et Joannis (neque enim adhærendum opinioni Nice-
+phori qui lib. 1, cap. 33, Joannam statuit matrem
+filiorum Zebedæi ; dicendumque potius cum Beda,
+Joannam memoratam Luc. XXIV, 10, esse Joannam
+uxorem Chuzæ procuratoris Herodis, de qua ejus-
+dem Evangelii cap. 8, vers. 3), quod fuerit Christi
+soror, consentiunt vulgo : ridicule enim Haymo
+Hist. eccl., lib. II, cap. 5, Salomen virum putat,
+tertium maritum Annæ, patrem tertiæ Mariæ, uxo-
+ris Zebedæi. Maria autem apud Theophylactum ad
+Matth. XIII, 56 ; Joan. XIX, 25, et Galat. 1, 19, est
+Maria Cleophæ, filia Josephi ex uxore dicti Cleo-
+phæ, fratris sui, absque liberis mortui. Eademque
+in sententia versari videbitur Nicephorus lib. 1,
+cap. 33, si verba illius ita legantur : Μαρία θυγα-
+τρὶ μὲν τοῦ μνήστορος Ἰωσήφ, ἐκ τῆς Κλωπᾶ δὲ τοῦ
+ἀδελφοῦ γυναικὸς, ἄπαιδος τεθνηκότος αὐτῷ γεννη-
+θείσῃ, vel sic: Ἐκ Κλωπᾶ δὲ τῆς τοῦ ἀδελφοῦ τῆς γυ-
+ναικός. Vulgo, ἐκ Κλωπᾶ δὲ τῆς τοῦ ἀδελφοῦ γυναικός ;
+quasi Cleopha femina fuerit, uxor fratris Josephi :
+cum a Nicephoro lib. III, cap. 9 et 16, diserte Cleo-
+phas vir agnoscatur, et Josephi frater. Variat tamen
+in narratione Nicephorus. Nam lib. III, cap. 16,
+post Anastasium Antiochenum et Georgium Cedre-
+num, necnon Simeonem Metaphrastem in Chronico
+ms. de Maria Cleophæ loquitur, ut uxore Cleophæ,
+et filia Josephi. Eadem Maria Cleophæ, ἡ τοῦ Κλω-
+πᾶ, soror matris Jesu, Euthymio putatur uxor
+Cleophæ, fratris Josephi ; auctori libri De infantia
+Salvatoris cod. Reg. 1697, secunda filia Joachimi
+et Annæ parentum Deiparæ. Aliis uxor Cleophæ
+seu Alphæi. Aliis Cleophæ filia uxor Alphæi, mater
+Domini fratrum Jacobi Justi seu Minoris, Josephi
+sive Josetis, Simonis et Judæ, necnon sororum.
+Nonnullis filia naturalis Joachimi, legalis Cleophæ.
+Ita præter interpretem Joannis mox citandum ,
+Hippolytus Thebanus in Chronico opere, lib. Reg.
+1296 :
+
+# block=4
+Præterea quæ dicuntur duæ filiæ Josephi, nomina
+habent, Esther, et Thamar vel Martha ; etiam in
+isto fragmento, quod legitur in membranis Regiis
+cod. 1508 et 1789 :
+
+# block=5
+VARIORUM NOTÆ.
+
+# block=6
+Μαρία δὲ ἡ τοῦ Κλω-
+πᾶ, ἡ ἀδελφὴ τῆς Μητρὸς
+τοῦ Κυρίου προσαγο-
+ρευομένη. Εὑρίσκεται ἐν
+τοῖς ἀντιγράφοις τῶν ἐρ-
+μηνευσάντων μακαρίων
+καὶ ὀρθοδόξων ἁγίων Πα-
+τέρων καὶ διδασκάλων οὕ-
+τως· ὅτι ὁ Κλωπᾶς καὶ ὁ
+δίκαιος Ἰωακεὶμ ἀδελφοὶ
+ὑπῆρχον γνήσιοι. Τοῦ
+Κλωπᾶ οὖν γεγαμηκότος,
+καὶ ἀτέκνου τελευτήσαν-
+τος, ὁ Ἰωακεὶμ κατὰ τῶν
+Ἑβραίων ἔθος, συνουσιά-
+σας μετὰ τῆς τοῦ ἀδελφοῦ
+αὐτοῦ γυναικὸς, ἐγέννησε
+τὴν Μαρίαν. Ἔκτοτε οὖν
+καταλιπὼν αὐτὴν, ἐμνη-
+στεύσατο Ἄνναν τὴν θυ-
+γατέρα Ματθὰν τοῦ ἱε-
+ρέως, ἐξ ἧς ἐγέννησε τὴν
+παναγίαν θεοτόκον. Κα-
+λεῖται οὖν ἡ Μαρία τοῦ
+Κλωπᾶ ἀδελφὴ τῆς Μη-
+τρὸς τοῦ Κυρίου, ὡς κατὰ
+φύσιν μὲν ἐξ Ἰωακεὶμ
+γεννηθεῖσα, κατὰ χάριν
+δὲ τοῦ Κλωπᾶ θυγάτηρ
+ἀκούουσα.
+
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=8
+Unguentiferæ mulieres
+septem fuerunt. Maria
+Magdalene, de qua ejecit
+Christus septem dæmo-
+nia. Et Salome obstetrix.
+Et mater filiorum Zebe-
+dæi. Et Maria, mater
+quidem Jacobi Minoris,
+uxor autem Judæ fratris
+Domini. Et mater Josæ :
+ea vero filia erat Salomes
+consobrinæ Deiparæ ; quæ
+cum Josem enutrivisset,
+mater illius dicebatur. Et
+Joanna : ipsa autem erat
+uxor Petri. Et soror Ma-
+tris Domini Maria Cleo-
+phæ, quæ est filia Jose-
+phi, atque uxor fratris
+illius Cleophæ.
+
+# block=10
+771
+
+# block=11
+772
+
+# block=12
+Maria sorores Lazari, Salome, et aliæ quædam.
+
+# block=13
+Μυροφόροι δὲ ἦσαν ἑπ-
+τά· ἡ Μαγδαληνὴ Μαρία,
+ἀφ' ἧς ἐξέβαλεν ὁ Χρι-
+στὸς τὰ ἑπτὰ δαιμόνια.
+Καὶ Σαλώμη ἡ μαῖα· καὶ
+ἡ μήτηρ τῶν υἱῶν Ζεβε-
+δαίου. Καὶ Μαρία, ἡ μή-
+τηρ μὲν Ἰακώβου τοῦ Μι-
+κροῦ, γυνὴ δὲ Ἰούδα τοῦ
+ἀδελφοῦ τοῦ Κυρίου. Καὶ
+ἡ μήτηρ Ἰωσῆ· αὐτὴ δὲ
+θυγάτηρ ἦν Σαλώμης τῆς
+ἐξαδέλφης τῆς Θεοτόκου,
+ἥτις ἀναθρέψασα τὸν Ἰω-
+σῆ, μήτηρ αὐτοῦ ἐλέγετο.
+Καὶ Ἰωάννα· αὐτὴ δὲ ἦν
+ἡ γυνὴ Πέτρου. Καὶ ἡ ἀ-
+δελφὴ τῆς Μητρὸς τοῦ
+Κυρίου Μαρία ἡ τοῦ Κλω-
+πᾶ, ἥ ἐστι θυγάτηρ Ἰω-
+σήφ, καὶ ἡ γυνὴ τοῦ ἀ-
+δελφοῦ αὐτοῦ Κλωπᾶ.
+
+# block=14
+Joannis Chrysostomi , ex
+interpretatione Evan-
+gelii Joannis, quæ di-
+cit :
+‹ Stabant juxta crucem Je-
+su, mater ejus, et so-
+ror matris ejus, Maria
+Cleophæ, et Maria Ma-
+gdalene. ›
+Necesse est hac de re
+inquirere. Iste enim Cleo-
+phas frater erat Joakimi,
+patris Deiparæ Mariæ. Is
+‹ uxorem duxit nomine An-
+nam , et mortuus est abs-
+que liberis. Volens autem
+‹ Joakimus suscitare semen
+fratri suo, accepit Annam
+uxorem fratris sui, et ge-
+nuit ei filiam nomine Ma-
+riam , quam Evangelista
+commemorat Mariam
+Cleophæ. Postea Joakimus
+viduus factus secundam
+uxorem duxit sanctam
+Annam, et procreavit Dei
+Genitricem Mariam : adeo
+ut Maria Cleophæ et Ma-
+ria Deipara sint sorores e
+duabus matribus , ex uno
+autem patre. Habuit porro
+Josephus ex priore sua
+conjuge duas filias, Esthe-
+
+# block=15
+Ἰωάννου τοῦ Χρυσοστό-
+μου, ἐκ τῆς ἑρμηνείας
+τοῦ κατὰ Ἰωάννην Εὐ-
+αγγελίου τῆς λεγούσης·
+Ἐστήκεισαν παρὰ τῷ
+σταυρῷ τοῦ Ἰησοῦ ἡ
+μήτηρ αὐτοῦ, καὶ ἡ
+ἀδελφὴ τῆς μητρὸς
+αὐτοῦ Μαρία ἡ τοῦ
+Κλωπᾶ, καὶ Μαρία ἡ
+Μαγδαληνή.
+Ἀναγκαῖον ζητῆσαι πέ-
+ρι τούτου. Οὗτος γὰρ ὁ
+Κλωπᾶς ἀδελφὸς ἦν Ἰωα-
+κεὶμ τοῦ πατρὸς τῆς Θεο-
+τόκου Μαρίας· ἔγημεν δὲ
+γυναῖκα ὀνόματι Ἄνναν,
+καὶ ἐτελεύτησεν ἄπαις.
+Θέλων δὲ Ἰωακεὶμ ἀνα-
+στῆσαι σπέρμα τῷ ἀδελ-
+φῷ αὐτοῦ, ἔγημεν Ἄνναν
+τὴν γυναῖκα τοῦ ἀδελφοῦ
+αὐτοῦ, καὶ ἔτεκεν αὐτῷ
+θυγατέρα ὀνόματι Μα-
+ρίαν, ἣν ὁ Εὐαγγελιστὴς
+μνημονεύει Μαρίαν τοῦ
+Κλωπᾶ. Εἶτα χηρεύσαν-
+τος τοῦ Ἰωακεὶμ, ἔγημεν
+ἐκ δευτέρου τὴν ἁγίαν [al.
+παρθένον τὴν] Ἄνναν,
+καὶ ἔτεκεν τὴν Θεοτόκον
+Μαρίαν· ὡς εἶναι τήν τε
+Μαρίαν τοῦ Κλωπᾶ καὶ
+Μαρίαν τὴν Θεοτόκον, ἀ-
+δελφὰς ἐκ δύο μητέρων,
+
+# block=16
+Maria autem Cleophæ,
+soror Matris Domini ap-
+pellata. Sic invenitur in
+exemplaribus beatorum ,
+orthodoxorumque sancto-
+rum Patrum et doctorum,
+qui sacras Scripturas in-
+terpretati sunt ; quod Cleo-
+phas, et justus Joakim ger-
+mani fratres fuerint. Cum
+autem Cleophas uxorem
+duxisset , ac sine prole
+mortuus esset, Joakim He-
+bræo more cum uxore
+fratris sui congressus ,
+genuit Mariam. Ex quo
+tempore illa relicta, in
+sponsam accepit Annam
+filiam Matthanis sacer-
+dotis , de qua suscepit
+sanctissimam Deiparam.
+Vocatur itaque Maria
+Cleophæ , soror Matris
+Domini ; utpote secun-
+dum naturam quidem
+prognata Joakimo, secun-
+dum vero legis gratiam
+audiens filia Cleophæ.
+
+# block=17
+ληνὴ καὶ Μαρία ἡ Ἰακώβου, καὶ Μάρθα καὶ

@@ -1,0 +1,240 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,965,1494,1712,1870
+2,172,1489,932,1875
+3,173,638,929,891
+4,169,1148,919,1224
+5,971,1148,1710,1225
+6,968,151,1715,404
+7,169,2041,925,2168
+8,174,150,932,402
+9,961,634,1715,930
+10,168,1338,1700,1407
+11,1196,1441,1471,1475
+13,562,1031,1326,1068
+15,950,2270,1714,2713
+16,407,1439,685,1480
+17,656,1980,1231,2018
+18,208,582,895,621
+19,922,958,962,989
+21,318,2710,558,2748
+23,1199,1095,1473,1131
+25,219,2199,848,2238
+26,972,580,1706,617
+27,406,1093,696,1130
+28,873,1275,998,1313
+29,169,2265,921,2703
+30,1658,101,1729,133
+31,578,90,1280,136
+32,576,506,1294,541
+33,1538,2719,1580,2766
+34,175,88,241,136
+35,895,426,959,470
+36,881,1908,985,1960
+37,953,2040,1699,2172
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=21 fontSize=15px
+# block=23 fontSize=15px
+# block=25 fontSize=15px
+# block=26 fontSize=15px
+# block=27 fontSize=15px
+# block=28 fontSize=15px
+# block=29 fontSize=15px
+# block=30 fontSize=16px
+# block=31 fontSize=16px
+# block=32 fontSize=15px
+# block=33 fontSize=15px
+# block=34 fontSize=16px
+# block=35 fontSize=15px
+# block=36 fontSize=15px
+# block=37 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=34
+457
+457
+
+# block=31
+SUPERIORUM EPISTOLARUM FRAGMENTA.
+
+# block=30
+458
+
+# block=8
+τοὺς ἀδίκους πλουτοῦντας , καὶ στενοχωρουμένους
+τοὺς τοῦ Θεοῦ δούλους. Οὐδεὶς γὰρ τῶν δικαίων ταχὺν
+καρπὸν ἔλαβεν, ἀλλ᾿ ἐκδέχεται αὐτόν. Εἰ γὰρ τὸν μι-
+σθὸν τῶν δικαίων ὁ Θεὸς εὐθέως ἀπεδίδου, ἐμπορίαν
+ἠσκοῦμεν, καὶ οὐκ εὐσέβειαν, οὐ διὰ τὸ εὐσεβὲς, ἀλλὰ
+τὸ κερδαλέον διώκοντες.
+
+# block=6
+videamus, et Dei servos angustiis afflictos. Nemo
+quippe justorum continuo fructum retulit, sed illum
+exspectat. Si enim justorum mercedem Deus statim
+redderet, mercaturæ, non pietati operam daremus:
+justi siquidem esse non religionis, sed quæstus
+gratia videremur.
+
+# block=35
+457
+
+# block=32
+Ex vetusto codice (24) Bibliothecæ PP. soc. Jesu.
+
+# block=26
+Sancti Clementis ex epistola secunda ad Corinthios.
+
+# block=18
+Τοῦ ἁγίου Κλήμεντος ἐκ τῆς πρὸς Κορινθίους β΄.
+
+# block=9
+Qui præsentia sentit, intelligit etiam ea, quæ
+nonnulli jucunda reputant, aliena et procul dissita
+non esse ab iis quæ odio habentur. Quin etiam di-
+vitiæ sæpenumero magis quam paupertas læserunt,
+et sanitas plus morbo afflixit. In summa, gratarum
+atque optatarum rerum affluentia, omnium tristium
+ac fugiendarum causa et materia evadit.
+
+# block=3
+Ὁ τῶν παρόντων αἰσθητικὸς, συνίησιν ὡς οὔτε ἃ
+λογίζονταί τινες εἶναι τερπνὰ, ξένα καὶ μακράν ἐστι
+τῶν ἀπεχθῶν. Ἀλλὰ καὶ πλοῦτος πολλάκις μᾶλλον πε-
+νίας ἔθλιψε, καὶ ὑγεία πλέον ἡνίασε νόσου. Καὶ καθό-
+λου τῶν λυπηρῶν καὶ φευκτῶν πάντων ὑπόθεσις καὶ
+ὕλη, ἡ τῶν ἀσπαστῶν καὶ κατ᾿ εὐχὴν περιβολὴ γίνεται.
+
+# block=19
+VI.
+
+# block=13
+Ex sermone 8 S. Maximi, edit. Combefis., pag. 556.
+
+# block=27
+Κλήμεντος Ῥώμης.
+
+# block=23
+Clementis Romani.
+
+# block=4
+Οὐ δίκαιόν ἐστι, τοῦ δεδωκότος ἐγκαταλειφθέντος,
+τὰ δοθέντα παραμένειν· τοῖς ἀγνώμοσιν.
+
+# block=5
+Haud æquum est , eo qui dedit derelicto, quæ
+data sunt apud ingratos remanere.
+
+# block=28
+VII (25).
+
+# block=10
+Ex ms. collectione Sententiarum ex Patribus aliisque auctoribus decerptarum in cod. 143. Barocc. biblio-
+thecæ Bodleianæ cap. Περὶ συνηθείας καὶ ἔθους, fol. 136.
+
+# block=16
+Κλήμεντος Ῥώμης.
+
+# block=11
+Clementis Romani.
+
+# block=2
+Διαφορὰ τυγχάνει ἀληθείας καὶ συνηθείας · ἡ μὲν
+γὰρ ἀλήθεια γνησίως ζητουμένη εὑρίσκεται, τὸ δὲ
+ἔθος ὁποῖον ἂν παραληφθῇ, εἴτε ἀληθὲς, εἴτε ψευδὲς,
+ἀκρίτως ὑφ᾿ ἑαυτοῦ κρατύνεται· ἐν αἷς γὰρ ἕκαστος
+ἐκ παιδόθεν ἐθίζεται, ταύταις ἐμμαίνειν ⁷⁹ ἥδεται. Ὁ
+γὰρ μισεῖ τις διὰ τὴν ἐπιοῦσαν τῇ ἡλικίᾳ σύνεσιν,
+τοῦτο διὰ τὴν πολυχρόνιον τῶν κακιῶν συνήθειαν
+πράττειν ἀναγκάζεται, δεινὴν σύνοικον τὴν ἁμαρ-
+τίαν παρειληφώς.
+
+# block=1
+Est differentia inter veritatem et consuetudinem ;
+veritas enim sincere quæsita invenitur, consuetudo
+autem qualiscunque etiam assumatur, sive recta
+sive vana , indiscriminatim a semetipsa firmatur.
+Quibus enim quisque a puero assuescit , illis in-
+hærere amat. Quod enim quis odit pro ea pruden-
+tia quam ætas invexit , id ob diuturnam malorum
+consuetudinem facere cogitur, peccatum nactus
+gravem contubernalem.
+
+# block=36
+V.
+
+# block=17
+Ex Basilio lib. de Spiritu sancto, c. 29.
+
+# block=37
+VIII.
+Sed et antiquior Clemens : Vivit , inquit (26),
+Deus, et Dominus Jesus Christus, et Spiritus
+sanctus.
+
+# block=7
+Ἀλλὰ καὶ Κλήμης ἀρχαιότερος· Ζῇ, φησὶν, ὁ
+Θεὸς , καὶ Κύριος Ἰησοῦς Χριστὸς, καὶ τὸ Πνεῦμα
+ἅγιον.
+
+# block=25
+⁷⁹ Leg. ἐμμένειν. Max., Ser. 62, pag. 673.
+
+# block=29
+(24) In quo scil. continentur Eclogæ sacræ S. Joan-
+nis Damasceni. Excerptum fuerat hoc fragmentum
+Cotelerii opera ex cap. Περὶ τῶν προσκαίρων καὶ
+τῶν αἰωνίων ἀγαθῶν, καὶ ὅτι χρὴ τῶν παρόντων τὰ
+μέλλοντα προτιμᾷν · quod respondet capiti 20 libri
+III Parallelonum apud Damascenum olim editorum,
+ubi tamen desiderabatur, quoad illud in novissima
+Damasceni editione tom. II, pag. 787, eruditissi-
+mus vir Michael Lequien nobis exhibuit.
+(25) Fragmentum hoc debemus Joanni Ernesto
+Grabio , qui illud tomo I Spicilegii Patrum , pag.
+289 , in lucem emisit. Postrema illius pars , a ver-
+bis ὃ γὰρ μισεῖ τις ad finem usque , a Maximo edit.
+
+# block=15
+Combefisii, sermoni 62, inserta jam habebatur.
+(26) Nemo non videt Dei nomine Personam Pa-
+tris intelligi. Id enim antiquis moris esse nullus
+ignorat, nisi qui in ipsorum scriptis peregrinus
+est, ut cum Deum simpliciter sine adjuncto in
+Scripturis legunt vel ipsi enuntiant, Patrem hoc
+nomine expressum interpretentur atque ipsi expri-
+mant. Ex hoc autem fragmento nonnulli, specialem
+de Spiritu sancto sermonem a Clemente habitum
+esse volunt, idque subsequenti confirmant; sed
+rem non evincunt ; cum etiam in epistolis de Spi-
+ritu sancto hæc disserere licuerit , ac certum sit
+mutilas esse epistolas superiores.
+
+# block=21
+PATROL. GR. I
+
+# block=33
+15*

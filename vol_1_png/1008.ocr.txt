@@ -1,0 +1,206 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,204,404,956,1093
+2,987,880,1758,1436
+3,982,2125,1751,2697
+4,201,1135,963,1432
+5,990,151,1760,876
+6,206,152,962,406
+7,196,1992,949,2694
+8,990,1616,1750,2059
+9,240,1476,1132,1516
+10,366,1811,742,1851
+11,202,1620,952,1795
+12,1023,2071,1697,2116
+14,599,95,1319,137
+15,202,1861,960,2000
+16,825,1548,1130,1587
+20,190,94,292,140
+21,1664,90,1760,134
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=21
+1416
+
+# block=20
+1415
+
+# block=14
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=5
+cuisset ille qui apparuit, nuntiaret. Sed ne multa
+enumerare videamur, dicam quo debeant cuncta
+concludi : Cum Deus justus sit et ipse fecerit ho-
+minum naturam, quomodo poterat fieri, ut ipse
+poneret genesim contrariam nobis, quæ nos coge-
+ret ad peccatum et rursus ulcisceretur ipse pec-
+cantes ? Unde certum est, quod non aliam ob cau-
+sam Deus sive in præsenti sive in futuro sæculo
+peccatorem punit, nisi quia scit eum potuisse vin-
+cere, sed neglexisse victoriam; infert enim et in
+præsenti sæculo vindictam in homines, sicut in eos
+fecit qui diluvio perierunt, qui utique omnes una
+die, imo una hora extincti sunt, cum certum sit
+nen eos esse secundum genesis ordinem una hora
+natos. Absurdissimum est autem dicere, quia ex
+natura nobis accidat pati mala, si non prius pec-
+cata præcesserint.
+
+# block=6
+nunquam apud eos infans natus exponitur, et quod
+septimo quoque die omnes ubicunque fuerint,
+otium gerunt, nec iter incedunt, nec igni utuntur (2) ?
+Quid est ergo, quod nullum Judæorum in illa die
+cogit genesis aut iter agere (3), aut ædificare, aut
+vendere aliquid, aut emere ?
+
+# block=1
+XXIX. Quinim o et majorem fidem rerum præ-
+sentium dabo. Ecce enim ex adventu justi et veri
+Prophetæ vixdum septem anni sunt, in quibus ex
+omnibus gentibus convenientes homines ad Judæam,
+et signis ac virtutibus quæ viderant, sed et doctri-
+næ majestate permoti, ubi receperunt fidem ejus,
+abeuntes ad regiones suas illicitos quosque genti-
+lium ritus et incesta sprevere conjugia. Denique
+apud Parthos, sicut nobis Thomas, qui apud illos
+Evangelium prædicat, scripsit (4), non multi jam
+erga plurima matrimonia diffunduntur, nec multi
+apud Medos canibus objiciunt mortuos suos, neque
+Persæ matrum conjugiis aut filiarum incestis ma-
+trimoniis delectantur, nec mulieres Susides licita
+ducunt adulteria; nec potuit ad crimina genesis
+compellere, quos religionis doctrina prohibebat.
+
+# block=2
+XXXI. Et ideo si salutis curam gerimus, ante
+omnia scientiæ debemus operam dare, certi quod
+si mens nostra in ignorantia perseveret, non solum
+genesis mala, sed et alia extrinsecus quæcunque
+dæmonibus visa fuerint perferemus, nisi metus
+legum et futuri judicii obsistat omnibus desideriis,
+et impetum peccandi refrenet. Nam et humanus
+timor multa bona, multa etiam mala agit, quæ ge-
+nesis nescit, sicut supra ostendimus. Triplici igi-
+tur modo mens nostra erroribus subjacet : ex his
+quæ per malam consuetudinem veniunt, vel ex his
+quæ corpus naturaliter suggerit desideriis, vel ex
+his quæ contrariæ potestates perurgent; sed his
+
+# block=4
+XXX. ⁷³ Ecce ex hoc ipso conjice, et de his in
+quibus sumus locis, conjecturam cape, quomodo
+fama tantum perferente ad aures hominum, quod
+Propheta in Judæa apparuit, qui signis et virtutibus
+doceret homines unum colere Deum, omnes para-
+tis intentisque animis exspectabant, etiam ante ad-
+ventum domini mei Petri, ut sibi aliquis quæ do-
+
+# block=9
+⁷³ Ecce... enumerare videamur desunt in utroque codd. Lipss.
+
+# block=16
+COTELERII NOTÆ.
+
+# block=8
+discimus ex canone 28 concilii Aurelianensis III et
+Vernensi XIV.
+(4) Denique apud Parthos; sicut nobis Thomas
+qui apud illos Evangelium prædicat, scripsit. Anti-
+qua traditio est apud Eusebium Hist. eccl. lib. III,
+cap. 1, et opinio communis, Thomæ Parthiam, in
+qua Christi fidem annuntiaret, sortito obtigisse.
+Addunt alii ab eodem apostolo Evangelium prædi-
+catum etiam Indis, Medis, Persis, Hyrcanis, Bactris,
+Magis, Germanis seu potius Carmanis et Æthiopi-
+bus, necnon incolis extremæ Orientis oræ ac ultimi
+Oceani insulæque Taprobanes. Sed notari præcipue
+debet versus S. Paulini, Natali XI :
+
+# block=11
+⁷¹
+(2) Nec igni utuntur. Propter legem Dei Ex. XXXV,
+3 : Non succendetis ignem in omnibus habitaculis ve-
+stris per diem Sabbati. Quo factum suspicari quis
+possit, ut Rutilius Itinerarii lib. I, v. 389, Sabbata
+Judæorum frigida appellaverit :
+
+# block=10
+Cui Sabbata frigida cordi.
+
+# block=15
+Atque hinc etiam forte originem sumpsit celebris
+paganorum opinio de Sabbatico jejunio Judæorum.
+Facile enim sibi persuadebant eos jejunare, apud
+quos focum igne lucentem cernere non erat.
+
+# block=7
+⁷²
+(3) Iter agere. Arbitror scriptum fuisse in Græco
+ex Bardesane καταλῦσαι, quod perperam apud Eu-
+sebium per verbum demoliri interpretantur. Rem
+verbo significatam illustrarunt multi, præsertimque
+sacræ Scripturæ interpretes ad Act. I, 12. Sed ne-
+scio an a quoquam expensa fuerint ista Suidæ : Σαϐ-
+ϐάτου ἔχων ὁδόν· Δισχιλίων πήχεων ἦν. Τοσοῦτον γὰρ
+ἡ κιϐωτὸς διάστημα προελάμϐανε τὴν παρεμϐολήν.
+Καὶ ἀπὸ τοσούτου διαστήματος ἐκίνουν οἷς ἐξῆν προσ-
+κυνεῖν τὴν σκηνὴν ἐν Σαϐϐάτῳ βαδίζειν. Quæ vi-
+dentur ex Theophylacto et Œcumenio hoc pacto
+concinnanda : Σαϐϐάτῳ ἔχων (sic ms. Reg. 150)
+ὁδόν· δισχιλίων πήχεων ἦν. Τασοῦτον γὰρ ἡ κιϐωτὸς
+προελάμϐανε τὴν παρεμϐολὴν καὶ ἀπὸ τοσούτου δια-
+στήματος ἐσκήνουν· ὃ ἐξῆν, προσκυνεῖν τὴν σκηνήν, ἐν
+Σαϐϐάτῳ βαδίζειν. Hoc est : Sabbati viam habens . via
+erat bis mille cubitorum. Tanto enim intervallo arca
+castra præcedebat ; et a tanto spatio tentoria figebant :
+quod licebat, ad adorandum tabernaculum, in Sab-
+bato obire. Consuetudines autem huic et superiori
+consimiles irrepsisse aliquando inter Christianos,
+
+# block=12
+Parthia Matthæum complectitur, India Thomam,
+
+# block=3
+quia Thomæ Indiam peculiariter assignant quoque
+Gregorius Nazianzenus oratione 25, Hieronymus
+epistola 148, Metaphrastes et Abdias; Matthæum
+vero Parthos etiam prædicatione sua illustrasse
+memoriæ traditum est. Observatu quoque dignus
+est locus Hippolyti, libello De duodecim apostolis,
+prout jacet in ms. Regio 1789 : Θωμᾶς δὲ Πάρθοις,
+Μήδοις, Πέρσαις, Ὑρκανοῖς, Βάκτροις, Μάργοις (l.
+Μάγοις etiam ex cod.Reg. 1026) κηρύξας, ἐλαχι-
+δάσθη (in marg. eadem manu ἐλογχιάσθη) τοῖς τέ-
+τρασι (pro τέτταρσι) μέρεσιν αὐτοῦ, ἐν πόλει Καλα-
+μήνῃ τῆς Ἰνδικῆς, καὶ θάπτεται ἐκεῖ. Inde enim ap-
+paret cur in alio codice et in editione Combefisiana
+exhibeatur, ἐλαχήθη ἐλογχιάσθη. Scilicet, ἐλαχήθη
+corruptum ex ἐλαχίδι in textum irrepsit, quod ad
+marginem designabat variam lectionem ἐλαχιδιάσθη.
+Significat autem ἐλαχιδιᾶσθη, laceratus est.

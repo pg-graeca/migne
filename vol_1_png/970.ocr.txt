@@ -1,0 +1,189 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,196,127,959,1258
+2,206,1258,952,1893
+3,993,2027,1755,2667
+4,985,846,1746,1946
+5,987,123,1756,851
+6,218,2168,962,2370
+7,220,2036,963,2170
+8,221,2366,966,2700
+9,1664,73,1739,108
+10,616,73,1344,108
+12,236,1899,951,1933
+13,211,77,284,110
+20,816,1960,1140,2010
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9
+1340
+
+# block=13
+1339
+
+# block=5
+diebamus. Et Petrus : Ridetis, inquit, vos aliorum
+dedecora, quia longa consuetudine propria non vi-
+detis. Nam Ægyptiorum quidem stultitiam merito
+ridetis, qui muta animalia, ipsi cum sint rationabi-
+les, colunt. Audite tamen quomodo et illi vos irri-
+deant, aiunt enim : Nos viventia colimus animalia,
+licet moritura, vos vero quæ nunquam omnino
+vixere, hæc colitis et adoratis. Addunt præterea
+etiam illud, figuras esse et allegorias virtutum qua-
+rundam, quibus adjutricibus regatur hominum ge-
+nus ; sed pudoris perfugio hæc et nonnulla his si-
+milia connectentes, errorem suum velare nituntur.
+Sed non est nunc tempus Ægyptiis respondere, et
+derelicta cura præsentium, absentium medicari
+languores. Certum namque indicium est vos ab
+hujusmodi ægritudine haberi alienos, qui eam non
+doluistis ut propriam, sed risistis ut alienam.
+
+# block=1
+sunt. Sicut enim unus est Cæsar, et habet sub se
+multos judices, verbi gratia præfectos, consules,
+tribunos et cæteras potestates, simili arbitramur
+modo, cum unus sit major omnium Deus, etiam
+istos ad similitudinem earum quas diximus, pote-
+statum ordinatos esse in hoc mundo, deos, illi
+quidem majori subjectos, nos tamen et quæ in hoc
+mundo sunt dispensantes. Audite ergo ad hæc,
+quomodo in his ipsis quæ ad deceptionem propo-
+nitis, veritatis rationibus confutemini. Dicitis quia
+locum Cæsaris teneat Deus, judicum vero ejus et
+potestatum speciem servent hi qui dicuntur dii ;
+servate ergo, ut proposuistis, exemplum Cæsaris, et
+scitote quia sicut nulli ex judicibus vel admini-
+stratoribus Cæsaris, id est præfectis, vel procon-
+sulibus, vel ducibus, vel tribunis, fas est Cæsaris
+nomen imponi ; alioquin et ille qui susceperit et
+illi qui detulerint, pariter interibunt : ita et de hoc
+debetis advertere, quod si quis nomen Dei alicui
+quam præter ipsum imposuerit, et ille receperit,
+unum eumdemque sortientur interitum, multo de-
+teriore sorte quam ministri Cæsaris. Hic enim qui
+deliquit in Cæsarem, interitum suscipiet temporalem;
+qui vero in unum qui solus et verus est Deus delinquit,
+in sæculum luet pœnas, et merito, ut qui nomen
+quod est unicum injuriosa conditione violaverit.
+
+# block=4
+XXII. Sed redeamus ad vos, quibus placet haberi
+Deum ut Cæsarem, deos autem ut ministros et pro-
+curatores Cæsaris ; sequimini me attentius, et
+modo vobis ostendam latebras serpentis, in argu-
+menti hujus curvis anfractibus collocatas. Certum
+apud omnes esse debet,et indubitatum, Deo, quia a
+nullo factus est sed ipse fecit universa, nihil ex
+facturis suis posse coæquari ; neque enim ita quis
+irrationalis inveniri potest, qui putet quod conferri
+possit facturæ factori. Si ergo humana mens non
+solum ratione sed et naturali quodam motu, recte
+hanc opinionem tenet, illud dici Deum, cui conferri
+aut exæquari nihil potest, sed quod cunctis emineat
+et cuncta præcellat : quomodo nomen illud quod
+super omnia esse creditur, recte his creditur dari,
+quos ad ministerium et procurationem humanæ
+vitæ putatis esse dispositos ? Sed et illud addemus :
+mundus hic sine dubio factus est et est corruptibi-
+lis, sicut etiam postmodum latius ostendemus ; in-
+terim et factum eum et corruptibilem constat. Si
+ergo mundus Deus dici non potest, et recte non
+potest quia corruptibilis est, quomodo partes mundi
+Dei nomen accipient ? quod enim totus non potest
+esse mundus, multo magis non erit pars ejus. Igi-
+tur si redeamus ad exemplum Cæsaris, videte quam
+
+# block=2
+XX. Quamvis hoc ipsum, Deus, non nomen sit
+Dei (20), sed hominibus interim vocabulum istud
+quasi pro nomine ejus concessum est; quod tamen,
+ut dixi, cum contumeliose tractatur, ad veri ejus
+nominis refertur injuriam. Denique veteres Ægy-
+ptiorum (21), qui de cœlesti cursu et astrorum na-
+tura rationem sibi visi sunt reperisse, obsidente
+sensus eorum dæmone, omnibus nihilominus con-
+temptis nomen incommunicabile subjecerunt. Nam
+alii eorum bovem, qui Apis dicitur, colendum tra-
+didere, alii hircum, alii cattas (22), nonnulli ibim,
+quidam serpentem, piscem quoque, et cæpas, et
+cloacas, crepitus ventris (23), pro numinibus ha-
+bendos esse docuerunt, et alia innumerabilia quæ
+pudet etiam nominare.
+
+# block=12
+XXI. Hæc dicente Petro, riserunt omnes qui au-
+
+# block=20
+COTELERII NOTÆ.
+
+# block=3
+tarchum, libro De Iside et Osiride, convenientias.
+physicas felem inter et lunam.
+(23) Cæpas et cloacas, crepitus ventris. De, cæpe,
+superstitio est longe notissima : quæ (ut discimus
+ex Hieronymo, l1 adversus Jovinianum, 6, et ad Isaiæ
+caput xlv1 ; Luciano in Jove tragœdo, ac Sexto Ein-
+pirico Pyrrhonianarum Hypotyposeon lib. 111, c. 24)
+proprie ad Pelusiotas pertinebat. De cloacis vero
+(ὀχετούς appellat scriptor Clementinorum) nihil nunc
+succurrit, quod ad Ægyptios spectet. Nam Cloacina
+dea, et Deus Stercutus, aut Sterculus, Stercutius,
+Sterculius, sive Sterces, Romanorum sunt numina.
+Denique circa ultimum notarant critici loca Festi
+in Prohibere comitia; Theophili Antiocheni lib. 1
+ad Autolycum; Minucii Felicis in Octavio ; Origenis
+tom. v contra Celsum; Lactantii, v, 20; Hieronymi
+ad Isaiæ cap. xlvi ; et Cæsarii dialogi 1, respons.
+ad interrog. 19. Quibus addentur nunc Clementina,
+lib. x, cap. 16.
+
+# block=7
+(20) Quamvis hoc ipsum, Deus, non nomen sit Dei.
+Deum Deique naturam nomine carere doctrina est
+Patrum, et opinio philosophorum. Testimonia
+omittimus, ubique obvia.
+
+# block=6
+(21) Veteres Ægyptiorum, etc. Sideralis scientiæ
+inventionem Ægyptiis multi, alii aliis assignant :
+uti fere variatur in rerum repertoribus : quorum
+enumerationes exhibent codices Regii 919, 1769,
+2216 duas. — Eas habes in Append. Monum.,
+n. 4, infra.
+
+# block=8
+(22) Alii cattas. Fuit cultus felis, generalis
+Ægyptiorum omnium religio, teste Strabone lib. xvir.
+Fuit et peculiaris quorumdam : ut Bubastitarum.
+Βούβαστος enim ex Stephano, vox Ægyptiaca αἴλου-
+ρον significat : et in urbe Bubasto sive Bubasti,
+sepeliebantur feles, inquit Herodotus in Euterpe :
+nec non erat Dianæ templum, quæ et Bubastis no-
+men accepit, estque luna. Fabulantur autem Dia-
+nam in Gigantomachia se in cattum transformasse,
+discere est ab Hygino. Leges etiam apud Plu-

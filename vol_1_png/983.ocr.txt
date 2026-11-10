@@ -1,0 +1,178 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,227,1156,972,2059
+2,221,414,978,1146
+3,217,2173,965,2677
+4,216,155,985,405
+5,1008,315,1759,1761
+6,1009,1764,1771,2055
+7,1012,153,1779,317
+8,1002,2534,1748,2671
+9,826,2098,1130,2131
+10,1002,2336,1752,2535
+11,808,97,1227,134
+12,1001,2170,1750,2338
+13,236,2674,957,2717
+17,242,99,310,133
+18,1686,98,1780,146
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=227 source_y1=1156 source_x2=972 source_y2=2059
+XXVI. Hæc cum ego dixissem, cuncta eis Petrus
+per ordinem cœpit exponere et ait : Cum venisse-
+mus Aradum et ego vos præcedere jussissem, pro-
+fectis vobis, eadem die Clemens cum incidisset
+sermonis occasio, genus suum mihi exposuit ac
+familiam, et quod parentibus esset orbatus duosque
+habuisset priores se geminos fratres; et sicut mihi,
+inquit, pater enarravit, somnium vidit aliquando
+mater, quo jussa est cum geminis suis ex urbe
+Roma proficisci, ne subito et pariter interirent.
+Cumque somnium patri indicasset, ille qui tenero
+filios diligeret affectu, ne quid forte mali pateren-
+tur, uxorem pariter ac filios navi cum omnibus ne-
+cessariis impositos, emittit Athenas erudiendos.
+Post hæc misit semel et iterum qui requirerent, et
+nusquam illius ne vestigium quidem reperit. Ipse
+ad ultimum pater ad inquirendum profisciscitur, et
+usque ad præsens nec ipse quidem usquam est.
+Hæc cum mihi Clemens enarrasset, accessit ad nos
+quidam rogans, ut ad insulam Aradum quæ vicina
+erat accederemus, videndi gratia columnas vitreas
+
+# block=2 source_x1=221 source_y1=414 source_x2=978 source_y2=1146
+XXV. Cumque venissemus ad hospitium, mater
+requirere cœpit a me, quonam devenisset pater.
+Cui ego : Ad te, inquam, requirendam profectus
+ultra non rediit. At illa audiens suspiravit tantum,
+grande enim pro me gaudium habens reliquos so-
+labatur mœrores. Die autem postera sedens una
+cum uxore Petri (43) iter agebat nobiscum, et venimus
+Balaneas (44), ubi triduo remorati, inde accessimus
+Patho (45) et post hoc Gabala (46), et sic Laodiciam
+pervenimus, ubi ante portas occurrunt nobis Niceta
+et Aquila et osculantes nos abducunt in hospitium.
+Petrus autem videns amplam civitatem et splendı-
+dam, Dignum est, inquit, remorari nos in hac die-
+bus decem aut etiam amplius. Tum Niceta cum
+Aquila requirebant a me, quæ esset mulier hæc
+ignota. Et ego respondi : Mater mea est quam mihi
+redonavit Deus per dominum meum Petrum.
+
+# block=3 source_x1=217 source_y1=2173 source_x2=965 source_y2=2677
+(43) Cum uxore Petri. Testatur Hieronymus con-
+tra Jovinianum scribens, legi in Periodis et uxo-
+rem Petri et filiam. Ea igitur Circuituum pars, in
+qua de Petri filia (Petronillam vocant) sermo erat,
+nunc desideratur. Uxorem autem memorant præter-
+ea Clemens Alexandrinus, Strom. VII, pag. 736, ubi
+martyrium illius refert verbis quæ citantur ab Eu-
+sebio, Histor. III, 30; Origenes, ad Matth. XIX, 27;
+Epiphanius, hæresi 30, num. 22; Hieronymus, epist.
+54, atque Hincmarus, Epistola ad Rodulfum et Fro-
+tarium, sect. 8. Appellatur in Martyrologiis Perpe-
+tua in Chronico Simeonis Metaphrastæ, loco ad
+Constitut. III, 6, allato, Joanna ; quod etiam nomen
+matri Petri tribuit Indiculus positus ad Constit. II,
+63.
+
+# block=4 source_x1=216 source_y1=155 source_x2=985 source_y2=405
+benter se facturum quod imperabamus spopondit.
+Sed et aliis quibusdam aliquantulum pecuniæ dis-
+tribui, et illis mulieribus quæ aliquando solatæ
+dicebantur in miseriis matrem meam, quibus et
+gratias retuli. Et post hæc una cum matre enaviga-
+vimus Antarandum.
+
+# block=5 source_x1=1008 source_y1=315 source_x2=1759 source_y2=1761
+XXVII. Sed dum illos foris opperior, mulierem
+hanc considerare cœpi qua parte membrorum esset
+debilis, ut non labore manuum victum quæreret,
+sed mendicitatis pudorem subiret; requiro ergo ab
+ea causas. Illa nobili se ortam genere, et nobili
+nihilominus viro in matrimonio fuisse junctam fa-
+tetur, cujus frater, inquit, in me illicito amore in-
+flammatus fraternum torum polluere cupiebat. Quod
+ego abhorrens, et rursum de tanto scelere viro in-
+dicare non audens, ne bellum fratribus et oppro-
+brium generi indicerem, magis ex patria discedere
+judicavi cum duobus geminis filiis meis, juniore
+puero ad solatium patri relicto. Et ut hæc, inquit,
+honesta specie fierent, cogitavi somnium fingere et
+dicere viro, astitisse mihi numen quoddam per vi-
+sum et dixisse, ut cum duobus geminis meis con-
+festim ex Urbe proficiscerer, usquequo ab ipso au-
+direm, quando redire deberem. Quibus auditis,
+credidisse aiebat virum, et Athenas se geminis cum
+liberis emississe inibi erudiendis, sed tempestate
+gravi ad hanc insulam fuisse depulsos, ubi, con-
+fracta navi, se fluctu excussam supra saxum quod-
+dam, ob hoc solum mortem distulisse, donec, in-
+quit, infelicium natorum meorum saltem emortua
+membra complecterer, ac sepulturæ mandarem. Sed
+cum dies fuisset exortus et turbæ convenissent,
+miseratione moti projecerunt mihi indumentum. At
+ego infelix fletibus multis rogabam ut requirerent,
+sicubi infelicium natorum possint invenire cor-
+puscula. Ego autem omne corpus meum dentibus
+lanians, planctibus et ululatibus nihil aliud clama-
+bam nisi, Ubi mihi infelici Faustus est, ubi Fau-
+stinus?
+
+# block=6 source_x1=1009 source_y1=1764 source_x2=1771 source_y2=2055
+XXVIII. Et cum hæc diceret Petrus, Niceta et
+Aquila subito assurgunt et stupefacti perturbari
+cœperunt dicentes : Dominator Domine et Deus
+omnium, verane hæc sunt, an somnium est quod
+agitur? Tum Petrus : Nisi, inquit, nos insani su-
+mus, hæc vera sunt. At illi paululum remorati et
+confricantes faciem, aiunt : Nos sumus Faustinus
+
+# block=7 source_x1=1012 source_y1=153 source_x2=1779 source_y2=317
+miræ magnitudinis; acquievi, ventum est ad lo-
+cum, cæteri omnes interiora ædis ingressi, mihi
+animus nescio ob quam causam ingrediendi ultra
+non fuit.
+
+# block=8 source_x1=1002 source_y1=2534 source_x2=1748 source_y2=2671
+(46) Gabala. Hinc, et per superiora, nullo negotio
+corrigetur Sophronius de Petro et Paulo, tom. VII
+Bibliothecæ Patrum Parisiensis, et apud Surium ad
+29 Junii, num. 5.
+
+# block=9 source_x1=826 source_y1=2098 source_x2=1130 source_y2=2131
+COTELERII NOTÆ.
+
+# block=10 source_x1=1002 source_y1=2336 source_x2=1752 source_y2=2535
+(45) Inde accessimus Patho [Palton Cot.]. Palti
+quoque episcopum celebrat magnus Ecclesiæ Magi-
+ster locis citatis, necnon Epistola ad Antiochenses.
+Sed apud Theodoritum, Histor. lib. II, cap. 12, in
+verbis Athanasii, et episcopus et civitas non suo
+nomine appellantur.
+
+# block=11 source_x1=808 source_y1=97 source_x2=1227 source_y2=134
+RECOGNITIONUM LIB. VII.
+
+# block=12 source_x1=1001 source_y1=2170 source_x2=1750 source_y2=2338
+notissimum oppidum est : cujus episcopus Euphra-
+tion laudatur a S. Athanasio, Apologia de fuga sua,
+paulo post initium, et Epistola ad Solitarios, p. 812,
+quanquam postremo, in loco perperam ediderunt, ὁ
+ἐν Καλαναῖς. Lege ὁ ἐν Βαλανέαις.
+
+# block=13 source_x1=236 source_y1=2674 source_x2=957 source_y2=2717
+(44) Venimus Balaneas. Balaneæ aut Balanææ,
+
+# block=17 source_x1=242 source_y1=99 source_x2=310 source_y2=133
+1365
+
+# block=18 source_x1=1686 source_y1=98 source_x2=1780 source_y2=146
+1366

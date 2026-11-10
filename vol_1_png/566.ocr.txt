@@ -1,0 +1,161 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,268,136,1023,646
+2,1054,314,1810,1906
+3,1061,142,1810,307
+4,1051,1928,1805,2227
+5,263,665,1028,2221
+6,1050,2327,1798,2713
+7,264,2321,1020,2694
+8,686,84,1392,120
+9,275,83,329,120
+10,1756,92,1808,123
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+nequitiæ suæ fautores, nisi quibusdam veluti præ-
+stigiis eos depravasset : eo sane usus artificio, quo
+maxime solent impostores, ut a falsitate sibi præ-
+sidium acquirant, cum a veritate non possint.
+Quamobrem nemo non videt quam impudenter
+Sandius, Whistonus, aliique novi Ariani provocent
+ad Constitutiones apostolorum, ad loca scilicet in-
+terpolata, ut suam asserant impietatem. Dum enim
+ad pessimum corruptorem provocant, non profecto
+Ecclesiæ doctrinam, sed Paulum Samosatenum
+ducem sequuntur, quo auctore nec ipsi veteres
+Ariani gloriati sunt.
+
+# block=2
+IV. Symmachi versio ab Hippolyto adhibita Con-
+stitutionum initio. Ἀπονηστίζεσθαι quo sensu acci-
+piatur. — Reliqui enim interpretes, tam Septuaginta
+quam Aquila ac Theodotio, Hebræum שרק litteris tan-
+tum Græcis expresserunt Σωρήκ. Solus Symmachus
+electam interpretatus est, ait Hieronymus (58).
+Quoniam vero ante Hippolytum nemo Symmachi
+mentionem fecit, nemo scriptorum, qui exstant,
+ipsius interpretatione est usus, neque potuit ante
+Hippolytum, quando hujus ævo Symmachus floruit;
+ad cæteras demonstrationes hæc etiam accedit, ut
+Hippolyto vindicemus Constitutiones apostolicas.
+Præterea toto sæculo III, Origene uno excepto,
+nullum novimus, qui Symmachi versionem produ-
+xerit; quæ animadversio ad investigandum tempus
+quo editæ fuerunt Constitutiones haud levioris est
+ponderis. Hippolytus autem interpretationem Sym-
+machi haud semel profert in paucis quæ super-
+sunt (59). Hippolyti est etiam τὸ ἀπονηστίζεσθαι,
+jejunium solvere, quemadmodum in sede marmorea
+ipsius Hippolyti legitur ἀπονηστίζεσθαι δὲ δεῖ οὗ
+ἂν ἐμπέσῃ Κυριακή. Solvere autem oportet jejunium
+ubi Dominica inciderit. Eadem significatione idem
+verbum sæpius occurrit in Constitutionibus (60),
+quamvis Hervetus contrario sensu verterit jejunare,
+quemadmodum et cl. auctor, qui hospitalem ta-
+bulam Cluniensem illustravit (61). Joseph autem
+Scaliger diverse in Constitutionibus accipiendum di-
+xit, atque in Hippolyti sede interpretanda, perperam
+jejunium transferre vertit, quem alii secuti sunt (62).
+Ante Hippolytum nemo id verbum usurpavit, ideo-
+que a lexicographis ignoratur : post Hippolytum
+Dionysius Alexandrinus adhibuit, sed ita ut ab
+Hippolyto accepisse propemodum significet; nam
+refert Ecclesiæ Romanæ in solvendo jejunio con-
+suetudinem (63) quæ in Constitutionibus etiam re-
+currit, ut eas Romæ confirmet fuisse compositas.
+
+# block=3
+Christi Dei nostri, et Spiritus sancti, in quam fal-
+sarius non invasit, ne statim initio deprehendere-
+tur. Ecclesia vero dicitur ἀμπελὼν ἐκλεκτός vinea
+electa Dei ex Isaia juxta Symmachi versionem.
+
+# block=4
+V. Hippolyti doctrina et ingenium in Constitutio-
+nibus adhuc elucent.—Non verba modo, sed et alia
+Hippolyti animadvertere licet in Constitutionibus,
+veluti cum appellat Jesum Christum ἀρχιερέα
+πάντων τῶν λογικῶν ταγμάτων, Pontificem universo-
+rum rationalium ordinum, quam sententiam Hip-
+polyti contra hæresin Beronis repetitam, haud
+
+# block=5
+III. P. Samosatenus ex ipsis locis, quæ intacta
+reliquit, refellitur.—Quæcunque autem in Constitu-
+tionibus violentas manus evaserunt, contraria sunt
+prorsus illis quæ interpolator inseruit. Ipso initio
+Constitutionum, Christi divinitas, atque etiam Spiri-
+tus sancti prædicatur; quod initium quia nulli
+magis convenit quam Hippolyto, ascribemus :
+Θεοῦ φυτεία ἡ καθολικὴ Ἐκκλησία, καὶ ἀμπελὼν αὐ-
+τοῦ ἐκλεκτὸς, οἱ πεπιστευκότες εἰς τὴν ἀπλανῆ θεο-
+σέβειαν αὐτοῦ, οἱ τὴν αἰώνιον καρπούμενοι διὰ πί-
+στεως βασιλείαν αὐτοῦ, οἱ δύναμιν αὐτοῦ εἰληφότες
+καὶ μετουσίαν τοῦ ἁγίου Πνεύματος, ὡπλισμένοι διὰ
+Ἰησοῦ, καὶ ἐνστερνισμένοι τὸν φόβον αὐτοῦ, ῥαντί-
+σματος μέτοχοι τοῦ τιμίου καὶ ἀθώου αἵματος τοῦ
+Χριστοῦ, οἱ παῤῥησίαν εἰληφότες τὸν παντοκράτορα
+Θεὸν, Πατέρα καλεῖν, συγκληρονόμοι καὶ συμμέτοχοι
+τοῦ ἠγαπημένου Παιδὸς αὐτοῦ (57)· ἀκούσατε διδασκα-
+λίαν ἱερὰν, οἱ ἀντεχόμενοι τῆς ἐπαγγελίας αὐτοῦ ἐκ
+προστάγματος τοῦ Σωτῆρος, ὁμόστοιχον ταῖς ἐνδό-
+ξοις φθογγαῖς αὐτοῦ. Φυλάσσεσθε οἱ Θεοῦ υἱοὶ ἅπαντα
+εἰς ὑπακοὴν Θεοῦ πράσσειν. Καὶ γένεσθε ἀρεστοὶ ἐν
+πᾶσι Χριστῷ τῷ Θεῷ ἡμῶν. Ecclesia catholica plan-
+tatio Dei, ac vinea ejus electa sunt, qui in certissi-
+mam Dei religionem credidere, qui sempiternum ejus
+regnum per fidem compararunt, qui ejus virtutem et
+Spiritus sancti participationem acceperunt, per Jesum
+armati, ac timorem ejus toto pectore amplexi; asper-
+sionem pretiosi et innocentis sanguinis Christi com-
+municantes, qui fiduciam acceperunt, ut nomine Pa-
+tris Deum omnipotentem appellarent, cohæredes et
+consortes dilecti Filii ejus ; audite qui ex præcepto
+Salvatoris promissionem ejus retinetis, sacram do-
+ctrinam, gloriosis ejus vocibus consonam. Attendite,
+filii Dei, ut omnia in obedientia Dei faciatis ; et in
+omnibus estote Christo Deo nostro accepti. Sinceram
+hic habemus confessionem Dei Patris omnipotentis,
+
+# block=6
+obedientiam Dei faciant, utque in omnibus accepti
+sint Christo Deo nostro.
+(58) S. Hieron. Comm. in Isa.' v, 2; Coteler. in
+Constit. ap. I, not. 2; Montfauc., Hexapl. II, p. 96.
+(59) S. Hippol. in Gen. I, Op. t. II, p. 23; et in
+psalm. lxxvii, ex mss. cod. B. M. ap. Bandin. I, 36.
+(60) Constit. v, 15.
+(61) Dichiaraz. Di una tav. ospit., p. 40.
+(62) V. Hesych. ἀπονηστήσασθαι et J. Albert. not.
+ac Thesaur. Eccl. Svicer.
+(63) Dion. Alex., Ep. ad Basilid., I
+
+# block=7
+(57) Hinc sumit initium interpolatio, quæ inepte
+apostolos inducit loquentes; at facile restitui pos-
+sunt quæ sequuntur si legamus : ἀκούσαντες διδα-
+σκαλίαν ἱερὰν οἱ ἀντεχόμενοι τῆς ἐπαγγελίας αὐτοῦ
+ἐκ προστάγματος τοῦ Σωτῆρος, ὁμόστοιχον ταῖς ἐν-
+δόξοις φθογγαῖς αὐτοῦ. Φυλάσσοντες ὡς Θεοῦ υἱοὶ
+ἅπαντα εἰς ὑπακοὴν Θεοῦ πράσσειν, καὶ γενόμενοι
+ἀρεστοὶ ἐν πᾶσι Χριστῷ τῷ Θεῷ ἡμῶν. Ex præcepto
+Salvatoris audientes sacram doctrinam gloriosis ejus
+vocibus consonam, quicunque ipsius promissionis ad-
+hærent, observantes tanquam Dei filii, ut omnia in
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9
+531
+
+# block=10
+532

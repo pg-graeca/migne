@@ -1,0 +1,330 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,179,2690,1728,2760
+2,157,368,547,2679
+3,766,305,1109,341
+4,215,265,446,299
+5,621,99,1289,135
+6,179,152,943,242
+7,975,152,1725,250
+8,1667,96,1731,140
+9,165,84,261,140
+10,573,374,941,2656
+11,971,372,1343,2462
+12,1359,370,1725,2466
+13,969,2469,1723,2671
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(a) Ματάλια. Al. Νατάλια, melius. Didici enim a docto Armeno Galliam peragrante, Matagh Armenice esse sacrificium,
+Des. seq. in Balsam. 38, p. 622. B, 59, p. 652, A.
+
+# block=2
+ὑπολαμβάνοντες τῆς τοῦ
+Κυρίου μεγαλειότητος.
+Ἀλλὰ καὶ τὴν ἱστορίαν
+τὴν διδάσκουσαν ἡμᾶς, ὡς
+προσηνέχθη τῷ Ἰησοῦ
+γυνὴ ἡ μοιχευθεῖσα, τοῦ
+δὲ εἰπόντος, ὅστις οὐχ
+ἥμαρτε βαλέτω λίθον
+ἐπ' αὐτὴν, ἀνεχώρησαν
+ἅπαντες, καὶ οὐδὲ παρὰ
+τοῦ Χριστοῦ κατακέκρι-
+ται, ἐκβάλλουσι, βλαβε-
+ρὰν εἶναι λέγοντες τοῖς
+πολλοῖς τὴν τοιαύτην ἀ-
+κρόασιν. Ἐσθίουσι δὲ καὶ
+ἐν τοῖς Σάββασι, καὶ ἐν
+ταῖς Κυριακαῖς τῆς ἁγίας
+Τεσσαρακοστῆς, ὠὸν, καὶ
+τυρὸν, καὶ βούτυρον, καὶ
+πρὸ πάντων αὐτὸς ὁ καθο-
+λικός· καὶ κανών ἐστι παρ'
+αὐτοῖς ὁ λέγων· Εἴ τις οὐκ
+ἴσον οἴεται τὸ βούτυρον,
+καὶ τὸν τυρὸν, καὶ τὸ ὠὸν
+καὶ [f. del.] τῷ οἴνῳ, καὶ
+τῷ ἐλαίῳ, ἀνάθεμα ἔστω.
+Ἐσθίουσι δὲ καὶ ἑβδομάδι
+τῆς τυροφάγου, τὸ κρέας,
+νηστεύοντες τῇ πρὸ τῆς
+ἀποκρέου ἑβδομάδι νη-
+στείαν ἐπιτεταμένην, ἐκ-
+τὸς ἄρτου καὶ ὕδατος,
+μηδενὸς γευόμενοι. Κα-
+λοῦσι δὲ τὴν τοιαύτην
+ἑβδομάδα , Ἀρτζιβούρ-
+τζια· οὐκ οἴδασι μέν τοι τί
+βούλεται ἡ τοῦ ὀνόματος
+τούτου δύναμις· ἀλλά τι-
+νες μὲν φασιν Ἀργίου [al.
+Σεργίου] τινὸς εἶναι τὴν νη-
+στείαν· τινὲς δὲ τῶν Νι-
+νευϊτῶν, τινὲς δὲ τοῦ Ἀ-
+δὰμ, ὅτε τοῦ παραδείσου
+τῆς τρυφῆς ἀποβέβληται·
+κἀντεῦθεν ἁλίσκονται ἀλό-
+γως νηστεύοντες· ὡς δέ
+τινες διηγοῦνται, καὶ ἔοι-
+κεν ὁ λόγος αὐτῶν ἀληθὴς
+εἶναι, τῶν παρ' αὐτοῖς τις
+ἐπισκόπων κυνιδίῳ ἐκέ-
+χρητο, ᾧ τὸ ἐπώνυμον Ἀρ-
+τζιβούρτζης· τοῦτο δὲ
+προηγήτωρ εἴτουν πρόδρο-
+μος ἐξελληνιζόμενον λέγε-
+ται· προηγεῖτο γὰρ τοῦ
+ἐπισκόπου, μέλλοντος εἰσ-
+ιέναι εἴς τινα κώμην ἢ
+πόλιν. Οὗ θανόντος , νη-
+στεία ἑπταήμερος παρὰ
+τοῦ ἐπισκόπου νενομοθέ-
+τηται, εἰς μνήμην τοῦ ἐπὶ
+κυνὶ πένθους. Λειτουρ -
+γοῦντες δὲ, οὐ μόνον τὸ
+κάλυμμα τῆς κεφαλῆς οὐ
+καθαιροῦσιν, ἀλλὰ καὶ τὸ
+κουκούλιον τῷ καλύμματι
+ἐπιτιθέασι· καί τοι τοῦ
+μεγάλου ἀποστόλου Παύ-
+λου διαῤῥήδην βοῶντος,
+
+# block=3
+VARIORUM NOTÆ.
+
+# block=4
+⁷⁹ Joan. viii, 11.
+
+# block=5
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=6
+οὐδὲ ἐγώ σε κατακρίνω. › Τοῦτον τὸν Σωτῆρα, βασι-
+λέα, καὶ Θεὸν ἡμῶν Ἰησοῦν, ᾧ ἐπίσκοποι, σκοπὸν
+
+# block=7
+demno ⁷⁹. › Hunc, o episcopi, Salvatorem, Regem
+ac Deum nostrum Jesum, pro scopo habere con-
+
+# block=8
+658
+
+# block=9
+657
+
+# block=10
+Jesum adducta est, cum
+is autem dixisset, ‹ Qui
+non peccavit, lapidem in
+illam mittat (Johan. viii), ›
+recesserunt omnes, et nec
+a Christo condemnata est,
+ejiciunt ; hanc recitatio-
+nem multis esse noxiam
+dicentes : Comedunt au-
+tem et in Sabbatis, et in
+Dominicis sanctæ Quadra-
+gesimæ, ovum, et caseum,
+et butyrum ; et ante om-
+nes ipse Catholicus : et est
+apud eos Canon qui dicit :
+Si quis butyrum, et ca-
+seum, et ovum non æqui-
+valere existimet vino et
+oleo, anathema sit. Heb-
+domada quoque Lactici-
+niorum, carne vescuntur ;
+jejunantes septimana quæ
+est ante Carnisprivium ,
+intenso jejunio ; præter
+panem et aquam nihil gu-
+stantes. Vocant autem
+hanc septimanam, Artzi-
+burtzia : nesciunt tamen
+quid sibi velit vis hujus
+nominis ; sed nonnulli
+quidem dicunt Sergii cu-
+jusdam esse jejunium, vel
+Argii : nonnulli vero Ni-
+nivitarum : aliqui vero
+Adami, quando ex para-
+diso deliciarum ejectus
+est. Et hinc sine ratione
+jejunare convincuntur. Et
+vero quidam referunt ; vi-
+deturque eorum sermo ve-
+rus esse ; Aliquis apud
+eos episcopus utebatur ca-
+tello, cui erat cognomen
+Artziburtzes : id autem
+translatum dicitur, Præ-
+cessor , seu præcursor.
+Præcedebat enim episco-
+pum ingressurum in vil-
+lam quamdam vel urbem.
+Quo mortuo, septem die-
+rum jejunium ab episcopo
+sancitum est, in memo-
+riam luctus propter ca-
+nem. Sacrum autem ce-
+lebrantes, non modo ca-
+pitis tegmen non detra-
+hunt, sed etiam cucullam
+tegmini imponunt : licet
+magnus Apostolus Paulus
+expresse clamet (I Cor.
+xi), delectos esse nos de-
+bere in tempore orationis.
+Non venerantur imagines
+sacras ; quinimo ipsorum
+Catholicus et episcopi, ve-
+neratores earum anathe-
+matizant. Nec etiam cru-
+cem adorant, nisi clavum
+in illius medium immise-
+
+# block=11
+runt, insuperque eam ba-
+ptizaverint. Postquam au-
+tem clavo fixa crux et ba-
+ptizata fuit, si contigerit,
+ut alterum duorum ligno-
+rum separetur, et aliud
+remaneat ; rectum videli-
+cet, aut transversum ; ado-
+rant illud quod solum re-
+lictum est. Sed et legalia
+fere omnia, quæ quidem
+abolita sunt, adhuc pera-
+gunt. Agnum enim magna
+Dominica sacrificant, et
+limina inungunt ; atque
+ossa illius comburentes,
+servant cinerem cum san-
+guine in signum expiatio-
+nis. Et velum ante altare
+statuunt, ac tintinnabula
+ipsi, altarique appendunt.
+Quin etiam pro mortuis
+sacrificia ovium et boum
+faciunt : nec aliter de-
+functum existimant sal-
+vandum ; nisi in ejus Ter-
+tiis, Nonis et Quadrage-
+simis sacrificia ejusmodi
+peracta fuerint. Antequam
+autem hujusmodi hostias
+immolent, salem benedi-
+centes, illis dant in nu-
+trimentum ; atque etiam
+super earum capita quas-
+dam orationes dicunt ,
+sicque mactant. Nomi-
+nant porro hæc sacrificia,
+Matalia. (In Bals. Nata-
+litia.) Si qui autem ex
+illis , horum aliquid ne-
+gent ; anathemate feriant
+eum qui illud fecerit. Præ-
+terea iidem sunt Mono-
+thelitæ. Adversus autem
+eos qui dicunt, quod Chri-
+stus ea die qua natus est,
+etiam fuit baptizatus, suf-
+ficit Gregorius Theologus,
+qui hæc Festa tempore in-
+ter se distinguit : atque
+in oratione quidem quæ
+incipit, Christus gignitur,
+ait : ‹ Ac quidem paulo
+post videbis et Jesum in
+Jordane purgari ; › in
+Oratione vero, cujus prin-
+cipium, ‹ Rursum Jesus, ›
+ita loquitur : ‹ Christi
+quidem nativitatem apta
+solemnitate celebrastis
+jam ; nunc vero alia Chri-
+sti actio, aliudque myste-
+rium. »
+
+# block=12
+ἀνακεκαλύφθαι ἡμᾶς ἐν
+τῷ τῆς προσευχῆς καιρῷ.
+Σεπταῖς εἰκόσιν οὐ προσ-
+κυνοῦσιν, ἀλλὰ μᾶλλον
+καὶ ὁ Καθολικὸς αὐτῶν καὶ
+οἱ τούτων ἐπίσκοποι ἀνα-
+θεματίζουσι τοὺς προσκυ-
+νοῦντας. Οὔτε δὲ τὸν σταύ-
+ρὸν προσκυνοῦσιν, εἰ μὴ
+ἧλον ἐν τῷ μέσῳ τούτου
+ἐμβάλλουσι, καὶ μέν τοι
+καὶ βαπτίζουσιν αὐτόν.
+Μετὰ δὲ τὸ καθηλωθῆναι
+καὶ βαπτισθῆναι τὸν σταυ-
+ρὸν, εἰ καὶ τύχῃ τὸ ἕτε-
+ρον τῶν δύο ξύλων διαι-
+ρεθῆναι, καὶ καταλειφθῆ-
+ναι τὸ ἕτερον, τὸ ὄρθιον
+δηλαδὴ, ἢ τὸ ἐγκάρσιον,
+προσκυνοῦσι τῷ καταλει-
+φθέντι μόνῳ. Ἀλλὰ καὶ
+τὰ νομικὰ σχεδὸν πάντα,
+ἃ κατηργήθησαν, εἰσέτι
+τελοῦσι. Θύουσι γὰρ τὸν
+ἀμνὸν τῇ μεγάλῃ Κυρια-
+κῇ, καὶ τὰς φλιὰς χρίουσι,
+καὶ τὰ ὀστᾶ τούτων καί-
+οντες, τηροῦσι τὸν χοῦν
+μετὰ τοῦ αἵματος εἰς τύ-
+πον καθαρσίου. Καὶ κα-
+ταπέτασμα πρὸ τοῦ θυ-
+σιαστηρίου προβάλλονται,
+καὶ κώδωνας αὐτοῦ τε καὶ
+τοῦ θυσιαστηρίου ἐξαρτῶ-
+σι. Καὶ μέντοι καὶ ὑπὲρ
+τῶν νεκρῶν θυσίας προ-
+βάτων καὶ βοῶν ποιοῦσι·
+καὶ οὐκ ἄλλως ἡγοῦνται
+σωθήσεσθαι τὸν τεθνεῶτα
+εἰ μὴ ἐν τοῖς τρίτοις αὐ-
+τοῦ, καὶ τοῖς ἐννάτοις,
+καὶ τεσσαρακοστοῖς αἱ
+τοιαῦται θυσίαι ἐπιτελε-
+σθῶσι. Πρὸ δὲ τοῦ τυθῆ-
+ναι τὰ τοιαῦτα θύματα,
+ἅλας ἐπευλογοῦντες, εἰς
+τροφὴν αὐτοῖς διδόασι·
+καὶ μέντοι καὶ ἐπὶ ταῖς
+κεφαλαῖς αὐτῶν, εὐχάς
+τινας ἐπιλέγουσι, καὶ οὕ-
+τω σφάζουσιν· ὀνοματί-
+ζουσι δὲ τὰς τοιαύτας θυ-
+σίας, Ματάλια (a). Εἰ δέ
+τινες αὐτῶν ἀρνοῖντο περί
+τινος τούτων, ἀναθεματι-
+ζέτωσαν τὸν ποιοῦντα. Εἰ-
+σὶ δὲ οἱ αὐτοὶ καὶ Μονο-
+θελῆται. Πρὸς δὲ τοὺς λέ-
+γοντας, ὅτι καθ' ἣν ἡμέ-
+ραν γεγένηται ὁ Χριστὸς,
+καὶ βεβάπτισται, αὐτάρ-
+κης ὁ Θεολόγος Γρηγόριος,
+διαστέλλων τὰς τοιαύτας
+
+# block=13
+ἑορτὰς χρονικῶς ἀπ' ἀλλήλων· καὶ ἐν μὲν τῷ,
+Χριστὸς γεννᾶται, λέγων ὅτι· Μικρὸν μὲν ὕστερον
+ὄψει καὶ καθαιρόμενον Ἰησοῦν ἐν τῷ Ἰορδάνῃ·
+ἐν δὲ τῷ, Πάλιν Ἰησοῦς, ὅτι· Τῇ μὲν γεννήσει, τὰ
+εἰκότα προεορτάσατε· νυνὶ δὲ πρᾶξις ἄλλη
+Χριστοῦ, καὶ ἄλλο μυστήριον. Cot.

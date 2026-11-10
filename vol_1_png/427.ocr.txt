@@ -1,0 +1,219 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,183,1503,939,2726
+2,963,2657,1709,2732
+3,191,1059,940,1206
+4,191,1208,861,1290
+5,190,824,935,1050
+7,798,755,1094,790
+8,959,1899,1722,2632
+10,718,99,1199,143
+11,972,821,1731,1375
+12,965,1702,1719,1904
+13,191,158,957,631
+14,972,160,1721,631
+15,324,1294,771,1501
+16,191,109,247,146
+17,195,638,1725,717
+18,1641,92,1727,134
+19,965,1372,1727,1704
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=16px
+# block=17 fontSize=15px
+# block=18 fontSize=16px
+# block=19 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=19
+(41) Ταγαῖς. Al. malunt ἐπιταγαῖς, al. διαταγαῖς.
+Ms. adhæret Wott. putans Origenem legisse ταγαῖς,
+eo quod Rufinus verterit dispositionibus. Verum
+Origenes l. c. in Ezech. exhibet ἐπιταγαῖς. GALL.—
+Ταγαῖς. Male conjiciunt ἐπιταγαῖς ἢ διαταγαῖς. He-
+sychius : ταγαῖς, ἀρχαῖς, ἡγεμονίαις. COLOM.
+(42) Ἀνέμων σταθμοί. Etiam venti, utcunque
+inconstantes legi subjiciuntur. Annua agnoscunt
+flamina et statis temporibus quasi ex condicto red-
+eunt ; adeo non penitus ubi vult spirat ventus. FELL.
+
+# block=18
+254
+
+# block=10
+EPISTOLA I AD CORINTHIOS.
+
+# block=16
+253
+
+# block=13
+ταῖς ταγαῖς (41) τοῦ Δεσπότου διευθύνονται. Καιροὶ
+ἐαρινοὶ, καὶ θερινοὶ, καὶ μετοπωρινοὶ, καὶ χειμερινοὶ
+ἐν εἰρήνῃ μεταπαραδιδόασιν ἀλλήλοις. ᾿Ανέμων στα-
+θμοὶ (42) κατὰ τὸν ἴδιον καιρὸν τὴν λειτουργίαν
+αὐτῶν ἀπροσκόπως ἐπιτελοῦσιν. ᾿Αέναοί τε πηγαὶ
+πρὸς ἀπόλαυσιν καὶ ὑγίειαν δημιουργηθεῖσαι, δίχα
+ἐλλείψεως παρέχονται τοὺς πρὸς ζωῆς (43) ἀνθρώποις
+μαζοὺς. Τά τε ἐλάχιστα τῶν ζώων τὰς συνελεύσεις
+αὐτῶν ἐν ὁμονοίᾳ καὶ εἰρήνῃ ποιοῦνται. Ταῦτα πάντα
+ὁ μέγας δημιουργὸς καὶ Δεσπότης τῶν ἁπάντων ἐν
+εἰρήνῃ καὶ ὁμονοίᾳ προσέταξεν εἶναι, εὐεργετῶν τὰ
+
+# block=14
+aliæ aliis succedunt. Ventorum libramina proprio
+tempore munus suum sine offendiculo obeunt. Fon-
+tes etiam perennes ad usum et sanitatem creati,
+ubera indesinenier ad hominum vitam præbent. De-
+nique animalia minima cœtus suos in concordia et
+pace faciunt. Hæc omnia magnus opifex et rerum
+omnium Dominus, in pace et concordia fieri jussit;
+omnibus benefaciens; superabundanter autem no-
+bis, qui ad miserationes ejus confugimus, per Do-
+minum nostrum Jesum Christum, cui gloria et ma-
+jestas in sæcula sæculorum. Amen.
+
+# block=17
+πάντα, ὑπερεκπερισσῶς δὲ ἡμᾶς τοὺς προσπεφευγότας τοῖς οἰκτιρμοῖς αὐτοῦ, διὰ τοῦ Κυρίου ἡμῶν
+Ἰησοῦ Χριστοῦ, ᾧ ἡ δόξα (44) καὶ ἡ μεγαλωσύνη (45) εἰς τοὺς αἰῶνας τῶν αἰώνων. ᾿Αμήν.
+
+# block=7
+VARIORUM NOTÆ.
+
+# block=11
+μοι, πρὸς ἀπέραντον ἐκφέρουσι πέλαγος· τὸ δὲ δεινό-
+τατον, ἐπειδὰν γὰρ τοῖς ἄλλοις ἅπασιν ὁ κυβερνήτης
+ἀντιστήσῃ τὴν τέχνην, ὑπονοστεῖ μὲν ἐξαίφνης ἡ θά-
+λαττα, ἡ δὲ τέως μετέωρος ὑπὲρ τῶν κυμάτων ὁλκὰς
+ἐπὶ ψιλῆς ὁρᾶται τῆς ψάμμου κειμένη· καὶ εἰ μὲν
+ὀξεῖαν ἀνταποστείλῃ τὴν παλίῤῥοιαν, ἀναλαμβάνει τε
+αὖθις τὸ σκάφος, καὶ δεῖ τὰ λοιπὰ πονεῖν τοὺς ἐμ-
+πλέοντας· ἣν δὲ μελλήσῃ πρὸς τὴν ἐπάνοδον, δύεται
+κατὰ μικρὸν τὸ πλοῖον, ὑπεικούσης πρὸς τὸ ἄχθος τῆς
+ψάμμου. JUN. — Rectius diffusissimo mari Atlanti-
+co hæc convenient, præsertim cum ex Suida disca-
+mus πάντα τὰ ἄπλωτα πελάγη, omnia innavigabilia
+maria Atlantica appellari; et etiam abunde cogno-
+verimus veteres pene omnes in ea fuisse sententia,
+naturæ et rerum fines, Cimmerias tenebras, fœdam
+caliginem, intranabiles paludes, et vastum demum
+Chaos inibi versari. FELL.
+
+# block=5
+presbyterum damnat, quod alium mundum aliosque
+homines sub terra esse affirmaret. Quinetiam par-
+tes mundi incognitæ, dissitæ, et ultra oceanum po-
+sitæ, solent orbes appellari. Sic Cæsar cum Britan-
+niam intrasset, alium se orbem terrarum scripsit re-
+perisse, uti refertur ab Eumenio, Panegyrico in
+Constantium. Notissimus Virgilii versus :
+
+# block=3
+Et penitus toto divisos orbe Britannos;
+ad quem Servius notat, Britanniam a poetis dici
+alterum orbem terrarum. Notus etiam ille Manilii
+lib. 1 :
+
+# block=4
+Ignotusque novos Pontus subduxerat orbes.
+Quibus adde hos Senecæ in Medea :
+
+# block=15
+Venient annis
+Sæcula seris, quibus oceanus
+Vincula rerum laxet, et ingens
+Pateat tellus, Tiphysque novos
+Detegat orbes, nec sit terris
+Ultima Thule.
+
+# block=1
+Itaque longe abit sententia Clementis ab errore
+philosophorum et hæreticorum quorumdam, qui
+plures aut innumerabiles mundos a nostro hoc
+plane diversos somniabant. Legatur infra, cap. 21.
+Cor. — ᾿Ωκεανὸς ἀνθρώποις ἀπέραντος. Lege ἀπέ-
+ρατος, atque ita Rufinus Origenis interpres, intrans-
+ibilis et intransmeabilis vertit, licet eodem errore
+apud Clementem Alex. scribatur, ἀπέραντος. Per
+oceanum autem hic, nisi me fallit conjectura, τὴν
+ἔξω θάλασσαν intelligit, neque eam omnem, sed Bri-
+tannicum nostrum et Hibernicum mare, quod vete-
+ribus Græcis et Romanis æque impervium erat, ac
+ipsa Britannia incognita, cujus ora maritima quæ
+contra Galliam est, ante Julii Cæsaris tempora (qui
+posteris ostendisse potius quam tradidisse insulæ
+notitiam dicitur) vix Gallis vicinis illorumque mer-
+catoribus innotuerat. Quid quod Basilius longe post
+Clementem nostrum, homil. 4 in Hexaemeron : Τὸ
+πέλαγος τὴν Βρεττανικὴν νῆσον καὶ τοὺς ἑσπερίους
+Ἴβηρας περιπτυσσόμενον, μέγα vocat καὶ πλωτῆρσι
+ἀτόλμητον, quem locum Ambrosius sic exprimit:
+Quis deinde sciat, in quantum se illud magnum et
+inausum navigantibus, atque intentatum nautis fun-
+dat mare, quod Britannias frementi includit æquore,
+etc. Et Libanius Basilii coætaneus in Basilico, de-
+scribens Constantii imperatoris τὸν διάπλουν εἰς τὴν
+νῆσον τὴν Βρεττανίαν, et trajectus difficultatem
+maximam, propter æstus contrarios, et ventorum
+violentiam, mare Britannicum ἀπέραντος esse di-
+cit; ubi forte ἀπέρατον legendum esse, non inepte
+quis conjicere potest, sed de voce contentionem non
+moveo. Ejus verba ita se habent: Ἕστι δὴ λόγος, μάρτυ-
+ρας τὰς ὄψεις παρεχόμενος, ὡς ἄρα μείζων εἰς κίνδυ-
+νον [ἴσ. ἐστὶ κίνδυνος] πλοῖον στρογγύλον ὑπὲρ ἐκεί-
+νης ἀφεῖναι τῆς θαλάττης, ἢ ναυμαχίαν ἑτέρωθι συ-
+στήσασθαι, οὕτω λαμπραὶ μὲν καταιγίδες εἰς οὐρανὸν
+υρτοῦσι τὰ κύματα· ἐξῶσται δὲ ὑπολαμβάνοντες ἄνε-
+
+# block=12
+(43) Πρὸς ζωῆς. Ita ms. cujus lectio retinenda
+videtur. Sic enim et Act. xxvii, 34, eadem præpo-
+sitio πρός secundo casui juncta, hoc ipso sensu
+usurpatur : Τοῦτο γὰρ πρὸς τῆς ὑμετέρας σωτηρίας
+ὑπάρχει : Hoc enim ad salutem vestram confert. At
+Jun. cum edit. πρὸς ζωήν.
+
+# block=8
+(44) Ὧν ἡ δόξα, κ. τ. λ. Non tantum in fine, sed in
+initio, et medio Epistolarum suarum, divus Paulus
+δοξολογίαν usurpat, quem Clemens discipulus, ut in
+aliis, sic in hoc etiam imitatur. Apud Chrysosto-
+mum homil. 55 in Matthæum, hymnus εὐχαριστή-
+ριος habetur, quo monachi sui temporis in eremo,
+a cœna utebantur (quos propter vitæ sanctimoniam,
+et cœlestem in terris conversationem, ἀγγέλους
+vocat) in quo, cur post δοξολογίαν, hymnum rursus
+inciperent et continuarent, rationem reddit, his
+verbis : Μὴ τοίνυν μηδὲ τούτοις ἐγκαλῶμεν τοῖς ἀγ-
+γέλοις ὡς ἀτάκτως ποιοῦσιν, ὅτι καταλύσαντες τὸν
+λόγον εἰς δοξολογίαν, πάλιν ἄρχονται τῶν ὕμνων τῶν
+ἱερῶν, ἀποστολικοῖς γὰρ ἕπονται νόμοις, ἀπὸ δοξολο-
+γίας ἀρχόμενοι, καὶ εἰς τοῦτο τελευτῶντες, καὶ μετὰ
+τὴν τελευτὴν ταύτην προοιμιαζόμενοι πάλιν. Sic Hie-
+ronymus in præfatione in Psalmos ad Sophronium,
+probat unum tantum esse Psalmorum volumen, li-
+cet quinquies occurrat illud γένοιτο, γένοιτο, i. e.
+amen, amen; unde quidam in quinque libros divi-
+dere solent, et ἄλλην πεντάτευχον faciunt, ut loqui-
+tur
+
+# block=2
+(45) Καὶ ἡ μεγαλωσύνη. Articulus ἡ, qui exstat
+in ms., deest codd. impp. GALL.

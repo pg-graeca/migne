@@ -1,0 +1,191 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,234,704,993,1571
+2,1030,136,1796,1503
+3,231,1745,988,2216
+4,1019,1744,1789,2219
+5,1271,1605,1541,1641
+6,489,1603,727,1633
+7,235,2614,982,2685
+8,681,84,1394,119
+9,233,2410,980,2616
+10,1022,2418,1780,2688
+11,1026,1657,1797,1726
+12,242,84,313,124
+13,851,2332,1146,2371
+14,250,2250,1522,2298
+15,232,1656,988,1721
+17,1715,78,1795,124
+18,225,140,997,704
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+1028
+
+# block=12
+1027
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=2
+τὴν ἐποίησας. Εἶτ᾽ ἐχλοαίνετο γῆ, παντοίοις ἄνθεσι
+καταγραφoμένη, καὶ ποικίλα δένδρων διαφόρων·
+παμφαεῖς τε φωστῆρες τούτων τιθηνοὶ, ἀπαράβατον
+σώζοντες τὸν δολιχὸν, καὶ κατ᾽ οὐδὲν παραλλάσσοντες
+τῆς σῆς προσταγῆς· ἀλλ᾽ ὅπη ἂν κελεύσῃς, ταύτῃ
+ἀνίσχουσι καὶ δύουσιν, εἰς σημεῖα καιρῶν καὶ ἐνιαυ-
+τῶν, ἀμειβόμενοι τὴν τῶν ἀνθρώπων ὑπηρεσίαν. Ἔ-
+πειτα διαφόρων ζώων κατεσκευάζετο γένη, χερσαίων,
+ἐνύδρων, ἀεροπόρων, ἀμφιβίων· καὶ τῆς σῆς προ-
+νοίας ἡ ἔντεχνος σοφία τὴν κατάλληλον ἑκάστῳ πρό-
+νοιαν δωρεῖται· ὥσπερ γὰρ διάφορα γένη οὐκ ἠτό-
+νησε παραγαγεῖν, οὕτως οὐδὲ διάφορον πρόνοιαν
+ἑκάστου ποιήσασθαι κατωλιγώρησε. Καὶ τέλος τῆς
+δημιουργίας, τὸ λογικὸν ζῶον, τὸν κοσμοπολίτην, τῇ
+σῇ σοφίᾳ διαταξάμενος, κατεσκεύασας, εἰπών· « Ποιή-
+σωμεν ἄνθρωπον κατ᾽ εἰκόνα καὶ καθ᾽ ὁμοίωσιν
+ἡμετέραν, » κόσμου κόσμον (84) αὐτὸν ἀναδείξας·
+ἐκ μὲν τῶν τεσσάρων στοιχείων, πρώτων (85) σω-
+μάτων, διαπλάσας αὐτῷ σῶμα, κατασκευάσας δ᾽ αὐ-
+τῷ τὴν ψυχὴν ἐκ τοῦ μὴ ὄντος, αἴσθησιν δ᾽ αὐτῷ
+πένταθλον χαρισάμενος, καὶ νοῦν τὸν τῆς ψυχῆς ἡνίο-
+χον ταῖς (86) αἰσθήσεσιν ἐπιστήσας. Καὶ ἐπὶ πᾶσι
+τούτοις, Δέσποτα Κύριε, τίς ἐπαξίως διηγήσεται νε-
+φῶν ὀμβροτόκων φοράν, ἀστραπῆς ἔκλαμψιν, βροντῶν
+πάταγον, εἰς τροφῆς κατάλληλου χορηγίαν, καὶ κρᾶ-
+σιν ἀέρων παναρμόνιον; Παρακούσαντα δὲ τὸν ἄν-
+θρωπον, ἐμψύχου ζωῆς ἐστέρησας· οὐκ εἰς τὸ παν-
+τελὲς ἀφανίσας, ἀλλὰ χρόνῳ πρὸς ὀλίγον κοιμίσας,
+ὅρκῳ εἰς παλιγγενεσίαν ἐκάλεσας. Ὅρον θανάτου
+ἔλυσας, ὁ ζωοποιὸς τῶν νεκρῶν διὰ Ἰησοῦ Χριστοῦ,
+τῆς ἐλπίδος ἡμῶν.
+
+# block=18
+gnis, item navigiis illud fecisti pervium. Postea
+germinabat terra, omnigenis floribus, ac varietate
+arborum multiplicium depicta ; et cunctis lucentia
+luminaria horum nutritii, eumdem semper cursum
+tenent nec ullatenus a tuo mandato radiant; sed
+quacunque jusseris, ibi oriuntur ac occidunt, in
+signa temporum atque annorum, et hominum mi-
+nisterium alternant. Deinde animalium diversorum
+conficiebantur genera, terrestrium, aquatilium, vo-
+lucrum, amphibiorum : tuæque providentiæ artifi-
+ciosa sapientia idoneam unicuique provisionem lar-
+gitur : sicut enim ad varia genera producenda non
+fuit invalida, sic neque diversam uniuscujusque
+
+# block=1
+curam suscipere neglexit. Atque ad extremum crea-
+tionis, mandans tuæ Sapientiæ, condidisti rationale
+animal, mundi civem, dicens : « Faciamus homi-
+nem ad imaginem et ad similitudinem nostram ⁴; »
+mundi mundum, seu ornamenti ornatum, consti-
+tuens illum; ex quatuor quidem elementis, primis
+corporibus, formando corpus illius, creando autem
+ei animam ex nihilo, et donando ei quinquertium
+sensuum, mentemque aurigam animæ præficiendo
+sensibus. Jam ad hæc omnia, dominator Domine,
+quis condigne explicabit nubium imbribus feracium
+motum, fulguris splendorem, tonitruum fragorem;
+ad convenientis alimenti suppeditationem, et ad æ-
+ris temperationem maxime concinnam? Hominem
+vero inobsequentem factum, vita ad mercedem pro-
+posita privasti; nec ex toto exstinxisti illum, sed
+brevi tempore morte soporatum, jurejurando ad se-
+cundam na.ivitatem vocasti ⁵. Decretum mortis sol-
+visti, qui mortuos ad vitam reducis per Jesum
+Christum, spem nostram ⁶.
+
+# block=6
+CAPUT XXXV.
+
+# block=5
+ΚΕΦΑΛΑΙΟΝ ΛΕ΄.
+
+# block=15
+Oratio cum gratiarum actione prædicans Dei erga
+creaturas sollicitudinem.
+
+# block=11
+Προσευχὴ μετὰ εὐχαριστίας ἐξαγγέλλουσα τοῦ
+Θεοῦ τὴν περὶ τὰ ὄντα κηδεμονίαν (87).
+
+# block=4
+Μέγας εἶ, Κύριε παντοκράτορ, καὶ μεγάλη ἡ
+ἰσχύς σου, καὶ τῆς συνέσεώς σου οὐκ ἔστιν ἀριθμός·
+κτίστα, σῶτερ, πλούσιε ἐν χάρισι, μακρόθυμε, καὶ
+ἐλέους χορηγέ· ὁ μὴ παρορῶν (88) τῶν σῶν κτισμά-
+των τὴν σωτηρίαν· φύσει γὰρ ἀγαθὸς ὑπάρχεις·
+φείδῃ δὲ ἁμαρτανόντων, εἰς μετάνοιαν προσκα-
+λούμενος· οἰκτιρμῶν γάρ σου ἡ νουθέτησις. Πῶς
+γὰρ ἂν ὑπέστημεν ⁸, ἐπειγομένην ἀπαιτούμενοι κρί-
+σιν, ὁπότε μακροθυμούμενοι, μόλις ἀνανέομεν τῆς
+ἀσθενείας; Σοῦ τὸ κράτος ἀνήγγειλαν οἱ οὐρανοὶ, καὶ
+γῆ κραδινομένη τὴν ἀσφάλειαν, ἐπ᾽ οὐδενὸς κρεμα-
+
+# block=3
+Magnus es, Domine omnipotens, et magna virtus
+tua, et sapientiæ tuæ non est numerus ⁷; creator,
+salvator, dives in gratiis, longanimis, et misericor-
+diæ largitor; qui creaturarum tuarum salutem non
+deseris; natura enim bonus es: parcis autem de-
+linquentibus, eos ad pœnitentiam provocans: tua-
+rum quippe miserationum effectus est admonitio.
+Etenim quomodo sustineremus, si ad causam di-
+cendam statim repeteremur, quando longa patien-
+tia exspectati, vix ab infirmitate respiramus? Tuam
+potentiam annuntiaverunt cœli; et terra concussa,
+
+# block=14
+⁴ Gen. I, 26. ⁵ Hebr. VI. ⁶ 1 Tim. I, 1. ⁷ Psal. CXLVI, 5. ⁸ al. ὑποστῶμεν.
+
+# block=13
+VARIORUM NOTÆ.
+
+# block=9
+(84) Κόσμου κόσμον. Elogio eodem homo deco-
+ratur a Methodio apud Epiphanium, hæresi 64, Ori-
+geniana, cap. 18, et ab incerto auctore Commenta-
+riorum in Joh. Philoni autem de Abrahamo scri-
+benti, homo est κόσμος ἐν κόσμῳ. Vide Nilum, lib.
+II, epist. 119. COT.
+
+# block=10
+ac στοιχεῖα πρῶτα, ut hæc posteriora glossema ha-
+beri queant. CL.
+(86) Ταῖς. Addit idem codex αὐτοῦ, nec male.
+COT.
+(87) Κηδεμονίαν. Vindob. cod. οἰκονομίαν, mi-
+nus recte. ID.
+(88) Παρορῶν. Cod. Vind. ἀφεὶς, eodem sensu.
+ID.
+
+# block=7
+(85) Στοιχείων, πρώτων. Hæc omittuntur in cod.
+Vindobonensi. Ac sane τέσσαρα σώματα sunt idem

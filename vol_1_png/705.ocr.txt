@@ -1,0 +1,202 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,189,138,946,908
+2,978,133,1732,906
+3,978,1005,1740,1656
+4,188,1012,950,1703
+6,190,1824,944,2082
+7,185,2258,957,2691
+8,430,921,706,963
+9,593,76,1286,121
+11,984,1824,1747,2081
+12,1275,1708,1434,1739
+13,200,2099,1781,2205
+14,830,2213,1141,2254
+16,985,1750,1738,1817
+17,442,1708,689,1740
+18,188,1752,944,1818
+19,1525,2701,1563,2742
+20,988,2258,1761,2687
+21,173,78,255,124
+22,1657,72,1725,116
+23,411,968,731,1018
+24,1261,920,1447,962
+25,1269,970,1449,1008
+26,317,2694,581,2746
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+διδόντα, ἤπερ τὸν λαμβάνοντα ²¹· καὶ γὰρ εἴρηται
+πάλιν ὑπ’ αὐτοῦ ²²· Οὐαὶ τοῖς ἔχουσιν (23), καὶ ἐν ὑπο-
+κρίσει λαμβάνουσιν, ἢ δυναμένοις βοηθεῖν ἑαυτοῖς,
+καὶ λαμβάνειν παρ’ ἑτέρων βουλομένοις· ἑκάτερος
+γὰρ ἀποδώσει λόγον Κυρίῳ τῷ Θεῷ ἐν ἡμέρᾳ κρίσεως.
+Ὁ μὲν γὰρ δι’ ἡλικίαν ²⁴ ὀρφανίας, ἢ γήρως ²⁵ ἀτο-
+νίαν, ἢ νόσου πρόσπτωσιν, ἢ τέκνων πολυτροφίαν
+λαμβάνων· ὁ τοιοῦτος οὐ μόνον οὐ μεμφθήσεται,
+ἀλλὰ καὶ ἐπαινεθήσεται· θυσιαστήριον γὰρ τῷ Θεῷ
+λελογισμένος, ὑπὸ τοῦ Θεοῦ τιμηθήσεται, ἀόκνως
+ὑπὲρ τῶν διδόντων αὐτῷ διηνεκῶς προσευχόμενος·
+οὐκ ἀργῶς λαμβάνων, ἀλλὰ τῆς (24) δόσεως αὐτοῦ,
+ὅση δύναμις, τὸν μισθὸν διδοὺς διὰ τῆς προσευχῆς·
+ὁ τοιοῦτος οὖν ἐν τῇ αἰωνίῳ ζωῇ ὑπὸ Θεοῦ μακαρι-
+σθήσεται ²⁶· ὁ δὲ ἔχων, καὶ ἐν ὑποκρίσει ²⁷ λαμβά-
+νων, ἢ δι’ ἀργίαν, ἀντὶ τοῦ ἐργαζόμενον βοηθεῖν καὶ
+ἑτέροις, δίκην ὀφλήσει τῷ Θεῷ, ὅτι πενήτων ²⁸ ἥρπασε
+ψωμόν.
+
+# block=2
+eum qui dat quam qui accipit ²²; sed et ab eo etiam
+dictum est : Væ iis qui habent, et in hypocrisi ac-
+cipiunt ²³; aut qui cum, sibi possint suppetias af-
+ferre, ab aliis accipere volunt : uterque enim Do-
+mino Deo reddet rationem in die judicii. Sed qui ac-
+cipit, aut propter ætatem pupillarem, aut ob sene-
+ctutis debilitatem, aut propter morbum incidentem,
+aut propter alendorum liberorum multitudinem; is
+non modo non reprehendetur, verum etiam lauda-
+bitur : siquidem a Deo altare reputatus, ab eo hono-
+rabitur; impigre pro largitoribus suis ac assidue
+deprecans; non otiose sumens, sed quoad ejus est,
+per preces suas, doni mercedem præbitori tribuens.
+Hic igitur in vita sempiterna beatus a Deo prædi-
+cabitur. Qui vero habet, et in hypocrisi capit, aut
+propter inertiam, cum deberet ex opere suo etiam
+alios adjuvare; is Deo pœnas persolvet, quia pau-
+perum buccellam rapuit.
+
+# block=3
+Nam qui habet pecunias, et aliis non impertitur,
+neque vero ipse utitur; hic sortitus est locum ser-
+pentis, quem aiunt thesauris incubare, ac de eo ho-
+mine vera est Scriptura, quæ ait : « Congregavit
+divitias, ex quibus non gustabit ²⁹, » et nihil ei emo-
+lumenti, pereunti a supplicio : « Non enim prode-
+runt, » inquit, « opes in die iræ ³⁰. » Siquidem qui
+talis est, non credidit Deo, sed auro suo, quod Deum
+putat, et in quo confidit. Idem, simulator veritatis
+est, personarum acceptor, infidelis, cavillator, ti-
+midus, ignavus, levis, ineptus, querulus, seipsum
+excrucians, inimicus sibi ac nemini amicus. Hujus
+bona peribunt, et homo extraneus comedet ea ³¹,
+vel eo vivente auferens, vel mortuo, consecutus.
+« Divitiæ enim inique congregatæ evomentur ³². »
+
+# block=4
+Ὁ γὰρ ἔχων ἀργύρια, καὶ μὴ μεταδιδοὺς ἑτέροις,
+μήτε μὴν αὐτὸς χρώμενος, τόπον ὄφεως κεκλήρωκεν,
+ὅν φασιν ἐν τοῖς θησαυροῖς καθεύδειν (25)· καὶ ἔστι
+καὶ (26) ἐπ’ αὐτῷ ἀληθὴς ἡ Γραφὴ, ἡ φάσκουσα· « Συν-
+ήγαγε πλοῦτον ἐξ οὗ οὐ γεύσεται· » καὶ οὐδὲν αὐτῷ
+ὄφελος, ἀπολλυμένῳ παρὰ τῆς δίκης. « Οὐκ ὠφελή-
+σει γὰρ, φησὶν, ὑπάρχοντα ἐν ἡμέρᾳ ὀργῆς. » Ὁ
+γὰρ τοιοῦτος οὐ τῷ Θεῷ πεπίστευκεν, ἀλλὰ τῷ ἑαυ-
+τοῦ χρυσίῳ, Θεὸν τοῦτο ἡγούμενος, καὶ ἐπ’ αὐτῷ πε-
+ποιθώς. Ὑποκριτὴς ἀληθείας ὁ τοιοῦτος, προσωπο-
+λήπτης, ἄπιστος, εἴρων, δειλὸς, ἄνανδρος, κοῦφος,
+εὐχερὴς, μεμψίμοιρος, ἐπώδυνος (27), ἑαυτοῦ ἐχθρὸς
+καὶ οὐδενὸς φίλος. Τούτου τὰ χρήματα ὀλεῖται· καὶ
+ἀνὴρ ξένος ἔδεται αὐτὰ, ἢ ζῶντος ὑφελόμενος, ἢ
+θανόντος καρπωσάμενος. « Πλοῦτος γὰρ ἀδίκως συν-
+αγόμενος, ἐξεμεθήσεται. »
+
+# block=6
+Παραινοῦμεν οὖν ταῖς χήραις καὶ τοῖς ὀρφανοῖς,
+μετὰ παντὸς φόβου καὶ πάσης εὐλαβείας μεταλαμ-
+βάνειν τῶν αὐτοῖς χορηγουμένων, καὶ εὐχαριστεῖν
+Θεῷ, τῷ διδόντι τοῖς πεινῶσι τροφὴν, καὶ ἐπ’ αὐτῷ
+τοὺς ὀφθαλμοὺς ἐκτείνειν. « Τίς γὰρ, φησὶν, ὑμῶν
+φάγεται, ἢ τίς πίεται, παρὲξ αὐτοῦ; » Αὐτὸς γὰρ
+
+# block=7
+Quæstionibus mss. ejusdem librariæ, scriptum in-
+veni : Δι’ ἡλικίαν ὀρφανίας, ἢ γήρως, ἢ ἀδυναμίαν,
+ἢ νόσου πρόσπτωσιν. Pro quibus interpres legisse vi-
+detur : Δι’ ἡλικίαν, ἢ ὀρφανίαν, ἢ γῆρας, ἢ ἀδυνα-
+μίαν, etc. Nicon collector ineditus, cap. 36, citat :
+ἢ γήρους, ἀδυναμίαν, al. ἢ γήρους, ἢ ἀδυναμίαν. Cot.
+(23) Οὐαὶ τοῖς ἔχουσιν, etc., ad βουλομένοις.
+Exstant in membranis regiis codicis 2241 Eclogæ sa-
+cræ ineditæ. Illic sententia hæc Κλήμεντος nomine
+se offert, λόγῳ ια' qui inscribitur : "Ὅτι οὐ μόνον ἐργά-
+ζεσθαι ὀφείλομεν πρὸς τὸ ἐπαρκεῖν ἑαυτοῖς, ἀλλὰ καὶ
+πρὸς τὴν τῶν δεομένων διατροφήν. Cot.
+(24) Τῆς. Alter codex ὑπὲρ τῆς. Cler.
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ Δ'.
+
+# block=9
+CONSTITUTIONES APOSTOLICÆ. — LIB. IV
+
+# block=11
+Consilium igitur damus viduis et pupillis, ut cum
+summo metu et summa reverentia capiant quæ eis
+suppeditantur, utque Deo escam danti esurientibus ³³,
+gratias agant, et in eum oculos intendant. « Quis
+enim, » inquit, « vestrum comedet, aut quis bibet
+sine ipso ? » ³⁴ Ipse enim aperit manum suam, et im-
+
+# block=12
+CAPUT V.
+
+# block=13
+²¹* Act. xx, 35. ²² Anast. οὐαὶ γὰρ τοῖς, etc. ²³ Matth. xxiii, 14. ²⁴ Anast. ἡλικίας. ²⁵ Anast. ἢ
+ἀδυναμίας. ²⁶ Anast. ὡς εἴρηται. ²⁷ Anast. δι’ ὑπόκρισιν. ²⁸ al. Anast. ²⁹ Eccle. v, 9. ³⁰ Prov. xi,
+4, ap. LXX. ³¹ Eccle. vi, 2. ³² Job xx, 15, apud LXX. ³³ Psal. cxlv, 7. ³⁴ Eccle. ii, 25, in LXX.
+
+# block=14
+VARIORUM NOTÆ.
+
+# block=16
+Cum quanto timore oporteat collationes Dominicas
+sumere.
+
+# block=17
+ΚΕΦΑΛΑΙΟΝ Ε'.
+
+# block=18
+Μετὰ ποίου φόβου χρὴ τῶν Κυριακῶν μετέχειν
+συνεισφορῶν.
+
+# block=19
+26
+
+# block=20
+(25) Ὅν φασιν ἐν τοῖς θησαυροῖς καθεύδειν.
+S. Basilius de utiliter legendis gentilium libris :
+Πλὴν εἰ μὴ, κατὰ τοὺς ἐν τοῖς μύθοις δράκοντας,
+ἡδονήν τινα φέροι θησαυροῖς κατωρυγμένοις ἐπα-
+γρυπνεῖν. Scilicet, docente cum aliis Macrobio Sa-
+turnal. lib. I, cap. 20, thesaurorum custodia dra-
+conibus assignatur. Vide, si vacat et lubet, elegan-
+tem fabulam Phædri, 19, lib. IV. Cot.
+(26) Καὶ. Deest in altero codice et quidem melius.
+Cler.
+(27) Ἐπώδυνος. Deest in altero cod., quia idem
+seqq. verbis exprimitur. Id.
+
+# block=21
+809
+
+# block=22
+810
+
+# block=23
+Περὶ φιλαργυρίας.
+
+# block=24
+CAPUT IV.
+
+# block=25
+De avaritia.
+
+# block=26
+PATROL. GR. I.

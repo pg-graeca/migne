@@ -1,0 +1,201 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,241,622,996,1006
+2,1031,624,1785,1049
+3,232,2105,984,2403
+4,234,139,995,485
+5,1023,2106,1771,2408
+6,1027,1144,1782,1962
+7,1035,146,1786,485
+8,230,2599,986,2704
+9,229,1155,995,1967
+10,1052,2600,1766,2674
+11,1282,2023,1529,2055
+12,524,2019,698,2054
+13,647,86,1371,125
+14,518,1060,703,1092
+15,526,502,709,538
+16,285,548,960,617
+19,246,90,301,125
+20,1165,507,1662,544
+21,851,2525,1148,2563
+22,273,2432,1682,2480
+23,1157,552,1653,592
+24,223,1094,989,1142
+25,1275,1056,1525,1100
+26,1071,1100,1729,1144
+27,261,2054,951,2108
+28,1021,2062,1773,2104
+29,1719,94,1787,136
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Scitote, charissimi, quod qui in mortem Domini
+Jesu sunt baptizati, non debent amplius peccare.
+Nam sicut mortui, peccati capaces non sunt; ita et
+Christo commortui, peccatum committere ne-
+queunt. Itaque, fratres, non credimus quempiam
+vitæ lavacro lotum, adhuc iniquorum flagitii se in-
+quinare. Qui autem post baptismum deliquerit, hic
+nisi resipiscat ac peccare desinat, ad gehennam
+condemnabitur.
+
+# block=2
+Γνωστὸν δὲ ἔστω ὑμῖν, ἀγαπητοὶ, ὅτι οἱ βαπτισ-
+θέντες εἰς τὸν θάνατον τοῦ Κυρίου Ἰησοῦ, οὐκέτι
+ὀφείλουσιν ἁμαρτάνειν οἱ τοιοῦτοι. Ὡς γὰρ οἱ ἀπο-
+θανόντες ἀνενέργητοι πρὸς ἁμαρτίαν ὑπάρχουσιν, οὕτω
+καὶ οἱ συναποθανόντες τῷ Χριστῷ ἄπρακτοι πρὸς
+ἁμαρτίαν. Οὐ πιστεύομεν οὖν, ἀδελφοὶ, λουσάμενόν
+τινα τὸ τῆς ζωῆς λουτρὸν, ἔτι πράσσειν τὰ τῶν ἀνόμων
+ἀσελγήματα. Ὁ δὲ ἁμαρτήσας μετὰ τὸ βάπτισμα,
+οὗτος ἐὰν μὴ μεταγνῷ, καὶ παύσηται τοῦ πλημμε-
+λεῖν, εἰς γέενναν κατακριθήσεται.
+
+# block=3
+Oportet enim episcopum non modo inculpatum
+esse, sed et personarum non acceptatorem, quique
+peccatores humaniter castiget. Quod si sibi quoque
+male conscius, et certis personis gratificari cu-
+piens, sordide acceptis muneribus, sceleroso pe-
+percerit, eumque in Ecclesia manere permiserit,
+et neglexerit divinas ac Dominicas voces, dicen-
+
+# block=4
+morat ac dicit : ‹ Qui habet aures audiendi, au-
+diat ⁶². › Et sapiens Salomon : ‹ Audi, inquit, fili,
+disciplinam patris tui, et ne abjicias leges matris
+tuæ ⁶³. › Profecto hactenus non audierunt; nam se
+audiisse putantes, perperam audierunt; derelicto
+uno ac solo vero Deo, et ad perniciosas atque ex-
+secrabiles hæreses distracti, de quibus infra di-
+cemus.
+
+# block=5
+Οὐ γὰρ μόνον ἀπρόσκοπον εἶναι χρὴ τὸν ἐπίσκοπον,
+ἀλλὰ καὶ ἀπροσωπόληπτον, ἐν χρηστότητι σωφρονί-
+ζοντα τοὺς ἁμαρτάνοντας. Εἰ δὲ καὶ αὐτὸς οὐκ εὐσυν-
+είδητος ὑπάρχων, προσωπολήπτης γενόμενος, διά
+τινα αἰσχροκερδῆ δωροληψίαν, φείσεται τοῦ ἀνόμως
+ἁμαρτόντος, ἐάσας ἐν τῇ Ἐκκλησίᾳ μένειν αὐτὸν,
+παρακούσας τῆς θείας καὶ Κυριακῆς φωνῆς τῆς (24)
+
+# block=6
+Εἰ δέ τις ὑπὸ ἀπίστων συκοφαντηθῇ διὰ τὸ μηκέτι
+αὐτοῖς συνασελγαίνειν, γινωσκέτω ὅτι μακάριος ὁ
+τοιοῦτος ὑπάρχει Θεῷ (22)· καθὼς καὶ ὁ Κύριος ἐν τῷ
+Εὐαγγελίῳ λέγει· ‹ Μακάριοί ἐστε, ὅταν ὀνειδίσωσιν
+ὑμᾶς, ἢ διώξωσιν, ἢ εἴπωσι καθ’ ὑμῶν πᾶν πονηρὸν
+ῥῆμα, ψευδόμενοι, ἕνεκεν ἐμοῦ· χαίρετε, καὶ ἀγαλ-
+λιᾶσθε, ὅτι ὁ μισθὸς ὑμῶν πολὺς ἐν τοῖς οὐρανοῖς. › Εἰ
+οὖν τις βλασφημηθείη ἐπὶ ψεύσματι, μακάριος ὁ τοιοῦ-
+τος. Λέγει γὰρ ἡ Γραφή· ‹ Ἀνὴρ ἀδόκιμος, ἀπείρα-
+στος παρὰ Θεῷ. › Εἰ δέ τις ἐλεγχθῇ πράξας τι ἄνο-
+μον, ὁ τοιοῦτος οὐ μόνον ἑαυτὸν ἔβλαψεν, ἀλλὰ καὶ βλασ-
+φημίαν προσέτριψε τῷ κοινῷ τῆς Ἐκκλησίας σώματι,
+καὶ τῇ διδασκαλίᾳ, ὡς μὴ ποιούντων ἐκεῖνα, ἃ λέγο-
+μεν εἶναι καλά, καὶ ὀνειδισθησόμεθα καὶ ἡμεῖς ὑπὸ
+τοῦ Κυρίου, ὅτι ‹ Λέγουσι, καὶ οὐ ποιοῦσιν. › Ὅθεν
+τοὺς τοιούτους ἐλεγχθέντας ἀληθῶς, παραιτήσεται
+μετὰ παῤῥησίας ὁ ἐπίσκοπος, εἰ μὴ μεταβάλωνται
+τὸν τρόπον.
+us fidenter abdicabit.
+
+# block=7
+λάκις μνημονεύεται λέγων· ‹ Ὁ ἔχων ὦτα ἀκούειν,
+ἀκουέτω. › Καὶ ὁ σοφὸς Σολομών φησιν· ‹ Ἄκουε,
+υἱὲ, παιδείαν πατρός σου, καὶ μὴ ἀπώσῃ θεσμοὺς μη-
+τρός σου. › Καὶ μέχρι σήμερον οὐκ ἤκουσαν· καὶ δο-
+κοῦντες γὰρ (21) ἀκηκοέναι, παρήκουσαν, καταλεί-
+ψαντες τὸν ἕνα καὶ μόνον ἀληθινὸν Θεὸν, καὶ εἰς τὰς
+ὀλεθρίους καὶ δεινὰς αἱρέσεις κατασυρέντες, περὶ ὧν
+αὖθις ἐροῦμεν.
+
+# block=8
+(21) Καὶ δοκοῦντες γάρ. Οἱ δ. δέ, alter co-
+dex. CLER.
+(22) Θεῷ. Alter codex Vind. παρὰ Θεῷ. ID.
+
+# block=9
+Quod si aliquis ab infidelibus, quia non est am-
+plius eorum nequitiæ consors, calumniosas patitur
+delationes; sciat ille se beatum esse apud Deum :
+quemadmodum et Dominus in Evangelio loquitur :
+‹ Beati estis cum maledixerint vobis, vel persecuti
+vos fuerint, vel dixerint adversum vos omne malum
+verbum, mentientes, propter me : gaudete et ex-
+sultate, quoniam merces vestra copiosa est in
+cœlis ⁶⁴. › Qui igitur mendacibus appetitur convi-
+ciis, is vere beatus est; quandoquidem Scriptura
+dicit : ‹ Vir reprobus non tentatur a Deo ⁶⁵. › Porro
+qui mali quidpiam egisse convincetur, ille non so-
+lum nocuit sibi, verum etiam in commune Ecclesiæ
+corpus et in sacram doctrinam injuriosus fuit;
+quasi eam honestatem quam prædicamus, operibus
+non probemus, mereamurque etiam nos illam ex-
+probrationem a Domino audire : ‹ Dicunt, et non
+faciunt ⁶⁶. › Quapropter homines hujusmodi, qui
+vere convicti fuerint, nisi mores mutaverint, episc-
+
+# block=10
+(23) Inscriptio hæc deest in utroque codice. ID.
+(24) Τῆς. Hæc vocula deest in altero cod. ID.
+
+# block=11
+ΚΕΦΑΛΑΙΟΝ Θ'.
+
+# block=12
+CAPUT IX.
+
+# block=13
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=14
+CAPUT VIII.
+
+# block=15
+CAPUT VII.
+
+# block=16
+Qualem oportet esse eum qui per baptismum est
+initiatus.
+
+# block=19
+607
+
+# block=20
+ΚΕΦΑΛΑΙΟΝ Ζ'.
+
+# block=21
+VARIORUM NOTÆ.
+
+# block=22
+⁶² Matth. xi et xiii. ⁶³ Prov. i, 8. ⁶⁴ Matth. v, 11. ⁶⁵ Jac. i, 12, 13. ⁶⁶ Matth. xxiii, 3.
+
+# block=23
+Οἷον χρὴ εἶναι τὸν μεμυημένον
+
+# block=24
+De eo qui in calumniam, vel reprehensionem incurrit.
+
+# block=25
+ΚΕΦΑΛΑΙΟΝ Η'.
+
+# block=26
+Περὶ συκοφαντουμένου, ἤτοι ἐλεγχομένου.
+
+# block=27
+Episcopum non debere esse muneribus pervium.
+
+# block=28
+Ὅτι ἀδωροδόκητον εἶναι χρὴ τὸν ἐπίσκοπον (23).
+
+# block=29
+608

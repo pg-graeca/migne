@@ -1,0 +1,184 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,201,1109,944,1746
+2,204,589,945,1098
+3,981,1494,1724,2523
+4,197,1841,949,2524
+5,204,156,948,580
+6,981,236,1729,1488
+7,797,102,1158,142
+8,979,160,1721,238
+9,299,1756,799,1832
+10,199,2601,951,2710
+12,1000,2597,1708,2635
+13,1690,110,1728,138
+15,196,76,278,140
+16,973,2629,1043,2675
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=16px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=16px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+93
+
+# block=7
+PROCŒMIA VARIORUM
+
+# block=13
+94
+
+# block=5
+dem cum singulis conferre haud expediat, tum in
+primis quod a plerisque viris eruditis res abunde
+satis fuerit pertractata. Firmum igitur ratumque sit,
+germanam omnino esse priorem Clementis episto-
+lam, quæ utinam ad nos integra pervenisset! quid-
+quid enim in ea continetur, tempora plane aposto-
+lica refert; neque ullum ex omni retro antiquita-
+te quispiam testem produxerit, qui homines corda-
+tos de illius sinceritate merito ancipites reddere
+valeat.
+
+# block=8
+porro ne illam quidem Corinthiorum nomine si-
+gnatam ex ejusdem indiculi silentio jure arguat?
+
+# block=6
+Neque item silentium nos moveat Eusebii, et qui
+eum secuti sunt, Hieronymi atque Rufini; qui dum
+Epistolæ secundæ meminerunt, Ecclesiæ Corin-
+thiacæ fuisse illam inscriptam non perhibent. Cum
+enim laudati scriptores, ut recte Coutantius, me-
+morata priore Clementis ad Corinthios Epistola,
+statim subdant : Fertur et altera, neque ad alios
+hanc alteram scriptam esse designent, eam quoque
+ad eosdem scriptam intelligere merito existiman-
+tur: alioquin, si ad alios missam nossent, neque id
+innuissent, hæc ipsorum reticentia jure ac merito
+negligentiæ culpanda videretur. Quid quod Doro-
+theus archimandrita, Joannes Damascenus et Nicon
+monachus secundam Clementis Epistolam, et qui-
+dem ad Corinthios scriptam, legerunt, ejusque
+unum alterumve fragmentum apud illos servatum
+etiamnum reperimus? Quid quod vel ipse Photius
+semel iterumque palam testatur, sibi lectum libellum
+in quo Clementis Epistolæ duæ ad Corinthios conti-
+nebantur, ejusque de utraque judicium mire con-
+sonat cum iis quæ adhuc supersunt? Consulesis
+infra veterum testimonia Epistolis Clementinis præ-
+missa, fragmentaque iisdem subjecta. Si quid ergo
+negotii facessant antiquiorum Eusebii, Hieronymi
+ac Rufini loca haud satis aperta, quod tamen vix
+admiserim, hinc procul dubio difficultas omnis
+tollatur oportet; cum diserta posteriorum scripto-
+rum verba, priorum et sententiam explanent et
+testimonia confirment.
+
+# block=2
+III. Posterioris item ad Corinthios Epistolæ Cle-
+mentinæ, sunt qui non solum veritatem, verum
+etiam antiquitatem impugnant. His nuper etiam ac-
+cessit haud incelebris criticus Hermannus Venema
+in Epistolis Harlingæ evulgatis, eo potissimum no-
+mine, quo epistolarum Clementis a clar. Wetstenio
+haud ita pridem editarum integritatem everteret :
+qua de re mox inferius. Ne itaque officio nostro
+deesse videamur, Cotelerium, Bullum, Coutantium
+aliosque viros doctos assectati, adversariorum ob-
+jectationibus facere satis operæ pretium existima-
+mus.
+
+# block=1
+Observandum itaque primum Epistolam utram-
+que ex uno superstite vetustissimo codice Alexan-
+drino in lucem prodiisse. Scilicet, codex iste qua-
+tuor voluminibus constans, præfixum habet indi-
+culum librorum utriusque Fœderis, ab ejusdem li-
+brarii manu characteribus uncialibus exaratum:
+quem integrum exhibet Beveregius (14), et quidem
+summa fide descriptum, adeo ut ne lacunas quidem
+suppleverit, sed ubi litteræ quævis erant vetustate
+abrasæ, ibi interstitia accurate dimensa reliquerit:
+quod itidem præstitit ex Beveregio Humfredus
+Hodius (15); et deinceps, at non pari religione,
+Joannes Ernestus Grabius (16). In hoc igitur indi-
+culo sub finem, litteris grandioribus absque accen-
+tibus et spiritibus quibus caret, sic legitur :
+
+# block=3
+Ex his itaque compertum habemus, ut equidem
+existimo, haud parum ponderis ad asserendam
+Clementi Romano hanc secundam Epistolam, habere
+auctoritatem codicis Alexandrini, proximo ut vi-
+detur sæculo post concilium Nicænum ex anti-
+quiore profecto exemplari descripti. Ex eo enim
+liquet utramque Clementinam Epistolam non solum
+inter canonicas Scripturas perinde recensitam
+fuisse, ac si utraque vere canonica esset, verum
+etiam ambas propterea in sacrorum Librorum censu
+locum habuisse, unaque cum aliis canonicis libris
+fuisse compactas, quod utraque tunc temporis in
+cœtibus ecclesiasticis vel legi soleret, vel saltem
+sacræ publicæ lectioni destinaretur. Quod quidem
+magis adhuc confirmatur ex canonibus apostolicis,
+circa sæculi III medium collectis: in horum enim
+canonum ultimo, sacrarum Scripturarum recen-
+sionem proferente, post enumeratas apostolorum
+Epistolas statim subjiciuntur Κλήμεντος ἐπιστολαὶ
+δύο : quæ profecto eædem fuisse videntur cum iis
+quas Alexandrini codicis indiculus exhibet; eo vel
+maxime quod eodem plane ordine quo laudatus
+indiculus, canon iste apostolicus illas digerat : ut
+proinde nulla subsit dubitatio, quominus utriusque
+
+# block=9
+ΚΛΗΜΕΝΤΟΣ Ε. . . . . . . ΛΗ Α̅
+..... ΕΝΤΟΣ Ε. . . . . . . ΛΗ Β̅
+
+# block=4
+Quas autem præ se fert hic indiculus duas Cle-
+mentis Epistolas, eas exhibet ad calcem ejusdem
+ms. codicis volumen quartum: priorem quidem sic
+inscriptam , ΚΛΗΜΕΝΤΟΣ ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ
+ΕΠΙΣΤΟΛΗ Α ; posteriorem vero sic, ΚΛΗΜΕΝ-
+ΤΟΣ ΕΠΙΣΤΟΛΗ Β : ut videre est apud Wot-
+tonum, solertissimum laudati codicis exscripto-
+rem. Ex hoc igitur Alexandrino exemplari comper-
+tum est, primo, duas Epistolas Clementem scri-
+psisse; deinde utramque fuisse Corinthiis inscri-
+ptam. Licet enim posterior, ex librariorum fortasse
+incuria, prænotata πρὸς Κορινθίους haud compareat;
+quidni et eam ad Corinthios missam existimemus,
+cum prioris inscriptio hac de re satis superque in-
+dubios nos reddat? Enimvero neque prior legitur
+in indiculo fuisse ad Corinthios perscripta. Quis
+
+# block=12
+(16) Prolegom. ad vers. LXX, tom. I, cap. 1.
+
+# block=10
+(14) Cod. can. Eccl. prim., lib. II, cap. 9.
+(15) De Bibl. text. orig., lib. IV, cap. 4, p.
+649.
+
+# block=16
+§ 2.

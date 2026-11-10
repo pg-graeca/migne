@@ -1,0 +1,188 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,233,829,991,1743
+2,1022,822,1784,1713
+3,228,1891,986,2453
+4,1010,1890,1769,2450
+5,212,146,997,617
+6,254,2627,959,2710
+7,637,91,1377,129
+8,238,747,983,815
+9,244,89,297,132
+11,1007,2631,1767,2708
+12,1025,1803,1768,1873
+13,229,2485,1764,2561
+15,1025,148,1785,622
+16,232,1803,982,1876
+17,223,616,1407,664
+18,521,686,703,736
+19,1275,682,1525,732
+20,1031,740,1781,818
+21,505,1740,713,1794
+22,1237,1736,1513,1788
+23,825,2568,1153,2612
+24,1715,88,1781,136
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Si quis autem, se fratrem esse dicens, diaboli
+fraude' maleficium commiserit, convictusque ad
+mortem damnatus fuerit tanquam adulter, aut
+homicida; digredimini ab illo, ut sitis inviolati,
+et ne quis vestrum veniat in suspicionem velut
+sceleris particeps, infamiamque aspergat, quasi
+omnes Christiani flagitiosis actionibus delectentur.
+Quocirca procul ab eis recedite. At iis, qui pro-
+pter Christum calumniam passi, in carcerem in-
+cluduntur, aut morti traduntur, vel vinculis, vel
+exsilio; suppetias ferte omni studio, membra vestra
+ex manibus nefariorum eripientes. Atque si quis
+propter eos fratres assistens, comprehensus fuerit,
+et injuriose tractatus, beatus est, quod socius
+martyris, imitatorque passionum Christi sit ef-
+fectus. Etenim nos quoque, Christi causa, sæpe
+apud Caipham et Alexandrum et Annam verberibus
+affecti, læti exivimus, quod digni habiti essemus
+talia propter Salvatorem nostrum pati ⁸⁸. Vos etiam
+perpetientes ista, gaudete; quoniam beati eritis in
+illa die ⁸⁹.
+
+# block=2
+Εἰ δέ τις ἀδελφὸν λέγων ἑαυτὸν εἶναι, ἀπατηθεὶς
+ὑπὸ τοῦ πονηροῦ κακοποιήσῃ, καὶ ἐλεγχθεὶς κατα-
+κριθῇ θανάτῳ ὡς μοιχὸς, ἢ φονεὺς, χωρίζεσθε
+ἀπ’ αὐτοῦ, ἵνα ἦτε ἄσυλοι (73), καὶ μή τις ὑμῶν ὡς
+κοινωνὸς τοῦ μύσους ὑποπτευσθῇ, καὶ καταχέηται
+βλασφημίαν, ὡς πάντων Χριστιανῶν χαιρόντων ἐπὶ
+τοῖς παρανόμοις ἔργοις. Διὸ μακρὰν ἀπ’ αὐτῶν χω-
+ρεῖτε. Τοῖς μέν τοι διὰ Χριστὸν κατ’ ἐπήρειαν παρὰ
+τῶν ἀσεβῶν συγκλειομένοις εἰς φυλακὴν, ἢ πρὸς θά-
+νατον ἐκδιδομένοις, ἢ πρὸς δεσμὰ, καὶ ἐξορίαν, πάσῃ
+σπουδῇ βοηθεῖτε, τὰ μέλη ὑμῶν ῥυόμενοι ἐκ χειρῶν
+ἀθέσμων. Καὶ ἐάν τις αὐτοῖς συγκείμενος συλλη-
+φθῇ (74), καὶ αἰκίαις ὑποπέσοι, μακάριός ἐστιν, ὅτι
+κοινωνὸς μάρτυρος ἐγένετο, καὶ μιμητὴς τῶν τοῦ
+Χριστοῦ παθημάτων. Καὶ γὰρ καὶ ἡμεῖς ὑπὲρ Χρι-
+στοῦ πολλάκις ὑπὸ Καϊάφα καὶ Ἀλεξάνδρου καὶ
+Ἄννα πληγὰς λαβόντες, χαίροντες ἐξῄημεν, ὅτι κατ-
+ηξιώθημεν ὑπὲρ τοῦ Σωτῆρος ἡμῶν τοιαῦτα παθεῖν.
+Καὶ ὑμεῖς χαίρετε ταῦτα πάσχοντες· ὅτι μακάριοι
+γενήσεσθε ἐν ἐκείνῃ τῇ ἡμέρᾳ.
+
+# block=3
+Eos vero, qui propter fidem exagitantur, et ex
+Domini mandato fugiunt a civitate in civitatem ⁹⁰,
+suscipite, adjuvate, complectimini, tanquam mar-
+tyres; læti quod participastis eorum persecutioni,
+gnari eos a Domino beatos prædicari. Ipse enim
+ait: « Beati estis cum maledixerint vobis, et per-
+secuti vos fuerint, et dixerint omne malum adver-
+sum vos, mentientes, propter me. Gaudete et exsul-
+tate, quoniam merces vestra copiosa est in cœlis.
+Sic enim persecuti sunt prophetas, qui fuerunt
+ante vos ⁹¹. » Et rursus: « Si me persecuti sunt,
+et vos persequentur ⁹². » Et adhuc: « Si perse-
+quantur vos in civitate ista, fugite in aliam ⁹²*. » Quo-
+
+# block=4
+Καὶ τοὺς διωκομένους δὲ διὰ τὴν πίστιν, καὶ πόλιν
+ἐκ πόλεως φεύγοντας, διὰ τὴν ἐντολὴν τοῦ Κυρίου,
+προσλαμβάνεσθε αὐτοὺς, ἀντιλαμβανόμενοι αὐτῶν,
+καὶ προσδεχόμενοι αὐτοὺς, ὡς μάρτυρας· χαίροντες
+ὅτι κοινωνοὶ αὐτῶν τοῦ διωγμοῦ γεγένησθε, γινώ-
+σκοντες αὐτοὺς ὑπὸ τοῦ Κυρίου μεμακαρίσθαι. Φησὶ
+γὰρ αὐτός· « Μακάριοί ἐστε ὅταν ὀνειδίσωσιν ὑμᾶς,
+καὶ διώξωσι, καὶ εἴπωσι πᾶν πονηρὸν ῥῆμα καθ’ ὑ-
+μῶν, ψευδόμενοι, ἕνεκεν ἐμοῦ· Χαίρετε καὶ ἀγαλλιᾶ-
+σθε, ὅτι ὁ μισθὸς ὑμῶν πολὺς ἐν τοῖς οὐρανοῖς. Οὕτω
+γὰρ ἐδίωξαν τοὺς προφήτας, τοὺς πρὸ ὑμῶν. » Καὶ
+πάλιν· « Εἰ ἐμὲ ἐδίωξαν, καὶ ὑμᾶς διώξουσι. » Καὶ
+ἑξῆς· « Ἐὰν διώκωσιν ὑμᾶς ἐν τῇ πόλει ταύτῃ, φεύ-
+
+# block=5
+enim, et non dedistis mihi manducare; sitivi, et non
+dedistis mihi potum; hospes eram, et non colle-
+gistis me; nudus, et non operuistis me; infirmus,
+et in carcere, et non visitastis me. Tunc responde-
+bunt et ipsi, dicentes: Domine, quando te vidimus
+esurientem, aut sitientem, aut hospitem, aut nu-
+dum, aut infirmum, aut in carcere; et non mini-
+stravimus tibi? Tunc respondebit et illis, dicens:
+Amen dico vobis, quatenus non fecistis uni ex his
+minimis, nec mihi fecistis. Et ibunt hi in suppli-
+cium æternum ⁸⁷. »
+
+# block=6
+(72) Φαυλότητι. Antiquior cod. κακίᾳ. CLER.
+(73) Ἄσυλοι. In altero codice est, ἄμωμοι. ID.
+
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=8
+Quod fugienda sit cum falsis fratribus consuetudo,
+dum in malitia perseverant.
+
+# block=9
+831
+
+# block=11
+(74) Συλληφθῇ. Alter cod. κρατηθῇ. In eo finis
+capitis deest. ID.
+
+# block=12
+Ὅτι τοῖς διὰ Χριστὸν πορθουμένοις χρὴ χεῖρα
+ὀρέγειν, κἂν κίνδυνος παρῇ.
+
+# block=13
+⁸⁷ Matth. xxv, 34 et seq. ⁸⁸ Act. iv, 6; v, 40, 41. ⁸⁹ Luc. vi, 22, 23. ⁹⁰ Matth. x, 23. ⁹¹ Matth.
+v, 11. ⁹² Joan. xv, 20. ⁹²* Matth. x, 23.
+
+# block=15
+εὐωνύμων· Πορεύεσθε ἀπ’ ἐμοῦ, οἱ κατηραμένοι, εἰς
+τὸ πῦρ τὸ αἰώνιον τὸ ἡτοιμασμένον τῷ διαβόλῳ καὶ
+τοῖς ἀγγέλοις αὐτοῦ. Ἐπείνασα γὰρ, καὶ οὐκ ἐδώκατέ
+μοι φαγεῖν· ἐδίψησα, καὶ οὐκ ἐποτίσατέ με· ξένος
+ἤμην, καὶ οὐ συνηγάγετέ με· γυμνὸς, καὶ οὐ περιε-
+βάλετέ με· ἀσθενὴς, καὶ ἐν φυλακῇ, καὶ οὐκ ἐπεσκέ-
+ψασθέ με. Τότε ἀποκριθήσονται καὶ αὐτοὶ, λέγοντες·
+Κύριε, πότε σε εἴδομεν πεινῶντα, ἢ διψῶντα, ἢ ξένον, ἢ
+γυμνὸν, ἢ ἀσθενῆ, ἢ ἐν φυλακῇ, καὶ οὐ διηκονήσαμέν
+σοι; τότε ἀποκριθήσεται καὶ αὐτοῖς, λέγων· Ἀμὴν
+λέγω ὑμῖν, ἐφ’ ὅσον οὐκ ἐποιήσατε ἑνὶ τούτων τῶν
+
+# block=16
+Quod propter Christum oppressis oportet manum ad-
+jutricem porrigere, quamvis adsit periculum.
+
+# block=17
+ἐλαχίστων οὐδὲ ἐμοὶ ἐποιήσατε. Καὶ ἀπελεύσονται οὗτοι εἰς κόλασιν αἰώνιον. »
+
+# block=18
+CAPUT II.
+
+# block=19
+ΚΕΦΑΛΑΙΟΝ Β΄.
+
+# block=20
+Ὅτι φευκτέον τῆς [f. τὰς] πρὸς τοὺς ψευδαδέλφους
+συνουσίας, ὅταν ἐπιμένωσι τῇ φαυλότητι (72).
+
+# block=21
+CAPUT III.
+
+# block=22
+ΚΕΦΑΛΑΙΟΝ Γ΄
+
+# block=23
+VARIORUM NOTÆ.
+
+# block=24
+832

@@ -1,0 +1,168 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,191,2246,1731,2381
+2,188,150,944,1957
+3,985,2056,1729,2223
+4,601,88,1300,125
+5,191,2053,953,2221
+6,813,2411,1118,2447
+7,437,1968,752,2002
+8,1250,1969,1463,2005
+9,194,2469,950,2710
+10,973,157,1756,1968
+11,187,92,239,129
+13,1163,2015,1544,2050
+14,293,2001,843,2061
+15,971,2477,1741,2691
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=191 source_y1=2246 source_x2=1731 source_y2=2381
+⁶⁶ in Anastasio additur καὶ λόγοι καλοὶ εὑρέθησαν ἐν σοί. ⁶⁷ II Paralip. xix, 2. ⁶⁸ II Paral. xx, 37.
+⁶⁹ Isa. lvii, 21. ⁷⁰ Isa. lvi, 10. ⁷¹ Luc. xviii, 8. ⁷² Matth. xxiv, 12, 24. ⁷³ l. Ignat. interpol.
+ad Ephes. 9, ad Magn. 9. ⁷⁴-⁷⁵ ad Philad. 3, ad Sm. 7. ⁷⁶ Rom. xvi. 21. ⁷⁷ II Cor. v, 17. ⁷⁸ Isa.
+viii, 20 in LXX.
+
+# block=2 source_x1=188 source_y1=150 source_x2=944 source_y2=1957
+ἡ μισουμένη ὑπὸ Κυρίου βοηθεῖς; Διὰ τοῦτο ἐξαί-
+φνης ὀργὴ Κυρίου ἐγένετο ἐπὶ σὲ, εἰ μὴ ὅτι εὑρέθη
+ἡ καρδία σου τελεία πρὸς Κύριον ⁶⁶. διὰ τοῦτο ἐφεί-
+σατό σου Κύριος· πλὴν ὅτι διεκόπη τὰ ἔργα σου, καὶ
+συνετρίβησαν αἱ νῆές σου. › Φεύγετε οὖν τῆς κοινων-
+νίας αὐτῶν, καὶ τῆς πρὸς αὐτοὺς εἰρήνης ἀλλότριοι
+τυγχάνετε· περὶ αὐτῶν γὰρ ὁ προφήτης ἀπεφήνατο
+λέγων, ὅτι « Οὐκ ἔστι χαίρειν τοῖς ἀσεβέσι, λέγει Κύ-
+ριος. › Οὗτοι γάρ εἰσιν οἱ κρύφιοι λύκοι, οἱ ἐννεοὶ
+κύνες, οἱ οὐ δυνάμενοι ὑλακτεῖν, οἳ νῦν μέν εἰσιν ὀλί-
+γοι, προκόψαντος δὲ τοῦ χρόνου, καὶ τῆς συντελείας
+ἐγγιζούσης, πλείονες καὶ χαλεπώτεροι ἔσονται· περὶ
+ὧν ὁ Κύριος ἔλεγεν, ὅτι· «Ἄρα ὁ Υἱὸς τοῦ ἀνθρώπου
+ἐλθὼν εὑρήσει τὴν πίστιν ἐπὶ τῆς γῆς; Καὶ διὰ τὸ
+πλινθυνθῆναι τὴν ἀνομίαν, ψυγήσεται ἡ ἀγάπη τῶν
+πολλῶν. Καὶ ἐλεύσονται ψευδόχριστοι καὶ ψευδοπρο-
+φῆται, καὶ δώσουσι σημεῖα ἐν οὐρανῷ, ὥστε, εἰ δυνα-
+τὸν, καὶ τοὺς ἐκλεκτοὺς ἀπατῆσαι· › ὧν τῆς ἀπά-
+της ῥύσεται ἡμᾶς ὁ Θεὸς διὰ Ἰησοῦ Χριστοῦ, τῆς ἐλ-
+πίδος ἡμῶν. Καὶ γὰρ καὶ ἡμεῖς διερχόμενοι τὰ ἔθνη,
+καὶ ἐπιστηρίζοντες τὰς ἐκκλησίας, τοὺς μὲν ἐν πολλῇ
+νουθεσίᾳ καὶ λόγῳ ἰατικῷ ὑγιάσαντες, ἐπανηγάγομεν,
+μέλλοντας ὅσον οὐδέπω θνήσκειν ἀπάτῃ· τοὺς δὲ ἀνιά-
+τως ἔχοντας, ἐξεβάλομεν ἀπὸ τῆς ποίμνης, ἵνα μὴ
+ψωραλέας νόσου μεταδῶσι καὶ τοῖς ὑγιαίνουσιν ἀρ-
+νίοις, ἀλλὰ καθαρὰ καὶ ἄχραντα, ὑγιᾶ καὶ ἄσπιλα δια-
+μείνῃ Κυρίῳ τῷ Θεῷ. Καὶ ταῦτα κατὰ πόλιν παντᾶ-
+χοῦ εἰς ὅλην τὴν οἰκουμένην τοῦ κόσμου πεποιήκαμεν,
+καταλιπόντες ὑμῖν τοῖς ἐπισκόποις, καὶ λοιποῖς ἱε-
+ρεῦσι τὴνδε τὴν καθολικὴν διδασκαλίαν, ἀξίως καὶ δι-
+καίως, εἰς μνημόσυνον ἐπιστηριγμοῦ τοῖς πεπιστευ-
+κόσι Θεῷ· διαπεμψάμενοι διὰ τοῦ συλλειτουργοῦ
+ἡμῶν Κλήμεντος τοῦ πιστοτάτου καὶ ὁμοψύχου τέκνου
+ἡμῶν ἐν Κυρίῳ, ἅμα καὶ Βαρνάβᾳ, καὶ Τιμοθέῳ τῷ
+ποθεινοτάτῳ υἱῷ, καὶ Μάρκῳ τῷ γνησίῳ, σὺν οἷς καὶ
+Τίτον ὑμῖν γνωρίζομεν, καὶ Λουκᾶν, Ἰάσονά τε καὶ
+Λούκιον, καὶ Σωσίπατρον· δι’ ὧν καὶ παρακαλοῦμεν
+ὑμᾶς ἐν Κυρίῳ, ἀπέχεσθαι παλαιᾶς συνηθείας, δε-
+σμῶν ματαίων, ἀφορισμῶν, παρατηρήσεων, βρωμά-
+των διορισμοῦ, βαπτισμάτων (11) καθημερινῶν.
+« Τὰ ἀρχαῖα γὰρ παρῆλθεν· ἰδοὺ γέγονε καινὰ τὰ
+πάντα. ›
+
+# block=3 source_x1=985 source_y1=2056 source_x2=1729 source_y2=2223
+Deum enim per Jesum Christum cognovistis, om-
+nemque ejus dispensationem a principio factam,
+quemadmodum simplicem legem dederit in subsi-
+dium legis naturalis, puram, salutarem, sanctam ⁷⁸,
+
+# block=4 source_x1=601 source_y1=88 source_x2=1300 source_y2=125
+CONSTITUTIONES APOSTOLICÆ. — LIB. VI.
+
+# block=5 source_x1=191 source_y1=2053 source_x2=953 source_y2=2221
+Γνόντες γὰρ Θεὸν διὰ Ἰησοῦ Χριστοῦ, καὶ τὴν σύμ-
+πασαν αὐτοῦ οἰκονομίαν ἀρχῆθεν γεγενημένην, ὅτι
+δέδωκεν νόμον ἁπλοῦν εἰς βοήθειαν τοῦ φυσικοῦ, καθα-
+ρὸν, σωτήριον, ἅγιον, ἐν ᾧ καὶ τὸ ἴδιον ὄνομα ἐγκατ-
+
+# block=6 source_x1=813 source_y1=2411 source_x2=1118 source_y2=2447
+VARIORUM NOTÆ.
+
+# block=7 source_x1=437 source_y1=1968 source_x2=752 source_y2=2002
+ΚΕΦΑΛΑΙΟΝ ΙΘ΄.
+
+# block=8 source_x1=1250 source_y1=1969 source_x2=1463 source_y2=2005
+CAPUT XIX.
+
+# block=9 source_x1=194 source_y1=2469 source_x2=950 source_y2=2710
+(11) Βαπτισμάτων. Una littera minus habet Gre-
+gentii locus in Disputatione cum Herbano, f. 131,
+p. 2: Πρὸ τῆς ἐξωτέρας ναοῦ Σολομῶντος λουτῆρες
+ἄφετοι ἐχρημάτιζον πάντοτε· νόμος δὲ ἔκειτο, ἵνα
+ὁ ἁμαρτάνων ἐπί τινι πράγματι, καὶ βουληθεὶς μετα-
+μεληθῆναι, λέγει τοῖς ἱερεῦσι, καὶ πρὸς τὸ πταῖσμα
+ἀφορίζεται τοῦ εἰς τὸν ναὸν εἰσιέναι· καὶ πληρωθέν-
+
+# block=10 source_x1=973 source_y1=157 source_x2=1756 source_y2=1968
+familiam jungis, vel ei qui odio habetur a Domino,
+auxiliaris? Idcirco confestim ira Domini facta esset
+super te, nisi quod inventum est perfectum cor
+tuum erga Dominum : propter hoc pepercit tibi Do-
+minus ⁶⁶; verumtamen interrupta sunt opera tua,
+et contritæ sunt naves tuæ ⁶⁷. › Fugite ergo commu-
+nionem hæreticorum, et ne faciatis pacem cum illis.
+Nam de ipsis propheta enuntiavit dicens : « Non
+est gaudere impiis, dicit Dominus ⁶⁸. › Hi enim sunt
+occulti lupi, canes muti non valentes latrare ⁶⁹ :
+qui nunc quidem pauci sunt ; procedente vero tem-
+pore, et mundi consummatione appropinquante, plu-
+res ac molestiores erunt. De quibus Dominus aiebat :
+« Putas Filius hominis veniens inveniet fidem in
+terra ⁷⁰ ? Et quoniam abundabit iniquitas, refrigescet
+charitas multorum. Et venient pseudochristi et pseu-
+doprophetæ ; et dabunt signa in cœlo, ita ut, si fieri
+potest, etiam electi decipiantur ⁷¹; › a quorum fraude
+eripiet nos Deus per Jesum Christum, spem nostram.
+Etenim nos quoque cum per gentes proficiscere-
+mur ⁷², et Ecclesias confirmaremus ⁷⁴-⁷⁵; alios qui-
+dem in multa admonitione et sermone salubri ad sa-
+nitatem revocavimus, atque fraude mox interituros
+restituimus ; alios vero qui immedicabili morbo la-
+borabant, a grege ejecimus, ne agnos suos scabie
+contagiosa inficerent, utque agni puri, immaculati,
+sani et illibati Domino Deo servarentur. Atque hæc
+per civitates in toto orbe terrarum gessimus ; et
+vobis episcopis cæterisque sacerdotibus hanc do-
+ctrinam catholicam reliquimus, merito et juste, in
+monumentum corroborationis eorum qui Deo cre-
+diderunt : quam misimus per comministrum no-
+strum Clementem fidelissimum ac unanimem filium
+nostrum in Domino, una cum Barnaba, et exoptatis-
+simo filio Timotheo, et Marco nostro ; cum quibus
+notos ac commendatos vobis esse volumus, Titum,
+Lucam, Jasonem, Lucium et Sosipatrum ⁷⁶; per
+quos et hortamur vos in Domino, ut abstineatis ve-
+tere consuetudine, vanis vinculis, separationibus,
+observationibus, ciborum distinctione, baptismatis-
+bus quotidianis. Nam « vetera transierunt ; ecce
+facta sunt omnia nova ⁷⁷. ›
+
+# block=11 source_x1=187 source_y1=92 source_x2=239 source_y2=129
+961
+
+# block=13 source_x1=1163 source_y1=2015 source_x2=1544 source_y2=2050
+Contra improbantes legem.
+
+# block=14 source_x1=293 source_y1=2001 source_x2=843 source_y2=2061
+Πρὸς (12) φαυλίζοντας τὸν νόμον.
+
+# block=15 source_x1=971 source_y1=2477 source_x2=1741 source_y2=2691
+τος τοῦ ὅρου ἀπολυόμενος, κατὰ ψυχὴν ἰατρευθεὶς,
+οὕτω λοιπὸν εἰς τὸν ναὸν ἀδεῶς εἰσελεύσεται, ἐπιτελεῖ
+τὰς λατρείας αὐτοῦ. Quis non videt certam lectio-
+nem ἀπολευόμενος? Cot.
+(12) Πρός. Περὶ τοῦτο, hoc est, circa eos, qui con-
+temnunt legem. CL.

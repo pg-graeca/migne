@@ -1,0 +1,108 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1063,510,1683,2063
+2,1074,178,1679,388
+3,1262,420,1481,458
+4,1255,2352,1492,2393
+5,145,463,1031,2290
+6,1075,2442,1677,2584
+7,1476,2725,1540,2773
+8,1623,97,1678,133
+9,155,84,229,132
+10,703,84,1161,136
+11,131,158,1037,352
+12,471,358,725,422
+13,451,2308,735,2374
+14,143,2402,1035,2568
+15,131,2580,1689,2724
+16,307,2720,561,2776
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+393
+
+# block=10
+EPISTOLA I AD VIRGINES.
+
+# block=8
+394
+
+# block=2
+exitum conversationis, imitamini
+fidem ⁶⁶. Et alibi dictum est : Imita-
+tores mei estote, fratres, sicut et ego
+Christi ⁶⁷.
+
+# block=3
+CAPUT VII.
+
+# block=1
+Qui autem Christi consimiles esse
+affectant, imaginem Christi in om-
+nibus referre debent; si enim
+Christum induerunt, similitudinem
+ejus effingere debuerunt et in
+mente, et in omni modo vivendi et
+conversandi : in verbis, in actibus,
+in patientia, in virtute, in castitate,
+in scientia, in longanimitate, in
+corde puro, in fide, in spe, in cha-
+ritate Dei perfecta et plena. Vir et
+mulier virginitatem professi, qui et
+Christum et eos qui Christi sunt in
+omnibus imitari nollent, salvari non
+possent ⁶⁸. Debet namque virgo
+quælibet sancta esse corpore et
+spiritu, in obsequio Domini sui
+permanens, ab illo retrorsum non
+abiens, sed ipsi, per Spiritum Dei,
+in castitate et sanctitate serviens,
+sollicita ut ei placeat in omnibus,
+ambulans coram eo munda et im-
+maculata. Qui talis est, a Domino
+non recedit, sed spiritu cum Domino
+suo manet, adimplens quod scri-
+ptum est : Sancti estote, quia ego
+sanctus sum ⁶⁹, dicit Dominus.
+
+# block=4
+CAPUT VIII.
+
+# block=6
+Absit a nobis ut sanctus quilibet
+agnoscatur hac de sola ratione quod
+
+# block=15
+⁶⁶ Hebr. xiii, 7. ⁶⁷ I Cor. iv, 16. ⁶⁸ Profecto sanctus Clemens non exigit a virginibus omnimodam
+Christi perfectionem; set hic indirecte arguit fucatam Vestalium virtutem, aut fictam castitatem harum
+virginum quas accusat Apostolus, dicens : Habentes damnationem, quia primam fidem irritam fecerunt
+(I Tim. v, 12). ⁶⁹ Levit. xi, 44.
+
+# block=16
+PATROL. GR. I.
+
+# block=7
+13

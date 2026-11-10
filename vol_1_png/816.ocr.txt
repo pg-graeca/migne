@@ -1,0 +1,187 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1018,2290,1776,2592
+2,221,1308,978,1956
+3,223,2129,986,2732
+4,1018,2591,1772,2726
+5,1013,1310,1781,1958
+6,1016,1201,1768,1303
+7,1014,2119,1772,2293
+9,1258,1158,1519,1195
+10,843,2072,1149,2108
+11,656,97,1363,136
+12,1015,159,1779,1063
+13,217,1203,973,1272
+14,226,1979,1707,2054
+18,222,104,291,139
+19,472,1162,715,1193
+20,218,153,979,1069
+21,1699,92,1783,132
+22,217,1076,1777,1152
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1018 source_y1=2290 source_x2=1776 source_y2=2592
+(98) Κύριε. Est scholium in cod. Vindob. hic
+additum : Ὅτι Κύριος ἔκτισέ με, σαφῶς εἰς τὸν ἐκ
+Παρθένου τεχθέντα Χριστὸν ἀναφέρεται. Quæ erat
+orthodoxorum sententia qua objectionem desum-
+ptam ex creatione sapientiæ retunderent. Sed re-
+vera de neutra sapientia, hoc est, creata ante
+mundum, aut nata ex virgine agitur apud Salome-
+nem, ut viri docti viderunt, et nos ad Proverbia
+pluribus ostendemus. ID.
+
+# block=2 source_x1=221 source_y1=1308 source_x2=978 source_y2=1956
+²¹ Domine omnipotens , mundum creasti per
+Christum, et Sabbatum in hujus rei memoriam
+sanxisti; quia in eo ab operibus quiescere fecisti,
+ad meditationem legum tuarum : et festos dies con-
+stituisti, in lætitiam animarum nostrarum, ut in
+recordationem veniremus Sapientiæ a te conditæ ²² :
+quomodo propter nos nasci ex muliere sustinuit ;
+apparuit in vita hac, ostendens in baptismo suo
+quod ipse qui apparebat, esset Deus ac homo ;
+passus est propter nos permissione tua, et mortuus
+est, ac potestate tua resurrexit : ideoque festum
+Resurrectionis, Dominica die celebrantes, læta-
+mur de eo qui vicit quidem mortem, patefecit au-
+tem vitam ac immortalitatem : per ipsum enim
+gentes ad te adduxisti, in populum peculiarem,
+
+# block=3 source_x1=223 source_y1=2129 source_x2=986 source_y2=2732
+(94) Ὑπερυψούμενος. Emenda typothetæ men-
+dum e cod. Vindobonensi Ὑπερυψούμενος. CL.
+95) Ἀμεσίτευτον τὸ ἔργον. Et quibusdam inter-
+positis, ὁ δημιουργίας τῆς διὰ μεσίτου κτίσης. Quæ-
+res quomodo creatio intermedio careat, quæ me-
+diatorem, seu medium habet Filium Dei? Respon-
+deri potest, creationem esse quidem absque medio
+alieno a divinitate; agnoscere tamen personam di-
+vinitatis mediam, Filium : mediatorem productionis,
+per quem scilicet Pater omnia creavit; sed non
+mediatorem naturæ , id est, participem increati et
+creati , quod exstitit post assumptam naturam hu-
+manam. COT.—Crediderim ἀμεσίτευτον ἔργον esse,
+quod nullis instrumentis aliunde desumptis per-
+fectum est, ut sit idem ac ἄμεσον ἔργον, seu, ut
+loquimur hodie, immediatum opus. Adi Dionys.
+Petavium De Trinitate, lib. vii, cap. 4. Vide et
+cap. 12 ubi Constit. auctor ait Filium a Patre ge-
+
+# block=4 source_x1=1018 source_y1=2591 source_x2=1772 source_y2=2726
+(99) Tὸν ὁρῶντα Θεόν. Intuentur ac tradunt
+sæpe sancti Patres Græci et Latini hanc etymologiæ
+rationem, secuti Philonem Judæum, qua Israel
+exponitur videns Deum. Homo, aut mens cernens
+
+# block=5 source_x1=1013 source_y1=1310 source_x2=1781 source_y2=1958
+Κύριε (98) παντόκρατορ, κόσμον ἔκτισας διὰ Χρι-
+στοῦ , καὶ Σάββατον ὥρισας εἰς μνήμην τούτου ·
+ὅτι ἐν αὐτῷ κατέπαυσας ἀπὸ τῶν ἔργων, εἰς μελέ-
+την τῶν σῶν νόμων· καὶ ἑορτὰς διετάξω, εἰς εὐ-
+φροσύνην τῶν ἡμετέρων ψυχῶν, ὅπως εἰς μνήμην
+ἐρχώμεθα τῆς ὑπὸ σοῦ κτισθείσης σοφίας· ὡς δι' ἡμᾶς
+γένεσιν ὑπέστη τὴν διὰ γυναικός· ἐπεφάνη τῷ βίῳ,
+ἀναδεικνὺς ἑαυτὸν ἐν τῷ βαπτίσματι, ὡς Θεὸς ἐστι
+καὶ ἄνθρωπος ὁ φανείς· ἔπαθε δι' ἡμᾶς σῇ συγχω-
+ρήσει, καὶ ἀπέθανε, καὶ ἀνέστη σῇ κράτει· διὸ καὶ τὴν
+ἀναστάσιμον ἑορτὴν πανηγυρίζοντες τῇ Κυριακῇ,
+χαίρομεν ἐπὶ τῷ νικήσαντι μὲν τὸν θάνατον, φωτί-
+σαντι δὲ ζωὴν καὶ ἀφθαρσίαν· δι' αὐτοῦ γὰρ προσή-
+γαγες τὰ ἔθνη ἑαυτῷ, εἰς λαὸν περιούσιον, τὸν ἀληθι-
+νὸν Ἰσραὴλ, τὸν θεοφιλῆ, τὸν ὁρῶντα Θεόν (99). Σὺ
+
+# block=6 source_x1=1016 source_y1=1201 source_x2=1768 source_y2=1303
+Προσευχὴ ὑπομιμνήσκουσα τὴν γενομένην Χρι-
+στοῦ ἐνανθρώπησιν, καὶ τὴν εἰς τοὺς ἁγίους
+διάφορον πρόνοιαν.
+
+# block=7 source_x1=1014 source_y1=2119 source_x2=1772 source_y2=2293
+πίτωπη ἀμεσιτεύτως. CL.
+(96) Μισθαποδότης. Vind. cod. μισθότης. ID.
+(97) Kaὶ. Addit cod. Vind. μεθ' οὗ, cum eo, quod
+est Doxologiarum orthodoxarum, non Arianicarum,
+ut jam alibi observavimus. ID.
+
+# block=9 source_x1=1258 source_y1=1158 source_x2=1519 source_y2=1195
+ΚΕΦΑΛΑΙΟΝ ΛϚ΄.
+
+# block=10 source_x1=843 source_y1=2072 source_x2=1149 source_y2=2108
+VARIORUM NOTÆ.
+
+# block=11 source_x1=656 source_y1=97 source_x2=1363 source_y2=136
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA
+
+# block=12 source_x1=1015 source_y1=159 source_x2=1779 source_y2=1063
+γνώσεων , Θεὸς ἁγίων , ἅγιος ὑπὲρ πάντας ἁγίους ·
+οἱ γὰρ ἡγιασμένοι, ὑπὸ τὰς χεῖράς σου εἰσίν. Ἔν-
+δοξος καὶ ὑπερυψούμενος (94), ἀόρατος τῇ φύσει, ἀνεξ-
+ιχνίαστος κρίμασιν· οὗ ἀνενδεὴς ἡ ζωή, ἄτρεπτος
+καὶ ἀνελλιπὴς ἡ διαμονὴ, ἀκάματος ἡ ἐνέργεια, ἀπε-
+ρίγραπτος ἡ μεγαλειότης, ἀένναος ἡ εὐπρέπεια,
+ἀπρόσιτος ἡ κατοικία, ἀμετανόστευτος ἡ κατασκήνω-
+σις, ἄναρχος ἡ γνῶσις, ἀναλλοίωτος ἡ ἀλήθεια,
+ἀμεσίτευτον τὸ ἔργον (95), ἀνεπιβούλευτον τὸ κράτος,
+ἀδιάδοχος ἡ μοναρχία, ἀτελεύτητος ἡ βασιλεία,
+ἀνανταγώνιστος ἡ ἰσχὺς, πολυάριθμος ἡ στρατιά. Σὺ
+γὰρ εἶ ὁ Σοφίας Πατὴρ, ὁ δημιουργίας τῆς διὰ με-
+σίτου κτίσεως, ὡς αἴτιος· ὁ προνοίας χορηγὸς, ὁ νό-
+μων δοτὴρ, ὁ ἐνδείας πληρωτὴς· ὁ τῶν ἀσεβῶν τιμω-
+ρὸς, καὶ τῶν δικαίων μισθαποδότης (96)· ὁ τοῦ Χρι-
+στοῦ Θεὸς καὶ Πατὴρ, καὶ τῶν εἰς αὐτὸν εὐσεβούντων
+Κύριος· οὗ ἀδιάψευστος ἡ ἐπαγγελία, ἀδωροδόκητος
+ἡ κρίσις, ἀμετάπειστος ἡ γνώμη, ἄπαυστος ἡ εὐσέ-
+βεια, ἀΐδιος ἡ εὐχαριστία· δι' οὗ σοι καὶ (97) ἡ ἐπά-
+ξιος προσκύνησις ὀφείλεται παρὰ πάσης λογικῆς καὶ
+ἁγίας φύσεως.
+
+# block=13 source_x1=217 source_y1=1203 source_x2=973 source_y2=1272
+Oratio commemorans incarnationem Christi, et va-
+riam erga sanctos providentiam.
+
+# block=14 source_x1=226 source_y1=1979 source_x2=1707 source_y2=2054
+²⁰ Deut. iv, 39. ²¹ 1 Reg. II, 3. ²² Dan. III. ²³ Rom. XI, 33. ²⁴ 1. Ignat. interpol. ad Magn. 9.
+²⁵ Prov. VIII, 22.
+
+# block=18 source_x1=222 source_y1=104 source_x2=291 source_y2=139
+1031
+
+# block=19 source_x1=472 source_y1=1162 source_x2=715 source_y2=1193
+CAPUT XXXVI.
+
+# block=20 source_x1=218 source_y1=153 source_x2=979 source_y2=1069
+terra deorsum, et non est amplius præter eum ²⁰. »
+Neque enim est Deus, præter te solum ; sanctus non
+est præter te, Dominus Deus scientiarum ²¹, Deus
+sanctorum, sanctus supra omnes sanctos : nam
+sanctificati sub manibus tuis sunt ²². Gloriosus et
+superexaltatus, natura invisibilis, impervestigabilis
+in judiciis ²³; cujus vita non indiga, duratio immu-
+tabilis ac indeficiens, operatio infatigabilis, incir-
+cumscripta magnitudo, perennis decor, inaccessa
+habitatio, intramigrambilis mansio, cognitio æterna,
+veritas permanens, opus nullo interventu factum,
+potentia nullis insidiis exposita, monarchia sine
+successione, regnum sine fine, robur inexpugna-
+bile, exercitus numerosissimus. Tu enim es Sa-
+pientiæ Pater, creationis per mediatorem factæ
+conditor, tanquam causa; providentiæ largitor,
+legum dator, indigentiæ expletor; ultor impio-
+rum et justorum remunerator ; Christi Deus et
+Pater, atque pie erga eum se gerentium Domi-
+nus : cujus Christi non fallit promissio, muneri-
+bus non corrumpitur judicium, nulla persuasione
+
+# block=21 source_x1=1699 source_y1=92 source_x2=1783 source_y2=132
+1032
+
+# block=22 source_x1=217 source_y1=1076 source_x2=1777 source_y2=1152
+mutatur sententia, nunquam cessat 'pietas, gratiarum actio non finitur : per quem tibi ado-
+ratio condigna debetur ab omni rationali et sancta natura.

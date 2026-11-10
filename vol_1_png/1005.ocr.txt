@@ -1,0 +1,193 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1023,232,1768,1046
+2,240,259,986,985
+3,240,1008,988,1690
+4,1022,2401,1779,2704
+5,237,2470,992,2706
+6,236,2271,993,2474
+7,1022,1052,1773,1647
+8,236,1841,983,2276
+9,1021,1939,1786,2407
+10,823,94,1225,135
+11,849,1785,1151,1819
+12,1053,1651,1769,1690
+14,278,1721,1028,1758
+15,235,145,982,240
+16,244,104,311,141
+17,1021,1841,1778,1946
+18,1680,86,1774,136
+19,1016,146,1770,232
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1023 source_y1=232 source_x2=1768 source_y2=1046
+XX. Sunt similiter et apud Bactros in regionibus
+Indorum immensæ multitudines Bragmanorum, qui
+et ipsi ex traditione majorum, moribus legibusque
+concordibus, neque homicidium neque adulterium
+committunt, neque simulacra colunt neque ani-
+mantia edere in usu habent, nunquam inebriantur,
+nunquam malitiose aliquid gerunt, sed Deum sem-
+per timent; et quidem hæc illi, cum cæteri Indorum
+et homicidia et adulteria committant, et simulacra
+colant, et inebrientur, atque alia hujusmodi flagitia
+exerceant. Sed et in ipsius Indiæ nihilominus occi-
+duis partibus regio quædam est (91), ubi hospites
+cum inciderint, capti immolantur et comeduntur,
+et neque bonæ stellæ vetuerunt eos ab hujusmodi
+flagitiis et ab exsecrandis cibis, neque malignæ
+stellæ compulerunt Bragmanas, ut aliquid agerent
+mali. Est rursus mos apud Persas, matres accipere
+in conjugium et sorores et filias, et sub illo omni
+axe incesta Persæ ineunt matrimonia.
+
+# block=2 source_x1=240 source_y1=259 source_x2=986 source_y2=985
+XVIII. Cumque multa de his senex prosecutus
+esset, et unumquodque schema mathesis, stellarum
+quoque positiones enumerasset, volens per hæc
+ostendere, quia timor non sufficiat refrenare con-
+cupiscentias, ego rursus respondi : Vere, Pater,
+doctissime et eruditissime prosecutus es, et ipsa
+me ratio invitat aliquid ad ea quæ a te disserta
+sunt respondere, quoniam quidem scientia mihi
+mathesis nota est, et libenter cum erudito viro ha-
+beo sermonem. Accipe ergo ad ea quæ dixisti, ut
+evidenter agnoscas genesim ex stellis omnino non
+esse, et quia possibile sit obsisti adversum impu-
+gnationem dæmonum ab his qui confugiunt ad
+Deum, ac, sicut prædixi, non solum per timorem
+Dei naturales cohiberi concupiscentias posse, sed
+et per timorem hominum, sicut jam nunc edoce-
+bimus.
+
+# block=3 source_x1=240 source_y1=1008 source_x2=988 source_y2=1690
+XIX. Leges sunt (89) in unaquaque regione vel
+regno ab hominibus positæ, sive scriptura sive
+etiam usu durantes, quas nemo facile transgreditur.
+Denique primi Seres, qui initio orbis terræ habi-
+tant, legem habent neque homicidium (90), neque
+adulterium neque scortum nosse, neque furtum com-
+mittere, neque idola venerari ; et in illa omni regio-
+ne, quæ est maxima, neque templum invenitur, neque
+simulacrum, neque meretrix, neque adultera, neque
+fur ad judicium deducitur, sed neque occisus ibi
+homo fertur aliquando, et tamen nullius libertas ar-
+bitrii compulsa est secundum vos a stella Martis
+ignita, ut ferro uteretur ad hominis necem, nec Ve-
+nus cum Marte posita alienum matrimonium com-
+pulit vitiari, cum utique apud eos per singulos dies
+Mars medium cœli circulum teneat. Sed est apud
+
+# block=4 source_x1=1022 source_y1=2401 source_x2=1779 source_y2=2704
+*
+(93) Compulit habere inter cæteros genesim. Minus
+commode Græca convertit Rufinus, ἐν ταῖς τῶν πάν-
+των γενέσεσιν εὑρίσκετο. Hoc est, in omnium Magu-
+sæorum genituris reperta est. Apud Cæsarium, ἐν
+ταῖς πάντων αὐτῶν γενέσεσιν εὑρίσκεσθαι οἵα τε.
+(94) Apud Celos. Corrupte in Glyca, Annalium
+parte II, p. 143, παρ' Ἀγιλαίοις. Scribi debet παρὰ
+Γήλοις, ut habetur in Bardesane apud Eusebium
+P. E., p. 275, D; quo ex loco, et ex duobus codici-
+
+# block=5 source_x1=237 source_y1=2470 source_x2=992 source_y2=2706
+(91) Regio quædam est, Ξενοδόρων Cæsario : Ne-
+κροφάγων Epiphanio Exposit., fid., num. 10, Cedre-
+nus : Ἐν δὲ τοῖς ἐνδοτέροις μέρεσι τούτων, ἀνθρωπο-
+βοροῦντες καὶ τοὺς ἐπιξενουμένους ἀναιροῦντες κατε-
+σθίουσιν, ὡς Κάδες. Quo loco una cum Xylandro
+ignoro quinam sint Cades. Sed ex Georgio Hamar-
+tolo inedito chronographo, qui manuscriptus extat
+
+# block=6 source_x1=236 source_y1=2271 source_x2=993 source_y2=2474
+(90) Primi Seres, qui initio orbis terræ habitant,
+legem habent, neque homicidium, etc. In Cæsario, οἱ
+τὸ ἄκρον τῆς χέρσου οἰκοῦντες. Itaque sic intelligi
+debet illud Bardesanis, ἐκ τῆς τοῦ κόσμου ἀρχῆς,
+hoc est, a principio orbis, non autem ab orbis con-
+ditu. Patet etiam ex Plinio et Mela.
+
+# block=7 source_x1=1022 source_y1=1052 source_x2=1773 source_y2=1647
+XXI. Ac ne forte liceat his qui mathesim sequun-
+tur uti illo perfugio quo dicunt, certas quasdam
+esse plagas cœli, quibus propria quædam habere
+conceditur, ex ipsa Persarum gente aliquanti ad
+peregrina profecti sunt, qui Magusæi (92) appel-
+lantur, ex quibus usque in hodiernum sunt alii in
+Media, alii in Parthia, sed et in Ægypto nonnulli,
+plures autem in Galatia et Phrygia, qui omnes in-
+cestæ hujus traditionis formam indeclinabilem
+servant, ac posteris custodiendam transmittunt
+etiam cum plagam cœli mutaverint, ⁶⁸ nec tamen
+eos Venus cum Luna in finibus et domibus Saturni,
+cum Saturno attestante etiam Marte, compulit ha-
+bere inter cæteros genesim (93).
+
+# block=8 source_x1=236 source_y1=1841 source_x2=983 source_y2=2276
+(89) Leges sunt, etc. Hoc caput, et sequentia de-
+cem accepit auctor vel interpolator Recognitionum
+ex Bardesanis Dialogis, loco qui legitur apud Euse-
+bium Præpar. evang. lib. VI, c. 10 editionis Græco-
+Latinæ a p. 274, D, ad p. 280, A. Ex utroque autem
+opere sua collegit Cæsarius quæstione 109 et 110,
+citatus etiam a Cedreno pag. 126, 127, edit. Basil.
+Quæ omnia inter se conferre operæ pretium fuerit.
+Nos pauca subnotabimus, quia doctus Eusebii in-
+terpres Cæsarianas lectiones ad Eusebianas appo-
+suit. — Confer, si libet, tom. I nostræ Biblioth.,
+pag. 682-688, et Prolegom. cap. 26, § 3, pag. CXXIII
+seq.
+
+# block=9 source_x1=1021 source_y1=1939 source_x2=1786 source_y2=2407
+(92) Magusæi. Nomen æquivocum. Significat in-
+cestam hanc Bardesanis gentem : cujus mentionem
+quoque facit S. Basilius epistola 325. Significat
+omnes Persas, apud Suidam in vocibus γοητεία,
+Πέρσαι et Μαγώγ; quo ultimo loco uno ductu le-
+gendum : Μαγώγ, ὁ Πέρσης, μαγεία· καὶ ἀστρολογία,
+ἀπὸ Μαγουσαίων ἤρξατο. Οἱ γὰρ τοι Πέρσαι Μαγὼγ
+ὑπὸ τῶν ἐγχωρίων ὀνομάζονται · καὶ Μαγουσαῖοι, οἱ
+αὐτοί. Atque ita cod. Reg. 2080, ubi alter 131,
+Μαγών, Ὁ Πέρσης. Ὅτι μαγεία, etc. Sed et Magu-
+sæus sive Maguseus de Mago dicitur, in Vita S. Epi-
+phanii cap. 16, et a Basilio Seleuciensi orat. 38,
+pag. 202, ubi frustra corrigere tentat doctus inter-
+pres.
+
+# block=10 source_x1=823 source_y1=94 source_x2=1225 source_y2=135
+RECOGNITIONUM LIB. IX.
+
+# block=11 source_x1=849 source_y1=1785 source_x2=1151 source_y2=1819
+COTELERII NOTÆ.
+
+# block=12 source_x1=1053 source_y1=1651 source_x2=1769 source_y2=1690
+XXII. Apud Gelos (94) quoque mos est, ut mulie-
+
+# block=14 source_x1=278 source_y1=1721 source_x2=1028 source_y2=1758
+⁶⁸ Nec tamen... genesim non leguntur in codd. Lipss.
+
+# block=15 source_x1=235 source_y1=145 source_x2=982 source_y2=240
+cum Marte si sit in Ariete; efficit e contrario mu-
+lieres, si sit in Capricornu aut Aquario.
+
+# block=16 source_x1=244 source_y1=104 source_x2=311 source_y2=141
+1409
+
+# block=17 source_x1=1021 source_y1=1841 source_x2=1778 source_y2=1946
+in duobus codicibus Regiæ bibliothecæ, didici cor-
+rigendum esse, ὡς κύνας. Alias conjicerem Herodoti
+Callatias vel Padæos. Vide Glycam parte II, p. 143.
+
+# block=18 source_x1=1680 source_y1=86 source_x2=1774 source_y2=136
+1410
+
+# block=19 source_x1=1016 source_y1=146 source_x2=1770 source_y2=232
+Seres legum metus vehementior quam genesis con-
+stellatio.

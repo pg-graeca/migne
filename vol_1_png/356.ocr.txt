@@ -1,0 +1,164 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1048,1714,1797,2567
+2,268,499,1019,1919
+3,265,1926,1022,2566
+4,278,152,1023,492
+5,1056,417,1799,1704
+6,1063,155,1808,408
+7,1074,2589,1563,2699
+8,805,98,1270,136
+9,282,97,334,134
+10,245,2592,998,2698
+13,1753,102,1805,136
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+XII. Epiphanio Hieronymus accedat doctor
+maximus , testis alter locupletissimus. Sic igitur
+ille adversus Jovinianum (97) : Hi sunt eunuchi, —
+quos castravit non necessitas, sed voluntas. — Ad
+hos et Clemens successor apostoli Petri , cujus
+Paulus apostolus meminit , scribit epistolas omnem-
+que pene sermonem suum de virginitatis puritate
+contexuit. Agesis nunc, hujusmodi testimonium
+expendamus. Tria in eo sunt probe notanda. I. Ad
+eunuchos spirituales et evangelicos scripsisse
+Clementem asserit sanctus doctor. II.Non epistolam,
+sed epistolas iisdem inscriptas ipsum exarasse te-
+statur. III. In his epistolis omnem pene sermonem
+suum de virginitatis puritate illum contexuisse tradit.
+Quæ quidem adeo sunt manifesta, ut nullum su-
+persit dubium quin de nostris epistolis sint acci-
+pienda. Quid vero ad hæc eruditi viri modo lau-
+dati ? Existimant nempe Hieronymum hic animum
+intendisse in secundam ad Corinthios epistolam ,
+ubi forte de virginitate Clemens prolixius egerit.
+
+# block=2
+Quænam vero hactenus observatis objiciantur,
+inspiciamus. Haud ita pridem V. C. « Nihil mo-
+ror, inquit , S. Epiphanii testimonium; nam illud
+expetitum est ex epistolis Clementis , quæ tunc
+legebantur in ecclesiis. Profecto ex testimonio
+S. Hieronymi discimus , nullas alias Clementis
+Epistolas ætate illa in Ecclesiis legi consuevisse,
+nisi ad Corinthios geminas. » Nolim enimvero
+viro eruditissimo hæc excidisse. Testatur quidem
+S. Hieronymus (93), Clementis priorem ad Eccle-
+siam Corinthiorum Epistolam in nonnullis cœtibus
+ecclesiasticis lectam fuisse; at secundam a vete-
+ribus reprobatam asserit ; tantum abest, ut in
+ecclesiis tunc legi consuevisse geminas ad Corin-
+thios epistolas, ex ejus testimonio discamus. Quod
+autem hac de re doctor maximus , idem quoque
+ante ipsum Dionysius Corinthius , idem etiam Eu-
+sebius Cæsariensis , idem reliqui antiquiores pro-
+fitentur. Cum itaque certo constet ex veterum te-
+stimoniis, unam, et quidem priorem, Corinthiis
+inscriptam epistolam publice fuisse lectitatam , id
+ipsum profecto Epiphanius item novisse jure
+existimandus : adeoque , ubi non unam Clementis
+epistolam, sed ejus Epistolas circulares in eccle-
+siis fuisse perlectas affirmat , de Corinthiacis epis-
+tolis ipsius verba nullo pacto accipienda esse vi-
+dentur. Quid quod Epiphanianum testimonium alias
+omnino ab epistolis ad Corinthios respicere per-
+hibetur? In Corinthiacis enim nulla Samsonis
+mentio , neque uspiam omnium prophetarum enco-
+mium occurrit ; ut reliqua prætereamus : quæ sane
+in epistolis Clementinis extitisse , S. Epiphanius
+luculenter testatur.
+
+# block=3
+At inquies cum Lardnero (94) , Epiphanium qui-
+dem epistolas Clementis una plures agnoscere, at-
+que in iis non solum de Virginitate scripsisse
+Clementem , sed etiam Samsonem laudasse , ipsum
+profiteri : quod utrumque in epistolis Syriacis
+conspicitur , desideratur autem in Græcis. Hinc
+tamen nemo jure colligat , judice Lardnero, Epi-
+phanium de prioribus statim intelligendum : cum
+enim neutra Corinthiaca epistola integra ad nos
+pervenerit, fieri potest , ut Samsonis mentio inter
+ea quæ in iisdem epistolis desunt , maxime vero in
+secunda, occurrerit. Næ, qui rationes suas ita sub-
+ducit, operam ludit. Quid quæris ? nullus conjec-
+turis locus, ubi res ipsa clamat. Quæcunque de
+Clementis epistolis refert Epiphanius, in primis
+
+# block=4
+timore Dei ; et hospita non fuit eis. Micham et pro-
+phetas omnes pariter sic reperimus habitasse in ti-
+more Domini. Hactenus Clemens ; cujus verbis
+enimvero ad Epiphanii testimonium comproban-
+dum nihil clarius esse aut luculentius videtur ;
+seu potius ad nostras Clementi asserendas episto-
+las , nihil aptius hujusmodi Epiphanii testimonio,
+validius nihil proferri posse liquet.
+
+# block=5
+Lardnerum secutus alia plura congerit Herman-
+nus Venema , quibus Epiphanianum locum enervet,
+atque in sententiam suam pertrahat. Et primo
+quidem negotium facessit viro critico (95) , quod
+S. Epiphanius ἐγκυκλίους, circulares, epistolas nos-
+tras appellet ; verumtamen animum ab hoc scru-
+pulo parumper avertens , nondumque deposita
+omni cunctatione, elucescere ait , S. Patrem hoc
+addito criterio vulgatissimas tantum Corinthiis in-
+scriptas in oculis habuisse. Vereor equidem ne
+dictis Venemianis calculum non adjiciant viri
+docti , ut quæ minus recte sibi cohærere videntur.
+Utcunque autem res se habeat , nihil sane prohi-
+bet, quominus vel existimemus, Epiphanii ætate
+apud nonnullas ecclesias in more fuisse positum
+epistolas De virginitate publice legi; vel cum Wet-
+stenio (96) censeamus « Epiphanium ut Ebionæos,
+non Clementis solum , sed etiam Ecclesiæ aucto-
+ritate premeret , encomium priori Corinthiacæ
+Epistolæ tributum , in utramque ad virgines trans-
+tulisse. » Quidni autem id rite fecerit S. Pater ?
+ratus nimirum episcopi Romani epistolas ad Eccle-
+siæ universæ institutionem pertinere , quemadmo-
+dum et de priore ad Corinthios factitatum noverat.
+Porro ad reliqua Epiphaniana extenuanda , plura
+congerit idem vir eruditus ; quæ tamen omnia ex-
+pendit ac diluit cl. editor : adeo ut constet, san-
+ctum episcopum Constantiensen , dum verba supe-
+rius recitata perscriberet, in has epistolas Syriacas
+oculos intendisse.
+
+# block=6
+autem Samsonis elogium , ea demum omnia in
+nostris Syriacis comparent ; frustra vero in Græcis
+requiras : ut propterea nullum amplius dubium
+superesse merito videatur, quin de prioribus tan-
+tum, non autem de posterioribus , Epiphanii testi-
+monium sit accipiendum.
+
+# block=7
+(95) Epist. 1, pag. 6.
+(96) Epist. ad H. Venem., p. 22.
+(97) Lib. I, § 12.
+
+# block=8
+AD S. CLEMENTEM I PAPAM
+
+# block=9
+111
+
+# block=10
+(93) De vir. illustr., cap. 15.
+(94) Lardner, A dissert. upon the two Epist. ,
+p. 24.
+
+# block=13
+112

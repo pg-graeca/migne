@@ -1,0 +1,218 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,264,358,1016,1989
+2,1054,2542,1801,2709
+3,1053,2407,1806,2543
+4,1051,358,1811,2003
+5,1052,2298,1804,2401
+6,266,2137,1024,2537
+7,1051,2221,1802,2292
+8,270,2535,1016,2600
+9,1300,275,1552,311
+10,268,2017,1788,2085
+11,851,2089,1144,2125
+12,263,2603,1015,2705
+13,1048,2145,1798,2217
+14,500,275,771,312
+16,269,146,1014,265
+18,660,85,1379,128
+19,267,97,322,129
+20,1047,144,1801,268
+21,1731,88,1807,128
+22,527,316,743,354
+23,1293,320,1561,358
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=16 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=18
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=21
+560
+
+# block=19
+559
+
+# block=20
+ταδιώκῃ καὶ τὰ ἐναντία τῷ θελήματι τοῦ Θεοῦ ποιῇ,
+ὡς παράνομον ἔθνος, τῷ Θεῷ ὁ τοιοῦτος λογισθή-
+σεται.
+
+# block=16
+et quæ Dei voluntati adversa sunt faciat ; ille ac si
+ex gente iniqua esset, a Deo reputabitur.
+
+# block=14
+CAPUT PRIMUM.
+
+# block=9
+ΚΕΦΑΛΑΙΟΝ Α΄.
+
+# block=22
+De avaritia.
+
+# block=23
+Περὶ πλεονεξίας.
+
+# block=1
+Abstinete igitur ab omni avaritia et injustitia :
+etenim in lege scriptum est : « Non concupisces
+uxorem proximi tui , neque agrum ejus, neque
+servum ejus, neque ancillam ejus, neque bovem
+ejus, neque subjugale ejus, nec quæcunque proximi
+tui sunt ⁷³ ; » quia omnis horum cupiditas a malo
+est. Qui enim uxorem, aut servum, aut ancillam
+proximi concupiscit ; jam mente adulter ac fur est ;
+nisi resipiscat, judicatus est a Domino nostro Jesu
+Christo ; per quem Deo gloria, in sæcula. Amen.
+In Evangelio siquidem, repetens, firmans et adim-
+plens legis Decalogum, ait : « Quia in lege scriptum
+est : Non mœchaberis ; ego autem dico vobis ⁷⁴ : »
+id est, Ego per Mosen in lege locutus sum ; nunc
+vero idem ipse dico vobis : « Quicunque aspexe-
+rit uxorem proximi ad concupiscendum eam, jam
+mœchatus est eam in corde suo ; » hic qui con-
+cupivit, animi adulter judicatus est. Qui vero bo-
+vem aut asinum cupit, nonne cogitat furari, et sua
+facere, et abducere ? Rursus qui agrum appetit, et
+in eo affectu perseverat , nonne maligne id agit, ut
+terminos agri scalpendo, cogat possessorem, nullo
+sibi pretio tradere ? Dicit enim alicubi propheta :
+« Væ qui adjungunt domum ad domum, et agrum
+agro continuant, ut aliquid proximi auferant ⁷⁵ : »
+idcirco ait : « Nunquid habitabitis soli in terra?
+Audita namque sunt hæc in auribus Domini Sa-
+baoth ⁷⁶. » Et alio in loco : « Maledictus qui trans-
+fert terminos proximi sui ; et dicet omnis populus :
+Fiat. » Unde et Moses ait : « Non transmovebis fi-
+nes proximi tui, quos patres tui posuerunt ⁷⁷. » Ob
+hanc igitur causam timores, mortes, judicia ,
+damnationes hominibus hujusmodi divinitus im-
+pendent ; iis autem qui Deo obediunt, una hæc lex
+Dei simplex, vera ac viva insita est : « Quod ab alio
+oderis tibi fieri, tu alteri ne feceris ⁷⁸. » Non vis
+ut alius uxorem tuam nequiter ad stuprum aspi-
+ciat, neque ipse in uxorem proximi tui oculum im-
+
+# block=4
+Ἀπέχεσθε οὖν πάσης πλεονεξίας καὶ ἀδικίας · καὶ
+γὰρ ἐν τῷ νόμῳ γέγραπται · « Οὐκ ἐπιθυμήσεις (9)
+τὴν γυναῖκα τοῦ πλησίον σου, οὐδὲ τὸν ἀγρὸν αὐτοῦ,
+οὐδὲ τὸν παῖδα αὐτοῦ, οὔτε τὴν παιδίσκην αὐτοῦ, οὔτε
+τὸν βοῦν αὐτοῦ, οὔτε τὸ ὑποζύγιον αὐτοῦ, οὔτε ὅσα
+τοῦ πλησίον σου ἐστίν· » ὅτι ἡ πᾶσα τούτων ἐπιθυμία
+ἐκ τοῦ πονηροῦ ὑπάρχει. Ὁ γὰρ ἐπιθυμήσας τὴν γυ-
+ναῖκα, ἢ τὸν παῖδα, ἢ τὴν παιδίσκην τοῦ πλησίον,
+ἤδη κατὰ διάνοιαν μοιχὸς καὶ κλέπτης ἐστίν. Ἐὰν μὴ
+μεταγνῷ, κέκριται (10) ὑπὸ τοῦ Κυρίου ἡμῶν Ἰησοῦ
+Χριστοῦ, δι᾽ οὗ (11) ἡ δόξα τῷ Θεῷ (12) εἰς τοὺς αἰῶνας.
+Ἀμήν. Λέγει γὰρ ἐν τῷ Εὐαγγελίῳ, ἀνακεφαλαιού-
+μενος καὶ στηρίζων καὶ πληρῶν τὴν Δεκάλογον τοῦ
+νόμου · « Ὅτι ἐν τῷ νόμῳ γέγραπται· Οὐ μοιχεύσεις ·
+ἐγὼ δὲ λέγω ὑμῖν · » τουτέστιν, ἐν τῷ νόμῳ διὰ Μω-
+σέως ἐγὼ ἐλάλησα, νῦν δὲ ὁ αὐτὸς ὑμῖν λέγω · « Πᾶς
+ὅστις ἐμβλέψει εἰς τὴν γυναῖκα τοῦ πλησίον πρὸς τὸ
+ἐπιθυμῆσαι αὐτὴν, ἤδη ἐμοίχευσεν αὐτὴν ἐν τῇ καρ-
+δίᾳ αὐτοῦ · » οὗτος ἐκρίθη μοιχὸς κατ᾽ ἔννοιαν, ὁ
+ἐπιθυμήσας. Ὁ δὲ τὸν βοῦν ἢ τὸν ὄνον ἐπιθυμήσας,
+οὐκ ἐπὶ τῷ κλέψαι, καὶ ἰδιοποιήσασθαι, ἢ καὶ ἀπα-
+γαγεῖν αὐτὰ διανοεῖται ; ἢ ὁ τὸν ἀγρὸν πάλιν ἐπιθυ-
+μήσας, καὶ ἐπιμείνας τῇ τοιᾷδε διαθέσει, οὐ πονη-
+ρεύεται, ὅπως ὁρογλυφήσας ἀναγκάσῃ τὸν ἔχοντα
+τοῦ μηδενὸς ἀποδόσθαι αὐτῷ ; φησὶ γάρ που ὁ προ-
+φήτης (13) · « Οὐαὶ οἱ συνάπτοντες οἰκίαν πρὸς οἰκίαν,
+καὶ ἀγρὸν πρὸς ἀγρὸν ἐγγίζοντες, ἵνα τοῦ πλησίον
+ἀφέλωνταί τι · » διὸ λέγει · « Μὴ οἰκήσητε μόνοι ἐπὶ
+τῆς γῆς; ἠκούσθη γὰρ εἰς τὰ ὦτα Κυρίου Σαβαὼθ
+ταῦτα. » Καὶ ἀλλαχοῦ · « Ἐπικατάρατος ὁ μετατι-
+θεὶς ὅρια τοῦ πλησίον αὐτοῦ, καὶ ἐρεῖ πᾶς ὁ λαὸς,
+γένοιτο. » Διό φησι καὶ (14) ὁ Μωσῆς · « Οὐ μετακινή-
+σεις ὅρια τοῦ πλησίον σου, ἃ ἔθεντο πατέρες σου (15). »
+Διὰ τοῦτο οὖν φόβοι, θάνατοι, δικαστήρια, καταδίκαι,
+παρὰ τοῦ Θεοῦ τοῖς τοιούτοις ἐπακολουθοῦσι· τοῖς δὲ
+ὑπηκόοις Θεῷ ἀνθρώποις εἷς νόμος Θεοῦ ἁπλοῦς,
+ἀληθὴς, ζῶν, οὗτος ἐνυπάρχει · « Ὃ σὺ μισεῖς ὑφ᾽
+ἑτέρου σοι γενέσθαι, σὺ ἄλλῳ οὐ ποιήσεις (16). » Οὐ
+
+# block=10
+⁷³ Exod. xx, 17. ⁷⁴ Matth. v, 27. ⁷⁵ Isa. v, 8. ⁷⁶ Deut. xxvii, 17. ⁷⁷ Deut. xix, 14. ⁷⁸ Tob.
+iv, 16.
+
+# block=11
+VARIORUM NOTÆ
+
+# block=6
+(9) Οὐκ ἐπιθυμήσεις. Convenientius Hebraicæ
+veritati, Exod. xx, 17, ac nunc in LXX, a quibus ad-
+dita videntur nonnulla velut paraphrastice ex aliis
+Scripturæ testimoniis. Optime autem διαταγεῖς
+nostri ὑποζύγιον paulo post mutant in ὄνον. Mos
+enim LXX חמור interpretari ὄνον et ὑποζύγιον. Et
+cum Zachariæ ix, 9, iideni habeant, ἐπιβεβηκὼς
+ἐπὶ ὑποζύγιον καὶ πῶλον νέον, Matth. xxi, 5, cita-
+tur, ἐπιβεβηκὼς ἐπὶ ὄνον καὶ πῶλον υἱὸν ὑποζυγίου.
+Similiterque Balaami ὄνος Numer. xxii, 21, etc. Pe-
+tro epist. II, cap. ii, vers. 16, est ὑποζύγιον. Legen-
+dus Suidas in voce Ὑποζύγια. Ϲᴏᴛ.
+
+# block=13
+nensi, et debuit abesse mutato δι᾽ οὗ in ᾧ a manu
+orthodoxa. Ἰᴅ.
+
+# block=7
+(13) Ὁ προφήτης. Ms. Vindob. Ἡσαΐας, quæ est
+glossa. Ἰᴅ.
+
+# block=5
+(14) Καί. Omittitur in utroque cod. et debet
+omitti, jam enim ad testimonium citatus est Mo-
+ses. Ἰᴅ.
+
+# block=3
+(15) Ἃ ἔθεντο πατέρες σου. Absunt hæc ab
+utroque perperam, sunt enim non tantum in He-
+braico textu, verum etiam in LXX Intt. Male etiam
+ab iis abest vox ἁπλοῦς, paulo post. Ἰᴅ.
+
+# block=8
+(10) Κέκριται. Huic voci præligitur καὶ in Vind.
+ms. incommode Ϲʟᴇʀ.
+
+# block=2
+(16) Ὃ σὺ μισεῖς ὑφ᾽ ἑτέρου, κ. τ. λ. Proxime
+accedit ad Vulgatam Tob. iv, 16 : Quod ab alio
+oderis fieri tibi, vide ne tu aliquando alteri facias,
+Græci, καὶ ὃ μισεῖς, μηδενὶ ποιήσῃς. Infra lib. iii,
+cap. 15 : Ὃ μισεῖς σοι γενέσθαι, οὐδὲ ἄλλῳ σὺ ποιή-
+
+# block=12
+(11) Δι᾽ οὗ. Idem ms. ᾧ, incommode. Orthodoxi
+Librarii esse videtur. Ἰᴅ.
+(12) Τῷ Θεῷ. Abest ab utroque cod. Vindobo-

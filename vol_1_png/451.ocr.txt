@@ -1,0 +1,207 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,959,1636,1725,2734
+2,177,2303,928,2737
+3,197,148,955,1146
+4,980,154,1742,1146
+5,181,1939,928,2304
+6,185,1372,934,1675
+7,967,1470,1721,1639
+8,180,1742,931,1841
+9,180,1675,928,1742
+10,179,1840,933,1941
+11,804,1290,1095,1324
+12,228,1194,711,1228
+13,721,96,1194,133
+14,969,1370,1715,1472
+16,200,90,280,142
+17,1670,102,1740,142
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=16px
+# block=14 fontSize=15px
+# block=16 fontSize=16px
+# block=17 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+301
+
+# block=13
+EPISTOLA I AD CORINTHIOS.
+
+# block=17
+302
+
+# block=3
+Ἐπίτασθε (1) [ὅτι οὐ]δὲν ἄδικον οὐδὲ παραπε[ποιη-]
+μένον γέγραπται ἐν αὐταῖς· [οὐ γὰρ ε]ὑρήσετε δι-
+καίους ἀποβε[βλημ]ένους ἀπὸ ὁσίων ἀνδρῶν. Ἐδιώ-
+χθησαν δίκαιοι, ἀλλ’ ὑπὸ ἀνό[μω]ν· ἐνεφυλακίσθη-
+σαν (2), ἀλλ’ ὑπὸ [ἀν]σίων· ἐλιθάσθησαν ὑπὸ πα[ρα-]
+νόμων· ἀπεκτάνθησαν [ὑπ]ὸ τῶν μιαρῶν, καὶ ἄδικον
+ζῆλον [ἀ]νειληφότων (3). Ταῦτα πάσχοντες εὐκλεῶς
+ἤνεγκαν. [Τί γ]ὰρ εἴπωμεν, ἀδελφοὶ; Δανιὴλ ὑπὸ
+τῶν φοβουμένων τὸν Θεὸν [ἐ]βλήθη εἰς λάκκον· λεόν-
+των ; ἤ ’Ανανίας (4) καὶ ’Αζαρίας καὶ Μισαήλ, ὑπὸ
+τῶν θρησκευόντων τὴν μεγαλοπρεπῆ καὶ ἔνδοξον θρη-
+σκείαν τοῦ Ὑψίστου, κατείρχθησαν εἰς κάμινον πυρός ;
+μηδαμῶς τοῦτο γένοιτο. Τίνες οὖν οἱ ταῦτα δράσαντες ;
+οἱ στυγητοὶ καὶ πάσης κακίας πλήρεις, εἰς τοσοῦτον
+ἐξήρισαν θυμοῦ (5), ὥστε τοὺς ἐν ὁσίᾳ καὶ ἀμώμῳ προ-
+θέσει δουλεύοντας τῷ Θεῷ εἰς αἰκίαν περιβαλεῖν (6)·
+μὴ εἰδότες ὅτι ὁ Ὕψιστος ὑπέρμαχος καὶ ὑπερασπι-
+στής ἐστιν τῶν ἐν καθαρᾷ συνειδήσει λατρευόντων τῷ
+[πα]ναρέτῳ (7) ὀνόματι αὐτοῦ· ᾧ ἡ δόξα εἰς τοὺς
+αἰῶνας τῶν αἰώνων. Ἀμήν. Οἱ δὲ ὑπομένοντες ἐν
+πεποιθήσει, δόξαν καὶ τιμὴν ἐκληρονόμησαν· ἐπήρθη-
+σάν τε καὶ ἒπαφροι (8) ἐγένοντο ἀπὸ τοῦ Θεοῦ ἐν τῷ μνη-
+μοσύνῳ αὐτῶν, εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.
+
+# block=4
+tendite, nihil injustum, neque perversum in illis
+scriptum esse. Non enim invenietis justos ab ho-
+minibus sanctis depulsos. Persecutionem passi
+sunt justi, sed ab iniquis : in carcerem sunt con-
+jecti, sed ab impiis, lapidati sunt a nefariis;
+occisi a scelestis et injusto zelo abreptis. Hæc
+passi, bono animo tulerunt. Quid enim dicemus,
+fratres? Daniel ⁵⁵ in specum leonum ab hominibus
+Deum timentibus conjectus est? An Ananias, Aza-
+rias et Misael ⁵⁶, ab eis qui magnificum et nobilem
+Altissimi cultum observabant, conclusi sunt in for-
+nacem ignis? Absit prorsus. Quinam igitur hæc
+patrarunt? Homines odio ac exsecratione digni,
+et omni malitia pleni, eo furoris proruperunt, ut
+viros in sancto et inculpato proposito Deo servientes,
+contumeliis ac tormentis affecerint; nescientes, Al-
+tissimum esse propugnatorem et protectorem eorum,
+qui in pura conscientia potentissimo nomini ejus
+inserviunt : cui gloria in sæcula sæculorum. Amen. Ut
+vero in fiducia sustinentes, gloriæ et honoris hæredes
+facti sunt; atque exaltati sunt beatique effecti a
+Deo in memoria ipsorum, in sæcula sæculorum.
+Amen.
+
+# block=12
+⁵⁵ Dan. vi, 26. ⁵⁶ Dan. III, 21.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=14
+est, sic equidem mire conspirat cum historia narra-
+tio, neque temeritatis arguenda conjectura videtur.
+GALL.
+
+# block=6
+(1) Ἐπίτασθε. Sic ms. Sic etiam editi. At Wott.
+Colomesium secutus, leg. ἐπίστασθε, vertitque,
+discite. Cout. autem, aliter ac reliqui editores, hunc
+locum ita distinguit : Ἐ[γκόπτετ]ε εἰς τὰς γρα-
+φάς, τὰς ἀληθεῖς [ῥήσεις] Πνεύματος τοῦ ἁγίου ἐπί-
+τασθε· [οὐ]δὲν ἄδικον, οὐδὲ παραπε[ποιη]μένον γέ-
+γραπται ἐν αὐταῖς : Diligenter inspicite Scripturas,
+Spiritus sancti vera oracula attendite : nihil in illis
+injustum neque perversum scriptum est. GALL.
+
+# block=7
+(7) Παναρέτῳ. Legunt editi cum Jun. ἐναρέτῳ.
+At ms. non agnoscit ε, exhibetque — ναρετῳ, cum
+spatio duarum saltem litterarum. Restituo igitur
+[πα]ναρέτῳ. Wott. Hanc lectionem sequitur et edit.
+Lond. ID.
+
+# block=1
+(8) Ἒπαφροι. Hic quoque locus variis conjecture
+ris tentatus. Al. ἐλαφριζόμενοι. Al. ἐλαφροί, vel ἒπαυ-
+ροι, vel ἀνέπαφοι. Ruchato maxime probatur ἒπαυ-
+ροι, quæ lectio non est Cler. ut ipse putat, sed Co-
+tel., eamque ideo sequitur, quod Græci diphthongum
+αυ pronuntiarent ac si scripta esset αφ. Birr. autem
+legendum arbitratur ἒπαρχοι, quæ vox occurrit quo-
+que cap. 37, vel certe ἒφοροι, suadente sacra histo-
+ria Dan. Ⅲ, 30. Nullam harum lectionum admittens
+Dav. integrum hunc locum sic legit : Ἐπήρθησαν
+δὲ καὶ ἐπαιθέριοι ἐγένοντο ἀπὸ τοῦ Θεοῦ· ἔστω μνη-
+μόσυνον αὐτῶν εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.
+ID. — Ἒπαφροι ἐγένοντο. Boisius legit ἒλαφροι vel
+ἀνέπαφοι. Ego malim ἐλαφριζόμενοι legere, cum
+Philone Judæo, qui hanc vocem cum ἐπικουφίζε-
+σθαι eamdem facit, et sæpius conjungit. Sic περὶ
+φυτουργίας • Τότε δὲ ὑπὸ τῆς σωτηρίου παιδείας ἐπι-
+κουφιζομένην καὶ ἐπελαφριζομένην, οὐδὲν ἴσχυσε
+βλάψαι. Et de mundo : Τῆς γεώδους καὶ βάρος ἐχού-
+σης οὐσίας ἐπελαφρισθείσης, καὶ τὸν ἄνω τόπον ἀντι-
+λαβούσης. Synesius de insomniis voce simplici in
+eadem significatione utitur : Τῆς τε ἀρίστης ἕξεως
+ἐν ψυχαῖς ἐλαφριζούσης αὐτὸν καὶ ἐναπορεγνυμένης
+κηλῖδα τῆς χείρονος. Non sum nescius tamen Chry-
+sost. hom. 44 in Genesin, ubi comparationem inter
+tres pueros in caminum ignis conjectos, et Jose-
+phum ejusque continentiam et castitatem instituit,
+voce ἀνεπάφου uti, quam lectionem non improbo.
+Ejus verba ita se habent : Οὐχ οὕτως θαυμαστὸν εἶναί
+μοι δοκεῖ, τὸ τοὺς τρεῖς παῖδας ἐκείνους, ἐν μέσῃ τῇ
+καμίνῳ τῇ Βαβυλωνίᾳ ἐκείνῃ, τοῦ πυρὸς ἀνωτέρους
+γενέσθαι, καὶ μηδὲν πλέον τὰ σώματα αὐτῶν παθεῖν,
+ὡς θαυμαστὸν καὶ παράδοξον, τὸν δίκαιον τοῦτο, εἰς
+
+# block=9
+(2) Ἐνεφυλακίσθησαν. Sic Wolt. ex ms. quem
+sequitur et edit. Londin. Al ἐφυλάχθησαν. ID.
+
+# block=8
+(3) Ἀνειληφότων. Ms. ita se habet : ... νειληφο-
+τῶν. Legit igitur Wott. [ἀ]νειληφότων. Ita et edit.
+Londin. Al. [παρ]ειληφότων. ID.
+
+# block=10
+(4) Ἤ ’Ανανίας. Ἶn ms. ante ’Ανανίας literæ spa-
+tium exstat. Wott. articulum ὁ reponit. Sed magis
+placet ἤ cum Dav. Editi utrumque omittunt. ID.
+
+# block=5
+(5) Ἐξήρισαν. Mira inter viros eruditos de hac
+voce dissensio. Al. ἐξήρθησαν. Al. ἐξήλασαν, vel
+ἐξήῆσαν. Al. aliter. Birr. mallet ἐξήρθησαν : at ipsi
+scrupulum injicit Hesychius, apud quem legitur :
+Ἐξήρησαν, ἐξώρμησαν. ID. — Εἰς τοσοῦτο ἐξήρισαν
+θυμοῦ. Boisius legendum putat, ἐξήρθησαν vel ἐξη-
+γριώθησαν, vel ἐξηρίσθησαν. Quid si ἐξέκαυσαν, ut
+in initio, εἰς τοσοῦτον ἀπονοίας ἐξέκαυσαν, licet lit -
+terarum affinitas huic lectioni non adeo faveat, vel
+ἐξέῤῥιψαν, scil. ἑαυτούς, phrasi Græcis et Latinis
+scriptoribus non inusitata. JUN.
+
+# block=2
+(6) Εἰς αἰκίαν περιβαλεῖν. Et hic varia fertur
+virorum doctorum sententia. Ms. lectionem retinet
+Wott. vertitque : Ut — tormentis injecerint. Sic quo-
+que Wakius Anglice. Dav. εἰς αἰκίαν προβαλεῖν. Birr.
+vero suspicatur, scripsisse Clementem, εἰς αἰκίαν
+πυρὶ περιβαλεῖν : Ut in cruciatum (id est excrucian-
+di causa) igne circumdarent; vocemque πυρὶ ob se-
+quens περι.. excidisse : quod sane obvium ; præ-
+sertim si oratio ex dictantis ore fuisset excepta.
+Emendationem confirmat ex eo, quod verbum istud,
+simili in re adhibitum, tertium casum fere adsci-
+seat, licet aliter Clerico visum. Gloss. Cyrill. Περι-
+βάλλω πράγματι ἢ τιμωρίᾳ, Afficio. Quibus si locus

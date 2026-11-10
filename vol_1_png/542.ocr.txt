@@ -1,0 +1,162 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1044,723,1807,1374
+2,260,158,1021,1374
+3,1047,159,1819,716
+4,251,2394,1810,2743
+5,259,1865,1021,2378
+6,807,1477,1252,1540
+7,826,1650,1237,1683
+8,648,100,1371,139
+9,1042,1779,1809,2382
+10,269,100,322,142
+12,1737,98,1803,140
+13,707,1560,1369,1632
+14,247,1768,1011,1856
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=29px
+# block=7 fontSize=15px
+# block=8 fontSize=16px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=12 fontSize=16px
+# block=13 fontSize=20px
+# block=14 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+484
+
+# block=10
+483
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=2
+que permittitur, et hoc ipsorum est proprium. De-
+siderium vero habere erga doctorem veritatis, hoc
+a Patre cœlesti donatum est. Sed salus in eo est,
+ut voluntatem ejus, cujus amorem et desiderium,
+Deo largiente, conceperis, facias; ne dicatur sermo
+ejus ad nos, quem idem dixit : Quid autem me dici-
+tis, Domine, Domine, et non facitis quæ dico ²⁰? Est
+ergo proprii muneris, ut unusquisque sit, prout
+Dominus noster dederit, perfectus in Ecclesia, mit-
+tensque semina divina, ut de nobis, non prædictus
+sermo, sed ille dicatur, quem alibi Dominus noster
+dixit : Ideo, inquit, omnis scriba doctus in regno
+cœlorum, similis est homini patrifamilias, qui pro-
+fert de thesauro suo nova et vetera ²¹. Nullus ergo ²²,
+inquit, impediat ordinem, aut locum occupet irra-
+tionabiliter, vel temporum permutet vices; sed primo
+quæ sit justitia ejus, quæ voluntas, requiramus, ut
+bonis operibus ac Dei gratia repleamur. Deus enim
+his qui recte sentiunt et bona agunt præsto est,
+quoniam hic manifestat seipsum. Nam si quis velit
+(antequam actus suos emendet) de his requirere,
+quæ non potest invenire, stulta et inefficax erit hu-
+jusmodi inquisitio. Tempus enim breve est, et in
+judicio Dei gestorum causa agitur, non quæstionum.
+Ideoque ante omnia hoc quæramus, quid nos aut
+qualiter agere oporteat, ut æternam vitam consequi
+mereamur. Nam si exiguum hoc tempus vitæ per
+inanes occupamus et inutiles quæstiones, inanes
+
+# block=3
+sine dubio et vacui ab operibus bonis pergemus
+ad Deum, ubi judicium operum nostrorum fiet.
+Unaquæque etenim res suum tempus habet et lo-
+cum. ²³ Operum hic locus, hoc tempus est; meri-
+torum, sæculum futurum. Curratur igitur per viam
+mandatorum Dei, et a beatorum præceptorum Do-
+mini institutis, et a Spiritus sancti doctrina non
+recedatur. Quapropter præparanda sunt corda no-
+stra ac corpora, sanctæ mandatorum ejus suorum-
+que episcoporum ac prædicatorum ²⁴ obedientiæ
+militatura, ut suæ gratiæ jubeat nobis auxilium
+ministrari, et fugientes gehennæ pœnam, ad vitam
+valeamus omnes pervenire æternam.
+
+# block=1
+²⁵ Hæc itaque, frater charissime Jacobe, ab ore
+sancti Petri jubentis accepi, tibique, ut optabas,
+insinuare studui, ut servari omnia immaculata
+præcipias, quia ecclesiastica non oportet negligen-
+ter, sed diligenter expleri negotia. Hæc ergo præ-
+cepta nemo credat absque sui periculo negligere
+vel dissimulare, quia in judicio Dei ignis æterni
+tormenta sustinebit, qui ecclesiastica decreta ne-
+glexerit. Qui vero te audierit, ut jusserat minister ²⁶
+Christi Jesu, gloriam accipiet. Qui autem te non au-
+dierit, imo loquentem Dominum per te, ipse sibi
+damnationem accipiet. Curandum ²⁷ ergo et attenden-
+dum est nobis omnibus, quod in perpetuum expedit,
+ut Christi passionibus per patientiam participemus,
+atque regni ejus mereamur esse consortes. Amen.
+
+# block=6
+EPISTOLA ²⁸ II.
+
+# block=13
+AD JACOBUM FRATREM DOMINI.
+
+# block=7
+De sacratis vestibus et vasis.
+
+# block=14
+CLEMENS ²⁹ Romanæ Ecclesiæ præsul, JACOBO
+Hierosolymorum episcopo.
+
+# block=9
+Jesu Christi si negligenter erogetur, et presbyter
+minora non curet admonere officia, gravi anathe-
+mate ³⁴ et digna humiliationis plaga feriatur. Certe
+tanta in ³⁵ altario holocausta offerantur, quanta
+populo sufficere debeant. Quod si remanserint, in
+crastinum ³⁶ non reserventur, sed cum timore et
+tremore, clericorum diligentia consumantur. Qui
+autem residua corporis Domini, quæ in sacrario
+relicta sunt, ³⁷ consumunt, non statim ad commu-
+nes accipiendos cibos conveniant; ne ³⁸ putent
+sanctæ portioni commisceri cibum, qui per aqua-
+liculos digestus, in secessum funditur. Si ergo
+mane Dominica portio editur, usque ad sextam
+jejunent ministri qui eam consumpserunt. Et si
+
+# block=5
+²⁸ Quoniam, sicut a beato Petro apostolo accepi-
+mus, omnium apostolorum Patre, qui claves regni
+cœlestis accepit, qualiter tenere debemus de sacra-
+mentis, quæ geruntur in sanctis, te ex ordine nos
+decet instruere. ³¹ Tribus enim gradibus commissa
+sunt sacramenta divinorum secretorum, id est
+presbytero, diacono et ministro ³², qui cum timore
+et tremore clericorum, reliquias fragmentorum
+corporis Dominici custodire debent, ne qua pu-
+tredo in sacrario inveniatur ne cum negligenter
+agitur ³³, portioni corporis Domini gravis inferatur
+injuria. Communio enim corporis Domini nostri
+
+# block=4
+²⁰ Luc. vi, 46. ²¹ Matth. xiii, 52. ²² Recognit. 2. ²³ Clem., ep. 3. ²⁴ præf. Reg. S. Benedicti
+²⁵ Clem., ep. 2. ²⁶ utilis erit m. J. C. et. ²⁷ currendum. ²⁸ In altero e mss. nostris, qui sunt ex
+antiquissimis, titulus est : Item epistola præceptorum S. Clementis Papæ, missa Jacobo fratri
+Domini. In altero : Incipit prima S. Clementis Romani ad Jacobum de sacramentis Ecclesiæ. Ita
+Harduinus, qui ex prædictis codicibus has variantes lectiones animadvertit. ²⁹ C. H. Clemens
+Jacobo charissimo. ³⁰ De consec. distinct. 2, Tribus gradibus. ³¹ Humb. adv. Nicetam. ³² hypo-
+diacono. ³³ Luc. cod. legit : et si negligenter agendo portionem corporis (manus antiqua addit et
+sanguinis) Domini N. J. C. presbyter minora non curat, etc. ³⁴ percussus ex c. Just. ³⁵ De consec.
+distinct. 2, Tribus gradibus, vel Tanta in. Et in Decret. Ivo. lib. 1. ³⁶ Ms. In crastinum. ³⁷ Humb., cit.
+loco. ³⁸ nec.

@@ -1,0 +1,173 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,244,151,980,1390
+2,1015,148,1766,1397
+3,851,1497,1146,1532
+4,1021,2399,1756,2668
+5,629,93,1354,130
+6,241,94,311,136
+7,1018,1542,1768,2404
+8,244,1415,1770,1491
+9,241,1540,991,2702
+10,1686,94,1754,128
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=244 source_y1=151 source_x2=980 source_y2=1390
+paret mundum, cunctaque quæ in eo sunt ⁸⁷. Nam
+tu es qui cœlum ut cameram statuisti ⁸⁸, ac ut
+pellem extendisti; et terram supra nihilum collo-
+casti sola voluntate : qui fixisti firmamentum; et
+noctem ac diem fabricatus es : qui lucem ex the-
+sauris eduxisti; et illius amictu| induxisti tene-
+bras ⁸⁹, ad requiem animalium quæ in mundo mo-
+ventur : qui in cœlo solem posuisti ad dominium
+diei, et lunam ad dominium noctis; atque cho-
+rum stellarum in cœlo delineasti, in laudem magni-
+ficentiæ tuæ : qui fecisti aquam ad potum ac ex-
+purgationem; vitalem aërem, ad aspirationem et ad
+editionem vocis, dum lingua aërem ferit, et ad au-
+ditum quem adjuvat in sentienda loquela incumbente
+ac penetrante : qui fecisti ignem ad solatium de
+tenebris, ad indigentıæ expletionem, et ut calefie-
+remus ac illuminaremur ab eo : qui mare magnum
+a terra separasti; et illud quidem reddidisti navi-
+gabile, hanc vero pedibus perviam effecisti; et illud
+quidem animalibus parvis ac magnis refersisti,
+hanc autem cicuribus ac indomitis replevisti, va-
+riis stirpibus redemisti, herbis coronasti, floribus
+decorasti, seminibus ditasti : qui constituisti abys-
+sum, et ingentem molem ei circumposuisti, acer-
+vata salsarum aquarum æquora; eamque circum-
+sepsisti tenuissimæ arenæ portis : qui abyssum eam-
+dem seu pelagum modo ventis in altitudinem
+montium attollis, modo in planitiem sternis ⁹¹; modo
+in furorem tempestatis agis, modo, ut navigio cur-
+
+# block=2 source_x1=1015 source_y1=148 source_x2=1766 source_y2=1397
+τε καὶ ἐξουσίας, ἀρχάς τε καὶ θρόνους, ἀρχαγγέλους
+τε καὶ ἀγγέλους · καὶ μετὰ ταῦτα πάντα, ποιήσας δι'
+αὐτοῦ τὸν φαινόμενον τοῦτον κόσμον, καὶ πάντα τὰ
+ἐν αὐτῷ. Σὺ γὰρ εἶ ὁ τὸν οὐρανὸν ὡς καμάραν στήσας,
+καὶ ὡς δέρριν ἐκτείνας, καὶ τὴν γῆν ἐπ' οὐδενὸς ἱδρύ-
+σας γνώμῃ μόνῃ · ὁ πήξας στερέωμα, καὶ νύκτα καὶ
+ημέραν κατασκευάσας · ὁ ἐξαγαγὼν φῶς ἐκ θησαυρῶν,
+καὶ τῇ τούτου ·στολῇ (48) ἐπαγαγὼν τὸ σκότος, εἰς
+ἀνάπαυλαν τῶν ἐν τῷ κόσμῳ κινουμένων ζώων · ὁ τὸν
+ἥλιον τάξας εἰς ἀρχὰς τῆς ἡμέρας, ἐν οὐρανῷ, καὶ
+τὴν σελήνην εἰς ἀρχὰς τῆς νυκτὸς, καὶ τὸν χορὸν τῶν
+ἀστέρων ἐν οὐρανῷ καταγράψας,, εἰς αἶνον τῆς σῆς
+μεγαλοπρεπείας · ὁ ποιήσας ὕδωρ πρὸς πόσιν καὶ κά-
+θαρσιν, ἀέρα ζωτικὸν πρὸς εἰσπνοὴν (49) καὶ φωνῆς
+ἀπόδοσιν διὰ γλώττης πληττούσης τὸν ἀέρα, καὶ ἀκοὴν
+συνεργουμένην ὑπ' αὐτοῦ ὡς ἐπαΐειν εἰσδεχομένην
+τὴν προσπίπτουσαν αὐτῇ λαλιάν · ὁ ποιήσας πῦρ πρὸς
+σκότους παραμυθίαν, πρὸς ἐνδείας ἀναπλήρωσιν, καὶ
+τὸ θερμαίνεσθαι ἡμᾶς καὶ φωτίζεσθαι ὑπ' αὐτοῦ · ὁ
+τὴν μεγάλην θάλασσαν χωρίσας τῆς γῆς, καὶ τὴν μὲν
+ἀναδείξας πλωτὴν, τὴν δὲ ποσὶ βάσιμον ποιήσας,
+καὶ τὴν μὲν ζώοις μικροῖς καὶ μεγάλοις πληθύνας,
+τὴν δὲ ἡμέροις καὶ ἀτιθάσσοις πληρώσας, φυτοῖς τε
+διαφόροις στέψας, καὶ βοτάναις στεφανώσας, καὶ ἄν-
+θεσι καλλύνας, καὶ σπέρμασι πλουτίσας · ὁ συστησά-
+μενος ἄβυσσον, καὶ μέγα κῆτος (50) ⁹⁰ αὐτῇ πε-
+ριθείς, ἁλμυρῶν ὑδάτων σεσωρευμένα πελάγη, περι-
+φράξας δὲ αὐτὴν πύλαις ἄμμου λεπτοτάτης · ὁ πνεύ-
+ματι ποτὲ μὲν αὐτὴν κορυφῶν εἰς ὀρέων μέγεθος,
+
+# block=3 source_x1=851 source_y1=1497 source_x2=1146 source_y2=1532
+VARIORUM NOTÆ.
+
+# block=4 source_x1=1021 source_y1=2399 source_x2=1756 source_y2=2668
+(48) 'Στολῇ. In Vind. cod. συστολῇ. CLER.
+(49) Εἰσπνοήν. Addit codex Vind. καὶ ἀναπνοήν,
+ad inspirationem et respirationem, recte: ID .
+(50) Κῆτος vel κύτος. Favorini Lexicon, κῆτος,
+ἀπὸ τοῦ κῆτος [f. κύτος], τὸ πλάτος · ὡς τοῦμπαλιν
+ἀπὸ τοῦ ἵστημι, στῆλος καὶ στῦλος: COT. Legen-
+dum κύτος, hoc est capacitatem, altitudinem, ex
+cod. Vind. CLER.
+
+# block=5 source_x1=629 source_y1=93 source_x2=1354 source_y2=130
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=6 source_x1=241 source_y1=94 source_x2=311 source_y2=136
+1095
+
+# block=7 source_x1=1018 source_y1=1542 source_x2=1768 source_y2=2404
+gorius Nyssenus homil. 15 in Canticum canticorum;
+Λαμπρότητες, ἀναβάσεις, νοεραὶ δυνάμεις ἢ νόες, apud
+Gregorium Nazianzenum oratione 34 extrema, loco
+notando, quia ἀναβάσεις illæ, Ascensiones et Ascen-
+sus ex famosa Origenis doctrina descendunt. Στρα-
+τιαὶ, hoc capite, indeque epistola interpolata Igna-
+tii ad Trallianos, n. 5. Αἰῶνες, αἰώνια, ibidem et
+alibi. Hilarius n De Trinitate, ante medium : Ar-
+changeli nesciunt, angeli non audierunt, sæcula non
+tenent. Eusebio De laudibus Constantini p. 606, di-
+cuntur, δυνάμεις ἀφανεῖς, οὐρανίων ἀψίδων ὑπέρτεροι
+χοροὶ, ἀγγέλων στρατιαὶ, πνεύματα νοεροῦ φωτὸς
+ἔγγονα, αἰῶνες ἄχρονοι, ἄλλοι ἀπειροι αἰῶνες αἰώνων.
+Et a Hieronymo Ephes. III, 9 : Sæcula exponuntur
+omnes spirituales et rationales creaturæ quæ in sæ-
+culis fuerunt. Adde Dionysium De divinis nominibus,
+cap. 5 et 10; ibique interpretes, ac præsertim istud
+eorum scholium, αἰῶνες γὰρ λέγονται καὶ οἱ ἀγγελοι.
+Unde mirum a Jacobo Usserio , tantæ lectionis ac
+doctrinæ viro, ad Ignatianam epistolam affirmari
+potuisse, Æonum istorum mentionem non occur-
+rere. Denique Σαβαί : Origenis verba sunt, ubi su-
+pra. Ὧν ἔν τι γένος ἐκάλει Σαβαὶ Ἑβραῖος, παρὰ
+ἐσχηματίσθαι τὸν Σαβαὼθ, ἄρχοντα ἐκείνων τυγχά-
+νοντα, οὐχ ἕτερον τοῦ Θεοῦ. Verum hi ab exerciti-
+bus στρατιαῖς minime differunt. COT.
+
+# block=8 source_x1=244 source_y1=1415 source_x2=1770 source_y2=1491
+⁸⁷ Gen. I.  ⁸⁸ IV. Esd. XVI, 60.  ⁸⁹ Psal. CIII, 2.  ⁹⁰ f. κύτος. Sic habet Vind. cod.  ⁹¹ Job XXXVIII;
+Jerem. V.
+
+# block=9 source_x1=241 source_y1=1540 source_x2=991 source_y2=2702
+ρον ἐπὶ τοῦ παρόντος καλείσθωσαν θρόνοι, καὶ τρίτον ι
+χωρὶς διατάξεως ἀρχαί. Reddit Ferrarius : Univer-
+sorum ergo Deus, genus primum quoddam rationale,
+quod cæteris honorę excelleret, fcit; quod mea sen-
+tentia eos complectatur qui vocantur dii; alterum in
+vræsentia vocentur throni; tertium vero principatus
+sine dissidio. Legebat χωρὶς διαστάσεως, quemad-
+modum legi debet , hoc est absque ullo intermedio
+abi alter interpres Perionius ponendo sine ordine,
+transfert, χωρὶς διατάξεως, sensu ridiculo. A dis-
+positione ad numerum transeo. Esse eum incertum
+tradunt non pauci; quidam infinitum. Ex novena-
+rio autem Dionysiano multi detrahunt, non solum
+omissione, sed et dum ordines duos compingunt in
+unum. Ita cherubim et seraphim confundi viden-
+tur cātechesi mystagogica 5 Cyrilli Jerosolymitani.
+Sic virtutes et seraphim miscentur per Grego-
+rium Nyssenum lib. 1 Adversum Eunomium; itemque
+throni et cherubim, suffragante Theodorito ad
+Coloss. I, 16. Quin etiam magis turbat Augustinus
+Enarratione in psalmum LXXIX, et capite 58 Enchi-
+ridii ad Laurentium. Quid quod aperta Cæsarii
+verba sunt de septem duntaxat ordinibus, dialogo
+1, respons. ad interrog. 44. Jam præteriti a Dio-
+nysio, ab aliis memorati angelorum gradus inve-
+nientur hi : Vigiles, apud Syros; βασιλεῖαι, in Cle-
+mentis Alexandrini Hypotyposibus. Θεότητες ac θεοὶ,
+ibidem, necnon in discipulo Origene tom. 1 in Joannem,
+consentientibus Hebræis. Πνεύματα, Cyrillo cate-
+chesi 16; atque Spirituales, Maronitis, qui et Igni-
+tos sive Igneos a seraphimis distinctos agnoscunt;
+supra lib. VII, cap. 35 : πνεύματα νοερὰ, λειτουργοὶ,
+λειτουργίαι : de quibus Clemens Alexandr., libro ci-
+tato, p. 796, col. 1, A; Methodius De Resurrectione
+apud Epiphanium hæres 64, n. 33; necnon Gre-
+
+# block=10 source_x1=1686 source_y1=94 source_x2=1754 source_y2=128
+1096

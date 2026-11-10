@@ -1,0 +1,188 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,242,1936,991,2138
+2,233,282,992,1458
+3,243,2136,982,2706
+4,1014,277,1775,1458
+5,1022,203,1765,269
+6,241,1773,993,1937
+7,1257,150,1511,183
+8,238,1539,990,1771
+9,1020,1530,1766,2704
+10,615,92,1367,130
+11,842,1484,1157,1518
+12,508,144,771,182
+13,291,200,913,235
+14,235,91,299,126
+15,1689,94,1775,136
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=242 source_y1=1936 source_x2=991 source_y2=2138
+(36) Οἱ τὴν πρώτην εὐχόμενοι προέλθετε. In-
+telligi debent preces eorum, qui mysteriis adesse
+non sinuntur. Nam si accipere velis de oratione fi-
+delium mox præcedente, ut sumitur capite 35 προσ-
+έλθετε legendum tibi erit, accedite : quia munera
+offerebantur coram fidelibus. Cᴏᴛ.ⁿ
+
+# block=2 source_x1=233 source_y1=282 source_x2=992 source_y2=1458
+Porro ego Jacobus, frater Joannis Zebedæi, aio ut
+statim diaconus dicat : Ne quis ex catechumenis.
+Ne quis ex audientibus. Ne quis ex infidelibus.
+Ne . quis ex heterodoxis. Qui priorem precationem
+fecistis, exite. Matres, assumite pueros. Ne quis
+contra aliquem. Ne quis in hypocrisi. Erecti ad
+Dominum cum timore ac tremore stemus ad offe-
+rendum. Quibus peractis, diaconi dona ad altare
+admoveant episcopo : ac presbyteri a dextris illius
+et a sinistris stent, ut discipuli magistro assisten-
+tes. Duo autem diaconi ex utraque parte altaris,
+teneant flabellum ex tenuibus membranis, aut ex
+pennis pavonis, aut ex linteo; et sensim abigant
+parva animalia volantia, ne in calices incidant.
+Orans igitur apud se pontifex, una cum sacerdoti-
+bus, et splendidam vestem indutus, stansque ad
+altare, tropæum crucis in fronte manu faciat co-
+ram omnibus, ac dicat : Gratia omnipotentis Dei,
+et charitas Domini nostri Jesu Christi, et communi-
+catio sancti Spiritus, sit cum omnibus vobis. At-
+que omnes una voce respondeant : Et cum spiritu
+tuo. Tum pontifex : Sursum mentem; et omnes :
+Habemus ad Dominum. Et pontifex : Gratias aga-
+mus Domino; et cuncti : Dignum et justum est. Et
+pontifex dicat : Vere dignum et justum est, ante
+omnia laudare te verum Deum, ante creaturas
+existentem, ᵉ ex quo omnis paternitas in cœlo et
+
+# block=3 source_x1=243 source_y1=2136 source_x2=982 source_y2=2706
+(37) Ῥιπίδιον. Abstinebo inutili expositione et
+citatione erga consuetudinem a non paucis descri-
+ptam, a plurimis memoratam, ut Græcis familiarem,
+ita Latinis non omnino ignotam : contentus addu-
+xisse duo loca, Latinum unum, quo cum illo Hil-
+deberti conjugatur, alterum Græcum, quia obscu-
+rus, a docto interprete minus bene conversus,
+atque in mendo cubans, ope nostra indiget. Igitur
+in Consuetudinibus monasterii Cluniacensis lib. II,
+cap. 30, Spicilegii Acheriani, tom. IV, p. 142, scri-
+ptum habetur : Unus autem ministrorum, qui sem-
+per duo debent esse, stans cum flabello prope sacer-
+dotem, ex quo muscarum infestatio exsurgere incipit,
+donec finiatur, eas arcere a sacrificio, ei ab altari,
+seu ab ipso sacerdote non negligit. In Chronico autem
+quod Alexandrinum vocant, p. 892 : Ἐπὶ Σεργίου
+πατριάρχου Κωνσταντινουπόλεως ἐπενοήθη ψάλλε-
+
+# block=4 source_x1=1014 source_y1=277 source_x2=1775 source_y2=1458
+Φημὶ δὴ κἀγὼ Ἰάκωβος (35), ὁ ἀδελφὸς Ἰωάννου
+τοῦ Ζεβεδαίου, ἐν' εὐθὺς ὁ διάκονος λέγῃ· Μή τις
+τῶν κατηχουμένων. Μή τις τῶν ἀκρωμένων·
+Μή τις τῶν ἀπίστων. Μή τις τῶν ἑτεροδόξων. Οἱ
+τὴν πρώτην εὐχὴν εὐχόμενοι προέλθετε (36). Τὰ παι-
+δία προσλαμβάνεσθε αἱ μητέρες· μή τις κατὰ τι-
+νος. Μή τις ἐν ὑποκρίσει. Ὀρθοὶ πρὸς Κύριον μετὰ
+φόβου καὶ τρόμου ἑστῶτες ὦμεν προσφέρειν. Ὧν γε-
+νομένων οἱ διάκονοι προσαγέτωσαν τὰ δῶρα τῷ ἐπι-
+σκόπῳ πρὸς τὸ θυσιαστήριον· καὶ οἱ πρεσβύτεροι ἐκ
+δεξιῶν αὐτοῦ καὶ ἐξ εὐωνύμων στηκέτωσαν, ὡς ἂν
+μαθηταὶ παρεστῶτες διδασκάλῳ. Δύο δὲ διάκονοι ἐξ
+ἑκατέρων τῶν μερῶν τοῦ θυσιαστηρίου κατεχέτωσαν
+ἐξ ὑμένων λεπτῶν ῥιπίδιον (37), ἢ πτερῶν ταῶνος,
+ἢ ὀδόνης· καὶ ἠρέμα ἀποσοβείτωσαν τὰ μικρὰ τῶν
+ἱπταμένων ζώων, ὅπως ἂν μὴ ἐγχνρίμπτωνται εἰς τὰ
+κύπελλα (38). Εὐξάμενος οὖν καθ' ἑαυτὸν ὁ ἀρχιερεὺς
+ἅμα τοῖς ἱερεῦσι, καὶ λαμπρὰν ἐσθῆτα μετενδὺς,
+καὶ στὰς πρὸς τῷ θυσιαστηρίῳ, τὸ τρόπαιον τοῦ
+σταυροῦ κατὰ τοῦ μετώπου τῇ χειρὶ ποιησάμενος εἰς
+πάντας (39), εἰπάτω· Ἡ χάρις τοῦ παντοκράτορος
+Θεοῦ, καὶ ἡ ἀγάπη τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ,
+καὶ ἡ κοινωνία τοῦ ἁγίου Πνεύματος, ἔστω μετὰ πάν-
+των ὑμῶν· καὶ πάντες συμφώνως λεγέτωσαν, ὅτι καὶ
+μετὰ τοῦ πνεύματός σου. Καὶ ὁ ἀρχιερεύς· Ἄνω τὸν
+νοῦν· καὶ πάντες· Ἔχομεν πρὸς τὸν Κύριον. Καὶ ὁ ἀρ-
+χιερεύς· Εὐχαριστήσωμεν τῷ Κυρίῳ· καὶ πάντες·
+
+# block=5 source_x1=1022 source_y1=203 source_x2=1765 source_y2=269
+Διάταξις Ἰακώβου, τοῦ ἀδελφοῦ Ἰωάννου τοῦ
+Ζεβεδαίου.
+
+# block=6 source_x1=241 source_y1=1773 source_x2=993 source_y2=1937
+(35) Ἰάκωβος. In Vind. scholium hoc additur in
+hæc verba : Ἰάκωβος ὁ τοῦ Ζεβεδαίου, ἀδελφὸς
+Ἰωάννου, ἐκήρυξεν ἐν τῇ Ἰουδαίᾳ τὸ Εὐαγγέλιον,
+ἀνῃρέθη μαχαίρᾳ ὑπὸ Ἡρώδου τοῦ τετράρχου, καὶ
+κεῖται ἐν Καισαρείᾳ. Cᴏᴛ.ᵉʳ
+
+# block=7 source_x1=1257 source_y1=150 source_x2=1511 source_y2=183
+ΚΕΦΑΛΑΙΟΝ ΙΒ'.
+
+# block=8 source_x1=238 source_y1=1539 source_x2=990 source_y2=1771
+quiorum per ordinem agant. Romanæ Ecclesiæ dia-
+coni, multitudo facit clericorum. Nam utique et al-
+tare portarent et vasa ejus, et aquam in manus fun-
+derent sacerdoti, sicut videmus per omnes Ecclesias.
+In Vita S. Marcelli auctore Fortunato apud Surium,
+1 Novembr., subdiaconale ministerium esse dici-
+tur, aquam episcopo manibus abluendis offerre. Cᴏᴛ.
+
+# block=9 source_x1=1020 source_y1=1530 source_x2=1766 source_y2=2704
+σθαι μετὰ τὸ μεταλαβεῖν πάντας τῶν ἁγίων μυστηρίων,
+ἐν τῷ μέλλειν τοὺς κληρικοὺς ἐπὶ τὸ σκευοφυλάκιον
+ἀποκαθιστάναι τὰ τίμια ῥιπίδια, δισκάρια, καὶ ποτή-
+ρια, καὶ ἄλλα ἱερὰ σκεύη, μετὰ τὸ ἐκ τῶν παρὰ τρα-
+πεζίων καὶ τὴν διάδοσιν ἀποτεθῆναι πάντα εἰς τὴν
+ἁγίαν τράπεζαν, καὶ ψαλθῆναι τὸν τελευταῖον στίχον
+τοῦ κοινωνικοῦ. Λέγεται καὶ τοῦτο τὸ τροπάριον· Πλη-
+ρωθήτω τὸ στόμα ἡμῶν αἰνέσεως, Κύριε, ὅπως ἀνυ-
+μνήσωμεν τὴν δόξαν σου, ὅτι ἠξίωσας ἁγίων σου με-
+τασχεῖν μυστηρίων. Τήρησον ἡμᾶς ἐν τῷ σῷ ἁγιασμῷ
+ὅλην τὴν ἡμέραν μελετῶντας τὴν δικαιοσύνην σου.
+Ἀλληλούϊα. Legendum videtur, ἐκ τῶν παρατραπε-
+ζίων καὶ τὴν διάδοσιν ἀποτεθῆναι καὶ πάντα, post,
+λέγεται δὲ τοῦτο. Ac vertendum : Sub Sergio patriar-
+cha Constantinopolitano institutum est psallere,
+postquam a cunctis sancta mysteria percepta sunt,
+cum per clericos in sacrarium referenda sunt vene-
+randa flabella, disci, calices, aliaque sacra vasa,
+postquam e mensulis et distributionis reliquiæ, et
+omnia in sacram mensam sunt reposita, atque ulti-
+mus communionis versus cantatus fuit. Dicitur au-
+tem hoc troparium seu modulus : Impleatur os no-
+strum laude, Domine, ut celebremus gloriam tuam,
+quia nos participes facere sanctorum tuorum myste-
+riorum dignatus es. Serva nos in tua sanctificatione
+toto die meditantes justitiam tuam. Alleluia. Παρα-
+τράπεζον habes in Liturgia Jacobo ἀδελφοθέῳ tri-
+buta : ut et de tropario illo ibidem, atque in li-
+turgiis aliis. Cᴏᴛ.
+(38) Εἰς τὰ κύπελλα. Sic in liturgiis et in or-
+dinationum ritibus invenies, τὰ ποτήρια, τοὺς κρα-
+τῆρας, τὰ ἅγια ποτήρια, τὸ πρῶτον ποτήριον, δύο
+ποτήρια. Interdum enim non unum calicem adhi-
+bebant Græci sacrum celebrantes. Iʙ.
+(39) Εἰς πάντας. Deest in altero cod. Vɪɴᴅ. Cʟᴇʀ.
+
+# block=10 source_x1=615 source_y1=92 source_x2=1367 source_y2=130
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=11 source_x1=842 source_y1=1484 source_x2=1157 source_y2=1518
+VARIORUM NOTÆ.
+
+# block=12 source_x1=508 source_y1=144 source_x2=771 source_y2=182
+CAPUT XII.
+
+# block=13 source_x1=291 source_y1=200 source_x2=913 source_y2=235
+Constitutio Jacobi, fratris Joannis Zebedæi.
+
+# block=14 source_x1=235 source_y1=91 source_x2=299 source_y2=126
+1091
+
+# block=15 source_x1=1689 source_y1=94 source_x2=1775 source_y2=136
+1092

@@ -1,0 +1,192 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,162,1751,928,2361
+2,164,2543,916,2717
+3,953,1753,1710,2379
+4,1103,1445,1541,1496
+5,951,2546,1703,2686
+7,954,1673,1694,1742
+8,1188,1626,1454,1658
+9,325,1444,746,1495
+12,416,1620,657,1655
+13,167,1672,911,1744
+16,795,2493,1091,2528
+18,162,2385,1693,2456
+19,157,147,919,1375
+20,952,159,1700,1372
+22,1156,1524,1496,1597
+23,341,1518,727,1568
+24,151,94,229,142
+25,1627,102,1703,148
+26,571,80,1273,150
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=23px centerRows=true
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=23px centerRows=true
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=16 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=22 fontSize=18px
+# block=23 fontSize=16px
+# block=24 fontSize=16px
+# block=25 fontSize=16px
+# block=26 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=26
+CONSTITUTIONES APOSTOLICÆ.—LIB. VI.
+
+# block=24
+909
+
+# block=25
+910
+
+# block=19
+κ'. Τίς ὁ φυσικὸς νόμος, καὶ τίς ὁ ἐπείσακτος,
+καὶ δι' ἣν αἰτίαν ἐπεισήχθη.
+κα'. Ὅτι ὑπὸ χάριν ἐσμέν, ἀλλ' οὐχ ὑπὸ δου-
+λείαν τοῦ ἐπεισάκτου νόμου, οἱ εἰς Χριστὸν πι-
+στεύοντες.
+κβ'. Ὅτι ἐπείσακτος ὁ ἐπὶ θυσιῶν νόμος, ὃν πε-
+ριεῖλε Χριστὸς παραγενόμενος.
+κγ'. Πῶς πληρωτὴς τοῦ νόμου γέγονεν ὁ Χρι-
+στός· καὶ τίνα τούτου ἔπαυσεν, ἢ ἐνήλλαξεν,
+ἢ μετέθηκεν.
+κδ'. Ὅτι καὶ διὰ Ῥωμαίων εὐδόκησεν ὁ Κύριος
+τὸν τῆς δικαιοσύνης νόμον ἐπιδείκνυσθαι.
+κε'. Ὡς Θεὸς Ἰουδαίους, διὰ τὴν εἰς Χριστὸν ἀσέ-
+βειαν, αἰχμαλώτους ποιησάμενος, ὑπὸ φόρον
+κατέστησεν.
+κϛ'. Ὅτι χρὴ φεύγειν τοὺς αἱρεσιώτας, ὡς ψυχῶν
+φθορέας.
+κζ'. Περὶ παρατηρημάτων Ἰουδαϊκῶν καὶ Ἑλλῃ-
+νικῶν.
+κη'. Περὶ παιδεραστίας, μοιχείας τε καὶ πορ-
+νείας.
+κθ'. Ὅπως χρὴ τὰς γυναῖκας ὑποτάσσεσθαι τοῖς
+ἰδίοις ἀνδράσι, καὶ τοὺς ἄνδρας στέργειν τὰς
+ἑαυτῶν γαμετάς.
+λ'. Ὅτι ἔθος Ἰουδαίοις τε καὶ Ἕλλησι, συμπα-
+ρατηρεῖσθαι τὰς φυσικὰς καθάρσεις, καὶ τῶν
+τεθνεώτων τὰ λείψανα βδελύσσεσθαι· Χρι-
+στιανῶν δὲ ἀλλότριον.
+
+# block=20
+XX. Quæ sit lex naturalis, et quæ invectitia, et quam
+ob causam invecta fuit.
+XXI. Quod simus sub gratia, non autem sub servi-
+tute legis inductæ, qui in Christum credimus.
+XXII. Quod ascititia erat lex de sacrificiis, quam
+Christus adveniens sustulit.
+XXIII. Quo modo Christus fuerit perfector legis ; et
+quænam ex ea aboleverit, aut mutarit, aut trans-
+tulerit.
+XXIV. Quod placuit Domino, etiam per Romanos,
+legem justitiæ demonstrari.
+XXV. Quod Deus Judæos, propter impietatem in
+Christum, ad captivitatem redactos, tributo subje-
+cerit.
+XXVI. Quod oporteat fugere hæreticos, ut animarum
+perditores.
+XXVII. De observationibus Judaicis ac ethnicis.
+XXVIII. De nefando amore puerorum, adulterio et
+fornicatione.
+XXIX. Quo modo oporteat mulieres subjectas esse
+viris suis, et viros diligere uxores suas.
+XXX. Quod Judæis et gentilibus consuetudo sit, una
+observare naturales purgationes, et mortuorum
+reliquias abominari ; a Christianis vero alie-
+num.
+
+# block=9
+ΒΙΒΛΙΟΝ ΕΚΤΟΝ.
+
+# block=4
+LIBER SEXTUS.
+
+# block=23
+ΠΕΡΙ ΣΧΙΣΜΑΤΩΝ (64).
+
+# block=22
+DE SCHISMATIBUS.
+
+# block=12
+ΚΕΦΑΛΑΙΟΝ Α'.
+
+# block=8
+CAPUT PRIMUM.
+
+# block=13
+Τίνες σχίσματα ποιεῖν τολμήσαντες, οὐ διέφυγον
+τὴν τιμωρίαν.
+
+# block=7
+Quinam schismata ausi facere, non effugerunt suppli-
+cium.
+
+# block=1
+Πρὸ πάντων φυλάσσεσθε, ὦ ἐπίσκοποι (65), τὰς
+δεινὰς καὶ χαλεπὰς καὶ ἀθεωτάτους αἱρέσεις, φεύ-
+γοντες αὐτὰς ὥσπερ πῦρ, φλέγον τοὺς αὐτῷ πλη- I
+σιάζοντας. Φεύγετε δὲ καὶ τὰ σχίσματα· οὔτε γὰρ
+πρὸς ἀνοσίους αἱρέσεις θεμιτὸν ἐκκλῖναι τὸν νοῦν,
+οὔτε τῶν ὁμογνωμόνων χωρίζεσθαι θεμιτὸν διὰ φιλαρ-
+χίαν. Ταῦτα γὰρ καὶ τὸ παλαιόν τινες τολμήσαντες
+ἐπιχειρῆσαι, οὐ διέφυγον τὴν τιμωρίαν. Δαθὰν γὰρ
+καὶ Ἀβειρὼν ἀντιπρόσωποι γενόμενοι Μωσεῖ, κατε-
+πόθησαν εἰς γῆν· Κορὲ δὲ καὶ οἱ μετ' αὐτοῦ διακόσιοι
+πεντήκοντα, τῷ Ἀαρὼν (66) διαστασιάσαντες, πυρὸς
+παρανάλωμα γεγόνασι. Μαρία δὲ ¹⁵ ὀνειδίσασα Μωσεῖ,
+ἔξω τῆς παρεμβολῆς ἀπεκλείσθη ἑπτὰ ἡμέρας. Ἔλεγε
+γάρ· « Ὅτι γυναῖκα Μωϋσῆς Αἰθιόπισσαν ἔλαβεν. »
+
+# block=3
+Ante omnia cavete, episcopi, importunas, sævas
+et impiissimas hæreses, et fugite eas instar ignis,
+qui accedentes urit. Vitate etiam schismata. Nec
+enim fas est mentem ad profanas hæreses declinare ;
+neque licet a concordibus per ambitionem separari.
+Hæc namque cum olim nonnulli tentare ausi fuis-
+sent, non effugerunt supplicium. Dathan quippe et
+Abiron, quia Mosi in os restiterunt, absorpti sunt
+terræ hiatu ¹³ ; ¹⁴ Core autem et qui cum eo ducenti
+quinquaginta, quia contra Aaronem seditiosi exsti-
+terunt, ignis pabulum facti sunt. Et Maria cum Mo-
+sem tanquam ethnicæ concubitorem increpasset,
+castris exclusa est per septem dies ; dixerat enim :
+Moyses uxorem Æthiopissam duxit ¹⁵. Quinetiam ¹⁶
+
+# block=18
+¹³ al. ὡς ἑλληνοκοίτην add. ¹³ Num. xvi, 31. ¹⁴ Ignat. interpol. ad Magn. 3. ¹⁵ Num. xii, 1. ¹⁶ Ignat.
+interpol. ad Magn. 3.
+
+# block=16
+VARIORUM NOTÆ.
+
+# block=2
+(64) Περὶ σχισμάτων. In utroque cod. Vind. sic ex-
+primitur hujus libri argumentum : Ἐν ᾧ περὶ σχι-
+σμάτων, καὶ ὅτι οὔτε βασιλεία, οὔτε ἱερωσύνη θεμιτὸν
+ἐπανίστασθαι, βαρὺ γὰρ τοῦτο καὶ μεγίστης τιμω-
+ρίας ἄξιον. CLER.
+
+# block=5
+(65) Ἀθεωτάτους. Ἀθεμίτους, uterque codex et
+quidem melius, ut videtur. ID.
+(66) Τῷ Ἀαρών. Deest in codice Vindob. perpe-
+ram. ID.

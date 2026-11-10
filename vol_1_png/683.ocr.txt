@@ -1,0 +1,183 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,938,255,1679,719
+2,934,784,1690,1820
+3,135,256,901,720
+4,140,782,907,1816
+5,926,2027,1696,2659
+6,941,179,1680,243
+7,404,741,646,774
+8,148,2025,904,2695
+9,1224,742,1398,777
+10,1209,126,1398,160
+12,1624,84,1674,117
+14,145,169,878,235
+15,388,126,639,161
+17,147,82,197,118
+18,575,78,1269,120
+19,167,1852,417,1914
+20,751,1924,1083,1970
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Veræ autem viduæ sunt, quæ univiræ, a pluribus
+in bonis operibus comprobatæ, revera viduæ, bene
+moratæ, pudicæ, fideles, piæ, quæ liberos pulchre
+eduxerunt, et hospites receperunt laudabiliter; his
+tanquam Deo consecratis succurrendum est. Quin
+etiam, episcope, pauperum quoque memento, illis
+auxiliarem manum porrigens, et eorum rebus pro-
+videns, tanquam Dei dispensator, opportune sin-
+gulis necessaria subsidia impertiens, viduis, pu-
+pillis, humana ope destitutis, et cum qualibet affli-
+ctione colluctantibus.
+
+# block=2
+Quod oporteat unicuique indigenti benefacere.
+Quid enim, si non viduæ aut non vidui existen-
+tes, auxilio tamen indigent propter paupertatem, vel
+propter morbum, vel ad alendos liberos? Cunctis
+oportet prospicere te, et cunctorum curam susci-
+pere. Qui enim dona largiuntur, non ea statim ac
+temere viduis tribuunt, sed simpliciter in commu-
+nem arcam conferunt, voluntaria ea appellantes;
+quo tu qui calamitosos cognoscis, accurate, ut bo-
+num œconomum decet, distribuas illis de dono. Nam
+Deus largitorem novit, licet eo absente, distributio
+in egentes a te sit facta; ac ille quidem habet be-
+neficentiæ mercedem, tu vero ob dispensationem
+recta conscientia administratam beatus prædicabe-
+ris. Dic autem inopibus, quis dederit, ut nominatim
+quoque pro eo precentur. Oportet ergo omnibus
+hominibus bene facere, non studiose pensantes
+hunc, quisnam sit, vel illum. Dominus enim ait:
+« Omni petenti te, tribue ⁷¹ ; » videlicet, revera
+egenti, sive amicus existat, sive inimicus; sive
+cognatus, sive alienus; sive cælebs, sive conjux.
+In omni siquidem Scriptura Dominus de pauperibus
+monet, dicens, per Isaiam quidem: « Frange esu-
+rienti panem tuum; et pauperes sine tecto, induc
+
+# block=3
+Αἱ δὲ ἀληθιναὶ χῆραί εἰσιν; αἱ μόνανδροι ὑπάρξα-
+αι, μαρτυρούμεναι ὑπὸ πλειόνων ἐν ἔργοις ἀγαθοῖς,
+χῆραι τῷ ὄντι, σώφρονες, ἁγναὶ, πισταὶ, εὐσεβεῖς,
+τεκνοτροφήσασαι καλῶς, καὶ ξενοδοχήσασαι ἀμέμ-
+πτως· ὧν καὶ ἀντιλαμβάνεσθαι χρὴ ὡς Θεῷ ἀνακει-
+μένων. Ἀλλὰ μὴν καὶ τῶν πενήτων, ὦ ἐπίσκοπε,
+μνημόνευε, καὶ αὐτοῖς χεῖρα ὀρέγων ἐπικουρίας,
+καὶ πρόνοιαν αὐτῶν ποιούμενος, ὡς Θεοῦ οἰκονόμος,
+εὐκαίρως ἑκάστῳ διανέμων τὰ πρόσφορα, χήραις
+καὶ ὀρφανοῖς καὶ (31) ἀπεριστάτοις καὶ τοῖς ἐν θλίψει
+ἐξεταζομένοις.
+
+# block=4
+Ὅτι πάνθ' ὅντινα οὖν ἐνδεῆ εὐποιεῖν χρή.
+Τί γὰρ, εἰ τινες μή εἰσι χῆραι ἢ χῆροι (32), βοη-
+θείας δὲ χρήζουσι διὰ πενίαν, ἢ διὰ νόσον, ἢ διὰ τε-
+κνοτροφίαν; Πάντας σε δεῖ ἐφορᾷν, καὶ πάντων ἐπι-
+μελεῖσθαι. Οἱ γὰρ τὰ δόματα διδόντες, οὐκ αὐτοσχε-
+δίως αὐτὰ διδόασι ταῖς χήραις, ἀλλὰ συνεισφέρουσιν
+ἁπλῶς, ἑκούσια αὐτὰ ὀνομάζοντες· ὅπως σὺ ὁ ἐπι-
+στάμενος τοὺς θλιβομένους, ἀκριβῶς ὡς ἀγαθὸς οἰκο-
+νόμος μερίζῃς αὐτοῖς ἐκ τοῦ δόματος· ὁ γὰρ Θεὸς
+γινώσκει τὸν δεδωκότα, κἂν ἀπόντος αὐτοῦ, ὑπὸ σοῦ
+τοῖς δεομένοις μερίζηται· καὶ ὃς μὲν ἔχει τὸν τῆς
+εὐποιΐας μισθὸν, σὺ δὲ τὸν τῆς εὐσυνειδήτου οἰκονο-
+μίας μακαρισμόν. Λέγε δὲ αὐτοῖς (33), καὶ τίς (34) ὁ
+δεδωκὼς, ἵνα καὶ ἐξ ὀνόματος ὑπὲρ αὐτοῦ προσεύ-
+χωνται. Χρὴ γὰρ εὖ ποιεῖν πάντας ἀνθρώπους, μὴ
+φιλοκρινοῦντας τοῦτον, ὅς τις ᾖ, ἢ ἐκεῖνον. Ὁ γὰρ
+Κύριός φησι· « Παντὶ τῷ αἰτοῦντί σε δίδου · » δῆλον
+δὲ ὡς τῷ χρήζοντι κατὰ ἀλήθειαν, κἂν φίλος ᾖ κἂν
+ἐχθρὸς, κἂν συγγενὴς κἂν ἀλλότριος, κἂν ἄγαμος κἂν
+γεγαμηκὼς ὑπάρχῃ. Ἐν πάσῃ γὰρ Γραφῇ ὁ Κύριος
+περὶ τῶν πενήτων παραινεῖ, λέγων, διὰ μὲν Ἡσαΐου·
+« Διάθρυπτε πεινῶντι τὸν ἄρτον σου · καὶ πτωχοὺς
+ἀστέγους εἰσάγαγε εἰς τὸν οἶκόν σου. Ἐὰν δὲ ἴδῃς
+γυμνὸν, περίβαλε· καὶ ἀπὸ τῶν οἰκείων τοῦ σπέρ-
+
+# block=5
+que et consacerdotum nostrorum, qui et ipsi cum præ-
+sentes essent, et suo, et plebis suæ nomine quædam pro
+viribus contulerunt, nomina addidi; et præter quan-
+titatem propriam nostram, eorum quoque summulas
+significavi, et misi; quorum omnium secundum quod
+fides et charitas exigunt, in orationibus et precibus
+vestris meminisse debetis. In Gestis purgationis Cæci-
+liani et Felicis: Utique vel audisti vel vidisti si dictum
+est pauperibus, Dat et vobis de re sua Lucilla. Hierony-
+mus sub finem libri II Commentarii in Jeremiam:
+At nunc publice recitantur offerentium nomina, et re-
+demptio peccatorum mutatur in laudem. Et ad Eze-
+chielis XVIII, 16: Publice diaconus in ecclesia recitat
+offerentium nomina: Tantum offert illa: Tantum
+ille pollicitus est: placentque sibi ad plausum populi,
+etc. Scilicet in hujusmodi factis usus esse potest,
+et abusus. Hincque variatio disciplinæ pro prudentia
+Christiana. Cot.
+(34) Τίς. Addit alter ἔστι. Cler.
+
+# block=6
+Quales esse deceat viduas, et quomodo ab episcopo
+debeant adjuvari.
+
+# block=7
+ΚΕΦΑΛΑΙΟΝ Δ'.
+
+# block=8
+(30) Χήρας. Alter τὰς ὄντως χήρας. Cl.
+(31) Καί. Hæc vocula et duæ seqq. desunt in al-
+tero. Id.
+(32) Ἢ χῆροι. Desunt in antiquiore cod. Id.
+(33) Λέγε δὲ αὐτοῖς, καὶ τίς ὁ δεδωκώς, κ.τ.λ.
+Interdum eorum qui pauperibus bene faciebant, aut
+aliquid offerebant Ecclesiæ, nomina celabantur, ex
+Domini præcepto Matth. VI, 2: Cum facis eleemosy-
+nam, noli tuba canere, etc. Qua de re constitutor
+infra cap. 14. Interdum palam fiebant, et alio Do-
+minico mandato Matth. v, 16: Luceat lux vestra
+coram hominibus, etc. Ut cernere est hic, et cap.
+29, lib. VIII, utque per testimonia plurima a viris
+doctis probatur. Insigniter et huic loco convenien-
+tissime Cyprianus epist. 60: Ut autem fratres no-
+stros ac sorores, qui ad hoc opus tam necessarium
+prompte ac libenter operati sunt, ut semper operentur,
+in mentem habeatis in orationibus vestris, et eis vi-
+cem boni operis in sacrificiis et precibus repræsentetis,
+subdidi nomina singulorum; sed et collegarum quo-
+
+# block=9
+CAPUT IV.
+
+# block=10
+CAPUT III.
+
+# block=12
+766
+
+# block=14
+Ὁποίας εἶναι χρὴ τὰς χήρας (30), καὶ ὅπως ἐπι-
+κουρεῖσθαι παρὰ τοῦ ἐπισκόπου.
+
+# block=15
+ΚΕΦΑΛΑΙΟΝ Γ'.
+
+# block=17
+765
+
+# block=18
+CONSTITUTIONES APOSTOLICÆ. — LIB. III.
+
+# block=19
+⁷¹ Luc. VI, 30.
+
+# block=20
+VARIORUM NOTÆ.

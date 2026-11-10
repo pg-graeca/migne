@@ -1,0 +1,168 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,270,1080,1025,1898
+2,270,170,1023,1074
+3,273,1904,1035,2384
+4,1062,1209,1822,2158
+5,279,2437,1029,2716
+6,1061,170,1821,1203
+7,1066,2166,1814,2388
+8,1061,2449,1820,2723
+9,801,111,1264,150
+10,269,118,322,154
+11,1724,96,1820,150
+12,297,2384,1399,2444
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Paucis interjectis de injustis bonorum pastorum
+depositionibus addit sanctus Pontifex, quod apostoli
+cognoscentes per Dominum nostrum Jesum Christum,
+quod temporis decursu esset contentio de nomine epi-
+scopatus ; ob eam causam accepta perfecta cognitione
+successores sibi constituerunt, et deinceps futuræ suc-
+cessionis regulam tradiderunt (30) ut cum illi deces-
+sissent, ministerium eorum ac munus alii viri probati
+exciperent (31). Constitutos itaque ab illis (prosequi-
+tur sanctus Pontifex) vel deinceps ab aliis viris exi-
+miis, consentiente ac comprobante universa Ecclesia;
+qui inculpate ovili Christi ministraverunt cum humi-
+litate, quiete, nec illiberaliter, quique longo tempore
+ab omnibus testimonium præclarum reportarunt, hos
+putamus officio injuste dejici : neque enim leve erit
+peccatum, si eos qui citra querelam et sancte offerunt
+dona, episcopatu privaverimus. Habes modo quæ in
+sancto Clemente memoratu mihi visa fuerunt digna,
+quoad ordinem sive ecclesiasticam hierarchiam.
+
+# block=2
+stolorum et episcoporum, qui ipsos sunt subsecuti.
+Dicit ergo quod apostoli nobis evangelizaverant a
+Domino Jesu Christo missi, et Jesus Christus a Deo
+missus; ideoque est missus Jesus Christus a Deo, et
+apostoli a Christo; utraque autem missio facta est
+ordinatim ex voluntate Dei. Insuper quod apostoli
+acceptis mandatis, et certo persuasi per resurrectio-
+nem Domini nostri Jesu Christi, et in fide confirmati
+per verbum Dei, cum sancti Spiritus plenitudine ac
+securitate egressi sunt, annuntiantes adventurum esse
+regnum Dei : prædicantes igitur, tandem concludit,
+per regiones et urbes, primitias earum spiritu cum
+probassent, in episcopos et diaconos eorum qui credi-
+turi erant, constituerunt. Neque hoc novum, addit
+sanctus pontifex : a multis enim temporibus de epi-
+scopis et diaconis scriptum fuerat ; sic enim alicubi
+dicit Scriptura : Constituam episcopos eorum in justi-
+tia et diaconos eorum in fide (29). Ex Isaiæ cap. LX,
+versu 17, videtur textus iste excerptus, ubi quid si-
+mile legitur ; alii autem illum ex aliquo apocrypho
+libro exscriptum putant.
+
+# block=3
+Instructio adversus schismaticos. — Antequam ad
+morum veritates, quas tradit sanctus Clemens,
+gradum faciamus, nonnulla, quæ schisma respiciunt,
+sunt hic asserenda. Utquid, scribit ille ad Corin-
+thios ²⁴, inter nos sunt contentiones, iræ, dissensiones,
+schismata et bellum? nonne unum Deum habemus et
+unum Christum? atque unus est Spiritus gratiæ, qui
+effusus est super nos (en explicita confessio SS.
+Trinitatis, et trium in una natura distinctarum Per-
+sonarum fides) et una vocatio in Christo? cur di-
+ducimus et distrahimus membra Christi, et contra
+
+# block=4
+Remedia contra schisma. Hortatur illos, ut Domino
+accidant et plangant, orantes eum, ut propitius factus
+reconcilietur illis, atque in decoram et castam fra-
+terni amoris viam illos reducat (33). Vult igitur ut
+humiles se ipsos præbeant non solum Deo, sed et toti
+terrarum orbi, ut publicam utilitatem peculiaribus
+eorum commodis præferant, ac charitatem diligant,
+divinam scilicet virtutem illam, quæ essentialiter
+est inimica schismati. Vos igitur, dicit insuper,
+qui seditionis fundamenta jecistis, subditi estote pre-
+sbyteris, et in pœnitentiam corrigimini, flectentes genua
+cordis vestri; discite subjici, deponentes arrogantem
+et superbam linguæ vestræ jactantiam; melius siqui-
+dem vobis est, in ovili Christi parvos, et probatos in-
+veniri, quam altum sapientes e spe illius dejici. Uti-
+nam gravis hæc veritas vim haberet super illorum
+animum, qui se ab Ecclesia separant! Cæterum ex
+hisce eruitur, schismaticos ab Ecclesiæ corpore esse
+divisos, omni adempta salutis spe, quandiu in dam-
+nabili hac divisione perstiterint.
+§ V. De pœnitentia atque observatione mandatorum.
+De confessione peccatorum ac eorumdem remissione.
+
+# block=5
+(29) Ibid., cap. 42.
+(30) Ibid., cap. 44.
+(31) Videtur hic S. Clemens innuere ab apostolis
+ipsis traditam fuisse eam successionis in episcopatu
+normam, quæ prioribus sæculis servabatur, ut sci-
+licet per clerum fieret electio præsentibus ejusdem
+provinciæ episcopis, qui, populo consentiente, illam
+confirmarent, et electum metropolitanus consecra-
+
+# block=6
+proprium corpus seditionem facimus, eoque vesaniæ
+devenimus, ut alios aliorum membra esse oblivisca-
+mur? Recordamini verborum Domini nostri Jesu;
+dicit enim : ‹ Væ homini illi per quem scandalum ve-
+nit ²⁵ ! bonum erat ei, si natus non fuisset ²⁶, quam
+ut unum ex electis meis scandalizaret : melius erat ut
+ei mola circumponeretur et in mare demergeretur,
+quam ut unum de pusillis meis scandalizaret ²⁷. ›
+Schisma vestrum multos pervertit; multos in animi
+dejectionem, omnes nos in tristitiam conjecit (32).
+Turpia sunt, dilecti, prosequitur sanctus Clemens,
+ac valde turpia, et Christiana conversatione indi-
+gna, audiri firmissimam et antiquam Corinthiorum
+Ecclesiam propter unum aut alterum hominem contra
+presbyteros seditionem movere. Atque is rumor non
+tantum ad nos pervenit, sed ad eos quoque qui a nobis
+alieni sunt animo et sententia, adeo ut propter vestram
+insipientiam etiam blasphemiæ et convicia nomini Do-
+mini inferantur. ‹ Vobis autem periculum creatur, oc-
+casionem hisce blasphemiis præbendo. › Hæc est imago
+quam de schismate, et de malis quæ inde consequun-
+tur, sanctus iste pontifex depingit. Videamus modo
+quænam remedia Corinthiis præscribat ut a spiri-
+tuali hac contagione liberentur.
+
+# block=7
+Pœnitentiæ agendæ et confessionis peccatorum
+faciendæ quoque mentionem habet D. Clemens, non
+uno quidem, sed pluribus locis, potissimum autem
+numeris 51 et 52 ep. 1 (34), hancque confessionem Do-
+minum Deum exigere probat ex adductis quibus-
+
+# block=8
+ret. Id tamen non officit, quo minus lapsu tempo-
+rum mutari hæc norma potuerit : cum ea quæ ad
+disciplinam Ecclesiæ pertinent, citra fidei periculum
+mutationi obnoxia esse satis constet.
+(32) Clem. Rom., ep. 1, cap. 43.
+(33) Epist. 1, cap. 37.
+(34) Quotquot igitur per quemdam adversarii illa-
+psum deliquimus, veniam postulemus ; illi vero qui
+
+# block=9
+AD S. CLEMENTEM I PAPAM
+
+# block=10
+167
+
+# block=11
+168
+
+# block=12
+²⁴ I Cor. xii, 20. ²⁵ Matth. xviii, 7. ²⁶ Matth. xxvi, 24. ²⁷ Luc. xvii, 2.

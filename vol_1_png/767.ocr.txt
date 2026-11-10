@@ -1,0 +1,204 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,973,265,1726,1255
+2,207,2508,941,2710
+3,201,2182,943,2510
+4,192,266,944,1255
+5,197,1598,944,2185
+6,973,2285,1703,2717
+7,198,1398,934,1598
+8,974,1562,1717,1991
+9,969,1991,1703,2284
+10,199,190,938,264
+11,996,194,1701,260
+12,606,97,1312,134
+13,197,104,253,133
+15,972,1396,1718,1566
+16,1261,148,1427,184
+17,1657,100,1709,131
+18,450,151,681,189
+19,220,1288,1104,1332
+20,795,1338,1107,1382
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=973 source_y1=265 source_x2=1726 source_y2=1255
+His autem omnibus unus ac idem pariter erat
+scopus impietatis, ut omnipotentem Deum blasphe-
+marent, censendo ignotum esse, et non esse Patrem
+Christi, neque mundi conditorem ⁸³ ; sed ineffabi-
+lem, inpronuntiabilem, innominabilem, a se na-
+tum ; lege ac prophetis non esse utendum ; nullam
+existere providentiam ; resurrectionem non cre-
+dendam ; non futurum judicium, nec retributionem;
+non esse animam immortalem; sola voluptate læ-
+tandum; atque licere ad omnem religionem indiffe-
+renter deflectere. Et alii quidem multos esse deos
+asserunt : alii vero tres principii expertes ; alii au-
+tem duos ingenitos; et alii innumeros Æones.
+Quidam etiam eorum docent non esse nubendum ,
+et abstinendum esse a carne et vino ; affirmantes
+nuptias liberorumque procreationem , et ciborum
+sumptionem res esse abominabiles : ut tanquam
+viri graves ac severi pravam suam opinionem qua-
+si fide dignam suscipi faciant. Ex iis autem non-
+nulli sciunt abstinere a carnibus : non tanquam
+cæ sint animalium ratione carentium ; sed veluti
+animam rationalem habentium ; et quasi qui ea
+mactare audent, pœnas daturi sint homicidii. Alii
+
+# block=2 source_x1=207 source_y1=2508 source_x2=941 source_y2=2710
+(34) Πρὸς πᾶσαν θρησκείαν ἀδιαφόρως ἐκκλί-
+νειν. Apelles apud Eusebium, nullius in Christum
+sperantis fidem examinari vult, aut mutari. Idem-
+que, ni fallor, fuit error Rhetorii cunctarum hære-
+sium approbatis ; sed male expressus a Phila-
+strio, quasi dixerit Rhetorius omnia hæreticorum
+
+# block=3 source_x1=201 source_y1=2182 source_x2=943 source_y2=2510
+(33) Ψυχὴν ἀθάνατον μὴ ὑπάρχειν. Permirum
+mihi videtur quod refert vir doctissimus Gilbertus
+Gaulminus lib. I Notarum ad opus Hebraicum De
+vita et morte Mosis , cap. 12 , historicos Arabes
+sententiam, quæ animas cum corporibus extingui
+affirmat, Origeni ascribere ; cum ex Eusebii Histo-
+ria, lib. VI, cap. 37, constet eum errorem de animi
+morte, in Arabia ortum, ab Origene fuisse confuta-
+tum. Ut taceam scripta Origenis, in quibus animæ
+immortalitas docetur. ID.
+
+# block=4 source_x1=192 source_y1=266 source_x2=944 source_y2=1255
+Τούτοις δὲ πᾶσιν ἐπίσης σκοπὸς ἦν εἷς καὶ ὁ αὐ-
+τὸς ἀθεότητος, τὸν μὲν παντοκράτορα Θεὸν βλασφη-
+μεῖν (32), ἄγνωστον δοξάζειν, καὶ μὴ εἶναι Πατέρα
+τοῦ Χριστοῦ, μηδὲ τοῦ κόσμου δημιουργόν, ἀλλ' ἄλε-
+κτον, ἄῤῥητον, ἀκατονόμαστον, αὐτογέννητον· νόμῳ
+καὶ προφήταις μὴ χρῆσθαι· πρόνοιαν μὴ εἶναι· ἀνά-
+στασιν μὴ πιστεύειν· κρίσιν μὴ εἶναι καὶ ἀνταπόδοσιν·
+ψυχὴν ἀθάνατον μὴ ὑπάρχειν (33)· ἡδονῇ χαίρειν μόνῃ·
+καὶ πρὸς πᾶσαν θρησκείαν ἀδιαφόρως ἐκκλίνειν (34).
+Οἱ μὲν γάρ, πλείους εἶναι θεοὺς λέγουσιν· οἱ δέ, τρεῖς
+ἀνάρχους· οἱ δέ, δύο ἀγεννήτους· οἱ δέ, αἰῶνας ἀπεί-
+ρους. Καὶ οἱ μὲν αὐτῶν ἀγαμίαν διδάσκουσι, καὶ κρεῶν
+ἀποχὴν καὶ οἴνου· βδελυκτὰ λέγοντες εἶναι καὶ γάμον καὶ
+παίδων γένεσιν, καὶ βρωμάτων μετάληψιν· ἵν' ὡς σεμ-
+νοί τινες τὴν πονηρὰν αὐτῶν γνώμην ὡς ἀξιόπιστον
+παραδεχθῆναι ποιήσωσι· τινὲς δὲ ἐξ αὐτῶν νομοθετοῦσι
+κρεῶν ἀπέχεσθαι οὐχ ὡς ἀλόγων ζώων (35), ἀλλ' ὡς
+λογικὴν ἐχόντων ψυχήν, καὶ φόνου δίκην εἰσπράσ-
+σεσθαι μελλόντων τῶν ταῦτα κατατολμώντων (36)
+σφάζειν· ἕτεροι δὲ ἐξ αὐτῶν, ἔλεγον μόνου δεῖν φάσ-
+κοντες χοιρείου ἀπέχεσθαι (37)· τὰ δὲ κατὰ νόμον
+καθαρὰ ἐσθίειν· καὶ περιτέμνεσθαι νομίμως· πι-
+στεύειν δὲ εἰς Ἰησοῦν ὡς εἰς ὅσιον ἄνδρα (38) καὶ
+
+# block=5 source_x1=197 source_y1=1598 source_x2=944 source_y2=2185
+(31) Ὅπως. Sequuntur hæc in utroque cod.
+Vind.: Ὁ διάβολος σκοπὸν ἔθιδου ἀθεότητος. Cl.
+(32) Τὸν μὲν παντοκράτορα, etc. Primi hæretici
+Deum verum et omnipotentem blasphemiis appe-
+tebant ; quia inficiabantur esse Patrem Christi,
+mundique opificem ; superducebant vero falsum
+Deum, quem dicebant ignotum, ineffabilem, etc.
+Habent sensum hunc obscuriora verba, interpositu
+utriusque numinis, minus bene constructa. De
+ignoto Deo eadem impietas hæresi Elcesæorum tri-
+buitur in Jure Græco-Romano p. 180, ubi Ἀλκεσαίων
+perperam leges. Sed et ibidem manifesto pugnat
+cum veritate quod dicitur : Οὐαλεντῖνος καὶ Κέρδων
+ἐλθόντες ἐν τῇ Ῥώμῃ, ἐδίδασκον τὸν τῆς Παλαιᾶς
+Θεόν. Proinde locus depravatus est et imperfectus.
+Scribendum forsan, κατὰ τοῦ τῆς Παλαιᾶς Θεοῦ.
+Valentinus et Cerdon Romam profecti, docebant ad-
+versus Veteris Testamenti Deum. COT.
+
+# block=6 source_x1=973 source_y1=2285 source_x2=1703 source_y2=2717
+(38) Ὡς εἰς ὅσιον ἄνδρα. Dicti idcirco, ut vide-
+tur. Anthropiani a Cypriano epist. 73, et Lactan-
+tio lib. IV, cap. ult. item Homuncionitæ : quod li-
+quet per Prudentium in Apotheosi ; pseudo-Hiero-
+nymi Indiculum, ubi De Pneumatomachis seu Mace-
+donianis ; Bedam ad Philipp. II, 6 ; necnon per Vi-
+gilium Tapsensem lib. III De Trinitate, circa me-
+dium. Chiffletii quippe lectio Homousionista, aperte
+pugnat cum sensu et verbis Vigilii, eo loco dispu-
+tantis adversus Photinum, qui (inquit) Christum
+verum Deum abnegat, et hominem purum tantum-
+modo confitetur. Sed et codex Regius 358 Homun-
+cionita retinet. Objiciuntur a doctissimo Chiffletio
+
+# block=7 source_x1=198 source_y1=1398 source_x2=934 source_y2=1598
+pontificalis, cum habet duntaxat in Petro ; idque
+juxta quasdam exemplaria ; alia enim iis careat : Et
+dum diutius altercarentur, Simon divino nutu inter-
+emptus est. Similia Simonianis leges in Historia ec-
+clesiastica Eusebii lib. V, cap. 16 de Theodoto Mon-
+tani socio. COT.
+
+# block=8 source_x1=974 source_y1=1562 source_x2=1717 source_y2=1991
+(35) Οὐχ ὡς ἀλόγων ζώων. Epiphanium consule
+hæresi 26, n. 10; hær. 42, p. 330, et Philastrium
+parte III, hæresi 54. Gennadius De dogmatibus cap.
+17 : Animalium animæ non sunt substantiva, sed
+cum carne ipsa carnis in nativitate nascuntur, et cum
+carnis morte finiuntur et moriuntur : et ideo nec ra-
+tione reguntur ; sicut Plato et Alexander putant; sed
+ad omnia naturæ incitamento. Quem locum pluri-
+mis abjectis, ideo protuli, ut indicarem, Alexandri
+in eo memorati causa Philonem Judæum libro suo
+Quod bruta animalia ratione sunt prædita, titulum
+etiam fecisse Ἀλέξανδρος. De Alexandro, in Euse-
+bii Historia, et Catalogo Hieronymi. ID.
+
+# block=9 source_x1=969 source_y1=1991 source_x2=1703 source_y2=2284
+(36) Tῶν ταῦτα κατατολμώντων. Cod. Vind.
+τοὺς ταῦτα τολμῶντας. Vitiose. Cl.
+(37) Ἔλεγον μόνον δεῖν φάσκοντες χοιρείου
+ἀπέχεσθαι. An deest aliquid? Post multum tempus
+Moameth (quemadmodum leges in Euthymii Pano-
+plia) laudato esu cæterorum animalium, porcum
+solum abominatus est. Et ridentur a S. Basilio ca-
+none 28, qui abstinentiam a carne suilla vovebant.
+Vide Julianum Apostatam orat. 5, p. 332. COT.
+
+# block=10 source_x1=199 source_y1=190 source_x2=938 source_y2=264
+Ὅπως (31) αἱ αἱρέσεις καὶ πρὸς ἑαυτὰς καὶ πρὸς
+ἀλήθειαν διαφωνοῦσιν.
+
+# block=11 source_x1=996 source_y1=194 source_x2=1701 source_y2=260
+Quomodo hæreses et inter se et a veritate discre-
+pant.
+
+# block=12 source_x1=606 source_y1=97 source_x2=1312 source_y2=134
+CONSTITUTIONES APOSTOLICÆ. — LIB. VI.
+
+# block=13 source_x1=197 source_y1=104 source_x2=253 source_y2=133
+933
+
+# block=15 source_x1=972 source_y1=1396 source_x2=1718 source_y2=1566
+dogmata pro veris habenda ; quo quid absurdius ?
+unde merito res B. Augustino incredibilis visa est.
+Mentionem facit Rhetorii S. Anastasius libro De
+Incarnatione adversus Apollinarium. Lege anony-
+mum crebro a me citatum, hæresi 72. ID.
+
+# block=16 source_x1=1261 source_y1=148 source_x2=1427 source_y2=184
+CAPUT X.
+
+# block=17 source_x1=1657 source_y1=100 source_x2=1709 source_y2=131
+934
+
+# block=18 source_x1=450 source_y1=151 source_x2=681 source_y2=189
+ΚΕΦΑΛΑΙΟΝ Ι΄.
+
+# block=19 source_x1=220 source_y1=1288 source_x2=1104 source_y2=1332
+⁸³ I. Ignat. interpol. ad Trall. 6, ad Philad. 6, ad Sm. 6.
+
+# block=20 source_x1=795 source_y1=1338 source_x2=1107 source_y2=1382
+VARIORUM NOTÆ.

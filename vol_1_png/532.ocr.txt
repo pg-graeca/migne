@@ -1,0 +1,162 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,267,1274,1025,2142
+2,1052,978,1814,1839
+3,1056,1845,1802,2144
+4,264,979,1021,1240
+5,270,2197,1807,2371
+6,762,710,1283,776
+7,1056,2393,1810,2699
+8,266,364,1802,465
+9,848,208,1198,266
+10,264,2399,1021,2703
+11,760,296,1287,332
+12,671,827,1401,863
+13,247,500,1785,589
+14,665,106,1392,143
+18,253,104,321,154
+19,1729,94,1811,148
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=28px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=26px
+# block=10 fontSize=15px
+# block=11 fontSize=16px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=18 fontSize=16px
+# block=19 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=19
+464
+
+# block=18
+463
+
+# block=14
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9
+EPISTOLA I.
+
+# block=11
+AD JACOBUM FRATREM DOMINI.
+
+# block=8
+Enarrat Clemens, qua ratione Petrus brevi moriturus, congregatis fratribus, et concione præmissa, qua
+ipsius Clementis meritum effert, et multa ei tradit regendæ Ecclesiæ præcepta, ipsum sibi successorem
+ordinat, ac jubetur Clemens post mortem Petri epitomen prædicationum ipsius ad Jacobum mittere.
+
+# block=13
+(Eadem est ac sequens, nisi quod multis interpolationibus ab Isidoro Mercatore, seu potius ab alio quo-
+dam multo quam Isidorus antiquiore accreta est.)
+
+# block=6
+EADEM EPISTOLA,
+
+# block=12
+Rufino Torano, Aquileiensi presbytero, interprete ⁴⁸
+
+# block=2
+sius Romanæ urbis hujus notitiam , ut etiam ipsa
+salvaretur, invexit; hic, inquam, pro pietate pati
+volens præsentem vitam finivit ⁵⁰. In ipsis autem
+diebus, quibus vitæ finem sibi imminere præsensit,
+in conventu fratrum positus , apprehensa manu
+mea, repente consurgens, in auribus totius Eccle-
+siæ hæc protulit verba : « Audite me fratres et
+conservi mei : quoniam, ut edoctus sum ab eo qui
+misit me, Domino et magistro meo Jesu Christo,
+dies mortis meæ instat, Clementem hunc episcopum
+vobis ordino, cui soli meæ prædicationis et doctri-
+næ cathedram trado ⁵¹ : qui mihi ab initio usque
+in finem comes in omnibus fuit, et per hoc verita-
+tem totius meæ prædicationis agnovit : qui in om-
+nibus tentationibus meis socius exstitit, fideliter
+perseverans : quem præ cæteris expertus sum Deum
+colentem , homines diligentem, castum, discendi
+studiis deditum, sobrium, benignum, justum, pa-
+tientem , et scientem ferre nonnullorum (etiam ex
+his qui in verbo Dei instituuntur) injurias.
+
+# block=4
+CLEMENS JACOBO (28) fratri Domini, et Episcopo
+episcoporum, regenti Hebræorum sanctam Eccle-
+siam Hierosolymis, sed et omnes Ecclesias, quæ
+ubique Dei providentia fundatæ sunt, cum presby-
+teris et diaconibus, et cæteris omnibus fratribus.
+Pax tibi sit semper.
+
+# block=1
+Notum ⁴⁹ tibi facio , domine , quia Simon Pe-
+trus (29), qui veræ fidei merito, et integræ prædi-
+cationis obtentu, fundamentum esse Ecclesiæ defi-
+nitus est , qua de causa etiam Domini ore divino
+cognominatus est Petrus , qui fuit primitiæ electio-
+nis Domini, apostolorum primus, cui et primo Deus
+Pater Filium revelavit , cui et Christus competen-
+ter beatitudinem contulit, qui et vocatus est et ele-
+ctus, et conviva Domini et comes effectus, tanquam
+bonus et probatissimus discipulus, qui obscurio-
+rem mundi plagam Occidentis (velut omnium po-
+tentior) illuminare præceptus est, quique et integre
+potuit implere præceptum. Sed quousque sermo-
+nem protraho , refugiens indicare quod triste est ,
+quod quidem necesse est, licet tarde, proferre? Hic
+denique ipse Petrus , qui pro immensa charitate ,
+quam erga omnes homines gerebat, palam cum
+omni fiducia (adversante etiam tyranno totius
+mundi) bonum prædicare non destitit, et regem om-
+nium sæculorum per orbem terræ , et usque ad ip-
+
+# block=3
+Propter quod ipsi trado a Domino mihi traditam
+potestatem ligandi et solvendi ; ut de omnibus qui-
+buscunque decreverit in terris, hoc decretum sit et
+in cælis. Ligabit enim quod oportet ligari , et sol-
+vèt quod expedit solvi , tanquam qui ad liquidum
+Ecclesiæ regulam noverit ⁵². Ipsum ergo audite ,
+scientes quia quicunque contristaverit doctorem
+
+# block=5
+⁴⁸ Vide præf. in Recogn. ad Gaudentium, ubi ait hanc a se olim interpretatam atque editam. ⁴⁹ Vide
+infra (t. II) Epitomen historiæ Clementinæ, sive Librum de gestis sancti Petri, anno 1555, opera Adriani
+Turnebi Græce editum, et Latine redditum a Joachimo Perionio O. B. ⁵⁰ Gesta sive Epitome cit., p. 412,
+edit. Coloniensis ann. 1569. ⁵¹ Const. VII, 46. ⁵² 11 quæst. 3, Quicunque contrist. Et in epist. 1
+Alexandri papæ I.
+
+# block=7
+repserit. Ita Possevinus in Apparatu sacro, in verbo
+CLEMENS ROMANUS. SEV. BINIUS.
+(29) Sequentes variantes lectiones , notulasque
+suppeditavit Harduinus, qui non has Clementis epi-
+stolas tantum, sed etiam reliquas Isidorianæ colle-
+ctionis contulit cum ms. Bibliothecæ collegii Paris.
+Soc. Jesu; in quo hujus epistolæ hic titulus habe-
+tur : Incipit Epistola Clementis ad Jacobum fratrem
+Domini. Deest autem, Petrus, recte.
+
+# block=10
+(28) Cum hæc epistola scripta sit, ut in fronte et
+capite illius apparet , post obitum S. Petri, adeo-
+que post XIII annum Neronis, ad Jacobum fratrem
+Domini scripta esse nequit : utpote qui, teste Hie-
+ron. De viris illustribus, septimo anno Neronis Hie-
+rosolymis occisus est ; unde patet, quod hæc epi-
+stola vel non sit Clementis, vel potius ad Si-
+monem, qui etiam frater Domini fuit, scripta sit,
+et in titulum epistolæ mendose vox, Jacobum , ir-

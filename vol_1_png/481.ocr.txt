@@ -1,0 +1,200 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,184,885,941,1479
+2,194,279,950,875
+3,178,1487,932,2042
+4,973,450,1731,1699
+5,953,1793,1717,2356
+6,956,2494,1708,2697
+7,986,148,1740,442
+8,173,2134,929,2344
+9,169,2480,920,2691
+10,202,149,959,270
+11,1108,1754,1563,1785
+12,655,93,1304,127
+13,332,2097,764,2127
+14,223,2388,684,2427
+15,191,90,269,130
+16,1667,88,1741,130
+17,287,2690,547,2734
+18,1533,2704,1593,2748
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+362
+
+# block=15
+361
+
+# block=12
+EPISTOLÆ AD VIRGINES. — PROCÖEMIA
+
+# block=7
+clesiam occasione hujus publicationis. Credendum
+est tunc ab illo præfocatam fuisse conscientiæ pro-
+priæ vocem intus contra ipsum reclamantem; sed
+talis est sæpius conditio eorum qui se tyrannicæ
+hæresis jugo manciparunt, ut non credant sibi li-
+cere unius veritatis prædicationem, quin simul læ-
+dant columnam et firmamentum veritatis.
+
+# block=10
+terpretaretur Epistolam ad Hebræos nuncupatam
+Clementique dictatam. Idem quidam conjectant de
+secunda beati Petri Epistola.
+
+# block=2
+Decebat vero talem virum de virginitate ejusque
+custodia scribere, quem testantur antiqui auctores
+per omnem vitam in pura sanctaque virginitate per-
+mansisse (3). Permisit demum Dominus ut pretio-
+sus ille thesaurus tandiu desideratus a sectatore
+pseudo-reformationis et inveniretur, et agnoscere-
+tur, et defenderetur. Ne autem talis inventio in ful-
+nimentum veniat catholicæ doctrinæ, inde occasionem
+sumit inventor declamandi contra Ecclesiam, quia,
+in his Epistolis nihil reperitur, ut ait ille, de hier-
+archia, nihil de monachatu et cœnobiis, nihil de
+terminis et formulis loquendi per concilia inventis
+et sanctis, a quibus vix se abstinuisset sæculorum
+sequentium scriptor. »
+
+# block=4
+Igitur Wetstinus satis insulse invehitur in Ro-
+manam Ecclesiam, dicens huic displicere discipli-
+nam in Epistolis sancti Clementis traditam : ideo-
+que has ab Ecclesia remotas per tot sæcula la-
+tuisse : « Solent enim, ait, qui in Ecclesia domi-
+nantur, non, quod præ se ferunt, mores suos et opi-
+niones ad doctrinam olim traditam conformare, sed
+doctrinam veterem ad mores et opiniones sui tem-
+poris inflectere; et ubi nimis manifestus est dis-
+sensus, aut vi agere, aut flammis libros abolere....
+Minime tamen decebat ut ab his qui se traditionum
+veterum tenacissimos esse gloriantur, repudiaretur
+Clemens noster qui vidit beatos apostolos, et cum
+illis conversatus fuit, et adhuc in auribus prædica-
+tionem apostolorum, et traditionem præ oculis ha-
+beat 9. » Has injurias protulisse non contentus, addit
+Wetstinus « Clericos non pati se privari familiari-
+tate cum mulieribus; feminas dominari in Ecclesias,
+ita ut desacerdotali gradu favor judicet feminarum ;
+præsules Ecclesiæ has Clementis Epistolas, in qui-
+bus victus tam tenuis commendatur, et ne umbra
+quidem auctoritatis reperitur, contempsisse atque
+abjecisse, cum hodie vel infimi ordinis clericus ad
+dignitatem suam pertinere judicet, ut et lautiori
+cibo vescatur, et in spiritualibus, personam apo-
+stoli vel prophetæ sibi sumat. » Tandem, vix sperat
+Wetstinus has Epistolas authenticas agnosci ab his
+quorum mores non sunt, ut ait, harum doctrinæ
+conformes.
+
+# block=1
+Studio sectæ suæ abreptus et obcæcatus, Wetsti-
+nus non animadvertit se, tali declamatione, infen-
+sum præbere monumentis etiam quibus ipse sin-
+cera ac immota veneratione adhæret. Agnoscit certe,
+cum omnibus eruditis, authenticitatem primæ Epi-
+stolæ sancti Clementis ad Corinthios quam invenit
+ac evulgavit Junius Patricius Anglicanus. In multis
+porro hujus Epistolæ locis, hierarchia clare memo-
+ratur, sed nullibi forsan splendidius quam n. 40,
+de quo exscribere juvat verba quæ sequuntur :
+« Summo sacerdoti sua munia tributa sunt, et sa-
+cerdotibus locus proprius assignatus est, et levitis
+sua munia incumbunt. Homo laicus præceptis laicis
+constringitur.
+
+# block=3
+Unice ut hierarchiam agnoscerent et veneraren-
+tur scripta fuerat hæc Epistola ad Corinthios, qui
+monitis sancti Clementis obedientes, ad submissio-
+nem et pacem reversi sunt. De monachatu et cœno-
+biis verum est sanctum Clementem nec locutum
+fuisse, nec loqui potuisse, cum tempore suo ista
+non existerent; sed virgines docet pius pontifex,
+ut inter sæculares in eadem vivant perfectione quæ
+a monachis postea et cœnobiis observata est. Nec
+diffiteor etiam his in Epistolis non reperiri formu-
+las loquendi conciliorum. Hinc ego quoque authen-
+ticitatem harum Epistolarum facile concludam,
+modo his sanctissimis cœtibus nihil detrahatur.
+
+# block=11
+RESPONSIO INVECTIVIS WETSTINI.
+
+# block=5
+Minoribus expensis poterat Wetstinus famam
+zelantis reformati sibi conquirere, quamvis dubitem
+num reipsa adquisiverit. Quot namque persecutio-
+nes, apud suos, subiit propter Epistolarum istarum
+publicationem ! Ipsi, nedum in patrocinium authen-
+ticitatis quam vindicabat, faverent declamationibus
+ejus contra Ecclesiam et clerum catholicum, in de-
+clamatorem ipsum debacchati sunt. Imo fere inter
+solos Catholicos Epistolarum authenticitas defenso-
+res et advocatos invenit. Hic memorabaro tantum
+Diarium eruditorum, mensis Jun. vol. XI, 1758, p.
+446. Diarium istud fatetur harum Epistolarum in-
+ventionem esse maximi momenti; Commentaria Tri-
+
+# block=13
+INSULSÆ WETSTINI INVECTIVÆ.
+
+# block=8
+Gratum animum unice exprimere voluissem erga
+Wetstinus pro beneficio quod Ecclesiæ et erudi-
+tioni præstitit has publicando sancti Clementis Epi-
+stolas; sed dolorem simul cohibere non licet, quod
+gratis tam injustum se exhibuerit erga sanctam Ec-
+
+# block=14
+° S. Iren. Adv. hær., l. III, c. 3.
+
+# block=9
+(5) Hoc testimonium invenitur in quibusdam
+exemplaribus Epistolæ S. Ignatii martyris ad Phil-
+adelphenses. Ibique alludit sanctus præsul Antioche-
+nus consilio a sancto Clemente ad Virgines dato
+imitandi Patrem, et Filium, et Spiritum sanctum.
+Si vitiatus fuerit iste sancti Ignatii locus, cum in
+
+# block=6
+pluribus exemplaribus existat ejusmodi interpolatio,
+quæ probabiliter anterior est amissioni nostrarum
+Epistolarum, credendum est ab eisdem Epistolis
+mutuatam fuisse invitationem imitandi tres sanctis-
+simæ Trinitatis personas : quod certe novum et
+grave præbet authenticitatis argumentum.
+
+# block=17
+PATROL. GR. I.
+
+# block=18
+12

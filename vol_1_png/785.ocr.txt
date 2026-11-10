@@ -1,0 +1,159 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,561,65,1279,104
+2,1621,70,1679,107
+3,153,118,910,2334
+4,158,57,211,99
+5,937,114,1699,2340
+6,149,2354,1697,2476
+7,797,2504,1105,2550
+8,181,2552,921,2680
+9,955,2568,1567,2650
+10,261,2676,551,2732
+11,1513,2670,1595,2720
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=561 source_y1=65 source_x2=1279 source_y2=104
+CONSTITUTIONES APOSTOLICÆ. — LIB. VI.
+
+# block=2 source_x1=1621 source_y1=70 source_x2=1679 source_y2=107
+970
+
+# block=3 source_x1=153 source_y1=118 source_x2=910 source_y2=2334
+νόμον κυρώσας ἐπλήρωσε · τὰ ἐπείσακτα περιεῖλεν, .
+εἰ καὶ μὴ πάντα, ἀλλά γε τὰ βαρύτερα, τὰ μὲν βε-
+βαιώσας, τὰ δὲ παύσας · καὶ τὸ αὐτεξούσιον τῶν ἀν-
+θρώπων πάλιν ἀφῆκεν ἐλεύθερον, οὐ προσκαίρῳ θα-
+νάτῳ δικάζων, ἀλλ’ ἐν ἑτέρᾳ καταστάσει λογοθετῶν
+αὐτό · διὸ λέγει · «Εἴ τις θέλῃ ὀπίσω μου ἐλθεῖν, ἀρ-
+χέσθω · » καὶ πάλιν · «Μὴ καὶ ὑμεῖς θέλετε ὑπάγειν;»
+Ἤδη δὲ καὶ πρὸ (37) τῆς παρουσίας αὐτοῦ παρῃ-
+τεῖτο τὰς τοῦ λαοῦ θυσίας, πολλάκις εἰς αὐτὸν ἐξαμαρ-
+τόντος, καὶ οἰομένου διὰ θυσιῶν ἀλλ’ οὐ διὰ μετα-
+νοίας αὐτὸν ἐξευμενίζεσθαι · λέγει γὰρ οὕτως · «Ἵνα
+τί μοι λίβανον ἐκ Σαβᾶ φέρεις, καὶ κιννάμωμον ἐκ
+γῆς μακρόθεν; τὰ ὁλοκαυτώματα ὑμῶν οὐκ ἔστι δεκτά,
+καὶ αἱ θυσίαι ὑμῶν οὐχ ἡδυνάν μοι · » καὶ ἑξῆς · «Τὰ
+ὁλοκαυτώματα ὑμῶν συναγάγετε μετὰ τῶν θυσιῶν
+ὑμῶν, καὶ φάγετε κρέα (38) · ὅτι οὐκ ἐνετειλάμην
+ὑμῖν, ἡνίκα ἐξήγαγον ὑμᾶς ἐκ γῆς Αἰγύπτου, περὶ ὁλο-
+καυτωμάτων καὶ θυσιῶν. » Καὶ διὰ Ἡσαΐου λέγει ·
+«Τί μοι πλῆθος τῶν θυσιῶν ὑμῶν, λέγει Κύριος; πλή-
+ρης εἰμὶ ὁλοκαυτωμάτων κριῶν· καὶ στέαρ ἀρνῶν, καὶ
+αἷμα ταύρων καὶ τράγων οὐ βούλομαι, οὐδ’ ἂν ἔρ-
+χησθε ὀφθῆναί μοι. Τίς γὰρ ἐξεζήτησε ταῦτα ἐκ τῶν χει-
+ρῶν ὑμῶν; Πατεῖν τὴν αὐλήν μου οὐ προσθήσεσθε ἔτι.
+Ἐὰν φέρητέ μοι σεμίδαλιν, μάταιον θυμίαμα, βδέλυγμά
+μοί ἐστί. Τὰς νεομηνίας ὑμῶν, καὶ τὰ Σάββατα ὑμῶν,
+καὶ ἡμέραν μεγάλην οὐκ ἀνέχομαι· νηστείαν, καὶ ἀρ-
+γίαν, καὶ τὰς ἑορτὰς ὑμῶν μισεῖ ἡ ψυχή μου. Ἐγενήθη-
+τέ μοι εἰς πλησμονήν.» Καὶ δι’ ἑτέρου λέγει· «Ἀπόστη-
+σον ἀπ’ ἐμοῦ ἦχον ᾠδῶν σου, καὶ ψαλμὸν ὀργάνων σου
+οὐκ ἀκούσομαι.» Καὶ τῷ Σαοὺλ ὁ Σαμουὴλ λέγει θῦσαι
+νενομικότι· « Ἀγαθὴ ἀκοὴ ὑπὲρ θυσίαν· καὶ ἀκρόαμα,
+ὑπὲρ στέαρ κριῶν. Ἰδοὺ γὰρ οὐ θέλει Κύριος θυσίαν, ὡς
+τὸ εἰσακούειν αὐτοῦ. » Καὶ διὰ τοῦ Δαβὶδ λέγει· « Οὐ
+δέξομαι ἐκ τοῦ οἴκου σου μόσχους· οὐδὲ ἐκ τῶν ποι-
+μνίων σου χιμάρους. Ἐὰν (39) πεινάσω, οὐ μή σοι
+εἴπω· ἐμὴ γάρ ἐστιν ἡ οἰκουμένη καὶ τὸ πλήρωμα
+αὐτῆς. Μὴ φάγομαι κρέα ταύρων, ἢ αἷμα τράγων
+πίομαι; θῦσον τῷ Θεῷ θυσίαν αἰνέσεως , καὶ ἀπόδος
+τῷ Ὑψίστῳ τὰς εὐχάς σου. » Καὶ ἐν πάσαις δὲ ταῖς
+Γραφαῖς ὁμοίως αὐτῶν τὰς θυσίας ἀπαναίνεται, διὰ
+τὸ ἐξαμαρτεῖν αὐτοὺς εἰς αὐτόν. « Θυσίαι γὰρ ἀσε-
+βῶν, βδέλυγμα παρὰ Κυρίῳ· καὶ γὰρ παρανόμως
+προσφέρουσιν αὐτάς· » καὶ πάλιν· « Αἱ θυσίαι αὐτῶν
+ὡς ἄρτος πένθους αὐτοῖς· πάντες οἱ ἐσθίοντες αὐ-
+τὰς μολυνθήσονται. » Εἰ οὖν καὶ πρὸ τῆς παρουσίας
+αὐτοῦ , ὑπὲρ θυσίας καρδίαν καθαρὰν ἐπεζήτει, καὶ
+πνεῦμα συντετριμμένον, πολλῷ μᾶλλον ἐλθὼν ἔπαυσε
+ταύτας, φαμὲν (40) τὰς δι’ αἱμάτων· ἔπαυσε δὲ
+αὐτὰς, διὰ τοῦ πρότερον πληρῶσαι· καὶ γὰρ πε-
+ριτμηθῆν, καὶ ἐῤῥαντίσθη, θυσίας τε προσήνεγκε
+καὶ ὁλοκαυτώσεις, καὶ τοῦς ἄλλοις ἐθισμοῖς ἐχρήσατο·
+
+# block=4 source_x1=158 source_y1=57 source_x2=211 source_y2=99
+969
+
+# block=5 source_x1=937 source_y1=114 source_x2=1699 source_y2=2340
+buit, et implevit; ascita amputavit, etsi non omnia,
+sed graviora; illa quidem confirmata, his vero ab-
+dicatis. Rursusque potestatem hominum dimisit li-
+beram, non temporariæ morti condemnans, sed in
+altero statu rationem ab eo reposcens: quapropter
+ait: «Si quis vult post me venire, veniat⁵;» et
+iterum: «Nunquid et vos vultis abire⁶?» Jam
+vero etiam ante adventum suum aversabatur sa-
+crificia populi, qui sæpe in eum peccabat, et arbi-
+trabatur per sacrificia, et non potius per pœniten-
+tiam eum placari. Ita enim loquitur: «Utquid mihi
+thus de Saba affers, et cinnamomum de terra lon-
+ginqua? Holocaustomata vestra non sunt accepta,
+et sacrificia vestra non mihi fuerunt jucunda⁷;» et
+deinceps: «Holocaustomata vestra congregate
+cum sacrificiis vestris, et comedite carnes: quia
+non præcepi vobis, quando eduxi vos ex ter-
+ra Ægypti, de holocaustomatibus et sacrifi-
+ciis⁸.» Et per Isaiam dicit: «Quo mihi meiltu-
+dinem sacrificiorum vestrorum, dicit Dominus?
+plenus sum holocaustis arietum; et adipem agno-
+rum, ac sanguinem taurorum atque hircorum nolo;
+neque si veniatis, ut appareatis mihi. Quis enim
+quæsivit hæc de manibus vestris? Calcare atrium
+meum non apponetis amplius. Si afferatis mihi si-
+milam, vanum; incensum abominatio mihi est.
+Neomenias vestras, et Sabbata vestra, et diem ma-
+gnum non fero: jejunium, et otium, et solemnita-
+tes vestras odit anima mea. Facti estis mihi in sa-
+tietatem⁹.» Et per alium dicit: «Amove a me
+sonitum carminum tuorum: et psalmum organo-
+rum tuorum non audiam ¹⁰.» Et Samuel Sauli, qui
+sacrificium se obtulisse putabat, ait: «Bona est
+obedientia super sacrificium; et auditio, super adi-
+pem arietum. Ecce enim non vult Dominus sacrifi-
+cium, sicut ut obediamus ei ¹¹.» Et per Davidem
+ait: «Non accipiam de domo tua vitulos; neque
+de gregibus tuis hircos. Si esuriero, non dicam ti-
+bi: meus est enim orbis terræ, et plenitudo ejus.
+Nunquid manducabo carnes taurorum, aut sangui-
+nem hircorum potabo? Immola Deo sacrificiµm lau-
+dis, et redde Altissimo vota tua ¹².» Et vero in
+omnibus Scripturis similiter eorum sacrificia re-
+nuit; quia in eum ipsi peccarant. «Sacrificia enim
+impiorum, abominatio apud Dominum: etenim ini-
+que offerunt ea¹³;» et iterum: «Sacrificia eorum,
+quasi panis luctus eis: omnes qui comedent ea, in-
+quinabuntur ¹⁴.» Si ergo etiam ante adventum
+suum, super sacrificia quærebat cor mundum, et
+spiritum contritum ¹⁵; multo magis, postquam ve-
+nit, illa abrogavit; sacrificia, dicimus, cruenta:
+
+# block=6 source_x1=149 source_y1=2354 source_x2=1697 source_y2=2476
+⁵ Matth. xvi, 24. ⁶ Joan. vi, 67. ⁷ Citat Cedrenus. Vide testim. vet. ⁸ Jer. vi, 20. ⁹ Jer. vii, 24.
+¹⁰ Isa. i, 11. ¹¹ Amos v, 25. ¹² I Reg. xv, 22. ¹³ Psal. xlix, 9, 12. ¹⁴ Prov. xxi, 27. ¹⁵ Ose. ix, 4.
+¹⁶ Psal. l, 12, 19.
+
+# block=7 source_x1=797 source_y1=2504 source_x2=1105 source_y2=2550
+VARIORUM NOTÆ.
+
+# block=8 source_x1=181 source_y1=2552 source_x2=921 source_y2=2680
+(37) Πρό. Corrupte in Cedreno περί. COT.
+(38) Κρέα. Τὰ κρέα rectius in cod. Vind. CLER.
+(39) Ἐάν. Hæc vox et quinque seqq. desunt in
+
+# block=9 source_x1=955 source_y1=2568 source_x2=1567 source_y2=2650
+cod. Vind. Ib.
+(40) Φαμέν. Addit codex Vind. δή. Ib.
+
+# block=10 source_x1=261 source_y1=2676 source_x2=551 source_y2=2732
+PATROL. GR. I.
+
+# block=11 source_x1=1513 source_y1=2670 source_x2=1595 source_y2=2720
+31

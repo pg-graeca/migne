@@ -1,0 +1,163 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,282,2352,1032,2687
+2,1065,2351,1823,2651
+3,272,1366,1827,1573
+4,276,1831,1040,2303
+5,728,1062,1374,1096
+6,680,611,1416,649
+7,838,1301,1183,1343
+9,813,1128,1310,1168
+11,1063,1828,1827,2266
+12,613,1193,1456,1227
+13,893,884,1186,918
+16,397,513,1715,592
+17,887,2306,1213,2343
+18,763,1684,1304,1752
+19,842,445,1250,479
+20,698,760,1400,856
+22,277,287,1818,414
+24,278,117,336,156
+25,650,115,1421,179
+27,505,957,1597,1033
+28,1747,109,1806,158
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=14px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px centerRows=true
+# block=7 fontSize=21px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=16 fontSize=39px
+# block=17 fontSize=15px
+# block=18 fontSize=31px
+# block=19 fontSize=15px centerRows=true
+# block=20 fontSize=48px
+# block=22 fontSize=61px centerRows=true
+# block=24 fontSize=16px
+# block=25 fontSize=16px
+# block=27 fontSize=37px
+# block=28 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=28
+200
+
+# block=25
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=24
+199
+
+# block=22
+ΤΟΥ ΑΓΙΟΥ ΚΛΗΜΕΝΤΟΣ
+
+# block=19
+ΤΟΥ ΡΩΜΗΣ ΕΠΙΣΚΟΠΟΥ
+
+# block=16
+ΕΠΙΣΤΟΛΗ ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Αʹ
+
+# block=6
+Ἐκ προσώπου τῆς Ῥωμαίων Ἐκκλησίας γραφεῖσα.
+
+# block=20
+S. CLEMENTIS
+
+# block=13
+EPISCOPI ROMANI
+
+# block=27
+EPISTOLA AD CORINTHIOS I
+
+# block=5
+Ex persona Romanæ Ecclesiæ (79) scripta.
+
+# block=9
+INTERPRETE J.-B. COTELERIO.
+
+# block=12
+(GALLAND, Vet. Patr. Biblioth., t. I, Venet. 1765, in-fol., p. 9.)
+
+# block=7
+ARGUMENTUM.
+
+# block=3
+Ad litteras Ecclesiæ Corinthiacæ, et discordia et seditione contra presbyteros concussæ , respondet Ecclesia Romana.
+Discidio dolet, auctoresque seditionis, ut, pœnitentia suscepta, presbyteris obediant, hortatur. Suadet hospitalitatem,
+humilitatem, concordiam, timorem Dei. De resurrectione promissa exponit, de phœnice avi mirabili, de continen-
+tia, modestia, sobrietate, de bonis operibus, de mutuis officiis , de servando sacrorum ordine. Ab apostolis cum
+episcopos et diaconos constitutos esse docet, tum quemadmodum in locum mortuorum episcoporum successores suf-
+ficiendi sint, præscriptum. Episcopos rite creatos officiaque servantes non esse removendos. Claudium, Ephebum ,
+Valerium, Vitonem, Fortunatum, nuntios suos, brevi remitti cupit.
+
+# block=18
+INDEX CAPITUM.
+
+# block=11
+XI, XII. Lot ac Rahab hospitalitatem, pietatem
+fidemque commemorat.
+XIII. Humilitatem commendat.
+XIV. Seditionis auctores deserendos suadet.
+XV. Adhærendum iis qui pacem colunt, non qui fin-
+gunt, inculcat.
+XVI, XVII, XVIII. Rursus ad humilitatem sectan-
+dam eos pertrahere studet, Christi, Abrahæ ac Da-
+vid exemplis propositis.
+XIX, XX. Deum pacis et concordiæ amantem esse,
+argumentis ex rebus creatis desumptis probat.
+XXI. A Dei bonitate et omni-præsentia, Christiano-
+rum erga unumquemque officia demonstrat.
+
+# block=4
+CAPP. I et II. Post salutationem, cur tardius lit-
+teris Corinthiorum rescribat exponit; simulque eo-
+rum elogium exorditur : laudat ipsorum fidem, pie-
+tatem, hospitalitatem et εὐταξίαν, quæ ante natum
+schisma floruerint.
+III. Seditione oborta ex invidia et æmulatione,
+tristem Corinthiacæ Ecclesiæ statum describit.
+IV, V, VI. Quanta mala ex hoc fonte profluxerint,
+exemplis vetustis et recentioribus confirmat.
+VII, VIII. Ad pœnitentiam Corinthios hortatur ,
+cujus gratiam toti mundo oblatam docet.
+IX, X. Sanctorum exempla ipsis imitanda propo-
+nit, obedientiæ in primis et hospitalitatis Abra-
+ham
+
+# block=17
+VARIORUM NOTÆ.
+
+# block=2
+tentia gerere; vel etiam ne proprias partes tueri vi-
+deretur, si ubi restauranda erat apud Corinthios
+ecclesiasticis viris competens dignitas atque reve-
+rentia, aut ipse solus, aut cum eo clerus sine plebe
+Ecclesiam illam alloqueretur. Postulabat præterea
+recta ratio, ut si quidem prius Corinthii non ad
+Clementem unum, sed ad Romanos scripserant, Ro-
+manorum nomine Clemens, non proprio rescribe-
+ret. COUST.
+
+# block=1
+(79) Eam ob causam Irenæus, lib. III, c. 3, ab
+Ecclesia quæ est Romæ scriptam dicit, licet cæteri
+Clementem ejus scriptorem fuisse sentiant. Maluit
+autem Clemens Ecclesiæ suæ quam proprio eam
+nomine inscribere : vel quia tum præsules nihil sine
+Ecclesiæ suæ consilio agere solerent, ut Cyprianus
+de se nominatim epist. 5, ad clerum suum memo-
+ravit his verbis : Solus rescribere non potui; quando
+a primordio episcopatus mei statuerim, nihil sine
+consilio vestro et consensu plebis, mea privatim sen-

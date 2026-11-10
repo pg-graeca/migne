@@ -1,0 +1,199 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,944,151,1725,2151
+4,1074,2323,1574,2362
+5,317,2735,573,2769
+6,774,2541,1064,2581
+7,574,100,1288,136
+8,949,2581,1699,2692
+9,162,151,916,2156
+10,165,2450,1698,2524
+11,163,2585,910,2726
+12,1624,105,1695,138
+13,231,2328,837,2394
+14,403,2280,665,2328
+15,1209,2274,1417,2320
+16,161,2396,917,2456
+17,967,2386,1697,2438
+18,155,2158,1715,2282
+19,1493,2722,1549,2768
+20,159,94,241,136
+
+# layer=format
+# block=1 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=20
+1065
+
+# block=7
+CONSTITUTIONES APOSTOLICÆ. -- LIB. VII
+
+# block=12
+1066
+
+# block=9
+κακίαν, ἢ ἐγκράτειαν ἔννομον. Καὶ γὰρ καὶ Μωυσῆς
+ὁ τοῦ Θεοῦ ἄνθρωπος, ἐν Αἰγύπτῳ ἐπιτελῶν τὰ ση-
+μεῖα, οὐ κατεπήρθη τῶν ὁμοφύλων· καὶ θεὸς κληθεὶς,
+οὐχ ἠλαζονεύσατο μετὰ τοῦ ἰδίου προφήτου Ἀαρών.
+Ἀλλ' οὔτε ὁ τοῦ Ναυῆ Ἰησοῦς, ἡγησάμενος μετ'
+αὐτὸν τοῦ λαοῦ, κἂν τῷ πρὸς τοὺς Ἰεβουσαίους πολέ-
+μῳ στήσας τὸν ἥλιον κατὰ Γαβαὼν· καὶ τὴν σελήνην
+κατὰ φάραγγα Αἰλὼν, διὰ τὸ μὴ αὔταρκειν πρὸς τὴν
+νίκην τὴν ἡμέραν, ἐπήρθη κατὰ τοῦ Φινεὲς, ἢ τοῦ
+Χαλέβ. Οὔτε Σαμουὴλ, τοσαῦτα παράδοξα ποιήσας,
+παρ' οὐδὲν ἡγήσατο τὸν θεοφιλῆ Δαβίδ· καί τοι ἀμ-
+φότεροι προφῆται· καὶ ὁ μὲν, ἀρχιερεὺς (78), ὁ δὲ,
+βασιλεύς. Καὶ ἑπτὰ χιλιάδων ὑπαρχουσῶν ἐν Ἰσραὴλ
+ἁγίων, τῶν μὴ καμψάντων γόνυ τῇ Βάαλ, μόνος
+Ἠλίας ἐν αὐτοῖς, καὶ ὁ τούτου μαθητὴς Ἐλισ-
+σαῖος θαυματοποιοὶ γεγένηνται· ἀλλ' οὔτε Ἠλίας
+τὸν οἰκονόμον Ἀβδιοὺ ἐξεμυκτήρισε, φοβούμε-
+νον μὲν τὸν Θεὸν, οὐ ποιοῦντα δὲ σημεῖα· οὔτε
+Ἐλισσαῖος τὸν ἑαυτοῦ μαθητὴν φρίττοντα τοὺς πο-
+λεμίους ὑπερεῖδεν. Ἀλλὰ γὰρ οὔτε Δανιὴλ ὁ σο-
+φὸς, ῥυσθεὶς δεύτερον ἐκ στόματος λεόντων, οὔτε
+οἱ τρεῖς παῖδες ἐκ καμίνου πυρὸς, ἐξουδένωσαν τοὺς
+λοιποὺς τῶν ὁμοφύλων. Ἠπίσταντο γὰρ ὅτι οὐ τῇ
+οἰκείᾳ δυνάμει περιεγένοντο τῶν δεινῶν, ἀλλὰ τῇ τοῦ
+Θεοῦ ἰσχύϊ, καὶ σημεῖα ἐπετέλουν, καὶ τῶν δυσχε-
+ρῶν ἀπηλλάττοντο. Οὐκοῦν μηδεὶς ὑμῶν ἐπαιρέσθω
+κατὰ τοῦ ἀδελφοῦ, κἂν προφήτης ᾖ, κἂν θαυματο-
+ποιός. Εἰ γὰρ δοθῇ μηκέτι εἶναί που ἄπιστον, πε-
+ριττὴ λοιπὸν ἔσται πᾶσα σημείων ἐνέργεια. Τὸ μὲν
+γὰρ εἶναι εὐσεβῆ, ἐκ τῆς τοῦ τινὸς εὐνοίας· τὸ δὲ θαυ-
+ματοποιεῖν, ἐκ τῆς τοῦ ἐνεργοῦντος δυνάμεως · ὧν
+τὸ μὲν·πρῶτον ἡμᾶς αὐτοὺς ὁρᾷ, τὸ δὲ δεύτερον Θεὸν
+τὸν ἐνεργοῦντα, δι' ἃς προείπομεν αἰτίας. Οὐκοῦν
+μήτε βασιλεὺς ἐξουθενείτω τοὺς ὑπ' αὐτὸν στρατη-
+γοὺς· μήτε ἄρχοντες τοὺς ὑπηκόους. Μὴ ὄντων γὰρ
+τῶν ἀρχομένων, περιττοὶ οἱ ἄρχοντες· καὶ μὴ ὄντων
+στρατηγῶν, οὐ στήσεται βασιλεία. Ἀλλὰ μηδὲ ἐπί-
+σκοπος ἐπαιρέσθω κατὰ τῶν διακόνων· ἢ τῶν πρε-
+σβυτέρων· μήτε μὴν οἱ πρεσβύτεροι κατὰ τοῦ λαοῦ·
+ἐξ ἀλλήλων γάρ ἐστιν ἡ σύστασις τοῦ συναθροίσμα-
+τος. Οἵ τε γὰρ ἐπίσκοποι, καὶ οἱ πρεσβύτεροι, τινῶν
+εισιν ἱερεῖς· καὶ οἱ λαϊκοὶ, τινῶν εἰσι λαϊκοί· καὶ
+τὸ μὲν εἶναι Χριστιανὸν, ἐφ' ἡμῖν· τὸ δὲ ἀπόστολον,
+ἢ ἐπίσκοπον, ἢ ἄλλο τι, οὐκ ἐφ' ἡμῖν, ἀλλ' ἐπὶ τῷ διδόντι
+Θεῷ τὰ χαρίσματα. Ταῦτα μὲν οὖν ἐπὶ τοσοῦτον εἰ-
+ρήσθω διὰ τοὺς ἀξιωθέντας χαρισμάτων ἢ ἀξιωμάτων.
+
+# block=1
+pientiæ, vel scientiæ ², aut rationem discernendo-
+rum spirituum, aut præcognitionem futurorum, aut
+sermonem aptum ad docendum, aut patientiam, aut
+continentiam legitimam. Etenim Moyses homo Dei,
+cum in Ægypto signa perficeret, non se in popu-
+lares suos extulit; cumque deus appellatus fuisset;
+non superbivit in suum prophetam Aaronem ³. Sed
+et Jesus Navæ filius, qui post Moysem ductor fuit
+populi, quamvis in bello adversum Jebusæos, quod
+non sufficeret dies ad victoriam, solem stitisset ad
+Gabaonem, et lunam ad vallem Aialonem; non ta-
+men in Phineem aut Chalebum arrogantia elatus
+est ⁴. Neque Samuel, qui tot mira et inopinata fecit,
+pium ac Deo charum Davidem nihili duxit: sed
+ambo erant prophetæ; et ille quidem pontifex, hic
+vero rex. Et cum in Israele essent septem millia
+sanctorum, qui non curvaverant genu Baali ⁵⁻⁶; ex
+ipsis solus Elias, ejusque discipulus Elisæus mira-
+culorum effectores fuerunt: non tamen Elias de-
+risit Abdiam œconomum, timentem quidem Deum,
+at signa non facientem; neque Elisæus discipulum
+suum hostes perhorrescentem despexit ⁷. Sed enim
+neque sapiens Daniel, bis ex ore leonum ereptus,
+neque tres pueri ex ignis fornace liberati ⁸, nihili
+fecerunt reliquos suæ gentis homines. Sciebant enim
+se non suis viribus pericula evasisse, sed Dei vir-
+tute cum signa peregisse, tum ab angustiis fuisse
+servatos. Itaque nemo vestrum, licet sit propheta,
+licet miraculorum operator, se adversus fratrem
+extollat. Si enim id detur, ut nullus amplius sit in-
+fidelis, superflua deinceps erit omnis signorum ope-
+ratio. Etenim esse pium, ex bona cujuspiam volun-
+tate oritur; at miracula patrare, ex virtute illius
+qui operatur: quorum primum quidem nos ipsos
+respicit, secundum vero Deum, ob causas supra di-
+ctas operantem. Igitur neque imperator nihili pen-
+dat exercitus duces qui sub ipso sunt; neque præ-
+fecti eos qui ipsis parent. Nam si non sint quibus
+præficiantur, supervacui erunt præfecti; et si non
+sint duces exercitus, non stabit imperium. Quin
+etiam nec episcopus in diaconos vel presbyteros
+extollat se, nec presbyteri in plebem: ex utrisque
+enim cœtus compositio exstat. Episcopi quippe ac
+presbyteri, quorumdam sunt sacerdotes, et laici,
+quorumdam sunt laici; ac esse quidem Christianum,
+in nostra consistit potestate; at esse apostolum,
+
+# block=18
+aut episcopum, aut quid simile, nostræ non est potestatis, verum ad Deum largitorem charismatum
+pertinet. Hæc igitur hactenus dicta sint, propter eos qui digni habiti sunt ut charismata vel dignitates
+acciperent.
+
+# block=15
+CAPUT II.
+
+# block=14
+ΚΕΦΑΛΑΙΟΝ Β΄.
+
+# block=4
+De episcopis et presbyteris indignis.
+
+# block=13
+Περὶ τῶν ἐπισκόπων καὶ πρεσβυτέρων
+ἀναξίων (79).
+
+# block=17
+Illud vero sermoni addimus; quod nec omnis qui.
+
+# block=16
+Ἔκεινο δὲ προστίθεμεν τῷ λόγῳ, ὅτι οὔτε πᾶς ὁ προ-
+
+# block=10
+² I Cor. xii, 8. ³ Exod. vii, 1. ⁴ Jos. x. ⁵⁻⁶ III Reg. xix, 18; Rom. xi, 4. ⁷ IV Reg. vi. ⁸ Dan. vi,
+xiv, III.
+
+# block=6
+VARIORUM NOTÆ
+
+# block=8
+(79) Περὶ τῶν, etc. Uterque Vind. codex : Ὅτι οὐ
+πάντως πᾶς ὁ προφητεύων ἢ δαίμονας ἐκβάλλων εὐ-
+σεβής. CLEM.
+
+# block=11
+(78) Καὶ ὁ μὲν, ἀρχιερεύς. Super celebri quæ-
+stione, fueritne Samuel summus pontifex, sacer-
+dos tantum, an levita merus, multa a multis scri-
+ta sunt, quæ proferre nihil est necesse, Cor.
+
+# block=19
+34
+
+# block=5
+PATROL. GR. I.

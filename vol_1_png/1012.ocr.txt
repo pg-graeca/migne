@@ -1,0 +1,165 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,186,992,941,1945
+2,189,343,944,984
+3,972,1648,1734,2339
+4,184,1953,941,2335
+5,980,382,1738,1640
+6,981,121,1738,371
+7,190,127,935,335
+8,183,2509,930,2680
+9,597,67,1305,104
+10,967,2515,1733,2681
+11,196,76,269,114
+13,1644,54,1738,104
+14,776,2406,1102,2464
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=186 source_y1=992 source_x2=941 source_y2=1945
+VII. Ad hæc ego respondi : Quoniam quidem a
+me vis discere, si est aliquid natura aut actu bo-
+num vel malum, an potius usu præventis hominibus
+bona quædam et alia videntur mala, pro eo quod
+divisionem inter se rerum fecere communium, quæ
+deberent, ut ais, ita esse communia, ut aer et
+splendor solis; puto quod non debeam tibi aliunde
+assertiones adhibere, nisi ex his disciplinis quibus
+ipse uteris et quas ipse confirmas, et indubitata
+tibi sint quæ dicuntur. Omnium elementorum et
+stellarum certos ponitis fines, quasque stellas di-
+citis in quibusdam absque noxa coire sicut in con-
+jugiis, in aliis vero noxie misceri sicut in adulteriis.
+Et dicitis quædam generalia esse omnium, quæ-
+dam vero non omnium neque generalia. Sed ne
+prolixa disputatio fiat, breviter et de re dicam.
+Terra quæ arida est, conjugio et admistione indiget
+aquæ, ut possit generare fructus, sine quibus vita
+hominibus non est; est ergo hæc legitima conjun-
+ctio. Econtra si aut pruinæ frigus terræ misceatur
+aut calor aquis, hujusmodi conjunctio corruptelam
+facit; et hoc in talibus adulterium est.
+
+# block=2 source_x1=189 source_y1=343 source_x2=944 source_y2=984
+VI. Verum ad hæc quæ dixi, unum e vobis re-
+spondere volo, non Petrum; non enim dignum est,
+ab illo verba et doctrinam cum quæstionibus ca-
+pere, sed ille si quid pronuntiaverit, hoc absque
+aliqua retractatione teneatur. Et ideo ipse nobis
+servetur quasi arbiter, ut sicubi disputatio nostra
+exitum non invenerit, ipse quod sibi visum fuerit
+pronuntians, indubitatum finem rebus dubiis im-
+ponat. Et nunc ergo possem sola ejus sententia
+contentus credere, si quid ei videretur, quod et ad
+ultimum faciam; volo tamen prius videre, si est
+possibile disputando invenire quod quæritur. Pla-
+cet ergo ut Clemens primus incipiat, et ostendat,
+si est aliquid in substantia et actibus bonum vel
+malum.
+
+# block=3 source_x1=972 source_y1=1648 source_x2=1734 source_y2=2339
+X. Et pater : Vere, inquit, breviter et incompa-
+rabiliter ostendisti, quia sint mala in actibus, sed
+hoc adhuc velim discere, quomodo juste judicat
+Deus eos qui peccant, sicut vos dicitis, si peccare
+eos genesis cogit? Tum ego respondi : Vereor di-
+cere tibi aliquid, pater, quia in omni te honore
+haberi a me decet, alioquin erat quod possim di-
+cere si deceret. Et pater ait : Dic quod tibi occur-
+rit, fili, etiamsi injuriosum videtur; non enim tu,
+sed quæstionis ratio injuriam facit, sicut pudica
+mulier intemperanti viro, si pro salute indignetur
+et honestate. Et ego respondi : Si prima quæque
+inter nos confirmata et confessa non bene retinea-
+mus, sed semper quæ definita sunt resolvantur per
+oblivionem, videbimur telam texere Penelopes, ea
+quæ texuimus resolventes; et ideo debemus aut non
+
+# block=4 source_x1=184 source_y1=1953 source_x2=941 source_y2=2335
+VIII. Et pater respondit : Sed sicut elementorum
+vel stellarum inconsonæ conjunctionis statim pro-
+ditur noxa, ita deberet et adulterium statim ostendi
+quam malum est. Et ego aio : Hoc mihi primo con-
+firma, si, ut etiam ipse confessus es, ex incongrua
+et inconsona admistione efficiuntur mala, et istud
+in consequentibus requiretur. Et pater ait : Ut se
+habet rei natura, ita ais, fili. Tum ego respondi :
+Quia ergo discere cupis de his, vide quanta sint
+
+# block=5 source_x1=980 source_y1=382 source_x2=1738 source_y2=1640
+IX. Et ego respondi : Quia ergo cum eo mihi ser-
+mo est, qui in astrologica disciplina eruditus est,
+secundum ipsam tecum agam, ut de his quæ tibi
+in usu sunt accipiens rationem, citius acquiescas.
+Audi nunc ergo. Confessus es mala esse ea quæ
+supra diximus, id est febres, incendia, et his simi-
+lia; hæc secundum vos a malitiosis stellis fieri di-
+cuntur, id est ab humido Saturno (9) et calido
+Marte; horum vero contraria a benignis fieri stellis,
+id est a temperato Jove et humida Venere; aut non
+ita est? Et pater respondit : Ita est, fili, nec aliter
+fieri potest. Tum ego : Quia ergo a bonis stellis,
+Jove dico et Venere, bona fieri dicitis, videamus
+unaquæque malarum stellarum cum admista fuerit
+bonis, quid est quod efficit; et illud esse intelliga-
+mus malum. Etenim nuptias facere Venerem po-
+nitis; quæ si Jovem habeat in schemate suo, pu-
+dicas efficiat, Jove autem non respiciente, si ad-
+fuerit Mars, corrumpi nuptias per adulterium pro-
+nuntiatis. Et pater : Ita se, inquit, habet. Ego re-
+spondi : Ergo malum est adulterium, quandoqui-
+dem ex malarum stellarum admistione coinmittitur;
+et ut compendiosius explicemus, omnia quæ dicitis
+ex malarum admistione stellarum bonas perpeti
+stellas, mala esse sine dubio pronuntianda sunt.
+Istæ ergo stellæ quarum admistione diximus febres,
+incendia, et cætera his similia effici mala, ipsæ se-
+cundum vos etiam homicidia, adulteria, furta ope-
+rantur, protervos etiam et stolidos ipsæ efficiunt.
+
+# block=6 source_x1=981 source_y1=121 source_x2=1738 source_y2=371
+quæ mala esse apud neminem dubitantur. Non tibi
+videtur malum esse febris, incendium, seditio, rui-
+na, cædes , vincula , supplicia, dolores , luctus, et
+his similia ? Et pater : Verum est, inquit, fili, hæc
+mala esse et valde mala; aut certe qui negat hæc
+esse mala, patiatur ea.
+
+# block=7 source_x1=190 source_y1=127 source_x2=935 source_y2=335
+quoniam quidem cupio me inclinare ad bene agen-
+dum, et non possum bene agere, nisi prius didi-
+cero quid sit bonum; quod si intelligere potuero,
+ex ipso etiam quid sit malum, hoc est huic contra-
+rium, advertam.
+
+# block=8 source_x1=183 source_y1=2509 source_x2=930 source_y2=2680
+(9) Humido Saturno. Idem de Saturno, humidam
+stellam esse, sentiunt Clemens Alexandrinus Strom.
+v, p. 564; Nonnus Διονυσιακῶν lib. xvii, p. 500;
+Servius ad Georgic. 1, 12, 13, et Platonici quidam
+apud Macrobium lib. 1 in Somnium Scipionis c. 11.
+
+# block=9 source_x1=597 source_y1=67 source_x2=1305 source_y2=104
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA
+
+# block=10 source_x1=967 source_y1=2515 source_x2=1733 source_y2=2681
+Verum Julio Firmico lib. ii, c. 10, est : Saturnus
+natura quidem frigidus et siccus, ex accidenti vero
+quandoque humidus. Eidemque Κρόνῳ tribuit ξηρὸν
+μετριώτερον Proclus lib. i in Tetrabiblum Ptole-
+mæi c. 4.
+
+# block=11 source_x1=196 source_y1=76 source_x2=269 source_y2=114
+1423
+
+# block=13 source_x1=1644 source_y1=54 source_x2=1738 source_y2=104
+1424
+
+# block=14 source_x1=776 source_y1=2406 source_x2=1102 source_y2=2464
+COTELERII NOTÆ.

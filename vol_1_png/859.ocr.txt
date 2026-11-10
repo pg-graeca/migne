@@ -1,0 +1,209 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,222,2347,976,2745
+2,1014,181,1761,691
+3,226,822,977,1380
+4,232,179,982,735
+5,225,1601,1780,1672
+6,222,2248,973,2349
+7,224,1471,977,1557
+8,1013,824,1769,1343
+10,630,119,1347,157
+11,839,1713,1134,1747
+12,461,1393,729,1425
+13,241,120,308,159
+14,1014,1436,1761,1556
+15,1253,740,1446,774
+16,1003,1787,1763,2741
+17,225,2150,971,2251
+18,1140,784,1626,819
+20,226,1784,976,2151
+21,279,783,920,819
+22,1681,124,1763,168
+23,459,740,743,782
+24,219,1430,965,1480
+25,1129,1390,1631,1430
+26,1243,1342,1495,1386
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=222 source_y1=2347 source_x2=976 source_y2=2745
+(89) Ματθαῖος, ὁ καὶ Λευΐς. Consentiunt antiqui
+et recentiores, id recte ex Evangeliorum composi-
+tione colligentes. Etiam Origenes, cum loco relato in
+Catena Matthæi, tum præfatione explanationis in
+Epistolam ad Romanos. Quocirca ejus locus tom. I
+in Celsum, p. 48, a docto Scripturarum interprete
+Hugone Grotio objectus : Ἔστω δὲ καὶ ὁ Λεβὴς τε-
+λώνης ἀκολουθήσας τῷ Ἰησοῦ· ἀλλ' οὔτε γε τοῦ
+ἀριθμοῦ τῶν ἀποστόλων αὐτοῦ ἦν, εἰ μὴ κατά τινα
+τῶν ἀντιγράφων τοῦ κατὰ Μάρκον Εὐαγγελίου. Sit
+et Levi publicanus, qui Jesum secutus est : non erat
+tamen ex apostolorum numero, nisi juxta quædam
+
+# block=2 source_x1=1014 source_y1=181 source_x2=1761 source_y2=691
+creator viri ac mulieris; qui Spiritu implevisti
+Mariam ³⁶, Deboram ³⁷, Annam ³⁸, et Holdam ³⁹; qui
+non dedignatus es, ex muliere nasci unigenitum
+Filium tuum ⁴⁰; qui in tabernaculo testimonii et in
+templo feminas custodes sanctorum januarum tua-
+rum instituisti; ipse nunc quoque respice in fa-
+mulam tuam hanc, electam ad ministerium; et da
+ei Spiritum sanctum; et munda eam ab omni in-
+quinamento carnis et spiritus ⁴¹; ut opus sibi com-
+missum perficiat condigne, in gloriam tuam et
+laudem Christi tui; cum quo tibi gloria atque ado-
+ratio, et sancto Spiritui, in sæcula. Amen.
+
+# block=3 source_x1=226 source_y1=822 source_x2=977 source_y2=1380
+Περὶ δὲ ὑποδιακόνων, ἐγὼ Θωμᾶς διατάσσομαι
+ὑμῖν τοῖς ἐπισκόποις. Ὑποδιάκονον χειροτονῶν, ὦ
+ἐπίσκοπε, ἐπιθήσεις ἐπ' αὐτῷ τὰς χεῖρας, καὶ ἐρεῖς·
+Δέσποτα (85) Θεέ, οὐρανοῦ καὶ γῆς δημιουργὲ καὶ
+πάντων τῶν ἐν αὐτοῖς, ὁ καὶ ἐν τῇ σκηνῇ τοῦ μαρ-
+τυρίου τοῦς νεωκόρους ἀναδείξας τῶν ἁγίων σου
+σκευῶν φύλακας· αὐτὸς καὶ νῦν ἐπίβλεψον ἐπὶ τὸν
+δοῦλόν σου τόνδε, τὸν προχειρισθέντα (86) ὑποδιάκο-
+νον, καὶ δὸς αὐτῷ Πνεῦμα ἅγιον, πρὸς τὸ ἐπαξίως
+ἐφάπτεσθαι τῶν λειτουργικῶν (87) σου σκευῶν, καὶ
+ποιεῖν τὸ θέλημά σου διαπαντός, διὰ τοῦ Χριστοῦ σου·
+μεθ' οὗ σοι δόξα, τιμὴ καὶ σέβας, καὶ τῷ ἁγίῳ Πνεύ-
+ματι, εἰς τοῦς αἰῶνας. Ἀμήν.
+
+# block=4 source_x1=232 source_y1=179 source_x2=982 source_y2=735
+Ἰησοῦ Χριστοῦ, ὁ ἀνδρὸς καὶ γυναικὸς δημιουργός,
+ὁ πληρώσας Πνεύματος Μαριὰμ καὶ Δεβόῤῥαν (83),
+καὶ Ἄνναν, καὶ Ὁλδάν, ὁ μὴ ἀπαξιώσας τὸν μονο-
+γενῆ σου Υἱὸν γεννηθῆναι ἐκ γυναικός, ὁ καὶ ἐν τῇ
+σκηνῇ τοῦ μαρτυρίου καὶ ἐν τῷ ναῷ προχειρισάμε-
+νος τὰς φρουροὺς τῶν ἁγίων σου πυλῶν· αὐτὸς καὶ
+νῦν ἔπιδε ἐπὶ τὴν δούλην σου τήνδε, τὴν προχειριζο-
+μένην εἰς διακονίαν, καὶ δὸς αὐτῇ Πνεῦμα ἅγιον,
+καὶ καθάρισον αὐτὴν ἀπὸ παντὸς μολυσμοῦ σαρκὸς
+καὶ πνεύματος, πρὸς τὸ ἐπαξίως ἐπιτελεῖν αὐτὴν τὸ
+ἐγχειρισθὲν αὐτῇ ἔργον, εἰς δόξαν σήν, καὶ ἔπαινον
+τοῦ Χριστοῦ σου· μεθ' οὗ σοι δόξα καὶ προσκύνη-
+σις, καὶ τῷ ἁγίῳ Πνεύματι, εἰς τοὺς αἰῶνας. Ἀμήν.
+
+# block=5 source_x1=225 source_y1=1601 source_x2=1780 source_y2=1672
+³⁶ Exod. xv, 20. ³⁷ Judic. iv, 4. ³⁸ Luc. ii, 36. 7. ³⁹ IV Reg. xxii, 14. ⁴⁰ pseudo-Ignat. ad Antioch.
+12. ⁴¹ II Cor. vii, 1. ⁴² Num. iii; I Parat. ix.
+
+# block=6 source_x1=222 source_y1=2248 source_x2=973 source_y2=2349
+(85) Περὶ, καὶ τὰ ἑξῆς. Deest titulus in eodem cod.
+ejusque loco sunt duodecim prima capitis hujus
+verba. ID.
+
+# block=7 source_x1=224 source_y1=1471 source_x2=977 source_y2=1557
+Περὶ δὲ ἀναγνωστῶν, ἐγὼ Ματθαῖος, ὁ καὶ Λευὶς
+(89), ὅ ποτε τελώνης, διατάσσομαι. Ἀναγνώστην
+
+# block=8 source_x1=1013 source_y1=824 source_x2=1769 source_y2=1343
+De subdiaconis autem, ego Thomas vobis episco-
+pis constituo. Quando subdiaconum ordinas, epi-
+scope, impones super eum manus, et dices : Do-
+mine Deus, conditor cœli et terræ, omniumque quæ in
+eis continentur, qui in tabernaculo testimonii ædituos
+designasti, custodes sanctorum vasorum tuorum ⁴² :
+ipse nunc etiam aspice super hunc famulum tuum,
+qui subdiaconus creatus est; et da illi Spiritum
+sanctum, ut vasa ministerio tuo dicata attrectet pro
+dignitate, semperque voluntatem tuam faciat; per
+Christum tuum, cum quo tibi gloria, honor ac
+veneratio, et sancto Spiritui, in sæcula. Amen.
+
+# block=10 source_x1=630 source_y1=119 source_x2=1347 source_y2=157
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=11 source_x1=839 source_y1=1713 source_x2=1134 source_y2=1747
+VARIORUM NOTÆ.
+
+# block=12 source_x1=461 source_y1=1393 source_x2=729 source_y2=1425
+ΚΕΦΑΛΑΙΟΝ ΚΒ'.
+
+# block=13 source_x1=241 source_y1=120 source_x2=308 source_y2=159
+1117
+
+# block=14 source_x1=1014 source_y1=1436 source_x2=1761 source_y2=1556
+De lectoribus vero, ego Matthæus, qui et Levis,
+olim publicanus, constituo. Lectorem crea, im-
+ponens ei manum; et Deum orans, dicito : Deus
+
+# block=15 source_x1=1253 source_y1=740 source_x2=1446 source_y2=774
+CAPUT XXI.
+
+# block=16 source_x1=1003 source_y1=1787 source_x2=1763 source_y2=2741
+exemplaria secundum Marcum Evangelii. Explican-
+dus videtur per concessionem, ac de nomine, hoc in
+sensu : Detur Levin publicanum asseclam Christi,
+alium esse a Matthæo pariter publicano : at nomen
+Levis in Catalogis apostolorum non exstat, si exci-
+pias quosdam Marci evangelistæ codices. Qui codi-
+ces, ni fallor, cap. 3, vers. 18, Levin Alphæi, non
+Jacobum Alphæi exhibebant, aut potius Λεβήν pro
+Λεββαῖον· quemadmodum in editione Græca Theo-
+doriti Quæstionum, quæst. 16, in Numeros, habetur
+Θαδδαῖος, ὁ καὶ Λεβί, ubi in Græco-Latino, Θαδδαῖος,
+ὁ καὶ Λεββαῖος. Græci posteriores Λευαῖον dicunt.
+Opponit adhuc Grotius Heracleonem Valentinianum
+hæreticum, cui in Clementis Alexandrini Stromat.
+IV, p. 502, Ματθαῖος et Λευὶς duo sunt. Sed forsan
+ab Heracleone non intelligitur Levi publicanus,
+Marc. II, 14, et Luc. v, 27, memoratus; intelligitur
+autem Levi Lebbæus, ut dictum est Certe auctor
+Laterculi apostolorum supra positi ad libri in finem,
+Levin τὸν καθήμενον ἐπὶ τὸ τελώνιον confundit cum
+Lebbæo, qui et Thaddæus ac Judas Jacobi. Atque
+ita defendi possunt Origenes et Heracleon. Verum
+excusationem nullam admittit quod in codice 1048,
+uno e multis Regiis Commentariorum Victoris An-
+tiocheni in Marci Evangelium, nactus sum, ad tex-
+tum laudatum II, 14 : Μάρκος μὲν καὶ Λουκᾶς συγ-
+καλύπτουσι τὸ ὄνομα τῇ ἀρχαίᾳ προσηγορίᾳ. Αὐτὸς
+δὲ Ματθαῖος εὐαγγελιζόμενος τὰ καθ' ἑαυτὸν ἀπαγ-
+γέλλων λέγει· Καὶ ἐθεάσατο Ματθαῖον τὸν τελώνην.
+
+# block=17 source_x1=225 source_y1=2150 source_x2=971 source_y2=2251
+(86) Προχειρισθέντα. In ms. cod. Vind. χειροτο-
+νηθέντα. ID.
+(87) Λειτουργικῶν. Ἱερῶν. Ibidem legitur. ID.
+
+# block=18 source_x1=1140 source_y1=784 source_x2=1626 source_y2=819
+De subdiaconis constitutio Thomæ.
+
+# block=20 source_x1=226 source_y1=1784 source_x2=976 source_y2=2151
+(83) Δεβόῤῥαν. Varie effertur hoc nomen : Δεθώρα,
+Δεββώρα, Δεββῶρα, Δεββώρα, Δεβόῤῥα, Δεβώῤῥα,
+Δεββόῤῥα, et Δεββώῤῥα. COT.
+(84) Deest titulus, ejusque loco legitur in cod.
+Vindob. : Θωμᾶς ἐκήρυξε Πάρθοις, Μήδοις, Πέρσαις,
+Γερμανοῖς (pro Καρμάνοις) Ὑρκανοῖς, Βακτριανοῖς,
+Βαρσοῖς, ὃς καὶ μαρτυρήσας κεῖται ἐν Ἐδέσῃ τῆς
+Ὀσδροηνῆς. CLER.
+(85) Δέσποτα. In cod. Vind. inscribuntur hæc :
+Ἐπίκλησις χειροτονίας ὑποδιακόνου. Κεφ. κδ'.
+ID.
+
+# block=21 source_x1=279 source_y1=783 source_x2=920 source_y2=819
+Περὶ ὑποδιακόνων διάταξις τοῦ Θωμᾶ (84).
+
+# block=22 source_x1=1681 source_y1=124 source_x2=1763 source_y2=168
+1118
+
+# block=23 source_x1=459 source_y1=740 source_x2=743 source_y2=782
+ΚΕΦΑΛΑΙΟΝ ΚΑ'.
+
+# block=24 source_x1=219 source_y1=1430 source_x2=965 source_y2=1480
+Περὶ ἀναγνωστῶν, τοῦ Ματθαίου διάταξις (88).
+
+# block=25 source_x1=1129 source_y1=1390 source_x2=1631 source_y2=1430
+De lectoribus constitutio Matthæi.
+
+# block=26 source_x1=1243 source_y1=1342 source_x2=1495 source_y2=1386
+CAPUT XXII.

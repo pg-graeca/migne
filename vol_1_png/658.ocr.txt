@@ -1,0 +1,185 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1045,502,1813,1408
+2,264,152,1019,402
+3,263,1618,1014,2691
+4,1055,148,1806,406
+6,265,499,1021,1123
+7,1048,1626,1814,2689
+8,261,1110,1009,1406
+9,297,1453,1465,1496
+10,872,1544,1174,1580
+11,658,92,1386,132
+13,1296,414,1559,446
+14,265,94,318,136
+15,319,457,943,493
+17,1746,97,1797,135
+18,525,408,731,446
+19,1047,458,1801,498
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+'Ὑμεῖς δὲ γινώσκοντες τίς ὁ Θεὸς ἡμῶν, καὶ ὁποῖα
+τὰ κρίματα αὐτοῦ, πῶς ἂν κατ' ἐπήρειαν δυνήσεσθέ
+τινι ἀπόφασιν δοῦναι, τῆς κρίσεως ὑμῶν παραχρῆμα
+γινωσκομένης Θεῷ; Καὶ εἰ μὲν δικαίως ἐκρίνατε,
+δικαίων ἀμοιβῶν καταξιωθήσεσθε καὶ νῦν καὶ εἰς αὖ-
+θις· εἰ δὲ ἀδίκως, πάλιν τῶν ὁμοίων τεύξεσθε. Ἡμεῖς
+μὲν οὖν, ἀδελφοὶ, συμβουλεύομεν ὑμῖν, μᾶλλον ἐπαί-
+νων ἀξιοῦσθαι παρὰ Θεῷ, ἢ ψόγων· ὅτι Θεοῦ ἔπαινος
+ζωὴ αἰώνιος ἀνθρώποις, ὥσπερ καὶ ὁ ψόγος θάνατος
+ἀΐδιος. Διὸ γίνεσθε δίκαιοι κριταὶ, εἰρηνοποιοὶ, ἀόρ-
+γητοι. « Ὁ ὀργιζόμενος γὰρ τῷ ἀδελφῷ αὐτοῦ εἰκῆ,
+ἔνοχος ἔσται τῇ κρίσει. » Εἰ δὲ καὶ συμβῇ ἐξ ἐνεργείας
+τινὸς ὀργισθῆναι ὑμᾶς κατά τινος, « ὁ ἥλιος μὴ ἐπι-
+δυέτω ἐπὶ τῇ ὀργῇ (3) ὑμῶν. Ὀργίζεσθε γὰρ, φησὶν
+ὁ Δαβὶδ, καὶ μὴ ἁμαρτάνετε· » τουτέστι, ταχέως διαλ-
+λάσσεσθε, ὅπως μὴ ἡ ἐπίμονος ὀργὴ μνησικακία
+γένηται, καὶ ἁμαρτίαν ἀπεργάσηται. « Ψυχαὶ γὰρ
+μνησικάκων εἰς θάνατον (4), » φησὶν ὁ Σολομών. Λέ-
+γει δὲ ὁ (5) Κύριος ἡμῶν καὶ Σωτὴρ Ἰησοῦς ὁ Χρι-
+στὸς ἐν Εὐαγγελίοις· « Ἐὰν προσφέρῃς τὸ δῶρόν σου
+ἐπὶ τὸ θυσιαστήριον καὶ ἐκεῖ μνησθῇς ὅτι ὁ ἀδελφός
+
+# block=2
+qui sententiam et suffragium de capite, contra
+reum laturus est, sublatis ad solem manibus, con-
+testatur, insontem se esse humani sanguinis. Atque
+illi ab hoc scelere abhorrent, quamvis sint ethnici,
+et ignari tum divinitatis, tum ultionis divinæ ad-
+versum ipsos, si innocentes pœna mulctarint.
+
+# block=3
+(1) Πρὸς τὸν ἥλιον ἐπάρας τὰς χεῖρας. Oratorie
+dictum puto. Quia scilicet solebant judices tristitiam
+ac innocentiam suam aliqua exteriori actione, cer-
+tisque quibusdam verbis attestari, quando reos ex-
+tremo supplicio adjudicabant. Hinc famosum factum
+dictumque Pilati (Matth. xxvii, 24), qui in Historia
+ecclesiastica Theodoriti lib. iv, cap 7, et in Nice-
+phoro lib. xi, cap. 30, per Theodoritum corrigendo
+ac intelligendo, dicitur etiam convertisse se ad
+Orientis partes. Cum quo iniquo judice scite B.
+Hieronymus comparat nautas Jonæ (Jon. i, 14),
+quique Hieronymum transcripsit pseudo-Eusebius
+Emisenus homil. 2 De paschate. Hinc etiam magi-
+stratuum perversa vestis, funesta et impura, macu-
+lam habens Θ. Κ. θανάτου et κατακρίσεως, nota ex
+Seneca lib i De ira, cap. 16; Valerio Maximo lib.
+ix, cap. 12, et Servio ad Æneid. xii, 169. Πολλὰ
+στενάξαντες, inquit de judicibus S. Basilius in epi-
+stola proxime citata, καὶ τὴν ἀνάγκην ἀπολοφυρό-
+μενοι, δῆλοι πᾶσι γίνονται, πρὸς ἀνάγκην ὑπηρε-
+τοῦντες τῷ νόμῳ, οὐ κατ' οἰκείαν ἡδονὴν ἐπάγοντες
+τὴν κατάκρισιν. Sed et ad locum Constitutionum
+illustrandum facit notabilis ille Aurelii Victoris in
+Diocletiano : Igitur Valerius prima ad exercitum
+concione, cum educto gladio, solem intuens, obtesta-
+retur, ignarum cladis Numeriani, neque imperii cu-
+pientem se fuisse, Aprum proxime astantem ictu
+transegit; cujus dolo, uti supra docuimus, adoles-
+cens bonus facundusque et gener occiderat. Insuper-
+que iste personati Ambrosii libro De moribus Brach-
+manorum : Nam et hoc interdum modo a regula ve-
+ritatis abstrahimur; hoc est, tunc cum necessarium
+
+# block=4
+φον θανάτου ὁ μέλλων ἐκφέρειν κατ' αὐτοῦ, πρὸς τὸν
+ἥλιον ἐπάρας τὰς χεῖρας (1), διαμαρτύρεται ἀθῶος
+ὑπάρχειν τοῦ αἵματος τοῦ ἀνθρώπου. Καίτοι ὄντες
+ἐθνικοὶ, καὶ οὐ γινώσκοντες θειότητα, ἢ τὴν εἰς αὐ-
+τοὺς ἀπὸ Θεοῦ ἄμυναν ὑπὲρ τῶν ἀναιτίως κατακρι-
+θέντων, ἀποφεύγουσιν (2).
+
+# block=6
+Vos autem, cognoscentes quis sit Deus noster, et
+qualia judicia ejus, quo modo poteritis sententiam
+adversus aliquem injuriose pronuntiare, cum ve-
+strum judicium Deo confestim pateat? Et si quidem
+juste judicastis, juste præmia et nunc et posthac
+reportabitis; sin vero injuste, rursum actis paria
+consequemini. Nos igitur vobis, fratres, consilium
+damus, malitis a Deo laudem, quam vituperationem
+adipisci; quia a Deo laudari, hominibus vita æterna
+est; sicut et vituperari, sempiterna mors. Quocirca
+estote justi judices, pacifici, ira vacui. « Qui enim
+irascitur fratri suo sine causa, reus erit judicio ⁹⁷. »
+Quod si alicujus opera in quempiam irasci vos con-
+tingat : « Sol non occidat super iram vestram ⁹⁸. »
+
+# block=7
+potum nostro corpori damus : ob quod postea oculos
+et manus nostras veluti sacrificium aliquod, ad ra-
+dios solis agentes extollimus. COT.
+(2) Ἀποφεύγουσιν. Ms. Vindob. τοῦτο ποι-
+οῦσιν.
+(3) Τῇ ὀργῇ. Cod. Vindob. τῷ παροργισμῷ, quod
+si vertas : ira temere concepia; ἐμφατικώτερον erit.
+CLER.
+(4) Ψυχαὶ γὰρ μνησικάκων εἰς θάνατον. Lib.
+vii, cap. 4 : Ὁδοὶ γὰρ μνησικάκων εἰς θάνατον. Ut
+in LXX Proverb. xii, 28, quodque vertitur apud
+Cæsarium Arelatensem homilia 9, quatuordecim
+illarum quas vir doctissimus ac de litteris nostris
+optime meritus, magis magisque in dies meriturus,
+Stephanus Baluzius, anno superiore in publico esse
+effecit : (Itinera eorum qui memoriam (sic malim
+quam injuriam) retinent malefacti in morte. Tamen
+pro voce injuriam militat ipse Cæsarius homil. 11.
+De diligendis inimicis, in Bibliotheca Patrum, hoc
+modo citans : Itinera eorum qui injuriam reti-
+nent malefacti, in mortem; nec non auctor sermo-
+nis De martyribus, apud Augustinum serm. 47 De
+sanctis; apud Leonem, sermone qui præcedit ante
+penultimum; et in Miscellaneis Patrum a Vossio
+collectis ac una cum Gregorio Thaumaturgo Mogun-
+tiæ excusis : Itinera eorum qui injuriam retinent,
+Dominus labefecit in mortem; vel ut in S. Augus-
+tino : Itinera impiorum, qui injuriam retinent male-
+facti, in mortem. Contra Cassianus Instit. lib. viii,
+cap. 14 : Itinera eorum qui memoriam retinent ma-
+lefacti, in mortem. COT.
+(5) Ὁ. Ms. Vindob. καὶ ὁ.
+
+# block=8
+— « Irascimini » enim, inquit David, « et nolite pec-
+care ⁹⁹; » hoc est, cito reconciliemini, ne ira con-
+stanter manens, in injuriæ recordationem evadat, et
+peccatum conficiat. Nam « animæ eorum qui me-
+mores sunt injuriarum, in mortem ¹⁰⁰, » ait Salo-
+mon. Dominus autem noster et Salvator Dominus
+Jesus Christus dicit in Evangeliis : « Si offers munus
+
+# block=9
+⁹⁷ Matth. v, 22. ⁹⁸ Ephes. iv, 26. ⁹⁹ Psal. iv, 5. ¹⁰⁰ Prov. xii, 28, apud LXX.
+
+# block=10
+VARIORUM NOTÆ.
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=13
+ΚΕΦΑΛΑΙΟΝ ΝΓ'.
+
+# block=14
+715
+
+# block=15
+Quod non oportet fideles inter se discordare.
+
+# block=17
+716
+
+# block=18
+CAPUT LIII.
+
+# block=19
+Ὅτι μὴ χρὴ κατ' ἀλλήλων ἔχειν τοὺς πιστούς.

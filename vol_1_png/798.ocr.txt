@@ -1,0 +1,246 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,266,2443,1019,2713
+2,1053,2474,1807,2680
+3,262,320,988,398
+4,262,1567,1023,2172
+5,264,758,1004,1099
+6,1055,1253,1797,1322
+7,1053,2341,1800,2480
+8,1178,1187,1671,1236
+9,1308,1384,1542,1413
+10,1046,364,1788,443
+12,267,2344,1015,2446
+13,1045,452,1792,757
+14,1049,1566,1818,2192
+17,1057,1426,1811,1560
+18,259,447,1008,703
+19,507,1383,771,1415
+20,265,2202,1799,2272
+21,1046,803,1702,837
+22,879,2292,1182,2325
+23,1033,846,1506,879
+27,1049,757,1708,793
+28,1047,319,1604,356
+29,266,1427,1017,1562
+30,382,1175,889,1241
+31,670,91,1379,131
+32,247,144,1007,288
+33,1049,140,1799,320
+34,253,88,321,132
+35,1723,82,1795,136
+36,1039,890,1821,1128
+37,259,1240,1007,1318
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=14px centerRows=true
+# block=7 fontSize=15px
+# block=8 fontSize=24px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=27 fontSize=15px
+# block=28 fontSize=15px
+# block=29 fontSize=15px
+# block=30 fontSize=28px
+# block=31 fontSize=16px
+# block=32 fontSize=15px
+# block=33 fontSize=15px
+# block=34 fontSize=16px
+# block=35 fontSize=16px
+# block=36 fontSize=15px
+# block=37 fontSize=14px centerRows=true
+
+# layer=metadata
+
+# layer=rawLLM
+# block=35
+996
+
+# block=34
+995
+
+# block=31
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=33
+λζ'. Προσευχὴ περιέχουσα μνήμην προνοίας,
+καὶ ἀπαρίθμησιν εὐεργεσιῶν διαφόρων τῶν
+προνοίᾳ Θεοῦ διὰ Χριστοῦ παρασχεθεισῶν τοῖς
+ἁγίοις.
+
+# block=32
+XXXVII. Oratio continens memoriam providentiæ,
+ac enumerationem variorum beneficiorum, quæ Dei
+providentia sanctis collata sunt per Christum.
+
+# block=28
+λη'. Προσευχὴ ἀντιλήψεως δικαίων.
+
+# block=3
+XXXVIII. Oratio pro ope justis allata.
+XXXIX. Quo modo oporteat catechumenos institui.
+
+# block=10
+λθ'. Ὅπως χρὴ τοὺς κατηχουμένους στοιχειοῦ-
+σθαι.
+
+# block=18
+XL. Constitutio, quo modo oporteat catechumenos a
+sacerdotibus in initiatione benedici, et quænam
+eos doceri conveniat.
+XLI. Renuntiatio in adversarium, et ascriptio ad
+Christum Dei.
+XLII. De unctione olei mystici actio gratiarum.
+
+# block=13
+μ'. Διάταξις, ὅπως χρὴ τοὺς κατηχουμένους ὑπὸ
+τῶν ἱερέων ἐν τῇ μυήσει εὐλογεῖσθαι, καὶ τίνα
+διδάσκεσθαι αὐτούς.
+μα'. Ἀποταγὴ πρὸς τὸν ἐναντίον, καὶ συνταγὴ
+πρὸς τὸν Χριστὸν τοῦ Θεοῦ.
+μβ'. Περὶ χρίσματος τοῦ μυστικοῦ ἐλαίου εὐχα-
+ριστία.
+
+# block=27
+μγ'. Περὶ τοῦ μυστικοῦ ὕδατος εὐχαριστία.
+
+# block=5
+XLIII. Gratiarum actio de mystica aqua.
+XLIV. De mystico unguento actio gratiarum
+XLV. Oratio recenter initiatorum.
+XLVI. Quosnam sancti apostoli miserunt et ordina-
+runt.
+XLVII. Oratio matutina.
+XLVIII. Oratio vespertina.
+XLIX. Oratio in prandio.
+
+# block=21
+μδ'. Περὶ τοῦ μυστικοῦ μύρου εὐχαριστία.
+
+# block=23
+με'. Προσευχὴ τῶν νεοτελῶν.
+
+# block=36
+μς'. Τίνας πέμποντες ἐχειροτόνησαν οἱ ἅγιοι
+ἀπόστολοι.
+μζ'. Προσευχὴ ἑωθινή.
+μη' Ἑσπερινή.
+μθ'. Εὐχὴ ἐπ' ἀρίστῳ.
+
+# block=8
+ΒΙΒΛΙΟΝ ΕΒΔΟΜΟΝ.
+
+# block=30
+LIBER SEPTIMUS.
+
+# block=37
+DE RATIONE VITÆ, ACTIONE GRATIARUM,
+ET CHRISTIANA INITIATIONE.
+
+# block=6
+ΠΕΡΙ (4) ΠΟΛΙΤΕΙΑΣ, ΚΑΙ ΕΥΧΑΡΙΣΤΙΑΣ, ΚΑΙ
+ΤΗΣ ΚΑΤΑ ΧΡΙΣΤΟΝ ΜΥΗΣΕΩΣ.
+
+# block=19
+CAPUT PRIMUM.
+
+# block=9
+ΚΕΦΑΛΑΙΟΝ Α'.
+
+# block=17
+Ὅτι δύο ὁδοί εἰσι, μία τῆς ζωῆς, ἡ φυσική, καὶ
+μία τοῦ θανάτου, ἡ ἐπείσακτος· καὶ ὅτι ἡ μὲν
+ἐκ Θεοῦ, ἡ δὲ ἐκ τροπῆς κατ' ἐπιβουλὴν τοῦ
+ἀλλοτρίου.
+
+# block=29
+Quod duæ sint viæ : una vitæ, naturalis; altera
+mortis, adscititia; et quod illa quidem ex Deo est;
+hæc vero ex depravatione secundum insidias ad-
+versarii.
+
+# block=14
+Τοῦ νομοθέτου Μωσέως εἰρηκότος τοῖς Ἰσραη-
+λίταις· « Ἰδοὺ δέδωκα πρὸ προσώπου ὑμῶν τὴν
+ὁδὸν τῆς ζωῆς, καὶ τὴν ὁδὸν τοῦ θανάτου· » καὶ
+ἐπιφέροντος· « Ἔκλεξαι τὴν ζωήν (5) ἵνα ζήσῃς· »
+καὶ τοῦ προφήτου Ἠλία ⁴ (6) λέγοντος τῷ λαῷ· « Ἕως
+πότε χωλανεῖτε ἐπ' ἀμφοτέραις ταῖς ἰγνύαις (7)
+ὑμῶν; εἰ Θεός ἐστι Κύριος, πορεύεσθε ὀπίσω αὐτοῦ· »
+εἰκότως ἔλεγε καὶ ὁ Κύριος Ἰησοῦς· « Οὐδεὶς δύναται
+δυσὶ κυρίοις δουλεύειν· ἢ γὰρ τὸν ἕνα μισήσει, καὶ
+τὸν ἕτερον ἀγαπήσει· ἢ ἑνὸς ἀνθέξεται, καὶ τοῦ
+ἑτέρου καταφρονήσει· » ἀναγκαίως καὶ ἡμεῖς, ἑπό-
+μενοι τῷ διδασκάλῳ Χριστῷ, « ὅς ἐστι σωτὴρ πάντων
+ἀνθρώπων, μάλιστα πιστῶν, » φαμέν, ὡς δύο ὁδοί
+εἰσι, μία τῆς ζωῆς, καὶ μία τοῦ θανάτου· οὐδεμίαν
+
+# block=4
+CUM legislator Moses dixerit Israélitis ² : « Ecce
+dedi ante faciem vestram, viam vitæ, et viam
+mortis; » ac subjunxerit : « Elige vitam, ut
+vivas. ³ » Et propheta Elias populo denuntiavit :
+« Usquequo claudicabitis in ambobus poplitibus
+vestris; si Deus est Dominus, ite post eum ⁵; »
+merito dixit quoque Dominus Jesus : « Nemo po-
+test duobus dominis servire; aut enim unum odio
+habebit, et alterum diliget; aut uni adhærebit, et
+alterum contemnet ⁶; » necessario et nos, secuti
+magistrum Christum, « qui est salvator omnium
+hominum, maxime fidelium ⁷, » pronuntiamus,
+quod duæ sunt viæ, vitæ una, mortis altera; illæ
+autem nullam habent inter se convenientiam, sed
+
+# block=20
+² Citat Anastasius, quæst. 15. ³ Deut. xxx, 15, 19. ⁴ in Anast. Ἠλιού. ⁵ III Reg. xviii, 21.
+⁶ Matth. vi, 24. ⁷ I Tim. iv, 10.
+
+# block=22
+VARIORUM NOTÆ.
+
+# block=7
+ritus librarius in oratione Nicetæ de archangelis
+Michaele et Gabriele exarasset Ἠλίου, putavit vir
+doctus Petrus Possinus corrigendum esse Ἠλίας.
+Cot.
+
+# block=12
+(4) Περὶ, etc. Ἐν ᾧ περὶ τῆς κατὰ Θεὸν ἀκριβοῦς
+πολιτείας, καὶ εὐχαριστίας καὶ μυήσεως ὑποτύπωσις,
+ἐν κεφ. η'. Ms. Vind. CLER.
+
+# block=1
+(5) Τὴν ζωήν. Ὁδὸν τῆς ζωῆς. Ms. Vind. ID.
+(6) Τοῦ προφήτου Ἠλία. In Anastasii Quæstio-
+nibus, Bibliothecæ Regiæ mss. 200, 1789, 2206,
+Ἠλία : ubi impressæ Ἠλιοῦ, et ms. 1107, Ἠλιοῦ.
+Græci enim quoque in hoc nomine sæpe aspiratio-
+nem ponunt, minus bene: solentque genitivum facere
+Ἠλία, aut Ἠλιοῦ, Ἠλιοῦ et Ἠλίου, nominativum
+vero Ἠλίας aut Ἠλιού : pro quo ultimo cum impe-
+
+# block=2
+(7) Ἰγνύαις. Vox ambigua videtur, uti est He-
+braica. Hesychius; Ἰγνύα· φυγή, ἢ τὸ τοῦ γόνατος
+ὄπισθεν μέρος. Unde in dubium revocari potest
+quod conjiciunt, Luciferum, quia lib. 1, pro Atha-
+nasio, p. 33, vertit sensu vestro, legisse ἐννοίαις
+(non ἰγνύαις) ὑμῶν. III Reg. XVIII, 21. Ἰ.

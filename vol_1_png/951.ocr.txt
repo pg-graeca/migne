@@ -1,0 +1,176 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,201,1903,961,2677
+2,231,123,981,287
+3,212,1333,970,1898
+4,997,1938,1767,2671
+5,1000,860,1771,1929
+6,1006,113,1780,850
+7,790,64,1195,99
+8,234,70,302,104
+10,1698,66,1772,101
+14,144,2827,182,2848
+15,214,290,980,1332
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=7
+RECOGNITIONUM LIB. III.
+
+# block=10
+1302
+
+# block=8
+1301
+
+# block=6
+XLIV. Et Petrus : Dicam ita ut præ cæteris
+omnibus tibi magis probetur. Responde ergo mihi,
+quid est quod incredulum magis suadere potest,
+visus an auditus? Et Simon : Visus. Tum Petrus .
+Quomodo ergo a me vis discere verbo, quod tibi
+re ipsa probatur et visu? Et Simon : Nescio, inquit,
+quomodo dicas. Et Petrus : Si nescis, perge nunc
+in domum tuam, et ingressus interius cubiculum
+videbis imaginem positam, continentem pueri vio-
+lenter necati effigiem purpura coopertam, ipsum
+interroga, et docebit te vel responsione vel visu.
+Quid enim opus est audire ab eo si immortalis sit
+anima, cum astare eam videas præsentem? Si enim
+non esset, nec videri utique poterat. Quod si ne-
+scis quam dico imaginem, hinc e vestigio cum aliis
+decem viris, ex his qui præsentes sunt, eamus ad
+domum tuam.
+
+# block=2
+subire continentiam, sub spe futurorum bonorum,
+quibus evenit, ut neque præsentibus perfruantur
+et decipiantur futuris. Simul enim ut mortui fue-
+rint, etiam anima pariter exstinguetur.
+
+# block=15
+XLII. Petrus vero hæc audiens, dentibus fren-
+dens frontemque atterens manu, et profundo dolore
+suspirans ait : Astutia serpentis antiqui ad homi-
+num decipiendas animas armatus assistis, et ideo
+ut serpens sapientior cæteris bestiis, ab initio
+doctorem te esse professus es. Et rursus, ut ser-
+pens multos introducere deos volebas, super quo
+confutatus nullum omnino nunc esse asseris Deum.
+Nam per occasionem nescio cujus ignoti Dei, con-
+ditorem mundi Deum negasti, sed eum vel malum
+esse, vel multos habere sibi æquales, vel omnino,
+ut diximus, non esse Deum confirmabas. Post hæc
+cum etiam in hoc superatus fuisses, animam nunc
+asseveras esse mortalem, uti ne futurorum spe
+recte justeque vivatur. Nam utique si desperantur
+futura, quidni si abscidatur misericordia, luxuriæ
+indulgeatur et voluptatibus, ex quibus omnem
+consurgere injustitiam constat? Et cum tantæ im-
+pietatis doctrinam miseræ huic introducas morta-
+lium vitæ, te ipsum pium, me impium vocas, quasi
+qui homines non sinam sub spe futurorum bono-
+rum arma corripere et impugnare se invicem, diri-
+pere ac subvertere universa et moliri omnia quæ
+libido dictaverit. Et quis erit istæ vitæ status, qui
+
+# block=5
+XLV. At Simon hæc audiens et conscientia per-
+cussus, colore mutato exsanguis effectus est; ex-
+timuit enim ne forte si negaret perscrutaretur
+domus ejus, aut ne indignans Petrus manifestius
+eum proderet, et omnibus quis esset innotesceret,
+ita respondit : Obsecro te, Petre, per illum bonum
+Deum qui in te est, ut vincas malitiam quæ in me
+est, suscipe me ad pœnitentiam et habebis me ad-
+jutorem prædicationis tuæ. Nunc enim vere rebus
+ipsis didici, quia Dei veri propheta es, et ideo se-
+creta hominum solus atque arcana cognoscis. Et
+Petrus ait : Videtis, fratres, Simonem pœnitentiam
+quærentem, paulo post videbitis eum rursus ad in-
+fidelitatem suam reverti. Putans enim me prophe-
+tam esse, pro eo quod publicavi mala ejus, quæ in
+secretis habebat et in occultis, pœnitentiam se
+acturum promisit; me autem mentiri fas non est,
+neque ut infidelis hic servetur aut non servetur,
+ego fallere debeo. Testor enim cœlum et terram,
+quia non prophetice dixi, quæ dixi vel quæ, quan-
+tum possibile erat, turbis audientibus indicavi, sed
+a quibusdam qui tunc ei socii fuerant in operibus
+suis, nunc autem conversi sunt ad fidem nostram,
+quid ei in secreto gestum sit, didici; cognita ergo
+non præcognita locutus sum.
+
+# block=3
+a te introducitur, ut pugnent homines et impu-
+gnentur, ut irascantur et perturbentur et semper in
+metu vivant? Necesse est enim eos qui aliis infe-
+runt mala etiam ipsos sperare similia. Videsne te
+ducem perturbationis et non pacis, iniquitatis et
+non æquitatis existere? Verum ego, non quasi qui
+ostendere non possim immortalem esse animam,
+simulavi iracundiam, sed misereor animabus ho-
+minum, quas tu decipere conaris. Dicam ergo, sed
+non quasi te cogente; scio enim quomodo dicam,
+et solus eris qui de hoc non tam persuasione indi-
+geas, quam commonitione; eos autem hoc qui
+vere ignorant, docebo ut convenit.
+
+# block=1
+XLIII. Tum Simon : Si irasceris, inquit, non in-
+terrogabo nec audire volo. Et Petrus : Tu siquidem
+nunc occasionem quæris subterfugiendi; habes li-
+centiam, et sine occasione cujusquam. Omnes
+enim audierunt te nihil recte dicentem, nec po-
+tuisse aliquid confirmare, sed ob hoc tantum inter-
+rogasse ut contradiceres, quod quivis facere potest.
+Quid enim difficile est post evidentes assertiones
+respondere, nihil dixisti. Ut autem scias quia pos-
+sum tibi uno sermone ostendere, quod immortalis
+est anima, interrogabo te verbum quod omnes no-
+runt, responde mihi, et uno sermone immortalem
+esse comprobabo. Tum Simon, qui jam occasionem
+sibi visus fuerat invenisse ex iracundia Petri ut
+discederet, restitit pro eo quod mirum ei aliquid
+promittebatur, et ait : Interroga me, ut tibi respon-
+deam quod omnes norunt, et audiam uno ut polli-
+citus es sermone, quomodo anima immortalis sit?
+
+# block=4
+XLVI. Simon vero ut hæc audivit maledictis his
+et conviciis aggreditur Petrum, dicens : O nefan-
+dissime omnium et dolosissime, cui victoriam for-
+tuna, non veritas dedit. Verum ego non pro penu-
+ria scientiæ pœnitentiam petii, sed ut tu, putans
+me per pœnitentiam discipulum tuum fore, omnia
+secreta professionis tuæ concederes mihi, ut ita
+demum te cunctis agnitis confutarem. Sed ut calli-
+dus intellectisti quam ob causam pœnitentiam si-
+mulassem, et acquievisti tanquam meum non intelli-
+gens dolum, ut prius me apud populum exponeres,
+quasi imperitum, tum deinde prævidens, quod ego
+ita populo expositus necesse habeo indignari et
+confiteri me non vere pœnitentiam gerere, præve-
+nisti, ut diceres me ad infidelitatem meam post
+pœnitentiam regressurum, ut omni ex parte vicisse
+videreris, et si remanerem in pœnitentia quam
+
+# block=14
+* * *

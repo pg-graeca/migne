@@ -1,0 +1,201 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,269,366,1030,1015
+2,1048,371,1814,1019
+3,271,148,1024,238
+4,519,321,774,360
+5,264,1177,1025,2714
+6,864,1116,1168,1151
+7,302,1048,1131,1087
+8,1047,1181,1808,2707
+11,1301,328,1566,367
+12,641,92,1426,134
+15,272,91,329,131
+16,1745,106,1809,144
+17,1051,148,1807,240
+18,267,236,1811,320
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=15 fontSize=16px
+# block=16 fontSize=16px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+275
+
+# block=12
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=16
+276
+
+# block=3
+luntatem ejus accedamus : ex totis viribus nostris
+operemur opus justitiæ.
+
+# block=17
+θοῖς πάντες ἐκοσμήθησαν οἱ δίκαιοι. Καὶ αὐτὸς οὖν ὁ
+Κύριος, ἔργοις ἑαυτὸν κοσμήσας, ἐχάρη. Ἔχοντες οὖν
+
+# block=18
+τοῦτον τὸν ὑπογραμμόν, ἀόκνως προσέλθωμεν τῷ θελήματι αὐτοῦ · ἐξ ὅλης (22) ἰσχύος ἡμῶν ἐργασώμεθα
+ἔργον δικαιοσύνης.
+
+# block=4
+CAPUT XXXIV.
+
+# block=11
+ΚΕΦΑΛΑΙΟΝ ΛΔ'.
+
+# block=1
+Bonus operarius cum fiducia panem operis sui
+accipit : segnis vero et remissus locatorem suum
+non audet intueri. Oportet ergo nos ad bonum fa-
+ciendum prompto animo esse : ex hoc enim omnia
+constant. Quippe nobis prædicit : Ecce Dominus,
+et merces ejus coram illo 31 ; ut reddat unicuique
+secundum opus suum 32. Itaque nos ex toto corde
+hortatur ad hoc, ne segnes et desides simus ad
+omne opus bonum. Gloriatio nostra et fiducia in
+ipso sit, voluntati ejus subjiciamur. Attendamus
+ad universam angelorum ejus multitudinem ; quo
+modo astantes voluntati ejus famulentur. Dicit enim
+Scriptura : Dena millia denum millium assistebant
+ei ; et mille millia deserviebant ei 33. Et clamabant :
+Sanctus, sanctus, sanctus, Dominus Sabaoth : plena
+
+# block=2
+'O ἀγαθὸς ἐργάτης μετὰ παρῥησίας λαμβάνει τὸν
+ἄρτον τοῦ ἔργου αὐτοῦ· ὁ νωθρὸς καὶ παρειμένος, οὐκ
+ἀντοφθαλμεῖ τῷ ἐργοπαρέκτη αὐτοῦ. Δέον οὖν ἐστιν
+προθύμους ἡμᾶς εἶναι εἰς ἀγαθοποιΐαν· ἐξ αὐτοῦ (23)
+γάρ ἐστι τὰ πάντα. Προλέγει γὰρ ἡμῖν· 'Ἰδοὺ ὁ Κύ-
+ριος, καὶ ὁ μισθὸς αὐτοῦ πρὸ προσώπου αὐτοῦ,
+ἀποδοῦναι ἑκάστῳ κατὰ τὸ ἔργον αὐτοῦ (24). Προ-
+τρέπεται οὖν ἡμᾶς ἐξ ὅλης τῆς καρδίας ἐπ' αὐτῷ (25),
+μὴ ἀργούς, μήτε παρειμένους εἶναι ἐπὶ πᾶν ἔργον ἀγα-
+θόν. Τὸ καύχημα ἡμῶν καὶ ἡ παρῥησία ἔστω ἐν αὐ-
+τῷ· ὑποτασσώμεθα τῷ θελήματι αὐτοῦ. Κατανοή-
+σωμεν τὸ πᾶν πλῆθος τῶν ἀγγέλων αὐτοῦ, πῶς τῷ
+θελήματι αὐτοῦ λειτουργοῦσιν παρεστῶτες. Λέγει γὰρ
+ἡ Γραφή· Μύριαι μυριάδες παρειστήκεισαν αὐτῷ, καὶ χίλιαι
+χιλιάδες ἐλειτούργουν αὐτῷ (26). Καὶ
+
+# block=7
+³¹ Isa. XL, 10, LXII, 11. ³² Psal. LXI 13. ³³ Dan. VII, 10.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=5
+(22) Ἐξ ὅλης. Bois. mallet, καὶ ἐξ ὅλης : nec
+dissentit Wott. Gall.
+(23) Ἐξ αὐτοῦ. Id est, τοῦ ἐργοπαρέκτου, scili-
+cet τοῦ Θεοῦ. Sic Bois. Cui accedere videtur Wott.
+Ita enim interpretatur : Ex ipso enim omnia sunt.Id.
+(24) Ἰδοὺ ὁ Κύριος, καὶ ὁ μισθὸς αὐτοῦ πρὸ
+προσώπου αὐτοῦ, ἀποδοῦναι ἑκάστῳ κατὰ
+τὸ ἔργον αὐτοῦ. Barnabæ cap. 21 : Ἐγγὺς
+ὁ Κύριος, καὶ ὁ μισθὸς αὐτοῦ. In Constitutionibus
+apostolicis lib. II, cap. 14, et in Ignatio interpolato
+Epist. ad Smyrnæos, cap. 9 : Ἰδὲ ἄνθρωπος, καὶ τὸ
+ἔργον αὐτοῦ πρὸ προσώπου αὐτοῦ. Eadem Diataxes
+lib. III, cap. 43 : Ἰδοὺ ἄνθρωπος καὶ τὸ ἔργον αὐ-
+τοῦ : quibus verbis subjunguntur ista in Quæstioni-
+bus Anastasii a Gretsero editis, quæst. 22 : Καὶ
+οὐκ ἀποδώσεις ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ. Cle-
+mens Stromateus lib. IV, p. 528 : Εἴρηται γάρ· Ἰδοὺ
+Κύριος, καὶ ὁ μισθὸς αὐτοῦ ἀπὸ προσώπου αὐτοῦ,
+ἀποδοῦναι ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ. Ab Ori-
+gene homil. 35 in Lucam : Et tunc complebitur :
+« Ecce homo, opera ejus ante faciem suam. » Et to-
+mo XVI, in Joannem : Ἰδοὺ Κύριος, καὶ ὁ μισθὸς
+αὐτοῦ ἐν τῇ χειρὶ αὐτοῦ, ἀποδοῦναι ἑκάστῳ κατὰ τὸ
+ἔργον αὐτοῦ. Basilius in psal. XXXII, 18 : Ἰδοὺ Κύριος,
+καὶ ὁ μισθὸς αὐτοῦ (ita editio Græca cum tribus
+mss. Regiis magnæ vetustatis) ἀποδοῦναι ἑκάστῳ ὡς
+τὸ ἔργον αὐτοῦ. Chrysostomus Concione 2 De La-
+zaro, tom. V : Ἰδοὺ γὰρ, φησὶν, ἄνθρωπος, καὶ τὰ
+ἔργα αὐτοῦ. Apud pseudo - Chrysostomum sive au -
+ctorem Operis imperfecti in Matthæum, ad cap. III,
+vers. 12 : Ecce homo, et opera ejus. S. Ambrosius
+in psalmi CXVIII, octonarium 11, vers. 82 : Deficie-
+bat ergo in verbum Propheta. Nos autem otiosos nos
+putamus, si verbo tantummodo studere videamur ; et
+pluris æstimamus eos qui operantur, quam eos qui
+studium cognoscendæ veritatis exercent. Dicunt enim
+plerique : « Ecce homo, et opera ejus, quasi qui verbo
+studeat, non operetur, etc. » Denique Valentinus et
+qui cum eo monachi epistola ad sanctum Augusti-
+num, 256 inter illius doctoris epistolas : Quia ve-
+niet Dominus, et merces ejus cum ipso : quia stabit
+homo, et opus ejus (male vulgo corpus) ante ipsum.
+Desumpserunt cuncti ex locis Scripturæ Isaix
+XL, 10 ; LXII, 11 ; Apocal. XXII, 12 ; Psalm. LXI, 13.
+COT.
+(25) Ἐπ' αὐτῷ. Bois. addit πεποιθέναι, innixus
+
+# block=8
+Prov. III, 5. Al. ἐπ' αὐτό. Dav. fidenter, ἐπὶ τὸ μή,
+κ. τ. λ. Verum Wott. ms. adhærens, ita reddit :
+Adhortando nos, ad ipsum convertit toto corde. Eo
+enim modo, inquit, legimus apud Æschinem, προ-
+τρέψασθαι εἰς τὴν ἡμετέραν φιλίαν : adhortando con-
+vertere ad amicitiam nostram. GALL.
+(26) Κατανοήσωμεν τὸ πᾶν πλῆθος τῶν ἀγ-
+γέλων αὐτοῦ, πῶς τῷ θελήματι αὐτοῦ λειτουργ-
+οῦσιν παρεστῶτες. Λέγει γὰρ ἡ Γραφή· Μύ-
+ριαι μυριάδες παρειστήκεισαν αὐτῷ, καὶ χίλιαι
+χιλιάδες ἐλειτούργουν αὐτῷ. Duo hic observanda
+veniunt. Alterum, omnes angelos assistere, ac
+ministrare, juxta doctrinam multorum : ad quam
+facere videntur cum testimonia divina, Genes. III,
+24 ; Tobiæ XII, 14, 15 ; psalm. CIII, 4 ; Isaiæ VI,
+2, etc. ; Lucæ I, 19, atque Hebr. I, 7, 14 : tum suf-
+fragia SS. Patrum : Sosthenes, inquit Minucius Felix,
+et verum Deum merita majestate prosequitur, et an-
+gelos, id est ministros et nuntios Dei, sed veri, ejus-
+que venerationi novit assistere. Didymus lib. I De
+Spiritu sancto, ex interpretatione Hieronymi, ante
+finem, addit ista ad Hebr. I, 7 : Licet enim non
+omnes singulatim invisibiles creaturæ missæ sint ;
+tamen quia ejusdem generis et honoris aliæ missæ
+sunt, quodammodo et ipsæ possibilitate sunt missæ,
+missarum consortes, æqualisque substantiæ. Apud
+eundem Hieronymum epist. 142 : Quidam Græco-
+rum in Scripturis apprime eruditus, Seraphim virtu-
+tes quasdam in cœlis esse exposuit, quæ ante tribunal
+Dei assistentes, laudent eum, et in diversa ministeria
+mittantur, maximeque ad eos qui purgationione indigent,
+et ob pristina peccata aliqua ex parte suppliciis pur-
+gari merentur. Atque in eadem epistola angeli ab
+Hieronymo appellantur totum ministerium cœleste,
+et apparitrices in cœlestibus virtutes; quemadmodum
+Damasceno angelus est Θεοῦ παραστάτης καὶ λει-
+τουργός., or III pro sacris imaginibus. Auctor
+Commentariorum in, Epistolam ad Hebræos, inter
+Opera S. Ambrosii, ad vers. 7, cap. 1 : Non enim
+solos angelos hoc sermone significat, sed omnes vir-
+tutes ministeriis supernis fungentes. Et postea : Po-
+test dici, quando levia (l. lenia) nuntiare mittuntur,
+angelos esse ; quando ad vindictam mittuntur, mini-
+stros esse, id est ignem ardentem. Quæ postrema
+concordant cum citatis mox ex Hieronymo, cum-
+que his ex eodem apud Sedulium ad Hebr. I, 7 :

@@ -1,0 +1,172 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,219,1020,972,2058
+2,215,149,974,1010
+3,1011,449,1762,1543
+4,1021,2141,1770,2620
+5,1004,142,1747,438
+6,1016,1538,1767,2142
+7,226,2059,984,2612
+8,763,88,1160,123
+9,254,2654,991,2689
+10,224,101,299,134
+15,1683,88,1756,120
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+RECOGNITIONUM LIB. III
+
+# block=15
+1306
+
+# block=10
+1305
+
+# block=5
+autem Deus æternus, et inæmutabilis permanens.
+Qui ergo non vult inquirere quod sibi utile est,
+malus est, in tantum ut malitia sua ipsum imple-
+tatis principem superet. Ille enim bonitate Dei ab-
+utitur ad propositum malitiæ suæ, et sibi placet;
+hic autem salutis suæ bona negligit, ut perditione
+sui malo placeat.
+
+# block=2
+tus Petrus ita respondit : Deus qui unus et verus
+est, Primogenito suo amicos bonos et fideles insti-
+tuit præparare; sciens autem quia boni esse non
+possunt, nisi habeant in potestate sensum quo
+fiant boni, ut ex suo proposito hoc sint quod vo-
+lunt, aliquoi non possunt esse vere boni, si non
+proposito sed necessitate tenerentur in bono, po-
+testatem dedit unicuique arbitrii sui, ut hoc esse
+possit quod vult. Et rursum prævidens quia ista po-
+testas arbitrii, alios quidem faceret eligere bona,
+alios vero mala, et per hoc in duos ordines neces-
+sario propagandum esset hominum genus, unicui-
+que ordini concessit et locum et regem, quem vel-
+let eligere; bonus enim rex bonis gaudet, et mali-
+gnus malis. Et quamvis hæc tibi, o Clemens, in eo
+tractatu, quem de præfinitione et fine disserueram,
+plenius exposuerim, tamen et nunc requirenti Ni-
+cetæ manifestare me convenit quæ sit ratio, quod
+Simon qui contra Deum sentit, tanta facere mira-
+bilia potuit.
+
+# block=3
+LV. Propter hos ergo, qui salutis suæ neglectu
+placent malo, et eos qui studio utilitatis suæ pla-
+cere cupiunt bono, paria quædam ad tentationem
+præsenti huic sæculo statuta sunt decem, secun-
+dum numerum decem plagarum quæ illatæ sunt
+Ægypto. Cum enim Moyses secundum præceptum
+Dei peteret a Pharaone, ut emitteret populum, et
+ad testimonium cœlestis imperii signa ostenderet,
+projecta in terram virga conversa est in serpen-
+tem ³. Cumque ob hæc Pharao non vellet acquie-
+scere, utpote habens arbitrii libertatem, rursum
+magi similia signa facere visi sunt, permittente
+Deo, ut propositum regis probaretur ex arbitrii
+libertate, si magis crederet signis Moysi qui a Deo
+missus est, quam his quæ magi videbantur potius
+facere, quam faciebant; quos ipsos utique nomine
+intelligere debuerat non esse operarios veritatis,
+quod non a Deo missi sed magi appellabantur,
+sicut et traditio indicat. Denique usque ad aliquem
+locum visi sunt habere certamen, et post hæc con-
+fessi de se cessere meliori ⁴. Inducitur ergo plaga
+ultima ⁵, interitus primitivorum, et tunc Moyses
+jubetur populum conspersione sanguinis conse-
+crare, atque ita magna cum prece oblatis etiam
+muneribus, cum populo rogatur abscedere.
+
+# block=1
+LIII. Igitur primo omnium, malus esse judicatur
+apud Deum is, qui requirere non vult, quod sibi
+expedit. Quomodo enim talis iste alium diliget, qui
+semetipsum non diligit? Aut cui non iste inimicus
+erit, qui sibi ipsi amicus esse non potuit? Ut ergo
+distinguerentur qui bona et qui eligunt mala, Deus
+quod utile est occultavit hominibus, id est, posses-
+sionem regni cœlorum, eamque velut thesaurum
+secretum reposuit et abscondit, ut ad eam non fa-
+cile quis possit virtute et scientia pervenire pro
+pria, famam tamen ejus, diversis nominibus et opi-
+nionibus per generationes singulas ad omnium per-
+duxit auditum, ut si qui forte essent amatores bo-
+ni, audientes quod sibi esset utile et salutare re-
+quirerent et invenirent; requirerent autem non a
+semetipsis, sed ab eo qui occultavit, darique sibi
+accedendi aditum et viam scientiæ precarentur,
+quæ illis solis panditur qui eam super omnia mun-
+di hujus diligerent bona, nec alio quis pacto vel
+intelligere eam possit etiamsi prudentissimus vide-
+retur; hi vero, qui neglexissent quod sibi utile et
+salutare esset inquirere, tanquam se ipsos odio ha-
+bentes et semetipsis inimici fraudarentur ejus bo-
+nis, velut qui diligerent mala.
+
+# block=6
+LVI. Simili ergo modo etiam nunc per me video
+geri. Sicut enim tunc Moyse hortante regem ut
+crederet Deo, obsistebant magi quasi ostentatione
+similium signorum, et a salute incredulos prohibe-
+bant, ita et nunc cum ego exierim docere omnes
+gentes ut credant vero Deo, Simon Magus resistit,
+eadem agens adversum me, quæ et illi tunc egerunt
+adversum Moysen, ut si qui sunt ex gentibus, qui
+non recto judicio utuntur, appareant, salvantur
+autem qui signorum rectum discrimen habuerint.
+Hæc dicente Petro, Niceta respondit : Obsecro te,
+ut si quid ad memoriam venit, permittas mihi pro-
+ferre. Tum Petrus delectatus super studio discipu-
+lorum: Dic, inquit, quod vis.
+
+# block=7
+LIV. Oportet ergo bonos diligere eam super om-
+nia, id est, super divitias, gloriam, requiem, pa-
+rentes, propinquos, amicos et omne quod in hoc
+mundo est. Qui vero perfecte diligit possessionem
+hanc regni cœlorum, abjiciet sine dubio omnem
+malæ consuetudinis usum, negligentiam, desidiam,
+malitiam, iram, cunctaque his similia. Nam si quid
+horum prætuleris ei, tanquam qui plus dilexeris
+propriæ libidinis vitia quam Deum, ad possessionem
+regni cœlestis pervenire non poteris, quia et vere
+stultum est, aliquid plus amare quam Deum. Sive
+enim parentes sunt, moriuntur; sive propinqui,
+non permanent; sive amici, mutantur. Solus est
+
+# block=4
+LVII. Et Niceta ait : Quid peccavere Ægyptii, si
+non crediderunt Moysi, cum et magi similia signa
+fecerint, etiamsi, viderentur potius fieri quam veri-
+tate fierent? Nam et si ego fuissem tunc, ex eo quod
+magi similia faciebant, nonne aut Moysen magum
+credidissem, aut magos quæ ostendebant, divinitus
+facere putassem? quia non mihi verisimile videre-
+tur, licet per phantasiam, eadem tamen effici a ma-
+gis posse, quæ ille qui a Deo missus est, perpetra-
+bat. Et nunc ergo quid peccant hi qui Simoni cre-
+dunt, cum videant eum tanta facere mirabilia ? Aut
+
+# block=9
+³ Exod. VII, VIII. ⁴ Exod. VIII, 19. ⁵ Exod. XII.

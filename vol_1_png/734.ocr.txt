@@ -1,0 +1,339 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,259,497,645,2634
+2,257,126,1002,294
+3,320,2672,848,2708
+4,870,418,1163,455
+7,263,321,1804,404
+10,1031,132,1793,296
+11,647,82,1377,122
+12,1713,70,1781,112
+13,245,78,331,124
+14,641,501,1031,2651
+15,1059,1373,1431,2643
+16,1435,911,1815,2655
+17,1045,505,1407,735
+18,1045,737,1805,903
+19,1425,491,1795,745
+20,1047,907,1423,1377
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=7 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+868
+
+# block=13
+867
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=2
+incipite sanctam Paschæ hebdomadam, cuncti per
+eam jejunantes cum timore et tremore, orantes in
+iis diebus pro pereuntibus 79.
+
+# block=10
+μεθ' ἃς ἀπονηστεύσαντες, ἄρξασθε τῆς ἁγίας τοῦ
+Πάσχα ἑβδομάδος, νηστεύοντες αὐτὴν πάντες μετὰ
+φόβου καὶ τρόπου, προσευξόμενοι ἐν αὐταῖς περὶ τῶν
+ἀπολλυμένων 80.
+
+# block=7
+79 l. Pseudo-Ignat. ibid. lege infra, cap. 15, 18, 19; Epiph. hær. 70, n. 12; hær. 75, n. 6. 80 al.
+Ἰουδαίων.
+
+# block=4
+VARIORUM NOTE.
+
+# block=19
+ἐπ' ἐμὲ πᾶσα ἡ κατάρα,
+καὶ ὁ τρόπος τοῦ Κάϊν,
+καὶ ἡ λέπρα τοῦ Γιεζῆ,
+πρὸς τὸ καὶ ταῖς ποιναῖς
+τῶν πολιτικῶν νόμων ἐ -
+ναί με ὑπεύθυνον ἀπαραι-
+τήτως˙ κατὰ δὲ τὸν μέλ-
+
+# block=1
+γέροντα. Τούτους πάντας
+ἀνεθεμάτισαν αἱ ἅγιαι καὶ
+οἰκουμενικαὶ ἑπτὰ σύνο-
+δοι, καὶ τοὺς ὁμόφρονας
+αὐτῶν ἅπαντας. Οὓς καθ'
+ἑκάστην ἡμέραν ἡ ἁγία
+καὶ καθολικὴ Ἐκκλησία
+ἀναθεματίζει, ἀναθεμα-
+τίζω κἀγὼ, καὶ λέγω οὗ-
+τως˙ εἴ τις οὐχ ὁμολογεῖ
+τὴν ἁγίαν Τριάδα, Πατέρα
+καὶ Υἱὸν καὶ ἅγιον Πνεῦμα,
+ἀνάθεμα. Εἴ τις οὐ λέγει
+ἄναρχον τὸν Πατέρα, ὁμοί-
+ως καὶ συνάναρχον τὸν
+Υἱὸν, καὶ τὸ ἅγιον Πνεῦμα,
+ἀνάθεμα. Εἴ τις λέγει
+ἔχειν τὸν Χριστὸν δύω ὑπο-
+στάσεις, ἀνάθεμα. Εἴ τις
+προστίθησιν εἰς τὸ, "Αγιος
+ὁ Θεὸς, ἅγιος ἰσχυρὸς,
+ἅγιος ἀθάνατος, τὸ, 'O
+σταυρωθεὶς δι' ἡμᾶς, ἀνά-
+θεμα. Εἴ τις οὐ προσκυ-
+νεῖ τὰς ἁγίας εἰκόνας, ἀλ-
+λὰ λέγει ὅτι εἴδωλά εἰσιν,
+ἀνάθεμα. Εἴ τις λέγει,
+ἁμαρτίαν ἔχει ὁ μὴ νηστεύ-
+ων τὴν ἑβδομάδα τῆς προ-
+φωνησίμου τὸν ᾿Αρτζι-
+βούρτζην, ἐσθίει δὲ καὶ
+τὴν ἑβδομάδα τῆς τυροφά-
+γου κρέα, ἀνάθεμα. Εἴ τις
+λέγει ὅτι ἡ λειτουργία
+καὶ ἡ κοινωνία τῇ ἁγίᾳ
+τεσσαρακοστῇ ἐν καθημε-
+ρινῇ ἁμαρτίᾳ ἐστὶν, καὶ
+ἐν Σαββάτῳ καὶ Κυριακῇ
+ἐσθίει γάλα καὶ ὠὸν, ἀνά-
+θεμα. Εἴ τις οὐ βάλλει εἰς
+τὴν προσφορὰν ζύμην καὶ
+ἄλας, οὐδὲ [f. deest. ὕδωρ
+εἰς] ἅγιον ποτήριον μετὰ
+τοῦ οἴνου, ἀνάθεμα. Εἴ τις
+οὐ ποιεῖ εἰς τὰς κε' Μαρ-
+τίου τὴν εὐαγγελισμὸν,
+καὶ εἰς τὰς κε' Δεκεμβρίου
+μηνὸς τὴν τοῦ Χριστοῦ
+γέννησιν, ἀνάθεμα. Εἴ δὲ
+μεθ' ὑποκρίσεως ταῦτά
+φημι, καὶ οὐκ ἐκ πίστεως
+ὁλοψύχου καὶ καρδίας, καὶ
+ἄρτι μὲν σχηματίζομαι
+γενέσθαι ὀρθόδοξος, ὕστε-
+ρον δὲ θελήσω ἀρνήσασθαι
+καὶ ὑποστρέψαι πρὸς τὴν
+προτέραν μου αἵρεσιν, καὶ
+εὑρεθῶ συνεορτάζων ἢ
+συνεσθίων τοῖς ᾿Αρμενίοις,
+ἢ συνομιλῶν τοῖς Ἰακωβί-
+ταις, λάθρα ἢ φανερῶς,
+καὶ οὐχὶ μᾶλλον ἐλέγχω
+τούτους καὶ τὴν τούτων
+αἵρεσιν, νῦν μὲν ἔλθοι
+
+# block=14
+ctam Trinitatem, Patrem,
+Filium et Spiritum san-
+ctum, anathema sit. Si
+quis non asserit Patrem
+esse sine principio, item-
+que Filium esse etiam ini-
+lii expertem, ac Spiritum
+sanctum, anathema sit.
+Si quis dixerit in Christo
+duas esse hypostases, ana-
+thema sit. Si quis ad il-
+lud : Sanctus Deus, san-
+clus fortis, sanctus im-
+mortalis, addit hoc: Qui
+crucifixus es pro nobis,
+anathema sit. Si quis non
+veneratur sacras imagi-
+nes, sed eas idola vocat,
+anathema sit. Si quis di-
+cit peccare eum qui non
+jundaverit hebdomadem
+Prophonesimi, seu Artzi-
+burtzem, comedit autem
+carnem hebdomade lacti-
+ciniorum, anathema sit.
+Si quis dicit missam et
+communionem singulis
+diebus Quadragesimaepec-
+catum esse, Sabbato au-
+tem et Dominica vescitur
+lacte et ovis, anathema sit.
+Si quis in panem oblatio-
+nis non immittit fermen-
+tum et sal, nec aquam
+cum vino in sanctum cali-
+cem, anathema sit. Si
+quis non celebrat Annun-
+tiationem 25 Martii, et 25
+mensis Decembris Christi
+Natale, anathema sit.
+Quod si cum hypocrisi
+hæc pronuntio, non vero
+fideliter, totoque animo
+et corde: atque nunc qui-
+dem simulo fieri orthodo-
+xus,postea vero voluero.
+abnegare ac reverti ad
+priorem meam hæresim,
+inventusque fuero una cum
+Armeniis festa celebrans,
+aut cibum sumens, vel
+consuescens cum Jacobitis,
+sive clam, sive publice; non
+autem potius redarguero
+illos illorumque hæresim;
+in hac quidem vita veniant
+super me omnes diræ, tre-
+mor Caini et lepra Gie-
+zis, præter pœnas legum
+civilium, quibus subjiciar,
+nec possim assequi impu-
+nitatem: in futuro autem
+sæculo sit mihi anathema
+et catathema, meaque ani-
+
+# block=17
+ma collocetur cum Satana
+et dæmonibus. Cunctis
+hæreticis anathema. Et
+caput inclinante eo qui
+convertitur, archiepisco-
+pus orationem facit his
+verbis:
+
+# block=18
+λοντα αἰῶνα, εἴη μοι ἀνάθεμα καὶ κατάθεμα, καὶ
+ἡ ψυχή μου ταχθείη μετὰ τοῦ Σατανᾶ καὶ τῶν δαι-
+μόνων. Πᾶσι τοῖς αἱρετικοῖς ἀνάθεμα. Καὶ ἐπικλí-
+νοντος τοῦ μετερχομένου τὴν κεφαλὴν, ὁ ἀρχιεπí-
+σκοπος εὐχὴν λέγων οὕτως (a) ·
+
+# block=20
+Deus Salvator noster, qui
+cunctos homines salvari
+vis, et ad agnitionem ve-
+ritatis venire; suscipe ser-
+vum tuum hunc, qui vix
+tandem ex errore resipi-
+scit, quique desiderat ad
+agnitionem veritatis acce-
+dere. Tu enim dixisti,
+Domine: « Et alias oves ha-
+beo, quæ non sunt ex hoc
+ovili; et illas oportet me
+adducere; et vocem meam
+audient, et fiet unum ovi-
+
+# block=16
+'(1) Θεὸς ὁ Σωτὴρ ἡμῶν ὁ
+βουλόμενος πάντας ἀνθρώ-
+πους σωθῆναι καὶ εἰς ἐπί-
+γνωσιν ἀληθείας ἐλθεῖν,
+πρόσδεξαι τὸν δοῦλόν σου
+τόνδε μόλις ἀνανήψαντα
+ἐκ τῆς πλάνης, καὶ ἐπι-
+ποθήσαντα εἰς τὴν ἐπίγνω-
+σιν ἐλθεῖν τῆς ἀληθείας.
+Σὺ γὰρ εἶπας, Κύριε· « Καὶ
+ἄλλα πρόβατα ἔχω, ἃ
+οὐκ ἔστιν ἐκ τῆς αὐλῆς
+ταύτης· κἀκεῖνα με δεῖ
+ἀγαγεῖν, καὶ τῆς φωνῆς
+μου ἀκούσουσι, καὶ γενή-
+σεται μία ποίμνη, εἷς ποι-
+μήν· » Ποίμανον τοίνυν αὐ-
+τὸν ἐν τῇ δόξῃ σου εἰς
+ἐπίγνωσιν τῆς σῆς ἀληθε-
+ίας, κατὰ τὴν ἔκθεσιν τῶν
+ἁγίων σου καὶ ἐνδόξων
+ἀποστόλων· καὶ καταξίω-
+σον αὐτὸν τῆς σφραγῖδος
+τοῦ θείου μύρου καὶ τῆς
+μεταλήψεως τοῦ τιμίου
+σώματος καὶ αἵματος, καὶ
+ἀνάδειξον αὐτὸν τέλειον
+δοῦλόν σου· ἵνα τῇ ποί-
+μνῃ σου συγκαταριθμηθῇ
+καὶ αὐτὸς, εἰς δόξαν καὶ
+ἔπαινον τῆς μεγαλωσύνης
+σου· ὅτι σοῦ ἐστιν ἡ βα-
+σιλεία καὶ ἡ δύναμις,
+ἐκφών. Καὶ χρίει αὐτὸν
+τῷ μύρῳ, καθὰ καὶ τοὺς
+νεοφωτίστους. τὴν αὐτὴν
+ἐντήρησιν [ἐπίῤῥησιν Εὔ-
+cholog. ] ποιούμενος · καὶ
+πάλιν ἐπεύχεται οὕτως·
+Κύριε ὁ Θεὸς ἡμῶν, ὁ
+καταξιώσας τέλειον ἀνα-
+δεῖξαι τὸν δοῦλόν σου τόν-
+δε, διὰ τῆς εἰς σὲ ὀρθοδό-
+ξου πίστεως, καὶ τῆς
+σφραγῖδος τοῦ μύρου τοῦ
+ἁγίου σου, Δέσποτα τῶν
+ἁπάντων, τὴν εἰς σὲ ἀλη-
+θῆ πίστιν ἐν αὐτῷ διατή-
+ρησον· αὔξων αὐτὸν ἐν
+δικαιοσύνῃ, καὶ πᾶσι τοῖς
+παρὰ σοῦ χαρίσμασι κα-
+τακοσμῶν. Εἶθ' οὕτως
+
+# block=15
+le, unus pastor (Joan. x,
+16). › Pasce itaque illum in
+doctrina tua, in agnitio-
+nem veritatis tuæ, juxta
+sanctorum gloriosorum-
+que tuorum apostolorum
+expositionem : et largire
+illi signaculum divini un-
+guenti; ac sumptionem
+pretiosi corporis et san-
+guinis : et fac illum per-
+fectum servum tuum ; ut
+et ipse ovili tuo connume-
+retur, in gloriam et lau-
+dem majestatis tuæ. Ex -
+clam.: Quia tuum est reg-
+num et virtus.
+Et ungit eum chrismate
+seu unguento, sicut et re-
+cens illuminatos, eamdem
+ceremoniam faciens. Ac
+iterum precatur sic : Do-
+mine Deus noster, qui per-
+fectum renuntiare servum
+tuum huncce per ortho-
+doxam in te fidem et san-
+cti tui unguenti signacu-
+lum dignatus es : Domine
+omnium, veram erga te fi-
+dem in illo custodi ; pro-
+movens eum in justitia,
+et omnibus quæ a te oriun-
+tur charismatibus donis-
+que exorna. Sic postea
+communicat. Et qui sancto
+unguento consignatus fuit,
+accipit mundatum ut se-
+ptem illis diebus carnes
+
+# block=3
+(a) Deesse puto ποιεῖ, Euchologii p. 884.

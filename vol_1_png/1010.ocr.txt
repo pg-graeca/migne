@@ -1,0 +1,163 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,204,298,957,991
+2,206,999,954,1511
+3,202,1771,952,2546
+4,990,2032,1744,2547
+5,990,1769,1749,2025
+6,991,117,1749,1472
+7,732,1648,1212,1701
+8,821,2574,1116,2611
+9,603,70,1311,105
+10,203,124,959,290
+11,238,2636,1281,2709
+12,203,74,271,109
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=16px
+# block=7 fontSize=28px
+# block=8 fontSize=15px
+# block=9 fontSize=16px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=12
+1419
+
+# block=6
+conclave clausa, effugato a se dæmone et ostiis
+patefactis cum catenis suis veniens procidit ad
+pedes Petri, dicens : Rectum est, mi domine, ut
+agas hodie hic salutaria mea (5), et non contristes
+neque me neque parentes meos. Petro autem re-
+quirente catenarum sermonumque ejus causam,
+parentes præter spem læti effecti de filiæ sanitate,
+velut stupore quodam attoniti ipsi quidem dicere
+nequeunt, astantes autem famuli aiunt : Hæc a
+septimo ætatis anno a dæmone occupata, omnes
+qui accedere tentassent ad eam, scindere, dila-
+niare morsibus, etiam disrumpere, et hoc per vi-
+ginti annos usque ad præsens facere nunquam de-
+stitit, nec ab aliquo potuit curari, sed ne ac-
+cedere ad eam quisquam valebat; multos enim
+inutiles reddidit, alios et peremit, omnibus enim
+viris validior erat, sine dubio viribus dæmonis nisa.
+Nunc autem, ut vides, ex præsentia tua dæmon
+quidem fugit, ostia vero quæ summo cum muni-
+mento clausa fuerant, aperta sunt, et ipsa sana
+stat ante te rogans, ut diem salutarium suorum
+lætum et ipsi et parentibus facias, et maneas apud
+eos. Hæc cum ita unus ex famulis enarrasset, et
+ipsæ catenæ de manibus ejus ac pedibus fuissent
+sponte resolutæ, Petrus certus quod per ipsum
+sanitas hæc reddita sit puellæ, acquievit manere
+apud eos. Sed et illos qui remanserant in hospitio
+una cum uxore sua transire jussit, et unusquis-
+que acceptis seorsum cubiculis mansimus, atque
+ex more cibo sumpto redditisque laudibus Deo,
+suis singuli requievimus locis.
+
+# block=10
+exclamaverunt et Faustum, omnemque historiam
+quæ eos egerit patefecerint; utque post hæc matri
+cautius, ne subito gaudio interciperetur, ipso insi-
+nuante, oblati sint, Petro.
+
+# block=1
+XXXVII. Sed cum hæc in auditu senis narratione
+gratissima turbis exponeret Petrus, 'ita ut audien-
+tes gestorum miraculis et humanitatis miseratione
+lacrymarent, nescio unde audiens mater de reco-
+gnitione patris, cursu concito irruit in medium
+nostri, cum clamore dicens : Ubi est meus vir,
+meus dominus Faustinianus, qui tam multis tempo-
+ribus affligitur, ambulans per urbes singulas et me
+quærens ? Hæc cum illa quasi amens clamaret et
+circumspiceret, senex accurrens cum multis lacry-
+mis amplecti et constringere eam cœpit. Et cum
+hæc gererentur, Petrus rogavit turbas ut discede-
+rent, dicens inverecundum esse ultra persistere,
+sed dandum eis locum familiarius invicem se vi-
+dendi ; crastino autem hic, inquit, si qui vestrum
+volunt, conveniant ad audiendum verbum.
+
+# block=2
+XXXVIII. His a Petro dictis secesserunt turbæ,
+et cum vellemus nos quoque ire ad hospitium, do-
+minus domus ait ad nos : Turpe est et impium
+tales ac tantos viros manere in stabulo, cum ego
+omnem pene domum vacantem habeam, lectosque
+stratos quamplurimos et quæ necessaria sunt pa-
+rata. Sed Petro contradicente, uxor patrisfamilias
+una cum liberis suis prostrabat se ante eum et
+exorabat dicens : Obsecro te, mane apud nos. Sed
+ne sic quidem acquiescebat Petrus, donec filia eo-
+rum qui rogabant, ab immundo spiritu temporibus
+multis vexata et catenis vincta, quæ fuerat intra
+
+# block=7
+LIBER DECIMUS.
+
+# block=5
+cipere, permaneat amicus. Hi enim qui non id ex
+corde suscipiunt, cum cœperint ferre non posse,
+non solum abjiciunt quod susceperant, sed quasi
+pro excusatione infirmitatis suæ, incipiunt viam
+religionis blasphemare, et male loqui de his quos
+nequaquam sequi aut imitari potuerunt.
+
+# block=3
+1. Mane autem, exorto sole, ego Clemens et Ni-
+ceta atque Aquila una cum Petro venimus ad locum
+in quo pater simul cum matre requiescebat; et
+cum adhuc eos dormientes reperissemus, pro fori-
+bus consedimus, ubi Petrus talibus apud nos ser-
+monibus utitur : Audite me, dilectissimi conservi,
+scio quia grandem habetis affectum erga patrem
+vestrum, vereor ergo ne ante tempus eum perur-
+geatis jugum religionis suscipere, nondum ad id
+paratum, ad quod forte pro vestri gratia videatur
+acquiescere. Sed hoc non est firmum; quod enim
+propter homines fit, probabile non est et cito dila-
+bitur. Ideoque videtur mihi, ut concedatis ei anno
+uno vivere pro arbitrio, in quo potest iter agens
+nobiscum, dum nos alios docemus, etiam ipse sim-
+pliciter audire; et audiens, siquidem agnoscendæ
+veritatis rectum propositum gerit, ipse rogabit ut
+suscipiat religionis jugum, aut si non placet ei re-
+
+# block=4
+II. Ad hæc Niceta respondit : Non contradico,
+domine mi Petre, rectis et bonis consiliis tuis, sed
+dicere aliquid volo, ut per hoc discam quod nescio.
+Quid si intra annum hunc, quo differri eum jubes,
+moriatur pater noster ? descendet in infernum va-
+cuus et cruciandus in æternum. Tum Petrus : Am-
+plector, inquit, benignum erga patrem propositum
+tuum, et ignosco tibi de his quæ ignoras. Quid enim
+censes, quia si quis putatur juste vixisse, iste con-
+tinuo salvabitur ? Non putas eum discutiendum ab
+eo qui occulta hominum novit, quomodo juste vi-
+xerit, ne forte ritu gentilium (6), institutis eorum
+
+# block=8
+COTELERII NOTÆ.
+
+# block=11
+(5) Salutaria mea. Τὰ σωτήρια. Res satis nota vel mediocriter eruditis.
+(6) Gentilium, hoc est ὁμοεθνῶν, non Ἑλλήνων.

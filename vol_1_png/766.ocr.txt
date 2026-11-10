@@ -1,0 +1,196 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,214,151,964,972
+2,1003,1723,1763,2653
+3,994,161,1759,975
+4,215,1551,971,2656
+5,995,1162,1757,1724
+6,213,1456,974,1556
+7,214,1156,968,1457
+8,268,1001,781,1037
+9,252,2675,802,2720
+10,823,1084,1125,1120
+11,624,95,1347,137
+12,217,89,268,128
+14,1681,104,1749,144
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+931
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=14
+932
+
+# block=1
+baret, et dæmonum vim accideret, qui viribus ad
+hominum fraudem ac interitum uterentur; detur-
+bando autem non occideret, sed confringeret; et
+subjiciens ac intuitus, ad Simonem dixit: Si ego
+homo Dei sum, et verus apostolus Jesu Christi, ac
+pietatis doctor, non autem erroris, qualis tu Simon,
+jubeo malis potestatibus illius qui a pietate desci-
+vit, Simonem Magum vehentibus, ut vectionem et
+occupationem dimittant, quo ex alto collabatur, et
+iis quos deceperat; habeatur ludibrio. His a me pro-
+nuntiatis, Simon spoliatus potestatibus, cum magno
+fragore corruit, ac vehementi casu elisus, coxam et
+pedum extrema frangit. Tunc vulgus exclamavit:
+Unus Deus, quem Petrus juste annuntiat revera
+solum; et multi a Simone defecerunt; aliqui ta-
+men, digni illius interitu, in doctrina ejus nefaria
+perseverarunt. Atque hoc pacto prima et impissima
+Simonianorum hæresis recepta est Romæ. Sed et per
+reliquos pseudoapostolos diabolus operabatur.
+
+# block=3
+ἀπάτῃ καὶ ἀπωλείᾳ ἀνθρώπων κεχρημένων αὐτῇ,
+ῥάξαντα ⁸¹ (27) δὲ μὴ θανατῶσαι, ἀλλὰ συντρίψαι·
+καὶ ὑπολαβὼν, ἀτενίσας εἶπον τῷ Σίμωνι· Εἰ Θεοῦ
+ἄνθρωπος ἐγὼ, ἀπόστολος δὲ Ἰησοῦ Χριστοῦ ἀληθὴς,
+καὶ διδάσκαλος εὐσεβείας, ἀλλ' οὐ πλάνης (28), οἷος σὺ,
+Σίμων, προστάσσω ταῖς πονηραῖς δυνάμεσι τοῦ τῆς
+εὐσεβείας ἀποστάτου, ἐφ' αἷς ὀχεῖται Σίμων ὁ Μά-
+γος, ἀφεῖναι τῆς κρατήσεως, ὅπως ἐξ ὕψους κατε-
+νεχθῇ εἰς γέλωτα τῶν ἀπατηθέντων ὑπ' αὐτοῦ. Καὶ
+εἰπόντος μου ταῦτα, περικοπεὶς τῶν δυνάμεων ὁ Σί-
+μων, κατηνέχθη μετὰ μεγάλου ἤχου, καὶ ῥαγεὶς ἐξαί-
+σιον ⁸², συντρίβεται τὸ ἰσχίον καὶ τῶν ποδῶν τοὺς
+ταρσούς (29). Καὶ φωνὴ τῶν ὄχλων λέγουσα· Εἷς ὁ
+Θεὸς, ὃν Πέτρος δικαίως καταγγέλλει τῇ ἀληθείᾳ μό-
+νον· καὶ πολλοὶ ἀπέστησαν ἀπ' αὐτοῦ· τινὲς δὲ ἄξιοι
+τῆς ἀπωλείας αὐτοῦ ὄντες, παρέμειναν αὐτοῦ τῇ μο-
+χθηρᾷ διδασκαλίᾳ. Καὶ οὕτω πρώτη ἐπάγη (30) ἡ
+τῶν Σιμωνιανῶν ἀθεωτάτη αἵρεσις ἐν Ῥώμῃ, καὶ διὰ
+τῶν λοιπῶν ψευδαποστόλων ἐνήργει ὁ διάβολος.
+
+# block=8
+⁸¹ al. ῥήξαντα.  ⁸² al. add. πτῶμα.
+
+# block=10
+VARIORUM NOTÆ.
+
+# block=7
+(27) Ῥάξαντα, vel ῥήξαντα. Perinde est. Ideo-
+que hac ipsa in narratione pseudo-Chrysostomus
+serm. de pseudo-prophetis, tom. VI, ῥήξας. Basilius
+Seleuciensis lib. I De Vita S. Theclæ, edit. Paris.
+p. 268, καταῤῥήξας. Nicephorus Callisti filius lib. II,
+cap. 36, et Anonymus qui de Francis aliisque Lati-
+nis scripsit tom. II Auctarii Combefisiani p. 429,
+διερῤάγη. Codrenus vero, καταῤῥάξαι. Theodoritus
+Hæret. fabularum I, 1, κατέῤῥαξε. Cot.
+
+# block=5
+σεν εἰς τόπον καλούμενον Σάκρα βία, ὅ ἐστιν ἱερὰ
+ὁδός· καὶ τέσσαρα μέρη γενόμενος, τέσσαρας στήλι-
+κας συνήνωσεν· οἵ εἰσιν εἰς μαρτύριον τῆς τῶν ἀπο-
+στόλων νικήσεως, ἕως τῆς σήμερον ἡμέρας. Lege f.
+συνήρμοσεν, hoc est, cruore conspersit, quanquam
+Acta Latina nomine Marcelli, quæ Lucæ anno 1668
+in publicum protulit Franciscus Maria Florentinus
+ad vetustius Ecclesiæ Occidentalis martyrologium:
+Cecidit in locum, qui Sacra Via dicitur; et in qua-
+tuor partes fractus (vel potius factus) quatuor sili-
+ces adunavit, qui sunt ad testimonium victoriæ apo-
+stolorum, usque in hodiernum diem. Ib.
+(30) Ἐπάγη. A πήγω, πηγγύω. Verum Cedrenus
+accepisse videtur quasi esset ab ἐπάγω, ἐπάγνυμι :
+non parvo errore. Ita enim nostrum exscribit: Oὕ-
+τως ἡ πρώτη κατελύθη τῶν Σιμωνιανῶν αἵρεσις ἐν
+Ῥώμῃ.
+
+# block=6
+(28) Ἀλλ' οὐ πλάνης. Notanda varia lectio Geor-
+gii Cedreni loco citato, necnon Michaelis Glycæ An-
+nalium parte III, p. 235, D, πλάνος. Ib.
+
+# block=4
+(29) Συντρίβεται τὸ ἰσχίον καὶ τῶν ποδῶν τοὺς
+ταρσούς. Lib. II, cap. 14. Cedrenus, Glycas, συν-
+ετρίβη. Lapsitis hujus lemma, hic, συνετρίβη τοὺς
+πόδας καὶ τὼ χεῖρε τοὺς ταρσούς: in versione Bovii,
+fregit pedes et manus. Narrat Clemens, Hegesippus,
+Justinus, Irenæus, de Justino ac Irenæo, falso: de
+pseudo-Clemente, eo locum : at pseudo-Hegesippus
+laudatus etiam ab Hincmaro Opusculo I, cap. 32,
+et Arnobius crurifragii solummodo meminere; Ma-
+ximus Taurin. crurum confractorum, plantarumque
+amissarum. Aliter in Niceta Choniate Thesauri
+lib. IV, cap. 1, nempe quod Simon in caput colla-
+psus cerebro viam disperserit. Apud Damascenum
+vero Parallelorum lib. I, cap. 56, Eusebii nescio
+cujus sententia est, Mago corpus omnino perfra-
+ctum. Totus fractus corpore, debilitatisque cruribus,
+Audias Græca Metaphrastis: Ὁ Σίμων τοῦ ἀέρος
+ἐξολισθήσας, κατὰ γῆς ἐλεινῶς [al. ἐλεεινῷ] φέ-
+ρεται καὶ ἀθλίῳ τῷ πτώματι· καὶ συντριβεὶς ἅπαν
+τὸ δύστηνον σῶμα, δευτεραῖος τὴν ἀθλίαν ψυχὴν ἀποῤ-
+ῥήγνυσι, δριμείαις ἀλγηδόσι κατατεινόμενος. Et car-
+mine Walafridi Strabi, vel Fortunati, de S. Petro,
+tom. VI Antiquæ lectionis Canisii, p. 689, 690:
+Insuper et magicum falsi phantasma Simonis
+Funditus evacuans, tetras detrusit in umbras,
+Romanum vulgus solvens errore vetusto :
+Qui præcelsa rudis scandit fastigia turris,
+Atque coronatus lauri de fronde volavit :
+Sed mox ætherias dimittens furcifer auras,
+Cernuus ad terras confractis ossibus ambro (a)
+Corruit et Petro cessit victoria bello.
+A quibus omnibus discedere licet per hæc, sumpta
+ex Actis mss. Petri et Pauli, cod. Reg. 1045: Ἔπε-
+
+# block=2
+Quæres dubio procul, quid sentiendum videatur
+de stupendo, et ut Isidorus Pelusiota lib. I, epist.
+15, appellat, celeberrimo Simonis interitu. Ego præ-
+claræ illius sententiæ memor, Periculosum est cre-
+dere et non credere, nec assevero neque pernego,
+sed ἐπέχω plerumque. Cui cordi erunt hujusmodi
+miracula (sunt autem non paucis), habet in præsenti
+auctoritatem plurimorum gravissimorumque utrius-
+que Ecclesiæ magistrorum; etiam, præter hisce no-
+tis indicatos, Epiphanii hæresi 21, n. 5; Hieronymi
+aut alterius ad psalmum IX; pseudo-Ambrosii ad Ro-
+man. VIII, 38, et Græcorum XXIX Junii. Qui vero ad
+diffidentiam propendebit magis (quo morbo magna
+pars eruditorum hodie jactatur) retractabitur ab as-
+sensu; partim narrationis origine, e libris apocry-
+phis et pseudepigraphis; partim discrepantia refe-
+rentium; partim silentio multorum, præsertimque
+Romanorum pontificum, qui sua tacere non solent;
+partim ob adnotationem S. Augustini scribentis ad
+Casulanum: Est quidem et hæc opinio plurimorum;
+quamvis eam perhibeant esse falsam plerique Romani;
+quod apostolus Petrus cum Simone Mago die Domi-
+nico certaturus, propter ipsum magnæ tentationis pe-
+riculum, pridie cum ejusdem urbis Ecclesia jejuna-
+verit, et consecuto tam prospero gloriosoque successu,
+eumdem morem tenuerit, eumque imitatæ sint non-
+nullæ Occidentis Ecclesiæ. Certe obscuram valde ac
+incertam Romæ fuisse eam famam innuit satis Liber
+
+# block=9
+(a) Festus : « Ambro, turpis vitæ homo. »

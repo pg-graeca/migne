@@ -1,0 +1,98 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1120,1195,1739,2272
+2,1123,2511,1730,2665
+3,191,1182,1089,2243
+4,181,2501,1077,2687
+5,1337,1116,1524,1153
+6,196,165,1098,852
+7,1117,175,1738,853
+8,1330,2427,1539,2465
+9,733,103,1188,141
+10,201,870,1739,968
+11,1673,102,1749,154
+12,193,98,279,146
+13,513,1084,769,1162
+14,481,2400,789,2474
+15,247,2702,471,2756
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=16px
+# block=10 fontSize=15px
+# block=11 fontSize=16px
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+437
+
+# block=11
+438
+
+# block=9
+EPISTOLA II AD VIRGINES.
+
+# block=7
+cum periculo vitæ in justitia perse-
+verantem.
+Pensate, fratres, qualis libidinis
+ardor justum hunc invasisset, si
+oculos ipse in ejus Ægyptiæ corpus
+injicere consuevisset ? Tali exemplo
+docti, nequaquam apud mulieres ac
+virgines assidue perstemus : id enim
+proposito refragatur eorum qui im-
+maculatos se custodire volunt. Cha-
+ritas enim qua sorores diligere de-
+bemus, comites habere debet om-
+
+# block=10
+nem sanctitatem, castitatem, mentis energiam omnimodam, Deique timorem; nec fre-
+quentem apud illas commorationem, aut assiduum in quavis hora accessum admittit.
+
+# block=5
+CAPUT IX.
+
+# block=1
+Num vobis ignota est historia
+Samsonis Nazaræi virique fortissi-
+mi, in quo Spiritus Dei habitavit ?
+Iste segregatus ac Deo consecratus
+fuit, miraque fortitudo in eo exstitit
+atque robur; hunc tamen perdidit
+mulier, vilis corpusculi illecebris,
+quibus cor ejus misere incendit.
+Non illum, quicunque es, imitare.
+Noveris te, nec tua te lateat dignitas;
+mulier autem viri pretiosam animam
+capit ⁶⁰. Impense igitur suademus
+viro ne apud cujusvis hominis uxo-
+rem immoretur, nedum licentiam
+ei demus idem cum puella nubili
+tectum habendi, aut somnum car-
+pendi ubi quiescit illa, nec frequen-
+ter illam adeundi, quod odibile est,
+ac timori Dei prorsus alienum.
+
+# block=8
+CAPUT X.
+
+# block=2
+Nonne documento tibi est exem-
+plum Davidis quem invenerat Deus
+virum secundum cor suum, fidelem,
+
+# block=15
+⁶⁰ Prov. vi, 26.

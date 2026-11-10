@@ -1,0 +1,203 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,163,144,943,2724
+2,651,86,1256,131
+3,166,90,268,138
+4,1636,92,1732,134
+5,958,148,1728,2728
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=163 source_y1=144 source_x2=943 source_y2=2724
+§ II. — De officiis Christianorum. 175
+Articulus III. — De erratis veris vel falsis S. Clemen-
+tis. 176
+Articulus IV. — Variæ editiones epistolarum S. Cle-
+mentis. 179
+D. Hefelii præfatio. 183
+S. CLEMENTIS OPERA GENUINA.
+EPISTOLA I AD CORINTHIOS.
+Argumentum. 199
+Index capitum. 199
+Incipit epistola. 202
+EPISTOLA II AD CORINTHIOS.
+Argumentum. 329
+Index capitum. 329
+Incipit epistola. 330
+S. CLEMENTIS EPISTOLÆ DUÆ AD VIRGINES Sy-
+riace et Latine, interprete D. Cl. Villecourt, Rupellensi
+et Santonensi episcopo.
+Interpretis epistola dedicatoria. 349
+Ejusdem dissertatio prævia. 355
+Ratio hujus novæ publicationis. 355
+Pretium hujus monumenti antiqui. 357
+Momenta quæ astruunt utriusque epistolæ authentici-
+tatem. 358
+Insulsæ Wetstini invectivæ. 361
+Responsio invectivis Wetstini. 362
+Compensatio injustitiæ præcedentis. 364
+Expenduntur et refelluntur rationes quibus D. de Pre-
+magny in dubium revocat authenticitatem ambarum epi-
+stolarum S. Clementis. 364
+EPISTOLA PRIOR S. CLEMENTIS AD VIRGINES.
+379
+EPISTOLA SECUNDA. 417
+Superiorum epistolarum fragmenta. 453
+S. CLEMENTIS OPERA DUBIA.
+EPISTOLÆ DECRETALES.
+Monitum D. Constantii in epistolam I. 459
+Epist. I. — Ad Jacobum fratrem Domini. 463
+Epist. II. — Ad eumdem. — De sacratis vestibus et
+vasis. 483
+Epist. III. — Ad episcopos, presbyteros, diaconos, etc.,
+et universos fideles. — De officio sacerdotis et clerico-
+rum. 491
+Epist. IV. — Ad discipulos suos Julium et Julianum,
+qui malorum hominum persuasionibus aliquatenus a recta
+via declinaverant, et his atque gentibus, inter quas ha-
+bitabant, directa. 501
+Epist. V. — De communi vita et reliquis causis, suis
+discipulis scripta, Hierosolymitanisque directa. 505
+Fragmenta. 509
+CONSTITUTIONES APOSTOLICÆ.
+Proœmia. 509
+Judicium J. B. Cotelerii de Constitutionibus apostoli-
+cis. 509
+Judicium Francisci Pagi de Constitutionibus et canoni-
+bus apostolicis. 519
+Adnotatio critica et chronologica in Constitutiones
+apostolicas. 521
+Dissertatio de Constitutionibus apostolicis editis ab
+Hippolyto episcopo Portuensi.
+CAP. I. — Titulus in Constitutionibus apostolicis corru-
+ptus restituitur. Clemens Romanus et Hippolytus in his
+colligendis adlaborarunt. Paulus Samosatenus Constitu-
+tionum corruptor. 523
+CAP. II. — Quis primus Constitutionum corruptor.
+528
+CAP. III. — Quænam causa Hippolytum ad hoc opus in-
+citaverit. Constitutiones potissimum Tertulliano et Monta-
+nistis oppositæ. 535
+Veterum testimonia de Constitutionibus apostolicis.
+543
+CONSTITUTIONES SANCTORUM APOSTOLORUM
+per Clementem episcopum et civem Romanum seu catho-
+lica doctrina.
+LIBER PRIMUS. — De laicis. 557
+CAP. I. — De avaritia. 559
+CAP. II. — De non reddenda contumelia, nec ulciscen-
+do eo qui injuriam fecit. 561
+CAP. III. — De ornatu, et peccato inde proficiscente.
+563
+CAP. IV. — Quod non oportet de iis qui male vivunt sa-
+tagere, sed operi suo vacare. 569
+CAP. V. — Quos Scripturæ libros oporteat legere. 569
+CAP. VI. — Quod oporteat abstinere ab omnibus Genti-
+lium libris. 569
+CAP. VII. — De muliere prava. 575
+CAP. VIII. — De uxoris virum diligentis et castæ sub-
+jectione erga maritum. 577
+
+# block=2 source_x1=651 source_y1=86 source_x2=1256 source_y2=131
+QUÆ IN HOC TOMO CONTINENTUR.
+
+# block=3 source_x1=166 source_y1=90 source_x2=268 source_y2=138
+1477
+
+# block=4 source_x1=1636 source_y1=92 source_x2=1732 source_y2=134
+1478
+
+# block=5 source_x1=958 source_y1=148 source_x2=1728 source_y2=2728
+CAP. IX. — Quod mulier non debet cum viris lavare.
+586
+CAP. X. — De muliere contentiosa et loquace. 587
+LIBER SECUNDUS. — De episcopis, presbyteros et dia-
+conis. 591
+CAP. I. — Quod oporteat episcopum esse eruditum, et
+in sermone exercitatum. 591
+CAP. II. — Qualem esse oporteat episcopum, et reli-
+quos clericos. 598
+CAP. III. — In quibus probandus sit qui designatur in
+episcopum. 598
+CAP. IV. — Quod non cuilibet viduæ sit largiendum ;
+sed quandoque sit anteponenda nupta ; et quod voraci,
+ebrioso, pigro, eleemosyna non sit præbenda. 599
+CAP. V. — Quod non oportet episcopum in judicio esse
+acceptorem personarum ; quodque debeat esse moribus
+moderatis, et victu frugali. 602
+CAP. VI. — Episcopus ne sit turpi lucro deditus, nec fi-
+dejussor, nec advocatus. 602
+CAP. VII. — Qualem oportet esse eum qui per bapti-
+smum est initiatus. 607
+CAP. VIII. — De eo qui in calumniam, vel reprehensio-
+nem incurrit. 607
+CAP. IX. — Episcopum non debere esse muneribus
+pervium. 607
+CAP. X. — Quod episcopus, qui temere parcit pecca-
+tori, culpa non careat. 610
+CAP. XI. — Quomodo oporteat peccatores ab episcopo
+judicari. 611
+CAP. XII. — Doctrina de modo quo pœnitentes tractan-
+di sunt. 614
+CAP. XIII. — Fugiendam esse delictorum experientiam.
+615
+CAP. XIV. — De iis qui affirmant non debere recipi
+pœnitentem ; et de justo, quod licet cum peccatore ver-
+setur, non tamen cum eo pereat. 618
+CAP. XV. — Quod sacerdotes nec peccata negligere de-
+beat, nec promptus esse ad vindictam. 623
+CAP. XVI. — De pœnitentia, et quis illius modus, et
+quo pacto peragatur. 626
+CAP. XVII. — Episcopum debere esse irreprehensibi-
+lem, utpote formam subjectorum. 627
+CAP. XVIII. — Quod oportet episcopum curare ne
+peccet plebs, quia ipse est speculator. 630
+CAP. XIX. — Quod pastor ovium negligens, pœnas sol-
+vat ; et ovis, non obediens pastori, puniatur. 634
+CAP. XX. — Quomodo subjecti præpositis sibi episco-
+pis obedire debeant. 634
+CAP. XXI. — Quod periculum sit, una tantum parte au-
+dita, judicare, et pœnam decernere contra eum qui non-
+dum convictus est. 638
+CAP. XXII. — Quod magnum pœnitentiæ exemplum in
+Davide proponatur ; item in Ninivitis, in Ezechia, et in
+filio illius Manasse. 642
+CAP. XXIII. — In eos, qui ex contemptu peccant, exem-
+plum sit Amon. 650
+CAP. XXIV. — Quod Christus Jesus Dominus ideo ad-
+venit, ut per pœnitentiam servaret peccatores. 651
+CAP. XXV. — De primitiis et decimis ; et quomodo de-
+beat episcopus, ex eis vel ipse accipere, vel aliis distri-
+buere. 659
+CAP. XXVI. — Ad cujus formam et dignitatem unusquis-
+que de clero, a Deo sit ordinatus. 665
+CAP. XXVII. — Quod horrenda res sit, hominem im-
+mittere se in aliquam dignitatem sacerdotalem ; ut Cori-
+tæ, ut Saul, ut Ozias. 670
+CAP. XXVIII. — De convivio ; et qua ratione quilibet
+cleri ordo a vocatoribus honorandus sit. 671
+CAP. XXIX. — Quæ sit dignitas episcopi, et diaconi.
+673
+CAP. XXX. — Quomodo oportet laicos obedire diaco-
+nis. 673
+CAP. XXXI. — Quod non oporteat diaconum sine epi-
+scopo quidquam facere. 678
+CAP. XXXII. — Quod non oporteat diaconum præter vo-
+luntatem episcopi dare cuipiam ; id enim in calumniam
+episcopi cessurum. 678
+CAP. XXXIII. — Quomodo oporteat sacerdotes, utpote
+patres spirituales, honorare ac veneratione dignos habe-
+re. 679
+CAP. XXXIV. — Quod principibus ac regibus præstan-
+tiores sint sacerdotes. 682
+CAP. XXXV. — Quod Judaicæ leges, et Evangelium,
+præcipiant munerum oblationem. 683
+CAP. XXXVI. — Commemoratio decem Dei mandato
+rum, et quomodo ea hic edisserunt. 686
+CAP. XXXVII. — De accusatoribus et delatoribus ; et

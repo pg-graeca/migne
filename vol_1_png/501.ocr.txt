@@ -1,0 +1,94 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,162,2247,1712,2723
+2,1073,152,1702,1196
+3,1083,1612,1706,2213
+4,1080,1215,1700,1598
+5,143,126,1046,2220
+6,695,62,1127,106
+7,1621,68,1686,103
+8,135,66,217,112
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=6
+EPISTOLA I AD VIRGINES.
+
+# block=8
+401
+
+# block=7
+402
+
+# block=2
+sed quædam loquimur conspicien-
+tes infamiam pravosque rumores
+natos ex vita hominum impuden-
+tium qui, sub pietatis prætextu,
+cum virginibus habitant, vel cum
+eis deserta loca petentes, absque ar-
+bitris et testibus, animam suam pe-
+riculo exponunt in via quæ insidiis
+plena est, offendiculis ac foveis.
+Talis vita Christianos divinoque ti-
+more motos prorsus non decet ⁸⁹.
+Alii autem mensæ accumbentes
+ut manducent et bibant cum virgi-
+nibus, et viris qui sancti reputan-
+tur, omni relaxationum generi in-
+dulgent, imo indecoris licentiis quæ
+fidelibus omnibus, multo vero ma-
+gis his qui se manciparunt vitæ
+sanctæ indignæ sunt.
+
+# block=4
+Alii vero, cum otio semper tor-
+pescant, ad colloquia vana inutilia-
+que et ad cachinnos conveniunt;
+sequitur postea de aliis detractio
+vel ad detractionem excitatio. Cum
+ejusmodi suademus ne cibum qui-
+dem sumere ⁹⁰.
+
+# block=3
+Quidam penetrant domos illorum
+vel illarum qui virginitati se devo-
+verunt, sub obtentu visitationis,
+lectionis Scripturarum, exorcismo-
+rum aut doctrinæ, quibus suam er-
+ga illos sollicitudinem ostentant.
+Sed reipsa sola ducuntur otiositate,
+cum sint ipsi non solum otiosi, sed
+et verbosi, et curiosi, loquentes
+quæ non oportet ⁹¹. Hi, per dulces
+sermones, quæstum venantur in no-
+
+# block=1
+⁸⁹ Taxat ibi sanctus Clemens hæreticos hujus ævi, discipulos Simonis, Menandri, Saturnili
+(quidam historici illum Saturninum vocant), Basilidis et Nicolai. «Simon Magus, ait sanctus Epi-
+phanius, quamdam mulierculam nomine Helenam nactus, patria Tyriam, sibi eam copulat, quacum pa-
+lam nullam habere se necessitudinem simulans, homo vafer, clam omni se in libidinum genere voluta-
+bat... Menander, discipulus Simonis, ab ejus dogmate non dissentiebat, nisi quod majorem se anteces-
+sore suo jactabat. Saturnilus nuptias condemnabat, ejusque discipulus Basilides nullum non genus pravi-
+tatis libidinisque permittebat. Nicolaus e numero septem diaconorum fuit qui ab apostolis delecti fue-
+rant... Uxorem habuit, ab eaque sibi aliquando temperavit, ut eos imitaretur quos Deo penitus addictos
+cernebat. Sed intemperantiam suam perpetuo coercere non potuit; imo in omne genus libidinis, contu-
+meliæ ac pravitatis erupit» (Sanctus Epiph. Adv. hær., l. 1). Cur autem sanctus Clemens non nominat hos
+nefandos hæreticos quos debellat? Quia satis jam noti erant. Præterea suscitandi non erant novi hostes
+contra Ecclesiam quæ undique persecutionibus conflagrabat. Cæterum, expresse declarat sanctus Epi-
+phanius nostrum pontificem, in his de virginitate epistolis, contra istos hæreticos colluctasse. ⁹⁰ I Cor.
+v, 11. ⁹¹ I Tim. v, 13.

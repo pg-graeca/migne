@@ -1,0 +1,162 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,183,151,944,2156
+2,187,2657,945,2726
+3,186,2458,946,2660
+4,183,2170,1741,2282
+5,809,2318,1107,2354
+6,607,93,1330,133
+7,974,147,1750,2153
+8,982,2394,1754,2731
+9,187,2389,936,2463
+10,191,95,260,128
+11,1659,92,1739,136
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=183 source_y1=151 source_x2=944 source_y2=2156
+μένη (89). Θάλασσα κυμαινομένη, καὶ μυρίαν βό-
+σκουσα ζώων ἀγέλην, πεπέδηται ἄμμῳ, τὴν σὴν
+βούλησιν περρικυῖα · καὶ πάντα ἀναγκάζει βοᾷν ·
+« Ὡς ἐμεγαλύνθη τὰ ἔργα σου, Κύριε· πάντα ἐν σοφίᾳ
+ἐποίησας · ἐπληρώθη ἡ γῆ τῆς κτίσεώς σου. » Καὶ
+στρατὸς ἀγγέλων φλεγόμενος, καὶ πνεύματα νοερά,
+λέγουσιν · « Εἷς ἅγιος τῷ Φελμονεὶ (90) · » καὶ σε-
+ραφὶμ ἅγια, ἅμα τοῖς χερουβὶμ, τοῖς ἑξαπτερύγοις,
+σοὶ τὴν ἐπινίκιον ᾠδὴν ψάλλοντα, ἀσιγήτοις φωναῖς
+βοῶσιν (91) · « Ἅγιος, ἅγιος, ἅγιος Κύριος Σαβαὼθ·
+πλήρης ὁ οὐρανὸς καὶ ἡ γῆ τῆς δόξης σου· » καὶ τὰ
+ἕτερα τῶν ταγμάτων πλήθη, ἄγγελοι, ἀρχάγγελοι,
+θρόνοι, κυριότητες, ἀρχαὶ, ἐξουσίαι, δυνάμεις, ἐπι-
+βοῶντα λέγουσιν · « Εὐλογημένη ἡ δόξα Κυρίου ἐκ
+τοῦ τόπου αὐτοῦ. » Ἰσραὴλ δὲ, ἡ ἐπιγεὶς σου Ἐκ-
+κλησία, ἡ ἐξ ἐθνῶν, ταῖς κατ' οὐρανὸν δυνάμεσιν
+ἀμιλλωμένη, νυκτὶ καὶ ἡμέρᾳ, ἐν καρδίᾳ πλήρει καὶ
+ψυχῇ θελούσῃ, ψάλλει · «Τὸ ἅρμα τοῦ Θεοῦ μυριοπλά-
+σιον, χιλιάδες εὐθηνούντων, Κύριος ἐν αὐτοῖς, ἐν Σι-
+ναῖν, ἐν τῷ ἁγίῳ. » Οἶδεν οὐρανὸς τὸν ἐπὶ μηδενὸς
+αὐτὸν καμαρώσαντα, ὡς λιθόκυβον · καὶ γῆν καὶ
+ὕδωρ ἑαυτοῖς ἑνώσαντα · καὶ ἀέρα διαχέαντα, ζωο-
+τρόφον, καὶ τούτῳ πῦρ συμπλέξαντα, εἰς θάλπος,
+καὶ σκότους παραμυθίαν. Ἐκπλήσσει χορὸς ἀστέρων,
+τὸν ἀριθμήσαντα σημαίνων, καὶ τὸν ὀνομάσαντα
+δεικνύων · ζῶα τὸν ψυχώσαντα · δένδρα τὸν ἐκφύ-
+σαντα. Ἅπερ ἅπαντα, τῷ σῷ λόγῳ γενόμενα, παρ-
+ιστᾷ τῆς σῆς δυνάμεως τὸ κράτος · διὸ καὶ ὀφείλει
+πᾶς ἄνθρωπος, ἐξ αὐτῶν στέρνων, σοὶ διὰ Χρι-
+στοῦ τῶν ¹⁵ ὑπὲρ πάντων ὕμνον ἀναπέμπειν,
+διὰ σὲ τῶν ἁπάντων κρατῶν. Σὺ γὰρ εἶ ὁ χρηστὸς ἐν
+εὐεργεσίαις, καὶ φιλόδωρος ἐν οἰκτιρμοῖς · ὁ μόνος
+παντοκράτωρ · ὅτε γὰρ θέλεις, πάρεστί σοι τὸ δύνα-
+σθαι · τὸ γὰρ σὸν αἰώνιον κράτος καὶ φλόγα κατα-
+ψύχει, καὶ λέοντας φιμοῖ, καὶ κήτη καταπραΰνει,
+καὶ νοσοῦντας ἐγείρει, καὶ δυνάμεις μετατρέπει· καὶ
+στρατὸν ἐχθρῶν, καὶ λαὸν ἀριθμούμενον, ἐν τῷ ὑπερ-
+ηφανεύεσθαι, καταστρώννυσι. Σὺ εἶ ὁ ἐν οὐρανῷ, ὁ
+ἐπὶ γῆς, ὁ ἐν θαλάσσῃ, ὁ ἐν περατουμένοις (92),
+ὑπὸ μηδενὸς περατούμενος · τῆς γὰρ μεγαλωσύνης σου
+οὐκ ἔστι πέρας. Μὴ γὰρ ἡμέτερόν ἐστι τοῦτο , Δέ-
+σποτα· τοῦ θεράποντός σού ἐστι λόγιον, φάσκοντος· « Καὶ
+γνώσῃ τῇ καρδίᾳ σου, ὅτι (93) ὁ Κύριος ὁ Θεός σου,
+Θεὸς ἐν οὐρανῷ ἄνω, καὶ ἐπὶ τῆς γῆς κάτω, καὶ
+οὐκ ἔστιν ἔτι πλὴν αὐτοῦ. » Οὐδὲ γάρ ἐστι Θεὸς πλὴν
+σοῦ μόνου · ἅγιος οὐκ ἔστι πλὴν σοῦ, Κύριος Θεὸς
+
+# block=2 source_x1=187 source_y1=2657 source_x2=945 source_y2=2726
+(91) Ἀσιγήτοις φωναῖς βοῶσιν, etc. S. Joannes
+Chrysostomus, De instituenda secundum Deum vita.
+
+# block=3 source_x1=186 source_y1=2458 source_x2=946 source_y2=2660
+(90) Εἷς ἅγιος τῷ Φελμονεί. Petita hæc ex ver-
+sione Danielis, cap. VIII, 13, ab homine, qui ne-
+sciebat Hebraice; alioqui vertisset τῷ δεῖνι, quæ
+nota est significatio vocis Hebraicæ פלמוני Phalmoni,
+vel τινί ποτε, ut habebat Symmachus, alteri nescio
+cui, ut recte Hieronymus. ID.
+
+# block=4 source_x1=183 source_y1=2170 source_x2=1741 source_y2=2282
+⁸ Psal. CIII, 24. ¹⁰ Dan. VIII, 13. ¹¹ Isa. VI, 3. ¹² Ezech. III, 12. ¹³ Psal. LXVII, 18. ¹⁴ Isa. XL, 22;
+IV Esd. XVI, 60; Job XXXVIII, 38, in LXX. · ¹⁵ f. τόν. Sic cod. Vind. ¹⁶ Dan. III, VI. ¹⁷ Jon. II. ¹⁸ IV
+Reg. XIX. ¹⁹ Psal. CXLIV, 3.
+
+# block=5 source_x1=809 source_y1=2318 source_x2=1107 source_y2=2354
+VARIORUM NOTÆ.
+
+# block=6 source_x1=607 source_y1=93 source_x2=1330 source_y2=133
+CONSTITUTIONES APOSTOLICÆ. — LIB. VII.
+
+# block=7 source_x1=974 source_y1=147 source_x2=1750 source_y2=2153
+. firmata ac suspensa super nihilum. Mare fluctibus
+agitatum, ac innumerabiles nutriens animalium co-
+pias, arena restringitur, tuam voluntatem veri-
+tum; omnesque cogit vociferari : « Quam magnifi-
+cata sunt opera tua, Domine! omnia in sapientia
+fecisti; impleta est terra creatura tua ⁸. » Et exer-
+citus angelorum ardens, ac intelligentes spiritus
+dicunt : « Unus sanctus, Phelmoni ¹⁰ : » et sancti
+seraphini, una cum cherubinis, sex alas habenti-
+bus, tibi victoriæ canticum psallentes, vocibus
+nunquam cessantibus clamant : « Sanctus, sanctus,
+sanctus, Dominus Sabaoth; pleni sunt cœli et terra
+gloria tua ¹¹; » et aliæ ordinum multitudines, an-
+geli, archangeli, throni, dominationes, principatus,
+potestates, virtutes, exclamantes dicunt : « Bene-
+dicta gloria Domini de loco suo ¹², » Israel vero,
+terrena Ecclesia tua, ex gentibus congregata, cer-
+tans cum cœlestibus virtutibus, nocte ac die, in
+corde pleno et anima volente, canit : « Currus Dei
+decem millibus multiplex, millia lætantium; Do-
+minus in eis, in Sinai, in sancto ¹³. » Novit cœlum
+eum, qui super nihilum cameravit illud, tanquam
+lapideum cubum; qui terram et aquam inter se
+adunavit; qui aerem, animalium nutritium, diffu-
+dit, eique ignem connexuit, ad calorem, et ad so-
+latium de tenebris ¹⁴. Obstupefacit chorus stella-
+rum, qui numerantem eas significat, et nominan-
+tem ostendit; ut animalia demonstrant eum a quo
+animata sunt, et arbores cum qui illas produxit.
+Quæ omnia, verbo tuo facta, potestatis tuæ vim re-
+præsentant. Atque ideo debet omnis homo, utpote
+per te dominus universorum, ex pectore tibi lau-
+dem pro cunctis mittere per Christum. Tu enim es
+facilis in beneficientiis et munificus in commisera-
+tionibus; qui solus es omnipotens : cum enim vis,
+adest tibi potestas; nam æternum tuum robur etiam
+flammam refrigerat, et leonibus os constringit ¹⁶,
+et cetos demulcet ¹⁷, et ægrotantes erigit, et facul-
+tates rerum convertit; et hostium copias, populum-
+que numeratum, dum superbia exoritur, proster-
+nit ¹⁸. Tu es qui in cœlo existis, qui in terra, qui
+in mari, qui in terminatis, a nullo terminatus :
+magnitudinis enim tuæ non est terminus ¹⁹. Neque
+vero nostrum est illud, Domine; famuli tui oracu-
+lum est, dicentis : « Et cognosces corde tuo, quod
+Dominus Deus tuus, Deus in cœlo sursum, et in
+
+# block=8 source_x1=982 source_y1=2394 source_x2=1754 source_y2=2731
+tom. V, serm. 10 : Ἀσιγήτοις βοῶντα κραυγαῖς, etc.
+Hippolytus Portuensis in Collectaneis Anastasii
+Bibliothecarii p. 209 : ἀσιγήτῳ φωνῇ βοῶντα. IB.
+(92) Περατουμένοις. In cod. Vind. est περαιου-
+μένοις et vox περαιούμενος : eodem tamen sensu,
+qui est : qui es in rebus quas transgrederis, et quem
+nihil transgreditur, quamvis περαιούμαι apud Græ-
+cos accuratiores transitivam vim obtineat. CL.
+(93) Ὅτι. Præmittitur in cod. Vindob. καὶ
+συνήσεις, et scies. ID.
+
+# block=9 source_x1=187 source_y1=2389 source_x2=936 source_y2=2463
+(89) Κρεμαμένη. Habet codex Vind. κεκρέμα-
+σται in præterito, minus commode. COT.
+
+# block=10 source_x1=191 source_y1=95 source_x2=260 source_y2=128
+1029
+
+# block=11 source_x1=1659 source_y1=92 source_x2=1739 source_y2=136
+1030

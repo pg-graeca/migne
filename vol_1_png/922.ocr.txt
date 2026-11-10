@@ -1,0 +1,182 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,242,224,989,1077
+2,234,1086,986,2037
+3,1024,532,1769,1083
+4,1020,1090,1771,2068
+5,1028,140,1774,523
+6,239,2251,991,2713
+7,645,85,1352,125
+8,833,2202,1131,2238
+9,220,2094,1771,2169
+10,239,140,992,217
+11,1684,83,1778,131
+12,236,75,334,123
+13,1016,2263,1768,2717
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+1243
+
+# block=11
+1244
+
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10
+nos publice arguendos sperarent. Et sic cum pace
+populum dimisit.
+
+# block=5
+dicere quod sentitis mepertius, ego ut vos etiam hu-
+jus occasione timoris absolvam, juro vobis per om-
+nipotentem Deum et viventem in sæcula, quia nul-
+lum permittam injicere vobis manus. Habentes ergo
+hujus juramenti mei omnem hunc populum tes-
+tem, et idoneum pignus sacramenti nostri fœdus
+tenentes, absque ulla cunctatione unusquisque ve-
+strum quod didicit proferat, et nos fratres intente
+et cum silentio audiamus.
+
+# block=1
+LXVI. Nos vero cum venissemus ad Jacobum
+nostrum, omnia quæ dicta gestaque fuerant expo-
+nentem, apud eum cibo sumpto mansimus, omnipo-
+tenti Deo per totam noctem supplicantes, ut futu-
+ræ disputationis sermo indubitatam fidei nostræ
+ostenderet veritatem. Igitur postera die Jacobus
+episcopus nobiscum simul et cum omni ecclesia
+ascendit ad templum, ubi ingentem reperimus mul-
+titudinem, a medio noctis exspectantem nos. Steti-
+mus ergo in locis, quibus et prius, ut eminentius
+stantes ab universo populo cerneremur. Cumque
+esset summum silentium factum, Gamaliel, qui, ut
+supra diximus, nostræ fidei erat, dispensatione vero
+manebat inter ipsos, ut si quando iniquum aliquid
+adversum nos aut impium molirentur, vel ipsos
+consilio reprimeret prudenter aptato, vel nos com-
+moneret ut aut curare aut declinare possemus; is
+ergo tanquam adversum nos agens, prior omnium
+episcopum Jacobum intuens hoc modo allocutus
+est :
+
+# block=3
+LXVIII. Hæc dicens Gamaliel non valde place-
+bat Caiphæ, et, ut videbatur, suspectum habens
+eum, ipse magis inserere se subtiliter disputatio-
+nibus cœpit; subridens enim ad ea quæ Gamaliel
+dixerat, Jacobum episcoporum principem (51) sa-
+cerdotum princeps orabat, ut de Christo non aliun-
+de sermo quam de scripturis fieret, ut sciamus, in-
+quit, utrum Jesus ipse sit Christus, an non. Tum
+Jacobus, primo, inquit, requiramus, ex quibus scri-
+pturis potissimum disputationem haberi oporteat.
+At ille vix aliquando ratione ipsa superatus respon-
+dit, ex lege habendam, et post hoc etiam prophe-
+tarum addidit mentionem.
+
+# block=2
+LXVII. Si ego Gamaliel neque eruditionis meæ,
+neque senectutis opprobrium duco, discere aliquid
+a parvulis et ab imperitis, si quid forte est utilita-
+tis aut salutis acquirere (qui enim rationabiliter
+vivit, scit quia nihil est anima pretiosius), quomodo
+non omnibus amabile est, cunctisque exoptatum,
+ut quæ ignorat discat, quæ didicerit doceat? Cer-
+tissimum namque est, quoque neque amicitia, neque
+propinquitas generis, neque regni sublimitas ho-
+mini debet esse pretiosior veritate. Et vos ergo fra-
+tres, si quid amplius nostis, populo Dei qui adest,
+itemque fratribus vestris proferre non pigeat, omni
+popule libenter et tota meonquiete quæ dicitis au-
+diente. Quomodo enim non hoc faciat populus, cum
+meipsum videat mecum pariter velle a vobis discere,
+si quid forte amplius vobis revelavit Deus? Si vero
+vos in aliquo indigetis, similiter etiam vos a nobis
+non pigeat doceri, ut erga utramque partem, si
+quid deest, adimpleat Deus. Quod si aliquis forte
+vos nunc sollicitat metus, propter nonnullos no-
+strorum qui præjudicatis adversum vos animis
+utuntur, et insidias eorum verentes, non audetis
+
+# block=4
+LXIX. Cui Jacobus noster cœpit ostendere, quia
+et prophetæ quæ dicunt, ex lege sumpserint et legi
+consona sint locuti. Sed et de libris Regnorum dis-
+seruit meliqua, quomodo, et quando, et a quo scri-
+pti sint, et quomodo eis uti oporteat. Cumque et de
+lege plenissime disputasset, ac singula quæde Chri-
+sto sunt, purissima expositione protulisset in lucem,
+ostendit abundantissimis probationibus, quia Jesus
+est Christus, et in ipso universa quæ de humili
+ejus adventu fuerant prædicta, complentur. Duos
+enim ejus prædictos esse docuit adventus, unum
+humilitatis quem adimplevit, alium gloriæ qui
+speratur implendus, cum veniet dare regnum cre-
+dentibus in se et servantibus omnia quæ præcepit.
+Cumque de his evidenter populum docuisset, ad-
+debat etiam hoc; quia nisi quis baptizatus fuisset
+in aqua sub appellatione trinæ beatitudinis, sicut
+docuit verus propheta, neque me remissionem accipe-
+ret peccatorum, neque introiret in regna cœlorum :
+et hanc esse Dei [ingeniti] præfinitionem confirma-
+vit. Quibus etiam ¹¹ hæc addidit : Nolite putare
+nos duos ingenitos dicere deos, aut unum divisum
+
+# block=9
+¹¹ Vocabula Quibus etiam — de Paracleto dicimus non leguntur in codd. Lips., qui etiam voc. inge-
+niti, quod uncis includimus, non agnoscunt.
+
+# block=8
+COTELERII NOTÆ.
+
+# block=6
+(51) Jacobum episcoporum principem. Candeleria-
+nus etiam codex, Jacobum episcopum; Petri Petiti,
+Jacobum nostrum principem; infra cap. penult, Ja-
+cobus archiepiscopus. In concilio Ephesino parte 1,
+c. 30 : Ἰακώβου ἀποστόλου καὶ ἀρχιεπισκόπου. Apud
+Photium Biblioth. cod. 275. Hesychius presbyter
+Hierosolymitanus, τὸν τῶν ἱερέων ἡγεμόνα, τῶν ἀπο-
+στόλων τὸν ἔξαρχον, τὴν ἐν κεφαλαῖς κορυφήν. In
+scholio Regii codicis 705, quod posui initio notarum
+in Barnabam, πρῶτος ἐπίσκοπος. Unde a Nicephoro
+CP. catalogus Patriarcharum Hierosolymitanorum
+texitur ante catalogos reliquorum patriarcharum.
+Rufinus Historiæ ecclesiasticæ Eusebii a se versæ
+
+# block=13
+I, II, c. 1 : Apostolorum episcopum. Denique Nico-
+laus Methonensis, de Eucharistia : Ὁ θεῖος Ἰάκω-
+βος ὁ τοῦ πρώτου καὶ μεγάλου ἀρχιερέως ἀδελφὸς
+καὶ διάδοχος. Hæc in laudem Jacobi. Sedis vero
+Hierosolymiticæ illustre præconium memappeditat Epi-
+stola Justini imperatoris ad Hormisdam papam, quæ
+subsequitur ejusdem pontificis meseptuagesimam mequar-
+tam, hisce verbis : Ad colligendas et adunandas ubi-
+que venerabiles Ecclesias, et Hierosolymitanam præ-
+cipue; cui me tamen [l. tantum ex vet. edit.] omnes fa-
+vorem impendunt, quasi matri Christiani nominis, ut
+nemo audeat ab ea sese discernere. Videsis princi-
+pium Epistolæ Clementis ad Jacobum, et Epitomes.

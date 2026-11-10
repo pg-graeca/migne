@@ -1,0 +1,156 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,177,137,926,2283
+3,579,80,1293,119
+4,951,2500,1701,2668
+5,213,2626,911,2700
+6,175,2492,912,2629
+7,186,85,252,125
+8,785,2432,1083,2467
+10,960,136,1734,2282
+11,1635,78,1723,126
+12,167,2292,1737,2402
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=177 source_y1=137 source_x2=926 source_y2=2283
+quidquam eorum dimovere, quæ vobis secundum
+voluntatem Dei per nos definita sunt? Verum quia
+multi hoc non esse necessarium putaverunt; imo
+confundere ordines, ac unicuique tributam ordina-
+tionem labefactare audent, sibi arripientes non tra-
+ditas dignitates, ac tyrannice permittentes sibi ea,
+quorum dandorum potestatem non habent; ac pro-
+pterea, tum Deum irritant, quemadmodum Cori-
+tæ ²¹, et rex Ozias ²², qui præter dignitatem, ac sine
+Deo usurparunt pontificatum, atque illi quidem
+facti sunt ignis pabulum, hic vero in fronte lepro-
+sus; tum exasperant Christum Jesum, qui ita con-
+stituit; tum contristant Spiritum sanctum, infir-
+mantes illius testimonium : idcirco jure, pericu-
+lum iis qui hæc designant impendens prospicientes,
+et negligentiam in sacrificiis ac gratiarum actioni-
+bus, eo quod impie offerantur ab iis a quibus non
+oportet, quique honorem pontificalem, complexum
+magni pontificis Jesu Christi regis nostri imitatio-
+nem, pro ludo habent; ideo, inquam, necesse fuit de
+eo quoque admonere : jam enim quidam conversi
+sunt retro post vanitatem suam ²³. Itaque dicimus,
+quod Moses, Dei famulus, cum quo Deus facie ad
+faciem colloquebatur, ut si quis loquatur ad ami-
+cum suum ²⁴; cui dixit : « Novi te præ omnibus; »
+cum quo ad os loquebatur, et non per obscura, vel
+somnia, vel angelos, vel ænigmata ²⁵, hic Moses, cum
+divinam legislationem constitueret, distinxit quæ-
+nam oporteret peragi a pontificibus, quænam a sa-
+cerdotibus, quænam a levitis, ac distribuit unicui-
+que cultum proprium suoque ministerio convenien-
+tem; et ad ea quidem quæ jussit pontifices perfi-
+cere, fas non erat ut accederent sacerdotes; ad ea
+vero quæ sacerdotibus definita erant, levitæ non
+admittebantur; sed singuli ministeria præscripta
+quæ acceperant servabant; si quis autem ultra sibi
+traditum officium progredi nitebatur, morte luebat
+pœnas ²⁶. Hoc vero præcipue demonstravit id, quod
+Sauli contigit; qui cum existimasset se absque pro-
+pheta et pontifice Samuele sacrificare posse, ad
+se peccatum et maledictum nunquam abjiciendum
+attraxit; neque prophetam movit ac flexit, quod ab
+ipso Saul in regem unctus fuisset ²⁷. Hoc etiam evi-
+dentiori operatione demonstravit Deus per ea quæ
+Oziæ acciderunt, de cujus prævaricatione exegit
+pœnas absque mora; et qui contra pontificatum in-
+sanierat, regno quoque pulsus est ²⁸. Cæterum quæ
+sub nobis acta sint, forsitan non ignoratis. Scitis
+enim omnino episcopos, presbyteros et diaconos a
+
+# block=3 source_x1=579 source_y1=80 source_x2=1293 source_y2=119
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=4 source_x1=951 source_y1=2500 source_x2=1701 source_y2=2668
+ad ὑπηρεσίας. ID.
+(92) Θάνατος. Scriptura codicum unius : ἀνά-
+θεμα. COT.
+(93) Καὶ. Dele hanc voculam ex auctoritate cod.
+Vind. CLER.
+
+# block=5 source_x1=213 source_y1=2626 source_x2=911 source_y2=2700
+(90) Λέγομεν. Addit. alter cod. δὲ. ID.
+(91) Ἄπερ. Melius cod. Vindob. ἅς, ut referatur
+
+# block=6 source_x1=175 source_y1=2492 source_x2=912 source_y2=2629
+(88) Χριστόν. In altero καὶ τὸν Χριστόν. ID.
+(89) Ἐπηρτημένον. In altero cod. Vindob. ἐπηρ-
+τισμένον, quasi ab ἐπαρτίζω perficio, sed prius
+malim. ID.
+
+# block=7 source_x1=186 source_y1=85 source_x2=252 source_y2=125
+1151
+
+# block=8 source_x1=785 source_y1=2432 source_x2=1083 source_y2=2467
+VARIORUM NOTÆ.
+
+# block=10 source_x1=960 source_y1=136 source_x2=1734 source_y2=2282
+γνώμην Θεοῦ παρ' ἡμῶν ὁρισθέντων; ἀλλ' ἐπειδὴ
+πάρεργον οἱ πολλοὶ καὶ τοῦτο ἡγήσαντο εἶναι, συγ-
+χέειν δὲ τὰς τάξεις καὶ τὴν ἐφ' ἑκάστου χειροτονίαν
+παρακινεῖν τολμῶσιν, ὑφαρπάζοντες ἑαυτοῖς ἀξιώ-
+ματα τὰ μὴ διδόμενα, καὶ ἐπιτρέποντες ἑαυτοῖς τυ-
+ραννικῶς ἃ μὴ ἔχουσιν ἐξουσίαν διδόναι, καὶ διὰ τοῦ-
+το παροργίζουσι μὲν Θεόν, ὥσπερ οἱ Κορεῖται, καὶ ὁ
+βασιλεὺς Ὀζίας, παρ' ἀξίαν ἐπιθέμενοι ἄνευ Θεοῦ τῇ
+ἀρχιερωσύνῃ, καὶ γενόμενοι, οἱ μὲν πυρίφλεκτοι, ὁ δὲ
+κατὰ τοῦ μετώπου λεπρός· παροξύνουσι δὲ Χριστὸν
+(88) Ἰησοῦν τὸν διαταξάμενον, λυποῦσι δὲ καὶ τὸ
+Πνεῦμα τὸ ἅγιον, ἀκυροῦντες αὐτοῦ τὴν μαρτυρίαν·
+εἰκότως, τὸν ἐπηρτημένον (89) κίνδυνον τοῖς τὰ τοιαῦτα
+πράττουσι προειδόμενοι, καὶ τὴν εἰς τὰς θυσίας καὶ
+εὐχαριστίας ἀμέλειαν, ἐκ τοῦ ὑφ' ὧν μὴ χρὴ προσ-
+αγομένας ἀσεβῶς, παιδιὰν ἡγουμένων τὴν ἀρχιερατι-
+κὴν, ἧτις μίμησιν περιέχει τοῦ μεγάλου ἀρχιερέως
+Ἰησοῦ Χριστοῦ βασιλέως ἡμῶν, ἀνάγκην ἔσχομεν καὶ
+τοῦτο παραινέσαι· ἤδη γάρ τινες ἐξετράπησαν ὀπίσω
+τῆς ἑαυτῶν ματαιότητος· λέγομεν (90) ὡς Μωϋσῆς,
+ὁ τοῦ Θεοῦ θεράπων, ᾧ ὁ Θεὸς ἐνώπιος ἐνωπίῳ ὡμί-
+λει, ὡς εἴ τις λαλήσῃ πρὸς ἑαυτοῦ φίλον, ᾧ εἶπεν·
+« Οἶδά σε παρὰ πάντας· » ᾧ κατὰ πρόσωπον ὡμίλει,
+καὶ οὐ δι' ἀδήλων ²⁶, ἢ ἐνυπνίων, ἢ ἀγγέλων, ἢ αἰνιγ-
+μάτων· οὗτος, ἡνίκα τὴν θείαν νομοθεσίαν διετάσσετο,
+διεῖλε τίνα μὲν χρὴ ὑπὸ τῶν ἀρχιερέων ἐπιτελεῖσθαι,
+τίνα δὲ ὑπὸ τῶν ἱερέων, τίνα δὲ ὑπὸ τῶν λευιτῶν,
+ἑκάστῳ τὴν οἰκείαν καὶ ἀνήκουσαν τῇ λειτουργίᾳ
+θρησκείαν ἀπονείμας, καὶ ἅπερ μὲν τοῖς ἀρχιερεῦσι
+προσέτακτο ἐπιτελεῖν, τούτοις τοὺς ἱερέας οὐ θε-
+μιτὸν ἦν προσίεναι· ἅπερ δὲ τοῖς ἱερεῦσιν ὥριστο,
+τούτοις οἱ λευῖται οὐ προσίεσαν· ἀλλ' ἕκαστοι ἅπερ (91)
+παρειλήφεισαν ὑπηρεσίας περιγεγραμμένας, ἐφύλατ-
+τον· εἰ δέ τις πέρα τῆς παραδόσεως προσιέναι ἐ-
+βούλετο, θάνατος (92) ἦν τὸ ἐπιτίμιον. Τοῦτο δὲ μά-
+λιστα διέδειξε καὶ ἡ κατὰ τὸν Σαοὺλ πεῖρα· ὃς θῦσαι
+νενομικὼς δίχα τοῦ προφήτου καὶ ἀρχιερέως Σαμουὴλ,
+ἔσπασεν εἰς ἑαυτὸν ἁμαρτίαν καὶ κατάραν ἀναπό-
+βλητον· καὶ οὐδὲ τὸ χρισθῆναι ὑπ' αὐτοῦ εἰς βασιλέα,
+ἐδυσώπησε τὸν προφήτην. Ἐνεργεστέρα ³⁰ δὲ τῇ πράξει
+διέδειξεν ὁ Θεὸς ἐν τοῖς κατὰ τὸν Ὀζίαν, οὐκ ἐν με-
+λισμῷ ³¹ τὰς ἐπὶ τῇ παρανομίᾳ εἰσπραξάμενος δίκας·
+καὶ ὁ τῆς ἀρχιερωσύνης καταμανεὶς, καὶ τῆς βασιλείας
+ἀλλότριος κατέστη. Τὰ δὲ ἐφ' ἡμῶν ἴσως οὐκ ἀγνοεῖτε.
+Ἴστε γὰρ πάντως ἐπισκόπους παρ' ἡμῶν ὀνομα-
+σθέντας, καὶ πρεσβυτέρους, καὶ διακόνους, εὐχῇ καὶ
+χειρῶν ἐπιθέσει, τῇ διαφορᾷ τῶν ὀνομάτων καὶ (93)
+τὴν διαφορὰν τῶν πραγμάτων δεικνύντας. Οὐ γὰρ
+ὁ βουλόμενος παρ' ἡμῖν ἐπλήρου τὴν χεῖρα, ὥσπερ
+
+# block=11 source_x1=1635 source_y1=78 source_x2=1723 source_y2=126
+1152
+
+# block=12 source_x1=167 source_y1=2292 source_x2=1737 source_y2=2402
+²¹ Num. xvi.  ²² II Paral. xxvi.  ²³ 1, 1 Tim. v, 15.  ²⁴ Num. xii, 8; Exod. xxxiii, 11, 17.  ²⁵ Num.
+xii, 8.  ²⁶ al. διὰ δῆλων.  ²⁷ Num. iv.  ²⁸ I Reg. xiii.  ²⁹ II Paral. xxvi.  ³⁰ f. ἐνεργεστέρᾳ.  ³¹ f. μελ-
+λισμῷ. Sic cod. Vind.

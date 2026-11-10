@@ -1,0 +1,184 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,966,139,1716,737
+2,179,2559,920,2698
+3,179,133,934,738
+4,169,1351,923,2561
+5,785,836,1083,867
+6,597,95,1303,130
+7,172,918,930,1346
+8,208,761,875,795
+9,955,916,1717,2695
+10,177,98,249,132
+11,1645,96,1705,134
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+deant. Diaconus autem locis provideat, ut ingre-
+dientium quisque locum suum petat, et nemo in
+introitu resideat. Similiter diaconus inspiciat po-
+pulum, ut nemo susurret, aut dormitet, aut rideat,
+aut nutus faciat. Oportet enim in ecclesia sapienter,
+sobrie ac vigilanter stare; auribus ad verbum Domini
+intentis. Deinde cuncti pariter consurgentes, et in
+orientem contemplantes, egressis catechumenis et
+pœnitentibus, orent Deum, « qui ascendit super
+cœlum cœli, ad orientem ²⁶, » ac recordantes anti-
+quam possessionem paradisi, ad orientem siti;
+unde primus homo, Dei mandato neglecto, per-
+suasus consilio serpentis, ejectus fuit. Atque dia-
+coni post orationem, alii quidem oblationi Eucha-
+
+# block=2
+(54) Ἐπ' ἀνατολὰς κατανοήσαντες. Ad orien-
+tem, seu ad surgentem solem converso vultu, orare
+solebant ethnicorum multi; necnon veteres Chri-
+stiani. Ut de prioribus fidem faciunt plurima testi-
+
+# block=3
+δὲ νεώτεραι πάλιν ἰδίᾳ, ἐὰν ᾖ τόπος, εἰ δὲ μήγε,
+ὄπισθεν τῶν γυναικῶν ἱστάσθωσαν· αἱ δὲ ἤδη γεγα-
+μηκυῖαι, καὶ τεκναρχοῦσαι ²⁵, ἰδίᾳ ἱστάσθωσαν· αἱ
+παρθένοι δὲ καὶ αἱ χῆραι καὶ πρεσβύτιδες, πρῶται
+πασῶν στηκέτωσαν, ἢ καθεζέσθωσαν. Ἔστω δὲ τῶν
+τόπων προνοῶν ὁ διάκονος, ἵν' ἕκαστος τῶν εἰσερχο-
+μένων εἰς τὸν ἴδιον τόπον ὁρμᾷ, καὶ μὴ παρὰ τὸ ἰν-
+τροῖτον (52) καθέζωνται. Ὁμοίως ὁ διάκονος ἐπι-
+σκοπείτω τὸν λαὸν (53), ὅπως μή τις ψιθυρίσῃ,
+ἢ νυστάξῃ, ἢ γελάσῃ, ἢ νεύσῃ· χρὴ γὰρ ἐν ἐκκλη-
+σίᾳ ἐπιστημόνως, καὶ νηφαλέως, καὶ ἐγρηγορότως
+ἑστάναι, ἐκτεταμένην ἔχοντα τὴν ἀκοὴν ἐπὶ τὸν τοῦ
+Κυρίου λόγον. Καὶ μετὰ τοῦτο συμφώνως ἅπαν-
+τες ἐξαναστάντες, καὶ ἐπ' ἀνατολὰς (54) κατανοή-
+
+# block=4
+(52) Ἰντροῖτον. Alter cod. Vind. προσῆκον. Cl.
+(53) Ὁ διάκονος ἐπισκοπείτω τὸν λαόν, etc. Ex
+hac constitutione, et simili lib. Ⅷ, cap 11, intel-
+ligitur quare B. Chrysostomus homilia 24 in Acta
+apostolorum non multo ante finem, admoneat ut qui
+viderit aliquem sese in ecclesia immodeste gerentem,
+appellet diaconum : Κεῖνται πάντες νέοι ψυχροὶ καὶ
+γέροντες· καθάρματα μᾶλλον ἢ νέοι, γελῶντες, ἀνακαγ-
+χάζοντες, διαλεγόμενοι (καὶ γὰρ καὶ τοῦτο ἤκουσα
+γενόμενον), καὶ ἀλλήλους σκώπτοντες ἐπὶ γόνατα κείμε-
+νοι. Σὺ παρέστηκας, ὁ νέος, ἢ ὁ πρεσβύτης· ἐπίπλη-
+ξον, ἂν ἴδῃς· ἐγκάλεσον σφοδρότερον. Οὐκ ἀνεχομέ-
+νου, τὸν διάκονον κάλεσον· ἀπείλησον· τὰ παρὰ σαυ-
+τοῦ ποίησον, etc. Hoc est, quemadmodum verten-
+dum arbitror : Jacent omnes inepti senes ac juvenes;
+purgamenta magis quam juvenes; ridentes, cachin-
+nantes, colloquentes; atque (id etenim quoque fieri
+audivi) mutuum se inter geniculandum incessentes
+scommatis. Tu assistis, juvenis, aut senex : increpa
+si videris, argue acriter. Si non fert, voca diaconum;
+comminare; quæ in te sunt facito. Scilicét inter innu-
+mera diaconorum munia unum erat, reverentiam
+in templis Dei procurare. Quæ tanta servabatur
+apud multos populos, ut, referente eodem aureo Pa-
+tre homil. 36 in 1 ad Corinthios, non liceret ami-
+cum, etsi a longo tempore non visum, et juxta con-
+sistentem, salutare in ecclesia. Alibi tamen, quem-
+admodum nunc, profanabantur delubra garruli-
+tate, tumultu, nutibus, gestibus, risu, oscitatione,
+cursitatione, omnique inverecundia et nequitia.
+Tolle obiter leve mendum e synodo Parisiensi 6,
+lib. Ⅱ, cap. 12, ac lege in loco Origenis homilia 12
+in Exodum ibi citato : Alii ne hoc ipsum quidem
+patienter exspectant, quod lectiones in ecclesia
+recitentur. Nam vulgata Scriptura quod pro quoad
+refellitur ex Origenis libris, qui usquequo exhibent.
+Cot.
+
+# block=5
+VARIORUM NOTÆ.
+
+# block=6
+CONSTITUTIONES APOSTOLICÆ. — LIB. Ⅱ.
+
+# block=7
+πολλῷ μᾶλλον ἄνθρωπον τερπνὸν ἰδεῖν, καὶ ἐλαίας
+ἁπάσης τερπνότερον, ἀπὸ τῆς ῥίζης αὐτῆς τὸ παι-
+δίον, ὥσπερ νεόφυτον, ἔχοντα πλησίον ἑστώς. Id est :
+Caput mulieris vir est : mulier adjutrix est viri. Ne
+igitur, aut caput absque corpore sustineat ad hæc
+sancta limina advenire, aut corpus absque capite com-
+pareat; sed integer huc ingrediatur homo. Habentes
+et liberos vobiscum (Psal. ⅭⅩⅩⅦ, 3). Nam si jucun-
+dum est videre arborem, quæ habet surculum ex ipsa
+radice exsurgentem; multo magis jucundum est, om-
+nique olea jucundius, videre hominem, qui puerum, a
+se, velut a radice ipsa instar surculi productum,
+prope stantem habeat. Cot.
+
+# block=8
+²⁵ Al. τὰ τέκνα ἔχουσαι. ²⁶ Psal. ⅬⅩⅦ, 34.
+
+# block=9
+monia, potissimum Clementis Alexandrini Strom.
+Ⅶ, p. 724, ed. Paris.; Tertulliani Apologetici cap.
+16; Vitruvii lib. Ⅳ, cap. 5, et Virgilii Æneid. Ⅻ,
+vers. 172, ubi consulendus Servius : utque de poste-
+rioribus testantur innumeri et antiquissimi scri-
+ptores. Quos inter, rationes ritus a Constitutione
+productas, aliasque multas afferunt Clemens Alexan-
+drinus citatus, Basilius De Spiritu sancto, cap. 27;
+Chrysostomus a me editus ad Danielis Ⅵ, 10;
+pseudo-Justinus quæst. 118 ad Orthodoxos; pseudo-
+Origenes ad Jobi Ⅰ, 3, ementitus similiter Athana-
+sius quæstione 37, earum quæ ad Antiochum in-
+scribuntur; Germanus Constantinopolitanus in
+Theoria mystica post initium; Joannes Damascenus,
+Orthodoxæ fidei lib. Ⅳ, cap. 13; Gregentius, Dispu-
+tationis cum Judæo fol. 61; et auctor libri De di-
+vinis officiis apud Alcuinum, cap. 59. Initio Regii
+ms. 394 : Σημειωτέον ὅτι τινὰς παραδόσεις καὶ
+ἀγράφως παρέλαβεν ἡ Ἐκκλησία· οἷον, τὸ κοινωνεῖν
+νηστικῶς, καὶ τὸ προσεύχεσθαι κατὰ ἀνατολάς, καὶ
+ὅτι παρθένος ἔμεινε μετὰ τόκον, καὶ ἕτερα πολλά.
+Contra ad occasum lumina inter precandum flecte-
+bant, cum Judæi Ezech. Ⅷ, 16; et apud Anasta-
+sium quæstione 44, ac Gregentium; tum gentiles
+multi, referente Porphyrio in opere De antro Nym-
+pharum. At versus meridiem, nonnulli idololatræ,
+ex Luciani Peregrino; Judæi, ex Quæstionibus ad
+Antiochum; et Mohametani, ex Euthymio Ziga-
+beno, Panopliæ parte Ⅱ, titulo 24; quemadmodum
+versus septentrionem, aliquando Manichæi, in S.
+Augustino, Lib. de hæresibus. Fuerunt et alii sup-
+plicandi Deo aut diis modi. Nam Judæi et Osseni
+oppositum ori habere volebant templum atque op-
+pidum Hierosolymitanum, Ⅲ Reg. Ⅷ, 48; Ⅱ Pa-
+ralip. Ⅵ, 34, etc.; Dan. Ⅵ, 10; Eusebius Hist. eccl.,
+Ⅲ, 6; Epiphanius hæresi 19, cap. 3; Hieronymus
+ad Ezech. Ⅷ, 16, et Dan. Ⅵ, 10; Theodoritus ad
+eumdem quarti majoris prophetæ textum; Sama-
+ritæ, Garizimum montem : quod docemur a S. Epi-
+phanio, tam in Panario, ubi de eorum sectα, quam
+apud Anastasium Antiochenum quæst. 45. Qui ul-
+timus locus legi sic debet, partim e mss. codicibus,
+partim ex interprete : "Ὅπου δ' ἂν ὦσι, πρὸς τὸ ὄρος
+εὔχονται, οἱ ἀπὸ ἀνατολῆς πρὸς δυσμὰς ἀποστρεφό-
+μενοι, καὶ οἱ ἀπὸ δυσμῶν πρὸς ἀνατολάς· καὶ οἱ ἀπὸ
+βορῤᾶ πρὸς τὴν μεσημβρίαν, καὶ οἱ ἀπὸ μεσημβρίας
+πρὸς τὸ ἀρκτῷον τῷ ὄρει προσέχοντες εὔχονται.
+Ubicunque vero fuerint Samaritæ, versus montem
+Garizimum orant; qui sunt ab oriente vertentes se ad
+occidentem, et qui ab occidente ad orientem : item
+qui sunt ab aquilone, ad meridiem, quique a meridie,
+ad septentrionem, in montem intenti precantur. Præ-
+terea Brachmanos orantes, non orientalem partem,
+unde oritur sol, aspexisse, sed cælum potius in-
+
+# block=10
+733
+
+# block=11
+734

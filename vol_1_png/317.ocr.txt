@@ -1,0 +1,229 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,200,994,1739,1207
+2,195,1562,949,1813
+3,195,2495,1726,2669
+4,1247,174,1745,939
+5,790,69,1147,107
+6,986,1568,1731,1818
+7,194,1875,946,2085
+8,198,1264,958,1471
+9,712,166,1233,941
+10,752,1520,1188,1553
+11,990,1882,1729,2096
+12,201,169,701,985
+13,188,2150,949,2270
+14,988,1267,1737,1511
+15,574,1834,1355,1870
+16,189,2323,943,2448
+18,651,122,1297,159
+19,196,66,264,120
+20,1682,66,1762,122
+21,924,1210,994,1254
+22,616,2104,1320,2144
+23,616,2272,1298,2318
+24,958,2150,1742,2276
+25,916,2454,990,2492
+26,973,2324,1731,2456
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=16px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=16px
+# block=20 fontSize=16px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=26 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=19
+33
+
+# block=20
+34
+
+# block=5
+PROOEMIA VARIORUM.
+
+# block=18
+S. IRENAEUS, lib. III adversus Haereses, cap. 3.
+
+# block=9
+Apud Eusebium Hist. Eccl. l. v. c. 6
+στόλων τὴν ἐπισκοπὴν κληροῦται
+Κλήμης· ὁ καὶ ἑωρακὼς τοὺς μα-
+καρίους ἀποστόλους, καὶ συμβεβλη-
+κὼς αὐτοῖς· καὶ ἔτι ἔναυλον τὸ κή-
+ρυγμα τῶν ἀποστόλων, καὶ τὴν πα-
+ράδοσιν πρὸ ὀφθαλμῶν ἔχων οὐ μό-
+νος· ἔτι γὰρ πολλοὶ ὑπελείποντο
+τότε ὑπὸ τῶν ἀποστόλων δεδιδα-
+γμένοι. Ἐπὶ τούτου οὖν τοῦ Κλήμεν-
+τος, στάσεως οὐκ ὀλίγης τοῖς ἐν
+Κορίνθῳ γενομένης ἀδελφοῖς, ἐπέ -
+στειλεν ἡ ἐν Ῥώμῃ Ἐκκλησία ἱκα-
+νωτάτην γραφὴν τοῖς Κορινθίοις, εἰς
+εἰρήνην συμβιβάζουσα αὐτοὺς, καὶ
+ἀνανεοῦσα τὴν πίστιν αὐτῶν, καὶ
+ἣν νεωστὶ ἀπὸ τῶν ἀποστόλων πα-
+ράδοσιν εἰλήφει.
+
+# block=12
+Interpretatio vetus.
+sortitur Clemens; qui et vidit
+ipsos apostolos, et contulit cum
+eis; et cum adhuc insonantem
+prædicationem apostolorum , et
+traditionem ante oculos haberet ,
+non solus : adhuc enim multi su-
+pererant tunc, ab apostolis docti.
+Sub hoc igitur Clemente, dissen-
+sione non modica inter eos qui
+Corinthi essent fratres facta ,
+scripsit quæ est Romæ Ecclesia po-
+tentissimas litteras Corinthiis, ad
+pacem eos congregans, et repa-
+rans fidem eorum , et annuntians
+quam in recenti ab apostolis ac-
+ceperat traditionem , annuntian-
+tem unum Deum omnipotentem,
+factorem cœli et terræ, plasmato-
+
+# block=4
+Interpretatio Valesii.
+qui quidem beatissimos apostolos
+viderat, et cum iisdem familiariter
+versatus fuerat ; et prædicationem
+apostolorum adhuc auribus suis
+insonantem , traditionemque præ
+oculis habebat. Nec vero ipse so-
+lus, sed et alii plurimi etiam tum
+supererant, ab apostolis instituti.
+Hujus Clementis temporibus cum
+gravissima dissensio Corinthi
+exorta esset inter fratres, Ecclesia
+Romana luculentissimam episto-
+lam Corinthiis scripsit , qua eos
+ad pacem concordiamque revoca-
+ret , et fidem illorum, et quam
+recens ab apostolis susceperat
+traditionem renovaret.
+
+# block=1
+rem hominis , qui induxerit cataclysmum, et advocaverit Abraham, qui eduxerit populum de terra Ægypti,
+qui collocutus sit Moysi, qui legem disposuerit , et prophetas miserit, qui ignem præparaverit diabolo et
+angelis ejus. Hunc Patrem Domini nostri Jesu Christi ab Ecclesia annuntiari, ex ipsa Scriptura qui velint
+discere possunt, et apostolicam Ecclesiæ traditionem : cum sit vetustior epistola his qui nunc falso docent,
+et alterum Deum super Demiurgum et factorem horum omnium quæ sunt , commentiuntur.
+
+# block=21
+II.
+
+# block=8
+CLEMENS Alexandrinus , Στρωμ. lib. I. cap.
+Ἐὰν δὲ τὴν βασιλικήν τε καὶ αὐθεντικὴν εἴσοδον
+ζητῇς, ἀκούσῃ· Αὕτη ἡ πύλη τοῦ Κυρίου· δίκαιοι
+εἰσελεύσονται ἐν αὐτῇ. Πολλῶν τοίνυν ἀνεῳγμένων
+πυλῶν ἐν δικαιοσύνῃ, αὕτη ἦν ἐν Χριστῷ.
+
+# block=14
+edit. Oxon., an. 1715, tom. I, p. 339.
+Quod si viam regiam et authenticum ingressum
+quæris, audies : Hæc est porta Domini : justi intra-
+bunt in eam ⁸. Cum ergo multæ apertæ sint portæ
+in justitia, hæc in Christo invenienda est. CLEM.
+epist. 1, cap. 48.
+
+# block=10
+IDEM , ibid., lib. et cap. citt.
+
+# block=2
+Αὐτίκα ὁ Κλήμης ἐν τῇ πρὸς Κορινθίους ἐπιστολῇ,
+κατὰ λέξιν φησὶ, τὰς διαφορὰς ἐκτιθέμενος τῶν κατὰ
+τὴν Ἐκκλησίαν δοκίμων· "Ἤτω τις πιστός· ἤτω
+δυνατός τις γνῶσιν ἐξειπεῖν· ἤτω σοφὺς ἐν δια-
+κρίσει λόγων· ἤτω γοργὸς ἐν ἔργοις. Eadem repe-
+tit Alexandrinus infra lib. VI , cap. 8, tom. II, p. 773.
+
+# block=6
+Jam Clemens in epistola ad Corinthios his ver-
+bis inquit, exponens differentiam eorum qui sunt
+probati in Ecclesia : Sit aliquis fidelis, sit potens in
+explicanda cognitione, sit sapiens in discretione ser-
+monum, sit stupendus in operibus. Locus exstat in
+eodem cap. 48, epist. 1.
+
+# block=15
+IDEM , ibid., lib. IV, cap. 17, tom. I, pp. 609, 610.
+
+# block=7
+Ναὶ μὴν ἐν τῇ πρὸς Κορινθίους ἐπιστολῇ ὁ ἀπό-
+στολος Κλήμης, καὶ αὐτὸς ἡμῖν τύπον τινὰ τοῦ γνω-
+στικοῦ ὑπογράφων, λέγει· Τίς γὰρ παρεπιδημήσας
+πρὸς ὑμᾶς, κ. τ. λ. Hic Clemens Alex. capita e re-
+gione notata excerpsit.
+
+# block=11
+Porro autem Clemens apostolus in epistola ad
+Corinthios, ipse quoque nobis quamdam Gnostici
+imaginem describens, dicit : Quis enim apud vos di-
+versatus, etc. Epist. 1, capp. 1, 9, 10, 11, 12, 17,
+18, 21, 22, 36, 38, 40, 41, 48, 49, 50, 51, 53.
+
+# block=22
+IDEM, ibid., lib. V, cap. 12, tom. II, pag. 693.
+
+# block=13
+Ἀλλὰ κἀν τῇ πρὸς Κορινθίους Ῥωμαίων ἐπι-
+στολῇ· Ὠκεανὸς ἀπέραντος ἀνθρώποις γέγραπται,
+καὶ οἱ μετ' αὐτὸν κόσμοι.
+
+# block=24
+Quin etiam in epistola Romanorum ad Corin-
+thios scriptum est : Oceanus infinitus, et qui sunt
+post ipsum mundi. Epist. 1, cap. 20.
+
+# block=23
+IDEM, ibid., lib. VI, cap. 8, tom. II, pag. 773.
+
+# block=16
+Τοσούτῳ γὰρ μᾶλλον ταπεινοφρονεῖν ὀφείλει,
+ὅσῳ δοκεῖ μᾶλλον μείζων εἶναι · ὁ Κλήμης, ἐν τῇ
+πρὸς Κορινθίους φησί.
+
+# block=26
+Eo enim debet esse humilior, quo videtur esse ma-
+jor, dicit Clemens in epistola ad Corinthios. Epist
+1, cap. 48.
+
+# block=25
+III.
+
+# block=3
+ORIGENES, Περὶ ἀρχῶν, lib. II, cap. 3, num. 6, edit. Paris., 1733, tom. I, pag. 82.
+Meminit sane Clemens apostolorum discipulus etiam eorum quos ἀντίχθονας Græci nominarunt, atque
+alias partes orbis terræ ad quas neque nostrorum quisquam accedere potest , neque ex illis qui ibi sunt
+⁸ Psal. CXVII, 20.

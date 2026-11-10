@@ -1,0 +1,178 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,207,161,957,1840
+2,211,1845,959,2100
+3,214,2238,963,2442
+4,998,1763,1749,2104
+5,220,2538,963,2709
+6,218,2440,967,2542
+7,999,2233,1758,2534
+8,999,2533,1752,2704
+9,993,856,1746,1756
+10,990,158,1741,847
+11,604,103,1321,138
+12,803,2182,1113,2219
+13,263,2126,980,2165
+15,206,102,272,139
+16,1650,94,1740,142
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=207 source_y1=161 source_x2=957 source_y2=1840
+feci, et per ipsam fit omne quod jubeo. Et
+ego : Estne, inquam, possibile animæ hæc facere?
+Ille respondit : Hoc vos scire volo, quia secundum
+locum post Deum obtinet anima hominis, cum
+exuta fuerit a corporis sui tenebris. Statim deni-
+que et præscientiam habet, propter quod evocatur
+ad necromantiam. Et ego respondi : Cur ergo in-
+terfectorum animæ non ulciscuntur interfectores
+suos (68)? At ille : Non meministi, inquit, quod dixi,
+quia cum exierit de corpore, etiam præscientiam
+habet? Memini inquam. Ob hoc ergo, inquit, cum
+excedit e corpore, statim prænoscit futurum esse
+judicium. et unumquemque pro his quæ hic egerit
+malis pœnas daturum, et ideo nolunt ulcisci inter-
+fectores suos, quia et ipsæ pro suis malis quæ hic
+commiserant, perferunt cruciatus, et illis sciunt
+in judicio graviora manere supplicia. Super hæc
+autem omnia nec permittitur eis exire, aut facere
+quidquam ab angelis qui eis præsunt. Et ego res-
+pondi : Si non permittitur eis ab angelis huc venire
+aut -facere quod volunt, quomodo mago evocanti
+obtemperant animæ? Ipsis, inquit, animabus ve-
+nire volentibus non indulgent, cum vero hi qui
+præsunt angeli adjurati fuerint per majorem suum,
+axcusationem habent nostræ, qui eos adjuramus,
+violentiæ, ut permittant exire animas quas evoca-
+mus; non enim illi peccant qui vim patiuntur, sed
+nos qui inferimus necessitatem. Ad hæc Niceta,
+ultra non ferens præpropere respondit, quod et ego
+quidem facturus eram, sed prius eum expscari de
+singulis cupiebam; sed, ut dixi, Niceta præveniens :
+Et tu, inquit, non times diem judicii, qui vim an-
+gelis facis, et animas evocas, et homines decipis,
+et honorem tibi divinum ab hominibus mercaris?
+et quomodo nobis persuades quod neque judicium
+erit, ut nonnulli Judæorum fatentur, neque animæ
+immortales sint, quod videtur pluribus, cum ipsis
+oculis tuis videas eas, et commotionem divini judi-
+cii capias ex ipsis?
+
+# block=2 source_x1=211 source_y1=1845 source_x2=959 source_y2=2100
+XIV. His ab eo dictis impalluit Simon, et tamen
+post paululum recolligens se, ita respondit : Ne
+putetis, inquit, quod generis vestri homo sim ; ego
+neque magus sum, neque amator Lunæ, neque An-
+tonii filius. Ante enim quam mater mea Rachel
+conveniret cum eo (69), adhuc virgo concepit me,
+
+# block=3 source_x1=214 source_y1=2238 source_x2=963 source_y2=2442
+pra relato cum testimoniis veterum : Atque Simo-
+niæ lethiferas necromantiæ labruscas radicitus ex-
+stirpantem, pro lethiferas necnon Romaniæ labru-
+scas; vereor ut sit necessarium : cum Romania ex-
+poni possit Romana religio seu ethnica , quemad-
+modum Simonia hæresis Simonis
+
+# block=4 source_x1=998 source_y1=1763 source_x2=1749 source_y2=2104
+XVI. Petrus vero hæc audiens cum lacrymis
+ait : Miror admodum immensam Dei patientiam, et
+e contrario in nonnullis humanæ temeritatis auda-
+ciam. Quæ enim ratio inveniri ultra poterit, quæ Si-
+moni suadeat, quod Deus judicet iniquos ; cum ipse
+sibi persuadet, quod animarum obedientia ad scele-
+rum suorum utatur ministerium? re autem vera a
+dæmonibus illuditur ; tamen ¹⁷ cum per hæc ipsa cer-
+
+# block=5 source_x1=220 source_y1=2538 source_x2=963 source_y2=2709
+(69) Ante enim quam mater mea Rachel conveni-
+ret cum eo. Abutitur impius Simon loco Scripturæ
+Matth. I, 18, quia se esse Christum credi voluit;
+quod et de se ipsis dixerunt quidam post illum hæ-
+resiarchæ. Pari modo apud Socratem lib. I, cap.
+
+# block=6 source_x1=218 source_y1=2440 source_x2=967 source_y2=2542
+(68) Cur ergo interfectorum animæ non ulciscun-
+tur interfectores suos? Idem argumentum urget Ta-
+tianus Oratione contra Græcos, p. 156.
+
+# block=7 source_x1=999 source_y1=2233 source_x2=1758 source_y2=2534
+22; Terebinthus, seu Buddas natum se ex virgine
+affirmat : propter veterem, ni fallor, Buddam (Cle-
+menti Alexandrino Buttam, Strom. 1, p. 305) de
+quo post alios Ratramnus libro De nativitate Chri-
+sti cap. 3, Spicilegii Acheriani t. 1. An certe Brag-
+manorum sequemur opinionem, ut quemadmodum illi
+sectæ suæ auctorem Buddam (l. Buddam) per virgi-
+nis latus narrant exortum , ita nos Christum fuisse
+prædicemus?
+
+# block=8 source_x1=999 source_y1=2533 source_x2=1752 source_y2=2704
+(70) Aerem vertens in aquam. Clement. homil. 2,
+c. 26. Hoc quoque e media philosophia Simon. Vide-
+sis Diogenem Laertium lib. VII in Zenone, Clem.
+Alex., Strom. V, p. 599, Theodoritum Hæret. fa-
+bul., l. I, c. 1.
+
+# block=9 source_x1=993 source_y1=856 source_x2=1746 source_y2=1756
+XV. Hæc et his similia vultu pro re aptato pro-
+sequentibus nobis, vanissimus credidit nos de-
+ceptos, et eo magis elatus addidit etiam hæc : Pro-
+pitius vobis 'jam sum, pro affectu quem erga me
+Deum geritis, me enim diligentes nesciebatis, et me
+quærentes ignorabatis. Sed nolo dubitetis, quia hoc
+est vere Deum esse, cum potest quis parvus effici,
+vel magnus, si voluerit, nam quoquo modo appa-
+rere hominibus poteram. Nunc ergo incipiam vobis
+aperire quod verum est. Ego virtute mea quodam
+tempore aerem vertens in aquam (70), et aquam
+rursus in sanguinem, carnemque solidans, novum
+hominem puerum formavi, et opus conditore Deo
+multo nobilius protuli. Ille enim creavit hominem
+e terra, ego autem, quod est difficilius, ex aere,
+quemque rursus resolvens aeri reddidi, specieri
+tamen ejus imaginemque depictam in interiore cu-
+biculo collocavi, ut esset indicium ac memoria
+operis mei. Hæc autem intelligebamus eum dicere
+pro puero illo, cujus vi necati anima, ad ea quæ
+volebat ministeria, utebatur.
+
+# block=10 source_x1=990 source_y1=158 source_x2=1741 source_y2=847
+cum esset in potestate mea, vel parvum esse, vel
+magnum, et hominem inter homines apparere.
+Tentandi ergo gratia vos primos assumpsi amicos,
+ut in cœlestibus et ineffabilibus locis meis primos
+vos collocem, cum probavero. Humana ergo de
+meipso mentitus sum, ut vos manifestius compro-
+barem, si integrum erga me servatis affectum. Ego
+vero hæc audiens, ipsum quidem miserum judicans,
+impudentiam tamen ejus admirans, et pro eo ipse
+erubescens, simul et veritus ne quid in nos moli-
+retur mali, innuo Nicetæ, paulisper una mecum simu-
+lare, et aio ad eum : Non nobis indigneris hominibus
+corruptibilibus, incorruptibilis Deus ; sed suscipe
+magis affectum nostrum, et animum volentem scire
+qui sit Deus ; nondum enim sciebamus quis esses, et
+nec advertebamus quia tu es quem quærebamus.
+
+# block=11 source_x1=604 source_y1=103 source_x2=1321 source_y2=138
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=12 source_x1=803 source_y1=2182 source_x2=1113 source_y2=2219
+COTELERII NOTÆ.
+
+# block=13 source_x1=263 source_y1=2126 source_x2=980 source_y2=2165
+¹⁷ Tamen — substantiam desunt in codd. Lipss.
+
+# block=15 source_x1=206 source_y1=102 source_x2=272 source_y2=139
+1255
+
+# block=16 source_x1=1650 source_y1=94 source_x2=1740 source_y2=142
+1256

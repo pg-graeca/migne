@@ -1,0 +1,196 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,213,2360,964,2698
+2,1001,2396,1751,2696
+3,210,751,965,2089
+4,1000,1091,1744,1958
+5,1009,134,1763,1080
+6,210,145,970,736
+7,207,2090,957,2167
+8,210,2198,1739,2269
+9,827,2301,1132,2334
+10,995,1965,1747,2182
+11,778,81,1212,116
+12,1522,2709,1555,2742
+15,329,2703,586,2739
+16,1000,2366,1078,2396
+17,225,87,294,119
+19,1691,86,1763,119
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=19 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=11
+RECOGNITIONUM LIB. VIII.
+
+# block=19
+1386
+
+# block=17
+1385
+
+# block=5
+opere cuncta effici et universa constare. Sed venia-
+mus adhuc, si videtur, etiam ad nostram, id est
+ad hominis substantiam, qui est parvus in alio
+mundus (74), et consideremus quanta sit ratione
+compositus; et ex hoc præcipue sapientiam Con-
+ditoris intelliges, qui cum ex diversis substantiis
+constet, id est mortali et immortali, per artificem
+providentiam Conditoris societatem diversitas non
+refugit,et quidem longe a se substantiis ⁵⁶⁻⁵⁷ [alienis
+et diversis]. Alia namque de terra assumitur et a
+Conditore formatur, alia vero ex immortalibus sub-
+stantiis datur, nec tamen ei per hujuscemodi con-
+junctionem honor immortalitatis infringitur, nec
+ut quibusdam videtur [ex rationabili et concupisci-
+bili et irascibili subsistit, sed magis inesse ei tales
+quidam videntur] affectus, quibus ad hæc singula mo-
+veri possit. Nam corpus quod ex ossibus et carnibus
+constat, initium sumit ex semine viri, quod e me-
+dullis calor eliciens vulvæ quasi terræ consignat,
+cui inhærens ex fonte sanguinis paulatim rigatum,
+in carnem et ossa producitur, atque in speciem au-
+ctoris jacti seminis reformatur.
+
+# block=6
+vis illa spiritus, quæ inesse aquis data est, utpote
+incorporea transcurrens, ad incrementum semina
+suscitat et crescentium species format. Ministerio
+igitur humidi elementi, cui vitalis ille spiritus
+insitus semper et ingenitus est, efficitur ut non
+solum reparetur, sed ut per omnia similis spe-
+cies et forma his quæ jacta fuerint seminibus red-
+eat. Quæ ratio cui vel brevem sensum habenti,
+per irrationabilem naturam, et non per divinam
+sapientiam constare videbitur? Denique etiam hæc
+ad similitudinem humanæ nativitatis formata sunt;
+videtur enim terra vulvæ locum tenere, cui se-
+men injectum per aquæ et spiritus vim, sicut
+supra diximus, et formatur et alitur.
+
+# block=3
+XXVII. Sed et in hoc admiranda est divina Provi-
+dentia, quod videre nos quidem et agnoscere facit
+quæ fiunt, quo modo autem et qualiter fiant, in
+secreto posuit et occulto, ut non indignis ad agni-
+tionem subjaceant, sed dignis et fidelibus cum me-
+ruerint, patefiant. Ut autem rebus ipsis et exemplis
+probemus, nihil omnino ex terrena substantia semi-
+nibus dari, sed totum ex elemento aquæ et spiritus
+qui inest ei virtute constare, pone mihi verbi gratia
+in cratere aliquo amplissimæ magnitudinis injici
+terræ talenta centum, et seminentur in eo diversæ
+species seminum vel olerum vel etiam virgultorum,
+his præbeatur ad rigandum aqua sufficiens, et per
+annos plures habeatur ista diligentia, congregentur
+autem semina quæ collecta fuerint, verbi gratia
+frumenti vel hordei aliarumque specierum per sin-
+gulos annos seorsim, donec uniuscujusque semi-
+nis acervus ad centum talentorum pondus ascen-
+dat, tum etiam arbores avulsæ radicitus appendan-
+tur, et his omnibus ex cratere sumptis appendatur
+terra, ceptum sua nihilominus talenta salva re-
+stituet. Unde ergo dicemus omne illud pondus,
+omnemque quantitatem seminum diversorum atque
+arborum surrexisse? nonne evidenter apparet, quia
+ex aquis? Terra enim quod suum est, integrum
+tenet, aqua vero quæ per singula injecta est, nus-
+quam prorsus est, ob potentem divinæ conditionis
+virtutem, quæ per unam aquæ speciem tantorum
+seminum virgultorumque et substantias reparat, et
+species format, et genus fœnore multiplicato cu-
+stodit.
+
+# block=4
+XXIX. Et vide in hoc Artificis opus (75), quo-
+modo ossa velut columnas quasdam, quibus caro
+sustentetur ac portetur, inseruit. Tum deinde æqua-
+lis ex utraque parte, id est dextera et læva, mea-
+sura servetur, ut congruat pes pedi, et manus ma-
+nui, digiti quoque digitis, ut singuli ad singulos
+totæ æqualitate concordent; sed et oculus oculo, et
+auris auri, quæ non solum consona sibi et concor-
+dantia, sed et usibus necessariis apta formantur.
+Manus quidem ut operi commodæ sint, pedes ut
+gressibus, oculi ut visibus serviant superciliorum
+excubiis custoditi, aures ad audiendum ita formatæ
+ut cymbalo similes suscepti verbi repercussum so-
+nitum altius reddant, et usque ad sensum cordis
+emittant, lingua autem ad loquendum illisa denti-
+bus plectri reddat officium, ipsi vero dentes alii ut
+incidant et dividant cibos et interioribus tradant,
+interiores vero ut in modum molæ conficiant et com-
+minuant, quo opportunius stomacho traditi coquan-
+tur, unde et molares appellati sunt.
+
+# block=10
+XXX. Sed et nares, commeandi flatus et red-
+dendi ac recipiendi gratia factæ sunt, ut innova-
+tione spiritus calor naturalis qui in corde est, vel
+accendi vel refrigerari, cum res poposcerit, queat
+pulmonis officio, qui pectori inhærere datus est
+
+# block=7
+XXVIII. Ex quibus omnibus satis abundeque pa-
+tere puto, artifici sensu et non irrationabili naturæ
+
+# block=8
+⁵⁶⁻⁵⁷ Quæ auctoritate cod. Parisinorum vetustissimorum in textum recepimus, in uncis ea includenda cu-
+ravimus.
+
+# block=9
+COTELERII NOTÆ.
+
+# block=1
+(74) Parvus in alio mundus. Codex Candelerianus,
+alius parvus mundus. Carmeliticus, alius in parvo
+mundus. Eodem sensu : Physici, inquit Macrobius
+lib. II in Somnium Scipionis cap. 12 : Mundum,
+magnum hominem, et hominem, brevem mundum esse
+dixerunt. Quod sic expressum est a Philone Judæo
+libro Quis rerum divinarum hæres, p. 502 : Ἐναλ-
+λάττοντες, βραχὺν μὲν κόσμον τὸν ἄνθρωπον, μέγαν
+δὲ ἄνθρωπον ἔφασαν τὸν κόσμον εἶναι. De nomine
+microcosmo, minori mundo, κόσμῳ συντόμῳ ubique
+
+# block=16
+leges.
+
+# block=2
+(75) Et vide in hoc artificis opus, etc. Totum lo-
+cum confer cumResponsionead interrogationem 140,
+in Cæsarii Dialogis : nec dubitabis asserere a Cæ-
+sario illo suppilatas fuisse Recognitiones. Minus
+conmode Arnobius lib. III : Nam quid in homine
+pulchrum est, quid, quæso, admirabile, vel decorum,
+nisi quod et veterino (legunt clurino e mss. Regio,
+cum etiam scribi potuisset verrino ) cum pecore ne-
+scio quis auctor voluit esse commune"
+
+# block=15
+PATROL. GR. I.
+
+# block=12
+44

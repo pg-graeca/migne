@@ -1,0 +1,204 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,970,144,1723,572
+2,178,743,933,1255
+3,180,149,933,490
+4,964,732,1733,1296
+5,177,1535,1729,1704
+6,178,1345,956,1417
+7,1257,582,1424,616
+8,968,1347,1728,1419
+9,962,1819,1737,2724
+10,1256,1305,1423,1339
+12,590,88,1304,130
+13,440,587,765,625
+14,794,1746,1093,1781
+15,172,1820,938,2731
+16,432,1304,681,1340
+17,971,620,1721,726
+19,185,630,931,734
+21,1643,78,1717,138
+22,169,86,265,136
+23,175,1422,933,1506
+24,967,1420,1735,1506
+25,309,2726,589,2774
+26,1451,2724,1523,2772
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=970 source_y1=144 source_x2=1723 source_y2=572
+est necabis ⁴⁹; omne enim formatum, quod animam
+a Deo accepit, si perimatur, vindicabitur, utpote in-
+juste occisum ⁵⁰. c Non concupisces quæ ad proximum
+tuum pertinent, ut uxorem, aut servum, aut bovem,
+aut agrum ⁵¹. d Non pejerabis, dictum enim est :
+«Non jurabis omnino ⁵² ; » sin minus, saltem pie ac
+vere jura; quia « Laudabitur omnis qui jurat in
+eo ⁵³ . » — e Non dices falsum testimonium ⁵⁴ ; » quo-
+niam « Qui calumniatur pauperem, lacessit eum
+qui illum fecit ⁵⁵. »
+
+# block=2 source_x1=178 source_y1=743 source_x2=933 source_y2=1255
+Οὐ κακολογήσεις· « Μὴ ἀγάπα γὰρ, φησὶ, κακολο-
+γεῖν (20), ἵνα μὴ ἐξαρθῇς.» Οὐδὲ μνησικακήσεις· « Ὁδοὶ
+γὰρ μνησικάκων εἰς θάνατον. » Οὐκ ἔσῃ δίγνωμος,
+οὐδὲ δίγλωσσος· « Παγὶς γὰρ ἰσχυρὰ ἀνδρὶ τὰ ἴδια
+χείλη · » καὶ· « Ἀνὴρ γλωσσώδης οὐ κατευθυνθήσεται
+ἐπὶ τῆς γῆς. » Οὐκ ἔσται ὁ λόγος σου κενός· « Περὶ
+παντὸς γὰρ λόγου ἀργοῦ δώσετε λόγον. » Οὐ ψεύσῃ·
+« Ἀπολεῖς γὰρ, φησὶ, πάντας τοὺς λαλοῦντας τὸ ψεῦ-
+δος. » Οὐκ ἔσῃ πλεονέκτης, οὐδὲ ἅρπαξ· « Οὐαὶ (21)
+γὰρ, φησὶν (22), ὁ πλεονεκτῶν τὸν πλησίον πλεονεξίαν
+κακήν. » Οὐκ ἔσῃ ὑποκριτὴς, ἵνα μὴ τὸ μέρος σου
+μετ' αὐτῶν θῇς.
+
+# block=3 source_x1=180 source_y1=149 source_x2=933 source_y2=490
+τὸ ἐξεικονισμένον, ψυχὴν λαβὸν παρὰ Θεοῦ, φονευθὲν,
+ἐκδικηθήσεται, ἀδίκως ἀναιρεθέν. « Οὐκ ἐπιθυμήσεις
+τὰ τοῦ πλησίον σου, οἷον τὴν γυναῖκα, ἢ τὸν παῖ-
+δα, ἢ τὸν βοῦν, ἢ τὸν ἀγρόν. » Οὐκ ἐπιορκήσεις·
+ἐρῥέθη γὰρ, μὴ ὀμόσαι ⁵⁰ ὅλως· εἰ δὲ μήγε, κἂν
+eὐορκήσῃς· ὅτι· « Ἐπαινεθήσεται πᾶς ὁ ὀμνύων ἐν
+αὐτῷ. » — e Οὐ ψευδομαρτυρήσεις· » ὅτι « ὁ συκοφαν-
+τῶν πένητα, παροξύνει τὸν ποιήσαντα αὐτόν. »
+
+# block=4 source_x1=964 source_y1=732 source_x2=1733 source_y2=1296
+⁵⁶ Non maledices : « Ne diligas enim, inquit, ma-
+ledicere, ne tollaris. » Neque injurias recordaberis :
+« Væ enim eorum qui memores sunt injuriarum, in
+mortem ⁵⁷. » ⁵⁸ Non eris duplicis sententiæ, neque
+duplicis linguæ: « Laqueus enim fortis viro propria
+labia ⁵⁹ ; » et: « Vir linguosus non dirigetur in terra ⁶⁰. »
+Non erit sermo tuus vanus : « De omni enim verbo
+otioso reddetis rationem ⁶¹. » Non mentieris ⁶² :
+« Perdes enim, inquit, omnes qui loquuntur men-
+dacium ⁶³. » Non eris fraudator, neque rapax: « Væ
+enim, inquit, ei qui proximum fraudat fraude ma-
+la ⁶⁴. » Non eris hypocrita, ne partem tuam cum
+cis ponas ⁶⁵.
+
+# block=5 source_x1=177 source_y1=1535 source_x2=1729 source_y2=1704
+⁴⁹ Exod. xxi, 23, in LXX. ⁵⁰ Barn. xix. ⁵¹ Anast. ὀμόσαι. ⁵² Exod. xx, 17. ⁵³ Matth. v, 34.
+⁵⁴ Psal. lxii, 12. ⁵⁵ Exod. xx, 16. ⁵⁶ Prov. xiv, 31. ⁵⁶ Lege Anastasium ibidem, et confer. ⁵⁷ Prov.
+xii, 28. ⁵⁸ I. Barn., cap. 19. ⁵⁹ Prov. vi, 2. ⁶⁰ Psal. cxxxix, 12. ⁶¹ Matth. xii, 36. ⁶² Levit. xix, 11.
+⁶³ Psal. v, 7. ⁶⁴ Barn. xix. ⁶⁵ Matth. xxiv, 51. ⁶⁶ Hoc quoque caput transcribit Anastasius, ibid.
+
+# block=6 source_x1=178 source_y1=1345 source_x2=956 source_y2=1417
+Ἀπαγόρευσις κακοηθείας, προσωποληψίας,
+ὀργῆς, μισανθρωπίας, βασκανίας.
+
+# block=7 source_x1=1257 source_y1=582 source_x2=1424 source_y2=616
+CAPUT IV.
+
+# block=8 source_x1=968 source_y1=1347 source_x2=1728 source_y2=1419
+Interdictio malignitatis, acceptionis personarum, iræ,
+odii erga homines, invidiæ.
+
+# block=9 source_x1=962 source_y1=1819 source_x2=1737 source_y2=2724
+tuere judicavit. Inflata (ἐμφυσωμένη) vel innata
+namque corporibus, vulneratur. Dum hoc fit, aliqua
+propter purificationis causam talibus imperavit, Nec
+prætermitti debent ista Balsamonis ad canonem
+Basilii citatum : Μὴ ὑποκείσθω δὲ φόνου ἑκουσίου
+ἐπιτιμίῳ, διὰ τὸ μὴ εἶναι ἐν φύσει τὸ κυοφορούμε-
+νον, καὶ διὰ τὸ μὴ ἐκ διαθέσεως κακῆς μελετηθῆναι
+tὸν φόνον, ἀλλὰ διὰ φόβον οὐκ ἀγεννῆ. Matthæus
+Blastares legebat φόβον ἀγεννῆ aliquanto melius
+(Nomocanonis littera γ, cap. 28) : Γονέως τυχὸν, ἢ
+δεσπότου, ἢ ἄλλου τινὸς κίνδυνον ἀπειλοῦντος· ὅτι δὲ
+διαφορά ἐστι (ista sensus exigit, et habent codices
+Regii, non διαφθορά, quod inepte ediderunt ac inter-
+pretati sunt) τοῦ κυοφορουμένου, καὶ τοῦ εἰς φῶς
+ἐξελθόντος βρέφους, δῆλόν ἐστιν ἀπὸ τῆς βίβλου τῆς
+Ἐξόδου. COT.
+(19) Ἀργολογίας. In cod. Vind. ἀντιλογίας, per-
+peram. CLER.
+(20) Κακολογεῖν. In LXX Proverb. xx, 13, κατα-
+λαλεῖν. COT. Sic et ms. Vindob. CL.
+(21) Οὐαὶ ὁ πλεονεκτῶν τὸν πλησίον πλεονε-
+ξίαν κακήν. Ex Habac. ii, 9. COT.
+(22) Φησίν. Perperam omittitur in cod. Vind. eo
+quod caret nominativo. Sub subaudiendum, ut in
+antecedentibus, γραφή, aut simile quidpiam. CL.
+(23) Πρόσωπον. Addit. cod. Vind. δυνάστου, pa-
+tentis CL.
+
+# block=10 source_x1=1256 source_y1=1305 source_x2=1423 source_y2=1339
+CAPUT V.
+
+# block=12 source_x1=590 source_y1=88 source_x2=1304 source_y2=130
+CONSTITUTIONES APOSTOLICÆ. — LIB. VII.
+
+# block=13 source_x1=440 source_y1=587 source_x2=765 source_y2=625
+ΚΕΦΑΛΑΙΟΝ Δ'.
+
+# block=14 source_x1=794 source_y1=1746 source_x2=1093 source_y2=1781
+VARIORUM NOTÆ.
+
+# block=15 source_x1=172 source_y1=1820 source_x2=938 source_y2=2731
+ms.) post legalem commistionem viri, mulieres (co-
+lex, et mulieris) lavari. Hoc enim partem animæ
+polluere judicavit. Inflata namque corporibus vulne-
+ratur. Dum hoc (ms. ob hoc) fit aliquam (ms. aliqua)
+propter purificationis causam talibus imperavit. Vi-
+detur in Græco emendandum, ἢ ἄλλῃ μηχανῇ τινι
+προσεκθέσθαι αὐτό. Ut sensus sit hujusmodi : Lex
+mulieribus interdixit, vel hæsitare aliquando in quo-
+quam eorum quæ in illis concepta sunt, vel illud
+corrumpere ac interimere, aut alia quapiam machi-
+natione exponere. Prolis enim interfectrix fit; ani-
+mam nempe auferens, ac genus imminuens. Ergo si
+quis ad concubitum vel corruptionem stuprumque
+processerit, mundus esse non potest. Certe et post
+viri ac mulieris legitimam conjunctionem, lavare
+lex jubet. Animæ siquidem et corporis pollutio inna-
+scitur, velut quasi ad aliam regionem animam demit-
+tant. Etenim anima corporibus insita, male habet,
+atque ab iis iterum per mortem velut secernitur.
+Ideoque puritatis augmentum talibus præcepit. La-
+tina vero Rufini sic constituerim : Lex mulieribus
+interdixit vel celare quod satum est, vel alia machi-
+natione corrumpere. Filii namque necatrix est, ani-
+mam demoliens, et genus imminuens. Igitur si quis
+ad concubitum corruptionemque transierit, immundus
+est. Oportet autem etiam post legalem commistionem
+viri et mulieris lavari. Hoc enim partem animæ pol-
+
+# block=16 source_x1=432 source_y1=1304 source_x2=681 source_y2=1340
+ΚΕΦΑΛΑΙΟΝ Ε'.
+
+# block=17 source_x1=971 source_y1=620 source_x2=1721 source_y2=726
+Interdictio maledicentiæ, iræ permanentis, moris sub-
+doli, otiosi sermonis, mendacii, fraudis, simula-
+tionis.
+
+# block=19 source_x1=185 source_y1=630 source_x2=931 source_y2=734
+Ἀπαγόρευσις κακολογίας, μήνιδος, καὶ ἤθους
+ὑπούλου, ἀργολογίας (19), ψεύδους, πλεονεξίας,
+ὑποκρίσεως.
+
+# block=21 source_x1=1643 source_y1=78 source_x2=1717 source_y2=138
+1002
+
+# block=22 source_x1=169 source_y1=86 source_x2=265 source_y2=136
+1001
+
+# block=23 source_x1=175 source_y1=1422 source_x2=933 source_y2=1506
+Οὐκ ἔσῃ κακοήθης, οὐδὲ ὑπερήφανος· « Ὑπερηφάνοις
+γὰρ ὁ Θεὸς ἀντιτάσσεται. »— e Οὐ λήψῃ πρόσωπον (23)
+
+# block=24 source_x1=967 source_y1=1420 source_x2=1735 source_y2=1506
+⁶⁶ Non eris malignus, neque superbus : « Superbis
+enim Deus resistit ⁶⁷. » — f Non accipies personam in
+
+# block=25 source_x1=309 source_y1=2726 source_x2=589 source_y2=2774
+PATROL GR I
+
+# block=26 source_x1=1451 source_y1=2724 source_x2=1523 source_y2=2772
+32

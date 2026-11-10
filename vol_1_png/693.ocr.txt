@@ -1,0 +1,270 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,159,1266,915,2200
+2,946,1372,1713,2640
+3,161,332,533,1264
+4,947,333,1313,1296
+5,154,2208,529,2643
+6,789,269,1094,303
+8,164,160,918,239
+9,154,2672,1692,2748
+10,602,103,1280,144
+11,153,110,237,154
+12,951,162,1705,246
+13,1635,108,1697,150
+14,537,326,919,1234
+15,1331,330,1701,1304
+16,545,2204,915,2652
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+In Annalibus Michaelis Glycæ pag. 243, 244 ( lo-
+cum Nicephori lib. Ⅲ, cap.37, ut obscuriorem præ-
+termitto) pro falsa ea opinione profertur primo
+factum Dionysii præsulis, qui baptizatum a laico
+baptizavit iterum. Narratio incerta, nec ad rem per-
+tinens, quia baptismus arena non aqua peractus
+dicitur. Referunt Joannes Moschus λειμωναρίου
+cap. 176; Cedrenus edit. Basil. pag. 206 et Nice-
+phorus ubi mox. Profertur secundo auctoritas ca-
+nonum apostolicorum, laicis prohibentium sacer-
+dotalia munia, etiam si necessitas ingruat. Cum in
+toto hoc opere ne verbum quidem de necessitate;
+solummodo a sacris functionibus arcetur plebs lib. Ⅱ,
+cap. 27, lib. Ⅲ, cap. 10, et lib. ult.,cap. 46. Additur in
+Glyca ex Vita S. Athanasii, pueros per Athanasium
+puerum baptizatos, ab Alexandro Alexandrino reba-
+ptizatos fuisse. Verum biographus iste, cujus locum
+reperies in fine tom. Ⅱ S. Athanasii pag. 27 vide-
+tur non intellexisse hæc verba antiquioris biographi
+apud Photium cod. 258 : Τούτους ἐπιχρίσας, διὰ
+τῆς ἐν Χριστῷ σφραγῖδος ἐτελείωσεν : quæ exponi
+debent de consignatione et confirmatione, non au-
+tem de baptismo : sicut liquet per historicos eccle-
+siasticos Rufinum lib. 1, cap. 14, et Sozomenum
+lib. Ⅱ, cap. 17, qui αὐτολεξεί narrant baptismum
+non fuisse iteratum. Hæc quoque reperi in Gregorio
+Hamartolo chonographo nondum edito, ubi de bap-
+tismo arenaceo retulit :
+
+# block=2
+(60) Ἱερείας. Negat quoque S. Epiphanius in
+Christiana religione esse debere ἱερείας et ἱερίσσας,
+ridetque clerum Pepuzianorum Cataphrygum, epi-
+scopos et presbyteros mulieres; item sacerdotissas
+Antidicomarianitarum et Collyridianorum. Addit in
+hac postrema hæresi num. 3,diaconissas sacerdotio
+non fungi. Unde patet error ac erroris origo, tum
+pseudo-Ambrosii ad 1 Tim. Ⅲ, 11, scribentis : Sed
+Cataphrygæ erroris occasionem captantes, propter
+quod post diaconos mulieres alloquitur, etiam ipsas
+diaconas ordinari debere vana præsumptione defen-
+dunt, cum sciant apostolos septem diaconos elegisse.
+Nunquid nulla mulier tunc idonea inventa est, cum
+inter undecim apostolos sanctas mulieres fuisse lega-
+mus ? Sed ut hæretici animum suum verbis, non sensu
+legis astruere videantur, apostoli verbis contra sensum
+innituntur apostoli, ut cum ille mulierem in ecclesia
+in silentio esse debere præcipiat, illi econtra etiam
+auctoritatem in Ecclesia vindicent ministerii, tum
+Mariani Scoti, et Sigeberti, qui adnotant ann. Do-
+mini 525, 526, Acephalos hæreticos dicere, Paulum
+apostolum in Epistolis præcepisse feminas diaconas
+debere fieri, quia eas commemorat post diaconos.
+Nimirum ignorarunt ordinem et functiones diaco-
+nissarum, quas dubio procul in ecclesiis suis nullas
+videbant. Et Ambrosiaster quidem sacerdotissas
+mutavit in diaconissas : Marianus autem ex Cata-
+phrygibus fecit acephalos, lapsu, ut videtur, me-
+moriæ : at Sigebertus Marianum exscripsit. Doctius
+et melius ementito Ambrosio supposititius Hiero-
+nymus in eumdem Scripturæ textum : Similiter eas
+ut diaconos eligi jubet. Unde intelligitur quod de his
+dicat, quas adhuc hodie in Oriente diaconissas appel-
+lant. Et ad Roman. ⅹⅵ, 1 : Sicut etiam nunc in
+Orientalibus diaconissæ mulieres, in suo sexu mi-
+nistrare videntur in baptismo, sive in ministerio verbi,
+quia privatim docuisse feminas invenimus, sicut Pri-
+scillam, cujus vir Aquila vocabatur. Ib.
+
+# block=3
+ρὰ Μουσαίου καὶ Εὐτυχια-
+νοῦ ἀνιέρων ὄντων χειρο-
+τονηθέντας, τοῦ κλήρου
+τελέως ἐκβάλλοντι, καὶ εἰς
+τὴν τῶν λαϊκῶν κατάγοντι
+χώραν. Ὥσπερ οὖν ἐκεῖνοι
+ἀχειροτόνητοι, οὕτω καὶ
+οὗτοι ἀβάπτιστοι λογισθή-
+σονται. Καὶ ὥσπερ οἱ τῶν
+Ἀγαρηνῶν βαπτιζόμενοι
+παῖδες, τῷ μὴ δυσωδίας ἀπ-
+όζειν, Χριστιανοὶ οὐ λογί-
+ζονται· οὕτως οὐδὲ οἱ μύρῳ
+χριόμενοι πρὸς τῶν ἀνιέ-
+ρων, ὅτι μηδὲ δέδοται τοῖς
+τοιούτοις, ἁγιασμοῦ τινος
+ὅλως μεταδιδόναι. Εἰ δέ τις
+ἀνθυποφέρει τὸ παρὰ τοῦ
+μεγάλου Ἀθανασίου ἔτι
+παιδὸς ὄντος γεγονὸς, ἐν-
+θυμηθήτω τὸν θεσπίζοντα
+πολιτικὸν νόμον, ὅτι τὸ
+παρὰ κανόνας, οὐχ ἕλκε-
+ται εἰς ὑπόδειγμα· καὶ οὐ
+νόμος Ἐκκλησίας, τὸ σπά-
+νιον.
+hoc effatum; non est lex
+nit.
+
+# block=4
+ptionem, quæ dicit : Non
+permittimus, ut laicus fa-
+ciat aliquid rerum sacer-
+dotalium, verbi gratia sa-
+crificium vel baptisma,
+vel impositionem manus,
+vel benedictionem tum
+parvam tum magnam.
+Nec enim quisquam sibi
+sumit honorem, sed qui
+vocatur a Deo. Nam per
+impositionem manuum e-
+piscopi, datur hæc digni-
+tas [auctoritas] : qui au-
+tem eam non habet sibi
+commissam, sed illam sibi
+rapuit ac per tyrannidem
+occupavit, peccatum sup-
+pliciumque Saulis et Oziæ
+sustinebit. Non solum hoc,
+sed nec reliquos clericos
+baptismum conferre volu-
+mus ; veluti diaconos, aut
+lectores, aut psaltas, aut
+ministros ; nisi solos epi-
+scopos et presbyteros, mi-
+nistrantibus diaconis. Qui
+autem id præsumpserint,
+Coritarum pœnas ferent.
+
+# block=5
+Ποῦ νῦν εἰσιν οἱ κοσμι-
+κούς τινας καὶ γυναῖκας
+λέγοντες - βαπτίσαι ποτὲ
+κατὰ περίστασιν μὴ παρ-
+όντος ἱερέως, καὶ εἰς
+βάπτισμα θεῖον καὶ τέ-
+λειον αὐτοῖς λογισθῆναι
+φιλονεικοῦντες, μᾶλλον δὲ
+τερατολογοῦντες καὶ βλα-
+σφημοῦντες ἐκ πολλῆς
+ἀγνωσίας καὶ αὐθαδείας,
+μὴ δὲ τῆς ἱερᾶς τῶν ἀπο-
+στόλων διδασκαλίας δὲ πα-
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=8
+ἱερείας (60) χειροτονεῖν, ἀλλ' οὐ τῆς Χριστοῦ διατά-
+ξεως. Εἰ δὲ καὶ ἔδει ὑπὸ γυναικῶν βαπτίζεσθαι, πάν-
+
+# block=9
+(a) Τοῦτο εἴρηται ἐν τῷ γ' βιβλίῳ τῶν ἀποστολικῶν Διατάξεων Hoc dictum est in Ⅲ libro apostolicarum Constitutionum , cap.
+10, 11.
+
+# block=10
+CONSTITUTIONES APOSTOLICÆ.—LIB. Ⅲ.
+
+# block=11
+785
+
+# block=12
+ter naturam eis fungi sacerdotio concedet? Nam
+deabus feminis sacerdotissas creare gentilis impie-
+
+# block=13
+786
+
+# block=14
+Sardicensi, qui a Musæo
+et Eutychiano non sacer-
+dotibus ordinatos, e clero
+penitus ejecit, ac in lai-
+corum ordinem redegit.
+Quemadmodum igitur illi
+ordinatione carent, ita et
+isti pro baptismi experti-
+bus habebuntur. Et sicut
+Agarenorum filii , qui ne
+fetorem redoleant, tin-
+guntur ac baptizantur,
+Christiani non censentur;
+ita nec qui oleo unguntur
+a non sacratis; quoniam
+talibus concessum non est
+quidquam prorsus sancti-
+ficationis impertire. Si
+quis autem præterea obji-
+ciat quod contigit magno
+Athanasio adhuc puero,
+consideret legem civilem
+in cujus statuto dicitur,
+illud quod contra canones
+est, non trahi in exem-
+plum : consideret etiam
+Ecclesia, quod raro eve-
+
+# block=15
+ραγγελίας ἀκούοντες τῆς
+λεγούσης (a)· Οὐκ ἐπιτρέ-
+πομεν λαϊκὸν ποιεῖν τι
+τῶν ἱερατικῶν, οἷον θυ-
+σίαν ἢ βάπτισμα; ἢ χειρο-
+θεσίαν, ἢ εὐλογίαν μικρὰν
+ἢ μεγάλην. Οὐχ ἑαυτῷ
+γάρ τις λαμβάνει τὴν τι-
+μήν, ἀλλ' ὁ καλούμενος
+ὑπὸ τοῦ Θεοῦ. Διὰ γὰρ
+τῆς ἐπιθέσεως τῶν χειρῶν
+τοῦ ἐπισκόπου δίδεται ἡ
+τοιαύτη δόξα [al. ἐξου-
+σία]· ὁ δὲ μὴ ἐγχειρισθεὶς
+ταύτην, ἀλλ' ἁρπάσας καὶ
+τυραννήσας αὐτὴν ἑαυτῷ,
+τὴν ἁμαρτίαν καὶ τὴν τι-
+μωρίαν τοῦ Σαοὺλ καὶ Ὀζία
+[al. Ὀζίου] ὑποστήσεται.
+Οὐ μὴν δὲ ἀλλ' οὐδὲ τοῖς
+λοιποῖς κληρικοῖς ἐπιτρέ-
+πομεν βαπτίζειν, οἷον δια-
+κόνοις , ἢ ἀναγνώσταις, ἢ
+ψάλταις, ἢ ὑπηρέταις, ἢ
+[al. ἀλλ' ἢ] μὴ μόνοις ἐπι-
+σκόποις καὶ πρεσβυτέροις
+ἐξυπηρετουμένων αὐτοῖς
+τῶν διακόνων· οἱ δὲ τολμῶν-
+τες τοῦτο, τῶν Κοριτῶν
+
+# block=16
+Ubi nunc sunt, qui
+aiunt, ut laici et mulieres
+baptizent aliquando, in
+necessitate, absente sacer-
+dote, quique contendunt,
+imo potius ex multa igno-
+rantia et pervicacia pro-
+digiose ac impie affirmant,
+hoc in baptismum divi-
+num perfectumque homi-
+nibus imputari : nec au-
+diunt sacram apostolorum
+doctrinam atque præce-

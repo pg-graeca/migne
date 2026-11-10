@@ -1,0 +1,183 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,226,483,979,1513
+2,1001,1996,1764,2692
+3,1012,1832,1759,1997
+4,1007,1216,1761,1512
+5,1015,145,1769,1211
+6,220,2524,965,2693
+7,223,1998,973,2526
+8,233,139,983,477
+9,1007,1699,1763,1831
+10,294,1553,511,1587
+11,222,1697,976,1999
+12,823,1616,1127,1646
+13,792,86,1177,121
+16,236,87,306,123
+17,1674,80,1764,128
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=226 source_y1=483 source_x2=979 source_y2=1513
+LXX. Cumque in eo jam res esset (55), ut veni-
+rent et baptizarentur, homo quidam inimicus, tunc
+cum paucis admodum ingrediens templum, clamare
+cœpit et dicere : Quid facitis, o viri Isrælitæ? cur
+vobis tam facile subripitur? cur præcipites duci-
+mini ab hominibus infelicissimis, et a [Simone]
+Mago deceptis? Cumque hæc diceret et ad hæc ad-
+deret ac superaretur ab episcopo Jacobo, contur-
+bare populum et seditiones suscitare cœpit, uti ne
+ea quæ dicebantur plebs posset audire. Igitur exa-
+gitare cuncta clamoribus, et quæ fuerant multo
+labore ordinata convellere, simulque incusare sa-
+cerdotes, et opprobriis atque increpationibus cœpit
+accendere, et velut furibundus singulos quosque ad
+cædem concitare, dicens : Quid agitis? quid cessa-
+tis? O segnes et desides, cur non manibus nostris
+invadimus et discerpirnus omnes hos? Et cum hæc
+dixisset, primus rapto ex ara torre robusto cædis
+fecit exordium. Tum deinde et cæteri videntes eum,
+simili efferebantur insania; fit omnium clamor,
+cædentium pariter et cæsorum, sanguis pluri-
+mus funditur, fuga permista habetur, cum inte-
+rim ille inimicus homo Jacobum aggressus, de
+summis gradibus præcipitem dedit, quem cum
+
+# block=2 source_x1=1001 source_y1=1996 source_x2=1764 source_y2=2692
+. (57) Se esse quemdam Stantem. Lib. II, cap. 7,
+11; lib. III, cap. 47; Clement. hom. 2, cap. 22, 24;
+hom. 18, cap. 6, 7, 12, 14; Epitom., num. 25.
+Intelligitur hinc quare Dositheus et Simon Stantis
+nomen sibi assumerent. De primo Origenes tom.
+XIV in Joannem pag. 119, 120 : Οὕτως ἀπὸ Σαμα-
+ρέων Δοσίθεός τις ἀναστὰς ἔφασκεν ἑαυτὸν εἶναι τὸν
+προφητευόμενον Χριστόν· ἐφ' οὗ δεῦρο μέχρι εἰσὶν
+οἱ Δοσιθεινοὶ, φέροντες καὶ βίβλους τοῦ Δοσιθέου, καὶ
+μύθους τινὰς περὶ αὐτοῦ διηγούμενοι, ὡς μὴ γευσα-
+μένου θανάτου, ἀλλ' ἐν τῷ βίῳ που τυγχάνοντος. Sic
+Dositheus quidam exstitit ex Samaritanis, qui se ip-
+sum diceret Christum prophetatum : a quo usque
+nunc Dositheini sunt, libros Dosithei circumferentes,
+et fabulas quasdam enarrantes de eo, perinde quasi
+mortem non degustarit, sed alicubi in hac vita degat.
+De altero Clemens Alexandrinus Varii operis lib. II,
+p. 383 : Οἱ δὲ ἀμφὶ τὸν Σίμωνα, τῷ 'Εστῶτι, ὃν σέ-
+βουσιν, ἐξομοιοῦσθαι τρόπον βούλονται. Simonis au-
+tem sectatores, Stanti quem colunt, volunt assimilari
+moribus. Qui Stromatei locus difficultatem peperit
+
+# block=3 source_x1=1012 source_y1=1832 source_x2=1759 source_y2=1997
+(56) Dealbabantur. Matth. XXIII, 27 : Similes
+estis sepulcris dealbatis. Optatus Milevitanus lib. III :
+In loco Octavensi occisi sunt plurimi, detruncati sunt.
+multi ; quorum corpora usque in hodiernum, per deul-
+batas aras aut mensas poterunt numerari.
+
+# block=4 source_x1=1007 source_y1=1216 source_x2=1761 source_y2=1512
+LXXII. Positis itaque nobis in Hiericho, ibique
+orationibus et jejuniis operam dantibus, Jacobus
+episcopus accersitum me inde huc Cæsaream mit-
+tit, dicens : quia Zacchæus de Cæsarea scripserit
+sibi, Simonem quemdam Samaræum magum plu-
+rimos nostrorum subvertere, asserentem se esse
+quemdam Stantem (57), hoc est alio nomine, Chri-
+
+# block=5 source_x1=1015 source_y1=145 source_x2=1769 source_y2=1211
+mortuum credidisset, ultra mulctare neglexit.
+LXXI. Nostri vero sublatum eum collegerunt;
+erant enim et numero plures quam illi et virtute
+majores, sed propter reverentiam Dei ipsi magis
+patiebantur. Cum autem vespera adfuisset, tem-
+plum quidem sacerdotes claudunt; nos vero ad
+domum Jacobi regressi et pernoctantes ibi in ora-
+tione, ante lucem descendimus Hiericho ad quin-
+que millia viri. Post triduum autem venit ad eos
+ex fratribus quidam a Gamaliele, de quo supra
+diximus, occultos nobis nuntios deferens, quod
+inimicus ille homo legationem suscepisset a Caipha
+pontifice, ut omnes qui crederent in Jesum, per-
+sequeretur et Damascum pergeret cum epistolis
+ejus, ut etiam inibi auxilio usus infidelium, fideli-
+bus inferret exitium; idcirco autem præcipue Da-
+mascum festinaret, quod illuc confugisse crederet
+Petrum ¹². Et post dies fere triginta digressus est
+per Hiericho Damascum tendens, cum per idem
+temporis progressi essemus nos ad sepulera duo-
+rum fratrum quorumdam, quæ sponte sua per an-
+nos singulos dealbabantur (56); quo miraculo mul-
+torum adversum nos repressus est furor, videntium
+haberi nostros in memoria apud Deum.
+
+# block=6 source_x1=220 source_y1=2524 source_x2=965 source_y2=2693
+¹ (55) Cumque in eo jam res esset. Ms. Carmel.
+esset Paulus ; ubi Paulus nota est marginalis, sum-
+pta aut e re ipsa, aut ex Abdia suppositio. Conferri
+autem debet totus locus cum his verbis cap. 43:
+Septimana jam una ex passione Domini complebatur
+
+# block=7 source_x1=223 source_y1=1998 source_x2=973 source_y2=2526
+· (54) Similiter etiam de Paracleto dicimus. Si Pa-
+racletum natum vult dicere, ἀρχαϊκῶς et improprie
+loquitur. Tum deinde honore ac dignitate Patri ac
+Filio sociatum tradiderunt Spiritum sanctum. In
+hoc non jam manifeste discernitur, utrum natus sit
+an innatus. Verba sunt Origenis, in proœmio libro-
+rum De principiis. Dionysius De divinis nominibus
+cap. 2: Πάλιν, ὅτι μὲν ἔστι πηγαία θεότης ὁ Πατήρ,
+ὁ δὲ Ἰησοῦς καὶ τὸ Πνεῦμα τῆς θεογόνου θεότητος,
+εἰ οὕτω χρὴ φάναι, βλαστοὶ θεόφυτοι. Sic Nonnus
+Paraphrasi in Joannem cap. XIV, vers. 63: Παρά-
+κλητον, Χριστῷ σύγγονον appellat, et quemadmo-
+dum cap. II, vers. 64, scripserat, αὐτογόνῳ υἱέϊ, ita
+cap. III, vers. 35, canit, Πνεύματος αὐτογόνοιο. In
+Methodii Symposio orat. 10, sub finem, τὰς δύο
+ἀρχεγόνους δυνάμεις.
+
+# block=8 source_x1=233 source_y1=139 source_x2=983 source_y2=477
+esse in duos (52), vel sicut impii dicunt, eumdem
+masculum et feminam sui effectum (53); sed Fi-
+lium Dei unigenitum dicimus, non ex alio initio,
+sed ex ipso ineffabiliter natum. Similiter etiam de
+Paracleto dicimus (54). Sed et de baptismate cum
+aliquanta dixisset, per septem continuos dies per-
+suasit omni populo et pontifici, ut confestim ad
+percipiendum baptismum festinarent.
+
+# block=9 source_x1=1007 source_y1=1699 source_x2=1763 source_y2=1831
+annorum : ut ex comparatione intelligatur opinio
+nostri, quæ etiam aliorum quorumdam exstitit, de
+conversione Pauli facta post annum a Christi morte
+septimum.
+
+# block=10 source_x1=294 source_y1=1553 source_x2=511 source_y2=1587
+¹² Act. xxii, 5.
+
+# block=11 source_x1=222 source_y1=1697 source_x2=976 source_y2=1999
+(52) Aut unum divisum esse in duos. Gregorius
+Nazianzenus orat. 25, p. 441 : Φεύγονται Οὐαλεντί-
+νου τὴν τοῦ ἑνὸς εἰς δύο κατατομὴν, οὐκ ἄλλον τοῦ
+ἀγαθοῦ τὸν δημιουργὸν πιστεύοντες · quem locum
+perturbate excuderunt ; ἄλλον correctionem et ἄλ-
+λου vitium scripturæ, simul in textum admittentes.
+(53) Vel sicut impii dicunt, etc. Adversus Gno-
+sticæ hæresis consectaneos, hac etiam in parte se-
+quaces philosophorum fabularumque ethnicarum.
+
+# block=12 source_x1=823 source_y1=1616 source_x2=1127 source_y2=1646
+COTELERII NOTÆ.
+
+# block=13 source_x1=792 source_y1=86 source_x2=1177 source_y2=121
+RECOGNITIONUM LIB. I.
+
+# block=16 source_x1=236 source_y1=87 source_x2=306 source_y2=123
+1245
+
+# block=17 source_x1=1674 source_y1=80 source_x2=1764 source_y2=128
+1246

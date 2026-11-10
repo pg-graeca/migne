@@ -1,0 +1,214 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,962,1813,1715,2653
+2,975,1169,1722,1727
+3,980,601,1725,725
+4,173,1806,930,2634
+5,160,600,936,724
+6,179,274,965,484
+7,173,1163,939,1726
+8,975,269,1725,437
+9,184,183,1725,254
+10,175,850,938,1058
+11,912,144,974,176
+12,766,88,1142,123
+13,578,545,1318,583
+16,740,1126,1150,1159
+18,187,93,222,135
+19,922,503,968,539
+20,175,2704,624,2745
+21,1672,80,1736,132
+22,918,752,968,796
+23,912,1068,984,1120
+24,766,1744,1118,1796
+25,1514,2688,1578,2750
+26,156,2656,514,2702
+27,971,846,1737,1060
+28,525,802,1365,846
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+# block=16 fontSize=15px
+# block=18 fontSize=16px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=16px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=26 fontSize=15px
+# block=27 fontSize=15px
+# block=28 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=21
+42
+
+# block=12
+PROOEMIA VARIORUM
+
+# block=18
+64
+
+# block=11
+VIII.
+
+# block=9
+Pseudo-Justinus, seu auctor Quæstionum et responsionum ad orthodoxos, in respons. ad quæst. 74 (inter
+Opera S. Justini martyris, pag. 469, B, edit. Paris. 1742).
+
+# block=8
+Si præsentis rerum status finis est impiorum per
+ignem judicium, prout testantur Scripturæ pro-
+phetarum et apostolorum, atque etiam Sibyllæ,
+ut ait beatus Clemens in Epistola ad Corinthios.
+
+# block=6
+Εἰ τῆς παρούσης καταστάσεως τὸ τέλος ἐστὶν ἡ A
+διὰ τοῦ πυρὸς κρίσις τῶν ἀσεβῶν, καθά φασιν αἱ
+Γραφαὶ προφητῶν τε καὶ ἀποστόλων, ἔτι δὲ καὶ τῆς
+Σιβύλλης, καθώς φησιν ὁ μακάριος Κλήμης ἐν τῇ πρὸς
+Κορινθίους Ἑπιστολῇ.
+
+# block=19
+IX.
+
+# block=13
+Dorotheus Archimandrita, doctrina 23, sub finem.
+
+# block=5
+ὡς λέγει καὶ ὁ ἅγιος ΚλήμηςŁ Κὰν μὴ στεφανωται
+τις, ἀλλὰ σπουδάση μὴ μακρὰν εὑρεθῆναι τῶν
+στεφανομένων.
+
+# block=3
+Ut enim ait et sanctus Clemens : Etiam si quis
+non coronetur, studeat tamen non procul a coronatis
+inveniri. Epist. 2, cap. 7.
+
+# block=22
+X.
+
+# block=28
+Georgius Syncellus, Chronogr., pag. 344, edit. Paris.
+
+# block=27
+Hujus (Clementis) epistola quæ unica genuina
+est, ad Corinthios fertur, tanquam ab Ecclesia
+Romana scripta, seditione tunc temporis, ut te-
+statur Hegesippus, Corinthi orta; quæ etiam ab
+Ecclesia recipitur.
+
+# block=10
+Τοῦτου ἐπιστολὴ ἡ μία γνησία Κορινθίοις φέρεται,
+ὡς ἀπὸ τῆς ὡωμαίων Ἑκκλησίας γραφεῖσα, στάσεως
+ἐν Κορινθίῳ συμβάσης τότε, ὡς μαρτυρεῖ ἡγήσιπ-
+πος, ἥτις καὶ ἐκκλησιάζεται.
+
+# block=23
+XI.
+
+# block=16
+Photius, Biblioth., cod. 113.
+
+# block=7
+ὅὗτός ἐστιν ὁ Κλήμης, περὶ οὗ φησιν ὁ θεσπέσιος
+Παῦλος ἐν τῇ πρὸς Φιλιππησίους ἙπιστολῇŁ Μετὰ καὶ
+Κλήμεντος καὶ τῶν λοιπῶν συνεργῶν μου, ὧν τὰ
+ὀνόματα ἐν βίβλῳ ζωῆς. Οὗτος καὶ ἐπιστολὴν ἀξιόλο-
+γον πρὸς Κορινθίους γράφει, ἥτις παρὰ πολλοῖς ἀπο-
+δοχῆς ἠξιώθη, ὡς καὶ δημοσίᾳ ἀναγινώσκεσθαι. Ἡ
+δὲ λεγομένη δευτέρα πρὸς τοὺς αὐτοὺς, ὡς νόθος
+ἀποδοκιμάζεται · ὥσπερ ἐπιγραφόμενος ἐπ’ ὀνόματι
+αὐτοῦ Πέτρου καὶ ᾈπίωνος πολύστιχος διάλογος.
+Τοῦτόν φασιν οἱ μὲν δεύτερον μετὰ Πέτρον ἐπισκο-
+πῆσαι ὡρώμης, οἱ δὲ τέταρτον · Λῖνον γὰρ καὶ Ἀνά-
+κλητον μεταξύ αὐτοῦ καὶ Πέτρου ὡρώμης ἐπισκόπους
+διαγεγονέναι · τελευτῆσαι δὲ αὐτὸν τρίτῳ ἔτει Τραϊανοῦ.
+
+# block=2
+Hic Clemens ille est, de quo divinus Paulus ad
+Philippenses ait : Cum Clemente et cæteris adjuto-
+ribus meis quorum nomina sunt in libro vitæ ⁶.
+Scripsit idem magni faciendam ad Corinthios
+epistolæ, quæ a plerisque tanto in pretio est ha-
+bita, ut etiam publice legi soleret. At quæ secunda
+dicitur ad eosdem, ut notha rejicitur, quemadmo-
+dum et longa illa disputatio, ipsius Petri et Apio-
+nis nomen falso præferens. Hunc secundum a Petro
+Romæ episcopatum gessisse quidam autumant, alii
+vero quartum : Linum enim et Anacletum, inter
+ipsum et Petrum, Romæ episcopos fuisse, ac tertio
+demum Trajani anno vitam finiisse.
+
+# block=24
+Idem, ibid., cod. 126.
+
+# block=4
+Ἀνεγνώσθη βιβλιδάριον, ἐν ᾧ Κλήμεντος ἐπιστο-
+λαὶ δύο πρὸς Κορινθίους ἐνεφέροντο · ὧν ἡ πρώτη δι’ αἰ-
+τίας αὐτοὺς ἄγει, στάσεσι καὶ ταραχαῖς καὶ σχί-
+σμασι τὴν πρέπουσαν αὐτοῖς εἰρήνην καὶ ὁμόνοιαν
+ἐμπολιτεύεσθαι, λύσαντας, καὶ παραινεῖ παύσασθαι
+τοῦ κακοῦ. Ἀπλοῦς δὲ κατὰ τὴν φράσιν καὶ σαφής
+ἐστιν, καὶ ἐγγὺς τοῦ ἐκκλησιαστικοῦ καὶ ἀπεριέργου
+χαρακτῆρος. Αἰτιάσοιτο δ’ ἄν τις αὐτὸν ἐν ταύταις ·
+ὅτι τε τοῦ ὠκεανοῦ ἔξω κόσμους τινὰς ὑποτίθεται
+εἶναι · καὶ δεύτερον ἴσως, ὅτι ὡς παναληθεστάτῳ τῷ
+κατὰ τὸν Φοίνικα τὸ ὄρνεον ὑποδείγματι κέχρηται ·
+καὶ τρίτον ὅτι ἀρχιερέα καὶ προστάτην τὸν Κύριον
+ἡμῶν Ἰησοῦν Χριστὸν ἐξονομάζων, οὐδὲ τὰς θεόπρε-
+πεις καὶ ὑψηλοτέρας ἀφῆκε περὶ αὐτοῦ φωνάς · οὐ
+μὴν οὐδ’ ἀπαρακαλύπτως αὐτὸν οὐδαμῇ ἐν τούτοις
+βλασφημεῖ. Ἡ δὲ δευτέρα καὶ αὐτὴ νουθεσίαν καὶ
+παραινεσιν κρείττονος εἰσάγει βίου, καὶ ἐν ἀρχῇ
+Χριστὸν τὸν Θεὸν κηρύσσει. Πλὴν ὅτι ῥητά τινα, ὡς
+ἀπὸ τῆς θείας Γραφῆς, ξενίζοντα παρεισάγει · ὧν
+
+# block=1
+Lectus est libellus, in quo Clementis epistolæ duæ
+ad Corinthios continebantur : quarum prima ipsos
+accusat, quod seditionibus, turbis ac dissidiis, pa-
+cem et concordiam quæ inter ipsos versari debue-
+rat, solverint; hortaturque ab hoc malo cessare.
+Est autem dictione simplex ac perspicuus, acce-
+densque ad ecclesiasticam et inelaboratam dicendi
+formam. Reprehenderit vero in illis quisquam :
+quod extra oceanum mundos quosdam existere
+supponit : deinde forte etiam, quod phœnicis avis
+exemplo tanquam verissimo utitur : tertio quod
+Pontificem Præsidemque Dominum nostrum Jesum
+Christum appellans, illas Deo convenientes ac su-
+blimiores de eo voces non protulit; tametsi nec
+aperte ipsum ullibi in his blasphemet. Secunda
+vero et ipsa institutionem ac admonitionem melio-
+ris vitæ inducit; atque in principio Christum Deum
+prædicat. Verum dicta quædam peregrina velut e
+sacra Scriptura subinducit : quibus ne prima qui-
+
+# block=26
+⁶ Ephes. iv, 2.
+
+# block=25
+2
+
+# block=20
+PATROL. GR. I.

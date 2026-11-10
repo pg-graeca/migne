@@ -1,0 +1,236 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,198,1297,946,1419
+2,198,1510,949,1589
+3,198,1424,948,1503
+4,984,300,1726,421
+5,980,213,1719,293
+6,197,1599,950,2683
+7,982,1072,1722,1163
+8,195,994,934,1071
+10,200,301,945,422
+11,982,1209,1720,1291
+12,982,1298,1719,1942
+14,191,1081,946,1203
+16,198,432,939,552
+17,978,646,1720,859
+18,195,864,936,986
+19,195,562,723,635
+21,196,777,946,857
+22,195,73,251,110
+23,194,215,946,294
+24,979,431,1724,647
+25,197,648,951,768
+27,983,1942,1731,2586
+29,980,988,1564,1027
+31,200,1210,947,1289
+32,979,861,1661,941
+33,975,124,1715,210
+34,187,122,945,214
+35,1657,70,1721,114
+36,579,58,1327,120
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=27 fontSize=15px
+# block=29 fontSize=15px
+# block=31 fontSize=15px
+# block=32 fontSize=15px
+# block=33 fontSize=15px
+# block=34 fontSize=15px
+# block=35 fontSize=15px
+# block=36 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=36
+CONSTITUTIONES APOSTOLICÆ. — LIB. VII.
+
+# block=35
+994
+
+# block=22
+993
+
+# block=34
+ζ'. Ἀπαγόρευσις γογγυσμοῦ, καὶ αὐθαδείας, καὶ
+ὑπερηφανίας, καὶ θρασύτητος.
+
+# block=33
+VII. Interdictio murmurationis, pervicaciæ, super
+biæ, feritatis.
+
+# block=5
+VIII. De longanimitate, innocentia, mansuetudine,
+patientia.
+
+# block=23
+η'. Περὶ μακροθυμίας, ἀκακίας, πραότητος,
+ὑπομονῆς.
+
+# block=4
+IX. Quod oporteat doctrinæ Christi magistros pluris
+ducere quam parentes : illi siquidem, bene esse : hi
+vero esse tantum præstant.
+
+# block=10
+θ'. Ὅτι χρὴ τοὺς κατὰ Χριστὸν διδασκάλους,
+γονέων πλεῖον ἡγεῖσθαι· οἱ μὲν γὰρ τὸ εὖ εἶ-
+ναι, οἱ δὲ τὸ εἶναι μόνον παρέχουσιν.
+
+# block=24
+X. Quod non oporteat disjungere se a sanctis, sed
+pacificare contendentes, et judicare juste, et per-
+sonas non accipere.
+XI. De homine duplicis animi, seu modicæ fidei.
+XII. De beneficentia.
+
+# block=16
+ι'. Ὅτι χρὴ μὴ ἀποσχίζειν τῶν ἁγίων, ἀλλ' εἰ-
+ρηνεύειν μαχομένους, κρίνειν τε δικαίως, καὶ
+μὴ προσωποληπτεῖν.
+
+# block=19
+ια'. Περὶ διψύχου, ὀλιγοπίστου ¹.
+ιβ'. Περὶ εὐποιΐας.
+
+# block=17
+XIII. Quales se exhibere debeant famulis domini, et
+quo modo oporteat famulos esse subjectos.
+XIV. De hypocrisi, et legum observantia, et confes-
+sionibus.
+
+# block=25
+ιγ'. Ὅπως δεῖ προσφέρεσθαι τοῖς οἰκέταις τοὺς
+κυρίους· καὶ ὅπως χρὴ ὑποτάσσεσθαι τοὺς οἰ-
+κέτας.
+
+# block=21
+ιδ'. Περὶ ὑποκρίσεως, καὶ προσοχῆς νόμων, καὶ
+ἐξομολογήσεων.
+
+# block=32
+XV. De cultu erga parentes.
+XVI. De subjectione erga regem et magistratus.
+
+# block=18
+ιε'. Περὶ τῆς πρὸς γονέας θεραπείας.
+ιστ'. Περὶ τῆς πρὸς βασιλέα καὶ ἄρχοντας ὑπο-
+ταγῆς.
+
+# block=29
+XVII. De munda conscientia precantium.
+
+# block=8
+ιζ'. Περὶ καθαροῦ συνειδότος τῶν προσευχομέ-
+νων.
+
+# block=7
+XVII. Quod via quæ ex insidiis adversarii adscita
+fuit, impietate ac iniquitate sit plena.
+
+# block=14
+ιη'. Ὅτι ἡ ἐξ ἐπιβουλῆς τοῦ ἀλλοτρίου ἐπεισαχ-
+θεῖσα ὁδὸς, ἀσεβείας καὶ παρανομίας πεπλή-
+ρωται.
+
+# block=11
+XIX. Quod non oporteat a pietate declinare dextror-
+sum vel sinistrorsum, admonet legislator.
+
+# block=31
+ιθ'.Ὅτι μὴ χρὴ τῆς εὐσεβείας ἐκκλίνειν δεξιὰ ἢ
+εὐώνυμα, παραινεῖ ὁ νομοθέτης.
+
+# block=1
+κ'. Ὅτι μὴ χρὴ φαυλίζειν τι τῶν προσφόρων
+βρωμάτων, ἀλλ' εὐχαρίστως μεταλαμβάνειν
+καὶ τεταγμένως.
+
+# block=12
+XX. Quod non oporteat improbare cibum quemlibet
+usui accommodatum, sed cum gratiarum actione et
+ordinate sumere.
+XXI. Quod oporteat abstinere ab esu idolothytorum.
+XXII. Constitutio Dominica, quo modo oporteat bap-
+tizare, et in cujus mortem.
+XXIII. Quibus diebus hebdomadis jejunandum sit, et
+quibus non jejunandum; et cujus rei gratia.
+XXIV. Quales esse oporteat eos qui orant a Domino
+traditam orationem.
+XXV. Gratiarum actio sacramentalis.
+XXVI. Gratiarum actio super divina communione.
+XXVII. Gratiarum actio pro mystico et sacramentali
+unguento.
+
+# block=3
+κα'. Ὅτι χρὴ φεύγειν τὴν τῶν εἰδωλοθύτων
+βρῶσιν.
+
+# block=2
+κβ'. Διάταξις Κυριακὴ, ὅπως χρὴ βαπτίζειν, καὶ
+εἰς τὸν τίνος θάνατον.
+
+# block=6
+κγ'. Ποίας νηστευτέον τῆς ἑβδομάδος ἡμέρας, ἢ
+τίνας οὐ νηστευτέον· καὶ οὗ χάριν.
+κδ'. Ὅλους εἶναι χρὴ τοὺς προσευχομένους τὴν
+ὑπὸ τοῦ Κυρίου δοθεῖσαν προσευχήν.
+κε'. Εὐχαριστία μυστική.
+κστ'. Εὐχαριστία ἐπὶ τῇ θείᾳ μεταλήψει.
+κζ'. Εὐχαριστία περὶ τοῦ μυστικοῦ μύρου.
+κη'. Ὅτι οὐ χρὴ ἀδιαφορεῖν περὶ τὴν κοινωνίαν.
+κθ'. Περὶ καρποφοριῶν διάταξις.
+λ'. Ὅπως χρὴ τὴν ἀναστάσιμον τοῦ Σωτῆρος
+ἡμῶν ἡμέραν, συναθροιζομένους, ἑορτάζειν.
+λα'. Ὅλους εἶναι χρὴ τοὺς χειροτονουμένους.
+λβ'. Πρόῤῥησις περὶ τῶν μελλόντων.
+λγ'. Προσευχὴ ἐξαγγελτικὴ προνοίας διαφόρου.
+λδ'. Προσευχὴ ἐξαγγελτικὴ δημιουργίας δια-
+φόρου.
+λε'. Προσευχὴ μετὰ εὐχαριστίας ἐξαγγέλλουσα
+τοῦ Θεοῦ τὴν περὶ τὰ ὄντα κηδεμονίαν.
+λστ'. Προσευχὴ ὑπομιμνήσκουσα τὴν γενομένην
+Χριστοῦ ἐνανθρώπησιν, καὶ τὴν εἰς τοὺς
+ἁγίους διάφορον πρόνοιαν.
+¹ al. ὀλιγοψύχου.
+
+# block=27
+XXVIII. Quod non oporteat indifferenter ad commu-
+nionem admittere.
+XXIX. De oblationibus constitutio.
+XXX. Quo modo oporteat diem Dominicum nostri
+Salvatoris resurrectioni dicatum, congregatos cele-
+brare.
+XXXI. Quales esse oporteat eos, qui ordinantur.
+XXXII. Denuntiatio de futuris.
+XXXIII. Oratio variam providentiam prædicans.
+XXXIV. Oratio variam creationem prædicans.
+XXXV. Oratio cum gratiarum actione prædicans
+Dei erga creaturas sollicitudinem.
+XXXVI. Oratio commemorans incarnationem Christi,
+et variam erga sanctos providentiam.

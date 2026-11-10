@@ -1,0 +1,173 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,431,1439,779,1474
+2,235,126,991,1205
+3,670,69,1378,107
+4,1016,1484,1789,2137
+5,1211,1435,1589,1476
+6,1023,127,1780,1207
+7,242,71,313,108
+10,229,1483,988,2130
+11,227,2348,981,2700
+12,1013,2353,1766,2665
+13,1701,70,1787,116
+14,517,1392,709,1434
+15,1237,1388,1559,1440
+16,217,2144,1765,2292
+17,829,2292,1149,2340
+18,221,1214,1777,1386
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=431 source_y1=1439 source_x2=779 source_y2=1474
+Oratio pro energumenis.
+
+# block=2 source_x1=235 source_y1=126 source_x2=991 source_y2=1205
+omnium Dominus; qui per Christum discipulos in
+doctores constituisti, ad pietatis disciplinam : ipse
+et nunc respice super servos tuos, catechizatos in
+Christi tui Evangelio; et da eis cor novum, et spi-
+ritum rectum innova in visceribus eorum ⁴⁸, ut co-
+gnoscant ac faciant voluntatem tuam, in corde ple-
+no et anima volente : dignare illos initiatione san-
+cta ; et aduna illos ad sanctam Ecclesiam tuam, et
+fac participes divinorum mysteriorum ; per Chri-
+stum, spem nostram, qui pro ipsis mortuus est;
+per quem tibi gloria et adoratio, in sancto Spiritu,
+in sæcula. Amen. Et post hoc diaconus dicat : Exite,
+catechumeni, in pace. Cumque ii exierint, dicat :
+Orate, energumeni et vexati a spiritibus immundis.
+Intente cuncti pro ipsis deprecemur; ut benignus
+Deus, per Christum increpet immundos ac malos
+spiritus, et liberet supplices suos ab oppressione
+ac tyrannide adversarii : qui increpavit legionem
+dæmonum ⁴⁹, et originem mali diabolum; increpet
+ipse nunc quoque apostatas pietatis ⁵⁰, et liberet
+creaturas suas a diaboli vexatione, et mundet eas,
+quas magna cum sapientia condidit ⁵¹. Adhuc inten-
+te pro ipsis precemur. Serva et erige illos, Deus, in
+virtute tua. Inclinate, energumeni, atque benedi-
+ctionem accipite. Et episcopus deprecetur, dicens :
+
+# block=3 source_x1=670 source_y1=69 source_x2=1378 source_y2=107
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=4 source_x1=1016 source_y1=1484 source_x2=1789 source_y2=2137
+‘Ὁ τὸν ἰσχυρὸν δήσας, καὶ πάντα τὰ σκεύη αὐτοῦ
+διαρπάσας· ὁ δοὺς ἡμῖν ἐξουσίαν ἐπάνω ὄφεων καὶ
+σκορπίων πατεῖν, καὶ ἐπὶ πᾶσαν τὴν δύναμιν τοῦ
+ἐχθροῦ· ὁ τὸν ἀνθρωποκτόνον ὄφιν, δεσμώτην παρα-
+δοὺς ἡμῖν, ὡς στρουθίον παιδίῳ; ὃν πάντα φρίττει
+καὶ τρέμει, ἀπὸ προσώπου δυνάμεώς σου· ὁ ῥήξας
+αὐτὸν ὡς ἀστραπὴν ἐξ οὐρανοῦ εἰς γῆν, οὐ τοπικῷ
+ῥήγματι, ἀλλὰ ἀπὸ τιμῆς εἰς ἀτιμίαν, δι’ ἑκούσιον αὐτοῦ
+κακόνοιαν,· οὗ τὸ βλέμμα ξηραίνει ἀβύσσους, καὶ ἡ
+ἀπειλὴ τήκει ὄρη, καὶ ἡ ἀλήθεια μένει εἰς τὸν αἰῶνα·
+ὃν αἰνεῖ τὰ νήπια, καὶ εὐλογεῖ τὰ θηλάζοντα· ὃν ὕμ-
+νοῦσι καὶ προσκυνοῦσιν ἄγγελοι· ὁ ἐπιβλέπων ἐπὶ τὴν
+γῆν, καὶ ποιῶν αὐτὴν τρέμειν· ὁ ἁπτόμενος τῶν ὀρέων,
+καὶ καπνίζονται· ὁ ἀπειλῶν θάλασσαν, καὶ ξηραίνων
+αὐτὴν, καὶ πάντας τοὺς ποταμοὺς αὐτοὺς (12) ἐξερη-
+
+# block=5 source_x1=1211 source_y1=1435 source_x2=1589 source_y2=1476
+Ὑπὲρ τῶν ἐνεργουμένων.
+
+# block=6 source_x1=1023 source_y1=127 source_x2=1780 source_y2=1207
+αὐτοὺς ὁ χειροτονηθεὶς ἐπίσκοπος εὐλογίαν τοιάνδε· ‘Ὁ
+Θεὸς (7) ὁ παντοκράτωρ, ὁ ἀγέννητος καὶ ἀπρόσιτος,
+ὁ μόνος ἀληθινὸς Θεὸς, ὁ Θεὸς καὶ Πατὴρ τοῦ Χρι-
+στοῦ σου τοῦ μονογενοῦς Υἱοῦ σου, ὁ Θεὸς τοῦ Παρα-
+κλήτου (8), καὶ τῶν ὅλων Κύριος· ὁ διὰ Χριστοῦ δι-
+δασκάλους τοὺς μαθητὰς ἐπιστήσας πρὸς μάθησιν τῆς
+εὐσεβείας· αὐτὸς καὶ νῦν ἔπιδε ἐπὶ τοὺς δούλους σου,
+τοὺς κατηχουμένους τὸ Εὐαγγέλιον τοῦ Χριστοῦ σου·
+καὶ δὸς αὐτοῖς καρδίαν καινὴν, καὶ Πνεῦμα εὐθὲς ἐγ-
+καίνισον ἐν τοῖς ἐγκάτοις αὐτῶν, πρὸς τὸ εἰδέναι καὶ
+ποιεῖν τὸ θέλημά σου, ἐν καρδίᾳ πλήρει καὶ ψυχῇ θε-
+λούσῃ· καταξίωσον αὐτοὺς τῆς ἁγίας μυήσεως, καὶ
+ἕνωσον αὐτοὺς τῇ ἁγίᾳ σου Ἐκκλησίᾳ, καὶ μετόχους
+ποίησον τῶν θείων μυστηρίων, διὰ Χριστοῦ, τῆς ἐλ-
+πίδος ἡμῶν, τοῦ ὑπὲρ αὐτῶν ἀποθανόντος· δι’ οὗ σοι
+δόξα καὶ τὸ σέβας, ἐν ἁγίῳ Πνεύματι, εἰς τοὺς αἰῶ-
+νας. Ἀμήν. Καὶ μετὰ τοῦτο ὁ διάκονος λεγέτω· Προέλ-
+θετε, οἱ κατηχούμενοι, ἐν εἰρήνῃ· καὶ μετὰ τὸ ἐξελ-
+θεῖν αὐτοὺς, λεγέτω· (9) Εὔξασθε, οἱ ἐνεργούμενοι
+ὑπὸ πνευμάτων ἀκαθάρτων. Ἐκτενῶς πάντες ὑπὲρ
+αὐτῶν δεηθῶμεν· ὅπως ὁ φιλάνθρωπος Θεὸς, διὰ
+Χριστοῦ ἐπιτιμήσῃ τοῖς ἀκαθάρτοις καὶ πονηροῖς
+πνεύμασι, καὶ ῥύσηται τοὺς αὐτοῦ ἱκέτας (10) ἀπὸ
+τῆς τοῦ ἀλλοτρίου καταδυναστείας· ὁ ἐπιτιμήσας τῷ
+λεγεῶνι τῶν δαιμόνων, καὶ τῷ ἀρχεκάκῳ διαβόλῳ,
+
+# block=7 source_x1=242 source_y1=71 source_x2=313 source_y2=108
+1079
+
+# block=10 source_x1=229 source_y1=1483 source_x2=988 source_y2=2130
+‘Qui fortem ligasti, et cuncta vasa ejus diripui-
+sti ⁵²; qui dedisti nobis potestatem calcandi supra
+serpentes et scorpiones, et super omnem virtutem
+inimici ⁵³; qui homicidam serpentem vinctum tradi-
+disti nobis, sicut passerem pueris ⁵⁴; quem omnia
+horrent, ac tremunt a facie potestatis tuæ; qui
+eundem e cœlo in terram sicut fulgur decidere fe-
+cisti ⁵⁵, non casu locali ⁵⁶, sed ab honore in igno-
+miniam, propter voluntariam ipsius malitiam; cu-
+jus aspectus exsiccat abyssos ⁵⁷; et minæ liquefa-
+ciunt montes ⁵⁸, et veritas manet in æternum ⁵⁹;
+quem laudant infantes, et benedicunt lactentes ⁶⁰;
+quem celebrant atque adorant angeli ⁶¹; qui respi-
+cis super terram, et facis eam tremere; qui tangis
+montes, et fumant ⁶²; qui increpas mare, et exsic-
+
+# block=11 source_x1=227 source_y1=2348 source_x2=981 source_y2=2700
+mi Jacobi Goar., p. 359, appellantur ὀρφανοί, pro-
+cul dubio quod e pupillis ac destitutis Ecclesiæque
+eleemosyna indigentibus assumi solerent. COT.
+(7) Ὁ Θεός. In cod. Vind. præfigitur : Κεφ. ζ′,
+χειροθεσία τῶν κατηχουμένων, additurque minutio-
+ribus litteris : τῆς ἁγίας ἀναφορᾶς τοῦ ἁγίου ἀπο-
+στόλου Ἀνδρέου. CLER.
+(8) Τοῦ Παρακλήτου. Additur in cod. Vind. προ-
+βολεύς et omittitur Θεός: nam Filius et Spiritus san-
+ctus dicebantur προβολαὶ Πατρός. Vide Dion. Petav.
+
+# block=12 source_x1=1013 source_y1=2353 source_x2=1766 source_y2=2665
+vii opus De Trinitate, tom. II; Dogm. theol., lib. V,
+c. VII, 7, 8, 9; et lib. VIII, c. X, 5.
+(9) Additur hic in cod.Vind. Κεφ. ζ′. Προσφώνη-
+σις ὑπὲρ τῶν ἐνεργουμένων. CLER.
+(10) Ἱκέτας. Alter cod. οἰκέτας, servos domesti-
+cos. ID.
+(11) In utroque codice hoc caput inscribitur Χει-
+ροθεσία ἐπὶ τῶν, ἐνεργουμένων. ID.
+(12) Αὐτούς. Deest in cod. Vind. ID.
+
+# block=13 source_x1=1701 source_y1=70 source_x2=1787 source_y2=116
+1080
+
+# block=14 source_x1=517 source_y1=1392 source_x2=709 source_y2=1434
+CAPUT VII.
+
+# block=15 source_x1=1237 source_y1=1388 source_x2=1559 source_y2=1440
+ΚΕΦΑΛΑΙΟΝ Ζ′ (11).
+
+# block=16 source_x1=217 source_y1=2144 source_x2=1765 source_y2=2292
+⁴⁸ Psal. L, 12. ⁴⁹ Marc. v, 9. ⁵⁰ Zach. III, 2. ⁵¹ l. Ignat. interpol. ad Smyrn. 7. ⁵² Matth. XII,
+29. ⁵³ Luc. X, 19. ⁵⁴ Job XL, 24 apud LXX. ⁵⁵ Luc. X, 18. ⁵⁶ Pseudo-Ignat. ad Philipp. X, 4,
+9; XI, XII. ⁵⁷ Psal. CV, 9; Isa. LI, 10. ⁵⁸ Psal. XCVI, 5; Isa. LXIV, 1. ⁵⁹ Psal. CXVI, 2. ⁶⁰ Psal. VIII,
+3. ⁶¹ Psal. XCVI, 8. ⁶² Psal. CIII, 32.
+
+# block=17 source_x1=829 source_y1=2292 source_x2=1149 source_y2=2340
+VARIORUM NOTÆ.
+
+# block=18 source_x1=221 source_y1=1214 source_x2=1777 source_y2=1386
+ἐπιτιμήσῃ αὐτὸς καὶ νῦν τοῖς ἀποστάταις τῆς εὐσεβείας, καὶ ῥύσηται τὰ ἑαυτοῦ πλάσματα ἀπὸ τῆς
+ἐνεργείας αὐτοῦ, καὶ καθαρίσῃ αὐτὰ ἃ μετὰ πολλῆς σοφίας ἐποίησεν. ἔτι ἐκτενῶς ὑπὲρ αὐτῶν δεηθῶμεν.
+Σῶσον καὶ ἀνάστησον αὐτοὺς ὁ Θεὸς, ἐν τῇ δυνάμει σου. Κλίνατε, οἱ ἐνεργούμενοι, καὶ εὐλογεῖσθε. Καὶ ὁ
+ἐπίσκοπος ἐπευχέσθω, λέγων·

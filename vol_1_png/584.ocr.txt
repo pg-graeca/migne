@@ -1,0 +1,183 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,225,132,977,352
+2,201,490,968,2703
+3,837,444,1157,489
+4,621,73,1359,120
+6,1712,72,1763,119
+8,207,78,287,126
+9,1001,496,1771,2670
+10,1013,136,1769,348
+11,219,352,1771,438
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+merito judicavit. Tu vero, si hæc uti placeas fece-
+ris, legis violator, exsecrabilis eris apud Deum, qui
+te ad imaginem suam fecit. Si ergo placere Deo vo-
+lueris, abstine ab iis omnibus, quæ odit ipse, nihil-
+que efficias eorum, quæ illi displicent.
+
+# block=2
+ἀπόκαρσις, Ægyptiaca, opinor, deliciis, vel su-
+perstitioni, vel utrique dicata. Hæc qualis fuerit
+cum sit incertum, diversimode solent sacra verba
+exponi ab antiquis de cirro, cincinnis, crispa cæ-
+sarie, de capillis promissis et intonsis, de κόμη aut
+de κουρᾷ ἐκ πλαγίου; circa quod legito : Pollucem
+lib. 11, cap. 3, num. 5; Herodotum in Melpomene
+cap. 175; Plutarchum in Vita Thesei paulo post ini-
+tium, una cum Dione Chrysostomo de regno orat. 2,
+post principium, Suida ad vocem Ἀπόνοια, Sidonio
+lib. 1, epist. 2, Aldhelmo opere De laudibus virgini-
+tatis cap. 28, et aliis de tonsura et rasura in rotun-
+dum. Atque hanc Tertullianus cap. 4 Libri de pal-
+lio, et Sidonius lib. iv, epist. 13, cum multis com-
+memorant. Invenies explicationes istas, si percur-
+reris versiones variarum linguarum, Maimonidis li-
+brum De idololatria, Rabbinos, Scholium Græcum,
+S. Cyprianum, II ad Quirinum 83, Hieronymum ad
+Jeremiæ ix, 26; Hesychium lib. vi in Leviticum,
+Suidam in Αἰσόης , Theodoritum in Leviticum
+quæst. 28, atque ex hoc postremo scribentem au-
+ctorem Quæstionum post Quæstiones ad Antiochum,
+cusarum tom. II S. Athanasii, sect. 28, quem sic
+emendo : Τινὲς τὴν σισόην ἄλλως ἡρμήνευσαν. Ἐγὼ
+δὲ οἶμαι τὴν ἀπόκαρσιν τὸν νόμον ἀπαγορεύειν. Εἰώ-
+θασιν γὰρ οἱ Ἕλληνες μὴ ἀποκείρειν τῶν παίδων τὰς
+κορυφὰς, καὶ τοὺς μαλλοὺς ἐᾷν, καὶ τούτους μετὰ
+χρόνον ἀνατιθέναι τοῖς δαίμοσιν. Id est, Sisoem qui-
+dam aliter interpretati sunt. Ego vero arbitror lege
+prohiberi capillorum tonsuram. Consuevere enim Græ-
+ci capita puerorum non attondere, promitti vero co-
+mam relinquere, eamque postmodum dæmonibus con-
+secrare. Profecto nomen פאת non intellectum, reli-
+quit Theodotio, τὸ φαάθ. Præterea verbum חקפו si
+deducatur a יקף, circumdabitis et rotundabitis signi-
+ficat, id quod ad cirros adduci potest; si a נקף, am-
+putabitis et attondebitis, quod secuti sunt alii. Si-
+militer σισόην referre licet ad שיצא, שצא, שצה,
+et ad ציצת, Græcorum σίσυν, σισύραν, quorum
+prius tonsuram, annulatos crines posterius respi-
+cit. Unde Hesychius utraque conjunxit. Insuper,
+inquit, nec comam in rotundum tondere, id est non
+radere in rotundum aspectum capitis, sicut et Sym-
+xix, 27 disseritur? Multo minus ad rem Francisci
+Turriani et Caroli Bovii, interpretum, ἐντομίδες, in-
+cisiones, Levit. xix, 28; xxi, 5; Jerem. xvi, 6,
+cruciamentum, non ornamentum. An cum verbis
+Levitici xix, 27, voluit jungere textum Levit. xxi,
+5 : Καὶ φαλάκρωμα οὐ ξυρηθήσεσθε τὴν κεφαλὴν ἐπὶ
+νεκρῷ· καὶ τὴν ὄψιν τοῦ πώγωνος οὐ ξυρήσονται. Et
+calvitium non rademini caput, super mortuum : et
+aspectum barbæ non radent? Verum hoc in testimo-
+nio non cultus, sed luctus designatur. Quid si ἀνα-
+ξυρίδες σισόην explicant, secundum mentem Sym-
+machi, qui interpretatur οὐ περιξυρήσετε κύκλῳ τὴν
+πρόσοψιν τῆς κεφαλῆς ὑμῶν. Non radetis in rotun-
+dum aspectum capitis vestri. Nisi dicatur id, affir-
+mandum restat ἀναξυρίδας ex superiori contextu
+huc irrepsisse; eam tamen affirmationem ægre ad-
+miserim absque mss. codicum auctoritate. Cl. Sal-
+masius audaci, ut solet, conjectura, legebat εἴτουν
+περιξυρίδα. Id. — Crediderim libri hujus auctorem
+voce ἀναξυρίδες, intellexisse τὰς ἄνω ξυρήσεις, hoc
+est, cæsariet tonsuras, quæ ad ornatum faciebant.
+Ad sonum potius vocis allusit, quam ad veram si-
+gnificationem quæ e solo usu petenda. CLER.
+
+# block=3
+VARIORUM NOTÆ.
+
+# block=4
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=6
+568
+
+# block=8
+567
+
+# block=9
+machus edidit; quemadmodum etiam hi facere con-
+sueverunt, qui barbaricas student comas; propter
+quod, hoc LXX σισόην, forsitan propter magnitudinem
+concursorum (sic) capillorum appellaverunt. Et qui-
+busdam interjectis : Sed nec cincinnos nutrire in ho-
+norem dæmonum, capillis aliis fortiores, et hoc (f.
+hos) vovere; student enim hoc pagani, caput puero-
+rum offerre dæmonibus. Unde de hoc maxime oportet
+putari legislatorem præcipere. Igitur in tanta varie-
+tate ac obscuritate, non est facile arguendus anti-
+quus poeta Chœrilus, qui apud Josephum lib. I
+contra Apionem, Judæos appellat κορυφὰς τροχοκου-
+ρίδας, capillis sub rotunditate detonsis, interprete
+Rufino; præsertim quia circularis hujus aut semi-
+circularis tonsuræ, ὑποτροχάλου, et περιτροχάλου,
+περιτρόχου, apud Herodotum lib. III, cap. 8, Plu-
+tarchum De mulierum virtutibus, paulo ante finem,
+Agathiam Scholasticum De imperio et rebus gestis
+Justiniani lib. I non multo post initium, Nicetam
+Choniatem De Andronico Comneno lib. I, num. 9,
+Pollucem loco citato, et Hesychium in voce Σκά-
+φιον, excogitari potuerunt plures figuræ; harum-
+que aliquam in Veteri Testamento non velitam ni-
+hil impedit, quo minus Judæi assumpserint. Pari
+modo epithetum ὀπισθοκόμων, quod Galilæis tri-
+buit Nonnus in Joann. II, 2, quodque, ut et Home-
+ricum ὄπισθεν κομόωντες, Machlyibus applicari
+queat ex Herodoto lib. IV, cap. 180, Saracenis apud
+Theodorum Mopsuestenum, et multis aliis populis,
+non certo pugnat cum præcepto Levitici. Cæterum
+citatus Rufini locus in mendo cubat, sed parva
+opera in rectum statuetur per Græca Josephi. Scri-
+be meo periculo : Postremum vero transibant genus
+mirabile visione, linguam quidem Phœnissam ore
+proferentes, habitantes autem in Solymis montibus,
+ubi palus amplissima est. Juvenes (corrupte legebat
+ἀκμαλέοι pro αὐχμαλέοι) capillis sub rotunditate de-
+tonsis, super equos erectos (ἀρτά male loco δαρτά)
+habentes vultus, et quasi fumo siccatos. Plura Cl.
+Salmasius, cujus librum De coma nondum legeram,
+cum superiora scriberem, ut necdum vidi dialogum
+ab illo eadem de re scriptum. COT.
+(36) Οὐκ ἀπομυδαρώσετε, κ. τ. λ. Proponit aliis
+verbis legem Levitici xix, 27 : Οὐδὲ φθερεῖτε τὴν
+ὄψιν τοῦ πώγωνος ὑμῶν, Neque corrumpetis aspe-
+ctum, seu effigiem, seu faciem barbæ vestræ; latam
+adversus ritum, aut superstitiosum juxta nonnul-
+los, aut luxuriosum juxta cæteros, quibuscum no-
+ster sentit, necnon auctor istius Scholii in Catena
+ms. : “Ὥσπερ κωλύει καλλωπίζεσθαι, οὕτως καὶ ἐπὶ
+νεκρῷ κόπτεσθαι. Emacula ex codicibus regiis Zo-
+naram, ubi exponit canonem 96 synodi Constanti-
+nopolitanæ in Trullo habitæ, ac rescribe illic : Οἷς
+δὲ προήκων ὁ χρόνος, κατὰ συστήματα σχεδὸν ποιεῖ
+τὰς τρίχας τοῦ πώγωνος φύεσθαι, ἵνα μὴ τὴν ὑπήνην
+φέροιεν καθειμένην, οὗτοι ἀπέχονται μὴν ξυροῦ, κε-
+ράμου δέ τι (male vulgo ἐστὶ) θραῦσμα ἄνθραξιν ἐκ-
+πυρούμενον, τῇ ὑπήνῃ προσφέρουσι, καὶ τούτῳ τοῦ
+πώγωνος ἅπαν ἐκτεφροῦσι τὸ αἰωρούμενον. Verbo
+autem μαδαρόω utuntur Septuaginta Nehemiæ XIII,
+25. Quod sequitur, τοῦτο, etc., pressius vertetur
+sic : Nam hoc, carere barba, mulieribus decorum esse
+Creator Deus fecit; viris autem non convenire judi-
+cavit. COT.
+
+# block=10
+τρίχα διαφθείρειν, καὶ τὴν μορφὴν τοῦ ἀνθρώπου
+παρὰ φύσιν ἐξαλλάσσειν. « Οὐκ ἀπομαδαρώσετε γὰρ,
+φησὶν ὁ νόμος, τοὺς πώγωνας ὑμῶν (36). » Τοῦ-
+το γὰρ γυναιξὶν εὐπρεπὲς ὁ κτίσας ἐποίησε Θεός·
+ἀνδράσι δὲ ἀνάρμοστον ἐδικαίωσε. Σὺ δὲ ταῦτα ποιῶν
+
+# block=11
+διὰ ἀρέσκειαν, ἐναντιούμενος τῷ νόμῳ, βδελυκτὸς γενήσῃ παρὰ Θεῷ τῷ κτίσαντί σε κατ’ εἰκόνα ἑαυτοῦ.
+Ἐὰν οὖν θέλῃς Θεῷ ἀρέσκειν, ἀπόσχου πάντων ὧν μισεῖ αὐτὸς, καὶ μηδὲν πρᾶσσε τῶν αὐτῷ ἀπαρεσκόντων.

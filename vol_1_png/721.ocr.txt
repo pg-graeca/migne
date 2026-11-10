@@ -1,0 +1,195 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,182,1310,938,2679
+2,960,1318,1722,2079
+3,963,120,1719,1158
+4,175,124,932,1153
+5,792,1256,1096,1291
+7,216,1184,1508,1234
+8,300,2676,570,2719
+9,601,51,1280,108
+12,1655,66,1707,109
+13,963,2070,1722,2679
+15,175,68,239,114
+16,1529,2672,1593,2716
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=16px
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+CONSTITUTIONES APOSTOLICÆ.-LIB. V.
+
+# block=12
+842
+
+# block=15
+841
+
+# block=3
+etiam alia de resurrectione dicta sunt, et de jus-
+torum gloria immortali, et de impiorum supplicio,
+casu, rejectione, damnatione, ignominia, æterno
+igne, et verme perpetuo ¹⁶. Quod vero si voluisset
+omnes homines esse immortales, id facere potue-
+rit, ostendit per Enochum et Eliam, quos mortis
+periculum facere non permisit ¹⁷. Et quod pro vo-
+luntate potestatem habuerit, mortuos excitandi
+singulis sæculis, tum per se, tum per alios, id mani-
+festum fecit; quando filium viduæ per Eliam ¹⁸, et
+filium Sunamitidis per Elisæum resuscitavit ¹⁹. Per-
+suasum autem habemus, obitum non esse merce-
+dem supplicii, cum et sancti illum subierint, imo
+et ipse sanctorum Dominus Jesus Christus, vita fide-
+lium, ac resurrectio mortuorum. Idcirco igitur ad
+tempus quasi in magna civitate degentibus, post
+certamina, inducit ad breve tempus mortem, ut sin-
+gulos resuscitans aut reprobet, aut coronet. Nam qui
+Adami corpus ex terra fecit, post interitum corpus
+primi hominis et reliquorum excitabit; prout id de-
+betur rationali hominum naturæ, aimus perpetuo
+vivere. Qui ergo dissolutionem corporis et animæ in-
+fert, idem et resurrectionem operatur: et qui dixit:
+Accepit Dominus pulverem de terra, et formavit ho-
+
+# block=4
+δρόσος ἡ παρὰ σοῦ ἴαμα αὐτοῖς ἐστι. » Πολλὰ μὲν οὖν
+καὶ ἕτερα περὶ τῆς ἀναστάσεως εἴρηται, καὶ περὶ τῆς
+τῶν δικαίων ἐν δόξῃ διαμονῆς, καὶ περὶ τῆς τῶν ἀσε-
+βῶν τιμωρίας, πτώσεως, ἀποστροφῆς, καταδίκης, ἀδο-
+ξίας, πυρὸς αἰωνίου, καὶ σκώληκος ἀτελευτήτου. Καὶ
+ὅτι εἰ ἐβούλετο πάντας ἀνθρώπους εἶναι ἀθανάτους,
+ἡδύνατο, ἔδειξε τὸν Ἐνὼχ καὶ τὸν Ἠλίαν, μὴ ἐάσας
+θανάτου πεῖραν λαβεῖν. Εἰ δὲ καὶ κατὰ γενεὰν τοὺς τε-
+λευτῶντας ἀνιστᾶν ἤθελε, καὶ δι' ἑαυτοῦ καὶ δι' ἑτέρων
+τοῦτο δῆλον (15) ἐποίησε· τὸν μὲν υἱὸν τῆς χήρας,
+διὰ Ἠλίου ἀναστήσας, καὶ τὸν τῆς Σωμανίτιδος διὰ
+Ἐλισαίου. Πειθόμεθα δὲ μὴ μισθὸν τιμωρίας εἶναι
+τὸν θάνατον (14), ἐξ ὧν αὐτὸν καὶ ἅγιοι ὑπέστησαν,
+ἢ καὶ αὐτὸς ὁ τῶν ἁγίων Κύριος Ἰησοῦς ὁ Χριστὸς, ἡ
+ζωὴ τῶν πιστῶν καὶ ἡ ἀνάστασις τῶν νεκρῶν· διὰ
+τοῦτο οὖν τέως ὡς ἂν (15) ἐν μεγαλοπόλει (16) πολι-
+τευομένοις, μετὰ τοὺς ἄθλους ἐπάγει πρὸς ὀλίγον τὴν
+διάλυσιν, ἵνα ἀναστήσας ἕκαστον ἀποκηρύξῃ (17) ἢ
+στεφανώσῃ. Ὁ γὰρ τοῦ Ἀδὰμ τὸ σῶμα ἐκ γῆς ποι-
+ήσας (18), καὶ τῶν λοιπῶν καὶ τοῦ πρώτου μετὰ διά-
+λυσιν τὸ σῶμα ἀναστήσει, πρὸς τὸ χρεωστεῖσθαι (19)
+τοῦτο τῇ λογικῇ τῶν ἀνθρώπων φύσει, λέγομεν δὴ τὸ
+δικαιωΐζειν. Ὁ τοίνυν τὴν διάλυσιν ἐπάγων, αὐτὸς καὶ
+τὴν ἀνάστασιν ποιεῖται· καὶ ὁ εἰπὼν · Ὅτι ἔλαβε Κύ-
+
+# block=7
+¹⁶ Isa. LXVI, 24. ¹⁷ Hebr. XI, 5; Matth. XVII, 11. ¹⁸ II Reg. XVII, 22. ¹⁹ IV Reg. IV, 35.
+
+# block=5
+VARIORUM NOTÆ.
+
+# block=1
+(13) Τοῦτο δῆλον. Deest hoc in altero codice, et
+pro ἐποίησε est ἔπεισε, hoc est, persuasit ἀντὶ τοῦ
+manifestum fecit, quod suspicor esse glossema. CLER.
+(14) Μὴ μισθὸν τιμωρίας εἶναι τὸν θάνατον. Re-
+jicit, lib. VIII, cap. 12, Pelagianorum dogma; Ada-
+mum, sive peccasset, sive non peccasset, e vita mi-
+graturum. Hoc autem loco, obitum negat esse
+mercedem supplicii, seu supplicium ac pœnam.
+Quod catenus verum est, ut mors non sit supplicium
+peccatorum propriorum; nec sit solummodo pœna,
+sed etiam occasio meriti, et gratia. Γίνεται φιλαν-
+θρωπία ἡ τιμωρία, inquit Gregorius Theologus,
+orat. 38 et 42. Siquidem homines, moriendo;
+peccati originalis pœnas pendunt; bene moriendo, glo-
+riam immortalitatis adipiscuntur. Et Deus, cum hu-
+manum genus ad mortem damnavit, suam quoque
+misericordiam patefecit: utpote qui ita malum
+compresserit, finem imposuerit peccato, viam fece-
+rit revocationi ad meliorem resurrectionis statum,
+aliaque nobis asportarit commoda, quæ fuse a san-
+ctis Patribus explicantur, potissimum a Gregorio
+Nysseno, cap. 8 catecheticæ magnæ orationis, Chry-
+sostomo, Lib. ad eos qui scandalizati sunt, cap. 7, et
+Ambrosio, opere De bono mortis. Lepide Theodo-
+ritus, quæst. 40, in Genesim: Ἰατρεία τοίνυν ὁ
+θάνατος, οὐ τιμωρία ἐστίν: Medicina igitur mors
+est, non pœna. Caveri tamen debet error eorum, qui
+nimiis laudibus mortem efferunt, noluntque agno-
+scere ortum illius a peccato. Qualis Theodorus Mop-
+suestenus, in Constituto Vigilii papæ, in collatione
+4 concilii generalis v, et apud Photium cod. 177.
+Qualis cum Theodoro Nestorius, tradente Mose Bar-
+Cepha Syro in parte III Commentariorum de para-
+diso, cap. 8, tom. I Bibliothecæ Patrum. Et quales
+Pelagiani, notissimi eo nomine. Deus igitur consu-
+lens hominibus, cum sciret eos ad malitiam pronos,
+et voluptatum ac desideriorum carnis amatores, et vel-
+let ad honestam potius revocare virtutem, sivit usque
+ad tempus aliquod dominationi mortis addici. Quippe
+cum nihil aliud nosset tam facile homines coercere
+posse quam mortem. Ac paulo post: Non igitur ho-
+
+# block=2
+minibus mortem datam pro malorum vice dicimus,
+sicut ratiocinantur indocti, sed ad delendam penitus
+pravitatem. Nam si victuri perpetuo homines essent,
+numquam profecto eorum malitia finiretur. Rursus
+etiam cur pro malorum vicissitudine mortem datam
+esse credam, cum si quis centum homines fere vel
+amplius occiderit, tot et tantis homicidiis exæquare
+nullam valeat ultionem? Non igitur malignis tantum
+hominibus, ad delendam eorum pravitatem, bona
+mors esse dicitur, sed etiam justis utilis. Aliisque
+pluribus in eamdem sententiam interpositis. : Mul-
+tis igitur testibus edocti quod mors ista communis
+mala non sit, jam longe valere dicamus qui mortem
+malam appellant. Hactenus verba Rufini Palæstinæ
+provinciæ presbyteri, libro De fide, auctoris quem
+Jacobo Sirmondo debemus, quique cum catholicis
+affirmat, primos homines Adamum et Evam, si man-
+datum Dei servassent, mortem non fuisse gustatu-
+ros, cum hæreticis vero peccati traducem inficiatur,
+impugnat eos qui propter peccatum Adæ mori in-
+fantes asserunt, aitque Henochum et Eliam ab
+Adami prævaricatione prohibitos non esse, perma-
+nere immortales. Cor.
+
+# block=13
+(15) Ἅν. Deest in altero cod. CLER.
+(16) Ἐν μεγαλοπόλει. Lux huic loco ex Zonara
+ad canonem Trullanum 51: Ἐν ταῖς πόλεσι δὲ ταῖς
+μεγίσταις θηρία ἐτρέφοντο λέοντες καὶ ἄρκτοι, καὶ
+κατά τινας καιροὺς ἐξήγοντο εἰς τὰ θέατρα, καὶ ποτὲ
+μὲν ταύροις ἐμάχοντο, ποτὲ δὲ καὶ ἀνθρώποις, αἰχμα-
+λώτοις τυχὸν, ἢ κατακρίτοις. Verum in maximis ur-
+bibus feræ bestiæ, leones, nimirum, ursique aleban-
+tur; et statis temporibus producebantur in theatra,
+atque nonnumquam cum tauris, nonnumquam cum ho-
+minibus, puta captivis, aut damnatis committebantur.
+Cor.
+(17) Ἀποκηρύξῃ. Præfigitur in altero ἤ, aut re-
+probet, ut in versione. CLER.
+(18) Ποιήσας. Alter καὶ τῶν λοιπῶν κατασκευάσας
+αὐτός. ID.
+(19) Πρὸς τὸ χρεωστεῖσθαι. Desunt in altero
+hæc verba et seqq.. usque ad ἀνάστασιν. ID.
+
+# block=16
+27
+
+# block=8
+PATROL. GR. I.

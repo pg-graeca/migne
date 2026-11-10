@@ -1,0 +1,204 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,300,1218,1057,1619
+2,1085,1215,1840,1625
+3,1088,1695,1839,2706
+4,310,1850,1061,1982
+5,311,1980,1064,2577
+6,319,2573,1067,2712
+7,277,171,1043,989
+8,307,1618,1062,1850
+9,281,1053,1813,1131
+10,912,1158,1207,1193
+12,1088,1623,1834,1698
+13,667,113,1440,150
+14,1075,164,1841,1034
+15,287,116,342,154
+17,1730,104,1824,152
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=16px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=17 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+244
+
+# block=13
+S CLEMENTIS I ROM. PONT. OPERA GENUINA
+
+# block=15
+243
+
+# block=14
+σιν (18) αἰγείοις, καὶ μηλωταῖς περιεπάτησαν, κη-
+ρύσσοντες τὴν ἔλευσιν τοῦ Χριστοῦ· λέγομεν δὲ Ἡλίαν
+καὶ Ἐλισσαῖον, ἔτι δὲ καὶ Ἰεζεκιὴλ τοὺς προφήτας,
+πρὸς τούτοις καὶ τοὺς μεμαρτυρημένους. Ἐμαρτυρήθη
+μεγάλως Ἀβραάμ, καὶ φίλος προσηγορεύθη τοῦ Θεοῦ·
+καὶ λέγει, ἀτενίζων εἰς τὴν δόξαν τοῦ Θεοῦ, ταπει-
+νοφρονῶν (19) · Ἐγὼ δέ εἰμι γῆ καὶ σπόδος. Ἔτι
+δὲ καὶ περὶ Ἰὼβ οὕτως γέγραπται· Ἰὼβ ἦν δίκαιος
+καὶ ἄμεμπτος, ἀληθινὸς, θεοσεβὴς, ἀπεχόμενος
+ἀπὸ παντὸς κακοῦ· ἀλλ' αὐτὸς ἑαυτοῦ κατηγ[ορῶν]
+εἶπεν (20)· Οὐδεὶς καθαρὸς ἀπὸ ῥύ[που, ἐὰν καὶ (21)]
+μιᾶς ἡμέρας ἡ ζωὴ αὐτο[ῦ.] Μωϋσῆς πιστὸς ἐν ὅλῳ
+[τῷ οἴκῳ] αὐτοῦ ἐκλήθη, καὶ διὰ τῆς [προστα]σίας
+αὐτοῦ ἔκρινεν ὁ Θεὸς λ[ῦσαι τὸν Ἰσραὴλ] διὰ (22)
+τῶν μαστίγων, καὶ τῶν [αἰκι]σμάτων αὐτῶν· ἀλλὰ κά-
+κεῖ[νος] δοξασθεὶς μεγάλως οὐκ ἐμ[εγαλορῥημονήσεν,
+ἀλλ' εἶπεν, ἐ[κ τῆς] βάτου χρηματισμοῦ αὐτῷ δεδο-
+[μέ]νου (23) · Τίς εἰμι ἐγὼ, ὅτι με πέμπ[εις;] ἐγὼ
+δέ εἰμι ἰσχνόφωνος καὶ βρ[α]δύγλωσσος. Καὶ πάλιν
+λέγει · Ἐγὼ δέ εἰμι ἀτμὶς ἀπὸ χύτρας (24).
+
+# block=7
+caprinis et melotis circumierunt ⁹³ prædicantes
+Christi adventum : dicimus autem prophetas Eliam
+et Eliseum, adhuc et Ezechielem, ac præterea eos
+qui præclarum testimonium consecuti sunt. Magno
+testimonio ornatus est Abraham, et Dei amicus ⁹⁴
+appellatus est : hic autem intente respiciens ad
+gloriam Dei, humiliter ait : Ego autem sum terra
+et cinis ⁹⁵. Adhuc autem et de Job ita scriptum est :
+Job erat justus et sine crimine, verax, colens Deum,
+abstinens ab omni malo ⁹⁶; sed ille se ipsum ac-
+cusans dicit : Nemo mundus a sorde, etsi unius diei
+sit vita ejus ⁹⁷. Moyses fidelis in tota domo ejus
+appellatus est ⁹⁸, et per ejus ministerium statuit
+Deus populum Israelis liberare a suis plagis et
+contumeliis; sed ille magno honore affectus, gran-
+dia locutus non est ; imo dum e rubo datum esset
+illi oraculum, dixit : Quis sum ego, quod me mit-
+tis ? Ego vero sum gracili voce et tardus lingua ⁹⁹. Et
+iterum ait : Ego autem sum vapor ex olla.
+
+# block=9
+⁹³ Heb. xı, 37. ⁹⁴ II Paral. xx, 7; Isa. xLı, 8; Jac. ıı, 23. ⁹⁵ Gen. xvııı, 27. ⁹⁶ Job ı, 1. ⁹⁷ Job
+xıv, 4, sec. LXX. ⁹⁸ Num. xıı, 7; Heb. ııı, 2-5. ⁹⁹ Exod. ııı, 11; ıv, 10.
+
+# block=10
+VARIORUM NOTÆ
+
+# block=2
+ἀπὸ, hiatumque non nisi undecim litteras admittere.
+Ipse itaque legit λ[αὸν αὐτοῦ Ἰσλ] διά. Al. aliter.
+Ego vero chasma istud sic sanandum censeo : "Ἔκρι-
+νεν ὁ Θεὸς ΛΥΣΑΙ ΤΟΝ ἸΣΛ διὰ τῶν μαστίγων. Ut
+sensus sit : decrevisse Deum eruere e captivitate
+Ægyptiaca Israelem, dum flagellis et contumeliis
+acrius premebatur. Eadem enim vi pollere mihi
+videtur h. l. præpositio διά, qua I Pet. III, 20.
+Ὄλιγαι... ψυχαὶ διεσώθησαν δι' ὕδατος : Pauca.....
+animæ salvæ factæ sunt per aquam, id est, medias
+inter undas Noemus ejusque familiam Deus serva-
+vit incolumem. GALL.
+
+# block=1
+(18) Οἵτινες ἐν δέρμασιν, κ. τ. λ. Clem. Alex.
+Στρῳμ., lib. IV, cap. 17, a cap. 12 hujus epist.
+transit ad præsens cap. 17 nonnulla hinc excerpens.
+GALL. — Οἵτινες ἐν δέρμασιν. Hic locus ex II ad
+Hebræos desumptus est, prout tota hæc narratio de
+fide et obedientia patriarcharum : similitudinem
+sensuum et verborum, quam Patres inter Episto-
+lam ad Hebræos, et hanc Clementis esse dixe-
+runt, ex hoc loco et aliis facile deprehendere
+potest diligens et attentus lector. Clemens Alex.,
+lib. IV Strom. addit, καὶ τριχῶν καμηλείων πλέ-
+γμασι. JUN.
+
+# block=8
+(19) Ταπεινοφρονῶν. Ms. exhibet ταπεινοφρωνων:
+unde posterius ων redundare existimo; adeo ut le-
+gendum sit ταπεινόφρων : quod aptius consentit
+cum analogia et syntaxi Græcæ linguæ, in qua duo
+participia rarius concurrunt absque copula. Sic
+infra sub initium cap, 19, simili errore legitur in
+ms. ταπεινοφρονον pro ταπεινόφρων. Wott. GALL.
+
+# block=12
+(23) Δεδωμένου. Sic ms. apud Wott. At codd.
+impp. διδομένου. ID.
+
+# block=3
+(24) Ἐγὼ δέ εἰμι. Plura in hunc locum, viri
+docti. Mihi magis arridet sententia Fabricii in Cod.
+pseud. Vet. Test., tom. I, pag. 848. Putat igitur
+ipse hoc dictum desumptum quidem vel ex psal.
+CXVIII, 83, vel ex Osee XIII, 3, sed non referendum
+ad Moysen. Nam, inquit, cum S. Clemens, post
+verβα Moysis ex Exod. III, 11, et Iv, 10, subdit :
+Καὶ πάλιν λέγει, non Moysen quidem, sed alium
+sacrum scriptorem respexit : ita enim solenne apud
+Christianos scriptores, ex diversis sacræ Scripturæ
+codicibus citata loca conjungere. ID. — Ἐγὼ δέ
+εἰμι ἀτμὶς ἀπὸ χύτρας. Recte observatum Henrico
+Casaubono de lingua Hebraica scribenti, p. 112,
+nimium ingenio suo indulgere virum doctum Joan-
+nem Chiffletium, quando in apologetica Parænesi
+ad linguam sanctam, num. 60, ut verba Moysis
+Exodi VI, 12, ad Clementina hæc accommodet, He-
+braicam veritatem sollicitat, transferendo ואني ערל
+שפתים, in ואني ערל לשפתים, quæ nihili sunt. Addit
+Casaubonus, ex corruptione ejusdem loci Græci ἐγὼ
+δέ εἰμι ἀπερίτμητος τοῖς χείλεσιν videri factum ἐγὼ
+δέ εἰμι ἅπερ ἀτμὶς ἀπὸ χύτρας : nec considerat
+homo litteratus, præter alia, illud ἀπερίτμητος τοῖς
+χείλεσιν e Theodotionis editione desumi, qui multo
+post Clementem vixit. Restat ut acceptus sit textus
+a quodam apocrypho, uno forsan ex iis quæ Moysis
+nomen præferebant. Similitudinem vero nonnullam
+habent testimonia, Jobi XLI, 11 : De naribus ejus,
+procedit fumus, sicut ollæ succensæ atque ferventis;
+psalm. cr, 4 : Defecerunt sicut fumus dies mei,
+
+# block=4
+(20) Εἶπεν. Ita cod. ms. At Jun. cum editis,
+præter Londin. litteris miniatis aut hamis inclusum
+exhibet λέγει; perinde ac si nihil hic exstaret in
+ms. Iv.
+
+# block=5
+(21) Ἐὰν καί. Ita lacunam supplet Wott. pro
+quo Jun. cum editis, οὐδὲ εἰ. Mill. εἰ καί. Cotel. vel
+οὐδ' ἄν vel ἐὰν καί, vel κἄν. Plura in hunc Jobi
+locum observat lectu digna Cl. Sabatierius in Bi-
+blior. sacror. Latinis versionib. antiq. tom. I,
+pag. 856. Ib. ― Οὐδὲ εἰ μιᾶς ἡμέρας ἡ ζωὴ αὐτοῦ,
+vel οὐδ' ἄν, vel ἐὰν καί, vel κἄν. Primum reperies
+in Clemente Alexandrino Strom. III et IV, p. 468,
+516, et Origene homil. 5 in Geremiam, et tomo XV
+in Matthæum, ad cap. XIX, vers. 29. Secundum in
+Constitutionibus apostolicis, lib. II, cap 18; Epipha-
+nio hæresi 59, cap. 1; Chrysostomo Serm. in Præ-
+cursorem Domini, tomo VI, et Gregorio Nysseno
+Oratione de pœnitentia, tom. II; tertium in Codi-
+cibus vulgatis. Ultimum in Philone Judæo libro De
+nominum mutatione : μιᾶς ἡμέρας habent multi,
+alii μία ἡμέρα; Catena vero ms. in Jobum cod. 495,
+bibliothecæ Regiæ, μίαν ἡμέραν. COT.
+
+# block=6
+(22) Λῦσαι τὸν Ἰσραὴλ διά. Jun. cum editis :
+Ῥῦσαι τὸν Ἰσραὴλ ἀπό : contra cod. ms. fidem,
+quem testatur Mill. apud Russelium, lacunæ initio
+exhibere litteram λ non ρ, et præpositionem διά non

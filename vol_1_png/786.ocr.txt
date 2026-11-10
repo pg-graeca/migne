@@ -1,0 +1,180 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,262,538,1020,1889
+2,260,2164,1014,2700
+3,1048,2631,1797,2702
+4,263,429,1011,499
+5,1055,537,1809,1895
+6,1047,2567,1793,2633
+7,1048,2167,1812,2567
+8,258,1938,1807,2043
+9,523,376,749,408
+10,1300,377,1558,413
+11,1047,144,1802,272
+12,1057,428,1807,532
+13,263,135,1015,266
+15,869,2081,1192,2117
+17,682,83,1396,124
+18,263,264,1813,368
+19,247,66,329,116
+20,1741,92,1813,140
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=262 source_y1=538 source_x2=1020 source_y2=1889
+Legem enim naturalem non sustulit, sed confir-
+mavit. Nam qui in lege dixerat : ‹ Dominus Deus
+tuus, Dominus unus est ¹⁸; › idem in Evangelio
+ait : ‹ Ut cognoscant te solum verum Deum ¹⁹. ›
+Et qui dixerat : ‹ Diliges proximum tuum, sicut
+teipsum ²⁰; › in Evangelio id renovans ait : ‹ Man-
+datum do vobis, ut diligatis invicem ²¹. › Qui tunc
+vetuit homicidium; nunc etiam iram immerito sus-
+ceptam vetat ²²; qui adulterium, nunc pravam quo-
+que cupiditatem; qui furtum, nunc beatiorem præ-
+dicavit eum, qui ex suis laboribus suppeditat pau-
+peribus ²³; qui tunc odium inimicorum præcepit,
+nunc eorum amorem jubet; qui ultionem, nunc to-
+lerantiam ²⁴; non quod injusta sit omnis ultio, sed
+quod præstantior est tolerantia. Neque vero per
+has leges voluit affectus naturales exscindere, sed
+eorum immoderationem. Qui præscripsit, honorem
+parentibus tribuere, ipse iis subjectus fuit ²⁵; qui
+legem sanxit de Sabbati vacatione propter legum me-
+ditationem habenda, nunc jussit nos quotidie leges
+creationis ac providentiæ reputantes, gratias Deo
+agere ²⁶. Circumcisionem abolevit, implendo eam in
+seipso; ipse enim erat is cui erat repositum, exspe-
+ctatio gentium ²⁷. Qui lege sanxit ut sancte juraretur,
+et pejerare vetuit, nunc neque jurare admonuit ²⁸.
+Baptisma, sacrificium, sacerdotium, cultum certo
+loco addictum, aliter mutavit : siquidem pro quoti-
+diana lavatione, unum solummodo baptisma dedit,
+quod in ipsius mortem peragitur : et pro una tribu,
+jussit ex unaquaque gente optimos ad sacerdotium
+eligi; et non inspici an corpora labem contraxerint,
+
+# block=2 source_x1=260 source_y1=2164 source_x2=1014 source_y2=2700
+* (41) Ἐντολήν. Addit codex Vind. καινήν, recte.
+CLER.
+(42) Ὁ μῖσος. Locus plane ἐλλειπτικός. Igitur
+qui ante me interpretati sunt, repetito ex superio-
+ribus verbo vetandi in odio, suppleverunt verbum
+jubendi in dilectione inimicorum. Ego vero propter
+Matthæi cap. v, quo manifeste respicitur, aliter ver-
+tendum putavi, et adjeci utrobique verbum præ-
+ceptionis : juxta illud auctoris qui dicitur, nec est
+Eusebius Emisenus, hom. 2 de Epiphania : Bonum
+vinum, id est bonum præceptum est legis, quando au-
+dis : ‹ Diliges proximum tuum, et odio habebis ini-
+micum tuum, › Sed melius et fortius vinum est E-
+vangelii, quando audis : ‹ Ego autem dico vobis,
+diligite inimicos vestros, et benefacite his qui oderunt
+vos. › Forsan tamen melius usus fuissem permissio-
+
+# block=3 source_x1=1048 source_y1=2631 source_x2=1797 source_y2=2702
+(44) Λογικήν. Præfigit cod. Vind. δεικτικῶς ar-
+ticulum τήν, rectius, ID.
+
+# block=4 source_x1=263 source_y1=429 source_x2=1011 source_y2=499
+Quo modo Christus fuerit perfector legis; et quænam
+ex ea aboleverit, aut mutarit, aut transtulerit.
+
+# block=5 source_x1=1055 source_y1=537 source_x2=1809 source_y2=1895
+Τόν τε γὰρ φυσικὸν νόμον οὐκ ἀνεῖλεν, ἀλλ' ἐβε-
+βαίωσεν. Ὁ γὰρ εἰρηκὼς ἐν τῷ Νόμῳ· « Κύριος ὁ
+Θεός σου, Κύριος εἷς ἐστιν· » ὁ αὐτὸς ἐν τῷ Εὐαγγε-
+λίῳ λέγει· « Ἵνα γινώσκωσί σε τὸν μόνον ἀληθινὸν
+Θεόν. » Καὶ ὁ εἰρηκώς· « Ἀγαπήσεις τὸν πλησίον
+σου ὡς σεαυτόν· » ἐν τῷ Εὐαγγελίῳ λέγει ἀνανεού-
+μενος· « Ἐντολὴν δίδωμι ὑμῖν, ἵνα ἀγαπᾶτε ἀλ-
+λήλους. » Ὁ φόνον τότε ἀπαγορεύσας, νῦν εἴκαθεν
+ὀργήν· ὁ μοιχείαν, νῦν καὶ ἐπιθυμίαν ἔκνομον· ὁ
+λῃστείαν, νῦν ἐμακάρισε μᾶλλον τὸν ἐξ οἰκείων πό-
+νων ἐπιχορηγοῦντα τοῖς δεομένοις· ὁ μῖσος (42), νῦν
+καὶ πρὸς ἐχθροὺς ἀγάπην· ὁ ἄμυναν, νῦν ἀνεξικα-
+κίαν, οὐκ ἀδίκου τῆς δικαίας ἀμύνης οὔσης, ἀλλὰ
+κρείττονος τῆς ἀνεξικακίας. Οὔτε δὲ τὰ φυσικὰ πάθη
+ἐκκόπτειν ἐνομοθέτησεν, ἀλλὰ τὴν τούτων ἀμετρίαν.
+Ὁ γονεῖς προστάξας τιμᾷν, αὐτὸς τούτοις ὑπετάγη·
+ὁ σαββατίζειν δι' ἀργίας νομοθετήσας διὰ τὴν τῶν
+νόμων μελέτην, νῦν καθήμεραν ἐκέλευσεν ἡμᾶς
+ἀναλογιζομένους δημιουργίας καὶ προνοίας νόμον,
+εὐχαριστεῖν Θεῷ. Τὴν περιτομὴν ἔπαυσεν, εἰς ἑαυτὸν
+πληρώσας· αὐτὸς γὰρ ἦν ᾧ ἀπέκειτο ἡ προσδοκία
+τῶν ἐθνῶν. Ὁ εὐορκεῖν νομοθετήσας, καὶ τὸ ἐπιο-
+κεῖν ἀπαγορεύσας, τὸ μηδ' (43) ὀμνύναι παρήγγειλε.
+Τὸ βάπτισμα, τὴν θυσίαν, τὴν ἱερωσύνην, τὴν τοπι-
+κὴν λατρείαν, ἑτέρως μετεποίησεν· ἀντὶ μὲν καθη-
+μερινοῦ, ἓν μόνον δοὺς, βάπτισμα, τὸ εἰς τὸν αὐτοῦ
+θάνατον· ἀντὶ δὲ μιᾶς φυλῆς, ἀφ' ἑκάστου ἔθνους
+προστάξας τοὺς ἀρίστους εἰς ἱερωσύνην προχειρίζε-
+σθαι, καὶ οὐ τὰ σώματα μωμοσκοπεῖσθαι, ἀλλὰ θρη-
+σκείαν καὶ βίους· ἀντὶ θυσίας τῆς δι' αἱμάτων, λογι-
+κὴν (44) καὶ ἀναίμακτον καὶ τὴν μυστικήν, ἥτις εἰς
+
+# block=6 source_x1=1047 source_y1=2567 source_x2=1793 source_y2=2633
+(43) Μηδ'. Codice Vindobonensi μηδ' ὅλως, ino-
+lius. CLER.
+
+# block=7 source_x1=1048 source_y1=2167 source_x2=1812 source_y2=2567
+nis verbo, in priori parte : quo modo explicant
+evangelistam Hilarius canone 4, et Augustinus lib.
+I, de sermone Dei in monte, cap. 21. Castigandus
+autem hic venit Casaubonus, dum Gregorium Nys-
+senum ipse vult castigare, sic scribentem in Epi-
+stola ad Eustathiam, Ambrosiam et Basilissam,
+paulo post initium : Κατὰ τοῦ τὴν ἐντολὴν δεδωκό-
+τος. Ὁ μὲν γάρ φησιν· « Ἀγαπήσεις τὸν πλησίον σου,
+καὶ μισήσεις τὸν ἐχθρόν σου. » Neque enim per dato-
+rem mandati Nyssenus intelligit Christum, quod vi-
+sum Casaubono, sed Deum, ut ex antecedentibus
+facile datur colligi. COT.
+
+# block=8 source_x1=258 source_y1=1938 source_x2=1807 source_y2=2043
+¹⁷ Luc. II, 21. ¹⁸ Deut. VI, 4. ¹⁹ Joan. XVII, 3. ²⁰ Levit. XIX, 18. ²¹ Joan. XIII, 34. ²² Matth. V, 22.
+²³ Act. XX, 35. ²⁴ Matth. V, 7, 43 30. ²⁵ Luc. II, 51. ²⁶ S. Ignat. interpol. ad Magn. 9 ²⁷ Gen.
+XLIX, 10. ²⁸ Matth. V, 33.
+
+# block=9 source_x1=523 source_y1=376 source_x2=749 source_y2=408
+CAPUT XXIII.
+
+# block=10 source_x1=1300 source_y1=377 source_x2=1558 source_y2=413
+ΚΕΦΑΛΑΙΟΝ ΚΓ'.
+
+# block=11 source_x1=1047 source_y1=144 source_x2=1802 source_y2=272
+καὶ ἐγένετο ὁ νομοθέτης αὐτὸς, πλήρωμα τοῦ νόμου·
+οὐκ ἀνελεῖν τὸν φυσικὸν νόμον, ἀλλὰ παῦσας τὰ διὰ
+τῆς Δευτερώσεως ἐπείσακτα, εἰ καὶ μὴ πάντα.
+
+# block=12 source_x1=1057 source_y1=428 source_x2=1807 source_y2=532
+Πῶς πληρωτὴς τοῦ νόμου γέγονεν ὁ Χριστός· καὶ
+τίνα τοῦτον ἔπαυσεν, ἢ ἐνήλλαξεν, ἢ μετέ-
+θηκεν.
+
+# block=13 source_x1=263 source_y1=135 source_x2=1015 source_y2=266
+ea vero cessare fecit, implendo illa prius : siquidem
+et circumcisus est, et aspersus ¹⁷; item sacrificia
+et holocausta obtulit, aliosque ritus usurpavit;
+
+# block=15 source_x1=869 source_y1=2081 source_x2=1192 source_y2=2117
+VARIORUM NOTÆ.
+
+# block=17 source_x1=682 source_y1=83 source_x2=1396 source_y2=124
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=18 source_x1=263 source_y1=264 source_x2=1813 source_y2=368
+fuitque ipse legislātor, plenitudo legis; non sublata lege naturali sed abolitis iis, quæ per Deuterosim
+ascita erant, tametsi non omnibus.
+
+# block=19 source_x1=247 source_y1=66 source_x2=329 source_y2=116
+971
+
+# block=20 source_x1=1741 source_y1=92 source_x2=1813 source_y2=140
+972

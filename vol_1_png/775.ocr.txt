@@ -1,0 +1,239 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,187,2375,944,2678
+2,190,1379,948,1746
+3,191,1144,945,1382
+4,188,1744,946,2377
+5,202,116,954,418
+6,980,1147,1743,1615
+7,989,116,1741,461
+9,194,924,1738,1031
+10,980,562,1738,907
+11,194,565,958,906
+13,799,1073,1098,1113
+14,977,1621,1734,1756
+15,1359,1763,1738,2134
+16,201,64,256,102
+17,619,62,1332,103
+18,966,1760,1346,2135
+19,964,2138,1345,2677
+20,1356,2138,1740,2677
+21,1665,56,1739,110
+22,313,468,849,516
+23,1165,462,1549,510
+24,309,516,849,560
+25,1169,514,1549,562
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=187 source_y1=2375 source_x2=944 source_y2=2678
+ (87) Ἐπ' ὀνόματι Χριστοῦ. Salvator nullum vo-
+lumen doctrinæ suæ proprium dereliquit : quod in
+plerisque apocryphorum deliramenta confugiunt. Hie-
+ronymus ad Ezech. xliv, 29. Scilicet, Domini et
+Servatoris nostri Jesu Christi nomen pleraque apo-
+crypha gerebant in fronte : verbi gratia, Epistola
+Jesu ad Abgarum regem, a multis post Eusebium
+memorata ; et in synodo Romana Gelasii, cum dicta
+epistola, liber De infantia Salvatoris, liber De nati-
+
+# block=2 source_x1=190 source_y1=1379 source_x2=948 source_y2=1746
+(85) Βαπτίζετε δὲ ὑμῶν καὶ τὰ νήπια. Apostoli
+et apostolici viri in periculo mortis constitutos in-
+fantes baptizabant statim; cæteros tardius aut ci-
+tius, pro arbitrio parentum, certisque circumstan-
+tiis : quo factum ut variæ postea viguerint consue-
+tudines in ætate baptizandorum puerorum. Eas
+colliges ex Tertulliano, lib. De baptismo, cap. an-
+tepenult.; Cypriano epist. 59 et Gregorio Nazianzeno
+orat. 40, p. 658. Sane ab Origene et Augustino
+baptismus parvulorum apostolica dicitur traditio.
+COT.
+
+# block=3 source_x1=191 source_y1=1144 source_x2=945 source_y2=1382
+(82) Ἐπιστρέψαι. In eodem præponitur φησί.
+Citatur Ecclesiasticus, quamvis suppresso nomine
+et φησί refertur ad eum qui verba, quæ leguntur hic,
+scripsit. Sic sæpe fit apud scriptores ecclesiasticos,
+ut viri docti notarunt in epistol. Barnabæ. Sic et
+Latini, inquit, non addito nomine inquientis, quod
+sæpe in Seneca occurrit. CLER.
+
+# block=4 source_x1=188 source_y1=1744 source_x2=946 source_y2=2377
+(84) Ὅτα. Ὅποῖα, in ms. Vind. CL.
+(85) Κρατυθέντα. Idem κρατυθέντα. ID.
+(86) Οἱ περὶ Σίμωνα καὶ Κλεόβιον. Recognit. ,
+lib. II, n. 38. Hieronymus in Matthæi xxiv, 5 :
+Quorum unus est Simon Samaritanus, quem in Acti-
+bus apostolorum legimus, qui se magnam dicebat esse
+virtutem : hæc quoque inter cætera in suis volumini-
+bus scripta dimittens : Ego sum sermo Dei, ego sum
+speciosus, ego Paracletus, ego omnipotens, ego omnia
+Dei. Auctor libri De divinis nominibus, cap. 6 :
+Σίμωνα. Scriptoris illius Christi miracula, quæ fe-
+bren ad concilium Nicænum : Sibi autem perfidi isti
+Simonitæ Evangelium effinxerunt, quod in quatuor
+tomos secantes, librum quatuor angulorum et cardi-
+num mundi appellarunt. De Cleobii scriptis alibi
+non legi; sed vero simile est ipsum quoque venenis
+suis chartas infecisse; ut a Dositheo factum aucto-
+res sunt Origines in Joannis iv, 25, ac Eulogius
+apud Photium, cod. ccl. COT.
+
+# block=5 source_x1=202 source_y1=116 source_x2=954 source_y2=418
+πάνω τὸ βάπτισμα, » οὗτος ἄγνοιαν ἔχει θεοῦ, καὶ τῆς
+ἑαυτοῦ φύσεως ἐπιλήσμων τυγχάνει. « Μὴ ἀναβάλλου
+γὰρ ἐπιστρέψαι (82) πρὸς Κύριον· οὐ γὰρ οἶδας τί τέ-
+ξεται ἡ ἐπιοῦσα. » Βαπτίζετε δὲ ὑμῶν καὶ τὰ νή-
+πια (83), καὶ ἐκτρέφετε αὐτὰ ἐν παιδείᾳ καὶ νουθε-
+σία θεοῦ. « Ἄφετε γὰρ, φησὶ, τὰ παιδία ἔρχεσθαι
+πρός με, καὶ μὴ κωλύετε αὐτά. »
+
+# block=6 source_x1=980 source_y1=1147 source_x2=1743 source_y2=1615
+vitate Salvatoris, Centimetrum de Christo ; apud
+S. Augustinum epist. ad Ceretinum , Hymnus Do-
+mini ; et lib. 1 De consensu evangelistarum, cap. 9,
+Christi epistolæ ad Petrum et Paulum. De magicis
+artibus ; actione 2 concilii Romani anno 745 habiti,
+Epistola Jesu Christi, quæ de cælo cecidit. Præterea
+ediderunt ex Suidæ Philologia historiam apocry-
+pham De Jesu Christo Filio Dei, mundi Salvatore,
+quæ habetur in ejus Lexico, voce Ἰησοῦς. Denique
+in Anastasii Ὁδηγῷ, cap. 13, p. 260, ut falsa re-
+jiciuntur τὰ λεγόμενα Παιδικὰ θαύματα τοῦ Χριστοῦ,
+quæ vocantur Puerilia Christi miracula. Atque hujus
+vel congeneris apocryphi initium extrema tenet
+regii ms. 2279, hoc pacto :
+
+# block=7 source_x1=989 source_y1=116 source_x2=1741 source_y2=461
+tur ³⁵. » Qui autem dicit : Cum moriar, curabo ut
+baptizer, ne interim peccem, et baptismum conta-
+minem, is Deum ignorat, et naturæ suæ est imme-
+mor. « Ne differas enim converti ad Dominum ³⁶,
+nescis enim quid superventura pariet dies ³⁷. » Sed
+et baptizate vestros pueros, atque eos educate in
+disciplina ac monitis Dei. « Sinite enim, inquit,
+parvulos venire ad me, et nolite eos prohibere ³⁸. »
+
+# block=9 source_x1=194 source_y1=924 source_x2=1738 source_y2=1031
+³⁵ Marc. xvi, 16. ³⁶ Eccli. v, 8. ³⁷ Prov. xxvii, 1. ³⁸ Matth. xix, 14. ³⁹ al. ὑμετέραν γνῶσιν.
+⁴⁰ Timoth. δράτε. ⁴¹ Citat Timoth. presbyt. lib. De iis qui accedunt ad Ecclesiam. ⁴² Citat Nicetas
+Pectoratus, libro contra Latinos ; v. in test. vet.
+
+# block=10 source_x1=980 source_y1=562 source_x2=1738 source_y2=907
+⁴¹ Hæc omnia scripsimus vobis, ut notum habe-
+retis qualis sit nostra sententia, et ne libros qui ab
+impiis, nominis nostri inscriptione, sunt firmati, re-
+ciperetis. ⁴² Non enim attendere debetis nomina
+apostolorum ; sed naturam rerum, et rectam inde-
+flexamque sententiam. Scimus quippe Simonem et
+Cleobium venenatos libros nomine Christi ac discipu-
+lorum ejus composuisse, atque circumferre, ad deci-
+
+# block=11 source_x1=194 source_y1=565 source_x2=958 source_y2=906
+Ταῦτα πάντα ἐπεστείλαμεν ὑμῖν, ἵνα εἰδέναι ἔχοιτε
+τὴν ἡμετέραν γνώμην ³⁹, οἷα (84) τίς ἐστι, ⁴⁰ καὶ τὰ
+ἐπ' ὀνόματι ἡμῶν παρὰ τῶν ἀσεβῶν κρατυθέντα (85)
+βιβλία μὴ παραδέχεσθαι. Οὐ γὰρ τοῖς ὀνόμασι χρὴ
+ὑμᾶς προσέχειν τῶν ἀποστόλων, ἀλλὰ τῇ φύσει τῶν
+πραγμάτων, καὶ τῇ γνώμῃ τῇ ἀδιαστρόφῳ· οἴδαμεν
+γὰρ ὅτι οἱ περὶ Σίμωνα καὶ Κλεόβιον (86), ἰώδη συν-
+τάξαντες βιβλία ἐπ' ὀνόματι Χριστοῦ (87) καὶ τῶν
+
+# block=13 source_x1=799 source_y1=1073 source_x2=1098 source_y2=1113
+VARIORUM NOTÆ.
+
+# block=14 source_x1=977 source_y1=1621 source_x2=1734 source_y2=1756
+Liber de pueritia et mira- Λόγος εἰς τὰ παιδικὰ καὶ
+culis Domini et Salva- μεγαλεῖα τοῦ Κυρίου καὶ
+toris nostri Jesu Chri- Σωτῆρος ἡμῶν Ἰησοῦ
+sti. Χριστοῦ.
+
+# block=15 source_x1=1359 source_y1=1763 source_x2=1738 source_y2=2134
+Ἀναγκαῖον ἡγησάμην
+ἐγὼ Θωμᾶς ὁ Ἰσραηλίτης,
+πᾶσι τοῖς ἐξ ἐθνῶν ἀδελ-
+φοῖς γνωρίσαι τὰ παιδικὰ
+καὶ μεγαλεῖα τοῦ Χριστοῦ,
+ὅσα ἐποίησεν ὁ Κύριος ἡ-
+μῶν καὶ Θεὸς Ἰησοῦς Χρι-
+στὸς γεννηθεὶς ἐν τῇ χώρᾳ
+ἡμῶν ἐν τῇ Βηθλεέμ. Ἐξι-
+στάμενος, ὧν ἡ ἀρχή ἐστιν
+αὕτη.
+
+# block=16 source_x1=201 source_y1=64 source_x2=256 source_y2=102
+949
+
+# block=17 source_x1=619 source_y1=62 source_x2=1332 source_y2=103
+CONSTITUTIONES APOSTOLICÆ. — LIB. VI.
+
+# block=18 source_x1=966 source_y1=1760 source_x2=1346 source_y2=2135
+Necessarium duxi ego
+Thomas Israelita, cun-
+ctis inter gentes fratribus
+nota facere puerilia et ma-
+gnifica Christi opera, quæ
+edidit Dominus noster ac
+Deus Jesus Christus, na-
+tus in regione nostra, apud
+Bethlehemam : ego iis ob-
+stupefactus; quorum hoc
+est initium.
+
+# block=19 source_x1=964 source_y1=2138 source_x2=1345 source_y2=2677
+Puer Jesus, annum æ-
+tatis quintum agebat. Cum
+autem pluisset, ac pluvia
+cessasset, Jesus cum aliis
+pueris Hebræis ludebat ad
+decursum rivi; et aquæ
+præterfluentes congrega-
+bantur in foveas. Tum
+ipsæ aquæ confestim fa-
+ctæ sunt puræ ac efficaces.
+Solo autem sermone per-
+cussit eas, atque omnino
+ei obtemperabant. Cumque
+ex ipsarum ripa molle lu-
+tum sustulisset, ex illo
+formavit passerculos nu-
+
+# block=20 source_x1=1356 source_y1=2138 source_x2=1740 source_y2=2677
+Τὸ γὰρ παιδίον Ἰησοῦς
+πενταετὴς γενόμενος, βρο-
+χῆς δὲ γενομένης, καὶ
+παυσάσης τῆς βροχῆς, ὁ
+Ἰησοῦς ἔπαιζεν ἐπὶ διο-
+δεύσει τινὸς ῥύακος, καὶ
+τὰ παραῤῥέοντα ὕδατα
+συνηγάγετο εἰς λάκκους,
+μεθ' ἑτέρων παίδων τῶν
+Ἑβραίων. Καὶ αὐτὰ τὰ ὕ-
+δατα παραχρῆμα ἐγένοντο
+καθαρὰ καὶ ἐνάρετα. Λόγῳ
+δὲ μόνῳ ἐπέταξεν αὐτὰ,
+καὶ πάντως ὑπετάσσοντο
+αὐτῷ. Ἐπάραντος δὲ ἐκ
+τοῦ πηλέος αὐτῶν πηλὸν
+
+# block=21 source_x1=1665 source_y1=56 source_x2=1739 source_y2=110
+950
+
+# block=22 source_x1=313 source_y1=468 source_x2=849 source_y2=516
+ΚΕΦΑΛΑΙΟΝ ΙΓ'.
+
+# block=23 source_x1=1165 source_y1=462 source_x2=1549 source_y2=510
+CAPUT XVI.
+
+# block=24 source_x1=309 source_y1=516 source_x2=849 source_y2=560
+Περὶ τῶν ψευδεπιγράφων βιβλίων.
+
+# block=25 source_x1=1169 source_y1=514 source_x2=1549 source_y2=562
+De libris falso inscriptis.

@@ -1,0 +1,177 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,187,2519,935,2690
+2,186,1918,947,2297
+3,977,868,1740,1969
+4,979,1966,1732,2316
+5,184,1009,948,1908
+6,975,133,1743,871
+8,786,2439,1100,2472
+9,217,2347,771,2385
+11,974,2525,1741,2693
+13,179,120,943,999
+16,610,79,1331,116
+24,194,86,270,120
+29,1659,73,1737,108
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+# block=16 fontSize=16px
+# block=24 fontSize=16px
+# block=29 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=29
+1344
+
+# block=16
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=24
+1343
+
+# block=13
+enim hoc, quale si quis æger ad medelam sui me-
+dicum pariter et venenarios invitet, cum illi nocere
+quidem possint, curare non possint, verus autem
+medicus venenis illorum recuset sua medicamenta
+miscere, ne aut pernicies bono aut sanitas nocen-
+tibus ascribatur. Dicis : Ergo indignatur aut invidet
+Deus, si cum ipse benefaciat, aliis gratiæ referan-
+tur? Etiamsi non indignetur, non vult tamen er-
+roris auctor existere, ut sui operis beneficio inani
+idolo fides detur. Quid certe tam impium, tam in-
+gratum, quam a Deo beneficium consequi, et red-
+dere lignis ac lapidibus gratiam? Propter quod
+expergiscimini et intelligite salutem vestram; Deus
+enim nullius indiget, neque aliquid requirit, neque
+in aliquo læditur, sed nos sumus qui aut juvamur
+aut lædimur in eo quod grati it aut ingrati sumus.
+Nam Deo quid confertur ex laudibus nostris? aut
+quid aufertur ex blasphemiis? nisi quod Deus ani-
+mam sibi gratias agentem, proximam sibi et fami-
+liarem facit, ingratam vero malus possidet dæmon.
+
+# block=6
+vobis dicemus quæ in re sunt? nunquid tacentes
+annuntiare possumus veritatem? Quæ sunt, aliter
+quam sunt, proferre nescimus. Quod si taceamus,
+causam vobis perniciosæ ignorantiæ nos dabimus,
+et satisfaciemus latenti intra vos et obsidenti sensus
+vestros serpenti, qui hæc vobis callide suggerit, ut
+semper vos inimicos faciat Deo. Sed nos ad hoc
+missi sumus, ut prodamus vobis latebras ejus, et
+absolventes inimicitias reconciliemus vos Deo, ut
+ad ipsum convertamini et placeatis ei in operibus
+bonis. Inimicitiæ namque sunt homini ad Deum ,
+irrationalibilis et impius sensus,pravumque propo-
+situm, maxime cum videtur sibi scire aliquid et
+est in ignorantia. Ubi autem abjectis his eadem
+vobis placere cœperint quæ Deo placent, et eadem
+displicere vobis, atque ea cœperitis velle quæ vult
+Deus, tunc vere amici ejus dicemini.
+
+# block=3
+XXIX. Sed fortassis aliqui ex vobis dicent : Nihil
+curæ est Deo de rebus humanis, et cujus ne ad no-
+titiam quidem possumus pervenire, quomodo ad
+amicitias perveniemus? Quod Deus curam gerat
+humanarum rerum, ipsius mundi gubernatio testis
+est, cui sol quotidie deservit, cui imbres mini-
+strant, cui fontes, flumina, ventique et omnia fa-
+mulantur elementa, quæ quanto notiora hominibus
+videntur, tanto curam Dei esse erga homines indi-
+cant. Nisi enim potestate Excelsi, nunquam potiora
+inferioribus ministrarent; et per hoc non solum
+curam Deus erga homines, sed grandem quemdam
+habere docetur affectum, quorum ministerio tam
+præclara mancipavit elementa. Quod autem etiam
+ad amicitias Dei perveniant homines, exemplo no-
+bis sunt hi quorum precibus tantum indulsit ²⁸, ut
+clauderet imbribus cœlum cum vellent, et rursum
+cum peterent relaxaret; et multa alia voluntatem
+suam facientibus præstitit, quæ non nisi amicissi-
+mis præstarentur. Sed dices : Quid enim læditur
+Deus, si et ista colantur a nobis? Si quis vestrum
+honorem patri debitum, a quo plurima beneficia
+consecutus est, alii deferat, et alienum atque extra-
+neum quasi patrem colat, non tibi videtur impius
+existere in patrem, et exhæredatione dignissimus ?
+
+# block=5
+XXVII. Sed et illud scire vos volo, quod adver-
+sum hujusmodi animas non ipse Deus per se ultio-
+nem profert, sed universa creatura ejus insurgit et
+pœnas de inpiis sumit; et quamvis in præsenti
+sæculo Dei bonitas æqualiter piis et impiis mundi
+lucem ac terræ ministeria fargiatur, tamen non
+absque dolore sui lucem sol impiis præbet, cætera-
+que elementa exhibent servitutem. Denique inter-
+dum etiam contra bonitatem Conditoris, fatigata
+sceleribus impiorum vincuntur elementa, et inde
+est quod aut terræ fructus corrumpitur, aut aeris
+temperies temcratur, aut supra modum ardor so-
+lis incenditur, vel imbrium ac frigorum vis im-
+mensa diffunditur. Inde lues, et fames, et mortis
+facies diversa percurrit, festinat enim creatura in
+impios movere vindictam. Dei tamen bonitas re-
+primit eam, et ab indignatione impiorum refrenat,
+ac suæ misericordiæ obedire cogit, magis quam
+peccatis hominum et sceleribus inflammari; exspe-
+ctat enim patientia Dei, dum in hoc corpore sunt,
+hominum conversionem.
+
+# block=2
+XXVIII. Quod si qui ad exitum vitæ in impietate
+perstiterint, tum jam discedens anima quæ immor-
+talis est, pro impietatis suæ perseverantia luet pœ-
+nas. Immortales namque sunt etiam impiorum ani-
+mæ, quas ipsi fortasse velint pariter cum corpori-
+bus suis finiri (25); sed non ita est, perferunt
+enim ignis æterni sine fine supplicia, et ad perni-
+ciem sui naturam non habent moriendi. Sed for-
+tasse dicetis mihi : Terres nos, Petre. Et quomodo
+
+# block=4
+XXX. Alii dicunt : Impium est (26), si non cola-
+mus ea quæ nobis tradita sunt a patribus nostris,
+et religionem prævaricamur a majoribus datam.
+Hac ratione, si cujus pater latro fuit, aut si cujus
+leno, a patribus sibi traditam consuetudinem mu-
+tare non debet, nec ad meliorem viam a paternis
+erroribus revocari, et impium ducitur, si quis non
+cum parentibus peccet, aut non cum ipsis impius
+
+# block=9
+” III Reg. XVII, XVIII ; Jac. V, 17, 18.
+
+# block=8
+COTELERII NOTÆ.
+
+# block=1
+(25) Quas ipsi fortasse velint pariter cum corpo-
+ribus suis finiri. Eleganter, ut solet, Minucius Fe-
+lix : Nec ignoro plerosque conscientia meritorum, ni-
+hil se esse post mortem magis optare quam credere.
+Malunt enim exstingui penitus, quam ad supplicia
+
+# block=11
+reparari. Ad quem locum doctus interpres apponit
+consimilem Hieroclis in Carmina Pythagorica.
+(26) Alii dicunt : Impium est, etc. Clementin.
+XI, 13. Videnda omnino Epistola S. Nili 32,
+lib. II.

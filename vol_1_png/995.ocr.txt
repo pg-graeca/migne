@@ -1,0 +1,170 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,211,1877,973,2694
+2,214,968,980,1869
+3,219,274,980,959
+4,1014,267,1778,1270
+5,1009,2316,1751,2699
+6,1010,1273,1756,2311
+7,219,142,996,264
+8,790,84,1220,119
+17,1703,83,1779,118
+18,1024,140,1772,276
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+1390
+
+# block=8
+RECOGNITIONUM LIB. VIII.
+
+# block=18
+mam possidens, cur in occulto lates et verecundia
+contegeris? accede huc magis, et quæ tibi videntur
+exsequere.
+
+# block=7
+manebo neque ab aliquo quidquam suscipiam, uti ne
+alterius dilectio alterius tristitia fiat; hæc enim
+postmodum si visum fuerit, fieri possunt.
+
+# block=4
+XXXIX. Ubi hæc dixit Petrus, statim turbæ lo-
+cum dare cœperunt seni. Cumque accessisset, ita
+cœpit : Eorum quæ die hesterno prosecutus est ju-
+venis, etiamsi verba non memini, sensum tamen et
+ordinem teneo, et ideo necessarium puto propter
+eos qui hesterno non adfuerunt, anacephalæosin
+facere eorum quæ dicta sunt, et breviter cuncta
+repetere, ut etiamsi me aliquid effugerit, ab eo qui
+prosecutus est præsente commonear. Hic ergo fuit
+hesternæ disputationis sensus, quod omnia quæ vi-
+dentur, quoniam certa mensura et arte formaque
+ac specie constant, sine dubio a sapiente virtute
+facta esse [credenda sunt; quod si mens et ratio
+est quæ hæc condidit, consequens esse] ut rationis
+ipsius providentia mundus regatur, etiamsi nobis
+ca quæ geruntur in mundo, minus recte geri vi-
+deantur. Consequitur autem, ut si creator omnium
+Deus est ac mens, sit etiam justus; quod si justus
+est, necessario judicat; si judicat, necesse est ut
+homines de suis actibus judicentur; et si de actibus
+suis unusquisque judicatur, erit ergo inter justos
+et peccatores justum quandoque discrimen. Hæc
+fuit, ut opinor, totius verbi continentia.
+
+# block=3
+XXXVI. Et cum hæc dixisset senex, Petrus ait
+ad primarium civitatis : Quoniam nostri præsentia
+bonam voluntatem tuam ostendisti, tristem te non
+oportet abscedere, sed accipiemus abs te gratiam
+pro gratia, domum tuam nobis ostende, et præpara
+eam ut crastino disputatio quæ futura est ibi ha-
+beatur, et si qui volunt adesse ad audiendum per-
+mittantur. Quæ cum audisset primus civitatis valde
+gavisus est, sed et omnis populus libenter audivit.
+Cumque discessissent turbæ, domum suam osten-
+dit; discedere autem et senex cœpit. Ego tamen uni
+ex pedissequis meis imperavi elam subsequi vesti-
+gium senis, et discere ubi maneret. Nos autem
+cum rediissseinis ad hospitium , enarravimus omnia
+fratribus quæ nobis cum sene habita sunt, et ita ex
+more cibo sumpto requievimus.
+
+# block=2
+XXXVII. Die autem postera Petrus mature sur-
+gens suscitavit nos, et perreximus pariter ad locum
+secretum, in quo et pridie orationis causa fuera-
+mus; atque inde post orationem dum veniremus ad
+constitutam domum, in itinere monebat nos, dicens:
+Audite me, conservi dilectissimi, bonum est ut
+unusquisque vestrum secundum quod potest, prosit
+accedentibus ad fidem religionis nostræ, et ideo
+non vos pigeat secundum sapientiam, quæ vobis
+per Dei providentiam collata est disserentes ,
+instruere ignaros et docere, ita tamen ut his quæ
+a me audistis et tradita sunt vobis, vestri tantum
+sermonis eloquentiam societis. Nec aliquid pro-
+prium et quod vobis non est traditum proloqua-
+mini, etiamsi vobis verisimile videatur, sed ea, ut
+dixi, quæ ipse a vero propheta suscepta vobis
+tradidi, prosequamini, etiamsi minus plenæ asser-
+tionis esse videbuntur. Hinc enim sæpe contingit
+declinare quosdam a veritate, dum speciem sibi ve-
+rioris et validioris veritatis, propriis cogitationibus
+reperisse se credunt.
+
+# block=6
+XL. Si ergo ostendi potest quod mens ac ratio
+cuncta condiderit, consequens est et ea quæ se-
+quuntur ratione et providentia geri. Si vero natura
+imprudens et cæca gignit universa, perimitur sine
+dubio judicii ratio, nec discussio peccatorum ac
+benefactorum remuneratio sperabitur, velut prima
+non est. Quia ergo omnia in hoc pendent et huic
+capiti adhærent, non indignemini, si forte paulo
+latius discuti hæc et pertractari voluero. In hoc
+enim mihi ad omnia quæ proponuntur, velut prima
+janua clauditur, et ideo hanc mihi ante omnia ape-
+riri volo. Nunc ergo audite quæ doceo, et respon-
+deat mihi si quis vestrum volet; non enim erubescam
+discere, si audiero quod verum est, et recte dicenti
+acquiescere. Igitur hesterno a te habitus sermo,
+qui asserebat quod arte et mensura et ratione cun-
+cta constarent, non valde me suadet , mentem ra-
+tionemque esse quæ fecerit mundum; multa enim
+habeo, quæ ostendam competenti mensura ac forma
+et specie constare, nec tamen per mentem condita
+ac rationem. Tum præterea video multa incondite,
+inconsequenter, injuste geri in mundo, et sine ge-
+nesis cursu nihil fieri posse ; quod post omnia
+etiam ex me ipso manifestissime approbabo.
+
+# block=1
+XXXVIII. His a Petro dictis libenter annuimus,
+dicentes ei, nihil nos acturos, nisi quod ipsi vide-
+retur. Tum ille : Ut ergo, inquit, sine periculo exer-
+ceamini, me coram disputate singuli, ita ut unus
+alii succedat ac suas unusquisque explicet quæstio-
+nes. Nunc ergo quoniam hesterno die Niceta suffi-
+cienter disseruit, hodie sermonem faciat Aquila, et
+post Aquilam Clemens, inde ego, si tamen etiam me
+res poposcerit aliquid addere. Interea dum hujusce-
+modi sermones cædimus, ad domum ventum est in
+qua suspiciens nos paterfamilias, introducit ad lo-
+cum quemdam in similitudinem theatri collectum
+et pulchre exædificatum, in quo turbas plurimas
+ex tempore noctis opperientes nos reperimus, inter
+quos et senex qui pridie nobiscum disputaverat.
+Itaque medium habentes Petrum ingredimur etiam
+nos, circumspicientes sicubi cerneremus senem;
+quem prior Petrus videns in medio turbæ latitan-
+tem evocavit ad se, dicens : Glariorem multis ani-
+
+# block=5
+XLI. Hæc cum senex diceret, Aquila respondit :
+Quoniam ipse proposuisti, ut ad ea quæ diceres ha-
+beret copiam respondendi qui velit, concedit mihi
+frater meus Niceta hodie facere sermonem. Et se-
+nex : Prosequere, ait, fili, ut vis. Et Aquila respon-
+dit : Promisisti quod ostenderes multa esse in
+mundo, quæ formam ac speciem æquali ratione
+collectam gerant, quæ tamen constet non effici per
+conditorem Deum. Nunc ergo quod promisisti,

@@ -1,0 +1,144 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,205,829,1757,1950
+2,989,2097,1749,2364
+3,213,2229,963,2431
+4,689,309,1205,346
+5,213,2427,959,2664
+6,989,2363,1752,2667
+7,728,684,1213,719
+8,815,2015,1127,2062
+11,212,2095,955,2234
+12,940,384,996,414
+13,360,456,1556,518
+14,746,550,1176,644
+15,1644,48,1758,96
+16,802,194,1128,274
+17,712,52,1204,98
+18,204,66,300,114
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=18px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=29px
+# block=14 fontSize=38px
+# block=15 fontSize=16px
+# block=16 fontSize=41px
+# block=17 fontSize=16px
+# block=18 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+1206
+
+# block=17
+RECOGNITIONES. PROŒMIA.
+
+# block=18
+1205
+
+# block=16
+RUFINI
+
+# block=4
+AQUILEIENSIS PRESBYTERI
+
+# block=12
+IN
+
+# block=13
+S. CLEMENTIS RECOGNITIONUM LIBROS
+
+# block=14
+PRÆFATIO
+
+# block=7
+AD GAUDENTIUM EPISCOPUM.
+
+# block=1
+Tibi quidem, Gaudenti (98), nostrum decus insigne doctorum, tantus ingenii vigor, imo tanta spiritus
+gratia est, ut si quid a te etiam quotidiani eloquii more dicitur, si quid in ecclesia declamatur, id in
+libris haberi et ad instructionem tradi posteris debeat. Nos tamen, quos et ingenii tenuitas minus prom-
+ptos, et senecta jam tardos reddit ac segnes, opus quod olim venerandæ memoriæ virgo Silvia (99) in-
+junxerat, ut Clementem nostræ linguæ redderemus (100), et tu deinceps jure hæreditario poscebas, licet
+multas post moras, tamen aliquando restituimus, prædamque, ut opinor, non parvam, Græcorum biblio-
+thecis ereptam, nostrorum usibus et utilitatibus convectamus, ut quos propriis non possumus, peregrinis
+nutriamus alimentis. Nam et solent suaviora videri peregrina, interdum vero et utiliora. Denique peregri-
+num est pene omne quod medelam corporibus confert, quod morbis occurrit, quod venena depellit. Judæa
+balsami lacrymam, Creta comam dictamni mittit, Arabia aromatum flores, et spicarum nardi India sege-
+tem metit, quæ apud nos, etiamsi aliquantulo quam proprius ager attulit, fractiora perveniunt, odoris
+tamen gratiam vimque medendi integram servant. Suscipe igitur, anime mi, redeuntem ad te Clemen-
+tem nostrum, suscipe jam Romanum. Nec mireris, si forte tibi in eo minus solito floridus eloquentiæ
+vultus appareat. Nihil interest, dummodo sensus idem sapiat. Peregrinas ergo merces multo in patriam
+sudore transvehimus. Et nescio quam gratus me civium vultus accipit, magna sibi Græciæ spolia defe-
+rentem, et occultos sapientiæ thesauros nostræ linguæ clave reserantem. Sed votis tuis faveat Deus, ut
+nullus nobis sinister oculus, nec cujusquam lividus occurrat aspectus, ne extremo prodigii genere, cum
+nihil invideant illi quibus aufertur, livescant tamen isti quibus confertur. Æquum est sane, tibi qui hæc
+etiam (1) Græce legeris (ne forte in aliquibus minus a nobis servatum translationis ordinem putes),
+interpretationis nostræ indicare consilium. Puto quod non te lateat, Clementis hujus in Græco ejusdem
+operis Ἀναγνώσεων, hoc est Recognitionum, duas editiones haberi, et duo corpora esse librorum, in ali-
+quantis quidem diversa (2), in multis tamen ejusdem narrationis. Denique` pars ultima hujus operis, in
+qua de transformatione Simonis refertur, in uno corpore habetur, in alio penitus non habetur. Sunt
+autem et quædam in utroque corpore de ingenito Deo genitoque (3) disserta, et de aliis nonnullis, quæ, ut nihil
+amplius dicam, excesserunt intelligentiam nostram. Hæc ergo ego, tanquam quæ supra vires meas essent,
+aliis reservare malui, quam minus plena proferre. In cæteris autem, quantum potuimus, operam dedimus,
+
+# block=8
+COTELERII NOTÆ.
+
+# block=11
+(98) Gaudenti. Omnes codices manu exarati,
+quos videre mihi contigit; sex, scilicet, habent,
+papa Gaudenti. Intellige Gaudentium Novariensem,
+seu potius Brixiensem.
+
+# block=2
+scribit : Quinimoc sicut et ipsum quoque Clementem
+quem Rufinus nostræ linguæ redditum, restitutum,
+et redeuntem ad Gaudentium scribens innuit; et quod
+Latine scriptus fuerit, et amissus, rursusque rece-
+ptus, signanter ostendit : cum Rufinus contra non
+obscure significet id quod res est, Recognitiones
+primitus Græce scriptas fuisse. Postea Carmel.,
+magna sibi gratiæ spolia deferentem.
+
+# block=3
+(99) Virgo Silvia. Etiam mss. Candeler. et Car-
+melit. Virgo nomine Silvia. Apud Palladium, Histo-
+riæ Lausiacæ cap. 141. Σαλβία, minus bene, recte
+Silvia in Heraclidis Paradiso, cap. 42, et epistola
+11 S. Paulini. Alia a Silvana vidua, de qua scri-
+ptores Vitæ S. Chrysostomi.
+
+# block=6
+(1) Ms. Pet. jam.
+(2) Ms. Cand. et P. diversæ.
+(3) De ingenito Deo, genitoque, etc. In sublimis-
+sima hac quæstione, quemadmodum appellatur a
+Claudiano Mamerto; et in aliis quibusdam depra-
+vatas fuisse Clementinas Recognitiones per hæreti-
+cos, Ebionitas, Arianos, et Eunomianos, discimus
+ab Epiphanio, Rufino, Photio. Vide infra, lib. III
+cap. 2, etc.
+
+# block=5
+(100) Ut Clementem nostræ linguæ redderemus,
+Romanum linguæ Romanorum. Inferius : Suscipe
+igitur, anime mi (ms. Candel. magnanime, Carmel.
+mi Domine, Pet. mi amice), redeuntem ad te Clemen-
+tem nostrum : suscipe jam Romanum. Gravi siqui-
+dem errore Anastasius Bibliothecarius, Epistola ad
+Joannem diaconum Romanum, nec intellecto Rufino,

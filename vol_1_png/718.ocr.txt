@@ -1,0 +1,175 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,246,130,991,1121
+2,1024,138,1783,1125
+3,1039,2421,1785,2695
+4,254,2419,997,2695
+5,252,1178,993,1308
+6,246,1316,1004,2221
+7,1275,1138,1524,1170
+8,523,1134,703,1168
+9,249,2250,1784,2328
+10,638,77,1363,121
+11,246,71,298,118
+12,1714,83,1767,123
+13,865,2353,1162,2394
+14,1023,1318,1802,2233
+15,1023,1170,1789,1312
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+est in opere perfectus. Et nos igitur magistrum
+habentes Dominum nostrum Jesum Christum,
+quare doctrinam ejus non imitamur? Quoniam ille
+quidem renuntiavit licentiæ, deliciis, gloriæ, divitiis,
+fastui, potentiæ ultrici, matri ac fratribus, tum
+etiam propriæ vitæ; idque ob pietatem erga Pa-
+trem, et ob benignitatem in nos; passus non modo
+persecutionem ac verbera, ignominiam ac ludi-
+brium, sed et jam compactionem ad lignum crucis,
+quo Judæos gentilesque per pœnitentiam salvaret.
+Si ergo ille nostri gratia renuntiavit vitæ molli ac
+quietæ, nec èrubuit crucem, nec mortem esse igno-
+miniosam existimavit; qua de causa nos passiones
+ejus non imitamur, et propter eum, ipsi quoque
+vitæ nostræ nuntium non remittimus, largiente
+nobis ipso tolerantiam? Ille enim nostra causa; nos
+vero propter nos ipsos. Neque enim nobis indiget,
+sed nos ipsius misericordia indigemus. Tantum
+vero a nobis postulat fidem sinceram et voluntariam.
+Quemadmodum ait Scriptura ¹ : ‹ Si justus es, quid
+dabis ei ; aut quid de manu tua accipiet ? Viro
+simili tui impietas tua , et filio hominis justitia
+tua. ›
+
+# block=2
+μὴ ἐξισχύσῃ, οὐκ ἔστι τετελειωμένος ἐν τῷ ἔργῳ.
+Καὶ ἡμεῖς οὖν, ἔχοντες διδάσκαλον τὸν Κύριον ἡμῶν
+Ἰησοῦν τὸν Χριστὸν, διὰ τί οὐ μιμούμεθα τὴν αὐτοῦ
+διδαχήν; ὅτι ἐκεῖνος μὲν ἀπετάξατο ἀνέσει, τρυφῇ,
+δόξῃ, πλούτῳ, τύφῳ, δυνάμει ἀμυντικῇ, μητρὶ καὶ
+ἀδελφοῖς, ἤδη δὲ καὶ τῇ οἰκείᾳ ζωῇ, διὰ τὴν πρὸς τὸν
+Πατέρα εὐσέβειαν (84), καὶ τὴν εἰς ἡμᾶς φιλανθρω-
+πίαν, ὑπομείνας οὐ μόνον διωγμὸν καὶ (85) μάστιγας,
+ὀνειδισμὸν καὶ ἐμπαιγμὸν, ἀλλ’ ἤδη καὶ τὴν πρὸς τὸ
+ξύλον πρόσπηξιν (86), ὅπως Ἰουδαίους καὶ Ἕλληνας
+μετανοήσαντας σώσῃ. Εἰ οὖν αὐτὸς δι’ ἡμᾶς ἀπετά-
+ξατο ἀναπαύσει, μὴ ἐπαισχυνθεὶς σταυρὸν, μὴ ἀδοξή-
+σας τὸν θάνατον, τίνος ἕνεκεν ἡμεῖς (87) οὐ μιμούμεθα
+αὐτοῦ τὰ πάθη, καὶ ἀποτασσόμεθα ὑπὲρ αὐτοῦ καὶ
+αὐτῇ τῇ ζωῇ ἡμῶν, διδόντος αὐτοῦ ἡμῖν τὴν ὑπο-
+μονήν; Ἐκεῖνος μὲν γὰρ δι’ ἡμᾶς (88), ἡμεῖς δὲ
+δι’ ἑαυτούς. Οὐ γὰρ χρήζει ἡμῶν αὐτὸς, ἡμεῖς δὲ
+τοῦ ἐλέους αὐτοῦ (89). Μόνον δὲ τὸ τῆς πίστεως
+ἡμῶν γνήσιον ἐπιζητεῖ καὶ αὐθαίρετον (90). Ὡς
+φησιν ἡ Γραφή· ‹ Εἰ δίκαιος εἶ, τί δώσεις αὐτῷ;
+ἢ τί ἐκ χειρός σου λήψεται; ἀνδρὶ τῷ ὁμοίῳ σου
+ἡ ἀσέβειά (91) σου, καὶ υἱῷ ἀνθρώπου ἡ δικαιοσύνη
+σου. ›
+
+# block=3
+(91) Ἀσέβεια. Alter εὐσέβεια, melius, si seorsim
+legatur sententia; sed lectionem vulgarem tuetur
+lectio Hebraici codicis et vett. Intt. Id
+(92) Ὁμολογεῖν. Alter cod. ὁμολογήσωμεν, ut
+postea χαίρωμεν. Id.
+(93). Σπεύδοντες. Καλούμενοι, in altero cod. Id.
+(94) Μή. Μηδέ in eodem, recte. Id
+(95) Δόξαν καὶ. Desunt in altero. Id.
+
+# block=4
+(84) Εὐσέβειαν. Ὑπακοήν, in altero. Cler.
+(85) Διωγμὸν καὶ. Desunt in altero. Id.
+(86) Ξύλον πρόσπηξιν. In altero est σταυρὸν
+ἀνάρτησιν. Id.
+(87) Ἡμεῖς. Deest in altero. Id.
+(88) Ἡμᾶς. Addit alter codex ἀπετάξατο. Id.
+(89) Αὐτοῦ. Addit alter δεόμεθα. Id.
+(90) Αὐθαίρετον. In altero εἰλικρινές, recte. Id.
+
+# block=5
+Quod oportet fidelem neque temerarium esse propter
+securitatem, neque meticulosum propter ignaviam :
+sed fugere propter cautionem; et cum in periculum
+inciderit, decertare ob repositam coronam.
+
+# block=6
+Renuntiemus ergo parentibus, cognatis, amicis,
+uxori, liberis, possessionibus, et omnibus vitæ bo-
+nis, quando eorum aliquid impedimento erit pietati.
+Siquidem orare debemus, ne ingrediamur in tenta-
+tionem. Quod si ad martyrium vocemur, oportet ut
+cum fortitudine et constantia honorandum nomen
+confiteamur : et si ideo ad supplicium mittamur,
+gaudeamus tanquam qui ad immortalitatem prope-
+ramus. Cum persecutionem patimur, ne quasi in re
+nova ac inaudita stupeamus. Non diligamus præsens
+sæculum, neque laudes ab hominibus, neque prin-
+cipum virorum gloriam et honorem; sicut nonnulli
+Judæi , cum Domini opera admirarentur, non cre-
+diderunt in eum , metu pontificum reliquorumque
+optimatum : ‹ Dilexerunt enim gloriam hominum
+magis, quam gloriam Dei ² . › Quando autem bonam
+confessionem confitemur, non modo nos ipsos sèr-
+vamus , sed et recens baptizatos confirmamus, at-
+que catechumenos in fide statuimus. Sin vero ali-
+quid de confessione remiserimus , negata religione
+Dei ob animi mollitiem et brevissimæ pœnæ metum,
+
+# block=7
+ΚΕΦΑΛΑΙΟΝ Ϛ΄.
+
+# block=8
+CAPUT VI.
+
+# block=9
+¹ Job xxxv, 7. ¹* Hoc verbum supplevimus, quod, vel aliud simile, inconsultè omissum videtur : si-
+quidem ab interprete Latine versum est. Edit. Patrol. ² Joan. xii, 43.
+
+# block=10
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=11
+835
+
+# block=12
+836.
+
+# block=13
+VARIORUM NOTÆ.
+
+# block=14
+Ἀποταξώμεθα οὖν καὶ γονεῦσι, καὶ συγγενέσι, καὶ φί-
+λοις, καὶ γυναικὶ, [τέκνοις ¹*] καὶ κτήμασι, καὶ σύμπαντι
+τῷ βίῳ, ὅταν ᾖ τι τούτων κώλυμα πρὸς εὐσέβειαν. Δεῖ
+γὰρ προσεύχεσθαι μὲν ἡμᾶς, ἵνα μὴ εἰσέλθωμεν εἰς
+πειρασμόν. Ἐὰν δὲ κληθῶμεν εἰς μαρτύριον, μετὰ
+ἐνστάσεως ὁμολογεῖν (92) τὸ τίμιον ὄνομα · καὶ ἐὰν
+τούτου χάριν κολασθῶμεν, χαίρωμεν ὡς ἐπὶ ἀθανά-
+σίαν σπεύδοντες (93). Διωκόμενοι, μὴ ξενιζώμεθα.
+Μὴ (94) ἀγαπήσωμεν τὸν νῦν αἰῶνα, μηδὲ τοὺς
+παρὰ ἀνθρώπων ἐπαίνους, μηδὲ τὴν τῶν ἀρχόντων
+δόξαν καὶ (95) τιμὴν, καθάπερ καὶ τινες τῶν Ἰου-
+δαίων , θαυμάζοντές τοῦ Κυρίου τὰς ἐνεργείας, οὐκ
+ἐπίστευον εἰς αὐτὸν, φόβῳ τῷ πρὸς τοὺς ἀρχιερεῖς,
+καὶ τοὺς λοιποὺς τῶν ἀρχόντων· ‹ Ἠγάπησαν γὰρ
+τὴν δόξαν τῶν ἀνθρώπων μᾶλλον ἤπερ τὴν δόξαν τοῦ
+Θεοῦ. › Ὁμολογήσαντες δὲ τὴν καλὴν ὁμολογίαν, οὐ
+μόνον ἑαυτοὺς σώζομεν, ἀλλὰ καὶ τοὺς νεοφωτίστους
+βεβαιοῦμεν, καὶ τοὺς κατηχουμένους πιστοποιούμεθα.
+Εἰ δὲ καθυφῶμέν τι τῆς ὁμολογίας, ἐξαρνησάμενοι
+τὴν εὐσέβειαν διὰ γνώμης χαυνότητα, καὶ φόβον
+βραχυτάτης τιμωρίας, οὐ μόνον ἑαυτοὺς ἀποστεροῦ-
+
+# block=15
+Ὅτι χρὴ τὸν πιστὸν μήτε ῥιψοκίνδυνον εἶναι δι’
+ἀσφάλειαν, μήτε περιδεῆ δι’ ἀνανδρίαν· ἀλλὰ
+καὶ φεύγειν δι’ εὐλάβειαν , καὶ ἐμπεσόντα,
+ἀγωνίζεσθαι διὰ τὸν ἀποκείμενον στέφανον.

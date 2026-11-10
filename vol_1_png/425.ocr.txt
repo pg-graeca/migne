@@ -1,0 +1,207 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,944,157,1700,929
+2,165,1658,914,2540
+3,167,162,924,926
+4,941,1361,1702,1823
+5,167,1062,913,1660
+6,944,1821,1708,2710
+7,936,1066,1702,1363
+8,174,2602,902,2705
+9,171,2537,901,2605
+10,763,1025,1073,1060
+11,698,106,1172,143
+12,203,962,697,1000
+13,167,114,222,146
+14,1607,96,1681,142
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+250
+
+# block=11
+EPISTOLA I AD CORINTHIOS.
+
+# block=13
+249
+
+# block=1
+jiciuntur². Dies etiam et nox, ab illo ordinatum cur-
+sum perficiunt, neque sibi mutuo impedimento sunt.
+Sol quoque ac luna et siderum chori, secundum
+ejus mandatum, in concordia, sine ulla transgre-
+sione, sibi constitutos orbes evolvunt. Terra gra-
+vida, juxta voluntatem illius, suis temporibus, plu-
+rimum cibum hominibus ac feris, omnibusque quæ
+super eam sunt animantibus, producit; nihil repu-
+gnans, neque mutans quidquam eorum quæ ab illo
+decreta sunt. Abyssorum impervestigabilia et infe-
+rorum inenarrabilia judicia iisdem mandatis conti-
+nentur. Immensi maris profunda moles per ordina-
+tionem ejus in cumulos coagmentata, circumposita
+sibi claustra non transgreditur, sed prout ei præce-
+pit, ita facit. Dixit enim : Huc usque venies, et flu-
+ctus tui in te conterentur³. Oceanus hominibus im-
+permeabilis, et qui post ipsum sunt mundi, eisdem
+Domini dispositionibus gubernantur. Tempestates
+
+# block=3
+εἰρήνη ὑποτάσσονται αὐτῷ. Ἡμέρα τε καὶ νὺξ τὸν ὰ
+τετα[γ]μένον ὑπ' αὐτοῦ δρόμον διανύ[ο]υσιν, μηδὲν
+ἀλλήλοις ἐμποδι[ζ]οντα (34). Ἥλιός τε καὶ σελήνη,
+ἀστέρων τε χοροὶ, κατὰ τὴν διαταγὴν [α]ὐτοῦ ἐν
+ὁμονοίᾳ, δίχα πάσης [π]αρεκβάσεως, ἐξελίσσουσιν
+[το]ὺς ἐπιτεταγμένους αὐτοῖς ὁρισμούς. Γῆ κυοφο-
+ροῦσα, κατὰ τὸ θέλημα αὐτοῦ τοῖς ἰδίοις καιροῖς τὴν
+παμπλήθη ἀνθρώποις τε καὶ θηρσὶν, καὶ πᾶσιν τοῖς
+οὖσιν ἐπ' αὐτὴν (35) ζώοις ἀνατέλλει τροφὴν, μὴ
+διχοστατοῦσα, μηδὲ ἀλλοιοῦσά τι τῶν δεδογματισμέ-
+νων ὑπ' αὐτοῦ. Ἀβύσσων τε ἀνεξιχνίαστα, καὶ νερ-
+τέρων ἀνεκδιήγητα κρίματα (36) τοῖς αὐτοῖς συνέχ[ε-
+ται προστάγμασιν. Τὸ κύτος (37) τῆς ἀπείρου θαλάσ-
+σης κατὰ τὴν δημιουργίαν αὐτοῦ συσταθὲν εἰς τὰς
+συναγωγὰς, οὐ παρεκβαίνει τὰ περιτεθειμένα αὐτῇ
+κλεῖθρα (38), ἀλλὰ καθὼς διέταξεν αὐτῇ, οὕτως ποιεῖ.
+Εἶπεν γάρ· Ἕως ὧδε ἥξεις, καὶ τὰ κύματά σου
+ἐν σοὶ συντριβήσεται. Ὠκεανὸς ἀνθρώποις ἀπέ-
+
+# block=12
+² Gen. I, 9. ³ Job XXXVIII, 10, 11.
+
+# block=10
+VARIORUM NOTÆ.
+
+# block=5
+μážοντας, ὡς ἀγνοεῖσθαι παντελῶς, οὐδένα τὴν τοῦ
+Θεοῦ δόξαν, καὶ τὸ ὑπερφερὲς ἀξίωμα τῆς ἐνούσης
+αὐτῷ δυνάμεως καὶ ὑπεροχῆς. JUN. — Non facile
+quis sibi indulserit eam dictaturam, ut velit de suo
+contradictorian apponere auctoris vocibus, cujus
+mentem interpretari præsefert ; præsertim si ejus-
+modi verba commodum sensum ullatenus admit-
+tant; quod quidem hic loci contingere videtur.
+Quisquis enim perpetuam cœlorum vertiginem, pla-
+netarum errores, apogea et perigea, progressiones,
+stationes et retrogradationes, et varia quæ subinde
+occurrunt phænomena observaverit, æstu quodam
+rapi, et marini fluctus ad instar σαλλεύεσθαι non dif-
+sitebitur; præsertim post explosos, per solidissima
+argumenta, solidos orbes et inductas inde hypothe-
+ses de systematum liquido in æthere ceu vastissimo
+in pelago decursu, et tantum non in Cartesianis
+vorticibus perenni jactatione. FELL.
+
+# block=7
+efformata ἀπὸ τοῦ κέχρυμμαι, ut a κέκριμαι κρῖμα.
+Conjicit itaque vir doctus, κρύμματα hic esse χά-
+σματα κεκριμμένα, id est occultas voragines, vel
+hiatus, seu recessus penitus abditos. Sic igitur inte..
+gram sententiam ipse vertit : Abyssorum et infero-
+rum quoque impervestigabiles atque inenarrabiles re-
+cessus iisdem imperiis coercentur, quibus Deus scili-
+cet universa gubernat. Videsis Cangium in Glossar.
+v. Κρύπτειν. ΙD.
+
+# block=4
+(37) Τὸ κύτος, κ. τ. λ. Respexit hic procul du-
+bio S. Pater historiam creationis Gen. I, 9, versio-
+nem LXX secutus. Illustrat hunc locum Pearson.
+in Præfat. ad edit. Biblior. LXX, ubi monet versio-
+nem Junianam minus recte institutam, ita potius
+esse conformandam : Moles immensi maris in ipsa
+sui creatione in congregationes suas collecta, repayu-
+la sibi circumposita non transgreditur. In qua qui-
+dem interpretatione minime probat Birr. verba hæc,
+κατὰ τὴν δημιουργίαν αὐτοῦ, ita reddi, in ipsa sui
+creatione; cum pronomen αὐτοῦ ad ipsum δημιουργὸν
+referendum sit, ad quem etiam sequens verbum
+διέταξεν necessario refertur. Vertit igitur ipse, se-
+cundum opificium ipsius. ID.
+
+# block=2
+(34) Ἀλλήλοις ἐμποδίζοντα. Lego ἀλλήλαις ἐμ-
+ποδίζουσαι. De lucis et tenebrarum, diei et noctis,
+mutua et perpetua successione, de constanti et ir-
+remisso a prima creatione utriusque cursu, sine
+ulla confusione, aut impedimento quocunque, le-
+gatur Chrysostomi homil. 3 in Genesin : Ἰδίαν τινὰ
+χώραν ἑκάστῳ ἀπένειμεν, ὅρους τινὰς ἐξ ἀρχῆς, καὶ
+ἐκ προοιμίων ἑκάστῳ πηγُنς, ὥστε εἰς τὸ διηνεκὲς
+τούτους ἀπαραποδίσστους διαφυλάττειν. Καὶ τοῦτο ἐξ-
+ἐστι συνιδεῖν ἑκάστῳ τῶν εὖ φρονούντων, πῶς ἐξ ἐκεί-
+νου μέχρι τοῦ παρόντος οὔτε τὸ φῶς ὑπερέβη τοὺς
+οἰκείους ὅρους, οὔτε τὸ σκότος τὴν οἰκείαν τάξιν παρ-
+ῆλθε, σύγχυσίν τινα καὶ ἀταξίαν ἐργασάμενον, et
+paulo infra : Ὤστε μιμήσασθαι κἂν τῶν στοιχείων τὴν
+τάξιν, τῶν ἀπαραπόδιστον τηρούντων τὸν δρόμον, καὶ
+μὴ ὑπερβαίνειν τὰ οἰκεῖα μέτρα. Et Justinus Mar-
+tyr, ad Diognetum : Ὧ τοὺς οὐρανοὺς ἔκτισεν, ᾧ
+τὴν θάλασσαν ἰδίοις ὅροις ἐνέκλεισεν· οὗ τὰ μυστήρια
+πιστῶς πάντα φυλάσσει τὰ στοιχεῖα· παρ' οὗ τὰ μέτρα
+τῶν τῆς ἡμέρας δρόμων εἴληφε φυλάσσειν· ᾧ πει-
+θαρχεῖ σελήνη νυκτὶ φαίνειν κελεύοντι· ᾧ πειθαρ-
+χεῖ τὰ ἄστρα, τῷ τῆς σελήνης ἀκολουθοῦντα δρό-
+μῳ, etc. Et Eucherius De contemptu mundi : Cernis
+ut etiam dies atque anni, et cuncta hæc ornamenta
+cœli, Dei verbum mandatumque infatigabili observa-
+tione conservent, præceptorumque ejus custodiam ir-
+remissa lege famulatum. JUN.
+
+# block=6
+(38) Οὐ παρεκβαίνει τὰ περιτεθειμένα αὐτῇ
+κλεῖθρα. De cancellis et limitibus mari a Deo posi-
+tis, intra quos fluctuum feroces fremitus se conti-
+nentes, præscriptos fines transgredi non audent,
+vid. Jerem. v, 22, et Proverb. VIII, 29, ubi LXX
+Seniores voce ἀκριβασμοῦ utuntur, quæ exactam
+terminorum limitationem, et finium accuratam me-
+tationem significat. Vide etiam Tertullianum cap.
+primo De trinitate, et Chrysostomum ad vers. 7
+psal. cxlviii; et Theodoretum ad eumde m, [edidit a.
+1642, Sirmondus. Verum verba hæc loco citato
+non leguntur. Consule sermonem 4, τῶν θεραπευτι-
+κῶν, et confer cum verbis a Junio hic lau latis. COLL.]
+cujus verba cum Græce adhuc non exst ent, et sint
+longe elegantissima, placet hic attexere : Βλέπε τῆς
+θαλάσσης τὸ κύτος, τὸ μέγεθος, τὴν εἰς πελάγη διαί-
+ρεσιν, τὰς ἀκτὰς, τοὺς ὅρμους, τὰς ἐν μέσῳ νήσους,
+τῶν ἰχθύων τὰ γένη, τὰ εἴδη, τὰ σχήματα, τὴν ποικι-
+λίαν, τὴν πρὸς τὴν χέρσον φιλίαν, τὰ τῶν κυμάτων
+σκιρτήματα, τὸν ἐπικείμενον αὐτοῖς τῆς προνοίας χα-
+λινὸν, δι' ὃν τὴν ἤπειρον ἐπικλύζειν οὐ δύναται, ἀλλ'
+ὁρμῶντα κατὰ τῆς ψάμμου, φοβεῖται τοὺς ὅρους, καὶ
+τὸν θεῖον ἐκεῖ νόμον γεγραμμένον ὁρῶν, Οἷόν τις γαῦ-
+ρος ἵππος ἀγχόμενος ὑπὸ πωλοδάμνου ἀνακλᾷ τὸν αὐ-
+χένα, καὶ εἰς τοὐπίσω χωρεῖ ὥσπερ μεταμελούμενος
+ὅτι καὶ τῆς ψάμμου προσέψαυσε. Cum his confer
+quæ scribit Cyrillus Hieros. catech. 9 : Τίς δύναται
+
+# block=9
+(35) Ἐπ' αὐτήν. Ita in ms. leg. Mill. et Wott.
+Editi ad unum omnes, ἐν αὐτῇ. GALL.
+
+# block=8
+(36) Κρίματα. Al. κύματα, al. κλίματα, al. κοή-
+ματα Birr. existimat S. Patrem scripsisse κρύμ-
+ματα, vox quidem insolens Græcis, ἀναλόγως tamen

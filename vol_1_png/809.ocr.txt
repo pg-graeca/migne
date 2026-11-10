@@ -1,0 +1,182 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,943,1338,1696,2119
+2,937,2296,1696,2595
+3,148,126,905,1168
+4,150,1336,908,2119
+5,939,122,1697,1209
+6,935,2595,1684,2697
+7,1007,1285,1624,1318
+8,150,2292,903,2394
+9,768,2213,1071,2247
+10,151,2492,903,2696
+11,251,1282,800,1318
+12,152,2392,900,2494
+13,183,2144,987,2182
+14,1204,1227,1425,1263
+15,550,70,1291,110
+16,390,1229,673,1263
+18,129,62,245,110
+19,1589,66,1693,110
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=943 source_y1=1338 source_x2=1696 source_y2=2119
+Post communionem vero, sic gratias agite : Gra-
+tias agimus tibi, Deus et Pater Jesu Salvatoris
+nostri, pro sancto nomine tuo, quod habitare fe-
+cisti in nobis; et pro cognitione, fide, charitate et
+immortalitate quæ dedisti nobis per Jesum Filium
+tuum. Tu, Domine omnipotens, Deus universorum,
+creasti mundum et quæ sunt in eo, per ipsum; et le-
+gem insevisti in animabus nostris; et victum accom-
+moda præparasti hominibus, Deus sanctorum et
+inculpatorum patrum nostrorum, Abrahæ, Isaac
+et Jacobi, fidelium servorum tuorum. Deus potens,
+fidelis et verax, et in promissis non mendax; qui
+misisti in terram Jesum Christum tuum, ut cum
+hominibus conversaretur tanquam homo, cum sit
+et Deus Verbum, et homo, utque errorem radicitus
+evelleret. Ipse et nunc per eum memento hujusce
+sanctæ Ecclesiæ tuæ, quam acquisivisti pretioso
+sanguine Christi tui; atque eam ab omni malo
+
+# block=2 source_x1=937 source_y1=2296 source_x2=1696 source_y2=2595
+fuerit, ejusque nescius factus sit particeps, respon-
+detur baptizandum 'eum esse, utpote a Deo voca-
+tum. Sed cum ratione Constitutionis ne contemptor
+exeat, congrui canon 57 synodi Toletanæ IV, quo
+decernitur ut Judæi qui per vim baptizati fuerant,
+aliisque sacramentis donati, Christianam religionem
+retinere cogantur, ne nomen divinum blasphemetur,
+et fides quam susceperunt vilis ac contemptibilis ha-
+beatur. COT.
+
+# block=3 source_x1=148 source_y1=126 source_x2=905 source_y2=1168
+ζωῆς ἧς ἐγνώρισας ἡμῖν διὰ Ἰησοῦ τοῦ Παιδός σου ·
+δι' οὗ καὶ τὰ πάντα ἐποίησας, καὶ τῶν ὅλων προ-
+νοεῖς · ὃν καὶ ἀπέστειλας περὶ (58) σωτηρίᾳ τῇ
+ἡμετέρᾳ γενέσθαι ἀνθρώπων· ὃν καὶ συνεχώρησας
+παθεῖν καὶ ἀποθανεῖν· ὃν καὶ ἀναστήσας εὐδόκησας
+δοξάσαι, καὶ ἐκάθισας ἐκ δεξιῶν σου· δι' οὗ καὶ
+ἐπηγγείλω ἡμῖν τὴν ἀνάστασιν τῶν νεκρῶν. Σὺ, Δέ-
+σποτα παντόκρατορ, Θεὲ αἰώνιε· ὥσπερ ἦν τοῦτο
+διεσκορπισμένον, καὶ συναχθὲν ἐγένετο εἷς ἄρτος,
+οὕτω συνάγαγέ σου τὴν Ἐκκλησίαν ἀπὸ τῶν περάτων
+τῆς γῆς εἰς τὴν (59) βασιλείαν. Ἔτι εὐχαριστοῦμεν,
+Πάτερ ἡμῶν, ὑπὲρ τοῦ τιμίου αἵματος Ἰησοῦ Χριστοῦ
+τοῦ ἐκχυθέντος ὑπὲρ ἡμῶν· καὶ τοῦ τιμίου σώμα-
+τος· οὗ καὶ ἀντίτυπα ταῦτα ἐπιτελοῦμεν, αὐτοῦ δια-
+ταξαμένου ἡμῖν καταγγέλλειν τὸν αὐτοῦ θάνατον·
+δι' αὐτοῦ γάρ σοι καὶ’ ἡ δόξα, εἰς τοὺς αἰῶνας. Ἀμήν.
+Μηδεὶς δὲ ἐσθιέτω ἐξ αὐτῶν, τῶν ἀμυήτων· ἀλλὰ
+μόνοι οἱ βεβαπτισμένοι εἰς τὸν τοῦ Κυρίου θάνατον.
+Εἰ δέ τις ἀμύητος κρύψας ἑαυτὸν μεταλάβῃ, κρῖμα
+αἰώνιον φάγεται· ὅτι μὴ ὢν τῆς εἰς Χριστὸν πίστεως,
+μετέλαβεν ὧν οὐ θέμις, εἰς τιμωρίαν ἑαυτοῦ. Εἰ δέ
+τις κατὰ ἄγνοιαν μεταλάβοι (60), τοῦτον τάχιον
+στοιχειώσαντες μυήσατε, ὅπως μὴ καταφρονητὴς
+ἐξέλθοι.
+
+# block=4 source_x1=150 source_y1=1336 source_x2=908 source_y2=2119
+Μετὰ δὲ τὴν μετάληψιν, οὕτως εὐχαριστήσατε·
+Εὐχαριστοῦμέν σοι, ὁ Θεὸς καὶ Πατὴρ Ἰησοῦ τοῦ
+Σωτῆρος ἡμῶν, ὑπὲρ τοῦ ἁγίου ὀνόματός ⁷³ σου, οὗ
+κατεσκήνωσας ἐν ἡμῖν· καὶ ὑπὲρ τῆς γνώσεως, καὶ
+πίστεως, καὶ ἀγάπης, καὶ ἀθανασίας· ἧς ἔδωκας
+ἡμῖν διὰ Ἰησοῦ τοῦ Παιδός σου. Σὺ, Δέσποτα παντό-
+κρατορ, ὁ Θεὸς τῶν ὅλων, ἔκτισας (61) τὸν κόσμον,
+καὶ τὰ ἐν αὐτῷ, δι' αὐτοῦ· καὶ νόμον κατεφύτευσας ἐν
+ταῖς ψυχαῖς ἡμῶν· καὶ τὰ πρὸς μετάληψιν προευτρέ-
+πισας (62) ἀνθρώποις. Ὁ Θεὸς τῶν ἁγίων καὶ ἀμέμ-
+πτων πατέρων ἡμῶν, Ἀβραὰμ, καὶ Ἰσαὰκ,καὶ Ἰακὼβ,
+τῶν πιστῶν δούλων σου. Ὁ δυνατὸς Θεὸς, ὁ πιστὸς
+καὶ ἀληθινὸς, καὶ ἀψευδὴς ἐν ταῖς ἐπαγγελίαις· ὁ
+ἀποστείλας ἐπὶ γῆς Ἰησοῦν τὸν Χριστόν σου, ἀνθρώ-
+ποις συναναστραφῆναι ὡς ἄνθρωπον, Θεὸν ὄντα Λόγον
+καὶ ἄνθρωπον, καὶ τὴν πλάνην πρόρριζον ἀνελεῖν.
+Αὐτὸς καὶ νῦν δι' αὐτοῦ μνήσθητι τῆς ἁγίας σου
+Ἐκκλησίας ταύτης, ἣν περιεποιήσω τῷ τιμίῳ αἵματι
+
+# block=5 source_x1=939 source_y1=122 source_x2=1697 source_y2=1209
+pro vita quam manifestasti nobis per Jesum Filium
+tuum; per quem tum omnia creasti, tum uni-
+versis provides; quem et misisti, ut ad salu-
+tem nostram homo fieret; quem etiam permi-
+sisti pati et mori; quem et resuscitans glorificare
+voluisti, et sedere fecisti ad dexteram tuam : per
+quem et promisisti nobis resurrectionem mortuo-
+rum. Tu, Domine omnipotens, Deus æterne : quem-
+admodum hoc erat dispersum, et cum fuit con-
+gregatum, factus est unus panis, ita congrega Ec-
+clesiam tuam a finibus terræ in regnum. Adhuc
+gratias agimus, Pater noster, pro pretioso san-
+guine Jesu Christi effuso nostra causa; et pro pre-
+tioso corpore, cujus et hæc antitypa celebramus,
+cum ipse nobis constituerit mortem illius annun-
+tiare ⁷¹ : per ipsum enim tibi gloria in sæcula.
+Amen. Nullus porro ex iis qui initiati seu baptizati
+non sunt, ex eis comedat; sed soli ii qui baptizati
+fuerunt in Domini mortem. Si quis vero non ini-
+tiatus, celaverit se ipsum, et sic communicaverit;
+judicium æternum manducabit ⁷²; quod non addi-
+ctus fidei in Christum, quæ fas non erat sumpsit,
+in supplicium suum. Si quis autem per ignoran-
+tiam participaverit; hunc cito instruite, ac bapti-
+smo initiate, ne contemptor exeat.
+
+# block=6 source_x1=935 source_y1=2595 source_x2=1684 source_y2=2697
+(61) Ἔκτισας. Ὁ κτίσας in altero cod. Vindob.
+et quidem rectius. CLER.
+(62) Προευτρέπισας. Idem εὐτρέπισας. ID.
+
+# block=7 source_x1=1007 source_y1=1285 source_x2=1624 source_y2=1318
+Gratiarum actio super divina communione.
+
+# block=8 source_x1=150 source_y1=2292 source_x2=903 source_y2=2394
+(58) Περί. Ἐπί rectius in cod. Vindobonensi,
+hoc est, propter salutem nostram; nec περί finem
+significare solet. CLER.
+
+# block=9 source_x1=768 source_y1=2213 source_x2=1071 source_y2=2247
+VARIORUM NOTÆ.
+
+# block=10 source_x1=151 source_y1=2492 source_x2=903 source_y2=2696
+(60) Εἰ δέ τις κατὰ ἄγνοιαν μετάλαβοι. In Re-
+sponsis canonicis Timothei Alexandrini ad inter-
+rogationes ipsi per episcopos et clericos propositas
+cap. 1, apud Balsamonem, p. 1059, ad interroga-
+tionem Quid agendum sit, si puer catechumenus,
+aut homo adultus, dum oblatio fieret, opportune ad-
+
+# block=11 source_x1=251 source_y1=1282 source_x2=800 source_y2=1318
+Εὐχαριστία ἐπὶ τῇ θείᾳ μεταλήψει.
+
+# block=12 source_x1=152 source_y1=2392 source_x2=900 source_y2=2494
+(59) Τήν. Melius σήν in ms. Vind. in regnum
+tuum. Regnum Dei aut cælorum non solet simpli-
+citer βασιλεία dici. Vide infra c. 26, sub finem. ID.
+
+# block=13 source_x1=183 source_y1=2144 source_x2=987 source_y2=2182
+⁷¹ I Cor. XI, 26. ⁷² Ibid., 29. ⁷³ Deest in alio codice.
+
+# block=14 source_x1=1204 source_y1=1227 source_x2=1425 source_y2=1263
+CAPUT XXVI.
+
+# block=15 source_x1=550 source_y1=70 source_x2=1291 source_y2=110
+CONSTITUTIONES APOSTOLICÆ. — LIB. VII.
+
+# block=16 source_x1=390 source_y1=1229 source_x2=673 source_y2=1263
+ΚΕΦΑΛΑΙΟΝ ΚΖ'.
+
+# block=18 source_x1=129 source_y1=62 source_x2=245 source_y2=110
+1017
+
+# block=19 source_x1=1589 source_y1=66 source_x2=1693 source_y2=110
+1018

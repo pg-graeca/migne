@@ -1,0 +1,177 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,928,809,1678,1763
+2,142,802,903,1762
+3,936,147,1681,663
+4,144,149,903,664
+5,141,1998,898,2705
+6,141,1809,1684,1881
+7,919,2002,1679,2702
+8,579,88,1248,130
+9,931,734,1680,804
+11,379,683,660,720
+14,141,724,887,798
+15,1177,682,1427,732
+16,129,84,219,134
+17,1605,92,1683,130
+18,733,1902,1049,1960
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Habe præ oculis timorem Dei, semper decem Dei
+mandatorum memor. Dominum Deum unum ac so-
+lum diligere ex totis viribus. Non attendere idolis,
+aut hujusmodi diis, nempe inanimis, aut bestiis,
+aut dæmonibus. ⁸¹ Cognosce creationem Dei novam
+ac præcipuam, quæ per Christum cœpit, et Sabba-
+tum celebrabis propter eum qui operari et creare
+quidem desiit, sed non desiit providentia sua gu-
+bernare; Sabbatum, inquam, in meditatione legum
+divinarum, non in vacatione manuum consistens.
+Omnem illicitam cupiditatem rejice : item omnem
+noxam, quæ in hominum perniciem vergit; omnem-
+que iram. Parentes honora, ut originis auctores.
+« Dilige proximum tuum ut teipsum ⁸². » Egentibus
+communica quæ ad vitam necessaria sunt. Perju-
+rium et frequens cum vanitate jusjurandum fuge;
+non enim innocens ac impunitus eris. Non appa-
+reas coram sacerdotibus vacuus, sed voluntaria tua
+dona offer jugiter; et ad Christi ecclesiam adire ne
+desinas, quinimo mane ante omne opus accurre,
+similiterque vespere veni, ut gratias Deo agas quod
+vitam tibi largitus est. Operare, esto assiduus, la-
+
+# block=2
+Πρὸ ὀφθαλμῶν ἔχε τὸν τοῦ Θεοῦ φόβον, πάντοτε
+μεμνημένος τῶν δέκα τοῦ Θεοῦ λογίων. Ἀγαπᾷν Κύ-
+ριον τὸν Θεὸν τὸν ἕνα καὶ μόνον ἐξ ὅλης τῆς ἰσχύος (28).
+Μὴ προσανέχειν εἰδώλοις, ἤ τισιν ἑτέροις, ὡς θεοῖς
+ἀψύχοις, ἢ ἀλόγοις, ἢ δαίμοσιν. Γίνωσκε δημιουργίαν
+Θεοῦ διάφορον, ἀρχὴν λαβοῦσαν διὰ Χριστοῦ, καὶ
+σαββατιεῖς διὰ τὸν παυσάμενον μὲν τοῦ ποιεῖν, οὐ
+παυσάμενον δὲ τοῦ προνοεῖν, σαββατισμὸν μελέτης
+νόμων, οὐ χειρῶν ἀργίαν. Πᾶσαν ἔκνομον ἐπιθυμίαν
+ἄπωσαι, πᾶσαν λύμην τὴν ἐπὶ διαφθορᾷς ἀνθρώπων,
+πᾶσαν ὀργήν. Γονεῖς τίμα, ὡς αἰτίους γενέσεως.
+« Ἀγάπα τὸν πλησίον σου ὡς σεαυτόν. » Κοινώνει
+βίου τοῖς δεομένοις. Ἐπιορκίαν καὶ πολυορκίαν μά-
+ταιον φεῦγε· οὐ γὰρ ἀθωωθήσῃ. Μὴ ὀφθῇς παρὰ τοῖς
+ἱερεῦσι κενὸς (29), καὶ τὰ ἑκούσιά σου ἐνδελεχίζων
+πρόσφερε· καὶ τῆς Χριστοῦ ἐκκλησίας μὴ ἀπολείπου,
+ὀρθρίζων εἰς αὐτὴν πρὸ παντὸς ἔργου, καὶ πάλιν
+ἑσπέρας εἰς αὐτὴν ἀπάντα, εὐχαριστῶν Θεῷ ὑπὲρ ὧν
+σοι τὴν ζωὴν κεχάρισται. Ἐργοπόνει, ἐνδελέχιζε, κο-
+πία, πρόσφερε Κυρίῳ τὰ ἑκούσιά σου. « Τίμα, γάρ
+φησι, τὸν Κύριον ἀπὸ σῶν δικαίων πόνων. » Εἰ εἰς τὸν
+Κορβανᾶν ⁸³ (30) οὐ δύνασαι βάλλειν, κἂν κοινώνει τοῖς
+
+# block=3
+purificationis et indulgentiæ, dabis quæ ipsi deben-
+tur, videlicet primítias areæ et torcularis, nec non
+oblationes pro peccatis. Te enim largiri decet; illum
+vero dispensare, quatenus œconomum et procurato-
+rem rerum ecclesiasticarum. Cave tamen ne episco-
+pum ad numeros voces; neque dispensationem illius
+observes, quo modo eam gerat, aut quando, aut
+quibus, aut ubi, aut an bene, an male, an prout
+convenit. Habet quippe rationum petitorem Domi-
+num Deum, qui hanc œconomiam in manus ejus di-
+misit, quippe eum sacerdotio tanti honoris ac loci
+dignatus est.
+
+# block=4
+ετάξατο· καὶ δώσεις τῷ ἱερεῖ τὰ ὀφειλόμενα αὐτῷ,
+ἀπαρχὴν ἅλωνος καὶ ληνοῦ καὶ περὶ ἁμαρτιῶν, ὡς
+μεσίτῃ Θεοῦ καὶ τῶν δεομένων καθάρσεως καὶ παρ-
+αιτήσεως. Σὲ μὲν γὰρ διδόναι προσήκει, οἰκονομεῖν
+δὲ ἐκεῖνον, ἅτε οἰκονόμον καὶ διοικητὴν τῶν ἐκκλη-
+σιαστικῶν πραγμάτων. Οὐ μέντοι λογιστεύσεις σου
+τὸν ἐπίσκοπον (27), οὐδὲ παρατηρήσεις τὴν οἰκονο-
+μίαν αὐτοῦ, πῶς ἐπιτελεῖ, ἢ πότε, ἢ τίσιν, ἢ ποῦ, ἢ
+εἰ καλῶς, ἢ φαύλως, ἢ δεόντως. Ἔχει γὰρ λογιστὴν
+Κύριον τὸν Θεὸν τὸν ἐγχειρίσαντα εἰς τὰς χεῖρας αὐ-
+τοῦ τὴν οἰκονομίαν ταύτην, καὶ καταξιώσαντα αὐτὸν
+τῆς ἱερωσύνης τοῦ τηλικούτου τόπου.
+
+# block=5
+saltem ad veritatem Hebraicam. Cæterum benedi-
+cere, idiotismo linguæ sanctæ, est benefacere : re-
+cteque hic inter testimonia De eleemosynis et muni-
+ficentia textus iste proverbialis collocatur. Cot.
+(27) Οὐ μέντοι λογιστεύσεις σου τὸν ἐπίσκο-
+πον. Huc facit dictum S. Cyrilli Alexandrini in
+Epistola canonica : Λυπεῖ σφόδρα, καὶ εἰς ἐσχάτην
+ἀκηδίαν καταφέρει τοὺς ἁπανταχόσε γῆς ὄντας θεο-
+σεβεστάτους ἐπισκόπους, τὸ ἀπαιτεῖσθαι λόγους τῆς
+οἰκονομίας τῶν παραπιπτόντων αὐτοῖς ἀναλωμάτων,
+εἴτε ἐκ προσόδων ἐκκλησιαστικῶν, εἴτ’ οὖν καὶ ἀπὸ
+τῆς τινῶν καρποφορίας· ἕκαστος γὰρ ἡμῶν τῶν ἰδίων
+καιρῶν δώσει λόγον τῷ πάντων κριτῇ. Κειμήλια μὲν
+γὰρ καὶ κτήσεις ἀκινήτους, ἀνεκποιήτους ταῖς ἐκκλη-
+σίαις σώζεσθαι χρή· θαρσεῖσθαι δὲ τοῖς (vel τοὺς)
+κατὰ καιρὸν τὴν θείαν διέπουσιν (vel διέποντας) ἱερω-
+σύνην, τῶν παραπιπτόντων ἀναλωμάτων τὴν οἰκονο-
+μίαν. Ita scribendum ex mss. Regiis. E quibus etiam
+complere oportet epistolæ titulum, hoc pacto : Τοῦ
+ἐν ἁγίοις Πατρὸς ἡμῶν Κυρίλλου ἀρχιεπισκόπου
+Ἀλεξανδρείας ἐπιστολὴ κανονικὴ πρὸς Δόμνον......
+
+# block=6
+⁸¹ l. Ignat. interpol. ad Magnes. 9. ⁸² Matth. v, 43. ⁸³ al. εἰς τὸν κορβανᾶν ὃ δύνασαι βάλλων, κοι-
+νώνει. Sic uterque Vindobon. Codex.
+
+# block=7
+Κύριλλος Δόμνῳ...... Inepte editores Theodori Bal-
+samonis in eo titulo, initio paginæ 1076 tres ulti-
+mas voces paginæ præcedentis 1075 posuerunt, ἐν
+τοῖς ὕμνοις. Id.
+(28) Ἰσχύος. Alter codex addit σου. Cler.
+(29) Μὴ ὀφθῇς παρὰ τοῖς ἱερεῦσι κενός. Modi-
+cum detorquet loca Scripturæ Exodi xxiii, 15 ; Deu-
+teron. xvi, 16, et Ecclesiast. xxxv, 6. Cot.
+(30) Εἰ εἰς τὸν Κορβανᾶν. Omnino præferri de-
+bet lectio marginis. Κορβανᾶς, Κορβωνᾶς, Κορβο-
+νᾶς, est Josepho sacer thesaurus ; Hieronymo Ga-
+zophylacium, et dona Dei. Deducitur a Corban, quod
+proprie significat munus Deo oblatum, seu, quem-
+admodum in libro De nominibus Hebraicis apud
+Hieronymum vertitur, oblationem. S. Hilarius ad
+Matthæi xxvii, 6: Neque in Corbonam, id est in
+oblationem pecuniæ admisceri liceret. Unde immerito
+arguitur S. Chrysostomus (cujus verba in Lexicum
+suum transtulit Favorinus), quia scribit ad Mat-
+thæi caput xv: Κορβᾶν οὐκ ἔστι δωρεὰ καὶ προῖξ,
+ἀλλὰ προσφορὰ κυρίως λέγεται. Scio LXX, Marcum
+
+# block=8
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=9
+Commemoratio decem Dei mandatorum; et quo modo
+ea hic edisserunt.
+
+# block=11
+ΚΕΦΑΛΑΙΟΝ ΛϚ΄.
+
+# block=14
+Ὑπόμνησις τῶν δέκα τοῦ Θεοῦ λογίων, καὶ ὅπως
+αὐτὰ ἐνταῦθα διαγορεύουσι.
+
+# block=15
+CAPUT XXXVI.
+
+# block=16
+685
+
+# block=17
+686
+
+# block=18
+VARIORUM NOTÆ.

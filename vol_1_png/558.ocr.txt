@@ -1,0 +1,235 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,244,174,998,1635
+4,681,121,1381,157
+5,255,116,329,158
+6,1713,112,1785,162
+7,245,2604,1789,2724
+8,1025,176,1399,2588
+9,1413,172,1805,2586
+10,633,1738,1009,2596
+11,243,1740,621,2596
+12,637,1660,997,1734
+13,249,1658,613,1738
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+ctrina, nondum lucem aspicerent nostræ Consti-
+tutiones. Concludunt, et τῶν ἀποστολικῶν Διδαγμά-
+των librum, citatum in Quæstionibus, nomen Ana-
+stasii Nicæni præferentibus, quæstione 93, eumdem
+habendum cum ἀποστόλων Διδαχαῖς, alium a Dia-
+taxibus; et Constitutiones hodiernas etiam ex διδαχῇ
+apostolorum, et διατάξει Epiphaniana fuisse consar-
+cinatas.
+Verumtamen non desunt quæ ad hæc omnia re-
+ponamus; hunc in modum. Ad 1. Non solis epi-
+scopis, sed et laicis quoque, omnibusque Christia-
+nis Diataxis et catholica Doctrina nuncupatur; ut
+fidem faciunt prima libri verba: Οἱ ἀπόστολοι καὶ
+οἱ πρεσβύτεροι πᾶσι τοῖς ἐξ ἐθνῶν πιστεύσασιν εἰς
+τὸν Κύριον, etc. Et vero quis ausit asseverare, quod
+postremus apostolorum canon tantum ætatis ferat
+ac prima Διατάξεων editio, qua utebatur S. Epipha-
+nius; quodque primus διαταγεὺς sua voluerit oc-
+cultare? Deinde ex Athanasiana Synopsi observat
+vir non mediocri eruditione, Joannes Dallæus De
+Pseudep. apostol. l. 1, c. 4, duo fuisse Doctrinæ apo-
+stolicæ velut corpora, aliud quo totus liber conti-
+nebatur, aliud in quo ea duntaxat libri legebantur,
+quæ a Patribus tanquam utilia excerpta fuerant.
+Unde conficitur, ut canone apostolico extremo, de
+integris διαταγαῖς seu διδαχαῖς agente, possit B.
+Athanasius in ἑορταστικῇ de solis excerptis loqui.
+Ad 2. Forte Nicephorus Constantinopolitanus tan-
+tum viderat διδαχὴν decurtatam, ideoque constan-
+tem versibus solummodo σ', 200. Vel præferre opor-
+tet lectionem ms. Croiani, ,ϛ, 6000. Ad 3. Indicu-
+lus ille etiam subjungitur Anastasii Quæstionibus
+in codice 1789 Bibliothecæ Christianissimi regis.
+Ita vero habet :
+
+# block=4
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=5
+515
+
+# block=6
+516
+
+# block=7
+⁵⁹ Cum superioribus numerata. ⁶⁰ Id est, quintos librorum versibus constantium. l. Epiphan. De mens. et
+pond., c. 4. ⁶¹ Vide ad Hermæ lib. 1, vis. 2, cap. 3. ⁶² Locus vacuus in membranis. ⁶³ f. ἀνάληψις
+Μωσέως Assumptio Mosis, ex Athanasio, et Nicephoro CP. ⁶⁴ f. Πράξεις.
+
+# block=8
+Ναούμ. κϛ', Ἀμβακούμ.
+κζ', Σοφονίας. κη', Ἁγ-
+γαῖος. κθ', Ζαχαρίας. λ',
+Μαλαχίας. λα', Ἡσαΐας.
+λβ', Ἱερεμίας. λγ', Ἰεζε-
+κιήλ. λδ', Δανιήλ, λε'.
+Εὐαγγέλιον κατὰ Ματ-
+θαῖον. λϛ', κατὰ Μάρκον.
+λζ', κατὰ Λουκᾶν. λη'.
+κατὰ Ἰωάννην. λθ', Πρά-
+ξεις τῶν ἀποστόλων. μ',
+Ἰακώβου ἐπιστολή. μα',
+Πέτρου. μβ', Πέτρου. μγ',
+Ἰωάννου. μδ', Ἰωάννου.
+με', Ἰωάννου. μϛ', Ἰού-
+δα. μζ', Παύλου πρὸς Ῥω-
+μαίους. μη', πρὸς Κοριν-
+θίους. μθ', πρὸς Κοριν-
+θίους. ν', πρὸς Γαλάτας.
+να', πρὸς Ἐφεσίους. νβ',
+πρὸς Φιλιππησίους. νγ',
+πρὸς Κολοσσαεῖς. νδ',
+πρὸς Θεσσαλονικεῖς. νε',
+πρὸς Θεσσαλονικεῖς. νϛ',
+πρὸς Τιμόθεον. νζ', πρὸς
+Τιμόθεον. νη', πρὸς Τί-
+ξ'. πρὸς Ἑβραίους.
+Καὶ ὅσα ἔξω τῶν ξ',
+α', Σοφία Σολομῶντος. β',
+Σοφία Σιράχ. γ', Μακκα-
+βαίων. δ', Μακκαβαίων.
+ε', Μακκαβαίων. ϛ', Μακ-
+καβαίων. ζ', Ἐσθήρ. η',
+Ἰουδίθ. θ', Τωβίτ.
+Καὶ ὅσα ἀπόκρυφα·
+α', Ἀδάμ. β', Ἐνώχ. γ',
+Λάμεχ. δ', Πατριάρχαι.
+ε', Ἰωσὴφ Προσευχή. ϛ',
+Ἐλδὰμ καὶ Μοδάμ. ζ',
+Διαθήκη Μωσέως ⁶³. . .
+. . . . . . . . θ', Ψαλ-
+μοὶ Σολομῶντος. ι', Ἡ-
+λιοῦ ἀποκάλυψις. ια', Ἡ-
+σαΐου ὅρασις. ιβ', Σοφο-
+νίου Ἀποκάλυψις. ιγ',
+Ζαχαρίου Ἀποκάλυψις.
+ιδ', Ἔσδρα Ἀποκάλυψις.
+ιε', Ἰακώβου Ἱστορία.
+ιϛ', Πέτρου Ἀποκάλυψις.
+ιζ', Περίοδοι καὶ Διδαχαὶ
+τῶν ἀποστόλων. ιη', Βαρ-
+νάβα Ἐπιστολή. ιθ', Παύ-
+λου Πρᾶξις ⁶⁴. κ', Παύ-
+λου Ἀποκάλυψις. κα',
+Διδασκαλία Κλήμεντος.
+
+# block=9
+28, Aggæus. 29, Zacha
+rias. 30, Malachias. 31,
+Isaias. 32, Jeremias. 33,
+Ezechiel. 34 , Daniel.
+35, Evangelium secundum
+Matth , 36, secundum
+Marcum. 37, secundum
+Lucam. 38 , secundum
+Joannem. 39, Acta apo-
+stolorum. 40, Jacobi Epi-
+stola. 41, Petri. 42, Pe
+tri. 43 , Joannis. 44,
+Joannis. 45, Joannis. 46,
+Judæ. 47, Pauli ad Ro-
+manos. 48, ad Corinthios.
+49, ad Corinthios. 50, ad
+Galatas. 51, ad Ephesios.
+52, ad Philippenses. 53,
+ad Colossenses. 54 , ad
+Thessalonicenses 55, ad
+Thessalonicenses. 56, ad
+Timotheum. 57, ad Ti-
+motheum. 58, ad Titum.
+59, ad Philemonem. 60,
+ad Hebræos.
+ον. νθ', πρὸς Φιλήμονα.
+·
+Et qui extra LX sunt :
+1, Sapientia Salomonis 2,
+Sapientia Sirach. 3, Mac
+cabæorum. 4, Maccabæo-
+rum. 5, Maccabæorum. 6,
+Maccabæorum. 7, Esther.
+8, Judith. 9, Tobias.
+Et qui apocryphi :
+⁶¹ 1, Adam. 2, Henoch.
+3, Lamech. 4, Patriar-
+chæ. 5, Josephi Oratio.
+6, Eldad et Medad. 7,
+Testamentum Mosis ⁶². .
+. . . . . . . . 9, Psalmi
+Salomonis. 10, Eliæ Re-
+velatio seu Apocalypsis.
+11, Esaiæ visio. 12, So-
+phoniæ Revelatio. 13, Za-
+chariæ Revelatio. 14, Es-
+dræ Revelatio. 15, Jaco-
+bi Historia. 16, Petri
+Apocalypsis. 17, Periodi
+aut Circuitus et Doctrinæ
+apostolorum. 18, Barna-
+bæ Epistola. 19, Pauli
+Actus. 20, Pauli Apoca-
+lypsis. 21, Doctrina Cle-
+mentis. 22, Ignatii Do-
+
+# block=10
+α', Γένεσις. β', Ἔξοδος. γ'.
+Λευιτικόν. δ', Ἀριθμοί.
+ε', Δευτερονόμιον. ϛ', Ἰη-
+σοῦς. ζ', Κριταὶ καὶ
+Ῥούθ. η', Βασιλειῶν α'.
+θ', Βασιλειῶν β'. ι', Βασι-
+λειῶν γ'. ια', Βασιλειῶν
+δ'. ιβ', Παραλειπόμενα, ε'.
+ιγ', Ἰώβ. ιδ', Ψαλτήριον.
+ιε', Παροιμίαι. ιϛ'. Ἐκκλη-
+σιαστής. ιζ', ᾌσματα
+(codex 1607 ejusdem bi-
+bliothecæ qui comple-
+ctitur primam partem
+hujus catalogi, ᾎσμα)
+ᾀσμάτων ε'. ιη', Ἔσδρας.
+ιθ', Ὡσηέ. κ', Ἀμῶς. κα',
+Μιχαίας. κβ', Ἰωήλ. κγ',
+Ἰωνᾶς. κδ', Ἀβδίας. κε',
+
+# block=11
+1, Genesis. 2, Exodus. 3,
+Leviticus. 4, Numeri. 5,
+Deuteronomium . 6, Jo-
+sue. 7, Judices, et Ruth.
+8, Regnorum (seu Regum)
+primus. 9, Regnorum se-
+cundus. 10, Regnorum ter-
+tius. 11, Regnorum quar-
+tus. 12. Paralipomena,
+quintus ⁵⁹. 13, Job. 14.
+Psalterium. 15, Prover-
+bia. 16, Ecclesiastes. 17,
+Cantica sive Canticum
+Canticorum, quintus ⁶⁰.
+18, Esdras. 19, Osee. 20,
+Amos. 21, Michæas. 22,
+Joel. 23, Jonas. 24, Ab-
+dias. 25, Nahum. 26,
+Habacuc. 27, Sophonias.
+
+# block=12
+Περὶ τῶν ξ' βιβλίων, καὶ
+ὅσα τούτων ἐκτός.
+
+# block=13
+De LX libris, et quinam
+extra illos sint.

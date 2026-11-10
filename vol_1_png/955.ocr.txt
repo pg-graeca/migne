@@ -1,0 +1,164 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,180,2578,1709,2688
+2,963,1559,1721,2552
+3,181,1517,932,2562
+4,972,744,1725,1558
+5,185,127,935,1513
+6,730,76,1133,111
+11,1651,73,1731,108
+14,196,82,272,112
+23,969,121,1730,728
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=11 fontSize=15px
+# block=14 fontSize=15px
+# block=23 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=11
+1310
+
+# block=6
+RECOGNITIONUM LIB. III.
+
+# block=14
+1309
+
+# block=23
+inquit, te omnibus divitiis repletum, si huc redire
+placuerit, et pluribus fultum ministeriis mittam.
+Hæc ego audiens, et nihil in eo secundum hanc pro-
+fessionem videns, sed magum et deceptorem esse
+intelligens, respondi : Quæso te, ignoscemihi, quia
+pedes doleo, et propterea exire a Cæsarea non va-
+leo; præterea est mihi uxor, sunt parvuli liberi,
+quos relinquere omnino non possum. At ille hæc
+audiens et ignaviæ me incusans, profectus est con-
+tra Doram dicens: Cum audieris quanta mihi gloria
+erit in urbe Roma, pœnitebit te. Et post hæc ipse
+quidem, ut aiebat, Romam petiit, ego autem confec-
+stim redii huc, orans ut me suscipias ad pœniten-
+tiam, quia ab eo deceptus sum.
+
+# block=5
+LXII. At Petrus : Quis est, quì assiduus sit erga
+doctrinam et studiose singula quæque perquirat ,
+nisi qui animam suam diligit ad salutem et omnibus
+renuntiat hujus mundi negotiis, ut soli verbo Dei
+vacet, quem solum prudentem judicat verus pro-
+pheta, vendentem omnia quæ sua sunt, et ementem
+unam veram margaritam ⁸, et intelligentem quæ sit
+differentia a temporalibus ad æterna , parvis ad
+magna, hominibus ad Deum ? Intelligit enim quæ sit
+æterna spes apud verum et bonum Deum. Quis au-
+tem est qui diligit Deum, nisi qui sapientiam ejus
+cognovit? quomodo autem quis agnoscere poterit
+sapientiam Dei , nisi assiduus sit ad audiendum
+verbum ejus ? ex quo accidit ut amorem ejus con-
+cipiat et digno eum honore veneretur, hymnis et
+orationibus ad eum fusis, et in his libentissime re-
+quiescens, summumque deputans detrimentum, si
+quando aliquid aliud vel ad momentum temporis
+loquatur aut agat, quia revera nec potest anima quæ
+Dei amore repleta est, aliud aliquid intueri nisi
+quod ad Deum pertinet, nec satiari potest præamore
+ejus, ea quæ ipsi scit esse placita meditando. Hi
+vero qui affectum ejus minime concipere, nec illu-
+minatam charitatem ejus gerunt mente, velut in te-
+nebris positi lucem videre non possunt. Et ideo
+etiam priusquam incipiant acquirere de Deo, quasi
+labore oppressi statim deficiunt, ac tædio repleti
+continuo a propria consuetudine rapiuntur ad ea
+verba quibus delectantur. Nam de Deo audire ali-
+quid talibus tædiosum est et molestum, pro eo ut
+dixi, quia mens eorum nullam dulcedinem divinæ
+charitatis accepit.
+
+# block=4
+LXIV. Cum hæc dixisset is qui a Simone regres-
+sus est, jussit eum Petrus in atrio residere. Proce-
+dens autem ipse et turbas plurimas videns , multo
+plures quam superioribus diebus, stetit in loco so-
+lito et ostendens eum qui venerat, sermonem facere
+hoc modo cœpit : Iste, fratres, quem ostendo vobis,
+paulo ante venit ad me, de Simonis mihi malis ar-
+tibus nuntians, quomodo ipsam sceleris sui offici-
+nam projecerit in profundum, non quasi pœnitentia
+ductus, sed metuens ne deprehensus publicis legi-
+bus subjaceret. Rogabat autem hunc, ut dicit, mu-
+nera pollicens immensa, secum manere. Quem cum
+suadere minime potuisset, tanquam ignavum incre-
+pans dereliquit, ipse Romam petens. Cumque hæc
+Petrus ⁷ indicasset turbis, ipse qui regressus a Si-
+mone fuerat, publice stans singula quæque cœpit
+populo exponere de sceleribus Simonis. Et cum
+graviter ferrent de his, quæ audiebant per artes
+magicas gesta a Simone, ait Petrus :
+
+# block=3
+LXIII. Hæc Petro dicente dies exortus est , et
+ecce veniens quidam ex discipulis Simonis clama-
+bat dicens : Obsecro te, Petre, suscipe me miserum
+a Mago Simone deceptum, cui ego velut cœlesti
+Deo intendebam, pro his quæ ab eo fieri mirabilibus
+videbam. Auditis tamen sermonibus tuis cœpit jam
+mihi homo videri, et quidem malus. Verumtamen
+cum hinc exiret , ego eum subsecutus sum solus,
+nondum enim ad liquidum impietates ejus agnove-
+ram. Cum autem vidisset me subsequentem, beatum
+me dicens perduxit ad domum suam, circa medium
+vero noctis ait ad me : Omnium te hominum faciam
+meliorem, si volueris usque ad finem perseverare
+mecum; cui cum promisissem, exegit a me juramen-
+tum perseverantiæ, eoque accepto imposuit super
+humeros meos polluta quædam et exsecrabilia se-
+creta sua ut portarem, et sequi me jussit. Ubi vero
+ventum est ad mare, navigium quod forte aderat
+ingressus, id a cervicibus meis quod portare me
+jusserat, sumpsit. Et paulo post egressus nihil ex-
+tulit, certum quod in mare id jecerat. Rogabat au-
+tem me, ut cum ipso proficiscerer, dicens se Romam
+petere, ibi enim in tantum placiturum, ut Deus pu-
+tetur et divinis publice donetur honoribus. Tunc,
+
+# block=2
+LXV. Nolite, fratres, graviter ferre de his quæ
+transacta sunt, sed observate de futuris ; quæ enim
+transierunt jam finita sunt, quæ vero imminent pe-
+riculosa sunt his qui incurrerint ; scandala enim
+nunquam deerunt huic mundo ⁶ donec permittitur
+inimico agere pro voluntate sua, ut prudentes qui-
+que et intelligentes astutias ejus ⁷ sufficiant sibi ab
+eo superent agones, hi vero qui negligunt discere
+quæ ad salutem pertinent animæ suæ, justis ab eo
+deceptionibus capiantur. Quia ergo ut ipsi audistis,
+Simon egressus est aures gentilium qui ad salutem
+vocati sunt prævenire, necesse est et me vestigia
+ejus insequi, ut si quid forte ab illo disputatum
+fuerit, corrigatur a nobis. Sed quoniam justum est
+de vobis majorem sollicitudinem geri, qui jam intra
+muros vitæ continemini, quia quod acquisitum est
+si pereat, damnum infert, quod autem ⁹ nondum si
+quidem inveniri potuerit, lucrum est, si minus hoc
+solum damni est quod lucrum factum non est ; ut
+ergo et vos magis ac magis in veritate firmemini,
+et gentes quæ ad salutem vocantur non usquequa-
+que possint nequitia Simonis præveniri, cogitavi
+Zacchæum vobis ordinare pastorem, ego vero ipse
+
+# block=1
+⁶ Matth. xiii, 46. ⁷ Cumque hæc Petrus, et quæ sequuntur vocabula, usque ad illa cap. 65: deceptioni-
+bus capiantur, desunt in codd. Lipss. ⁸ Matth. xviii, 7; Luc. xvii, 1. ⁹ Quod autem — factum non est non
+leguntur in codd. Lipss.

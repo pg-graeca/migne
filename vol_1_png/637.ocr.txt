@@ -1,0 +1,178 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,969,136,1732,1056
+2,181,142,936,1058
+3,191,2400,942,2704
+4,806,1148,1104,1191
+5,613,83,1289,130
+6,185,1192,942,2400
+7,969,1194,1728,2712
+8,167,88,251,132
+9,1631,84,1713,130
+10,179,1068,1747,1142
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+vivium, anus invitare voluerint ¹⁰; ei quam diaconi
+inopem esse sciunt, mittant persæpe. ¹¹ Cæterum
+in convivio, illud quod pastori solitum est dari; id
+quod primitiarum est dico; ipsi, licet non sit con-
+vivio præsens, tanquam sacerdoti seponatur, in
+honorem Dei, a quo sacerdotium accepit. Quantum
+autem unicuique anui tribuitur, ejus duplum dia-
+conis in Christi reverentiam concedatur. Pre-
+sbyteris vero, quia assidue circa sermonem doctrinæ
+laborant, dupla etiam portio assignetur, in gratiam
+apostolorum Domini, quorum et locum tenent, vel-
+ut consiliarii episcopi, et Ecclesiæ corona; sunt
+enim synedrium et senatus Ecclesiæ. ¹² Qui autem
+lector est, ipse quoque partem ferat unam, ad pro-
+phetarum honorem: parique modo cantor et ostia-
+rius. Unicuique ergo ecclesiasticæ dignitati vene-
+rationem debitam impertiant laici, in muneribus et
+in honorario ad vitam necessario. Nec vero facile
+præposito molestiam inferant, sed cupita significent
+per ministros, id est diaconos, quibus utantur li-
+berius. Neque enim ad Deum omnipotentem acce-
+
+# block=2
+μασε, προαιρουμένοις καλεῖν πρεσβυτέρας (96), ἣν
+ἐπίστανται οἱ διάκονοι θλιβομένην, αὐτῇ πλειστάκις
+πεμπέτωσαν. Ἀφοριζέσθω δὲ ἐν τῇ δοχῇ τὸ τῷ
+ποιμένι ἐθίμιον (97), λέγω δὲ τὸ τῆς ἀπαρχῆς, ὡς
+ἱερεῖ, κἂν μὴ παρῇ τῇ δοχῇ, εἰς τιμὴν Θεοῦ τοῦ τὴν
+ἱερατείαν αὐτῷ ἐγχειρίσαντος· ὅσον δὲ ἑκάστῃ τῶν
+πρεσβυτίδων δίδοται, διπλοῦν διδόσθω τοῖς διακόνοις
+εἰς γέρας Χριστοῦ (98). Τοῖς δὲ πρεσβυτέροις, ὡς
+ἂν κάμνουσι περὶ τὸν τῆς διδασκαλίας λόγον διηνε-
+κῶς (99), διπλῆ καὶ αὐτοῖς ἀφοριζέσθω ἡ μοῖρα, εἰς
+χάριν τῶν τοῦ Κυρίου ἀποστόλων, ὧν καὶ τὸν τό-
+πον (100) φυλάσσουσιν, ὡς σύμβουλοι τοῦ ἐπισκόπου,
+καὶ τῆς Ἐκκλησίας στέφανος· εἰσὶ γὰρ συνέδριον καὶ
+βουλὴ τῆς Ἐκκλησίας· εἰ δὲ καὶ ἀναγνώστης ἐστὶ,
+λαμβανέτω καὶ αὐτὸς μοῖραν μίαν, εἰς τιμὴν τῶν
+προφητῶν· ὡσαύτως καὶ ψαλτῳδὸς, καὶ πυλωρός.
+Ἑκάστῳ οὖν ἀξιώματι οἱ λαϊκοὶ τὴν προσήκουσαν
+τιμὴν νεμέτωσαν ἐν τοῖς δόμασι καὶ τῇ κατὰ τὸν
+βίον ἐντροπῇ· μὴ ῥᾳδίως δὲ ἐνοχλείτωσαν τῷ ἄρ-
+χοντι, ἀλλὰ διὰ τῶν ὑπηρετῶν ἃ βούλονται σημαινέ-
+τωσαν, τουτέστι διὰ τῶν διακόνων (1), πρὸς οὓς
+
+# block=3
+(98) Διπλοῦν διδόσθω τοῖς διακόνοις εἰς γέρας
+Χριστοῦ. Antiquus ille Turriani adnotator, cum
+putavit minorem Filio fieri Spiritum sanctum per
+unam portionem diaconissæ, duplicem diaconi, quia
+cap. 26 diaconissa dicitur figura Spiritus sancti,
+diaconus vero Filii; non consideraverat, hac præclara
+sua ratiocinatione conclusum iri, quod a constitu-
+tore Apostoli præferantur Spiritui sancto, Christo-
+que æquiparentur. Presbyteris quippe assignat quo-
+
+# block=4
+VARIORUM NOTÆ.
+
+# block=5
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=6
+(96) Πρεσβυτέρας, et πρεσβυτίδων. Quemadmo-
+dum πρεσβύτιδας Pauli Tit. ɪɪ, 3, interpretati sunt
+alii anus, alii diaconissas; ita hoc loco πρεσβύτεραι
+et πρεσβύτιδες vel sunt anus illæ, quas ( ut verba
+Hieronymi usurpem epist. 2 et 49) nutriebat suisque
+opibus sustentabat Ecclesia. Aniculæ appellantur
+in Gestis purgationis Cæciliani et Felicis. Infra
+lib. ɪɪɪ, cap. 13, συγγήρῳ. Vel sunt diaconissæ, seu
+viduæ, ætate senili jussæ ordinari. Quo secundo
+modo τὰς λεγομένας πρεσβύτιδας, quæ dicuntur
+presbyteræ, in canone Laodiceno 11, quidam intelli-
+gunt. Nec verum est, quod ex S. Epiphanio hæresi
+79, cap. 4, et contra canonis Laodiceni Latinos in-
+terpretes contendit multijugæ eruditionis homo
+Joannes Morinus, De sacris ordinationibus, exerci-
+tatione 10, presbyterarum nomen Græcis esse
+ignotum. Nam Epiphanio sermo habetur duntaxat
+de Novo Testamento, in quo ait πρεσβύτιδας nomi-
+nari, non πρεσβυτερίδας. Sed et Morinum memoria
+destituit. Paucis enim annis antequam ista scri-
+beret, ediderat Pœnitentialia opera Joannis Jeju-
+natoris, et Joannis monachi, ubi πρεσβυτέρισσαι
+presbyteræ, uxores presbyterorum non semel com-
+parent. Adde quod a S. Basilio in Regulis breviori-
+bus, quæst. 110, 111, πρεσβυτέρας (antistitam ver-
+tunt. Rufinus Matrem monasterii, seniorem ma-
+trem) mentio fit. Denique rem conficit, et dissen-
+tientes jugulat Photius; cui in Nomocanone, titulo
+1, cap. penult. πρεσβυτέρα est, quæ Patribus Lao-
+dicenis πρεσβῦτις. Prætermisi locum Origenis ad
+Joannis xɪɪɪ, 12, etc., quia dum viveret Morinus,
+nondum Græce in locum prodierant illa Commen-
+taria. Eum vide p. 390, E, Huetianæ editionis. Vide
+etiam de presbytidibus Palladium Præfatione Hi-
+storiæ Lausiacæ, et Antiochum homil. 21. Iᴅ.
+(97) Ἐθίμιον. Alter cod. ἔθιμον. Cʟ.
+
+# block=7
+que duplam partem, in gratiam apostolorum, quo-
+rum locum tenent. Verum quis hoc credat : imo
+quis adeo obtusi sensus, ut non intelligat ejusce-
+modi comparationibus certos terminos esse præfi-
+gendos? Cæterum præter Diataxes et Ignatianas
+Epistolas, in presbyteris apostolos cogitat apud
+Hieronymum scriptor Epistolæ ad Rusticum, De
+septem gradibus Ecclesiæ, qui etiam cum nostro
+lectores ad prophetas accommodat. De duplici parte
+legito 1 Tim. v, 17, ibique Chrysostomum, Œcu-
+menium, Theophylactum. Clara quoque sunt verba
+Tertulliani adversus Ecclesiam debacchantis : Ad
+elogium gulæ tuæ pertinet, quod duplex apud te præ-
+sidentibus honor binis partibus deputatur; cum
+Apostolus duplicem honorem dederit, ut et fratribus
+et præpositis. De jejuniis cap. ult. Apage ergo male
+ingeniosam Rigaltii interpretationem. Videndum
+libri vɪɪɪ caput 31. Cᴏᴛ.
+(99) Διηνεκῶς. Omittitur in altero. Cʟᴇʀ.
+(100) Ὧν καὶ τόπον. Alter οἳ καὶ τόπον αὐτῶν. Iᴅ.
+(1) Διὰ τῶν ὑπηρετῶν, τουτέστι διὰ τῶν δια-
+κόνων. Lib. ɪɪɪ, cap. 11; lib. vɪ, cap. 17; lib. vɪɪɪ,
+cap. 28, per ὑπηρέτας subdiaconos intelligit, et
+cap. 10, lib. vɪɪɪ, ὑπηρεσίαν eodem in sensu (opi-
+nor) accipit, quam tamen ejusdem libri cap. 13,
+videtur usurpare pro cœtu omnium clericorum
+diaconis subjectorum. Scilicet ὑπηρέται, Latine
+ministri, dicuntur aliquando diaconi, aliquando
+subdiaconi, aliquando clerici non sacerdotes a dia-
+conis ad infimos, aliquando demum subdiaconi
+cum sequentibus. Exempla sunt obvia. De multis
+pauca indicabimus. Primam acceptionem invenies
+in canone Sardicensi 8, in Victorino, Commentario
+in Apocalypsim, ubi Nicolaum diaconum appellat
+ministrum, et in Ambrosio ad Lucæ ɪx, 60. Alcuɪ-
+nus, vel alius, De divinis officiis, cap. 36 : Sub-
+diaconus, subminister, eo quod sub diacono sit, id
+est sub ministro. Lege Sirmondum ad Ennodii
+epist. 9, lib. vɪ. Secunda significatio cernitur in
+pluribus canonibus synodi Laodicenæ, necnon in
+69 S. Basilii ex interpretatione Balsamonis, et in
+ejusdem Patris epist. 181, ex Joanne Zonara et
+Matthæo Blastare ineditis. Juxta tertiam S. Hilarius
+in psalmum cxxxɪv, ad finem, totam hierarchiam
+bifariam distribuit, in sacerdotes et ministros. De-
+
+# block=8
+673
+
+# block=9
+674
+
+# block=10
+¹⁰ Luc. xɪv, 13.  ¹¹ Ignat. interpol. ad Smyrn. 8.  ¹² Supra, cap. 26. Lege Ignat. ad Magn. 6, ad
+Trall. 2, 3, ad Philad. 5, ad Sm. 8.

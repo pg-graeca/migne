@@ -1,0 +1,219 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+10,186,1656,943,2692
+23,978,2481,1734,2685
+29,973,1661,1745,2489
+31,780,1619,1098,1651
+32,176,141,933,1413
+33,349,2708,606,2747
+40,966,137,1725,1425
+43,1011,1541,1734,1577
+45,671,86,1183,125
+46,158,80,256,132
+47,1644,82,1716,124
+48,428,1492,690,1528
+49,1262,1470,1424,1530
+50,1520,2696,1592,2732
+51,207,1538,937,1588
+
+# layer=format
+# block=10 fontSize=15px
+# block=23 fontSize=15px
+# block=29 fontSize=15px
+# block=31 fontSize=15px
+# block=32 fontSize=15px
+# block=33 fontSize=15px
+# block=40 fontSize=15px
+# block=43 fontSize=15px
+# block=45 fontSize=16px
+# block=46 fontSize=16px
+# block=47 fontSize=16px
+# block=48 fontSize=15px
+# block=49 fontSize=15px
+# block=50 fontSize=15px
+# block=51 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=46
+201
+
+# block=47
+202
+
+# block=45
+EPISTOLA I AD CORINTHIOS.
+
+# block=40
+XXXIX. Homini non esse unde extollatur, urget.
+XL. Ordo servandus.
+XLI. Præsertim in oblationum ritu.
+XLII. Ordo ministrorum in Ecclesia a Christo
+constitutus : episcopi et diaconi ab apostolis ordi-
+nati.
+XLIII. Moysis exemplum in medium profert, qui
+contentionem de sacerdotali dignitate ortum se-
+davit.
+XLIV. Apostolorum regulam de creandis episcopis
+proponit : legitime electos ac recte viventes, de munere
+suo dejicere nefas.
+XLV. Non leguntur justi a justis, sed ab iniquis
+vexati.
+XLVI. Corinthiorum dissensio quam perniciosa.
+XLVII. Quam ipsis ignominiosa.
+XLVIII. Ut ad fraterni amoris studium cito re-
+deant, hortatur.
+XLIX. Charitatis encomium.
+L. Quam expetenda sit charitas.
+LI. Ad peccati confessionem dissidii auctores alli-
+cit : præstare de lapsibus confiteri, quam indurare
+cor monet.
+LII. Confessionem desiderat Deus, nullius rei in-
+digus.
+LIII. Quod astruit Moysis exemplo; ejusque cha-
+ritatem extollit.
+LIV. Generosi animi indolem insinuat, quo schisma
+penitus exscindatur.
+LV. Idque gentilium primum, deinde Judith et
+Esther exemplis confirmat.
+LVI. Quomodo delinquentes sint corripiendi : ora-
+tio et admonitio mutua persequenda.
+LVII. Iterum dissidii auctoribus modestiam et hu-
+militatem inculcat.
+LVIII. Precatio ac votum.
+LIX. Ut missos cito remittant Corinthii, rescri-
+buntque de pace, petit.
+
+# block=32
+XXII. Quæ sane officia, fide quæ est in Christo,
+confirmari ostendit.
+XXIII. Non ambigendum quin voluntas Dei perfi-
+cienda sit, declarat.
+XXIV. Transit ad alterum Epistolæ caput de Resur-
+rectione, cujus veritatem nobis Deum ostendere variis
+argumentis ex naturæ ordine constituto petitis,
+astruit.
+XXV. Phœnicis quamdam resurrectionem pro-
+ponit.
+XXVI. Resurrectionem a sanctis creditam evincit.
+XXVII. In primis vero istum fidei articulum com-
+probat ab omnipotentia Dei, qui resurrectionem pro-
+misit, quique mentiri non potest.
+XXVIII. Iterum hortatur Corinthios ad virtutes
+acquirendas : Deumque timendum, cujus judiciis
+nemo se subducere valet, ostendit.
+XXIX. Deum nos peculiariter sibi elegisse.
+XXX. Ut pars ac sors Dei, quæ ipsum deceant
+sectemur.
+XXXI. Qua ratione benedictionem divinam conse-
+quamur, exemplo Abraham et Jacob docet.
+XXXII. Justi efficiuntur per fidem.
+XXXIII. Nec tamen charitas et bona opera sunt
+derelinquenda, exemplo Dei proposito.
+XXXIV. Bona opera fiduciam præstare apud Deum,
+exemplo angelorum docet.
+XXXV. Præmii excellentiam, beatitudinem æter-
+nam, adducit, viamque ad illam consequendam in-
+dicat.
+XXXVI. Christus quid nobis præstet, luculenter
+ostendit.
+XXXVII. Ut ordinem et stationem quilibet suam
+observet, membrorum nostri corporis mutua necessi-
+tudine proposita, monet.
+XXXVIII. Quomodo in Ecclesia alii aliis subjici
+debeunt; et pro diversis divinitus acceptis donis,
+Deo præstandum sit obsequium, arguit.
+
+# block=49
+CAPUT I.
+
+# block=48
+ΚΕΦΑΛΑΙΟΝ Α'.
+
+# block=51
+Ἡ [Ἐκκλη]σία τοῦ Θεοῦ ( 80 ) ἡ παροικοῦσα ( 81 )
+
+# block=43
+Ecclesiæ Dei quæ incolit Romam, Ecclesiæ Dei
+
+# block=31
+VARIORUM NOTÆ.
+
+# block=10
+(80) Ἡ Ἐκκλησία τοῦ Θεοῦ. Miseret me docto-
+rum virorum, quod odio catholicæ veritatis, studio-
+que vanæ hæreseos¹ adducti, existiment per hanc
+superscriptionem adjuvari² errorem suum, quo epi-
+scopis coæquant presbyteros,³ quia nulla peculiaris
+vel scribentis mentio, vel cleri Romani prærogativa,
+vel Corinthiaci presbyterii a plebe discretio appareat,
+sed omnes ad omnes confertim scribant. (Cfr. Blond.
+Apol. pro sent. Hieron.) At si recte ex principiis
+suis voluissent argumentari, concludere oportebat
+idem jus fuisse laicis ac presbyteris et episcopis;
+atque hoc modo deterrimum rerum statum inve-
+here, ἀναρχίαν , adversus quam Clemens tota pu-
+gnat epistola. Præclara vero hac ratiocinatione con-
+ficietur, ut Paulus, quia scribit Epistolas una cum
+Sosthene, Timotheo, Silvano, et fratribus univer-
+sis, majorem non obtinuerit quam ultimus Christia-
+norum, in Ecclesiæ regimine, auctoritatem. Cur ergo,
+rogabis, cum Clemens γυμνῇ κεφαλῇ potuerit litte-
+ras dare, maluit latere sub persona Ecclesiæ? Facilis
+responsio: Quoniam totius apostólicæ Ecclesiæ com-
+mune votum erat, pacátam cernere Corinthiorum
+Ecclesiam, a Petro quoque Pauloque fundatam ; in-
+gensque futurum erat Corinthiis incentívum, ipsa
+Romanorum simul scribentium concordia. Accedit
+huc apostolicus mos communicandi quæ gerebantur,
+cum tota Ecclesia, qui et diu duravit, et ordinem hie-
+rarchicum non infringit. Unde S. Cyprianus, fortissi-
+mus apicis episcopalis propugnator, ita clerum suum
+alloquitur, epist. 5: Ad id vero quod scripserunt mihi
+compresbyteri nostri Donatus et Fortunatus, Nova-
+
+# block=29
+tus et Gordius, solus rescribere nihil potui; quando
+a primordio episcopatus mei statuerim, nihil sine
+consilio vestro, et sine consensu plebis, mea privatim
+sententia gerere. Sed cum ad vos per Dei gratiam
+venero, tunc de iis, quæ vel gesta sunt, vel gerenda,
+sicut honor mutuus poscit, in commune tractabimus.
+COTELERIUS.— Ἡ Ἐκκλησία. Rectissime statuit erud.
+Junius veteres primitivæ Ecclesiæ scriptores, etc.,
+quæ vide initio Προσημειώσεως (Supra, col. 45). At
+non solum singulares personæ et Ecclesiarum præ-
+fecti, sed tota Ecclesiarum universitas hoc ipsum
+præstabat. Sic Smyrnensis Ecclesia ad illam, quæ
+in Ponto erat, litteras dedit, quarum máximam
+partem legere est apud Eusebium, Hist. lib. IV,
+c. 14, et eas totas, si non per interpolationes
+plus quam totas, ex editione reverendiss. Usserii
+Armachani. Sic etiam Ecclesiæ Viennæ et Lugduni
+Galliarum epistola, apud eúmdem Eusebium, oc-
+currit. Adeo non singularis exempli res est præsen-
+tis epistolæ formula, Ecclesiæ Romanæ nomine
+perscriptæ. Quin et observandum, instituti hujus
+causas non adeo a fraterna illa charitate et anima-
+rum zelo, quibus olim Christianorum mentes inca-
+luerunt, quam ex regiminis ecclesiastici et indivi-
+duæ
+duæ
+
+# block=23
+(81) Παροικοῦσα. Vertendum utrobique peregri-
+natur Romæ et Corinthi peregrinatur, ut variis
+exemplis ostendit vir magnus Henricus Valesius, in
+limine notarum ad Historiam ecclesiasticam Euse-
+bii. P. COLOMESIUS. Sic verterat Patr. Junius, quem
+temere correxit J. B. Cotelerius.
+
+# block=50
+7
+
+# block=33
+PATROL. GR. I.

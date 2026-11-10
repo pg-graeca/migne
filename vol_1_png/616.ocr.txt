@@ -1,0 +1,160 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,263,2227,1011,2695
+2,1044,2056,1801,2663
+3,260,2058,1013,2228
+4,662,89,1370,126
+5,258,149,1005,1835
+7,293,1891,1589,1929
+8,871,1973,1177,2011
+9,1035,148,1801,1833
+10,261,93,309,131
+11,1731,88,1803,128
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(100) Καὶ προσκλαύσαντα, κ. τ. λ. Hic, cap. 16, 61
+et lib. VIII, cap. 8, multisque in locis Patrum, de-
+claratur mos antiquus, secundum quem is qui in-
+nocentiam peccato amissam pœnitentia ductus de-
+flebat, cunctis pro illo Deum ac antistitem depre-
+cantibus, Ecclesiæ restituebatur a præsule. Lege
+ordinaria videlicet. Interdum enim episcopi uteban-
+tur potestate sua ; atque aut reluctante populo ad
+Ecclesiam revertentes admittebant, aut contra ple-
+bem pro peccatoribus postulantem recusabant au-
+dire. Prioris juris exemplum suppeditat Cyprianus
+in Epistola 55, ad Cornelium, ante finem, ab his
+verbis : O si posses, frater charissime, istic interesse
+nobiscum. Posteriori vero jure cum Lamponiano
+
+# block=2
+presbytero egit Synesius, cujus vide sodes episto-
+lam 67. Nec omitti debet illustris locus apud Por-
+phyrium de Styge : Ἐξομολογοῦνται ἐπὶ τῶν ἑτέρων εἴ
+τι ἥμαρτον· καὶ δέησιν ποιοῦνται, ἵνα οἱ λοιποὶ εὔξων-
+ται περὶ αὐτῶν, καὶ νηστεύσωσι χρόνον τινὰ ἱκανόν.
+Hoc est, Confitentur Indi ad antri ostium coram
+aliis, si quid peccati commiserint; rogantque ut reli-
+qui pro ipsis orent, et idoneum quoddam tempus
+jejunent. COT.
+(1) Ἐπιτελῶν. Alter. cod. ποιῶν eodem sensu.
+ID.
+(2) Ἀμελήσῃς. Alter cod. ἀμελής, sed sequi
+oporteret ᾖς, negligens sis, unde forte factum ἀμε-
+λήσῃς. CLER.
+(3-4) Ὅτι. Ut in altero cod. ID.
+(5) Δρυμοῦ. Alter ἀγροῦ, ut habent LXX Intt. ID.
+(6) Καὶ. Εἶτα, alter cod., quod rectius, propter
+sequens, καὶ. ID.
+
+# block=3
+(99) Ὡς πλεῖον ἔχων βάρος. Alter cod. Vindo-
+bon. πλεῖον οὖν βάρος ἔχων. Desunt in eo verba se-
+quentia : Καὶ μεῖζον βαστάζων φορτίον. Quæ possunt
+abesse, sed melius est ὡς πλεῖον quam πλεῖον οὖν.
+CLER.
+
+# block=4
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=5
+nibus esto sollicitus ; ne propter te offensus aliquis
+pereat. Laicus enim sui tantum curam gerit; tu
+omnium, ut qui plus oneris habeas et majore pon-
+dere graveris. Scriptum namque est : ‹ Et dixit
+Dominus ad Moysem : Tu et Aaron suscipietis pec-
+cata sacerdotii ³⁹ . › Quapropter tanquam de plu-
+ribus rationem redditurus, curam omnium sustine;
+ac sanos quidem conserva ; eos vero, qui peccave-
+runt, increpa ; jejunioque attritos, remissione leva ;
+et ingemiscentem, universa precante pro eo Eccle-
+sia, recipe, .manuque imposita, permitte ut deinceps
+cum grege maneat. At somniculosos et ignavos ver-
+sa, suffulci, incita, consolare, sana; edoctus quan-
+tam mercedem, si feceris hæc, capies; contra vero
+quantum discrimen, si neglexeris. Nam episcopos
+populum parvipendentes hunc in modum alloquitur
+Ezechiel : ‹ Væ pastoribus Israël, quia pascebant
+semetipsos : pastores non pascunt oves suas, sed
+seipsos? Lac comeditis, et lanis vestimini, quod
+validum est occiditis ; oves non pascitis : quod in-
+firmum est non roborastis, quod ægrotum non sa-
+nastis, quod confractum non alligastis, quod ab-
+jectum non reduxistis, et quod perditum non re-
+quisistis; et imperiose castigastis eas cum ludi-
+brio : et dispersæ sunt, eo quod non esset pastor,
+et factæ sunt in devorationem omnibus bestiis sal-
+tus ⁴⁰ . › Et iterum : ‹ Et non quæsierunt pastores
+oves meas ; et pascebant pastores seipsos, oves au-
+tem meas non pascebant ⁴¹ . › Et paulo post : ‹ Ecce
+ego ad pastores; et requiram ego oves meas de
+manu eorum; et faciam ut cessent pascere oves
+meas; et non amplius pastores pascent semetipsos;
+et liberabo oves meas de manu eorum; et non erunt
+illis in devorationem ⁴² . › Et ad populum etiam con-
+versus ait : ‹ Ecce ego judicabo inter ovem ad ovem,
+et arietem ad arietem. Parumne erat vobis, quia
+bonam pascuam depascebatis; et reliquias pascuæ
+conculcabatis pedibus vestris, et oves conculcatio-
+nes pedum vestrorum comedebant ⁴³ ? › Et post pauca
+
+# block=7
+³⁹ Num. XVIII, 1. ⁴⁰ Ezech. XXXIV, 2-5. ⁴¹ Ibid., 8. ⁴² Ibid., 11. ⁴³ Ibid., 19-20.
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=9
+ἔχων βάρος (99), καὶ μεῖζον βαστάζων φορτίον· γέ-
+γραπται γάρ· ‹ Καὶ εἶπε Κύριος πρὸς Μωϋσῆν· Σὺ
+καὶ Ἀαρὼν λήψεσθε ἁμαρτίας τῆς ἱερατείας. › Ὡς
+περὶ πλειόνων οὖν ἀπολογούμενος, περὶ πάντων φρόν-
+τιζε, καὶ τοὺς μὲν ὑγιεῖς, συντήρει· τοὺς δὲ ἡμαρ-
+τηκότας, νουθέτει, καὶ στιβῶν ἐν τῇ νηστείᾳ, ἐν τῇ
+ἀφέσει ἐλάφρυνον καὶ προσκλαύσαντα εἰσδέχου (100),
+πάσης τῆς Ἐκκλησίας ὑπὲρ αὐτοῦ δεομένης, καὶ
+χειροθετήσας αὐτὸν, ἔα λοιπὸν εἶναι ἐν τῷ ποιμνίῳ.
+Τοὺς δὲ ὑπνώδεις καὶ παρειμένους ἐπίστρεφε, ὑπο-
+στήριζε, παρακάλει, θεράπευε, ἐπιστάμενος ἡλίκον
+μισθὸν ἔχεις ταῦτα ἐπιτελῶν (1), ὥσπερ οὖν καὶ κίν-
+δυνον ἐὰν ἀμελήσῃς (2) τούτων. Λέγει γὰρ πρὸς τοὺς
+ἀμελοῦντας τοῦ λαοῦ ἐπισκόπους Ἰεζεκιήλ· ‹ Οὐαὶ
+τοῖς ποιμέσι τοῦ Ἰσραὴλ, ὅτι (3-4) ἐποίμαινον ἑαυτούς·
+οὐ τὰ πρόβατα ποιμαίνουσιν οἱ ποιμένες, ἀλλ’ ἑαυ-
+τούς· Τὸ γάλα κατεσθίετε, καὶ τὰ ἔρια περιβάλλεσθε,
+τὸ ἰσχυρὸν σφάζετε, τὰ πρόβατα οὐ ποιμαίνετε, τὸ
+ἐνοχλούμενον οὐκ ἐνισχύσατε, καὶ τὸ ἄῤῥωστον οὐκ
+ἰάσασθε, καὶ τὸ συντετριμμένον οὐ κατεδήσατε, τὸ
+ἐξωσμένον οὐ κατεπεστρέψατε, καὶ τὸ ἀπολωλὸς
+οὐκ ἐζητήσατε· καὶ ἐν κράτει ἐπαιδεύσατε αὐτὰ μετὰ
+ἐμπαιγμοῦ· καὶ διεσπάρησαν παρὰ τὸ μὴ εἶναι ποι-
+μένα, καὶ ἐγένοντο εἰς κατάβρωμα πᾶσι τοῖς θηρίοις
+τοῦ δρυμοῦ (5). › Καὶ πάλιν· ‹ Καὶ οὐκ ἐξεζήτησαν
+οἱ ποιμένες τὰ πρόβατά μου, καὶ ἐποίμαινον οἱ ποι-
+μένες ἑαυτοὺς, τὰ δὲ πρόβατά μου οὐκ ἐποίμαινον. ›
+Καὶ μετ’ ὀλίγον· ‹ Ἰδοὺ ἐγὼ πρὸς τοὺς ποιμένας,
+καὶ ἐκζητήσω ἐγὼ τὰ πρόβατά μου ἐκ χειρὸς αὐτῶν,
+καὶ καταπαύσω αὐτοὺς τοῦ ποιμαίνειν τὰ πρόβατά
+μου, καὶ οὐ ποιμανοῦσιν ἔτι οἱ ποιμένες ἑαυτοὺς,
+καὶ ῥύσομαι τὰ πρόβατά μου ἐκ χειρὸς αὐτῶν, καὶ
+οὐκ ἔσονται αὐτοῖς εἰς κατάβρωμα. › Καὶ (6) ἐπιφέ-
+ρει καὶ πρὸς τὸν λαὸν λέγων· ‹ Ἰδοὺ ἐγὼ κρινῶ ἀνὰ
+μέσον προβάτου εἰς πρόβατον, καὶ κριὸν πρὸς κριόν.
+Μὴ μικρὸν ἦν ὑμῖν, ὅτι τὴν νομὴν τὴν καλὴν ἐνέ-
+μεσθε, καὶ τὰ κατάλοιπα τῆς νομῆς κατεπατεῖτε τοῖς
+ποσὶν ὑμῶν, καὶ τὰ πρόβατα τὰ πατήματα τῶν πο-
+δῶν ὑμῶν ἤσθιον; › Καὶ ἐπιφέρει μετ’ ὀλίγα· ‹ Καὶ
+
+# block=10
+631
+
+# block=11
+632

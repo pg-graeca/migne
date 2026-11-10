@@ -1,0 +1,186 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,268,2372,1018,2709
+2,259,146,1005,1222
+3,1045,148,1792,1306
+4,1051,2471,1792,2675
+5,1045,1514,1807,2475
+6,262,1510,1007,2338
+7,874,1426,1172,1464
+8,679,89,1384,127
+9,263,91,327,127
+10,295,1351,568,1385
+11,304,2337,856,2374
+14,1715,88,1789,132
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=14 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+1072
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9
+1071
+
+# block=2
+gatus populus una cum presbyterio ac episcopis qui
+præsentes erunt, in die Dominica, consentiat. Qui
+vero inter reliquos præcipuus est, interroget pre--
+sbyterium ac plebem, an ipse est, quem in præsi-
+dem postulant : et illis annuentibus, iterum roget,
+an ab omnibus testimonium habeat, quod dignus
+sit magna hac et illustri præfectura ; an quæ ad
+pietatem in Deum spectant, ab ipso sint recte facta ;
+an jura erga homines servata ; an domesticæ res
+pulchre dispensatæ, an vitæ instituta sine repre-
+hensione. Cumque universi pariter, secundum ve-
+ritatem, non autem secundum anticipatam opinio-
+nem, testificati fuerint talem eum esse ; quasi ante
+judicem Deum, ac Christum, præsente, scilicet,
+etiam sancto Spiritu, et omnibus sanctis ac admi-
+nistratoriis spiritibus ; rursus tertio sciscitetur,
+an vere dignus sit ministerio ; ut in ore duorum vel
+trium testium stet omne verbum ³⁸ ; atque iis tertio
+assentientibus, dignum esse ; a cunctis petatur
+signum assensionis, et alacriter dantes, audiantur :
+silentioque facto, unus ex primis episcopis una
+cum duobus aliis prope altare stans, reliquis epi-
+scopis ac presbyteris tacite orantibus, atque diaco-
+nis divina Evangelia super caput ejus qui ordina-
+tur aperta tenentibus, dicat ad Deum :
+
+# block=3
+καὶ ἀρέσαντος, συνελθὼν ὁ λαὸς ἅμα τῷ πρεσβυτε-
+ρίῳ καὶ τοῖς παροῦσιν ἐπισκόποις. ἐν ἡμέρᾳ Κυ-
+ριακῇ (89), συνευδοκείτω. Ὁ δὲ πρόκριτος τῶν λοι-
+πῶν, ἐρωτάτω πρεσβυτέριον καὶ τὸν λαὸν, εἰ αὐτός
+ἐστιν, ὃν αἰτοῦνται εἰς ἄρχοντα, καὶ ἐπινευσάντων,
+προσεπερωτάτω εἰ μαρτυρεῖται ὑπὸ πάντων ἄξιος
+εἶναι τῆς μεγάλης ταύτης (90) καὶ λαμπρᾶς ἡγεμο-
+νίας, εἰ τὰ κατὰ τὴν εἰς Θεὸν αὐτῷ εὐσέβειαν κατ-
+ώρθωται, εἰ τὰ πρὸς ἀνθρώπους δίκαια πεφύλα-
+κται, εἰ τὰ κατὰ τὸν οἶκον αὐτοῦ καλῶς ᾠκονόμηται,
+εἰ τὰ κατὰ τὸν βίον ἀνεπίληπτος. Καὶ πάντων ἅμα
+κατὰ ἀλήθειαν, ἀλλ' οὐ κατὰ πρόληψιν μαρτυρη-
+σάντων τοιοῦτον αὐτὸν εἶναι, ὡς ἐπὶ δικαστῇ Θεῷ
+καὶ Χριστῷ, παρόντος δηλαδὴ καὶ τοῦ ἁγίου Πνεύ-
+ματος, καὶ πάντων τῶν ἁγίων καὶ λειτουργικῶν
+πνευμάτων (91), ἐκ τρίτου πάλιν πυθέσθωσαν, εἰ
+ἄξιός ἐστιν ἀληθῶς τῆς λειτουργίας· ἵνα ἐπὶ στόμα-
+τος δύο ἢ τριῶν μαρτύρων σταθῇ πᾶν ῥῆμα· καὶ
+συνθεμένων αὐτῶν ἐκ τρίτου ἄξιον εἶναι, ἀπαιτεί-
+σθωσαν οἱ πάντες σύνθημα (92)· καὶ δόντες προθύ-
+μως, ἀκουέσθωσαν· καὶ σιωπῆς γενομένης, εἷς τῶν
+πρώτων ἐπισκόπων ἅμα καὶ δυσὶν ἑτέροις, πλησίον
+τοῦ θυσιαστηρίου ἑστὼς, τῶν λοιπῶν ἐπισκόπων καὶ
+πρεσβυτέρων σιωπῇ προσευχομένων, τῶν δὲ διακό-
+νων τὰ θεῖα Εὐαγγέλια ἐπὶ τῆς τοῦ χειροτονουμένου
+κεφαλῆς ἀνεπτυγμένα κατεχόντων, λεγέτω πρὸς
+Θεόν·
+
+# block=10
+³⁸ Matth. xviii, 16.
+
+# block=7
+VARIORUM NOTÆ.
+
+# block=6
+(89) Ἐν ἡμέρᾳ Κυριακῇ. In tritis et vulgatis non
+est memorandum. Itaque proponam solummodo cor-
+ruptum canonem concilii Cæsaraugustani tertii, ut
+emendem. Legitur : In sanctum et satis venerabile
+concilium residentibus nuntiatum est nobis, eo quod
+aliqui pontifices regulam veritatis prætermittentes,
+ecclesias quæ a fidelibus pia devotione construuntur,
+extra diebus Dominicis consecrent. Si ergo cum quis-
+que nostrum mortalium ad sacerdotale promovetur
+officium, nullatenus patimur ut in reliquis diebus,
+nisi tantum Dominicis festivitatibus, ii qui honoris
+digni habentur officio, in ordine præficiantur eccle-
+siastico, quanto magis ut deificata sancta templa, quæ
+ab hominibus fidelibus censentur honorificanda, sine
+diebus Dominicis perhibeantur consecranda? cujusque
+non talium præsumptiones pontificum, non solum
+sanctorum Patrum cohiberemur prohibere sententiam,
+sed propria deliberatione censemus, ut nulli penitus
+pontificum, in quibuscunque provinciis constitutis,
+amodo liceat, præter certis diebus Dominicis, eccle-
+sias sanctas consecrare. Scribi debet : Cujusque nos
+talium præsumptiones pontificum, non solum sancto-
+rum Patrum cohibemur prohibere sententia ; sed pro-
+pria deliberatione censemus, ut nulli penitus, etc.
+COT.
+
+# block=5
+suæ, et rursum unusquisque Ecclesiæ suæ, et reliqua,
+quæ lege, si vacat ; homil. 20 : Secundum ea quæ
+Joannes in Apocalypsi scribit, unicuique Ecclesiæ
+generaliter angelus præest. Homilia 13 in Lucam
+binos episcopos singulis ecclesiis præponit, visibi-
+lem ac invisibilem, hominem atque angelum Mitto
+alia loca, alios auctores. Adjungo duntaxat gemella
+Basilii et Palladii : illius, epist. 191 : Καὶ ὁ ἄγγε-
+λος ὁ τῆς ἐκκλησίας ἔφορος συναπῆλθεν ὑμῖν ; hujus,
+in Vita Chrysostomi : Egressus est cum illo angelus
+quoque ecclesiæ. Jam de angelis altarium, præter
+Pratum spirituale cap. 4, testatur S. Epiphanius
+hæresi 25, cap. 3, hisce verbis : Ἀπὸ τῆς τοῦ ἁγίου
+Ἰωάννου Ἀποκαλύψεως, ὃς γράφων μιᾷ τῶν Ἐκκλησιῶν
+ἐκ προσώπου Κυρίου, τουτέστι τῷ ἐπισκόπῳ τῷ ἐκεῖσε
+κατασταθέντι, σὺν τῇ δυνάμει τοῦ ἁγίου ἀγγέλου
+τοῦ ἐπὶ τοῦ θυσιαστηρίου, φησίν. Et sancti Joannis
+Apocalypsi ; qui ad unam ecclesiarum ex Domini
+persona scribens, id est, ad episcopum illic constitu-
+tum, cum angeli sancti virtute qui est super altare,
+ait : De templo Hierosolymitano ista B. Hilarii sunt
+in Matthæum canone ult. : Velum templi scinditur ;
+quia exinde populus est divisus in partes, et veli ho-
+nor cum custodia angeli protegentis aufertur. Aucto-
+ris vero sermonis 3, in Dominicam Ascensionem,
+apud Chrysostomum, tom. VI : Ἄγγελος ἐξήλατο
+τεταραγμένος ἐκ τοῦ ναοῦ, περιεσχισμένου τοῦ κα-
+ταπετάσματος τοῦ οἴκου. Angelus e templo, conscisso
+velo ædis, territus exsiluit. ID.
+
+# block=11
+(90) Ταύτης. Alter cod. τοῦ Θεοῦ. CL.
+
+# block=1
+(91) Καὶ πάντων τῶν ἁγίων καὶ λειτουργικῶν
+πνευμάτων. Etenim, juxta sententiam SS. Patrum,
+angelis plenæ sunt ecclesiæ, præsertim tempore
+divini officii, et in solemnitatibus : quos inter prin-
+cipem obtinent locum angeli præsides ac patroni
+ecclesiarum, angeli altaribus assistentes atque præ-
+sidentes. Insigniter Tertullianus De pudicitia,
+cap. 14: Lusit igitur et de suo spiritu et de Ecclesiæ
+Angelo, etc. Origenes homil. 11, in Numeros: Offe-
+runt et angeli primitias, unusquisque credo gentis
+
+# block=4
+(92) Σύνθημα. In præclara illa Synesii episcopi
+epistola 67 : Σύνθημα τῆς χειροτονίας. Semel autem
+lectorem scire velim, a me de multis ritibus ideo
+pauca vel nihil adnotari, quia per homines doctos
+præventus, eorum scripta compilare nequaquam
+sustineo. COT.

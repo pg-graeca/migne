@@ -1,0 +1,210 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,280,137,1033,972
+2,1065,140,1821,1007
+3,286,2294,1032,2664
+4,279,1126,1029,1497
+5,285,2126,1033,2296
+6,285,1959,1031,2129
+7,279,1494,1036,1861
+8,1064,1332,1822,2700
+9,326,2660,1034,2696
+10,1062,1200,1816,1331
+11,696,88,1477,127
+12,304,1016,1014,1057
+13,283,1862,1026,1961
+14,890,1076,1192,1110
+15,284,93,341,130
+16,1746,80,1826,126
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=16px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+208
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA,
+
+# block=15
+207
+
+# block=1
+marunt, ut venerabile ac illustre, dignumque quod
+ab omnibus ametur nomen vestrum, magnopere
+blasphemetur 43. Quis enim apud vos diversatus,
+omni virtute plenam firmamque fidem vestram non
+probavit? sobriam et mitem in Christo pietatem
+non est admiratus? magnificentiam qua hospites
+excipere soletis, non celebravit? perfectam deni-
+que certamque cognitionem vestram, non bea-
+tam prædicavit? Omnia enim sine personarum ac-
+ceptione a vobis fiebant, et in Dei legibus ambula-
+batis, præpositis vestris subditi, et senioribus qui
+sunt inter vos debitum honorem tribuentes. Juve-
+nibus, ut moderata et honesta sectarentur, man-
+dabatis; mulieribus, ut in inculpabili, gravi et casta
+conscientia omnia peragerent, diligendo viros suos,
+prout officium postulat, denuntiabatis; utque in
+obedientiæ canone constitutæ, res domesticas ho-
+neste administrarent modestissimeque se gererent,
+docebatis.
+
+# block=2
+καὶ ξένοις (90) τοῖς ἐκλεκτοῖς τοῦ Θεοῦ, μιαρᾶς καὶ
+ἀνοσίου (91) στάσεως, ἣν ὀλίγα πρόσωπα προπετῆ καὶ
+αὐθάδη ὑπάρχοντα, εἰς τοσοῦτον ἀπονοίας (92) ἐξέ-
+καυσαν, ὥστε τὸ σεμνὸν καὶ περιβόητον, καὶ πᾶσιν
+ἀνθρώποις ἀξιαγάπητον (93), ὄνομα ὑμῶν, μεγάλως
+βλασφημηθῆναι. Τίς γὰρ παρεπιδημήσας πρὸς ὑμᾶς,
+τὴν πανάρετον καὶ βεβαίαν ὑμῶν πίστιν οὐκ ἐδοκίμα-
+σεν; τήν τε σώφρονα καὶ ἐπιεικῆ ἐν Χριστῷ εὐσέβειαν
+οὐκ ἐθαύμασεν; καὶ τὸ μεγαλοπρεπὲς τῆς φιλοξενίας
+ὑμῶν ἦθος οὐκ ἐκήρυξεν; καὶ τὴν τελείαν ἀσφαλῆ
+γνῶσιν οὐκ ἐμακάρισεν; ἀπροσωπολήπτως γὰρ πάν-
+τα ἐποιεῖτε, καὶ τοῖς νόμοις (94) τοῦ Θεοῦ ἐπορεύεσθε,
+ὑποτασσόμενοι (95) τοῖς ἡγουμένοις ὑμῶν, καὶ τιμὴν
+τὴν καθήκουσαν ἀπονέμοντες τοῖς παρ' ὑμῖν πρεσβυ-
+τέροις· νέοις τε μέτρια καὶ σεμνὰ νοεῖν ἐπετρεπέτε·
+(96) γυναιξίν τε ἐν ἀμώμῳ καὶ σεμνῇ καὶ ἁγνῇ συν-
+ειδήσει πάντα ἐπιτελεῖν παρηγγέλλετε, στεργούσας
+καθηκόντως τοὺς ἄνδρας ἑαυτῶν· ἔν τε τῷ κανόνι
+τῆς ὑποταγῆς ὑπαρχούσας, τὰ κατὰ τὸν οἶκον σεμνῶς
+οἰκουργεῖν (97) ἐδιδάσκετε, πάνυ σωφρονούσας·
+
+# block=12
+⁴³ Clem. Alex., lib. Iv Strom., p. 516, hæc citat.
+
+# block=14
+VARIORUM NOTÆ.
+
+# block=4
+bata est, et jungenda procul dubio voci præceden-
+tis paginæ ἀδελφοί, quod a nobis in versione nostra
+factum est, ut tricæ implicati eloquii, suo ordini et
+juncturæ redderentur (ut loquitur Hieronymus de
+phrasi Paulina), et verborum fila, plano magis et
+expedito stamine decurrerent. Disponere autem
+apte, et figurare varie, non nisi ῥητόρων παισί con-
+cessum est. Clemens noster nullos colores aut lu-
+mina orationis affectat, phrasis ejus simplex, ru-
+dis, et plane ἀῥῥητόρευτος est; sed postea fusius de
+ejus stylo, et scribendi genere. JUN.
+
+# block=10
+(96) Σεμνὰ νοεῖν ἐπετρεπέτε. Forte προὐτρέ-
+πετε, vel ἐπετρέφετε aut ἐξετρεφέτε potius, quod
+idem est cum ἀνετρέφετε, hoc est, a teneris institu-
+batis, et imbuebatis. JUN.
+
+# block=8
+(97) Οἰκουργεῖν. Pro οἰκουργεῖν, legendum mo-
+nuit οἰκουρεῖν Dominus Boisius, canonicus Eliensis,
+vir emendatus et gravis, et in hoc litterarum gene-
+re, quod ipsius eruditissimæ notæ in Chrysostomanis
+testantur, longe versatissimus, cujus industria in
+hoc opere non leviter nos adjutos esse profitemur.
+Cum enim in apographum nostrum casu incidisset,
+in quo præter lacunas suppletas, nullæ tum emen-
+dationes nostræ, sed exemplar πρωτότυπον fide opti-
+ma, etiam cum omnibus rugis et nævis expressum,
+quos nos postea emaculandos, et per otium abster-
+gendos proposueramus, temperare sibi non potuit,
+quin varia observaret: pro quibus ut illi, licet de
+facie adhuc ignoto, gratias agimus maximas; ita
+alios latere nolumus, per quos vel minimum profecimus.
+Verum huic loco αὐτουργεῖν convenientius
+esse arbitramur, siquidem addit auctor, τὰ κατὰ
+τὸν οἶκον. In muliere enim ἀνδρείᾳ, qualem Salomon
+postremo Proverbiorum describit, non tantum re-
+quiritur, ut domi se contineat, et raro in publicum
+prodeat; quam Apostolus ad Titum II, 5, οἰκουρὸν
+ἀγαθῆν vocat, et Clemens Alexandrinus II Strom.
+elegantissime exprimit: "Ἣτις φυλαττομένη, τὰς πολ-
+λὰς τῆς οἰκίας ἐξόδους ἀπακλείει ὡς οἷόν τε αὐτῇ
+τῆς πρὸς τοὺς οὐ προσήκοντας προσόψεως, προυργιḚ-
+τερον τιθεμένη τῆς ἀκαίρου φλυαρίας τὴν οἰκου-
+ρλαν : verum etiam, ut sedula sit instar apis opor-
+tet, nec ἄεργον τὴν χεῖρα ἔχειν, sed τῷ ἀνδρὶ ἐνερ-
+γεῖν εἰς ἀγαθὰ πάντα τὸν βίον, ut est, apud regum
+sapientissimum, ibidem. Unde idem Clemens in Pæ-
+dagogi lib. III : Ἡ δὲ αὐτουργεῖν ταῖς γυναιξὶ μάλιστα
+τὸ γνήσιον ἐπιφέρει κάλλας, γυμνάζουσα τὰ σώματα
+αὐτῶν, καὶ σφᾶς αὐτὰς δι' αὐτῶν κοσμοῦσα· οὐ τὸν
+ὑπ' ἄλλων πεπονημένον προσφέρουσα κόσμον ἄκοσμον,
+καὶ ἀνελεύθερον καὶ ἑταιρικὸν, ἀλλὰ τὸν ἑκάστης σώ-
+φρονος γυναικὸς διὰ τῶν χειρῶν αὐτῆς, ὁπότε χρήζοι
+μάλιστα, ἀρκούμενον καὶ ἐξυφαινόμενον. Et supra
+ejusdem libri cap. 10, τῆς γυναικείας αὐτουργίας va-
+rias species enumerat, ταλασιουργίαν, sc.l. ἱστουρ-
+γίαν, etc., ad quem te remittimus. Id. — Non sa-
+tis Christianæ matrifam.lias οἰκουρεῖν, domum cu-
+
+# block=7
+(90) Ξένοις. Legit Wott. cum Cot. aliisque, ξέ-
+νης. Congrua tamen ms. lectio, adeoque retinenda
+videtur Millio. Nimirum S. Pater schisma exhinc
+reprehendit, quod sit Christianis, ξένοις scilicet ac
+antecessorum fidelium more, advenis in terra ele-
+ctisque a Deo, maxime abominandum. Tertullianus
+Apol. cap. 1, alloquens imperii Romani antistites
+qui religionem Christianam insectabantur: Scit hæc
+religio se peregrinam in terris agere, inter extra-
+neos facile inimicos invenire; cæterum genus, sedem,
+spem, gratiam, dignitatem in cœlis habere. GALL.
+
+# block=13
+(91) Μιαρᾶς καὶ ἀνοσίου. Quare ex grammati-
+cis, an quatuor epitheta recte uni substantivo ap-
+ponantur. An vero duo ex glossa? BERNARD.
+
+# block=6
+(92) Εἰς τοσοῦτον ἀπονοίας. Hoc est, tanto fu-
+rore inflammarunt; vel ita inflammarunt, ut rem
+ad tantum furorem adduxerint, ut nomen vestrum
+summopere vituperetur; hoc est, ut dissidiis vestris
+infames sitis. Nomen hic est existimatio. CLER.
+
+# block=5
+(93) Ἀξιαγάπητον. Eadem voce utitur cap. 21.
+Quo fit ut mirer asseveratum a viro πολυμνή-
+μονι, Davide Blondello, in præfatione Apologiæ pro
+sententia Hieronymi p. 40, id nominis nostri in
+epistola non comparere. COT.
+
+# block=3
+(94) Τοῖς νόμοις. Clem. Alex. ἐν τοῖς νομί-
+μοις. Quæ genuina lectio, ut ex sect. 30 et 40 li-
+quet. Apud eumdem Clementem Strom., lib. I, Nym-
+phodorus ἐν τρίτῳ νομίμων Ἀσίας laudatur, et
+ἐν νομίμοις βαρβαρικοῖς alibi. Quo nomine volu-
+men scripserat Aristoteles, Varroni lib. VI De legi-
+bus et Apollonio in Historiis mirabilibus laudatum.
+COLOM. — Græce cum Clemente Alex. ἐν τοῖς
+νομίμοις legendum esse suadet similis phrasis sub
+finem num. 3, ut reddat illis repromissionem... cum
+servaverint legitima Dei. CoUST.
+
+# block=9
+(95) Ὑποτασσόμενοι ad σπλάγχνοις cap. 2. Hæc

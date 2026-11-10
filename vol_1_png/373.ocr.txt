@@ -1,0 +1,173 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,949,1713,1702,2487
+2,162,1883,917,2487
+3,158,392,909,953
+4,941,123,1697,953
+5,151,2562,908,2669
+6,948,1363,1693,1705
+7,162,132,904,383
+8,164,1365,911,1748
+9,949,2567,1696,2640
+10,772,1097,1069,1151
+11,273,1206,1581,1245
+12,422,1781,648,1812
+13,227,1840,835,1869
+14,727,75,1086,112
+15,148,66,244,118
+16,1608,66,1712,124
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=28px centerRows=true
+# block=11 fontSize=17px centerRows=true
+# block=12 fontSize=15px
+# block=13 fontSize=12px centerRows=true
+# block=14 fontSize=16px
+# block=15 fontSize=16px
+# block=16 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+145
+
+# block=16
+146
+
+# block=14
+PROŒMIA VARIORUM.
+
+# block=4
+Paganis sacra prælegant aut exponant, ludibrii vi-
+tandi causa.
+Earum primitiva lingua. — Versio illarum sim-
+plex est et fidelis, neque tamen Syriaco idiomati
+ita similis, ut aut perspicuitas, aut linguæ Latinæ
+puritas laboret: quod tamen magis in altera epistola,
+nescimus quo casu, factum, ut ad verbum translata
+omnia, Schmidianæ Bibliorum versioni essent simil-
+lima; quod tamen crebris illis ad Scripturæ sacræ
+loca allusionibus datum videtur. Cæterum, Græce
+scriptas primitus quod epistolas putat Wetstenius,
+e Græcis vocabulis, quæ ibi crebra leguntur; La-
+tine scriptas cur dicere non possemus? cum Lati-
+num vocabulum seligo, sæculum initio epistolæ pri-
+mæ invenerimus. Nam complura e Græco in hanc
+linguam transiisse, vel ex Novo Testamento apparet.
+Exaratas quidem fortasse fuisse non longe a Neronis
+obitu, dum Ecclesia tranquilla pace frueretur, cen-
+set Gallandius (27).
+
+# block=7
+apostolicum, sed monasticum. Econtra Wetstenius
+hoc ipsum argumentum pro astruenda γνησιότητι
+adhibet, qui hanc ipsam severitatem in causa ponit,
+cur refrigerato cœlibatus studio, immissaque inter
+clericos quoque luxuria, tandiu epistolæ illæ deli-
+tuerint.
+
+# block=3
+Ambæ hæ epistolæ argumenti sunt ascetici nec
+multum, quod ad doctrinæ, aut historiæ, aut disci-
+plinæ quoque ecclesiasticæ rationem accuratius
+percipiendam magnopere facit, complectuntur.
+Prima continet laudem castitatis, scilicet virginita-
+tis, veramque rationem, cum virtute conjunctam;
+altera eamdem pluribus illustrat exemplis, maxime
+ipsius auctoris, aliorumque ipsi similium, quorum
+fuga et abstinentia a feminis magna sane et sollicita
+describitur, nullo ut loco morentur aut diversentur,
+ubi aut nulli viri, aut femina unica sit, eaque ab-
+stinentia prophetarum pæne omnium exemplis com-
+mendatur. Monentur etiam, ad quos scribit, ne
+
+# block=10
+CAPUT IV.
+
+# block=11
+DE SUPPOSITITIIS S. CLEMENTIS NOMEN PRÆFERENTIBUS SCRIPTIS.
+
+# block=6
+explorata est epistolæ hujus falsitas, quod eam D.
+Clemens post passionem Petri ad Jacobum scribere
+fingitur; quem ante Petrum obiisse indubitatis mo-
+numentis notum habetur. Nam Jacobum anno Chri-
+sti 62 a Judæis occisum esse, omnes conveniunt:
+Petrum autem aliqui anno 65, plures anno 66, alii
+autem 68 aut 67, nulli sane ante 65 annum passum
+existimant.
+
+# block=8
+Præter laudatas hactenus epistolas, multa alia
+sub Clementis Romani nomine circumferuntur opera:
+nempe quinque ad diversos epistolæ, homiliæ no-
+vemdecim, decem libri Recognitionum, octo Consti-
+tutionum apostolicarum, Liturgia et Canones apo-
+stolorum; quæ omnia collegit Joannes Baptista Co-
+telerius, Sorbonæ doctor, et adnotationibus illu-
+strata Græce et Latine inter Patres apostolicos anno
+1672 edidit.
+
+# block=1
+Secunda eumdem sanctum Jacobum de sacramen-
+tis, vestibus et vasis sacris instruit; quod verum
+Clementem sibi arrogasse in apostolum, quis cre-
+dat? Tertia inter alios etiam principibus majoribus
+et minoribus, ceu jam Christo aggregatis, inscribi-
+tur, qui ævo Clementis inter fideles adhuc nulli
+erant. Quarta ad Julium et Julianum discipulos data,
+purificationes seu ablutiones Judaicas suadet, et
+pro certo ponit, eum, qui has negligit, nec de in-
+terna animæ puritate cogitare. Quinta denique fra-
+tribus et condiscipulis Jerosolymæ cum Jacobo ha-
+bitantibus inscripta, narrat Clementem adfuisse,
+dum Ananias et Saphira conjuges coram Petro
+mortui conciderunt, quod nullam verisimilitudinem
+habere videtur: et quis credat sanctum (quemad-
+modum in hac epistola legitur) docuisse, rerum
+omnium communem usum, ipsarumque adeo uxo-
+rum intercedere debere.
+
+# block=12
+ARTICULUS I.
+
+# block=13
+DE QUINQUE PSEUDO-CLEMENTINIS EPISTOLIS.
+
+# block=2
+Mirum est viris doctissimis Turriano, Binio et
+quibusdam aliis in tantæ eruditionis ecclesiasticæ
+luce probari potuisse has quinque epistolas decre-
+tales Clementi Romano suppositas. Adeo enim per-
+spicacibus viris deformes videntur hoc saltem tem-
+pore, ut nulla arte, nulla cerussa, aut purpurisso
+fucari possint. Prima ad Jacobum fratrem Domini
+et Hierosolymorum antistitem data, quanquam satis
+antiqua, quippe jam a Rufino sæculi quarti scri-
+ptore in Latinum translata, et nonnullis etiam an-
+tiquis canonum collectionibus, nominatimque co-
+dicis a Paschasio Quesnello vulgati quibusdam exem-
+plaribus inserta (28), spuria tamen a modernis cri-
+ticis pæne omnibus agnoscitur. Inde autem certa et
+
+# block=5
+(27) Biblioth. PP., tom. I, prolegom. 1, pag. 25.
+(28) Unde mirum non est hanc epistolam anno
+442 a concilio Valensi I, canone 16, ac subinde a
+
+# block=9
+Nicolao I, Joanne VIII pontificibus, aliisque nomine
+Clementis fuisse laudatam.

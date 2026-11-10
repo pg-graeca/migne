@@ -1,0 +1,227 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,270,2199,1023,2631
+2,268,1935,1021,2201
+3,265,512,1017,1682
+4,1047,514,1808,1694
+5,1058,2096,1806,2401
+6,275,2631,1021,2697
+7,1054,1931,1804,2032
+8,306,2695,1023,2735
+9,1054,1831,1806,1934
+10,269,159,1014,408
+12,1046,164,1800,425
+13,1055,2029,1805,2099
+14,879,1781,1179,1815
+15,269,1835,1010,1937
+16,269,1708,1814,1781
+17,1059,2400,1814,2732
+18,645,111,1404,148
+19,1308,470,1545,501
+23,272,106,326,142
+24,1726,110,1816,150
+25,264,416,1298,458
+26,540,462,728,502
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=26 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=25
+ἀσεβῆ ἀνειληφότας (19), δι᾽ οὗ καὶ θάνατος εἰσῆλθεν εἰς τὸν κόσμον.
+
+# block=26
+CAPUT IV.
+
+# block=23
+215
+
+# block=24
+216
+
+# block=18
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=10
+rem deserit, et in fide ejus cæcutit ; neque in insti-
+tutis præceptorum ejus ambulat, aut vitam Christo
+dignam degit ; sed secundum pravas ipsius con-
+cupiscentias incedit, iniquam et impiam invidiam
+resumendo, per quam et mors in mundum intra-
+vit ⁵².
+
+# block=12
+ἡ δικαιοσύνη καὶ εἰρήνη, ἐν τῷ ἀπολείπειν ἕκαστον
+τὸν φόβον τοῦ Θεοῦ, καὶ ἐν τῇ πίστει αὐτοῦ ἀμβλυω-
+πῆσαι, μηδὲ ἐν τοῖς νομίμοις τῶν προσταγμάτων αὐ-
+τοῦ πορεύεσθαι, μηδὲ πολιτεύεσθαι κατὰ τὸ καθῆ-
+κον τῷ Χριστῷ (18), ἀλλὰ ἕκαστον βαδίζειν, κατὰ τὰς
+ἐπιθυμίας αὐτοῦ τὰς πονηρὰς, ζῆλον ἄδικον καὶ
+
+# block=19
+ΚΕΦΑΛΑΙΟΝ Δ'.
+
+# block=3
+Sic enim scriptum est : Et factum est post dies,
+obtulit Cain ex fructibus terræ sacrificium Domino :
+Abel autem obtulit et ipse de primogenitis ovium
+suarum, et de adipibus earum. Et respexit Deus
+super Abel, et super munera ejus : super Cain autem,
+et super sacrificia ejus non advertit. Et contristatus
+est Cain valde, et concidit vultu suo. Et dixit Deus
+ad Cain : Quare tristis factus es? et quare concidit
+vultus tuus? Nonne si recte offeras, non autem recte
+dividas, peccasti? Quiesce : ad te conversio ejus, et
+tu dominaberis ipsius. Et dixit Cain ad Abel fra-
+trem suum : Transeamus in campum. Et factum est
+dum essent in campo, surrexit Cain super Abel fra-
+trem suum, et occidit eum ⁵³. Videtis, fratres, pro-
+pter æmulationem et invidiam fratricidium commis-
+sum. Propter æmulationem pater noster (24) Jacob ⁵⁴
+a facie fratris sui Esau aufugit. Æmulatio effecit, ut
+Joseph ad mortem usque persecutionem sustineret ⁵⁵,
+et in servitutem addiceretur. Æmulatio Mosem
+a facie Pharaonis regis Ægypti fugere compulit,
+cum popularem suum dicentem audiret : Quis te
+constituit principem et judicem super nos? nunquid
+tu vis me occidere, quemadmodum occidisti heri
+Ægyptium ⁵⁶? Propter æmulationem (26) Aaron et
+Maria extra castra segregati habitarunt ⁵⁷. Æmu-
+latio Dathan et Abiron vivos ad inferos detrusit ⁵⁸,
+quod cum Moyse Dei famulo seditione contende-
+
+# block=4
+Γέγραπται γὰρ οὕτως· Καὶ ἐγένετο μεθ’ ἡμέρας,
+ἤνεγκε Κάϊν ἀπὸ τῶν καρπῶν τῆς γῆς θυσίαν τῷ
+Θεῷ· καὶ Ἄβελ ἤνεγκεν καὶ αὐτὸς ἀπὸ τῶν πρω-
+τοτόκων τῶν προβάτων, καὶ ἀπὸ τῶν στεάτων
+αὐτῶν. Καὶ ἐπεῖδεν(20) ὁ Θεὸς ἐπὶ Ἄβελ, καὶ ἐπὶ
+τοῖς δώροις αὐτοῦ· ἐπὶ δὲ Κάϊν, καὶ ἐπὶ ταῖς
+θυσίαις αὐτοῦ οὐ προσέσχεν. Καὶ ἐλυπήθη Κάϊν
+λίαν (21), καὶ συνέπεσε τῷ προσώπῳ αὐτοῦ.
+Καὶ εἶπεν ὁ Θεὸς πρὸς Κάϊν· Ἵνα τί περίλυπος
+ἐγένου ; καὶ ἵνα τί συνέπεσε τὸ πρόσωπόν σου ;
+Οὐκ ἐὰν ὀρθῶς (22) προσενέγκῃς, ὀρθῶς δὲ μὴ
+διέλῃς, ἥμαρτες ; Ἡσύχασον· πρὸς σὲ ἡ ἀπο-
+στροφὴ αὐτοῦ, καὶ σὺ ἄρξεις αὐτοῦ. Καὶ εἶπε
+Κάϊν πρὸς Ἄβελ τὸν ἀδελφὸν αὐτοῦ· Διέλθωμεν
+εἰς τὸ πεδίον. Καὶ ἐγένετο ἐν τῷ εἶναι αὐτοὺς ἐν
+τῷ πεδίῳ, ἀνέστη Κάϊν ἐπὶ Ἄβελ τὸν ἀδελφὸν
+αὐτοῦ, καὶ ἀπέκτεινεν αὐτόν. Ὁρᾶτε, ἀδελφοί,
+ζῆλος καὶ φθόνος ἀδελφοκτονίαν κατειργάσαντο (23).
+Διὰ ζῆλον ὁ πατὴρ ἡμῶν Ἰακὼβ ἀπέδρα (25) ἀπὸ
+προσώπου Ἠσαῦ τοῦ ἀδελφοῦ αὐτοῦ. Ζῆλος ἐποίησεν
+Ἰωσὴφ μέχρι θανάτου διωχθῆναι, καὶ μέχρι δου-
+λείας εἰσελθεῖν. Ζῆλος φυγεῖν ἠνάγκασε Μωϋσῆν ἀπὸ
+προσώπου Φαραὼ βασιλέως Αἰγύπτου, ἐν τῷ ἀκοῦσαι
+αὐτὸν ἀπὸ τοῦ ὁμοφύλου· Τίς σε κατέστησε κρι-
+τὴν ἢ δικαστὴν ἐφ’ ἡμῶν ; μὴ ἀνελεῖν με σὺ θέ-
+λεις, ὃν τρόπον ἀνεῖλες ἐχθὲς τὸν Αἰγύπτιον ;
+Διὰ ζῆλον Ἀαρὼν καὶ Μαριὰμ (27) ἔξω τῆς παρεμ-
+
+# block=16
+⁵² Sap. ii, 24. ⁵³ Gen. iv, 3-8. ⁵⁴ Gen. xxvii, 41. ⁵⁵ Gen. xxxvii. ⁵⁶ Exod. ii, 14. ⁵⁷ Num. xii, 4.
+⁵⁸ Num. xvi, 33.
+
+# block=14
+VARIORUM NOTÆ.
+
+# block=9
+Editi vero, ἄγαν. Hinc in errorem lapsus Schotanus
+in Diatrib. de auctor. vers. LXX Interpr., cap. iv,
+pag. 108. ID.
+
+# block=15
+possit ; qui utilissimum hoc effatum contra sæculi
+politicos reddit ; pessum ire morum curam, pacem-
+que civilem, contempta prius pietate. FELL.
+
+# block=7
+(22) Οὐκ ἐὰν ὀρθῶς...εἰς τὸ πεδίον. Hunc lo-
+cum illustrat Pearson. in Præfat. parænet: ad vers.
+LXX. ID.
+
+# block=2
+(18) Τῷ Χριστῷ. Licet probetur hæc lectio Wott.
+ea tamen displicet Dav. quam ideo sic supplet : τῷ
+ἐν Χριστῷ, phrasi ab Apostolo passim usurpata.
+GALL. — Καθῆκον τῷ Χριστῷ. Legendum forte
+Χριστιανῷ, est autem καθῆκον, idem quod προσῆ-
+κον, ut Cl. Alex. Pædag. lib. i, ubi ex Stoicorum
+schola καθῆκον definit esse τὸ κατορθούμενον κατὰ
+τὴν τοῦ λόγου ὑπακοήν. JUN.
+
+# block=13
+(23) Κατειργάσαντο. Sic ms. Alex. Et mox, φυ-
+γεῖν. Codd. impp. κατειργάσατο...φεύγειν. ID.
+
+# block=5
+(24) Hac loquendi ratione indicare videtur Cle-
+mens se ex Jacob stirpe potius oriundum, quam ex
+prosapia Cæsarum ; adeoque Judæum, non Roma-
+num esse. Secus tamen Eucherius in epistola ad
+Valerianum sentit. Forte etiam Clemens Jacob eo
+sensu Patrem nostrum vocat, quo Paulus Rom. ix,
+promissionis filios in semine Abrahæ et Israel com-
+putari docet, eosque ex ipso Israel Dei Gal. vi, 16,
+nuncupat. COUST.
+
+# block=1
+(19) Ἀνειληφότας. Mallet Wott. ἕκαστον — ἀνει-
+ληφότα. At nihil mutandum, ista suadent : Matth.
+xxvi, 22 : Ἤρξαντο λέγειν...ἕκαστος. Act. ii, 6 : Ἤκουον
+εἷς ἕκαστος. Et com. 8 : Καὶ πῶς ἡμεῖς ἀκούομεν
+ἕκαστος ; Sic alibi passim nomen collectivum singu-
+lari verbo plurali junctum reperitur. GALL. — Ζῆ-
+λον ἄδικον καὶ ἀσεβῆ ἀνειληφότας. Fortasse dicit
+ἀνειληφότας respectu habito ad seditionem D. Pauli
+tempore natam ; de quo sub epistolæ finem, data
+opera, disserit ; ut sensus sit, illos ad iniquam et
+impiam æmulationem denuo reversos. Vide I Cor.
+xi. Ratio insuper habenda particulæ καὶ, quæ im-
+mediate sequitur, δι’ οὗ καὶ θάνατος. FELL.
+
+# block=17
+(25) Ἀπέδρα. Hesychius exponit ἀπέφυγεν. CO-
+LUM.
+(26) Ut solam Mariam perfusam lepra, ita et unam
+extra castra exclusam Scriptura memorat. COUST.
+(27) Ἀαρὼν καὶ Μαριάμ. De Maria ex textu
+sacro constat, eam castris exclusam, de Aarone
+non item ; sed sacræ litteræ, cum de pluribus lo-
+quuntur, ea generatim solent proferre, quæ parti
+tantum revera conveniunt. Sic de latronibus di-
+ctum Matth. xxvii, 44, utrumque Domino male-
+
+# block=6
+(20) Ἐπεῖδεν. Ms. ita se habet. Editt. ἐπεῖδεν.
+GALL.
+
+# block=8
+(21) Λίαν. Sic ex ms. Wott. Sic et apud LXX.

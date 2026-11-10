@@ -1,0 +1,225 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,985,429,1739,1161
+2,195,436,953,1080
+3,974,1323,1731,1623
+4,182,1781,944,2077
+5,173,2308,1725,2544
+6,186,1320,947,1617
+7,967,1785,1729,2128
+8,974,2220,1721,2300
+10,174,2594,920,2706
+11,191,1670,938,1774
+13,1267,1634,1428,1666
+14,201,1213,943,1318
+15,1266,1171,1443,1204
+17,445,1171,685,1206
+18,445,1632,679,1663
+19,234,362,917,429
+20,454,318,713,351
+21,978,1674,1732,1777
+22,608,87,1321,125
+24,781,2554,1081,2591
+25,203,141,950,308
+27,1258,2134,1446,2169
+28,1002,354,1731,422
+29,993,135,1739,302
+31,984,1214,1736,1319
+32,204,93,277,132
+33,177,2201,923,2294
+34,1249,306,1477,346
+35,421,2116,689,2162
+36,289,2160,831,2212
+37,1021,2172,1663,2216
+38,959,2596,1719,2718
+39,1661,72,1747,122
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=985 source_y1=429 source_x2=1739 source_y2=1161
+Sis longanimis : qui enim talis est, « multus est
+in prudentia ; siquidem pusillanimis vehementi stul-
+titia tenetur ⁹¹. » ⁹² Sis misericors : « Beati enim
+misericordes : quoniam ipsi misericordiam conse-
+quentur ⁹³. » ⁹⁴ Esto innocens, quietus, bonus, tre-
+mens sermones Dei ⁹⁵. ⁹⁶ Non te exaltabis, ut Phari-
+sæus, quia « Omnis qui se exaltat, humiliabitur ⁹⁷; »
+et : « Quod altum est in hominibus, abominatio est
+apud Deum ⁹⁸. » ⁹⁹ Non dabis animæ tuæ audaciam;
+quia vir « audax incidet in mala ¹⁰⁰. » Non gra-
+dieris cum insipientibus, sed cum sapientibus ac
+justis : «Qui enim graditur cum sapientibus, sapiens
+erit; qui vero graditur cum insipientibus, agnosce-
+tur ¹. » ² Morbos et casus qui tibi acciderint, pla-
+cide accipito ; et adversa fer absque ægritudine ;
+sciens quod tibi a Deo dabitur merces, quemadmo-
+dum Jobo et Lazaro ³.
+
+# block=2 source_x1=195 source_y1=436 source_x2=953 source_y2=1080
+Γίνου μακρόθυμος · ὁ γὰρ τοιοῦτος, « πολὺς ἐν φρο-
+νήσει· » ἐπείπερ « ὀλιγόψυχος ἰσχυρὸς ἄφρων. » Γίνου
+ἐλεήμων · « Μακάριοι γὰρ οἱ ἐλεήμονες, ὅτι αὐτοὶ
+ἐλεηθήσονται. » Ἔσο ἄκακος, ἥσυχος, ἀγαθὸς , τρέ-
+μων τοὺς λόγους τοῦ Θεοῦ. Οὐχ ὑψώσεις σεαυτὸν, ὡς
+ὁ Φαρισαῖος · « Ὅτι πᾶς ὁ ὑψῶν ἑαυτὸν, ταπεινωθή-
+σεται · » καὶ· « Τὸ ὑψηλὸν ἐν ἀνθρώποις, βδέλυγμα
+παρὰ τῷ Θεῷ. » Οὐ δώσεις τῇ ψυχῇ σου θράσος· ὅτι
+« θρασὺς ἀνὴρ ἐμπεσεῖται εἰς κακά. » Οὐ συμπορεύσῃ
+μετὰ ἀφρόνων, ἀλλὰ μετὰ σοφῶν καὶ δικαίων· « Ὁ
+συμπορευόμενος γὰρ σοφοῖς, σοφὸς ἔσται · ὁ δὲ συμπο-
+ρευόμενος (51) ἄφροσι, γνωσθήσεται. » Τὰ συμβαίνοντά
+σοι πάθη, εὐμένως δέχου, καὶ τὰς περιστάσεις ἀλύ-
+πως· εἰδὼς ὅτι μισθὸς παρὰ Θεοῦ σοι δοθήσεται, ὡς
+τῷ Ἰὼβ καὶ τῷ Λαζάρῳ.
+
+# block=3 source_x1=974 source_y1=1323 source_x2=1731 source_y2=1623
+⁴ Eum qui sermonem Dei tibi loquitur coles : ejus-
+que eris memor die ac nocte : honorabis autem eum
+non tanquam originis auctorem, sed tanquam illum
+qui tibi ut bene esses conciliator exstitit : ubi enim
+doctrina de Deo, ibi Deus adest. ⁵ Exquires quoti-
+die faciem sanctorum, ut acquiescas sermonibus
+eorum.
+
+# block=4 source_x1=182 source_y1=1781 source_x2=944 source_y2=2077
+Οὐ ποιήσεις σχίσματα πρὸς τοὺς ἁγίους, μνησθεὶς
+τῶν Κορεϊτῶν. Εἰρηνεύσεις μαχομένους, ὡς Μωϋσῆς ,
+συναλλάσσων (53) εἰς φιλίαν. Κρινεῖς δικαίως· «Τοῦ
+γὰρ Κυρίου ἡ κρίσις. » Οὐ λήψῃ πρόσωπον ἐλέγξαι
+ἐπὶ παραπτώματι, ὡς Ἠλίας καὶ Μιχαίας τὸν Ἀχαὰβ,
+καὶ Ἀβδεμέλεχ ὁ Αἰθίοψ τὸν Σεδεκίαν, καὶ Νάθαν τὸν
+Δαβὶδ, καὶ Ἰωάννης τὸν Ἡρώδην.
+
+# block=5 source_x1=173 source_y1=2308 source_x2=1725 source_y2=2544
+⁸⁸ Vide Anast. ⁸⁹ Num. xii, 3 ; Psal. cxxi, 1. ⁹⁰ Matth. v, 4. ⁹¹ Prov. xiv, 29. ⁹² l. Pseudo-
+Ignat. ad Hieron. 5. ⁹³ Matth. v, 7. ⁹⁴ Barn. cap. 19. ⁹⁵ Isa. lxvi, 2. ⁹⁶ Barn. xix; l. Anastasium,
+ibid. ⁹⁷ Luc. xviii, 14. ⁹⁸ Luc. xvi, 15. ⁹⁹ Barn. xix; Anast. ibid. ¹⁰⁰ Prov. xiii, 17, apud. LXX,
+¹ Prov. xiii, 20. ² Barn. x; Anast. ibid. ³ Job xlii; Luc. xvi. ⁴ Barn. xix; Anast. ibid. ⁵ Barn. ibid.
+⁶ Barnab. xix. ⁷ Num. xvi. ⁸ Exod. ii. ⁹ Barn. xix. ¹⁰ Deut. i, 17. ¹¹ Barn. xix. ¹² III Reg. xviii,
+xxi, xxii. ¹³ Jerem. xxxviii. ¹⁴ II Reg. xii. ¹⁵ Matth. xiv. ¹⁶ al. ὀλιγοψύχου. ¹⁷ l. supra, Barn. xix.
+¹⁸ l. Pseudo-Ignat. ad Hieron. 7.
+
+# block=6 source_x1=186 source_y1=1320 source_x2=947 source_y2=1617
+Τὸν λαλοῦντά σοι τὸν λόγον τοῦ Θεοῦ δοξάσεις· μνη-
+σθήσῃ δὲ αὐτοῦ ἡμέρας καὶ νυκτός· τιμήσεις δὲ αὐ-
+τὸν, οὐχ ὡς γενέσεως αἴτιον, ἀλλ' ὡς τοῦ εὖ εἶναι σοι
+πρόξενον γινόμενον· ὅπου γὰρ ἡ περὶ Θεοῦ διδασκα-
+λία, ἐκεῖ ὁ Θεὸς πάρεστιν. Ἐκζητήσεις καθήμεραν
+τὸ πρόσωπον τῶν ἁγίων, ἵν' ἐπαναπαύῃ τοῖς λόγοις
+αὐτῶν.
+
+# block=7 source_x1=967 source_y1=1785 source_x2=1729 source_y2=2128
+⁶ Non facies schismata adversum sanctos; recor-
+datus Coritarum ⁷. Pacem inter dissidentes compo-
+nes, ut Moses, eosque in amicitiam reconciliabis ⁸.
+⁹ Judicabis juste : « Domini enim est judicium ¹⁰, »
+¹¹ Non accipies personam in arguendo de peccato;
+ut Elias et Michæas Achabum arguerunt ¹², Abde-
+melechus Æthiops Sedeciam ¹³, Nathan Davidem ¹⁴,
+et Joannes Herodem ¹⁵.
+
+# block=8 source_x1=974 source_y1=2220 source_x2=1721 source_y2=2300
+¹⁷ Ne sis duplici animo in precatione tua, utrum
+futurum sit, an non : ¹⁸ dixit enim Dominus mihi
+
+# block=10 source_x1=174 source_y1=2594 source_x2=920 source_y2=2706
+(31) Ὁ δὲ συμπορευόμενος. Hæc et duo sequen-
+tia vocabula desunt in codice Vindob. Cl.
+(32) Τὸ εὖ. Cod. Vind. τοῦ Θεοῦ, et postea παρ-
+
+# block=11 source_x1=191 source_y1=1670 source_x2=938 source_y2=1774
+Ὅτι χρὴ μὴ ἀποσχίζειν τῶν ἁγίων, ἀλλ' εἰρη-
+νεύειν μαχομένους, κρίνειν τε δικαίως, καὶ μὴ
+προσωποληπτεῖν.
+
+# block=13 source_x1=1267 source_y1=1634 source_x2=1428 source_y2=1666
+CAPUT X.
+
+# block=14 source_x1=201 source_y1=1213 source_x2=943 source_y2=1318
+Ὅτι χρὴ τοὺς κατὰ Χριστὸν διδασκάλους, γονέων
+πλείον' ἡγεῖσθαι· οἱ μὲν γὰρ τὸ εὖ (32) εἶναι, οἱ
+δὲ τὸ εἶναι μόνον παρέχουσιν.
+
+# block=15 source_x1=1266 source_y1=1171 source_x2=1443 source_y2=1204
+CAPUT IX.
+
+# block=17 source_x1=445 source_y1=1171 source_x2=685 source_y2=1206
+ΚΕΦΑΛΑΙΟΝ Θ'.
+
+# block=18 source_x1=445 source_y1=1632 source_x2=679 source_y2=1663
+ΚΕΦΑΛΑΙΟΝ Ι'.
+
+# block=19 source_x1=234 source_y1=362 source_x2=917 source_y2=429
+Περὶ μακροθυμίας, ἀκακίας, πραότητος, ὑπο-
+μονῆς.
+
+# block=20 source_x1=454 source_y1=318 source_x2=713 source_y2=351
+ΚΕΦΑΛΑΙΟΝ Η'.
+
+# block=21 source_x1=978 source_y1=1674 source_x2=1732 source_y2=1777
+Quod non oporteat disjungere se a sanctis , sed pa-
+cificare contendentes, et judicare juste, et personas
+non accipere.
+
+# block=22 source_x1=608 source_y1=87 source_x2=1321 source_y2=125
+CONSTITUTIONES APOSTOLICÆ. — LIB. VII
+
+# block=24 source_x1=781 source_y1=2554 source_x2=1081 source_y2=2591
+VARIORUM NOTÆ.
+
+# block=25 source_x1=203 source_y1=141 source_x2=950 source_y2=308
+δῃς, μηδὲ πονηρόφρων, μηδὲ ⁸⁸ σκληροκάρδιος, μηδὲ
+θυμώδης, μηδὲ μικρόψυχος· πάντα γὰρ ταῦτα ὁδηγεῖ
+πρὸς βλασφημίαν· ἴσθι δὲ πρᾶος, ὡς Μωϋσῆς καὶ
+Δαβίδ· ἐπεὶ « οἱ πρᾶεῖς κληρονομήσουσι γῆν. »
+
+# block=27 source_x1=1258 source_y1=2134 source_x2=1446 source_y2=2169
+CAPUT XI.
+
+# block=28 source_x1=1002 source_y1=354 source_x2=1731 source_y2=422
+De longanimitate, innocentia, mansuetudine, pa-
+tientia.
+
+# block=29 source_x1=993 source_y1=135 source_x2=1739 source_y2=302
+vicax, nec malitiosus, nec duro corde, nec iracun-
+dus, nec pusilli animi : omnia enim hæc ducunt ad
+blasphemiam : sis vero mitis, ut Moyses et David ⁸⁶,
+quandoquidem « mites possidebunt terram ⁸⁷. »
+
+# block=31 source_x1=984 source_y1=1214 source_x2=1736 source_y2=1319
+Quod oporteat doctrinæ Christi magistros pluris du-
+cere quam parentes : illi siquidem, bene esse ; hi
+vero, esse tantum, præstant.
+
+# block=32 source_x1=204 source_y1=93 source_x2=277 source_y2=132
+1005
+
+# block=33 source_x1=177 source_y1=2201 source_x2=923 source_y2=2294
+Μὴ γίνου δίψυχος ἐν προσευχῇ σου, εἰ ἔσται, ἢ οὐ·
+λέγει γὰρ ὁ Κύριος ἐμοὶ Πέτρῳ ἐπὶ τῆς θαλάσσης·
+
+# block=34 source_x1=1249 source_y1=306 source_x2=1477 source_y2=346
+CAPUT VIII.
+
+# block=35 source_x1=421 source_y1=2116 source_x2=689 source_y2=2162
+ΚΕΦΑΛΑΙΟΝ ΙΑ'.
+
+# block=36 source_x1=289 source_y1=2160 source_x2=831 source_y2=2212
+Περὶ διψύχου, ἤτοι ὀλιγοπίστου ¹⁶.
+
+# block=37 source_x1=1021 source_y1=2172 source_x2=1663 source_y2=2216
+De homine duplicis animi, seu modicæ fidei.
+
+# block=38 source_x1=959 source_y1=2596 source_x2=1719 source_y2=2718
+έσχον, minus bene. ID.
+(33) Συναλλάσσων. In ms. Vind. καταλλάσσων,
+eodem sensu. Cl.
+
+# block=39 source_x1=1661 source_y1=72 source_x2=1747 source_y2=122
+1006

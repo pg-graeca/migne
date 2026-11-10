@@ -1,0 +1,284 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1045,137,1792,518
+2,264,133,1011,516
+3,240,685,613,2585
+4,314,554,1164,591
+5,276,2613,666,2716
+6,1019,1690,1771,2581
+7,672,75,1387,115
+8,873,630,1172,664
+9,267,83,319,123
+11,1735,78,1799,118
+12,629,694,1005,2590
+13,1043,694,1793,864
+14,1035,862,1411,1654
+15,1419,868,1785,1692
+
+# layer=format
+# block=1 fontSize=16px
+# block=2 fontSize=16px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=16px
+# block=9 fontSize=16px
+# block=11 fontSize=16px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=11
+872
+
+# block=9
+871
+
+# block=2
+pere, secunda Sabbatorum, mense primo, qui Xan-
+thicus dicitur ; et tertiam Sabbati occupavit delibe-
+ratio ; quarta vero feria decreverunt cruce eum in-
+terimere 81. Quam rem Judas intellexit ; a multo
+quidem tempore perversus, tunc vero etiam a dia-
+bolo avaritia sauciatus 82. Cum enim jamdiu mar-
+supii curam suscepisset, et pauperum res furare-
+tur ; a Domino, utpote patientissimo, non est abje-
+ctus : quinimo nobis cum illo compedentibus, volens
+
+# block=1
+σθαι δευτέρα σαββάτων, μηνὶ πρώτῳ, ὅς ἐστι Ξανθι-
+κός (69), καὶ τῇ τρίτῃ τοῦ Σαββάτου παρέτεινεν ἡ
+σκέψις · τῇ δὲ τετράδι ὥρισαν τῷ (70) σταυρῷ ἀνε-
+λεῖν αὐτόν. Καὶ Ἰούδας γνοὺς τοῦτο, ἐκ πολλοῦ μὲν
+διαστραφείς, τότε δὲ καὶ ὑπ' αὐτοῦ τοῦ διαβόλου βλη-
+θεὶς φιλαργυρίᾳ καίτοι πάλαι τὸ γλωσσόκομον ἐγκε-
+χειρισμένος, καὶ κλέπτων τὰ τῶν πενχήτων, οὐκ ἀπ-
+ελήσθη ὑπὸ τοῦ· Κυρίου διὰ μακροθυμίαν· ἀλλὰ καὶ
+ποτε μὲν (71) ἐσθιομένων 82ᵃ ἡμῶν σὺν αὐτῷ, βουλό·
+
+# block=4
+⁸¹ l. lib. ṽᵠ, cap. 23. ⁸² Joan. ᵡᵠ, 6. ⁸²ᛟ al. ἐστιωμένων.
+
+# block=3
+Ἰουδαίων καὶ τὴν παρά-
+δοσιν τῆς νομικῆς λατρεί-
+ας, μὴ συνέντες τῶν
+θείων Εὐαγγελίων, καὶ
+τοῦ Ἀποστόλου λέγοντος·
+« Ὅτι τὰ ἀρχαῖα παρῆλ-
+θεν, ἰδοὺ γέγονε τὰ πάντα
+καινά. » Τὸ δὲ σημεῖον τοῦ
+τιμίου σταυροῦ οὔτε προσ-
+κυνοῦσιν οὔτε σέβονται,
+οὔτε θείαν δύναμιν λέγου-
+σιν ἔχειν, εἰ μὴ πρότερον
+βαπτίζωσιν αὐτὸν ὡς ἄν-
+θρωπον, καὶ πήξωσιν ἤ-
+λον ἐν μέσῳ αὐτοῦ. Πρὸ
+γὰρ τοῦ βαπτίσαι αὐτὸν,
+καὶ καταπατοῦσι καὶ ἀντ'-
+οὐδενὸς ἡγοῦνται. Περὶ
+δὲ τῶν ἁγίων καὶ σεπτῶν
+εἰκόνων τοιαύτην ἔχουσι
+διάθεσιν, ὅτι[ f. inser. ὡς]
+τὰ εἴδωλα τῶν ἐθνῶν «στό-
+μα ἔχουσι καὶ οὐ λαλήσου-
+σι, ὦτα ἔχουσι καὶ οὐκ
+ἀκούσονται, » καὶ τὰ ἑξῆς·
+μὴ συνέντες τῆς θείας
+Γραφῆς· ἀθετοῦντες ἐκεῖ-
+νον αὐτὸν τὸν Σωτῆρα καὶ
+ἀληθινὸν θεὸν ἡμῶν Ἰη-
+σοῦν Χριστὸν καἰδη μιουργὸν
+τῶν ἁπάντων, ἔστιν
+διὰ τοῦ ἁγίου (a) μανδύ-
+λίου τὴν ἰδίαν εἰκόνα τῷ
+Ἀβγάρώ ἀπέστειλε, καὶ
+τὸ νύσγμα αὐτοῦ ἰάσατο.
+Ἀθετοῦσι δὲ καὶ τὸν θεο-
+φόρον Πατέρα ἡμῶν Βα-
+σίλειον, ὅστις λέγει ὅτι·
+« Ἡ τιμὴ τῆς εἰκόνος ἐπὶ
+τὸ πρωτότυπον διαβαί-
+νει. » Ἀλλὰ καὶ τρεῖς
+σταυροὺς ποιοῦσι, καὶ τὴν
+ἁγίαν Τριάδα ὀνομάζου-
+σιν· ὅτι εἶς τῆς Τριάδος
+ἐσταυρώθη, καὶ συνε-
+σταυρῶται ἅμα καὶ ἡ ἁγία
+Τριάς· μὴ συνέντες· τὴν
+διαφορὰν τῶν ὑποστά-
+σεων, μηδὲ τὴν θείαν καὶ
+ἀκατάληπτον φύσιν τῆς
+θεότητος ἀπαθῆ διατηροῦν-
+τες· ἀλλ' εἰς βυθὸν ἀπω-
+λείας ἑαυτοὺς ὠθοῦντες
+διὰ τῆς ἀγνοίας. Ἀνα-
+γινώσκουσι δὲ καὶ καθ'
+ἑκάστην ἡμέραν ἀγίῳ
+καὶ θεοφόρῳ Πατρὸς ἡ-
+
+# block=12
+venerandæ crucis nec ado-
+rant nec colunt, nec quid-
+quam divinæ virtutis ha-
+bere profitentur, nisi prius
+tanquam hominem bapti-
+zaverint, in medioque il-
+lius fixerint clavum. Ante
+enim quam crucem bapti-
+zaverint, conculcant eam
+et pro nihilo ducunt. De
+sacris vero et venerabili-
+bus imaginibus hanc ha-
+bent rationem et senten-
+tiam, quod sicuṫ gentium
+simulacra, ‹ Os habent et
+non loquentur, aures ha-
+bent et non audient (Psal.
+cxiii); › et quæ sequuntur :
+non intelligentes sacram
+Scripturam : rejicientes
+ipsum quoque Salvatorem
+verumque Deum nostrum
+Jesum Christum, cuncto-
+rum opificem, qui in sa-
+cro mantili imaginem
+suam ad Abgarum misit;
+ejusque morbum sanavit.
+Aspernantur etiam Deo
+plenum Patrem nostrum
+Basilium, qui ait (b): ‹ Ho-
+nor imaginis ad primum
+exemplar transit. › Sed et
+tres cruces faciunt, et
+sanctam Trinitatem ap-
+pellant; quod unus Trini-
+tatis crucifixus sit, una-
+que simul crucifixa fuerit
+sancta Trinitas: ignoran-
+tes personarum differen-
+tiam, nec divinam incom-
+prehensibilemque deitatis
+naturam servantes illæ-
+sam; sed ipsos se per igno-
+rantiam in profundum
+perditionis impellentes.
+Denique legunt quotidie
+sancti Deiferique Patris
+nostri libros, quo modo
+minutatim hæreses mani-
+festet, necnon unamquam-
+que peculiariter et seor-
+sum subdat anathemati :
+et ipsas quidem hæreses
+anathematizant, suas au-
+tem traditiones ac hæ-
+reses retinent, colunt,
+agunt.
+
+# block=13
+μῶν τὰς βίβλους, τὸ πῶς λεπτομερῶς σαφηνίζει
+τὰς αἱρέσεις, καὶ μίαν ἑκάστην ἰδίᾳ καὶ χωρὶς
+ἀναθεματίζει· καὶ αὐτὰς μὲν τὰς αἱρέσεις ἀναθε-
+ματίζουσι, τὰς δὲ παραδόσεις αὐτῶν καὶ τὰς αἱ-
+ρέσεις κατέχουσι καὶ σέβονται καὶ πράττουσι.
+
+# block=14
+(c) Nestorianos et Eu-
+tychianistas oportet fa-
+cere libellos, et suam hæ-
+resim anathematizare cum
+Nestorio, Eutyche, Dio-
+scoro, eademque sentien-
+tibus, et cum omnibus al-
+latis hæresibus; atque
+sanctæ communionis fieri
+participes. Eunomianos
+quidem, qui per unam im-
+mersionem baptismum su-
+scipiunt, et Montanistas
+Phrygas dictos, et Mani-
+chæos, ac Sabellianos;
+nam Patris et Filii perso-
+nam docentes, et alia quæ-
+dam perniciosa facientes,
+cunctasque hujusmodi hæ-
+reses; videlicet eos, qui ab
+illis volunt se adjungere
+veritati, velut gentiles re-
+cipimus, illosque baptiza-
+nimus. Сот.
+
+# block=15
+Νεστριανοὺς καὶ Εὐ-
+τυχιαστὰς χρὴ ποιεῖν
+λιbéλλους, καὶ ἀναθεμα-
+τίζειν τὴν αὐτῶν αἵρεσιν,
+καὶ Νεστόριον, καὶ Εὐτυ-
+χέα, καὶ Διόσκορον, καὶ
+τοὺς φρονοῦντας τὰ αὐτὰ,
+καὶ πάσας τὰς προσανα-
+φερομένας αἱρέσεις, καὶ
+μεταλαμβάνειν τῆς ἁγίας
+κοινωνίας. Εὐνομιανοὺς
+μὲν τοὺς εἰς μίαν κατά-
+δυσιν βαπτιζομένους, καὶ
+Μοντανιστὰς τοὺς λεγο-
+μένους Φρύγας, καὶ Μανι-
+χαίους, καὶ Σαβελλιανοὺς
+τοὺς Ὑποπατορίαν διδά-
+σκοντας, καὶ ἕτερά τινα
+χαλεπὰ ποιοῦντας, καὶ πά-
+σας τὰς τοιαύτας αἱρέ-
+σεις, ἤγουν τοὺς ὑπ' ἀ-
+τῶν ἐθέλοντας προστίθω-
+σθαι τῇ ἀληθείᾳ, ὡς Ἕλ-
+λήνας δεχόμεθα καὶ βα-
+πτίζομεν αὐτούς.
+
+# block=6
+(69) Μηνὶ πρώτῳ, ὅς ἐστι Ξανθικός. Consilium
+(ait Constitutio) et insidiæ Judæorum, proditio et
+(ait Constitutio) et insidiæ Judæorum, proditio et
+comprehensio Christi, ac reliqua quæ consecutæ
+sunt, contigerunt mense Aprilis. Atqui ex fragmento
+Constitutionibus attributo, quod protulimus nota
+prima et generali ad hos libros, quod legitur
+etiam in Adnotationibus collectaneis ad Clementem
+Alexandrinum, pag. 49, cruci affixus est Dominus
+Phamenot 29, hoc est Martii 25: resurrexit vero
+Pharmuthi 1, seu Martii 27. Non ergo idem est
+Constitutionis nostræ, et fragmenti illius parens.
+Constitutio favetur a nonnullis apud Clementem
+Alexandrinum Strom. I, p. 540. Statur a fragmento
+in Chronico Alexandrino, in Nicephori Chronogra-
+phia, et alibi. At observatores superiori capite ad-
+ducti (ut ceterorum mittam opiniones) referunt eum
+puburicus crucifixionem ad Martii 23, id est Phame-
+noth 27, resurrectionem ad ejusdem Martii 25,
+Phamenoth 29, ascensionem ad 3 Maii, Pachon 8.
+Atque ita arbitrabantur ad Chronicum Alexan-
+drinum et fragmentum notas marginales appo-
+suerunt, Martlou vel Μαρτίῳ κγ', Μαρτίου κδ', Ma-
+του vel Μαΐῳ γ'. Illæ enim Ægyptiacis computatio-
+nibus nequaquam respondent. 1D.
+(70) Ὤρισαν τῷ. Ambo cod. Vind. ὡρίσαντο CL.
+(71) Mér. Omittitur hæc particula in altero cod
+ID.
+
+# block=5
+(a) Ita legi vocem contractam
+(b) De Spiritu s. cap. 18.
+(c) Euchologii p. 88.

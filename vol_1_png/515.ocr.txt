@@ -1,0 +1,98 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1093,158,1709,1066
+2,169,158,1059,2240
+3,1086,1081,1700,2193
+4,163,2480,1692,2661
+5,734,84,1179,127
+6,1116,2369,1689,2410
+7,177,82,257,132
+8,1655,88,1719,134
+9,477,2268,759,2336
+10,155,2354,1025,2442
+11,661,2662,1017,2720
+12,1287,2276,1505,2334
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=7
+429
+
+# block=5
+EPISTOLA II AD VIRGINES.
+
+# block=8
+430
+
+# block=1
+turbemus, et ne petra scandali ipsis
+existamus. Si enim etiam propter
+cibum frater noster contristatur, of-
+fenditur, infirmatur, aut scandaliza-
+tur, jam non secundum charitatem
+ambulamus; hinc Paulus : Noli cibo
+tuo, inquit, illum perdere pro quo
+Christus mortuus est ⁴⁷; et alibi :
+Sic autem peccantes in fratres, et
+percutientes conscientiam eorum in-
+firmam, in Christum peccatis ⁴⁸.
+Quapropter et nos fideles ipsi di-
+camus : Si esca scandalizat fratrem,
+non manducabimus carnem in æter-
+num, ne fratrem nostrum scandalize-
+mus ⁴⁹.
+
+# block=3
+Hæc omnia observat quicunque
+vere Deum diligit; qui crucem suam
+sincere bajulat; qui Christum in-
+duit; qui proximum vero amore
+prosequitur; qui demum ita suam
+custodit animam ut neque ab altero
+sumat neque alteri præbeat scanda-
+lum, ut non pereat eo quod inter
+virgines sæpius fuerit conversatus,
+aut in illarum domo habitaverit.
+Hæc aliunde indecora sunt et in per-
+ditionem vergunt eorum qui vident
+aut noverunt hujusmodi assiduita-
+tes eo ipso pravas quia scandalis et
+periculis fecundas et morti vicinas.
+Hæc igitur agere Christianum non
+decet. Beatus autem homo qui, præ
+castitatis amore, semper est pavi-
+dus ⁵⁰.
+
+# block=12
+CAPUT VI.
+
+# block=6
+Si autem adveniamus in locum
+
+# block=4
+⁴⁷ Rom. xiv, 15. ⁴⁸ I Cor. viii, 12. ⁴⁹ Nullus lector intelligens mirabitur quod hic cibus memoretur,
+cum sermo sit de virginitate : nam sponte et sine negotio ex verbis sancti Clementis hoc instituitur ratio-
+cinium : Romanos et Corinthios monet divus Paulus ne fratribus infirmis occasionem scandali præbeant,
+utendo corám ipsis cibo licet indifferenti; quanto magis caveri debet ne suspicio mala fidelium animis
+ingeratur propter periculosum contubernium. ⁵⁰ Prov. xxviii, 14.
+
+# block=11
+. ܫܠܡܬ݀ FIN. (a)

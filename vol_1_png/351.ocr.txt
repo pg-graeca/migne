@@ -1,0 +1,166 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,194,150,945,1134
+2,978,1147,1737,1919
+3,975,151,1739,878
+4,220,2386,931,2691
+5,979,886,1725,1136
+6,188,1142,952,2260
+7,972,2386,1720,2690
+8,977,1926,1737,2263
+9,763,86,1134,131
+10,229,2307,751,2349
+12,188,94,276,144
+13,1648,86,1730,134
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+nino esse a Clemente nec eo paulo recentiorem,
+cui hæc ipsa Epistola referatur accepta. Nollem
+factum enimvero : quid loquar ? An longa illa di-
+sputatione quam primum contexuit H. Venema,
+nos ludere voluit ? An vero Hieronymum et Epi-
+phanium ita bardos existimavit, ut pro fetu Cle-
+mentino Epistolam reciperent supposititiam ? Nimi-
+rum vir criticus ad subruendam Clementinarum
+Epistolarum De virginitate integritatem, telaque
+clar. Wetstenii editoris declinanda, primum qui-
+dem ad posteriorem Clementis Corinthiacam Epi-
+stolam velut ad asylum confugit, nullumque non
+movet lapidem quo hanc Epistolam demonstret
+illam ipsissimam esse in quam digitum intenderunt
+veteres, Hieronymus in primis atque Epiphanius :
+postmodum autem, perinde ac de triumpho secu-
+rus, in eamdem consurgit secundam Corinthiacam
+Epistolam, quam commentitiam esse nobis persua-
+dere conatur ; nihilque pensi habet , dummodo
+unius prioris ad Corinthios Epistolæ auctor Cle-
+mens esse videatur. Age nunc, illa discutiamus po-
+tiora, quæ ad ejus suppositionem evincendam vir
+doctus adducit.
+
+# block=2
+Verum, ut ad ea verba, Jacobum patrem nostrum,
+apertius enucleanda simulque propugnanda redea-
+mus, quo deinceps ex eorum ambiguitate omnis
+objiciendi præcidatur occasio : Patrum quoque
+antiquissimi eodem plane sensu cum Clemente per-
+hibentur esse locuti : Justinus martyr (56), Cle-
+mens Alexandrinus (57), Tertullianus (58), auctor
+Expositionis in Evangelium Lucæ quæ sub Titi Bo-
+strensis nomine circumfertur (59), et Augusti-
+nus (60). Hinc ergo Venemiana objectio evanescit :
+quo enim sensu locutus est apostolus Paulus, quo
+Ecclesia Romana ab ipso edocta, quo Patres anti-
+quiores, eo item Clemens noster locutus esse di-
+cendus, et quidem ad Corinthios Romanæ Ecclesiæ
+nomine scribens : ut propterea non suo tantum,
+sed et Romanorum atque Corinthiorum nomine,
+Abrahamum et Jacobum patres nostros, fidei scili-
+cet nostræ patres, ipsemet appellasse putandus.
+
+# block=3
+nam institutionemque primum quidem assecutus a
+Paulo Clemens Romanus, deinceps vero volens et
+ipse iisdem apostolicis præceptis imbuere Corin-
+thios, Jacobum patrem nostrum vocavit : quemad-
+modum etiam ibidem nonnullis interjectis (52),
+patrem nostrum appellavit Abrahamum. Quam qui-
+dem doctrinam cum deinde accepisset Ecclesia Ro-
+mana sive ab Apostolo sive etiam ab ipso Clemente,
+sanctam inter actionem precationem hujusmodi,
+sacris ministris recitandam indixit (53) : Deus, fide-
+lium pater summe, qui in toto orbe terrarum pro-
+missionis tuæ filios diffusa adoptionis gratia multi-
+plicas, et per paschale sacramentum, Abraham pue-
+rum tuum universarum, sicut jurasti, gentium efficis
+patrem, etc. Alibi quoque clarius adhuc (54) : Pa-
+ter fidei nostræ Abraham summus, obtulit holocau-
+stum super altare pro filio.
+
+# block=4
+(45) Epist. II, l. c
+(46) Clem., Epist. II ad Cor., capp. 1 et 2.
+(47) Id., Epist. I, cap. 4.
+(48) Mem. Hist. eccl., t. II, p. 149.
+(49) Epist. Rom. Pontif., p. 11.
+(50) Ibid., p. 41.
+(51) Hist. gener., tom. I, p. 508.
+(52) Epist. I, cap. 31.
+(53) Missal. Rom. in Sabb. sanct. ad prophet. iv
+
+# block=5
+Quid quod Theophilus in suis ad Autolycum li-
+bris (55), quod pene exciderat , Davidem patrem
+seu progenitorem nostrum appellat ? Ἔπειτα Δαυὶδ
+ὁ πρόγονος ἡμῶν (ἐβασίλευσεν) ἔτη μ'. « Deinde Da-
+vid pater noster regnavit annos quadraginta. » Nun-
+quid ideo Hebræus, episcopus iste Antiochenus ?
+
+# block=6
+Primum igitur argumentum ex eo petit H. Ve-
+nema (45), quod auctor Epistolæ posterioris sese
+origine gentilem aperte prodat (46), cum contra
+natione Judæum fuisse Clementem clamare cen-
+seatur locus ille prioris Epistolæ, ubi Jacobum
+patrem nostrum appellat (47). Perbelle sane. Neque
+nuper demum exorta est de Judaismo Clementis opi-
+nio. Primus, quod quidem sciam, qui eam invexit,
+fuit Tillemontius (48). Exinde vero idem visum
+Coutantio (49), licet postea sententiam mutarit (50).
+Accessit demum Ceillierius, qui fidenter nimis id
+asserere non dubitavit (51). At elumbe profecto
+habendum argumentum istiusmodi , quo Corin-
+thiacæ posterioris Epistolæ tollatur integritas.
+Quidni sodes Clemens Pauli συνεργὸς, Jacobum
+patrem nostrum eo sensu vocare potuerit, quo
+idem Apostolus promissionis filios in semine Abra-
+hæ et Israel computari docet, ut recte Coutantius
+melius consultus ? Non enim, inquit divinus præco ³⁴,
+omnes qui ex Israel sunt, ii sunt Israelitæ : neque qui
+semen sunt Abrahæ,omnes filii : sed in Isaac vocabitur
+tibi semen : id est, non qui filii carnis, hi filii Dei, sed
+qui filii sunt promissionis, æstimantur in semine.
+Hinc alibi ³⁵ etiam ipsemet Apostolus Israel Dei vo-
+cat eosdem promissionis filios, sive ex circumci-
+sione sive ex præputio vocatos. Hanc igitur doctri-
+
+# block=7
+(54) Brev. Rom. Sabb. ante Quinq. ad Magnificat.
+(55) Lib. III, ad Autolyc., § 25
+(56) Dial. cum Tryph., § 134.
+(57) Clem. Alex., Strom. lib. VI, cap. 7, p. 770.
+(58) Adv. Marcion., lib. IV, cap. 24.
+(59) In cap. 1 Evang. Luc. Bibl. PP. edit. Paris,
+tom. XIII, p. 767.
+(60) Serm. V, § 4; Opp. tom. V, p. 50.
+(61) Epist. II, cap. 2.
+
+# block=8
+Instat porro vir criticus, atque ex his verbis
+ejusdem Epistolæ (61) : Plures facti sumus iis qui
+Deum habere censentur (Judæis), colligit auctorem
+eo demum tempore vixisse, quo Christianismus
+inter gentes numerosissimus erat supra Judæos :
+quod quidem, inquit, rectius quam in Clementis,
+quadrat in Trajani et sequentium imperatorum
+tempora, quibus Ecclesia gentium longe lateque
+
+# block=9
+PROCŒMIA VARIORUM.
+
+# block=10
+³⁴ Rom. IX, 6-8. ³⁵ Galat. VI, 15, 16.
+
+# block=12
+101
+
+# block=13
+102

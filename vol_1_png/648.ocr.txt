@@ -1,0 +1,176 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,252,302,1001,1471
+2,1042,299,1812,1470
+4,538,130,738,165
+5,280,1522,804,1560
+6,1291,128,1564,163
+7,265,182,1019,283
+8,861,1592,1156,1629
+9,231,1638,999,2672
+10,1070,181,1808,283
+14,1018,1652,1798,2672
+15,1747,70,1806,106
+16,265,60,335,100
+17,659,62,1385,110
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Jam si quis conversus, fructus pœnitentiæ edi-
+derit, tunc ad orationem admittite; ut filium
+illum prodigum, qui perierat, et patria bona
+cum meretricibus abligurierat, posteaque porcos
+pascebat, de quorum siliquis cupiebat expleri, nec
+obtinebat; quando pœnitentia ductus est, et ad
+patrem rediit, dixitque : ‹ Peccavi in cœlum, et co-
+ram te, jam non sum dignus vocari filius tuus ⁵² › ;
+pater, liberorum amans, cum musico apparatu ac-
+cepit; priorem stolam, annulum et calceamenta
+reddidit; mactatoque vitulo saginato, lætus epu-
+labatur cum amicis. Ita igitur et tu facito, o epi-
+scope : ac quemadmodum ethnicum sacro lava-
+cro tinctum, in Ecclesiam inducis post institutio-
+nem; sic et hunc, per manuum impositionem,
+utpote pœnitentia purgatum, cunctis pro eo depre-
+cantibus, restitue in antiqua pascua; eritque in
+loco baptismi, impositio manuum : etenim per
+impositionem manuum nostrarum, Spiritus san-
+ctus dabatur credentibus. Et si quis fratrum nun-
+quam prolapsus, reprehenderit te, quod huic sis
+reconciliatus, dicito ei : ‹ Tu semper mecum es, et
+mea omnia tua sunt : epulari autem et gaudere
+oportebat, quia frater tuus hic mortuus erat, et
+revixit, perierat, et inventus est ⁵³ . › Nam quod
+Deus non solum ignoscat pœnitentibus, sed et eos
+in pristinam dignitatem restituat, abunde testatur
+
+# block=2
+Εἰ δέ τις ἐπιστραφεὶς μετανοίας καρπὸν ἐπιδεί-
+ξηται, τότε καὶ εἰς προσευχὴν εἰσδέξασθε αὐτόν· ὡς
+τὸν υἱὸν τὸν ἀπολωλότα, τὸν ἄσωτον, τὸν μετὰ
+πορνῶν μειώσαντα τὴν πατρικὴν οὐσίαν, τὸν χοίρους
+βόσκοντα, καὶ κερατίων ἐμπλησθῆναι ἐπιθυμοῦντα,
+καὶ μὴ τυγχάνοντα, μεταγνόντα καὶ παλινδρομή-
+σαντα πρὸς τὸν πατέρα, καὶ εἰπόντα· « Ἥμαρτον εἰς
+τὸν οὐρανὸν καὶ ἐνώπιόν σου, καὶ οὐκέτι εἰμὶ ἄξιος κα-
+λεῖσθαι υἱός σου,» μετὰ μουσικῶν ὁ φιλότεκνος πατὴρ
+προσελάβετο, καὶ τὴν ἀρχαίαν στολὴν, καὶ τὸν δακτύ-
+λιον, καὶ τὰ ὑποδήματα ἀποδοὺς, σφάξας τε τὸν σιτευ-
+τὸν μόσχον ηὐφραίνετο μετὰ τῶν φίλων. Οὕτως οὖν
+καὶ σὺ ποίει, ὦ ἐπίσκοπε· ἀλλ' (45) ὥσπερ τὸν ἐθνι-
+κὸν λούσας εἰσδέχῃ μετὰ τὴν διδασκαλίαν, οὕτω καὶ τοῦ-
+τον χειροθετήσας (46), ὡς ἂν μετανοίᾳ κεκαθαρμένον,
+πάντων ὑπὲρ αὐτοῦ προσευχομένων, ἀποκαταστήσεις
+αὐτὸν εἰς τὴν ἀρχαίαν αὐτοῦ νομήν· καὶ ἔσται αὐτῷ
+ἀντὶ τοῦ λούματος ἡ χειροθεσία· καὶ γὰρ διὰ τῆς ἐπι-
+θέσεως τῶν ἡμετέρων χειρῶν ἐδίδοτο Πνεῦμα ἅγιον
+τοῖς πιστεύουσι. Κἂν τις τῶν μὴ σεσαλευμένων ἀδελ-
+φῶν αὐτοῦ ἐπεγκαλέσῃ σοι, ὅτι δὴ κατηλλάγης αὐτῷ,
+εἰπὲ πρὸς αὐτόν· « Σὺ πάντοτε μετ' ἐμοῦ εἶ, καὶ τὰ
+ἐμὰ πάντα σά ἐστιν· εὐφρανθῆναι δὲ ἔδει καὶ χαρῆναι,
+ὅτι ὁ ἀδελφός σου οὗτος νεκρὸς ἦν, καὶ ἀνέζησε, καὶ
+ἀπολωλὼς, καὶ εὑρέθη. » Ὅτι γὰρ οὐ μόνον προσδέ-
+χεται ὁ Θεὸς τοὺς μετανοοῦντας, ἀλλὰ καὶ εἰς τὴν
+προτέραν ἀξίαν ἀποκαθίστησιν (47), ἱκανὸς μάρτυς ὁ
+
+# block=4
+CAPUT XLI.
+
+# block=5
+⁵² Luc. xv, 18, 19. ⁵³ Ibid. 31, 32.
+
+# block=6
+ΚΕΦΑΛΑΙΟΝ ΜΑ'.
+
+# block=7
+Quomodo oporteat recipere pœnitentem, et quomodo
+agere cum peccatoribus, et quando ab Ecclesia ab-
+scindere.
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=9
+(45) Ἀλλ'. Καί alter cod. Vind. CLER.
+(46) Χειροθετήσας. Hæc est impositio manuum
+reconciliatoria ; de qua etiam cap. 18 et 43, quan-
+que sæpe Patres, sæpe concilia commemorant. In-
+signiter S. Cyprianus epist. 9 : Nam cum in minori-
+bus peccatis agant peccatores pœnitentiam justo tem-
+pore, et secundum disciplinæ ordinem ad Exomolo-
+gesin veniant, et per manus impositionem episcopi et
+cleri jus communicationis accipiant ; nunc crudo tem-
+pore, persecutione adhuc perseverante, nondum resti-
+tuta Ecclesiæ ipsius pace, ad communicationem ad-
+mittuntur, et offertur nomen eorum, et nondum pœ-
+nitentia acta, nondum exomologesi facta, nondum
+manu eis ab episcopo et clero imposita, Eucharistia
+illis datur. Optatus post medium libri ɪɪ : Dum ma-
+num imponitis et delicta donatis. Concilium Cartha-
+ginense 4, canone 76 : Is qui pœnitentiam in infir-
+mitate petit, si casu, dum ad eum sacerdos invitatus
+venit, oppressus infirmitate obmutuerit, vel in phrene-
+sim versus fuerit, dent testimonium qui eum audie-
+runt, et accipiat pœnitentiam. Et si continuo creditur
+moriturus, reconcilietur per manus impositionem, et
+infundatur ori ejus Eucharistia. Si supervixerit, ad-
+moneatur a supra dictis testibus, petitioni suæ satis-
+factum, et subdatur statutis pœnitentiæ legibus, quan-
+diu sacerdos, qui pœnitentiam dedit, probaverit. Et ca-
+non 3 concilii Arausicani 1 : Qui recedunt de corpore
+pœnitentia accepta, placuit sine reconciliatoria manus
+impositione eis communicari : quod morientis sufficit
+consolationi, secundum definitiones Patrum, qui hujus-
+
+# block=10
+Ὅπως δεῖ προσίεσθαι τὸν μετανοοῦντα, καὶ ὅπως
+διαγίνεσθαι πρὸς τοὺς ἁμαρτάνοντας, καὶ πότε
+ἐκκόπτειν τῆς Ἐκκλησίας.
+
+# block=14
+modi communionem congruenter viaticum nomina-
+runt. Quod si supervixerint, stent in ordine pœniten-
+tium, et ostensis necessariis pœnitentiæ fructibus,
+legitimam communionem cum reconciliatoria manus
+impositione percipiant. COT.
+(47) Εἰς τὴν προτέραν ἀξίαν ἀποκαθίστησιν.
+Et lib. ᴠɪɪɪ, cap. 9. Cum Cypriano, epist. 19, Euse-
+bio, apud Damascenum lib. ɪɪ Parallelorum cap.
+86, et iis qui pœnitentiam secundum baptismum,
+baptismum lacrymarum, baptismum pœnitentiæ
+appellant. Quin etiam Chrysostomus Parænesi 1, ad
+Theodorum lapsum, Palladius Historiæ Lausiacæ
+cap. 140, et Joannes Climacus Scalæ gradu 5,
+p. 127, afferunt quosdam pœnitentia acta sanctiores
+exstitisse, quam fuerant antequam deliquissent,
+atque felicitate ac pietate superasse eos qui in ju-
+stitia baptismali perseveraverant. Scribitque La-
+ctantius lib. v, cap. 13 : Cum et Deo satisfacere
+liceat ; et nullus sit tam malus Dei cultor, qui data
+facultate, ad placandum Deum non revertatur, et
+quidem devotione majori. Peccati enim conscientia,
+et metus pœnæ religiosiorem facit ; et semper multο
+firmior est fides, quam reponit pœnitentia. Sed alia
+videtur fuisse Ecclesiæ mens, cum laicos lapsos ab
+ordinibus sacris exclusit, clericos vero pœnitentes
+pristinis gradibus non restituit; item concilii Elibe-
+ritani, quod canone 38, jus baptizandi in necessi-
+tate tribuit solummodo fidelibus qui lavacrum
+suum integrum habent. Subscribit quoque Athana-
+sius in illud, Quicumque dixerit, etc. Edit. Paris.,
+
+# block=15
+696
+
+# block=16
+695
+
+# block=17
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.

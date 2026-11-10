@@ -1,0 +1,224 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,288,513,1044,1031
+2,285,2308,1037,2711
+3,281,1472,1032,2311
+4,1075,515,1839,1032
+5,1066,2073,1819,2442
+6,288,1093,1048,1215
+7,1077,1092,1827,1216
+9,1065,2438,1816,2678
+10,1070,1680,1822,2072
+11,287,1249,1827,1358
+12,294,158,1049,370
+13,1072,1477,1824,1682
+14,1336,475,1580,510
+15,650,99,1420,142
+17,915,1398,1218,1439
+18,568,1044,776,1104
+19,1288,1040,1610,1086
+20,576,470,764,508
+21,292,380,1850,452
+22,1080,158,1838,378
+23,278,82,368,144
+24,1770,110,1852,154
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=16px
+# block=24 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=23
+227
+
+# block=15
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=24
+228
+
+# block=12
+comedetis : si autem nolueritis, neque audieritis me,
+gladius devorabit vos : os enim Domini locutum est
+hæc ⁶⁷. Omnes itaque dilectos suos volens pœni-
+tentiæ fieri participes, omnipotente sua voluntate
+firmavit.
+
+# block=22
+αἱ ἁμαρτίαι ὑμῶν ὡς φοινικοῦν, ὡς χιόνα λευκα-
+νῶ· ἐὰν δὲ ὦσιν ὡς κόκκινον, ὡς ἔριον λευκα-
+νῶ. Καὶ ἐὰν θέλητε, καὶ εἰσακούσητέ μου, τὰ
+ἀγαθὰ τῆς γῆς φάγεσθε· ἐὰν δὲ μὴ θέλητε, μηδὲ
+εἰσακούσητέ μου, μάχαιρα ὑμᾶς κατέδεται· τὸ
+
+# block=21
+γὰρ στόμα Κυρίου ἐλάλησε ταῦτα. Πάντας οὖν τοὺς ἀγαπητοὺς αὐτοῦ βουλόμενος μετανοίας με-
+τασχεῖν, ἐστήριξε τῷ παντοκρατορικῷ βουλήματι αὐτοῦ.
+
+# block=20
+CAPUT IX.
+
+# block=14
+ΚΕΦΑΛΑΙΟΝ Θ'.
+
+# block=1
+Quare obsequamur magnificæ et gloriosæ illius
+voluntati, et supplices illius misericordiæ ac be-
+nignitati procidamus; et convertamur ad misera-
+tiones ejus, relictis vanis operibus, contentione,
+et quæ ad mortem ducit, æmulatione. ⁶⁸ Fixis ocu-
+lis, eos intueamur, qui magnificæ ejus gloriæ per-
+fecte servierunt. Sumamus Enoch ⁶⁹, qui in obe-
+dientia justus repertus, translatus fuit, et non
+inventa est mors illius. Noe ⁷⁰ fidelis inventus, per
+ministerium suum regenerationem (65) mundo præ-
+dicavit; et per eum Dominus conservavit animalia,
+cum concordia in arcam ingressa.
+
+# block=4
+Διὸ ὑπακούσωμεν (61) τῇ μεγαλοπρεπεῖ καὶ ἐν-
+δόξῳ βουλήσει αὐτοῦ, καὶ ἱκέται γενόμενοι τοῦ
+ἐλέους καὶ τῆς χρηστότητος αὐτοῦ, προσπέσωμεν καὶ
+ἐπιστρέψωμεν ἐπὶ τοὺς οἰκτιρμοὺς αὐτοῦ, ἀπολι-
+πόντες τὴν ματαιοπονίαν (62), τήν τε ἔριν, καὶ τὸ εἰς
+θάνατον ἄγον ζῆλος (63). Ἀτενίσωμεν (64) εἰς τοὺς
+τελείως λειτουργήσαντας τῇ μεγαλοπρεπεῖ δόξῃ αὐτοῦ.
+Λάβωμεν Ἐνὼχ, ὃς ἐν ὑπακοῇ δίκαιος εὑρεθεὶς, μετ-
+ετέθη, καὶ οὐχ εὑρέθη αὐτοῦ θάνατος. Νῶε πιστὸς
+εὑρεθεὶς, διὰ τῆς λειτουργίας αὐτοῦ παλιγγενεσίαν κό-
+σμῳ ἐκήρυξε (66), καὶ διέσωσε δι’ αὐτοῦ ὁ Δεσπότης τὰ
+εἰσελθόντα ἐν ὁμονοίᾳ ζῶα εἰς τὴν κιβωτόν.
+
+# block=19
+ΚΕΦΑΛΑΙΟΝ Ι'.
+
+# block=18
+CAPUT X.
+
+# block=7
+Ἀβραὰμ, ὁ φίλος (67) προσαγορευθεὶς, πιστὸς εὑρέ-
+θη, ἐν τῷ αὐτὸν ὑπήκοον γενέσθαι τοῖς ῥήμασι τοῦ Θεοῦ.
+Οὗτος δι’ ὑπακοῆς ἐξῆλθεν ἐκ τῆς γῆς αὐτοῦ, καὶ ἐκ τῆς
+
+# block=6
+Abraham amicus ⁷¹ vocatus, inventus est fidelis,
+quando dictis Dei obtemperans fuit. Hic per obe-
+dientiam exiit de terra sua, et de cognatione sua,
+
+# block=11
+⁶⁷ Isa. I, 16, 20. ⁶⁸ Clem. Alex., Strom. lib. IV, pag. 516 sequentia nummatim perstringit. ⁶⁹ Gen.
+v, 24. Eccli. xliv, 16 ; Heb. xi, 5. ⁷⁰ Gen. vi, 8 ; vii, 1. Eccl. xliv, 17 ; Heb. xi, 7 ; I Petr. iii, 20 ;
+II Petr. ii, 5. ⁷¹ II Paral. xx, 7 ; Judith viii, 22 ; apud Lat. Interp. Isa. xli, 8 ; Jac. ii, 23.
+
+# block=17
+VARIORUM NOTÆ.
+
+# block=3
+tur tertia lectio, eaque corrupta. Qui enim lib. I
+ad uxorem cap. ult. recte verterat : Et venite, dis-
+putemus; in lib. IV, adversus Marcionem cap. 14,
+vitiosis fultus libris, interpretatur : Et venite, con-
+ciliemur, quod est διαλλαχθῶμεν : atque id verbi
+restituendum forsan Chrysostomo in illud, Vidua
+eligatur non minus sexaginta annorum, etc., ubi
+locum prophetæ adducit, exponitque per καταλλάτ-
+τεσθαι, et καταλλάξαι. Porro dum Isaiæ testimonium
+apud sanctos Patres quæro, duo loca depravata in-
+veni, de quibus admonere non erit supervacaneum.
+Nempe Irenæi ac Luciferi. Ille lib. IV Adversus
+hæreses, cap. 32, ait : Lavamini, etc. Non enim sic-
+ut mutus homo, ut multi audent dicere, divertit
+(hoc est, aversatur) eorum sacrificium; sed mise-
+rans eorum cæcitati, etc. Quid sibi vult, mutus ho-
+mo? Conjiciebam, iratus homo, fundum conjecturæ
+habens antecedentia et subsequentia. Præcedit :
+Deinde ne quis putet, propterea quod irasceretur, eum
+recusare hæc, infert consilium ei dans. Sequitur :
+Si enim irascens, abnueret hæc eorum sacrificia.
+Juxta Luciferum lib. I, ad Constantium imperato-
+rem, pro S. Athanasio, verba prophetica esse de-
+bent : Lavamini, mundi estote, auferte malitias ab
+animis vestris, non ab inimicis vestris. COT.
+
+# block=13
+(62) Ματαιοπονίαν. Forte ματαιολογίαν. ID.
+(63) Καὶ τὸ... ἄγον ζῆλος. Lege καὶ τὸν... ἄγοντα
+ζῆλον. Vocem ζῆλος mascul. genere, ut par est, su-
+mit S. Pater sup., cap. 3 et 5; licet per hanc fere
+Epistolam eamdem vocem neutro genere expresserit
+librarius, ut Mill. et Wott. observatum.
+
+# block=10
+(64) Ἀτενίσωμεν, etc. Hæc confer cum Clemente
+Alexandrino, p. 516, Strom., lib. IV, a verbis,
+ἀτενίσωμεν οὖν εἰς τοὺς τελείως λειτουργήσαντας,
+etc., et agnosces, pie Lector, mecum ex illo inter-
+polatam fuisse dulcissimam epistolam, atque inter-
+polatorem sedulo cavisse, ut longa esset magis
+quam μεγάλη τε καὶ θαυμασία, quibus laudibus eam
+ornat Eusebius. EDUARD. BERN.
+(65) Qua scil. per baptismum renascimur. Rege-
+nerationis ejusdem symbolum fuisse arcam, qua
+Noe servatus est, etiam I Petri III, 20, notatur.
+COUST.
+
+# block=5
+(66) Παλιγγενεσίαν κόσμῳ ἐκήρυξε. Regene-
+ratio quæ fit per baptismi lavacrum, operante Spi-
+ritu sancto, παλιγγενεσίας nomine hoc loco intelli-
+genda non est, sed generis humani instauratio, et
+generatio nova : atque hoc sensu apud Philonem
+Judæum, et alios reperitur. Locus etiam Matthæi,
+xix, 28, ἐν τῇ παλιγγενεσίᾳ, sic interpretandus est,
+cum, scilicet, cælum, terra, et mare præterierint,
+ut est Apoc. xxi, et qui throno insidet nova om-
+nia creabit, οὐρανὸν καινὸν, γῆν καινὴν, καὶ καινὰ
+πάντα. JUN.
+
+# block=2
+(61) Ὑπακούσωμεν. Hanc esse veram ms. lectio-
+nem testatur Wott. Sic quoque legerunt Mill. et
+Grab. qua sane voce utitur S. Pater, cap. 7 et 10,
+alibi sæpius. Editi ad unum omnes Junium secuti,
+ἐπακούσωμεν. ID. — Διὸ ἐπακούσωμεν. Dominus
+Boisius ὑπακούσωμεν legendum monuit, cujus con-
+jecturæ ego libens subscribo, licet interdum ἐπα-
+κούειν pro ὑπακούειν usurpetur, ut Is. xlv: Ἐπα-
+κοῦσαι ἔμπροσθεν αὐτοῦ ἔθνη, et tertio casui jun-
+ctum reperiatur apud LXX, sed sensu diverso, ut
+Prov. xv, 32: εὐχαῖς δὲ δικαίων ἐπακούει, et Gen. xvi,
+11: ὅτι ἐπήκουσε ὁ Κύριος τῇ ταπεινώσει σου. JUN.
+
+# block=9
+(67) Ἀβραὰμ ὁ φίλος. Add. cum Jun. τοῦ Θεοῦ.
+Sic et Clem. Alex. l. c. hæc verba exscribens. Dav.
+tamen legit : Ἀβραὰμ Θεοῦ φίλος, putans ex voce
+ΘΥ facile manasse Ο. Vide infra, cap. 17. GALL. —
+Ἀβραὰμ ὁ φίλος προσαγορευθείς. Forte τοῦ Θεοῦ
+addendum, ut est Jac. II, 23, καὶ φίλος Θεοῦ
+ἐκλήθη. JUN.

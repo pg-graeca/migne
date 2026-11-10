@@ -1,0 +1,187 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1006,1135,1755,1603
+2,218,1048,974,1595
+3,218,2042,968,2704
+4,228,142,976,1042
+5,217,1624,1754,1732
+6,218,1811,961,2044
+7,996,1812,1748,2704
+8,1008,146,1762,1124
+9,637,89,1339,125
+10,819,1749,1117,1782
+11,237,92,306,130
+12,1670,88,1764,128
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=16px
+# block=10 fontSize=15px
+# block=11 fontSize=16px
+# block=12 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+1268
+
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=11
+1267
+
+# block=4
+cere. Postea enim quam gustavere de ligno, ipse
+Deus testatur dicens ad reliquos deos : Ecce Adam
+factus est sicut unus ex nobis 39. Sic ergo constat
+multos esse deos qui hominem fecerint, quia et
+initio ita dicit Deus ad cæteros deos : Faciamus
+hominem ad imaginem et similitudinem nostram ⁴⁰.
+Sed et quod ait : Ejiciamus eum ⁴¹ (73). Et iterum :
+Venite descendentes confundamus linguas eorum ⁴².
+Omnia hæc multos esse indicant deos. Sed et illud
+scriptum est : Deos non maledices, et principem po-
+puli tui non maledices ⁴³. Et rursum quod scriptum
+est : Dominus solus ducebat eos, et non erat cum
+illis Deus alienus ⁴⁴, multos esse ostendit deos. Sunt
+et alia plurima quæ proferri possunt ex lege testi-
+monia, non solum obscuriora, sed et manifesta,
+quibus multi esse doceantur dii. Ex quibus unus,
+ut Judæorum populo Deus esset, sorte electus est.
+Ego autem non hunc assero, sed illum qui etiam
+hujus Deus est, quem nec ipsi quidem Judæi no-
+runt. Neque enim ipsorum est deus, sed eorum
+qui agnoverunt eum.
+
+# block=8
+quod etiam si multi sunt dii, ut dicis, Judæorum
+Deo subditi sunt, cui neque æqualis quisquam,
+neque major esse potest; scriptum est enim, quod
+ita dicat ad Judæos Moyses propheta : Dominus
+Deus vester hic est Deus deorum, et Dominus domi-
+norum, Deus magnus ⁴⁵. Ita etiamsi multi sunt qui
+dicuntur dii, unus est tamen omnium Judæorum
+Deus, qui et deorum Deus dictus est. Neque enim
+quicunque dictus fuerit Deus, continuo Deus est.
+Denique et Moyses deus dicitur Pharaonis ⁴⁶, et
+certum est eum hominem fuisse. Et judices dii ap-
+pellati sunt, et constat eos fuisse mortales. Simu-
+lacra quoque gentium dii appellantur, et omnes
+scimus, quia non sunt, sed impiis quasi pro pœna
+hoc datum est, ut quia verum Deum cognoscere
+noluerunt, quæcunque eis forma et imago occur-
+risset, haberetur ab eis Deus. Quoniam ⁴⁷ unius,
+ut dixi, qui est omnium Deus, agnitionem suscipere
+recusarunt, ideo ergo conceditur eis illos habere
+deos, qui præstare supplicantibus nihil possunt.
+Quid enim aut exanima simulacra conferre homi-
+nibus queant aut animantia, cum potestas omnium
+apud unum sit?
+
+# block=2
+XL. His auditis Petrus : Nihil, inquit, verearis
+Simon; ecce enim neque aures clausimus; neque
+fugimus, sed ad ea quæ falso prosecutus es, veri-
+tatis sermonibus respondemus, illud primo asse-
+rentes, quia unus est Deus, hic ipse Judæorum,
+qui est solus Deus, cœli creator ac terræ, qui et
+omnium etiam quos dicis deorum Deus est. Si ergo
+ostendero nullum esse hoc superiorem, sed ipsum
+esse super omnia, fateberis errorem tuum esse
+super omnia. Et Simon : Quid enim, inquit,
+etiamsi ego nolim fateri, qui assistunt auditores,
+nonne me argumentum nolentem quæ vera sunt profiteri ?
+XLI. Ausculta ergo, ait Petrus, ut scias primo,
+
+# block=1
+XLII. Tribus igitur modis Deus quis dicitur, vel
+'quia vere est, vel quia ei qui vere est, ministrat, et
+ob honorem mittentis, ut plena sit ejus auctoritas,
+hoc dicitur iste qui missus est, quod est ille qui
+misit, ut sæpe factum est de angelis, qui tamen
+cum apparuerint homini ⁴⁸, si sit prudens et eru-
+ditus vir, interrogat ejus qui apparuit nomen, ut
+simul et honorem missi et auctoritatem mittentis
+agnoscat. Est enim uniuscujusque gentis ange-
+lus (74), cui credita est gentis ipsius dispensatio
+a Deo, qui tamen cum apparuerit, quamvis putetur
+
+# block=5
+³⁹ Ibid. 22. ⁴⁰ Gen. I, 26. ⁴¹ Gen. III, 22. ⁴² Gen. XI, 7. ⁴³ Exod. XXII, 28. ⁴⁴ Deut. XXXII,
+12. ⁴⁵ Deut. X, 17. ⁴⁶ Exod. VII, 1. ⁴⁷ Quoniam — apud unum sit desunt in utroque cod. Lips.
+⁴⁸ Codd. Lipss. : qui tamen apparuere hominibus Sed et sancti, etc. Reliqua desunt.
+
+# block=10
+COTELERII NOTÆ.
+
+# block=6
+(73) Ejiciamus eum. Clementin. III, 39; Epitom.
+37, Cedren. p. 171, l. 20. Facile mihi persuaserim,
+additum id fuisse loco Genes. III, 22, ob pendentem
+sententiam : Nunc ergo ne forte mittat manum suam,
+et sumat etiam de ligno vitæ, et comedat, et vivat in
+æternum. Simile quippe additamentum complecti-
+tur versio Arabica : Oportet ut exeat ex horto.
+
+# block=7
+num tamen epistola 2 adversus Novatianos, ponere
+linguas CXX, nisi sit scribendum parva mutatione,
+LXX. Euphoro autem, vel Ephoro aliisque multis hi-
+storicis apud Clementem Alexandrinum Strom. I,
+pag. 358, gentes et linguas esse LXXV. III. Unum
+illum in archangelis maximum, cui data sit dispen-
+satio populi Dei, videri esse Michaelem; ex Danie-
+lis X, 13, 21; XII, 1, ac ex Dionysio De cælesti hie-
+rarchia cap. 9. Ὧ Μιχαὴλ πρωτάγγελε, inquit Mi-
+chael Syncellus Laudatione in cælestes virtutes. Et
+in Oratione Nicetæ De laudibus Michaelis et Gabrie-
+lis, vocantur illi, τῆς ἀρχαγγελικῆς τάξεως ταξιάρ-
+χαι, καὶ πάσης ἀγγέλων δημαγωγοὶ χοροστασίας. IV.
+Verba citata e Deuteronomio leviter depravata legi
+in Victorino ad Apocalypsim; Theodorito Hæret.
+fabul., lib. V, cap. 7, et Maximo ibi supra. V. Deni-
+que observari meretur fragmentum Regii codicis
+1648, De linguis et gentibus 72, et conferri cum Eu-
+sebio, Epiphanio, Chronico Alexandrino, Georgio
+Syncello, etc. Subjicio illud, levibus vitiis purga-
+tum.
+Κωνσταντῖνος ὁ χαρτοφύλαξ ἐν τῷ ἐγκωμίῳ τῶν
+ἁγίων πάντων τὰς οϐ′ γλώσσας ὠνόμασεν
+οὕτω·
+Ἔλληνες ἅμα καὶ βάρϐαροι, Μακεδόνες καὶ Θεττα-
+λοὶ, Παίονες καὶ Ἰλλυρικοὶ, Ἀθηναῖοι καὶ Ἀργεῖοι καὶ
+Λάκωνες, καὶ οἱ τὸν Εὔξεινον πόντον περικαθήμενοι·
+
+# block=3
+(74) Est enim uniuscujusque gentis angelus. Ad
+hæc et sequentia observare oportet non pauca. I.
+Quod angeli ἐθνάρχαι hic dicantur angeli boni, et
+lib. VIII, cap. 51, 56, angeli mali, id esse ex doctrina
+Origenis et Hieronymi, qui gentibus utrosque ange-
+los præponunt. Certe textum LXX, Deuteron. XXXII,
+8·: Ὅτε διεμέριζεν ὁ Ὕψιστος ἔθνη, ὡς διέσπειρεν
+υἱοὺς Ἀδάμ, ἔστησεν ὅρια ἐθνῶν κατὰ ἀριθμὸν ἀγγέ-
+λων θεοῦ· Quando dividebat Altissimus gentes, quan-
+do disseminavit filios Adæ; constituit terminos gen-
+tium secundum numerum angelorum Dei; ad quem
+in hoc capite respicitur, Maximus enarrans cap. 9
+Cælestis hierarchiæ, cum aliis pluribus explicat de
+sanctis angelis; auctor vero Operis imperfecti in
+Matthæum ad cap. XXIV, vers. 9, seu homilia 48,
+De malignis; nec multum diverse Rufinus Exposi-
+tione in Symbolum apostolorum. II. De LXX seu
+LXXII nationibus (de quibus Horus Apollo lib. 1,
+cap. 14), totidemque angelis præfectis, et linguis,
+veteres Christianos et Judæos consentire : Pacia-

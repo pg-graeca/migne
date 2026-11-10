@@ -1,0 +1,164 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,980,131,1742,1738
+2,192,1904,939,2707
+3,191,134,946,1739
+4,792,1852,1090,1889
+5,608,79,1339,117
+8,973,1900,1737,2708
+9,195,82,269,124
+10,1651,78,1733,124
+11,233,1750,1639,1808
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=980 source_y1=131 source_x2=1742 source_y2=1738
+attentione orent dicentes : Kyrie eleison. Diaconus
+vero pro eis precetur, dicens : Pro catechumenis
+omnes Deum invocemus; ut, qui bonus ac homi-
+num amans est, benigne exaudiat eorum obsecra-
+tiones ac preces ; et, suscepta eorum supplicatione,
+opem illis ferat, detque petitiones cordis ipsorum,
+prout eis expedit; revelet eisdem Evangelium
+Christi sui; illuminet eos ac instituat ; erudiat co-
+gnitione ac religione divina ; doceat mandata sua
+et justificationes ; inserat in eis castum ac saluta-
+rem timorem suum; aperiat aures cordis eorum,
+ut in ejus lege die ac nocte occupentur; et confir-
+met eos in pietate; adunet atque annumeret eos
+sancto suo gregi, donatis iis lavacro regeneratio-
+nis, indumento immortalitatis, vera vita; ⁴⁴ liberet
+vero illos ab omni impietate, et non det locum ad-
+versario contra illos; mundet autem ipsos ab omni
+inquinamento carnis et spiritus ⁴⁵; inhabitetque in
+eis ac inambulet, per Christum suum ⁴⁶; benedicat
+introitus ac exitus eorum ⁴⁷, atque proposita mode-
+retur iis ad commodum. Adhuc intente pro illis
+supplicemus, ut, remissionem delictorum consecuti
+per baptismi initiationem, digni fiant sanctis my-
+steriis, et permansione cum sanctis. Surgite, cate-
+chumeni. Pacem Dei. per Christum ejus petite;
+diem quietum, ac sine peccato, itidem omne tem-
+pus vitæ vestræ; mortem Christianam; propitium
+ac benevolum Deum; veniam delictorum. Vos ipsos
+soli Ingenito Deo, per Christum ejus, commendate.
+Inclinatc, et accipite benedictionem. Porro, in sin-
+gulis horum quæ diaconus proloquitur, ut jam
+diximus, populus respondeat : Kyrie, eleison; et
+ante cunctos pueri. Catechumenis autem capita in-
+clinantibus, episcopus ordinatus benedicat eis bene-
+dictione hujusmodi : Deus omnipotens, ingenitus
+et inaccessus, solus verus Deus, Deus et Pater
+Christi tui unigeniti Filii tui, Deus Paracleti, ac
+
+# block=2 source_x1=192 source_y1=1904 source_x2=939 source_y2=2707
+missa : Πολλοὶ μὲν τινες καὶ ἄλλοι τῶν τοὺς ἱεροὺς
+ἀποστόλους διαδεξαμένων θεῖοι ποιμένες καὶ διδάσκα-
+λοι τῆς Ἐκκλησίας, τὴν τῆς μυστικῆς λειτουργίας ἔχ-
+θεσιν ἐγγράφως καταλιπόντες, τῇ Ἐκκλησίᾳ παραδε-
+δώκασιν· ἐξ ὧν δὲ πρῶτοι οὗτοι καὶ διαπρύσιοι τυγ-
+χάνουσιν, ὅ τε μακάριος Κλήμης, ὁ τοῦ κορυφαίου τῶν
+ἀποστόλων μαθητὴς καὶ διάδοχος, αὐτῷ τῶν ἱερῶν
+ἀποστόλων ὑπαγορευσάντων, etc. Multi quidem et
+alii divini Ecclesiæ pastores et doctores qui sacris
+successerunt apostolis, mysticæ missæ expositionem
+scriptis demandantes tradiderunt Ecclesiæ : quorum
+primi iique præclarissimi sunt hi : beatus nimirum
+Clemens, principis apostolorum discipulus et succes-
+sor, qui sacris apostolis ei dictantibus, illam edidit,
+etc. Similiaque Nicolaus Methonensis. At cardina-
+lis Bessarion, scribens de sacramento eucharistiæ,
+profitetur liturgiam Clementis inter apocrypha
+commemorari solere. Et vero quia monitore nemo
+indiget de conferendis inter se variis liturgiis, sua-
+debo tantum ut in hoc capite adeatur Chrysosto-
+mus homil. 2, in II ad Corinthios, cum Augustino
+epist. 107 et 119, necnon Basilius ep. 241, ubi κη-
+ρύγματα ἐκκλησιαστικὰ nuncupat, quæ hic et alibi
+dicuntur προσφωνήσεις. Cot.—Ἡ θεία λειτουργία
+
+# block=3 source_x1=191 source_y1=134 source_x2=946 source_y2=1739
+κατὰ διάνοιαν ὑπὲρ αὐτῶν προσευξάσθωσαν, λέγοντες·
+Κύριε ἐλέησον. Διακονείτω δὲ ὑπὲρ αὐτῶν, λέγων·
+Ὑπὲρ τῶν κατηχουμένων πάντες (3) τὸν θεὸν παρα-
+καλέσωμεν, ἵνα ὁ ἀγαθὸς, φιλάνθρωπος, εὐμενῶς εἰσ-
+ακούσῃ τῶν δεήσεων αὐτῶν καὶ τῶν παρακλήσεων,
+καὶ προσδεξάμενος αὐτῶν τὴν ἱκεσίαν ἀντιλάβηται
+αὐτῶν, καὶ δῷ αὐτοῖς τὰ αἰτήματα τῶν καρδιῶν αὐ-
+τῶν πρὸς τὸ συμφέρον, ἀποκαλύψῃ αὐτοῖς τὸ Εὐαγ-
+γέλιον τοῦ Χριστοῦ αὐτοῦ, φωτίσῃ αὐτοὺς καὶ συνε-
+τίσῃ, παιδεύσῃ αὐτοὺς τὴν θεογνωσίαν, διδάξῃ αὐτοὺς
+τὰ προστάγματα αὐτοῦ καὶ τὰ δικαιώματα, ἐγκατα-
+φυτεύσῃ ἐν αὐτοῖς τὸν ἁγνὸν αὐτοῦ καὶ σωτήριον φό-
+βον, διανοίξῃ τὰ ὦτα τῶν καρδιῶν αὐτῶν πρὸς τὸ ἐν
+τῷ νόμῳ αὐτοῦ καταγίνεσθαι ἡμέρας καὶ νυκτός, βε-
+βαιώσῃ δὲ αὐτοὺς ἐν τῇ εὐσεβείᾳ, ἑνώσῃ καὶ ἐγκατα-
+αριθμήσῃ αὐτοὺς τῷ ἁγίῳ αὐτοῦ ποιμνίῳ, καταξιώσας
+αὐτοὺς τοῦ λουτροῦ τῆς παλιγγενεσίας, τοῦ ἐνδύμα-
+τος τῆς ἀφθαρσίας (4), τῆς ὄντως ζωῆς, ῥύσηται δὲ
+αὐτοὺς ἀπὸ πάσης ἀσεβείας, καὶ μὴ δῷ τόπον τῷ ἀλ-
+λοτρίῳ κατ' αὐτῶν, καθαρίσῃ δὲ αὐτοὺς ἀπὸ παντὸς
+μολυσμοῦ σαρκὸς καὶ πνεύματος, ἐνοικήσῃ τε ἐν αὐ-
+τοῖς καὶ ἐμπεριπατήσῃ διὰ τοῦ Χριστοῦ αὐτοῦ, εὐλό-
+γησῃ τὰς εἰσόδους αὐτῶν καὶ τὰς ἐξόδους, καὶ κατ-
+ευθύνῃ αὐτοῖς τὰ προκείμενα εἰς τὸ συμφέρον. Ἔτι
+ἐκτενῶς ὑπὲρ αὐτῶν ἱκετεύσωμεν, ἵνα ἀφέσεως τυ-
+χόντες τῶν πλημμελημάτων διὰ τῆς μυήσεως, ἀξιω-
+θῶσι τῶν ἁγίων μυστηρίων, καὶ τῆς μετὰ τῶν ἁγίων
+διαμονῆς. Ἐγείρεσθε, οἱ κατηχούμενοι. Τὴν εἰρήνην
+τοῦ θεοῦ διὰ τοῦ Χριστοῦ αὐτοῦ αἰτήσασθε, εἰρηνι-
+κὴν (5) ἡμέραν καὶ ἀναμάρτητον καὶ πάντα τὸν χρό-
+νον τῆς ζωῆς ὑμῶν, χριστιανὰ ὑμῶν τὰ τέλη, ἵλεων
+καὶ εὐμενῆ τὸν θεὸν, ἄφεσιν πλημμελημάτων, ἑαυ-
+τοὺς τῷ μόνῳ ἀγεννήτῳ Θεῷ διὰ τοῦ Χριστοῦ αὐτοῦ
+παράθεσθε. Κλίνατε, καὶ εὐλογεῖσθε. Ἐφ' ἑκάστῳ δὲ
+τούτων ὧν ὁ διάκονος προσφωνεῖ, ὡς προείπομεν, λε-
+γέτω ὁ λαός· Κύριε, ἐλέησον· καὶ πρὸ πάντων τὰ παι-
+δία (6). Κλινόντων δὲ αὐτῶν τὰς κεφαλὰς, εὐλογείτω
+
+# block=4 source_x1=792 source_y1=1852 source_x2=1090 source_y2=1889
+VARIORUM NOTÆ.
+
+# block=5 source_x1=608 source_y1=79 source_x2=1339 source_y2=117
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=8 source_x1=973 source_y1=1900 source_x2=1737 source_y2=2708
+ἐν ᾗ. Desunt hæc in cod. Vind. CLER.
+(3) Πάντες. Addit cod. Vind. ἐκτενῶς. ID.
+(4) Τοῦ ἐνδύματος τῆς ἀφθαρσίας. Hinc Grego-
+riam Nazianzenum accepisse suum ἔνδυμα ἀφθαρ-
+σίας orat. 42, pag. 685, adnotat Nicetas : an vere,
+dubito : potuit enim habere ab aliis liturgiis; verbi
+gratia ab illa apud Chrysostomum homil. 2, in II
+ad Corinthios. En Græca Nicetæ e codicibus Regiis :
+Εἴληπται δὲ τὸ ἔνδυμα τῆς ἀφθαρσίας, ἀπὸ τῆς ἐκ-
+ταδίβλου τῆς διὰ Κλήμεντος· Ἵνα γὰρ, φησὶ, καταξιὼ-
+σῃ αὐτοὺς τοῦ λουτροῦ τῆς παλιγγενεσίας, τοῦ ἐνδύ-
+ματος τῆς ἀφθαρσίας. Idem Theologi explanator ad
+orat. 40, n. 4, sic loquitur : Ἀφθαρσίας δὲ ἔνδυμα,
+κατὰ τὰς ἀποστολικὰς διατάξεις, ὡς τῆς αἰσχύνης
+συγκάλυμμα. Συγκαλύπτων γὰρ ταύτην, ἀφθαρσίαν
+ἐνδύει, διὰ τὸ ἀποφαίνειν τὴν ψυχὴν ἄφθαρτον ἀπὸ
+ἁμαρτίας, καὶ καθαρὰν ὡς τὸ ἀπαρχῆς. COT.
+(5) Εἰρηνικήν. Addit cod. Vind. τὴν, non mss.
+CLER.
+(6) Τὰ παιδία. Vel pueri omnes : quemadmodum
+apud Basilium,Homilia in famem et siccitatem, item-
+que Chrysostomum homil. 72 in Matthæum, vel
+pueri sacræ symphoniæ; de quibus multi docue-
+runt, quique in Euchologio R. P. virique doctissi-
+
+# block=9 source_x1=195 source_y1=82 source_x2=269 source_y2=124
+1077
+
+# block=10 source_x1=1651 source_y1=78 source_x2=1733 source_y2=124
+1078
+
+# block=11 source_x1=233 source_y1=1750 source_x2=1639 source_y2=1808
+⁴⁴ Citat Nicetas Serronius. Vide Vet. test. ⁴⁵ II Cor. vii, 1. ⁴⁶ II Cor. vi, 16. ⁴⁷ Psal. cxx, 8.

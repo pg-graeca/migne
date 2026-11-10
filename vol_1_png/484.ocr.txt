@@ -1,0 +1,189 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1056,965,1811,1909
+2,261,1793,1021,2217
+3,1060,533,1812,956
+4,271,398,1024,738
+5,264,748,1022,1785
+6,259,2225,1017,2610
+7,1066,142,1814,523
+8,1055,1917,1804,2128
+9,1052,2133,1813,2256
+10,275,136,1025,388
+11,660,83,1422,120
+12,1052,2263,1802,2607
+13,266,2624,1807,2698
+14,275,82,332,117
+15,1751,88,1813,132
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+367
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=15
+368
+
+# block=10
+mente non potuisse adhiberi? Utramque vocem
+sanctus Clemens in eadem linea usurpat, scribens
+ad Corinthios primam Epistolam, ut jam dixi, sine
+controversia authenticam. « Apostoli, inquit, n. 42,
+missi a Domino Jesu Christo, Evangelium prædica-
+runt. »
+
+# block=7
+magis favere virginitati beatissimæ Mariæ quam
+verba sancti Lucæ. Non facile tamen concipio qui-
+busnam verbis sanctus Lucas clarius exprimere po-
+tuisset Deiparæ virginitatem quam hoc sermone :
+Dixit autem Maria ad Angelum : Quomodo fiet istud,
+quoniam virum non cognosco? Et respondens ange-
+lus, dixit ei : Spiritus sanctus superveniet in te, et
+virtus Altissimi obumbrabit tibi : ideoque et quod
+nascetur ex te sanctum vocabitur Filius Dei 19.
+
+# block=4
+Sed quærit D. de Premagny utrum in versione
+Syriaca reperiantur ista vocabula : Evangelium,
+Apostolus? Respondeo id parvi referre, modo sen-
+sus idem exprimatur. Ut autem curiositati ejus sa-
+tisfaciam, dicam in Syriaco exprimi tantum sensum
+verbi Apostoli, id est missi, et introductum fuisse
+vocabulum Evangelii. Non consulit suæ famæ qui
+has nænias proponit.
+
+# block=3
+IX. Miratur etiam adnotator a sancto Clemente
+adhiberi hæc verba : Dominus noster Jesus Chri-
+tus, Dei Filius. Nunquid igitur insolitæ erant hæ
+voces quæ toties reperiuntur et in Evangelistis et
+in Epistolis apostolorum ? Quod si hæc nondum suf-
+ficiant, remitto adhuc philosophum Rothomagen-
+sem ad Symbolum apostolorum quod Christiani
+omnes, tempore sancti Clementis, recitabant sicut
+et nos, dicentes : Et in Jesum Christum Filium
+ejus unicum Dominum nostrum.
+
+# block=5
+VII. Qui libidine contradicendi abripitur solem
+ipsum splendentem negaret, aut ejus existentiam in
+dubium revocaret. Sic D. de Premagny litem sus-
+citat auctori Epistolarum quia nec præcursorem
+Domini Baptistam appellavit, nec dilectum discipu-
+lum Evangelistam. Inde etiam perpendit utrum am-
+bæ nostræ Epistolæ antecedere potuerint publica-
+tionem et cognitionem Evangelii sancti Joannis. Mi-
+sera prorsus discussio! Si enim antecesserint istæ
+Epistolæ publicationem Evangelii sancti Joannis,
+cur eorum antiquitatem impugnat? Sed, procul du-
+bio, adhuc distractus erat legendo et exscribendo
+has Epistolas : plurics enim ibi sanctus Clemens ci-
+tavit Evangelium sancti Joannis. In solo n. 15 se-
+cundæ Epistolæ, bis hujus Evangelium adduxit : 1°
+Mirati sunt quia cum muliere loquebatur 17 ; 2° Noli
+me tangere : nondum enim ascendi ad Patrem meum 18.
+Cum ergo sanctus Clemens citaverit hoc sancti
+Joannis Evangelium, nonne evidens est illud fuisse
+ante nostras Epistolas scriptum? Hinc etiam patet
+præcursorem Domini a sancto Clemente ut Bapti-
+stam fuisse agnitum : in primo siquidem capite
+Evangelii sancti Joannis, sexies beatus præcursor
+Baptizans appellatur.
+
+# block=1
+Non libenter legit simultaneam trium personarum
+enuntiationem a sancto Clemente expressam. Cur
+vero non æque displicerent ei verba Christi ad appo-
+stolos : Euntes ergo, docete omnes gentes, baptizan-
+tes eos in nomine Patris, et Filii, et Spiritus san-
+cti 20 ? Putatne a discipulis Christi hoc præceptum
+non fuisse fideliter et quotidie observatum? Num
+existimat a primis Christianis non efformatum fuisse
+signum crucis in nomine Patris, et Filii, et Spiritus
+sancti ? Audacter dicit usque ad annum 165 tres
+sanctissimæ Trinitatis personas nunquam fuisse ver-
+bis conjunctas. Fallitur : quotidie enim conjunctæ
+fuerunt in forma baptismatis, et in signo crucis.
+Imo in scriptis sacris et in traditione hujus tempo-
+ris illas unitas fuisse evidenter patet. Satis enim
+clare tres sanctissimæ Trinitatis Personæ expri-
+muntur simul in his beati Pauli verbis ad Corin-
+thios scriptis : Gratia Domini nostri Jesu Christi,
+et charitas Dei, et communicatio sancti Spiritus, sit
+cum omnibus vobis 21 ; et ad eosdem 22 : Confirmat
+nos in Christo, et unxit nos Deus, et signavit nos, et
+dedit pignus Spiritus in cordibus nostris.
+
+# block=2
+VIII. Jam superius dixi ægre concedi posse san-
+ctum Clementem strictiori vinculo cum sancto
+Paulo quam cum sancto Petro ligatum fuisse: com-
+moratio namque sancti Petri Romæ multo diutur-
+nior, necessitudinem quoque multo arctiorem inter
+eos producere debuit : quod fatendum esset, etiamsi
+nihili penderentur tot veterum testimonia quæ sanc-
+tum Clementem sancti Petri comitem fuisse evin-
+cunt, et eum ab hoc apostolo consecratum episco-
+pum unanimiter tradunt.
+
+# block=8
+Non minus clare sanctus Petrus divinas personas
+simul conjunctas enuntiat, dicens : Electis... secun-
+dum præscientiam Dei Patris, in sanctificationem
+Spiritus, in obedientiam et aspersionem sanguinis Je-
+su Christi 22.
+
+# block=9
+Æque aperte sanctus Joannes dicit : Tres sunt
+qui testimonium dant in cœlo : Pater, Verbum et Spi-
+ritus sanctus ; et hi tres unum sunt 24.
+
+# block=6
+Pudet me redarguere quod adnotator tam erro-
+nee profert de vocibus Filii Virginis, quas applicat
+sanctus Clemens Domino nostro Jesu Christo : quasi
+titulus Virginis adhibitus nondum fuisset ad de-
+signandam Genitricem Salvatoris. Nunquid D. de
+Premagny in dubium revocavit authenticitatem
+Symboli apostolici, in quo dicitur : Natus ex Ma-
+ria virgine? Aut nunquid verba hæc quamdam ob-
+scuritatem involvunt? Addit verba sancti Matthæi
+
+# block=12
+Equidem infidelibus primi Christiani non debe-
+bant revelare imprudenter mysteria religionis no-
+stræ, ne ista ab eis deriderentur, et persecutiones
+gratis suscitarentur : ideoque Christus dixerat :
+Nolite dare sanctum canibus, neque mittatis marga-
+ritas ante porcos; ne forte conculcent eas pedibus
+suis, et conversi dirumpant vos 25 ; sed adeo frequens
+erat inter initiatos sanctissimæ Trinitatis invocatio,
+
+# block=13
+¹⁷ Joan. ɪᴠ, 27. ¹⁸ Joan. xxi, 17. ¹⁹ Luc. ɪ, 34, 35. ²⁰ Matth. xxvɪɪɪ, 19. ²¹ II Cor. xɪɪɪ, 13.
+²² II Cor. ɪ, 21. ²³ I Petr. ɪ, 1, 2. ²⁴ I Joan. v, 7. ²⁵ Matth. vɪɪ, 6.

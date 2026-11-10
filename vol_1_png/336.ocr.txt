@@ -1,0 +1,152 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,254,153,1006,883
+2,1042,150,1791,877
+3,256,895,1008,2700
+4,1045,896,1800,2705
+5,784,96,1259,137
+6,256,101,289,141
+7,1740,94,1802,138
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+nes Damascenus lib. ⅳ Orthodoxæ fidei cap. 18,
+et quotquot Bibliorum codicibus utebantur simili-
+bus illi Theclæ, e quo duæ istæ epistolæ prodierunt.
+Accedit huc quod eædem utrobique apparent anti-
+quitatis notæ, eadem interdum verba usurpantur ;
+nec tantam diversitatem habet stylus, quin ab eo-
+dem scriptore variis temporibus diversisque pro
+causis oriri potuerit. Dionysius autem Corinthius
+scribens ad Romanos apud Eusebium lib. ⅳ, c. 23,
+ideo unius tantum epistolæ Clementis mentionem
+facit, quia loquitur de litteris Romanorum nomine
+datis ad Corinthios ; at posterior Clementis, etsi,
+teste Photio, ad Corinthios quoque esset scripta,
+non tamen sicut prior, Ecclesiæ Romanæ nomen,
+sed Romani Pontificis præferebat. Indicatur id ap-
+pellatione, ἀδελφοί μου, quam in secunda non se-
+mel positam invenies, nusquam in priore.
+
+# block=2
+ceperant ( ex Eusebio, Rufino, Nicephoro, atque ex
+sensu scribendum receperat) traditionem, annuntian-
+tem unum Deum omnipotentem, factorem cæli et ter-
+ræ, plasmatorem hominis; qui induxerit cataclysmum,
+et advocaverit Abraham, qui eduxerit populum de
+terra Ægypti, qui collocutus sit Moysi, qui legem
+disposuerit, et prophetas miserit, qui ignem præpara-
+verit diabolo et angelis ejus. Brevem enumerationem
+capitum, in hac Ecclesiæ Romanæ epistola conten-
+torum, sanctus martyr instituit. Ea autem omnia
+adhuc legere est, excepto ultimo, quod dubio pro-
+cul lacuna illa circa finem interjecta complecteba-
+tur. Quis porro non videt, ubi ignis diabolo et an-
+gelis ejus præparatus memorabatur, ibi commode
+potuisse agi de mundi fine, ac de impiorum per
+ignem judicio tunc futuro ; ideoque et Sibyllæ men-
+tio fieri?
+
+# block=3
+Objicit Jacobus Usserius, dissertatione de scri-
+ptis Ignatii, etc., cap. 10 ad hunc modum : Episto-
+la titulo Clementis ad Corinthios ornata, profere-
+bat (quemadmodum ex Quæstionibus ad orthodoxos,
+Justino Martyri tributis, Resp. ad quæst. 74 intel-
+ligimus ) carmina Sibyllina, quæ Clementis tempo-
+ribus posteriora fuerunt ; unde colligitur eam cita-
+tionem cum in priore Clementis epistola nusquam
+compareat, ad alteram referri debere, quæ ejusdem
+nomine falso inscribatur. Infirmum plane argumen-
+tum. Audi verba pseudo-Justini : Εἰ τῆς παρούσης
+καταστάσεως τὸ τέλος ἐστὶν ἡ διὰ τοῦ πυρὸς κρί-
+σις τῶν ἀσεβῶν , καθά φασιν αἱ γραφαὶ προ-
+φητῶν τε καὶ ἀποστόλων, ἔτι δὲ καὶ τῆς Σιβύλ-
+λης, καθώς φησιν ὁ μακάριος Κλήμης ἐν τῇ πρὸς
+Κορινθίους ἐπιστολῇ, etc. Si præsentis rerum sta-
+tus finis est impiorum per ignem judicium, prout
+testantur prophetarum et apostolorum scripta, at-
+que insuper Sibylla ipsius, quemadmodum ait bea-
+tus Clemens in Epistola ad Corinthios, etc. Quæ
+in Gallicam linguam ita vertit David Blondellus
+libro primo De Sibyllis, cap. 20, ac si legisset,
+ἐν τῇ πρώτῃ πρὸς Κορινθίους ἐπιστολῇ. Sed erratum
+est properantis hominis, nimiumque memoria fi-
+dentis. Itaque cum pseudo-Justinus generatim de
+epistolis loquatur, neutra autem ad nos integra per-
+venerit, temere ab Usserio asseveratur res, quam
+nullo modo potuit rescire. Quinimo si divinationi-
+bus indulgere liceat, crediderim in primæ epistolæ
+lacuna ad c. 57 factam Sibyllæ mentionem. Atque
+conjecturæ fundum et auctorem do S. Irenæum
+lib. ⅲ Adversushæreses, cap. 3, ubi hoc pacto dis-
+serit : Sub hoc igitur Clemente, dissensione non mo-
+dica inter eos qui Corinthi essent fratres facta, scri-
+psit quæ est Romæ Ecclesia potentissimas litteras
+Corinthiis, ad pacem eos congregans, et reparans fi-
+dem eorum, et annuntians ( annuntians omittitur in
+Græco apud Eusebium lib. ⅴ, cap. 6 ; et Nicepho-
+rum lib. ⅳ, cap. 15, forte ob similitudinem parti-
+cipiorum ἀνανεοῦσα et ἀναγγέλλουσα. Nam Rufinus
+videtur hoc quoque in Eusebio legisse, dum inter-
+pretatur exprimens) quam in recenti ab apostolis re-
+
+# block=4
+Ait tamen vir perdoctus non licuisse per tempora
+Clementi ex Sibyllinis carminibus, utpote ipso
+posterioribus, testimonium petere. Hoc probandum
+erat, non modo dicendum : quod si constaret, re-
+quirerem prædictarum Quæstionum codices mss.
+num pro καθώς haberent καὶ ὡς aut καὶ καθώς. Verum
+super Sibyllinis versibus exploratum non habetur,
+quando cœperint apud Christianos evulgari. Sub
+apostolis rem contigisse persuaderet, quod a multis
+refertur, Clementem Alexandrinum in ⅵ Stromateo
+(p. 636) recitare verba Pauli apostoli, Græcos seu
+gentiles ad Sibyllæ oracula amandantis ; nisi aut
+Clemens fabulam a quodam apocrypho sumpsisse
+dici posset ; aut potius illius sensum viderentur non
+attigisse homines docti ; quæ quidem mea est opi-
+nio. Eo quippe loci postquam ex Petri prædicatione,
+libro extra canonem posito, affirmavit ὁ Στρωματεὺς,
+Græcis, ut Deum colerent et gloria afficerent, con-
+cessam fuisse philosophiam, quemadmodum eam-
+dem ob causam utrumque Testamentum Judæis et
+Christianis ; ista paulo obscuriora subjicit : Ἐπεὶ
+ὅτι καθάπερ Ἰουδαίους σῴζεσθαι ἐβούλετο ὁ
+Θεὸς, τοὺς προφήτας διδοὺς, οὕτως καὶ Ἑλλήνων
+τοὺς δοκιμωτάτους, οἰκείους αὐτῶν τῇ διαλέκτῳ προ-
+φήτας ἀναστήσας, ὡς οἷοί τε ἦσαν δέχεσθαι τὴν παρὰ
+Θεοῦ εὐεργεσίαν, τῶν χυδαίων ἀνθρώπων διέκρινεν,
+δηλώσει πρὸς τῷ Πέτρου κηρύγματι, ὁ ἀπόστολος
+λέγων Παῦλος. Λάβετε καὶ τὰς Ἑλληνικὰς βίβλους,
+ἐπίγνωτε Σίβυλλαν, ὡς δηλοῖ ἕνα Θεὸν καὶ τὰ μέλ-
+λοντα ἔσεσθαι· καὶ τὸν Ὑστάσπην λαβόντες ἀνάγνω-
+τε, καὶ εὑρήσετε πολλῷ τηλαυγέστερον καὶ σαφέστε-
+ρον γεγραμμένον τὸν Υἱὸν τοῦ Θεοῦ, καὶ καθώς πα-
+ράταξιν ποιήσουσι τῷ Χριστῷ πολλοὶ βασιλεῖς μι-
+σοῦντες αὐτὸν, καὶ τοὺς φοροῦντας τὸ ὄνομα αὐτοῦ,
+καὶ τοὺς πιστοὺς αὐτοῦ, καὶ τὴν ὑπομονὴν, καὶ τὴν
+παρουσίαν αὐτοῦ. Εἶτα ἑνὶ λόγῳ πυνθάνεται ἡμῶν·
+Ὅλος δὲ ὁ κόσμος καὶ τὰ ἐν τῷ κόσμῳ, τίνος ; οὐχὶ τοῦ
+Θεοῦ ; Quæ verba sic accipiunt, quasi λάβετε, etc., sit
+Apostoli exhortatio. At ego illa, ὁ ἀπόστολος λέγων
+Παῦλος, non refero ad consequentia λάβετε, etc., sed
+ad præcedentia, οἰκείους αὐτῶν τῇ διαλέκτῳ προφήτας,
+seu ad versiculum 12 capitis 1 Epistolæ ad Titum, εἶπέ
+
+# block=5
+AD S. CLEMENTEM Ⅰ PAPAM
+
+# block=6
+71
+
+# block=7
+72

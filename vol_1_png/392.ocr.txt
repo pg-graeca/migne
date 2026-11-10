@@ -1,0 +1,230 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,243,1757,1007,2095
+2,250,491,1019,881
+3,1036,972,1803,1228
+4,238,2512,995,2682
+5,1042,493,1805,835
+6,1027,2584,1773,2652
+7,279,1629,996,1750
+8,239,2102,999,2267
+9,238,1014,1007,1226
+10,1030,1928,1804,2052
+11,1040,843,1799,967
+12,1030,2057,1796,2228
+13,1037,1236,1805,1532
+14,1033,1539,1791,1701
+15,234,885,1009,1010
+16,230,2273,991,2410
+17,1026,2413,1790,2584
+18,349,255,1701,320
+19,1031,1709,1801,1921
+20,1027,2282,1792,2387
+21,1057,2384,1577,2419
+22,270,1234,997,1400
+26,788,82,1263,120
+27,616,351,1432,388
+29,277,1406,1001,1620
+30,1738,88,1793,134
+32,244,64,342,130
+33,267,2410,965,2512
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=29px centerRows=true
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=26 fontSize=16px
+# block=27 fontSize=14px
+# block=29 fontSize=15px
+# block=30 fontSize=16px
+# block=32 fontSize=16px
+# block=33 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=32
+183
+
+# block=26
+AD S. CLEMENTEM I PAPAM
+
+# block=30
+184.
+
+# block=18
+DE DUABUS EPISTOLIS CLEMENTIS ROMANI.
+
+# block=27
+(HEFELE, Patrum apostolicorum Opera, Tubingæ, 1842, in-8°.)
+
+# block=2
+1. Clementem Romanum eumdem esse cum eo,
+quem S. Paulus in Ep. ad Philipp. iv, 3, laudibus
+effert (1), jam Origenes (2), Eusebius (3), Epipha-
+nius (4), Hieronymus (5) et alii veterum affirmarunt.
+Quod si res ita se habet, facile apparet, Clementem
+S. Pauli, Philippis in Macedonia secundo itinere
+apostolico a. 53-55 (cfr. Act. xvi) Evangelium præ-
+dicantis, socium ac coadjutorem optime meritum
+fuisse.
+
+# block=5
+daica esse editum. Ipsi primum accessit Coutan-
+tius in celeberrima sua editione Epistolarum Ro-
+manorum pontificum, t. 1, p. 11; postea vero (l.
+c. p. 41) vir doctissimus suam mutavit sententiam.
+Tillemontii sententiam amplexus est Herm. Ve-
+nema, ut exinde argumentum deduceret contra epi-
+stolam posteriorem, cujus scriptor origine gentilem
+aperte se prodit.
+
+# block=11
+Tillemontius addere poterat, Clementem non so-
+lum cap. 4, sed et cap. 31 (ὁ πατὴρ ἡμῶν Ἀβραάμ)
+patriarcham Judæorum patrem nostrum appellare.
+
+# block=15
+Chrysostomus in Commentario ad I Timoth.
+suspicatur, Clementem, pariter ac Lucam et Timo-
+theum, perpetuum itineris comitem divi Pauli fuisse.
+
+# block=3
+Præterea Clemens c. 55 de amore erga patriam
+disputans, exemplis gentium prolatis, ad exempla
+eorum procedit, quos, ut dicit, inter nos cognovi-
+mus. Quibus cum judaicas mulieres, Judith et Es-
+ther, ascribere videatur, ipse in ortus judaici su-
+spicionem incurrit.
+
+# block=9
+Mihi autem Clemens civis urbis Philippensium
+fuisse videtur, qui a Paulo, Philippis morante,
+conversus, ipse præconem Evangelii in opere apo-
+stolico optime adjuvit, Paulo autem abeunte, domi
+remansit, inter suos Christi causam agens.
+
+# block=22
+Pluribus conjectura nostra probari potest.
+a) Cum Paulus Philippos properaret, neminem
+nisi Silam, Timotheum et Lucam comitem
+habuisse videtur. Cfr. Act. xvi.
+
+# block=13
+Sed non valde gravia hæc sunt argumenta. No-
+tum enim est, et alios Patres, quos e gentibus ortos
+esse nemo nescit, justas Veteris Testamenti per-
+sonas suis ascribere majoribus. E. g. Theophilus
+lib. iii ad Autol., n. 24, scribit : Ἀβραὰμ ὁ πα-
+τριάρχης ἡμῶν, n. 27 : Ἀβραὰμ τοῦ προπάτορος
+ἡμῶν, et n. 94 : Δαβὶδ ὁ πρόγονος ἡμῶν.
+
+# block=29
+b) Nullibi sacra Scriptura Clementis meminit,
+apostolum Paulum in itineribus comitantis.
+c) Ex Philipp. iv, 3, clare apparet, tempore
+primæ Pauli captivitatis Romanæ Clementem
+Philippis degisse.
+
+# block=14
+Quod autem memorata capitis 55 exempla atti-
+net, monendum præterea, Clementem fortasse pri-
+mum e gentibus, tum e Christianis, denique e Ju-
+dæis exempla amoris patriæ protulisse.
+
+# block=7
+d) Philipp. iv, 3, Clementis non aliter fit mentio,
+ac eorum, qui cives Philippenses absque du-
+bio fuerunt.
+
+# block=19
+Clementem, apostolorum discipulum, a Clemente
+Alexandrino Apostoli nomine insignitum (6), Ro-
+manæ Ecclesiæ fuisse episcopum, unanimes tradunt
+veteres; sed quotus ordine Romanam insederit ca-
+thedram, vetus et adhuc sub judice lis est.
+
+# block=1
+Quando, ubi et quonam genere ortus fuerit Cle-
+mens noster, nescimus. Liber pontificalis, catalogi
+Romanorum pontificum, S. Eucherius Lugdunen-
+sis et Breviarium Romanum ex Recognitionibus et
+homiliis pseudoclementinis fabulosam illam recepe-
+runt narrationem, quæ Clementi genus Romæ se-
+natorium, patremque Faustinum ex stirpe Cæsa-
+rum vindicat. Talia refutatione non indigent.
+
+# block=10
+1. Clementem immediatum Petri successorem
+fuisse, plerique Latinorum priscis jam temporibus,
+teste Hieronymo (7), affirmarunt.
+
+# block=12
+Eum a Petro ipso fuisse ordinatum, Tertullianus
+addit (8). Hieronymus ipse, quamvis in Catalogo
+Clementem Lino et Anacleto postposuerit, postea
+sententiam mutasse, cæterisque Latinis accessisse
+
+# block=8
+Tillemontius (Mémoires II, p. 149) ex prima Cle-
+mentis epistola, cap. 4 (πατὴρ ἡμῶν Ἰακώβ) col-
+legit, virum nostrum apostolicum ex stirpe Ju-
+
+# block=16
+(1) Καὶ ἐρωτῶ καὶ σὲ, σύζυγε γνήσιε· συλλαμβά-
+νου αὐταῖς, αἵτινες ἐν τῷ εὐαγγελίῳ συνήθλησάν μοι,
+μετὰ καὶ Κλήμεντος καὶ τῶν λοιπῶν συνεργῶν μου,
+ὧν τὰ ὀνόματα ἐν βίβλῳ ζωῆς.
+
+# block=20
+laude Clementem nostrum cumulat, de tali ac tanto
+testimonio (Philipp. iv, 3) ne verbum quidem ha-
+beat.
+
+# block=21
+(6) Strom. iv, 17, p. 609, ed. Pott.
+
+# block=33
+(2) In Joan. i, 29, Opp. t. IV, p. 153, ed. BB.
+(3) H. E. iii, 15.
+(4) Hæres. 26, n. 6.
+
+# block=17
+(7) Catal. script. eccl., c. 15 : Clemens... quartus
+post Petrum Romæ episcopus; siquidem secundus
+Linus fuit, tertius Anacletus, tametsi plerique Latino-
+rum secundum post Petrum apostolum putent fuisse
+Clementem.
+
+# block=4
+(5) Catal. script. eccl., c. 15. Opinionem hanc
+impugnant Gieseler, Lehrb. d. Kirchengesch. I, 121,
+Guerike, Handb. d. K. G. I, 167 et alii, ad quorum
+augendam dubitationem magnum Jacobsonus acce-
+dere putat pondus ex eo, quod Irenæus, qui omni
+
+# block=6
+(8) De præscript. hær., c. 32 : Romanorum (Ec-
+clesia) Clementem a Petro ordinatum edit.

@@ -1,0 +1,175 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,259,141,1011,1445
+2,1040,145,1803,1444
+3,871,1513,1171,1553
+4,657,85,1382,127
+5,247,1603,1012,2705
+6,1034,2531,1785,2670
+9,241,80,325,128
+10,1719,86,1791,132
+11,1035,1602,1785,2530
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+647
+
+# block=4
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10
+648
+
+# block=1
+riæ tuæ, et intolerabilis ira comminationis tuæ in
+peccatores. Immensa vero et impervestigabilis mi-
+sericordia promissionis tuæ. Quoniam tu es Domi-
+nus benignus, longanimis, multum misericors, et
+pœnitens super mala hominum. Quoniam tu Deus,
+secundum indulgentiam bonitatis tuæ, promisisti
+pœnitentiæ remissionem iis qui peccaverunt, et
+multitudine miserationum tuarum decrevisti pœni-
+tentiam peccatoribus, in salutem. Tu igitur, Do-
+mine Deus justorum, non posuisti pœnitentiam
+justis, Abrahamo, Isaaco et Jacobo, qui non pec-
+caverunt tibi; sed posuisti pœnitentiam super me
+peccatore; quia peccavi supra numerum arenæ
+maris. Multiplicatæ sunt iniquitates meæ, Domine,
+multiplicatæ sunt iniquitates meæ; et non amplius
+dignus sum intueri et aspicere altitudinem cœli,
+præ multitudine iniquitatum mearum, incurvatus
+multo vinculo ferreo. Quia irritavi iram tuam, et
+malum coram te feci, erigens abominationes, et
+multiplicans offendicula. Et nunc flecto genu cordis
+mei, deprecans bonitatem tuam. Peccavi, Domine,
+peccavi, et iniquitates meas ego cognosco; sed peto
+rogans te : Remitte mihi, Domine, remitte mihi,
+et ne simul perdas me cum iniquitatibus meis, ne-
+que in æternum iratus serves mala mihi, neque
+condemnes me in infimis terræ. Quia tu es Deus,
+Deus pœnitentium; et in me ostendes bonitatem
+tuam. Quoniam me indignum servabis, secundum
+multam misericordiam tuam : et laudabo te sem-
+per omnibus diebus vitæ meæ. Quia te laudat om-
+
+# block=2
+καὶ ἐταπεινώθη σφόδρα ἀπὸ προσώπου Κυρίου τοῦ
+Θεοῦ τῶν πατέρων αὐτοῦ, καὶ προσηύξατο πρὸς Κύ-
+ριον, λέγων (23)· Κύριε παντοκράτορ, ὁ Θεὸς τῶν
+πατέρων ἡμῶν, τοῦ Ἀβραὰμ, καὶ Ἰσαὰκ, καὶ Ἰα-
+κὼβ, καὶ τοῦ σπέρματος αὐτῶν τοῦ δικαίου. Ὁ
+ποιήσας τὸν οὐρανὸν καὶ τὴν γῆν (24), σὺν παντὶ τῷ
+κόσμῳ αὐτῶν, ὁ πεδήσας τὴν θάλασσαν τῷ λόγῳ τοῦ
+προστάγματός σου, ὁ κλείσας τὴν ἄβυσσον, καὶ σφρα-
+γισάμενος αὐτὴν τῷ φοβερῷ καὶ ἐνδόξῳ ὀνόματί σου.
+Ὅν πάντα φρίσσει, καὶ τρέμει ἀπὸ προσώπου τῆς
+δυνάμεώς σου, ὅτι ἄστεκτος ἡ μεγαλοπρέπεια τῆς
+δόξης σου, καὶ (25) ἀνυπόστατος ἡ ὀργὴ τῆς ἐπὶ
+ἁμαρτωλοὺς ἀπειλῆς σου. Ἀμέτρητόν τε καὶ ἀν-
+εξιχνίαστον τὸ ἔλεος τῆς ἐπαγγελίας σου. Ὅτι σὺ εἶ
+Κύριος εὔσπλαγχνος (26), μακρόθυμος, πολυέλεος,
+καὶ μετανοῶν ἐπὶ ταῖς κακίαις τῶν ἀνθρώπων. Ὅτι
+σὺ ὁ Θεὸς, κατὰ τὴν χρηστότητα τῆς ἀγαθωσύνης σου
+ἐπηγγείλω μετανοίας (27) ἄφεσιν τοῖς ἡμαρτηκόσι, καὶ
+τῷ πλήθει τῶν οἰκτιρμῶν σου ὥρισας μετάνοιαν ἁμαρ-
+τωλοῖς εἰς σωτηρίαν. Σὺ οὖν, Κύριε ὁ Θεὸς τῶν δι-
+καίων, οὐκ ἔθου μετάνοιαν δικαίοις, τῷ Ἀβραὰμ, καὶ
+Ἰσαὰκ, καὶ Ἰακὼβ, τοῖς οὐχ ἡμαρτηκόσι σοί· ἀλλ’
+ἔθου μετάνοιαν ἐπ’ ἐμοὶ τῷ ἁμαρτωλῷ, διότι ἥμαρ-
+τον ὑπὲρ ἀριθμὸν ψάμμου θαλάσσης. Ἐπλήθυναν αἱ
+ἀνομίαι μου, Κύριε, ἐπλήθυναν αἱ ἀνομίαι μου, καὶ
+οὐκέτι εἰμὶ ἄξιος ἀτενίσαι καὶ ἰδεῖν τὸ ὕψος τοῦ οὐ-
+ρανοῦ (28), ἀπὸ πλήθους τῶν ἀδικιῶν μου, κατακαμ-
+πτόμενος πολλῷ δεσμῷ σιδήρου. Διότι παρώργισα
+τὸν θυμόν σου, καὶ τὸ πονηρὸν ἐνώπιόν σου ἐποίησα,
+στήσας βδελύγματα, καὶ πληθύνας προσοχθίσματα.
+
+# block=3
+VARIORUM NOTÆ.
+
+# block=11
+Manasses, vincula ferrea confracta fuerunt, atque
+ipse fuga saluti suæ consuluit. Lib. II Comment. Pet.
+Lambecii Cæsarei Bibliothecarii, e cod. mss. Vin-
+dobonensi inter Theol. Græcos 25 : Ἱστορεῖται πα-
+ρὰ Ἀφρικανῷ, ὅτι ἐν τῷ λέγειν τὴν ᾠδὴν τὸν Μα-
+νασσῆν, τὰ δεσμὰ διερῤάγησαν σιδηρᾶ ὄντα, καὶ ἔφυ-
+γεν. Id.
+(24) Ὁ ποιήσας τὸν οὐρανὸν καὶ, κ. τ. λ. Theo-
+phanes Cerameus homilia 56 : Κόσμος καὶ ἡ τοῦ
+κάλλους ἁρμονία, καὶ διακόσμησις, κατὰ τὸ ὑμνού-
+μενον ἐν τῇ ᾠδῇ Μανασσῆ· Ὁ ποιήσας τὸν οὐρα-
+νὸν καὶ τὴν γῆν σὺν παντὶ τῷ κόσμῳ αὐτῶν. Id.
+(25) Ἀνυπόστατος ἡ ὀργὴ, κ. τ. λ. Inter Scripturæ
+testimonia hanc sententiam profert Antonius Me-
+lissa dictus lib. II, serm. 94, legitque, Ἐπὶ ἁμαρ-
+τωλοῖς, quo modo editio Veneta an. 1632, qua utor,
+Horologii Græcorum, in officio μεγάλου ἀποδείπνου,
+magni Completorii. Id.
+(26) Ὅτι σὺ εἶ Κύριος εὔσπλαγχνος. Alexan-
+drinus Bibliorum codex miræ antiquitatis: Ὅτι σὺ
+εἶ Κύριος ὕψιστος, εὔσπλαγχνος. Quoniam tu es Do-
+minus altissimus, benignus, ait vetus interpres. At
+in editionibus, in Horologio, et in quinque mss.
+Regiis, σὺ γὰρ εἶ Κύριος ὕψιστος, εὔσπλαγχνος.
+Mitto alias varietates, non majoris momenti. Id.
+(27) Μετανοίας. Alter Vind. : μετάνοιαν καὶ
+ἄφεσιν. Utraque lectio corrupta. Abundat μετανοίας,
+aut μετάνοιαν. Cl.
+
+# block=5
+καὶ τῷ ἐξεστηκότι οἴνῳ, et versus elegantes B. Gre-
+gorii Nazianzeni carmine iambico 18, p. 214 :
+Φαγεῖν; μέγιστον ἄρτος ἐνδεῶς δοθείς.
+Πιεῖν; ὕδωρ σοι δώσομεν, καὶ ὄξινην. COT.
+(23) Λέγων. Vera Manassæ regis oratio legebatur
+in sermonibus regum Israel, et in sermonibus Ho-
+zai, ut docetur II Paral. xxxiii, 18, 19. Ista autem
+fictitia est, ac extra canonem librorum divinorum
+collocata : quamvis pro genuina habuerint etiam
+scriptor Sermonis in Publicanum et Pharisæum,
+tom. VI Operum B. Chrysostomi, Antonius Mona-
+chus lib. II Melissæ serm. 94; Theodorus Studita,
+Sermone catechetico 95; Theophanes Cerameus
+homil. 2 et 56 ; Freculfus, Georgii duo, Syncellus
+et Hamartolus, in Chronicis suis, atque Suidas in
+voce Μανασσῆς, ubi recte exemplar Regium nu-
+mero 130 : Καὶ τότε προσηύξατο πρὸς Κύριον τὸ,
+Κύριε παντόκρατορ. Quibus accedunt omnes ii,
+apud quos inter Cantica Scripturæ legebatur; quod
+factitatum patet ex mss. Alexandrino et Regiis, et
+ex eo quod eam Freculfus appellat Canticum pœ-
+nitentiæ, Anastasius Sinaita in psalmum VI : Τὴν
+προσευχὴν τῆς ᾠδῆς, Georgius vero Syncellus, Mi-
+chael Glycas, et Theophanes Cerameus, ᾠδήν. En
+Græca Theodori Studitæ : Ὠδὴν ᾖσε τῷ Θεῷ, ἣν
+ἕως τῆς σήμερον ἡμέρας ᾄδει ἡ τοῦ Θεοῦ Ἐκκλη-
+σία. Quare ad marginem alterius ms. Georgii Mo-
+nachi seu Hamartoli in Bibliotheca vereRegia scho-
+lium istud comparet : Ἱστόρηται παρὰ Ἀφρικανῷ,
+ὅτι ἐν τῷ ᾄδειν τὴν ᾠδὴν τὸν Μανασσῆν, τὰ δεσμὰ
+διερῤάγησαν σιδηρᾶ ὄντα, pro quo in Damasceni
+Parallelis lib. II, cap. 13 leges : Memoriæ proditum
+est ab Africano, quod dum orationem hanc funderet
+
+# block=6
+(28) Οὐκέτι εἰμὶ ἄξιος ἀτενίσαι, κ. τ. λ. Ab au-
+ctore homiliæ de Publicano et Pharisæo, quam B.
+Chrysostomo attribuunt, citatur absque particula
+ἔτι, quæ etiam a reliquis exemplaribus abest. COT.

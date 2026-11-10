@@ -1,0 +1,208 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1036,1923,1792,2660
+2,245,1261,991,1797
+3,1029,1266,1790,1699
+4,243,539,1007,1110
+5,247,133,1002,357
+6,250,1796,1001,2132
+7,1036,1750,1792,1922
+8,252,2225,1011,2461
+9,1028,545,1803,1106
+10,255,2462,1007,2666
+11,1040,1703,1653,1746
+12,248,2155,1000,2229
+13,663,69,1380,115
+14,535,448,710,487
+15,859,1199,1160,1238
+17,369,493,876,532
+18,277,1129,741,1164
+20,1033,142,1787,358
+21,231,362,1787,444
+22,1275,456,1543,500
+23,1109,494,1691,544
+24,247,66,309,116
+25,1717,68,1783,126
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1036 source_y1=1923 source_x2=1792 source_y2=2660
+(46) Οὐ πλειόνων, ἑνὸς Παρακλήτου. Contra
+hæreticos. Valentiniani quippe et Marcion duos
+filios, duos christos inducebant. De primis docet
+Irenæus lib. I, cap. 1; de Marcione Justinus Apo-
+logetico 2, Tertullianus, in adversus illum 6, Atha-
+nasius in Sabellianos, et Optatus lib. IV. Præterea
+feriuntur anathemate Gnostici cap. 2 concilii Bra-
+carensis 1, quod in divinitate Trinitatem Trinitatis
+ponerent. Et infra canone apostolico 41, al. 49,
+damnatur qui baptizaverit in tres filios, aut in tres
+paracletos : ubi vide quæ adnotabimus. Non sum
+nescius Origenem lib. II in Johannem, cap. 7, ci-
+tatum etiam in Apologia Pamphili, ita loqui : Et
+duos quidem Deos ausos esse hæreticos dicere, et duos
+Christos audivimus; duos autem Spiritus sanctos
+nunquam cognovimus ab aliquo prædicari. Verum
+idem Origenes ad Titi III, 10, referente Pamphilo,
+contra scripserat : Sed et sunt qui Spiritum san-
+ctum alium quidem dicant esse, qui fuit in prophetis,
+alium autem qui fuit in apostolis Domini nostri
+Jesu Christi. Porro hunc Constitutionum locum
+Græcus a Turriano memoratus tanquam rejicien- .
+
+# block=2 source_x1=245 source_y1=1261 source_x2=991 source_y2=1797
+verba Anonymi Sirmondiani : Septuagesimam et
+sextam hæresim fecerunt Homuncionitæ, qui dicunt
+in corpore hominis esse imaginem Dei, non in anima.
+Verum tenebrio ille cum ex jecore suo sapit, nun-
+quam non desipit : hic vero rem mutuatus a Phila-
+strio et Augustino, nomen ipse adjecit. Ab Homun-
+cionitis differunt quammaxime Homuntionates, ut-
+pote orthodoxi, ita per hæreticos appellati. In con-
+flictu Arnobii catholici et Serapionis hæretici, ini-
+tio : Serapion dixit : Antequam ad hoc veniamus,
+quod vos Homuntionates arguamus, dicentes duas
+naturas esse in Christo, duasque substantias, cupio
+scire quis sis. Forte Homuntionates, ἀπὸ Θεοῦ καὶ
+ἀνθρώπου ἐν Χριστῷ ὁμοῦ ὄντων, nisi sit legendum
+Homusionates aut Homousionates, ab ὁμοῦ ὀυσιῶν,
+vel ab ὁμοούσιον. Cᴏᴛ.
+
+# block=3 source_x1=1029 source_y1=1266 source_x2=1790 source_y2=1699
+ctores qua sacros qua profanos, appellari solet, αὐ-
+τοαίτιος, αὐτογένεθλος, αὐτογενὴς, αὐτογενὴτωρ, αὐ-
+τογέννητος, αὐτόγονος, αὐτὸς ἐξ αὐτοῦ γενόμενος,
+αὐτολόγευτος, αὐτοπάτωρ, αὐτομήτωρ, αὐτοφυὴς, αὐ-
+τόφυτος, αὐτοπάρακτος, αὐτοποίητος, etc. Sed qui
+eas voces usurpant, ostendere volunt Deum a nul-
+lo esse. Unde in Hesychio αὐτογένεθλος, αὐτογέν-
+νητος αὐτογενὴς, αὐτολόγευτος, exponuntur : οὐκ ἐκ
+τινος γεννώμενος, Θεὸς ἀγέννητος. Vide Hilarium
+De synodis, ad anathematismum 12, p. 566; et
+Faustum ep. 5 ad Ruricium. Legito quoque Reco-
+gnit. III, 3, 4, 11, necnon Clementin. XVI, 16.
+Cᴏᴛ.
+
+# block=4 source_x1=243 source_y1=539 source_x2=1007 source_y2=1110
+Nos vero Dei proles, et filii pacis, qui sacrum
+ac rectum pietatis verbum prædicamus, unum so-
+lum Deum annuntiamus, legis ac prophetarum Do-
+minum, rerum creatorem, Christi Patrem; non sui
+causam, nec a se genitum, quod illi arbitrantur,
+sed æternum, et principio carentem, et lumen inac-
+cessibile habitantem ⁸¹ ; non secundum, aut tertium,
+aut multiplicem, sed solum æterne; non ignotum
+vel ineffabilem, sed per legem et prophetas prædi-
+catum; omnipotentem, omnibus imperantem, cun-
+ctorum dominium habentem; Deum ac Patrem Uni-
+geniti, et omnis creaturæ primogeniti ⁸²; unum
+Deum, unius Filii Patrem, non plurium, unius
+
+# block=5 source_x1=247 source_y1=133 source_x2=1002 source_y2=357
+vero ex iis aiebant sola suilla abstinendum; com-
+edenda quæ secundum legem munda habentur;
+circumcisionem ex lege usurpandam; et credi opor-
+tere in Jesum, ut virum sanctum ac prophetam.
+Alteri scortari sine verecundia, et carne abuti do-
+
+# block=6 source_x1=250 source_y1=1796 source_x2=1001 source_y2=2132
+(39) Ἀναίδην ἐκπορνεύειν, καὶ παραχρᾶσθαι τῇ
+σαρκί. Eadem Clemens Alexandrinus, ubi de Nico-
+lao et Nicolaitis. In Lexico Suidæ : Παραχρᾶται, πολὺ
+σφοδρῶς συνουσιάζει, ἀκολάστως μίγνυται. Εἴρηται
+δὲ καὶ περὶ ἑκάστου πράγματος ἐκ περιουσίας γινο-
+μένου. Περὶ Ὠριγένους· Σοὶ δὲ κακομηχανία εἰς
+αἰσχρότατον ἀνδραπετενόθη, Αἰθίοπα γὰρ αὐτῷ παρ-
+εσκεύασαν εἰς παράχρησιν τοῦ σώματος. Sic lego
+e mss. Regiis, ex ipso Suida in voce Ὠριγένης, ex
+Epiphanio hæresi 64, n. 2 et Georgio Cedreno.
+
+# block=7 source_x1=1036 source_y1=1750 source_x2=1792 source_y2=1922
+(45) Δημιουργίας. Κτίσεως in altero Vind. et sic
+loquitur Paulus. Hic quoque sunt Arianismi aut
+semi-Arianismi sat clara vestigia, quamvis caute
+propositi. Scriptor enim libri semetipse prodidisset,
+si nimis aperte esset locutus. IB.
+
+# block=8 source_x1=252 source_y1=2225 source_x2=1011 source_y2=2461
+(41) Διὰ πάσης ἀνοσιουργίας, etc. Simoniani,
+Carpocratiani, Caiani, Gnostici. Corrige Prælatio-
+nem Arabicam concilii Nicæni : Octava secta Bar-
+barorum dicitur, qui obscœnitatibus, adulteriis, for-
+nicationibus, et omnis immunditiæ generibus sunt de-
+diti, etc. Ista sunt Borbororum : qui Borboriani, et
+Borboritæ. Cᴏᴛ.
+
+# block=9 source_x1=1028 source_y1=545 source_x2=1803 source_y2=1106
+Ἡμεῖς δὲ τέκνα Θεοῦ καὶ υἱοὶ εἰρήνης (42), τὸν ἱε-
+ρὸν καὶ εὐθῆ λόγον κηρύσσοντες τῆς εὐσεβείας, ἕνα
+μόνον Θεὸν καταγγέλλομεν, νόμου καὶ προφητῶν
+Κύριον, τῶν ὄντων δημιουργὸν, τοῦ Χριστοῦ Πατέρα·
+οὐκ αὔταιτιον καὶ αὐτογένεθλον (43), ὡς ἐκεῖνοι οἴον-
+ται, ἀλλ’ ἀΐδιον καὶ ἄναρχον, καὶ φῶς οἰκοῦντα ἀπρόσ-
+ιτον· οὐ δεύτερον ὄντα, ἢ τρίτον, ἢ πολλοστὸν, ἀλλὰ
+μόνον ἀΐδιον· οὐκ ἄγνωστον, ἢ ἄλεκτον, ἀλλὰ διὰ νό-
+μου καὶ προφητῶν κηρυσσόμενον· παντοκράτορα,
+παντάρχην, παντεξούσιον· Θεὸν καὶ Πατέρα τοῦ Πο-
+νογενοῦς, καὶ (44) πρωτοτόκου πάσης δημιουργίας
+(45)· ἕνα Θεὸν, ἑνὸς Υἱοῦ Πατέρα, οὐ πλειόνων, ἑνὸς
+Παρακλήτου (46) διὰ Χριστοῦ, τῶν ἄλλων ταγ-
+
+# block=10 source_x1=255 source_y1=2462 source_x2=1007 source_y2=2666
+(42) Εἰρήνης. Cod. Vind. ὄντες. Cʟᴇʀ.
+(43) Οὐκ αὔταιτιον καὶ αὐτογένεθλον. Quia ni-
+hil sui ipsius causa et pater esse potest; et quia
+quod ingenitum est, nec a se, nec ab alio est geni-
+tum : ut liquido constat, observaturque a pluri.
+bus, etiam antiquis. Veruntamen Deus, apud au-
+
+# block=11 source_x1=1040 source_y1=1703 source_x2=1653 source_y2=1746
+(44) Kaὶ. Omittitur in cod.Vind. Cʟᴇʀ.
+
+# block=12 source_x1=248 source_y1=2155 source_x2=1000 source_y2=2229
+(45) Ἐκπορεύειν. Cod. Vind. ἐκπορνεύουσι.
+Cʟᴇʀ.
+
+# block=13 source_x1=663 source_y1=69 source_x2=1380 source_y2=115
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=14 source_x1=535 source_y1=448 source_x2=710 source_y2=487
+CAPUT XI.
+
+# block=15 source_x1=859 source_y1=1199 source_x2=1160 source_y2=1238
+VARIORUM NOTÆ.
+
+# block=17 source_x1=369 source_y1=493 source_x2=876 source_y2=532
+Ēnarratio apostolicæ prædicationis.
+
+# block=18 source_x1=277 source_y1=1129 source_x2=741 source_y2=1164
+⁸¹ I Tim. vı, 16.  ⁸² Col. ı, 15.
+
+# block=20 source_x1=1033 source_y1=142 source_x2=1787 source_y2=358
+προφήτην. Ἄλλοι δὲ ἀναίδην (39) ἐκπορνεύειν (40),
+καὶ παραχρᾶσθαι τῇ σαρκὶ ἐδίδασκον, καὶ διὰ πάσης
+ἀνοσιουργίας (41) ἰέναι, ὡς οὕτω καὶ μόνως ἐκφεύ-
+ξεσθαι τὴν ψυχὴν τοὺς κοσμικοὺς ἄρχοντας· οὗτοι δὲ
+πάντες τοῦ διαβόλου ὄργανα τυγχάνουσι, καὶ υἱοὶ ὀργῆς.
+
+# block=21 source_x1=231 source_y1=362 source_x2=1787 source_y2=444
+cebant, et per omne nequiter factum volutari, quod hac solum ratione anima mundanos princi-
+pes effugeret. Atque hi omnes sunt diaboli instrumenta, et filii iræ.
+
+# block=22 source_x1=1275 source_y1=456 source_x2=1543 source_y2=500
+ΚΕΦΑΛΑΙΟΝ ΙΑ΄.
+
+# block=23 source_x1=1109 source_y1=494 source_x2=1691 source_y2=544
+Ἐξήγησις ἀποστολικοῦ κηρύγματος.
+
+# block=24 source_x1=247 source_y1=66 source_x2=309 source_y2=116
+935
+
+# block=25 source_x1=1717 source_y1=68 source_x2=1783 source_y2=126
+936

@@ -1,0 +1,185 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,287,821,1034,1599
+2,1073,734,1826,1245
+3,267,1605,1025,2161
+4,1064,1253,1816,1761
+5,1054,2109,1801,2660
+6,1059,1768,1806,2101
+7,268,2347,1013,2648
+8,270,2170,1016,2340
+9,1086,182,1833,726
+10,289,171,1051,815
+11,705,124,1456,158
+13,295,2693,1278,2753
+14,305,110,385,152
+15,1773,118,1847,160
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=16px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+371
+
+# block=15
+372
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=10
+Hæc porro traditio optime congruit his verbis
+Evangelii : Exiit in montem orare : et erat perno-
+ctans in oratione Dei 19. En factum pernoctationis.
+Visne habere consuetudinem? Et egressus, ait idem
+evangelista de tempore nocturno loquens, ibat, se-
+cundum consuetudinem, in montem Olivarum 30.
+Omnes evangelistæ signarunt sedulo hunc specia-
+lem locum orationis Christi in monte Olivarum,
+vocantes illum prædium, vel hortum Gethsemani.
+In publico, easdem fere relationes Christus habuit
+cum viris et mulieribus : ad salvandum enim
+utrumque sexum venerat; sed privatim, eodem
+modo non se gerebat : ideoque mirantur apostoli
+quando eum solum vident, quamvis in aperto, cum
+muliere Samaritana colloquentem.
+
+# block=9
+ctum est pro propheta novum cubiculum omnino
+separatum ab ea ³². Textus Hebraicus expresse desi-
+gnat separationis murum qui ædificatus est. Hoc
+ignoravit D. de Premagny, ideoque insuperabilem
+judicavit argumentationem suam. Aliunde non exi-
+git sanctus Clemens ut nulla sit mulier in domo
+quam habitant homines virgines, præsertim quando
+iter faciunt, sed ut fugiant contubernia cum mu-
+lieribus, et ut ipsis non ministrent mulieres. Jam
+dixi cubiculum Elisei apud Sunamitidem fuisse
+separatum; ibi vero ministerium a mulieribus non
+recipiebat : illi enim sufficiebat servus qui semper
+comitabatur eum.
+
+# block=2
+Nævos quærit invenire criticus philosophus in
+Epistolis nostris ut auctoritatem earum elevet.
+Grandis igitur, ipsius judicio, nævos est quod qua-
+ter sanctus Clemens Christianos nominaverit, cum
+vox ista ter tantum in Novo Testamento reperia-
+tur. Perspicacitatem hujus adnotationis judican-
+dam relinquo cuilibet lectori. Si cui tamen non
+sufficeret hoc responsum, scire debet hoc vocabu-
+lum adeo commune fuisse hac ætate, ut a genti-
+libus passim adhiberetur, sicut patet ex Actis mar-
+tyrii Sancti Ignatii Antiocheni, et ex Epistola Plinii
+ad Trajanum imperatorem, de Christianis.
+
+# block=1
+Ex eo quod sanctus Clemens Christi verba re-
+tulerit ad Mariam Magdalenam dicentis : Noli me
+tangere , concludere vellet adnotator , contra Wet-
+stinum , ab auctore Epistolarum melius cognitum
+fuisse sancti Joannis Evangelium quam Evangelium
+sancti Matthæi qui hanc circumstantiam tacet. Hoc
+ratiocinium philosopho parum convenit : neque
+enim sanctus Matthæus , neque cæteri evangelistæ
+voluerunt, imo velle potuerunt scribere omnia quæ
+Christus gesserit. Igitur ab hoc silentio nihil
+omnino concludi potest. Qui enim concluderet do-
+minum de Premagny nihil aliud scripsisse quam
+versionem Gallicam nostrarum Epistolarum , cum
+adjunctis adnotationibus , quia has solum typis
+mandavit, non satis famæ illius consuleret; proba-
+biliter namque opus istud merito inferius est
+sexaginta aliis opusculis ejus quæ manuscripta re.
+manserunt.
+
+# block=4
+XIV. Wetstinus allegaverat auctoritatem sancti
+Epiphanii qui hæreticis ævi sui opponebat Epi-
+stolas sancti Clementis ad virgines, in quibus com-
+memorantur Elias, David, Samson et omnes pro-
+phetæ. Ad hoc argumentum reduci potest Wetstini
+ratiocinio : ‹ Non solum Epiphanius, sicut Hiero-
+nymus, Epistolas indicat quas sanctus Clemens ad
+virgines scripsit; sed has specialiter Epistolas dis-
+tinxit enuntiatione textus qui in ceteris operibus
+sancti Clementis nullibi reperitur. In solis enim
+Epistolis ad virgines mentio fit de Elia, Davide,
+Samsone et omnibus prophetis. ›
+
+# block=3
+XIII. Auctorem Epistolarum accusat D. de Pre-
+magny quasi infideliter narrarit historiam Elisei
+et Sunamitidis. Sed quæ paucis verbis refert san-
+ctus Clemens optime concordant cum rebus relatis
+in quarto libro Regum, quamvis res minutissimas
+non fuerit consectatus. Achilleam philosophus no-
+ster æstimavit hanc objectionem : Eliseus accepta-
+vit cubiculum in domo Sunamitidis : ergo non erat
+hic propheta extraneus omni relationi cum mulie-
+ribus. Ergo auctor Epistolarum falsam induxit hy-
+pothesisim. Ergo honorat sanctum Clementem qui
+hunc non recipit quasi istarum Epistolarum au-
+ctorem.
+
+# block=6
+Robur hujus ratiocinii quasi non advertens D.
+de Premagny, sermonem gyroflectit ad inscitiam
+exempli Samsonis, quasi pessime sanctus Clemens
+Samsonem huc induxisset. Sed etsi concederetur
+domino de Premagny Samsonem non debuisse huc
+introduci, non minus invicta esset conclusio Wet-
+stini, qui, ex hac prolatione authenticitatem Epi-
+stolarum nostrarum infert.
+
+# block=5
+Ut autem, ex hac etiam parte, debilem esse ad-
+notatorem pateat, dico exempla Samsonis et Da-
+vidis mirifice inservire thesi auctoris Epistolarum.
+Si namque prudentia prophetarum nos cautos esse
+monet, quorumdam sanctorum virorum casus va-
+lentior adhuc prædicatio est ut nobismetipsis diffi-
+damus. Non solum Samsonem et Davidem appellat
+sanctus Hieronymus in hac materia, sed etiam
+Salomonem. Omnes norunt hæc sancti doctoris
+verba ad Nepotianum : ‹ Ne sub eodem tecto man-
+sites, nec in præterita castitate confidas. Nec
+sanctior David, nec Samsone fortior, nec Salo-
+mone potes esse sapientior. ›
+
+# block=8
+Ut funditus ruat hujusmodi argumentatio satis
+erit adnotare hospitalitatem quam interdum propheta
+recepit apud Sunamitidem, non fuisse cohabitatio-
+nem quam prohibet sanctus Clemens.
+
+# block=7
+Enimvero domus Sunamitidis una erat ex his
+opulentis habitationibus quæ plerumque servis
+abundant. Ipsa declarat se in medio populi sui ³¹
+quasi principem habitare, et nulla re indigere. In
+illa domo, quasi transiens habitat Eliseus cum servo
+suo. Quare enim sub dio pernoctasset? Quamvis
+autem domus illa ampla foret vastaque, constru-
+
+# block=13
+²⁹ Luc. vi, 12. ³⁰ Luc. xxii, 39. ³¹ IV Reg. iv, 13. ³² Ibid., 10.

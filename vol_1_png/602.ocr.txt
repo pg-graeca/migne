@@ -1,0 +1,183 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1028,1837,1784,2667
+2,1031,1638,1781,1771
+3,1033,1507,1788,1638
+4,1030,1340,1786,1506
+5,253,124,998,1172
+6,238,1345,995,2689
+7,1032,1771,1784,1838
+8,838,1287,1135,1319
+9,652,67,1358,108
+10,1022,124,1788,1163
+12,247,1177,1774,1249
+13,243,66,319,110
+14,1707,76,1775,112
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(13) Καὶ γὰρ ὁ Κύριος ἡμῶν, etc. Sumpserunt
+hinc amplificator epistolarum S. Ignatii in addita-
+mento ad c. 15 epistolæ ad Ephesios, et Antiochus
+in homilia 111; verba hujus sunt : Φησὶν ἡ θεία
+Γραφὴ, ὡς [f. ὢν] ἤρξατο ὁ Ἰησοῦς ποιεῖν τε καὶ
+διδάσκειν. Πρῶτον ἐποίησε, καὶ οὕτως ἐδίδαξεν.
+Ὁμοίως καὶ αὐτὸς ἐντέλλεται λέγων· Ὅς ποιήσει
+καὶ διδάξει, οὗτος μέγας κληθήσεται ἐν τῇ βασι-
+λείᾳ τῶν οὐρανῶν. Videsis, inter alios Hierony-
+mum, epist. 16; pseudo-Chrysostomum auctorem
+Operis imperfecti in Matthæum ad c. III, 15; Vi-
+gilium papam epist. 10; Joannem Climacum Scalæ
+gradu 26, p. 354, et Jobium monachum Œconomici
+lib. III, cap 11, in col. ccxxII Photiani Myriobibli.
+Insuperque castiga interpretem Anastasii in Ὁδη-
+γοῦ cap. 22, ubi inter alias infidelium objectiones
+hæc quoque adducitur : Εἰ ὢν ἤρξατο ὁ Ἰησοῦς
+ποιεῖν, ταῦτα ἐδίδαξε, πῶς ῥαπισθεὶς εἰς τὴν σιαγόνα
+οὐκ ἔστρεψε καὶ τὴν ἄλλην, ἀλλὰ καὶ ἐνεκάλεσε τῷ
+ῥαπίσαντι, quod est : Si quæ cœpit Jesus facere, ea
+docuit; quo modo una maxilla cæsus, non præbuit
+alteram, quin et cædentem reprehendit? non autem :
+Si quæ Jesus cœpit facere, prius docuit. Cot.—Pro καὶ
+γὰρ habetur καθὼς γάρ in altero ms. Vindob. Cler.
+(14) Ὁ Υἱός. Desunt in utroque ms. Ib
+
+# block=2
+(11) Δίκαιος, κριτικός. Alter ms. δικαιοκριτικός,
+eleganter. Hæc conjungenda, ita ut cum acumine
+judicii æquitatem pari passu incedere oportere in-
+telligamus. Ib.
+
+# block=3
+(10) Κεναῖς. Alter cod. Vind. καιναῖς, quæ voces
+sæpe ob soni affinitatem a librariis miscentur, præ-
+sertim cum alteruter sensus æque commodus est.
+Cler.
+
+# block=4
+nentium aliorum, auctoritatem que modo elevaverit
+diaconus quidam temporibus Lucæ alterius patriar-
+chæ, disces ex ejusdem Balsamonis loco ad cap. 13,
+tit. 8 Nomocanonis Photiani, relato etiam in præ-
+dicto libro Græco-Romani Juris. Cot.
+
+# block=5
+sis pecuniariis advocatus, non ambitiosus, non in-
+constantis animi, non linguæ duplicis, non calumnia-
+torum aut detrahentium auditor benevolus, non
+hypocrita, gentilium festorum non appetens, vanis
+fallaciis abstinens, neque cupidus, nec avarus : ista
+quippe omnia, ut Deo inimica sunt, ita et dæmoni-
+bus chara. Hæc universa episcopus plebi exemplo fir-
+mata suadeat, inducatque laicos ad imitationem
+morum suorum. « Cautos » enim, inquit, « facite fi-
+lios Israelis ⁵⁰. » Sit autem sapiens, humilis, Domini-
+carum disciplinarum doctor, indolis liberalis, quique
+pravis hujusce vitæ studiis omnibus et universis
+gentium cupiditatibus nuntium remiserit. Præterea
+circumspecte munus suum obeat, seu populum re-
+gere pulchre calleat, acumine ingenii in cognoscen-
+dis atque vitandis improbis excellat, diligat cun-
+ctos, justitiam servet, judicio polleat; demum
+quæcunque apud homines pulchra reperiuntur,
+hæc in se possideat episcopus; quoniam pastor
+qui nullius vitii argui poterit, discipulos sibi com-
+missos, conversatione sua ad hoc impellet ac vel-
+uti coget, ut condigne facta sua æmulentur;
+quemadmodum aliquo in loco asserit propheta :
+« Et erit sicut sacerdos, ita et populus ⁵³. » ⁵⁴ Certe
+
+# block=6
+κυβερνήσῃς τὸν φίλον. Ἐγκληματικὰς δὲ μηδὲ δια-
+λύεσθαι γένοιτο· ἀλλὰ μηδὲ τὴν ἀρχὴν ἐγγυμνάζειν·
+πλὴν ἀλλὰ κἀκεῖ βελτίων ἡ φειδὼ τοῦ θυμοῦ. Utile
+sit, ut civiles ac pecuniarias lites, amicabili compo-
+sitione, finias, quo, lite finita, amicum obtineas : cri-
+minales autem lites, ne quidem componere contingat;
+at neque ab initio intentare; sed ibi quoque indulgen-
+tia præstat iræ. Quibus adde canonem Tarraconen-
+sem 4. et alios. Unde in simili huic apocrypho, epi-
+stola Clementis ad Jacobum, cap. 5, generaliter di-
+citur, μήτε ἐγγυητὴν, μήτε συνήγορον. Nec fidejus-
+sorem, nec litium advocatum. Et in Novella consti-
+tutione 86 Leonis Philosophi : Λίαν ἄρα ἱεροπρεπῶς
+ἡ τῶν θεοκηρύκων ἀποστόλων ψῆφος τοὺς συνηγο-
+ρίαις, ἢ ἐγγυίαις, ἢ μισθώσεσιν, ἢ τοῖς ἄλλοις πα-
+ραπλησίοις προσνέμοντας ἑαυτοὺς ἐπισκόπους, ἢ
+ἱερεῖς, ἢ κληρικοὺς, τῆς ἱερᾶς ἀπογυμνοῖ τάξεως.
+Admodum igitur sancte et decenter apostolorum, præ-
+conum Dei, decretum episcopos, sacerdotes et clericos,
+qui se advocationibus, sponsionibus, redempturis, idve
+genus aliis rebus dedunt sacro ordine denudat. Ubi
+vides præ oculis imperatoris exstitisse locum Con-
+stitutionum, simulque Apostolorum canones. Desi-
+gnata sunt genera, inquit Innocentius papa ad Feli-
+cem Nucerianum scribens, de quibus ad clericatum
+pervenire non possunt; id est, si quis fidelis militave-
+rit; si quis fidelis causas egerit, hoc est, postulaverit.
+Ac epist. 25. c. 2 : Quantos ex eis, qui post acceptam
+baptismi gratiam, in forensi exercitatione versati sunt,
+et obtinendi pertinaciam susceperunt, accitos ad sa-
+cerdotium esse comperimus. Cap. 4 : Ne quispiam,
+qui post baptismum militaverit, ad ordinem debeat
+clericatus admitti, neque qui causas post acceptum
+baptismum egerint. Multo postea a Joanne Xiphilino
+patriarcha Constantinopolitano definitum fuit con-
+tra ecclesiasticos et monachos advocatos, ut non
+eis liceret causas agere, nisi forte ecclesiasticam
+aliquam ex illius jussu. Cujus decreti (quod legitur
+in Balsamone ad canonem 16 Carthaginensem, et
+in lib. III Juris Græco-Romani), ut et illud præce-
+
+# block=7
+(12) Προφήτης. Additur in altero Ὁσηέ, Hosee,
+quod glossam redolet. Ib.
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10
+μὴ φίλαρχος, μὴ δίγνωμος, μὴ δίγλωσσος, μὴ πρὸς
+διαβολὴν ἢ καταλαλιὰν φιλήκοος, μὴ ὑποκριτὴς, μὴ
+ταῖς ἑορταῖς τῶν ἐθνῶν ἐπορευόμενος, ἀπάταις κε-
+ναῖς (10) μὴ χρώμενος, μηδὲ ἐπιθυμητικὸς, μηδὲ
+φιλάργυρος· ὅτι πάντα τὰ τοιαῦτα ἐχθρὰ τοῦ Θεοῦ
+ὑπάρχει, καὶ δαιμόνων φίλα. Ταῦτα δὲ πάντα ὁ ἐπί-
+σκοπος καὶ τοῖς λαϊκοῖς διαβεβαιούμενος παραγγελλέτω,
+ἐνάγων αὐτοὺς μιμητὰς γίνεσθαι τοῦ ἑαυτοῦ τρόπου.
+« Εὐλαβεῖς » γὰρ, φησὶ, « ποιήσατε τοὺς υἱοὺς Ἰσ-
+ραήλ. » Ἔστω δὲ σοφὸς, ταπεινόφρων, νουθετητικὸς
+ἐν ταῖς Κυριακαῖς παιδείαις, καλογνώμων, ἀποτε-
+ταγμένος πᾶσι τοῖς ἐν τῷ βίῳ πονηροῖς ἐπιτηδεύ-
+μασι, καὶ πάσαις ἐθνικαῖς ἐπιθυμίαις. Ἔστω εὐ-
+πρόστακτος ⁵¹, ὀξὺς πρὸς τὸ γνῶναι τοὺς φαύλους,
+καὶ φυλάσσεσθαι ἀπ’ αὐτῶν, φίλος δὲ ὢν πάν-
+των, δίκαιος (11), κριτικὸς, καὶ ὅσα καλὰ ἐν ἀν-
+θρώποις ἐστὶν ⁵², ἢ ὑπάρχει, ταῦτα ὁ ἐπίσκοπος ἐν
+ἑαυτῷ κεκτήσθω· ὅτι ἀνεπίληπτος ἀδικίας ὢν ποι-
+μήν, τοὺς ἰδίους αὐτοῦ μαθητὰς ἀναγκάσει καὶ
+διὰ τῆς ἀναστροφῆς αὐτοῦ ⁵²* προτρέψασθαι τῶν ἰδίων
+αὐτοῦ ποιημάτων μιμητὰς ἀξίους γενηθῆναι· ὡς λέ-
+γει που καὶ ὁ προφήτης (12)· « Καὶ ἔσται καθὼς ὁ
+ἱερεὺς, οὕτω καὶ ὁ λαός. » Καὶ γὰρ ὁ Κύριος ἡμῶν
+(13) καὶ διδάσκαλος Ἰησοῦς Χριστὸς ὁ Υἱὸς (14) τοῦ
+
+# block=12
+⁵⁰ Lev. xv, 31. ⁵¹ al. εὐπρόσοδος. ⁵² Varia lectio, alterutrum vacat. ⁵²* Locus corruptus. ⁵³ Ose.
+iv, 9. ⁵⁴ Ignat. interpol. ad Ephes. 15.
+
+# block=13
+603
+
+# block=14
+604

@@ -1,0 +1,186 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,258,143,1012,1614
+2,1023,1854,1803,2690
+3,251,2219,1007,2417
+4,255,1671,1798,1752
+5,1042,148,1802,1648
+6,250,1850,1000,2052
+7,664,90,1379,125
+8,872,1770,1168,1806
+10,251,2050,1003,2221
+11,283,2414,889,2450
+12,249,2449,1009,2699
+13,267,91,323,127
+15,1747,92,1796,125
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=13
+875
+
+# block=15
+876
+
+# block=1
+xit : « Appropinquavit hora, et Filius hominis tradetur
+in manus peccatorum ⁹¹ : » et ecce Judas, et cum eo
+turba impiorum ; signumque proditionis illis indi-
+cat, osculum fraudulentum : illi vero accepta tessera,
+comprehenderunt Dominum; et vinctum ad domum
+Caiphæ pontificis duxerunt; in quam frequens con-
+venerat, non populus, sed turba, nec seniorum cœ-
+tus sacer, sed consessus sceleratorum et senatus
+impiorum. Hi plurima contra eum designantes, nul-
+lum contumeliæ genus omiserunt, conspuentes, ludi-
+ficantes, verberantes, alapis percutientes, maledicta
+conjicientes, tentantes, divinationem loco prophetiæ
+requirentes; appellantes simulatorem, blasphemum,
+Moysis transgressorem, templi eversorem, sacrificio-
+rum sublatorem, Romanorum hostem, Cæsaris ad-
+versarium. Quæ cum usque ad summum mane in
+eum petulanter commisissent, tauri illi et canes ⁹² ab-
+ducunt eum ad Annam, socerum Caiphæ ; ibique
+similia patrantes, cum esset Parasceve seu sexta fe-
+ria, Pilato magistratui Romanorum tradiderunt eum,
+multa ac gravia crimina objicientes, quorum nul-
+lum probare poterant. Quapropter ægre ferens ju-
+dex dixit : « Nullam causam adversus eum inve-
+nio ⁹³ ⁹⁴. » At illi duobus falsis testibus adductis,
+voluerunt Dominum calumniari : verum cum horum
+testimonia dissona reperta fuissent; illi ad crimen
+majestatis negotium retulerunt, dicentes : « Hic se
+dicit regem esse, et tributa Cæsari dare prohibet ⁹⁵; »
+fiuntque simul accusatores, et testes, et judices, et
+sententiæ auctores ac domini ; aientes : « Crucifige,
+crucifige eum ⁹⁶, » ut impleretur quod de eo scri-
+ptum est in prophetis : « Congregati sunt super me
+testes iniqui ; et mentita est iniquitas sibi ⁹⁷ : » et
+iterum : « Circumdederunt me canes multi. Syn-
+
+# block=5
+τοῦτο ποιήσας τρίτον, ἡμῶν ἀπὸ τῆς ἀθυμίας εἰς
+ήπνον καταπεσόντων, ἐλθὼν λέγει· « Ἤγγικεν ἡ ὥρα,
+καὶ ὁ Υἱὸς τοῦ ἀνθρώπου παραδίδοται εἰς χεῖρας ἁμαρ-
+τωλῶν » · καὶ ἰδοὺ ἰούδας, καὶ μετ᾽ αὐτοῦ ὄχλος (82)
+ἀσεβῶν · καὶ σημεῖον προδοσίας αὐτοῖς δείκνυσι (83),
+δόλιον φίλημα· οἱ δὲ δεξάμενοι τὸ σύνθημα, ἐκράτη-
+σαν τὸν Κύριον· καὶ δέσμιον ποιησάμενοι (84), ἤγαγον
+εἰς τὴν οἰκίαν Καϊάφα τοῦ ἀρχιερέως, ἐν ᾗ πολὺς
+συγκεκρότητο, οὐ λαὸς, ἀλλ᾽ ὄχλος, οὐδὲ πρεσβυτέριον
+ἱερὸν, ἀλλὰ συνέδριον παρανόμων καὶ βουλευτήριον
+ἀσεβῶν· οἱ καὶ πολλὰ ποιησάμενοι (85) κατ᾽ αὐτοῦ,
+πᾶν εἶδος ήβρεως οὐ παρέλιπον, ἐμπτύοντες , κερτο-
+μοῦντες, τύπτοντες, ῥαπίζοντες (86), λοιδοροῦντες,
+πειράζοντες, μαντείας ἐπιζητοῦντες ἀντὶ προφη-
+τείας· εἴρωνα, βλάσφημον, Μωσέως παραβάτην, ἱεροῦ
+καθαιρέτην, θυσιῶν ἀναιρέτην, Ῥωμαίων πολέμιον,
+Καίσαρος ἐναντίον ἀποκαλοῦντες· καὶ ταῦτα μέχρις
+ὄρθρου βαθέος ἐμπαροινήσαντες αὐτῷ, οἱ ταῦροι καὶ
+οἱ κύνες ἀνάγουσιν αὐτὸν πρὸς Ἄνναν (87), ὂς ἦν πεν-
+θερὸς τοῦ Καϊάφα · κἀκεῖ τὰ ὅμοια δράσαντες, παρα-
+σκευῆς οὔσης, τῷ ἄρχοντι τῶν Ῥωμαίων παρέδωκαν
+αὐτὸν Πιλάτῳ, κατηγοροῦντες αὐτοῦ πολλὰ καὶ βα-
+ρέα (88), ὧν οὐδὲν ἴσχυον ἀπελέγξαι (89)· ἐφ᾽ οἷς ὁ
+ἄρχων δυσανασχετήσας, ἐλεγεν· « Οὐδεμίαν αἰτίαν
+κατ᾽ αὐτοῦ εὑρίσκω. » Οἱ δὲ μάρτυρας (90) δύο ψευ-
+δεισαγαγόντες (91), ἐβούλοντο συκοφαντεῖν τὸν Κύριον·
+ἀσυμφώνων δὲ αὐτῶν εὑρεθέντων, εἰς καθοσίωσιν (92)
+ἀνήγον τὸ πρᾶγμα, λέγοντες· « Οὗτος ἑαυτὸν λέγει
+βασιλέα εἶναι, καὶ φόρους Καίσαρι διδόναι κωλύει. »
+Καὶ γίνονται αὐτοὶ κατήγοροι, καὶ μάρτυρες, καὶ κρι-
+ταὶ, καὶ τῆς ἀποφάσεως ἐξουσιασταὶ, λέγοντες· « Σταύ-
+ρωσον, σταύρωσον αὐτόν · » ἵνα πληρωθῇ ὃ, τὶ γέγρα-
+πται (93) περὶ αὐτοῦ ἐν τοῖς προφήταις· « Συνήχθησαν
+ἐπ᾽ ἐμὲ μάρτυρες ἄδικοι, καὶ ἐψεύσατο ἡ ἀδικία
+
+# block=4
+⁹¹ Matth. xxvi, 45. ⁹² Psal. xxi, 13, 17. ⁹³ ⁹⁴ Luc. xxiii, 14; Joan. xviii, 38. ⁹⁵ Luc. xxiii, 2. ⁹⁶ Ibid., 21.
+⁹⁷ Psal. xxvi, 12.
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=6
+(82) Ὄχλος. Alter addit πολὺς multa turba. Cler.
+(83) Δείκνυσι. Δούς τό, uterque codex, quod me-
+lius videtur : Signum proditionis dans osculum do-
+losum ; hoc est, signum hoc dedit capiendi Christi,
+osculum quod ei libavit ; quo conspectu compre-
+hendendus erat. Id.
+
+# block=2
+(92) Καθοσίωσιν. Significationes nominis καθο-
+σίωσις, verbi καθοσιόω, et derivatorum, plurimi ho-
+die sciunt : suntque hac in parte doctiores Zonara
+et Balsamone. Nam in Codice canonum Ecclesiæ
+Africanæ, can. 45, concilii Carthaginensis III, vo-
+rem ἀκαθοσίωτος, Latinæ indevotus, hoc est non ad-
+dictus, Balsamon nequaquam intellexit, Zonaras
+vero non satis accurate interpretatus est per ἀπει-
+θὲς καὶ ἀνένδοτος. Locus Zonaræ p. 445 e duo-
+bus ms. Bibliothecæ Regiæ hoc modo supplendus
+est : ἐκεῖνος δὲ ἀκαθοσιώτως εὑρεθῇ · ἀντὶ τοῦ
+ἀπειθὴς καὶ ἀνένδοτος. Τί δεῖ ποιῆσαι ; καὶ οὐκ οἰ-
+κεῖα μὲν ταῦτα τῇ σημασίᾳ τῆς λέξεως· ὁ δὲ νοῦς τῆς
+ἀκολουθίας τοῦ λόγου, τοιαύτην ἔννοιαν ἀπαιτεῖ· καὶ
+οὐκ ἀπροσφόρως ἐχρήσαντο τῇ λέξει, Λατῖνοι ὄντες
+οἱ ἐπίσκοποι ἐκεῖνοι, καὶ μὴ τὴν γλῶτταν ἔχοντες
+ἀκριβῶς ἐλληνίζουσαν. Is vero ἀκαθοσιώτως inventus
+fuerit, id est, difficilis, contumax, inexorabilis ; quid
+est faciendum ? Et hæc quidem cum significatione di-
+ctionis non conveniunt: sed sententia seriesque ora-
+tionis ejusmodi dictionem postulat : nec incommode
+usi sunt ea voce, cum Latini essent illi episcopi, in
+lingua Græca minus exercitati. Cot.
+(93) Ὅ, τι γέγραπται. Alter codex : τὸ γεγραμ-
+μένον. Cler.
+
+# block=10
+(84) Ποιησάμενοι. Ambo codd. λαβόντες. Id.
+(85) Ποιησάμενοι. Uterque cod. τολμήσαντες. Id.
+(86) ῥαπίζοντες. Deest in altero cod. Pro se-
+quente voce habet uterque λοιδορούμενοι, transitiva
+potestate. Id.
+
+# block=3
+(87) Πρὸς Ἄνναν. A Joanne evangelista tradi-
+tur, Christum primo ductum fuisse ad Annam,
+deinde ad Caipham. Male itaque hic ordo inverti-
+tur. Male in Chronico Alexandrino, p. 518, Pilatus
+mittit Dominum ad Herodem, Herodes ad Pilatum,
+Pilatus ad Annam, Annas ad Caipham. Cot.
+
+# block=11
+(88) Καὶ βαρέα. Deest in altero cod. Cler
+
+# block=12
+(89) ἀπελέγξαι. Cod. Vind. ἀποδεῖξαι. Id.
+(90) Μάρτυρας δύο. Hoc pertinet ad judicium
+Caiphæ. Sed qui memoriter historias referunt, in
+circumstantiis sæpenumero inveniuntur aberrare.
+Idque patribus non raro evenisse sciunt, qui evol-
+verunt illorum scripta. Cot.
+(91) ἀγαγόντες. Duo cod. Vind. ἐγγύοντες.

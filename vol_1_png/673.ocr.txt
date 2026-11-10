@@ -1,0 +1,198 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,156,314,906,1168
+2,945,309,1703,1168
+3,953,193,1689,295
+4,159,1347,909,2705
+5,949,1809,1698,1943
+6,167,195,910,297
+7,944,1942,1711,2704
+8,943,1342,1703,1812
+9,321,2708,580,2748
+10,773,1281,1071,1313
+11,159,93,217,129
+12,1622,80,1685,118
+13,407,144,651,177
+14,241,1207,489,1239
+15,570,84,1320,124
+16,1209,134,1415,174
+17,1485,2706,1563,2748
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Πῶς δὲ οὐ πολέμιος Θεοῦ ὁ περὶ τὰ πρόσκαιρα μὲν
+νύκτα καὶ μεθ᾽ ἡμέραν σπουδάζων, πῶν δὲ αἰωνίων
+ἀμελῶν; καὶ λουτρῶν μὲν καὶ προσκαίρου τροφῆς,
+ἑκάστης (79) μεταποιούμενος, τῶν δὲ ἀεὶ παραμόνων
+οὐκ ἐπιστρεφόμενος; πῶς δ᾽ οὐχὶ καὶ νῦν ἐρεῖ τῷ
+τοιούτῳ ὁ Κύριος· Ἐδικαιώθη τὰ ἔθνη ὑπὲρ ὑμᾶς (80)·
+ὥσπερ καὶ τὴν Ἱερουσαλὴμ ὀνειδίζων ἔλεγεν· « Ἐδι-
+καιώθη Σόδομα ἐκ σοῦ. » Εἰ γὰρ τὰ ἔθνη ἐξ ὕπνου
+αὐτῶν καθ᾽ ἡμέραν ἀναστάντα, τρέχει ἐπὶ τὰ εἴδωλα,
+τοῦ λατρεύειν αὐτοῖς, καὶ πρὸ παντὸς ἔργου καὶ πάσης
+πράξεως πρῶτον αὐτοῖς προσεύχονται, καὶ ἐν ταῖς ἑορ-
+ταῖς, καὶ ἐν ταῖς πανηγύρεσιν αὐτῶν οὐκ ἀφυστε-
+ροῦσιν (81), ἀλλὰ σχολάζουσιν· οὐχ οἱ τοπικοὶ (82) μόνον,
+ἀλλὰ καὶ οἱ πόῤῥωθεν οἰκοῦντες· καὶ ἐν τοῖς θεάτροις
+αὐτῶν ὡς ἐν συναγωγῇ πάντες συνέρχονται. Ὁμοίως
+καὶ οἱ μάτην λεγόμενοι Ἰουδαῖοι, καθ᾽ ἓξ ἡμέρας
+ἀργοῦντες, τῇ ἑβδόμῃ ἡμέρᾳ συνίασιν εἰς τὴν συν-
+αγωγὴν αὐτῶν (83), οὐδέποτε παραφίοντες (84) ἢ παρ-
+αμελοῦντες, οὔτε τῆς ἀργίας αὐτῶν, οὔτε τῆς συν-
+αγωγῆς αὐτῶν· οἱ τῆς δυνάμεως τοῦ Λόγου ἐν τῇ
+
+# block=2
+Quomodo autem non est hostis Dei, qui rebus
+quidem temporariis per noctem et diem vacat,
+æternas vero negligit? qui quidem balnearum et cibi
+caduci quotidie satagit, perpetuo autem durantium
+curam non gerit? Et quomodo non etiam nunc huic
+dicet Dominus : Justificatæ sunt super vos gentes,
+sicut exprobrans Hierosolymæ, aiebat : « Justificata
+est Sodoma ex te³⁷. » Nam si gentiles quotidie, e
+somno surgentes, ad idola properant, ut ea vene-
+rentur; et ante omne opus, omnemque actionem eis
+primum supplicant, atque in festis suis ac celebri-
+tatibus adeundis non negligentes sunt, sed admodum
+studiosi; non solum incolæ, sed etiam qui procul
+habitant : et in theatris suis tanquam in synagoga
+omnes conveniunt; similiter et qui abs re vocantur
+Judæi, post singulos quosque sex dies feriantur,
+septimo ad synagogam suam conveniunt, nun-
+quam intermittentes aut negligentes, neque vaca-
+tionem suam, neque suos conventus; cum tamen
+per incredulitatem suam sint exinaniti a virtute,
+
+# block=3
+Exemplum ad æmulationem inducens; gentilium et
+Judæorum vanus ad delubra et synagogas con-
+cursus.
+
+# block=4
+scriptoribus librorum ritualium. Petri Alexandrini
+locus, sive canon illius 15, apud Zonaram et Balsa-
+monem ita compleri debet ac restitui etiam ex mss.
+Regiis : Οὐκ ἐγκαλέσει τις ἡμῖν παρατηρουμένοις τε-
+τράδα καὶ παρασκευήν· ἐν αἷς καὶ νηστεύειν ἡμῖν
+κατὰ παράδοσιν εὐλόγως προστέτακται· τὴν μὲν τε-
+τράδα, διὰ τὸ γενόμενον συμβούλιον ὑπὸ τῶν Ἰουδαίων
+ἐπὶ τῇ προδοσίᾳ τοῦ Κυρίου· τὴν δὲ παρασκευήν,
+διὰ τὸ πεπονθέναι αὐτὸν ὑπὲρ ἡμῶν· τὴν γὰρ Κυρια-
+κὴν, χαρμοσύνης ἡμέραν ἄγομεν, διὰ τὸν ἀναστάντα
+ἐν αὐτῇ· ἐν ᾗ οὐδὲ γόνατα κλίνειν παρειλήφαμεν. Sed
+cum paulatim res in desuetudinem abiret, renovari
+debuit per canonem Nicænum ultimum. Addiderunt
+postea Græci Dominicæ diei diem Sabbati. Τὰς δὲ
+πάσας Σαββατοκυριακάς, dicitur in libello Pæniten-
+tiali Joannis Jejunatoris, et in Canonario Joannis
+monachi, qui tractatus subjunguntur operi Joannis
+Morini De administratione sacramenti Pænitentiæ:
+... καὶ ἑορτὰς [al. ἑορτὰς Δεσποτικὰς] καὶ δωδεκαήμε-
+ρον, ὁμοίως δὲ καὶ τὰς ἀπὸ τοῦ Πάσχα ἡμέρας ἕως τῶν
+Ἁγίων πάντων μὴ γονυκλινεῖν ἐν ταῖς εὐχαῖς, ἀλλὰ
+μόνον προσκυνήσεις ποιεῖν κατὰ πάντα. Omnibus au-
+tem Sabbatis et diebus Dominicis, et festis [Dominicis]
+et Dodecahemero, similiter et diebus a Paschate usque
+ad festum Omnium Sanctorum, in orationibus genua
+non flectere, sed sese tantum inclinare. Ad quod de-
+cretum obiter observo, aliter scivisse episcopos
+concilii Carthaginensis 4, can. 82: Pænitentes etiam
+diebus remissionis genua flectant. In Juris Græco-Ro-
+mani lib. III, ubi de Luca Patriarcha, num. 9: Οἱ
+ἀποστολικοὶ κανόνες κολάζουσι τὸν ἐν τῷ τυχόντι Σαβ-
+βάτῳ ἢ τῇ Κυριακῇ γονυκλινοῦντα ἢ νηστεύοντα.
+Apostolici canones puniunt eum qui in quovis Sabbato,
+vel die Dominico genu flectit, vel jejunat. Hoc tamen
+de genuflexione videtur esse σφάλμα μνημονικόν·
+neque enim legitur in Canonibus apostolorum. De-
+nique non omittam quem codices Regii tres 912,
+2381, 2419, et codex v. Cl. Claudii Jolii continent
+inter alios partim editos lib. III Juris Græco-Ro-
+mani, partim ineditos, canonem nondum publicatum
+Nicephori confessoris et synodi cum illo congre-
+
+# block=5
+(80) Ὑμᾶς. Alter codex ἡμᾶς. ID.
+(81) Ἀφυστεροῦσι. Ἀποστεροῦσι, alter cod. ID.
+(82) Οἱ τοπικοί. Habet idem οἱ ἐγγὺς τοπικοί, non
+male. IDEM.
+
+# block=6
+Παράδειγμα πρὸς ζῆλον ἐνάγον, ἡ Ἑλλήνων (78)
+καὶ Ἰουδαίων μάταιος συνδρομὴ ἐπὶ τοὺς νεὼς
+καὶ τὰς συναγωγάς.
+
+# block=7
+(83) Τῇ ἑβδόμῃ ἡμέρᾳ συνίασιν εἰς τὴν συν-
+αγωγὴν αὐτῶν. Corrige Philonem Judæum in li-
+bro De somniis, pag. 1125, sic : Μετὰ τοῦ συνήθους
+σχήματος προελεύσεσθε, τὴν μὲν δεξιὰν εἴσω χεῖρα
+συναγαγόντες, τὴν δὲ ἑτέραν ὑπὸ τῆς ἀμπεχόνης παρὰ
+ταῖς λαγόσι πήξαντες, ἵνα μηδ᾽ ἄκοντές τι τῶν εἰς τὸ
+σωθῆναι παράσχησθε; καὶ καθεδεῖσθε ἐν τοῖς συν-
+αγωγίοις ὑμῶν, τὸν εἰωθότα θίασον ἐγείροντες; καὶ
+ἀσφαλεῖς τε ἱερὰς βίβλους ἀναγινώσκοντες, κἂν εἴ τι
+μὴ τρανὲς εἴη διαπτύσσοντες, καὶ τῇ πατρίῳ φιλοσο-
+φίᾳ διὰ μακρηγορίας ἐνευκαιροῦντές τε καὶ ἐνσχολά-
+ζοντες; ac verte : An cum habitu consueto progredie-
+mini (agitur de Judæis in Sabbato), dextram qui-
+dem manum intra continentes, aliam vero sub veste
+ad ilia defigentes, ut neque inviti quidquam eorum
+quæ saluti vestræ conducant faciatis? Et residebitis
+in cœtibus vestris, agitantes solitos choros? Tutique
+legentes sacra volumina, et si quid non clarum comple-
+ctantur explicantes, ac in patria philosophia longis
+sermonibus tempus terentes atque otium consumentes.
+Male ediderunt, διαπτύοντες : tutumque locum inepte
+interpretati sunt. ID.
+(84) Παραφίοντες. Alter cod. παραφιέντες. CLER.
+
+# block=8
+gatæ, quod nostro proposito conducat. Sic autem
+habet: Χρὴ χάριν ἀσπασμοῦ κλίνειν γόνυ ἐν Κυριακῇ,
+καὶ ἐν ὅλῃ τῇ Πεντηκοστῇ· οὐ μὴν τὰς ἐξ ἔθους γονυ-
+κλισίας ποιεῖν. Hoc est, Oportet salutationis causa
+genu flectere in die Dominico, et in tota Pentecoste·
+non vero solemnes genuflexiones facere. Lege Regino-
+nem De ecclesiastica discipl., lib. I, c. 380. Item
+Nilum ep. 92, aut lib. III, ep. 132. COT.
+(78) Ἡ Ἑλλήνων, etc. In altero cod. Vind. ho-
+rum loco legimus : Τοὺς πιστοὺς ἀπὸ τῆς τῶν Ἑλλή-
+νων καὶ Ἰουδαίων ματαίας συνδρομῆς. Quæ inscri-
+ptio melius capiti convenit. CLER.
+(79) Ἑκάστης. Addit idem codex ἡμέρας, recte.
+ID.
+
+# block=9
+PATROL. GR. I.
+
+# block=10
+VARIORUM NOTÆ.
+
+# block=11
+745
+
+# block=12
+746
+
+# block=13
+ΚΕΦΑΛΑΙΟΝ Ξ΄.
+
+# block=14
+³⁷ Ezech. xvi, 52.
+
+# block=15
+CONSTITUTIONES APOSTOLICÆ. — LIB. II.
+
+# block=16
+CAPUT LX.
+
+# block=17
+24

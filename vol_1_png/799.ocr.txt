@@ -1,0 +1,185 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,195,136,949,349
+2,981,135,1733,346
+3,204,411,958,578
+4,1275,368,1445,400
+5,449,368,694,400
+6,983,408,1742,577
+7,185,592,955,2169
+10,611,83,1333,124
+11,196,83,251,124
+13,1659,80,1729,128
+14,979,582,1751,2164
+15,187,2192,1747,2350
+16,841,2380,1151,2432
+17,185,2442,953,2704
+18,985,2450,1745,2680
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+998
+
+# block=11
+997
+
+# block=10
+CONSTITUTIONES APOSTOLICÆ. — LIB. VII.
+
+# block=2
+magnum discrimen, imo vero prorsus disjunctæ
+consistunt; ac naturale quidem est vitæ iter,
+adscitum autem iter mortis, non illius quæ ex
+voluntate Dei existit, verum illius quæ ex insidiis
+adversarii ⁹.
+
+# block=1
+δὲ σύγκρισιν ἔχουσιν πρὸς ἑαυτάς· πολὺ γὰρ τὸ
+διάφορον, μᾶλλον δὲ πάντῃ κεχωρισμέναι τυγχάνουσι·
+καὶ φυσικὴ μέν ἐστιν ἡ τῆς ζωῆς ὁδὸς, ἐπείσακτος
+δὲ ἡ τοῦ θανάτου, οὐ τοῦ κατά γνώμην Θεοῦ ὑπάρ-
+ξαντος, ἀλλὰ τοῦ ἐξ ἐπιβουλῆς τοῦ ἀλλοτρίου (8).
+
+# block=5
+ΚΕΦΑΛΑΙΟΝ Β'.
+
+# block=4
+CAPUT II.
+
+# block=6
+Morales admonitiones Dominicarum constitutio-
+num, concordantes cum antiqua exhortatione
+divinarum legum. Interdictio iræ, homicidii,
+abominandæ Veneris, adulterii, omnisque vetitæ
+actionis.
+
+# block=3
+Ἠθικαὶ παρααινέσεις Κυριακῶν διατάξεων, συμ-
+φωνοῦσαι τῇ παλαιᾷ παρακελεύσει τῶν θείων
+νόμων. Ἀπαγόρευσις θυμοῦ, φθόνου⁹, διαφθο-
+ρᾶς, μοιχείας, καὶ πάσης ἀπηγορευμένης (9)
+πράξεως.
+
+# block=14
+Prima igitur est via vitæ ¹⁰; eaque est, quam et
+lex præcipit : ‹ Diligere Dominum Deum ex tota
+mente et ex tota anima ¹¹, unum ac solum, præter
+quem alius non est ¹², et proximum sicut se-
+ipsum ¹³; › et : ‹ Omne quod non vis tibi fieri, et
+tu hoc alteri ne facias ¹⁴. Benedicite iis qui vobis
+maledicunt; orate pro calumniantibus vos; diligite
+inimicos vestros ¹⁵. Quæ enim vobis gratia, si
+amatis eos qui vos amant ¹⁶? etenim ethnici quo-
+que hoc faciunt ¹⁸; vos autem amate eos qui vos
+oderunt. › Et inimicum non habebitis; ait enim :
+‹ Ne oderis ullum hominem, non Ægyptium, non
+Idumæum ¹⁹; › nam omnes sunt Dei opus. Cæterum
+fugite non naturas, sed voluntates improborum.
+‹ Abstine a carnalibus et mundanis cupiditatibus ¹¹.
+Si quis incusserit tibi colaphum in dexteram maxil-
+lam, obverte illi et alteram ²²; › non quod mala sit
+ultio, sed quod pluris fieri debeat patientia; David
+enim dicit : ‹ Si reddidi retribuentibus mihi mala ²³.
+Si angariaverit te aliquis unum milliare, vade cum
+illo duo; et ei qui vult tecum judicio contendere,
+et tunicam tuam tollere, dimitte ei et pallium ²⁴;
+et qui aufert quæ tua sunt, ne repetas. Petenti
+a te, da; et volenti mutuari a te, ne aversus
+claudas manum ²⁵; › vir enim justus miseretur et
+commodat ²⁶; siquidem omnibus vult tribui Pater,
+qui solem suum oriri facit super malos et bonos,
+et pluviam suam demittit super justos et injustos ²⁷.
+Æquum igitur est, ut omnibus demus, ex pro-
+priis laboribus : ‹ Honora enim, inquit, Dominum
+de tuis justis laboribus ²⁸; › oportet autem præ-
+ferre sanctos ²⁹. ‹ Non occides ³⁰; › id est, non
+destrues similem tibi hominem; dissolvis enim quæ
+recte facta sunt; non quod omnis cædes sit vitiosa;
+sed innocentis solius; cum justa cædes magis-
+tratibus solis reservetur. ‹ Non mœchaberis; › di-
+
+# block=7
+Πρώτη οὖν τυγχάνει ἡ ὁδὸς τῆς ζωῆς· καὶ ἔστιν
+αὕτη ἣν καὶ ὁ νόμος διαγορεύει· ‹ Ἀγαπᾷν Κύριον
+τὸν Θεὸν ἐξ ὅλης τῆς διανοίας (10), καὶ ἐξ ὅλης τῆς
+ψυχῆς, τὸν ἕνα καὶ μόνον, παρ' ὃν ἄλλος οὐκ ἔστι,
+καὶ τὸν πλησίον ὡς ἑαυτόν· › καὶ· ‹ Πᾶν ὃ μὴ θέλεις
+γενέσθαι σοι, καὶ σὺ (11) τοῦτο ἄλλῳ οὐ ποιήσεις.
+Εὐλογεῖτε τοὺς καταρωμένους ὑμᾶς· προσεύχεσθε
+ὑπὲρ τῶν ἐπηρεαζόντων ὑμᾶς· ἀγαπᾶτε τοὺς ἐχθροὺς
+ὑμῶν· ποία γὰρ ¹⁶ ὑμῖν χάρις, ἐὰν φιλῆτε τοὺς
+φιλοῦντας ὑμᾶς; καὶ γὰρ καὶ οἱ ἐθνικοὶ ¹⁹ τοῦτο
+ποιοῦσιν· ὑμεῖς δὲ φιλεῖτε τοὺς μισοῦντας ὑμᾶς. ›
+Καὶ ἐχθρὸν οὐχ ἕξετε· ‹ Οὐ μισήσεις γὰρ, φησὶ,
+πάντα ἄνθρωπον, οὐκ Αἰγύπτιον, οὐκ Ἰδουμαῖον· ›
+ἅπαντες γάρ εἰσι τοῦ Θεοῦ ἔργα. Φεύγετε δὲ οὐ τὰς
+φύσεις, ἀλλὰ τὰς γνώμας τῶν πονηρῶν. ‹ Ἀπέχου
+τῶν σαρκικῶν καὶ κοσμικῶν ἐπιθυμιῶν. Ἐάν τίς σοι
+δῷ ῥάπισμα εἰς τὴν δεξιὰν (12) σιαγόνα, στρέψον
+αὐτῷ καὶ τὴν ἄλλην· › οὐ φαύλης οὔσης τῆς ἀμύνης,
+ἀλλὰ τιμιωτέρας τῆς ἀνεξικακίας· λέγει γὰρ ὁ Δαβίδ·
+‹ Εἰ ἀνταπέδωκα τοῖς ἀνταποδιδοῦσί μοι κακά. 'Εὰν (
+ἀγγαρεύσῃ σέ τις μίλιον ἓν, ὕπαγε μετ' αὐτοῦ δύο,
+καὶ τῷ θέλοντί σοι κριθῆναι, καὶ τὸν χιτῶνά σου
+λαβεῖν, ἄφες αὐτῷ καὶ τὸ ἱμάτιον· καὶ ἀπὸ τοῦ αἴ-
+ροντος τὰ σὰ, μὴ ἀπαίτει. Τῷ (13) αἰτοῦντί σε,
+δίδου· καὶ ἀπὸ τοῦ θέλοντος δανείσασθαι παρὰ σοῦ,
+μὴ ἀποστραφεῖς (14) ἀποκλείσῃς τὴν χεῖρα· › δίκαιος
+γὰρ ἀνὴρ οἰκτείρει καὶ κιχρᾷ· πᾶσι γὰρ θέλει δίδο-
+σθαι ὁ Πατὴρ, ὁ τὸν ἥλιον αὑτοῦ ἀνατέλλων ἐπὶ πονη-
+ροὺς, καὶ ἀγαθοὺς, καὶ τὸν ὑετὸν αὑτοῦ βρέχων ἐπὶ
+δικαίους καὶ ἀδίκους. Πᾶσιν οὖν δίκαιον διδόναι ἐξ
+οἰκείων πόνων. ‹ Τίμα γὰρ, φησὶ, τὸν Κύριον ἀπὸ
+σῶν δικαίων πόνων· › προτιμητέον δὲ τοὺς ἁγίους.
+‹ Οὐ φονεύσεις· › τουτέστιν, οὐ φθερεῖς τὸν ὅμοιον
+σοι ἄνθρωπον· διαλύεις γὰρ τὰ καλῶς γινόμενα· οὐχ
+ὡς παντὸς φόνου φαύλου τυγχάνοντος, ἀλλὰ μόνου
+τοῦ ἀθώου, τοῦδ' ἐνδίκου ἄρχουσι μόνοις ἀφωρισμέ-
+
+# block=15
+⁸ Sap. I, 13; II, 24. ⁹ 1 φθόνου. ¹⁰ Anast. ibid. ¹¹ Deut. VI, 5. ¹² Marc. XII, 32. ¹³ Lev. XIX, 18.
+¹⁴ Tob. IV, 16. ¹⁵ Matth. V, 44. ¹⁶ Anast. inserit πέφυκεν. ¹⁷ Luc. VI, 32. ¹⁸ Matth. V, 47. ¹⁹ Anast..
+τελῶναι. ²⁰ Deut. XXIII. ²¹ I Petr. II, 11. ²² Matth. V, 39. ²³ Psal. VII, 5. ²⁴ Matth. V, 41, 40. ²⁵ Luc.
+VI, 30; Matth. V, 42. ²⁶ Psal. CXI, 5. ²⁷ Matth. V, 45. ²⁸ Prov. III, 9. ²⁹ Gal. VI, 10. ³⁰ Exod. XX, 13.
+
+# block=16
+VARIORUM NOTÆ.
+
+# block=17
+(8) 'Ἀλλοτρίου. In margine cod. Vindob. est hoc
+scholium : 'Ὁ γὰρ Θεὸς θάνατον οὐκ ἐποίησε, φθόνῳ
+δὲ διαβόλου θάνατος εἰς τὸν κόσμον εἰσῆλθεν. CLER.
+(9) Ἀπηγορευμένης. Cod. Vind. ἀνοσίας πράξεως
+Σοδομιτικῆς, quæ Glossema redolent. ID.
+(10) Διανοίας. Cod. Vind. καρδίας. ID.
+(11) Καὶ σύ, etc. Scholium hoc legitur in cod.
+
+# block=18
+Vindob. : τουτέστιν ὃ σὺ μισεῖς ἄλλῳ οὐ ποιήσεις. ID.
+(12) Εἰς τὴν δεξιάν. Hæ voces et proxime se-
+quens absunt in cod. Vind. ID.
+(13) Τῷ, etc. Deest integrum hoc præceptum in
+cod. Vind. ID. -
+(14) 'Ἀποστραφεῖς. Deest in eodem cod. ID.

@@ -1,0 +1,180 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,976,1107,1726,1359
+2,185,1106,945,1356
+3,181,154,936,937
+4,964,1523,1748,2700
+5,222,1387,696,1424
+6,795,1459,1095,1494
+7,1215,1049,1452,1087
+8,190,1515,937,2719
+9,184,110,251,154
+10,595,104,1321,141
+11,429,1050,681,1086
+12,967,158,1719,938
+13,1627,98,1711,144
+14,181,938,1719,1038
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=976 source_y1=1107 source_x2=1726 source_y2=1359
+Oratio post communionem.
+Percepto pretioso corpore, et pretioso sanguine
+Christi, agamus gratias ei, qui dignos effecit nos, ut
+participes essemus sanctorum ejus mysteriorum; ro-
+gemusque id nobis non in judicium ac damnationem
+fieri, sed in salutem, in utilitatem animæ et corpo-
+
+# block=2 source_x1=185 source_y1=1106 source_x2=945 source_y2=1356
+Προσφώνησις μετὰ τὴν μετάληψιν.
+Μεταλαβόντες τοῦ τιμίου σώματος, καὶ τοῦ τιμίου
+αἵματος τοῦ Χριστοῦ, εὐχαριστήσωμεν τῷ καταξιώσαντι
+ἡμᾶς μεταλαβεῖν τῶν ἁγίων αὐτοῦ μυστηρίων, καὶ πα-
+ρακαλέσωμεν, μὴ εἰς κρῖμα, ἀλλ' εἰς σωτηρίαν ἡμῖν γε-
+νέσθαι, εἰς ὠφέλειαν ψυχῆς καὶ σώματος, εἰς φυλακὴν
+
+# block=3 source_x1=181 source_y1=154 source_x2=936 source_y2=937
+Ἰησοῦς Χριστὸς, εἰς δόξαν Θεοῦ Πατρὸς, εὐλογητὸς
+εἰς τοὺς αἰῶνας. Ἀμήν. « Δόξα ἐν ὑψίστοις Θεῷ, καὶ
+ἐπὶ γῆς εἰρήνη, ἐν ἀνθρώποις εὐδοκία. Ὡσαννὰ τῷ
+Υἱῷ Δαβίδ· εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι
+Κυρίου, † Θεὸς Κύριος, καὶ ἐπεφάνη ἡμῖν· « Ὡσαννὰ
+ἐν τοῖς ὑψίστοις. » Καὶ μετὰ τοῦτο μεταλαμβανέτω
+ὁ ἐπίσκοπος, ἔπειτα οἱ πρεσβύτεροι, καὶ οἱ διάκονοι,
+καὶ ὑποδιάκονοι, καὶ οἱ ἀναγνῶσται, καὶ οἱ ψάλται,
+καὶ οἱ ἀσκηταὶ (66), καὶ ἐν ταῖς γυναιξὶν αἱ διακό-
+νισσαι, καὶ αἱ παρθένοι, καὶ αἱ χῆραι, εἶτα τὰ παιδία,
+καὶ τότε πᾶς ὁ λαὸς κατὰ τάξιν μετὰ αἰδοῦς καὶ εὐ-
+λαβείας ἄνευ θορύβου. Καὶ ὁ μὲν ἐπίσκοπος (67) δι-
+δότω τὴν προσφοράν, λέγων (68) · Σῶμα Χριστοῦ ·
+καὶ ὁ δεχόμενος λεγέτω· Ἀμήν. Ὁ δὲ διάκονος κατ-
+εχέτω τὸ ποτήριον, καὶ ἐπιδιδοὺς λεγέτω· Αἷμα
+Χριστοῦ, ποτήριον ζωῆς· καὶ ὁ πίνων λεγέτω· Ἀμήν.
+Ψαλμὸς δὲ λεγέσθω τριακοστὸς τρίτος (69), ἐν τῷ
+μεταλαμβάνειν πάντας τοὺς λοιπούς. Καὶ ὅταν πάντες
+
+# block=4 source_x1=964 source_y1=1523 source_x2=1748 source_y2=2700
+diaconi tempore Justini martyris; cujus exstat in-
+signe testimonium apologia 2; sed postea id pote-
+statis restrictum fuit canone 15 concilii Arelaten-
+sis II, canone 58 Carthaginensis IV, Gelasii Decre-
+to, etc. Lege S. Basilii epistolam 289; Hugo a S. Vi-
+ctore De sacramentis, cap. 38: Horum diaconorum
+officium est, corpus et sanguinem Domini distribuere;
+licet non ubique hoc observetur. Prætereo usum et
+abusum laicorum, repressamque quarundam femi-
+narum insolentiam; quæ ab aliis fuse explicata
+sunt. ID.
+(68) Λέγων. Simplici formulæ sequens ætas varie
+addidit, tam apud Græcos, quam apud Latinos.
+Insignem inter alia locum S. Augustini Sermone
+ad infantes De sacramento; invenies quoque in
+Hincmari Opusculo 2, cap. 12, p. 97, et in Ber-
+tramo paulo ante finem. ID.
+(69) Ψαλμὸς δὲ λεγέσθω τριακοστὸς τρίτος. Cy-
+rillus Catechesi Mystagogica ult. Μετὰ ταῦτα ἀκούετε
+τοῦ ψάλλοντος μετὰ μέλους θεῖον, προτρεπομένου
+ὑμᾶς εἰς τὴν κοινωνίαν τῶν ἁγίων μυστηρίων, καὶ
+λέγοντος· Γεύσασθε καὶ ἴδετε, ὅτι χρηστὸς ὁ Κύ-
+ριος (Ps. XXXIII, 9). In missa Appendicis ad librum
+Sacramentorum S. Gregorii p. 265, canitur tunc
+temporis psalmus CXXXVIII: Domine, probasti me;
+in Marci autem Liturgia psalmus XLI. Καὶ μετα-
+λαμβάνει ὁ ἱερεὺς εὐχ. τῆς κατὰ φιλανθρωπίας ἄλ-
+λος. Ὅν τρόπον ἐπιποθεῖ ἡ ἔλαφος ἐπὶ τὰς πη-
+γὰς. Legunt εὐχήτης, vertuntque, Hinc participat
+sacerdos euchites, seu orator, pro humanitate alius.
+Quemadmodum desiderat cervus ad fontes aqua-
+rum, etc. Rectius forsan : Καὶ μεταλαμβάνει ὁ ἱερεύς.
+Εὐχ. (pro εὐχή). Τῆς κατὰ φιλανθρωπίας. Ψαλμός·
+Ὅν τρόπον. Et communicat sacerdos. Oratio. Pro
+humanitate. Psalmus : Quemadmodum, etc. COT.
+
+# block=5 source_x1=222 source_y1=1387 source_x2=696 source_y2=1424
+²⁸ Luc. II, 14. ²⁹ Matth. XXI, 9.
+
+# block=6 source_x1=795 source_y1=1459 source_x2=1095 source_y2=1494
+VARIORUM NOTÆ.
+
+# block=7 source_x1=1215 source_y1=1049 source_x2=1452 source_y2=1087
+CAPUT XIV.
+
+# block=8 source_x1=190 source_y1=1515 source_x2=937 source_y2=2719
+(66) Οἱ ἀσκηταί. Non monachi ascetæ; sed laici,
+in severioribus pietatis officiis sese exercentes :
+quales semper inter Christianos exstitisse dubi-
+tari non debet; ut et ecclesiasticas virgines, ne-
+quaquam moniales ascetrias. Nam opus, quod
+notis imus illustratum, ante exortum vitæ monasti-
+cæ conscriptum fuit : unde in eo nulla illius men-
+tio, multa habenda, si per tempus licuisset. Voca-
+bulorum autem ἀσκήσεως et ἀσκητῶν in interiori
+vita absque monachatu tamen exempla sunt obvia.
+Ut, ταῦτα γνωστικῶς ἀσκήσεως προγυμνάσματα, apud
+Clementem Alexandrinum Strom. IV; τῶν ἐν ἡμῖν
+ἀσκητῶν, in Origene t. V, contra Celsum, p. 272.
+Consulenda ejusdem homilia 19 in Jeremiam, ulti-
+mæ editionis p. 193. E; sic Hierosolymitano Cyrillo
+Catechesi 10, Anna prophetissa filia Phanuelis est
+ἀσκήτρια. Parique modo populus Alexandrinus,
+referente Alexandrina synodo, Athanasium in epi-
+scopum flagitans, appellabat ἕνα τῶν ἀσκητῶν. Et
+in Synopseos Athanasianæ fine, Lucianus martyr
+vocatur magnus asceta. Hæc plus satis. COT.
+(67) Καὶ ὁ μὲν ἐπίσκοπος. Dant corpus Christi,
+eucharisticum panem, jure ordinario sacerdotes,
+sive primi sive secundi ordinis, hoc est, episcopi
+aut presbyteri. Post mille scriptores Incertus a
+R. P. Francisco Combefisio editus De captivitate
+Persica, p. 346: Ἱερεῖς, οἱ τῶν σεραφὶμ μειζότερον
+ἀξίωμα περικείμενοι. Ἐκεῖνος οὐκ ἐτόλμησεν τῇ χειρὶ
+τοῦ ἄνθρακος ἅψασθαι, ἀλλ' ἐν τῇ λαβίδι τούτῳ προσ-
+έγαυσεν· σὺ δὲ ταῖς χερσίν σου ταῖς πηλίναις τὰ τοῖς
+σεραφὶμ ἄθικτα (hoc malim quam ἀθέατα) διαδίδως
+μυστήρια. Sacerdotes, qui præ seraphim majorem
+dignitatem consecuti estis (Isa. VI, 6). Ille non ausus
+est carbonem manu contingere, sed eum forcipe strin-
+xit : tu vero luteis tuis manibus, intacta seraphimis
+mysteria distribuis. Simili jure, dabant quoque
+
+# block=9 source_x1=184 source_y1=110 source_x2=251 source_y2=154
+1109
+
+# block=10 source_x1=595 source_y1=104 source_x2=1321 source_y2=141
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=11 source_x1=429 source_y1=1050 source_x2=681 source_y2=1086
+ΚΕΦΑΛΑΙΟΝ ΙΔ'.
+
+# block=12 source_x1=967 source_y1=158 source_x2=1719 source_y2=938
+manibus bona voluntas ²⁸. Hosanna filio Davidis :
+benedictus qui venit in nomine Domini ²⁹ › Deus
+Dominus; et apparuit nobis : « Hosanna in altis-
+simis. » Post hoc sumat et communicet episcopus;
+deinde presbyteri, diaconi, subdiaconi, lectores,
+cantores et ascetæ; et in feminis diaconissæ, vir-
+gines et viduæ; postea pueri; tuncque omnis po-
+pulus ordine, cum pudore et reverentia, absque
+strepitu. Ac episcopus quidem tribuat oblatam,
+dicens : Corpus Christi; et qui recipit, respondeat,
+Amen; diaconus vero teneat calicem, ac tradendo
+dicat : Sanguis Christi, calix vitæ; et qui bibit,
+Amen respondeat. Psalmus autem tricesimus tertius
+dicatur, dum reliqui omnes communicant. Cumque
+universi et universæ communicaverint, accipientes
+diaconi quæ supersunt, inferant in pastophoria. Et
+diaconus, quando qui psallit fecerit finem, pronun-
+tiet :
+
+# block=13 source_x1=1627 source_y1=98 source_x2=1711 source_y2=144
+1110
+
+# block=14 source_x1=181 source_y1=938 source_x2=1719 source_y2=1038
+μεταλάβωσι καὶ πᾶσαι, λαβόντες οἱ διάκονοι τὰ περισσεύσαντα, εἰσφερέτωσαν εἰς τὰ παστοφόρια. Καὶ ὁ
+διάκονος λεγέτω, παυσαμένου τοῦ ψάλλοντος·

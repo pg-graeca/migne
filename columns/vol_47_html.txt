@@ -1,0 +1,19 @@
+151:1-2
+repeat
+155:1-2
+repeat
+204:3-4
+206:7-8 x2
+repeat
+282:83-84
+repeat
+378:275-276 x2
+repeat
+494:391-392 x2
+repeat
+496:391-392 x2
+repeat
+498:393-394 x2
+repeat
+639:533-534
+repeat

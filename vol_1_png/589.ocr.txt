@@ -1,0 +1,203 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,963,140,1720,1661
+2,173,142,929,1662
+3,960,1980,1731,2681
+4,178,1981,931,2132
+5,611,90,1282,130
+6,429,1680,674,1712
+7,178,2259,942,2695
+10,194,1849,1316,1898
+11,970,1724,1720,1789
+12,768,1923,1084,1967
+13,178,92,231,131
+14,1248,1680,1427,1714
+15,178,2126,933,2264
+16,1653,90,1717,132
+17,173,1720,933,1784
+18,181,1794,939,1844
+19,985,1802,1723,1844
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=16px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=16px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=16px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=5
+CONSTITUTIONES APOSTOLICÆ.—LIB. I.
+
+# block=16
+578
+
+# block=13
+577
+
+# block=1
+et vero mulier occurrit ei, speciem habens meretri-
+ciam, quæ juvenum corda evolare facit ; est autem
+ipsa in modum volucris vaga, est luxuriosa, et in
+domo non quiescunt pedes ejus : interdum enim fo-
+ris vagatur, interdum vero in plateis, ad omnem an-
+gulum insidiatur : deinde apprehendens, osculata
+est eum, et impudenti facie allocuta est eum. Vic-
+tima pacifica mihi est, hodie reddo vota mea ; ob
+hanc causam exivi obviam tibi, desiderans faciem
+tuam, inveni te; fasciis lectum meum tetendi, et ta-
+petiis Ægyptiis stravi; aspersi cubile meum croco, et
+domum meam cinnamomo; veni, et fruamur ami-
+citia usque in diluculum, veni, et in amore volute-
+mur ; » et quæ sequuntur, quibus subdit : « Seduxit
+autem eum multa collocutione, et laqueis labiorum
+abripuit eum, ille autem secutus est eam, instar
+cepphi elevatus ¹. » Et rursus ait : « Ne intenderis
+mulieri nequam : mel enim distillat de labiis fe-
+minæ meretricis ; quæ ad tempus pinguefacit fau-
+ces tuas, postea vero amarius felle invenies, et
+acutum magis gladio ancipiti ². » Et iterum : « Sed
+resili, et ne moreris, nec oculum tuum in eam in-
+tendas. Multos enim vulnerando dejecit, et innu-
+merabiles sunt, quos trucidavit ³. Quod si non fe-
+ceris, inquit, pœnitebit te in novissimis, quando
+contritæ fuerint carnes corporis tui; et dices :
+Quomodo odio habui disciplinam, et increpationes
+justorum declinavit cor meum ? Non audivi vocem
+instituentis me ; et cum doceret me, aurem non ad-
+hibui; pæne fui in omni malo ⁴. » Sed ne testimo-
+nia longius producamus, ac si quæ prætermisimus,
+vos, qui sapientes estis, vobis commoda colligentes,
+confirmate vos ex Scripturis sanctis, prava omnia
+declinantes, ut sancti in vita æterna apud Deum
+reperiamini.
+
+# block=2
+ἡ δὲ γυνὴ συναντᾷ αὐτῷ, εἶδος ἔχουσα πορνικόν, ἣ
+ποιεῖ νέων ἐξίπτασθαι καρδίας. Ἀνεπτερωμένη δέ
+ἐστι καὶ ἄσωτος, ἐν οἴκῳ δὲ οὐχ ἡσυχάζουσιν οἱ
+πόδες αὐτῆς· χρόνον γάρ τινα ἔξω ῥέμβεται, χρό-
+νον δὲ ἐν πλατείαις παρὰ πᾶσαν γωνίαν ; ἐνεδρεύει
+(52)· εἶτα ἐπιλαβομένη ἐφίλησεν αὐτὸν, ἀναιδεῖ δὲ
+προσώπῳ προσεῖπεν αὐτόν· Θυσία εἰρηνική μοι ἐστὶ,
+σήμερον ἀποδίδωμι τὰς εὐχάς μου· ἕνεκα τούτου ἐξῆλ-
+θον εἰς συνάντησίν σου, ποθοῦσα (53) τὸ σὸν πρόσω-
+πον, εὕρηκά σε· κειρίαις τέτακα τὴν κλίνην μου, ἀμ-
+φιτάπησι δὲ ἔστρωκα τοῖς ἀπ’ Αἰγύπτου· διέῤῥαγκα τὴν
+κοίτην μου κρόκῳ, τὸν δὲ οἶκόν μου κινναμώμῳ· ἐλθὲ
+καὶ ἀπολαύσωμεν φιλίας ἕως ὄρθρου, δεῦρο καὶ ἐγκυλι-
+σθῶμεν ἔρωτι, » καὶ τὰ ἑξῆς, οἷς ἐπιφέρει · « Ἀπε-
+πλάνησε δὲ αὐτὸν πολλῇ ὁμιλίᾳ, βρόχοις τε τοῖς ἀπὸ χει-
+λέων ἐξώκειλεν αὐτόν· ὁ δὲ ἐπηκολούθησεν αὐτῇ κεπ-
+φωθείς (54). » Καὶ πάλιν λέγει · « Μὴ πρόσεχε φαύλῃ
+γυναικί · μέλι γὰρ ἀποστάξει ἀπὸ χειλέων γυναικὸς
+πόρνης, ἣ πρὸς καιρὸν λιπαίνει σὸν φάρυγγα, ὕστερον
+μέν τοι πικρότερον χολῆς εὑρήσεις, καὶ ἠκονημένον
+μᾶλλον μαχαίρας διστόμου. » Καὶ πάλιν · « Ἀλλὰ ἀπο-
+πήδησον, καὶ μὴ (55) ἐγχρονίσῃς, μηδὲ ἐπιστήσῃς
+σὸν ὄμμα πρὸς αὐτήν. Πολλοὺς γὰρ τρώσασα κατα-
+βέβληκε, καὶ ἀναρίθμητοί εἰσιν, οὓς πεφόνευκεν. Εἰ δὲ
+μὴ, φησὶ, μεταμελήσῃ ἐπ’ ἐσχάτων σου, ἡνίκα ἂν
+κατατριβῶσι σάρκες σώματός σου, καὶ ἐρεῖς· Πῶς
+ἐμίσησα παιδείαν, καὶ ἐλέγχους δικαίων (56) ἐξέκλινεν
+ἡ καρδία μου ; οὐκ ἤκουον φωνῆς παιδεύοντός με καὶ
+διδάσκοντός με, οὐ παρέβαλλον τὸ οὖς μου, παρ’ ὀλί-
+γον ἐγενόμην ἐν παντὶ κακῷ. » Ἵνα μὴ δὲ διὰ πλειό-
+νων παρεκτείνωμέν τὰς μαρτυρίας· καὶ εἴ τινα παρή-
+καμεν, οἱ σοφοὶ ἑαυτοῖς τὰ καλὰ ἐπιλέγοντες, ἐκ τῶν
+ἱερῶν Γραφῶν ἐπιστερεοῦσθε, παραιτούμενοι πάντα
+τὰ φαῦλα εἰς τὸ ὁσίους εὑρεθῆναι ὑμᾶς ἐν ζωῇ αἰωνίῳ
+παρὰ Θεῷ.
+
+# block=6
+ΚΕΦΑΛΑΙΟΝ Η'.
+
+# block=14
+CAPUT VIII.
+
+# block=17
+Περὶ ὑποταγῆς γυναικὸς πρὸς ἄνδρα καὶ φιλάν-
+δρου καὶ σώφρονος.
+
+# block=11
+De uxoris virum diligentis et castæ subjectione erga
+maritum.
+
+# block=18
+Ἡ δὲ γυνὴ ὑποτασσέσθω τῷ ἑαυτῆς (57) ἀνδρί · ὅτι
+
+# block=19
+Mulier vero subjecta sit viro suo quoniam vir ca-
+
+# block=10
+¹ Prov. vii, 1 et seq. ² Prov. ix, 18, sec. LXX. ³ Prov. vii, 25. ⁴ Prov. v, 11.
+
+# block=12
+VARIORUM NOTÆ.
+
+# block=3
+phanius hæres. 79, cap. 2 : Τούτων τὸ φρόνημα κεπ-
+φούμενον τῇ τοῦ προειρημένου θηρὸς ἐπάρσει. Verbo
+κεπφοῦμαι utitur Cicero epistolarum ad Atticum
+lib. xiii, epist. 40. Nec præteriri debet insignis lo-
+cus S. Athanasii, epistola de synodis Arimini et
+Seleuciæ, edit. Paris., p. 912 : Καὶ περὶ μὲν Γεωρ-
+γίου τοῦ Καππάδοκος τοῦ ἐκβληθέντος ἀπὸ τῆς Ἀλεξαν-
+δρείας λόγος οὐδεὶς ἀνθρώπου, μήτε ἐκ προάγοντος
+βίου τὴν μαρτυρίαν ἔχοντος, μήτε ὅλως Χριστιανοῦ
+τυγχάνοντος · ἀλλὰ μόνον ὑποκριναμένου διὰ τὸν και-
+ρὸν τὸ ὄνομα, καὶ πορισμὸν ἡγησαμένου τὴν εὐσέβειαν.
+Διὸ οὐδὲ μέμψαιτο ἄν τις αὐτὸν εἰκότως, πταίοντα
+περὶ τὴν πίστιν , ἄνθρωπον μήτε εἰδότα περὶ ὧν λέ-
+γει, μήτε περὶ ὧν διαβεβαιοῦται, ἀλλὰ πᾶσι, κατὰ τὸ
+γεγραμμένον, ὡς κέπφον ἐπακολουθοῦντα. Ubi non
+obscure respicit ad testimonium Proverbiorum. Id.
+(55) Καὶ μή. Conjunctionem καὶ non habet alter
+codex Vind. et quidem recte. Cler.
+(56) Δικαίων. Deest in altero. Id.
+(57) Τῷ ἑαυτῆς. Alter τῷ ἰδίῳ ἑαυτῆς , quod est
+perinde. Id.
+
+# block=4
+mavit, convocavit. Certe versio Arabica loquentem
+exhibet. Postea versu 17, scriptum videntur repe-
+risse in Hebræo, אהלי tentorium meum, οἶκόν μου.
+Cot.
+
+# block=15
+(52) Ἐνεδρεύει. Deest in altero codd. Vindobo-
+nensium. Paulo post αὐτόν omittitur. Cler.
+(53) Ποθοῦσά. Additur in altero codd. ἰδεῖν,
+quod est forte Glossema. Id.
+
+# block=7
+(54) Ὁ δὲ ἐπηκολούθησεν αὐτῇ κεπφωθείς. Cep-
+phus avis esse dicitur levissima, stolidissima, captu
+facilis, et ad libidinem maxime prona. Inde ex An-
+tiquis, hunc textum LXX, Prov. vii, 22, alii de
+deceptione intellexerunt, alii de luxuria. Sed si le-
+vitas animalis assumatur , magis Versio Senum
+respondebit Veritati Hebraicæ , quæ habet פתאום
+statim ; παραχρῆμα Aquilæ, ἐξαίφνης Symmacho.
+Hesychius : Κέπφος, εἶδος ὀρνέου κουφοτάτου, περὶ
+τὴν θάλασσαν διατρίβοντος, ὃ εὐχερῶς ὑπὸ ἀνέμου
+μετάγεται. Ἔνθεν λέγεται ὀξὺς καὶ κοῦφος ἄνθρωπος
+κέπφος. Et postea κεπφωθείς exponit etiam per ἐπαρ-
+θείς, cui a Suida additur ὀξέως ἐλαυνόμενος. S. Epi-

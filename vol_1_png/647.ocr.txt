@@ -1,0 +1,208 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,970,883,1721,1568
+2,171,1757,938,2686
+3,189,881,935,1527
+4,974,137,1724,733
+5,192,138,934,732
+6,965,1928,1716,2422
+7,962,2484,1698,2687
+8,965,1763,1714,1930
+9,792,1679,1092,1716
+10,1243,764,1426,797
+11,974,804,1706,875
+12,195,803,930,876
+13,963,2420,1697,2486
+14,620,78,1298,118
+15,437,765,686,798
+16,217,1600,1106,1643
+17,185,84,263,126
+18,1645,84,1713,124
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=16px
+# block=18 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+CONSTITUTIONES APOSTOLICÆ.-LIB. II.
+
+# block=17
+693
+
+# block=18
+694.
+
+# block=4
+admodum gentiles, quando pœnitentiam agere
+volunt, in ecclesiam ad audiendum verbum admitti-
+mus, non tamen cum iis communicamus, donec per
+baptismi sigillum consummationem accipiant; ita,
+inquam, ad meliora conversis, donec pœnitentiæ
+fructus ostendant, in ecclesiam ingredi permittí-
+mus; ut Dei doctrinam audientes, non statim ac
+funditus intereant : hi tamen in oratione non com.
+municent; sed post legis, prophetarum ac Evan-
+gelii lectionem egrediantur, ut exeundo vitam et.
+mores emendent; studentes occurrere quotidie ad
+sacros conventus, et orationi vacare; quo et ipsi
+possint admitti, et qui eos viderint compungantur,
+metuque similis calamitatis cautiores evadant.
+
+# block=5
+Θέλουςι μετανοεῖν, εἰς ἐκκλησίαν προςδεγόμεθα, ὅπως
+τοῦ λόγου ἀκούωςιν, οὗ μὴν κοινωνοῦμεν αὐτοῖς, μέ-
+χρίς οὗ τὴν σφραγῖδα λαβόντες τελειωθῶσιν (40)· οὗ-
+τω καὶ τοῖς τοιούτοις, μέχρις οὗ μετανοίας καρπὸν
+ἐπιδείξωσιν ἐπιτρέπομεν εἰςέρχεσθαι, ὅπως τοῦ λό-
+γου ἀκούοντες, μὴ τελέως ἄρδην ἀπόλωνται· μὴ κοι-
+νωνείτωσαν δὲ ἐν τῇ προσευχῇ (41), ἀλλ᾽ ἐξἐρχέςθω-
+σαν μετὰ τὴν ἀνάγνωσιν τοῦ νόμου καὶ τῶν προφητῶν
+καὶ τοῦ Εὐαγγελίου, ὅπως διὰ τοῦ ἐξιέναι βελτιω-
+θῶσι (42) τὴν ἀναστροφὴν τοῦ βίου, σπουδάζοντες
+περὶ τὰς συνάξεις ἀπαντᾶν ὁσημέραι, καὶ τῇ δεήσει
+σχολάζειν, ὅπως καὶ αὐτοὶ δυνηθῶσιν εἰςδεχθῆναι, καὶ
+οἱ θεώμενοι αὐτοὺς κατανυγῶσι, καὶ ἀσφαλέςτεροι
+γένηνται, εὐλαβούμενοι τοῖς ὁμοίοις περιπεσεῖν.
+
+# block=10
+CAPUT XL.
+
+# block=15
+ΚΕΦΑΛΑΙΟΝ Μ'.
+
+# block=12
+"Οτι οὐ χρὴ ἐχθρωδῶς διακεῖσθαι περὶ τὸν ἅπαξ
+ἢ δεύτερον ἁμαρτάνοντα.
+
+# block=11
+Quod non oporteat hostiliter affici erga illum qui
+semel, vel iterum peccavit.
+
+# block=3
+Οὐ μέντοι γε βδελύξῃ τὸν περιπεσόντα ἑνὶ καὶ
+δευτέρῳ σφάλματι, ὦ ἐπίσκοπε, οὐδὲ κωλύσεις αὐ-
+τὸν τοῦ Κυριακοῦ λόγου, οὐδὲ κοινῆς διαίτης αὐτὸν
+ἐξώσεις· ἐπείπερ οὐδὲ ὁ Κύριος παρητεῖτο μετὰ τῶν
+τελωνῶν ἐσθίειν καὶ τῶν ἁμαρτωλῶν, καὶ (43) ὑπὸ
+τῶν Φαρισαίων ἐγκαλούμενος περὶ τούτου, ἔλεγεν·
+«Οὐ χρείαν ἔχουσιν οἱ ἰσχύοντες ἰατροῦ, ἀλλ᾽ οἱ κα-
+κῶς ἔχοντες. » Τοῖς οὖν δι᾽ ἁμαρτίας ἀφορισθεῖσι παρ᾽
+ὑμῶν, καὶ συναναστρέφεσθε καὶ συναυλίζεσθε (44),
+ἐπιμελούμενοι, παρακαλοῦντες, ὑποστηρίζοντες, λέ-
+γοντες αὐτοῖς· « Ἰσχύσατε χεῖρες ἀνεμέναι, καὶ γό-
+νατα παραλελυμένα. » Παρακαλεῖν γὰρ χρὴ τοὺς
+πενθοῦντας, καὶ τοῖς ὀλιγοψυχοῦσι προθυμίαν διδόναι,
+ὅπως μὴ τῇ ἀμετρίᾳ τῆς λύπης εἰς ἀφροσύνην χωρή-
+σωσιν· ἐπείπερ « ὀλιγόψυχος ἰσχυρῶς ἄφρων. »
+
+# block=1
+Cæterum, episcope, eum qui in unum et alterum
+prolapsus fuerit peccatum, noli exsecrari; nec ab
+auditione Dominici sermonis illum arceas nec a
+fratrum convictu pellas: quandoquidem nec Domi-
+nus cum publicanis ac peccatoribus comedere re-
+cusabat; cumque eam ob causam a Pharisæis ar-
+gueretur, ita respondit : ‹ Non opus habent medico
+qui valent, sed qui male habent ⁴⁹., › Cum iis igitur,
+qui peccatorum ergo a vobis excommunicati sunt,
+conversatione ac convictu jungimini, curam haben-
+tes, consolantes, suffulcientes, atque illis dicentes :
+‹ Confortamini manus remissæ, et genua soluta ⁵⁰., ›
+Consolandi enim sunt qui lugent, et animo defi-
+cientes recreandi; ne magnitudine mœstitiæ ad
+amentiam deveniant; quoniam ‹ pusillanimis valde
+insipiens est ⁵¹. ›
+
+# block=16
+⁴⁹ Matth. IX, 12. ⁵⁰ Isa. XXXV, 3. ⁵¹ Prov. XIV, 29, in LXX.
+
+# block=9
+VARIORUM NOTÆ.
+
+# block=2
+(40) Μέχρις οὗ τὴν σφραγῖδα λαβόντες τελειω-
+θῶσιν. Utrumque, tam nomen, quam verbum bap-
+tismum indicat. Dicunt enim Græci Patres de lava-
+cro regenerationis σφραγὶς , σφραγὶς τοῦ κηρύγμα-
+τος, σφραγὶς δεσποτική, vel Κυρίου, vel ἐν Κυρίῳ,
+ἐν Χριστῷ, σφραγὶς τῆς πίστεως, τῆς ἀληθείας σφρά-
+γισμα, δευτέρου βίου σφραγὶς, σφραγὶς ὀνομάτων
+Πατρὸς καὶ Υἱοῦ καὶ ἁγίου Πνεύματος, σωτήριον
+σφράγισμα, σφραγὶς θεία, ἁγία, μυςτική, πνευμα-
+τικὴ, ἐπουράνιος, βασιλική, ἀθανατοποιός, ἄθραυστος,
+ἀκατάλυτος, ἀνεπιχείρητος, etc., σφραγίζειν, σφραγί-
+ζειν τῷ βαπτίσματι. De baptizato, ἐσφραγισμένος, de
+non baptizato, ἀσφράγιστος. Latini, signum, signum
+fidei, signum Christi, sigillum, signaculum, signaculum
+fidei, obsignatio fidei, vel baptismi. Signare, obsi-
+gnare, baptismo consignare. Pari modo, eodemque
+in sensu, τελειοῦν, τελειοῦσθαι, τελείωςις, τέλειον,
+perficere, perfectus, consummatio, invenias non raro,
+apud utriusque Ecclesiæ doctores. Atque ex his
+Epiphanio lux affulget, qui scribit, in hæresi 74,
+Pneumomachorum, cap. 11, si libros editos con-
+sulimus, ἐπισφραγὶς τῆς χάριτος, οὐ σύνδεσμος τῆς
+Τριάδος. Hoc est, ex mente virorum doctissimorum,
+qui expungunt, οὐ, idem ille Spiritus sanctus gratia
+sigillum est, ac Trinitatis vinculum. Cum ex his ver-
+bis Ancorati cap. 7: ἐπεὶ σφραγὶς τῆς χάριτος σύν-
+δεσμος τῆς Τριάδος, (editio mere Græca mediam non
+habet virgulam,) verisimilior lectio conficiatur, ἐπεὶ
+
+# block=8
+σφραγὶς τῆς χάριτος ὁ σύνδεσμος τῆς Τριάδος; emer-
+gatque iste sensus utrobique, quandoquidem sigil-
+luni gratiæ est conjunctio Trinitatis, in baptismate
+videlicet; de quo agitur. ID. — Μέχρις. Vind. cod.
+ἄχρι. CLER.
+
+# block=6
+(41) Μὴ κοινωνείτωσαν δὲ ἐν τῇ προσευχή, etc.
+Notum id. Sed notabilis in primis locus Joannis
+Jejunatoris, sub finem Theodori Balsamonis pag.
+1102 : In rei autem sacræ celebratione omnes qui
+pœnitentiam agunt, et non communicant, diximus ca-
+techumenorum edicto debere ex templo egredi, et stare
+in ferula; in matutino autem, vesperis, et reliquis,
+templi aditum non eis esse prohibitum, quominus pos-
+sint ingredi, et in eo stare, si velint. Memoratus Bal-
+samon ad canonem Laodicenum 19, in quo sanci-
+tur de hoc ritu, prava laborat interpunctione :
+Ἕν μετανοίᾳ δέ εἰσιν, inquit, οἱ διά τινα ἁμαρτήματα
+ἐπιτιμηθέντες πιστοὶ, οἱ ἀξιούμενοι καὶ τῆς ἁγίας
+μεταλήψεως. Pone cum cod. Reg. 2431, punctum
+post ἐπιτιμηθέντες. Cor.
+
+# block=13
+(42) Βελτιωθῶσι. Vind. cod. ἐπιβελτιωθῶσι.
+CLER.
+
+# block=7
+(43) Καὶ. Vind.cod. ὃς καὶ. ΙD.
+(44) Συναναςτρέφεσθε καὶ συναυλίζεσθε. Ora-
+tionis series postulat συναλίζεσθε quod verbi interpre-
+tatur Turrianus. Rem autem ipsam videbis apud
+Dionysium Alexandrinum in Historia ecclesiastica
+Eusebii, lib. VI, cap. 42. Cor.

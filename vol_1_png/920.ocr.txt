@@ -1,0 +1,174 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,207,972,962,1396
+2,993,115,1752,929
+3,212,108,963,965
+4,992,934,1747,1708
+5,205,1403,955,1702
+6,204,1849,954,2690
+7,816,1793,1129,1827
+8,618,58,1332,93
+9,208,48,304,98
+10,1658,60,1744,104
+11,220,1708,1078,1762
+12,984,1852,1742,2664
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=207 source_y1=972 source_x2=962 source_y2=1396
+LVIII. Et ecce quidam de Scribis de medio po-
+puli exclamans ait : Jesus vester signa et prodigia
+quæ fecit, ut magus non ut propheta fecit. Huic
+Philippus vehementer occurrit ostendens, quia hac
+ratione accusaret etiam Moysen. Cum enim Moyses
+signa et prodigia fecerit in Ægypto, similiter au-
+tem et Jesus in Judæa, dubitari non possit, quin
+quod de Jesu diceretur, hoc etiam de Moyse dici
+videretur. Hæc et his similia plura protestatus si-
+luit Philippus.
+
+# block=2 source_x1=993 source_y1=115 source_x2=1752 source_y2=929
+major ille sine dubio, qui et propheta et Christus
+est, quam ille qui solum propheta est. Hæc et his
+similia plura prosecutus siluit. Post hunc Jacobus
+Alphæi sermonem fecit ad populum, quo osten-
+deret, non ideo credendum esse Jesu, quia de eo
+prophetæ prædixerint, sed ideo magis credendum
+esse prophetis, quod vere prophetæ sint, quia eis
+testimonium Christus reddat. Nam præsentia et
+adventus Christi illos vere prophetas fuisse desi-
+gnat. Dicebat enim non ab inferioribus majori,
+sed a majore inferioribus fidei testimonium dari.
+Hæc et multa his similia prosecutus, etiam Jaco-
+bus siluit. Post hunc Lebbæus populum cœpit ve-
+hementer arguere, quod non crederent Jesu ⁵, qui
+eis tantum profuerit, docendo quæ Dei sunt, so-
+lando afflictos, medendo infirmis, pauperes conso-
+lando, sed pro his omnibus bonis odia mortemque
+reddiderint. Hæc et his similia plura cum esset
+populo protestatus, siluit.
+
+# block=3 source_x1=212 source_y1=108 source_x2=963 source_y2=965
+addidit contra nos etiam hæc, quod Jesus noster
+non esset ipse, quem Moyses prophetam venturum
+esse prædixerit. Adversum hunc et alium qui cum
+ipso hæc eadem prosequebatur Zebedæi filii
+Jacobus et Joannes vehementer obnisi sunt, et
+quamvis haberent mandatum, ne ingrederentur
+civitates eorum neque verbum eis prædicationis in-
+ferrent ⁶, tamen ne sermo eorum, si confutatus non
+esset, aliorum læderet fidem, ita prudenter et for-
+titer responderunt, ut perpetuum eis silentium
+darent. Nam Jacobus de resurrectione mortuorum
+cum totius populi favore peroravit, Joannes vero
+ostendit, quia si cessarent ab errore montis Ga-
+rizin, consequenter agnoscerent ipsum esse Je-
+sum, qui secundum prophetiam Moysis exspecta-
+batur esse venturus, quoniam quidem signa et
+prodigia, ut fecit Moyses, ita fecit etiam Jesus,
+et dubium non est quin similitudo signorum ipsum
+esse testetur, quem sicut se dixit esse venturum.
+Hæc et alia plura his similia protestati siluere.
+
+# block=4 source_x1=992 source_y1=934 source_x2=1747 source_y2=1708
+LX. Et ecce unus ex discipulis Joannis affirma-
+bat, Christum Joannem fuisse, et non Jesum; in
+tantum, inquit, ut et ipse Jesus omnibus homi-
+nibus et prophetis majorem esse pronuntiaverit
+Joannem ⁶. Si ergo, inquit, major est omnibus,
+sine dubio et Moyse et ipso Jesu major habendus
+est. Quod si omnium major est, ipse est Christus. Ad
+hæc Cananæus Simon respondens, asseruit Joan-
+nem majorem quidem fuisse omnibus prophetis,
+et omnibus qui sunt filii mulierum, non tamen
+majorem esse Filio hominis. Et ideo Jesus quidem
+et Christus est, Joannes vero solum propheta, et
+tantum interest inter ipsum et Jesum (47), quan-
+tum inter præcursorem et eum cui præcurritur, et
+quantum inter eum qui legem·dat et eum qui le-
+gem servat. Hæc et his similia prosecutus siluit
+etiam Cananæus. Post quem Barnabas qui et Mat-
+thias (48), qui in locum Judæ subrogatus est apo-
+
+# block=5 source_x1=205 source_y1=1403 source_x2=955 source_y2=1702
+LIX. Pharisæus autem quidam audiens hæc, in-
+simulabat Philippum, quod Moysen æqualem dice-
+ret Jesu. Cui Bartholomæus respondens, constanter
+edocuit, quia non dicimus Jesum solum æqualem
+Moysi, sed majorem; quia Moyses quidem pro-
+pheta fuit, quod fuit et Jesus, quod autem fuit
+Jesus, Moyses non fuit, hoc est Christus, et ideo
+
+# block=6 source_x1=204 source_y1=1849 source_x2=954 source_y2=2690
+(47) Tantum interest inter ipsum et Jesum. Re-
+fert Christophorus Sandius in tractatu De veteribus
+scriptoribus ecclesiasticis, subjungi in ms. Bodleia-
+no, quantum inter stellas et solem. Quæ absunt a
+libris editis et a nostris codicibus : recte.
+(48) Barnabas, qui et Matthias. Cod. R. et P.
+Barsabas, in Carm. Barsabbas, in Sorb. autem,
+Barnabas cum sa supra na. Certe vicinitas nomi-
+num Barnabæ et Barsabæ, fraudi sæpe fuit indili-
+gentioribus librorum exscriptoribus. Imo arbitran-
+tur apud Bedam nonnulli, Pauli collegam de quo
+Act. iv, 36, esse eum qui cum Matthia ad aposto-
+latus sortem est statutus, Act. ı, 23, confundentes
+Barnabam cum Barsaba; eo magis, opinor, quod
+uterque diceretur Joses seu Joseph : illamque sen-
+tentiam rejicit quoque S. Chrysostomus. At Mat-
+thiæ datum fuisse nomen Barnabæ aut Barsabæ,
+hoc duntaxat in loco, si bene memini, refertur :
+quemadmodum de Thoma dicto etiam Juda, uni-
+cum forte exstat impressum testimonium, apud
+Eusebium, Hist. eccl., lib. ı, cap. ult. Cui addo hæc
+ex apostoli Thomæ Periodis Ἀνεκδότοις. Cod. Reg.
+2394 : Ἔλαχεν Ἰνδία Ἰούδᾳ Θωμᾷ τῷ καὶ Διδύμῳ,
+et paulo post, Ἰούδαν ὀνόματι; moxque, Ἰούδας τὸν
+καὶ Θωμᾶν. De Jacobo autem et Thaddæo comple-
+
+# block=7 source_x1=816 source_y1=1793 source_x2=1129 source_y2=1827
+COTELERII NOTÆ.
+
+# block=8 source_x1=618 source_y1=58 source_x2=1332 source_y2=93
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9 source_x1=208 source_y1=48 source_x2=304 source_y2=98
+1239
+
+# block=10 source_x1=1658 source_y1=60 source_x2=1744 source_y2=104
+1240
+
+# block=11 source_x1=220 source_y1=1708 source_x2=1078 source_y2=1762
+⁴ Matth. x, 5. ⁵ Ibid., 3, in Græco. ⁶ Matth. xi, 9, 11.
+
+# block=12 source_x1=984 source_y1=1852 source_x2=1742 source_y2=2664
+ctitur hæc velut S. Epiphanii codex Regius 1026 :
+Ἰάκωβος ὁ ἐπικληθεὶς Θαδδαῖος, ἀδελφὸς τοῦ Κυρίου
+γενόμενος τὸ κατὰ σάρκα. Ὃς καὶ πρῶτος ἐν Ἱερο-
+σολύμοις κατεστάθη ἐπίσκοπος ὑπὸ τῶν ἀποστόλων.
+Προφάσεως δὲ γενομένης ζητημάτων τοῖς Ἰουδαίοις,
+λίθοις ὑπ᾽ αὐτῶν βληθεὶς ἐκοιμήθη ἐν Ἱερουσαλήμ,
+καὶ ἐκεῖ ἐτάφη πλησίον τοῦ τάφου τῶν ἱερέων ἐνδό-
+ξως....... Θαδδαῖος δέ, ὁ καὶ Λεββαῖος, ὁ ἀδελφὸς αὐ-
+τοῦ, ὁ ἐπικληθεὶς Ἰούδας Ἰακώβου, etc. Et de Juda
+Jacobo in Manuelis Comneni Novella de feriis,
+quam edidit integram Carolus Labbæus, quæque
+ex parte legitur in Jure Orientali, in Jure Græco-
+Romano, post Synopsim Basilicorum, ac in Balsa-
+monis Scholiis ad Photiani Nomocanonis titulum 7 :
+Διὰ τὸν ἀπόστολον Ἰούδαν τὸν καὶ Θαδδαῖον, καὶ Λε-
+βαῖον αὐτ Λεββαῖον, καὶ Ἰάκωβον, quanquam
+Ἰακώβου forsan scribi debeat, Judam Jacobi. Deni-
+que de Thaddæo Barsabas, Chronici Alexandr., p. 504:
+Θαδδαῖος ὁ καὶ Λεβαῖος ὁ ἐπικληθεὶς Βαρσαβᾶς. Quid
+si scriptum a substituto Clemente, ὁ Βαρσαβᾶς, ille
+Barsabæ; eodem sensu quo de Justo Act. ı, 23, in
+Chrysostomo, ὁ μετὰ Ματθίου, qui cum Matthia :
+Rufinus vero legerit aut legendum putaverit ὁ
+Βαρσαβᾶς, Barsabas ¹

@@ -1,0 +1,139 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+2,200,422,958,2486
+3,242,282,1720,353
+4,774,193,1171,250
+6,186,2505,1744,2678
+7,210,61,265,94
+9,981,421,1751,2491
+10,761,61,1179,97
+12,1677,54,1749,108
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=2
+CLEMENS Romanæ urbis episcopus, charissimis
+fratribus JULIO et JULIANO, ac reliquis consodalibus
+nostris, gentibusque quæ circa vos sunt.
+Oportet fratres, omnes doctores, qui ad salutem
+animarum instituti sunt, et ad lucrandas animas
+episcopi sunt consecrati, pro cunctis sollicitudinem
+gerere, et errantes ad viam veritatis et ad portum
+salutis reducere. Et licet propter gentes, quæ circa
+vos sunt, in modico vos errasse contigerit ; melius
+est tamen redire ad veritatis viam, quam diutius
+in ipso errore perseverare ⁸³. Quoscunque enim de
+his, qui vos errare fecerunt, vel de his, qui adhuc
+verbum prædicationis non audierunt, potestis, vo-
+biscum assumite, et ad viam veritatis adducite, ne
+infructuosi, sed fructuosi Domino inveniamini. ⁸⁴ Et
+quoniam quidem, sicut a cultore neglecta terra,
+spinas et tribulos necessario producit, ita sensus
+vester longi temporis incuria multas et noxias opi-
+niones rerum et intelligentias falsæ scientiæ ger-
+minavit ; opus est nunc multa diligentia ad excolen-
+dum rus mentis vestræ, ut hoc sermo veritatis
+(qui est verus et diligens cordis colonus) assiduis
+excolat disciplinis. Vestrum ergo est præbere obe-
+dientiam, et occupationes ac sollicitudines super-
+fluas amputare , ne bonum verbi semen enecet
+noxium germen. Potest enim fieri, ut multi tempo-
+ris negligentiam brevis et assidua reparet diligen-
+tia. Incertum namque est uniuscujusque tempus
+vitæ. Et ideo festinandum est ad salutem, ne forte
+cunctantem mors repentina præveniat. ⁸⁵ Et ob hoc
+acrius adnitendum ⁸⁶ est, ut, dum est temporis
+spatium, collecta malæ consuetudinis vitia resecen-
+tur. Quod non aliter facere poteritis, nisi ut ira-
+scamini quodammodo adversum vosmetipsos pro
+his quæ inutiliter gessistis ac turpiter. Hæc enim
+est utilis ⁸⁷ vita ⁸⁸, et justa et necessaria iracundia,
+ut unusquisque, in quibus erravit, et perperam
+gessit, indignetur, et semetipsum accuset. Ex qua
+indignatione accenditur in nobis ignis quidam, qui
+velut agro sterili immissus, consumptis et excoctis
+radicibus pessimæ voluntatis ⁸⁹, bono semini verbo
+Dei fecundiorem cordis præparet glebam. Puto au-
+tem, quod satis dignas habeatis causas iracundiæ,
+ex quibus justissimus ignis iste coalescat ⁸⁹*, si
+consideretis, in quantos vos errores deduxerit igno-
+rantiæ malum, quantosque lapsus et quanta præci-
+pitia ad peccandum dederit : a quantis vos bonis
+
+# block=3
+Scripta discipulis suis Julio et Juliano, qui malorum hominum persuasionibus aliquatenus a recta via
+declinaverant, [et his atque] gentibus, inter quas habitabant, directa.
+
+# block=4
+EPISTOLA IV.
+
+# block=6
+⁸³ perdurare. ⁸⁴ Recognit. VI, c. 2. ⁸⁵ Recognit., ibid., c. 3. ⁸⁶ innitendum. ⁸⁷ Hæc vox videtur su-
+perflua. ⁸⁸ Forte vitæ. In Recognitionibus : Hæc enim est justa, vocibus aliis omissis. HARDUINUS.
+⁸⁹ voluptatis. ⁸⁹* concalescat. ⁹⁰ in Recognit., concupiscentiæ. HARDUINUS. ⁹⁰* Recognit. VI, c. 4.
+⁹¹ Luc. XII, 49. ⁹² secantis. ⁹³ consurgit. ⁹⁴ Matth. X, 34. ⁹⁵ Recognit. VI, c. 5. ⁹⁶ In Recognit., data:
+HARDUINUS.
+
+# block=7
+501
+
+# block=9
+abstraxerit, et in quæ præcipitari mala, et, quod
+est super omnia gravius, quod vos in futuro sæ-
+culo æternis pœnis obnoxios fecit. Nonne pro his
+omnibus, ubi vobis veritatis lumen effulsit, ignis
+justissimæ indignationis accenditur, et iracundiæ
+Deo placitæ intra vos consurgit incendium, quo
+consumatur et radicitus intereat omne germen, si
+quod forte intra vos malæ conscientiæ ⁹⁰ pullula-
+vit ? ⁹⁰* Unde et ipse qui misit nos, cum venisset, et
+omnem mundum vidisset ad malitiam declinasse,
+non continuo ei pacem, in erroribus posito, dedit,
+ne eum confirmaret in malis, sed ignorantiæ ejus
+ruinis scientiam veritatis opposuit ; ut, si qui forte
+resipiscerent, lumen veritatis aspicerent, deceptos
+se, et in præcipitia erroris abstractos merito do-
+lerent, et iracundiæ salutaris ignem adversus de-
+ceptricem suam conciperent ignorantiam. Ob hoc
+itaque dicebat : Ignem veni mittere in terram, quem
+volo ut accendatur ⁹¹. Est ergo pugna quædam, quæ
+gerenda nobis est in hac vita. Sermo enim veritatis
+et scientiæ necessario separet homines ab errore et
+ignorantia ; sicut sæpe videmus, putrefactas et
+emortuas carnes corporis a connexione viventium
+membrorum, ferro secante ⁹², separari. Tale ergo
+aliquid est, quod agit veritatis agnitio. Necesse
+enim, ut salutis causa filius, verbi gratia, qui ser-
+monem receperit veritatis, a parentibus separetur
+incredulis, aut rursum pater separetur a filio, aut
+filia a matre. Et hoc modo inter propinquos atque
+consanguineos, credentes atque incredulos, scien-
+tiæ atque ignorantiæ, veritatisque et erroris pugna
+consistit ⁹³. Et ob hoc iterum dicebat, qui nos mi-
+sit : Non veni pacem mittere in terram, sed gla-
+dium ⁹⁴. ⁹⁵ Quod si dicat aliquis : Et quomodo ju-
+stum videtur separari filios a parentibus ? Audi
+quomodo : Quia cum ipsis si in errore permaneant,
+neque illis proderunt ; et ipsi cum illis pariter in-
+teribunt. Justum igitur et valde justum est, sepa-
+rari eum qui salvari vult, ab eo qui non vult. Sed
+et illud adverte, quia non ex illis qui rectius intel-
+ligunt venit ista separatio. Illi enim volunt interesse
+pariter, et prodesse his, et docere meliora. Sed et
+istud proprium est ignorantiæ vitium, ut confutan-
+tem se veritatis lucem non ferat habere de proximo.
+Et ideo ex illis ista nascitur separatio. Nam qui
+scientiam veritatis accipiunt, quia bonitatis plena
+est, tanquam a bono Deo datam ⁹⁶, cupiunt eam,
+
+# block=10
+EPISTOLÆ DECRETALES.
+
+# block=12
+502

@@ -1,0 +1,173 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+2,228,1106,985,2689
+3,1032,156,1782,916
+5,253,144,998,915
+6,1015,1108,1779,2694
+8,668,88,1386,131
+9,285,962,768,999
+11,856,1033,1151,1070
+14,255,78,329,128
+15,1715,98,1785,144
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=2
+Nysseno Oratione in suam ordinationem ; Hierony-
+mo epist. 61 in Joannem Hierosolymitanum cap. 4;
+pseudo-Chrysostomo hom. de Nativitate Domini ad
+Lucæ ɪɪ, ac Theodorito cum apud Photium Biblio-
+thecæ cod. ᴄᴄʟxxɪɪɪ extremo, ubi interpres plane est
+talpa, tum ad I Corinth. xɪv, 31. Verum Alexan-
+driæ, ex quo Arius hæresiarcha, illius Ecclesiæ
+presbyter, in concionibus suis orthodoxam fidem
+evertere conatus est, solus episcopus sermonem
+habebat ad populum, inquiunt historici, Socrates
+lib. v, cap. 22, et Sozomenus lib. vɪɪ, cap. 19. At-
+que is mos videtur in Ecclesia Africana viguisse
+temporibus Cypriani et Optati. Ille enim scribit ep.
+56 : Nec quisquam, fratres dilectissimi, cum popu-
+lum nostrum fugari conspexerit metu persecutionis et
+spargi, conturbetur, quod collectam fraternitatem non
+videat, nec tractantes episcopos audiat. Hic vero sub
+finem operis adversus Donatistas : Et locutum Ma-
+carium esse aliquid in populo constat, sed insinuandi
+alicujus rei causa, non tamen tractandi, quod est epi-
+scoporum. Statim autem post Optatum presbyteris
+jus verbi faciendi datum colligo ex canone 33 con-
+cilii Carthaginensis 4. Ita tamen principio ut id co-
+ram episcopis non fieret ; quemadmodum significa-
+tur a Possidio in Vita S. Augustini c. 5, et ab ipso
+Augustino epist. 77. Quod postremum (usitatum ad-
+huc in Hispania, septimo sæculo ineunte, concilii 2
+Hispalensis tempore ) valde displicuit B. Hierony-
+mo ad Nepotianum scribenti, ac postea Alcuino ep.
+vɪ. Ut et episcopos irasci, si presbyteri interdum
+exhortarentur plebem, ac in ecclesiis prædicarent,
+grande nefas visum fuit auctori Epistolæ de septem
+Ecclesiæ ordinibus, quæ tom. IX Hieronymi excusa
+est. Denique apud Gallos nostros anno 529 Patres
+concilii Vasensis 2, can. 2, presbyteris potestatem
+verbum faciendi seu prædicandi dederunt. Nam an-
+tea presbyteros vel omnino tacuisse, vel recitasse
+duntaxat homilias sanctorum Patrum, indicat Vita
+B. Cæsarii Arelatensis a Cypriano illius discipulo
+conscripta, cap. 28. ᴄᴏᴛ.
+(46) Στηκέτωσαν δέ, etc. Portarum custodia
+apud Græcos ordo non est, sed officium, quod legi-
+tur fuisse commissum diaconis, subdiaconis, aliis-
+que clericis, atque etiam non clericis. Merito au-
+tem hic diaconissæ stare jubentur ad mulierum in-
+troitus, et cap. sequenti mulieribus in ecclesiam
+advenientibus locum facere; quia quæ ad minorem
+
+# block=3
+καὶ τελευταῖος πάντων· ὁ ἐπίσκοπος, ὃς ἔοικε κυβερ-
+νήτῃ. Στηκέτωσαν δὲ (46) οἱ μὲν πυλωροὶ εἰς τὰς
+εἰσόδους τῶν ἀνδρῶν, φυλάσσοντες αὐτὰς, αἱ δὲ διά-
+κονοι εἰς τὰς τῶν γυναικῶν, δίκην ναυστολόγων (47).
+Καὶ γὰρ καὶ ἐν τῇ σκηνῇ τοῦ μαρτυρίου (48), ὁ αὐ-
+τὸς παρηκολούθει λόγος καὶ (49) τύπος, καὶ ἐν τῷ
+ναῷ τοῦ Θεοῦ. Εἰ δέ τις εὑρεθῇ παρὰ τόπον καθεζό-
+μενος, ἐπιπλησσέσθω ὑπὸ τοῦ διακόνου, ὡς πρω-
+ρεύς ²⁴ (50), καὶ εἰς τὸν καθήκοντα αὐτῷ τόπον μετα-
+γέσθω· οὐ μόνον γὰρ νηῒ, ἀλλὰ καὶ μάνδρῃ ὡμοίωται
+ἡ Ἐκκλησία. Ὡς γὰρ οἱ ποιμένες ἕκαστον τῶν ἀλόγων,
+αἰγῶν, φημὶ, καὶ προβάτων, κατὰ συγγένειαν καὶ
+ἡλικίαν ἱστῶσι, καὶ ἕκαστον αὐτῶν τὸ ὅμοιον τῷ ὁμοίῳ
+συντρέχει· οὕτω καὶ ἐν τῇ ἐκκλησίᾳ, οἱ μὲν νεώτε-
+ροι ἰδίᾳ καθεζέσθωσαν, ἐὰν ᾖ τόπος, εἰ δὲ μὴ, στη-
+κέτωσαν ὀρθοί· οἱ δὲ τῇ ἡλικίᾳ ἤδη προβεβηκότες, καθ-
+εζέσθωσαν ἐν τάξει. Τὰ δὲ παιδία ἑστῶτα προσλαμ-
+βανέσθωσαν αὐτῶν οἱ πατέρες καὶ μητέρες (51)· αἱ
+
+# block=5
+naulum a vectoribus exigunt. Etenim in tabernacu-
+lo testimonii ²³, et in templo Dei, eadem ratio ac
+forma idemque ordo servabatur. Quod si quis ex-
+tra locum suum sedens reperiatur, increpetur a
+diacono, qui vice proretæ fungitur, et ad locum
+convenientem traducatur. Ecclesia enim non solum
+navi, sed etiam caulæ comparatur. Nam sicut pa-
+stores singulas pecudes, capras dico et oves, se-
+cundum genus et ætatem collocant, atque inter eas
+similis simili concurrit ; sic et in ecclesia ; juniores
+quidem, seorsum sedeant, modo sit locus, alioquin
+arrecti stent ; ætate vero jam provecti, ordine se-
+deant ; at stantes pueros, recipiant eorum patres et
+matres ; rursus adolescentulæ separatim maneant,
+si locus fuerit, sin secus, pone mulieres statuan-
+tur : quæ jam nupserunt, et liberos quibus impe-
+rent habent, privatim etiam locentur ; at virgines,
+et viduæ, et anus, primæ omnium stent, aut se-
+
+# block=6
+sexum pertinent pleraque, honestius per feminas
+administrantur. Vide lib. vɪɪɪ, cap. 20 et 28. Nota
+quoque apud Zonaram et Balsamonem ad canonem
+Laodicenum 11, mulieres πρεσβύτιδας et προκαθη-
+μένας, ἐξαρχούσας τῶν εἰσερχομένων εἰς τὴν ἐκκλη-
+σίαν γυναικῶν, καὶ καθιστάσας αὐτὰς πρὸς εὐταξίαν,
+καὶ ὅπως καὶ ὅπου χρὴ ταύτας ἑστάναι παιδευούσας
+αὐτάς. Denique legito, si lubet, in Jure Græco - Ro-
+mano lib. v, pag. 381, seu Responsione Theodori
+Balsamonis ad interrogationem 35 Marci Alexan-
+drini, de diaconissis Constantinopolitanis: Ἐκκλη-
+σιαζούσαις τὰ πολλὰ, καὶ τὴν γυναικωνῖτιν ἐκκλησια-
+στικῶς διορθουμέναις. ᴄᴏᴛ.
+(47) Δίκην ναυστολόγων. Erant ναυστολόγοι seu
+ναυτολόγοι, qui in prora constituti, tum navem in-
+trantes recipiebant, tum vero cum navigaturis de
+futuro itinere colloquebantur, de naulo pacisceban-
+tur. Hesychio enim, Grammaticorum facile princi-
+pi, ναυσθλοῦν et ναυτολογεῖν, ναυσθλωσάμενος ( ita
+legendum ) et ναυστολογήσας, ναῦσθλον et ναῦλον,
+idem sunt. Quocirca naustologos referunt partim ja-
+nitores, ratione videlicet primi nautologorum offi-
+cii ; partim catechistæ, ratione posterioris. Quam
+secundam comparationem videre est inferius Epi-
+stola dicta Clementis ad Jacobum, cap. 14 et 15. In
+ms. Regio 2392 hæc nactus sum :... Ἐκ τῶν διατά-
+ξεων... Ὅτι ἔοικεν ἡ Ἐκκλησία νηΐ. Ὁ μὲν κυβερνήτης
+ἐστὶν ὁ Χριστός · ὁ δὲ πρωρεὺς, ὁ ἐπίσκοπος · οἱ ναῦ-
+ται, οἱ πρεσβύτεροι · οἱ τοίχαρχοι, οἱ διάκονοι · οἱ ναυ-
+τολόγοι, τὸ τῶν ἀναγνωστῶν καὶ ὑπηρετῶν τάγμα. ɪᴅ.
+(48) Καὶ γὰρ ἐν τῇ σκηνῇ τοῦ μαρτυρίου. Et
+lib. vɪɪɪ, cap. 20, de janitoribus in veteri populo,
+præter sacras Scripturas, agunt Philo libro De sa-
+cerdotum honoribus, et Josephus, præcipue lib. ɪɪ
+contra Apionem. ɪᴅ.
+(49) Λόγος καί. Deest in altero cod. ut et seqq.
+καὶ ἐν τῷ ναῷ τοῦ Θεοῦ. ᴄʟᴇʀ.
+(50) Πρωρεύς. Προσῆκον, alter cod. ɪᴅ.
+(51) Τὰ δὲ παιδία ἑστῶτα προσλαμβανέσθω-
+σαν, etc. Eleganter ac pie, in homilia vɪ contra
+Anomæos sub finem, tomo I B. Chrysostomi : Κε-
+φαλὴ τῆς γυναικός ἐστιν ὁ ἀνήρ· βοηθός ἐστιν ἡ γυ-
+νὴ τοῦ ἀνδρός· μὴ τοίνυν μήτε ἡ κεφαλὴ χωρὶς τοῦ
+σώματος ἀνεχέσθω τῶν οὐδῶν ἐπιβαίνειν τῶν ἁγίων
+τούτων, μήτε τὸ σῶμα χωρὶς τῆς κεφαλῆς φαινέσθω·
+ἀλλ’ ὁλόκληρος ἐνταῦθα εἰσίτω ὁ ἄνθρωπος. Ἔχοντες
+καὶ τὰ παιδία μεθ’ ἑαυτῶν. Εἰ γὰρ δένδρον τερπνὸν
+ἰδεῖν, ἀπὸ τῆς ῥίζης αὐτῆς νεόφυτον ἔχον ἀνεστηκός·
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9
+²³ Deut. xxɪɪɪ, 1. ²⁴ F. πρωρέως.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=14
+731
+
+# block=15
+732

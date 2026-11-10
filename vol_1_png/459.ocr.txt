@@ -1,0 +1,210 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,190,1875,951,2706
+2,977,2173,1735,2673
+3,976,611,1740,950
+4,199,609,959,949
+5,194,1381,952,1877
+6,443,560,717,594
+7,197,1144,955,1382
+8,716,90,1190,127
+9,809,1078,1111,1112
+10,1261,556,1474,593
+11,990,152,1740,452
+12,974,1149,1748,2177
+13,203,147,952,451
+14,232,990,1391,1031
+15,1676,93,1729,125
+16,193,84,281,130
+17,207,448,1743,528
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=16px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=16px
+# block=17 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+317
+
+# block=8
+EPISTOLA I AD CORINTHIOS.
+
+# block=15
+318
+
+# block=13
+χῆλος · ἐασόν με [ἐξολ]εθρεῦσαι (67) αὐτοὺς, καὶ
+ἐξυ[λείψω τὸ] ὄνομα αὐτῶν ὑποκά[τωθεν] τοῦ
+οὐρανοῦ, καὶ ποιήσω [σε εἰς ἔ]θνος μέγα καὶ θαυ-
+μαστὸν [καὶ πολὺ] μᾶλλον ἢ τοῦτο. [Εἶπε δὲ
+Μ]ωϋσῆς · Μηδαμῶς, Κύριε, [ἄφες τὴν] ἁμαρτίαν
+τῷ λαῷ τούτῳ, ἢ κἀμὲ (68) ἐξάλειψον ἐκ βίβλου
+ζώντων. Ὦ μεγάλης ἀγάπης, ὦ τελειότητος ἀνυπερ-
+
+# block=11
+tem [magnam et mirabilem, et multam magis quam
+hanc. Dixit autem Moyses : Neutiquam, Domine;
+remitte peccata huic populo; vel etiam me dele de li-
+bro viventium ⁷⁷. 0 charitatem magnam ! o insupe-
+rabilem perfectionem ! Libere ad Dominum loqui-
+tur famulus, remissionem pro plebe postulat, vel se
+ipsum quoque cum eis deleri petit.
+
+# block=17
+σλήτου ! Παῤῥησιάζεται (69) θεράπων πρὸς Κύριον αἰτεῖται ἄφεσιν τῷ πλήθει, ἢ καὶ ἑαυτὸν ἐξαλειφθῆναι
+μετ’ αὐτῶν ἀξιοῖ.
+
+# block=10
+CAPUT LIV.
+
+# block=6
+ΚΕΦΑΛΑΙΟΝ ΝΔ΄.]
+
+# block=4
+Τίς οὖν ἐν ὑμῖν γενναῖος ; τίς εὔσπλαγχνος ; τίς πε-
+πληροφορημένος (70) ἀγάπης; εἰπάτω· Εἰ δι’ ἐμὲ
+στάσις (71), καὶ ἔρις, καὶ σχίσματα, ἐκχωρῶ, ἄπει-
+μι (72), οὗ ἐὰν βούλησθε, καὶ ποιῶ τὰ προστασσόμενα
+ὑπὸ τοῦ πλήθους· μόνον τὸ ποίμνιον τοῦ Χριστοῦ
+εἰρηνευέτω, μετὰ τῶν καθεσταμένων πρεσβυτέρων.
+Τοῦτο ὁ ποιήσας ἑαυτῷ μέγα κλέος ἐν Κυρίῳ περι-
+ποιήσεται, καὶ πᾶς τόπος δέξεται αὐτόν. Τοῦ γὰρ
+
+# block=3
+Quis ergo inter vos generosus ? quis misericors ?
+quis charitatis plenus ? Dicat : Si propter me seditio,
+et discordia, et schismata; discedo, abeo, quo-
+cunque volueritis ; et quæ multitudo jusserit facio:
+tantum ovile Christi in pace degat, cum constitutis
+presbyteris. Qui hoc fecerit, sibi magnum decus in
+Domino comparabit; et omnis locus eum excipiet.
+Domini enim est terra, et plenitudo ejus ⁷⁸. Hæc,
+
+# block=14
+⁷⁷ Exod. xxxII, 7, 9, 10, 31, 32, xxxIII, 3; Deut. Ix, 12-14. ⁷⁸ Psal. xxiII, 1.
+
+# block=9
+VARIORUM NOTÆ.
+
+# block=7
+(67) ᾿Εξολεθρεῦσαι. Vide supra, cap. 14. GALL.
+(68) Κἀμέ. Ita ms. apud Wott. Ita quoque Cle-
+mens Alex. l. c. ut apud LXX. Editi vero, præter
+Londin. καὶ μέ. Ib.
+(69) Παῤῥησιάζεται, etc. Hæc usque ad histo-
+riam Judithæ non extant in Clemente Alexan.,
+p. 521. BERN.
+
+# block=12
+ἡμῶν ταῦτα ὑποπτεύετε, ἕτοιμοι παραχωρῆσαι τῆς
+ἀρχῆς, ὅτῳ περ ἂν βούλοισθε· μόνον Ἐκκλησία ἔστω
+μία, in quo Clementem nostrum ὑπογραμμὸν sibi
+proposuisse, et locum hunc, ad quem alludit, præ
+oculis habuisse, verisimile est. JUN. — Εἰ δι’ ἐμὲ
+στάσις. Locum hunc citat Epiphanius hæres, 27, et
+etiam exemplo et moribus Clementis nostri descrip-
+tum ait; qui Ecclesiæ Romanæ cathedræ a D. Petro
+admotus, se eo munere abdicavit, quandiu Linus et
+Cletus in vivis essent. Ex qua duplici successione
+fortassis, si non potius ex Ecclesiis a B. Petro et
+Paulo, Judæorum gentiumque apostolis, seorsim
+aliquando habitis, fieri potest, ut adeo parum inter
+scriptores conveniat, utrum Clemens immediate
+successerit Petro, an quarto saltem loco. Licet non
+sim nescius aliam etiam causam a plurimis reddi-
+tam; quod, scilicet, nemo illi Romæ succedere li-
+quido potest dici, de quo multum dubitatur, an ipse
+Romæ unquam fuerit. Obiter monendum apud Epi-
+phanium in loco supra memorato reponi commode
+posse pro ἐνσταθήτω, εὐσταθήτω, quanquam vete-
+rem lectionem retinet doctis. Petavius. Sed hoc ip-
+sum, quod hic loci suadet B. Clemens ac se profi-
+tetur et spondet S. Chrysostomus, qui ait hom. 11
+in Epist. ad Ephesios: Εἰ μὲν οὖν περὶ ἡμῶν ταῦτα
+ὑποπτεύετε, ἕτοιμοι παραχωρῆσαι τῆς ἀρχῆς, ὅτῳ περ
+ἂν βούλοισθε, μόνον Ἐκκλησία ἔστω μία. Et Gregorius
+Nazianzenus re ipsa præstitit, qui ut seditionι ob-
+viam iret, postquam ad Constantinopolitanam se-
+dem admotus esset, protinus τὴν προστασίαν παρῃ-
+τήσατο. Socrat. Hist. v, c. 7. FELL.
+
+# block=5
+(70) Πεπληροφορημένος. Perperam mutaretur in
+πεπληρωμένος, cum πληροφορεῖσθαι significet im-
+pleri aliqua re, ut observatum a Scripturarum in-
+terpretibus, antiquis quoque. Sic Eccle. vIII, 11,
+Græce, ἐπληροφορήθη, Latine apud Hieronymum, re-
+pletum est. Lucæ I, 1, τῶν πεπληροφορημένων ἐν
+ἡμῖν πραγμάτων. Vulgata : Quæ in nobis completa
+sunt rerum. Coloss. II, 2 : πληροφορίας, plenitudi-
+nis. Similiter I Thess. I, 5, II Tim. Iv, 5, 17; et
+alibi. S. Chrysostomus ad II Tim. Iv, 5 : Τὴν δια-
+κονίαν σου πληροφορήσον, τουτέστι, πλήρωσon. Theo-
+phylactus ad II Tim. IV, 17 : Πληροφορηθῇ, τουτέ-
+στι, βεβαιωθῇ, ἢ εἰς πέρας ἔλθῃ, καὶ πληρωθῇ. Sed
+quid in re clara ac testata immoror? Cor. Similia
+occurrunt sup. cap. 42. GALL.
+
+# block=1
+(71). El δι’ ἐμὲ στάσις. Epiphanius lib. 1 Adver-
+sus Carpocratios, ubi mentionem Clementis nostri
+facit, ad hunc locum respicit, scribens : Λέγει γὰρ
+μιᾷ τῶν ἐπιστολῶν αὐτοῦ· ᾿Αναχωρῶ, ἄπειμι, ἐν-
+σταθήτω ὁ λαὸς τοῦ Θεοῦ, etc., ubi εὐσταθείτω le-
+gendum puto, pro quo Clemens noster εἰρηνευέτω
+habet. Quantum fraternitatem universam dilexerit,
+τὸ κοινωφελὲς quæsiverit, et paci Ecclesiæ, vir hic
+sanctus, studuerit; et quam abominanda ipsi fue-
+rint schismata, quæ Christi τὸν ἄῤῥαφον καὶ ἄῤ-
+ρηκτον χιτῶνα σχίζουσι, ex hoc loco facile apparet :
+nullum enim gravius peccatum admitti potest,
+quam unionem Ecclesiæ scindere, auctore Cypria-
+no, qui Libro de unitate Ecclesiæ, inexpiabilem dis-
+cordiæ maculam martyrii sanguine ablui, et pas-
+sione purgari negat : quod Chrysostomus homil. 11,
+ad Ephesios, suppresso nomine, audax sed verum
+esse dictum pronuntiat. Ejus verba ita se habent :
+᾿Ανὴρ δέ τις ἅγιος εἶπέ τι δοκοῦν εἶναι τολμηρὸν,
+πλὴν ἀλλ’ ὅμως ἐφθέγξατο· τί δὴ τοῦτό ἐστιν; οὐδὲ
+μαρτυρίου αἷμα ταύτην δύνασθαι ἐξαλείφειν τὴν ἁ-
+μαρτίαν ἔφησεν, etc., qui paulo infra eadem homi-
+lia, se pacis studio omnia postponere, imo et epi-
+scopatum ipsum abdicare, paratum esse profitetur,
+modo unitas Ecclesiæ conservetur : Εἰ μὲν οὖν περὶ
+
+# block=2
+(72) ᾿Εκχωρῶ, κ. τ. λ. Laudat hunc locum S. Epi-
+phanius, Hær. 27, num. vi. GaLL. — ᾿Εκχωρῶ,
+ἄπειμι. Ex memoria laudat S. Epiphanius hæresi
+27, cap. 6, sic : ᾿Αναχωρῶ, ἄπειμι· ἐνσταθήτω aut
+juxta Patricium Junium εὐσταθείτω ὁ λαὸς τοῦ Θεοῦ.
+Idem Junius apponit verba B. Chrysostomi valde
+similia, ex fine homiliæ 11, in Epistolam ad Ephe-
+sios. A te vero addi potest locus Origenis homil. 19,
+in Jeremiam, supremæ editionis, p. 194. Cor. —
+᾿Εκχωρῶ, ἄπειμι. Scripsit Clemens ἀναχωρῶ, ἄπει-
+μι, εὐσταθείτω ὁ λαὸς τοῦ Θεοῦ, ut Epiphanius do-
+cet p. 107, hoc est bene se habeat populus Dei. An
+Clemens episcopus Romanus, an Ecclesia Romana
+dicere posset : Ποιῶ τὰ προσταττόμενα ὑπὸ τοῦ πλή-
+θους, quod nihil iniquius, sordidiusve? BERN.

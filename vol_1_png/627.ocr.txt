@@ -1,0 +1,182 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,958,147,1725,1260
+2,172,140,930,1267
+3,169,2140,926,2696
+4,626,85,1289,125
+5,189,1288,644,1323
+6,785,1362,1093,1395
+7,165,1429,923,2141
+8,954,1433,1735,2674
+9,165,86,259,134
+10,1641,86,1721,132
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=16px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=16px
+# block=10 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=4
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=9
+653
+
+# block=10
+654
+
+# block=2
+τηκότας ἀναμαρτήτους μεῖναι· καὶ τοὺς ἀπὸ ἁμαρ-
+τιῶν ἐπιστρέφοντας θεραπεύων δεγέσθω· ἐὰν δὲ τὸν
+μετεγνωκότα, ἀνηλεὴς ὤν, μὴ προσδέξηται, ἁμαρτή-
+σει εἰς Κύριον τὸν Θεὸν αὐτοῦ, δικαιῶν ἑαυτὸν ὑπὲρ
+τὴν ἐκείνου δικαιοσύνην, καὶ μὴ προσλαμβανόμενος
+ὃν προσεδέξατο διὰ Χριστοῦ, δι' ὃν ἀπέστειλε τὸν
+Υἱὸν αὐτοῦ ἐπὶ γῆς τοῖς ἀνθρώποις ὡς ἄνθρωπον, δι'
+ὃν εὐδόκησεν ἐκ γυναικὸς αὐτὸν γεννηθῆναι, τὸν ποιη-
+τὴν ἀνδρὸς καὶ γυναικὸς, οὗ χάριν μὴ φεισάμενος
+σταυροῦ (45) καὶ θανάτου καὶ ταφῆς, συνεχώρησε πα-
+θεῖν τὸν τῇ φύσει ἀπαθῆ, τὸν Υἱὸν τὸν ἀγαπητὸν, τὸν
+Θεὸν Λόγον (46), τὸν τῆς μεγάλης αὐτοῦ βουλῆς ἄγ-
+γελον, ὅπως τοὺς ὑποκειμένους θανάτῳ ῥύσηται τοῦ
+θανάτου. Τοῦτον (47) παροργίζουσιν οἱ μὴ προσδε-
+χόμενοι τοὺς μετανοοῦντας· οὗτος γὰρ Ματθαῖον
+ἐμὲ τελώνην ὄντα πρότερον (48), οὐκ ἐπαισχύνθη,
+καὶ Πέτρον ἀρνησάμενον αὐτὸν διὰ δέος τρίτον, καὶ
+διὰ μετανοίας ἐξιλεωσάμενον καὶ προσκλαύσαντα πι-
+κρῶς, προσήκατο, καὶ ποιμένα τῶν ἰδίων ἀρνῶν κατέ-
+στηκε, καὶ Παῦλον δὲ τὸν συναπόστολον ἡμῶν, πολλὰ
+τὸ πρότερον εἰς ἡμᾶς ἐπιτριψάμενον κακὰ, καὶ βλασ-
+φημήσαντα εἰς τὸ ὄνομα τὸ ἅγιον, ἀπόστολον ἀντὶ
+διώκτου προεχειρίσατο, σκεῦος αὐτὸν ἐκλογῆς ἀναδεί-
+ξας· καὶ ἄλλην τινὶ ἁμαρτωλῷ γυναικὶ λέγει· ‹ ᾿Αφ-
+έωνταί σου αἱ ἁμαρτίαι αἱ πολλαὶ, ὅτι ἠγάπησας
+πολύ· › ἑτέραν δέ τινα ἡμαρτηκυῖαν (49) ἔστησαν οἱ
+
+# block=1
+maneant; item conversos a peccatis, postquam sa-
+naverit, recipiat; sin vero pœnitentem, immiseri-
+cors ipse non admiserit, delinquet in Dominum
+Deum suum, justificans seipsum supra illius justi-
+tiam; non suscipiens eum, quem Deus per Christum
+suscepit; eum, cujus gratia Filium suum in terram
+misit hominibus ut hominem; eum, propter quem
+placuit illi, ut qui erat viri ac mulieris conditor,
+ex muliere nasceretur; cujusque causa, crucem,
+mortem, ac sepulturam non condonans, permisit
+ut pateretur, natura impassibilis Filius dilectus,
+Deus Verbum, magni consilii divini Angelus 77,
+quo, scilicet, morti obnoxios morte liberaret. Hunc
+ad iram provocant, qui pœnitentes excludunt. Ille
+siquidem me Matthæum, antea publicanum, non
+erubuit; et Petrum, qui eum ter propter metum
+negaverat, et postea eumdem placaverat pœniten-
+do, atque amare fleverat, complexus est, ac pasto-
+rem agnorum suorum constituit; similiter Paulum
+coapostolum nostrum, etsi initio multis nos malis
+attribisset, ac in nomen sanctum blasphemasset,
+Apostolum ex persecutore designavit, eumque vas
+electionis declaravit; cuidam etiam mulieri pecca-
+trici ait : ‹ Remittuntur tibi peccata multa, quo-
+niam dilexisti multum ⁷⁸; › alteram vero quæ de-
+liquerat, cum seniores ante eum statuissent, et re-
+
+# block=5
+⁷⁷ Is. ix, 6. 78 Luc. VII, 47.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=7
+(45) Σταυροῦ. Alter σταυρῷ, et similiter duo se-
+quentia in dativo. CLER.
+(46) Τὸν Θεὸν Λόγον. Ad hunc locum hoc ascri-
+ptum erat scholium: Ὅτι Θεὸς ἐγεννήθη, Θεοτόκος
+οὖν ἡ Μαρία· καὶ ὅτι ὁ κατὰ φύσιν ἀπαθὴς, σταυρῷ καὶ
+θανάτῳ καὶ ταφῇ ἔπαθε· μὴ νομίσῃς δὲ τὸν Θεὸν Λό-
+γον ἀποθανόντα λέγειν τοὺς ἀποστόλους· προτάξαντες
+γὰρ τὸ ἐκ γυναικὸς αὐτὸν γεννηθῆναι, οὕτω τὰ ἑξῆς
+ἐπάγουσιν· ἵνα νοεῖν ἔχωμεν ὅτι τὰ οἰκεῖα σαρκὶ
+ἐμψυχῳμένῃ τὸ πάθος καὶ τὸν θάνατον ἀνεδέξατο, καὶ
+οὐχὶ τῇ θεϊκῇ αὐτοῦ φύσει. Vera est Scholiastæ sen-
+tentia, de ipso dogmate; sed perabsurde loquuntur
+hic personati apostoli, cum aiunt παθεῖν τὸν τῇ φύσει
+ἀπαθῆ, cum debuissent dicere naturam humanam,
+conjunctam licet cum natura divina, quæ mali nihil
+pati potest, passam tamen supplicium crucis, etc.
+(Imprudentia ejusmodi loquendi genera, quæ nus-
+quam occurrunt in apostolicis scriptis, Eutychia-
+nismum pepererunt, et Theopaschitas fefellerunt.
+ID.
+(47) Τοῦτον. Cod. τοίνυν, ergo. ID.
+
+# block=8
+Testamentum cap. 17, de muliere hac adultera acci-
+piunt verba Aurei doctoris homil. 60, seu 61, ad
+cap. X, vers. 24 : Ὅτι γὰρ πανταχοῦ διὰ τοῦτο
+ἠρώτων, οὐχ ἵνα μάθωσιν, ἀλλ' ἵνα τοῖς λεγομένοις
+ἐπισκήψωσιν, οὐκ ἐντεῦθεν μόνον, ἀλλὰ καὶ ἀλλαχό-
+θεν πολλαχόθεν δῆλόν ἐστι. Καὶ γὰρ ὅτε προσῆλθον
+ἐρωτῶντες, εἰ ἔξεστι δοῦναι κῆνσον Κάισαρι, ἢ οὔ·
+καὶ ὅτε περὶ ἀφέσεως γυναικὸς διελέγοντο· καὶ ὅτε
+περὶ ἐκείνης ἐπυνθάνοντο, ἣν ἔφασαν ἑπτὰ ἄνδρας
+ἐσχηκέναι· ἐάλωσαν οὐκ ἀπὸ φιλομαθείας, ἀλλ' ἀπὸ
+γνώμης σκαιᾶς πεύσεις αὐτῷ προσάγοντες. Vidit er-
+ratum Savilius; sed dum castigare vult, in aliud
+ipse incidit. Existimat quippe locum intelligi debere
+de dimittenda uxore : cum haud dubium sit, quin
+præ oculis S. Patris exstiterit textus Luc. VII, 47,
+etc. Itaque vertendum : Quod enim ubique ideo in-
+terrogent, non ut discant, sed ut dicta culpent, non
+hic tantum, sed et alibi sæpe perspicuum est. Etenim
+quando accesserunt rogantes, an liceret dare censum
+Cæsari, necne (Matth. cap. XXII, vers. 17 et 25;
+Luc. VII, 47); et cum de remissione facta mulieri
+sermocinarentur; cumque percontati sunt de illa,
+quam aiebant septem viros habuisse; deprehensi sunt
+non discendi studio, sed prava voluntate interrogatio-
+nes ad ipsum deferre. Sed et circa historiam Evan-
+gelii Joannis, ingeniosa est B. Augustini conjectura,
+lib. II De adulterinis conjugiis, cap. 7 : eam e sacris
+codicibus ablatam fuisse a nonnullis, qui metue-
+bant peccandi impunitatem dari mulieribus suis.
+Ad quam conjecturam pertinet spongia Armeniorum,
+qui totum capitulum, tanquam multis perniciosum,
+delebant; quemadmodum docemur per libellum de
+eorum Religione. Qui quidem non exigui momenti
+libellus S. Niconi solitus tribui, quia Latine tan-
+tum, nec semper feliciter conversus, exstat sub li-
+nem Balsamonis, utiliter, opinor, subjicietur e ms.
+1818 gazæ Regiæ.
+
+# block=3
+(48) Πρότερον. Idem codex τὸ πρότερον. ID.
+(49) Ἑτέραν δέ τινα ἡμαρτηκυῖαν. Istum lo-
+cum in mente habuit Græcus quidam cod. Reg. 2375,
+ubi post Evangelium Joannis, positis versibus il-
+lius Evangelii, ultimo capitis 7, et undecim se-
+quentibus, subjungitur : Τὰ ὠβελισμένα ἔν τισιν
+ἀντιγράφοις οὐ κεῖνται, οὐδὲ Ἀπολλιναρίῳ· ἐν δὲ
+τοῖς ἀρχαίοις ὅλα κεῖνται. Μνημονεύουσι τῆς περι-
+κοπῆς ταύτης καὶ οἱ ἀπόστολοι πάντες ἐν αἷς ἐξέ-
+θεντο διατάξεσιν εἰς οἰκοδομὴν τῆς Ἐκκλησίας. Quæ
+obelo notata sunt, in quibusdam exemplaribus non
+exstant, neque apud Apollinarium : in vetustis au-
+tem libris tota habentur. Meminere hujus sectionis
+etiam omnes apostoli in Constitutionibus, quas ad
+ædificationem Ecclesiæ ediderunt. Gravi autem er-
+rore interpres Homiliarum S. Chrysostomi in Joan-
+nem, necnon Croius Observationum in Novum

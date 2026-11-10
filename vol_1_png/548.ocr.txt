@@ -1,0 +1,146 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,253,154,1016,2589
+2,1046,166,1811,2591
+3,687,98,1400,138
+4,252,2600,1803,2710
+5,276,101,328,134
+6,1743,100,1809,146
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Nunc autem, quia liberum est animo, in quam velit
+partem declinare judicium suum, et quam proba-
+verit, eligere viam ; constat evidenter, inesse homi-
+nibus arbitrii libertatem. ³⁸ Igitur priusquam au-
+diat quis, quod ei expedit, certum est quia ignoret:
+et ignorans vult et desiderat, quod non expedit
+agere, propter quod pro hoc non judicatur. Cum
+vero audierit causas erroris sui, et rationem veri-
+tatis acceperit, tunc si permanserit in his errori-
+bus, quibus dudum fuerat præventus, recte jam
+vocabitur ad judicium, daturus pœnas, quia vitæ
+hujus spatium, quod ad bene vivendum accepit, in
+ludibriis consumpserit errorum. Qui vero audiens
+hæc, libenter accipit, et gratulatur bonorum sibi
+doctrinam fuisse delatam; requirat intentius, et
+discere non desinat, usquequo cognoscat, si est
+vere aliud sæculum, in quo bonis præmia præpa-
+rata sint. Et cum certus de hoc fuerit, gratias agat
+Deo, quod sibi veritatis lumen ostenderit, ac de
+cætero dirigat actus suos in omnibus operibus bo-
+nis, quorum sibi in futuro mercedem certus est
+præparatam, demirans per omnia et stupens cæte-
+rorum hominum errores, et quod ante oculos posi-
+tam veritatem nemo videat. Ipse tamen gaudens
+super divitias sapientiæ, quas invenit, satiabiliter ³⁹
+his perfruatur, et exercitio bonorum operum dele-
+ctetur, festinans ad sæculum futurum mundo corde
+et pura conscientia pervenire, ubi etiam videre
+Deum regem omnium possit. ⁴⁰ His autem omnibus
+carere nos et fraudari, sola facit ignorantia. Dum
+enim ignorant homines, quantum boni habeat
+scientia, ignorantiæ malum de se non patiuntur
+excludi ; nesciunt enim quanta sit in horum per-
+mutatione diversitas. Propter quod consilium do
+unicuique discenti, libenter præbere autem verbo
+Dei, et cum amore veritatis audire quæ dicimus, ut
+mens optimo semine suscepto, per bonos actus
+lætos afferat fructus. Nam si, me docente ea quæ ad
+salutem pertinent, recipere quis abnuit, et animo
+pravis opinionibus occupato obsistere nititur ; non
+ex nobis, sed ex semetipso habebit pereundi cau-
+sam. Debet enim justo judicio examinare quæ dici-
+mus, et intelligere, quia verba loquimur veritatis,
+ut cognitis his quæ sunt, ut sunt, in bonis actibus
+dirigens viam suam, regni cœlorum possit particeps
+inveniri, subjiciens sibi carnis desideria, et domi-
+nus eorum factus, ut ita demum etiam ipse fiat
+dominatoris omnium jucunda possessio. ⁴¹ Nam qui
+permanet in malo, et servus est mali, non potest
+effici portio boni, donec permanet in malo ; quia ab
+initio, ut ante jam diximus, duo regna statuit Deus;
+et potestatem dedit unicuique hominum, ut illius
+regni fiat portio, cui se ad obediendum ipse subje-
+cerit. Et quia definitum est apud Deum, non posse
+unum hominem utriusque regni esse servum ; omni
+studio date operam, in boni regis aulam ⁴² ac jura
+
+# block=2
+concurrere. Propter hoc denique verus propheta,
+cum esset præsens nobiscum, et quosdam ex divi-
+tibus negligentes erga Dei cultum videret, hujus rei
+ita aperuit veritatem : Nemo potest, inquit, duobus
+dominis servire ; et : Non potestis Deo servire et
+mammonæ ⁴³ ; mammona, patria eorum voce, divi-
+tias vocans. ⁴⁴ Hic ergo verus propheta, qui in Ju-
+dæa nobis apparuit, ut audistis ; qui, stans publice,
+sola jussione faciebat cæcos videre, surdos audire,
+fugabat dæmones, ægris sanitatem reddebat et mor-
+tuis vitam : cumque nihil esset ei impossibile, etiam
+cogitationes hominum pervidebat, quod nulli est
+possibile, nisi soli Deo. Hic annuntiabat regnum
+Dei ; cui nos de omnibus quæ dicebat, tanquam
+vero prophetæ, credimus ; firmitatem fidei nostræ
+non solum ex verbis ejus, sed et operibus assumen-
+tes ; quia dicta legis, quæ ante multas generationes
+de præsentia ejus exposuerant, in ipso designantur,
+et imagines gestorum Mosis, et ante ipsum patriar-
+chæ Jacob, ipsius per omnia typum ferebant. Tem-
+pus quoque adventus ejus, hoc est ipsum in quo
+venerat, prædictum ab his constat ; et super omnia,
+quod esset a gentibus exspectandus, sacris litteris
+comprehensum est, quæ in eo pariter universa com-
+pleta sunt. ⁴⁵ Quod autem Judæorum propheta ⁴⁶ præ-
+dixit eum a gentibus exspectandum, supra modum
+in eo fidem veram firmat. Si enim dixisset a Judæis
+exspectandum, non aliquid eximium prophetasse ⁴⁷
+videretur, quod a contribuli populo, et a propria
+gente speraretur is, cujus adventus ad salutem
+mundi fuerat repromissus. Videtur enim magis con-
+sequens ratio esse, ut hoc fieret, quam quod præ-
+dicebat magnificentia prophetalis. Nunc autem cum
+prophetæ dicant, omnem illam spem, quæ de salute
+mundi repromittitur, et novitatem regni, quæ in-
+struenda per Christum est, atque omnia quæ de eo
+indicantur ad gentes esse transferenda, jam non
+secundum consequentiam rerum, sed incredibili
+quodam vaticinationis eventu, magnificentia pro-
+phetica confirmatur. Judæi namque ex initio, ad-
+fore aliquando hunc virum, per quem cuncta repa-
+rentur, verissima traditione susceperunt ; et quo-
+tidie meditantes ac prospicientes, quando ejus fieret
+adventus ; ubi adesse eum viderunt, et signa ac
+prodigia, sicut de eo scriptum fuerat, adimplentem ;
+invidia excæcati, agnoscere nequiverunt præsentem,
+in cujus spe lætabantur absentis. Intellexerunt tan-
+tum sancti apostoli, qui a Deo electi sunt, et nos,
+qui post ab eis electi sumus. ⁴⁸ Hoc autem provi-
+dentia Dei factum est, ut agnitio boni hujus etiam
+gentibus traderetur ; et hi qui nunquam de eo au-
+dierant, nec a prophetis didicerant, agnoscerent
+eum ; illi vero, qui quotidianis meditationibus eva-
+nuerant, ignorarent. Ecce enim nunc per vos, qui
+præsentes estis, et desideratis audire doctrinam
+fidei ejus, et agnoscere quis et quomodo et qualis
+
+# block=3
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=4
+³⁸ Recognit. v. c. 7, totidem verbis. ³⁹ insatiabiliter. ⁴⁰ Recognit., ibid., c. 8 ⁴¹ Recognit.,
+ibid., c. 9. ⁴² fœdum. ⁴³ Matth. vi, 24. ⁴⁴ Recognit. v, c. 10. ⁴⁵ Recognit., ibid., c. 11. ⁴⁶ Agg. ii.
+⁴⁷ Gen. xlix, 10. ⁴⁸ Recognit. v, c. 12.
+
+# block=5
+495
+
+# block=6
+496

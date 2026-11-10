@@ -1,0 +1,162 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,189,1776,944,2586
+2,970,1774,1734,2587
+3,984,2619,1725,2688
+4,197,2622,941,2692
+5,962,132,1730,1683
+6,183,437,933,1686
+7,586,84,1302,120
+8,180,85,248,124
+9,1622,80,1706,122
+10,190,1688,1742,1768
+11,182,142,922,438
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=189 source_y1=1776 source_x2=944 source_y2=2586
+IV. Anathema Manichæorum quæ dicuntur Ec-
+clesiis; sunt autem hæ : Macedonia, sive Cibossa
+in Colonia ; Achaia (seu Mananalis, Laodicea), sive
+Argais quæ in Lycia; Colossensium, seu Cynocho-
+ritarum ; Ephesiorum, sive quæ Mopsuestiæ est ; et
+Ecclesia Philippensium. Anathema negantibus Pa-
+trem omnipotentem factorem cœli et terræ, cuncto-
+rumque in illis visibilium ac invisibilium, dicenti-
+bus verò solum Patrem cœlestem, qui habeat so-
+lum futuri sæculi potestatem, tanquam præsens sæ-
+culum atque universus orbis ab eo non sint, sed ab
+ei contrario malo mundi principe. Anathema iis qui
+contumelia quidem afficiunt sanctam Deiparam
+Mariam, simulant autem eam honorare, proque ea
+intelligunt supernam Hierusalem, in quam, in-
+quiunt, intravit ac e qua egressus est Dominus ; iis
+etiam qui venerandam crucem infamant, fingunt
+vero illam colere, at pro ea intelligunt Christum,
+qui, inquiunt, manus extendens, crucis figuram de-
+
+# block=2 source_x1=970 source_y1=1774 source_x2=1734 source_y2=2587
+Ἀνάθεμα ταῖς λεγομέναις τῶν Μανιχαίων Ἐκκλη-
+σίαις. Αἱ τινές εἰσιν αὗται · Ἡ Μακεδονία, ἤτοι ἡ ἐν
+Κολωνείᾳ Κίβοσσα · ἡ Ἀχαΐα (75), ἤτοι ἡ κατὰ Λυ-
+κίαν Ἀργαΐς· ἡ Κολοσσαέων, ἤτοι ἡ Κυνοχωριτῶν ·
+ἡ Ἐφεσίων, ἤτοι ἡ ἐν Μοψουεστία, καὶ ἡ Φιλιππη-
+σίων. Ἀνάθεμα τοῖς μὴ λέγουσι Πατέρα παντοκράτο-
+ρα ποιητὴν οὐρανοῦ καὶ γῆς καὶ τῶν ἐν αὐτοῖς ὁρα-
+τῶν τε πάντων καὶ ἀοράτων, ἀλλὰ μόνον Πατέρα
+ἐπουράνιον, ἔχοντα μόνην τὴν τοῦ μέλλοντος ἐξου-
+σίαν, ὡς τοῦ παρόντος αἰῶνος καὶ τοῦ κόσμου παντὸς
+οὐχ ὑπ᾽ αὐτοῦ γενομένων, ἀλλὰ ὑπὸ τοῦ ἐναντίου αὐ-
+τῷ τοῦ πονηροῦ κοσμοκράτορος. Ἀνάθεμα τοῖς ὑβρί-
+ζουσι μὲν τὴν ἁγίαν Θεοτόκον Μαρίαν, προσποιουμέ-
+νοις δὲ τιμᾷν αὐτὴν, καὶ νοοῦσιν ἀντὶ ταύτης τὴν
+ἄνω Ἱερουσαλὴμ, εἰς ἣν, φασὶ, εἰσῆλθε καὶ ἐξῆλθεν
+ὁ Κύριος· καὶ τοῖς δυσφημοῦσι μὲν τὸν σεβάσμιον
+σταυρὸν, ὑποκρινομένοις δὲ σέβεσθαι τοῦτον, καὶ
+νοοῦσιν ἀντ᾽ αὐτοῦ τὸν Χριστὸν, ὃς ἐκτείνας, φασὶ,
+τὰς χεῖρας τὸν σταυρικὸν τύπον διέγραψε· καὶ τοῖς
+
+# block=3 source_x1=984 source_y1=2619 source_x2=1725 source_y2=2688
+(75) Ἡ Ἀχαΐα, κ. τ. λ. Leg. Petr. Sic. p. 44 et
+66. Locus mutilus. Ib.
+
+# block=4 source_x1=197 source_y1=2622 source_x2=941 source_y2=2692
+(74) Νοτάριοι, κ. τ. λ. Leg. Petri Siculi Histo-
+riam. p. 72. COT.
+
+# block=5 source_x1=962 source_y1=132 source_x2=1730 source_y2=1683
+ται νόμον καὶ προφήτας· καὶ τὴν τῶν Ἀποκρύφων·
+καὶ τὴν τῶν Ἀπομνημονευμάτων· καὶ τὴν γεγραμ-
+μένην Ἄδα καὶ Ἀδειμάντῳ, κατὰ Μωϋσέως καὶ τῶν
+ἄλλων προφητῶν· καὶ τὴν λεγομένην Ἑπτάλογον
+Ἀγαπίου· καὶ τὴν Ἀριστοκρίτου βίβλον, ἣν ἐνέγραψε
+Θεοσοφίαν, ἐν ᾗ πειρᾶται δεικνύναι τὸν Ἰουδαϊσμὸν
+καὶ τὸν Ἑλληνισμὸν καὶ τὸν Χριστιανισμὸν καὶ τὸν
+Μανιχαϊσμὸν ἓν εἶναι καὶ τὸ αὐτὸ δόγμα, καὶ ἵνα πι-
+θανὰ δόξῃ λέγειν, καθάπτεται καὶ τοῦ Μάνεντος ὡς
+πονηροῦ. Ἀναθεματίζω καὶ καταθεματίζω πάντας
+τοὺς Μανιχαίους, καὶ πᾶσαν αὐτῶν βίβλον, καὶ πᾶ-
+σαν εὐχὴν, μᾶλλον δὲ γοητείαν, καὶ πάντας τοὺς ἀρ-
+χηγοὺς αὐτῶν, καὶ διδασκάλους, καὶ ἐπισκόπους, καὶ
+πρεσβυτέρους, καὶ ἐκλεκτοὺς, καὶ ἐκλεκτὰς, καὶ
+ἀκροατὰς, καὶ μαθητὰς, μετὰ τῶν ψυχῶν αὐτῶν καὶ
+σωμάτων, καὶ τῆς ἁδέου παραδόσεως. Ἀναθεματίζω
+τὸν πατέρα Μάνεντος, Πατέκιον, οἷα ψευστὴν καὶ τοῦ
+ψευδοῦς πατέρα, καὶ τὴν αὐτοῦ μητέρα Κάροσσαν,
+καὶ Ἱέρακα, καὶ Ἡρακλείδην, καὶ Ἀφθόνιον, τοὺς
+ὑπομνηματιστὰς καὶ ἐξηγητὰς τῶν τούτου συγγραμ-
+μάτων, καὶ τοὺς λοιποὺς αὐτοῦ μαθητὰς ἅπαντας,
+Σισίννιον τὸν διάδοχον τῆς τούτου μανίας, Θωμᾶν
+τὸν συνταξάμενον τὸ κατ᾽ αὐτὸν λεγόμενον Εὐαγγέ-
+λιον, Βουδᾶν, Ἑρμᾶν, Ἄδαμ, Ἀδείμαντον, Ζαρούαν,
+Γαβριάδιον, Ἀγάπιον, Ἰλάριον, Ὀλύμπιον, Ἀριστό-
+κριτον, Σαλμαῖον, Ἰνναῖον, Πάαπιν, Βαραῖαν, καὶ
+προσέτι τοὺς ἐσχάτοις ὕστερον χρόνοις προστάντησαν-
+τας τῆς αἱρέσεως Παῦλον καὶ Ἰωάννην τοὺς Καλλινί-
+κης παῖδας; Κωνσταντῖνον τὸν καὶ Σιλουανὸν, Συ-
+μεῶνα τὸν καὶ Τίτον, Γενέσιον τὸν καὶ Τιμόθεον,
+Ζαχαρίαν, τὸν μισθωτὸν, Ἰωσὴφ τὸν καὶ Ἐπαφρόδι-
+τον, Βαάννην τὸν ῥυπαρὸν, Σέργιον τὸν καὶ Τυχικὸν,
+καὶ τοὺς τούτου μαθητὰς τοὺς καὶ συνεκδήμους αὐ-
+τοῦ καλουμένους Μιχαὴλ, Κανακάριον, Ἰωάννην,
+Θεόδοτον, Βασίλειον καὶ Ζώσιμον, ὧν οἱ δῆθεν προ-
+βαθμώτεροι, νοτάριοι (74) κατονομαζόμενοι, τὴν
+
+# block=6 source_x1=183 source_y1=437 source_x2=933 source_y2=1686
+probabilia videatur dicere, Manetem quoque arguit
+tanquam malum. Anathema et catathema profero
+adversus omnes Manichæos, omnes eorum libros,
+omnes preces, imo præstigias, omnes eorum duces,
+magistros, episcopos, presbyteros, electos, electas,
+auditores, discipulos, cum animabus et corporibus,
+impiaque traditione. Anathematizo patrem Manetis
+Patecium, ut mendacem et mendacii patrem ; itidem
+ipsius matrem Carossam, et Hieracem, Heraclidem,
+Aphthonium, qui commentarios ac expositiones in
+illius libros conscripserunt; et reliquos ejus discipu-
+los omnes, Sisinnium Manetis insaniæ successorem,
+Thomam qui Thomæ dictum Evangelium composuit,
+Budam, Herman, Adam, Adimantum, Zaruam, Ga-
+briabium, Agapium, Hilarium, Olympium, Aristocri-
+tum, Salmæum, Innæum, Paapim, Baræam ; præter-
+eaque eos qui ultimis demum temporibus hæresi
+præfuerunt, Paulum Joannemque Callinicæ filios,
+Constantinum qui et Silvanus, Simeonem qui et Ti-
+tus, Genesium qui et Timotheus, Zachariam, merce-
+narium, Josephum qui et Epaphroditus, Baannem
+spurcum, Sergium qui et Tychicus ; ejusque disci-
+pulos pariter et comites vocitatos, Michaelem, Ca-
+nacarium, Joannem, Theodotum, Basilium et Zosi-
+mum ; quorum, scilicet, superiores gradu, Notarii
+nuncupati, abominabilium orgiorum sive sacrorum
+curam susceperant. Præter hos autem anathemati-
+zo sceleratissimum Carbeam, et genere quidem ipsi
+affinem, in filia vero generum Chrysocherem.
+
+# block=7 source_x1=586 source_y1=84 source_x2=1302 source_y2=120
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=8 source_x1=180 source_y1=85 source_x2=248 source_y2=124
+1467
+
+# block=9 source_x1=1622 source_y1=80 source_x2=1706 source_y2=122
+1468
+
+# block=10 source_x1=190 source_y1=1688 source_x2=1742 source_y2=1768
+τῶν βδελυκτῶν ὀργίων ἐνεχειρίζοντο ἐπιμέλειαν. Πρὸς δὲ τούτοις ἀναθεματίζω τὸν τρισαλιτήριον Καρ-
+βέαν, καὶ τὸν ἐκ γένους μὲν αὐτῷ ἀνεψιὸν, ἐπὶ παιδὶ δὲ γαμβρὸν Χρυσόχειρα.
+
+# block=11 source_x1=182 source_y1=142 source_x2=922 source_y2=438
+rum, et a ium Commentariorum ; item ab Ada et
+Adimanto conscriptum adversus Moysem prophe-
+tasque alios ; nec non librum Agapii Heptalogum
+nomine, Aristocritique Opus quod Theosophiam, id
+est, Dei sapientiam inscripsit ; in quo ostendere co-
+natur Judaismum, paganismum, Christianismum et
+Manichæismum unum esse idemque dogma ; utque

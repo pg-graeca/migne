@@ -1,0 +1,200 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,936,614,1682,1254
+2,932,1311,1673,1652
+3,933,134,1680,561
+4,147,1308,902,1653
+5,154,138,902,561
+6,922,2549,1668,2685
+7,147,615,902,1261
+8,929,2120,1677,2321
+9,926,1822,1674,1890
+10,927,2318,1678,2550
+11,1214,1265,1395,1303
+12,929,1889,1679,2121
+13,664,76,1148,114
+15,142,1821,899,2691
+16,407,1268,645,1300
+17,184,1692,1261,1726
+18,336,569,649,605
+19,1207,568,1403,606
+20,147,60,227,118
+21,1621,78,1691,126
+22,753,1752,1073,1804
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Cum igitur tantam misericordiam erga nos ipse
+fecerit : primò quidem, quod nos qui vivimus, diis
+mortuis non sacrificamus, nec adoramus eos ; sed per
+ipsum, cognovimus veritatis Patrem : quænam est
+agnitio ad eum, nisi ut non negemus illum, per quem
+agnovimus eum ? Ait vero etiam ipse: Qui me confessus
+fuerit in conspectu hominum, confitebor ipsum in con-
+spectu Patris mei ⁹⁰. Hæc est itaque merces nostra,
+si quidem confiteamur eum per quem servati sumus.
+In quonam autem illum confitebimur ? Faciendo
+quæ dicit, et mandata illius non spernendo; nec
+solum labiis eum honorando, sed ex toto corde, et
+ex tota mente. Dicit quippe in Isaia : Populus iste
+labiis me honorat : cor autem eorum longe abest a
+me ⁹¹.
+
+# block=2
+Non modo igitur ipsum vocemus Dominum; id
+enim non salvabit nos; siquidem ait: Non omnis
+qui dicit mihi, Domine, Domine, salvabitur; sed qui
+facit justitiam ⁹². Itaque, fratres, in operibus ipsum
+confiteamur; diligendo nos mutuo, non adulterando,
+neque obtrectando invicem, neque æmulando ; sed
+vivendo in continentia, misericordia, bonitate : et
+compassione mutua duci debemus; at non pecuniæ
+
+# block=3
+ejus quæ habet virum ; quandoquidem populus no-
+ster (12) a Deo desertus esse videbatur; nunc vero
+cum credidimus, plures facti sumus iis qui Deum
+habere censebantur. Alia quoque Scriptura dicit·
+Non veni vocare justos, sed peccatores ⁸⁹ : hoc dicit,
+quod debeat pereuntes servare. Illud siquidem
+magnum et admirabile est, non fulcire quæ stant,
+sed quæ cadunt. Sic et Christus servare voluit
+pereuntia, et multos servavit dum venit, dumque
+nos jam pereuntes vocavit.
+
+# block=4
+Μὴ μόνον οὖν αὐτὸν καλῶμεν Κύριον · οὐ γὰρ τοῦτο
+σώσει ἡμᾶς · λέγει γάρ· Οὐ πᾶς ὁ λέγων μοι, Κύριε,
+Κύριε, σωθήσεται, ἀλλὰ ὁ ποιῶν τὴν δικαιοσύνην.
+Ὥστε οὖν, ἀδελφοὶ, ἐν τοῖς ἔργοις αὐτὸν ὁμολογῶμεν,
+ἐν τῷ ἀγαπᾶν αὐτοὺς (16), ἐν τῷ μὴ μοιχεῖσθαι, μηδὲ
+καταλαλεῖν ἀλλήλων, μηδὲ ζηλοῦν, ἀλλ᾿ ἐγκρατεῖς εἶναι,
+ἐλεήμονας, ἀγαθούς· καὶ συμπάσχειν ἀλλήλοις ὀφεί-
+λομεν, καὶ μὴ φιλαργυρεῖν· ἐν τ[ού] τοῖς ἔργοις (17)
+
+# block=5
+ἐρήμου, μᾶλλον ἢ τῆς ἐχούσης τὸν ἄνδρα· ἐπεὶ
+ἔρημος ἐδόκει εἶναι ἀπὸ τοῦ Θεοῦ ὁ λαὸς ἡμῶν, νυνὶ
+δὲ πιστεύσαντες, πλείονες ἐγενόμεθα τῶν δοκούντων
+ἔχειν Θεόν. Καὶ ἑτέρα δὲ Γραφὴ λέγει, ὅτι· Οὐκ ἦλ-
+θον καλέσαι δικαίους, ἀλλὰ ἁμαρτωλούς· τοῦτο
+λέγει, ὅτι δεῖ τοὺς ἀπολλυμένους σώζειν. Ἐκεῖνο γάρ
+ἐστιν μέγα καὶ θαυμαστόν, οὐ τὰ ἐστῶτα στηρίζειν,
+ἀλλὰ τὰ πίπτοντα· οὕτως καὶ ὁ Χριστὸς ἠθέλησεν
+σῶσαι τὰ ἀπολλύμενα (13), καὶ ἔσωσεν πολλοὺς ἐλθών,
+καὶ καλέσας ἡμᾶς ἤδη ἀπολλυμένους.
+
+# block=6
+(17) Ἐν τούτοις ἔργοις. Ex Wolf. sic se habet ms.
+ΕΝ Τ... ΤΟΙΣ ΕΡΓΟΙΣ. Hinc procul dubio legendum
+ad fidem cod. ἐν τ[ού] τοις vel τ[οιού] τοις ἔργοις. Editi
+vero præter Londin., ἔν τε ἀγαθοῖς τοῖς ἔργοις. ID.
+
+# block=7
+Τοσοῦτον οὖν ἔλεος ποιήσαντος αὐτοῦ εἰς ἡμᾶς·
+πρῶτον μὲν ὅτι ἡμεῖς οἱ ζῶντες τοῖς νεκροῖς θεοῖς οὐ
+θύομεν, καὶ οὐ προσκυνοῦμεν αὐτοῖς, ἀλλὰ ἔγνωμεν
+δι᾿ αὐτοῦ τὸν Πατέρα τῆς ἀληθείας · τίς ἡ γνῶσις (14)
+ἡ πρὸς αὐτὸν, ἢ τὸ μὴ ἀρνεῖσθαι δι᾿ οὗ ἔγνωμεν
+αὐτόν; Λέγει δὲ καὶ αὐτός· Τὸν ὁμολογήσαντά με
+ἐνώπιον τῶν ἀνθρώπων, ὁμολογήσω αὐτὸν ἐνώ-
+πιον τοῦ Πατρός μου. Οὗτος οὖν (15) ἐστιν ὁ μισθὸς
+ἡμῶν, ἐὰν οὖν ὁμολογήσωμεν δι᾿ οὗ ἐσώθημεν. Ἐν
+τίτι δὲ αὐτὸν ὁμολογοῦμεν ; ἐν τῷ ποιεῖν ἃ λέγει, καὶ
+μὴ παρακούειν αὐτοῦ τῶν ἐντολῶν, καὶ μὴ μόνον
+χείλεσιν αὐτὸν τιμᾶν, ἀλλ᾿ ἐξ ὅλης καρδίας, καὶ ἐξ
+ὅλης τῆς διανοίας. Λέγει δὲ καὶ ἐν τῷ ῾Hσαίᾳ· ῾O
+λαὸς οὗτος τοῖς χείλεσίν με τιμᾷ, ἡ δὲ καρδία
+αὐτῶν πόρρω ἀπέστιν ἀπ᾿ ἐμοῦ.
+
+# block=8
+(15) Οὗτος οὖν ... ἐὰν οὖν. Displicet Wott. οὖν
+repetitum, pro quo reponit μὲν vel αὐτόν. DAV. mal-
+let : ἐὰν συνομολογήσωμεν. Nihil autem mutat Birr.
+cum notum sit, eam vocem sæpe παρέλκειν, nec
+raro pro τοίνυν, proinde, poni: quo sensu hic
+quoque adjecta videtur. GALL.
+
+# block=9
+xνιιι, 11: Ἦλθε γὰρ ὁ Υἱὸς τοῦ ἀνθρώπου σῶσαι τὸ
+ἀπολωλός. GALL.
+
+# block=10
+(16) Ἐν τῷ ἀγαπᾶν αὐτούς. Al. αὐτόν, id est
+Κύριον. Al. ἀλλήλους. Al. ἑαυτούς. Birr. retinet ms.
+lectionem; quod αὐτούς æqualeat Clementi τῷ
+ἀλλήλους. Sic infra cap. ult. Ὄταν λαλῶμεν αὐτοῖς
+ἀλήθειαν : Quando veritatem inter nos loquimur. Quin
+et epist. 1, cap. 14: Χρηστευςώμεθα αὐτοῖς. Quem
+locum consule. ID.
+
+# block=11
+CAPUT IV.
+
+# block=12
+(14) Τίς ἡ γνῶσις, κ. τ. λ. Vendelinus : Quænam
+erit nostra erga ipsum agnitio ? Si post ad ipsum
+suppleatur perducens aut pertingens, integra erit sen-
+tentia : ac recte consequetur, ut postquam cogno-
+vimus Patrem, non negemus Filium; quia nullus
+pater est sine filio. Hic locus ex iis forsan est,
+quos sibi non satis cohærere censuit Photius. COUST.
+
+# block=13
+EPISTOLA II AD CORINTHIOS.
+
+# block=15
+εὐσέβεια πάλαι, τῇ δὲ τῶν εἰδώλων δουλεία προσέ-
+δρευον : ut restituatur, ἡ εὐσέβειας ᾿Eκκλησία et προσ-
+ήδρευεν, quod ultimum exhibet Catena ms. in pro-
+phetas, Bibl. Reg. cod. 229. COT. — Vertit Cotele-
+rius, hoc dicit, preces nostras ad Deum omnino, ut
+parturientes solent, non deficiamus referre,observat-
+que ad marg. sibi videri Græcè legendum ἐκκακῶ-
+μεν, pro ἐγκακῶμεν, atque Clementem hic respi-
+cere ad illud Luc. xvIII, 1 : Δεῖν πάντοτε προσεύ-
+χεσθαι, καὶ μὴ ἐκκακεῖν. Legere est Ephes. III, 13:
+Μὴ ἐκκακεῖν ἐν ταῖς θλίψεσί μου, et Gal. VI, 9: Τὸ
+δὲ καλὸν ποιοῦντες μὴ ἐκκακῶμεν. At Paulum Co-
+lomesium si audias, nihil hic vidit clariss. Cotelerius,
+ac locum hunc rectissime transtulit Vendelinus in
+hunc modum : Hæc dicit, ut orationes modeste offera-
+mus Deo, non ut clamose, parientium instar, vocifere-
+mur. Dupliciter tamen peccare mihi videtur hæc
+translatio, primo quidem quod clamare nobis vetat,
+cum Clemens locum Isaiæ interpretatur, in quo
+clamare præcipimur : deinde quod antithesim seu
+oppositionem instituit, quam diversa constructio
+verborum ἀναφερειν et ἐκκακῶμεν seu ἐγκακῶμεν
+non patitur. COUST.
+(12) Ita loquens se gentilem indicat, non Ju-
+dæum. CoUST.
+(13) Σῶσαι τὰ ἀπολλύμενα. Alludit ad Matth.
+
+# block=16
+ΚΕΦΑΛΑΙΟΝ · Δ΄.
+
+# block=17
+⁸⁹ Matth. IX, 13. ⁹⁰ Matth. x, 32. ⁹¹ Isa. xxIx, 13. ⁹² Matth. VII, 21.
+
+# block=18
+ΚΕΦΑΛΑΙΟΝ Γ΄.
+
+# block=19
+CAPUT III.
+
+# block=20
+333
+
+# block=21
+334
+
+# block=22
+VARIORUM NOTÆ.

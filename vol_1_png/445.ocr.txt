@@ -1,0 +1,218 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,974,2356,1732,2728
+2,179,618,931,1007
+3,970,1527,1733,1926
+4,183,1097,950,2632
+5,970,2058,1731,2356
+6,968,136,1719,518
+7,181,136,934,575
+8,959,1096,1728,1526
+9,965,617,1722,1003
+10,971,1926,1728,2060
+12,197,2621,945,2727
+13,1246,573,1435,612
+14,799,1030,1106,1063
+15,695,80,1174,121
+16,418,580,695,610
+17,181,90,231,128
+18,1623,80,1707,128
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+EPISTOLA I AD CORINTHIOS.
+
+# block=18
+290
+
+# block=17
+289
+
+# block=6
+sua voluntate definivit : ut pure et sancte omnia
+facta in beneplacito, accepta essent voluntati ejus.
+Qui ergo assignatis temporibus oblationes suas fa-
+ciunt, accepti et beati sunt : nam qui sequuntur
+leges Domini, non aberrant. Quippe qui sacper-
+doti sua munia tributa sunt ; et sacerdotibus locus
+proprius assignatus est ; et levitis sua ministeria
+incumbunt : homo laicus præceptis laicis constrin-
+gitur.
+
+# block=7
+λεῖσθαι θέλει, αὐτὸς ὥρισεν τῇ ὑπερτάτῃ αὐτοῦ βου-
+λήσει· ἵν' ὁσίως πάντα τὰ γινόμενα (74) ἐν εὐδοκήσει,
+εὐπρόσδεκτα εἴη τῷ θελήματι αὐτοῦ. Οἱ οὖν τοῖς
+προστεταγμένοις καιροῖς ποιοῦντες τὰς προσφορὰς
+αὐτῶν, εὐπρόσδεκτοί τε καὶ μακάριοι· τοῖς γὰρ νο-
+μίμοις τοῦ Δεσπότου ἀκολουθοῦντες οὐ διαμαρτάνου-
+σιν. Τῷ γὰρ ἀρχιερεῖ ἰδίαι λειτουργίαι δεδομέναι εἰ-
+σὶν (75), καὶ τοῖς ἱερεῦσιν ἴδιος ὁ τόπος προστέτα-
+κται, καὶ λευίταις ἰδίαι διακονίαι ἐπίκεινται· ὁ λαϊκὸς
+ἄνθρωπος (76) τοῖς λαϊκοῖς προστάγμασιν δέδεται.
+
+# block=13
+CAPUT XLI.
+
+# block=16
+ΚΕΦΑΛΑΙΟΝ ΜΑ'.
+
+# block=9
+Unusquisque vestrum, fratres, in suo statu gra-
+tias Deo habeat, in bona conscientia degens, non
+transgrediens præscriptam muneris sui regulam,
+in honestate. Non ubique, fratres, offeruntur sacri-
+ficia jugia (77), vel votiva, vel pro peccato et de-
+licto, sed Hierosolymis tantum; neque illic in
+quovis loco fit oblatio, sed ante templum ad altare;
+prius facta a summo sacerdote et prædictis mini-
+stris oblati inspectione ac probatione. Qui ergo
+
+# block=2
+Ἕκαστος ὑμῶν, ἀδελφοὶ, ἐν τῷ ἰδίῳ τάγματι εὐχα-
+ριστείτω θεῷ, ἐν ἀγαθῇ συνειδήσει ὑπάρχων, μὴ
+παρεκβαίνων τὸν ὡρισμένον τῆς λειτουργίας αὐτοῦ
+κανόνα, ἐν σεμνότητι. Οὐ πανταχοῦ, ἀδελφοὶ, προσ-
+φέρονται θυσίαι ἐνδελεχισμοῦ, ἢ εὐχῶν (78), ἢ
+περὶ ἁμαρτίας καὶ πλημμελείας, ἀλλ' ἢ (79) ἐν Ἱε-
+ρουσαλὴμ μόνη· κἀκεῖ δὲ οὐκ ἐν παντὶ τόπῳ προσ-
+φέρεται, ἀλλ' ἔμπροσθεν τοῦ ναοῦ πρὸς τὸ θυσιαστή-
+ριον, μωμοσκοπηθέν (80) τὸ προσφερόμενον διὰ τοῦ
+
+# block=14
+VARIORUM NOTÆ.
+
+# block=8
+ναι εἰσὶ. Non adeo laudaret apostolicus noster or-
+dinem, ac diversa officia pontificis, sacerdotum,
+levitarum atque laicorum, si, quemadmodum he-
+terodoxis placet, religio Christiana pontificatum
+sustulisset, nullumque voluisset esse munus pecu-
+liare pontificis, quod non etiam competeret sacer-
+dotibus, ipsis quoque pontificibus. Laudat, quia
+docente Hieronymo [II in Jovin. 15, et epist. 85 ],
+in utroque Testamento alium ordinem pontifex te-
+net, alium sacerdotes, alium levitæ, atque tradi-
+tionibus apostolicis de veteri lege descendentibus,
+successerunt episcopi, presbyteri et diaconi Aaroni,
+et filiis ejus, et levitis. Cor.
+
+# block=4
+Deus. Unde postquam in ejusdem παλιγγενεσίᾳ
+novam renati orbis epocham instituisset, paribus
+eam privilegiis donavit et τῆς Κυριακῆς sacrosancta
+facta est religio. Quin etiam quandoquidem Salvator
+noster pietatem discipulorum suorum Mosis se-
+quacium κατορθώματα superare voluit, apud quos,
+ultra Sabbati solemnia, secunda et quinta Sabbati
+habebantur sacræ, ne, ut ait Maimonides, thephil-
+lah oubirchath Cohanim, c. 12, n. 1, trium dierum
+spatio ab auditione cessaretur (unde fluxit mos je-
+junandi δὶς τοῦ Σαββάτου, cujus mentio Luc. xVIII,
+12), par erat ut iisdem saltem intervallis, apud C
+Christianam religionem professos, sacra redirent
+munia, quod utique factum, nimirum, stationum
+diebus ad quartam et sextam promotis;quod passim
+ex Tertulliano discimus, et etiam a Clemente Alex.
+qui eos τετράδα καὶ παρασκευήν, sive Ἑρμοῦ καὶ
+Ἀφροδίτης appellat; licet diu sit ex quo Romana
+Ecclesia ab antiquissima hac praxi desciverit. In
+minutioribus temporis intervallis, consimilis om-
+nino ratio; eas enim, quæ in Ecclesia Judaica re-
+ceptæ fuerant, vices non a Domino nostro tantum,
+sed insuper ab apostolis agnitas videmus, proinde,
+Act. III, 1, τὴν ὥραν τῆς προσευχῆς, solemnioris
+officii causa. D. Petrum et Joannem, in templum
+perduxisse verbis disertis dictum est. In Synagoga,
+licet lege nulla. de precibus caveretur, singulis
+diebus tres recurrebant earum vices : תמצאו התפכות
+מנחה ושחרית ערבית מנה Maimonides
+İad. De prec. et benedict. sacerdot., c. 1, 8, quas i
+etiam Christianæ Ecclesiæ moribus receptas, Ter-
+tullianus in Lib. de jejuniis, Cyprianus De oratione,
+nec non Hieronymus ad Lætam et Demetriad. ne-
+scire nos vetant. Addi his non injuria poterit, tam
+egregium horarum sacrarum usum fuisse, ad pro-
+movendas pietatis rationes, ut Julianus Apostata,
+postquam pro comperto habuisset, fidem Christia-
+nam vi et injuriis non posse superari, atque imi-
+tatione demoliendam statuisset, gentilismo suo
+intromittendas curarat ὡρῶν τε ῥητῶν καὶ ἡμερῶν
+τεταγμένας εὐχάς, teste Sozomeno, lib. Ix, c. 15,
+quod etiam Apollonium Tyanæum fecisse disci-
+mus a Philostrato, Vitæ ejus lib. Iv, c. 8. Apud
+Turcas eumdem invaluisse morem nemo est qui
+nesciat. FELL.
+
+# block=3
+(76) Λαϊκὸς ἄνθρωπος. Nulla tam addicta, tam
+misera servitus est, quam δουλεύοντος τῇ ὑπο-
+θέσει. Alias viri doctissimi Salmasius et Seldenus,
+ut alios minorum gentium criticos præteream, Cal-
+vini aut Erasti placitis addictos, numquam tam
+graviter, in arte quam profitebantur, lapsi essent,
+ut dicere sustinerent olim presbyteros fuisse laicos,
+et laici vocem, quatenus clero contradistinguitur, se-
+rius in Ecclesia obtinuisse. Ignatii loca non affero,
+siquidem novatores, quando ejus auctoritate pre-
+muntur, breviter se expediunt dicendo ψευδεπί-
+γραφον eum, aut interpolatum. FELL.
+
+# block=10
+(77) Supple secundum veterem legem. Quam im-
+merito autem epistolam istam ante templi Jerosoly-
+mitani excidium scriptam esse hinc nonnulli colli-
+gant, in prævio monito patefeci. GALL.
+
+# block=5
+(78) Εὐχῶν. Forte εὐχαριστηρίων, inquit Ju-
+nius. Sed præterquam quod sacrificia de quibus
+hic sermo, non dicuntur LXX Senioribus εὐ-
+χαριστήριοι θυσίαι, sed σωτήριοι, nihil mutato opus
+est: cum et εὐχαί, sacrificia salutaria sint, ista
+nempe quæ ex voto offeruntur, Levit. x1, 6. MİLL.
+Haud aliter Wott. GALL.
+(79) Ἀλλ' ἤ. Sic ms. apud Wott. Editis deest
+ἤ. İo.
+
+# block=1
+(80) Μωμοσκοπηθέν. Vox Hellenistis et gentili-
+bus usurpata. Erat autem μωμοσκόπων officium, ut
+viri eruditi observarunt, diligenter inspicere ne
+qua labes victimis sacrificandis subesset : quod in
+primis apud Judæos obtinebat, ipso Deo præci-
+piente Levit. xxii, 21, 22. Auctor Constit. apost.
+lib. II, cap. 3 : Μωμοσκοπεῖσθε τὸν μέλλοντα εἰς
+ἱερωσύνην προχειρίζεσθαι : Diligenter inspicite an
+sit ulla macula in eo, qui ad sacerdotium est eli-
+gendus; digitum intendens ad Levit. xxI, 17-21. ID.
+— Μωμοσκοπηθέν. Quid sit μωμοσκοπεῖσθαι, quive
+
+# block=12
+(74) Τὰ γινόμενα. Ita ms. apud Wott. Editi ad
+unum omnes, τὰ omittunt. GALL.
+(75) Τῷ γὰρ ἀρχιερεῖ ἰδίαι λειτουργίαι δεδομέ-

@@ -1,0 +1,195 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,984,315,1734,1534
+2,190,323,952,1530
+3,190,1681,947,1980
+4,982,1684,1730,1985
+5,192,2231,941,2399
+6,975,2235,1738,2708
+7,192,2019,1729,2125
+8,192,1597,935,1666
+9,444,1550,692,1587
+10,454,151,692,184
+11,194,2498,941,2562
+12,1275,143,1441,177
+13,991,198,1737,304
+14,193,2395,942,2499
+15,206,203,955,303
+16,987,1599,1731,1664
+17,775,2160,1066,2194
+18,1272,1555,1443,1588
+19,1678,95,1730,127
+20,636,90,1311,125
+23,193,2561,946,2699
+24,197,90,267,138
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+³⁸ Episcopus vero non sit personarum accepta-
+tor, neque talis qui divitem præter officium reve-
+reatur aut aduletur, pauperem vero despiciat vel
+opprimat. « Non » enim, inquit Dominus Moysi,
+« personam divitis accipies ³⁹, et pauperis non mi-
+sereberis in judicio ⁴⁰. Quoniam Domini judicium
+est ⁴¹. » Et rursum : « Juste quod justum est per-
+sequeris ⁴². » Cibo ac potu simplici et frugali uta-
+tur episcopus, quo imperitorum admonitioni possit
+invigilare. Ne sit sumptuosus, ne delicatus, ne vo-
+luptarius, ne cupediæ obnoxius. Sit clemens, et in
+monendo patiens; doctrinæ sit multæ, librorum
+Dominicorum cupidus meditator ac assiduus lector,
+quo Scripturas exacte interpretetur, Evangelium
+concordanter prophetis ac legi explicans; similiter
+Evangelio consonent interpretationes legis et pro-
+phetarum. Ait namque Dominus Jesus : « Scruta-
+mini Scripturas; ipsæ enim sunt, quæ testimonium
+perhibent de me ⁴⁶. » Et post : « De me enim scri-
+psit Moyses ⁴⁷. » Ante omnia autem sit divisor pro-
+bus, qui legem et deuterosim sciat distinguere; et
+quid sit lex fidelium, quid vero infidelium nexus,
+demonstrare; ne quis in hos casses incidat. Habe
+igitur curam verbi, episcope; ut possis omnia ad
+verbum interpretari, utque populum tuum multa
+ac copiosa doctrina nutrias, et illustratione legis
+illumines. « Illuminate » enim « vobis, » ait Domi-
+nus, « lumen scientiæ, dum adhuc est tempus ⁴⁸. »
+
+# block=2
+Ἔστω δὲ ὁ ἐπίσκοπος ἀπροσωπόληπτος, μήτε
+πλούσιον ἐντρεπόμενος ἢ κολακεύων παρὰ τὸ προσ-
+ῆκον, μήτε πένητα παρορῶν, ἢ καταδυναστεύων. « Οὐ
+λήψῃ » γὰρ, φησὶν ὁ Θεὸς τῷ Μωσεῖ, « πρόσωπον πλου-
+σίου, καὶ πένητα οὐκ ἐλεήσεις ἐν κρίσει. Ὅτι τοῦ
+Κυρίου ἡ κρίσις. » Καὶ πάλιν· « Δικαίως διώξεις τὸ
+δίκαιον. » Τροφῇ καὶ ποτῷ ⁴³ λυσιτελὴς καὶ αὐτάρ-
+κης ὑπαρχέτω ὁ ἐπίσκοπος ⁴⁴, ἵνα δυνηθῇ ⁴⁵ νήφειν πρὸς
+τὸ νουθετεῖν τοὺς ἀπαιδεύτους. Ἔστω δὲ μὴ δάπανος,
+μὴ τρυφητὴς, μὴ ἡδύβιος, μὴ χρηστοφάγος. Ἔστω
+δὲ ἀνεξίκακος, μακρόθυμος ἐν ταῖς νουθεσίαις, πο-
+λυδίδακτος (5), μελετῶν καὶ σπουδάζων ἐν ταῖς
+Κυριακαῖς βίβλοις, πολὺς ἐν ἀναγνώσμασιν, ἵνα τὰς
+Γραφὰς ἐπιμελῶς ἑρμηνεύῃ, ὁμοστοίχως τοῖς προφή-
+ταις καὶ τῷ νόμῳ τὸ Εὐαγγέλιον ἑρμηνεύων (6)·
+ὁμοίως τῷ Εὐαγγελίῳ στοιχείατωσαν αἱ ἐκ νόμου καὶ
+προφητῶν ἑρμηνεῖαι. Λέγει γὰρ ὁ Κύριος Ἰησοῦς·
+« Ἐρευνᾶτε τὰς Γραφάς· ὅτι αὗταί εἰσιν αἱ μαρτυ-
+ροῦσαι περὶ ἐμοῦ. » Καὶ πάλιν· « Περὶ γὰρ ἐμοῦ Μωσῆς
+ἔγραψε. » Πρὸ πάντων δὲ διαστολεὺς ἀγαθὸς γινέσθω,
+νόμον καὶ δευτέρωσιν διαιρῶν, καὶ δεικνύων τί ἐστι
+νόμος πιστῶν, καὶ τί δεσμὰ ἀπίστων, ἵνα μή τις ὑπο-
+πέσῃ τοῖς δεσμοῖς. Ἐπιμελοῦ οὖν τοῦ λόγου, ἐπί-
+σκοπε, ἵνα ᾖ δυνατὸν σοι πάντα κατὰ λέξιν ἑρμη-
+νεύειν (7), καὶ ἐν πολλῇ διδαχῇ πλουσίως τρέφῃς
+καὶ φωτίζῃς τὸν λαόν σου τὸν φωτισμὸν τοῦ νόμου.
+« Φωτίσατε » γὰρ, φησὶν ὁ Θεὸς, « ἑαυτοῖς φῶς
+γνώσεως, ὡς ἔτι καιρός. »
+
+# block=3
+Ἔστω δὲ ὁ ἐπίσκοπος μὴ αἰσχροκερδὴς, καὶ μά-
+λιστα ἐπὶ τῶν ἐθνῶν, βλαπτόμενος μᾶλλον, ἢ βλά-
+πτων· μὴ πλεονέκτης, μὴ ἅρπαξ, μὴ ἀποστερητὴς, μὴ
+φιλοπλούσιος (8), μὴ μισόπτωχος, μὴ κατάλαλος,
+μὴ ψευδομάρτυς, μὴ θυμώδης, μὴ φιλόμαχος, μὴ ταῖς
+τοῦ βίου πραγματείαις συμπεπλεγμένος, μὴ ἐγγυώ-
+μενός τινα, ἢ συνηγορῶν δίκαις χρηματικαῖς (9),
+
+# block=4
+Turpe lucrum episcopus non quærat, præser-
+tim de gentilibus, malitque detrimentum capere
+quam inferre. ⁴⁹ Non sit insatiabilis, non raptor,
+non defraudator, non divitiis inhians, non osor
+pauperum, non maledicus, non falsus testis, non
+iracundus, non contentiosus, non negotiis sæcula-
+ribus implicitus, non pro alio sponsor, aut in cau-
+
+# block=5
+vel ὑπερῷον, nudus aut nudissimus tanquam pistil-
+lum vel cænaculum (quibus nihil nudius), sed ve-
+ram lectionem esse, γυμνότερος ὑπὲρ ὃ εἶ, hoc est,
+nudior quam es. Nudior supra sive ultra quod es.
+Cot.
+
+# block=6
+(9) Μὴ ἐγγυώμενός τινα, ἢ συνηγορῶν δίκαις
+χρηματικαῖς. Habentur similes sanctiones non pau-
+cæ. Postremum autem ita intelligo, ac si esset ne
+quidem in causis pecuniariis. Nam de criminalibus
+nulla poterat oriri difficultas. Tertullianus De idolo-
+latria, cap 17 : Neque judicet de capite alicujus, vel
+pudore; feras enim de pecunia. Lactantius, lib. VI,
+cap. 20 : Neque vero justo licebit accusare quemquam
+crimine capitali; quia nihil distat, utrumne ferro,
+an verbo potius occidas; quoniam occisio ipsa pro-
+hibetur. Chrysostomus homil. De pænitentia seu de
+politia, etc., a Savilio imperfecte, a Combefisio in-
+tegre edita : Καλὸν, καὶ τὰς χρηματικὰς δίκας φθά-
+νειν διαλύσεσι φιλικαῖς, ἵνα πρὸς τῷ τέλει τῆς δίκης;
+
+# block=7
+³⁸ Citatur a Cedreno. Vide Testimonia Veterum. ³⁹ Lev. XIX, 15. ⁴⁰ Exod. XXIII, 3. ⁴¹ Deut. I, 17.
+⁴² Deut. XVI, 20. ⁴³ al. τροφὴ καὶ ποτός. ⁴⁴ al. σοι ὦ ἐπίσκοπε. ⁴⁵ al. δυνηθῇς. ⁴⁶ Joan. v, 39.
+⁴⁷ Ibid., 46. ⁴⁸ Ose. x, 12. ⁴⁹ l. Clem. Epist. ad Jacob. c. 5. l. Barnab., cap. 19.
+
+# block=8
+Περὶ τοῦ μὴ εἶναι τὸν ἐπίσκοπον αἰσχροκερδῆ,
+μήτε δὲ ἐγγυᾶσθαι, ἢ συνηγορεῖν.
+
+# block=9
+ΚΕΦΑΛΑΙΟΝ Ϛ΄.
+
+# block=10
+ΚΕΦΑΛΑΙΟΝ Ε΄.
+
+# block=11
+(6) Ἑρμηνεύων. Deest in altero cod. Vindob.
+ID.
+
+# block=12
+CAPUT V.
+
+# block=13
+Quod non oportet episcopum in judicio esse accepto-
+rem personarum : quodque debeat esse moribus
+moderatis, et victu frugali.
+
+# block=14
+(5) Πολυδίδακτος. Alter c. Vind. habet πολυ-
+διδακτικός, hoc est multum docendi studiosus, quod
+Episcopum decet quam maxime. CLER.
+
+# block=15
+Ὅτι χρὴ ἀπροσωπόληπτον εἶναι τὸν ἐπίσκοπον
+ἐν τῷ κρίνειν, καὶ τὸ ἦθος μέτριον, καὶ τὴν
+δίαιταν συνεσταλμένον.
+
+# block=16
+Episcopus ne sit turpi lucro deditus; nec fidejussor,
+nec advocatus.
+
+# block=17
+VARIORUM NOTÆ.
+
+# block=18
+CAPUT VI.
+
+# block=19
+602
+
+# block=20
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=23
+(7) Ἑρμηνεύειν. Alter habet ἑρμηνεύσῃς, ca-
+dem sententia. ID.
+(8) Φιλοπλούσιος. Amans divitias, seu potius
+divites, COT.
+
+# block=24
+601

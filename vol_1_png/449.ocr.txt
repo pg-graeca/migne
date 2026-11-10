@@ -1,0 +1,203 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,161,145,917,620
+2,950,139,1697,615
+3,168,710,921,1022
+4,172,1015,928,2720
+5,777,655,1081,691
+6,684,84,1159,129
+7,952,712,1720,2721
+8,1490,2723,1527,2774
+13,1635,82,1701,130
+14,287,2725,581,2775
+15,153,96,217,136
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=16px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=13 fontSize=16px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+297
+298
+
+# block=6
+EPISTOLA I AD CORINTHIOS.
+
+# block=15
+297
+
+# block=2
+nostrum Jesum Christum, quod futura esset con-
+tentio de nomine episcopatus : ob eam ergo cau-
+sam, perfectam præcognitionem adepti constitue-
+runt prædictos, et deincess futuræ successionis
+regulam tradiderunt; ut cum illi decessissent, mi-
+nisterium eorum ac munus alii viri probati excipe-
+rent. Constitutos itaque ab illis, vel deinceps ab
+aliis viris eximiis, consentiente universa Ecclesia;
+qui inculpate ovili Christi ministraverunt cum hu-
+militate, quiete, nec illiberaliter; quique longo
+tempore ab omnibus testimonium præclarum re-
+
+# block=1
+ρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὅτι ἔρις ἔσται (94) ἐπὶ
+τοῦ ὀνόματος τῆς ἐπισκοπῆς. Διὰ ταύτην οὖν τὴν
+αἰτίαν πρόγνωσιν εἰληφότες τελείαν, κατέστησαν τοὺς
+προειρημένους, καὶ μεταξὺ ἐπινομὴν δεδώκασιν (95),
+ὅπως ἐὰν κοιμηθῶσιν, διαδέξωνται ἕτεροι δεδοκιμασ-
+μένοι ἄνδρες τὴν λειτουργίαν αὐτῶν. Τοὺς οὖν κατα-
+σταθέντας (96) ὑπ' ἐκείνων, ἢ μεταξὺ ὑφ' ἑτέρων
+ἐλλογίμων ἀνδρῶν, συνευδοκησάσης τῆς Ἐκκλησίας
+πάσης, καὶ λειτουργήσαντας ἀμέμπτως τῷ ποιμνίῳ
+τοῦ Χριστοῦ μετὰ ταπεινοφροσύνης, ἡσύχως καὶ
+ἀβαναύσως (97), μεμαρτυρημένους τε πολλοῖς χρόνοις
+
+# block=5
+VARIORUM NOTÆ.
+
+# block=3
+εἴτε Κηφᾶς — πάντα ὑμῶν ἐστιν· ὑμεῖς δὲ Χρι-
+στοῦ. ID. — Οἱ ἀπόστολοι ἡμῶν. Hoc nullus unquam
+dixit Clemens. BERN.
+(94) Ὅτι ἔρις ἔσται. Luculenta præsensio re-
+rum apud nos gestarum, quaeque propheticum
+apostolici ævi et viri spiritum profitetur. Olim
+schismata et hæreses subinde ortæ, præ fastigii
+istius desiderio et ambitu, nunc idem ipsum con-
+temptus et odium præstant. FELL.
+
+# block=7
+præceptum; reverendiss. Usserius, ordinem præ-
+scriptum; illustriss. Marca, formam, optimus Ham-
+mondus, seriem aut modum successionis, catalogum,
+distributionem, aut ordinationem esse censent, et
+satis constabit contextus ratio, quocunque ex istis
+modis interpretemur. Sed quandoquidem certissi-
+mum est vocem νομήν eodem omnino esse in signi-
+ficatu cum verbo νέμω, atque etiam ἐπινέμω; et
+apud Herodianum ita passim conjungi, quemadmo-
+dum hic apud Clementem nostrum, cum verbo
+δίδωμι, simplicissimam judico Hammondi versionem,
+atque eidem accedendum. FELL.
+(96) Κατασταθέντας, etc. Locus, si quis alius,
+apprime utilis ad intelligendum quæ fuerint partes
+cleri et plebis, in episcoporum ordinatione. Κατά-
+στασις ad apostolos et episcopos, συνευδόκησις ad
+plebem spectabat. Rem optime illustrat B. Cypria-
+nus ep. 68 : Diligenter de traditione divina et apo-
+stolica observatione servandum est et tenendum, quod
+apud nos quoque et fere per universas provincias te-
+netur, ut ad ordinationes rite celebrandas, ad eam
+plebem, cui præpositus ordinatur, episcopi ejusdem
+provinciæ proximi quique conveniant, et episcopus
+deligatur plebe præsente, quæ singulorum vitam
+plenissime novit, et uniuscujusque actum, de ejus
+conversatione perspexit; quod et apud vos factum
+videmus, in Sabini collegæ nostri ordinatione, ut
+de universæ fraternitatis suffragio, et de episcopo-
+rum, qui in præsentia convenerunt, quique de eo ad
+vos litteras fecerant, judicio episcopatus ei deferretur
+et manus ei in locum Basilidis imponeretur. Ita in
+substituendo successore in locum Judæ proditoris,
+cum apostoli duos constituissent; fideles ex eorum
+mandato inquirunt, et ἐπισκοπῇ quadam episcopum
+designant, ἐπισκέπτοντες ἄνδρας μεμαρτυρημένους.
+Cujus rei, cum obiter mentionem fecisset, hanc
+causam assignat D. Cyprianus, modo laudatus :
+Hoc tam diligenter et caute convocata tota plebe gere-
+batur, ne quis ad altaris ministerium, vel ad sacer-
+dotalem locum indignus obreperet. Ita et Timotheus
+a B. Paulo ordinabatur, siquidem ἐμαρτυρεῖτο ὑπὸ
+τῶν ἐν Λύστροις καὶ Ἰκονίῳ ἀδελφῶν, Act. xvi.
+Verba Origenis hac ipsa in re legisse minime pœ-
+nitebit, ex hom. 6 in Levit., ut ait requiri, in ordi-
+nando sacerdote præsentiam populi, ut sciant omnes
+et certi sint, quia qui præstuntior est ex omni po-
+pulo, qui doctior, qui sanctior, qui in omni virtute
+eminentior, ille eligitur ad sacerdotium, et hoc,
+adstante populo, ne qua postmodum retractatio cui-
+piam, ne quis scrupulus resideret. Iste autem est
+plebis assensus, quem Theodoritus in causa Petri
+successoris Athanasii lib. iv, c. 18, describit, quod
+in illo ὁ λαὸς ἅπας ταῖς εὐφημίαις ἐδήλουν τὴν
+ἡδονήν. FELLUS, qui cum hisce confert ritus Eccle-
+siæ Anglicanæ in electione presbyterorum et episco-
+porum; quæ cum nihil ad Clementem facerent, om-
+simus. COT.
+(97) 'Αβαναύσως. Vox Græca βάναυσος de iis
+artibus dicitur, quæ camini seu ignis subsidio
+opera conficiunt, atque inde ad quaslibet mecha-
+
+# block=4
+(95) 'Επινομὴν. Vox insolens plurimum negotii
+viris doctis facessivit. Hinc al. legebant ἀπονομὴν.
+Al. ἐπιλογὴν. Al. ἐπιταγὴν. Al. ἐπιμονὴν. Nec minor
+in ejus interpretatione dissensus. Illi enim redde-
+bant ordinem præscriptum. Isti præscriptas officio-
+rum vices. Illi praeceptum, formam. Hammond. in
+dissert. 5, contra Blondellum, seriem aut modum
+successionis, catalogum, distributionem, ordinatio-
+nem : in cujus sententiam ivit Wott. eo in primis
+innixus, quod vox ἐπινέμω aliquando significat
+καταλέγειν, id est catalogo adscribere. Sic denique
+Cler.: « Malim vertere subrogationem, hoc est nomina
+subrogandorum; quod sensus omnino requirit.
+Vetus Onomasticon ἐπινέμω vertit superrogo, quod
+idem significare videtur ac subrogo. Ad cujus inter-
+pretationis confirmationem facit quod habet Hesy-
+chius, qui ἐπινόμους interpretatur κληρονόμους, hæ-
+redes. » GALL. — Καὶ μεταξὺ ἐπινομὴν δεδώκα-
+σιν. Correctiones virorum doctorum parum ne-
+cessarias judico; nec probarim aut ἀπονομὴν Junii,
+aut ἐπιλογὴν Boisii, aut ἐπιμονὴν Turneri, apud
+Usserium de Epistolis S. Ignatii cap. 18. Nam textu
+non mutato, bonus sensus Clementis verborum
+afferi potest. Cum doctrina vero epistolæ nostræ
+concordat doctrina Cyprianicarum Epistolarum 41,
+52 et 55. Cor. — 'Επινομὴν δεδώκασιν. Boisius
+ἐπιλογὴν legit, ego malim ἀπονομὴν, i. e. ἀπομερι-
+σμόν, cum Hesychio, et cum Suida ἀπόμοιραν. De-
+scriptæ autem ministeriorum et officiorum vices
+hac voce exprimuntur, quæ apud Dionysium Areo-
+pagitam λήξεις et ἀπονεμήσεις, Budæo teste, vocan-
+tur : atque hoc sensus vox census, apud Tertullia-
+num forte accipienda est, De præscript. adversus
+hæreticos, cap. 32: Hoc enim modo Ecclesiæ apo-
+stolicæ census suos deferunt, sicut Smyrnæorum Ec-
+clesia habens Polycarpum ab Johanne collocatum
+refert; sicut Romanorum, Clementem a Petro ordina-
+tum edit; proinde utique et cætera exhibent, quos
+ab apostolis in episcopatum constitutos, apostolici
+seminis traduces habeant, etc. Ubi census suos
+deferre, est ordinem episcoporum suorum ad ori-
+ginem recensere, ut ipse lib. 4 Adversus Marcio-
+nem, cap. 5, loquitur (ubi etiam vox hæc, census,
+legitur, prout libro primo contra eumdem et cap.
+21 bis) : Ordo tamen episcoporum ad originem recen-
+sus, in Joannem stabit auctorem : sic et cæterarum
+generositas recognoscitur, alibi, libros censuales
+vocat; verum de re dubia satis. JUN. — 'Επινομὴν
+δεδώκασιν. Hæc μονήρης λέξις negotium fecit
+viris undequaque doctissimis. Eruditiss. Junius,
+præscriptas officiorum vices; clariss. Salmasius,
+
+# block=8
+1027
+
+# block=14
+PATROL, Gn. I.

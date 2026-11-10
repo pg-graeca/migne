@@ -1,0 +1,170 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,969,150,1732,1456
+2,180,151,937,1450
+3,958,1661,1742,2748
+4,165,1653,924,2728
+6,617,93,1294,134
+8,203,1492,1661,1532
+9,170,90,250,140
+10,1672,94,1738,138
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=6 fontSize=16px
+# block=8 fontSize=15px
+# block=9 fontSize=16px
+# block=10 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+661
+
+# block=6
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=10
+662
+
+# block=1
+gura Ecclesiæ erat; quin etiam ipso nomine testi-
+monii, Ecclesiæ tabernaculum designabatur. Huic
+itaque tabernaculo assidentes levitæ, ex iis quæ ab
+omni populo offerenda Deo donabantur, muneribus,
+portionibus, primitiis, decimis, sacrificiis, et obla-
+tionibus, libere accipiebant, ipsi, eorumque uxores,
+et filii, et filiæ. Sed et quia eorum officium erat
+tabernaculo deservire, idcirco illis terra inter filios
+Israel sortito non obtigit; scilicet, populi collatio-
+nes, sors levitarum erant, tribusque eorum hæredi-
+tas. Vos igitur, o episcopi, hodie populo vestro estis
+sacerdotes, ac levitæ, sacro tabernaculo, hoc est,
+sanctæ catholicæ Ecclesiæ ministrantes, et astantes
+ad altare Domini Dei nostri, cui rationales ac in-
+cruentas hostias offertis per Jesum Pontificem ma-
+gnum ⁸⁶. Vos laicis vestris prophetæ estis, principes,
+duces, reges; vos mediatores Dei et fidelium ejus,
+acceptores verbi et præcones, Scripturarum gnari,
+et voces Dei, ac testes voluntatis ejus; qui omnium
+delicta portatis, quique de omnibus rationem de-
+betis reddere; quibus, sicut audistis, horride sermo
+divinus minatur, si hominibus celaveritis clavem
+scientiæ ⁸⁷; et quibus mortis periculum imminet, si
+populo vobis supposito Dei voluntatem non annun-
+tiaveritis; quibus vice versa reponitur apud Deum
+certa merces et decus inenarrabile in gloria, si pul-
+chre sancto tabernaculo ministraveritis. Quemad-
+modum enim vestrum est onus; ita et cibos vobis
+suppeditatos, et alia necessaria colligitis. ⁸⁸ Imita-
+tores siquidem estis Christi Domini; et sicut ille
+
+# block=2
+καὶ (61) ἐκ τοῦ ὀνόματος μαρτύριον ⁸⁵, τῆς ἐκκλησίας
+ἡ σκηνὴ προωρίζετο. Ἐνταῦθα γοῦν καὶ Λευῖται τῇ
+σκηνῇ προσεδρεύοντες, ἐκ τῶν εἰς τὴν προσφορὰν (62)
+τοῦ Θεοῦ διδομένων ὑπὸ παντὸς τοῦ λαοῦ δώρων, καὶ
+ἀφαιρεμάτων, καὶ ἀπαρχῶν, καὶ δεκατῶν, καὶ θυ-
+σιῶν, καὶ προσφορῶν, μετεῖχον ἀκωλύτως, αὐτοὶ, καὶ
+(63) γυναῖκες αὐτῶν, καὶ υἱοὶ καὶ θυγατέρες αὐτῶν.
+Ἐπειδὴ δὲ (64) τὸ ἔργον αὐτῶν ἦν λειτουργία τῆς σκη-
+νῆς, διὰ τοῦτο κληροδοσίαν γῆς οὐκ ἔλαβον ἐν τοῖς
+υἱοῖς Ἰσραήλ· ὅτι αἱ εἰσφοραὶ τοῦ λαοῦ, κληροδοσία
+τοῦ Λευῒ, καὶ κληρονομία τῆς φυλῆς αὐτῶν. Ὑμεῖς
+(65) οὖν σήμερον, ὦ ἐπίσκοποι, ἐστὲ τῷ λαῷ ὑμῶν
+Ἱερεῖς, ¯Λευῖται, οἱ λειτουργοῦντες τῇ ἱερᾷ σκηνῇ, τῇ
+ἁγίᾳ καθολικῇ Ἐκκλησίᾳ, καὶ παρεστῶτες τῷ θυσια-
+στηρίῳ Κυρίου τοῦ Θεοῦ ἡμῶν, καὶ προσάγοντες αὐ-
+τῷ τὰς λογικὰς καὶ ἀναιμάκτους θυσίας διὰ Ἰησοῦ,
+τοῦ (66) μεγάλου ἀρχιερέως· ὑμεῖς τοῖς ἐν ὑμῖν λαϊ-
+κοῖς ἐστε προφῆται, ἄρχοντες, καὶ ἡγούμενοι, καὶ βα-
+σιλεῖς, οἱ μεσῖται Θεοῦ καὶ τῶν πιστῶν αὐτοῦ (67), οἱ
+δοχεῖς τοῦ λόγου καὶ ἀγγελτῆρες, οἱ γνῶσται τῶν
+Γραφῶν, καὶ φθόγγοι (68) τοῦ Θεοῦ, καὶ μάρτυρες
+τοῦ θελήματος αὐτοῦ· οἱ πάντων τὰς ἁμαρτίας βα-
+στάζοντες, καὶ περὶ πάντων ἀπολογούμενοι · οἷς, ὡς
+ἠκούσατε, ἐμβριθῶς ὁ λόγος ἀπειλεῖ, ἐὰν κρύψητε ἐξ
+ἀνθρώπων τὴν τῆς γνώσεως κλεῖδα· οἷς κίνδυνος ὀλέ-
+θριος, ἐὰν μὴ διαγγείλητε τὸ θέλημα αὐτοῦ τῷ ὑφ’
+ὑμᾶς λαῷ· οἷς παρὰ Θεοῦ μισθὸς ἀψευδὴς καὶ κλέος
+ἀνεκδιήγητον ἐν δόξῃ, καλῶς λειτουργήσασι τῇ σκηνῇ
+τῇ ἁγίᾳ. Ὡς γὰρ τὸ βάρος ὑμέτερον, οὕτω καὶ τὰς
+διακονίας τῶν τροφῶν, καὶ τὰς ἄλλας χρείας ὑμεῖς
+
+# block=8
+⁸⁵ F. μαρτυρίου. ⁸⁶ Ignat. interpol. ad Trall. 7. ⁸⁷ Luc. XI, 52. ⁸⁸ Ignat.
+
+# block=4
+(61) Προσέτι δὲ καὶ. Desunt hæc in altero cod. in
+quo legimus : Δῆλον γὰρ καὶ ἐκ τοῦ καλεῖσθαι αὐτὴν
+μαρτυρίου σκηνὴν, ὅτι ἐκ τοῦ, etc. CLER.
+(62) Τὴν προσφοράν. Τὴν τιμήν. ID.
+(63) Αὐτοὶ καὶ. Οὐ μόνον αὐτοὶ, ἀλλὰ καὶ. ID.
+(64) Ἐπειδὴ δέ. Pro δέ legit alter codex γάρ. ID.
+(65) Ὑμεῖς. Καὶ ὑμεῖς. ID.
+(66) Τοῦ. Χριστοῦ τοῦ. ID.
+(67) Οἱ μεσῖται Θεοῦ καὶ τῶν πιστῶν αὐτοῦ. Ita
+sæpe sancti Patres. Notavi in adversariis, Origenem
+homilia 2 in Leviticum, Basilium Constitutionum
+monasticarum cap. 22, Chrysostomum in Vidi Do-
+minum homil. 5, Hieronymum epistola 128, et ad
+Malachiæ caput 11 ; Isidorum Pelusiotam lib. III,
+epist. 20; Andream Cæsariensem in Apocalypsim
+serm. VII, cap. 21; Anastasium Sinaitam Oratione
+de sacra Synaxi; Historicos ecclesiasticos Evagrium
+et Nicephorum, illum lib. II, cap. 8, hunc lib. xv,
+cap. 17, sive Preces episcoporum Ægyptiorum et
+clericorum Alexandrinorum oblatas Leoni Augusto,
+Concilii Chalcedonensis parte III, num. 22; Maxi-
+mum ad caput 4 libri De ecclesiastica hierarchia;
+Alcuinum De divinis officiis libro, capitibus 13, 40;
+Leonem IV, in Concilio Romano, canone 17, apud
+eum scriptorem De Vitis Romanorum Pontificum,
+qui Luitprandus esse creditur.; Arnulfum sermone
+habito in concilio Turonensi; Zonaram ad cano-
+nem 3 Carthaginensem; Matthæum Blastarem Juris
+Græco-Romani lib. vII, pag. 517, seu elemento Γ,
+cap. 18, et Gregentii disputationem in fine. Imo ante
+Patres a Philone Judæo libro II De monarchia lit-
+teris mandatum est: Βούλεται τὸν ἀρχιερέα ὁ νόμος
+
+# block=3
+μείζονος μεμοιρᾶσθαι φύσεως, ἢ κατὰ ἄνθρωπον, ἐγ-
+γυτέρως προσιόντα τῆς θείας, μεθόριον, εἰ δεῖ τἀλη-
+θὲς λέγειν, ἀμφοῖν, ἵνα διὰ μέσου τινὸς ἄνθρωποι μὲν
+ἱλάσκωνται Θεὸν, Θεὸς δὲ τὰς χάριτας ἀνθρώποις ὑπο-
+διακόνῳ τινὶ χρώμενος ὀρέγῃ καὶ χορηγῇ. Postulat
+Lex in pontifice naturam humana majorem, ut qui ad
+divinam propius accedat, situs (si verum fateri licet)
+in utriusque confinio; ut per mediatorem aliquem ho-
+mines quidem Deum propitient; Deus vero gratias ho-
+minibus, aliquo usus ministro, porrigat atque largia-
+tur. Attamen S. Gregorius Nazianzenus (quidquid
+explicetur per Eliam Cretensem) videtur dubitare
+oratione 1, an sacerdos mediator Dei et hominum
+debeat appellari. Μεσιτείαν, inquit, Θεοῦ καὶ ἀνθρώ-
+πων· τοῦτο γὰρ ἴσως ὁ ἱερεύς. Quæ ita vertuntur a
+Rufino ac si legisset ἰδίως : Mediatorem effici populi
+apud Deum; quod est speciale officium sacerdotis.
+Quanquam epist. 38 Basilium appellat τοῦ Θεοῦ καὶ
+ἀνθρώπων μεσίτην. In Chrysostomo, Περὶ ἀκαταλή·
+πτου or. 2 de Zacharia Luc. 1: Καθάπερ μεσίτης τις
+ὢν Θεοῦ καὶ ἀνθρώπων. B. vero Augustinus lib. II,
+contra Parmenianum, cap. 8, ex I Timoth. II, 5, ar-
+guit eum Donatistam, quod quodam loco mediato-
+rem posuisset episcopum inter populum et Deum.
+Sed facilis conciliatio. Solus Christus, aiunt theo-
+logi, mediator est naturæ ac redemptionis; Sacer-
+dotes autem mediatores sunt ministerii et interces-
+sionis. Lege Reginonem lib. 1 De ecclesiast. disci-
+plinis et rel. Christ., cap. 299; synodos Romanas,
+sub Eugenio II et Leone IV, cap. 17. Cor.
+(68) Φθόγγοι. Alter codex Κήρυκες, quæ est in
+terpretatio vocis φθόγγοι, desumptæ e psalte. ID.

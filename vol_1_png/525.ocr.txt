@@ -1,0 +1,93 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1106,534,1717,1146
+2,1104,136,1711,518
+3,1103,2337,1701,2554
+4,1097,1163,1720,1952
+5,186,129,1074,2216
+6,186,2328,1058,2584
+7,1290,2265,1512,2299
+8,738,68,1177,122
+9,217,2647,1001,2693
+11,177,76,271,120
+12,1649,78,1721,126
+13,479,2238,775,2308
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+EPISTOLA II AD VIRGINES.
+
+# block=11
+449
+
+# block=12
+450
+
+# block=2
+in qua Dei timor non residet! Qui
+sic affectus es, nonne te condemnas?
+Num te ipsum æstimas? Non quid
+valeas nosti? Id requirunt fidelitas,
+æquitas ac justitia. Hi sunt limites
+quos dimovere non debent qui recte
+in Domino vivunt.
+
+# block=1
+Multæ quidem mulieres ministra-
+runt sanctis de substantiis suis. Sic
+Eliseo ministravit Sunamitis; at ipsa
+cum eo non habitavit: sepositum
+quippe cubiculum prophetæ occupa-
+bat. Cum autem hujus mulieris fi-
+lius mortuus esset, et illa ad pro-
+phetæ pedes se projicere vellet, ac-
+cessit Gizei, ut amoveret eam, et ait
+homo Dei: Dimitte illam, anima enim
+ejus in amaritudine est ⁷⁵.
+
+# block=4
+Ex quibus intelligamus necesse
+est quale fuerit sanctorum istorum
+contubernium. Quædam mulieres
+Domino Jesu Christo ministrabant
+de facultatibus suis ⁷⁶, sed cum illo
+non habitabant. Legimus etiam mu-
+lieres apostolis ipsique Paulo mi-
+nistrasse; ipsi vero eamdem cum il-
+lis habitationem non habebant; sed
+decenter, sancte et sine macula co-
+ram Domino conversati sunt; cur-
+sum suum consummarunt suamque
+coronam a Domino Deo omnipotente
+perceperunt.
+
+# block=7
+CAPUT XVI.
+
+# block=3
+Idcirco, fratres, rogamus vos in
+Domino, ut idem sapiamus, et in ea-
+dem permaneamus regula ⁷⁷, ut nos in
+vobis unum simus, et vos sitis unum
+
+# block=9
+⁷⁵ IV Reg. iv, 27. ⁷⁶ Luc. viii, 3. ⁷⁷ Philip. iii, 16.

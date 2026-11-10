@@ -1,0 +1,167 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1027,956,1788,1554
+2,244,1210,995,2127
+3,250,137,1004,1204
+4,1034,135,1789,949
+5,1024,1559,1791,2334
+6,246,2124,996,2335
+7,245,2489,989,2692
+8,1027,2481,1778,2558
+9,824,81,1236,118
+10,1028,2556,1778,2692
+11,259,85,327,119
+12,848,2395,1157,2434
+13,1702,78,1792,120
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1027 source_y1=956 source_x2=1788 source_y2=1554
+XIV. Quod si in hac vita positi illas quas ibi pa-
+tientur pœnas, ante oculos posuissent, refrenas-
+sent utique desideria et nullo pacto decidissent in
+peccatum. Multum enim potest sensus in anima ad
+resecandas omnes ejus cupiditates, maxime cum
+cœlestium scientiam ceperit, per quam lumine
+veritatis accepto, ab omni obscuritate malorum
+actuum declinabit. Sicut enim sol omnes stellas
+splendore sui fulgoris obtundit et contegit, ita et
+mens per scientiæ lucem omnes concupiscentias
+animæ inefficaces reddit et otiosas, futuri judicii
+memoriam super eas tanquam radios suos emit-
+tens, ita ut ne apparere quidem ultra in anima
+queant.
+
+# block=2 source_x1=244 source_y1=1210 source_x2=995 source_y2=2127
+XII. Igitur astrologi, ignorantes hujusmodi my-
+steria, putant stellarum cursibus ista contingere,
+unde et his qui accedunt ad eos, ut de futuris ali-
+quid consulant, respondentes falluntur in pluri-
+mis; nec mirum, non enim sunt prophetæ, sed
+usu multi temporis, auctores errorum perfugium
+quoddam in his quibus decipiebantur inveniunt, et
+climacteras quosdam introducunt, ut de rebus in-
+certis scientiam fingant. Climacteras enim dicunt
+quasi periculi tempus (82), in quo interdum peri-
+matur quis, interdum non perimatur; ignorantes
+quod non stellarum cursus hæc, sed dæmonum ge-
+rit operatio, qui ad astrologiæ errorem confirman-
+dum deservientes, calculis mathesis decipiunt ho-
+mines ad peccandum, ut cum, vel Deo permittente
+vel legibus exigentibus, peccati dederint pœnas,
+verum dixisse videatur astrologus. Et tamen fal-
+luntur etiam in hoc; si enim cito conversi fuerint
+ad pœnitentiam, et futuræ pœnæ recordationem
+conceperint ac metum, conversis ad Deum per
+gratiam baptismi resolvitur pœna mortis.
+
+# block=3 source_x1=250 source_y1=137 source_x2=1004 source_y2=1204
+sancti nominis, et de reliquo futuri judicii metu
+concupiscentias refrenetis, atque adversarias pote-
+states, cum forte ad sensus vestros accesserint, tota
+obstinatione pellatis. Séd dicis : Si in amorem quis
+inciderit, quomodo se poterit continere, etiamsi ante
+oculos suos ipsum ignis fluvium quem Pyriphlege-
+thonta nominant, videat? Hæc excusatio est eorum
+qui converti ad pœnitentiam nolunt. Denique nunc
+nolo Pyriphlegethonta adducas in medium; homi-
+num tibi propone pœnas, et vide quantum valeat
+metus; potestne quisquam, cum pro amoris cri-
+mine ad supplicium ducitur et ad stipitem colliga-
+tur urendus (81), in illo tempore ejus quam ama-
+vit vel desiderium capere vel speciem ante oculos
+proponere? Nequaquam, inquies. Vides ergo, quia
+præsens metus resecat iniqua desideria. Quod si
+credentes Deo, et futurum judicium pœnamque
+ignis æterni confitentes non se continent a pecca-
+to, certum est quod non plena fide credunt : si enim
+certa sit fides, certus fit et timor; si vero minus
+aliquid est in fide, relaxatur et metus, et tunc lo-
+cum inveniunt introeundi contrariæ potestates,
+quarum persuasionibus cum acquieverint, necesse
+est ut et potestati earum obnoxii fiant et ipsis per-
+suadentibus agantur ad præcipitia peccati.
+
+# block=4 source_x1=1034 source_y1=135 source_x2=1789 source_y2=949
+scit quomodo et quare peccet qui peccat, et quæ
+unumquemque causa ducat ad peccatum. Hoc tamen
+generaliter agnoscendum est; quod si qui non ita
+mente, ut actibus mali sunt, nec proposito incitati ad
+peccandum devolvuntur, his velocior et magis in præ-
+senti vita redditur pœna; ubique enim et semper
+Deus prout competere judicat, unicuique pro acti-
+bus suis reddit. Eorum vero qui proposito exercent
+malitiam, ita ut interdum etiam in eos sæviant,
+a quibus bona consecuti sunt, et nullam recorda-
+tionem capiunt ad pœnitentiam, differt pœnas in
+futurum; non enim merentur isti, sicut illi de qui-
+bus supra diximus, in præsenti vita scelerum suo-
+rum finire vindictam, sed permittitur eis præsens
+tempus implere ut volunt, quia emendatio eorum
+non est jam talis, quæ temporalibus indigeat ca-
+stigationibus, sed quæ æterni ignis in inferno exi-
+gat pœnas, quorum animæ ibi. pœnitentiam quæ-
+rent, ubi invenire non poterunt.
+
+# block=5 source_x1=1024 source_y1=1559 source_x2=1791 source_y2=2334
+XV. Quod autem timor Dei multum valeat ad
+reprimendas concupiscentias, cape humani timoris
+exemplum. Quotusquisque est, qui non inter ho-
+mines concupiscat aliena? et tamen metu pœnæ
+quæ legibus statuta est, refrenatur et contentius
+agit. Regi propter metum gentes subjacent et ar-
+matus paret exercitus. Servi cum sint validiores
+dominis suis, propter metum tamen imperia per-
+ferunt dominorum. Bestiæ ipsæ feræ metu mite-
+scunt: tauri validissimi jugo colla submittunt, et
+immanes elephanti magistris obtemperant per ti-
+morem. Sed cur humanis utamur exemplis, cum
+etiam divina non desint? Nonne terra ipsa sub
+præcepti metu permanet, quod etiam motu sui
+et tremore testatur? Mare statutum terminum
+servat, angeli pacem custodiunt, stellæ or-
+dinem tenent et fluvii meatus, dæmones quo-
+que certum est timore in fugam verti. Et ne per
+
+# block=6 source_x1=246 source_y1=2124 source_x2=996 source_y2=2335
+XIII. Sed dicet quis: Multi et homicidium et
+adulterium et alia scelera commiserunt, et nihil
+mali passi sunt. Hoc quidem raro accidit homini-
+bus, tamen nescientibus consilium Dei frequenter
+videtur accidere; Deus autem qui novit universa,
+
+# block=7 source_x1=245 source_y1=2489 source_x2=989 source_y2=2692
+(81) Cum pro amoris crimine ad supplicium duci-
+tur, et ad stipitem colligatur urendus. Julius Capito-
+linus de Macrino : Adulterii reos semper vivos simul
+incendit, junctis corporibus. Nota postea variam le-
+ctionem etiam codicis Regii, quem, ad puerorum
+stuprum spectantem, de quo flammis vindicibus ex-
+
+# block=8 source_x1=1027 source_y1=2481 source_x2=1778 source_y2=2558
+piando Valentiniani lex exstat in codice Theodo-
+siano.
+
+# block=9 source_x1=824 source_y1=81 source_x2=1236 source_y2=118
+RECOGNITIONUM LIB. IX.
+
+# block=10 source_x1=1028 source_y1=2556 source_x2=1778 source_y2=2692
+(82) Climacteras enim dicunt, quasi periculi tem-
+pus. Vide quos hac in re citat doctissimus Savaro
+ad Sidonii epist. 11, lib. VIII, nec non Nili abbatis
+epistolam 258, lib. II.
+
+# block=11 source_x1=259 source_y1=85 source_x2=327 source_y2=119
+1405
+
+# block=12 source_x1=848 source_y1=2395 source_x2=1157 source_y2=2434
+COTELERII NOTÆ.
+
+# block=13 source_x1=1702 source_y1=78 source_x2=1792 source_y2=120
+1406

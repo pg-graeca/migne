@@ -1,0 +1,81 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,244,145,1179,2436
+2,1210,154,1826,2418
+3,282,2477,1813,2725
+4,682,85,1460,131
+5,281,80,365,126
+6,1755,88,1835,140
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=5
+395
+
+# block=4
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=6
+396
+
+# block=2
+sanctus nominetur : reipsa, namque
+sanctus sit necesse est corpore et
+mente. Hinc cujusvis sexus virgo
+suam felicitatem quærat in simili-
+tudine et imitatione Dei et Christi
+ejus. Qui se tales exhibent, non
+insequuntur quæ caro appetit ,
+talis nempe appetitus hos non mo-
+vet qui vere proposito suo fideles
+sunt, et in quibus Spiritus Christi
+habitat. Carnis concupiscentias isti
+repellunt a se, et immunditiam ;
+impudicitiam, luxuriam, idolorum
+servitutem, veneficia, inimicitias,
+contentiones, iras, rixas, dissensio-
+nes, sectas, invidias, ebrietates,
+comessationes ⁷⁰, scurrilitatem, stul-
+tiloquium ⁷¹, contumelias, animosi-
+tates, detractiones, susurrationes ⁷²,
+amaritudinem, indignationem , cla-
+morem, blasphemiam ⁷³, jactantiam,
+malitiam, malorum inventionem ,
+verba nimia et vana, dentium stri-
+dorem, criminationem , percussio-
+nem, convicium , fraudulentiam ,
+perfidiam, negligentiam, murmura-
+tionem , arrogantiam, superbiam,
+tumorem de genere, forma, loco,
+opibus, fortitudine ; dolum, vanita-
+tem , pertinaciam in suo sensu ,
+odium, inimicitiam, æmulationem,
+invidiam, malorum retributionem,
+prodigentiam, gulam, avaritiam,
+quæ est idolorum servitus ⁷⁴, et ra-
+dix omnium malorum ⁷⁵, ornatus
+cupidinem, vanam gloriam, prima-
+tus ambitum, audaciam, elationem,
+mortis congenerem, cum Deo con-
+tra se arma ministret ⁷⁶.
+
+# block=3
+⁷⁰ Gal. v, 21, etc. ⁷¹ Ephes. v, 4. ⁷² II Cor. xii, 20. ⁷³ Ephes. iv, 31. ⁷⁴ Ephes. v, 5. ⁷⁵ I Tim, vi, 10.
+⁷⁶ Primo intuitu exuberantior videbitur ista tot vitiorum enumeratio, præsertim cum sermo dirigatur ad
+eos qui, viam perfectionis ingressi, supponi facile nequeunt his facinoribus inquinandi. Sed loquebatur
+sanctus Clemens in sæculo et in urbe scelerum immanitate nimium notis. Indirecte perstringebat san-
+ctus pontifex innumeram hanc turbam cælibum Romanorum et Græcorum qui honestas nuptias fugie-
+bant, ut in omnibus flagitiis liberius volutarentur. Istos delineaverat Apostolus (Rom. i, 26, 27). In pas
+siones ignominiæ et in reprobum sensum traditos, immutantes naturalem usum, in eum usum qui est

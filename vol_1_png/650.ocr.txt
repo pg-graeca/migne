@@ -1,0 +1,174 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,266,2151,1797,2325
+2,1065,153,1803,408
+3,281,154,1025,406
+5,1299,427,1564,463
+6,690,99,1398,139
+7,262,2383,1013,2731
+8,549,426,750,458
+9,265,511,1026,2115
+10,869,2345,1194,2378
+11,313,468,991,503
+12,1052,513,1806,2111
+13,271,92,353,136
+14,1737,90,1809,138
+15,1055,462,1793,510
+16,1049,2386,1799,2736
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+⁵⁷* Has voces supplevimus ex versione Latina, quanquam in textu Græco subintelligi possint: ED. PA-
+TROL. ⁵⁸ Deut. XVII, 7. ⁵⁹ Lev. XV, 31. ⁶⁰ Exod. XXIII, 3 ; Levit. XIX, 15 ; Deut. I, 17. ⁶¹ Exod. XXIII,
+7, 8 ; Deut. XXVII, 25 et XVI, 19. Cedrenus. Vide Vet. Testim. ⁶² Isa. V, 23. ⁶³ Ibid. 20. ⁶⁴ Matth. VII,
+2 ; Luc. VI, 37. ⁶⁵ Laudat Cedrenus, ibidem. ⁶⁶ Cedrenus, ibidem. ⁶⁷ Deut. XIX, 19. ⁶⁸ Al. τὸ ἱ.
+ἐλάχησεν. Deest in utroque Vind. ⁶⁹ Gen. IX, 6. ⁷⁰ Deut. XIX, 13.
+
+# block=2
+ἔχοντα, τῆς Ἐκκλησίας ἀπόκοπτε. Λέγει γὰρ ἡ Γρα-
+φή ⁵⁷* · « Ἐξαρεῖτε γὰρ τὸν πονηρὸν ἐξ ὑμῶν αὐτῶν. »
+Καί· « Εὐλαβεῖς ποιήσετε τοὺς υἱοὺς Ἰσραήλ. » Καὶ
+πάλιν· « Οὐ λήψῃ πρόσωπον πλουσίου ἐν κρίσει, καὶ
+πένητα οὐκ ἐλεήσεις ἐν κρίσει, ὅτι τοῦ Κυρίου ἡ κρί-
+σις. »
+
+# block=3
+et obduratum, tunc cum dolore ac luctu ab Ecclesia
+insanabilem reseca. Ait enim Scriptura: « Auferetis
+malum ex vobis ipsis ⁵⁸. » Et: « Cautos facietis filios
+Israel ⁵⁹. » Et rursum : « Non accipies personam
+divitis in judicio; et pauperis non misereberis in
+judicio ; quoniam Domini est judicium ⁶⁰. »
+
+# block=5
+ΚΕΦΑΛΑΙΟΝ ΜΒ'.
+
+# block=6
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=7
+· (54) Ὅτι χρή. Alia est inscriptio capitis in al-
+tero cod. Vindobonensi, sed quæ nihil ad rem :
+Ὅτι χρὴ τοὺς ἁμαρτάνοντας ἰδιαζόντως ἐλέγχειν, καὶ
+τοὺς μετανοοῦντας προσδέχεσθαι κατὰ τὴν τοῦ Κυ-
+ρίου διάταξιν. Forte id caput hinc excidit. ID.
+(55) Ὑμεῖς οἱ ποιμένες σὺν τοῖς διακόνοις. Ju-
+dicii ecclesiastici erga peccatorum reos frequens
+mentio in libro hoc, ut et apud Veteres. Eo in judi-
+cio sacerdotibus diaconos jungit etiam B. Hiero-
+nymus ad illud Michææ : Audite hoc principes do-
+
+# block=8
+CAPUT XLII.
+
+# block=9
+Si autem falsa sit et calumniosa accusatio ; vos-
+que pastores una cum diaconis, vel per acceptio-
+nem personarum, vel per munerum pactionem,
+volentes calumniatori gratum facere, mendacium
+tanquam veritatem amplexi fueritis, et accusatum,
+licet culpæ non affinem, expuleritis ab Ecclesia ;
+rationem reddetis in die Domini ; quoniam scriptum
+est : « Innocentem et justum non occides : non
+accipies munera ad percutiendam animam ; munera
+enim excæcant oculos sapientum, et pervertunt
+verba justorum ⁶¹. » Et rursus : « Qui justificant
+impium propter munera, et justitiam justi aufe-
+runt ⁶². » Attendite igitur, ne acceptores persona-
+rum facti, huic Domini voci subjiciamini. Quare
+injustam cujuslibet condemnationem, et improbo-
+rum patrocinium vitate. « Væ enim illi, qui dicit
+malum bonum, et bonum malum ; amarum dulce, et
+dulce amarum ; qui ponit lumen tenebras, et tene-
+bras lumen ⁶³. » Nam quando alios injuste conde-
+mnabitis, ipsi contra vos sententiam feretis ; quia
+Dominus ait : « Quo judicio judicaveritis, judicabi-
+mini, et quo condemnaveritis, condemnabimini ⁶⁴. »
+⁶⁵ Ergo si absque personarum acceptione judicatis,
+agnoscetis accusatorem, qui adversus proximum
+suum falsum fert testimonium, et declarabitis eum
+delatorem, invidum, homicidam, malignis alterca-
+tionibus et criminationibus cuncta turbantem, in
+verbis instabilem, sibimet in dictis suis contra-
+rium, et proprii oris verbis captum : ipsi quippe
+fortis laqueus incumbit, labia sua. ⁶⁶ Tu hunc vi-
+rum, convictus cum fuerit falsi testimonii, judicabis
+severe, et gladio ignis trades ; faciesque ipsi quem-
+admodum proximo malitiose facere destinabat ⁶⁷ ;
+quantum enim ipse potuit, fratrem necavit, aures
+judicis occupando : scriptum autem est : « Qui
+effuderit sanguinem hominis, pro eo sanguis
+ejus effundetur ⁶⁹ ; et auferes sanguinem innoxium a
+
+# block=10
+VARIORUM NOTÆ.
+
+# block=11
+Judicem non debere esse acceptorem personarum.
+
+# block=12
+Ἐὰν δὲ ψευδὴς ᾖ ἡ κατηγορία τῆς διαβολῆς, καὶ
+ὑμεῖς οἱ ποιμένες σὺν τοῖς διακόνοις (55) τὸ ψεῦδος
+ὡς ἀλήθειαν παραδέξησθε, ἢ διὰ προσωποληψίαν, ἢ
+διὰ δώρων ἐξαλλαγήν, βουλόμενοι τὸ ἀρεστὸν τῷ δια-
+βόλῳ ποιεῖν, τὸν κατηγορούμενον μὲν, ὑπάρχοντα δὲ
+τοῦ ἐγκλήματος ἀλλότριον, ἀπώσησθε τῆς Ἐκκλησίας,
+λόγον ὑφέξετε ἐν τῇ ἡμέρᾳ Κυρίου· ὅτι γέγραπται·
+« Ἀθῶον καὶ δίκαιον οὐκ ἀποκτενεῖς· οὐ λήψῃ δῶρα,
+πατάξαι ψυχήν· τὰ γὰρ δῶρα ἐκτυφλοῖ ὀφθαλμοὺς
+σοφῶν, καὶ λυμαίνεται ῥήματα δικαίων. » Καὶ πάλιν·
+« Οἱ δικαιοῦντες τὸν ἀσεβῆ ἕνεκεν δώρων, καὶ τὸ
+δίκαιον τοῦ δικαίου αἴροντες. » Προσέχετε (56) οὖν,
+μήπως προσωπολῆπται γενόμενοι ὑποπέσητε τῇ φω-
+νῇ τοῦ Κυρίου ταύτῃ. Φυλάσσεσθε οὖν τὸ κατακρί-
+νειν τινὰς ἀδίκως, καὶ συνηγορεῖν τοῖς πονηροῖς.
+« Οὐαὶ γὰρ τῷ λέγοντι τὸ πονηρὸν καλὸν, καὶ τὸ κα-
+λὸν πονηρὸν, τὸ πικρὸν γλυκὺ, καὶ τὸ γλυκὺ πικρὸν,
+τῷ τιθέντι τὸ φῶς σκότος, καὶ τὸ σκότος φῶς. »
+Ἐὰν (57) γὰρ ἑτέρους ἀδίκως κατακρίνητε, καθ' ἑαυ-
+τῶν ἀποφαίνεσθε· ὅτι λέγει Κύριος· « Ὧ κρίματι
+κρίνετε, κριθήσεσθε, καὶ ᾧ καταδικάζετε, καταδικα-
+σθήσεσθε. » Εἰ οὖν ἀπροσωπολήπτως κρίνετε, ἐπι-
+γνώσεσθε τὸν κατηγοροῦντα κατὰ τοῦ πλησίον αὐτοῦ
+μαρτυρήσαντα (58) ψευδῆ, καὶ ἐπιδείξας αὐτὸν συκο-
+φάντην, βάσκανον, φονέα, ταράσσοντα ὡς κακὸν ἀν-
+τιλογίαις, ἄστατον ἐν τοῖς λόγοις, ἑαυτῷ ἐναντίον
+ἐφ' οἷς φθέγγεται, καὶ ἁλισκόμενον ῥήμασιν ἰδίου
+στόματος· παγὶς γὰρ αὐτῷ ἰσχυρὰ ἐφέστηκε, τὰ ἴδια
+χείλη. Ὅν μετὰ τοὺς ἐλέγχους τῆς ψευδολογίας κρι-
+νεῖς ἀποτόμως, καὶ τῇ μαχαίρᾳ τοῦ πυρὸς παραδώ-
+σεις· καὶ ποιήσεις αὐτῷ, ὃν τρόπον ἐπονηρεύσατο
+ποιῆσαι τῷ πλησίον· ὅσον γὰρ ἐλάλησεν ⁶⁸ ἐπ' αὐτῷ,
+ἐφόνευσε τὸν ἀδελφὸν, προλαβὼν τὰ ὦτα τοῦ κρι-
+τοῦ· γέγραπται δὲ, ὅτι « ὁ ἐκχέων αἷμα ἀνθρώπου,
+ἀντὶ τοῦ αἵματος αὐτοῦ ἐκχυθήσεται· (59) καὶ ἐξ-
+αρεῖς τὸ αἷμα τὸ ἀναίτιον ἀπὸ σοῦ, τὸ ἐκχυθὲν μάτην. »
+e, qui effusus est sine causa ⁷⁰. »
+
+# block=13
+639
+
+# block=14
+700
+
+# block=15
+Ὅτι χρὴ (54) ἀπροσωπόληπτον εἶναι τὸν κριτήν.
+
+# block=16
+mus Jacob, et judices domus Israel, cap. III, v. 9 ;
+habitumque in conventu clericorum dicunt Elibe-
+ritani episcopi canone 74 cor.
+(56) Προσέχετε, etc. Hæc vox et decem sequen-
+tes desunt in altero, cod. Vindob. CLER.
+(57) Ἐάν, κ. τ. λ. Ante has voces leguntur in cod.
+Vindob. προσέχετε, etc., quæ in superioribus abe-
+rant. ID.
+(58) Μαρτυρήσαντα. Cod. Vind. μαρτυρίαν.
+(59) Ἀντὶ τοῦ αἵματος, αὐτοῦ ἐκχυθήσεται.

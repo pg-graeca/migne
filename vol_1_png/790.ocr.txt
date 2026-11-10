@@ -1,0 +1,188 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,231,837,976,1660
+2,999,1806,1768,2686
+3,1003,837,1783,1657
+4,222,1668,1771,1739
+5,840,1752,1138,1786
+6,503,148,733,186
+7,662,96,1370,132
+8,1272,152,1533,188
+9,339,191,900,229
+10,247,97,302,130
+12,218,1803,973,2432
+13,210,2433,959,2695
+14,1705,100,1771,142
+15,1019,194,1771,228
+16,227,236,987,840
+17,1021,234,1777,840
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=231 source_y1=837 source_x2=976 source_y2=1660
+sed spiritum quidem omnino indiscretum possides,
+utpote qui loco non comprehenditur; indiges au-
+tem oratione, [et eucharistia] et Spiritus sancti ad-
+ventu, ut quæ nihil hac in re peccaveris. Neque
+enim legitimus concubitus, neque puerperium, ne-
+que sanguinis menstruus cursus, neque in somniis
+pollutio ⁴⁹, naturam hominis inquinare possunt, aut
+Spiritum sanctum dirimere; sed sola impietas, et
+actio iniqua. Sanctus quippe Spiritus perpetuo ma-
+net in illis qui eum obtinuerunt; quandiu digni
+fuerint : a quibus autem separatus est, hos vacuos
+et malo spiritui dediticios exhibet. Porro hominum,
+alii quidem pleni sunt Spiritu sancto, alii vero spi-
+ritu immundo; neque fieri potest, ut alterutrum
+eorum vitent, nisi aliquid sibimet contrarium pa-
+tiantur; siquidem Paracletus odit quodlibet men-
+dacium; diabolus .quamlibet veritatem; quicunque
+autem vere baptizatus fuit, a spiritu quidem dia-
+bolico separatus est, intra vero Spiritum sanctum
+
+# block=2 source_x1=999 source_y1=1806 source_x2=1768 source_y2=2686
+κλησίας, φέρε, ἡ ἀγορᾶς ἥκοντα ἑωθινῶν, ἀλεκτρυό-
+νος ὀχεύειν δίκην, ὁπηνίκα εὐχῆς καὶ ἀναγνώσεως
+καὶ τῶν μεθ' ἡμέραν ἑδραίων ἔργων ὁ καιρός. Vide
+Chrysostomum, homil. 5, de Lazaro, necnon Hiero-
+nymum multis satque cognitis in locis. Quod addi-
+tur hic de eucharistia, in quibusdam exemplaribus,
+forte in aliis præteritum fuit ab hominibus, qui
+contrariam consuetudinem ætate sua observari cer-
+nebant. Obiter moneo ut vitia duo lectionis tollas
+e loco hac in re celebrato Theodori Balsamonis re-
+spons. ad interrog. 9 Marci Alexandrini, Juris
+Græco-Romani, p. 367 : Φησὶ γὰρ τοῦ ἁγίου Διονυ-
+σίου ἀπόκρισις, imo Τιμοθέου, quæ in collectione
+canonica Balsamonis exstat p. 1064, D. Et infra :
+Τῇ νυκτὶ γὰρ συντρίβειη, pro quo bene mss. codi-
+ces, τηνικαῦτα vel τηνικαῦτα γὰρ. Joannes Citrius
+ad Constantinum Cabasilam responsione 19 in mss.
+quæ a Jure Græco-Romano, p. 325, etc., abest : Ἱε-
+ρεύειν ἢ λαϊκοῖς ὀνειρώξεισι, κατ' ἐκείνην μόνην τὴν
+ἡμέραν τῶν ἁγιασμάτων ἀπέχεσθαι θέμις, διὰ τὸ τῆς
+ἱερωσύνης σεβάσμιον. Εἰ δὲ κίνδυνον ἢ ὑπέρθεσις
+ἀπειλεῖ, ἡ ἡμέρα ἐφέστηκε περιφανὴς ἀπαραίτητον
+εἰσπράττουσα τὴν ἱερουργίαν, τηνικαῦτα συντρίβειη
+ἡ παγὶς τοῦ ἐπηρεαστοῦ, ὑψωθείη δὲ τῆς ἱερωσύνης
+ἡ δύναμις. COT.
+(65) Παραμέρον. In altero Vindob. παράνομον.
+CLER.
+
+# block=3 source_x1=1003 source_y1=837 source_x2=1783 source_y2=1657
+ἀχώριστον, ὅτε μὴ ἐν τόπῳ ὄν· δεῖ δὲ σοι προσευ-
+χῆς ⁴⁸ καὶ τῆς τοῦ ἁγίου Πνεύματος ἐπιφοιτήσεως,
+ὡς οὐδὲν ἐν τούτῳ παρανομοῦσα. Οὔτε γὰρ νόμιμος
+μίξις, οὔτε λέχος, οὔτε αἵματος φορά, οὐκ ὀνειρωξις,
+μιᾶναι δύναται ἀνθρώπου φύσιν, ἢ τὸ ἅγιον Πνεῦμα
+χωρίσαι · ἡ μόνη δὲ ἀσέβεια, καὶ παράνομος πράξις.
+Τὸ γὰρ ἅγιον Πνεῦμα τοῖς κεκτημένοις αὐτὸ ἀεὶ πα-
+ραμένον (65) ἐστιν, ἕως ἂν ὦσιν ἄξιοι · καὶ ὧν ἂν χω-
+ρισθῇ, τούτους ἐρήμους καθίστησι, καὶ τῷ πονηρῷ
+πνεύματι ἐκδότους. Πᾶς δὲ ἄνθρωπος, ὁ μὲν τῷ
+Πνεύματι πεπληρωθὼς τῷ ἁγίῳ, ὁ δὲ τῷ ἀκαθάρτῳ·
+καὶ οὐχ οἷόν τε φυγεῖν αὐτῶν ἑκάτερον, εἰ μὴ ἐναν-
+τίον τι πάθωσιν · ὁ τε γὰρ Παράκλητος μισεῖ πᾶν
+ψεῦδος, ὅ τε διάβολος πᾶσαν ἀλήθειαν· πᾶς δὲ βεβα-
+πτισμένος κατὰ ἀλήθειαν, τοῦ μὲν διαβολικοῦ πνεύ-
+ματος κεχώρισται, τοῦ δὲ ἁγίου Πνεύματος ἐντὸς καθ-
+έστηκε· καὶ ἀγαθοεργοῦντι μὲν παραμένει τὸ Πνεῦμα
+τὸ ἅγιον, πληροῦν αὐτὸν σοφίας καὶ συνέσεως, καὶ τὸ
+πονηρὸν πνεῦμα οὐκ ἔᾷ αὐτῷ πλησιάσαι, ἐπιτηροῦν ·
+
+# block=4 source_x1=222 source_y1=1668 source_x2=1771 source_y2=1739
+⁴⁴ Levit. xv. ⁴⁵ al. add. ἢ εὐχαριστίας μεταλαβεῖν. ⁴⁶ Prov. vı, 22. ⁴⁷ Levit. xv, 16. ⁴⁸ al. add.
+καὶ εὐχαριστίας. ⁴⁹ Levit. xıı.
+
+# block=5 source_x1=840 source_y1=1752 source_x2=1138 source_y2=1786
+VARIORUM NOTÆ.
+
+# block=6 source_x1=503 source_y1=148 source_x2=733 source_y2=186
+CAPUT XXVII.
+
+# block=7 source_x1=662 source_y1=96 source_x2=1370 source_y2=132
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=8 source_x1=1272 source_y1=152 source_x2=1533 source_y2=188
+ΚΕΦΑΛΑΙΟΝ ΚΖ'.
+
+# block=9 source_x1=339 source_y1=191 source_x2=900 source_y2=229
+De observationibus Judaïcis ac ethnicis.
+
+# block=10 source_x1=247 source_y1=97 source_x2=302 source_y2=130
+979
+
+# block=12 source_x1=218 source_y1=1803 source_x2=973 source_y2=2432
+(62) Ἑλληνικῶν. Addit cod. Vindobon. γονοῤ-
+ῥοίας, ὀνειρώξεως, πλησιασμοῦ ἀφαίρου, μίξεως νο-
+μίμου, τοκετοῦ ἀποβολῆς, μώμου σώματος, κηδείας
+νεκροῦ, ἢ ὀστέων μνήματος, ἢ διαφορᾶς μνημάτων. CL.
+(63) Γονοῤῥύας , ὀνειρώξεις. Dupliciter hæc
+quæstio potest pertractari, vel secundum dogma,
+vel secundum disciplinam. Et quidem quod ad do-
+ctrinam spectat, certum est involuntarias γονοῤῥύας
+et ὀνειρώξεις, legitimos concubitus, ἐμμήνια, puer-
+perium, et similia nequaquam polluere, a solo pec-
+cato hominem contaminari. In disciplina vero con-
+siderare oportet loca , tempora, personas, ecclesia-
+rum consuetudines, cæteras circumstantias : qui-
+bus omnibus perpensis, licet aliter atque aliter
+censere, sancire, agere; damnando semper ac vi-
+tando ex una parte superstitionem ethnicam et Ju-
+daicam, ex alia irreverentiam malis Christianis so-
+lemnem. Atque hæc notiora sunt apud theologos,
+quam ut in iis diutius immorari necesse sit. COT.
+
+# block=13 source_x1=210 source_y1=2433 source_x2=959 source_y2=2695
+(64) Βιβλίου θιγεῖν. Solebant veteres ' meliores-
+que Christiani libros sacros singulis diebus lectita-
+re. Sic Gnostico Clementis Alexandrini lib. vıı, p.
+728 : Εὐχαὶ τε καὶ αἶνοι, καὶ αἱ πρὸ τῆς ἑστιάσεως
+ἐντεύξεις τῶν Γραφῶν. Idem Clemens Pædagogi ıı,
+cap. 10, pag. 194 : 'Αλλ' οἷς γε συγκεχώρηται γῆμαι,
+τούτοις ἐδέησεν Παιδαγωγοῦ, ὡς μὴ μεθ' ἡμέραν τὰ
+μυστικὰ τῆς φύσεως ἐκτελεῖσθαι ὄργια· μηδὲ ἐξ ἐκ-
+
+# block=14 source_x1=1705 source_y1=100 source_x2=1771 source_y2=142
+980
+
+# block=15 source_x1=1019 source_y1=194 source_x2=1771 source_y2=228
+Περὶ παρατηρημάτων Ἰουδαϊκῶν καὶ Ἑλληνικῶν (62)
+
+# block=16 source_x1=227 source_y1=236 source_x2=987 source_y2=840
+Si qui vero superstitiose observantes, custodiunt
+ritus Judaicos, fluxus seminis, pollutiones in som-
+no, legitimos concubitus⁴³; dicant nobis, utrum ho-
+ris aut diebus quibus quidpiam horum patiuntur, a
+precibus absistant, aut a tactione sacri libri, [aut a
+sumptione eucharistiæ :] atque si fateantur, patet
+eos Spiritu sancto, qui semper cum fidelibus ma-
+net, vacuos esse. De sanctis enim ait Salomon ⁴⁴ ;
+ut se quisque præparet, quo quando dormierit,
+custodiat eum, et quando evigilaverit, loquatur cum
+eo. Nam si existimas, mulier, cum per septem dies
+ob menstruam separata es, Spiritu sancto esse va-
+cua ⁴⁷; ergo si repente moriaris, decedes vacua Spi-
+ritu, ac nullam fiduciam et spem in Deum habens ;
+
+# block=17 source_x1=1021 source_y1=234 source_x2=1777 source_y2=840
+Εἰ δέ τινες παρατηρούμενοι, φυλάσσουσιν ἔθιμα
+Ἰουδαϊκά, γονοῤῥύας, ὀνειρώξεις (63), πλησιασμοὺς
+τοὺς κατὰ νόμον, λεγέτωσαν ἡμῖν, εἰ ἐν αἷς ὥραις
+ἢ ἡμέραις ἕν τι τούτων ὑπομένουσιν, παρατηροῦνται
+προσεύξασθαι, ἢ βιβλίου θιγεῖν⁴⁴ (64), καὶ ἐὰν συν-
+θῶνται, δῆλον ὡς τοῦ ἁγίου Πνεύματος κενοὶ τυγχά-
+νουσι, τοῦ ἀεὶ παραμένοντος τοῖς πιστοῖς. Περὶ γὰρ
+τῶν ὁσίων λέγει ὁ Σολομών· Ἵν' ἕκαστος ἑαυτὸν εὐ-
+τρεπίζῃ, ὅπως ὅταν καθεύδῃ, φυλάσσῃ αὐτὸν, καὶ
+ὅταν ἐγείρηται, συλλαλλῇ αὐτῷ. Εἰ γὰρ νομίζεις, ὦ
+γύναι, ἑπτὰ ἡμέρας ἐν ἀφέδρῳ οὖσα, τοῦ ἁγίου Πνεύ-
+ματος κενὴ τυγχάνειν, ἄρα τελευτήσασα ἐξαίφνης,
+κενὴ Πνεύματος, καὶ ἀπαῤῥησίαστος τῆς πρὸς Θεὸν
+ἐλπίδος ἀπελεύσῃ· ἡ μὲν τὸ πνεῦμα ἔχεις πάντως

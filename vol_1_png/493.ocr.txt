@@ -1,0 +1,78 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1095,327,1731,1003
+2,1090,1021,1723,2001
+3,1097,158,1720,310
+4,165,133,1059,2415
+5,722,83,1155,130
+6,572,2632,980,2712
+7,173,86,257,130
+8,1649,80,1723,132
+9,175,2504,1411,2564
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+386
+
+# block=5
+EPISTOLA I AD VIRGINES.
+
+# block=7
+385
+
+# block=3
+autem ejus abnegantes ⁵⁴; existimant
+se aliquid esse cum nihil sint, se-
+ipsos seducentes.
+
+# block=1
+Opus autem suum probet unusquis-
+que ⁵⁵, et semetipsum, qualis sit,
+noverit : gloriam quippe indebitam
+sibi arrogat qui virginitate et san-
+ctitate tumet quarum abnegat virtu-
+tem : siquidem eo ipso hujusmodi
+virginitas fœdata est, quod sit cunc-
+tis operibus bonis destituta. Unaquæ-
+que enim arbor de fructu suo cogno-
+scitur ⁵⁶. Intellige quæ dico : dabit
+enim tibi Dominus in omnibus intel-
+lectum ⁵⁷.
+
+# block=2
+Et vero, quisquis coram Domino
+castitatem servaturum sese profes-
+sus est, omni debet præcingi virtute
+Dei sancta ; et si vere pietatis intui-
+tu, cum timore carnem suam cruci-
+fixerit, verbum istud abdicat : Cre-
+scite et multiplicamini ⁵⁸; simulque
+mundi hujus spiritum, cogitationes,
+desideria, oblectamenta, vini largio-
+res haustus, amorem et otiositatem
+sæculi ejusque commercium ac ne-
+cessitudinem fugiens, insidiis, nexi-
+bus ac impedimentis ejus alienus
+efficitur. Sic et tu, dum in terra pe-
+regrinus es, vota tua sursum lætus
+emitte, et pro cœlesti patria indesi-
+nenter operare.
+
+# block=9
+⁵⁴ II Tim. III, 5. ⁵⁵ Gal. VI, 4. ⁵⁶ Luc. VI, 44. ⁵⁷ II Tim. II, 7. ⁵⁸ Gen. I, 28.

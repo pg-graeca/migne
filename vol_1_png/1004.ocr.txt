@@ -1,0 +1,181 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,184,577,942,1221
+2,969,318,1722,1223
+3,981,2186,1739,2686
+4,181,142,934,569
+5,976,1978,1726,2183
+6,981,1729,1729,1862
+7,192,1462,943,2688
+8,979,1870,1722,1970
+9,966,146,1707,313
+10,187,1275,1722,1389
+11,979,1465,1733,1730
+12,601,82,1316,133
+13,1636,95,1706,131
+14,181,90,252,125
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=184 source_y1=577 source_x2=942 source_y2=1221
+XVI. Tum senex : Sapienter, inquit, filius meus
+Clemens aptavit prosecutionem suam, ita ut nihil
+nobis ad hæc dicendum reliquerit ; verum omnis
+ejus sermo, quem de natura hominis disseruit,
+hanc habet continentiam, quia cum eo quod inest
+libertas arbitrii, est extrinsecus et aliqua causa
+mali, ex qua per diversas concupiscentias incitan-
+tur quidem homines, non tamen coguntur ad pec-
+catum ; pro eo, inquit, quod multo his validior est
+timor, qui obsistat et impetus desideriorum refre-
+net, ut cum naturales motus acciderint, effugatis
+his qui eos incitant et inflammant dæmonibus, pec-
+catum non possit admitti. Sed me hæc non addu-
+cunt ad fidem ; conscius enim mihi sum quorum-
+dam, ex quibus bene novi, quia compaginatione
+
+# block=2 source_x1=969 source_y1=318 source_x2=1722 source_y2=1223
+XVII. ⁶⁴ Denique cum Mars centrum tenens (83),
+in domo sua ex tetragono respexerit Saturnum cum
+Mercurio ad centrum, Luna veniente super eum
+plena, in genesi diurna, efficit homicidas et gladio
+casuros (84), sanguinarios, ebriosos, libidinosos,
+dæmoniosos (85), secretorum perscrutatores, ma-
+leficos, sacrilegos, et si qua sunt his similia, præ-
+cipue cum bonarum stellarum nulla respexerit.
+Sed et ipse (86) rursus Mars ad Venerem schema
+tetragonum habens, ex parte ad centrum, non
+respiciente aliquo bonorum, adulteros efficit et so-
+rores et filias et matres in conjugium adducit. Ve-
+nus cum Luna in finibus et domibus Saturni, cum
+Saturno si fuerit, attestante Marte (87-88), efficit mu-
+lieres quidem viragines, ad agriculturam, ad stru-
+cturam, et ad omne opus virile promptas, misceri
+quibuscunque voluerint et non argui a viris pro
+adulterio, nulla uti mollitie, non unguentis, non
+vestibus, non calceamentis muliebribus, sed viro-
+rum sorte agentes ; viros autem esse ut feminas
+nec quidquam virile gerere, cacodæmon Venus
+
+# block=3 source_x1=981 source_y1=2186 source_x2=1739 source_y2=2686
+(87-88) Attestante Marte. Ἐπιμαρτυροῦντος τοῦ
+Ἄρεος apud Cæsarium, Codex Candelarianus
+astante, quod eodem recidit. Infra cap. 21, atte-
+stante Marte, ubi Bardesanes citatus in Præpar.
+Evang. Eusebii lib. VI, cap. 10 ; Ἐφομαρτοῦντος τοῦ
+Ἄρεος, vel ut duo codices Regii ἐπομαρτοῦντος, vel
+ut tertius pariter Regius ἐπιμαρτυροῦντος. Hujus
+Recognitionum operis lib. ult. cap. 9 : Si adfuerit
+Mars. Nimirum, ab astrologis in simili sensu usur-
+pantur verba, μαρτυρεῖν, ἐπιμαρτυρεῖν, συμμεμαρτυ-
+ρεῖν, συνεπιμαρτυρεῖν, προσμαρτυρεῖν, ἔπεσθαι, ἐφο-
+μαρτεῖν, συμπαρεῖναι. Consule Ptolemæum et Pro-
+clum, quæque Vettii Valentis proferuntur a Seldeno,
+in Syntagmate primo de diis Syris, cap. 1, et ad Mar-
+mora Arundelliana.
+
+# block=4 source_x1=181 source_y1=142 source_x2=934 source_y2=569
+singula sermonem longius producamus, intuere
+quomodo unumquodque timor Dei continens, cun-
+cta in harmonia propria et ordinis sui compage cu-
+stodiat. Quanto magis ergo certi esse debetis, quia
+et dæmonum concupiscentiæ quæ in cordibus ve-
+stris oriuntur, admonitione timoris Dei extingui
+possunt et penitus aboleri, cum etiam ipsi incen-
+tores concupiscentiæ metu sibi dominante diffu-
+giant? Hæc ita se habere sciens, si quid tibi re-
+spondendum videtur, incipe.
+
+# block=5 source_x1=976 source_y1=1978 source_x2=1726 source_y2=2183
+(86) Sed et ipse, etc. Sic interpungo : aliquo bo-
+norum, adulteros efficit. Et sorores. . . adducit Ve-
+nus. . . Marte. Efficit. Similiter in Græco Cæsarii :
+ἀποτελεῖ. Ἀδελφὰς καὶ μητέρας μιγνυμένους Κύ-
+πρις. . . . Ἄρεος. Ἀποτελεῖ. . . . ἀνδρῶν · ἀν-
+δρείους, etc.
+
+# block=6 source_x1=981 source_y1=1729 source_x2=1729 source_y2=1862
+(84) Gladio casuros. Male videtur Rufinus acce-
+pisse vocem κτεινομένους in sensu passivo. Quid si
+gladio cæsuros? Quod additur in Cæsario ἐπωμώ-
+τας vel ἐπωμότας verti etiam posset perjuros.
+
+# block=7 source_x1=192 source_y1=1462 source_x2=943 source_y2=2688
+(83 Denique cum Mars centrum tenens. Cæsarius,
+Dialogo 2, interrogatione 109 : Αὐτίκα γοῦν Ἄρης
+κέντρον λαβὼν, οἰκείῳ οἴκῳ ἐκ τετραγώνου ἐπιδεω-
+ρῶν Κρόνον, σὺν Ἑρμῇ ἐπὶ κέντρον, Σελήνης ἐπ' αὐ-
+τὸν πλήρους ἀρχομένης (leg. ἐρχομένης), ἐπὶ ἡμερι-
+νῆς γεννήσεως, ἐκτελεῖ ἀνδροφόνους καὶ αἱμοπότας,
+μεθύσους, λάγνους, δαιμονῶντας, μυστηρίων ἀποκρύ-
+φων ἵστορας, μάγους, θύτας, καὶ τὰ τούτοις ἀκόλου-
+θα, ἐξαιρέτως μηδενὸς τῶν ἀγαθοποιῶν ἀστέρων ἐπι-
+θεωροῦντος. Αὐτὸς δὲ πάλιν Ἄρης πρὸς Ἀφροδίτην σχῆ-
+μα τετράγωνον ἔχων, μοιρικῶς ἐπὶ κέντρον μὴ ἐπιδεω-
+ροῦντος τινὸς ἀγαθοποιοῦ, μοιχοὺς ἀποτελεῖ, ἀδελφαῖς
+καὶ μητράσι μιγνυμένους. Κύπρις σὺν Μήνῃ ἐν ὅροις
+καὶ οἴκοις Κρόνου, σὺν Κρόνῳ, ἐπιμαρτυροῦντος τοῦ
+Ἄρεος, ἀποτελεῖ γυναῖκας γεωργοὺς, οἰκοδόμους, καὶ
+πάντων ἀνδρείων ἔργων ἐπιστήμονας, καὶ κοινοῦσθαι
+καὶ συγκαθεύδειν οἷς δ' ἂν βούλοιντο, καὶ μὴ κωλύε-
+σθαι ὑπὸ τῶν οἰκείων ἀνδρῶν. Ἀνδρείους οὖν ἀποτελεῖ
+γυναῖκας ἐν Αἰγοκέρῳ, Ὑδροχόῳ, κακοδαίμονας ἐν
+Ἀφροδίτῃ (l. κακοδαιμονοῦσα Ἀφροδίτη). Ἐπ' ἀν-
+δρῶν δὲ τοὐναντίον. σὺν Ἄρει οὖσα, ἐν Κριῷ. Ὅθεν
+οὐχ οἴονται (l. οἷόν τε) φόβῳ ἤ τινος ἀπειλῇ ἢ μηχα-
+νῇ ἐπισχεῖν τὰς ἐπιθυμίας, διὰ τὴν τῶν ἀστρων ἀπο-
+κλήρωσιν. « Cum igitur Mars centrum tenens, in do-
+mo sua ex tetragono respexerit Saturnum, cum
+Mercurio ad centrum, Luna veniente super eum
+plena, in genesi diurna, efficit homicidas et interfe-
+ctores, crudeles ac sanguinis avidos, ebriosos, libi-
+dinosos, dæmoniosos, absconditorum mysteriorum
+gnaros, magos, sacrificos, et quæ sunt his similia ;
+præcipue cum beneficarum stellarum nulla respexe-
+rit. Sed et ipse rursus Mars ad Venerem schema
+tetragonum habens, ex parte ad centrum non respi-
+ciente aliqua benefica, adulteros efficit, cum sorori-
+bus ac matribus coeuntes. Venus cum Luna in fini-
+bus et domibus Saturni, cum Saturno, attestante
+Marte, efficit mulieres agricolas, et structrices, et
+
+# block=8 source_x1=979 source_y1=1870 source_x2=1722 source_y2=1970
+(85) Dæmoniosos. Δαιμονῶντας, qui Proclo δαι-
+μονιόπληκτοι. Firmico, laborantes dæmonum incur-
+sione homines.
+
+# block=9 source_x1=966 source_y1=146 source_x2=1707 source_y2=313
+stellarum homines aut homicidæ aut adulteri
+fiunt, cæteraque perpetrant mala. Similiter au-
+tem et honestæ ac pudicæ feminæ, ut bene agant
+inde coguntur.
+
+# block=10 source_x1=187 source_y1=1275 source_x2=1722 source_y2=1389
+⁶⁵ Denique... aut Aquario desunt in codd. Lipss. Græca ex Bardesanis libro de fato excerpta leguntur
+apud Euseb. Præp. evang vi, 10: et ap. Cæsar. dial. 2, interrog. 109: Cf. Gallandii Bibl. Patr. VI, p. 60
+sqq.
+
+# block=11 source_x1=979 source_y1=1465 source_x2=1733 source_y2=1730
+omnium virilium operum peritas, atque misceri ac
+dormire cum quibus voluerint, et a viris suis non
+prohiberi. Viragines itaque efficit feminas, in Capri-
+corno, in Aquario Cacodæmon Venus : in viris au-
+tem e contrario, si cum Marte sit in Ariete. Unde
+impossibile est, timore, aut cujusquam minis, aut
+arte refrenare concupiscentias, propter astrorum
+fatalem sortem. »
+
+# block=12 source_x1=601 source_y1=82 source_x2=1316 source_y2=133
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=13 source_x1=1636 source_y1=95 source_x2=1706 source_y2=131
+1406
+
+# block=14 source_x1=181 source_y1=90 source_x2=252 source_y2=125
+1407

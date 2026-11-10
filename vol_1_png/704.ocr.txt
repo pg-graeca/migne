@@ -1,0 +1,212 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,257,1152,1015,1925
+2,262,327,1013,1057
+3,1046,323,1806,1052
+4,1022,2221,1798,2685
+5,1042,1144,1801,1921
+6,254,2216,1002,2684
+7,878,2176,1188,2212
+8,1301,282,1541,315
+10,550,1071,710,1101
+12,535,1924,704,1954
+16,272,86,325,117
+17,1166,142,1675,194
+19,504,286,765,316
+20,1300,1060,1559,1094
+21,1729,80,1789,119
+23,391,149,880,194
+24,308,1113,952,1147
+26,1275,198,1561,252
+27,509,214,793,246
+28,659,70,1391,120
+29,1039,1098,1799,1144
+30,1287,1928,1549,1970
+31,1039,1970,1797,2042
+32,257,1956,1019,2032
+33,263,2040,1007,2088
+34,1077,2048,1791,2092
+35,251,2092,1789,2170
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Vos igitur, episcopi, sollicite cogitate de illorum ali-
+monia, nullo modo deficientes eis : præbentes, pupillis
+quidem paternam curam, viduis vero tutelam marita-
+.em ; juventa fervidis, conjuges ; artifici, opus ; invali-
+do, misericordiam ; hospitibus, tectum ; esurientibus,
+buccéam ; sitientibus, potum ; nudis, vestitum ; ægro-
+tantibus, visitationem ; carcere detentis, auxilium. Ad
+hæc major vobis sit cura de orphanis, ut nihil ipsis
+desit : non virgini desit, quoad veniat ad nubilem
+ætatem, et fratri in matrimonium detis ; puero au-
+tem sumptum date, quo et artem discat, et ex ea
+erogatione nutriatur ; ut cum artem dextere exer-
+cuerit, tunc et instrumenta artis sibi emere valeat,
+ne amplius gravet sinceram fratrum erga ipsum
+charitatem, sed sibi suppeditet. ²⁰ Vere enim beatus
+ille qui, sibi opitulari valens, locum pupilli, hospitis
+ac viduæ non attriverit.
+
+# block=2
+Quando autem Christianus aliquis relinquitur
+pupillus , sive puer, sive puella , egregium erit fa-
+cinus, si quis fratrum, liberis orbus, suscipiat pue-
+rum, et loco filii habeat : puellam vero filio collocet,
+si habuerit coætaneum, et ad nuptias pariter ma-
+turum. Qui enim hoc faciunt, insigne opus perpe-
+trant, dum pupillorum parentes evadunt; conse-
+quenturque a Domino Deo tanti officii mercedem.
+Si quem vero divitem, hominibus duntaxat placere
+studentem, pudeat pupilli qui Ecclesiæ membrum
+est , pupillo quidem prospiciet pater orphanorum et
+judex viduarum ³²⁻¹⁷; at diviti talis ingruet, qui cun-
+cta per parcimoniam recondita consumet ; accidet-
+que ei quod dicitur : Quæ non comederunt sancti,
+hæc comedent Assyrii; sicut et ait Isaias : « Regio-
+nem vestram in conspectu vestro, alieni devorant
+eam ¹⁸. »
+
+# block=3
+Ὀρφανοῦ δέ τινος γενομένου Χριστιανοῦ, ἤτοι
+παιδὸς, ἢ παρθένου, καλὸν μὲν, ἵνα τις τῶν ἀδελφῶν,
+οὐκ ἔχων τέκνον, προσλαβόμενος τοῦτο, ἔχῃ εἰς παι-
+δὸς τόπον· τὴν δὲ παρθένον, ὁ ἔχων υἱὸν δυνάμενον
+αὐτῷ ταῖς τοῦ γάμου ὥραις συγχρονῆσαι, συζεύξῃ·
+τοῦτο γὰρ οἱ ποιοῦντες ἔργον μέγα ἐπιτελοῦσιν, ὀρ-
+φανῶν πατέρες ὑπάρξαντες, καὶ παρὰ Κυρίου τοῦ
+Θεοῦ λήψονται τὸν μισθὸν τῆς διακονίας ταύτης. Εἰ
+δέ τις κατὰ ἀνθρωπαρέσκειαν περιπατῶν, ἐπαισχύ-
+νοιτο, πλούσιος ὢν, τὰ τῆς ὀρφανίας μέλη· τοῦ μὲν
+ὀρφανοῦ πρόνοιαν ποιήσεται ὁ πατὴρ τῶν ὀρφανῶν,
+καὶ κριτὴς τῶν χηρῶν· αὐτῷ δὲ ἐμπεσεῖται τοιοῦτος,
+ὅστις αὐτοῦ δαπανήσει τὴν φειδώ· καὶ γενήσεται ἐπ’
+(17) αὐτῷ τὸ εἰρημένον (18)· « Ἃ οὐκ ἔφαγον ἅγιοι,
+ταῦτα φάγονται Ἀσσύριοι· καθὼς καὶ Ἡσαΐας λέ-
+γει· « Τὴν χώραν ὑμῶν ἐνώπιον ὑμῶν ἀλλότριοι
+κατεσθίουσιν αὐτήν. »
+
+# block=4
+Quæstionibus, ὑπὲρ τὸν λαμβάνοντα. Act. xx, 35:
+Μνημονεύειν τε τῶν λόγων (aut τὸν λόγον) τοῦ Κυρίου
+Ἰησοῦ, ὅτι αὐτὸς εἶπε· Μακάριόν ἐστι διδόναι μᾶλ-
+.λον ἢ λαμβάνειν. Ac meminisse verbi Domini Jesu,
+quoniam ipse dixit : « Beatius est magis dare quam
+accipere. » Quæ enarrans Joannes Chrysostomus, re-
+currendum arbitratur vel ad ea quæ apostoli ἀγρά-
+φως tradiderunt, vel ad sensum similiaque dicta.
+At aliis visum est annotare locum Constitutionum ;
+eodem errore quo eas pro vere apostolicis habebant.
+Ita Euthalius citatus a Turriano in Prolegomenis
+Græcis, et ad lib. II, cap. 36. Unde in duobus mss.
+Regiis, 608 et 705, ad marginem memorati textus
+posuerunt, ἐκ τῶν Διατάξεων. Cæterum in Anastasii
+
+# block=5
+Ὑμεῖς οὖν, ὦ ἐπίσκοποι, μεριμνήσατε τὰ περὶ
+τῆς ἀνατροφῆς αὐτῶν, μηδὲν ἐλλείποντες αὐτοῖς· τοῖς
+μὲν ὀρφανοῖς (19) παρέχοντες τὰ γονέων, ταῖς δὲ
+χήραις τὰ ἀνδρῶν, τοῖς ἀκμαίοις τοὺς γάμους, τε-
+χνίτῃ ἔργον, ἀδρανεῖ ἔλεος, ξένοις στέγος, πεινῶσι
+ψωμὸν, διψῶσι ποτὸν, γυμνοῖς ἔνδυμα, νοσοῦσι θέαν,
+φυλακίταις (20) βοήθειαν· πρὸς τούτοις πλείων ὑμῖν
+ἔστω φροντὶς περὶ τῶν ἐν ὀρφανίᾳ, ὅπως αὐτοῖς μη-
+δὲν ἐνδέῃ· τῇ μὲν παρθένῳ, μέχρις ἂν ἔλθῃ εἰς ὥραν
+γάμου, καὶ ἐκδῶτε αὐτὴν ἀδελφῷ· τῷ δὲ παιδὶ χορ-
+ηγίαν, πρὸς τὸ καὶ τέχνην ἐκμαθεῖν, καὶ διατρέ-
+φεσθαι ἐκ τῆς ἐπιχορηγίας· ἵν’ ὅταν δεξιῶς τὴν τέ-
+χνην κατορθώσῃ, τὸ τηνικαῦτα δύνηται καὶ τὰ τῆς
+τέχνης ἐργαλεῖα ἑαυτῷ πρίασθαι (21), ὅπως μηκέτι
+βαρύνῃ τινὰ ¹⁹ τῶν ἀδελφῶν ἀνυπόκριτον εἰς αὐτὸν
+ἀγάπην, ἀλλ’ ἑαυτῷ ἐπιχορηγῇ. Καὶ γὰρ ἀληθῶς μα-
+κάριός ἐστιν, ὃς ἂν δυνάμενος βοηθεῖν ἑαυτῷ, μὴ
+θλίβῃ τόπον ὀρφανοῦ, ξένου τε καὶ χηρῶν.
+
+# block=6
+(17) Ἐπ’. Deest hæc vocula in altero cod. CLER.
+(18) Τὸ εἰρημένον· ἃ οὐκ ἔφαγον ἅγιοι, etc. Pro-
+verbiale dictum, ex Scripturarum sensu. Jeremiæ
+L, 17 : Grex dispersus Israel ; leones ejecerunt eum ;
+primus comedit eum rex Assur.
+(19) Τοῖς μὲν ὀρφανοῖς, etc. Videto hic cap. 3
+Epistolæ ad Jacobum. Sequitur notanda lectionis
+varietas. Etenim Bovius vertendo medicinam, si-
+gnificat se loco θέαν legisse θεραπείαν. ID.
+(20) Φυλακίταις. Alter cod. τοῖς ἐν φυλακῇ ἐπί-
+σκεψιν. CLER.
+(21) Πρίασθαι. Παρέχεσθαι alter codex. Minus
+commode. ID.
+(22) Ὁ Κύριος μακάριον , etc. In Anastasianis
+
+# block=7
+VARIORUM NOTÆ.
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ Α΄.
+
+# block=10
+CAPUT II.
+
+# block=12
+CAPUT III.
+
+# block=16
+807
+
+# block=17
+ΒΙΒΛΙΟΝ ΤΕΤΑΡΤΟΝ.
+
+# block=19
+CAPUT PRIMUM.
+
+# block=20
+ΚΕΦΑΛΑΙΟΝ Β΄.
+
+# block=21
+808
+
+# block=23
+LIBER QUARTUS.
+
+# block=24
+Quomodo episcopus debeat pupillis providere.
+
+# block=26
+ΠΕΡΙ ΟΡΦΑΝΩΝ.
+
+# block=27
+DE ORPHANIS.
+
+# block=28
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=29
+Ὅπως χρὴ τὸν ἐπίσκοπον προνοεῖν τῶν ὀρφανῶν.
+
+# block=30
+ΚΕΦΑΛΑΙΟΝ Γ΄.
+
+# block=31
+Τίνες ὀφείλουσιν ἐπικουρεῖσθαι, κατὰ τὴν Κυ-
+ριακὴν διαταγήν.
+
+# block=32
+Quinam adjuvandi sint, secundum Dominicam con-
+stitutionem.
+
+# block=33
+²¹ Quandoquidem et Dominus beatiorem esse dixit
+
+# block=34
+Ἐπεὶ καὶ (22) ὁ Κύριος μακάριον εἶπεν εἶναι τὸν
+
+# block=35
+³²⁻¹⁷ Psal. LXVII, 6. ¹⁸ Isa. I, 7. ¹⁹ al. τήν, sic et cod. Vind. ²⁰ Citatur ab Anastasio, quæst. 14.
+²¹ Anastasius ibid.

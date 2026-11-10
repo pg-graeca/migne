@@ -1,0 +1,90 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,294,2280,1824,2718
+2,1210,2091,1822,2249
+3,287,142,1182,1973
+4,1203,148,1828,1821
+5,291,2078,1167,2258
+6,1413,1999,1601,2040
+7,687,77,1457,130
+9,275,78,361,126
+10,1747,94,1823,134
+11,593,1992,877,2060
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=4 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=16px
+# block=9 fontSize=16px
+# block=10 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=9
+399
+
+# block=10
+400
+
+# block=4
+testatur Scriptura quod pleni sint
+Spiritu sancto, quod bonum testi-
+monium habeant, et electi fuerint
+coram Deo et hominibus ⁸⁵. Homo
+namque Dei, et maxime utriusque
+sexus virgines, nihil desideriorum
+carnis retinent, nec nisi spiritum et
+vitam progerminant. Vere civitas
+Dei sunt, domus ac templum in
+quibus Deus hospitatur et habitat,
+ambulans in medio eorum, cum ex
+ipsis ædificetur sancta cælorum ci-
+vitas. Inter eos et vos ipsi lucentes
+sicut luminaria in mundo, verbum
+vitæ continentes ⁸⁶, vere laus eritis
+et gloria, lætitiæ corona et gaudium
+his qui bene ministrant in Christo
+Jesu, et omnes qui viderint vos co-
+gnoscent vos esse semen cui bene-
+dixit Dominus ⁸⁷, genus electum,
+regale sacerdotium, gentem san-
+ctam, populum acquisitionis, hære-
+des divinarum promissionum quæ
+nec corrumpuntur, nec deficiunt,
+bonorum quæ oculus non vidit, nec
+auris audivit, nec in cor hominis
+ascendit quæ præparavit Deus iis qui
+diligunt illum ⁸⁸, et custodiunt man-
+data ejus.
+
+# block=6
+CAPUT X.
+
+# block=2
+De vobis quidem, fratres, confidi-
+mus quod solliciti eritis hæc agere
+quæ saluti vestræ necessaria sunt ;
+
+# block=1
+sacræ, fore perpetuo continentes (I Tim. et Tit. 1.) Superfluum est addere eamdem stabilitam fuisse legem
+pro his qui, quamvis ministerio sacro extranei, virginitati seipsos devoverant. Asserit sanctus Hierony-
+mus, scribens ad Pammachium, « Episcopos, presbyteros et diaconos probe novisse, non posse hostias
+offerre si operi serviant conjugali. » Additque, in calce : « Christus et virgo Maria utriusque sexus de-
+dicaverunt principia. Apostoli, vel virgines erant, vel, post nuptias, continentes. Episcopi, presbyteri,
+diaconi, aut virgines eliguntur, aut v.dui, aut, post consecrationem, in æternum pudici. » Nemo igitur
+mirari debet, si harum Epistolarum authenticitas rejecta fuerit a majori parte pseudoreformatorum,
+qui tam acriter in consectatorem suum debacchati sunt, quia illas ipse ut genuinas habuerat et suscepe-
+rat. ⁸⁵ Hæc verba patenter alludunt capiti sexto Actuum in quo narratur electio septem diaconorum,
+præsertim sancti Stephani, cujus veteres Patres specialiter castitatem celebrarunt. Hinc pontifex conse-
+crator, alloquens eos qui consecrandi sunt diaconi : « Cogitate, ait, beatum Stephanum merito præci-
+puæ castitatis, ab apostolis, ad officium istud electum. » (Ex Pontificali.) , ⁸⁶ Philipp. 11, 15, 16. ⁸⁷ Isa
+LXI, 9. ⁸⁸ I Cor. II, 9.

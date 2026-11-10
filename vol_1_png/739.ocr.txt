@@ -1,0 +1,203 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,184,2149,939,2715
+2,972,148,1727,1744
+3,180,147,940,1744
+4,966,1956,1725,2319
+5,966,2320,1712,2384
+6,182,2051,929,2153
+7,184,1779,1719,1848
+8,795,1880,1096,1914
+9,966,2384,1714,2487
+10,616,91,1275,126
+11,964,2550,1708,2649
+12,965,2484,1751,2552
+13,188,1951,926,2020
+14,235,2018,756,2052
+15,193,92,250,127
+16,985,2646,1543,2688
+17,1651,88,1719,132
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=17 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+878
+
+# block=10
+CONSTITUTIONES APOSTOLICÆ.—LIB. V.
+
+# block=15
+877
+
+# block=3
+ἑαυτῇ• » καὶ πάλιν• « Περιεκύκλωσάν με κύνες πολ-
+λοὶ, συναγωγὴ πονηρευομένων περιέσχον με• » καὶ ἐν
+ἑτέροις• « Ἐγένετο ἡ κληρονομία μου (94) ἐμοὶ, ὡς
+λέων ἐν δρυμῷ, ἔδωκεν ἐπ’ ἐμὲ τὴν φωνὴν αὑτῆς. »
+Ὁ οὖν Πιλάτος ἀνανδρίᾳ καταισχύνας τὴν ἀρχὴν, αὐ-
+τὸς ἑαυτὸν ἐξελέγχει κακίας (95), πρὸ τοῦ δικαίου τὰ
+πλήθη θεραπεύσας, καὶ μαρτυρῶν μὲν αὐτῷ ὡς ἀπαι-
+τίῳ, ὡς αἴτιον δὲ κολάσει τοῦτον παραδιδοὺς σταυρῷ,
+καίτοι Ῥωμαίων νόμους τιθεμένων (96), μηδένα ἀνεξ-
+έλεγκτον θνήσκειν. Δῆμοι δὲ παραλαβόντες τὸν τῆς
+δόξης Κύριον, ξύλῳ προσήλωσαν· ἕκτῃ μὲν ὥρᾳ σταυ-
+ρώσαντες αὐτὸν, τρίτῃ δὲ ὥρᾳ τὴν ἀπόφασιν δεξάμε-
+νοι τὴν περὶ αὐτοῦ (97). Ἔπειτα ἔδωκαν αὐτῷ ὄξος
+πιεῖν μετὰ χολῆς. Εἶτα τὰ ἱμάτια αὐτοῦ κλήρῳ (98)
+διεμερίσαντο. Ἔπειτα δύο κακούργους ἐσταύρωσαν σὺν
+αὐτῷ, ἐξ ἑκατέρου μέρους· ἵνα πληρωθῇ τὸ γεγραμ-
+μένον· « Ἔδωκαν εἰς τὸ βρῶμά μου χολὴν, καὶ εἰς
+τὴν δίψαν μου ἐπότισάν με ὄξος• » καὶ πάλιν• « Διε-
+μερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς, καὶ ἐπὶ τὸν ἱματι-
+σμόν μου ἔβαλον κλῆρον• » καὶ ἐν ἄλλοις• « Καὶ μετὰ
+ἀνόμων ἐλογίσθη. » Ἔπειτα ἐγένετο τρεῖς ὥρας σκό-
+τος, ἀπὸ ἕκτης ἕως ἐννάτης· καὶ πάλιν φῶς πρὸς δεί-
+λην· καθὼς γέγραπται• « Καὶ οὐχ ἡμέρα (99), καὶ οὐ
+νὺξ, καὶ πρὸς ἑσπέραν ἔσται φῶς. » Ἅπερ ἅπαντα
+(100) θεασάμενοι οἱ συσταυρωθέντες αὐτῷ κακοῦργοι·
+ὁ μὲν αὐτῶν ἐβλασφήμει, ὡσανεὶ δι’ ἀσθένειαν μὴ δυ-
+νάμενον ἑαυτῷ ἐπαμύνειν· ὁ δὲ τοῦτῳ μὲν ἀγνοιαν
+ἐπετίμα, πρὸς δὲ τὸν Κύριον στραφεὶς, ὡς ἂν φωτι-
+σθεὶς ὑπ’ αὐτοῦ, καὶ γνοὺς ὅς τις ὁ πάσχων, ἠξίου
+μνήμην αὐτοῦ γενέσθαι ἐν τῇ βασιλείᾳ εἰς τὰ μετὰ
+ταῦτα· ὁ δ’ εὐθὺς ἀμνηστίαν αὐτῷ τῶν προγεγονό-
+των χαρισάμενος, εἰς παράδεισον εἰσήγαγεν, ἀπολαύ-
+σοντα τῶν μυστικῶν· ὃς καὶ περὶ τὴν ἐννάτην ὥραν
+ἀναβοήσας εἶπε τῷ Πατρί· « Θεέ μου, Θεέ μου, ἵνα
+τί με ἐγκατέλιπες; » καὶ μετ’ ὀλίγον (1) κράξας φωνῇ
+μεγάλῃ· «Πάτερ, ἄφες αὐτοῖς, οὐ γὰρ οἴδασι τί (2)
+ποιοῦσι·» καὶ ἐπαγαγών·« Εἰς χεῖράς σου παρατίθη-
+
+# block=2
+agoga malignantium obsedit me ⁹⁸; » et in alio loco :
+« Facta est hæreditas mea mihi, quasi leo in silva;
+dedit contra me vocem suam ⁹⁹. » Pilatus ergo præ-
+fecturam suam ignavia dedecorans, se ipse impro-
+bitatis convicit, qui plebi favere maluit quam viro
+justo ; et eum cui testimonium innocentiæ præbe-
+bat, tanquam nocentem supplicio crucis tradidit ;
+quamvis Romani legibus vetuerint ne in quemquam
+nisi convictum, morte animadvertatur. Carnifices
+vero sibi traditum gloriæ Dominum ligno confixe-
+runt ; hora sexta crucifigentes eum, cum hora ter-
+tia sententiam de eo prolatam accepissent.¹⁰⁰ De-
+derunt ei postea acetum cum felle ad bibendum.
+Deinde vestimenta ejus sorte jacta partiti sunt. Tum
+duos maleficos cum eo ex utraque parte in crucein
+sustulerunt. Ut impleretur quod scriptum fuit : «De-
+derunt in escam meam fel ; et in siti mea potave-
+runt me aceto ¹ ; » et rursus : « Diviserunt sibi ve-
+stimenta mea ; et super vestem meam miserunt sor-
+tem ² ; » et alio in loco : « Et cum iniquis reputatus
+sum ³. » Inde fuerunt tenebræ per tres horas, a
+sexta usque ad nonam; rursusque lux sub vespe-
+ram : sicut scriptum est : « Et non dies, neque nox;
+et ad vesperam erit lux ⁴. » Quæ omnia cum spe-
+ctassent facinorosi illi, una in crucem acti; alter
+quidem ex iis convicia jaciebat, quasi Christus pro-
+pter infirmitatem sibi ipse opem ferre non posset ;
+alter vero criminis socium increpabat ignorantiæ,
+atque ad Dominum conversus, ut ab eo illustratus,
+ac sciens qui esset qui pateretur, orabat, in poste-
+rum memoriam sui usurpari in regno : at Dominus
+confestim data ei præteritorum venia et oblivione,
+in paradisum introduxit, ubi bonis mysticis frueru-
+tur. Porro circa horam nonam Christus exclamavit
+et Patri dixit : « Deus meus, Deus meus, ut quid de-
+reliquisti me⁵? » Et paulo post cum clamasset voce
+ingenti : « Pater, dimitte illis; non enim sciunt quid
+
+# block=7
+⁹⁸ Psal. xxi, 17. ⁹⁹ Jer. xii, 8. ¹⁰⁰ l. Ignat. interpol. ad Trall. 9. ¹ Psal. lxviii, 22. ² Psal. xxi,
+19. ³ Isa. liii, 12. ⁴ Zach. xiv, 7. ⁵ Matth. xxvii, 46.
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=13
+(94) Μοῦ. Deest in altero cod. estque revera su-
+pervacuum. CLER.
+
+# block=4
+καὶ ἀναμφιβόλως ἐκτίθεται· ἐπεὶ οὖν σταυρῶσαι καὶ
+τιμωρήσασθαι ἕκτοτε οἱ δικασταὶ λέγονται, ἀφ’ οὗ
+τὴν ἀπόφασιν ἐξενέγκωσιν, etc. Ita supplendum ex
+Theophylacto, atque ex codice Regio 255, ex quo
+quibusdam interjectis, post πλέξαντες στέφανον ἐξ
+ἀκανθῶν, scribere oportet ἐπέθηκαν αὐτοῦ τῇ κεφα-
+λῇ, καὶ ἱμάτιον πορφυροῦν περιέβαλον αὐτῷ : et in-
+fra, ὅτε καὶ παρέδωκεν, quod etiam habet Theophy-
+lactus. Loca compone: intelliges præterea in Theo-
+phylacto restitui debere Ἰωάννης δέ, et ἐνύττετο.
+COT.
+
+# block=14
+95) Κακίας. Deest in altero cod. Ib.
+
+# block=6
+(96) Τιθεμένων. In cod. Vindob. θεμένων in con-
+jug. media, quæ hic elegantior est. Vide Lud. Ku-
+steri dissert. de verbo medio. Ib.
+
+# block=1
+(97) Τρίτῃ δὲ ὥρᾳ τὴν ἀπόφασιν δεξάμενοι τὴν
+περὶ αὐτοῦ. Hallucinatur vir doctissimus Jacobus.
+Usserius, dum cap. 11 dissertationis de scriptis
+S. Ignatii, etc., non dubitandum censet quin Con-
+stitutor· legerit in Joannis Evangelio cap. xix, 14:
+Ὥρᾳ ὡσεὶ τρίτῃ. Quid enim, si ex eorum numero
+fuit, qui, teste Theophylacto, cum legerent sicut
+nunc, Marc. xv, 25, ἦν δὲ ὥρα τρίτη, et Joan. xix,
+14, ὥρα δὲ ὡσεὶ ἕκτη, Marcum exponebant de hora
+latæ adversus Christum sententiæ, Joanuem vero de
+crucifixionis tempore ? Quæ quidem explicatio pro-
+batur Theophani Cerameo homil. 27. Hesychius
+presbyter Hierosolymitanus a R. P. Francisco Com-
+befisio editus tom. I. Auctarii novi, p. 775: Τίνος
+ἕνεκεν, ὁ μὲν Μάρκος, τρίτην ὥραν λέγει τὸν Χρι-
+στὸν σταυρωθῆναι · ὁ δὲ Ἰωάννης, ἕκτην; Μάρκος
+μὲν τὴν ὥραν τῆς ἀποφάσεως τοῦ σταυροῦ, σαφῶς
+
+# block=5
+(98) Κλήρῳ. Omissum in altero codice perperam.
+CLER.
+
+# block=9
+(99) Καὶ οὐχ ἡμέρα. Ἐν ἐκείνῃ τῇ ἡμέρᾳ οὐκ
+ἔσται φῶς· καὶ ψῦχος καὶ πάγος ἔσται μίαν ἡμέραν.
+Sic habent ambo codd. Vindob. Ib.
+
+# block=12
+(100) Ἄπερ ἅπαντα et seq. ad vocem ἀγαθῶν.
+Desunt in altero cod. Ib.
+
+# block=11
+(1) Καὶ μετ’ ὀλίγον, etc. Frustra hic quoque la-
+bantem pseudo-Clementis memoriam fulcire cona-
+tus est Turrianus. COT.
+
+# block=16
+(2) Τί. Est ö in altero cod. Vind. Cl.

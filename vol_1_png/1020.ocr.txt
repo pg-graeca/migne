@@ -1,0 +1,167 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,166,1545,915,2491
+2,958,583,1709,1190
+3,168,976,920,1536
+4,956,1198,1707,1974
+5,954,1982,1703,2676
+6,171,147,924,964
+7,168,2500,916,2720
+8,961,146,1709,574
+9,990,2683,1692,2722
+10,588,88,1297,123
+11,173,92,242,131
+12,1641,94,1708,131
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=166 source_y1=1545 source_x2=915 source_y2=2491
+XXXVI. Unde magis constat, quod prudentes
+viri cum viderent communem superstitionem tam
+probrosam esse, tam turpem, nec tamen corrigendi
+modum aliquem vel scientiam didicissent, quibus
+potuerunt argumentis et interpretationibus conati
+sunt res inhonestas honesto sermone velare, et non,
+ut dicunt, honestas rationes inhonestis fabulis oc-
+cultare; quod si esset, nunquam utique ipsa co-
+rum simulacra atque ipsæ de eis picturæ cum suis
+vitiis et criminibus formarentur. Non cycnus adul-
+ter Ledæ, nec taurus formaretur Europæ, et in
+mille monstra eum, quem putant meliorem omni-
+bus, verterent. Quod utique si magni et sapientes
+qui sunt apud eos viri, fictum scirent esse, non
+verum, nonne impietatis arguerent et sacrilegii eos,
+qui ad injuriam deorum hujusmodi aut picturam
+ponerent aut sculperent simulacra? Denique regem
+temporis sui depingant in bovis forma, vel anseris,
+vel formicæ, vel vulturis, et scribant super regis sui
+nomen, atque hujusmodi vel statuam vel imaginem
+collocent; et injuriam facti sentient et vindictæ
+magnitudinem.
+
+# block=2 source_x1=958 source_y1=583 source_x2=1709 source_y2=1190
+XXXVIII. Quod si, ut dicunt, hæc ita honeste et
+pie gesta tam inhonesto ritu ministrantur et impio,
+sacrilegus profecto est, quisquis ille vel ex initio
+hæc tradidit, vel nunc male tradita persistit im-
+plere. Quid autem et de libris dicimus poetarum?
+Nonne oportuerat eos, si honesta et pia deorum
+gesta turpibus fabulis infamarunt, abjici protinus
+atque in ignem dari, ne persuaderent teneræ adhuc
+ætati puerorum, Jovem ipsum deorum principem,
+parricidam erga parentes, incestum erga sorores
+et filias, impurum etiam in pueros exstitisse, Vene-
+rem cum Marte adulteros, et omnia illa quæ jam
+superius dicta sunt? Aut quid tibi videtur, domine
+mi Petre?
+
+# block=3 source_x1=168 source_y1=976 source_x2=920 source_y2=1536
+XXXV. Hæc cum Niceta dixisset, Aquila respon-
+dit : Valde mihi videtur, quisquis ille est auctor et
+inventor horum, impius exstitisse, si hæc quæ
+grata et honesta videntur abscondit, et superstitio-
+nis suæ ritum in dedecorosis et turpibus observan-
+tiis collocavit, cum ea quæ secundum litteram
+scripta sunt, manifeste inhonesta sint et turpia, et
+tota religionis eorum observantia in ipsis constet,
+ut per hujusmodi scelera et impietates deos suos
+quos colunt, doceant imitari. Nam in istis allego-
+riis quæ eis utilitas erit? quæ quamvis honestæ
+finguntur, nullus tamen ex eis aut usus ad cultum
+pervenit aut ad mores emendatio
+
+# block=4 source_x1=956 source_y1=1198 source_x2=1707 source_y2=1974
+XXXIX. Tunc ille respondit : Certus esto, dulcis-
+sime Aquila, quia omnia per bonam Dei providen-
+tiam gesta sunt, ut non solum infirma et fragilis,
+verum et turpis esset causa quæ futura erat con-
+traria veritati. Si enim validior et verisimilior
+fuisset erroris assertio, haud facile quisquam qui
+in eo deceptus esset, ad iter veritatis rediret. Si
+enim nunc, cum tam multa probra et dedecora de
+diis gentium proferuntur, vix aliquis turpim dere-
+linquit errorem, quanto magis si esset ibi aliquid
+honestum et verisimile? Difficulter namque trans-
+fertur animus ab his, in quibus a prima ætate
+præventus est; et ob hoc, ut dixi, divina Providen-
+tia factum est ut erroris substantia et infirma esset
+et turpis. Sed et cætera omnia simili modo compe-
+tenter et commode dispensat divina Providentia,
+licet nobis ignorantibus rerum causas bonæ et op-
+timæ dispensationis divinæ non liqueat ratio.
+
+# block=5 source_x1=954 source_y1=1982 source_x2=1703 source_y2=2676
+XL. Cum hæc Petrus dixisset, ego Clemens
+Nicetam rogabam, ut aliqua de allegoriis gentilium
+quas diligenter attigerat, agnoscendi gratia expone-
+ret; utile enim est, ut quando cum gentilibus dispu-
+tamus, etiam ista nos minime lateant. Et Niceta :
+Si, inquit, permittit dominus meus Petrus, possum
+dicere. Tum Petrus : Hodie, 'inquit, permisi vobis
+dicere adversum gentiles, ut nostis. Et Niceta ait :
+Dic ergo, Clemens, de quibus audire velis. Cui ego
+aio : Quomodo tradunt de deorum cœna gentiles,
+quam in Pelei nuptiis habuerunt et Thetidis, quem
+dicunt esse Paridem pastorem, et quas ponunt Ju-
+nonem, Minervam et Venerem, quæ apud eum
+judicantur, quemve Mercurium, vel quod malum, et
+cætera quæ per ordinem consequuntur, enarra
+nobis.
+
+# block=6 source_x1=171 source_y1=147 source_x2=924 source_y2=964
+ergo modo per allegoriam Cronum quidem, qui est
+Saturnus, tempus esse, ut diximus, tradunt, Rheam
+materiam, Aiden, id est Orcum, inferni profundum,
+Neptunum aquam, Jovem ætherem, id est caloris
+elementum, Venerem venustatem rerum, Cupidi-
+nem concupiscentiam, quæ inest rebus omnibus, per
+quam posteritas reparatur, vel etiam rerum ratio
+quæ sapienter inspecta delectat. Hera, id est Juno,
+aer iste medius, qui de cœlo usque ad terram des-
+cendit, ponitur. Dianæ, quam ipsam Proserpinam
+dicunt, aerem inferne tradunt. Apollinem ipsum
+etiam solem dicunt, circumeuntem polum; Mercu-
+rium verbum, quo ratio de singulis quibusque
+reddatur; Martem intemperatum ignem, qui cuncta
+consumat. Sed ne singula enumerando immore-
+mur, ad hanc allegoriæ speciem de unoquoque
+eorum quos colunt, hi quibus secretior de talibus
+inest peritia, honestas sibi videntur et justas red-
+dere rationes.
+
+# block=7 source_x1=168 source_y1=2500 source_x2=916 source_y2=2720
+XXXVII. Sed quoniam vera hæc magis sunt,
+quæ publica turpitudo testatur, et ad excusationem
+a viris prudentibus sermonibus honestis quæsita
+sunt et concinnata velamina, idcirco non solum non
+prohibentur, sed et ipsis mysteriis Saturni filios de-
+
+# block=8 source_x1=961 source_y1=146 source_x2=1709 source_y2=574
+vorantis, et occultati pueri per Corybantum et
+cymbala et tympanorum sonitus, exprimuntur
+imagines. De abscisione vero Saturni, quæ major
+erit probatio veritatis, quam ut in honorem dei
+sui, simili infelicitatis sorte abscindantur etiam
+cultores? Cum ergo hæc manifeste cernantur, quis
+tam exigui sensus, imo tam stolidi invenietur, cui
+non palam sit, hæc magis vera esse de infelicibus
+diis, quæ infeliciores cultores etiam corporum suo-
+rum vulneribus et abscisione testantur?
+
+# block=9 source_x1=990 source_y1=2683 source_x2=1692 source_y2=2722
+XLI. Tum Niceta : Cœnæ deorum causa hoc
+
+# block=10 source_x1=588 source_y1=88 source_x2=1297 source_y2=123
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=11 source_x1=173 source_y1=92 source_x2=242 source_y2=131
+1439
+
+# block=12 source_x1=1641 source_y1=94 source_x2=1708 source_y2=131
+1440

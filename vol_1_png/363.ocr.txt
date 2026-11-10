@@ -1,0 +1,196 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,972,1230,1744,1955
+2,189,1623,951,1962
+3,195,168,945,506
+4,185,2511,940,2718
+5,188,2303,942,2506
+6,190,927,941,1614
+7,970,845,1744,1225
+9,982,166,1736,504
+11,190,2019,946,2298
+12,453,845,678,879
+13,816,601,1123,669
+14,394,699,1489,744
+15,965,2381,1719,2716
+18,786,112,1147,148
+19,195,109,249,154
+23,975,2016,1744,2388
+24,1636,102,1744,152
+25,188,888,940,926
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=31px
+# block=14 fontSize=19px
+# block=15 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=16px
+# block=23 fontSize=15px
+# block=24 fontSize=16px
+# block=25 fontSize=13px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=24
+126
+
+# block=19
+125
+
+# block=18
+PROCEMIA ' VARIORUM.
+
+# block=9
+Observandum autem est cum Cl. Remigio Ceillie-
+rio (40), martyris appellationem sæpe iis tributam
+fuisse, qui aliquid pro Christo passi fuerunt, licet
+cruciatibus interempti non fuissent; atque hæc
+fuisse ratio videtur, qua Rufinus et Zozimus san-
+ctum martyrem appellarunt, qui, cum Ecclesiam
+sæviente Domitiani persecutione moderatus fuisset,
+ab ea immunis omnino non fuerit.
+
+# block=3
+ctus Irenæus (37) vero Pontifices usque ad Eleu-
+therium recensens, eorum quemquam martyrium
+passum præter Telesphorum haud significat. Ru-
+finus (38) tantum sanctum Clementem martyrem ap-
+pellat, aitque de eo Zozimus (39) Pontifex, tantos
+eum in veritate noscenda progressus fecisse, ut
+fidem a sancto Petro acceptam et populo traditam
+martyrio consignaverit.
+
+# block=13
+CAPUT Ⅱ.
+
+# block=14
+DE SCRIPTIS S. CLEMENTIS PRIMI ROMANI PONTIFICIS.
+
+# block=12
+ARTICULUS Ⅰ.
+
+# block=7
+nam Ecclesiam scripsere, quasdam quæstiones
+proponentes. S. Clementis animum schisma istud
+affligebat plurimum, cupiebatque tanto malo ob-
+viam ire : verum cum Romani ipsi aliis malis ja-
+ctarentur, promptam illis opem ferre nequivit.
+Domitiano autem exstincto anno 95 rebusque Ro-
+manis majori in tranquillitate collocatis, sanctus
+Clemens tempore usus, Corinthiis tandem re-
+scripsit.
+
+# block=25
+DE PRIMA EJUS AD CORINTHIOS PERSCRIPTA EPISTOLA.
+
+# block=6
+Sanctus Clemens Romanæ Ecclesiæ nomine scri-
+psit. — Inter multa, quæ Clementi nostro tribui so-
+lent opuscula, una est Ecclesiæ Romanæ nomine
+ab eo ad Corinthios epistola, quæ pro genuino illius
+fetu certo laudari possit. Illam commendant Ire-
+næus (41), Dionysius sæculo secundo Corinthiorum
+episcopus in sua ad Soterem epistola (42), Euse-
+bius (43), Cyrillus Hierosolymitanus (44), Epipha-
+nius (45) aliique complures (46). Scriptam Epistolam
+illam nomine Romanæ Ecclesiæ docet divus Hiero-
+nymus (47). Ea siquidem ætate episcopi nihil in-
+consulta Ecclesia sua aggrediebantur. Præterea
+cum schisma, quod Corinthiorum Ecclesiam exagi-
+tabat, tollere consilium esset, universa Romana
+Ecclesia majus pondus, quam solus Episcopus apud
+eos habitura esse videbatur.
+
+# block=1
+De hac epistola judicium. — Celeberrima est,
+quod omnes norunt eruditi, quæ prior Corinthiis
+inscribitur, epistola : ἱκανωτάτη γραφή, potentissima,
+seu ut Valesius vertit, luculentissima scriptura, dicta
+a S. Irenæo (48) ; ἐπιστολὴ μεγάλη τε καὶ θαυμασία,
+magna et admirabilis, ab Eusebio (49), atque adeo
+tantum non canonica. Eam apud omnes auctorita-
+tem obtinuit, ut perinde ac reliquæ apostolorum
+epistolæ publice aliquibus in ecclesiis lecta fuerit :
+quod quidem præter Eusebium, Hieronymum,
+aliosque veteres scriptores, testatur antiquior Dio-
+nysius Corinthiorum episcopus (50). Hæc sane pri-
+scum Evangelii vigorem spirat : stylus quam pro-
+xime ad Novum Testamentum accedit : res verba-
+que ipsa desumpta in primis ex Epistolis Pauli-
+nis (51). Denique nihil fere in ea reperiri contin-
+git, quod primæva nascentis Ecclesiæ incunabula
+
+# block=2
+Quæ ejus scribendæ occasio ? — Epistola hæc, ut
+est a nobis admonitum, occasione schismatis, quod
+per ea tempora Corinthiorum Ecclesiam vexabat,
+conscripta fuit. Schisma vero illud ex invidia quo-
+rumdam in eos qui dignitates et munera obtine-
+bant, conflatum fuit; unde infidelibus Jesu Christi
+religionem blasphemandi ansa data est. At cum
+Corinthios ipsos schismatis sui puderet, ad Roma-
+
+# block=23
+l. Ⅳ, c. 23.
+(44) Catechesi 18, c. 8.
+(45) Hæresi 30, n. 15, pag. 139; et hæres. 27,
+n. 6, pag. 107, edit. Petavii.
+(46) Vide Origenem, tom. Ⅰ, edit. Paris., 1733,
+pag. 82; tom. Ⅲ, pag. 422; et tom. Ⅸ, part. Ⅱ,
+pag. 143, edit. Huetii Coloniæ, 1685. Clem. Ale-
+xand., l. Ⅰ Strom., c. 7, tom. Ⅰ, pag. 339, edit.
+Oxoniens. 1715; et l. Ⅳ, c. 1, tom. Ⅰ, pag. 609;
+Hieron. De viris illustr., c. 15; tom. Ⅱ, part. Ⅱ,
+pag. 8503, edit. noviss. Venetæ de anno 1767.
+
+# block=11
+(37) L. Ⅲ, c. 3.
+(38) De orig., tom. Ⅰ, pag. 778.
+(39) Tom. Ⅳ Concil. Mansi, col. 350.
+(40) Tom. Ⅰ des Auteurs ecclésiastiques, pag. 599.
+(41) Sub hoc ergo Clemente dissensione non modica
+inter eos, qui Corinthi essent, fratres facta, scripsit,
+quæ est Romæ, Ecclesia luculentissimam epistolam.
+Irenæus, l. Ⅲ, c. 3, n. 3.
+
+# block=5
+(42) Hodie sacrum diem Dominicum transegimus,
+in quo epistolam vestram legimus. quam quidem per-
+petuo deinceps legentes, perinde ac priorem illam
+nobis a Clemente scriptam Epistolam, optimis præ-
+ceptis ac documentis abundabimus. Apud Euseb., H.
+E. l. Ⅳ, c. 23.
+
+# block=15
+(47) Idem l. c. Vide etiam Irenæum lib. Ⅲ,
+cap. 3.
+(48) Lib. Ⅲ, cap. 3, n. 3.
+(49) H. E., lib. Ⅲ, cap. 16, pag. 95, edit. Tauri-
+nensis.
+(50) Apud Euseb., H. E., l. Ⅳ, c. 23.
+(51) Hæc ipsa similitudo, teste D. Hieronymo (in
+catal. c. 15), in causa fuit, cur quidam S. Clemen-
+tem Epistolæ ad Hebræos interpretem, atque etiam
+auctorem esse existimarint.
+
+# block=4
+(43) Hujus igitur Clementis exstat Epistola uno
+consensu recepta, eximia prorsus, atque mirabilis;
+quam nomine Ecclesiæ Romanæ ad Corinthiorum
+Ecclesiam scripsit. Hanc in plerisque ecclesiis et
+nostra, et superiori memoria palam recitari consue-
+visse comperimus. Euseb., H. E., l. Ⅲ, c. 16, 38 :

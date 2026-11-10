@@ -1,0 +1,180 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1001,1225,1744,2215
+2,240,145,977,1132
+3,225,1137,968,2169
+4,1012,150,1753,1219
+5,986,2566,1731,2701
+6,220,2174,960,2383
+7,213,2564,951,2711
+8,997,2218,1730,2385
+9,217,2412,1727,2481
+10,640,95,1343,131
+11,819,2503,1114,2537
+14,249,92,318,127
+16,1676,94,1760,134
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=14 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+1275
+
+# block=16
+1276
+
+# block=10
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=2
+omnia, intelligentiam hinc profers cum sermonis
+augmento; sive mentem, sive bonitatem, sive vitam,
+sive aliud quid memoraveris, hinc vocabula mu-
+tuaris. Cum ergo nihil novi de illa virtute quam
+dicis, non solum ad intelligendum, verum ne ad
+nominandum quidem habeas, quomodo introducis
+novum Deum, cujus nec appellationem quidem in-
+venis novam? Virtus enim non solum Creator mun-
+di dicitur, sed et ministri gloriæ ejus omnisque
+militia cœlestis. Non tibi ergo melius videtur esse,
+ut sequamur factorem nostrum Deum, tanquam pa-
+trem erudientem nos et imbuentem sicut ipse no-
+vit? Quod et si sit aliquis, ut tu dicis benignior om-
+nium Deus, certum est quia non irascitur nobis, si
+vero irascitur malus est. Noster autem Deus si
+irascitur et vindicet, non est malus sed justus, pro-
+prios enim filios corripit et emendat. Ille vero qui
+nihil nobiscum habet negotii, si vindicare velit in
+nos, quomodo bonus erit? supplicia sumens de no-
+bis, quod non derelicto patre nostro ipsum secuti
+sumus inanibus suspicionibus tracti, quomodo er-
+go iste talis bonus a te asseritur, qui nec justus
+intelligi potest.
+
+# block=4
+ditor exigit etiam legem impleri. Et Petrus : Ergo
+et adulteros et homicidas salvat, si cognoverint
+eum, bonos autem et sobrios vel misericordes, si
+nullum de eo indicium capientes ignoraverint eum,
+non salvat. Magnum et bonum prædicas, qui non
+tam malos salvat, quam qui bonis nullam miseri-
+cordiam præstet. Et Simon : Magnus sane labor
+est agnoscere eum homini in carne posito. Omni-
+bus enim tenebris tetrius, et omni luto gravius est
+corpus hoc, quo circumdatur anima. Et Petrus :
+Ergo bonus iste Deus quæ difficilia sunt, quærit.
+Qui autem vere Deus est, faciliora expetit. Dimit-
+tat itaque nos quasi bonus apud Patrem et Creato-
+rem nostrum, et quando discesserimus e corpore,
+et istas quas dicis tenebras reliquerimus, tunc eum
+facilius agnoscemus, et tunc magis anima condito-
+rem suum esse intelliget Deum, et apud ipsum per-
+manebit, nec ultra diversis cogitationibus fatiga-
+bitur, neque volet ad alium confugere virtutem, quæ
+nulli cognita est nisi Simoni soli; quæ tantæ boni-
+tatis est, ut nisi quis prius impius extiterit in pa-
+rentem suum, ad ipsam venire non possit. Nescio
+quomodo hæc virtus vel bona vel justa appellanda
+sit, cui placere non potest, nisi quis impie se ges-
+serit in eum a quo factus est.
+
+# block=3
+LVII. Tum Simon : Tantumne erras, Petre, ut
+nescias, quia animæ nostræ a bono Deo sunt illo
+omnium præstantiore, sed captivæ deductæ sunt in
+hunc mundum? Et Petrus : Ergo non est omnibus
+incognitus, sicut paulo ante dicebas; et tamen quo-
+modo indulsit bonus Deus captivitatem fieri anima-
+rum suarum, si erat super omnes potentior virtus?
+Et Simon : Ipse misit creatorem Deum, ut conde-
+ret mundum, sed ille, mundo condito, semetipsum
+pronuntiavit Deum. Et Petrus : Ergo non ignora-
+tur ab eo qui condidit mundum, ut superius dixe-
+ras, sed neque animæ ignorant eum, siquidem ab
+ipso abductæ sunt. Cui ergo jam erit incognitus, si
+et mundi Creator novit eum, ut ab ipso missus, se-
+cundum ea quæ tu dicis, et omnes animæ tanquam
+ab ipso huc violenter abstractæ? Tum deinde dicas
+velim, qui mittebat conditorem mundi, non sciebat
+eum qui mittebatur, fidem non servaturum? si ne-
+sciebat præscius non erat, si vero præsciit et pas-
+sus est, facti hujus ipse reus est, qui non vetuit;
+quod si non potuit, omnipotens non est. Si vero
+quasi bonum id sciens non prohibuit, invenitur ille
+esse melior qui præsumpsit facere id, quod ille qui
+mittebat ignoravit bonum.
+
+# block=1
+LIX. Et Simon : Non est impium, utilitatis gra-
+tia et lucri majoris confugere ad eum, qui opulen-
+tioris est gloriæ. Et Petrus : Si, ut tu ais, non est
+impium confugere ad alienum, multo magis pium
+est permanere apud proprium patrem, etiamsi pau-
+per sit. Aut si ⁶⁹ non putas esse impium, ut relicto
+patre nostro confugiamus ad alium quasi meliorem,
+neque indignari credis pro hoc creatorem nostrum,
+multo magis bonus Deus non indignabitur, quod
+cum essemus ab eo alieni, non confugimus ad eum,
+sed permansimus apud Creatorem nostrum; et pu-
+to quod ex hoc magis collaudabit nos, quia fidem
+servamus Creatori nostro Deo, considerans quia si
+sui ipsius fuissemus, nunquam relinquentes ipsum
+seduci illecebris potuissemus alienis. Nam si quis
+opulentioribus illectus pollicitationibus, relicto pro-
+prio parente confugiat ad alienum, potest fieri, ut
+iterum relicto eo, ad alium pergat qui majora pro-
+miserit, eo magis quod ipsius proprius non erat
+filius, quippe qui etiam eum, qui ei natura pater
+erat, relinquere potuit. Et Simon (78) : Quid si
+ab illo sunt animæ, et ignorant eum, et ille est vere
+pater ipsarum?
+
+# block=6
+LVIII. Et Simon : Volentes, inquit, ad se venire
+suscipit et ipsis benefacit. Et Petrus : Nec hoc no-
+vum est, hoc enim facit et hic quem mundi creato-
+rem fateris. Et Simon : Sed bonus Deus tantum si
+agnoscatur salutem præstat (77), mundi autem con-
+
+# block=8
+LX. Et Petrus : Satis, inquit, ostendis eum in-
+validum. Nam si potentior, ut ais, omnibus est,
+nunquam potentiori invalidior spolia ⁷⁰ detraxisse
+credendus est ⁷¹, aut si potuit vi ab eo animas de-
+
+# block=9
+⁶⁹ Aut si—relinquere potuit non leguntur in cod. Lips. ⁷⁰ Luc. xi, 22. ⁷¹ Detraxisset. Videris mihi, etc.
+Reliqua desunt in cod. Lips.
+
+# block=11
+COTELERII NOTÆ.
+
+# block=7
+(77) Bonus Deus tantum si agnoscatur, salutem
+præstat. Eadem docet Simon, apud Irenæum lib. 1,
+cap. 20.
+(78) Et Simon Additur in codice Carmelit scho-
+
+# block=5
+lium : Creator mundi corpora condidit, in quibus ani-
+mas quæ sunt Dei magni violenter inclusit : et ideo
+animæ non ad alienum, sed ad patrem suum dum
+redierint, ad istum redire non possunt.

@@ -1,0 +1,231 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,959,121,1718,893
+2,183,132,932,941
+3,972,2298,1704,2420
+4,974,1869,1709,1988
+5,974,1782,1708,1861
+6,190,951,1704,998
+7,971,1524,1711,1688
+8,1170,1152,1516,1195
+9,193,1353,934,1430
+10,182,1646,941,1946
+11,973,1225,1718,1341
+12,191,1230,946,1345
+13,974,2214,1704,2293
+14,983,1436,1647,1471
+16,973,1479,1671,1512
+17,970,2448,1704,2687
+18,594,71,1310,111
+19,971,1998,1707,2203
+20,191,1439,928,1604
+21,985,1696,1707,1772
+22,973,1350,1717,1428
+23,296,1158,821,1197
+24,188,1987,954,2683
+28,1653,69,1706,106
+32,183,80,251,122
+34,201,1044,1477,1106
+35,793,1000,1103,1042
+36,191,998,281,1034
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=16px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=28 fontSize=16px
+# block=32 fontSize=16px
+# block=34 fontSize=15px
+# block=35 fontSize=15px
+# block=36 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=28
+758
+
+# block=18
+CONSTITUTIONES APOSTOLICE. — LIB. III.
+
+# block=32
+757
+
+# block=1
+jaces ; quando autem e somno excitaberis? Paulum
+quidem dormis, paulum autem sedes, paruin autem
+dormitas, paulum autem amplecteris manibus pe-
+ctora : deinde advenit tibi tanquam malus viator
+paupertas, et egestas tanquam bonus cursor. Si
+vero impiger fueris, veniet ut fons messis tua, et
+egestas quasi malus vir aufugiet ⁵⁸. » Et iterum :
+« Qui operatur terram suam, replebitur panibus⁵⁹. »
+Et alio in loco ait : « Otiosus complexus est manus
+suas, et comedit carnes suas ⁶⁰. » Et præterea :
+« Piger qui abscondit manum suam, non poterit
+eam deferre ad os suum ⁶¹. » Et adhuc : « Propter
+segpitiem manuum, inclinabitur contignatio ⁶². »
+Igitur operamipj assidue : irreparabilis enim est
+pigri infamia. Si quis autem non operatur, apud
+vos,is non manducet⁶³. Otiosos enim odia prose-
+quitur Dominus Deus noster ; nec segnis esse debet
+quisquam eorum qui Deum colunt.
+
+# block=2
+ἀσθενὴς, τὴν σοφίαν τιμήσασα προήχθη (15). » Καὶ
+ἑξῆς • « Ἕως πότε, ὀκνηρὲ, κατάκεισαι; πότε δὲ ἐξ
+ὕπνου ἐγερθήσῃ; Ὀλίγον μὲν ὕπνοῖς, ὀλίγον δὲ κάθ-
+ησαι, μικρὸν δὲ νυστάξεις, ὀλίγον δὲ ἐναγκαλίζῃ
+χερσὶ στήθη· εἶτα παραγίνεταί σοι ὥσπερ . κακὸς
+ὁδοιπόρος ἡ πενία, καὶ ἡ ἔνδεια ὥσπερ ἀγαθὸς
+δρομεύς. Ἐὰν δὲ ἄοκνος ᾖς, ἥξει ὥσπερ πηγὴ ὁ ἀμη-
+τός σου, καὶ ἡ ἔνδεια, ὥσπερ κακὸς ἀνὴρ ἀπαυτο-
+μολήσει. » Καὶ πάλιν· « Ὁ ἐργαζόμενος τὴν ἑαυτοῦ
+γῆν, πλησθήσεται ἄρτων.!» Καὶ ἐν ἄλλοις φησίν· « Ὁ
+ἀργὸς περιέλαβε τὰς χεῖρας ἑαυτοῦ, καὶ ἔφαγε τὰς
+σάρκας αὐτοῦ. » Καὶ ἑξῆς· « Κρύψας ὀκνηρὸς τὴν
+χεῖρα αὐτοῦ, οὐ δυνήσεται ἀπενεγκεῖν εἰς τὸ στόμα
+αὐτοῦ. »Καὶ πάλιν· «Δι’ ἀργίαν χειρῶν ταπεινωθήσεται
+ἡ δόκωσις. » Ἐργάζεσθε οὖν ἐνδελεχῶς· ἀθεράπευτος
+γάρ ἐστιν. ἀργοῦ μῶμος. Εἰ δέ τις μὴ ἐργάζεται,
+οὗτος παρ’ ὑμῖν μὴ ἐσθιέτω. Ἀργοὺς γὰρ μισεῖ καὶ
+ὁ Κύριος ὁ Θεὸς ἡμῶν· ἀργὸς γὰρ εἶναι οὐκ ὀφείλει
+οὐδεὶς τῶν Θεῷ προσανεχόντων.
+
+# block=6
+⁵⁸ Ibid. 9 et seq. ⁵⁹ Prov. XII, 11. ⁶⁰ Eccle. IV, 5. ⁶¹ Prov. XIX, 24. ⁶² Eccle. X , 18. ⁶³ II Thess.
+
+# block=36
+III, 10.
+
+# block=35
+VARIORUM NOTÆ.
+
+# block=34
+(15) Τὴν σοφίαν τιμήσασα προήχθη. Omissa hæc in altero ms. Vindobonensi. CLER.
+
+# block=8
+CAPITA LIBRI TERTII.
+
+# block=23
+ΚΕΦΑΛΑΙΑ ΤΟΥ ΤΡΙΤΟΥ ΒΙΒΛΙΟΥ.
+
+# block=11
+II. Quod cavendum sit, ne quis viduas juniores con-
+stituat, propter suspicionem.
+
+# block=12
+β'. Ὅτι παραιτητέον καθιστᾷν νεωτέρας χήρας,
+διὰ τὸ ὕποπτον.
+
+# block=22
+III. Quales esse oporteat viduas, et quomodo ab epi-
+scopo debeant adjuvari.
+
+# block=9
+γ'. Ὁποίας εἶναι χρὴ τὰς χήρας, καὶ ὅπως ἐπι-
+κουρεῖσθαι παρὰ τοῦ ἐπισκόπου.
+
+# block=14
+V. Quod oporteat unicuique indigenti benefacer.
+
+# block=20
+δ'. Ὅτι πάνθ’ ὅντιναοῦν ἐνδεῆ εὐποιεῖν χρή.
+ε'. Ὅτι καὶ τοῦ ἤθους ἐπιμελητέον τὴν χήραν.
+ϛ'. Ὅτι οὐ χρὴ γυναῖκας διδάσκειν, ἀπρεπὲς γάρ·
+καὶ ποῖαι γυναῖκες εἵλοντο τῷ Κυρίῳ.
+
+# block=16
+V. Quod viduæ probitas morum curæ esse debeat.
+
+# block=7
+VI. Quod non oporteat mulieres docendi officio fungi ;
+indecorum enim esse : et quales mulieres Domi-
+num sequebantur.
+VII. Quales sint falsæ viduæ.
+
+# block=10
+ζ'. Ὁῖαί εἰσιν αἱ ψευδοχῆραι.
+η'. Ὅτι οὐ χρὴ παρὰ ἀναξίων λαμβάνειν τὴν χή-
+ραν, ἢ τὸν ἐπίσκοπον, ἢ ἄλλον πιστόν.
+θ'. Ὅτι οὐ χρὴ γυναῖκας βαπτίζειν· ἀσεβὲς γὰρ,
+καὶ τῆς Χριστοῦ διδασκαλίας ἀλλότριον.
+ι'. Ὅτι οὐ χρὴ λαϊκὸν ποιεῖν ἱερατικὸν ἔργον· βά-
+πτισμα, ἢ θυσίαν, ἢ χειροθεσίαν, ἢ εὐλογίαν.
+
+# block=21
+VIII. Quod non oporteat ut ab indignis accipiat vi-
+dua, vel episcopus, vel alius fidelis.
+
+# block=5
+IX. Quod non oporteat ut mulieres baptizent : id
+enim impium, et a doctrina Christi alienum.
+
+# block=4
+X. Quod non debeat laicus opus sacerdotale facere ;
+baptisma, aut sacrificium, aut manus impositio-
+nem, aut benedictionem.
+
+# block=24
+ια'. Ὅτι πλὴν ἐπισκόπου ἢ πρεσβυτέρου, οὐδενὶ
+τῶν λοιπῶν κληρικῶν ἐπιτέτραπται τὰ τῶν ἱε- [
+ρέων ἐνεργεῖν· τὸ δὲ χειροτονεῖν μόνῳ ἐπι-
+σκόπῳ προσήκει, ἑτέρῳ δὲ οὐδενί.
+ιβ'. Ἀποτροπὴ βασκανίας.
+ιγ'. Ὅπως δεῖ προσεύχεσθαι τὰς χήρας ὑπὲρ τῶν
+διδόντων τὰ πρὸς τὰς χρείας.
+ιδ'. Ὅτι οὐ χρὴ κομπάζειν, καὶ περιαγγέλλειν τὸ
+ἑαυτῆς ὄνομα, τὴν καρποφοροῦσαν, κατὰ τὴν
+τοῦ Κυρίου διάταξιν.
+ιε'. Ὅτι ἀπρεπὲς τὸ λοιδορεῖν τὸν πλησίον· ἀλ-
+λότριον γὰρ Χριστιανῶν τὸ καταρᾶσθαι.
+ιστ'. Περὶ μυήσεως θείας τοῦ ἁγίου βαπτίσματος.
+ιζ'. Ποίων αἰτίαν ἔχει τὸ εἰς τὸν Χριστὸν βάπτι-
+σμα· καὶ διατὶ τῶν ἐν αὐτῷ ἕκαστον λέγεται,
+καὶ πράττεται.
+
+# block=19
+XI. Quod præterquam episcopo aut presbytero, nulli
+cæterorum clericorum liceat quæ sunt sacerdotum
+exercere : et quod ordinare, soli episcopo conve-
+niat, nulli vero alii.
+XII. Dehortatio ab invidia.
+
+# block=13
+XIII. Quomodo oporteat viduas orare pro iis qui ne-
+cessaria tribuunt.
+
+# block=3
+XIV. Quod secundum Domini constitutionem, ncn
+debeat jactare se, nec nomen suum prædicare, quæ
+munus tribuit.
+
+# block=17
+XV. Quod non deceat conviciari proximo : alienum
+enim esse a Christianis, maledicere.
+XVI. De divina sancti baptismatis initiatione.
+XVII. Quam causam habeat baptismus in Christum :
+et quare singula in eo et dicantur, et fiant.

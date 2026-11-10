@@ -1,0 +1,188 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,214,443,973,1173
+2,215,1185,972,1918
+3,216,136,971,433
+4,1010,1056,1768,1917
+5,1005,228,1764,1049
+6,217,1957,1764,2027
+7,1010,2491,1764,2730
+8,1006,2157,1764,2492
+9,214,2156,973,2725
+11,613,87,1333,120
+12,218,81,285,117
+13,1004,144,1756,219
+14,826,2077,1140,2109
+15,1687,92,1756,128
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+1231
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=15
+1232
+
+# block=3
+omnes pene simul impius error involveret. Nos
+ergo primos elegit duodecim sibi credentes, quos
+apostolos nominavit ⁹², postmodum alios septua-
+ginta duos (40) probatissimos discipulos ⁹³, ut vel
+hoc modo recognita imagine Moysis crederet mul-
+titudo ⁹⁴, quia hic est, quem prædixit Moyses ven-
+turum prophetam ⁹⁵.
+
+# block=13
+locum, quem non potuere resurgentem tenere,
+magnum dicebant; alii finxerunt furatum ⁹⁸.
+
+# block=5
+XLIII. Verumtamen veritas ubique vincebat. Ad
+indicium enim, quod hæc divina virtute gererentur,
+nos qui fueramus paucissimi, processu dierum,
+astipulante Deo, multo plures quam illi efficieba-
+mur, ita ut aliquando pertimescerent sacerdotes,
+ne forte per Dei providentiam ad confusionem ipso-
+rum, in fidem nostram universus populus con-
+veniret; frequenter mittentes ad nos rogabant, ut
+eis de Jesu dissereremus, si ipse esset propheta
+quem Moyses prædixit, qui est Christus æternus ⁹⁷.
+De hoc enim solo nobis qui credidimus in Jesum,
+adversum non credentes Judæos videtur esse dif-
+ferentia. Verum cum frequenter super hoc roga-
+rent, nos autem opportunum tempus require-
+mus, septimana jam una ex passione Domini com-
+plebatur annorum, ecclesia Domini in Hierusalem
+constituta copiosissime multiplicata crescebat per
+Jacobum, qui a Domino ordinatus est in ea epi-
+scopus, rectissimis dispensationibus gubernata.
+
+# block=1
+XLI. Sed fortassis dicat aliquis, quia imitari nu-
+merum cuicunque possibile est ; et quid de signis
+et virtutibus dicet, quæ iste faciebat? Etenim
+Moyses virtutes et sanitates fecerat in Ægypto, is
+quoque, quem ipse prædixit sicut se ipsum surre-
+cturum prophetam, cum omnem languorem et om-
+nem infirmitatem curaret in plebe, virtutes faceret
+innumeras, vitam evangelizaret æternam, ab im-
+piis actus est in crucem; quod tamen factum vir-
+tute ejus conversum est in bonum. Denique cum
+pateretur, omnis ei compassus est mundus; nam
+et sol obscuratus est, montesque disrupti, et se-
+pulcra patefacta sunt, velum templi scissum est ⁸⁹,
+velut lamentans excidium loco imminens. Et tamen
+cum omnis mundus commotus sit, ipsi etiamnunc
+ad inquisitionem tantarum rerum nullatenus com-
+moventur.
+
+# block=4
+XLIV. Cum autem nos duodecim apostoli ad
+diem Paschæ cum ingenti multitudine convenis-
+semus, ingressi ecclesiam fratrum unusquisque
+nostrum, Jacobo interrogante quæ a nobis per loca
+singula gesta sint, audiente populo breviter expo-
+nimus. In quibus Caiphas pontifex, missis ad nos
+sacerdotibus, rogat venire ad se, ut aut ratione
+doceamus eum, quia Jesus æternus est Christus,
+aut ipse nos doceat, quia non est, quo in utram-
+libet fidem universus populus conveniret; et hoc
+facere nos frequenter exorat. Nos vero sæpe distu-
+limus, tempus semper opportunius requirentes. Et
+ego Clemens respondi ad hoc: Puto quod et hoc
+ipsum quod quæritur, utrum ipse sit Christus,
+multum prosit ad fidei rationem (41), aliquoi nun-
+quam pontifex pro hoc tam frequenter rogaret, ut
+de Christo vel disceret vel doceret. Et Petrus: Re-
+cte respondisti, o Clemens. Sicut enim sine oculis
+cernere nemo potest, nec sine auribus capere au-
+ditum, vel absque naribus odoratum, neque sine
+
+# block=2
+XLII. Verum quoniam necessarium erat ut in
+locum eorum qui increduli permanebant, vocaren-
+tur gentes, ut repleretur ille numerus qui demon-
+stratus fuerat Abrahæ ⁹⁰, mittitur in universum
+mundum salutaris regni Dei prædicatio. Perturban-
+tur ob hoc mundani spiritus, qui libertatem quæ-
+rentibus semper obsistunt, et ad destruendam Dei
+ædificationem errorum machinas quærunt, quibus
+hi, qui ad salutis et libertatis gloriam tendunt,
+obsistentes et agones adversum eos non minimos
+desudantes, fortiores effecti, ad salutis coronam
+veniant non sine palma victoriæ. Interim cum pas-
+sus esset, et ab hora sexta usque ad nonam mun-
+dum tenebræ pressissent ⁹¹, sole reddito ac rebus in
+ordinem restitutis, etiam homines nequam ad se
+atque ad mores suos metu cessante regressi sunt.
+Nam quidam eorum cum omni custodia servantes
+
+# block=6
+⁸⁹ Matth. x. ⁹⁰ Luc. x. ⁹¹ Num. XI, 16. ⁹² Deut. XVIII, 15. ⁹³ Matth. XXVII, 45, 51, 52. ⁹⁴ Gen.
+xv; Act. XIII. ⁹⁵ Matth. XXVII, 45. ⁹⁶ Matth. XXVIII, 13. ⁹⁷ Joan. XII, 34.
+
+# block=14
+COTELERII NOTÆ.
+
+# block=9
+(40) Septuag. duos. Varia lectio Luc. x, 1, 17, apud
+Græcos et Latinos, ἑβδομήκοντα et ἑβδομήκοντα δύο,
+LXX et LXXII. Verum quoniam, inquit Origenes hom.
+27, in Numeros, non solum illos duodecim elegit Domi-
+nus et Salvator noster, sed et alios septuaginta duos;
+idcirco non solum duodecim fontes, sed et septuaginta
+duæ arbores scribuntur esse palmarum. Et homil. 7
+in Exodum: Ibi etiam arbores reperientur LXX pal-
+marum. Non enim soli XII apostoli fidem Christi
+prædicaverunt, sed et alii LXX missi ad prædicandum
+verbum Dei referuntur, per quos palmas victoriæ Christi
+mundus agnosceret. Sic apud S. Augustinum, tom.
+III. Auctor Operis de mirabilibus sacræ Scripturæ,
+lib. I, cap. 9, confert cum LXXII discipulis linguas
+LXXII ortas a LXXII viris ad ædificationem turris
+Babylonicæ congregatis, et LXXII seniores per Moy-
+sem electos: cum a Tertulliano, IV adversus Mar-
+
+# block=8
+cionem, 24; Eusebio, Demonstr. evangel., lib. III, cap.
+2; Eusebio ac Theophane in Catena Græcorum Pa-
+trum ad Lucam; Gregorio Nysseno, De Vita Mosis,
+p. 213; Hieronymo, epist. 127, num. 6, aliisque re-
+centioribus, in figuram LXX discipulorum ponan-
+tur LXX seniores Israelitici, LXX palmæ ad Elim,
+et LXX nationes a LXX posteris Noe ducentes origi-
+nem. Porro numerus LXXII per numerum LXX ex-
+primi potest, ut dictum fuit ad Hermæ 1, 3, non au-
+tem LXX per LXXII.
+
+# block=7
+(41) Fidei rationem. Codicum Sorbonici, Thuani
+et Candelariani, est πιστοποίησιν, a verbo πιστο-
+ποιεῖν et πιστοποιεῖσθαι, quo utuntur Ignatius inter-
+polator Epist. ad Ephesios, n. 18, Auctor Constitu-
+tionum apostol., lib. v, cap. 6, et Cyrillus Hieroso-
+lymitanus, tum in fine præfationis ad Catecheses,
+tum in principio catechesis 14.

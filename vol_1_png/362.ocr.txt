@@ -1,0 +1,196 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,272,1484,1034,1949
+2,264,139,1018,998
+3,267,1137,1020,1478
+4,1062,1399,1815,1954
+5,1055,574,1817,1392
+6,1053,140,1796,566
+7,280,2228,1035,2429
+8,267,1008,1017,1130
+9,1063,2293,1816,2595
+10,282,2426,1035,2562
+11,285,2560,1037,2698
+12,1062,2129,1820,2230
+13,1066,2592,1808,2664
+14,277,2162,1031,2231
+15,1061,2228,1811,2295
+16,274,2029,1028,2162
+17,1057,2027,1844,2130
+18,789,88,1261,124
+19,265,88,320,125
+20,1706,70,1800,126
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Præter pugnantia adeo testimonia, non desunt
+suæ utrique ex his opinionibus difficultates ; poste-
+rior inde tamen gravissime premitur, quod fasti
+Ecclesiæ, vetus Romanorum traditio, et plerique
+catalogi Rom. pontif. sanctum Clementem martyrio
+coronatum asserant imperante Trajano, atque adeo
+sub initio sæculi II; quamvis neque Linum plus
+quam XII, neque Clementem ultra decem annos
+sedisse quisquam testetur, a Petri autem martyrio
+usque ad Trajani imperium XXX ut minimum, annos
+fluxisse constet. Difficultate hac ut se expedirent,
+
+# block=2
+Linum, quod divus Hieronymus in caput LII Isaiæ
+innuit, pro certo jam habetur (27). Quamvis enim
+a sancto Petro in episcopum sacratus, et successor
+designatus fuerit, honorem nihilominus et tunc mo-
+deste recusasse, et post S. Jacobi obitum S. Lino
+ultro cessisse, traditur a Baronio, cujus sententiam
+comprobant Natalis Alexander (28), Bollandus, Cote-
+lerius et Tillemontius. Quod, ut Natalis Alexander
+ait loco citato, « pessimum posteris exemplum præ-
+beri animadverteret, si ex vi ordinationis et desi-
+gnationis, de se factæ a S. Petro (quantumvis justa
+esset) exerceret pontificium; quia futurum prævi-
+debat, ut si pontifici liceret sibi designare succes-
+sorem, plures in cathedram Petri subvecti, sed
+Petri vestigia non secuti, relationem carnis et san-
+guinis , non Spiritus sancti afflatum attenderent....
+sicque summum Ecclesiæ sacerdotium ab ordine
+Melchisedech in ordinem Aaronis decideret, nec
+dignatio cœlestis gratiæ, sed carnalis successio
+generaret Sacerdotem. »
+
+# block=3
+Pariter Eusebius (30) et Epiphanius (31) sentiunt :
+ex adverso sanctus Augustinus (32) Clementem
+Lino immediate successisse testatur : quem ordi-
+nem in numerandis Petri successoribus tenent etiam
+sanctus Optatus Milevitanus (33),Chronicon quod
+Damaso vulgo tribuitur, et catalogus vetus Rom.
+pontificum e ms. codice reginæ Sueciæ ab hagio-
+graphis Belgis in Maii Propylæo excusus.
+
+# block=4
+Martyrium sancti Clementis, ejusque obitus. —
+Etenim in Chersonesum Tauricam relegatus (Tar-
+tariam minorem vulgo appellant) cum doctrina et
+miraculis omnes incolas convertisset ad Christum,
+jubente Trajano in mare demersus fuit anno J. Ch.
+100, Trajani III. Hæc ex actis, quæ in manibus
+versantur hodie, eruta sunt; merito tamen a viris
+gravissimis, Pearsonio præcipue, in dubium revo-
+cantur, quemadmodum inferius singulari articulo
+ostendemus. Sunt, qui minime violenta morte de-
+cessisse divum Clementem autumant. Sic Euse-
+bius (36) et sanctus Hieronymus ejus mortem nulla
+de martyrio mentione instituta commemorant. San-
+
+# block=5
+Res ab eo in pontificatu gestæ. — Quo tempore
+Ecclesiæ præerat, duo potissimum egisse memora-
+tur. Laborante diro schismate Corinthiorum Ec-
+clesia, scripsit egregiam hodie adhuc superstitem
+epistolam, qua laicis in presbyteros etiam sanctis-
+simos insurgentibus suasit pacem, mutuamque
+concordiam. Negotium istud ex sententia perfecit
+sanctus Pontifex. Alterum, quod septem urbis re-
+giones in notarios totidem partitus sit, qui in gesta
+SS. martyrum inquirerent, illaque ad posteros
+scriptis commendarent (35) : hinc etiam percipi-
+mus, quantam diligentiam ab ipsis incunabulis
+Rom. Ecclesia adhibuerit in colligendis martyrum
+fastis. Ingente Christianæ rei detrimento acta hæc
+sub Diocletiano, e fundo religionem Christianam
+convellere laborante, flammis perierunt, ita ut
+paucula hodie genuina venerandæ antiquitatis mo-
+numenta reliqua sint. Promeruit et ipse Clemens
+eisdem fastis adscribi.
+
+# block=6
+aliqui ferunt (34) eum ad schisma evitandum, Pon-
+tificia dignitate se abdicasse, et longe post obiisse ;
+verum id omni penitus dubitatione non vacat. Quid
+autem in re adeo obscura tricisque chronologicis
+implexa vero propius accedat, lectoris arbitrium
+esto : mihi animus inclinat, ut S. Irenæo ceu testi
+omnium antiquissimo, nec longe a Romanis posito,
+quin in Urbe ipsa versato, subscribam, et Clemen-
+tem, non ante, quam post Linum et Cletum, vel ut
+Irenæus habet, Anacletum sedisse censeam.
+
+# block=7
+(29) Fundantes igitur et instruentes beati apostoli
+Ecclesiam, Lino episcopatum administrandæ Eccle-
+siæ tradiderunt. Succedit autem ei Anacletus; post
+eum tertio ab apostolis episcopatum sortitur Cle-
+mens. S. Irenæus l. III Adv. hæres., cap. 3, pag.
+mihi 176, edit. noviss. Venetæ de anno 1734.
+
+# block=8
+Sanctus Irenæus (29) enumerans Romanos ponti-
+fices qui ad sua tempora floruerunt, tertio post
+sanctum Petrum loco Clementem ponit.
+
+# block=9
+(35) Guilelmus Burius in sua Rom. pontif. no-
+titia adjicit, illum insuper vestes in missa adhi-
+bendas sacerdotibus præscripsisse, et ut mappæ
+lineæ, quas corporalia vocamus, in peculiari vase
+lavarentur, statuisse; sed id e commentitia Cle-
+mentis ad Jacobum Epistola Burius deprompsit.
+Consecravit hic sanctus Pontifex, geminis mense
+Decembri ordinationibus, diaconos duos, presby-
+teros decem et episcopos quindecim.
+
+# block=10
+(30) Hist. eccl., l. III, c. 15, ait : Anacletus ex-
+actis in episcopatu annis XII successorem reliquit Cle-
+mentem. Vide etiam ejusdem libri c. 4 et 21, edi-
+tionem Valesii Taurinensem pag. 82, 95 et 98.
+
+# block=11
+(31) Romæ primi omnium Petrus et Paulus apo-
+stoli pariter atque episcopi fuerunt, inde Linus, tum
+Cletus, post hunc Clemens. Epiphan. hæres. 27, c. 6,
+pag. 107, edit. Lipsiensis Petavii, vulgo Coloniensis.
+
+# block=12
+(33) Cathedra una est, sedit prior Petrus, cui suc-
+cessit Linus, Lino Clemens, Clementi Anacletus. D.
+Optatus, lib. II.
+
+# block=13
+(36) Eusebius, H. E., l. III, c. 34 ; Hieron. in Ca-
+talog. c. 15.
+
+# block=14
+(28) In Hist. eccl. sæculi I, dissert. 13, pag. mihi
+344.
+
+# block=15
+(34) D. Epiphanius hæres. 27, c. 6. Henschenius et
+Papebrochius in Maii Propylæo.
+
+# block=16
+(27) Et Clemens vir apostolicus, qui post Petrum
+Rom. Ecclesiam rexit, scribit ad Corinthios, etc.,
+opp. D. Hieron. noviss. edit. Venet., tom. IV, p. 1,
+col. 612.
+
+# block=17
+(32) Petro successit Linus, Lino Clemens, Clementi
+Anacletus, Anacleto Evaristus. S. Aug., ep. 53 ad
+Generosum.
+
+# block=18
+AD S. CLEMENTEM I PAPAM
+
+# block=19
+123
+
+# block=20
+124

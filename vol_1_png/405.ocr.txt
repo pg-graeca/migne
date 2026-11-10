@@ -1,0 +1,208 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,954,192,1715,709
+2,164,195,931,708
+3,949,1206,1708,2006
+4,950,2010,1708,2248
+5,946,825,1713,1196
+6,161,995,920,1328
+7,949,2252,1706,2424
+8,954,2419,1705,2722
+9,162,826,928,996
+10,165,1327,918,1460
+11,774,784,1090,817
+12,161,1455,927,2726
+13,204,726,1184,764
+14,683,96,1164,135
+16,1240,148,1413,186
+17,1648,98,1703,127
+18,410,150,664,190
+19,160,92,226,136
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Omnes autem humili animo eratis, nullatenus su-
+perbientes, magis subjecti ⁴⁴ quam subjicientes,
+dantes libentius quam accipientes ⁴⁵. Dei viatico
+contenti; verbaque ejus diligenter attendentes, dila-
+tati eratis in visceribus; ejusque passiones (5) vobis
+præ oculis erant. Sic alta et abundanti pace fruen-
+tes, inexplebile benefaciendi desiderium omnes te-
+nebat, plenaque Spiritus sancti super omnes effu-
+sio erat : sancta quoque voluntate referti, bono at-
+que alacri animo cum pia fiducia manus vestras
+extendebatis ad omnipotentem Deum, ei supplican-
+tes ut propitius esset ⁴⁶, si quid inviti peccassetis.
+
+# block=2
+Πάντες τε ἐταπεινοφρονεῖτε (98), μηδὲν ἀλαζονευό-
+μενοι, ὑποτασσόμενοι μᾶλλον ἢ ὑποτάσσοντες, ἥδιον
+(99) διδόντες (100) ἢ λαμβάνοντες· τοῖς ἐφοδίοις τοῦ
+Θεοῦ ἀρκούμενοι (1), καὶ προσέχοντες τοὺς λόγους αὐ-
+τοῦ ἐπιμελῶς (2), ἐστερνισμένοι (3) ἦτε τοῖς σπλάγ-
+χνοις, καὶ τὰ παθήματα αὐτοῦ (4) ἦν πρὸ ὀφθαλμῶν
+ὑμῶν. Οὕτως εἰρήνη βαθεῖα καὶ λιπαρὰ ἐδέδοτο πᾶ-
+σιν, καὶ ἀκόρεστος πόθος εἰς ἀγαθοποιΐαν, καὶ πλήρης
+Πνεύματος ἁγίου ἔκχυσις ἐπὶ πάντας ἐγίνετο· μεστοί
+τε ὁσίας βουλῆς ἐν ἀγαθῇ προθυμίᾳ μετ’ εὐσεβοῦς πε-
+ποιθήσεως ἐξετείνατε τὰς χεῖρας ὑμῶν πρὸς τὸν παν-
+τοκράτορα Θεὸν, ἱκετεύοντες αὐτὸν ἵλεως γενέ-
+
+# block=3
+(2) Προσέχοντες τοὺς λόγους αὐτοῦ ἐπιμελῶς.
+F. τοῖς λόγοις. Sequitur locus, cujus sensum ac ele-
+gantiam minime assecutus fuit eruditus interpres.
+ἐστερνισμένοι ἦτε τοῖς σπλάγχνοις. Clementi ἐστερ-
+νισμένοι sunt, qui Latinis pectorosi, homines lati
+capacisque pectoris. Respexit autem dubio procul
+ad verba Apostoli II ad Corinthios vi, 11 : Ἡ καρδία
+ἡμῶν πεπλάτυνται. Οὐ στενοχωρεῖσθε ἐν ἡμῖν, στε-
+νοχωρεῖσθε δὲ ἐν τοῖς σπλάγχνοις ὑμῶν· τὴν δὲ αὐτὴν
+ἀντιμισθίαν(ὡς τέκνοις λέγω),πλατύνθητε καὶ ὑμεῖς.
+Cor nostrum dilatatum est. Non angustiamini in no-
+bis : angustiamini autem in visceribus vestris. Eam-
+dem autem habentes remunerationem (tanquam filiis
+dico),dilatemini et vos. Quocirca suspicari quis pos-
+sit, particulam ἐν e Clementino textu excidisse. COT.
+— Προσέχοντες τοὺς λόγους. Totus hic locus cor-
+ruptus, et sic forte restituendus, προσέχοντες τοῖς
+λόγοις (licet προσέχειν cum quarto casu hoc sensu
+interdum junctum reperiatur, ut Isaiæ cap. primo
+bis : Προσέχετε νόμον Θεοῦ, et κρίσιν χηρῶν οὐ προσ-
+έχοντες) αὐτοῦ ἐπιμελῶς, οἳ ἐνεστερνισμένοι ἦσαν
+τοῖς σπλάγχνοις, καὶ τὰ μαθήματα αὐτῶν (id est do-
+cumenta, vel magisteria, ut Cypriani verbo utar) ἦν
+πρὸ ὀφθαλμῶν ὑμῶν. JUN.
+
+# block=4
+(3) Ἐστερνισμένοι... τοῖς. Al. ἐνεστερνισμένοι.
+Cot. ἐστερνισμένοι... ἐν τοῖς. Vid. II Cor. vi, 12.
+GALL. — Ἐστερνισμένοι. Ad hæc Clementis verba
+alludere videtur Constitutionum apostolicarum con-
+sarcinator in Proœmio Operis, cum ait : Ἐνεστερ-
+νισμένοι τὸν φόβον αὐτοῦ, ut monuit rev. Pearson,
+pro Ignatii epistolis, p. 63. COLOM.
+
+# block=5
+τὸν μέλλοντα. Sic Cyrillus Hieros. catech. 5, vult
+catechumenos suos fidem in cordibus insculptam
+habere, καὶ ἐπ’ αὐτῆς λέξεως μνημονεῦσαι, id est,
+verba ipsa symboli mente et memoria tenere, καὶ
+ἐφόδιον ἔχειν ἐν παντὶ τῷ χρόνῳ τῆς ζωῆς. Vel po-
+tius τὰ βιωτικὰ ad victum et vestitum necessaria
+τῶν ἐφοδίων nomine intelligenda sunt, ut Paulus
+I ad Timotheum vi, 8 : Ἔχοντες δὲ διατροφὰς καὶ
+σκεπάσματα, τούτοις ἀρκεσθησόμεθα, et ad Hebræos
+xiii, 5 : Ἀφιλάργυρος ὁ τρόπος, ἀρκούμενοι τοῖς παρ-
+οῦσιν. ID.
+
+# block=6
+(98) Πάντες ἐταπεινοφρονεῖτε. Ad locum I Petr.
+v, 5, respexisse hic Clementem nostrum arbitror,
+πάντες δὲ ἀλλήλοις ὑποτασσόμενοι τὴν ταπεινοφροσύ-
+νην ἐγκομβώσασθε. Unde infra ἐνδυσώμεθα τὴν ὁμό-
+νοιαν ταπεινοφρονοῦντες, et passim in hac epistola
+Corinthios ut humilitate se ornent, et humilitatem
+cum concordia induant, hortatur : quæ cæterarum
+virtutum merito a Basilio θησαυροφυλάκιον vocatur,
+et a Chrysostomo, μήτηρ, καὶ ῥίζα, καὶ τροφὸς, καὶ
+ὑπόθεσις, καὶ σύνδεσμος τῶν ἀγαθῶν. JUN.
+
+# block=7
+(4) Καὶ τὰ παθήματα αὐτοῦ (supple ex præce-
+dentibus Θεοῦ ) ἦν πρὸ ὀφθαλμῶν ὑμῶν. Præteriisse
+videntur ista conspectum oculatissimi critici Pho-
+tii : cujus judicium e Bibliothecæ codice 126, peti-
+tum, habes hic in testimoniis veterum. COT.
+
+# block=8
+(5) Cujus scilicet viatico contentos eos proxime
+dixit. Ita, ut observavit Cotelerius, passiones Chri-
+sti Clemens passiones Dei nuncupare non dubitat :
+quod Photium fugit ; alioquin cod. 126 minime no-
+tasset id forte nonnullos in hac epistola reprehen-
+suros esse, quod Clemens Christum appellans ne-
+quaquam sublimiores et convenientes Deo voces
+adhibuerit. Tantum observat nullas ei excidisse,
+quæ divinæ illius naturæ adversentur. Ex hoc au-
+
+# block=9
+rare, nisi fortis illius matrisfamilias adinstar, quam
+Salomon Prov. ult. describit, manum operi admo-
+veat. Recte Junius cum temperantia administrare,
+rectius fortasse, decore, aut cum matronali gravi-
+tate administrare diceretur. FELL.
+
+# block=10
+(99) Ἥδιον. Pro μᾶλλον quod habet Jun. cum
+e litt. Wott. ἥδιον ex ms. restituit. Sic legit et Gra-
+bius. Sic quoque Millius in Prolegom. ad N. T., n.
+140. Lectio sane propior ad Act. xx, 35. GALL.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=12
+(100) Ἥδιον διδόντες. Alludit ad locum Act.
+xx, 35 : Μακάριόν ἐστι διδόναι μᾶλλον ἢ λαμβάνειν.
+De quo loco Josephus, scriptor Christianus (quem ex
+codice msto, Cantabrigiensi descriptum habemus)
+in Ὑπομνηστικῷ suo, quæstione 121, sic habet: Τίνες
+εἰσὶν αἱ ὑπὸ τῶν ἀποστόλων μαρτυρίαι παραγενόμε-
+ναι, ὧν τὰς γραφὰς οὐκ ἔχομεν ; Ματθαῖός φησι ἐπὶ
+τῇ οἰκήσει τοῦ Ἰωσὴφ ἀπὸ τῆς ἐξ Αἰγύπτου ἀνόδου,
+εἰς τὴν Ναζαρὲθ μετὰ τοῦ Κυρίου· Ἐλθὼν δὲ ᾤκησε
+τὴν Ναζαρὲθ, ἵνα πληρωθῇ τὸ γεγραμμένον· Ὅτι
+Ναζωραῖος κληθήσεται. Παῦλος ἐν τῇ πρὸς Ἐφε-
+σίους φησί· Διὸ λέγει· Ἔγειραι ὁ καθεύδων, καὶ
+ἐπιφαύσει σοι ὁ Χριστός· καὶ πάλιν γέγραπται·
+Ἐγένετο ὁ πρῶτος ἄνθρωπος εἰς ψυχὴν ζῶσαν, ὁ
+δεύτερος εἰς πνεῦμα ζωοποιοῦν. Καὶ τοῖς ἐν Μιλήτῳ
+πρεσβυτέροις διαλεγόμενος, φησί· Μνημονεύετε, ὅτι
+μακάριόν ἐστι διδόναι μᾶλλον ἢ λαμβάνειν. His
+adde, si placet, locum Chrysostomi, quem nos ex
+Catena Græca in Acta et Epistolas canonicas erui-
+mus, quæ in Bibliotheca novi collegii hujus Acade-
+miæ servatur, et longe alia est ab ea, quæ sub Œcu-
+menii nomine, in lucem prodiit : Καὶ ποῦ εἶπεν ;
+Ἴσως ἀγράφως παρέδωκαν οἱ ἀπόστολοι, ἢ ἐξ ὧν ἄν
+τις συλλογίσαιτο δῆλον. Καὶ γὰρ ἔδειξε τὴν παῤῥη-
+σίαν τὴν πρὸς τοὺς κινδύνους, τὴν συμπάθειαν τὴν
+πρὸς τοὺς ἀρχομένους, τὴν διδασκαλίαν τὴν μετὰ
+παῤῥησίας, τὴν ταπεινοφροσύνην, τὴν ἀκτημοσύνην.
+Τοῦτο δὲ καὶ ἀκτημοσύνης μεῖζον· εἰ γὰρ ἐκεῖ, Πώ-
+λησόν σου, φησὶ, ὑπάρχοντα, εἰ θέλεις τέλειος εἶναι·
+ὅταν πρὸς τὸ μηδὲν λαμβάνειν, καὶ ἑτέρους τρέφῃ, τί
+τούτου ἴσον ; Εἷς βαθμὸς, ῥῖψαι τὰ αὐτοῦ· δεύτερος,
+ἑαυτῷ ἐπαρκεῖν· τρίτος, καὶ ἑτέροις· τέταρτος, τὸ καὶ
+κηρύττοντα ἐξουσίαν ἔχοντα λαμβάνειν, μὴ λαμβάνειν·
+ὥστε πολὺ τῶν ἀκτημόνων οὗτος βελτίων ἦν. JUN.
+(1) Ἐφοδίοις τοῦ Θεοῦ ἀρκούμενοι. Forte doc-
+trinam salutis ex sacris Scripturis haustam intelli-
+git, ut Basilius ad Meletium epist. 56 : Ὠφέλιμα δι-
+δάγματα, ἢ ἐφόδια πρός τε τὸν ἐνεστῶτα αἰῶνα, καὶ
+
+# block=13
+⁴⁴ I Pet. v, 5. ⁴⁵ Act. xx, 35. ⁴⁶ Heb. viii, 12; II Machab. vii, 37.
+
+# block=14
+EPISTOLA I AD CORINTHIOS.
+
+# block=16
+CAPUT II.
+
+# block=17
+210
+
+# block=18
+ΚΕΦΑΛΑΙΟΝ Β΄.
+
+# block=19
+209

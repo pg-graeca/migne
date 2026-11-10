@@ -1,0 +1,332 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,220,340,607,2678
+2,855,252,1155,287
+3,251,126,990,207
+4,637,71,1356,109
+6,241,66,319,128
+7,1711,68,1781,110
+8,1019,128,1783,214
+9,619,335,989,2681
+10,1015,337,1383,2515
+11,1387,335,1787,2511
+12,1015,2521,1793,2587
+13,1013,2595,1795,2689
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+οὐ συνάναρχον. Πρὸ γὰρ
+τῶν κτισμάτων, ὡς σὺ
+φὴς, οὐκ ἦρχε· γεγόνασι
+δὲ αὐτῷ τὰ κτίσματα αἰ-
+τία τῆς ἀρχῆς, κεχειροτο-
+νηκότα αὐτὸν ἐφ’ ἑαυτὰ,
+δηλονότι ἄρχοντα, τὸ πρὶν
+μὴ πεφυκότα· καὶ χάριν
+αὐτοῖς ἂν σχοίη, ὡς τῆς
+ἀρχοντικῆς τιμῆς δι’ αὐ-
+τῶν ἠξιωμένος· καὶ εἰ δό-
+ξει αὐτῷ εἰς τὸ μὴ εἶναι
+αὐτὰ παλινδρομεῖν, ἀνή-
+κοα ἔσται, καὶ λοιπὸν τῆς
+ἀρχῆς τῶν ἀρχομένων,
+κατὰ σὲ γυμνωθήσεται ἄν.
+Καὶ πρὸς τοσούτοις ἀτοπή-
+μασιν, ἕτερον ἐξ ἀνάγκης
+παρέψοιτο ἂν ἀτοπώτε-
+ρον. Ὁ Σ. Ποῖον δὴ τοῦτο;
+Θ. Ὅτι ἡ ἀρχὴ τοῦ ἐπιγείου
+βασιλέως, τῆς τοῦ Θεοῦ
+ἀρχῆς ἀσύγκριτος [ f. ἀ-
+συγκρίτως ] νοηθείη ἂν,
+καὶ κατὰ πολὺ βελτίω καὶ
+τιμιωτέρα. Ὁ Σ. Πῶς, καὶ
+διατί; Θ. Ὅτι ὁ μὲν ἐπί-
+γειος βασιλεὺς, ὁμοουσίων
+καὶ ὁμοχρόνων ἄρχει· ὁ δὲ
+Θεὸς, ἑτεροουσίων καὶ κα-
+τὰ πολὺ ἡττόνων καὶ ὑστε-
+ρογενῶν. Ὁ Σ. Ὅπερ ἔφης
+οὐ συνίημι. Θ. Εἰ προσιών
+τις προσαγορεύσοι τὸν βα-
+σιλέα, λέγων· « Χαῖρε ὁ βα-
+σιλεῦ τῶν ὄνων, » τί δεῖν
+αὐτὸν λέγεις παθεῖν ; Ὁ Σ.
+Τὴν ἐσχάτην τιμωρίαν. Θ.
+Καὶ πότερα θατέρῳ συγγε-
+νέστερα, τῷ Θεῷ τὰ κτί-
+σματα, ἢ τῷ ἐπιγείῳ βα-
+σιλεῖ οἱ ὄνοι ; Ὁ Σ. Τῷ βα-
+σιλεῖ οἱ ὄνοι· κτίσματα γὰρ
+ἄμφω, ὁμογενῆ τε καὶ
+σύνδουλα. Ἀλλ’ οὖν πείθον-
+τί μοι, ἄγε δὴ, λέγε· τί-
+νων ὁ Θεὸς ἄρχει, ἐπειδὴ
+κτισμάτων, ὡς σὺ φὴς,
+οὐκ ἄρχει ; Θ. Οἱ ἀρχόμε-
+νοι τρισσοί· ἢ μείζονες
+ὄντες τοῦ ἄρχοντος, ἢ ἥτ-
+τονες, ἢ ἴσοι· μειζόνων
+δὲ ἐπειπεῖν τὸν Θεὸν ἄρ-
+χειν, βλάσφημον, Θεοῦ
+γὰρ μεῖζον οὐδέν. Ἡττό-
+νων δὲ, ἄτιμον, κατὰ τὰ
+προειρημένα ἄτοπα· λεί-
+πεται δὲ εἰπεῖν ἴσων καὶ
+συνανάρχων. Ὁ Σ. Καὶ τίς
+ἐστιν ὁ τῷ Θεῷ ἴσος καὶ
+συνάναρχος, ὃς καὶ ὑπ’
+αὐτοῦ ἄρχοιτο ; Θ. Οἱ ἀρ-
+χόμενοι τριττοί· ὁ μὲν
+γὰρ βουλόμενος ἀρχθήσε-
+ται· ὁ δὲ, τυραννούμενος·
+ὁ δὲ μήτε βουλόμενος,
+μήτε τυραννούμενος· ἀλλ’
+ὁ Θεὸς, βουληθέντων οὐκ
+ἄρχει, ἵνα μὴ πάλιν βου-
+ληθέντες διαδέξωνται αὐ-
+τὸν, καὶ πρὸς τοῦτο οὐ
+
+# block=2
+VARIORUM NOTÆ.
+
+# block=3
+luminaria, stellas, volatilia, aquatica, quadrupedia,
+reptilia, arbores, herbas : eodem quoque modo
+
+# block=4
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=6
+847
+
+# block=7
+848
+
+# block=8
+γαγε· λέγομεν δὴ οὐρανὸν, γῆν, θάλασσαν, φῶς (54),
+νύκτα, ἡμέραν, φωστῆρας, ἄστρα, πετεινὰ, νηκτὰ,
+
+# block=9
+enim quam creaturæ es-
+sent, ut tu ais, non ha-
+bebat principatum : fue-
+runt autem ei creaturæ
+causa principatus, ipsum-
+que sibi præfecerunt, prin-
+cipem videlicet, quod prius
+non erat natura ; et ha-
+bere illis gratiam debet ,
+quia per eas habitus est
+honore principali dignus :
+et si videatur ipsi, ut eæ
+rursus in nihilum redeant,
+non obedient ; præterea-
+que principatu erga ea
+quibus præest, ex tua sen-
+tentia, nudabitur : et præ-
+ter tanta absurda aliud
+absurdius sequetur neces-
+sario. S. Quod illud ?
+Th. Quod principatus ter-
+reni regis multo melior et
+nobilior, et supra quam
+dici possit excellentior ,
+quam principatus Dei in-
+telligetur esse. S. Quo mo-
+do, et quare ? Th. Quia
+terrenus quidem rex prin-
+ceps est eorum qui sunt
+ejusdem naturæ et ejus-
+dem temporis : Deus au-
+tem, eorum qui sunt di-
+versæ naturæ, et multo
+inferiores ac posteriores.
+S. Non intelligo quod di-
+xisti. Th. Si quis adiret
+regem, et diceret : Salve,
+rex asinorum; quod suppli-
+cium ei subeundum esse
+diceres? S. Summum. Th.
+Et utra sunt alteri cogna-
+tiora ; creaturæ Deo, an
+asini regi terreno? S. Asi-
+ni regi : ambo enim sunt
+creaturæ, ejusdem gene-
+ris, et conserva. Sed age,
+responde mihi percun-
+ctanti: In quos habet prin-
+cipatum Deus, si quidem
+increaturas, ut tu ais, non
+habet ? Th. Triplices sunt
+quorum aliquis princeps
+est: vel sunt majores prin-
+cipe, vel minores, vel æ-
+quales. At Deum dicere
+principem esse majorum,
+blasphemum est. Nihil e-
+nim Deo majus. Minorum
+vero, inhonoratum est,
+convenienter absurdis il-
+lis quæ dicta sunt supra.
+Relinquitur ut dicamus,
+æqualium, et pariter prin-
+cipio carentium. S. Ec-
+quis est Deo par, et instar
+illius carens principio, qui
+illum habeat principem ?
+Th. In quos est principa-
+tus, sunt triplices. Unus
+quidem volens , habebit
+principem: alius, per vim
+
+# block=10
+et tyrannice : alius vero
+neque volens, neque vi ada-
+ctus. At Deus non est
+princeps, quia volunt ii
+quorum est princeps : ne
+rursus, si velint, ei succe-
+dant ; ac præterea non
+habeat principatum natu-
+ralem, ac simul absque
+principio ; utpote post vo-
+luntatem, et nuperum ac
+inhonoratum, sicut dictum
+est. Sed nec vim ac ty-
+rannidem passorum prin-
+ceps est : neque enim de-
+cet ; præter reliqua absur-
+da. Restat igitur ut dica-
+tur Deus esse princeps,
+non ut volentis, neque ty-
+rannidem subeuntis, sed
+naturali principatu prin-
+cipem habentis. S. Ecquis
+est qui natura Deum ha-
+bet principem ? Th. Tri-
+plices sunt principes. Alius
+enim suffragio eorum qui-
+bus præest, princeps est ;
+alius per tyrannidem ,
+alius natura. Verum Deus
+eorum quibus præest suf-
+fragio non est princeps ;
+ob prædicta incongrua
+quæ de Deo dicenda es-
+sent : sed neque per tyran-
+nidem ; tyrannis enim
+procul a Deo profligatur :
+superest itaque tertius mo-
+dus, quo Deus dicitur
+princeps omni suffragio
+superior, et ab omni ty-
+rannide liber, qui est mo-
+dus naturalis. S. Et quis
+est qui Deum naturaliter
+principem habet ? Th. Fi-
+lius ejus ; per quem Deus,
+princeps et Pater non cœ-
+ptus seu absque principio
+agnoscitur. Quia omnis
+res naturalis voluntatem
+electionis præcellit. S.
+Quid verbi gratia ais ?
+Th. Ante enim quam ve-
+limus respirare, respira-
+mus ; et antequam velimus
+audire, audimus ; et an-
+tequam velimus videre, vi-
+demus. En igitur, o tu
+negator divinitatis Verbi
+Dei , demonstratum est
+quod Deo est Filius con-
+substantialis , carens ut
+ille principio, et coæter-
+nus, excellentiis divinitatis
+cum genitore præsidens,
+ab omni creatura inaspe-
+ctabili et aspectabili tan-
+
+# block=11
+συνάναρχον, οὐδὲ φυσικὴν
+σχοίη τὴν ἀρχὴν, μετὰ
+βούλησιν γὰρ, καὶ πρόσ-
+φατον καὶ ἄτιμον, καθὰ
+εἴρηται· ἀλλ’ οὐδὲ τυραν-
+νουμένων ἄρχει· ἀπρεπὲς
+γὰρ, σὺν τοῖς λοιποῖς ἀτο-
+πήμασιν . Ὑπολέλειπται
+οὖν εἰπεῖν ὅτι ὁ Θεὸς ἄρχει
+οὐ βουλομένου, οὐδὲ τυ-
+ραννουμένου, ἀλλὰ φυσικῇ
+ἀρχῇ ἀρχομένου. Ὁ Σ. Καὶ
+τίς ἐστιν ὁ ὑπὸ τοῦ Θεοῦ
+φυσικῶς ἀρχόμενος ; Θ.
+Οἱ ἄρχοντες τρισσοί· ὁ μὲν
+γὰρ, ψήφῳ τῶν ἀρχομέ-
+νων ἄρχει· ὁ δὲ, τυραννίδι·
+ὁ δὲ, φύσει· ἀλλ’ ὁ μὲν
+Θεὸς ψήφῳ ἀρχομένων οὐκ
+ἄρχει, διὰ τὰ προειρημέ-
+να ἀνάρμοστα ἐπὶ Θεοῦ
+λεχθῆναι συμβεβηκότα ·
+ἀλλὰ οὐδὲ τυραννίδι, τοῦ
+Θεοῦ γὰρ ἡ τυραννὶς μα-
+κρὰν ἀποῤῥαπίζεται· ὑπο-
+λέλειπται δὲ ἄρα ὁ τρίτος
+τρόπος, καθ’ ὃν λέγεται
+ὁ Θεὸς ἄρχων πάσης ψή-
+φου ἀνώτερος, καὶ πάσης
+τυραννίδος ἐλεύθερος, ὅ
+ἐστι, φύσει. Ὁ Σ. Καὶ τίς
+ἐστιν ὁ ὑπὸ τοῦ Θεοῦ φυ-
+σικῶς ἀρχόμενος ; Θ. Ὁ
+Υἱὸς αὐτοῦ, δι’ οὗ ἄρχων
+καὶ Πατὴρ οὐκ ἠργμένος
+ὁ Θεὸς γνωρίζεται· διότι
+φυσικὸν πρᾶγμα πᾶν, τῆς
+κατὰ προαίρεσιν θελή-
+σεως προτέθειται. Ὁ Σ.
+Οἷόν τι φής ; Θ. Πρὸ γὰρ
+τοῦ θέλειν ἀναπνεῖν, ἀνα-
+πνέομεν· καὶ πρὸ τοῦ θέ-
+λειν ἀκούειν, ἀκούομεν·
+καὶ πρὸ τοῦ θέλειν ὁρᾷν,
+βλέπομεν. Ἰδοὺ γὰρ, σὺ, ὦ
+ἀρνητὰ τῆς τοῦ Θεοῦ Λό-
+γου θεότητος, ἀποδέδει-
+κται, ὅτι ἐστὶ τῷ Θεῷ Υἱὸς
+ὁμοούσιος, συνάναρχός τε
+καὶ συναΐδιος, ταῖς τῆς
+θεότητος ὑπεροχαῖς τῷ
+γεννήτορι συνεδρεύων ,
+ὑπὸ πάσης ἀοράτου καὶ
+ὁρατῆς κτίσεως δημιουρ-
+γὸς καὶ δεσπότης σὺν αὐ-
+τῷ λατρευόμενός τε καὶ
+προσκυνούμενος, τὸν οὐ-
+ρανὸν ἔχων θρόνον, καὶ
+τὴν γῆν ὑποπόδιον· ἔτι δὲ
+καὶ προφητικῶς εἰπεῖν,
+σπιθαμῇ τὸν οὐρανὸν με-
+τρῶν, καὶ τὴν γῆν δρακὶ,
+οὗ πάντα τὰ ἔθνη ἐνώ-
+πιον, ὡς ῥοπὴ ζυγοῦ, καὶ
+ὡς σταγὼν ἀπὸ κάδου.
+Cοτ.
+
+# block=12
+quam Creator et dominus cum ipso cultus et adora-
+[tus.
+
+# block=13
+(54) Φῶς. Hæc vocula et duæ seqq. absunt in al-
+tero codice. CLER.

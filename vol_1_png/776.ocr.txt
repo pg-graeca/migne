@@ -1,0 +1,335 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,238,304,632,2716
+2,900,246,1203,282
+3,273,77,325,119
+4,1751,86,1803,129
+5,261,134,1017,224
+6,1055,140,1815,232
+7,683,82,1419,136
+8,627,310,1015,2722
+9,1029,314,1411,2718
+10,1409,306,1803,2706
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=238 source_y1=304 source_x2=632 source_y2=2716
+τ  ρυφερὸν, ἔπλασεν ἐξ  πύ-
+λ  οὐ στρουθία  τὸν ἀριθμὸν
+τέ°. Ἦσαν οὖν καὶ τὰ παι-
+δία  παίζοντα  σὺν  αὐτῷ.
+Ἰδὼν  δέ  τις  Ἰουδαῖος ἃ
+ἐποίησεν  Ἰησοῦς  ἐν Σαϐ-
+ϐάτῳ πλάττων  τὸν πηλὸν,
+ἀπῆλθεν  εὐθέως, καὶ ἀ-
+νήγγειλε τῷ πατρὶ αὐτοῦ
+Ἰωσὴφ,  λέγων· Ἰδοὺ τὸ
+παιδίον  σου  παῖζον  ἐπὶ
+τοὺς ῥύακας, καὶ ἤρε πη-
+λὸν, καὶ ἔπλασεν ἐξ αὐτοῦ
+στρουθία ιϐ', καὶ βεϐηλοῖ
+τὸ Σάϐϐατον.  Καὶ ἐλθὼν
+ὁ  Ἰωσὴφ  ἐπὶ τὸν  τόπον,
+καὶ ἰδὼν, ἀνέκραξεν αὐτὸν,
+λέγων· Διατί ταῦτα ποιεῖς
+ἐν Σαϐϐάτῳ, ὅτε οὐκ ἔξε-
+στι  ποιεῖν;  Ὁ  δὲ Ἰησοῦς
+συγκροτήσας  τὰς  παλά-
+μας αὐτοῦ, ἀνέκραξε τοῖς
+στρουθίοις, καὶ εἶπεν αὐ-
+τοῖς· Ὑπάγετε, πετάσθητε,
+καὶ  μέμνησθέ  μου  ζῶν-
+τες· καὶ πετασθέντων τῶν
+στρουθίων,  ἐξῆλθον  κρά-
+ζοντα.  Ἰδόντες δὲ οἱ  Ἰου-
+δαῖοι, ἐθαμϐήθησαν, καλὰ-
+πελθόντες διηγήσαντο τοῖς
+πρώτοις αὐτῶν ὅπερ εἶδον,
+σημεῖον πεποιηκὼς ὁ  Ἰη- ·
+σοῦς.  Ὁ δὲ υἱὸς Ἄννα τοῦ
+γραμματέως  ἦν ἑστὼς ἐ-
+κεῖ μετὰ  Ἰωσὴφ, καὶ λα-
+ϐὼν  κλάδον ἰτέας, ἐξέχεε
+τὰ  ὕδατα  ἃ  συνήγαγεν ὁ
+Ἰησοῦς. Ἰδὼν δὲ τὸ παι-
+δίον  Ἰησοῦς τὸ  γινόμενον
+ὑπ'  αὐτοῦ,  ἠγανάκτησε ,
+καὶ εἶπεν αὐτῷ·  Ἀνόητε,
+τί  ἠδίκησάν σε οἱ λάκκοι ;
+καὶ ἐξέχεας τὰ ὕδατα; Ἰ-
+δοὺ νῦν καὶ σὺ ὡς δένδρον
+ἀποξηρανθῇς, καὶ  οὐ  μὴ
+ἐνέγκῃς φύλλα, οὔτε κλά-
+δους,  οὔτε  καρπόν.  Καὶ
+εὐθέως ἐξηράνθη ὅλος. Ὑ
+δὲ Ἰησοῦς ἀνεχώρησε καὶ
+ἀπῆλθεν εἰς τὸν οἶκον αὐ-
+τοῦ·  οἱ δὲ γονεῖς τοῦ ξη-
+ρανθέντος  ἐϐάστασαν  φέ-
+ροντες  αὐτὸν  θρηνοῦντες
+τὴν  νεότητα  αὐτοῦ· καὶ
+ἤγοντο  πρὸς  τὸν  Ἰωσὴφ,
+καὶ ἐνεκάλουν αὐτὸν,  ὅτι
+Τοιοῦτον ἔχεις παιδίον ἐρ-
+γαζόμενον  τοιαῦτα ;  Εἶτα
+ὁ Ἰησοῦς παρακληθεὶς πα-
+ρὰ πάντων, ἰάτρευσεν αὐ-
+τὸν,  ἐάσαντος  τι  μέλος
+τινὰ  ἀργὸν  ὀλίγον, εἰς τὸ
+προσέχειν  αὐτούς.  Πάλιν
+οὖν  ὁ  Ἰησοῦς  ἐπορεύετο
+διὰ  τῆς  κώμης, καὶ παι-
+δίον  τρέχον διερράγη εἰς
+τὸν  ὦμον  αὐτοῦ·  καὶ πε-
+χρανθεὶς  ὁ  Ἰησοῦς  εἶπεν
+αὐτῷ· Οὐκ ἀπελεύσῃ τὴν
+ὁδόν σου. Καὶ παραχρῆμα
+πεσὼν ἀπέθανεν. Ἰδόντες
+δέ τινες τὸ γινόμενον, εἶ-
+
+# block=2 source_x1=900 source_y1=246 source_x2=1203 source_y2=282
+VARIÒRUM NOTÆ.
+
+# block=3 source_x1=273 source_y1=77 source_x2=325 source_y2=119
+951
+
+# block=4 source_x1=1751 source_y1=86 source_x2=1803 source_y2=129
+952
+
+# block=5 source_x1=261 source_y1=134 source_x2=1017 source_y2=224
+piendos vos, qui Christum nosque servos ejus dilexi-
+stis. Et vero apud veteres nonnulli conscripserunt
+
+# block=6 source_x1=1055 source_y1=140 source_x2=1815 source_y2=232
+μαθητῶν αὐτοῦ, περιφέρουσιν εἰς ἀπάτην ὑμῶν τῶν
+περιηλκότων Χριστὸν·καὶ ἡμᾶς τοὺς αὐτοῦ δούλους.
+
+# block=7 source_x1=683 source_y1=82 source_x2=1419 source_y2=136
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=8 source_x1=627 source_y1=310 source_x2=1015 source_y2=2722
+mero duodecim. Erant ita-
+que una cum eo pueri lu-
+dentes. Quidam vero Ju-
+dæus, postquam vidit quæ
+fecerat Jesus die Sabbati
+in fingendo luto, statim
+discessit, nuntiavitque pa-
+tri ejus Josepho, dicens :
+Ecce filius tuus, dum se-
+cus rivos ludit, tulit lu-
+tum, finxitque ex eo pas-
+seres duodecim, et Sabba-
+tum profanat. Igitur ac-
+cedens Josephus ad locum,
+et cernens, inclamavit i-
+psum his verbis : Qua de
+causa hœc agis in Sabba-
+to, quando non licet? Je-
+sus autem complosis ma-
+nibus suis, acclamavit
+passeribus, dixitque illis :
+Ite, volate, ac mei viven-
+tes memores sitis. Tunc
+avolaverunt passerculi, et
+cum clamore egressi sunt.
+Id vero videntes Judæi,
+valde admirati sunt; atque
+abeuntes, narraverunt pri-
+moribus inter ipsos mira-
+culum quod coram ipsis
+ediderat Jesus. Porro fi-
+lius Annæ scribæ stabat
+illic cum Josepho; acce-
+pto ramo salicis, effudit
+aquas quas congregaverat
+Jesus. Hoc ab ipso per-
+petratum adspiciens puer
+Jesus, moleste tulit, dixit-
+que illi : Stulte, qua te
+injuria affecerunt fossæ,
+ut aquas diffunderes? Ecce
+jam tu quoque tanquam
+arbor arescas, nec afferas
+folia, neque ramos, neque
+fructum. Et illico totus
+aridus factus est. At Jesus
+secessit, abiitque in do-
+mum suam. Cœterum pa-
+rentes illius qui aruerat,
+sublatum portaverunt eum
+lugentes ipsius juventu-
+tem : et duxerunt ad Jo-
+sephum, quem incusabant;
+cur ejusmodi habes pue-
+rum talia operantem? Po- [
+stea Jesus obsecratus a
+cunctis, sanavit illum :
+reliquit tamen aliquod
+parvum membrum motus
+ac operationis expers , ut
+ii attenderent. Rursus ita-
+que Jesus per vicum pro-
+ficiscebatur ; et puer cur-
+rens irrupit in ejus hu-
+merum. Unae exacerbatus
+Jesus dixit illi : Non abi-
+bis viam tuam. Statimque
+cecidit puer ac mortuus
+est. Adspicientes autem
+nonnulli rem gestam, dixe-
+runt : Unde natus est iste
+puer, quod omne verbum
+
+# block=9 source_x1=1029 source_y1=314 source_x2=1411 source_y2=2718
+ipsius, opus est promptum?
+Et accedentes ad Josephum
+parentes illius qui interie-
+rat, conquerebantur di-
+centes : Tu cum puerum
+hunc habeas, non potes
+nobiscum habitare in ci-
+vitate nostra. Aut doce
+puerum tuum ut ipse be-
+nedicat, non autem im-
+precetur, aut eum egre-
+dere ex his locis. Nam
+pueros nostros interficit.
+Advocato igitur puero se-
+orsum , Josephus illum
+³ admonebat dicens : Quare
+hujusmodi facis, et sic
+pitiuntur, oderuntque nos
+ac persequuntur? Respon-
+dit Jesus : Ego novi hæc
+tua verba tua non esse ;
+verum propter te tacebo;
+illi autem qui hæc tibi
+suggesserunt, pœnas da-
+bunt sempiternas. Et con-
+festim qui loquebantur,
+oculis privati sunt. Quique
+hoc viderunt, valde cuncti
+sunt perterriti, et hæsita-
+bant, dicebantque de illo,
+omnem sermonem qui ab
+ipso proferretur , sive bo-
+num sive malum in opus
+procedere; atque mira-
+bantur. Viso autem hoc
+Jesu opere, surgens Jose-
+phus auriculam ejus ap-
+prehensam vellicavit. Puer
+vero indignatus est, aitque
+illi : Sufficiat tibi quod
+illi quœrunt et non inve-
+niant. Minime fecisti sa-
+pienter. Nonne scis me
+tuum esse? Ne me mole-
+stia afficias. Porro qui-
+dam præceptor nomine
+Zacchæus, cum staret in
+aliquo loco, audivit hæc
+de Jesu, ex ore patris i-
+psius; et miratus est val-
+de, quod qui puer erat ta-
+lia loqueretur. Paucosque
+post dies accessit ad Jo-
+sephum, eique dixit : Pue-
+rum cordatum habes, qui
+habet sensum. Agid igitur
+ergo, trade mihi illum, ut
+discat litteras. Et cum se-
+deret magister quo Jesum
+doceret litteras , cœpit a
+primo elemento Aleph. Je-
+sus vero pronuntiavit se-
+cundum elementum Beth,
+et Ghimel, reliquasque lit-
+teras ad finem usque ei
+protulit. Atque aperio li-
+bro, prophetas docebat
+præceptorem. Qui pudore
+affectus hæsit, quod ne-
+sciret unde is litteras co-
+gnovisset : surgensque re-
+versus est domum, admi-
+
+# block=10 source_x1=1409 source_y1=306 source_x2=1803 source_y2=2706
+¹ πον· Πόθεν τοῦτο τὸ παι-
+δίον ἐγενήθη, ὅτι πᾶν ῥῆ-
+μα αὐτοῦ ἔργον ἐστὶν ἑτοῖ-
+μον; Καὶ προσελθόντες οἱ
+γονεῖς τοῦ τεθνεῶτος τῷ
+Ἰωσὴφ, κατεμέμφοντο λέ-
+γοντες· Σὺ τοῦτο τὸ παι-
+δίον ἔχων, οὐ δύνασαι μεθ'
+ἡμῶν. οἰκεῖν ἐν τῇ πόλει
+ἡμῶν. Ἢ δίδασκε τὸ παι-
+δίον σου αὐτῷ εὐλογεῖν καὶ
+μὴ καταρᾶσθαι, ἢ ἔξελθε
+σὺν αὐτῷ τῶν ὧδε · τὰ γὰρ
+παιδία ἡμῶν θανατοῖ.Προσ-
+καλεσάμενος δὲ ὁ Ἰωσὴφ
+τὸ παιδίον ἰδίᾳ. ἐνουθέτει ,
+νουθέτει αὐτὸ λέγων· Ἵνα
+τί τοιαῦτα κατεργάζῃ, καὶ
+πάσχουσιν οὕτως, καὶ μι-
+σοῦσιν ἡμᾶς καὶ διώκου-
+σιν; Εἶπεν δὲ ὁ Ἰησοῦς·
+Ἐγὼ οἶδα ὅτι τὰ ῥήματά
+σου ταῦτα οὐκ εἰσὶν τὰ σά,
+ἀλλὰ διὰ σὲ σιγήσω · ἐ-
+κεῖνοι δὲ οἱ εἰρηκότες σοι
+ταῦτα, οἴσουσιντὴν κόλασιν
+τὴν αἰώνιον. Καὶ εὐθέως
+οἱ ἐγκαλοῦντες αὐτὸν ἐτυ-
+φλώθησαν· καὶ οἱ ἰδόντες
+ἐφοϐήθησαν πάντες σφό-
+δρα, καὶ ἠπόρουν, ὅτι πᾶν
+ῥῆμα ὃ λέγει, εἴτε καλὸν,
+εἴτε κακὸν, ἔργον γίνεται·
+καὶ ἐθαύμαζον. Ἰδόντες°
+δὲ ὅτι τοῦτο ἐποίησεν ὁ
+Ἰησοῦς, ἐγερθεὶς ὁ Ἰω-
+σὴφ, ἐπελάϐετο αὐτοῦ τὸ
+ὠτίον, καὶ ἔτιλεν αὐτό. Τὸ
+δὲ παιδίον ἠγανάκτησε,καὶ
+εἶπεν αὐτῷ· Ἀρκετόν σοί
+εστι, ζητεῖν καὶ μὴ εὑρί-
+σκειν αὐτοὺς, καὶ μάλιστα
+οὐ σοφῶς ἔπραξας. Οὐκ
+οἶδας ὅτι σός εἰμι; μή με
+λύπει. Μαθητὴς δέ τις ὀ-
+νόματι Ζακχαῖος ἑστὼς ἐν
+μέρει τινὶ ἤκουσετοῦ Ἰησοῦ
+ταῦτα λαλoῦντος τοῦ πα-
+τρὸς αὐτοῦ, καὶ ἐθαύμασε
+σφόδρα, ὅτι παιδίον ὂν
+τοιαῦτα φθέγγεται. Καὶ
+μετ' ὀλίγας ἡμέρας, προσ-
+ήγγισε τῷ Ἰωσὴφ, καὶ
+εἶπεν αὐτῷ· Ὅτι παιδίον
+φρόνιμον ἔχεις, καὶ νοῦν
+ἔχει. Δεῦρο οὖν, παράδος
+μοι αὐτὸ, ὅπως μάθῃ
+γράμματα. Καθίσαντος δὲ
+αὐτοῦ τοῦ διδάσκειν τὰ γράμ-
+ματατῷ Ἰησοῦ, ἤρξατο τὸ πρῶ-
+τον στοιχεῖον τὸ Ἄλφα. Ὁ
+δὲ Ἰησοῦς λέγει τὸ δεύτε-
+ρον στοιχεῖον, Μπεθ°, Γκι-
+μέλ· καὶ εἶπεν αὐτῷ πάν-
+τα τὰ στοιχεῖα ἕως τέλους.
+Καὶ ἀναπτύξας βιϐλίον,
+τοῦς προφήτας ἐδίδασκε
+τὸν καθηγητήν. Αὐτὸς δὲ
+αἰσχυνθεὶς ἠπόρησεν ὅτι
+οὐκ οἶδε πόθεν αὐτὸς οἶδε
+τὰ γράμμα·α· καὶ ἐγερ-

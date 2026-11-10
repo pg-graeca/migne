@@ -1,0 +1,189 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,164,1711,915,2578
+2,161,1120,912,1636
+3,952,1124,1713,1635
+4,951,1706,1709,2590
+5,166,1002,912,1102
+6,1154,1656,1499,1688
+7,383,1660,706,1695
+8,479,429,1397,483
+9,436,237,1409,306
+10,760,665,1079,700
+11,195,848,858,883
+13,985,849,1700,883
+15,158,722,915,829
+16,1631,81,1697,125
+18,165,90,235,127
+21,953,998,1706,1107
+22,601,929,1241,968
+23,728,518,1131,554
+24,169,2608,1703,2686
+25,584,89,1295,125
+26,890,346,952,384
+27,950,718,1708,834
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=28px
+# block=9 fontSize=32px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=16px
+# block=18 fontSize=16px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=16px
+# block=26 fontSize=16px
+# block=27 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+1456
+
+# block=25
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=18
+1455
+
+# block=9
+APPENDIX MONUMENTORUM
+
+# block=26
+AD
+
+# block=8
+RECOGNITIONES CLEMENTINAS
+
+# block=23
+(GALLAND, Vet. Patr., II, 522.)
+
+# block=10
+I. Ad lib. 1, cap. 24.
+
+# block=27
+Τοῦ ἁγίου Κλήμεντος ἐπισκόπου Ῥώμης, μετὰ
+τὸν ἀπόστολον Πέτρον τοῦ ἀποστολικοῦ
+θρόνου ἡγησαμένου, εἰς τὸ ἅγιον Πνεῦμα.
+
+# block=15
+S. Clementis episcopi Romæ, qui post apostolum
+Petrum sedi apostolicæ præfuit, de Spiritu san-
+cto.
+
+# block=11
+Beatus qui oculos clausos aperuit, etc. (67).
+
+# block=13
+Μακάριος ὁ κεκλεισμένους ὀφθαλμοὺς ἀνοίξας, κ. τ. λ.
+
+# block=22
+II. Ad lib. 1, cap. 54 (ex codice Regio 1818).
+
+# block=21
+Ἔκθεσις ἀκριβεστάτη περὶ τοῦ πῶς δεῖ δέχεσθαι
+τὸν ἐξ Ἑβραίων τῇ τῶν Χριστιανῶν πίστει
+προσερχόμενον.
+
+# block=5
+Expositio accuratissima, quo modo oporteat eum
+recipere, qui ex Hebræis ad Christianorum fidem
+accedit.
+
+# block=2
+I. Oportet ut primo publicet ac proscribat quod-
+cunque Hebræis pro legitimo, pro consuetudine et
+instituto est : deinde ostendat velle se ex toto cor-
+de, ac sincera fide Christianismum amplecti : et qui-
+dem palam in Ecclesia renuntiet omni cultui Ju-
+daico, et cunctis legalibus : anathematizet vero
+postea quæ excogitata fuerunt contra voluntatem
+Dei instituta atque mores : sicque aggreget se
+Christo, et fidei juxta illum : scilicet, sacerdote
+prius verba faciente; ipso autem per versuum ordi-
+nem respondente, aut ipsius, si sit parvulus, susce-
+ptore.
+
+# block=3
+Ἐξαγορεύειν αὐτὸν χρὴ πρότερον καὶ θριαμβεύειν
+πᾶν νόμιμον Ἑβραϊκὸν, καὶ ἔθος, καὶ ἐπιτήδευμα·
+κἀντεῦθεν δεικνύειν, ὡς ἐξ ὅλης καρδίας καὶ πί-
+στεως εἰλικρινοῦς, Χριστιανισμῷ ἠθέλησε· καὶ ἀπο-
+τάσσεσθαι μὲν φανερῶς ἐπ' ἐκκλησίας πάσῃ τῇ
+Ἰουδαϊκῇ θρησκείᾳ, καὶ τοῖς νομίμοις πᾶσιν· ἀνα-
+θεματίζειν δὲ ὕστερον τὰ ἐπινενημένα παρὰ γνώ-
+μην Θεοῦ ἐπιτηδεύματα, καὶ ἔθη· καὶ οὕτως συν-
+τάσσεσθαι τῷ Χριστῷ, καὶ τῇ πίστει τῇ κατ' αὐ-
+τόν· τοῦ ἱερέως δηλαδὴ προτέρου λέγοντος, καὶ αὐ-
+τοῦ, ἀποκρινομένου κατὰ στίχον, ἢ τοῦ ἀναδόχου
+αὐτοῦ, εἴπερ ὑπάρχει παιδίον.
+
+# block=6
+Ἔχει δὲ ταῦτα οὕτως.
+
+# block=7
+Hæc porro ita habent :
+
+# block=4
+Ὁ δεῖνα ὁ ἐξ Ἑβραίων σήμερον προσιὼν τῇ πί-
+στει τῶν Χριστιανῶν, οὐ διὰ ἥντινα βίαν, ἢ ἀνάγκην,
+ἢ φόβον, ἢ ἐπήρειαν, ἢ πενίαν, ἢ διὰ χρέος, ἢ ἔγ-
+κλημα κατ' ἐμοῦ κινούμενον, ἢ διὰ τιμὴν κοσμικήν,
+ἢ εὐεργεσίας τινὰς, ἢ χρήματα, ἢ πράγματα παρά
+τινος ὑπισχνούμενα, ἢ ὅλως διὰ οἱανδήποτε ὠφέ-
+λειαν, ἢ προστασίαν ἀνθρωπίνην, ἢ δι' ἔριν ἢ φιλο-
+νεικίαν πρός τινα γενομένην τῶν ὁμοπίστων μου, ἢ
+ὡς βουλόμενος ἐντεῦθεν ἀμύνασθαι Χριστιανούς, ὡς
+ζηλωτὴς δῆθεν τοῦ νόμου, ἢ καὶ παρ' αὐτῶν ἀδικη-
+θείς· ἀλλ' ὡς ἐξ ὅλης ψυχῆς καὶ καρδίας τὸν Χρι-
+στὸν ἀγαπήσας καὶ τὴν αὐτοῦ πίστιν· ἀποτάσσομαι
+πάσῃ τῇ Ἑβραϊκῇ θρησκείᾳ, καὶ τῇ περιτομῇ, καὶ
+τοῖς νομίμοις πᾶσι, καὶ τοῖς Ἀζύμοις, καὶ τῷ Πά-
+σχα, καὶ τῇ θυσίᾳ τοῦ ἀμνοῦ, καὶ τῇ τῶν Ἑβδο-
+μάδων ἑορτῇ, καὶ τῷ Ἰωβηλαίῳ, καὶ ταῖς Σάλπιγξι,
+καὶ τῷ Ἱλασμῷ, καὶ ταῖς Σκηνοπηγίαις, καὶ ταῖς
+λοιπαῖς ἁπάσαις ἑορταῖς τῶν Ἑβραίων, καὶ ταῖς
+θυσίαις, καὶ ταῖς προσευχαῖς, καὶ τοῖς ῥαντισμοῖς,
+καὶ τοῖς καθαρισμοῖς, καὶ τοῖς ἁγνισμοῖς, καὶ ταῖς
+
+# block=1
+Ego ille, qui hodie ex Hebræis accedo ad fidem
+Christianorum; non per vim aliquam, vel necessi-
+tatem, timorem, vexationem aut paupertatem, nec
+ob debitum vel crimen mihi intentatum, neque
+propter mundanum honorem, beneficia quædam,
+pecunias aut res mihi a quoquam promissas, non
+omnino cujuscunque utilitatis causa humanive pa-
+trocinii, vel ob rixam et contentionem cum quo-
+piam ex hominibus ejusdem mecum fidei susce-
+ptam, sive quasi inde volens sumere ultionem de
+Christianis, tanquam nimirum legis æmulator, vel
+et ab ipsis injuria affectus; sed ut ex toto animo
+et corde Christum ipsiusque fidem diligens; renu-
+tio universo Hebraico cultui, et circumcisioni, om-
+nibusque legalibus, necnon Azymis, Paschæ, sacri-
+ficio Agni, festo Hebdomadarum, Jubilæo, Tubis,
+Propitiationi, Scenopegiis ac reliquis omnibus He-
+bræorum festivitatibus; item sacrificiis, precibus,
+aspersionibus, purificationibus, expiationibus, jeju-
+niis, Sabbatis Neomeniisque, et cibis ac potibus
+
+# block=24
+(67) Fragmentum istud post Coustantium subjecimus Clementis Epistolis ad Corinthios, supra.
+EDIT. PATR.

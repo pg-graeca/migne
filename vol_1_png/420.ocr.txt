@@ -1,0 +1,208 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,280,608,1036,1166
+2,1058,2450,1809,2687
+3,1056,1322,1819,2451
+4,278,1317,1032,2387
+5,1067,605,1834,1179
+6,1064,128,1846,507
+7,896,1262,1195,1295
+8,316,1195,1217,1231
+9,278,2383,1035,2684
+10,657,71,1437,109
+11,1308,562,1572,602
+13,286,130,1034,517
+14,286,62,364,116
+15,1746,72,1836,114
+16,282,514,1336,560
+17,562,564,780,598
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+239
+
+# block=10
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=15
+240
+
+# block=6
+Καὶ πάλιν λέγει· Ἠγάπησαν αὐτὸν τῷ στόματι αὐ-
+τῶν, καὶ τῇ γλώσσῃ αὐτῶν ἐψεύσαντο αὐτόν, ἡ δὲ
+καρδία αὐτῶν οὐκ εὐθεῖα μετ' αὐτοῦ, οὐδὲ ἐπιστώ-
+θησαν ἐν τῇ διαθήκῃ αὐτοῦ. Ἄλαλα γενηθήτω (7-8)
+τὰ χείλη τὰ δόλια, γλῶσσαν μεγαλορρήμονα,
+τοὺς εἰπόντας· Τὴν γλῶσσαν ἡμῶν μεγαλύνω-
+μεν (9), τὰ χείλη ἡμῶν παρ' ἡμῖν ἐστιν, τίς ἡμῶν
+Κύριός ἐστιν ; ἀπὸ τῆς ταλαιπωρίας τῶν πτωχῶν,
+καὶ ἀπὸ τοῦ στεναγμοῦ τῶν πενήτων, νῦν ἀνα-
+
+# block=13
+et lingua sua mentiti sunt ei : cor autem ipsorum
+non erat rectum cum eo; nec fideles habiti sunt in
+testamento ejus ⁸⁷. Muta fiant labia dolosa ⁸⁸. [Dis-
+perdat Dominus universa labia dolosa, et] linguam
+magniloquam, qui dixerunt : Linguam nostram ma-
+gnificemus; labia nostra apud nos sunt; quis noster
+Dominus est? Propter miseriam inopum, et gemitum
+pauperum nunc exsurgam, dicit Dominus : ponam in
+salute, fiducialiter agam in eo ⁸⁹.
+
+# block=16
+στήσομαι, λέγει Κύριος· θήσομαι ἐν σωτηρίᾳ, παῤῥησιάσομαι ἐν αὐτῷ.
+
+# block=11
+ΚΕΦΑΛΑΙΟΝ ΙϚ'.
+
+# block=17
+CAPUT XVI.
+
+# block=5
+Ταπεινοφρονούντων γάρ ἐστιν ὁ Χριστός, οὐκ ἐπαι-
+ρομένων ἐπὶ τὸ ποίμνιον αὐτοῦ. Τὸ σκῆπτρον (10)
+τῆς μεγαλωσύνης τοῦ Θεοῦ, ὁ Κύριος ἡμῶν Χριστὸς
+Ἰησοῦς, οὐκ ἦλθεν ἐν κόμπῳ ἀλαζονείας, οὐδὲ ὑπερ-
+ηφανίας, καίπερ δυνάμενος· ἀλλὰ ταπεινοφρονῶν,
+καθὼς τὸ Πνεῦμα τὸ ἅγιον περὶ αὐτοῦ ἐλάλησεν.
+Φησὶ γάρ· Κύριε, τίς ἐπίστευσε τῇ ἀκοῇ ἡμῶν;
+καὶ ὁ βραχίων Κυρίου τίνι ἀπεκαλύφθη; ἀνηγγεί-
+λαμεν ἐναντίον αὐτοῦ ὡς παιδίον· ὡς ῥίζα ἐν γῇ δι-
+ψώσῃ· ὅτι οὐκ ἔστιν εἶδος αὐτῷ, οὐδὲ δόξα· καὶ εἴδο-
+μεν αὐτόν, καὶ οὐκ εἶχεν εἶδος, οὐδὲ κάλλος, ἀλλὰ
+τὸ εἶδος αὐτοῦ ἄτιμον, ἐκλεῖπον παρὰ τὸ εἶδος τῶν
+ἀνθρώπων (11). Ἄνθρωπος ἐν πληγῇ ὢν καὶ πόνῳ,
+
+# block=1
+Christus enim eorum est qui humiliter de se
+sentiunt, non eorum qui supra ovile ejus efferunt
+sese. Sceptrum majestatis Dei, Dominus noster
+Christus Jesus, non venit in jactantia arrogantia
+neque superbiæ, etiamsi potens sit; sed in humili-
+tate, quemadmodum Spiritus sanctus de ipso lo-
+cutus est. Ait quippe : Domine, quis credidit au-
+ditui nostro? et brachium Domini cui revelatum est?
+Annuntiavimus quasi parvulum in conspectu ejus;
+sicut radix in terra sitienti : quoniam non est species
+ei, neque gloria : et vidimus eum, et non habebat
+speciem neque decorem; sed species ejus inhonorata,
+deficiens præ specie hominum. Homo in plaga et do-
+
+# block=8
+⁸⁷ Psal. lxxvii, 36, 37. ⁸⁸ Psal. xxx, 19. ⁸⁹ Psal. xi, 4-6.
+
+# block=7
+VARIORUM NOTÆ.
+
+# block=4
+(7-8) Ἄλαλα γενηθήτω, x. τ. λ. Editi omnes,
+præter Londinensem, ἀλλά προ ἄλαλα, quod tamen
+exhibent tum cod. ms. tum Clem. Alex. At locus
+iste mutilus apud utrumque Clementem, ita resti-
+tuendus : Ἄλαλα γενηθήτω τὰ χείλη τὰ δόλια [καὶ
+ἐξολεθρεύσαι Κύριος πάντα τὰ χείλη τὰ δόλια, καὶ]
+γλῶσσαν μεγαλοῤῥήμονα. Hinc enim hiatus iste ma-
+navit, quod librarius a priore δόλια oculos suos ad
+γλῶσσαν post alterum δόλια converterit. Idque jam
+antea monuerunt Potterus ad Clem. Alex. Στρωμ.,
+lib. IV, cap. 6, pag. 578, et Wott. ad Gall. h. l.
+Ἀλλὰ γενηθήτω. Clemens Alexandrinus legit
+ἄλαλα, et quidem recte; locus autem hic conflatus
+est ex vers. 19 psalmi xxx juxta computationem
+Græcorum, et versu 4 psal. xi et eis qui sequun-
+tur. In testimoniis Scripturarum citandis, solemne
+esse Patribus, ex variis locis unum corpus efficere,
+supra notavimus. Cur autem in imperativo γενηθήτω
+et non γενηθείη scribatur, audiatur Basilius ad
+illud psalm. xliv : Καὶ κατευοδοῦ, καὶ βασίλευε. Μὴ
+ξενιζέτω δὲ ἡμᾶς τὸ προστακτικῶς λέγεσθαι τὸ, κατ-
+ευοδοῦ, διὰ τὴν συνήθειαν τῆς Γραφῆς, οὕτως ἀεὶ
+σχηματιζούσης τὰ εὐκτικά· γενηθήτωγὰρ τὸ θέλημά
+σου, ἀντὶ τοῦ γερηθείη, καὶ ἐλθέτω ἡ βασιλεία σου,
+ἀντὶ τοῦ ἔλθοι, et Cyrillus ad illud psal. liv : Ἐλθέτω
+δὴ θάνατος ἐπ' αὐτούς, ut et in Catena nostra, non
+tantum εὐκτικά, sed προφρητικά etiam in Scripturis
+προστακτικῶς efferri, auctor est. Ἔθος ἐστὶ τῇ Γραφῇ
+τὰ προφρητικὰ προστακτικῷ τρόπῳ προφέρεσθαι·
+καὶ ἐνταῦθα τοίνυν τὸ, ἐλθέτω θάνατος, καὶ τὸ, κατα-
+βήτωσαν, ἀντὶ τοῦ ἐλεύσεται, καὶ καταβήσονται, εἴ-
+ρηται. JUN.
+
+# block=3
+quasi baculum portamur ad Patrem. Ait enim :
+Compellam sive cogam ipsos sub baculum meum, Ba-.
+culus, sive virga, regni symbolum est. Imperat siqui-
+dem per Filium omnibus Deus Pater. Ad hunc inquit
+David : Virga tua et baculus tuus consolata sunt
+me. Hæc est virga quæ progerminrat ex radice Jesse.
+Hæc est virga Aaronis florida, etc. COT. — Τὸ σκῆ-
+πτρον. Hieronymus in lii cap. Isaiæ hunc locum
+laudat, ut supra inter veterum testimonia de Cle-
+mente et ejus scriptis, a nobis notatum est. De ra-
+tione autem primi adventus Christi in humilitate et
+clementia, addatur ex Epistola ad Diognetum, Jus-
+tini Martyris locus : Τοῦτον πρὸς αὐτοὺς ἀπέστειλεν,
+ἆρά γε ὡς ἄνθρωπον ἄν τις λογίσαιτο, ἐπὶ τυραννίδι,
+καὶ φόβῳ, καὶ καταπλήξει; οὐμενοῦν, ἀλλ' ἐν ἐπιει-
+κείᾳ καὶ πραΰτητι, etc., et de duplici habitu et du-
+plici adventu Christi legatur Tertullianus, capite ul-
+timo Contra Judæos JUN. — Respicit ps. xliv, 7 :
+Ῥάβδος εὐθύτητος ἡ ῥάβδος τῆς βασιλείας σου, quem
+locum adducit Auctor ad Heb. 1, 8 ad divinas
+Christi prærogativas stabiliendum, quo etiam pro-
+lato concludit Justinus M. adversus Tryphonem ὅτι
+καὶ προσκυνητός ἐστι καὶ Θεός, καὶ Χριστός. Et qui-
+dem eo felicius adducitur hic locus ad retunden-
+dam Judæorum pertinaciam, quod ad Messiam per-
+tinere vel ipsi fatentur Rabbini; scilicet, Thargum,
+Kimchi, Aben Ezra, et Sal. Jarchi, Certe Christus
+Dei sceptrum, quod potentiæ symbolum, rectissime
+dicitur, siquidem per eum omnia facta sunt quæ
+sunt facta, Joan. I, et ut ait auctor ad Heb., τοὺς
+αἰῶνας ἐποίησεν. Male ergo vapulat auctor noster,
+apud Photium, quod Christum ἐξονομάζειν οὐδὲ τὰς
+θεοπρεπεῖς, καὶ ὑψηλοτέρας περὶ αὐτοῦ ἀφῆκε φω-
+νάς. FELL.
+
+# block=9
+(9) Μεγαλύνωμεν. Dav. leg. μεγαλυνοῦμεν, ut
+habent LXX psalm. xi, 5. Ejus conjectura confir-
+matur ex Clem. Alex. qui et ipse sic legit l. c. GALL.
+(10) Τὸ σκῆπτρον τῆς μεγαλωσύνης τοῦ Θεοῦ ὁ
+Κύριος ἡμῶν Χριστὸς Ἰησοῦς. Apposite Procopius
+ad Exodi caput iv initio : Dicitur Christus baculus,
+quod omnes ab ipso sustinemur et confirmamur, Ser-
+mone namque Domini confirmati et consolidati sunt
+cœli. Fulcit quoque sermo Dei justos. Et per Filium
+
+# block=2
+(11) Ἐκλεῖπον παρὰ τὸ εἶδος τῶν ἀνθρώπων.
+Aliter, ἐκλεῖπον παρὰ τοὺς υἱοὺς τῶν ἀνθρώπων. Et,
+ἐκλεῖπον παρὰ πάντας τοὺς ἀνθρώπους. Deficiens
+citra filios hominum. Et deficiens citra omnes homi-
+nes, inquit Tertullianus cap. 14 libri adversus Ju-
+dæos; ac lib. iii contra Marcionem cap. 17. Apud
+Gregorium Nyssenum, tomo II, in testimeniis adver-

@@ -1,0 +1,227 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,992,797,1752,1481
+2,205,795,971,1483
+3,987,1706,1741,1875
+4,203,2529,942,2703
+5,198,1805,959,2271
+7,201,2334,953,2537
+8,444,753,716,788
+10,986,1637,1732,1710
+11,982,1871,1745,2500
+12,733,91,1194,131
+14,254,1510,1574,1552
+15,1284,755,1457,790
+17,202,1706,951,1809
+18,202,1636,952,1711
+19,218,92,276,131
+21,977,2495,1740,2700
+22,209,147,967,663
+24,993,146,1753,654
+25,1679,98,1759,140
+26,197,668,1753,748
+27,811,1576,1135,1622
+28,197,2268,959,2336
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=16px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=16px
+# block=26 fontSize=15px
+# block=27 fontSize=15px
+# block=28 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+EPISTOLA I AD CORINTHIOS.
+
+# block=19
+313
+
+# block=25
+614
+
+# block=24
+ptum enim est : Ingredere in cubicula tua paululum
+quantulumcunque, donec pertranseat ira et furor meus.
+Et recordabor diei boni 69, et suscitabo vos e sepulcris
+vestris ⁷⁰. Beati sumus, dilecti, si præcepta Domini in
+charitatis concordia fecerimus, ut per charitatem
+remittantur nobis peccata. Scriptum quippe est :
+Beati, quorum remissæ sunt iniquitates, et quorum
+tecta sunt peccata. Beatus vir cui non imputabit Do-
+minus peccatum, nec est in ore ejus dolus ⁷¹. Hæc
+beatitudo contigit electis a Deo per Jesum Chri-
+stum Dominum nostrum; cui gloria in sæcula sæ-
+culorum. Amen.
+
+# block=22
+τοῦ Χριστοῦ. Γέγραπται (44) γάρ· Εἴсел[θε] εἰς
+τὰ ταμιεῖα (45) μικρὸν ὅσο[ν] ἕως οὗ παρέλθῃ ἡ
+ὀργὴ καὶ θ[υμός] μου · καὶ μνησθήσομαι (46) ἡμέ-
+ρας ἀγαθῆς, καὶ ἀναστήσω ὑμᾶς [ἐκ] τῶν θη-
+κῶν (47) ὑμῶν. Μακάριοι ἐσμεν, ἀγαπητοὶ, εἰ τὰ
+[προσ]τάγματα (48) τοῦ Θεοῦ ἐποιοῦμεν ἐ[ν δ]μονοίᾳ
+ἀγάπης, εἰς τὸ ἀφεθῆ[ναι] ἡμῖν δι’ ἀγάπης τὰς ἁμαρ-
+τίας (49). Γέγραπται γάρ· Μακάριοι [ὧν ἀφέ]θη-
+σαν αἱ ἀνομίαι, καὶ ὧν (50) ἐπεκα[λύ]φθησαν αἱ
+ἁμαρτίαι. Μακάριος ἀ[νὴρ] (51) ᾧ οὐ (52) μὴ λο-
+γίσηται Κύριος ἁμαρτίαν, οὐδέ ἐστιν ἐν τῷ στό-
+ματι αὐτοῦ δόλος. Οὗτος ὁ μακαρισμὸς ἐγένετο ἐπὶ
+
+# block=26
+τοὺς ἐκλελεγμένους ὑπὸ τοῦ Θεοῦ διὰ Ἰησοῦ Χριστοῦ τοῦ Κυρίου ἡμῶν, ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν
+αἰώνων. Ἀμήν.
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ ΝΑ′.
+
+# block=15
+CAPUT LI.
+
+# block=2
+"Osa [οὗ]ν (53) παρέ[6η]μεν διά τινος τῶν [τοῦ]
+ἀντικε[ἰμ]ένου, ἀξιωσώμεν [συγγνώμην]· καὶ ἐκεῖνοι
+δὲ οἵτινες ἀρχηγοὶ τῆς στάσεως καὶ διχοστασίας ἐγε-
+νήθησαν, ὀφείλουσιν τὸ κοινὸν τῆς ἐλπίδος σκοπεῖν.
+Οἱ γὰρ μετὰ φόβου καὶ ἀγάπης πολιτευόμενοι, ἑαυ-
+τοὺς θέλουσιν μᾶλλον οἰκίαις (54) περιπίπτειν ἢ τοὺς
+πλησίον • μᾶλλον δὲ ἑαυτῶν κατάγνωσιν φέρουσιν, ἢ
+τῆς παραδεδομένης ἡμῖν καλῶς καὶ δικαίως (55) ὁμο-
+φωνίας. Καλὸν γὰρ ἀνθρώπῳ ἐξομολογεῖσθαι περὶ
+τῶν παραπτωμάτων, ἢ σκληρῦναι τὴν καρδίαν αὐτοῦ,
+καθὼς ἐσκληρύνθη ἡ καρδία τῶν στασιαζόντων πρὸς
+τὸν θεράποντα τοῦ Θεοῦ Μωϋσῆν • ὧν τὸ κρῖμα πρό-
+δηλον ἐγενήθη • κατέβησαν γὰρ εἰς ᾅδου ζῶντες, καὶ
+θά[νατος κατέπιεν α]ὐτούς. Φαραὼ καὶ ἡ στρα[τιὰ
+αὐ]τοῦ, καὶ πάντες οἱ ἡγούμεν[οι Αἰγ]ύπτου, τά τε ς
+ᾅρματα καὶ οἱ [ἀναβά]ται (56) αὐτῶν, οὐ δι’ ἄλλην
+
+# block=1
+Quæcunque igitur per quemdam adversarii illu-
+psum deliquimus, veniam postulemus : illi vero
+qui seditionis ac dissensionis duces et principes
+fuerunt, debent communem spem contemplari. Qui
+enim cum timore et charitate vivunt, se ipsos in
+contumelias incidere malunt, quam proximos; seque
+ipsos potius improbari sustinent, quam pulchre et ju-
+ste traditam nobis consensionem. Nam melius est ho-
+mini, confiteri de lapsibus et peccatis, quam indu-
+rare cor suum; prout induratum est cor eorum qui
+contra famulum Dei Moysen seditionem fecerunt ⁷² :
+quorum condemnatio manifesta fuit; descenderunt
+enim in infernum vivi, et mors absorpsit eos. Pha-
+rao et exercitus ejus et omnes præfecti Ægypti ⁷³,
+currus etiam et equites eorum, non aliam ob cau-
+sam maris Rubri profundo immersi sunt, et perie.
+
+# block=14
+⁶⁹ Isa. xxvi, 20. ⁷⁰ Ezech. xxxvii, 12, 13. ⁷¹ Psal. xxxi, 1, 2. ⁷² Num. xvi. ⁷³ Exod. xiv.
+
+# block=27
+VARIORUM NOTÆ.
+
+# block=18
+(44) Γέγραπται... εἴσελθε. Hæc pro Clementinis
+p. 519 : Ἡ ἀγάπη ἁμαρτάνειν οὐκ ἐᾷ. BERN.
+
+# block=10
+Κυρίου ἡμῶν, exscripta sunt ex Clemente Alexan-
+drino p. 519. A. BERN.
+
+# block=17
+(45) Ταμιεῖα. Ex Mill. et Wott. ita se habet ms.
+Ita et apud LXX, Isa. xxvi, 20. Editi, præter Lon-
+din. ταμεῖα. GALL.
+
+# block=3
+(52) Ὦ οὗ. Ms. exhibet οὗ οὗ, tum hic, tum
+psal. xxxi, 2. At cod. Vat. ᾧ sic et Rom. iv, 8,
+eodemque modo legitur in Hebræo textu et in ver-
+sionibus omnibus. Igitur ᾧ veram esse lectionem
+existimo. Wott. Gall.
+
+# block=5
+(46) Καὶ μνησθήσομαι, κ. τ. λ. Vix dubito, quin
+S. Pater respexerit ad illud Ezech. xxxvii, 12, 13 :
+ᥩἸδοὺ ἐγὼ ἀνοίγω ὑμῶν τὰ μνήματα, καὶ ἀνάξω ὑμᾶς
+ἐκ τῶν μνημάτων ὑμῶν...καὶ γνώσεσθε ὅτι ἐγώ εἰμι
+Κύριος, ἐν τῷ ἀνοῖξαί με τοὺς τάφους ὑμῶν, τοῦ ἀνα-
+γαγεῖν με ὑμᾶς ἐκ τῶν τάφους ὑμῶν, τὸν λαόν μου.
+Aliter Cot. cui tamen ægre assentitur Cout. ID.—Καὶ
+μνησθήσομαι ἡμέρας ἀγαθῆς, καὶ ἀναστήσω ὑμᾶς
+[ἐκ] τῶν θηκῶν ὑμῶν. Simile nonnihil habes in li-
+bro apocrypho IV Esdræ ii, 16 : Et resuscitabo
+mortuos de locis suis, et de monumentis educam il-
+los. Lege etiam Isaix xxvi, 19; lxiii, 11; et Hebr.
+xiii, 20. Hinc enim forte consarcinatus fuit iste lo-
+cus. Cot.
+
+# block=11
+(53) Ὄσα οὖν, κ. τ. λ. Jun. cum editis, excepto
+Londin. hunc locum minus recte sic exhibet : "Ὄσ-
+[οι οὖν] παρ[έ6η]μεν διά τινος τῶν [τοῦ] ἀντικ[ει-
+μέν]ου. Nam Wott. in ms. sic legit : οσα...ν παρε...
+μεν δια τινος των αντικε...ενου. Ipse igitur hiatus
+ita complet : ὅσα [οὗ]ν παρέ[6η]μεν διά τινος τῶν
+[τοῦ] ἀντικε[ἰμ]ένου. Huic autem voci postremæ
+aliam addendam censet quæ librario exciderit,
+nempe vel τεχνῶν, δόλων, ἐπιβουλῶν, πειρασμῶν,
+vel παρεμπτώσεων cum Clemente Alex. Γτρωμ.,
+lib. iv, cap. 17, pag. 614. At Dav. nihil addens,
+voces ms. δια τινος των, sic legit, διὰ πειρασμῶν
+vel τεχνημάτων. Aliter Cout. Junianam lectionem
+secutus. ID. — "Ὅσοι μὲν οὖν ad ἀντικειμένου.
+Hæc efficta sunt ex his Clementis Alex., p. 519 :
+"Ἤν δὲ καὶ περιπέσῃ, etc. ᾈξιωσώμεν, etc. Hinc
+ad ἐξομολογήσομαι τῷ Κυρίῳ, cap. 52, omnia finxit
+interpolator , et intempestive de confessione tot
+verba ingessit. BERN.
+
+# block=28
+(47) Θηκῶν. Sic Wott. ex ms. Sic et Londin.
+editio. Al. σηκῶν. GALL.
+
+# block=7
+(48) Τὰ προστάγματα. Editis, præter Londin.
+deest articulus τὰ, quem restituit Wott. ex ms. ID.
+(49) Ἁμαρτίας. Sic ms. apud Wott. absque ἡμῶν,
+quod addunt editi, præter Londin. neque illud con-
+textui esse necessarium, vox ἡμῖν præcedens satis
+evincit. ID.
+
+# block=21
+(54) Οἰκίαις. Leg. cum Jun. cæterisque, οἰκίαις,
+facili mutatione. Wott. GALL.
+(55) Καλῶς καὶ δικαίως. Ita ms. apud Wott.
+Editi, καλῆς καὶ δικαίας. ID.
+(56) Ἀναβάται. Wott. magis placet leg. [ἀνα-
+ͤ6ά]ται, quam cum editis [ἰππό]ται. Sic Exod. xiv,
+
+# block=4
+(50) Καὶ ὤν. Monet Mill. exstare ᾧ in ms. quod
+fugit Wott. Sed si res ita se habeat, vel excidit ν;
+vel ex vitio librarii, ᾧ secundi commatis in præ-
+cedens irrepsit. Constans enim est lectio, καὶ ὤν. ID.
+(51) Μακάριος ἀνήρ. Hæc usque ad Χριστοῦ τοῦ

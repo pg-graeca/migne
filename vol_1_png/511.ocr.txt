@@ -1,0 +1,96 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1086,261,1701,599
+2,158,142,1051,2175
+3,1089,624,1707,1880
+4,165,2242,1709,2615
+5,1089,1891,1706,2048
+6,1080,141,1697,244
+7,715,73,1140,116
+8,652,2649,999,2716
+9,1633,76,1695,113
+10,161,76,235,120
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=7
+EPISTOLA II AD VIRGINES
+
+# block=10
+421
+
+# block=9
+422
+
+# block=6
+bus, quæ nobis opus sunt submi-
+nistrant ³⁵.
+
+# block=1
+Nulla vero nobis ministrat mu-
+lier, sive puella, sive nupta, sive
+nubilis, sive dives, sive famula, sive
+Christiana, sive ethnica : soli nam-
+que viri tunc cum viris relationem
+habent.
+
+# block=3
+Attamen quando videmus mulie-
+ribus assistentiam nostram ministe-
+riumque necessaria esse ut sint par-
+ticipes orationis et verborum exhor-
+tationis et ædificationis quæ facturi
+sumus cum fratribus , convocantur
+a nobis omnes sanctæ mulieres quæ
+in hoc loco reperiuntur, ut gaudii
+veri consortes fiant ; sed non acce-
+dunt nisi in habitu modesto ac de-
+centi. Tunc qui inter nos donum
+habent prædicationis et ædificatio-
+nis ³⁶, verba quæ Deus suggesserit
+adstantibus proferunt. Deinde ora-
+mus, ac denique invicem salutamus,
+viri viros ³⁷. Nec tamen deest
+salutatio erga mulieres et virgines ;
+illæ enim, manibus intra vestimenta
+sua obvolutis, adveniunt , manum-
+que nostram dexteram , veste quo-
+que nostra præ modestia coopertam,
+salutant ³⁸.
+
+# block=5
+Interea nos sursum oculos habe-
+mus, hisque peractis, quo voluerit
+Dominus pergimus.
+
+# block=4
+³⁵ Patet ex Epistola sancti Pauli ad Philemonem, et ex aliis epistolis primos Christianos nihil charius habuisse
+quam exercitium charitatis, præsertim erga viros ecclesiasticos. Ea charitas ex viva fide procedebat, et eo
+usque progrediebatur, ut oculos suos eruissent, si necesse fuisset, et suis doctoribus dedissent ; quia eos ut
+Dei angelos, imo ut Jesum Christum excipiebant. Hinc clerus eo cautior erga mulieres esse debebat, quo
+earum pietas et gratitudo periculosius se manifestassent. Præterea ipsi viri in rebus domesticis natura
+imperitiores, dilectione formabantur ad hæc charitatis officia, erga sanctos et dilectos magistros exer-
+cenda. ³⁶ Unusquisque proprium donum habet ex Deo (I Cor. ᴠɪɪ, 7). Miraculorum dono præcipue frué-
+batur Moyses, eloquentia vero Aaron. ³⁷ Secundum præscriptum Apostoli, in osculo sancto (II Cor. ⲭɪɪɪ,
+12). ³⁹ Per hujusmodi salutationem designatur, ni fallor, manus tectæ deosculatio : videtur enim con-
+suetudinem hanc manus deosculationis a primævis Ecclesiæ diebus ad nos usque permeasse. Desierunt
+autem cooperiri manus quando manicarum usus introductus est in virorum vestimentis. Vix enim severior
+
+# block=8
+ܚܬܝܡܐ .Fɪɴ. (a)

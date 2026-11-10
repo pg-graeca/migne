@@ -1,0 +1,186 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,182,795,942,1914
+2,989,2469,1744,2701
+3,196,1921,948,2356
+4,982,930,1740,1709
+5,979,1714,1732,2354
+6,204,2541,954,2707
+7,179,150,947,795
+8,978,410,1734,921
+9,983,149,1737,398
+10,202,2471,942,2541
+11,816,2395,1123,2429
+12,621,91,1344,127
+15,195,91,269,125
+17,1660,94,1735,129
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=15 fontSize=15px
+# block=17 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+1323
+
+# block=12
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=17
+1324
+
+# block=9
+agendi tantum adversum nos, et nihil loquendi
+facultas eis concessa videretur. Nunc autem ubi
+aliquando vera, aliquando falsa dicuntur, debe-
+mus agnoscere, ut superius dixi, dæmonum et non
+Dei esse responsa, apud quem mendacium nun-
+quam est.
+
+# block=7
+palam est id esse illud metallum, quod artifex vo-
+luit? Quomodo ergo inesse ibi divinitas putanda
+est, quod si noluisset artifex, omnino non esset?
+aut quomodo inde futura sibi annuntiari sperent,
+ubi nec præsentium aliquis intellectus est? Quam-
+vis etiamsi aliquid divinarent, non continuo dii
+haberi possent; quia aliud est divinatio, aliud divi-
+nitas. Nam et Pythones divinare videntur, et non
+continuo dii sunt, denique a Christianis homini-
+bus effugantur (3); et quomodo Deus est, qui fu-
+gatur ab homine? Sed dicis fortasse : quid quod
+sanitates efficiunt, et quomodo quis curetur osten-
+dunt? Hac ratione colendi sunt etiam medici ut
+dii, multos enim sanant, et quanto quis peritior
+fuerit, tanto plures sanabit.
+
+# block=8
+XXIII. Quod si curiosius quis progrediens dicat :
+Quid enim opus erat hujusmodi mala a Deo fieri,
+quibus ad subvertendas mentes humanas tanta esset
+intentio? Hæc proponenti respondebimus : requi-
+rendum esse primo omnium, si est aliquid in
+substantia malum. Et quamvis sufficeret dicere ad
+eum, quia non est conveniens ut creatura judicet
+Creatorem, sed illius est judicare opus alienum qui
+aut similis artificii aut similis potentiæ est; tamen
+ne circuitionibus utamur, absolute dicimus in sub-
+stantia nihil esse mali. Quod si ita est, substan-
+tiarum conditor frustra culpatur?
+
+# block=1
+XXI. Unde constat, istos cum sint dæmonici spi-
+ritus, et multo citius scire aliqua et multo perfe-
+ctius; non enim ad discendum tractate corporis
+degravantur. Et ideo quæ medici longo tempore et
+labore plurimo assequuntur, hæc illi tanquam spi-
+ritus, absque mora ulla et absque difficultate co-
+gnoscunt. Non ergo mirum est, si plus aliquid
+quam homines sciunt; sed hoc intuendum est,
+quod ea quæ sciunt, non ad salutem sed ad de-
+ceptionem proferunt animarum, ut per hæc eas
+cultum falsæ religionis edoceant. Sed Deus, ne
+tantæ deceptionis error lateret et errantibus ipse
+causa videretur existere, qui tantum eis licere per-
+misit, ut per divinationes, per curationes et per
+somnia decipere homines possint, clementiæ suæ
+remedium providit hominibus, et distinctionem falsi
+verique scire cupientibus in propatulo posuit.
+Est ergo ista distinctio (4) : Quod a vero Deo di-
+citur sive per prophetas, sive per visiones diver-
+sas, semper verum est : quod autem a dæmonibus
+prædicitur, non semper verum est. Est ergo evi-
+dentis indicii, non a vero Deo dici ea, in quibus
+aliquando mendacium est, in veritate enim nun-
+quam mendacium est, in his autem qui mentiun-
+tur, potest aliquando et veritatis aliquid admis-
+ceri, per quod mendacia condiantur.
+
+# block=4
+XXIV. Sed occurres mihi et dices : Etiamsi ex
+arbitrii libertate in hoc ventum est, nunquid igno-
+rabat ille qui creabat eos, quod in malum declina-
+turi essent quos creabat? Oportuit ergo nec creari
+eos, quos deviaturos ab itinere justitiæ prævidebat.
+Audiant ad hæc qui ita proponunt, quod hujusce-
+modi assertionibus illud voluit ostendere, cur non
+malitia eorum qui nondum erant, bonitatem vic-
+rit Creatoris. Si enim volens implere numerum et
+mensuram creationis suæ, extimuisset eorum qui
+futuri erant malitiam, et quasi qui aliam nullam
+invenire viam remedii ac medicinæ potuisset, nisi
+hoc solum ut retraheret se a proposito creandi, ne
+sibi adscriberetur malitia eorum qui futuri erant;
+quid aliud per hæc doceretur, nisi indigna passio
+et indecora fragilitas Conditoris, qui ita perti-
+muerit eorum actus qui nondum erant, ut a pro-
+posita conditione cessaret?
+
+# block=5
+XXV. Sed his procul amotis illud animo contem-
+plemur, quia Deus universitatis conditor conditio-
+nis suæ futuras differentias prævidens, unicuique
+creaturæ secundum proprios motus, quos ex arbi-
+trii libertate propherebat, prospexit et prævidit di-
+versos ordines atque officia differentia, ut cum unius
+essent substantiæ omnes secundum creaturæ ra-
+tionem, esset tamen diversitas in ordinibus et
+officiis secundum proprios animorum motus, ex
+arbitrii libertate proferendos. Prævidebat ergo fu-
+turas in creaturis culpas, et justitiæ ejus ratio
+poscebat, ut emendationis causa culpas pœna se-
+queretur. Oportuit ergo esse et pœnarum mini-
+stros, quos tamen libertas arbitrii in hunc ordi-
+nem traheret; præter hæc autem et debuerunt
+
+# block=3
+XXII. Quod si dicat aliquis : Quid enim opus
+erat hoc ipsum, ut eis permitteretur vel aliquando
+verum dicere, et per hoc tantum errorem morta-
+libus introduci, audiat ad hæc : Si eis nunquam
+fuisset indultum veri aliquid dicere, omnino nec
+prædicerent aliquid; non prædicentes autem, nec
+quod essent dæmones cognoscerentur. Quod si
+ignorarentur esse dæmones in hoc mundo, agonis
+nostri et certaminis nos causa latuisset, et pate-
+remur palam quæ geruntur in occulto : quip)pe si
+
+# block=11
+COTELERII NOTÆ.
+
+# block=2
+quoniam diabolus interdum verum dicit, sanctus au-..
+tem Spiritus nunquam interdum mentitur. Conces-
+sum est autem diabolo et interdum veritatem dicere,
+ut mendacium suum rara veritate commendet. Si au-
+tem nunquam diceret verum, nec ad tentationem po-
+terat sufficere, vel proficere seductio ejus. Vide Hermæ
+mandatum 10.
+
+# block=10
+(3) A Christianis hominibus effugantur. Lege Ac-
+torum XVI, 16 et seq., ibique interpretes.
+
+# block=6
+(4) Est ergo ista distinctio, etc. Hinc auctor Ope-
+ris imperfecti in Matthæum, alius a Joanne Chry-
+sostomo, hom. 19, ad cap. VII, vers. 22 : Ergo
+prophetant in nomine Christi, in spiritu autem dia-
+boli. Quales sunt divinatores. Sed sic discernuntur :

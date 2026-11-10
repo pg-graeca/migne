@@ -1,0 +1,167 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,222,365,968,1306
+2,996,2265,1740,2516
+3,998,1141,1742,2263
+4,1007,139,1765,1140
+5,190,1313,972,2474
+6,218,148,980,354
+7,635,89,1346,125
+8,253,2482,938,2516
+9,218,2612,959,2682
+10,995,2614,1730,2687
+13,1685,92,1762,126
+15,819,2548,1124,2581
+16,228,94,304,127
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=222 source_y1=365 source_x2=968 source_y2=1306
+XVI. Sed et hoc ipso quod in conjunctione ele-
+mentorum, deficiente altero aut abundante, cætera
+resolvuntur et concidunt, ostenditur ex nihilo ea
+accepisse principium. Nam verbi gratia si deficiat
+in aliquo humor, nec aridum stabit; humore enim
+pascitur aridum sicut et frigus calido, in quibus,
+ut diximus, si alterum deficiat, penitus cuncta sol-
+vuntur, et in hoc originis suæ qua ex nihilo facta
+sunt, produntur indicia. Quod si materia ipsa pro-
+batur esse facta, quomodo partes ejus et species ex
+quibus mundus constat, videbuntur infectæ? Sed
+de materia et qualitatibus non est nunc dicendi locus;
+hoc solum docuisse sufficiat, Deum esse omnium
+conditorem, quia neque si solidum et connexum
+fuit corpus ex quo mundus constat, dirimi et discerni
+sine conditore, neque si ex diversis et discretis parti-
+bus in unum collectum est, congregari et misceri sine
+artifice potuit. Igitur si mundi conditor Deus esse
+tam evidenter ostenditur, qui erit Epicuro locus
+introducendi atomos, et asserendi quod ex corpu-
+sculis insensibilibus non solum sensibilia corpora,
+sed et mentes intellectuales ac rationales fiant?
+
+# block=2 source_x1=996 source_y1=2265 source_x2=1740 source_y2=2516
+XX. Sed dicet aliquis hæc a natura fieri. Jam in
+hoc de nomine controversia est. Cum enim constet
+mentis esse et rationis opus, hoc quod tu naturam
+vocas, ego Deum conditorem voco; constat nec po-
+tuisse nec posse vel corporum species tam neces-
+sariis distinctionibus institutas, vel animorum sen-
+
+# block=3 source_x1=998 source_y1=1141 source_x2=1742 source_y2=2263
+XIX. Quod si dicat aliquis, quia atomi igneæ
+qualitatis conjunctæ sibi corpus unum fecerunt, et
+quia ignis qualitas non deorsum sed sursum tendit,
+impositam mundi molem ad superiora semper nitens
+ignis natura subvectat; ad hæc respondebimus : Quo-
+modo potuerunt atomi igneæ qualitatis, quæ semper
+ad superiora contendunt, in inferiora descendere,
+et in profundo ac sub omnia demerso inveniri loco?
+Cum utique graviores quæque, id est terrenæ vel
+humidæ qualitates præveniant, ut diximus, leviores,
+unde et cœlum velut superiorum fabricam igneis
+atomis, quæ et leviores sunt et sursum semper fu-
+giunt, asserunt structam. Neque ergo fundamenta
+ignis aut alia ulla habere mundus potest, neque
+atomis gravioribus cum levioribus, id est his quæ
+deorsum semper præcipitantur et his quæ semper
+sursum fugiunt, societas aut compaginatio ulla con-
+veniat. Igitur quod impossibile sit ex atomorum
+conjunctione corpora mundi solidari, sufficienter
+dictum, et quod non potuerint insensibilia corpora,
+etiamsi ulla ratione coire et connecti potuissent,
+formas dare corporibus, et mensuras, membra fin-
+gere, vel qualitates efficere, vel exprimere quanti-
+tates; quæ utique omnia modulatione sui, manum
+testantur artificis et opus rationis ostendunt, quam
+rationem ego Verbum et Deum appello.
+
+# block=4 source_x1=1007 source_y1=139 source_x2=1765 source_y2=1140
+semper veniunt, et rebus quarum jam mensura in-
+tegra constat, adduntur, quomodo stare universitas
+potest, cum tam immensis ponderibus nova semper
+pondera cumulentur? Sed et illud requiro, si pau-
+latim coeuntibus corpusculis exstruebatur hic quem
+videmus ambitus cœli, quomodo non in eo illico
+cum consurgeret corruit? si quidem hians machinæ
+ipsius summitas, nullis suffulta repagulis stringe-
+retur. Sicut enim qui ædificiorum tholos in circu-
+lum instruunt, nisi conclusionem medii verticis
+strinxerint, universum pariter solvitur; ita et
+mundi circulus, quem tam decora specie collectum
+videmus, si non subito et sub uno divinæ virtutis
+rotatu potentia conditoris effectus est, sed paulatim
+concurrentibus atomis et instruentibus, non ut ratio
+petebat, sed ut fortuitus incidisset eventus, que-
+modo non prius quam colligi posset et concludi,
+dilapsus est et dissolutus? Ad hæc etiam illud re-
+quiro, quod sit munimen, super quod tam immensæ
+molis jacta sint fundamenta? Et rursus illud ipsum
+quod dixeris munimen, super quid jaceat? Et item
+illud aliud, super quid? et eousque interrogando pro-
+grediar, donec responsio ad nihil et inane perveniat.
+
+# block=5 source_x1=190 source_y1=1313 source_x2=972 source_y2=2474
+XVII. Sed dices, ut Epicuro visum est : Continua-
+tiones atomorum indesinenti cursu venientium, per
+immensa et sine fine tempora miscentium se atque
+in unum conglobantium, corpora solida efficiuntur.
+Non venio ad hæc, ut rem fabulosam et inepte com-
+positam dicam; videamus magis si qualecunque
+istud est, potest stare quod dicitur. Aiunt enim
+corpuscula ipsa quæ atomos mepellant (62), diversis
+esse qualitatibus, et alia quidem humida et ob hoc
+gravia ac deorsum tendentia, alia vero arida et ter-
+rena atque ob hoc nihilominus gravia, alia autem
+ignea et ob hoc sursum semper nitentia, alia vero
+frigida et ob hoc pigra et semper media. Quomodo
+ergo cum alia semper sursum tendant utpote ignea,
+et alia semper deorsum utpote humida et arida,
+alia vero media et non æquali cursu incedant, coire
+simul potuerunt et unum corpus efficere? Si quis
+enim de superioribus, verbi gratia minutissimas ]
+paleas, et ad eamdem magnitudinem minutissimi
+plumbi particulas deorsum jaciat, nunquid poterunt
+quamvis æquales sint magnitudine, leves paleæ
+partes plumbi particulas consequi? longe enim ve-
+locius ad imum graviora perveniunt. Ita ergo et
+atomi, etiamsi magnitudine æquales sint, pondere
+tamen inæquales, nunquam poterunt quæ leves sunt
+consequi graviores; quod si consequi non possunt,
+sine dubio nec misceri nec corpus efficere.
+
+# block=6 source_x1=218 source_y1=148 source_x2=980 source_y2=354
+etiam plura sint, vel innumera ex quibus mundus
+constat, omni ex parte, qui plura in unum college-
+rit et rursus collecta in diversas species duxerit,
+ostenditur Deus, et probatur per hæc non potuisse
+machinam mundi sine opifice et provisore constare.
+
+# block=7 source_x1=635 source_y1=89 source_x2=1346 source_y2=125
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA
+
+# block=8 source_x1=253 source_y1=2482 source_x2=938 source_y2=2516
+XVIII. Tum deinde si indesinenter feruntur e
+
+# block=9 source_x1=218 source_y1=2612 source_x2=959 source_y2=2682
+(62) Aiunt enim corpuscula ipsa quæ atomos ap-
+pellant, etc. Non hoc dicebat Epicurus; imo atomis
+
+# block=10 source_x1=995 source_y1=2614 source_x2=1730 source_y2=2687
+tribuebat solummodo figuram, magnitudinem et
+pondus.
+
+# block=13 source_x1=1685 source_y1=92 source_x2=1762 source_y2=126
+1380
+
+# block=15 source_x1=819 source_y1=2548 source_x2=1124 source_y2=2581
+COTELERII NOTÆ.
+
+# block=16 source_x1=228 source_y1=94 source_x2=304 source_y2=127
+1379

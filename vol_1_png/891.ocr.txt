@@ -1,0 +1,160 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,215,138,960,1290
+2,998,136,1746,1377
+3,211,1378,962,2642
+4,991,1384,1744,2642
+5,247,2663,1276,2703
+6,731,81,1237,118
+7,310,1340,855,1379
+9,221,87,296,124
+10,1653,84,1745,128
+11,439,1290,719,1332
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=215 source_y1=138 source_x2=960 source_y2=1290
+cuitus a Clemente conscripti, Περίοδοι καλούμεναι
+Πέτρου. Quo in libro, paucis veris relictis, cætera
+supposuerant; quemadmodum Clemens ipse omnibus
+illos modis redarguit iis epistolis circularibus, quæ
+ab eo scriptæ, in sacrosanctis Ecclesiis leguntur. Ex
+quibus constat longe ab iis, quæ in Circuitibus illis
+sub ejus nomine adulterina exstant, illius fidem ac
+sermonem abhorruisse. Etenim virginitatem Clemens
+docuit, isti repudiant: ille Eliam, Davidem et Sam-
+sonem, omnesque prophetas commendat, Ebionitæ
+detestantur. Quare in Circuitibus istis suum ad in-
+stitutum accommodarunt omnia, ac de Petro plurima
+mendacia confinxerunt. Cujusmodi est inter cætera
+illum castimoniæ causa lavisse, quod isti facere
+consueverunt. Tum ab animatis omnibus, et carnibus
+reliquoque omni, quod carne constet, abstinuisse;
+quoniam ab iis tam Ebion olim quam hodie Ebionitæ
+omnes abhorrent. Re autem vera, in his libris dili-
+genter observatur Petrum mane lavisse. In his
+etiam Petrus dixisse fertur ⁵⁹: Panis mihi solus cum
+olivis, et raro etiam cum oleribus in usu est. In
+his denique Christus solus ubique verus Propheta
+fuisse asseritur. Porro si Epiphanius nonnulla,
+quæ in his libris minime occurrunt, retulisse vi-
+deatur, ille profecto in diversos ab iis, quibus Ru-
+finus suam edidit versionem, codices incidisse di-
+cendus est.
+
+# block=2 source_x1=998 source_y1=136 source_x2=1746 source_y2=1377
+homines ad assertionem dogmatum suorum, sub
+virorum sanctorum nomine tanquam facilius cre-
+denda inseruerunt ea, quæ illi nec sensisse nec
+scripsisse censendi sunt. In præfatione vero suæ
+eorundem librorum interpretationis hæc habet:
+Sunt et quædam de ingenito Deo genitoque disserta,
+et de aliis nonnullis, quæ, ut nihil amplius dicam,
+excesserunt intelligentiam nostram. Hæc ergo tan-
+quam supra vires meas essent, aliis reservare malui,
+quam minus plena proferre. Quibus ille posteriori-
+bus verbis non obscure innuit, hæc omnia a se
+omissa, nec Latine reddita. Varios insuper ille
+habuit manuscriptos codices, a se invicem longe
+diversos, atque in quibusdam nonnulla, ac ea præ-
+sertim quæ de trasformatione vultus Faustiniani
+dicuntur, non occurrisse observat: Puto, inquit,
+quod te non lateat Clementis hujus in Græco ejusdem
+operis ᾿Αναγνώσεων, hoc est Recognitionum, duas
+editiones haberi, et duo corpora esse librorum, in
+aliquantis quidem diversa, in multis tamen ejusdem
+narrationis: denique pars ultima hujus operis, in
+qua de trasformatione Simonis refertur, in uno cor-
+pore habetur, in alio non habetur. Monet denique
+epistolam Clementis ad Jacobum fratrem Domini,
+quæ huic operi præfixa erat, a se fuisse præter-
+missam: Epistolam sane in qua idem Clemens, ad
+Jacobum fratrem Domini scribens.... ideo huic operi
+non præmisi.... quia et tempore posterior est, et olim
+a me interpretata atque edita.
+
+# block=3 source_x1=211 source_y1=1378 source_x2=962 source_y2=2642
+Opinio ejusdem quoque Rufini est, hos libros
+a Clemente Romano pontifice exaratos, eosque de-
+pravatos fuisse ab hæreticis; sed plura quam putat
+Epiphanius, integra, et ab ipso Clemente vere pro-
+fecta, in iis suo tempore occurrisse testatur. Ejus
+verba, licet paulo prolixiora, quia ad rem nostram
+non parum faciunt, hic transcribenda esse putavi-
+mus ⁶⁰: Clemens, inquit, apostolorum discipulus,
+qui Romanæ Ecclesiæ post apostolos et episcopus et
+martyr præfuit, libros edidit, qui Græce appellantur
+᾿Αναγνωρισμός, id est Recognitio; in quibus cum ex
+persona Petri apostoli doctrina quasi vere apostolica
+in quam plurimis exponatur, in aliquibus ita Euno-
+mii dogma scribitur, ut nihil aliud quam ipse Euno-
+mius disputare credatur, Filium Dei creaturam ex
+nullis exstantibus asseverans. Tum deinde etiam illud
+adulterii genus inseritur, ut naturam diaboli cætero-
+rumque dæmonum non propositi voluntatisque ma-
+litia, sed excepta ac separata creatura produxerit
+qualitas, qui utique in cæteris omnem rationabilem
+docuerat liberi arbitrii facultate donatam. Sunt
+etiam nonnulla libris ejus inserta, quæ ecclesiastica
+regula omnino non recipit. Quid, quæso, apostolicus
+vir, imo pene apostolus non ea scribit quæ apostoli
+dicunt; cui Paulus apostolus testimonium dedit di-
+cens: « Cum Clemente et adjutoribus meis cæteris,
+quorum nomina sunt in libro vitæ; » et scribat hoc
+quod libris vitæ contrarium est? An id potius cre-
+dendum est, quod supra diximus, quod perversi
+
+# block=4 source_x1=991 source_y1=1384 source_x2=1744 source_y2=2642
+Photius vero, qui plures etiam habuerat hujus
+operis codices manu exaratos, de eo sic definit ⁶¹:
+Epistola præfigitur tanquam ad Jacobum fratrem
+Domini, et hæc neque eadem, neque ut ab eodem pro-
+fecta, sed in libris nonnullis veluti a Petro apostolo
+ad Jacobum missa; in aliis rursus tanquam a Cle-
+mente ad Jacobum...., harum prior ostendit ipsummet
+Petrum res a se gestas conscripsisse, et Jacobo eas
+postulanti misisse: altera vero refert Clementem
+Petri jussu easdem res gestas litteris proditas,
+postquam ille jam ad immortalem commigrasset
+vitam, Jacobo transmisisse. Ex quo conjectura capi-
+tur fuisse res gestas S. Petri editas; at cum temporis
+longinquitate periisset altera, illam Clementis solam
+perdurasse. In omnibus enim libris, quos quidem
+mihi videre contigit (non paucos illos certe), post
+diversas illas epistolas, atque inscriptiones idem
+omnino sine variatione hoc operis initium reperi:
+« Ego Clemens, » et quæ ordine deinceps sequuntur.
+Refertum est autem hoc opus absurdis nugis non sine
+plurimis ex Arii opinione in Filium blasphemiis.....
+liber tamen Actorum Petri perspicuitate ac gravitate,
+adhuc puritate et vehementia aliisque orationis doti-
+bus, rerum iterum variarum doctrina tantum Consti-
+tutiones superat, nulla ut hos inter comparatio,
+ad sermonem quod attinet, fieri debeat..... Hunc
+Clementem alterum a Petro urbis Romæ episcopum
+fuisse quidam autumant, alii vero quartum; Linum
+enim et Anacletum inter utrumque pontifices exsti-
+
+# block=5 source_x1=247 source_y1=2663 source_x2=1276 source_y2=2703
+⁵⁹ Lib. VII Recog. ⁶⁰ Lib. De adult. lib. Origen. ⁶¹ Biblioth. cod. CXII.
+
+# block=6 source_x1=731 source_y1=81 source_x2=1237 source_y2=118
+RECOGNITIONES. — PROŒMIA.
+
+# block=7 source_x1=310 source_y1=1340 source_x2=855 source_y2=1379
+Sententia Rufini et Photii de his libris.
+
+# block=9 source_x1=221 source_y1=87 source_x2=296 source_y2=124
+1181
+
+# block=10 source_x1=1653 source_y1=84 source_x2=1745 source_y2=128
+1182
+
+# block=11 source_x1=439 source_y1=1290 source_x2=719 source_y2=1332
+ARTICULUS IV.

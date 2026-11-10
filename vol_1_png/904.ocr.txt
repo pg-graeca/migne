@@ -1,0 +1,155 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,214,124,1745,730
+2,998,987,1750,1976
+3,213,985,968,1849
+4,213,1854,967,2278
+5,997,2382,1762,2684
+6,217,2380,960,2684
+7,997,1984,1742,2280
+8,616,69,1341,108
+9,831,2318,1149,2351
+10,496,839,1449,897
+11,215,76,283,111
+13,1672,76,1738,114
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=16px
+# block=9 fontSize=15px
+# block=10 fontSize=28px
+# block=11 fontSize=16px
+# block=13 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=11
+1207
+
+# block=13
+1208
+
+# block=1
+non solum a sententiis, sed ne a sermonibus quidem satis elocutionibusque discedere. Quæ res quamvis
+minus ornatum, magis tamen fidele narrationis reddit eloquium. Epistolam sane, in qua idem Clemens ad
+Jacobum fratrem Domini scribens de obitu nuntiat Petri (4), et quod se reliquerit successorem cathedræ
+et doctrinæ suæ, in qua etiam de omni ordine ecclesiastico continetur, ideo nunc huic operi non præmisi,
+quia et tempore posterior est, et olim a me interpretata et edita. Sed quod in ea nonnullis fortasse vide-
+bitur inconsequens, si hic explanetur, non puto absurdum videri. Quidam enim requirunt, quomodo cum
+Linus et Cletus (5) in urbe Roma ante Clementem hunc fuerint episcopi, ipse Clemens ad Jacobum scri-
+bens, sibi dicat a Petro docendi cathedram traditam, Cujus rei hanc accepimus esse rationem, quod Linus
+et Cletus fuerunt quidem ante Clementem episcopi in urbe Roma, sed superstite Petro, videlicet ut illi
+episcopatus curam gererent, ipse vero apostolatus impleret officium, sicut invenitur etiam apud Cæsaream
+fecisse, ubi cum ipse esset præsens, Zacchæum tamen a se ordinatum habebat episcopum. Et hoc modo
+utrumque verum videbitur, ut et illi ante Clementem numerentur episcopi, et Clemens tamen post obitum
+Petri docendi susceperit sedem. Sed jam videamus, scribens Jacobo fratri Domini, operis sui Clemens
+ipse quod sumat narrationis initium.
+
+# block=10
+RECOGNITIONUM LIBER PRIMUS.
+
+# block=3
+I. Ego Clemens in urbe Roma natus, ex prima
+ætate pudicitiæ studium gessi (6), dum me animi
+intentio velut vinculis quibusdam sollicitudinis et
+mœroris a puero innexum teneret. Inerat enim mihi
+cogitatio (incertum sane unde initium sumpserit),
+crebro ad memoriam meam conditionem mortalita-
+tis adducens, simulque discutiens : utrumne sit
+mihi aliqua vita post mortem, an nihil omnino
+postea sim futurus, si non fuerim antequam nasce-
+rer, vel si nulla prorsus vitæ hujus erit post obitum
+recordatio, et ita immensitas temporis cuncta obli-
+vioni ac silentio dabit, ut non solum non simus,
+sed neque quod fuerimus, habeatur in memoria.
+Sed et illud versabatur in pectore, quando factus
+sit mundus, vel antequam fieret, quid erat, aut ve-
+ro semper fuerit. Nam certum videbatur, quod si
+esset factus, esset et profecto solvendus, et si sol-
+vatur, quid iterum erit ? Nisi forte oblivio cuncta et
+silentium teget, aut forte aliquid erit, quod nunc
+sentire mortalium non potest mens.
+
+# block=2
+Ex quo factum est, ut lugerem postmodum eos,
+quos prius ignorans beatos credebam.
+III. Igitur cum a prima ætate in hujuscemodi
+animorum intentione versarer, cupiens aliquid di-
+scere, philosophorum frequentabam scholas, ubi
+nihil aliud, quam dogmatum assertiones et impu-
+gnationes videbam agi sine fine, certamina, artes
+syllogismorum conclusionumque agitari versutias.
+Et si quando quidem obtinebat hic sermo, quod
+immortalis esset anima, gratulabar; si quando vero
+arguebatur quasi mortalis, cum tristitia discede-
+bam. Neutrum tamen in corde meo firmitudinem
+veritatis tenebat, sed hoc tantum intelligebam, quod
+sententiæ ac definitiones rerum, non pro natura sui
+ac veritate causarum, sed pro ingeniis defenden-
+tium, falsæ imaginarentur, aut veræ, eoque magis
+in profundo pectoris cruciabar, quod neque aliquid
+ex his, quæ dicebantur, tanquam firmum tenere po-
+teram, neque abjicere desiderium requirendi ; sed
+quanto magis negligere conabar ac spernere, tanto
+ardentius, ut supra dixi, velut cum quadam volu-
+ptate latenter irrepens hujuscemodi cogitatio, men-
+tem atque animum possidebat.
+
+# block=4
+II. Hæc et his similia, nescio unde, indesinenter
+animo revolvens, nimietate mœroris incredibiliter
+tabescebam, et quod est gravius, si quando respue-
+re a me hujuscemodi curas velut minus utiles cogi-
+tabam, validiores in me fluctus sollicitudinum con-
+surgebant. Inerat enim mihi comes optima, quæ me
+quiescere non sineret, immortalitatis cupido. Ut
+enim post rerum exitus docuit, et gratia Dei omni-
+potentis ostendit, hæc me animi intentio ad inquisi-
+tionem veritatis, et agnitionem veræ lucis adduxit.
+
+# block=7
+. IV. Coangustatus igitur inventione rerum, aie-
+bam apud memetipsum : Quid inaniter laboramus,
+cum manifestus sit terminus rerum? Si enim post
+mortem non ero, nunc superfluo crucior; si vero
+erit mihi vita post obitum, servemus illi vitæ sui
+temporis motus, ne forte his, quæ nunc patior, ali-
+qua me ibi tristiora excipiant, nisi pie ac sobrie
+
+# block=9
+COTELERII NOTÆ.
+
+# block=6
+(4) De obitu nuntiat Petri. Ita omnes codices.
+Epistolam Clementis ad Jacobum præponi solitam
+libris; Recognitionum, aperte dicit Photius. Atque
+eadem in codice Carmeliticæ Bibliothecæ inseritur,
+inter Rufini Præfationem ac ipsas Recognitiones.
+(5) Linus et Cletus, seu potius Anacletus, ut ha-
+bent quoque Cand., Carm. et Pet. Fuisse hos duos,
+urbis Romæ episcopos, sub Petro apostolo, existi-
+mant cum Rufino Beda, Rabanus, Haymo, qui de
+
+# block=5
+vitis Romanorum pontificum scripserunt, auctor
+Chronici episcoporum Metensium, aliique. Lege
+Epiphanium hæresi 27, 6, et quæ notavimus ad
+caput 46 libri VII Constit. apost., item Marianum
+Scotum, ac epistolam Joannii III tributam.
+(6) Pudicitiæ studium gessi. Et Ignatii interpolator
+Epist. ad Philadelphinos, n° 4, Clementem cum vir- .
+ginibus collocat. Quod tum prosa, tum carmine
+Aldhelmus celebravit.

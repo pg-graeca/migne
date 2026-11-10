@@ -1,0 +1,179 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1037,1816,1790,2297
+2,1028,2307,1788,2696
+3,1048,299,1802,686
+4,252,299,1020,686
+5,248,887,1004,1011
+6,246,1686,1003,2694
+7,1043,1599,1790,1809
+8,291,1330,1758,1406
+9,412,1443,1630,1480
+10,258,87,331,119
+11,522,224,1507,263
+12,989,741,1057,772
+13,528,812,1509,871
+14,779,1225,1233,1293
+15,642,86,1353,120
+16,994,172,1052,208
+18,454,1600,805,1634
+19,1713,80,1805,132
+20,1041,884,1801,968
+21,271,1040,615,1096
+22,429,1632,825,1680
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=18px centerRows=true
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=33px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=16px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=19
+1172
+
+# block=15
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10
+1171
+
+# block=16
+XX.
+
+# block=11
+Gᴇᴏʀɢɪᴜs Cᴇᴅʀᴇɴᴜs, in Compendio Historiarum, edit. Basil., p. 170.
+
+# block=4
+Alia quoque miracula (Petrus et Simon Magus)
+ediderunt: neque id Romæ modo, sed ante etiam
+in Syria; quæ Clemens Romanus, sapientissimus
+Petri discipulus atque comes, recitavit: ex quibus
+pauca hic ponemus. Quibus prolatis addit: Hæc
+igitur et alia similia Clemens, quemadmodum dixi,
+scripsit dicta atque facta fuisse in Syria, Lege Re-
+cognit. lib. II, cap. 37, etc.; lib. III, cap. 47; lib. X,
+cap. 55; Clement., hom. 3, n. 38, etc.
+
+# block=3
+Καὶ μέν τοι καὶ ἄλλα σημεῖα ἐποίησαν πολλὰ οὐ
+μόνον ἐν Ῥώμῃ, ἀλλὰ καὶ ἐν Συρίᾳ πρότερον· ἅ τινα
+Κλήμης ὁ Ῥωμαῖος καὶ πάνσοφος μαθητὴς Πέτρου
+καὶ συνέκδημος διηγήσατο· ἀφ' ὧν ὀλίγα συντάξομεν
+ἐνταῦθα. Quibus interpositis, subjungit, pag. 175:
+Ταῦτα μέντοι καὶ ἕτερα τοιαῦτα γεγράφηκεν, ὡς (17)
+ἔφη, Κλήμης λεχθῆναι καὶ πραχθῆναι ἐν Συρίᾳ.
+Lege ANASTASIUM, quæst. 20, NICEPHORUM, Histor.
+eccl., lib. II, cap. 27; PSEUDO-ABDIAM, lib. I.
+
+# block=12
+XXI.
+
+# block=13
+Hᴏɴᴏʀɪᴜs Aᴜɢᴜsᴛᴏᴅᴜɴᴇɴsɪs, lib. De luminaribus Ecclesiæ, cap. 15.
+
+# block=20
+inter apocrypha numerantur. Adi Vitam Clementis,
+in Pontificali libro.
+
+# block=5
+Clemens scripsit epistolam ad Corinthiorum Ec-
+clesiam, valde utilem; et Itinerarium Petri, et Dis-
+putationem Petri et Apionis; et multa alia, quæ
+
+# block=21
+(17) Ἔφη. Leg. ἔφην.
+
+# block=14
+DISSERTATIO
+
+# block=8
+De decem libris Recognitionum S. Clementis, ad Jacobum fratrem Domini, a Rufino
+presbytero Aquileiensi in Latinum versis.
+
+# block=9
+(Dom. Lᴇ Nᴏᴜʀʀʏ, Apparatus ad Bibliothecam max. Vet. Patr., p. 211; Paris., 1703, in-fol.)
+
+# block=7
+trus tam dilucide probavit, ac insuper tanta clari-
+tate quis esset verus Propheta, ostendit; ut Clemens,
+Christianam fidem amplexatus, librum De vero
+Propheta, quem Hierosolymam misit ad Jacobum,
+statim composuerit.
+
+# block=18
+ARTICULUS PRIMUS.
+
+# block=22
+Analysis horum librorum.
+
+# block=6
+Auctor hujus operis ab ipso libri primi exordio
+sibi nomen Clementi, Romam vero patriam fuisse
+dicit : narratque quo ipse modo, et a quibus in
+Christi cognitionem sit adductus. Ait autem se cum
+frustra philosophorum scholas, ut de immortalitate
+animæ, mundique creatione et duratione doceretur,
+frequentasset, ad Barnabam Christi discipulum, qui
+tunc Romam advenerat, sese contulisse. Hunc porro
+ut ipse fatur, publicos ad populum sermones ha-
+bentem offendit, eumque adversus philosophos, ru-
+dem et impolitum illius dicendi morem irridentes,
+tuitus est, ac in domum suam postea deduxit. Inde
+illum in Judæam, magni Judæorum festi celebrandi
+causa, revertentem undecim post diebus secutus,
+Cæsareæ Stratonis consecutus est. Barnabas vero
+eum confestim ducit ad Petrum, a quo benignis-
+sime excipitur, jubeturque sermones et disputa-
+tiones omnes, quas deinceps, donec Romam perve-
+nerint, habiturus erat, attente audiat. Spondet
+Clemens, rogatque Petrum, ut animæ nostræ in
+Christi judicium post mortem adducendæ immor-
+talitatem, ac mundum finem aliquando accepturum
+esse sibi demonstret. Quæ quidem derepente Pe-
+
+# block=1
+Die sequenti, nuntiis acceptis Simonem Magum
+indictam a se cum Petro disputationem post se-
+ptem dies distulisse, Clemens, rogante Petro, quid-
+quid hesterna die ab eo audierat, memoriter red-
+didit. Tum Petrus, laudata ejus memoriæ tenaci-
+tate, ipsi quæcunque notatu digniora a creatione
+mundi ad extrema usque veri Prophetæ tempora
+evenerant, narravit, planumque fecit qua ratione
+primus et secundus Christi adventus prænuntiatus
+fuerit, et quem in locum animæ hominum post eo-
+rum mortem sint congregandæ.
+
+# block=2
+Longam post hæc disputationem, quam omnes
+et singuli quique apostoli in Hierosolymitano tem-
+plo per octo dies cum Judæis inierant, integram
+totamque exponit, declaratque quomodo in fine
+illius, seditione orta, ipsi Hiericho secesserint.
+Inde autem Jacobus Petrum, ut Simonem, qui se
+Christum et summam excelsi Dei virtutem esse
+jactabat, confutaret, Cæsaream direxit. Ad extre-
+mum Clemens de his omnibus quæ a Petro ac-

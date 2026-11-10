@@ -1,0 +1,181 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,223,132,977,909
+2,1026,2372,1779,2678
+3,242,2478,985,2681
+4,226,907,980,2128
+5,1017,776,1772,2239
+6,241,2368,983,2471
+7,1007,131,1772,770
+8,229,2128,980,2206
+9,791,70,1286,106
+10,287,2239,654,2272
+12,224,84,302,118
+13,1689,69,1762,104
+15,838,2302,1150,2337
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+1398
+
+# block=9
+RECOGNITIONUM. — LIB. VIII.
+
+# block=12
+1397
+
+# block=7
+sint, non possunt tamen flectere me ut credam fieri
+aliquid posse extra genesim. Scio enim omnia mihi
+necessitate genesis accidisse, et ideo suaderi mihi
+non potest, quia vel bene vel male agere in nostra
+potestate sit; et si actus nostros in potestate non
+habemus, non potest credi futurum esse judicium,
+per quod vel malis pœnæ vel bonis præmia tribuan-
+tur. Denique quoniam te imbutum video in hujusce-
+modi disciplinis, pauca tibi ex ipsa arte proferam.
+Si, inquit Aquila, ex ipsa disciplina astruere ali-
+quid cupis, frater meus Clemens tibi diligentius re-
+spondebit, qui plenius scientiam mathesis attigit;
+ego enim aliis viis asserere possum, quod actus no-
+stri in nostra sint positi potestate, ista autem quæ
+non didici, præsumere non debeo.
+
+# block=1
+factus est aut non est factus? Aquila ait : Alterius
+temporis est iste tractatus ; verum ne expers abeas
+etiam hujus responsionis, pauca tibi de hoc quoque
+insinuaho. Præscius omnium Deus ante constitu-
+tionem mundi, sciens quia futuri homines, alii qui-
+dem ad bona, alii vero ad contraria declinabunt,
+eos qui bona elegerint, suo principatui et suæ curæ
+sociavit atque hæreditatem sibi eos propriam no-
+minavit ⁶⁰ ; eos vero qui ad mala declinarint, angelis
+regendos permisit his qui non per substantiam ,
+sed per oppositum cum Deo permanere noluerunt
+invidiæ et superbiæ vitio corrupti; dignos ergo
+dignorum principes fecit. Ita tamen eos tradidit, ut
+non habeant potestatem in eos faciendi quod volunt,
+nisi statutum sibi ab initio terminum transeant.
+Hic est autem statutus terminus, ut nisi quis prius
+fecerit dæmonum voluntatem, dæmones in eo non
+habeant potestatem.
+
+# block=5
+LVIII. Cum hæc Aquila dixisset, ego Clemens :
+Crastino, inquam, dices, Pater, ut voles, et audie-
+mus libenter, nam et te puto grate habiturum, quod
+cum his tibi erit sermo, qui expertes non sunt ejus
+quam protuleris disciplinæ. Cum ergo placuisset in-
+ter me et senem, ut sequenti die disputatio nobis
+de ratione genesis haberetur, utrum omnia ex ea
+fierent, an esset aliquid in nobis, quod non genesis
+sed animi judicium gereret, Petrus surrexit et ser-
+monem facere hoc modo cœpit : Mirum mihi ad-
+modum est, quod res quæ facile inveniri possunt,
+homines exquisitis cogitationibus ac verbis diffici-
+les faciunt, et hi maxime qui videntur sibi ⁱ sapien-
+tes, quique volentes Dei voluntatem comprehendere,
+quasi homine utuntur Deo, imo et si quid minus ;
+nam hominis consilium vel sensum scire nemo po-
+test, nisi ipse prodat qui cogitaverit, sed neque ar-
+tem quis discere potest, nisi multo tempore a ma-
+gistro fuerit imbutus; quanto magis invisibilis et
+incomprehensibilis Dei neque sensum neque opus
+scire quis potest, nisi ipse mittat prophetam, qui
+enarret consilium suum et viam conditionis expo-
+nat, in quantum discere hominibus fas est. Unde
+ridiculum puto, cum naturalibus viis de virtute Dei
+homines judicant, et putant hoc quidem ei esse
+possibile, illud vero impossibile, aut hoc majus, il-
+lud minus, ignari omnium, qui cum sint homines
+injusti, judicant Deum justum, artificem imperi-
+ti (79), incorruptibilem corrupti, factura factorem.
+LIX. Et nolo putetis, quia hæc dicens judicandi
+de rebus perimo facultatem, sed consilium do ne
+per devia quis incedens, sine fine incurrat errores.
+Et ideo non solum sapientibus, sed et omnibus ho-
+
+# block=4
+LVI. Et senex ait : Magnifice prosecutus es, fili ;
+superest nunc ut dicas unde est substantia mali;
+si enim a Deo facta est, fructus malus radicem
+culpabilem docet, videtur enim et ipsa malæ natu-
+ræ : si vero coæterna fuit hæc substantia Deo, quo-
+modo potest quod æqualiter ingenitum et coæter-
+num est, alteri esse subjectum? Non semper fuit,
+inquit Aquila; sed neque si ex Deo facta est, con-
+tinuo necesse est etiam conditorem ejus talem vi-
+deri, quale est illud quod ab eo factum est. Nam
+substantias quidem Deus fecit omnium, sed si ra-
+tionabilis mens quæ a Deo facta est, nequaquam
+conditoris sui legibus acquiescit, et modum statutæ
+sibi temperantiæ excedit, quid hoc ad conditorem
+spectat? Vel si aliqua est ratio.hæc superior (78),
+ignoramus; neque enim de singulis ad perfectum
+scire possumus, et de his præcipue pro quibus non
+sumus judicandi, cur ignoremus. Ea vero pro qui-
+bus judicandi sumus, facillima sunt ad intelligen-
+dum, et pene uno sermone absolvuntur. Omnis
+enim propemodum actuum nostrorum in eo colligi-
+tur observantia, ut quod ipsi pati nolumus, ne hoc
+aliis inferamus ; sicut enim ipse occidi non vis, ca-
+veas oportet ne alium occidas; et sicut tuum non
+vis violari matrimonium, nec tu alterius macules
+torum; furtum pati non vis, nec ipse facias ; et in-
+tra hanc regulam numanorum gestorum singula
+quæque concurrunt.
+
+# block=8
+LVII. Tum senex : Ne ægre, inquit, accipias, fi-
+li, quod dicturus sum ; sermones tui quamvis validi
+
+# block=10
+⁶⁰ Deut. xxxii, 8 in LXX.
+
+# block=15
+COTELERII NOTÆ.
+
+# block=6
+(78) Vel si aliqua est ratio hac superior.Vide Co-
+teler. notas ad Clementinorum hom. xix, num. 12,
+Patr. Gr. t. II. EDIT.
+
+# block=2
+χνῖται, κρίνουσι δὲ οἱ μὴ τεχνῖται. Et apud Plutar-
+chum in Solone : Ἔφη .κἀκεῖνο θαυμάζειν ὁ Ἀνά-
+χαρσις, ἐκκλησίᾳ παραγενόμενος, ὅτι λέγουσι μὲν οἱ
+σοφοὶ παρ’ Ἕλλησι, κρίνουσι δὲ οἱ ἀμαθεῖς. Recte
+Julius Firmicus lib. 1, c. 2 : Injusti sunt enim sem-
+per ( sicut novimus ) judices, qui de incognitis sibi
+pronuntiant rebus. Non habent etiam judicandi au-
+ctoritatem, qui ad statuendum aliquid imperitia licen-
+tia temeritatis adducuntur.
+
+# block=3
+(79) Qui cum sint homines injusti, etc. Huc perti-
+net illud Tertullianeum : Quanto magis hos Ana-
+charsis denotasset, imprudentes de prudentibus judi-
+cantes, quam immusicos de musicis. Apologetici c. 1,
+ex dicto ejus Scythæ apud Laertium : θαυμάζειν δὲ
+ἔφη πῶς παρὰ τοῖς Ἕλλησιν ἀγωνίζονται μὲν οἱ τε-

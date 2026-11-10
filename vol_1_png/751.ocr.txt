@@ -1,0 +1,275 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,960,137,1707,604
+2,182,140,932,605
+3,959,797,1328,2082
+4,967,2395,1711,2666
+5,965,2172,1716,2398
+6,604,84,1278,125
+7,216,642,1395,687
+8,792,716,1081,750
+10,182,84,233,125
+11,177,784,937,1824
+12,1631,84,1735,132
+13,179,1836,551,2708
+14,557,1830,923,2714
+15,947,2080,1715,2152
+16,1337,792,1717,2090
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=16px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+901
+
+# block=6
+CONSTITUTIONES APOSTOLICÆ.—LIB. V.
+
+# block=12
+902
+
+# block=1
+hebdomadem unam; et post illam jejunate eam quæ
+sequitur : æquum enim est, ut et de divino munere
+lætemini et post intermissionem jejunetis. Etenim
+Moses ac Elias per quadraginta dies jejuni manse-
+runt ² : et Daniel tribus hebdomadis dierum, pa-
+nem desideriorum non comedit ³; et caro ac vinum
+non introierunt in os ejus : nec non beata Anna,
+cum proobtinendo Samuele precaretur : « Vinum, »
+inquit, « et temetum non bibi ; et effundo animam
+meam coram Domino ⁴ : » et Ninivitæ cum tribus
+diebus ac tribus noctibus jejunassent, iræ immi-
+
+# block=2
+ἐκείνην, νηστεύσατε μίαν (60)· δίκαιον γὰρ καὶ εὐ-
+φρανθῆναι ἐπὶ τῇ ἐκ Θεοῦ δωρεᾷ, ⁵καὶ νηστεῦσαι μετὰ
+τὴν ἄνεσιν. Καὶ γὰρ καὶ Μωσῆς καὶ Ἠλίας ἐνήστευσαν
+τεσσαράκοντα ἡμέρας· καὶ Δανιὴλ τρεῖς ἑβδομάδας
+ἡμερῶν, ἄρτον ἐπιθυμιῶν οὐκ ἔφαγε, καὶ κρέας καὶ
+οἶνος οὐκ εἰσῆλθεν εἰς τὸ στόμα αὐτοῦ· καὶ ἡ μακα-
+ρία Ἄννα αἰτουμένη τὸν Σαμουὴλ, λέγει· « Οἶνον
+καὶ μέθυσμα οὐ πέπωκα, καὶ ἐκχέω τὴν ψυχὴν ἐνώ-
+πιον Κυρίου· » καὶ Νινευῖται νηστεύσαντες τρεῖς
+ἡμέρας καὶ τρεῖς νύκτας (61), τῆς ὀργῆς τὴν πεῖραν
+ἀπέφυγον· καὶ Ἐσθὴρ, καὶ Μαρδοχαῖος, καὶ Ἰουδὴθ,
+
+# block=7
+¹ Deest in Anast. ² Exod. xxxiv, 28; III Reg. xix, 8. ³ Dan. x, 2. ⁴ I Reg. i, 15.
+
+# block=8
+VARIORUM NOTÆ
+
+# block=11
+26, et Honorium lib. III, cap. 149. Postea Paschate
+servante hebdomadem suam, Pentecostæ tres tan-
+tum dies attributi sunt, per sextum canonem con-
+cilii Engilenheimensis. Videnda Constantiensis sy-
+nodus ann. 1094. Cот.
+(60) Καὶ μετ’ ἐκείνην, νηστεύσατε μίαν. Abest
+μίαν ab Anastasio, et a tractatu acephalo De jeju-
+niis cod. Reg. 2454; ubi iste locus citatur. Equidem
+cernimus in S. Athanasio, Apologia de fuga sua,
+paulo post initium, Alexandriæ jejunatum fuisse in
+hebdomade quæ subsequitur Pentecosten. Quemad-
+modum Patres concilii Turonensis II, can. 17, ex
+antiquis institutis præcipiunt monachis, ut post
+Quinquagesimam tota hebdomade ex asse jejunent.
+At nunc Græci jejunium inchoant post octavam
+Pentecostes, et perducunt ad festum apostolorum
+Petri et Pauli. Videturque hoc jejunium successisse
+illi constitutionis pseudoapostolicæ : conjunctis
+forsan in unum duobus jejuniis, Pentecostes et
+apostolorum ; siquidem νηστείαν τῶν ἁγίων ἀπο-
+στόλων fuisse ἐπταήμερον testis est locuples Balsa-
+mon, in responsis ad Marci interrogationes, resp.
+53; Juris Græco-Romani, pag. 388 (quo in responso
+me suasore lacunam complebis, e mss. ac ex ejus-
+dem Balsamonis canonum collectione, p. 227 et
+228, repones, κυρίου Νικόλαου) nec non in inter-
+pretatione responsionis synodi Constantinopolitanæ
+sub Nicolao patriarcha ad Quæstionem 3 monacho-
+rum quorumdam. Cujus loci Latinam versionem ab
+Herveto habemus; Græca autem in lucem profero,
+accepta ab iisdem libris :
+
+# block=16
+τούτων ἑορτῶν, πάντες οἱ
+πιστοὶ, λαϊκοὶ δηλονότι
+καὶ μοναχοὶ, ἀναγκάζον-
+ται νηστεύειν κατὰ τὸ
+ἀπαραίτητον, καὶ οἱ μὴ
+οὕτω ποιοῦντες, ἐκ τῆς
+κοινωνίας τῶν ὀρθοδόξων
+Χριστιανῶν ἀλλοτριωθή-
+σονται· οἱ ἀπὸ κτητορι-
+κῶν τυπικῶν συνωθούμε-
+νοι μοναχοὶ νηστεύειν ἐπι-
+πλέον, ἤγουν ἀπὸ τῆς
+ἑορτῆς τῶν ἁγίων πάν-
+των, καὶ ἀπὸ τῆς ιδ’ τοῦ
+Νοεμβρίου μηνὸς, καὶ
+ἄκοντες ἀναγκασθήσονται
+τοῖς κτητορικοῖς αὐτῶν
+τυπικοῖς ἀκολουθεῖν, ὅτι
+τοῦτο κανονικὸν καὶ σω-
+τηριῶδές ἐστιν, ὥσπερ
+καὶ οἱ λαϊκοὶ οὕτως ἔχοντι
+νηστεύοντες, εὐχαριστίας
+ἀξιωθήσονται. Ἐπὶ δὲ τὰς
+αἰτίας τούτων πάντων
+γραφικοῖς θείοις δόγμασι
+καὶ διδάγμασιν εὐδοκοῦν-
+τος τοῦ Θεοῦ κατησφα-
+λισάμεθα, καὶ δι’ ἐπιστο-
+λῆς παρεστησάμεθα γρα-
+φείσης πρὸς τὸν ἐν τῷ
+βουνῷ τοῦ ἁγίου Αὐξεν-
+τίου ἐγκλειόμενον, τὸν
+τιμιώτατον μοναχὸν κύ-
+ριον Θεοδόσιον τὸν Σαρ-
+πειώτην, ἀνάγνωθι καὶ
+ταύτην. Ἐνταῦθα γὰρ ὡς
+πολύστιχος οὐ κατεστρώ-
+θη. Ἡ αὐτὴ δὲ ἐπιστολὴ
+ἐγράφοι ἀπαραλλάκτως
+
+# block=3
+scilicet et monachi, co-
+guntur jejunare inexcu-
+sabiliter, quique non ita
+faciunt, ab orthodoxorum
+Christianorum commu-
+nione alienabuntur. Mo-
+nachi autem, qui a typicis
+per loca receptis compel-
+luntur amplius jejunare,
+videlicet, a festo Omnium
+Sanctorum, et a 14 mensis
+Novembris, vel inviti co-
+gentur suos illos formu-
+larum libros sequi : quo-
+niam hoc est canonicum
+et salutare; quemadmo-
+dum et laici qui sua sponte
+ita jejunant, laude et gra-
+tiarum actione digni ha-
+bebuntur. Quia vero horum
+omnium causas divinis
+sententiis ac doctrinis
+scripto mandatis, Deo
+favente, confirmavimus,
+et in epistola exhibuimus,
+quam ad in primis vene-
+rabilem monachum do-
+minum Theodosium Sar-
+peiotem, qui in valle san-
+cti Auxentii inclusus de-
+git, scripsimus, eam quo-
+que lege. Hic enim non
+est posita, ut qua prolixa
+sit. Eadem autem epi-
+stola, nullo penitus mu-
+tato, scripta est etiam ad
+clericos et reliquos, qui
+sunt in sede magna An-
+tiochiæ.
+
+# block=14
+Et hæc quidem tunc dicta
+sunt. Ego autem cum
+postea considerassem, un-
+denam et quo modo hæc
+duo jejunia tradita sunt,
+scilicet, dormitionis san-
+ctæ Deiparæ, et Nativi-
+tatis Jesu Christi ac Dei
+nostri; atque etiam jeju-
+nium quod peragitur ante
+festum Sanctorum Aposto-
+lorum, necnon jejunium
+ante Transfigurationem ;
+et an necessario debemus
+hæc jejunare, et quot
+diebus; dico, jejunium
+quidem horum quatuor
+festorum esse inexcusa-
+bile; ejus autem dierum
+quantitatem non esse nu-
+mero apud omnes æqua-
+lem; quod in magna Qua-
+dragesima est: sed ante
+septem quidem dies unius-
+cujusque horum festo-
+rum, omnes fideles, laici
+
+# block=13
+Καὶ τότε μὲν ἐλαλήθησαν
+ταῦτα. Ἐγὼ δὲ μετὰ τοῦτο
+σκοπήσας, ὅθεν καὶ ὅπως
+παρεδόθησαν αἱ δύο αὗται
+νηστεῖαι, ἤγουν τῆς κοι-
+μήσεως τῆς ἁγίας Θεοτό-
+κου, καὶ τῆς Γεννήσεως
+τοῦ Χριστοῦ καὶ Θεοῦ
+ἡμῶν, ᾽ ἀλλὰ μὴν καὶ ἡ
+πράτη; ἑορτῆς τῶν Ἁγίων
+Ἀποστόλων λεγουμένη νη-
+στεία, καὶ ἡ πρὸ τῆς με-
+ταμορφώσεως νηστεία,
+καὶ εἰ ἐξ ἀνάγκης ὀφεί-
+λομεν κατὰ ταύτας νη-
+στεύειν, καὶ ἐπὶ πόσαις
+ἡμέραις, λέγω, τὴν μὲν
+νηστείαν τῶν τοιούτων
+τεσσάρων ἑορτῶν, ἀπαρ-
+αίτητον εἶναι· τὴν δὲ πο-
+σότητα τῶν ἡμερῶν ταύ-
+της μὴ εἶναι εἰς πάντας
+ἰσάριθμον· ὅπερ εἰς τὴν
+μεγάλην ἐστὶ Τεσσαρακο-
+στήν· ἀλλὰ πρὸ μὲν ἑπτὰ
+ἡμερῶν ἑκάστης τῶν τοι-
+
+# block=15
+¹ καὶ πρὸς τοὺς ἐν τῷ θρόνῳ τῆς μεγάλης Ἀν-
+τιοχείας, κληρικοὺς καὶ λοιπούς.
+
+# block=5
+Ecclesias Latinas mitto : quia quantoper e a se in-
+vicem dissenserint, nemo nescit. Cot.
+(61) Τρεῖς ἡμέρας καὶ τρεῖς νύκτας. Triduum,
+quo transacto perituri fuerant, nisi pœnitentiam
+egissent, juxta Græcos codices, quodque suffe-
+cisse ad placandum Deum observat sæpe B. Chry-
+sostomus.
+
+# block=4
+Sic Ninive monitis Jonæ sub tempore cladis
+Credidit, et tribus in luctu jejuna diebus,
+Promeruit murum excidio, consistere regno.
+Sunt versus Carminis De divina providentia, in
+Operibus S. Prosperi, eo etiam notabiles, quod poeta
+ille cum Josepho Ἀρχαιολογίας IX, 11, subversio-
+nem Ninives a Jona prædicatam, intellexit de amis-
+sione imperii. IB.

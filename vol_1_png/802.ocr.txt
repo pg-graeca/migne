@@ -1,0 +1,193 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1025,957,1791,1737
+2,1024,143,1779,825
+3,229,1983,1777,2151
+4,234,955,989,1773
+5,233,1857,987,1939
+6,230,1782,965,1849
+7,238,141,987,871
+8,1011,2251,1764,2668
+9,1025,1863,1773,1943
+10,830,2196,1147,2234
+11,222,2358,978,2458
+12,647,85,1357,125
+13,239,86,307,125
+14,1271,1746,1517,1778
+16,223,2454,982,2692
+17,1276,877,1532,909
+18,354,915,852,951
+19,1029,1778,1771,1857
+20,221,2255,972,2361
+21,1687,82,1785,132
+22,511,872,707,918
+23,1111,902,1755,966
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1025 source_y1=957 source_x2=1791 source_y2=1737
+Μὴ γίνου οἰωνοσκόπος· ὅτι ὁδηγεῖ πρὸς εἰδωλολα-
+τρείαν· « Οἰώνισμα δὲ, φησὶν ὁ Σαμουὴλ, ἁμαρτία
+ἐστί. » Καί · « Οὐκ ἔσται οἰωνισμὸς ἐν Ἰακὼβ, οὐδὲ
+μαντεία ἐν Ἰσραήλ. » Οὐκ ἔσῃ ἐπᾴδων, ἢ περικα-
+θαίρων τὸν υἱὸν σου. Οὐ κληδονιεῖς· οὐδὲ οἰωνισθήσῃ·
+οὐδὲ θρησκευσοκτήσεις · οὐδὲ μαθήσῃ μαθήματα πο-
+νηρά (29) · ταῦτα γὰρ ἅπαντα καὶ ὁ νόμος· ἀπεῖπε.
+Μὴ γίνου ἐπιθυμητὴς κακῶν, ὁδηγηθήσῃ γὰρ εἰς
+ἀμετρίαν ἁμαρτημάτων. Οὐκ ἔσῃ αἰσχρολόγος · οὐδὲ
+ῥιψόφθαλμος · οὐδὲ μέθυσος · ἐκ γὰρ τούτων πορνεῖαι
+καὶ μοιχεῖαι γίνονται. Μὴ γίνου φιλάργυρος · ἵνα μὴ
+ἀντὶ θεοῦ δουλεύσῃς τῷ μαμωνᾶ. Μὴ γίνου κενόδοξος,
+μηδὲ μετέωρος, μηδὲ ὑψηλόφρων· ἐκ γὰρ τούτων
+ἁπάντων ἀλαζονεῖαι γίνονται· μνήσθητι τοῦ εἰπόντος ·
+« Κύριε, οὐχ ὑψώθη ἡ καρδία μου· οὐδὲ ἐμετεωρίσθη-
+σαν οἱ ὀφθαλμοί μου · οὐδὲ ἐπορεύθην ἐν μεγάλοις,
+οὐδὲ ἐν θαυμασίοις ὑπὲρ ἐμέ. Εἰ μὴ ἐταπεινοφρό-
+νουν (30).... »
+
+# block=2 source_x1=1024 source_y1=143 source_x2=1779 source_y2=825
+ἐν κρίσει, ὅτι τοῦ Κυρίου ἡ κρίσις. Οὐ μισήσεις
+πάντα ἄνθρωπον ⁶⁸. Ἐλεγμῷ ἐλέγξεις τὸν ἀδελφόν σου,
+καὶ οὐ λήψῃ δι' αὐτὸν ἁμαρτίαν· » καί· « Ἔλεγχε
+σοφὸν, καὶ ἀγαπήσει σε. » Φεῦγε ἀπὸ παντὸς κακοῦ,
+καὶ ἀπὸ παντὸς ὁμοίου αὐτῷ· « Ἄπεχε γὰρ, φησὶν,
+ἀπὸ ἀδίκου · καὶ τρόμος οὐκ ἐγγιεῖ σοι. » Μὴ γίνου
+ὀργίλος, μηδὲ βάσκανος, μηδὲ ζηλωτὴς, μηδὲ μανι-
+κὸς, μηδὲ θρασύς · μὴ πάθῃς (24) τὰ τοῦ Κάϊν, καὶ
+τὰ τοῦ Σαοὺλ, καὶ τὰ τοῦ Ἰωάβ · ὅτι ὃς (25) μὲν
+ἀπέκτεινε τὸν ἀδελφὸν αὐτοῦ τὸν Ἄβελ, διὰ τὸ πρό-
+κριτον αὐτὸν εὑρεθῆναι παρὰ Θεῷ, καὶ διὰ τὸ προ-
+κριθῆναι (26) τὴν θυσίαν αὐτοῦ· ὃς δὲ τὸν ὅσιον Δα-
+βὶδ ἐδίωκε, νικήσαντα τὸν Γολιὰθ ⁷⁵ (27) τὸν Φιλι·
+στιαῖον, ζηλώσας ἐπὶ τῇ τῶν χορευτριῶν εὐφημίᾳ ·
+ὃς δὲ τοὺς δύο στρατάρχας ἀνεῖλε, τὸν Ἀβεννὴρ ⁷⁶
+τὸν τοῦ Ἰσραὴλ, καὶ Ἀμεσσᾶ ⁷⁷ τὸν τοῦ Ἰούδα.
+
+# block=3 source_x1=229 source_y1=1983 source_x2=1777 source_y2=2151
+⁶⁸ Deut. ι, 17. ⁶⁹ Anast. τὸν ἀδελφόν σου. ⁷⁰ Levit. xιx, 17. ⁷¹ Prov. ιx, 8. ⁷² Isa. lιv, 14. ⁷³ Gen.
+ιv, 11. ⁷⁴ al. Γολιάδ. ut in Anast. ⁷⁵ I Reg. xνιι et xνιιι. ⁷⁶ Anast. Ἀβεννήρ. ⁷⁷ Anast. Ἀμεσίαν·
+⁷⁸ III Reg. ιι, 32 ⁷⁹ I Reg. xv, 25. ⁸⁰ Num. xxιιι, 25. ⁸¹ Anastasius, ibid. ⁸² Deut. xνιιι, 11, 10.
+⁸³ Levit. xix, 26, 31. ⁸⁴ Matth. νι, 24. ⁸⁵ Psal. cxxx, 1. ⁸⁶ Vide Anastasium, in eadem quæstione.
+⁸⁷ Num. xιι, etc.
+
+# block=4 source_x1=234 source_y1=955 source_x2=989 source_y2=1773
+Ne sis augur, quia id ducit ad idololatriam :
+« Augurium enim, inquit Samuel, peccatum est⁷⁹; »
+et : « Non erit auguratio in Jacobeis, neque divina-
+tio in Israelitis ⁸⁰, » ⁸¹ Non eris incantator, aut filium
+tuum lustrans ⁸². Non ominaberis; neque augura-
+beris; neque auspicaberis ⁸³; neque disces pravas
+disciplinas : hæc enim omnia etiam lex prohibuit.
+Ne sis cupitor malorum : deduceris enim in pecca-
+torum nimietatem. Non eris turpiloquus; neque
+emissitiis oculis; neque vinolentus : inde enim
+fornicationes et adulteria oriuntur. Ne sis avarus;
+ut non, vice Dei, servias mammonæ ⁸⁴; ne sis inanis
+gloriæ cupidus, neque elatus, neque altum sapiens :
+ex his quippe omnibus superbiæ prodeunt : me-
+mento illius qui dixit : «Domine, non est exaltatum
+cor meum; neque elati sunt oculi mei; neque am-
+bulavi in magnis, neque in mirabilibus super me.
+Si non humiliter sentiebam ⁸⁵.... »
+CAPUT VII.
+
+# block=5 source_x1=233 source_y1=1857 source_x2=987 source_y2=1939
+Ne sis murmurator ⁸⁶; memor pœnarum quas
+dederunt qui Mosi obmurmurarunt ⁸⁷. Ne sis per-
+
+# block=6 source_x1=230 source_y1=1782 source_x2=965 source_y2=1849
+Interdictio murmurationis, pervicaciæ, superbiæ,
+feritatis.
+
+# block=7 source_x1=238 source_y1=141 source_x2=987 source_y2=871
+judicio : quia Domini est judicium ⁶⁸. Non odio
+habebis ullum hominem. Arguendo argues fratrem
+tuum; et non accipies propter eum peccatum ⁷⁰; »
+et : « Argue sapientem, et diliget te ⁷¹. » Fuge ab
+omni malo, et ab omni re simili illius : « Recede
+enim, inquit, ab iniquo; et tremor non appropin-
+quabit tibi ⁷². » Ne sis iracundus, neque invidus,
+neque æmulator, neque furiosus, neque ferox, ne
+tibi accidant, quæ Caino ⁷³, Sauli, Joabo; quoniam
+primus quidem occidit fratrem suum Abelem, quod
+is apud Deum præstantior esset inventus, quodque
+ejusdem sacrificium prælatum fuisset; secundus
+vero sanctum Davidem persequebatur, victorem
+Goliathi Philistæi ⁷⁵, invidens ob saltatricum fau-
+stam acclamationem; tertius denique duos exerci-
+tuus duces confodit, Abnerem ducem Israelitis, et
+Amasam ducem Judæ ⁷⁸.
+
+# block=8 source_x1=1011 source_y1=2251 source_x2=1764 source_y2=2668
+(28) Ἐπαοιδῆς. Addit hisce cod. Vind. κληδονι-
+σμοῦ, ἐπιθυμίας κακῶν καὶ λόγων ἀπηγορευμένων. Cl.
+(29) Μαθήματα πονηρά. Hoc in singulari expri-
+mitur, μάθημα πονηρόν. Cl.
+(30) Εἰ μὴ ἐταπεινοφρόνουν. Data utcunque oc-
+casione, admonitum velim lectorem, ut Davidici
+dicti Symmachianam versionem petat potius ex
+Catena Corderii, in qua εἰ μὴ ἐξίσωσα, si non ex-
+æquavi positum habetur, quam ex Theodoriti libris,
+in quibus, indeque in notis 70, legitur εἰ μὴ ἤξλωσα.
+Quanquam hoc quoque tolerari potest, sensu isto,
+si non censui et constitui. Cot.
+
+# block=9 source_x1=1025 source_y1=1863 source_x2=1773 source_y2=1943
+Μὴ γίνου γόγγυσος *, μνησθεὶς τῆς τιμωρίας ἧς ὑπέ-
+στησαν οἱ καταγογγύσαντες Μωσέως. Μὴ ἔσο αὐθά-
+
+# block=10 source_x1=830 source_y1=2196 source_x2=1147 source_y2=2234
+VARIORUM NOTÆ.
+
+# block=11 source_x1=222 source_y1=2358 source_x2=978 source_y2=2458
+(26) Προκριθῆναι. In cod. Vind. προδεχθῆναι,
+quod melius est, quia vitatur repetitio, quæ est in
+verbis πρόκριτον et προκριθῆναι. Id.
+
+# block=12 source_x1=647 source_y1=85 source_x2=1357 source_y2=125
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=13 source_x1=239 source_y1=86 source_x2=307 source_y2=125
+1003
+
+# block=14 source_x1=1271 source_y1=1746 source_x2=1517 source_y2=1778
+ΚΕΦΑΛΑΙΟΝ Ζ'.
+
+# block=16 source_x1=223 source_y1=2454 source_x2=982 source_y2=2692
+(27) Γολιάδ. In quibusdam exemplaribus sacris cor-
+rupte scriptum fuisse olim Goliad, loco Goliath, fidem
+faciunt versiones Syriaca et Arabica, hodierni codi-
+ces Græci psal. cxlııı, 1; clı, 1, una cum Gregorio
+Nazianzeno orat. 50; Chrysostomo, orat. 1 De pre-
+catione, ac Theodorito quæst. 41 in Gen. At Apol-
+linari Goliath dicitur, Cypriano aliisque Golias.Cot.
+
+# block=17 source_x1=1276 source_y1=877 source_x2=1532 source_y2=909
+ΚΕΦΑΛΑΙΟΝ Ϛ'.
+
+# block=18 source_x1=354 source_y1=915 source_x2=852 source_y2=951
+De arte augurali, incantatione, etc.
+
+# block=19 source_x1=1029 source_y1=1778 source_x2=1771 source_y2=1857
+Ἀπαγόρευσις γογγυσμοῦ, καὶ αὐθαδείας, καὶ
+ὑπερηφανίας, καὶ θρασύτητος.
+
+# block=20 source_x1=221 source_y1=2255 source_x2=972 source_y2=2361
+(24) Μὴ πάθῃς. Præpone ἵνα ex Anastasio. Cot.
+(25) Ὅς. Est in Vind. cod. δ, sed oportet sequi
+ὃς δέ, in seqq. Cl.
+
+# block=21 source_x1=1687 source_y1=82 source_x2=1785 source_y2=132
+1004
+
+# block=22 source_x1=511 source_y1=872 source_x2=707 source_y2=918
+CAPUT VI.
+
+# block=23 source_x1=1111 source_y1=902 source_x2=1755 source_y2=966
+Περὶ οἰωνοσκοπικῆς, ἐπαοιδῆς, κτλ. (28.)

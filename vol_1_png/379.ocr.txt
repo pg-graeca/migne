@@ -1,0 +1,225 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,193,1099,953,1829
+2,983,404,1736,962
+3,197,667,950,1090
+4,986,970,1747,1832
+5,196,146,944,657
+6,982,145,1735,397
+7,208,1948,957,2314
+8,215,2445,962,2545
+9,999,2583,1747,2650
+10,216,2545,959,2611
+11,206,2379,962,2444
+12,999,2481,1749,2581
+13,213,2313,956,2379
+14,217,2610,961,2679
+15,994,2149,1745,2283
+16,998,2281,1736,2348
+17,998,2346,1733,2417
+18,780,91,1144,125
+19,1670,90,1722,122
+20,248,1868,481,1902
+22,1030,2083,1725,2152
+23,180,90,260,140
+24,994,1938,1746,2094
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=23
+157
+
+# block=19
+158
+
+# block=18
+PROOEMIA VARIORUM.
+
+# block=6
+ejus, dixit : Cum duo erunt unum, et quod foris, ut
+quod intus, et masculum cum femina, neque mas,
+neque femina. Verum non video, qui fieri possit , ut
+propterea hujus sancti pontificis testimonium quoad
+genuina sanctorum apostolorum scripta repudian-
+dum sit omnino.
+
+# block=5
+tri Epistolæ sententias non raro imitatur; primæ
+quidem, cum inquit : Charitas operit multitudinem
+peccatorum (77); et : Unusquisque subjiciatur proxi-
+mo suo (78). Omnes humili autem animo eratis, nul-
+latenus superbientes, magis subjecti, quam subjicien-
+tes (79). Secundæ vero dum scribit : Noe pœniten-
+tiam prædicavit ; et qui obedierunt, servati sunt (80).
+Propter hospitalitatem et pietatem Lot e Sodomis
+salvus evasit, cum tota regio circumjacens igne et
+sulphure damnata esset. Palam fecit Deus, quod spe-
+rantes in se non derelinquit, eos vero, qui in contra-
+ria declinant, punitione ac supplicio afficit (81).
+
+# block=2
+Historiam etiam Judith divus Clemens suæ inṣe-
+ruit epistolæ numero seu capite quinquagesimo
+quinto ; cumque eidem statim subjungat facta
+Estheris, non inverosimili consequentia exinde de-
+ducitur, eum tanti æstimasse librum Judith, quanti
+librum Estheris. Verum librum Esther ex divinarum
+Scripturarum albo excludere nunc nemo Christia-
+norum, excepto solo hypercritico Semlero (87), au-
+det ; eumque ceu divinum librum a nascente jam
+Ecclesia agnitum fuisse, omnes fere uno ore pro-
+fitentur eruditi : cur non quoque librum Judith a
+divo Clemente inter sacras Scripturas relatum
+fuisse concludere possimus ?
+
+# block=3
+Hæ autem allegationes divi Clementis eo majus
+habere nobis videntur pondus, quod in prima sua
+epistola nullum apocryphum opus memoret ; locus
+enim ille capitis vicesimi tertii (miseri sunt, qui
+animo sunt duplices) nequaquam, ut Grabius (82) ar-
+bitratus est, e scriptura apocrypha desumptus
+est, sed, ut bene notavit Gallandius (83), ibidem
+D. Pontifex alludit ad versum octavum capitis i
+Epistolæ divi Jacobi, atque ad versus tertium ac
+quartum capitis iii secundæ D. Petri Epistolæ.
+
+# block=4
+Est præter hucusque adnotata alius sanctorum
+præcipuè ævi apostolici Patrum usus in illustrando,
+confirmandoque textu sacro, cujus rei jam speci-
+mina quædam damus. Modos loquendi e sacris
+libris ductos divus Clemens, alios inter plu-
+res, sequentes usurpavit : primo a Clemente nostro
+κανόνα (88) de finibus muneris et provinciæ dici,
+clarum est per phrasin, idque habet ex II Corinth.
+c. x, v. 13 : Μὴ παρεκβαίνων ὡρισμένον τῆς λειτουρ-
+γίας αὐτοῦ κανόνα. Non transgrediens præscriptam
+muneris sui regulam. Secundo explicat sequentibus
+verbis sententiam Pauli ad Philippenses c. ii, v. 6
+et 7 : Ἰησοῦς οὐκ ἦλθεν ἐν κόμπῳ ἀλαζονείας, οὐδὲ
+ὑπερηφανίας, καίπερ δυνάμενος, ἀλλὰ ταπεινοφρο-
+νῶν (89). Cyrill. Hieros. Cat. ii, p. m. 222 extr. :
+Τί ἐστὶν ἕτερον γινῶσκον τὰ βάθη τοῦ Θεοῦ ; I Cor.
+ii, 10 ; unde patet, in verbo ἐρευνᾷν nullam em-
+phasim esse ab eo quæsitam, quæ nec ibi est : pro
+eoque Clemens (90) : Ἐγκύπτειν, ἐγκεκυφότες εἰς
+τὰ βάθη τῆς θείας τῆς γνώσεως , unde et patet, τὰ
+
+# block=1
+In altera quidem sancti Clementis ad Corinthios
+Epistola duplicem offendunt critici locum ex scripto
+apocrypho prolatum. Primus sic se habet ; ait
+quippe Dominus in Evangelio : Si parvum non ser-
+vastis, quis magnum dabit vobis? dico enim vobis :
+Qui fidelis est in minimo, et in majori fidelis est ¹⁹.
+Locum autem hunc a sancto Patre velut ex Evan-
+gelio descriptum recitat quoque S. Irenæus (84),
+ubi Grabius conjicit (85), hæc ex Evangelio secun-
+dum Ægyptios fuisse deprompta. Sed nobis vide-
+tur non nisi allusio ad versus decimum et undeci-
+mum capitis xvi Evangelii secundum Lucam. Alter
+locus, quem etiam doctissimus Lardnerus (86) ex
+Evangelio Ægyptiorum desumptum censet, consen-
+tientibus fere omnibus criticis, in fine hujus epi-
+stolæ legitur hoc modo : Interrogatus enim ipse
+Dominus a quodam, quando venturum esset regnum
+
+# block=20
+¹⁹ Luc. xvi, 10.
+
+# block=24
+διὰ πυρὸς καὶ θείου· πρόδηλον ποιήσας ὁ Δεσπότης,
+ὅτι τοὺς ἐλπίζοντας ἐπ' αὐτὸν οὐκ ἐγκαταλείπει,
+τοὺς δὲ ἑτεροκλινεῖς ὑπάρχοντας εἰς κόλασιν, καὶ
+αἰκισμὸν τίθησι. Coll. II Pet. ii, 6, 9 et Judæ 7.
+
+# block=7
+amicus vocatus. Clem. epist. 1, cap. 10 et 17. Coll.
+cum Jacob. Epist. c. ii, v. 23. Ταλαίπωροί εἰσιν, οἱ
+δίψυχοι, οἱ διστάζοντες τὴν ψυχήν. Miseri sunt, qui
+animo sunt duplices et incerti. Clem. ep. 1, c. 23. Coll.
+cum Jac. c. i, v. 8. Θεὸς γὰρ, φησὶν, ὑπερηφάνοις
+ἀντιτάσσεται, ταπεινοῖς δὲ δίδωσι χάριν. Deus enim,
+inquit, superbis resistit, humilibus autem dat gratiam.
+Clem. Epist. 1, c. 30. Coll. cum Jac. Ep. c. iv, v.
+6, item confer. cap. 50, ep. 1 Clem. cum cap. 2,
+v. 21 Ep. Jacobi et c. 49 Clem. ep. cum cap. 5,
+v. 20 Ep. S. Jacobi.
+
+# block=22
+(82) Spicileg. SS. Patrum, tom. I, p. 268.
+(83) Biblioth. SS. Patr., tom. I, in hunc locum.
+
+# block=15
+(84) Similiter Dominus dixit ingratis in eum exi-
+stentibus : Si in modico fideles non fuistis, quod ma-
+gnum est quis dabit vobis ? S. Irenæus, lib. ii,
+cap. 64.
+
+# block=16
+(85) Grabius, Spicileg. SS. Patrum, tom. I, pag.
+35.
+
+# block=13
+(77) Ἀγάπη καλύπτει πλῆθος ἁμαρτιῶν. Clem.
+Ep. i, c. 49. Coll. I Pet. iv, 8.
+
+# block=17
+(86) In der Glaubwürdigkeit der evangelischen
+Geschichte, part. ii, tom. I, pag. 74.
+
+# block=11
+(78) Idem, c. 38 : Ὑποτασσέσθω ἕκαστος τῷ πλη-
+σίον αὐτοῦ. Col. I Pet. v, 5.
+
+# block=8
+(79) Idem, c. 2 : Πάντες τε ἐταπεινοφρονεῖτε, μηδὲν
+ἀλαζονευόμενοι, ὑποτασσόμενοι μᾶλλον ἢ ὑποτάσσον-
+τες. Coll. I Pet. v, 8.
+
+# block=12
+(89) Jesus Christus non venit in jactantia arro-
+gantiæ, neque superbiæ, etiamsi potens sit; sed in
+humilitate. Clem. ep. I, c. 16.
+
+# block=10
+(80) Id. c. 7 : Νῶε ἐκήρυξεν μετάνοιαν καὶ οἱ ὑπα-
+κούσαντες ἐσώθησαν. Coll. II Pet. ii, 5.
+
+# block=9
+(90) In divinæ cognitionis profunda introspicientes.
+Idem, ep. 1, cap. 40.
+
+# block=14
+(81) Id. c. 11, Διὰ φιλοξενίαν καὶ εὐσέβειαν Λὼτ
+ἐσώθη ἐκ Σοδόμων, τῆς περιχώρου πάσης κριθείσης

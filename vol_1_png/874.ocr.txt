@@ -1,0 +1,246 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,226,2378,985,2716
+2,1013,2549,1770,2690
+3,1037,137,1785,432
+4,242,561,993,860
+5,229,1848,981,2380
+6,247,133,994,433
+7,1013,2382,1762,2483
+8,1014,2482,1759,2551
+9,244,487,993,553
+10,1033,562,1782,817
+11,1025,954,1789,1394
+12,1267,442,1531,475
+13,504,869,720,909
+14,659,77,1372,118
+15,1034,486,1782,554
+16,1014,1582,1776,2382
+17,234,1582,986,1850
+19,510,443,722,474
+20,250,77,321,116
+21,842,1529,1160,1561
+24,235,960,992,1385
+25,1262,866,1528,900
+26,1703,80,1799,130
+27,221,1388,1789,1532
+28,515,910,701,954
+29,1255,906,1553,948
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=26 fontSize=15px
+# block=27 fontSize=15px
+# block=28 fontSize=15px
+# block=29 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=20
+1147
+
+# block=14
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=26
+1148
+
+# block=6
+in psalmis, lectionibus et precibus, ob eum qui
+tertia die resurrexit; item dies nonus, in recorda-
+tionem superstitum et defunctorum; atque etiam
+dies quadragesimus, juxta veterem typum; Mosem
+enim ita luxit populus 100; denique anniversarius
+dies, pro memoria ipsius. Ex bonis vero ejusdem
+detur pauperibus, ad illius commemorationem.
+
+# block=3
+ἐν ψαλμοῖς, καὶ ἀναγνώσεσι, καὶ προσευχαῖς, διὰ τὸν
+διὰ τριῶν ἡμερῶν ἐγερθέντα· καὶ ἔννατα (74), εἰς
+ὑπόμνησιν τῶν περιόντων καὶ τῶν κεκοιμημένων· καὶ
+τεσσαρακοστά 98 (75), κατὰ τὸν παλαιὸν τύπον 99. Μω-
+σῆν γὰρ οὕτως ὁ λαὸς ἐπένθησε· καὶ ἐνιαύσια , ὑπὲρ
+μνείας αὐτοῦ. Καὶ διδόσθω ἐκ τῶν ὑπαρχόντων αὐτοῦ
+πένησιν εἰς ἀνάμνησιν αὐτοῦ.
+
+# block=12
+ΚΕΦΑΛΑΙΟΝ ΜΓ'.
+
+# block=19
+CAPUT XLIII.
+
+# block=15
+Ὅτι τοὺς ἀσεβεῖς τελευτῶντας οὐδὲν ὠφελοῦσι
+μνεῖαι, ἢ ἐντολαί.
+
+# block=9
+Quod impios e vita decedentes, nihil juvent memoriæ,
+vel mandata.
+
+# block=4
+1 Porro hæc de piis dicimus. Nam de impiis ; licet
+omnia mundi bona pauperibus dederis, nihil juvabis
+impium, Cui enim superstiti inimicum erat Numen,
+manifestum est quod etiam defuncto, sit infensum :
+neque enim injustitia est apud Deum 4 : « Quoniam
+justus Dominus, et justitias dilexit 5 : » Et : « Ecce
+homo, et opus ejus 6. »
+
+# block=10
+Ταῦτα δὲ περὶ εὐσεβῶν λέγομεν. Περὶ γὰρ ἀσεβῶν,
+τὰ τοῦ κόσμου δῷς πένησιν, οὐδὲν ὀνήσεις αὐτόν 2.
+Ὧ γὰρ περιόντι ἐχθρὸν ἦν τὸ θεῖον, δῆλον ὅτι καὶ με-
+ταστάντι· οὐ γὰρ ἔστιν ἀδικία παρ' 3 αὐτῷ· « Δίκαιος
+γὰρ ὁ Κύριος, καὶ δικαιοσύνας ἠγάπησε·» καί· « Ἰδοὺ
+ἄνθρωπος, καὶ τὸ ἔργον αὐτοῦ 7. »
+
+# block=25
+ΚΕΦΑΛΑΙΟΝ ΜΔ'.
+
+# block=13
+CAPUT XLIV.
+
+# block=29
+Περὶ μεθύσων (76).
+
+# block=28
+De ebriosis.
+
+# block=11
+Ἔν δὲ ταῖς μνείαις αὐτῶν καλούμενοι (77), μετὰ
+εὐταξίας ἐστιᾶσθε καὶ φόβου Θεοῦ, ὡς δυνάμενοι
+καὶ πρεσβεύειν ὑπὲρ τῶν μεταστάντων. Πρεσβύτε-
+ροι (78) καὶ διάκονοι Χριστοῦ ὑπάρχοντες, νήφειν
+ὀφείλετε πάντοτε, καὶ πρὸς ἑαυτοὺς καὶ πρὸς ἑτέ-
+ρους, ἵνα δύνησθε τοὺς ἀτακτοῦντας νουθετεῖν. Λέγει
+δὲ ἡ Γραφή 8, « Οἱ δυνάσται θυμώδεις εἰσίν· οἶνον δὲ
+μὴ πινέτωσαν, ἵνα μὴ πιόντες ἐπιλάθωνται τῆς σο-
+φίας, καὶ ὀρθὰ κρίνειν οὐ μὴ δύνωνται. »  glorie
+οἱ πρεσβύτεροι καὶ (79) οἱ διάκονοι 10, μετὰ Θεὸν
+
+# block=24
+In mortuorum vero memoriis , invitati , cum mo-
+deratione ac Dei metu epulamini, ut possitis etiam
+deprecari pro iis qui e vita megrarunt. Qui presby-
+teri et diaconi Christi estis , semper debetis esse
+sobrii, tam vobis quam aliis; ut eos qui flagitipse
+vivunt valeatis admonere. Ait quippe Scriptura :
+« Potentes , iracundi sunt : vinum autem non bi-
+bant ; ne bibentes obliviscantur sapientiæ , et recta
+judicare non possint 9. » Et certe presbyteri ac
+diaconi, post Deum omnipotentem , illiusque dile-
+
+# block=27
+98 al. τριακοστά. 99Anast, νόμον καὶ τύπον. 100 Deut. xxxiv, 8. 1 Anastasius ibidem. 2 Anást.
+αὐτῶν. 3 Anast. τῷ Θεῷ. 4 Joan. vii, 18. 5 Psal. x, 8. 6 Isa. LXII, 11. 7 Vide Anastasium. 8 In
+Eclogis Mazar. additur : Περὶ τοῦ μὴ πολλῷ οἴνῳ χρῆσθαι τοὺς ἱερεῖς. 9 Prov. xxxi, 4 ex LXX. 10 Ib.
+add. σὺν τοῖς ἐπισκόποις.
+
+# block=21
+VARIORUM NOTÆ.
+
+# block=17
+plima, et propinquis [aut propinquos] ejus oportet
+jejunare quinta die, et oblationem afferre ad altare :
+sicut in Jesu filio Sirach legitur; et pro Saül filii
+Israel jejunaverunt : postea quandiu voluerit presby-
+ter. Respici puto ad verba Ecclesiastici xxii,
+13 : Luctus mortui septem dies; et xxxviii, 16, 17,
+18, quod magis patebit lecto cap. 50 libri citati
+De divinis officiis. COT.
+
+# block=16
+agnoscunt. Ad Deuteronomium respondeo, quosdam
+codices Græcos eo loci habuisse τεσσαράκοντα, pro
+τριάκοντα. Id vero ostenditur per verba S. Chry-
+sostomi Panegyrico Bernices et Prosdoces (quæ con-
+ferenda cum Ambrosianis initio Concionis in obitu
+Theodosii): "Ἔκλαυσαν τὸν Ἰακὼβ τεσσαράκοντα ἡμέ-
+ρας· ἔκλαυσαν καὶ τὸν Μωϋσῆν ἑτέρας τοσαύτας οἱ
+Ἰουδαῖοι. Fleverunt Jacob quadraginta diebus; fleve-
+runt et Moysem totidem aliis Judæi. Ubi vides re-
+spici ad Gen. l, 3, et Deuteron. xxxiv, 8. Idem
+Chrysostomus, ut id obiter moneam, videtur inve-
+nisse cap. xi Judicum, vers. 40, τεσσαράκοντα cor-
+rupte, non τέσσαρας, quando homil. 14, ad popu-
+lum Antiochenum scribebat de filia Jephthæ : Ἐγέ-
+νετο νόμος τοῖς Ἰουδαίοις, συνερχομένας τὰς παρθέ-
+νους κατὰ τὸν καιρὸν ἐκεῖνον ἡμέρας τεσσαράκοντα
+πενθεῖν τὴν γεγενημένην σφαγήν. Apud Judæos lex
+est lata, ut virgines illo tempore convenientes quadra-
+ginta diebus commissam cædem deplorarent; nisi si
+error memoriæ est in sancto doctore, aut τέσσαρας
+mutatum fuit in τεσσαράκοντα vitio librariorum. Ib.
+(76) Περὶ μεθύσων. In altero cod. sic inscribi-
+tur caput : "Ὅτι οὐ δεῖ παροινεῖν, ἀλλὰ νήφειν ἑστιω-
+μένους. CLER.
+
+# block=5
+(74) Ἔννατα. Ratio quam profert Philippus ,
+post Eustratium, evertitur a S. Cyrillo, lib. XII in
+Joannem, p. 1104, ubi docet, μεθ' ἡμέρας ὀκτώ,
+Joan. xx , 26, significare diem octavum, non vero
+diem nonum : qua de re dixi supra. Nicephorus ta-
+men consentit errori , scribens , lib. I Hist. eccl. ,
+cap. 34, p. 118, C : Ἐπεὶ δ' ὀγδόη ἑξ ἐκείνης ἡμέρα
+διέδραμε. Hoc est, juxta meam versionem : Post-
+quam autem octavus ab illo dies præteriit. Malo more,
+doctus interpres in contrarium sensum reddidit ;
+Postquam autem deinceps octava advenit dies. Porro
+ritus iste ignotus fuit Augustino , ut patet ex illius
+libro Quæstionum super Genesim, quæst. penult. ;
+ignotus Ambrosio , et plerisque Latinorum; dam-
+natus autem ab eo qui putatur Alcuinus, ex loco
+memorato S. Augustini. ID.
+
+# block=1
+(75) Τεσσαρακοστά. Lectio marginalis τριακο-
+στά, quam sequuntur orientales nationes, et colle-
+ctio Arabica , confirmatur testimonio Deuterono-
+mii, xxxiv, 8, in quo legimus triginta, legebantque
+Philo, Josephus, et alii : concordantibus Scripturæ
+locis duobus, Num. xx, ult., Deut. xxi, 13, necnon
+Josepho, lib. IV, cap. 4, p. 109, G, et Procopio Gazæo ad
+Genes. L. Nihilominus tamen τεσσαρακοστά præfero;
+quia Græci antiqui cum recentioribus diem quadra-
+gesimum in mortuis celebrant, tricesimum non
+
+# block=7
+(77) Ἐν δὲ ταῖς μνείαις αὐτῶν καλούμενοι. Ni-
+hil dico de funebribus epulis, ritu etiam minus do-
+ctis notissimo. COT.
+
+# block=8
+(78) Πρεσβύτεροι. Additur γάρ in altero Vindo-
+bonensi, forte melius. CLER.
+
+# block=2
+(79) Οἱ διάκονοι. Additamentum Eclogarum Ma-
+zarinianarum, nunc codicis Regii 2547, habet quoque
+liber 2392. Eadem exemplaria et tertium , post οὐκ
+ἔστιν ὕβρισαι, εἰ μὴ πίνειν αἶνον εἰς μέθην. COT.

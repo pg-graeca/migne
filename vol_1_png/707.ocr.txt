@@ -1,0 +1,246 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,949,130,1698,598
+2,163,133,912,596
+3,155,772,915,2693
+4,214,627,1016,663
+5,769,701,1067,737
+6,586,71,1278,113
+7,164,72,219,117
+8,1623,74,1693,110
+9,939,966,1313,2694
+10,1327,964,1701,2692
+11,939,854,1299,970
+12,1333,854,1693,978
+13,947,774,1693,846
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+ad alterum latus impellentes, et mensores frau-
+dulentos ; atque militem calumniatorem, non
+contentum stipendiis ⁴⁵; sed pauperes concutien-
+tem ; item homicidam et carnificem ; ad hæc inju-
+stum judicem, rerum eversorem, insidiatorem homi-
+num; scelerum ac impuritatis operarium , vinolen-
+tum, blasphemum, cinædum, feneratorem , nec non
+quemlibet improbum, et cum Dei voluntate pu-
+gnantem. Quoniam Scriptura omnes hujusmodi
+pronuntiat esse apud Deum abominabiles. Nam qui
+ab illis accipiunt, et inde viduas ac pupillos alunt ,
+
+# block=2
+κρούστας, καὶ δολομέτρας· καὶ στρατιώτην συκοφάντην,
+μὴ ἀρκούμενον τοῖς ὀψωνίοις, ἀλλὰ τοὺς πένητας δια-
+σείοντα· φονέα τε καὶ δήμιον (33), καὶ δικαστὴν πα-
+ράνομον, πραγμάτων ἀνατροπέα, ἀνθρώπων ⁴⁶ ἐπίβου-
+λον, μιαρῶν ⁴⁷ ἐργάτην, μέθυσον, βλάσφημον, κίναιδον,
+τοκογλύφον· καὶ πάντα ὁντινοῦν πονηρὸν καὶ τῇ γνώμῃ
+τοῦ Θεοῦ διαμαχόμενον. Ὅτι λέγει ἡ Γραφὴ βδελυκτοὺς
+εἶναι παρὰ Θεῷ πάντας τοὺς τοιούτους. Οἱ γὰρ παρὰ τῶν
+τοιούτων δεχόμενοι, καὶ τρέφοντες χήρας καὶ ὀρφα-
+νοὺς, ὑπεύθυνοι τῷ κριτηρίῳ τοῦ Θεοῦ γενήσονται.
+Ὥσπερ καὶ Ἀδωνίας (34) ὁ ἐν ταῖς Βασιλείαις προ-
+
+# block=3
+Bulgarorum, cap. 49: Post conversionem suam ad pi-
+scationem Petrus rediit, Matthæus vero ad telonei
+negotium non resedit; quia aliud est victum per pi-
+scationem quærere, aliud autem telonei lucris pecunias
+augere. Sunt enim pleraque negotia, quæ sine peccatis
+exhiberi aut vix, aut nullatenus possunt. Quæ ergo
+ad peccatum implicant, ad hæc necesse est ut post
+conversionem animus non recurrat. Porro Nicon in
+Pandecte ms., serm. 36, hic legit τελώνας καὶ ἀδί-
+κους. Cot.
+(33) Δήμιον. Theodoritus, serm. 6, De provi-
+dentia Dei, ubi componit tyrannos carnificibus : Αἱ
+πόλεις τρέφουσι τοὺς δήμίους, ὥστε τοὺς ἀνδροφόνους,
+καὶ τοιχωρύχους, καὶ τοὺς ἄλλα ἄττα παρανομοῦν-
+τας, διὰ τούτων κολάζειν· οὐκ ἐπαινοῦσαι μὲν αὐτῶν,
+ἀλλὰ καὶ λίαν μισοῦσαι τὴν τοῦ βίου προαίρεσιν· ἀναδε-
+χόμεναι δὲ τὰς τούτων ὑπηρεσίας, διὰ τὴν χρείαν. Quæ
+eo etiam attuli, ut indicarem desumptam esse tantum
+non ad verbum comparationem ex opere Philonis De
+providentia, edit. Paris. Græco-Lat., p. 1198; et apud
+Eusebium, Præp. evang., lib. VIII, cap. ult., p. 393. Id.
+(34) Ἀδωνίας. Prophetæ ad Jeroboamum in Be-
+thel missi, ac dum redit, a leone, ob violatum Dei
+mandatum, interempti, historiam refert sacra Scri-
+ptura, III Regum cap. XIII, sed nomen reticet. Quo
+factum , ut variæ ferantur sententiæ. Juxta primam
+sententiam nomen illi fuit Adonias, in hoc loco ;
+seu Ἰάδων, Jadon, in Josepho lib. VIII, cap. 3. Ἰα-
+δώμ habet Chronicum ineditum Metaphrastis, non
+ita bene, seu Jaddun, in Freculfi Chronicis ; sed
+Addo apud Hieronymum initio Commentariorum
+in Zachariam, et Isidorum libro De vita et morte
+sanctorum, cap. 54 ; seu Iddo, in Chronologia mo-
+nachi Altissiodorensis; seu denique Jaddo de quo II
+Paralip. IX, 22, qui et Addo appellatur ejusdem libri
+cap. XII, vers. 15 ; et Odeth aut potius Oded pater
+Azariæ cap. XV, vers. 1, in Traditionibus Hebrai-
+cis ad libros Paralipomenon, inter opera Hieronymi.
+Unde τῶν Ο' unum exemplar II Paralip. XV, 8, pro
+Ἀδάδ, sive Ὠδήδ, exhibet Ἀδδώ : eoque modo le-
+ctum videtur Eusebio, quandoquidem lib. I Chroni-
+corum ait : Ἀζαρίας, ὁ καὶ Ἀδδώ, et lib. II : Ἐζαρεί,
+ὃς Ἀδδώ. Sic in Chronico dicto Alexandrino p. 218,
+ubi de nostro propheta, ad marginem a Græco quo-
+dam adnotatum cernitur, Ὁδήθ, Hodeth, esse no-
+men quod in textu expressum non fuit; pag. vero
+220 scribitur : Προεφήτευσεν ὁ ἐν Βεθὴλ seu Βαιθὴλ
+οἰκῶν, καὶ ὁ ἐπὶ θυσιαστηρίου. Ἠξίου τὸν προφητεύ-
+σαντα τῷ Ἱεροβοὰμ δούλῳ Σολομῶντος, φαγεῖν ἄρ-
+τον, καὶ μόλις ἔφαγεν. Φασὶν τὸν Ἰώσηπον λέγειν,
+ἀπὸ παραδόσεως αἶνον εἶναι τὸν ἐν Βεθήλ· Καὶ ὁ Σὴθ
+[lego Ὁδήθ] ἐπὶ τοῦ θυσιαστηρίου; Hoc est : Pro-
+phetavit qui Bethele habitabat : item qui fuit ad altare.
+Rogavit ille hunc qui prophetaverat Jeroboamo servo
+Salomonis, ut manducaret panem, et vix manducavit.
+Aiunt Josephum dicere, ex traditione proverbiale di-
+ctum ferri Bethele : Etiam Hodeth ad altare? Ad hæc,
+dum pervolverem ms. Regium 1789, venerunt ob
+
+# block=4
+⁴⁵ Luc. III, 14. ⁴⁶ Anast. ἄνθρωπον. ⁴⁷ Anast. μιαρόν.
+
+# block=5
+VARIORUM NOTÆ.
+
+# block=6
+CONSTITUTIONES APOSTOLICÆ — LIB. IV.
+
+# block=7
+813
+
+# block=8
+814
+
+# block=9
+1. Adam. 2. Enoch. 3.
+Noe. 4. Abraham. 5. Isa-
+ac. 6. Jacob. 7. Moyses.
+8. Aaron. 9. Jesus. 10.
+Eldan. 11. Modam. 12.
+Job. 13. Samuel. 14. Na-
+tham. 15. David. 16. Gad.
+17. Idithum. 18. Asaph.
+19. Æman 20. Ætham.
+21. Salomon. 22. Achias.
+23. Sameas. 24. Homo
+Dei Hodeth. 25. Heli qui
+e Silon. 26. Joad. 27. Ad-
+do. 28. Azarias. 29. Ana-
+ni, qui et Ananias. 30.
+Jeu. 31. Michæas. 32.
+Elias. 33. Oziel. 34. Eliad.
+35. Jesus filius Ananiæ.
+36. Elisæus. 37. Jona-
+dam. 38. Zacharias, qui
+et Azarias. 39. Alius Za-
+charias. 40. Osee. 41.
+Joel. 42. Amos. 43. Ab-
+dias. 44. Jonas. 45. Isa-
+ias. 46. Michæas. 47. Na-
+hum. 48. Ambacum. 49.
+Obed. 50. Abdadon. 51.
+Jeremias. 52. Baruch. 53.
+Sophonias. 54. Urias. 55.
+Ezechiel. 56. Daniel. 57.
+Esdras. 58. Aggæus. 59.
+Zacharias. 60. Malachias.
+61. Zacharias pater Joan-
+nis. 62. Simeon. 63. Jo-
+annes Baptista. Sed et
+alios inventum iri novi-
+mus, qui partem minimam
+prophetiæ habuerunt, vel
+et specie prophetica; item
+alios qui aliquid majoris
+momenti vaticinati sunt :
+quorum quidam paulo post
+Adamum, quidam sequen-
+tibus temporibus vixerunt:
+quos omnes non præter-
+mittendos censui hic post
+numerum, 63. sed magis
+adjungendos serie enume-
+rationis. Sunt autem hi.
+64. Enos. 65. Mathusa-
+la. 66. Lamech. 67. Ba-
+laam. 68. Saul. 69. Abi-
+
+# block=10
+α'. Ἀδάμ. β'. Ἐνώχ. γ'.
+Νῶε. δ'. Ἀβραάμ. ε'. Ἰσα-
+άκ. ϛ'. Ἰακώβ. ζ'. Μωϋ-
+σῆς. η'. Ἀαρών. θ'. Ἰη-
+σοῦς. ι'. Ἐλδάμ. ια'. Μω-
+δάμ (ms. 1067 : Ἐλδάδ.
+Μωδάδ. Vide supra ad
+Hermæ lib. I, vis. 2. c. 3).
+ιβ'. Ἰώβ. ιγ'. Σαμουήλ.
+ιδ'. Ναθάν. ιε'. Δαυΐδ. ιϛ'.
+Γάδ. ιζ'. Ἰδιθούμ. ιη'. Ἀ-
+σάφ. ιθ'. Αἰμάν. κ'. Αἰ-
+θάμ. κα'. Σολομών. κβ'.
+Ἀχίας. κγ'. Σαμέας (al.
+Σαμαίας). κδ'. Ὁ ἄνθρω-
+πος τοῦ Θεοῦ Ὁσήθ (desi-
+deratur iste in cod. 1067).
+κε'. Ἠλὶ ὁ καὶ (f. ἐκ) Σι-
+λώμ (al. Σιλών). κϛ'. Ἰ-
+ωάδ. (al. Ἰωδάδ). κζ'.
+Ἀδδώ. κη'. Ἀζαρίας. κθ'.
+Ἀνανὶ, ὁ καὶ Ἀνανίας. λ'.
+Ἰηοῦ (al. Ἰοῦ). λα'. Μι-
+χαίας. λβ . Ἠλίας. λγ'. Ὀ-
+ζιήλ. λδ' Ἐλιάδ. λε'. Ἰη-
+σοῦς (f. Ἰηοῦ) υἱὸς Ἀνα-
+νίου. λϛ'. Ἐλισσαῖος. λζ'.
+Ἰωναδάμ (an Ἰωναδάβ).
+λη'. Ζαχαρίας, ὁ καὶ Ἀζα-
+ρίας (al. Ἀνανίας). λθ'. Ζα-
+χαρίας ἄλλος. μ'. Ὡσηέ.
+μα'. Ἰωήλ. μβ'. Ἀμώς.
+μγ'. Ἀβδιού. μδ'. Ἰωνᾶς.
+με'. Ἠσαΐας. μϛ'. Μιχαίας.
+μζ'. Ναούμ. μη'. Ἀμβα-
+κούμ. μθ'. Ὠδήδ. ν'. Ἀβ-
+δαδών. να' Ἱερεμίας. νβ'.
+Βαρούχ· νγ' . Σοφονίας. νδ'
+Οὐρίας. νε'. Ἰεζεκιήλ. νϛ'.
+Δανιήλ. νζ'. Ἔσδρας. νη'.
+Ἀγγαῖος. νθ'. Ζαχαρίας
+ξ'. Μαλαχίας. ξα'. Ζαχα-
+ρίας ὁ πατὴρ Ἰωάννου.
+ξβ'. Συμεών. ξγ'. Ἰωάν-
+νης ὁ Βαπτιστής. Ἔτι δὲ
+καὶ ἄλλους εὑρεθέντας ἔ-
+γνωμεν, μέρος ἐλάχιστον
+προφητείας ἔχοντας, ἢ
+καὶ προφάσει προφητικῇ·
+τοὺς δὲ καὶ περισσότερόν
+τι. προφητεύσαντας· τοὺς
+μὲν ἀπὸ τοῦ Ἀδάμ, τοὺς
+
+# block=11
+Epiphanii, de LXXII pro-
+phetis , et de prophe-
+tissis.
+
+# block=12
+Περὶ τῶν οβ' προφητῶν,
+καὶ προφητίδων, Ἐπι-
+φανίου.
+
+# block=13
+oculos meos , quæ subjunxi ac interpretatus
+sum :

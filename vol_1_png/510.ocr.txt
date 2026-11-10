@@ -1,0 +1,89 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,260,2284,1788,2557
+2,1180,793,1790,2245
+3,261,770,1149,2254
+4,1184,138,1790,594
+5,270,131,1152,646
+6,1389,703,1581,745
+7,698,2566,1086,2730
+8,649,71,1427,119
+9,259,64,343,122
+10,1729,80,1795,128
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=22px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=18px
+# block=9 fontSize=18px
+# block=10 fontSize=18px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+419
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=10
+420
+
+# block=4
+modestiamque spirantes, enuntiant
+in timore Dei, suggerendo fratribus
+ut in omnibus Dei beneplacitum
+quærant, invicem præveniant ac
+æmulentur in operibus bonis et
+absque dolo semper incedant: hæc
+enim sunt populi Dei ornamenta et
+munia ³⁶.
+
+# block=6
+CAPUT II.
+
+# block=2
+Quandoque evenit ut, inclinata
+jam die, instanteque vespere, longe
+a nostris et propinquorum domibus
+dissiti, urgeamur a fratribus qui
+amorem fraternitatis et hospitali-
+tatis colunt, ut hospitemur apud se.
+Hos movet desiderium audiendi a
+nobis, per vigiliam, sacra Dei elo-
+quia, ut ea deinde ipsi memoriæ in-
+figant. Interdum acceptamus panem
+et aquam, nec non quæcunque no-
+bis, Deo providente, apponuntur.
+Annuimus quoque invitationi per-
+noctandi cum illis, ibique hospita-
+litatem recipiendi, si reperiatur vir
+sanctus in domo quam adivimus.
+Tunc frater aliquis quæ necessaria
+sunt parat nobis, disponit ac mini-
+strat; ipse pedes nostros lavat, nos-
+que ungit oleo; ipse, divina fide
+motus, lectum sternit in quo quie-
+scere debemus. Hæc enim charitatis
+officia sibi reservat hospes noster,
+vel id agunt fratres qui in domo
+sunt, quique nobis tanquam fratri-
+
+# block=1
+³⁵ Nihil instructione plenius ac brevius dici potest. Indicat sanctus Clemens quæ fuerint in Ecclesiæ
+incunabulis sacerdotum et prædicatorum cautiones, ut coram fidelibus ministerium suum honorarent,
+secundum Apostoli præceptum. Non omnes indistincte ad prædicationem applicabantur; sed illi præcipue
+qui tali munere congrue fungi poterant. Cæteri qui munus istud non exercebant prædicantibus plaude-
+bant, nec invidebant. Prædicatores autem divino timore, non tumore pleni, pruritumque linguæ intem-
+perantis cohibentes, invigilabant ne quid ex ore suo excideret quod gravitatem, honestatem sobrietatemque
+non saperet; sed in omnibus Dei gloriam salutemque proximorum inquirebant, et vitam cujusvis maculæ
+et fraudis expertem fidelibus inspirabant.

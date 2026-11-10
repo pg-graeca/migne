@@ -1,0 +1,84 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,199,772,1076,2337
+2,197,2358,1712,2598
+3,1114,788,1725,2329
+4,1112,149,1722,297
+5,214,143,1088,658
+6,649,2630,1004,2681
+7,761,82,1185,119
+8,221,82,276,120
+9,1659,76,1743,124
+10,1297,682,1541,746
+11,453,670,797,766
+
+# layer=format
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+414
+
+# block=8
+413
+
+# block=7
+EPISTOLA I AD VIRGINES.
+
+# block=4
+Hæc porro verba miram efficaciam
+habent ut omnes talia præstent offi-
+cia ²¹.
+
+# block=10
+CAPUT XIII.
+
+# block=3
+Unusquisque vestrum, fratres di-
+lecti, ædificet et confirmet fratres in
+fide, quod unus, scilicet, Deus sit :
+hoc enim manifestum est, ac rationi
+pervium ²². Nec minus præclarum
+decorumque est ut nullus inter vos
+reperiatur qui proximum suum irri-
+deat. Pulchrumque est ac plane di-
+gnum ut qui Deum timent et co-
+lunt, cunctos ejus cultores veneren-
+tur ²³. Memores enim esse debent
+messem quidem esse multam, ope-
+rarios autem paucos : ideoque rogent
+Dominum messis ut mittat operarios
+in messem suam ²⁴ : operarios sci-
+licet, qui falcem adhibeant, profe-
+rentes sermonem penetrabiliorem
+veritatis ; operarios inconfusibiles ;
+operarios fideles ; operarios qui sint
+lux mundi ; operarios qui operentur
+non cibum qui perit, sed qui per-
+manet in vitam æternam ²⁵ : opera-
+rios qui, sicut apostoli, imitentur
+Patrem, et Filium, et Spiritum san-
+ctum , de hominum salute solli-
+citi ²⁶ ; operarios non mercena-
+rios ; operarios non existimantes
+
+# block=2
+²¹ Alludit sanctus Clemens his verbis sancti Pauli : Charitas fraternitatis maneat in vobis : et hospitalita-
+tem nolite oblivisci : per hanc enim latuerunt quidam, angelis hospitio receptis (Hebr. xiii, 1, 2). ²² Hoc
+monitum sancti Clementis nemo mirari debet : plurimi enim inter primos Christianos seduci poterant
+adhuc reminiscentia tot deitatum quas coluerant. Quidam etiam in tentationem quamdam induci poterant
+per dogma unius Dei in tribus personis. ²³ Ex verbis quæ præcedunt et quæ sequuntur, evidenter patet
+operarios quos hic memorat sanctus Clemens esse imprimis viros sacro ministerio addictos. ²⁴ Matth.
+ix, 37, 38. ²⁵ Joan. vi, 27. ²⁶ Salutem hominum curarunt tres sanctissimæ Trinitatis personæ, quæ

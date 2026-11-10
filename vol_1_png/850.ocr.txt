@@ -1,0 +1,168 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,235,1437,992,2321
+2,235,2555,989,2694
+3,244,2332,1773,2445
+4,665,69,1382,105
+5,1049,121,1814,555
+7,1726,76,1795,114
+8,846,2492,1158,2528
+9,271,66,365,112
+10,1019,2550,1775,2694
+11,263,778,1003,1434
+12,261,122,1015,778
+13,1039,552,1795,1194
+14,1027,1193,1787,1889
+15,1023,1889,1779,2325
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=235 source_y1=1437 source_x2=992 source_y2=2321
+Cumque homines legem naturalem corrupissent, et
+creaturam, modo quidem fortuitam arbitrarentur,
+modo autem plusquam oportet honorarent, ac tibi
+omnium Deo compararent; non sivisti errore duci;
+quin potius edito sancto famulo tuo Moyse, per
+eum legem scriptam in naturalis adjutorium tri-
+buisti ⁷; et creaturas ostendisti opus tuum esse,
+errorem vero de multitudine deorum, exterminasti.
+Aaronem et posteros ejus honore sacerdotali de-
+corasti : Hebræos, cum peccarent, castigasti; cum
+reverterentur, suscepisti : Ægyptios decem plagis
+ultus es : mari diviso trajecisti Israëlitas : inse-
+cutos Ægyptios delevisti submersione : ligno ama-
+ram aquam dulcescere fecisti : ex petra dura
+aquam profudisti : e cœlo mannam depluisti : præ-
+buisti ex aere escam, ortygometram : constituisti
+nocte columnam ignis ad illustrationem, et die co-
+lumnam nubis ad umbraculum in æstu. Per Jesum
+ducem exercitus a te declaratum, septem gentes
+Chananæorum evertisti ⁸, Jordanem dirupisti, flu-
+
+# block=2 source_x1=235 source_y1=2555 source_x2=989 source_y2=2694
+(54) Ἰωσήφ. Melius τὸν Ἰωσήφ, in cod. Vind.
+CLER.
+(55) Ἀπώλεσας, .. Ἐκόλασας, C. V. minus bene,
+cum Ægyptii non pœnas tantum dederint, quod su-
+
+# block=3 source_x1=244 source_y1=2332 source_x2=1773 source_y2=2445
+⁹⁸ Gen. IV. ⁹⁹ Eccli. XLIX, 19; Gen. IV, V. ¹⁰⁰ Gen. VI, VII; I Petr. III, 20. ¹ Gen. XIX; Sap. X, 6.
+² Psal. CVI, 34. ³ Gen. XII, etc. ⁴ I. Ignat. interpol. ad Trall. 10 ad Sm. 7. ⁵ Gen. XLVI, 27 apud LXX.
+⁶ Exod. I, etc. ⁷ I. Isa. VIII 20 in LXX. ⁸ Jos. III, 10.
+
+# block=4 source_x1=665 source_y1=69 source_x2=1382 source_y2=105
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=5 source_x1=1049 source_y1=121 source_x2=1814 source_y2=555
+σας, τοὺς δὲ ἀποστάντας σου ἐκόλασας· καὶ τοῦ μὲν
+Ἄβελ, ὡς ὁσίου προσδεξάμενος τὴν θυσίαν, τοῦ δὲ
+ἀδελφοκτόνου Κάϊν ἀποστραφεὶς τὸ δῶρον, ὡς ἐνα-
+γεῦς. Καὶ πρὸς τούτοις τὸν Σήθ, [καὶ τὸν Ἐνὼς προσ-
+ελάβου, καὶ τὸν Ἐνὼχ μετατέθεικας. Σὺ γὰρ εἶ ὁ
+δημιουργὸς τῶν ἀνθρώπων, καὶ τῆς ζωῆς χορηγός,
+καὶ τῆς ἐνδείας πληρωτὴς· καὶ τῶν νόμων δοτὴρ,
+καὶ τῶν φυλαττόντων* αὐτοὺς μισθαποδότης, καὶ τῶν
+παραβαινόντων αὐτοὺς ἔκδικος. Ὁ τὸν μέγαν κατα-
+κλυσμὸν ἐπαγαγὼν τῷ κόσμῳ διὰ τὸ πλῆθος τῶν
+
+# block=7 source_x1=1726 source_y1=76 source_x2=1795 source_y2=114
+1100
+
+# block=8 source_x1=846 source_y1=2492 source_x2=1158 source_y2=2528
+VARIORUM NOTÆ.
+
+# block=9 source_x1=271 source_y1=66 source_x2=365 source_y2=112
+1099
+
+# block=10 source_x1=1019 source_y1=2550 source_x2=1775 source_y2=2694
+perstitibus potuit contingere, sed funditus perie-
+rint. ID.
+(56) Κατέῤῥηψας. Recte quidem, sed nec male in
+cod. Vind. κατέῤῥηξας perrupisti. ID.
+
+# block=11 source_x1=263 source_y1=778 source_x2=1003 source_y2=1434
+cendio eruisti ³. Tu es qui Abrahamum liberasti
+avita impietate, et mundi hæredem constituisti,
+ipsique Christum tuum apparere fecisti. Qui Mel-
+chisedecum pontificem divini cultus designasti. Qui
+multa passum famulum tuum Jobum, victorem
+serpentis, originis malorum, declarasti ⁴. Qui Isaa-
+cum effecisti filium promissionis. Qui Jacobum
+duodecim filiorum patrem, ejusque postremos in
+multitudinem propagasti, et ad Ægyptum in se-
+ptuaginta quinque animabus introduxisti ⁵. Tu,
+Domine, non despexisti Josephum; sed illi, pro
+mercede castitatis tua causa servatæ, dedisti ut
+Ægyptiis præesset. Tu, Domine, Hebræos ab Ægy-
+ptiis oppressos, ob promissa patribus eorum facta,
+non neglexisti; verum, Ægyptiis punitis, liberasti ⁶.
+
+# block=12 source_x1=261 source_y1=122 source_x2=1015 source_y2=778
+fecerunt, punivisti; admisso quidem Abelis sacri-
+ficio, ut innocentis ⁹⁸; fratricidæ autem Caini mu-
+nere, ut detestandi, fastidito. Et ad hæc Sethum
+ac Enosum suscepisti, atque Henochum transtu-
+lasti ⁹⁹. Tu enim es opifex hominum, vitæ largitor,
+indigentiæ expletor; legum dator, easque servan-
+tium remunerator, transgredientium vindex. Qui
+diluvium ingens mundo propter impie viventium
+multitudinem intulisti, et eo ex diluvio in arca eripui-
+sti una cum octo animabus justum Noam ¹⁰⁰, finem
+quidem eorum qui præterierant, originem vero
+successurorum. Qui horrendum ignem adversus
+Sodomitanam pentapolim concitasti ¹, et terram
+frugiferam in salsuginem ², propter nequitiam illius
+incolarum, redegisti, ac sanctum Lotum ex in-
+
+# block=13 source_x1=1039 source_y1=552 source_x2=1795 source_y2=1194
+ἀσεβησάντων, καὶ τὸν δίκαιον Νῶε ῥυσάμενος ἐκ τοῦ
+κατακλυσμοῦ ἐν λάρνακι σὺν ὀκτὼ ψυχαῖς, τέλος μὲν
+τῶν παρωχηκότων, ἀρχὴν δὲ τῶν μελλόντων ἐπιγί-
+νεσθαι. Ὁ τὸ φοβερὸν πῦρ κατὰ τῆς Σοδομηνῆς πεν-
+ταπόλεως ἐξάψας, καὶ γῆν καρποφόρον εἰς ἅλμην
+θέμενος ἀπὸ κακίας τῶν κατοικούντων ἐν αὐτῇ, καὶ
+τὸν ὅσιον Λὼτ ἐξαρπάσας τοῦ ἐμπρησμοῦ. Σὺ εἶ ὁ
+τὸν Ἀβραὰμ ῥυσάμενος προγονικῆς ἀσεβείας, καὶ
+κληρονόμον τοῦ κόσμου καταστήσας, καὶ ἐμφανίσας
+αὐτῷ τὸν Χριστόν σου. Ὁ τὸν Μελχισεδέκ, ἀρχιερέα
+τῆς λατρείας προχειρισάμενος. Ὁ τὸν πολύτλαντα θε-
+ράποντά σου Ἰὼβ νικητὴν τοῦ ἀρχεκάκου ὄφεως ἀνα-
+δείξας. Ὁ τὸν Ἰσαὰκ ἐπαγγελίας υἱὸν ποιησάμενος·
+ὁ τὸν Ἰακὼβ πατέρα δώδεκα παίδων, καὶ τοὺς ἐξ αὐ-
+τοῦ εἰς πλῆθος χέας, καὶ εἰσαγαγὼν εἰς Αἴγυπτον ἐν
+
+# block=14 source_x1=1027 source_y1=1193 source_x2=1787 source_y2=1889
+ἑβδομήκοντα πέντε ψυχαῖς. Σὺ Κύριε, Ἰωσὴφ (54)
+οὐχ ὑπερεῖδες· ἀλλὰ μισθὸν τῆς διὰ σὲ σωφροσύνης
+ἔδωκας αὐτῷ τὸ τῶν Αἰγυπτίων ἄρχειν. Σὺ Κύριε,
+Ἑβραίους ὑπὸ Αἰγυπτίων καταπονουμένους οὐ πε-
+ριεῖδες, διὰ τὰς πρὸς τοὺς πατέρας αὐτῶν ἐπαγγε-
+λίας· ἀλλ’ ἐῤῥύσω, κολάσας Αἰγυπτίους. Παραθρει-
+ράντων δὲ τῶν ἀνθρώπων τὴν φυσικὴν νόμον, καὶ
+τὴν κτίσιν, ποτὲ μὲν αὐτόματον νομισάντων, ποτὲ
+δὲ πλεῖον ἢ δεῖ τιμησάντων, καὶ σοὶ τῷ Θεῷ τῶν
+πάντων συνταττόντων· οὐκ εἴασας πλανᾶσθαι, ἀλλὰ
+ἀναδείξας τὸν ἅγιον σου θεράποντα Μωϋσῆν, δι’ αὐτοῦ
+πρὸς βοήθειαν τοῦ φυσικοῦ τὸν γραπτὸν νόμον δέδω-
+κας, καὶ τὴν κτίσιν ἔδειξας σὸν ἔργον εἶναι, τὴν δὲ
+πολύθεον πλάνην ἐξώρισας. Τὸν Ἀαρὼν καὶ τοὺς ἐξ
+αὐτοῦ ἱερατικῇ τιμῇ ἐδόξασας· Ἑβραίους ἁμαρτόν-
+τας ἐκόλασας, ἐπιστρέφοντας ἐδέξω· τοὺς Αἰγυπ-
+
+# block=15 source_x1=1023 source_y1=1889 source_x2=1779 source_y2=2325
+τίους δεκαπλήγῳ ἐτιμωρήσω· θάλασσαν διελὼν, Ἰσ-
+ραηλίτας διεβίβασας· Αἰγυπτίους ἐπιδιώξαντας ὑπο-
+βρυχίους ἀπώλεσας (55)· ξύλῳ πικρὸν ὕδωρ ἐγλύ-
+κανας· ἐκ πέτρας ἀκροτόμου ὕδωρ ἀνέχεας· ἐξ οὐ-
+ρανοῦ τὸ μάννα ὕσας· τροφὴν ἐξ ἀέρος ὀρτυγομή-
+τραν· στύλον πυρὸς τὴν νύκτα πρὸς φωτισμὸν, καὶ
+στύλον νεφέλης ἡμέραν πρὸς σκιασμὸν θάλπους. Τὸν
+Ἰησοῦν στρατηγὸν ἀναδείξας, ἑπτὰ ἔθνη Χαναναίων
+δι’ αὐτοῦ καθεῖλες, Ἰορδάνην διέῤῥηξας, τοὺς ποτα-
+μοὺς Ἠθὰμ ἐξήρανας, τείχη κατέῤῥηξας (56) ἄνευ

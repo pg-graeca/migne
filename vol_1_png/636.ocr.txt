@@ -1,0 +1,184 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,238,1160,986,2697
+2,249,144,1002,789
+3,1035,146,1785,789
+4,1039,857,1777,973
+5,250,857,991,974
+6,274,1008,1166,1050
+7,1021,1170,1785,2694
+8,654,83,1367,130
+9,860,1093,1156,1133
+10,1248,815,1538,852
+11,260,84,315,132
+12,495,816,739,855
+13,1707,88,1785,130
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+λευσε ; Moneo quoque, e Theodorito ac Josepho per
+levem mutationem tolli posse errores seu potius
+negligentias in hac historia. Quærit ille interroga-
+tione 32, in librum Numerorum, quam seditionis
+occasionem habuerint Δαθὰν, καὶ Ἀβειρὼν, καὶ
+Ἐλιάβ. Sed legendum videtur οἱ (aut υἱοὶ) Ἐλιάβ,
+Eliabi liberi. Josephus autem Antiquit. Judaic., lib.
+iv, cap. 2, ponit simul nomina Δαθάμου καὶ Ἀβει-
+ρώμου (ita codices Regii) καὶ Φαλαοῦς, qui sunt
+Itulino interpreti Dathan et Abirom et Falas. (Cor-
+rupte editur Balas, cum vera lectio in mss. Regiis
+servetur.) Forsan tamen a Josepho exaratum fuit,
+καὶ τοῦ (vel καὶ υἱοῦ) Φαλαοῦς, intellectusque On,
+de quo Numer. xvi, 1. Transeo ad alios factiosos.
+Sententia Constitutoris, itemque Optati lib. 1, De
+schismate Donatistarum, paulo ante finem. Quod
+originem Leviticam habuerint ducenti quinquaginta
+homines memorati in contradictione Coræ, nec
+aperte astruitur per divina oracula, nec confutatur
+clare. Tantum sacra Scriptura liquido damnat quod
+imprudenter Cypriano martyri epistola 65, excidit,
+cujus verba transcribit Goffridus Vindocinensis
+epist. 22, lib. iv, Dathanem Abiromumque ministros
+fuisse, hoc est levitas; quodque ab Optato Milevi-
+tano in loco citato, et ab Ambrosio epistola ad
+Vercellenses dicitur, viris 250 mortem obtigisse
+per hiatum terræ. Jam vero circa Corem conflagra-
+tum, quamvis cum nostro, cumque Ignatiano inter-
+polatore ad Magnesianos 3, consentiant Samaritani
+codices Numer. xvi, 10. Præterea Josephus Ἀρ-
+χαιολογίας iv, 3; Gregorius Nyssenus libro De vita
+Mosis, sub finem, Joannes Chrysostomus homil. 4,
+in Vidi Dominum, tom. III; Petrus Damiani opu-
+sculo 18, cap. 4, et Zonaras in Annalibus; affir-
+mari omnino debet post alios, antiquos, recentiores,
+supplicium de Core sumptum fuisse eodem modo,
+quo de Dathane et Abiromo, terra, nimirum, tres
+schismaticos cum suis deglutiente. Quocirca arsisse
+Coritas, seu congregationem Coræ, dictum Consti-
+tutionum, et Theodoriti quæstione 33 in Numeros,
+veritatem obtinet, si accipiatur de ducentis et quin-
+quaginta; contra, si de iis qui cum Core versa-
+bantur, quando pessum abiit. Hoc enim qui vellet,
+perinde falleretur ac is qui ex S. Epiphanio Anco-
+rati cap. 101, et S. Ambrosio tractatu De 42 man-
+sionibus, mansione 15, confundens filios et homines
+
+# block=2
+Mosi et Aaroni insurrexerunt, ac de rebus ad se
+non pertinentibus digladiati sunt ? Nonne Dathan et
+Abiron, vivi in infernum descenderunt⁷ ? ⁸Et virga
+germinavit, multorum vesaniam repressit, simul-
+que pontificem quem Deus elegerat demonstravit !
+Debetis ergo, fratres, sacrificia vestra et oblationes
+episcopo velut pontifici, vel per vos ipsi, vel per
+diaconos offerre ; quin etiam primitias quoque et
+decimas, et spontanea dona ei afferte ; quia ipse
+cognoscit miseros, et unicuique largitur, prout
+conveniens est ; ne, scilicet, unus bis aut sæpius
+eodem die, aut eadem hebdomada accipiat, alter
+vero ne semel quidem ; æquitas enim postulat, ut
+vere afflictis potius subministretur, quam iis qui
+tales videntur esse.
+
+# block=3
+καύστοι ἐγένοντο, ἐπαναστάντες Μωσεῖ καὶ Ἀαρὼν,
+καὶ περὶ τῶν μὴ καθηκόντων αὐτοῖς ἁμιλλώμενοι ;
+καὶ Δαθὰν καὶ Ἀβειρὼν, ζῶντες κατέβησαν εἰς ᾅδου ;
+καὶ ῥάβδος βλαστήσασα, ἔστειλε τῶν πολλῶν τὴν
+ἄνοιαν, καὶ τὸν ὑπὸ Θεοῦ χειροτονηθέντα ἀρχιερέα
+ἀνέδειξε. Προσήκει οὖν καὶ ὑμᾶς, ἀδελφοὶ, τὰς θυ-
+σίας ὑμῶν ἤτοι προσφορὰς τῷ ἐπισκόπῳ προσφέρειν
+ὡς ἀρχιερεῖ, ἢ δι’ ἑαυτῶν, ἢ διὰ τῶν διακόνων· οὐ
+μὴν δὲ, ἀλλὰ καὶ τὰς ἀπαρχὰς, καὶ τὰς δεκάτας, καὶ
+τὰ ἑκούσια αὐτῷ προσάγετε· αὐτὸς γὰρ (92) γινώ-
+σκει τοὺς θλιβομένους, καὶ ἑκάστῳ δίδωσι πρὸς τὸ
+ἁρμόζον, ὅπως μὴ δὶς ⁹ ἢ πλειστάκις τῇ αὐτῇ ἡμέρᾳ,
+ἢ τῇ αὐτῇ ἑβδομάδι λαμβάνῃ, ἕτερος (93) δὲ οὐδὲ
+ὅλως· δίκαιον γάρ ἐστι μᾶλλον τοῖς θλιβομένοις κατ’
+ἀλήθειαν ἐπαρκεῖν, ἢ τοῖς νομιζομένοις (94) θλίβεσθαι.
+
+# block=4
+Περὶ δοχῆς, καὶ ὅπως χρὴ ἕκαστον τάγμα τοῦ
+κλήρου ὑπὸ τῶν προσκαλουμένων τιμᾶσθαι.
+Τοῖς εἰς ἀγάπην, ἤτοι δοχὴν(95), ὡς ὁ Κύριος ὠνό-
+
+# block=5
+De convivio, et qua ratione quilibet cleri ordo a vo-
+catoribus honorandus sit.
+Qui ad agapen, seu, ut Dominus appellavit, con-
+
+# block=6
+⁷ Num. xvi. ⁸ Ignat. interpol. ad Magnes. 3. ⁹ F. deest εἰς.
+
+# block=7
+Coræ, contenderet primos cum patre suo ipsiusque
+hominibus a terra haustos descendisse vivos in in-
+fernum : referente Moyse Numerorum cap. xvi,
+grande miraculum, ut Core pereunte, filii illius non
+perierint. Denique in illa dissensione civili alios
+Mosis imperio, Aaronis sacerdotio alios invidisse,
+docet etiam Gregorius Nyssenus in Vita Mosis, pag.
+185. Et revera, licet cuncti adversus Moysem et
+Aaronem insurgerent, plus tamen quidam primum,
+plus cæteri alterum petebant. Cot.
+(92) Γάρ. Addit σαφῶς alter cod. Cler.
+(93) Ἔτερος. Εἷς ἕτερος, alter cod. Id.
+(94) Νομιζομένοις. Alter ἐπιφημιζομένοις. Id.
+(95) Εἰς ἀγάπην, ἤτοι δοχήν. Julianus Apostata
+in fine Fragmenti, διὰ τῆς λεγομένης παρ’ αὐτοῖς
+ἀγάπης, καὶ ὑποδοχῆς, καὶ διακονίας τραπεζῶν. Vi-
+deantur Clemens Alexandrinus Pædag. ii, 1, p. 141,
+interpretes ad Lucæ xiv, 13 ; lexicographi, et Epi-
+stola Ignatii ad Smyrnæos num. 8, cum interpola-
+tione. Enimvero Agapas, publica convivia, optimo
+jure induxit Christianæ religionis prima antiquitas,
+cum propter communionem et amicitiam, cujus
+ergo Lacedæmones συσσίτια sua appellabant φιδί-
+τια, quasi φιλίτια teste Porphyrio, iv De abstinen-
+tia : tum propter alimoniam clericorum et paupe-
+rum ; unde Agapes nomen eleemosynæ donatum
+sæpe reperitur. Sed paulatim postea abrogata est
+consuetudo, quia irrepserant in eam ambitio, ebrie-
+tas, rixæ, necnon judaismus atque paganismus.
+Nam refertur a Philone, libro De plantatione Noe,
+veteres in templis post sacrificia sacras epulas ce-
+lebrasse, hincque credi verbum μεθύειν trahere
+originem, eo quod sacrificio peracto, μετὰ τὸ
+θύειν, vino indulgeretur. Cui originationi consimi-
+lem habes in Etymologico magno. Ἐτυμολογεῖται
+δὲ καὶ παρὰ τὸ ἐνέθειν (Sylburgius θύειν, ego ἐν-
+θύειν) ἤγουν σφαγιάζειν. Neminem porro latent
+ethnicorum solemnes et sacræ cœnæ in delubris
+largiter sumi solitæ. De Judæis autem, præter Isaiæ
+lxii, 9 ; Malachiæ iii, 10, loca Deuteronomii, et
+Theodoritum quæst. 10, in eum librum, Cornutus
+ad Persii satyram quintam : Thynnus genus piscis
+est, quod ad templum diebus festis portare solebant,
+ut ibi pro die festo epulis vescerentur. Memini etiam
+me alicubi legere hodiernum Arabum morem, certis
+diebus dapes apponendi egenis. Cot.
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9
+VARIORUM NOTÆ.
+
+# block=10
+ΚΕΦΑΛΑΙΟΝ ΚΗ'.
+
+# block=11
+671
+
+# block=12
+CAPUT XXVIII.
+
+# block=13
+672

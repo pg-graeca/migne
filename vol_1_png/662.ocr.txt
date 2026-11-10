@@ -1,0 +1,196 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,236,1302,991,1854
+2,1024,140,1789,1080
+3,243,137,991,1125
+4,1023,1304,1786,1915
+6,242,1194,985,1297
+7,1265,1144,1519,1176
+8,506,1143,710,1176
+9,231,2027,984,2699
+10,198,1880,981,1949
+11,652,86,1377,125
+14,1029,1196,1778,1298
+15,846,1968,1142,2003
+17,1011,2025,1777,2694
+18,246,86,302,126
+20,1715,80,1781,126
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=20
+724
+
+# block=18
+723
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=3
+occisa, quæ quidem per pœnitentiam servari po-
+terat; periit tamen, non solum propter propriam
+iram, seu merita sua, sed et jam ob vestras insidias;
+et implevistis quod scriptum est: « Qui non congre-
+gat mecum, spargit ¹⁶. » Hic est dispersor, ovium
+adversarius, Dei hostis, agnorum laniator, quo-
+rum Dominus pastor exstitit. Et nos ex variis gen-
+tibus et linguis congregationem fecimus, cum
+multo labore ac periculo, cum assidua molestia,
+pervigiliis, esurie, humi cubatibus, persecutionibus,
+plagis, carceribus ¹⁷ ; ut voluntati Dei obsequentes,
+triclinium, hoc est, sacram et catholicam Ecclesiam
+repleremus accumbentibus, nempe vocatis, gauden-
+tibus et exsultantibus, prædicantibus et magnifican-
+tibus Deum, qui per nos ad vitam illos vocavit.
+At vos, quantum in vobis fuit, dissipastis. Jam
+vero, vos laici, pacem mutuo habete, et tanquam
+prudentes studete Ecclesiam adaugere, ac eos qui
+vel ferarum vel erraticarum ovium mores ac locum
+tenent, cicurate, et ad eam reducite, ac in pristinum
+statum restituite. Atque hæc est maxima in repro-
+missione Dei merces: « Si eduxeris ex indigno di-
+gnum et pretiosum, quasi os meum eris ¹⁸. »
+
+# block=2
+ψυχῆς ἀνθρώπου ὑφ᾽ ὑμῶν ἀναιρεθείσης, ἥτις ἐδύνατο
+σωθῆναι διὰ μετανοίας, ἀπώλετο δὲ οὐ μόνον ἐξ ἰδίας
+ὀργῆς, ἀλλ᾽ ἤδη καὶ ἐξ ὑμετέρας ἐπιβουλῆς· καὶ ἐπλη-
+ρώσατε τὸ γεγραμμένον· « Ὁ μὴ συνάγων μετ᾽ ἐμοῦ,
+σκορπίζει. » Τοιοῦτος δὲ ὤν, σκορπιστὴς, προβάτων
+ἀντίδικος, Θεοῦ ἐχθρὸς, τῶν ἀρνίων φθορεὺς (23),
+ὧν ὁ Κύριος ποιμὴν ὑπῆρξε. Καὶ ἡμεῖς (24) συναγωγοὶ
+ἐκ διαφόρων ἐθνῶν καὶ γλωσσῶν, ἐν πολλῷ μόχθῳ
+καὶ κινδύνῳ, καὶ κόπῳ διηνεκεῖ, ἀγρυπνίαις, ἀσιτίαις,
+χαμευνίαις, διωγμοῖς, πληγαῖς, φυλακαῖς, ἵνα τὸ θέ-
+λημα τοῦ Θεοῦ ποιήσαντες, πληρώσωμεν τὸν τρίκλι-
+νον (25) τῶν ἀνακειμένων, τουτέστι τὴν ἱερὰν καὶ
+καθολικὴν Ἐκκλησίαν, εὐφραινομένων τῶν κλητῶν,
+καὶ ἀγαλλιωμένων, ὑμνούντων καὶ δοξαζόντων τὸν κα-
+λέσαντα αὐτοὺς δι᾽ ἡμῶν εἰς ζωὴν Θεόν. Ὑμεῖς ὅσον
+τὸ ἐφ᾽ ὑμῖν διεσκορπίσατε. Καὶ ὑμεῖς δὲ οἱ λαϊκοὶ, εἰ-
+ρηνεύετε πρὸς ἀλλήλους, σπουδάζοντες ὡς φρόνιμοι
+τὴν Ἐκκλησίαν αὔξειν, καὶ τὰ νομιζόμενα ἄγρια ἐπι-
+στρέφειν εἰς αὐτὴν, ἐξημεροῦν, καὶ ἀποκαθιστᾶν.
+Καὶ τοῦτό (26) ἐστιν ὁ μέγιστος ἐξ ἐπαγγελίας μι-
+σθὸς παρὰ Θεοῦ (27)· « Ἐὰν ἐξαγάγῃς ἐξ ἀναξίου
+ἄξιον καὶ (28) τίμιον, ὡς στόμα μου ἔσῃ. »
+
+# block=8
+CAPUT LVII.
+
+# block=7
+ΚΕΦΑΛΑΙΟΝ ΝΖ'.
+
+# block=6
+Descriptio Ecclesiæ et cleri; et quid facere debeat
+unusquisque clericus vel laicus in synaxi congre-
+gatus.
+
+# block=14
+Διατύπωσις Ἐκκλησίας καὶ κλήρου, καὶ τί ἕκαστος
+ἐπιτελεῖν ὀφείλει τῶν συναθροιζομένων κληρι-
+κῶν ἢ λαϊκῶν ἐν τῇ συνάξει.
+
+# block=1
+Tu vero, episcope, sis sanctus, inculpatus, non
+percussor, non iracundus, non immitis; sed ædifi-
+candi, convertendi, ac docendi seu constituendi
+avidus, malorum tolerans, animo leni, mansuetus,
+longanimis, ad hortandum et consolandum idoneus
+tanquam homo Dei. ²⁰ Cum autem Ecclesiam Dei
+congregaveris, velut magnæ navis gubernator, cum
+omni prudentia et disciplina jube fieri conventus,
+præcipiens diaconis, sicut nautis, ut loca fratri-
+bus, quasi vectoribus, adhibita omni cura et decen-
+tia, disponant. Ac primo quidem ædes sit oblonga,
+ad orientem versa, ex utraque parte pastophoria
+versus orientem habens, et quæ navi sit similis.
+
+# block=4
+Σὺ δὲ ὁ ἐπίσκοπος, ἔσο ἅγιος, ἄμωμος, μὴ πλήκτης,
+μὴ ὀργίλος, μὴ ἀπηνής· ἀλλ᾽ οἰκοδόμος, ἐπιστροφεύς,
+διδακτικὸς ¹⁹, ἀνεξίκακος, ἠπιόθυμος (29), πρᾶος,
+μακρόθυμος, παραινετικός, παρακλητικὸς, ὡς Θεοῦ
+ἄνθρωπος. Ὅταν δὲ συναθροίζῃς τὴν τοῦ Θεοῦ Ἐκκλη-
+σίαν, ὡς ἂν κυβερνήτης νηὸς μεγάλης, μετ᾽ ἐπιστή-
+μης πάσης κέλευε ποιεῖσθαι τὰς συνόδους, παραγγέλ-
+λων τοῖς διακόνοις ὡσανεὶ ναύταις, τοὺς τόπους ἐκ-
+τάσσειν τοῖς ἀδελφοῖς, καθάπερ ἐπιβάταις (30) μετὰ
+πάσης ἐπιμελείας καὶ σεμνότητος. Καὶ πρῶτον μὲν
+ὁ οἶκος ἔστω ἐπιμήκης (31), κατ᾽ ἀνατολὰς τετραμ-
+μένος (32), ἐξ ἑκατέρων τῶν μερῶν τὰ παστοφόρια
+(33) πρὸς ἀνατολὴν, ὅς τις ἔοικε νηΐ. Κείσθω δὲ μέ-
+⁹ al. διατακτικός. ²⁰ S. Clem., Epist. ad Jacob.,
+
+# block=10
+¹⁶ Matth. xii, 30. ¹⁷ II Cor. xi. ¹⁸ Jer. xv, 19.
+c. 14.
+
+# block=15
+VARIORUM NOTÆ.
+
+# block=17
+indiscrepans accipiat pretium placitarum. COT.
+(31) Ἐπιμήκης. Hæc una e formis templorum :
+ad quam constructa erat ecclesia Sanctæ Sophiæ,
+τέμενος ἐπίμηκες, et δρομικὸν, uti loquuntur. ID.
+(32) Κατὰ ἀνατολὰς τετραμμένος. Juxta usitatio-
+rem morem, quo basilicarum prospectus ad orien-
+tem spectabat, inquit S. Paulinus epist. 12 ad Se-
+verum, ac multo post eum Stephanus Tornacensis
+epist. 104; itemque Walafridus Strabo De rebus ec-
+clesiasticis, cap. 4; atque eam ob rationem, ut in
+amissam exoptatam patriam, paradisum, quem Deus
+plantavit ad orientem, precantes intuerentur : docet
+scriptor Quæstionum ad Antiochum, resp. ad quæst.
+57, tom. II S. Athanasii. Vide Vitruvium, lib. IV,
+cap. 5 et 8; Plutarchum in Numa, Lucianum libro
+De domo, Apionem in Josephi libro II adversus illum,
+mox ab initio; item Sidonium lib. II, epist. 10, ibi-
+que doctos interpretes. ID.
+(33) Τὰ παστοφόρια. In templis quid sint pas-
+tophoria, satis superque docent cum antiqui, tum
+
+# block=9
+(23) Φθορεύς. Addit idem ἐστιν, melius. CLER.
+(24) Καὶ ὑμεῖς, etc. Alter cod. : ὑμεῖς οὖν συνά-
+γειν ὀφείλοντες τοὺς ἐκ, etc.
+(25) Τὸν τρίκλινον. Τὸν οἶκον. Alter cod. Vind.
+In eodem desunt superiora verba : τὸ θέλημα τοῦ
+Θεοῦ ποιήσαντες. ID.
+(26) Καὶ τοῦτο. Οὗτος γάρ. Cod. Vind. ID.
+(27) Θεοῦ. Idem addit τοῦ λέγοντος. ID.
+(28) Ἄξιον καὶ. Desunt in eodem. ID.
+(29) Ἠπιόθυμος. Deest in altero cod. ID.
+(30) Ἐπιβάταις. In Epistola ad Jacobum, Rufino
+interprete, epibatis. Valentinianus sociique monachi
+epistola ad S. Augustinum : Ora, domine et dulcis-
+sime Pater, ut fugiat de congregatione nostra (deest
+contentio, aut quid simile), et amota omni alienarum
+quæstionum procella navis propositi nostri epibatis
+quietis onusta, intra stationem tutissimi portus se-
+cure consistat, dum navigat per hoc mare magnum et
+immensum; et in illo portu, intra quem jam non erit
+metuendum vitæ navigium (lego nauagium), mercium

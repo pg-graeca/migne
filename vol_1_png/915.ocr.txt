@@ -1,0 +1,176 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,972,916,1725,1689
+2,187,485,939,1038
+3,961,1697,1730,2119
+4,179,2513,929,2716
+5,976,138,1736,907
+6,177,1048,934,2115
+7,192,140,942,475
+8,963,2482,1719,2716
+9,177,2348,929,2515
+10,963,2351,1713,2483
+11,182,2156,1716,2256
+12,784,2274,1093,2308
+13,755,84,1137,118
+14,196,88,263,123
+15,1642,82,1728,126
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=972 source_y1=916 source_x2=1725 source_y2=1689
+XXXIX. Ut autem tempus adesse cœpit, quo id
+quod deesse Moysis institutis diximus impleretur,
+et propheta quem præcinuerat appareret, qui eos
+primo per misericordiam Dei moneret cessare a
+sacrificiis, et ne forte putarent cessantibus hostiis
+remissionem sibi non fieri peccatorum, baptisma
+eis per aquam statuit, in quo ab omnibus peccatis
+invocato ejus nomine solverentur, et de reliquo
+perfectam vitam sequentes in immortalitate dura-
+rent, non pecudum sanguine sed sapientiæ Dei
+purificatione purgati. Denique etiam hoc ponitur
+evidens magni mysterii hujus indicium (39), ut
+omnis qui credens prophetæ huic, qui a Moyse
+prædictus est, baptizatur in nomine ipsius, ab
+excidio belli quod incredulæ genti imminet ac loco
+ipsi, servetur illæsus, non credentes vero extorres
+loco et regno fiant, ut vel inviti intelligant et obe-
+diant voluntati Dei.
+
+# block=2 source_x1=187 source_y1=485 source_x2=939 source_y2=1038
+XXXVI. Cum interim fidelis et prudens dispen-
+sator Moyses prævidens, populo ex Ægyptiorum
+consortio altius inolevisse vitium idolis immolandi,
+nec posse de eis radicem mali hujus excidi, immo-
+lare quidem eis concessit, sed Deo soli hoc fieri
+permisit, ut mediam quodammodo partem vitii al-
+tius inoliti resecaret; aliara vero mediam, per alium
+et ad aliud tempus reservaret emendandam, per
+illum scilicet, de quo ipse dixit : Prophetam vobis
+suscitabit (38) Dominus Deus vester sicut me, ipsum
+audite secundum omnia quæ dixerit vobis. Quicun-
+que enim non audierit prophetam illum, exterminabitur
+anima ejus de populo suo ⁸⁴.
+
+# block=3 source_x1=961 source_y1=1697 source_x2=1730 source_y2=2119
+XL. His igitur ita præordinatis, adest qui exspe-
+ctabatur, indicia sui quibus fieret manifestus, si-
+gna et prodigia deferens. Sed ne sic quidem po-
+pulus credidit, qui ad hæc credenda tot sæculis
+eruditus est; et non solum non credidit, sed ad-
+didit infidelitati blasphemiam, voracem hominem
+et ventri servientem ⁸⁸, ac dæmone agi eum, qui
+ob salutem suam venerat, dicens. In tantum ne-
+quitia malorum ministeriis valet, quod nisi Sa-
+pientia Dei adfuisset his qui diligunt veritatem,
+
+# block=4 source_x1=179 source_y1=2513 source_x2=929 source_y2=2716
+(38) Prophetam vobis suscitabit, etc. Recte mem-
+branæ Regiæ et P. Petiti, quas præ oculis habeo : Deus
+vester sicut me : ipsum audite secundum omnia, etc;
+In Chronico Roderiano seu Alexandrino, p. 180 : Προ-
+φήτην ὑμῖν ἀναστήσει Κύριος ὁ Θεὸς ἐκ τῶν ἀδελ-
+φῶν ὡς ἐμέ. Αὐτοῦ ἀκούσεσθε κατὰ πάντα, ὅσα ἂν
+
+# block=5 source_x1=976 source_y1=138 source_x2=1736 source_y2=907
+XXXVIII. Igitur Moyses ⁸⁶, his administratis, Au-
+sen quemdam nomine præponens populo, qui eos
+revocaret ad patriam terram, ipse ad montem
+quemdam præcepto Dei viventis ascendens, illic
+defunctus est; cujus tamen talis fuit mors, ut
+usque in hodiernum diem sepulturam ejus nullus
+invenerit. Ut ergo populus patrium contigit solum,
+per providentiam Dei primo statim ingressu ini-
+quarum gentium habitatores fugantur, et ipsi hæ-
+reditatem paternam judice sorte suscipiunt. Tum
+deinde per aliquantum temporis judicibus, non
+regibus gubernati, statu tranquilliore durarunt ⁸⁷.
+Ubi vero tyrannos sibi magis quæsivere quam re-
+ges, tunc etiam in loco, qui eis orationis causa
+fuerat prædestinatus, templum pro ambitione re-
+gia construxere, et sic per ordinem regibus impiis
+sibi invicem succedentibus, ad majores impietates
+etiam populus declinavit.
+
+# block=6 source_x1=177 source_y1=1048 source_x2=934 source_y2=2115
+. XXXVII. Ad hæc autem etiam locum statuit, in
+quo solo liceret eis immolare Deo ⁸². Hoc autem
+totum eo prospectu gerebatur, ut cum tempus op-
+portunum venisset et didicissent per prophetam,
+quia Deus misericordiam vult et non sacrificium ⁸³,
+viderent eum qui eos doceret locum Dei electum
+esse sapientiam ejus, in quo conveniret offerri ho-
+stias Deo, hunc autem locum, qui ad tempus vide-
+batur electus, incursionibus hostium et excidiis
+sæpe vexatum, et ad ultimum quoque audirent
+penitus excidendum ⁸⁵. In cujus rei fidem etiam
+ante adventum veri prophetæ, qui esset hostias
+cum loco pariter repudiaturus, sæpe ab hostibus
+populatus est et igne incensus; atque in captivi-
+tatem populus abductus in exteras nationes, et
+exinde cum ad misericordiam Dei confugeret revo-
+catus est, ut per hæc doceretur, quia sacrificia
+offerens repellitur et in manus hostium traditur,
+misericordiam vero faciens et justitiam, sine sa-
+crificiis de captivitate liberatur et in terram patriam
+restituitur. Sed hoc intelligere paucos admodum
+accidit. Plures enim etiamsi sentire hæc et adver-
+tere poterant, vulgi tamen irrationali opinione tene-
+bantur. Paucorum namque est recta cum libertate
+sententia.
+
+# block=7 source_x1=192 source_y1=140 source_x2=942 source_y2=475
+.
+post tot ac tanta quæ viderant mirabilia, veteris
+consuetudinis sordes elimare a se atque abster-
+gere nequiverunt. Et ob hoc brevis spatii iter quod
+ex Ægypto ducit ad Judæam relinquens, immenso
+eremi ambitu egit eos Moyses, si forte possit, ut.
+superius memoravimus, vetustæ consuetudinis
+mala novellæ institutionis permutatione discu-
+tere.
+
+# block=8 source_x1=963 source_y1=2482 source_x2=1719 source_y2=2716
+(39) Hoc ponitur evidens magni mysterii hujus in-
+dicium, etc. Si cui ista sunt obscura, legat Euse-
+bium, Hist. lib. III, cap. 5 ; Epiphanium, hæresi 29,
+num. 7; hær. 30, num. 2; Lib. de mens. et pond.,
+cap. 15; Theodoritum ad Zachariæ XIV, 2; Nicepho-
+rum, Cedrenum, Freculfum, etc. Ab iis lucem
+petat.
+
+# block=9 source_x1=177 source_y1=2348 source_x2=929 source_y2=2515
+ἀνήλθην ἐκτύπωμα βουκράνου. Id est : Non enim fe-
+cerunt Jovis, aut hujus illiusve simulacrum, sed abs-
+que certo consilio aurum dederunt ut fieret idolum
+quodcunque sors obtulisset; atque ita exiit bovini ca-
+pitis effigies.
+
+# block=10 source_x1=963 source_y1=2351 source_x2=1713 source_y2=2483
+εἰπῃ πρὸς ὑμᾶς. Ἔσται δὲ, πᾶσα ψυχὴ, ἥτις οὐκ ἀκούει
+τοῦ προφήτου ἐκείνου, ἐξολοθρευθήσεται ἐκ τοῦ λαοῦ
+αὐτῆς. Versiones etiam Syriaca et Arabica agnos-
+cunt, de populo suo.
+
+# block=11 source_x1=182 source_y1=2156 source_x2=1716 source_y2=2256
+⁸¹ Deut. XVIII, 15; Act. III, 22, 23. ⁸² Deut. XII, 14; II Paral. VII, 12. ⁸³ Matth. IX, 13; XII, 7.
+⁸⁴ Matth. XXIV, 2; Luc. XIX, 44. ⁸⁶ Deut. XXXI, XXXII, XXXIV. ⁸⁷ 1 Reg. VIII. ⁸⁸ Matth. IX; Joan. VII.
+
+# block=12 source_x1=784 source_y1=2274 source_x2=1093 source_y2=2308
+COTELERII NOTÆ.
+
+# block=13 source_x1=755 source_y1=84 source_x2=1137 source_y2=118
+RECOGNITIONUM LIB. I.
+
+# block=14 source_x1=196 source_y1=88 source_x2=263 source_y2=123
+1229
+
+# block=15 source_x1=1642 source_y1=82 source_x2=1728 source_y2=126
+1230

@@ -1,0 +1,165 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,212,137,980,1667
+2,1013,147,1775,1575
+3,1000,1568,1763,2232
+4,196,2332,969,2699
+6,994,2532,1752,2699
+7,998,2333,1755,2533
+8,834,2269,1134,2304
+10,660,91,1388,126
+12,1697,100,1772,135
+14,206,1663,968,2229
+15,242,91,313,127
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=212 source_y1=137 source_x2=980 source_y2=1667
+tres vobiscum permanere menses et ita proficisci
+ad gentes, ne amplius morantibus nobis et scele-
+ribus Simonis usquequaque grassantibus, insana-
+oiles fiant.
+LXVI. Hæc illo dicente universus populus flevit,
+audiens quod profecturus esset. At Petrus compas-
+sus eis, etiam ipse lacrymas fudit, et in cœlum
+respiciens ait : Tibi, Deus, qui cœlum terramque fe-
+cisti et omnia quæ in eis sunt, precem supplicem
+fundimus, ut confugientes ad te in tribulatione sua
+soleris ; propter affectum enim quem habent erga
+te, diligunt me, qui veritatem tuam annuntiavi eis.
+Propter quod miserationis tuæ dextera custodi eos;
+non enim Zacchæus nec alius quisquam hominum
+custos esse eis idoneus potest. Hæc autem et his
+similia cum dixisset Petrus, manibus superpositis
+Zacchæo oravit, ut inculpabiliter episcopatus sui
+servaret officium. Post hæc duodecim presbyteros
+ordinavit et diacones quatuor, et ait : Zacchæum
+hunc vobis ordinavi episcopum, sciens eum timo-
+rem Dei habere et eruditum esse in Scripturis,
+quem quasi Christi locum servantem honorare de-
+betis, obedientes ei ad salutem vestram, et scientes,
+quod sive honor sive injuria quæ ei defertur, ad
+Christum redundat et a Christo ad .Deum. Audite
+ergo eum attentius et ab ipso suscipite doctrinam
+fidel, monita autem vitæ a presbyteris, a diaconi-
+bus vero ordinem disciplinæ. Viduarum religiosam
+curam gerite, pupillos enixius juvate, pauperibus
+misericordiam facite, juvenes pudicitiam docete,
+et ut breviter totum dicam, alterutrum vos in qui-
+bus res poposcerit sustentate. Deum colite qui crea-
+vit cœlum et terram, Christo credite, invicem dili-
+gite, misericordes estote ad omnes, non verbo solo
+sed et opere et rebus implete charitatem.
+
+# block=2 source_x1=1013 source_y1=147 source_x2=1775 source_y2=1575
+. per orationem sanctificato, ut ita demum per hæc
+consecratus possit percipere de sanctis (97).
+LXVIII. — Et cum multa dixisset de ratione ba-
+ptismi, dimissis turbis ad solitam se recepit man-
+sionem, ibique astantibus sibi duodecim, id est,
+Zacchæo et Sophonia, Josepho et Michæa, Eleazaro
+et Phinees, Lazaro et Eliseo, me Clemente et Nico-
+demo, Niceta et Aquila, hoc modo prolocutus est :
+Consideremus fratres , quod justum est; debemus
+enim auxilium aliquod ferre gentibus, quæ ad salu-
+tem vocatæ sunt. Ipsi audistis quod Simon præce-
+dere volens iter nostrum profectus est, quem opor-
+tuerat e vestigio insequi, ut sicubi aliquos subver-
+tere tentaret continuo confutaretur a nobis. Sed
+quoniam injustum mihi videtur, ut derelictis his
+qui jam conversi sunt ad Deum, eorum qui adhuc
+longe sunt curam proferamus, rectum puto tribus
+mensibus permanere me cum his qui in hac civitate
+conversi sunt ad fidem, et firmiores eos efficere, nec
+tamen illos qui adhuc longe sunt penitus negligere,
+ne forte, si diu venenis pessimæ doctrinæ infician-
+tur, difficilius revocentur. Et ideo volo, si tamen
+etiam vobis justum videtur, ut pro Zacchæo quem
+hic ordinavimus episcopum, subjiciatur in numero
+Benjamin filius Saba, et pro Clemente quem decrevi
+mecum semper esse, quia ex gentibus veniens au-
+diendi verbi Dei grande desiderium gerit, Ananias
+filius Safra, pro Niceta vero et Aquila, qui nuper
+conversi sunt ad fidem Christi, Rubelus Zacchæi
+frater et Zacharias structor. Istis ergo quatuor pro
+his quatuor substitutis expleri volo duodecim nu-
+merum, ut me in ipsis semper secum esse sentiat
+Simon.
+
+# block=3 source_x1=1000 source_y1=1568 source_x2=1763 source_y2=2232
+LXIX. Sequestratis igitur me Clemente et Ni-
+ceta et Aquila, ad illos duodecim ait : Volo vos
+post diem crastinum proficisci ad gentes et vestigia
+Simonis insequi, ut omnia quæ agit manifesta mihi
+faciatis. Sed et propositum singulorum diligenter
+requirite et me adfuturum sine mora eis annun-
+tiate, et ne multa vobis dicam, per omnia instruite
+gentiles exspectare adventum meum. Cumque hæc
+atque his similia dixisset : Etiam vos, inquit, fratres,
+si quid vobis ad hæc videtur, dicite, ne forte non
+sit rectum quod mihi soli placet. Tum omnes una
+voce collaudantes eum : Rogamus magis, aiebant,
+ut pro arbitrio tuo cuncta disponas et quod tibi
+ipsi videtur jubeas; hoc enim putamus esse opus
+integrum pietatis, si quæ tu jusseris impleamus.
+
+# block=4 source_x1=196 source_y1=2332 source_x2=969 source_y2=2699
+(96) Et ipsi det nomen suum. Qui Christiani fieri
+volebant, dabant suum nomen ad baptismum, quod
+scriberetur a clero , posteaque ὀνοματογραφέντες et
+subscripti dicebantur. Celebrem ritum docent cum
+multis Siricius papa, epist. 1, cap. 2, et Cyrillus
+Hierosolymitanus, catechesi 3, atque in Προκατη-
+χήσει. Ea Procatechesis, ut id obiter moneam, vel-
+ut homilia S. Basilii De baptismo, Περὶ φωτίσμα-
+τος, exstat, sed multa cum diversitate, in antiquis
+membranis Bibliothecæ Regiæ cod. 1260 et 2403,
+ad cujus posterioris codicis marginem sic notavit
+
+# block=6 source_x1=994 source_y1=2532 source_x2=1752 source_y2=2699
+(97) Possit percipere de sanctis. Hoc est, corpus et
+sanguinem Christi. Id vero magna ignorantia non
+intelligens consarcinator tertiæ Decretalis Clemen-
+tis, sic Rufini verba interpolavit : possit percipere lo-
+cum cum sanctis.
+
+# block=7 source_x1=998 source_y1=2333 source_x2=1755 source_y2=2533
+criticus Græcus : Σαφῶς ἡμῖν δείκνυσι ὁ χαρακτὴρ
+τοῦ προκειμένου λόγου, ὅτι οὐκ ἔστι τοῦ ἁγίου Βασι-
+λείου. In concilio Constantinopolitano sub Mena :
+Στέφανος διάκονος, ὁ καὶ τὰς προσηγορίας τῶν εἰς
+τὸ θεῖον βάπτισμα προϊόντων ἐγγράφειν τεταγ-
+μένος.
+
+# block=8 source_x1=834 source_y1=2269 source_x2=1134 source_y2=2304
+COTELERII NOTÆ.
+
+# block=10 source_x1=660 source_y1=91 source_x2=1388 source_y2=126
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=12 source_x1=1697 source_y1=100 source_x2=1772 source_y2=135
+1312
+
+# block=14 source_x1=206 source_y1=1663 source_x2=968 source_y2=2229
+LXVII. Et cum hæc atque his similia præcepis-
+set, pronuntiavit ad populum dicens : Quoniam tres
+menses statui facere vobiscum , si quis vestrum de-
+siderat, baptizetur, ut exutus prioribus malis, de
+reliquo pro bonis actibus hæres bonorum cœlestium
+ex gestis propriis fiat. Accedat ergo qui vult ad
+Zacchæum, et ipsi det nomen suum (96), atque ab
+eo audiat mysteria regni cœlorum. Jejuniis frequen-
+tibus operam impendat ac semetipsum in omnibus
+probet, ut tribus his mensibus consummatis in die
+festo possit baptizari. Baptizabitur autem unusquis-
+que vestrum in aquis perennibus nomine Trinæ Bea-
+titudinis invocato super se, perunctus primo oleo
+
+# block=15 source_x1=242 source_y1=91 source_x2=313 source_y2=127
+1311

@@ -1,0 +1,202 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,920,997,1667,1942
+2,921,156,1661,791
+3,138,999,893,1983
+4,141,156,884,875
+5,918,2107,1670,2670
+6,141,2098,890,2506
+7,923,919,1660,992
+8,566,99,1239,134
+9,753,2056,1053,2088
+10,141,2501,888,2754
+11,1408,2710,1446,2748
+14,382,886,658,921
+15,137,924,889,1004
+16,1147,864,1411,924
+17,143,90,205,144
+18,1593,92,1665,142
+19,167,1980,357,2026
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=16px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=16px
+# block=18 fontSize=16px
+# block=19 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=19
+²⁹ Cap. VIII.
+
+# block=17
+681
+
+# block=18
+682
+
+# block=8
+CONSTITUTIONES APOSTOLICÆ.--LIB. II.
+
+# block=4
+μᾶλλον περὶ τῶν πνευματικῶν γονέων ὑμῖν ὁ λόγος
+παραινέσει τιμᾷν αὐτοὺς, καὶ στέργειν, ὡς εὐεργέ-
+τας, καὶ πρεσβευτὰς πρὸς Θεὸν, τοὺς δι’ ὕδατος
+ὑμᾶς ἀναγεννήσαντας, τοὺς τῷ ἁγίῳ Πνεύματι πλη-
+ρώσαντας, τοὺς τῷ λόγῳ γαλακτοτροφήσαντας, τοὺς
+ἐν τῇ διδασκαλίᾳ ἀναθρεψαμένους, τοὺς ἐν ταῖς νου-
+θεσίαις στηρίξαντας, τοὺς τοῦ σωτηρίου σώματος καὶ
+τοῦ τιμίου αἵματος ἀξιώσαντας ὑμᾶς (18), τοὺς τῶν
+ἁμαρτιῶν λύσαντας, καὶ τῆς ἁγίας καὶ ἱερᾶς εὐχα-
+ριστίας μετόχους ποιήσαντας , καὶ τῆς ἐπαγγελίας
+τοῦ Θεοῦ κοινωνοὺς καὶ συγκληρονόμους θεμένους
+ὑμᾶς ; τούτους εὐλαβούμενοι τιμᾶτε παντοίαις τι-
+μαῖς· οὗτοι γὰρ παρὰ Θεῷ ζωῆς καὶ θανάτου ἐξου-
+σίαν εἰλήφασιν ἐν τῷ δικάζειν τοὺς ἡμαρτηκότας
+καὶ καταδικάζειν εἰς θάνατον πυρὸς αἰωνίου, καὶ
+λύειν ἁμαρτιῶν τοὺς ἐπιστρέφοντας, καὶ ζωογονεῖν
+αὐτούς.
+
+# block=2
+patribus spiritualibus admonet vos Scriptura, ho-
+norandos illos ac diligendos, tanquam beneficos,
+et ad Deum legatos ; eos qui per aquam regene-
+rarunt vos, qui Spiritu repleverunt, qui verbo la-
+ctarunt, qui in doctrina educaverunt, qui monitis
+stabilierunt, qui corpore salutari et pretioso san-
+guine vos dignati sunt, qui a peccatis absolverunt,
+et sacrosanctæ Eucharistiæ fecerunt participes,
+quique vos promissionis Dei consortes ac cohæ-
+redes constituerunt? Hos venerati, omni honorum
+genere prosequimini ; quoniam a Deo potestatem
+vitæ et necis acceperunt, in judicandis peccatoribus
+condemnandisque ad mortem æterni ignis, et in
+absolvendis a peccato illis qui convertuntur, iis-
+demque vitæ reddendis.
+
+# block=16
+CAPUT XXXIV.
+
+# block=14
+ΚΕΦΑΛΑΙΟΝ ΛΔ'.
+
+# block=7
+Quod principibus ac regibus præstantiores sint sa-
+cerdotes.
+
+# block=15
+Ὅτι τῶν ἀρχόντων καὶ βασιλέων εἰσὶ κρείττους
+οἱ ἱερεῖς.
+
+# block=1
+Hos principum ac regum loco vobis præesse
+existimate; his tanquam regibus vectigalia offerte ;
+nam de bonis vestris ipsi eorumque domestici ali
+debent. Quod in Regnorum primo libro ¹⁹ Samuel
+populo edixit de rege; quod in Levitico Moyses de
+sacerdotibus : idem nos vobis edicimus de episco-
+pis. Nam si illic populus proportione tanti regis
+subministrabat tributa, nonne multo magis nunc
+debet episcopus a vobis accipere, quæ ipsi a Deo
+constituta sunt, ad alendum eum et clericos ejus?
+Imo si quid amplius dici par est, hic plus accipiat,
+quam olim ille : quandoquidem ille militaria tan-
+tum obibat munia; belli ac pacis, pro custodia cor-
+porum, arbiter ; hic vero Dei sacerdotium admi-
+nistrat, periculorum corporis ac animæ averrun-
+cus. Quanto igitur anima præstat corpore, tanto
+sacerdotium regno ; ligat enim ac solvit, prout
+quis pœna vel venia dignus est. Quare episcopum
+diligere ut patrem debetis, vereri ut regem, hono-
+rare ut dominum ; offerendo ei in benedictionem
+vestram fructus vestros atque manuum vestrarum
+opera; tribuendo ipsi, tanquam Dei sacerdoti, ve-
+
+# block=3
+Τούτους ἄρχοντας ὑμῶν καὶ βασιλεῖς (19) ἡγεῖσθαι
+νομίζετε (20), καὶ δασμοὺς ὡς βασιλεῦσι προσφέρετε·
+ἐξ ὑμῶν γὰρ αὐτούς τε καὶ τοὺς συνοίκους αὐτῶν
+τρέφεσθαι χρή. Ὡς Σαμουὴλ διετάξατο πρὸς τὸν λαὸν
+περὶ τοῦ βασιλέως, ἐν τῇ πρώτῃ τῶν Βασιλειῶν, καὶ
+Μωσῆς περὶ τῶν ἱερέων, ἐν τῷ Λευϊτικῷ (21)· οὕτω
+καὶ ἡμεῖς ὑμῖν περὶ τῶν ἐπισκόπων διατασσόμεθα.
+Εἰ γὰρ ἐκεῖ πλῆθος τηλικούτου βασιλέως ἀναλόγως
+τὰς ὑπηρεσίας ἐδίδου, πόσῳ μᾶλλον οὐχὶ καὶ νῦν ὁ
+ἐπίσκοπος λαμβάνειν ὀφείλει παρ’ ὑμῶν τὰ ἐκ τοῦ
+Θεοῦ αὐτῷ ὡρισμένα πρὸς διατροφὴν αὐτοῦ τε καὶ
+τῶν σὺν αὐτῷ κληρικῶν ; Εἰ δὲ δεῖ καί τι προσθεῖναι
+τῷ λόγῳ, πλεῖον οὗτος λαμβανέτω, ἢ ἐκεῖνος τὸ πα-
+λαιόν· ὁ μὲν γὰρ στρατιωτικὰ μόνα διεῖπε, πόλεμον
+καὶ εἰρήνην ἀναδεδεγμένος εἰς φυλακὴν σωμάτων, ὁ
+δὲ τὴν εἰς Θεὸν ἱερωσύνην, σῶμα καὶ ψυχὴν παραι-
+τούμενος κινδύνων. Ὅσῳ τοίνυν ψυχὴ σώματος κρείτ-
+των (22), τοσούτῳ ἱερωσύνη βασιλείας· δεσμεύει γὰρ
+αὐτὴ καὶ λύει τοὺς τιμωρίας ἢ ἀφέσεως ἀξίους. Διὸ
+τὸν ἐπίσκοπον στέργειν ὀφείλετε ὡς πατέρα, φοβεῖ-
+σθαι ὡς βασιλέα, τιμᾷν ὡς κύριον, τοὺς καρποὺς
+ὑμῶν καὶ τὰ ἔργα τῶν χειρῶν ὑμῶν εἰς εὐλογίαν
+
+# block=9
+VARIORUM NOTÆ.
+
+# block=6
+(18) Ὑμᾶς. Deest in altero cod. nec est neces-
+sarium. CLER.
+(19) Καὶ βασιλεῖς. In altero cod. : ἡγεῖσθε καὶ
+βασιλεῖς, καὶ νομίζετε. Rectius, ut conjecerat Cote-
+lerius, ἡγεῖσθε, sed glossema non crediderim esse
+καὶ νομίζετε, sed concionatoris hujusce personati
+βαττολογίας, quales sunt hic multæ. Qui talia cre-
+dunt esse apostolorum, regiam sibi dignitatem clam
+tribuentium, gravi injuria sanctissimos viros affi-
+ciunt, quorum humilitas esset simulata, si hæc eo-
+rum essent. Non secernunt æra lupinis, qui talia
+confundunt. ID.
+
+# block=5
+Eamdem rationem cur sacerdotalis dignitas regiæ
+præferri debeat, adducit quoque inter alias B. Chry-
+sostomus tum alibi, tum præcipue homil. 4 De verbis
+Isaiæ, lib. III De sacerdotio, cap. 1, et homil. 15 in
+II ad Corinthios. Cum quo tam in re, quam in causis
+rei consentiunt vulgo sancti Patres. Quinimo apud
+Philonem Judæum, libro De legatione ad Caium,
+pontificatus tanto supra regnum extollitur, quanto
+Deus et divina hominibus et humanis excellunt.
+Unde injusta fertur a Theodoro Balsamone ad ca-
+nonem 7 Trullanum censura in eos, qui ecclesia-
+sticas dignitates imperatoriis anteponunt. Sozo-
+menus libro II extremo, narrans de imperatorum et
+pontificum sepultura in eadem apostolorum Eccle-
+sia : Ὡς καὶ τῆς ἱερωσύνης ὁμοτίμου τῇ βασιλείᾳ
+οὔσης, μᾶλλον μὲν οὖν ἐν τοῖς ἱεροῖς τόποις καὶ τὰ
+πρῶτα ἐχούσης. COT.
+
+# block=10
+(20) Ἡγεῖσθαι νομίζετε. An scripserat solum-
+modo ἡγεῖσθε : et νομίζετε glossa est? Favent in-
+terpretes. COT.
+(21) Ἐν τῷ Λευϊτικῷ. Desunt in altero cod. Vin-
+dobon. CLER.
+(22) Ὅσῳ τοίνυν ψυχὴ σώματος κρείττων.
+PATROL. GR. I.
+
+# block=11
+22

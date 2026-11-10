@@ -1,0 +1,221 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,177,402,923,1341
+2,956,395,1720,1350
+3,181,1868,932,2458
+4,183,2522,921,2692
+5,181,296,932,398
+6,180,1802,924,1870
+7,179,1543,925,1804
+8,955,1539,1707,2695
+9,182,2457,920,2524
+10,962,283,1712,388
+12,791,1474,1086,1512
+13,178,1368,1709,1440
+14,417,244,689,279
+15,612,83,1284,125
+16,178,143,925,187
+17,965,140,1707,182
+18,171,178,1323,222
+19,1207,234,1445,276
+20,173,88,243,132
+21,1629,72,1701,124
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=21
+670
+
+# block=15
+CONSTITUTIONES APOSTOLICÆ.-LIB. II.
+
+# block=20
+669
+
+# block=17
+ribuli et thymiamatis seu suffitus honorentur¹.
+
+# block=16
+τύπον τοῦ θυσιαστηρίου (86) λελογίσθωσαν ὑμῖν, αἱ
+
+# block=18
+τε παρθένοι εἰς τύπον τοῦ θυμιατηρίου (87) τετιμήσθωσαν, καὶ τοῦ θυμιάματος.
+
+# block=19
+CAPUT XXVII.
+
+# block=14
+ΚΕΦΑΛΑΙΟΝ ΚΖ'.
+
+# block=10
+Quod horrenda res sit, hominem immuttere se in ali-
+quam dignitatem sacerdotalem : ut Coritæ, ut Saul,
+ut Ozias.
+
+# block=5
+Ὄτι φρικῶδες, ἄνθρωπον σαυτὸν ἐπιῤῥίπτειν
+ἀξιωμάτι τινὶ ἱερατικῷ· ὡς οἱ Κορεῖται, ὡς
+Σαούλ, ὡς Ὀζίας.
+
+# block=2
+Quemadmodum igitur alienigenæ, qui non erat
+de tribu levitica, non licebat offerre aliquid, aut
+ad aram² accedere sine sacerdote; ita et vos
+sine episcopo nihil agite. Quod si quis sine epi-
+scopo aliquid faciat, illud frustra facit; nec ipsi
+in opus reputabitur. Et sicut Saul cum absque Sa-
+muele obtulisset, audivit: Inaniter a te actum
+est³: sic quicumque laicus sine sacerdote quidpiam
+operatur, incassum laborat. Et ut rex Ozias, cum
+officia sacerdotum non sacerdos usurcaret, propter
+transgressionem lepra tactus est ⁴ : ita non impune fe-
+ret laicus, qui Deum contempserit, et in sacerdotes
+ejus insanierit, atque honorem sibi arripuerit; minime
+imitatus Christum³, qui semetipsum non clarificavit,
+ut fieret pontifex ⁵, sed exspectavit, ut Patrem audi-
+ret: Juravit Dominus et non pœnitebit eum; tu es sacer-
+dos in æternum secundum ordinem Melchisedec ⁶. Si
+ergo sine Patre Christus seipsum non glorificat; quo-
+modo potest homo se in sacerdotium injicere, a potiore
+non accepta ea dignitate; et illa facere, quæ solis
+sacerdotibus licent? Nonne Coritæ, quanquam le-
+viticæ tribus essent, incendio conflagrarunt, quando
+
+# block=1
+Ὡς οὖν οὐκ ἦν ἐξὸν ἀλλογενῆ, μὴ ὄντα λευίτην,
+προσενέγκαι τι, ἢ προσελθεῖν εἰς τὸ θυσιαστήριον
+ἄνευ τοῦ ἱερέως, οὕτως καὶ ὑμεῖς ἄνευ τοῦ ἐπι-
+σκόπου μηδὲν ποιεῖτε (88). Εἰ δέ τις ἄνευ τοῦ ἐπι-
+σκόπου (89) ποιεῖ τι, εἰς μάτην ποιεῖ αὐτό· οὐ γὰρ
+αὐτῷ εἰς ἔργον λογισθήσεται. Ὡς γὰρ ὁ Σαοὺλ ἄνευ
+τοῦ Σαμουὴλ προσενέγκας, ἤκουσεν, ὅτι « μεματαίωταί
+σοι· » οὕτως καὶ πᾶς λαϊκὸς ἄνευ τοῦ ἱερέως ἐπιτελῶν
+τι, μάταια πονεῖ. Καὶ ὡς Ὀζίας ὁ βασιλεύς, οὐκ ὤν
+ἱερεὺς τὰ τῶν ἱερέων ἐπιτελῶν, ἐλεπρώθη διὰ παρα-
+νομίαν· οὕτως καὶ πᾶς λαϊκὸς οὐκ ἀτιμώρητος ἔσται,
+καταφρονήσας Θεοῦ, καὶ τῶν αὐτοῦ καταμανεὶς ἱερέων,
+καὶ τὴν τιμὴν ἁρπάσας ἑαυτῷ, μὴ μιμησάμενος
+Χριστόν, ὅς « οὐχ ἑαυτὸν ἐδόξασε γεννηθῆναι ἀρχιε-
+ρεύς, » ἀλλὰ περιέμεινεν ἀκοῦσαι τοῦ Πατρός·
+« Ὤμοσε Κύριος, καὶ οὐ μεταμεληθήσεται, σὺ ἱερεὺς
+εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισεδέκ. » Εἰ οὖν
+ἄνευ τοῦ Πατρὸς ὁ Χριστὸς οὐ δοξάζει ἑαυτόν, πῶς οἷόν
+τε ἄνθρωπον ἑαυτὸν εἰς ἱερωσύνην ἐπιῤῥίπτειν (90),
+μὴ λαβόντα τὸ ἀξίωμα παρὰ κρείττονος, καὶ ποιεῖν
+ἐκεῖνα, ἃ μόνοις τοῖς ἱερεῦσιν ἔξεστιν ; ἢ οὐχὶ οἱ
+Κορεῖται (91), καίτοι τῆς Λευὶ φυλῆς ὄντες, πυρί-
+
+# block=13
+¹ L. Polyc. epist. c. 4.-Pseudo-Ignat. ad Tars. 9. ² Ignat. ad Trall. c. 2; ad Philad. c. 7.
+xiii, 13. ⁴ II Paral. xxvi. ⁵ Hebr. v, 5. ⁶ Ps. cxix, 4.
+
+# block=12
+VARIORUM NOTÆ.
+
+# block=8
+verimus quod sacerdotibus non liceat, laicis licere.
+Nonne et laici sacerdotes sumus? Scriptum est,
+Regnum quoque nos et sacerdotes Deo et Patri suo
+fecit. Differentiam inter ordinem et plebem constituit
+Ecclesiæ auctoritas, et honor per ordinis consessum
+sanctificatus. Adeo ubi ecclesiastici ordinis non est
+consessus, et offers, et tinguis, et sacerdos es tibi
+solus. Sed ubi tres, Ecclesia est, licet laici. Unus-
+quisque enim sua fide vivit: nec est personarum ac-
+ceptio apud Deum; quoniam non auditores legi justi-
+ficantur a Deo, sed factores, secundum quod et
+Apostolus dicit. Igitur si habes jus sacerdotis in te-
+metipso, ubi necesse est; habeas etiam oportet disci-
+plinam sacerdotis, ubi necesse sit habere jus sacer-
+dotis. Digamus tinguis? Digamus offers? Quanto
+magis laico digamo capitale est agere pro sacerdote,
+cum ipsi sacerdoti digamo facto auferatur agere
+sacerdotem? De exhortatione castitatis cap. 7. Lege
+libro De monogamia cap. 12. Necnon (si vis) Epi-
+phanium in Expositione fidei cap. 13, et in Anace-
+phalæosi cap. 5. Id.
+(91) Οἱ Κορεῖται, etc. Additur lib. vi, cap. 1 et
+3. Corem et Coritas, seu ducentos illos quinqua-
+ginta, qui cum Core adversus Aaronem conjura-
+verant, flammis ultricibus periisse; Rubenitas vero
+Dathanis et Abiromi socios in Moysem rebelles,
+dehiscente terra fuisse absorptos. Et quidem quod
+spectat ad Dathanem atque Abiromum filios Eliabi,
+et Onem Phelethi sive Phallu filium, cæterosque
+Rubenitas, certa res est ex ipsius Veritatis rela-
+tione. Qua constat minus commode ita scripsisse
+auctorem homiliæ in secundum Domini adventum,
+quæ exstat tomo VI B. Chrysostomi : Τίς τὴν συν–
+αγωγὴν ᾿Αδειρὰμ κατέφλεξε; τίς τοὺς περὶ Κορὲ καὶ
+Δαθὰν ἀνοῖξαι τῇ γῇ τὸ στόμα καὶ καταπιεῖν ἐκέ-
+
+# block=7
+(86) Εἰς τύπον τοῦ θυσιαστηρίου. Mutuavit ex
+S. Polycarpo. Epistolæ vero De septem ordinibus
+Ecclesiæ auctor, tom. IX librorum B. Hieronymi,
+ait de diaconis: Altare Christi sunt, in quo confi–
+ciuntur sacramenta, in quo offertur oblatio. Quid
+ergo in templo Dei, ut ipse nosti, venerabilius altari
+esse potest? Quis non se ad mensam Domini acces–
+surus humiliet? Cor.
+
+# block=6
+(87) Θυμιατηρίου. Hæc vocula et tres sqq. de–
+sunt in altero codice. Id.
+
+# block=3
+(88) Ἄνευ τοῦ ἐπισκόπου μηδὲν ποιεῖτε. Cf. B.
+Ignatium, epist. ad Magnes. 4, ad Trall. 2, ad Philad.
+7, ad Smyrn. 8, ad Polyc. 4. Lectu dignissimum
+est initium epistolæ 27 S. Cypriani: Dominus no–
+ster, inquit, cujus præcepta metuere et observare de–
+bemus, episcopi honorem, et Ecclesiæ suæ rationem
+disponens in Evangelio loquitur, et dicit Petro:
+« Ego tibi dico, quia tu es Petrus, et super istam pe–
+tram ædificabo Ecclesiam meam, et portæ inferorum
+non vincent eam; et tibi dabo claves regni cælorum,
+et quæ ligaveris super terram, erunt ligata et in cæ–
+lis, et quæcumque solveris super terram, erunt soluta
+et in cælis (Matth. xxvi, 18). » Inde per temporum
+et successionum vices, episcoporum ordinatio, et Ec–
+clesiæ ratio decurrit, ut Ecclesia super episcopos
+constituatur, et omnis actus Ecclesiæ per eosdem
+præpositos gubernetur. Lege etiam canonem ult.
+concilii Toletani 4. ID.
+
+# block=9
+(89) Ἐπισκόπου. Legitur in altero cod. Vindob.
+ἱερέως, ut paulo superius. CLER.
+
+# block=4
+(90) Ἑαυτὸν εἰς ἱερωσύνην ἐπιῤῥίπτειν. Ar–
+guuntur a Tertulliano hæretici, libro de illorum
+præscriptione cap. 41, quod laicis sacerdotalia mu–
+nera injungerent. Idem ex orthodoxo factus Mon–
+tanista, duriuscule loquitur: Vani erimus, si puta-

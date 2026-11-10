@@ -1,0 +1,183 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,204,1010,964,1524
+2,992,1006,1761,1524
+3,201,1573,1747,1679
+4,993,145,1754,710
+6,970,1934,1745,2687
+7,213,900,956,1006
+8,645,88,1341,131
+9,820,1703,1112,1737
+10,1264,853,1477,889
+12,985,1770,1738,1936
+13,209,150,957,717
+14,445,858,716,893
+16,195,1758,947,2701
+17,1000,898,1745,968
+18,209,721,1752,843
+19,199,86,275,134
+20,1683,90,1745,132
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=204 source_y1=1010 source_x2=964 source_y2=1524
+Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἰδίοις ἀνδράσι,
+καὶ διὰ τιμῆς αὐτοὺς ἔχετε, καὶ φόβῳ καὶ ἀγάπῃ
+δουλεύετε αὐτοῖς· ὡς ἡ ἁγία Σάρῤα τὸν Ἀβραὰμ
+ἐτίμα, οὐδὲ ἐξ ὀνόματος αὐτὸν ὑπομένουσα καλεῖν,
+ἀλλὰ κύριον αὐτὸν προσαγορεύουσα, ἐν τῷ λέγειν·
+« Ὁ δὲ κύριός μου, πρεσβύτης. » Ὁμοίως οἱ (83) ἄν-
+δρες, στέργετε τὰς ἑαυτῶν γυναῖκας, ὡς ἴδια μέλη,
+ὡς κοινωνοὺς βίου, καὶ συνεργοὺς πρὸς γένεσιν παί-
+δων. « Συνευφραίνου γὰρ, φησὶ, μετὰ γυναικὸς τῆς
+ἐκ νεότητός σου· ἔλαφος σῆς (84) φιλίας, καὶ πῶλος
+σῶν χαρίτων ὁμιλείτω σοι· ἡ δὲ ἰδία ἡγείσθω σου, καὶ
+συνέστω σοι ἐν παντὶ καιρῷ· ἐν γὰρ τῇ ταύτης φιλίᾳ
+
+# block=2 source_x1=992 source_y1=1006 source_x2=1761 source_y2=1524
+Mulieres, estote subjectæ viris vestris ⁷¹, eosque
+in honore habete, ac in timore et charitate servite
+illis : quemadmodum sancta mulier Sara Abraha-
+mum honorabat, ne ex nomine quidem eum ausa
+appellare, sed dominum eum vocans ⁷³, dicendo ⁷⁴ :
+« Dominus autem meus senex est ⁷⁵. » Similiter
+viri, amate uxores vestras, ut propria membra ⁷⁶,
+ut vitæ socias, et ad liberorum susceptionem ad-
+jutrices ⁷⁷. « Lætare enim, inquit, cum uxore ado-
+lescentiæ tuæ : cerva tuæ amicitiæ, et pullus gra-
+tiarum tuarum conversetur tecum ; propria vero
+ducat te, et adsit tibi in omni tempore ; in ejus
+
+# block=3 source_x1=201 source_y1=1573 source_x2=1747 source_y2=1679
+⁶⁹ Matth. ix, 22. ⁷⁰ Lev. xviii, 19. ⁷⁰ Ezech. xviii, 6. ⁷¹ II Tim. iii, 4. ⁷² Coloss. iii, 18.
+⁷³ I Petr. iii, 6. ⁷⁴ l. Pseudo Ignat. ad Antioch. 9. ⁷⁵ Gen. xviii, 12. ⁷⁶ Ephes. v, 25, 28. ⁷⁷ Pseudo-
+Ignat. ad Philipp. 15, ad Heron. 4
+
+# block=4 source_x1=993 source_y1=145 source_x2=1754 source_y2=710
+igitur purgatio naturalis horrorem Deo incutit, qui
+sapienter constituit ut ea omnibus tricenis diebus,
+firmitatis ac sanitatis gratia, mulieribus accideret ;
+quæ, scilicet, minus moventur, quod domi pluri-
+mum sedeant. Quinetiam in Evangelio Dominus,
+cum salutarem fimbriam mulier sanguinis proflu-
+vio laborans tetigisset, ut sanaretur ; non succen-
+suit illi, neque ullatenus accusavit ; imo vero
+curavit eam, dicens : « Fides tua te salvam fe-
+cit ⁶⁹. » Verumtamen quando uxoribus naturalia illa,
+seu menstrua prodeunt ⁷⁰, mariti ad eas non acce-
+dant, ut gignendorum saluti provideatur. Idque lex
+prohibuit. Ait enim : « Ad mulierem quæ propter
+
+# block=6 source_x1=970 source_y1=1934 source_x2=1745 source_y2=2687
+(81) Μήτε μὴν ἐγκυμονούσαις ὁμιλείτωσαν αὐ-
+ταῖς. Ut omittam satis nota non paucorum Patrum
+et canonum testimonia, quæ ad Christianos spe-
+ctant ; habes de Abrahamo, Jacobo, Amramo patre
+Aaronis et Mosis, levitica tribu, veteribus Hebræis
+patribus seu patriarchis, apud Philonem Judæum
+libro De Abrahamo, Clementem Alexandrinum
+Pædagogi II, cap. 10, p. 192 ; Stromatei III, p. 456 ;
+Joannem Chrysostomum homil. 38 in Geneseos
+cap. 16 ; Procopium Gazæum ad idem caput, et Jo-
+nam Aurelianensem De institutione laicali, lib. II,
+cap. 7. Item habes de Essenis sive Essæis, in Jose-
+pho, lib. II Ἁλώσεως, cap. 12, et in Historia Hie-
+rosolymitana Jacobi de Vitriaco, cap. 81 : De Seri-
+bus, Recognitionum VIII, 48 ; de Pescennio denique
+ac Zenobia, apud scriptores Historiæ Augustæ.
+COT.
+(82) Γαμετὰς. Additur in ms. Vind. : Καὶ ὅτι
+συνερχόμενοι ἀλλήλοις, κἂν μὴ λούσωνται, καθαροί
+εἰσιν, μοιγὸν δὲ ἢ πόρνον λουτρὸν οὐ καθαρεῖ. CL.
+(83) Οἱ. In ms. Vind. καὶ οἱ. ID.
+(84) Σῆς. Omittitur in cod. Vind. ID.
+
+# block=7 source_x1=213 source_y1=900 source_x2=956 source_y2=1006
+Ὅπως χρὴ τὰς γυναῖκας ὑποτάσσεσθαι τοῖς
+ἰδίοις ἀνδράσι, καὶ τοὺς ἄνδρας στέργειν τὰς
+ἑαυτῶν γαμετὰς (82).
+
+# block=8 source_x1=645 source_y1=88 source_x2=1341 source_y2=131
+CONSTITUTIONES APOSTOLICÆ. — LIB. VI.
+
+# block=9 source_x1=820 source_y1=1703 source_x2=1112 source_y2=1737
+VARIORUM NOTÆ
+
+# block=10 source_x1=1264 source_y1=853 source_x2=1477 source_y2=889
+CAPUT XXIX.
+
+# block=12 source_x1=985 source_y1=1770 source_x2=1738 source_y2=1936
+illud gravia atque torpentia corpora respondet ver-
+bis nostri auctoris, ἀκινητοτέραις ὑπαρχούσαις,
+quæ allata paulo præcedunt. COT.
+(80) Προσεγγιεί. In secunda persona legitur in
+cod. Vind. προσεγγιεῖς. CLER.
+
+# block=13 source_x1=209 source_y1=150 source_x2=957 source_y2=717
+χούσαις, ἅτε ἐν οἰκίᾳ καθημέναις τὸ πλεῖον. Οὐ μὴν
+δὲ, ἀλλὰ καὶ ἐν τῷ Εὐαγγελίῳ ὁ Κύριος, τῆς αἱμοῤ-
+ῥούσης ἁψαμένης τοῦ σωτηρίου κρασπέδου ὑγιείας
+χάριν, οὐχ ἠχθέσθη ἐπ' αὐτῇ, οὔτε μὴν ὅλως ᾐτιά-
+σατο· τοὐναντίον δὲ καὶ ἰάσατο αὐτὴν, φήσας· « Ἡ
+πίστις σου σέσωκέ σε. » Καὶ φυσικῶν μὲν φαινομένων
+ταῖς γυναιξὶν, οἱ ἄνδρες μὴ συνερχέσθωσαν, προνοίας
+ἕνεκα τῶν γεννωμένων (79). Ἀπεῖπε γὰρ ὁ νόμος.
+« Πρὸς γυναῖκα γὰρ, φησὶν, ἐν ἀφέδρῳ οὖσαν, οὐ προσ-
+εγγιεῖς (80). » Μήτε μὴν ἐγκυμονούσαις ὁμιλείτωσαν
+αὐταῖς (81)· οὐκ ἐπὶ παίδων γὰρ γενέσει τοῦτο ποιοῦ-
+σιν, ἀλλ' ἡδονῆς χάριν· οὐ δεῖ δὲ φίληδονον, τὸν φιλό-
+θεον ὑπάρχειν.
+
+# block=14 source_x1=445 source_y1=858 source_x2=716 source_y2=893
+ΚΕΦΑΛΑΙΟΝ ΚΘ'.
+
+# block=16 source_x1=195 source_y1=1758 source_x2=947 source_y2=2701
+(79) Προνοίας ἕνεκα τῶν γεννωμένων. Hunc et
+superiorem locum illustrabunt verba Æneæ Gazæi
+(vel Αἰνέου σοφιστοῦ et Πλατωνικοῦ Χριστιανοῦ, si
+fides duobus libris mss. Regiæ Bibliothecæ) in dia-
+logo, ante medium : Ἐπεὶ καὶ τῶν Ἑβραίων τὸν
+νόμον προεῖμαι, ὃς τοῦ λελωβημένου τὸν πατέρα
+κατέλευσεν, ὅτι δι' ἀκρασίαν τῆς γυναικὸς τὸν καθαρ-
+μὸν οὐχ ὑπέμεινεν, ὅθεν ἡ τῆς ὕλης πλεονεξία, καὶ
+ἡ αἰσχίστη τοῦ παιδὸς νόσος. Hoc est : Nam et He-
+bræorum legem admitto, quæ corpore fœde vitiati
+hominis patrem adjudicavit lapidationi, eo quod ob
+intemperantiam purgationem conjugis non exspecta-
+verit ; unde materiæ redundantia, et turpissimus
+prolis morbus exstitit. Quæ confer cum Levit. xx,
+18, et Theodorito quæst. 21 in Leviticum. Appo-
+site etiam præ cæteris ad constitutionem Hierony-
+mus in Ezechielis xviii, 6 : Per singulos menses,
+gravia atque torpentia mulierum corpora, im mundi
+sanguinis effusione relevantur. Quo tempore si vir
+coierit cum muliere, dicuntur concepti fœtus vitium
+seminis trahere ; ita ut leprosi et elephantiaci ex hac
+conceptione nascantur, et fœda (f. et in fœda) in utro-
+que sexu corpora parvitate (al. pravitate) vel enor-
+mitate membrorum, sanies corrupta degeneret. Nam
+præter explicatam liberorum sortem [de qua Philo
+Judæus De legibus specialibus, p. 781, Isidorus Pe-
+lusiota multis epistolis, Augustinus, 111 super Le-
+viticum 64, et sermone 244 De tempore, atque alii)
+
+# block=17 source_x1=1000 source_y1=898 source_x2=1745 source_y2=968
+Quo modo oporteat mulieres subjectas esse viris suis,
+et viros diligere uxores suas.
+
+# block=18 source_x1=209 source_y1=721 source_x2=1752 source_y2=843
+menstruum separata est, non appropinquabis ⁷⁰. » Neque etiam cum gravidis uxoribus consuetudinem
+habeant ; id enim non ad suscipiendos liberos faciunt, sed voluptatis causa ⁷¹ : non oportet autem
+ut qui Dei studiosus est, ducatur studio voluptatis.
+
+# block=19 source_x1=199 source_y1=86 source_x2=275 source_y2=134
+985
+
+# block=20 source_x1=1683 source_y1=90 source_x2=1745 source_y2=132
+986

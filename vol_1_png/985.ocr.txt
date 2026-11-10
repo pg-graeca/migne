@@ -1,0 +1,168 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,225,1782,979,2378
+2,234,2436,1763,2507
+3,223,142,975,1043
+4,227,1046,982,1779
+5,233,2609,974,2678
+7,1002,127,1756,2382
+8,774,85,1207,119
+9,837,2542,1138,2578
+13,232,92,310,128
+16,1666,78,1768,126
+17,1002,2609,1770,2683
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=13 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+1370
+
+# block=8
+RECOGNITIONUM LIB. VII,
+
+# block=13
+1369
+
+# block=7
+jam mœchatus est eam in corde suo. Et his addidit :
+Si oculus tuus dexter scandalizat te, erue eum et
+abjice abs te; expedit enim tibi ut unum membrorum
+tuorum pereat, quam totum corpus tuum mittatur in
+gehennam ignis ⁸². Non dixit : scandalizavit te, ut
+posteaquam peccaveris tunc abjicias causam peccati,
+sed : si scandalizat te, hoc est, ut antequam pecces,
+causam peccati provocantis te et irritantis abscidas.
+Ne quis autem vestrum putet, fratres, quod membro-
+rum amputationem mandaverit Dominus : propositum
+in hoc vult resecari, non membra et causas quæ ad
+peccandum illiciunt, quo cogitatio nostra aspectus
+vehiculo subvecta, ad amorem Dei sensibus corpo-
+reis invisa contendat, nec carnalibus oculis, velut
+lascivientibus equis et extra mandatorum viam
+currum declinare cupientibus, relaxet frena et ha-
+benas indulgeat ; sed revocet aspectum corporis ad
+arbitrium mentis, et oculos nostros quos Deus operis
+sui inspectores esse voluit et testes, non patiatur fieri
+lenones mali desiderii. Et ideo cedant legi Dei tam
+corporei sensus quam interna cogitatio, et illius
+voluntati ministrent cujus se opera esse intelligunt.
+XXXVIII. Igitur ut ordo mysterii poscebat et ra-
+tio, die postera baptizatur in mari, et regressa ad
+hospitium omnibus consequenter mysteriis religio-
+nis imbuitur. Aderamus autem et nos filii sui, Ni-
+ceta et Aquila et ego Clemens. Et post hæc simul
+cum ea prandimus, et simul glorificavimus Deum,
+referentes gratias studiis et doctrinæ Petri, qui no-
+bis ostendit per occasionem matris, quomodo pudi-
+citiæ bonum non pereat apud Deum, sicut e contra-
+rio impudicitia, inquit, etiamsi non statim, tamen
+licet tarde non effugit pœnam. In tantum autem
+pudicitia, inquit, Deo placita est, ut etiam his qui
+in errore sunt positi, nonnihil gratiæ in præsenti
+conferat vita. Nam futura beatitudo illis solum re-
+posita est, qui per gratiam baptismi pudicitiam
+justitiamque servaverint. Denique exemplo est huic
+rei etiam hoc, quod erga matrem vestram gestum
+est, cui salus hæc omnis pro mercede pudicitiæ
+reparata est, ad quam custodiendam et conservan-
+dam non sufficit sola continentia, sed ubi senserit
+quis insidias et deceptionem parari, continuo sicut
+ab ignis impetu aut incursu canis rabidi refugiat,
+nec confidat quod hujusmodi insidias possit facile
+aliquis philosophando aut palpando cohibere; sed,
+ut dixi, effugiendum est et longe abscedendum,
+sicut fecit et vestra mater vere et integre bonum
+diligens pudicitiæ. Propter quod et conservata vo-
+bis est ac vos illi, insuper autem et æternæ vitæ
+agnitione donata. Cum hæc et multa alia his simi-
+lia dixisset, vespere facto requievimus.
+
+# block=3
+Non autem rogaret, ut illi quam diligit præstaretur
+hæc gratia, nisi credidisset quod magnum aliquod
+in baptismate munus esset. Unde et ego ⁸⁰ repre-
+hendo plurimos qui cum ipsi baptizentur et cre-
+dant, nihil tamen dignum fide agunt cum his quos
+diligunt, id est uxoribus vel filiis vel amicis, quos
+non ad hoc hortantur quod ipsi assecuti sunt, si
+quidem vere crediderint quod æterna vita per hoc
+donatur. Denique si eos ægrotare videant aut peri-
+culo alicui carnaliter subjacere, dolent et lugent,
+quia in hoc certi sunt eis imminere perniciem. Ita
+ergo, si et de hoc certi essent quod qui Deum non
+colunt, manet eos pœna ignis æterni, quando ces-
+sarent monentes et cohortantes? Aut, si obsiste-
+rent, quomodo non lugerent eos et plangerent,
+certi æterna eis imminere supplicia? Nunc ergo
+illam quidem mulierem evocabimus postmodum, et
+videbimus si amat fidem religionis nostræ, et prout
+consequens fuerit agemus. Hæc autem quoniam fide-
+liter sensit de baptismo, jejunet vel una die ante
+baptismum.
+
+# block=4
+XXXVI. At illa cum juramento satisfaciebat præ-
+sente uxore domini mei Petri, quia ex quo recogno-
+verit filium, præ multo gaudio cibum capere om-
+nino nequiverit, nisi hesterna die calicem aquæ
+solum biberit. Testabatur autem et uxor Petri, di-
+cens ita esse. Et Aquila ait : Quid ergo obstat cur
+non baptizetur? Tum Petrus subridens : Sed non
+est, inquit, hoc jejunium baptismi, quod non pro-
+pter baptismum jejunatum est. Et Niceta : Sed forte,
+inquit, volens Deus matrem nostram nec una die
+agnitis nobis separari a consortio mensæ nostræ,
+præordinavit hoc ut ante jejunaret. Sicut enim pu-
+dicitiam servavit in ignorantia, ut proficeret ei ad
+baptismi gratiam, ita jejunavit antequam sciret je-
+junii rationem, ut proficeret ei ad baptismum, et
+statim ab initio agnitionis nostræ nobiscum pariter
+mensæ consortio frueretur.
+
+# block=1
+XXXVII. Tum Petrus : Non nos, inquit, vincat
+malignus occasione accepta per affectum matris,
+sed magis vos et ego vobiscum hodie jejunemus
+cum ipsa, et crastino baptizabitur (47); neque
+enim justum est ad gratiam personæ alicujus et
+amicitiæ, resolvi et extenuari præcepta veritatis.
+Non ergo pigeat nos magis laborare cum illa, quia
+omne mandatum præterire peccatum est. Doceamus
+autem sensus nostros corporales qui extrinsecus
+sunt, servire interioribus sensibus, et non interiores
+sensus, qui quæ Dei sunt sapiunt, cogamus sequi
+exteriores, qui quæ carnis sunt sapiunt. Propter
+hoc⁸¹ enim et Dominus mandatum dedit, dicens :
+Quicunque viderit mulierem ad concupiscendam eam,
+
+# block=2
+⁸⁰ Unde et ego—imminere supplicia non leguntur in codd. Lipss. ⁸¹ Propter hoc—lenones mali desiderii
+desunt in codd. Lipss. ⁸² Matth. v, 28, 29.
+
+# block=9
+COTELERII NOTÆ.
+
+# block=5
+(47) Vos et ego vobiscum hodie jejunemus cum
+ipsa, etc. Sic lib. x, cap. ult. Petrus patrem Cle-
+
+# block=17
+mentis baptizaturus, indicit jejunium omni plebi,
+quo de ritu in Apologia 2 Justini Martyris, p. 93.

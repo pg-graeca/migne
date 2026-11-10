@@ -1,0 +1,180 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,178,628,935,924
+2,198,2379,948,2680
+3,195,2075,942,2372
+4,983,2075,1745,2691
+5,964,989,1715,1115
+6,188,1007,936,1119
+7,968,903,1714,982
+8,966,776,1722,897
+9,178,551,929,621
+10,225,446,870,522
+11,959,377,1722,548
+12,966,556,1714,637
+13,964,688,1714,766
+15,1138,643,1539,678
+16,623,1939,1281,1975
+17,713,218,1205,296
+18,477,1694,1454,1782
+19,681,1484,1250,1587
+20,522,955,582,991
+21,388,1836,1460,1904
+22,169,62,245,114
+23,1645,48,1715,96
+24,563,36,1339,102
+25,527,376,583,424
+26,295,1234,1581,1352
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=36px
+# block=18 fontSize=37px
+# block=19 fontSize=52px
+# block=20 fontSize=15px
+# block=21 fontSize=28px
+# block=22 fontSize=16px
+# block=23 fontSize=16px
+# block=24 fontSize=16px
+# block=25 fontSize=15px
+# block=26 fontSize=40px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=24
+CONSTITUTIONES APOSTOLICÆ. — PROŒMIA.
+
+# block=23
+510
+
+# block=22
+509
+
+# block=17
+FRAGMENTA.
+
+# block=25
+I.
+
+# block=11
+nec advocatus litium, nec aliis curis negotiorum
+mundialium perplexus. Presbyter pudicus, carceres
+visitet, et peregrinos suscipiat, stateras æquales
+habeat.
+
+# block=10
+EX DECRETO GRATIANI.
+(De consecr., dist. Sacerdotum aliorumque.)
+
+# block=9
+Quando celebratur missa, presbyterium laicus in-
+gredi non præsumat.
+
+# block=12
+2. Diaconi tanquam oculi et aures episcopi sint.
+Catechumeni instruantur.
+
+# block=1
+Sacerdotum, aliorumque clericorum Ecclesiæ
+servientium honores, a laicorum loco discrete ap-
+parere convenit. Quamobrem nulli laicorum liceat
+in eo loco, ubi sacerdotes et reliqui clerici consi-
+stunt (quod presbyterium nuncupatur), quando
+missa celebratur consistere, ut libere ac honorifice
+possint sacra officia exercere [celebrari].
+
+# block=15
+De perceptione, cujus supra.
+
+# block=13
+3. Sacramentum cum omni timore Dei servetur
+a presbyteris, diaconibus et ministris.
+
+# block=8
+4. Communio in crastinum non servetur, sed
+cum timore Dei sumatur; ac clericus nec celeriter
+cibos accipiat.
+
+# block=7
+5. Vasa sacrarii, vel vela vetusta ustulentur, et
+in sacro fonte pulvis obruatur.
+
+# block=20
+II.
+
+# block=5
+6. De palla nullus mortuus obruatur, nec dia-
+conus imponat, vela et pallas subdiaconus in sa-
+crario lavet.
+
+# block=6
+Ex vetustissimo codice Lucensi annorum circiter
+mille ex epistola B. Clementis ad Jacobum.
+1. Episcopus irreprehensibilis sit, non fideijussor,
+
+# block=26
+CONSTITUTIONES APOSTOLICÆ.
+
+# block=19
+PROŒMIA.
+
+# block=18
+J. B. COTELERII JUDICIUM
+
+# block=21
+DE CONSTITUTIONIBUS APOSTOLICIS
+
+# block=16
+(Patres apostolici, t. I, ed. Amstælod. 1724.)
+
+# block=3
+Ex multis, quæ de Constitutionibus apostolicis
+vario doctorum sermone jactantur, vera quædam
+sunt, alia falsa, cætera ejusmodi, ut veritatem an
+falsitatem contineant, certa nequeat argumentatione
+percipi. Ea si in principio Adnotationum istarum
+secreverimus, operæ pretium nos facturos non ne-
+scimus.
+
+# block=4
+stolicas vero διαταγάς, Clementis quidem, sed postea
+adulteratas; quamvis Æthiopes a Græcis edocti
+apostolicam Octabiblum ut sacram et divinam ve
+merentur; quamvis S. Epiphanius hæresi 80, cap.7
+et Cedrenus duobus in locis, inter Veterum testi-
+monia relatis, θεῖον λόγον Diataxibus tribuant;
+attamen liquido constat, ad apostolos et Clementem
+non pertinere σύνταγμα, quod prima Ecclesiæ tem-
+pora latuit, quod a tot sanctis Patribus ignoratum
+fuit, aut neglectum, quod plurimis suspicionem
+movit suppositionis, plurimis certitudinem dedit
+falsitatis; quod catholica Ecclesia a canone Scri-
+pturarum divinarum excludi; quod denique sex-
+centa complectitur cum veritate, cum verisimilitu-
+
+# block=2
+Itaque verum est, Constitutionum apostolicarum
+ὀκτάβιβλον, opus esse apocryphum et pseudepigra-
+phum, ab apostolis non profectum, nec ab aposto-
+lico Clemente. Scilicet, quamvis auctor canonis
+ultimi apostolici, si diversus est ab eo de quo agi-
+mus, aliter statuat; quamvis illos apostolorum ca-
+nones veros censere soleant Græci posteriores, apo-

@@ -1,0 +1,164 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1013,1269,1761,1697
+2,1006,1706,1759,2310
+3,222,1273,970,1786
+4,220,1794,972,2612
+5,1004,2316,1759,2703
+6,226,125,983,1263
+7,1015,138,1767,1261
+8,194,2618,972,2704
+9,738,81,1229,117
+10,1683,82,1773,124
+11,237,70,323,124
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1013 source_y1=1269 source_x2=1761 source_y2=1697
+Ille vero ante lucem ortam, ut Nicetæ petitioni
+faceret satis, quid inter falsa et vera miracula
+esset discriminis, fuse ostendit. Primo autem di-
+luculo Simonem navim, ut Romam peteret, con-
+scendisse, et omnia magiæ suæ secreta in mare pro-
+jecisse, certo accepit nuntio. Hæc populo jam coacto
+ille actutum nuntiat, additque se, quamvis fugien-
+tem Magum, ne hominum mentes depravaret, in-
+sequi cogeretur; apud eos tamen donec in fidei
+doctrina essent confirmati, commoraturum
+
+# block=2 source_x1=1006 source_y1=1706 source_x2=1759 source_y2=2310
+Per hoc itaque temporis spatium, sermones ad
+eos consolandos, et fidei doctrina morumque pie-
+tate imbuendos, singulis quibusque diebus habuit;
+Zachæum episcopum, duodecim presbyteros, qua-
+tuorque creavit diaconos; duodecim sociis suis
+tres alios adjunxit; atque ex iis omnibus duodecim
+ad prædicandam Christi fidem, Simonemque de-
+bellandum præmisit, ac supra duodecim hominum
+millia sacris regeneravit baptismi aquis. Tribus
+demum elapsis mensibus, Clemens, eodem Petro
+jubente, sermones quos ab eo concionante Cæsa-
+reæ exceperat, decim redegit in libros, eosque
+misit ad Jacobum. Petrus vero Tripolim, ubi hie-
+maret, profectus est.
+
+# block=3 source_x1=222 source_y1=1273 source_x2=970 source_y2=1786
+TERTIUS LIBER secundam et tertiam Petri cum Si-
+mone disceptationem exhibet. Sed antequam ad ea-
+rum priorem aggrederetur, summo mane de maximis
+coram confusa plebis multitudine disputandi diffi-
+cultatibus, et de tribus sanctissimæ Trinitatis per-
+sonis apud suos breviter disseruit. Orta luce, in
+eamdem hesternæ disputationis locum se contulit,
+ibique Simon postquam apostolo magicas artes,
+queis tot populorum animos tam cito sibi conci-
+liaverat, frustra exprobrasset, ab ipso petiit ut fi-
+dem, qua de immensitate lucis æternæ acturum se
+esse promiserat, jam liberaret,
+
+# block=4 source_x1=220 source_y1=1794 source_x2=972 source_y2=2612
+Sed ad aliam quæstionem continuo digressus,
+postulat ab eo, cum Deus fecerit omnia, ut ipse
+aiebat, unde sit malum. Quod quidem cum Petrus
+contra rectum disputationis ordinem postulari de-
+monstravisset, tunc Simon unumquemque fato,
+sicut ei decernitur, pertrahi quibusdam rationum
+momentis probare nisus est. Contra vero Petrus
+liberum hominis arbitrium certissimis argumentis
+asseruit. Post hæc ab ipso Simon quæsivit, si visi-
+bile istud cælum resolvetur, cur ab initio factum est.
+Et rursus ab eodem paulo post rogavit cur ille
+Deum, quem Scriptura a nullo videri posse dicit, a
+justis tamen post eorum mortem, videndum fore
+affirmaret. Quibus clare a Petro explicatis, iterum
+petit Magus utrum immortalis esset anima. Sed,
+hujus quæstionis examine in diem crastinum di-
+lato, populus projecit se ad pedes Petri, qui plures
+cum ægrotos, tum obsessos a dæmone, sanos re-
+misit et incolumes.
+
+# block=5 source_x1=1004 source_y1=2316 source_x2=1759 source_y2=2703
+QUARTI LIBRI initio narrat idem Clemens quo
+itinere Petrus Tripolim venerit, quos, in urbibus
+per quas transivit, adduxerit ad Christi fidem, qua
+denique pompa Tripoli exceptus sit. Ibi, altera post
+adventum suum die, Petrus, præmissis, uti dixi-
+mus, sociis suis, quæcunque post eorum discessum
+egerat, ante lucem ortam retulit, ab iisque ea omnia
+didicit quæ a Simone Tripoli fuerant patrata. Prima
+autem luce, nuntiatur Petro eumdem Magum, de
+
+# block=6 source_x1=226 source_y1=125 source_x2=983 source_y2=1263
+ceperat, actis gratiis, primum hunc librum ab-
+solvit.
+In SECUNDO autem LIBRO narrat quomodo, stata
+disputationis Petri adversus Simonem die, ipse
+apostolus, primis gallorum cantibus e lecto sur-
+gens, et pauca quædam de vi consuetudinis matu-
+rius surgendi præfatus, ab Aquila et Niceta, quon-
+dam Simonis discipulis, tunc autem ad fidem Chri-
+stianam conversis, quis ille magus, et quibus mo-
+ribus et actibus esset, certior fieri voluerit. Sic ita-
+que Petrus ad disputationem instructus, ad atrium
+domus, in quo erat multitudo cum Simone congre-
+gata, progreditur. Ibi apostolus, post brevem de pace
+a Christo in mundum allata disputationem, Deum
+cœli et terræ creatorem esse invictis probavit ar-
+gumentis; atque omnes Simonis objectiones, cum
+ex Scriptura sacra, tum ex ratione petitas diluit et
+evertit. His autem illud adjecit, quod immensæ
+lucis æternitas ex lege possit ostendi. Tunc Simon
+apostolo respondit magna eum polliceri, spopondit-
+que fore ut si die crastina et factum mundum et
+animas immortales esse demonstrare voluerit, ad
+disputationem ipse esset reversurus. His dictis,
+Simon cum populi, qui secum venerat, tertia tan-
+tum parte abiit: cæteri omnes Petrum, qui plurimos
+mirabiliter sanavit, ultro secuti sunt.
+
+# block=7 source_x1=1015 source_y1=138 source_x2=1767 source_y2=1261
+consuetum disputationis locum accessit. Ibi autem
+salutato populo, et paucis de ordine in discepta-
+tionibus tenendo præmissis, immortalitatem animæ
+ex iis quæ Deus unicuique homini post mortem
+redditurus est, primum demonstravit. Dehinc Si-
+moni, nonnulla variis argutiis contra objicienti,
+confestim respondit illum de hac animæ immorta-
+litate ex pueri violenter necati imagine, quam in in-
+teriori suo cubiculo asservabat, posse fieri certio-
+rem. His dictis Simon, conscientia percussus, ve-
+niam a Petro, quem istud prophetico spiritu didi-
+cisse credebat, supplex poposcit. Sed ubi Petrus
+id ab iis qui cum eo vixerat se accepisse palam
+professus fuisset, tunc Simon, ira percitus, et va-
+riis contumeliis vexans apostolum : Fortuna, in-
+quit, non veritatis est ista victoria. Petrus vero ex
+iis quæ imprudens confessus erat, illum magum
+esse plane convicit. Quibus Simon commotior fa-
+ctus, repetitis conviciis seditionem frustra exci-
+tare tentavit. Nam ab astante plebe ejectus, et
+derelictus ab omnibus, unum tantummodo habuit
+suæ fugæ comitem. Post hæc Petrus brevi sermone
+docuit et irrogatas ab hominibus injurias, et ipsos
+pravos homines patienter esse tolerandos. Denique,
+pro populo precatus, omnes ut maturius die se-
+quenti convenirent, admonuit.
+
+# block=8 source_x1=194 source_y1=2618 source_x2=972 source_y2=2704
+Sequenti igitur die, cum Petrus ea quæ pridie
+disputata fuerant, comitibus suis recitasset, ad
+
+# block=9 source_x1=738 source_y1=81 source_x2=1229 source_y2=117
+RECOGNITIONES. — PROCEMIA.
+
+# block=10 source_x1=1683 source_y1=82 source_x2=1773 source_y2=124
+1174
+
+# block=11 source_x1=237 source_y1=70 source_x2=323 source_y2=124
+1173

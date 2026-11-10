@@ -1,0 +1,179 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,954,2330,1714,2601
+2,167,1569,927,2604
+3,954,1561,1722,1905
+4,955,1907,1719,2184
+5,955,2186,1715,2327
+6,159,1136,916,1521
+7,954,1128,1711,1295
+8,954,1303,1714,1512
+9,760,353,1103,411
+10,197,2635,1255,2681
+11,326,914,1518,963
+12,155,736,1712,880
+13,471,992,1365,1030
+14,453,221,1415,303
+15,351,453,1498,506
+18,1628,63,1690,102
+19,162,72,224,119
+21,677,659,1181,701
+22,559,54,1281,122
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=25px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=17px
+# block=13 fontSize=16px
+# block=14 fontSize=33px
+# block=15 fontSize=19px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=21 fontSize=16px
+# block=22 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=22
+SUPERIORUM EPISTOLARUM FRAGMENTA.
+
+# block=18
+454
+
+# block=19
+453
+
+# block=14
+SUPERIORUM EPISTOLARUM
+
+# block=9
+FRAGMENTA
+
+# block=15
+Quæ in his non exstant, seu aliorum operum, apud veteres relicta.
+
+# block=21
+EX SPICILEGIO SOLESMENSI (ᵃ).
+
+# block=12
+(Spicilegium Solesmense, complectens SS. Patrum scriptorumque ecclesiasticorum anecdota hactenus
+opera, selecta e Græcis Orientalibusque et Latinis codicibus, publici juris facta curante domno
+J. B. PITRA, O. S. B. monacho e congregatione Gallica; tom. I, Parisiis ap. Firmin Didot fratres,
+1852, in-4°. — Cum editoris permissione.)
+
+# block=11
+S. Clemens Romanus ordinandorum de Ecclesiæ consensu sacerdotum legem statuit.
+
+# block=13
+[Fragmentum ad fidem antiqui interpretis (14) recognitum.]
+
+# block=7
+Fecit Moyses ut Dominus imperaverat, congregata-
+que omni turba ante fores, ait : Iste est sermo quem
+jussit Dominus fieri, statimque obtulit Aaron et filios
+ejus (Lev. VIII, 4-6).
+
+# block=6
+Τί δοκεῖτε, ἀγαπητοί; οὐ π[ροέγνω] Μωϋσῆς τοῦτο
+μέλλειν [ἔσεσθαι]; Μάλιστα ᾔδει, ἀλλ’ ἵνα μὴ ἀ[κατα-
+στα]σία γένηται ἐν τῷ Ἰσραὴλ, οὕτ[ως ἐνό]ησεν, εἰς
+τὸ δοξασθῆναι τ[ὸ ὄνο]μα τοῦ ἀληθινοῦ καὶ μόνου
+[Θεοῦ] (ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν).
+Καὶ οἱ ἀπόστολοι ἡμῶν ἔγνωσαν διὰ τοῦ Κυρίου ἡμῶν
+Ἰησοῦ Χριστοῦ, ὅτι ἔρις ἔσται ἐπὶ τοῦ ὀνόματος τῆς
+ἐπισκοπῆς. Διὰ ταύτην οὖν τὴν αἰτίαν πρόγνωσιν
+εἰληφότες τελείαν, κατέστησαν τοὺς προειρημένους,
+
+# block=8
+In epistola sancti Clementis ad Corinthios (15).
+Sciebat (16) Moyses, quod virga Aaron floritura
+esset (17), sed ideo convocavit populum ut hono-
+rabilis Aaron inveniretur (18), et Deus glorificare-
+tur a populis; ipse autem careret invidia..... Hanc
+
+# block=3
+838 exstat, fol. 111.
+(15) Ad Corinthios. Addendum, prima; collectoris
+usum quam brevius titulos exprimendi, eo minus
+quisque sanus incusabit, quod auctores designet
+Noster multo uberius quam cæteri istiusmodi com-
+mentatores; quinimo magni velim facias hoc
+Joannis nostri testimonium de S. Clemente, utpote
+Romanum et forsan pontificium; excipiasque li-
+benter veteris interpretationis Paulino Nolano, ut
+conjici lubet, ascribendæ laciniam prorsus unicam.
+
+# block=2
+(14) Interpretis. Quis sit vetus ille interpres,
+non potui diu et moleste quærere, quin pluries ea
+mecum revolverim, quibus a Paulino Nolano con-
+ditam fuisse Clementinam versionem, tam Paulinus
+ipse (epist. 46), quam Gennadius (Catal. XLVIII),
+diserte testatur. Audiendus illustris ille interpres
+ac piissimus, in epistola ad Rufinum, nostram
+versionem describens quasi graphice: « Credo enim
+in Translatione sancti Clementis, præter alias inge-
+nii mei defectiones, hanc te potissimum imperitiæ
+meæ penuriam considerasse, quod aliqua in quibus
+intelligere vel exprimere verba non potui, sensu potius
+apprehenso, vel, ut verius dicam, opinata transtule-
+rim. » Quibus mox Paulinus addit eodem tempore
+quo hæc scribebantur, ab ipso legi Moysis libros,
+quos hic ipsius Clementis locus illustrat. Inferre igi-
+tur exinde licet, primum exstitisse antiquam Clemen-
+tinæ epistolæ Latinam versionem hactenus incogni-
+tam, Paulino Nolano, ut probabile est, interprete;
+tum Rufinum inter et Paulinum intercessisse quod-
+dam de Clemente litterarum commercium, quo unus
+Recognitiones, quæ, deperdito textu Græco, ex Latina
+tantum versione permanserunt; alter vero Episto-
+las sibi vertendas recepit, quas adeo raptim trans-
+tulit, ut, neglecta rudi versione, nonnisi Græce ad
+nos usque Clementinæ litteræ pervenerint. Cæte-
+rum Joannes hic diaconus noster Romanus (b),
+primus et unus omnium veterum Latinorum est,
+qui tanti pontificis epistolas, Græce forsan, Latine
+certo tunc temporis Romæ exstantes, authentico
+testimonio adduxerit. In codice Paris. Sangerman.
+
+# block=4
+(16) Sciebat. Singula verba, ut colligenda quam
+diligenter, sic nunquam pensanda satis; incidunt
+enim in locum pene desperatum in textu Græco,
+vulneribus adeo confossum, ut pro virili quisque
+editor mederi sategerit. Attento igitur hoc primo
+verbo sciebat, exploratum pene mihi est bonam esse
+Cotelerii lectionem, huc ἐνόησεν inserentis, ubi Ju-
+nius aliique legunt ἐποίησεν.
+
+# block=5
+(17) Floritura erat. Raro exemplo habes para-
+digma, ad quod provocat inusitatum floritum, de
+quo quidem mentio nonnulla; de priore vero in
+lexicis altum silentium.
+
+# block=1
+(18) Ut honorabilis Aaron inveniretur. Horum in
+Græco nec vola nec vestigium; neque non excita-
+tur mihi suspicio, vel loco doxologiæ, quæ glos-
+sema sapit, alia exstitisse primitus Latinis nostris
+respondentia, vel hæc esse quæ Paulinus candide
+ait non valuisse se intelligere aut exprimere,
+nec nisi opinata, sensu potius apprehenso, transtu-
+lisse.
+
+# block=10
+(a) Tom. I, p. 293. — (b) Vide Prolegomena ad Spicilegium Solesmense, p. LVII.

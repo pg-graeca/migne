@@ -1,0 +1,206 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1034,2048,1797,2215
+2,1034,2213,1796,2381
+3,257,146,1017,489
+4,248,1452,1002,1686
+5,256,583,1009,795
+6,252,1019,1012,1453
+7,247,1711,1005,2717
+8,1031,889,1806,2049
+9,1035,2381,1793,2715
+10,1048,152,1806,536
+13,243,886,1010,1022
+14,540,541,727,580
+15,881,827,1181,859
+17,1046,588,1806,808
+18,636,87,1421,138
+19,262,93,318,135
+21,1278,540,1570,582
+22,1718,88,1802,138
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(39) Seu coram principibus testimonium dixisset,
+sanguinem pro confessione veritatis fundere non
+dubitans. Etiamsi autem ἡγουμένων vox impera-
+tores plures sonet, hic tamen unum Neronem non
+inusitato loquendi modo designat. COUST.
+
+# block=2
+(40) Ἡγουμένων. Joan. Pearsonus, loco lau-
+dato, intelligit præfectos, quales erant ultimo Ne-
+ronis anno duo præfecti prætorio Tigellinus et Sa-
+binus, et cum summa potestate Helius. Eum con-
+sule. CLER.
+
+# block=3
+tientiæ certamen sustinuit, in vincula septies con-
+jectus, fugatus, lapidatus : et præco factus in
+Oriente ac Occidente, eximium fidei suæ decus ac-
+cepit. Cum totum mundum docuisset, et ad Occi-
+dentis terminos venisset (39), ac sub principibus
+martyrium passus esset ; sic e mundo migravit, et
+in locum sanctum abiit, patientiæ summum exem-
+plar factus.
+
+# block=4
+(36) Ἑπτάκις δεσμὰ φορέσας, [ῥαβ]δευθείς,
+λιθασθείς. Expuncto [παι]δευθείς editionis Angli-
+canæ, posui [ῥαβ]δευθείς, propter istud II Corinth.
+xi, 25 : Τρὶς ἐῤῥαβδίσθην, ἅπαξ ἐλιθάσθην. Discimus
+autem ex hoc loco, Paulum septies in vincula
+fuisse conjectum : quod apud alium auctorem non
+memini me legere. COT.
+
+# block=5
+Viris istis sancte vitam instituentibus magna
+electorum multitudo aggregata est, qui multas con-
+tumelias multaque tormenta propter æmulationem
+passi, exemplar optimum inter nos exstiterunt.
+Propter æmulationem vexatæ mulieres Danaides et
+
+# block=6
+(35) Ὑπέσχεν. Editi, ἀπέσχεν. At ex Wott. ms. ex-
+hibet υ...εν. Legit igitur ὑ[πέσχ]εν, vertitque : Pa-
+tientiæ præmium sustinuit. Sic quoque legerat Mill.
+in sua Novi Testam. Græci editione, pag. 327. Inso-
+lens tamen Wottoniana versio mihi videtur, atque
+a contextu aliena ; adeoque ita potius reformanda :
+patientiæ certamen sustinuit. Hesychio enim teste,
+idem est interdum βραβεῖον ac στάδιον : quod pro-
+prie quidem locum notat, in quo cursu et lucta cer-
+tabant athletæ ; verum a SS. Patribus pro vitæ
+præsentis curriculo et certamine eleganter quandoque
+usurpatur : ut videre est apud Svicerum in Thes.
+Eccl. v. Βραβεῖον et Στάδιον. GALL.
+
+# block=7
+hæc esse suspicabatur vir doctus. Ed. BERNARDUS.
+(38) Ἐπὶ τὸ τέρμα τῆς δύσεως. Petrum et Paulum
+Romæ sub Nerone martyrio vitam finiisse, notius
+est quam ut in dubium vocetur. De tempore au-
+tem, opinio duplex est, quidam volunt eodem die
+et anno passum esse utrumque, ut Eusebius ex
+Dionysio, Corinthiorum episcopo, et Caio scriptore
+ecclesiastico ; alii eodem die, sed anno uno inter-
+jecto. Vide magni Scaligeri notas in Eusebium.
+Anonymus [anonymus iste est Simeon Metaphra-
+stes. Liber exstat, sed Latine tantum, apud Lippo-
+manum et Surium ad 29 Junii] autem scriptor de
+certaminibus, peregrinationibus, vita et morte Pe-
+tri et Pauli, quem dominus Petræus, illustrissimi
+Arundellæ comitis sacellanus, e Græcia secum ad-
+vexit, Paulum quinque annis post Petrum martyrio
+sublatum, auctor est, et Justinum et Irenæum hujus
+sententiæ ἀρχηγοὺς laudat, ejus verba ita se habent :
+Λέγουσι δέ τινες προλαβεῖν τὸν Πέτρον ἐνιαυτὸν ἕνα,
+καὶ τὸ μακάριον ἐκεῖνο δέξασθαι καὶ δεσποτικὸν πά-
+θος, τὴν ψυχὴν ὑπὲρ τῶν προβάτων προθέμενον·
+ἀκολουθῆσαι δὲ τούτῳ τὸν μέγαν ἀπόστολον Παῦλον,
+ὡς Ἰουστῖνος καὶ Εἰρηναῖός φασιν, ἐφ' ὅλοις ἔτεσι
+πέντε· καί γε τούτοις ἐγὼ πείθομαι μᾶλλον. Ex hoc
+tractatu, siquidem occasio non incommoda hoc
+loco se offert, placet nonnulla ἐν τάξει προσθήκης
+καὶ περιουσίας de Petro et Clemente nostro, ejus
+successore, subjungere, quæ non ingrata fore le-
+gentibus arbitror : Ἐπιμείνας τε (scilicet Petrus)
+ἐν Βρετανίᾳ ἡμέρας τινάς, καὶ πολλοὺς τῷ λόγῳ
+
+# block=8
+φωτίσας τῆς χάριτος, ἐκκλησίας τε συστησάμενος,
+ἐπισκόπους τε, καὶ πρεσβυτέρους, καὶ διακόνους χει-
+ροτονήσας, δωδεκάτῳ ἔτει τοῦ Καίσαρος Νέρωνος
+αὖθις εἰς Ῥώμην παραγίνεται· ἔνθα καὶ τὸν Λῖνον
+τελειωθέντα εὑρηκώς, τὸν Κλήμεντα ἀντ' αὐτοῦ κε-
+χειροτόνηκεν, ἀπαναινόμενον καὶ τὴν προστασίαν
+παραιτούμενον· ὃν καὶ λόγοις ἱκανοῖς πείσας, καὶ
+θαῤῥεῖν προτρεψάμενος, ἐπὶ τὴν αὐτοῦ τῶν λόγων
+ἀναβιβάζει καθέδραν ; et paulo infra : Οἱ οὖν στρα-
+τιῶται παραχρῆμα πάντας συλλαβόμενοι (scil. qui
+Christo nomen dederant) ἐπὶ τὸν τῶν καταδίκων
+ἄγουσι τόπον· καὶ τοῦ μὲν Κλήμεντος ὡς [vide Eu-
+cherium in testimoniis de Clemente] συγγενοῦς τοῦ
+Καίσαρος φείδονται· Ἡροδίωνα δὲ καὶ Ὀλυμπᾶν [de
+iis D. Paulus Rom. xvi 11, 15], σὺν ἅμα πλήθει, τῇ
+τοῦ ξίφους ὑπάγουσι τομῇ· Πέτρον δὲ τὸν μέγαν τοῦ
+Κυρίου ἀπόστολον [vide Theodoret. Περὶ ἀγάπης]
+ἀντιστρόφως τῷ σταυρῷ προσπηγνύουσιν, ἐφ' ᾧ τὰς
+ἐκ τῶν ἥλων ὀδύνας παραπλησίως τῷ Χριστῷ καὶ
+Θεῷ ἡμῶν καὶ αὐτὸς ὑπομείνας, τὴν καθαρὰν αὐτοῦ
+ψυχὴν καὶ ἀμόλυντον εἰς χεῖρας Θεοῦ παρατίθεται.
+Κλήμης δὲ, μαθητὴς αὐτοῦ καὶ ἐπίσκοπος, τὸ πολύ-
+τιμον αὐτοῦ σῶμα μεγαλοπρεπῶς ἐνταφιάσας, ἐν
+τόπῳ ἐπισήμῳ κατέθετο. JUN. -- Τέρμα τῆς δύ-
+σεως. Romæ, hoc est in Hesperia, sive Italia. FELL.
+At Fello amicissimus Joan. Pearsonus, Cestriensis
+episcopus, in diss. 1 de success. primorum Romæ
+episc., cap. 8, § 9 : Quis unquam dixit, inquit, Ro-
+mam fuisse terminos aut fines Occidentis ? Tum os-
+tendit Hispaniam posse intelligi. Ecce tibi iterum
+alium eruditissimum episcopum Anglum Ed. Stil-
+lingfleetum, in Originibus Britannicis, cap. 1 Bri-
+tanniam interpretantem, non sine verisimilitudine.
+Utrumque adi, nam hæc, urgente prelo, propere
+scribenti eos exscribere non vacat. CLER.
+
+# block=9
+(41) Ὁσίως. Ita se habet ms. heic et in alterius
+epist. cap. 5. Editi utrobique, θείως. Hanc lectionem
+pluribus confirmat Wott. GALL.
+(42) Πολλαῖς αἰκίαις καὶ βασάνοις. Al. leg. πολ-
+λὰς αἰκίας καὶ βασάνους. ID.
+(43) Δαναΐδες καὶ Δίρκαι. Sic ex ms. Wott. Editi
+...Δίρκη. Viris criticis crucem fixit hic locus. Alii
+ex Clem. Alex. Στρωμ., lib. IV cap. 19 interpola-
+tum censent. Al. prorsus expungunt. Al. aliter le-
+gunt. Birr. autem evincit eos decipi, qui putant,
+
+# block=10
+Παῦλος ὑπομονῆς βραβεῖον ὑ[πέσχ]εν (35), ἑπτάκις
+δεσμὰ φορέσας, [φυγα]δευθείς, λιθασθείς (36), κῆρυξ
+γ[ενό]μενος ἔν τε τῇ ἀνατολῇ καὶ ἐν [τῇ] δύσει, τὸ
+γενναῖον (37) τῆς πίστεως αὐτοῦ κλέος ἔλαβεν· δι-
+καιοσύνην διδάξας ὅλον τὸν κόσμον, κα[ὶ ἐπὶ] τὸ
+τέρμα τῆς δύσεως (38) ἐλθὼν, καὶ μαρτυρήσας ἐπὶ
+τῶν ἡγουμένων (40), οὕτως ἀπηλλάγη τοῦ κόσμου,
+καὶ εἰς τὸν ἅγιον τόπον ἐπορεύθη, ὑπομονῆς γ[ενό-]
+μενος μέγιστος ὑπογραμμός.
+
+# block=13
+inter hæreticos reponit, qui hebdomadis dies se-
+ptem a planetis nominabant, cum tamen B. Igna-
+tium et Justinum M. ita loqui solitos constet. CO-
+LOM.
+
+# block=14
+CAPUT VI.
+
+# block=15
+VARIORUM NOTÆ.
+
+# block=17
+Τούτοις τοῖς ἀνδράσιν ὁσίως (41) πολιτευσαμένοις
+συνηθροίσθη πολὺ πλῆθος ἐκλεκτῶν, οἵτινες πολλαῖς
+αἰκίαις καὶ βασάνοις (42) διὰ ζῆλον παθόντες, ὑπό-
+δειγμα κάλλιστον ἐγένοντο ἐν ἡμῖν. Διὰ ζῆλον διω-
+χθεῖσαι γυναῖκες Δαναΐδες καὶ Δίρκαι (43), αἰκί-
+
+# block=18
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=19
+219
+
+# block=21
+ΚΕΦΑΛΑΙΟΝ Ϛ'.
+
+# block=22
+220

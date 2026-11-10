@@ -1,0 +1,208 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,974,418,1737,846
+2,183,419,953,847
+3,974,2452,1735,2723
+4,182,1693,944,2724
+5,182,1401,942,1564
+6,181,1564,946,1698
+7,971,2026,1737,2191
+8,968,2321,1742,2454
+9,183,161,940,285
+10,968,2192,1733,2322
+11,797,942,1099,974
+12,1255,377,1424,415
+13,438,379,701,411
+14,177,1006,938,1401
+15,968,1008,1746,2028
+16,208,868,488,922
+17,1644,110,1724,150
+18,140,86,268,146
+19,973,166,1725,286
+20,179,288,1725,374
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Sed ut vetera exempla relinquamus, veniamus
+ad proximos athletas, et sæculi nostri generosa
+exempla proponamus. Propter æmulationem et in-
+vidiam, qui Ecclesiæ erant fideles et justissimæ co-
+lumnæ, ad mortem usque acerbam persecutionem
+passi sunt. Ponamus nobis ante oculos sanctos
+apostolos. Propter æmulationem iniquam Petrus
+non unum aut alterum, sed plures labores sustu-
+lit, atque ita martyrium passus in debitum gloriæ
+locum ascendit. Paulus propter æmulationem pa-
+
+# block=2
+᾿Αλλ᾿ ἵνα τῶν ἀρχαίων ὑποδειγμάτων παυσώμεθα,
+ἔλθωμεν ἐπὶ τοὺς ἔγγιστα γενομένους ἀθλητάς· λά-
+βωμεν τῆς γενεᾶς ἡμῶν τὰ γενναῖα ὑποδείγματα.
+Διὰ ζῆλον καὶ φθόνον, [᾿Εκκλησίας πι]στοὶ (29) καὶ
+δικαιότατοι στύλ[οι (30) ἐδιώ]χθησαν καὶ ἕως θα-
+νάτο[υ δεινοῦ] (31). Λάβωμεν πρὸ ὀφθαλμῶ[ν ἡμῶν]
+τοὺς ἀγαθοὺς ἀποστόλου[ς (32). ῾Ο Πέτρ]ος διὰ ζῆλον
+ἄδικον οὐχ [ἕνα οὐ]δὲ δύο, ἀλλὰ πλείονας ὑπή[νεγκεν]
+(33) πόνους, καὶ υὕτω μαρτυ[ρήσας] (34) ἐπορεύθη
+εἰς τὸν ὀφειλ[όμενον]τόπον τῆς δόξης. Διὰ ζῆλον [ὁ]
+
+# block=3
+(34) Μαρτυρήσας. De Petri et Pauli passionis
+tempore non liquet. Synodus Romana sub Gelasio
+P. hæreticos garrire ait, Petrum et Paulum diverso
+tempore martyrio fuisse coronatos. Et tamen sic
+sentiebant Justinus M. et Irenæus, qui anonymo
+Græco ms. teste, in libello de certaminibus Petri
+et Pauli, Paulum quinque annis post Petrum mar-
+tyrio sublatum esse tradiderunt. Sic Philastrius
+
+# block=4
+(30) Στύλοι. Christus est Ecclesiæ fundamen-
+tum, ut Paulus ad Corinth. I, Ⅲ, 11 : Θεμέλιον γὰρ
+ἄλλον οὐδεὶς δύναται θεῖναι παρὰ τὸν κείμενον, ὅς
+ἐστιν ᾿Ιησοῦς ὁ Χριστός. Sic Cyrillus Alex. in Mi-
+chæam de Ecclesia loquens : Τεθεμελίωται γὰρ ἐπὶ
+πέτραν, καὶ ἔστιν αὐτῆς ἔρεισμα Χριστὸς ἀκράδαν-
+τος, καὶ διηνεκὴς ἀσφάλεια, σωτήρ τε καὶ λυτρωτής.
+Apostoli vero passim in scriptis Patrum, mundi et
+Ecclesiæ στύλοι vocantur. Ignatius ad Philad.: Στύλοι
+τοῦ κόσμου οἱ ἀπόστολοι. Sic Basilius ad vers. 4
+psal. LXXⅢ, ut est in Catena nostra : Τὴν συνεκτι-
+κὴν τῆς γῆς δύναμιν στύλους εἰρῆσθαι νόησον· εἰσὶ
+καὶ στύλοι τῆς ῾Ιερουσαλὴμ οἱ ἀπόστολοι, κατὰ τὸ
+εἰρημένον, «Στύλος καὶ ἑδραίωμα τῆς ἀληθείας.» Sic
+Chrysostomus in Ethico, hom. 10 ad Ephes. : Πολ-
+λοὺς ἔστιν ἰδεῖν ὡς στύλους ἑστῶτας. Οἶδε γὰρ καὶ
+ἀνθρώπους στύλους καλεῖν, οὐ τῇ δυνάμει μόνον,
+ἀλλὰ καὶ τῷ κάλλει πολὺ παρέχοντας κόσμον, κε-
+φαλὰς ἔχοντας κεχρυσωμένας. Sic homil. 32 ad Rom.
+ubi urbis Romæ, in qua Petrus et Paulus passi et se-
+pulti sunt, encomium elegantissimum habetur : Διὰ
+τοῦτο θαυμάζω τὴν πόλιν, οὐ διὰ τὸν χρυσὸν τὸν
+πολὺν, οὐ διὰ τοὺς κίονας, οὐ διὰ τὴν ἄλλην φαντα-
+σίαν, ἀλλὰ διὰ τοὺς στύλους τῆς ᾿Εκκλησίας τούτους.
+Sic Cæsarius de Paulo resp. ad quæstionem 20 :
+᾿Απειθῶν γὰρ, παίων καὶ σπαράττων λύκος Χριστια-
+νοὺς Παῦλος, ὁ νῦν τῆς ᾿Εκκλησίας στύλος, ἡ ὑψηλό-
+φωνος τῆς πίστεως σάλπιγξ. Sic Theodoretus de Pe-
+tro, orat. Περὶ ἀγάπης· Οὕτω τὴν οἰκουμένην σαλευο-
+μένην ὁ μέγας οὗτος στύλος ὑπήρεισε, καὶ καταπεσεῖν
+οὐκ εἴασε παντελῶς, ἀλλ᾿ ἀνώρθωσε καὶ ἑδραίαν ἀπέ-
+
+# block=5
+(28) Δαβὶδ φθόνον ἔσχεν. Forte ὑπέσχεν. JUN.
+— Nihil mutandum, nam φθόνον ἔχειν est phrasis
+benè Græca, significatque invideri, ut docebit
+H. Stephanus in Thesauro, ex Aristide et Isocrate.
+CLER.
+
+# block=6
+(29) ᾿Εκκλησίας πιστοί. Mallet Birr. addito ar-
+ticulo, οἱ πιστοί. Quin et fortasse legendum, ἄριστοι,
+vel μέγιστοι, aut κράτιστοι ex latiore lacunæ spa-
+tio conjecit. GALL.
+
+# block=7
+(31) Καὶ ἕως θανάτο[υ δεινοῦ]. Ms. hiatum ita
+supplet Jun. Mallet tamen Wott. καὶ ἕως θανά-
+το[υ ἦλθον] : et venerunt usque ad mortem. Fortasse,
+melius. Sic sup. cap. 4 : ᾿Ιωσὴφ μέχρι θανάτου διω-
+χθῆναι, καὶ μέχρι δουλείας εἰσελθεῖν. GALL.
+
+# block=8
+(33) ῾Υπήνεγκεν. Editi ad unum omnes, ὑπ[έμει-
+νεν] contra fidem cod. ms. qui teste Wott. sic se
+habet : ῾Υπη...cum spatio sex circiter litterarum.
+Hinc ipse legit ὑπή[νεγκεν.] GALL.
+
+# block=9
+βολῆς ἠὐλίσθησαν. Ζῆλος Δαθὰν καὶ ᾿Αβειρὼν ζῶν-
+τας κατήγαγεν εἰς ᾅδου, διὰ τὸ στασιάσαι αὐτοὺς
+πρὸς τὸν θεράποντα τοῦ Θεοῦ Μωϋσῆν. Διὰ ζῆλον
+
+# block=10
+(32) Τοὺς ἀγαθοὺς ἀποστόλους. Forte ἁγίους
+scribendum, vel potius πρώτους seu κορυφαίους
+cum primitus per contractionem scriberetur αους,
+quod est πρώτους. JUN.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=12
+CAPUT V.
+
+# block=13
+ΚΕΦΑΛΑΙΟΝ Ε'.
+
+# block=14
+dixisse, cum D. Lucas unum solum ea in noxa
+fuisse distincte pronuntiet. Sic D. Lucas et Joannes
+milites illudentes acetum Domino obtulisse aiunt.
+D. Matthæus unum ex iis id præstitisse narrat. Ita
+D. Paulus Christum post resurrectionem ejus ap-
+paruisse refert τοῖς δώδεκα, cum tamen nec Judas,
+qui suspendio vitam finierat, imo nec Petrus, nec
+Thomas, nec Jacobus tunc temporis interfuerint.
+Simili ritu in Epistola ad Hebræos de pluribus
+dicitur, quod clauserunt ora leonum, et serra erant
+dissecti, quorum tamen unum ad solum Danielem,
+alterum ad Isaiam pertinet. FELL.
+
+# block=15
+φηνε. Nec tantum στύλοι, sed βάρεις etiam et πύρ-
+γοι τῆς ᾿Εκκλησίας vocantur ; unde Cyrillus Alex.
+ut est in Catena nostra ad vers. 4 psal. XLⅦ : Βάρεις
+ὠνομάσθαι φαμὲν τοὺς ἐπισήμους μάλιστα τῶν πύρ-
+γων, οἵπερ ἂν εἶεν ἐν τειχῶν περιβολαῖς· οὐδὲν οὖν
+ἄρα τὸ ἀπεικὸς, ἅτε δὴ πόλεως ἅπαξ τῆς ᾿Εκκλησίας
+ὠνομασμένης, βάρεις αὐτῆς εἶναι λέγειν τοὺς ἁγίους
+ἀποστόλους, ἤγουν τοὺς καθάπαξ τῶν ἁγίων ἐκκλη-
+σιῶν διδασκάλους καὶ μυσταγωγούς, εἶεν γὰρ ἂν
+βάρεις, οἱ μεγάλοι καὶ ἐξαίρετοι τῆς τοῦ Θεοῦ πό-
+λεως, οἱ ἐν αὐτῇ ὑπερέχοντες, et Chrysostomus ad
+vers. 13 ejusdem psalmi ex eadem Catena : "῾Η βά-
+ρεις, ἤτοι πύργους τῆς ᾿Εκκλησίας, τοὺς ἁγίους εἶναί
+φαμεν ἀποστόλους τε καὶ εὐαγγελιστάς. Non ignoro
+tamen ; interdum etiam titulum θεμελίου et κρηπῖ-
+δος, apostolis communicari, quia scilicet Ecclesiam
+supra fundamentum, quod est Christus, fundarunt
+et condiderunt, vel ut Ignatius ad Philad. loquitur,
+ἐν τῷ αἵματι τοῦ Χριστοῦ οἰκείοις ἱδρῶσι καὶ πόνοις
+ἱδρύσαντο. Unde Chrys. hom. 2 in psal. L : "῎Ακουε τί
+φησι Πέτρῳ τῷ στύλῳ, τῇ κρηπῖδι, τῷ διὰ τοῦτο
+κληθέντι Πέτρῳ, ἐπειδὰν τῇ πίστει πεπετρωμένος
+ἦν, et paulo infra ibidem : Στύλος τῆς ᾿Εκκλησίας,
+ἡ κρηπὶς τῆς πίστεως, ἡ κεφαλὴ τοῦ χοροῦ τῶν
+ἀποστόλων, ὁ Πέτρος. Sic Hesychius presbyter, in
+encomio divi Andreæ apud Photium, in Μυριοβί-
+βλῳ· Σάλπιγξ ἡμᾶς ἱερατικὴ πρὸς πανήγυριν ἤθροι-
+σεν ᾿Ανδρέας, ὁ τοῦ χοροῦ τῶν ἀποστόλων πρωτότο-
+κος, ὁ πρωτοπαγὴς τῆς ᾿Εκκλησίας στύλος, ὁ πρὸ
+Πέτρου Πέτρος, ὁ τοῦ θεμελίου θεμέλιος, ὁ τῆς
+ἀρχῆς ἀπαρχή. JUN.
+
+# block=16
+⁵⁹ I Reg. ⅩⅧ, 8.
+
+# block=17
+218
+
+# block=18
+217
+
+# block=19
+rent. Ob æmulationem David non tantùm alienige-
+nis invisus, sed etiam a Saul rege Israel fuit vexa-
+tus ⁵⁹.
+
+# block=20
+Δαβὶδ φθόνον ἔσχεν (28), οὐ μόνον ὑπὸ τῶν ἀλλοφύλων, ἀλλὰ καὶ ὑπὸ Σαοὺλ βασιλέως ᾿Ισραὴλ ἐδιώ-
+χθη.

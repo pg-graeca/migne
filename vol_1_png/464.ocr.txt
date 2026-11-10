@@ -1,0 +1,181 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1038,721,1805,1197
+2,248,722,1004,1151
+3,246,193,1012,670
+4,1038,189,1798,665
+5,248,1366,1010,1571
+6,251,1802,1015,2237
+7,1271,679,1557,712
+8,248,1602,1019,1801
+9,525,677,720,716
+10,864,1297,1170,1335
+11,1031,1368,1798,2245
+12,1267,148,1551,185
+13,607,93,1380,132
+14,516,146,739,188
+16,237,92,307,136
+17,1725,88,1797,138
+18,271,1218,769,1266
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+328
+
+# block=16
+327
+
+# block=13
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=14
+CAPUT LVIII.
+
+# block=12
+ΚΕΦΑΛΑΙΟΝ ΝH'.
+
+# block=4
+Ὁ παντεπόπτης Θεός, [καὶ] Δεσπότης τῶν πνευμά-
+των καὶ Κύριος [πά]σης σαρκὸς, ὁ ἐκλεξάμενος [τὸ]ν
+Κύριον Ἰησοῦν Χριστὸν, καὶ ἡμᾶς δι' αὐτοῦ [εἰ]ς
+λαὸν περιούσιον (96), δῴη πάσῃ [ψ]υχῇ ἐπικεκλη-
+μένῃ τὸ μεγαλο[π]ρεπὲς καὶ ἅγιον ὄνομα αὐτοῦ, [π]ί-
+στιν, φόβον, εἰρήνην, ὑπομονὴν, μακροθυμίαν, ἐγ-
+κράτειαν, ἁγνείαν καὶ σωφροσύνην, εἰς εὐαρέστησιν(97)
+τῷ ὀνόματι αὐτοῦ, διὰ τοῦ ἀρχιερέως καὶ προστάτου
+ἡμῶν, Ἰησοῦ Χριστοῦ· δι' οὗ αὐτῷ δόξα καὶ μεγαλω-
+σύνη, κράτος, τιμὴ, καὶ νῦν καὶ εἰς πάντας τοὺς
+αἰῶνας τῶν αἰώνων. Ἀμήν.
+
+# block=3
+Inspector omnium Deus, spirituum Dominus et
+herus universæ carnis; qui elegit Dominum Jesum
+Christum, et per eum nos in populum peculiarem ⁸⁷;
+omni animæ quæ invocaverit magnificum et san-
+ctum nomen ejus, det fidem, timorem, pacem, pa-
+tientiam, æquanimitatem, continentiam, puritatem
+et temperantiam; ut nomini ejus grata sit, per
+summum sacerdotem et patronum nostrum Jesum
+Christum: per quem illi gloria, majestas, impe-
+rium, honor, et nunc, et in omnia sæcula sæculo-
+rum. Amen.
+
+# block=9
+CAPUT LIX.
+
+# block=7
+ΚΕΦΑΛΑΙΟΝ ΝΘ'.
+
+# block=1
+Τοὺς δὲ ἀπεσταλμένους ἀφ' ἡμῶν Κλαύδιον Ἔφη-
+βον (98), καὶ Οὐαλέριον Βίτωνα, σὺν καὶ Φορτουνά-
+τῳ (99), ἐν εἰρήνῃ μετὰ χαρᾶς ἐν τάχει ἀναπέμψατε
+πρὸς ἡμᾶς, ὅπως θᾶττον τὴν εὐκταίαν καὶ ἐπιποθή-
+την (100) ἡμῖν εἰρήνην καὶ ὁμόνοιαν ἀπαγγέλλωσιν·
+εἰς τὸ τάχιον καὶ ἡμᾶς χαρῆναι περὶ τῆς εὐσταθείας
+ὑμῶν. Ἡ χάρις τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μεθ'
+ὑμῶν, καὶ μετὰ πάντων πανταχῇ τῶν κεκλημένων ὑπὸ
+τοῦ Θεοῦ, καὶ δι' αὐτοῦ· δι' οὗ αὐτῷ δόξα, τιμή, κράτος,
+καὶ μεγαλωσύνη, θρόνος αἰώνιος, ἀπὸ τῶν αἰώνων
+εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν (1).
+
+# block=2
+Missos autem a nobis Claudium Ephebum, et
+Valerium Vitonem cum Fortunato, in pace cum
+gaudio ad nos brevi remittite; ut citius optabilem
+nobisque desideratissimam pacem et concordiam
+annuntient; quo et nos de vestra tranquillitate
+ocius gaudeamus. Gratia Domini nostri Jesu Christi
+sit vobiscum, et cum omnibus ubique vocatis a Deo
+et per ipsum: per quem ei gloria, honor et potentia,
+majestas, solium æternum, a sæculis in sæcula
+sæculorum. Amen.
+
+# block=18
+⁸⁷ Deut. VII, 6; XIV, 2; XXVI, 18.
+
+# block=10
+VARIORUM NOTÆ.
+
+# block=5
+etiam quibus frui datum est Leontii Cyprii locos
+theologicos, annon ex his lacuna ista posset ut-
+cunque suppleri. In his certe utriusque Clementis
+Epistolæ fragmenta haberi, qui manu exaratos le-
+git, affirmat Fr. Turrianus, Defens. epist. pont.,
+lib. v, c. 20. COLOM.
+
+# block=11
+gitur Phebus. De Valerio autem episcopo Treverensi,
+discipulo B. Petri apostoli, ad d. 29 Januarii agere
+Martyrologia, notatum fuit Cotel. GALL.
+(99) Σὺν καὶ Φορτουνάτῳ. Sic ms. apud Wott.
+At editis deest καί. Conjiciebat autem Dav. istud
+ΚΑΙ ms. legendum forsan Γαίῳ: ut sicut Ephebo ac
+Vitoni, ita et Fortunato suum tribuatur prænomen.
+De quo quidem ita Cotel.: ‹ Habes I Cor. XVI, 17,
+nomen Φουρτουδάτου, sive juxta alios codices Φορ-
+τουδάτου, ut hoc loco. Quem Φουρτουδάτον tricesι-
+mum quartum inter LXX discipulos constituit au-
+ctor Chronici Alexandrini pag. 506. › Iste autem
+Fortunatus de quo hic S. Pater, idem videtur esse
+Wott. cum eo, qui ab Apostolo memoratur. ‹ Cum
+enim, inquit, fuerit jam ætate valde provectus,
+magnæque apud Ecclesiam Corinthiorum famæ et
+auctoritatis, a Corinthiis missus Romam venit, ut
+Romanos de schismate certiores faceret, et posce-
+ret eorum opem ad sedandas lites infelices apud
+ipsos iterum ortas. ›
+(100) Ἐπιποθήτην. Ita ms. apud Wott. Editi,
+præter Londin. ἐπιπόθητον : quæ quidem lectio
+magis placet Bois. eo quod adjectiva composita
+sint fere communis generis.
+(1) Ἀμήν. Huici voci Mill. et Vott. subjiciunt ex
+ms. Κλήμεντος πρὸς Κορινθίους Ἐπιστολή.
+
+# block=8
+(96) Εἰς λαὸν περιούσιον. Imitatur Paulum ad
+Tit. II, 14. At Paulus e LXX Interpretibus hanc
+locutionem mutuavit. DAV.
+(97) Εἰς εὐαρέστησιν. Hæc sunt interpolatoris,
+non ea quæ Photius notat, quæ exstant c. XXVI.
+BERN.
+
+# block=6
+(98) Κλαύδιον Ἔφηβον, κ. τ. λ. Jun. cum edi-
+tis ex mala interpunctione quinque legatos ad Co-
+rinthios fuisse missos perhibet. At illud καὶ inter
+Ἔφηβον et Οὐαλέριον interjectum, tres duntaxat
+fuisse ostendit; quorum duo suis prænominibus
+insigniti, videntur fuisse liberti, in familias Clau-
+diorum et Valeriorum asciti. Idque jam suspicatus
+fuerat Bois. Quod exinde probarunt Pears. in notis
+in Epist. S. Ignatii ad Smyrn., cap. 10; et Dodwell.
+in dissert. ad posthum. Pearson., pag. 221, aliique.
+Cæterum Ephebus iste, ut monuit Colom., memo-
+ratur inter Clementis discipulos ad calcem pseudo-
+Abdiæ a Lazio vulgati. Sed pro Ephebus, vitiose le-

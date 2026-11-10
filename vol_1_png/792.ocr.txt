@@ -1,0 +1,169 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,251,275,1004,2108
+2,247,2161,1802,2268
+3,1037,2362,1795,2705
+4,1033,272,1793,2110
+5,253,2498,995,2704
+6,251,203,996,269
+7,251,2362,1000,2502
+8,930,2309,1231,2351
+9,1073,198,1747,270
+10,658,100,1386,137
+11,1267,151,1546,189
+12,250,105,304,143
+13,499,153,746,195
+14,1719,90,1791,136
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=251 source_y1=275 source_x2=1004 source_y2=2108
+Contra vero exsecrabilis illa ac naturæ repu-
+gnans conjunctio, aut illa iniqua actio, utpote Deo
+invisa, Etenim naturæ adversatur nequitia Sodo-
+morum, et illa quæ cum bestiis patratur; æquitati
+autem repugnat adulterium, et fornicatio: quorum
+flagitiorum, illa quidem, impietates sunt; istud
+vero, injuria; at ultimum, peccatum : nullum autem
+eorum impunitum manet, secundum propriam ra-
+tionem. Nam primi dissolutionem ac finem mundi
+procurant, dum quæ naturalia sunt, contra natu-
+ram nituntur perpetrare; secundi vero injuriosi
+sunt, cum aliorum matrimonia corrumpunt; et
+quod a Deo factum fuit unum, dividunt in duo; et
+efficiunt ut liberi suspecti habeantur, virque na-
+turalis ac legitimus insidiis pereat: fornicatio au-
+tem, corruptio est propriæ carnis; non enim spe-
+ctat generationem prolis, sed soli indulget volu-
+ptati; quod incontinentiæ est indicium, non signum
+virtutis. Legibus autem hæc omnia interdicuntur.
+Ita enim pronuntiant Scripturæ: « Non cubabis
+cum masculo concubitum muliebrem ⁵⁸; maledictus
+enim est talis vir; et lapidibus lapidabitis eos;
+abominationem fecerunt ⁵⁹. Omnem concumbentem
+cum jumento, occidite eum; iniquitatem fecit in
+populo ⁶⁰. Et si quis mulierem viro traditam, in-
+quinaverit, occidite utrumque; iniquitatem fece-
+runt, rei sunt, moriantur ⁶¹. » Et deinceps : « Non
+erit fornicator in filiis Israelis; et non erit fornica-
+trix ex filiabus Israelis. Non offeres mercedem
+prostibuli Domino Deo tuo super altare, neque
+pretium canis ⁶². Non enim pura sunt, inquit, vota
+ex mercede meretricis. » Hæc quidem leges ve-
+tuerunt; connubium vero extulerunt, benedictum
+appellantes, quandoquidem benedixit Deus, qui
+conjunxit feminam cum masculo ⁶³⁻⁶⁴. Dicit autem
+sapiens Salomon : « A Domino aptatur uxor viro ⁶⁵; »
+et David ait : « Uxor tua, sicut vitis abundans, in
+lateribus domus tuæ: filii tui, sicut novellæ oliva-
+rum, in circuitu mensæ. Ecce sic benedicetur ho-
+mo, qui timet Dominum ⁶⁶. » Itaque connubium
+honorabile est ac venerandum ⁶⁷; et generatio filio-
+rum pura : nihil enim mali inest in bono. Neque
+
+# block=2 source_x1=247 source_y1=2161 source_x2=1802 source_y2=2268
+⁵⁶ al. ἀσέλγεια. Sic cod. Vind. ⁵⁷ f. τό. ⁵⁸ Levit. XVIII, 22. ⁵⁹ Levit. XX, 13. ⁶⁰ Exod. XXII, 19.
+⁶¹ Levit. XX, 10; Deut. XXII, 22. ⁶² Deut. XXIII, 17. ⁶³⁻⁶⁴ Gen. I, 28. ⁶⁵ Prov. XIX, 14. ⁶⁶ Psal.
+CXXVII, 3. ⁶⁷ Hebr. XIII, 4.
+
+# block=3 source_x1=1037 source_y1=2362 source_x2=1795 source_y2=2705
+40; Joan. VIII, 5, cum Philone apud Eusebium Præ-
+par. evang., lib. VIII, cap. 7, et cum Josepho contra
+Apionem, lib. II, p. 1075. COT.
+(75) Βδέλυγμα. Præfigitur ἔτι in cod. Vindob.
+et post ἐποίησαν subjicitur ἐν τῷ λαῷ. Sed πάντα
+κοιμώμενον usque ad τῷ λαῷ desunt. CL.
+(76) Εὐλόγησεν. Additur αὐτόν in cod. Vindob. Ib.
+(77) Καὶ ὁ σοφὸς Σολομών. Hæc omissa sunt
+in altero Vind. Ib.
+(78) Παρά. Deest in altero cod. Vind. Ib.
+
+# block=4 source_x1=1033 source_y1=272 source_x2=1793 source_y2=2110
+Οὐκέτι δὲ καὶ ἡ παρὰ φύσιν βδελυκτὴ μίξις, ἢ ἡ
+παράνομος πρᾶξις, ἐχθρὰ γὰρ θεοῦ ὑπάρχουσα· καὶ
+γὰρ παρὰ φύσιν ἐστὶν ἡ Σοδόμων ἁμαρτία ⁵⁶, καὶ ἡ
+πρὸς ἄλογα· παράνομον δὲ, μοιχεία καὶ πορνεία· ὧν
+τὰ μὲν, ἀσεβήματα· τὰ ⁵⁷ δὲ, ἀδικία· καὶ τὸ τελευ-
+ταῖον, ἁμάρτημα· οὐδέτερον δὲ αὐτῶν ἀτιμώρητον,
+κατὰ τὴν οἰκείαν διάθεσιν. Οἵ τε γὰρ πρῶτοι διάλυ-
+σιν κόσμου μηχανῶνται, τὰ κατὰ φύσιν παρὰ φύσιν
+ἐπιχειροῦντες ποιεῖν· οἱ δὲ δεύτεροι, οἱ μὲν ἀδικοῦσιν,
+ἀλλοτρίους γάμους φθείροντες, καὶ τὸ ὑπὸ θεοῦ γενό-
+μενον ἓν, διαιροῦσιν εἰς δύο, τούς τε παῖδας ὑπό-
+πτους, καὶ τὸν φυσικὸν ἄνδρα εὐεπιβούλευτον· ἥ τε
+πορνεία, φθορὰ τῆς οἰκείας ἐστὶ σαρκὸς, οὐκ ἐπὶ παι-
+δοποιΐα γινομένη, ἀλλ' ἡδονῇ χαριζομένη τὸ πάν-
+όπερ ἐστὶν ἀκρασίας σύμβολον, ἀλλ' οὐκ ἀρετῆς ση-
+μεῖον. Ἀπηγόρευται δὲ τοῖς νόμοις ἅπαντα ταῦτα.
+Φησὶ γὰρ τὰ λόγια οὕτως· « Οὐ κοιμηθήσῃ μετὰ ἄρῥε-
+νος κοίτην γυναικείαν· ἐπικατάρατος γὰρ ὁ τοιοῦ-
+τος· καὶ λίθοις λιβοβολήσατε αὐτούς (74)· βδέλυγ-
+μα (75) ἐποίησαν· πάντα κοιμώμενον μετὰ κτήνους,
+ἀποκτείνατε αὐτὸν, ἀνομίαν ἐποίησεν ἐν τῷ λαῷ.
+Καὶ ἐάν τις γυναῖκα ὕπανδρον μιάνῃ, ἀποκτείνατε
+ἀμφοτέρους· ἀνομίαν ἐποίησαν, ἔνοχοί εἰσιν, ἀπο-
+θανέτωσαν. » Καὶ ἑξῆς· « Οὐκ ἔσται πορνεύων ἐν
+υἱοῖς Ἰσραήλ· καὶ οὐκ ἔσται πορνεύουσα ἀπὸ θυγα-
+τέρων Ἰσραήλ. Οὐ προσοίσεις μίσθωμα πόρνης Κυ-
+ρίῳ τῷ θεῷ σου ἐπὶ τὸ θυσιαστήριον, οὔτε ἄλλαγμα
+κυνός. Οὐ γὰρ ἁγναὶ, φησὶν, εὐχαὶ ἐκ μισθώματος
+ἑταίρας.» Ταῦτα μὲν ἀπηγόρευσαν οἱ νόμοι· τὸν δὲ
+γάμον ἐσέμνυναν, εὐλογημένον αὐτὸν ἀποκαλέσαντες·
+ἐπειδὴ καὶ εὐλόγησεν (76) ὁ θεὸς ὁ συζεύξας τὸ θῆλυ
+τῷ ἄῤῥενι. Λέγει δὲ που καὶ ὁ σοφὸς Σολομῶν (77)·
+« Παρὰ Κυρίου ἁρμόζεται γυνὴ ἀνδρί· » καὶ ὁ Δαβὶδ
+λέγει· « Ἡ γυνή σου ὡς ἄμπελος εὐθηνοῦσα ἐν τοῖς
+κλίτεσι τῆς οἰκίας σου· οἱ υἱοί σου ὡς νεόφυτα ἐλαιῶν,
+κύκλῳ τῆς τραπέζης σου. Ἰδοὺ οὕτως εὐλογηθήσεται
+ἄνθρωπος ὁ φοβούμενος τὸν Κύριον. » Οὐκοῦν ὁ γά-
+μος τίμιος καὶ σεμνὸς, καὶ ἡ τῶν παίδων γένεσις,
+καθαρά· οὐδὲν γὰρ κακὸν ἐν καλῷ ὑπάρχει. Οὔτε οὖν
+ἡ φυσικὴ κάθαρσις, βδελυκτὴ παρὰ (78) θεῷ, ὃς αὐτὴν
+ὠκονόμησε συμβαίνειν γυναιξὶν ἐν τριακονθημέρῳ,
+συστάσεως χάριν καὶ εὐρωστίας, ἀκινητοτέραις ὑπαρ-
+
+# block=5 source_x1=253 source_y1=2498 source_x2=995 source_y2=2704
+(74) Λίθοις λιθοβολήσατε αὐτούς. Secundum
+sensum et verba Scripturæ Levitici XX, ubi θανάτῳ
+θανατούσθωσαν morte moriantur et λίθοις λιθοβολή-
+σετε αὐτούς, lapidibus lapidabitis eos idem signi-
+ficant; quemadmodum colligere est ex eodem ca-
+pite, præsertim si conferatur cum Ezech. XVI, 58,
+
+# block=6 source_x1=251 source_y1=203 source_x2=996 source_y2=269
+De nefando amore puerorum, adulterio et fornica-
+tione.
+
+# block=7 source_x1=251 source_y1=2362 source_x2=1000 source_y2=2502
+(73) Πορνείας. Addit Vindobonensis codex, καὶ
+μίξεως ἀλόγων, ὅτι τὰ μὲν ἐστι παρὰ φύσιν ἀσέβημα,
+τὰ δὲ παρὰ νόμον ἀδικία, καὶ διὰ τί τούτων ἕκαστον
+ἀπείρηται καὶ κολάζεται. CL.
+
+# block=8 source_x1=930 source_y1=2309 source_x2=1231 source_y2=2351
+VARIORUM NOTÆ.
+
+# block=9 source_x1=1073 source_y1=198 source_x2=1747 source_y2=270
+Περὶ παιδεραστίας, μοιχείας τε καὶ πορ-
+νείας (73).
+
+# block=10 source_x1=658 source_y1=100 source_x2=1386 source_y2=137
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=11 source_x1=1267 source_y1=151 source_x2=1546 source_y2=189
+ΚΕΦΑΛΑΙΟΝ ΚΗ'.
+
+# block=12 source_x1=250 source_y1=105 source_x2=304 source_y2=143
+983
+
+# block=13 source_x1=499 source_y1=153 source_x2=746 source_y2=195
+CAPUT XXVIII.
+
+# block=14 source_x1=1719 source_y1=90 source_x2=1791 source_y2=136
+984

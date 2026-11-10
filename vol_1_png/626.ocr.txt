@@ -1,0 +1,186 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,262,138,1017,824
+2,1047,137,1806,869
+3,1055,1004,1804,1180
+4,261,1003,1018,1171
+5,259,1219,1802,1290
+6,250,1393,1012,2707
+7,663,75,1387,122
+8,874,1327,1174,1364
+9,1293,887,1569,921
+10,1747,79,1800,116
+11,1052,933,1801,1004
+13,253,76,333,128
+14,257,926,1013,1006
+15,505,880,749,928
+16,1037,1394,1805,2700
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+lud per sinceram pœnitentiam condonatum est.
+⁷⁵ Si qui vero instructa veluti acie rebellis delinquat,
+tentans Deum , quasi malos non insectantem ; hu-
+jusmodi venia carebit, licet secum ipse dicat : Bene
+mihi sit, ambulabo in consuetudine cordis mei
+pravi. Qualis existit Amon Manassis filius. Ait enim
+Scriptura : « Et decepit se Amon mala cogitatione
+transgressionis, et dixit : Pater meus a puero multa
+inique egit, et in senectute pœnitentia ductus est ;
+et nunc ego ambulabo prout desiderat anima mea ,
+et postea ad Dominum me convertam. Et fecit ma-
+lum coram Domino, supra omnes qui ante eum vi-
+xerant. Et cito delevit eum Dominus Deus ex terra
+ejus bona. Et irruerunt in eum servi ejus, et inter-
+fecerunt eum in domo ipsius ; et duos tantum annos
+regnavit ⁷⁶. »
+
+# block=2
+σίας μετανοίας συγκεχώρηται. Ἐὰν δέ τις ἐκ παρα-
+τάξεως ἁμαρτάνῃ (38), πειράζων τὸν Θεὸν, ὡς μὴ
+ἐπεξιόντα τοῖς πονηροῖς, ὁ τοιοῦτος ἄφεσιν οὐκ ἔξει,
+κἂν λέγῃ παρ’ ἑαυτῷ, "Ὁσιά μοι γένοιτο, ὅτι πορεύσο-
+μαι ἐν τῇ ἀναστροφῇ τῆς καρδίας μου τῆς πονηρᾶς.
+Τοιοῦτος γάρ τις ἐγένετο καὶ Ἀμὼν ὁ τοῦ Μανασσῆ
+υἱός. Φησὶ γὰρ ἡ Γραφή (39)· « Καὶ παρελογίσατο
+Ἀμὼν λογισμὸν παραβάσεως κακὸν, καὶ εἶπεν· Ὁ πα-
+τήρ μου ἐκ νεότητος πολλὰ παρηνόμησε, καὶ ἐν γήρᾳ
+μετέγνω· καὶ νῦν ἐγὼ πορεύσομαι καθὰ ἐπιθυμεῖ ἡ
+ψυχή μου, καὶ ὕστερον ἐπιστρέψω πρὸς Κύριον. Καὶ
+ἐποίησε τὸ πονηρὸν ἐνώπιον Κυρίου, παρὰ (40) πάν-
+τας τοὺς γενομένους ἔμπροσθεν αὐτοῦ. Καὶ ἐξωλό-
+θρευσεν αὐτὸν Κύριος ὁ Θεὸς ἐν τάχει ἐκ τῆς γῆς τῆς
+ἀγαθῆς αὐτοῦ. Καὶ ἐπέθεντο αὐτῷ οἱ παῖδες αὐτοῦ,
+καὶ ἐθανάτωσαν αὐτὸν ἐν τῷ οἴκῳ αὐτοῦ· καὶ ἐβασί-
+λευσεν ἔτη δύο μόνα. »
+
+# block=3
+Προσέχετε οὖν, οἱ λαϊκοὶ, μήτις ἐξ ὑμῶν τὸν λο-
+γισμὸν τοῦ Ἀμὼν ἐπὶ καρδίαν αὐτοῦ στηρίξῃ (42),
+καὶ ἔσται συντόμως (43) ἀπολλύμενος· ὁμοίως ὁ ἐπί-
+σκοπος συντηρείτω (44) καθὸ δύναται, τοὺς μὴ ἡμαρ-
+
+# block=4
+Attendite ergo, laici, ne quis vestrum cogitatio-
+nem Amonis in cor suum imprimat, sicque pereat
+brevi. Parem in modum episcopus observet quan-
+tum potest, ut qui non peccaverunt, sine peccato
+
+# block=5
+⁷⁵ Eadem verba usurpat Cedrenus edit. Xylandri. p. 33 lin. 5, edit. Reg. t. I, p. 40, D. ⁷⁶ II Pa-
+ral. xxxiii, IV Reg. xxi.
+
+# block=6
+(38) Ἐὰν δέ τις ἐκ παρατάξεως ἁμαρτάνῃ. Quasi
+sua usurpavit Georgius Cedrenus in Compendio
+Historiarum, ubi de Pharaone, dicens : Εἰδέναι δὲ
+δεῖ, ὅτι ἐάν τις ἐκ παρατάξεως ἁμαρτάνει, πειρά-
+ζων τὸν Θεὸν, ὡς μὴ ἐπεξιόντα τοῖς πονηροῖς, ὁ
+τοιοῦτος οὔτε μετανοίας ἀξιοῦται, οὔτε ἀφέσεως·
+ὥσπερ γε καὶ ἄλλοι πλείους, καὶ οὗτος ὁ Φαραώ.
+Κἂν λέγῃ τις παρ’ ἑαυτῷ, "Ὁσιά μοι γένοιτο, ὅτι πο-
+ρεύσομαι ἐν τῇ ἀναστροφῇ τῆς καρδίας μου τῆς πο-
+νηρᾶς, καὶ ὀψέ ποτε μετανοήσω· ὥσπερ Ἀμὼς ὁ
+τοῦ Μανασσῆ· διὸ καὶ τὸ τάχος ἐξωλόθρευσεν αὐτὸν
+ὁ Θεός. Allegat autem Georgius Hamartolus, hoc
+pacto : Ὅπερ οὖν καὶ ἐν ταῖς ἀποστολικαῖς διατά-
+ξεσιν ὑπεμφαίνων ὁ θεῖος λόγος οὕτω φησίν· Ἐὰν
+δέ τις ἐκ παρατάξεως (alter ex codicibus Regiis πα-
+ρατάσεως) ἁμαρτάνει, πειράζων τὸν Θεὸν, ὡς μὴ
+ἐπεξιόντα τοῖς πονηροῖς, ὁ τοιοῦτος ἄφεσιν οὐκ ἔξει,
+κἂν λέγει παρ’ ἑαυτῷ, "Ὁσιά μοι γένοιτο, ὅτι πορεύ-
+σομαι ἐν τῇ ἀναστροφῇ τῆς πονηρᾶς μου καρδίας,
+καὶ τότε μετανοήσω· τοιοῦτος γὰρ ἐγένετο καὶ ὁ
+Ἀμὼς, ὁ τοῦ Μανασσῆ υἱός. Φησὶ γὰρ ἡ Γραφή· Καὶ
+παρελογίσατο Ἀμὼς, ὁ τοῦ Μανασσῆ υἱὸς, λογισμὸν
+παραβάσεως πονηρὸν, καὶ εἶπεν· Ὁ πατήρ μου πολλὰ
+ἐκ νεότητος παρηνόμησεν, καὶ ἐν γήρει μετενόησεν· καὶ
+νῦν ἐγὼ πορεύσομαι καθὼς ἐπιθυμεῖ ἡ ψυχή μου,
+καὶ ὕστερον ἐπιστρέψω πρὸς Κύριον. Καὶ ποιήσας
+τὸ πονηρὸν ἐνώπιον Κυρίου, ἐξωλόθρευσεν αὐτὸν ἐν
+τάχει. Ostendunt ea loco, excidisse e nostris Con-
+stitutionibus verba, καὶ ὀψέ ποτε (vel καὶ τότε)
+μετανοήσω. Videtur autem παρατάσεως esse er-
+ratum scribarum, non sine dispendio sensus atque
+elegantiæ. Præclare enim dicitur ἐκ παρατάξεως
+ἁμαρτάνειν, qui Deum rebellis contemptorque pec-
+cando oppugnat, et dedita opera obstinatoque ani-
+mo divinæ gratiæ reluctatur. Cot.
+(39) Φησὶ γὰρ ἡ Γραφή. Idem feratur judicium
+de hybrida hoc textu, ac de illo capitis superioris.
+Præter mox adductos Georgios, falsus Chrysosto-
+mus ad Matth. i, 10 : Fuit Amos valde iniquus, ut
+
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=9
+ΚΕΦΑΛΑΙΟΝ ΚΔ'.
+
+# block=10
+652
+
+# block=11
+Ὅτι Χριστὸς (41) Ἰησοῦς Κύριος παρεγένετο
+ἁμαρτωλοὺς σῶσαι διὰ μετανοίας.
+
+# block=13
+651
+
+# block=14
+Quod Christus Jesus Dominus ideo advenit, ut per
+pœnitentiam servaret peccatores.
+
+# block=15
+CAPUT XXIV.
+
+# block=16
+extant opera sua maligna, quibus imitatus fuerat
+Manassem, ut etiam Deum posse se fallere æstimaret,
+dicens : Pater meus multa ex juventute sua iniqua
+fecit, et in senectute sua pœnituit : et ego nunc am-
+bulabo, secundum quod desiderat anima mea, et
+postmodum convertar ad Dominum. Michael Glycas
+parte II Annalium : Φησὶ γὰρ ἡ Γραφή· Καὶ παρ-
+ελογίσατο Ἀμὼς λογισμὸν πονηρὸν, καὶ εἶπεν·
+Ὁ πατήρ μου πολλὰ ἐκ νεότητος παρηνόμησε,
+καὶ ἐν γήρει μετενόησε. Καὶ νῦν ἐγὼ πορεύσομαι
+καθὼς ἐπιθυμεῖ ἡ ψυχή μου, καὶ ὕστερον ἐπι-
+στρέψω πρὸς Κύριον. Cyrillus Alexandrinus ora-
+tione De exitu animæ et de secundo adventu : Οἱ
+λέγοντες, Ἐν νεότητι ἁμαρτήσωμεν, καὶ ἐν γήρᾳ με-
+τανοήσωμεν, ὑπὸ δαιμόνων ἐμπαίζονται καὶ χλευά-
+ζονται, καὶ ὡς ἑκουσίως ἁμαρτάνοντες, τῆς μετα-
+νοίας οὐκ ἀξιοῦται, ἀλλ’ ἐν νεότητι ὑπὸ τῆς τοῦ θα-
+νάτου δρεπάνης θερίζονται· ὡς Ἀμὼν ὁ τοῦ Ἰσραὴλ
+βασιλεὺς, ὁ καὶ τὸν Θεὸν παροργίσας διὰ τοὺς πονη-
+ροὺς αὐτοῦ λογισμοὺς, καὶ τὰς βεβήλους αὐτοῦ ἐν-
+νοίας. Οἱ γὰρ λέγοντες, Σήμερον ἁμαρτήσωμεν, καὶ
+αὔριον μετανοήσωμεν, οἱ τοιοῦτοι ἐματαιώθησαν ἐν
+τοῖς διαλογισμοῖς αὐτῶν. Hoc est : Qui dicunt, Pec-
+cemus in juventute, et in senectute pœnitentiam age-
+mus, a dæmonibus illuduntur, atque deridentur ;
+quoniamque ultro peccant, eis pœnitere non datur,
+sed in juventute mortis falce demetuntur : ut Amon
+Israelitarum rex, qui etiam Deum suis pravis delibe-
+rationibus, profanisque mentis conceptibus irritavit.
+Nam qui dicunt, Hodie peccemus, et cras pœniten-
+tia ducemur, ii evanuerunt in cogitationibus suis.
+Cot.
+(40) Πάντας. Deest in altero cod. Vienn. Cl.
+(41) Χριστός. Alter melius pro hac voce et dua
+bus sequentibus : Κύριος Ἰησοῦς. Id.
+(42) Στηρίξῃ. Unus στηρίσῃ. Id.
+(43) Συντόμως. Alter σὺν τῷ Ἀμώς, quomodo
+hic vocatur Amon, in eo cod. Id.
+(44) Συντηρείτω. Διδασκέτω. Id.

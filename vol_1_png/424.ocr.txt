@@ -1,0 +1,211 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+2,1048,981,1798,1579
+8,1297,941,1548,974
+9,258,1822,1007,2718
+11,546,937,770,974
+12,1041,1821,1804,2715
+14,636,103,1428,141
+15,1082,1623,1788,1667
+16,530,1589,738,1622
+17,272,157,1017,801
+18,1048,159,1813,804
+19,298,1697,518,1729
+20,299,1632,1001,1666
+21,874,1751,1181,1787
+22,269,807,1802,926
+24,269,94,357,144
+25,1741,104,1801,144
+26,263,1285,1011,1583
+27,258,975,1012,1287
+28,1293,1584,1553,1624
+
+# layer=format
+# block=2 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=24 fontSize=16px
+# block=25 fontSize=16px
+# block=26 fontSize=15px
+# block=27 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=28
+ΚΕΦΑΛΑΙΟΝ Κʹ.
+
+# block=24
+247
+
+# block=14
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=25
+248
+
+# block=17
+exsultationem et lætitiam : exsultabunt ossa humi-
+liata. Averte faciem tuam a peccatis meis; et omnes
+iniquitates meas dele. Cor mundum crea in me, Deus;
+et spiritum rectum innova in visceribus meis. Ne
+projicias me a facie tua; et spiritum sanctum tuum
+ne auferas a me. Redde mihi lætitiam salutaris tui;
+et spiritu principali confirma me. Docebo iniquos
+vias tuas ; et impii convertentur ad te. Libera me de
+sanguinibus, Deus, Deus salutis meæ: exsultabit lin-
+gua mea justitiam tuam. Domine, os meum aperies;
+et labia mea annuntiabunt laudem tuam. Quoniam si
+voluisses sacrificium, dedissem utique : holocaustis
+non delectaberis. Sacrificium Deo spiritus contribu-
+latus : cor contritum et humiliatum Deus non despi-
+ciet ¹.
+
+# block=18
+ρισθήσομαι· πλυνεῖς με, καὶ ὑπὲρ χιόνα λευκαν-
+θήσομαι. Ἀκουτιεῖς με ἀγαλλίασιν καὶ εὐφροσύ-
+νην· ἀγαλλιάσονται ὀστᾶ τεταπεινωμένα. Ἀπό-
+στρεψον τὸ πρόσωπόν σου ἀπὸ τῶν ἁμαρτιῶν
+μου, καὶ πάσας τὰς ἀνομίας μου ἐξάλειψον. Καρ-
+δίαν καθαρὰν κτίσον ἐν [ἐμο]ὶ, ὁ Θεὸς, καὶ πνεῦμα
+εὐθὲς (27) ἐγκαινισον ἐν τοῖς· ἐγκάτοις μου. Μὴ
+ἀπο[ρῥί]ψῃς με ἀπὸ τοῦ προσώπου (28) σου, [καὶ
+τὸ πνεῦ]μα τὸ ἅγιόν σου μὴ ἀντανέ[λῃς ἀπ’ ἐ]-
+μοῦ. Ἀπόδος μοι τὴν ἀγαλ[λίασιν] τοῦ σωτηρίου
+σου, καὶ πνεύματι [ἡγεμο]νικῷ στήρισόν με (29).
+Διδά[ξω ἀνό]μους τὰς ὁδούς σου, καὶ ἀ[σεβεῖ]ς
+ἐπιστρέψουσιν ἐπὶ σέ. [Ῥῦσαι] με ἐξ αἱμάτων, ὁ
+Θεὸς, ὁ Θεὸς τῆς [σωτ]ηρίας μου· [ἀγαλλι]άσε-
+ται ἡ γλῶσσά μου τὴν [δικ]αιοσύνην σου. Κύριε,
+
+# block=22
+τὸ στόμα μου [ἀν]οίξεις (30), καὶ τὰ χείλη μου ἀναγ[γε]λεῖ τὴν αἴνεσίν σου. Ὅτι εἰ ἠ[θ]έλησας
+θυσίαν, ἔδωκα ἄν· ὁλοκαυτώματα οὐκ εὐδοκήσεις. Θυσία τῷ Θεῷ πνεῦμα συντετριμμένον· καρδίαν
+συντετριμμένην καὶ τεταπεινωμένην ὁ Θεὸς οὐκ ἐξουδενώσει.
+
+# block=11
+CAPUT XIX.
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ ΙΘ'.
+
+# block=27
+Taliu[m] igitur ac tantorum, adeoqve præclaris
+testimoniiis celebrium humilitas, ac demissio per
+obedientiam, non tantum nos, sed et ætates quæ
+nos præcesserunt meliores fecit, eosqve qui in ti-
+more et veritate eloqvia ejus susceperunt. Multo-
+rum igitur magnorumqve ac illustrium gestorum
+participes facti, recurramus ad pacis scopum nobis
+
+# block=2
+Τῶν τοσούτων οὖν καὶ τοιούτων οὕτως μεμαρτυ-
+ρημένων τὸ ταπεινόφρον καὶ τὸ ὑποδεὲς (31) διὰ τῆς
+ὑπακοῆς, οὐ μόνον ἡμᾶς, ἀλλὰ καὶ τὰς πρὸ ἡμῶν γε-
+νεάς, βελτίους ἐποίησεν, τούς τε καταδεξαμένους (32)
+τὰ λόγια αὐτοῦ ἐν φόβῳ καὶ ἀληθείᾳ. Πολλῶν οὖν καὶ
+μεγάλων καὶ ἐνδόξων μετειληφότες πράξεων, ἐπανα-
+δράμωμεν ἐπὶ τὸν ἐξ ἀρχῆς παραδεδομένον ἡμῖν τῆς
+εἰρήνης σκοπόν· καὶ ἀτενίσωμεν εἰς τὸν πατέρα καὶ
+κτίστην τοῦ σύμπαντος κόσμου, καὶ ταῖς μεγαλοπρε-
+πέσι καὶ ὑπερβαλλούσαις αὐτοῦ δωρεαῖς τῆς εἰρήνης,
+εὐεργεσίαις τε κολληθῶμεν· ἴδωμεν αὐτὸν κατὰ διά-
+νοιαν, καὶ ἐμβλέψωμεν τοῖς ὄμμασι τῆς ψυχῆς εἰς τὸ
+μακρόθυμον αὐτοῦ βούλημα· νοήσωμεν πῶς ἀόργητος
+ὑπάρχει πρὸς πᾶσαν τὴν κτίσιν αὐτοῦ.
+
+# block=26
+ab initio traditum; et figamus oculos in patrem et
+creatorem totius mundi, atque illius magnificis et
+exsuperantibus donis pacis ac beneficiis hæreamus:
+cogitatione contemplemur eum, mentisque oculis
+patientissimam illius voluntatem intueamur: con-
+sideremus quo modo erga omnem creaturam suam
+lenem facilemque se præbeat.
+
+# block=16
+CAPUT XX.
+
+# block=15
+Οἱ οὐρανοὶ τῇ διοικήσει αὐτοῦ σαλευόμενοι (33) ἐν
+
+# block=20
+Cœli gubernatione ejus commoti, in pace ei sub-
+
+# block=19
+¹ Psal. L, 5-19.
+
+# block=21
+VARIORUM NOTÆ.
+
+# block=12
+δὲν συνεχύθη τῶν ὄντων· οὐ θάλαττα τὴν γῆν ἐπέ-
+κλυσεν, οὐχ ἥλιος τόδε τὸ ὁρώμενον κατέκαυσεν, οὐχ
+οὐρανὸς παρεσαλεύθη, οὐ νυκτὸς οὐδ᾽ ἡμέρας ὅροι συν-
+εχύθησαν, οὐχ ὡρῶν τροπαὶ, οὐκ ἄλλο τῶν τοιούτων
+οὐδέν· ἀλλ᾽ ἕκαστον καὶ τῶν κάτω καὶ τῶν ἄνω, μετὰ
+πάσης ἕστηκε τῆς ἀκριβείας, τοὺς ἅπαξ τιθέντας ὅρους
+ἐξ ἀρχῆς αὐτῷ διατηροῦν. Vox autem saleubθῆναι, ut
+obiter moneamus; non semper motum localem et
+corporis significat, sed motus etiam et affectus ani-
+mi interdum metaphoricῶς, ut notat Greg. Nazian.
+ad illud psal.xxxιι. Σαλευθήτωσαν πάντες οἱ κατοι..
+κοῦντες τὴν οἰκουμένην, ut est in Catena nostra,
+᾽Ακούοντες, φησὶ, αὐτοῦ οἱ τὴν οἰκουμένην οἰκοῦντες
+ἄνθρωποι, ἀπὸ τῆς προτέρας στάσεως ἧς εἶχον εἰδω-
+λολατροῦντες δηλονότι σαλευθήτωσαν, τῷ ἰδίῳ δη
+μιουργῷ ὑπακούοντες. Τὸ γὰρ σαλευθῆναι ἐνταῦθα
+δηλοῖ, οὐ κίνησίν τινα σωματικὴν, ἣ κλόνον τοιοῦτον.
+᾽Εκεῖνο δὲ μᾶλλον ἔθος καὶ θεοπνεύστῳ Γραφῇ καὶ
+ἡμῖν αὐτοῖς ἐπὶ τῶν ἐπισήμως δρωμένων λέγειν ὅτι
+ἐσαλεύθη· οἷον ὅτε Χριστὸς ἐποχούμενος τῷ πώλῳ,
+μειρακίων ὑμνολογούντων αὐτὸν, ἀνέβη εἰς ῾Ιεροσό-
+λυμα· τότε τὸ ἐπίσημον τῆς εἰσβολῆς διερμηνεύων ὁ
+εὐαγγελιστὴς γέγραφεν, ὅτι εἰσελθόντος αὐτοῦ εἰς ῾Ιε-
+ροσόλυμα ἐδείσθη πᾶσα ἡ πόλις, ἀντὶ τοῦ, ἔγνω, καὶ
+ἔλαθεν οὐδένα, καὶ τεθαύμαστο παρὰ πάντων. Οὕτω
+καὶ ἐνθάδε νοήσεις τὸ, σαλευθῆναι πάντας τοὺς κατοι-
+κοῦντας τὴν οἰκουμένην, καταπληττομένους καὶ θαυ-
+
+# block=9
+(27) Εὐθέσ. Ita legebant in ms. Mill. et Wott.
+ut apud LXX, ubi editi, εὐθύ. Et mox ms. ἐνκάτοις
+pro ἐγκάτοις, codd. impp. Gall.
+(28) Ἀπὸ τοῦ προσώπου. Deest τοῦ codd. impp.
+quod exstat in ms., ut apud LXX. ID.
+(29) Στήρισόν με. Sic se habet ms., non vero,
+ut in editt. στήριξόν με. ID.
+(30) Κύριε τὸ στόμα μου ἀνοίξεις. Hodierna LXX
+versio : Κύριε τὰ χείλη ἀνοίξεις, καὶ τὸ στόμα μου,
+κ. τ. λ. Clementinae tamen lectioni favet S. Ambro-
+sius : Os meum aperies, et annuntiabit laudem tuam :
+epist. 42, n. 4. edit. BB, ID.
+(31) Τὸ ὑποδεές. Id est, τὸ ἐπίφοβον, ἢ ὑπόφοβον :
+submissio cum pavore. Hesychius, ὑποδεέστερος,
+ταπεινότερος, ὑποδεής, ἐνδής, καταδεής, ἐπίφοβος.
+Bois. Id.
+(32) Καταδεξαμένους. Litterula mutata, legen-
+dum καταδεξομένους, in futuro. Ita et superiores,
+et præsentes, et posteros, ut par est, memorat,
+Dav. Id.
+(33) Τῇ διοικήσει αὐτοῦ σαλευόμενοι. Μὴ σα-
+λεύμενοι, sic Chrysostomus ad versum in psal. cXLVIII :
+Οὐχ οὐρανὸς παρεσαλεύθη. Locus integer divinam
+διοίκησιν universi elegantissime depingit. Καὶ τὸ δὴ
+θαυμαστὸν, οὐχ ὅτι διακρατεῖ μόνον, οὐδὲ ὅτι ἐστή-
+κασιν ἀκίνητοι οἱ νόμοι τῆς φύσεως, ἀλλ' ὅτι καὶ χρό-
+νον οὕτως ἄπειρον. Ἐννόησον γοῦν πόσος αἰὼν, καὶ οὐ-

@@ -1,0 +1,185 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1043,1708,1804,2671
+2,1061,150,1806,705
+3,274,147,1024,704
+4,265,1034,1023,2705
+5,672,93,1399,132
+6,887,948,1184,988
+7,1047,1029,1815,1710
+9,277,95,332,133
+10,272,708,1649,759
+11,304,814,746,854
+12,1743,88,1805,132
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+764
+
+# block=5
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9
+763
+
+# block=3
+scire debetis, primas quidem et unicas nuptias,
+quando secundum legem ac jus fiunt, justas esse,
+utpote juxta voluntatem Dei celebratas ; secundas
+vero post professionem nuptias, esse illicitas, non
+propter conjugium, sed propter mendacium ; ter-
+tias nuptias, intemperantiam demonstrare ; at quod-
+libet post tertias nuptias matrimonium, manifestam
+esse fornicationem, et indubitabilem petulantiam.
+Deus quippe unam uxorem uni viro tradidit, in
+mundi primordio : ‹ Erunt enim duo in carne
+una ⁶⁹. › Adolescentioribus vero viduis post primi
+mariti obitum secundus concedatur, ne in judi-
+cium diaboli incidant ⁷⁰, et in laqueos multos, et in
+
+# block=2
+μονογαμία μὲν κατὰ νόμον γινομένη, δικαία, ὡς ἂν
+κατὰ γνώμην Θεοῦ ὑπάρχουσα· διγαμία δὲ μετὰ
+ἐπαγγελίαν, παράνομον, οὐ διὰ τὴν συνάφειαν, ἀλλὰ
+διὰ τὸ ψεῦδος· τριγαμία δὲ, ἀκρασίας σημεῖον· τὸ
+δ' ὑπὲρ τὴν τριγαμίαν, προφανὴς πορνεία, καὶ ἀσέλ-
+γεια ἀναμφίβολος. Ὁ γὰρ Θεὸς μίαν γυναῖκα ἑνὶ
+ἀνδρὶ δέδωκεν ἐν τῇ δημιουργίᾳ· « Ἔσονται γὰρ οἱ
+δύο εἰς σάρκα μίαν. » Νεωτέραις δὲ μετὰ τὴν τοῦ
+πρώτου τελευτὴν συγκεχωρήσθω καὶ ὁ δεύτερος, ἵνα
+μὴ εἰς κρῖμα τοῦ διαβόλου ἐμπέσωσι, καὶ παγίδας
+πολλὰς, καὶ ἐπιθυμίας ἀνοήτους, καὶ ἐπιζημίους
+ψυχαῖς, αἵτινες κόλασιν προξενοῦσι μᾶλλον ἢ ἄνε-
+σιν
+
+# block=10
+desideria stulta animabusque damnosa, quæ supplicium potius quam laxamentum conciliant.
+
+# block=11
+⁶⁹ Gen. ii, 24. ⁷⁰ I Tim. iii.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=7
+το, χοιρώδης βίος, οἷος οὐδὲ πολλὰ ἔχων τῆς κακίας
+τὰ παραδείγματα. (Ita scribas velim ex optimo an-
+tiquissimoque codice 155 Gazæ Regiæ, et ex Mat-
+thæo Blastare littera γ, cap. 4, seu in Jure Græco-
+Romano lib. viii, pag. 496.) Illudque Basilii Mace-
+donis ; τέταρτον γάμον, τὸν οὐ γάμον. Et hoc Pionii
+in Vita S. Polycarpi cap. 5, n. 14 : Polygamiam
+nomen quidem γάμου, id est matrimonii, habere, esse
+vero honesta larva ornatum adulterium. Ac Epithe-
+tum Photianum epist. 1, sect. 95 : Ὑπέραισχρον
+καὶ μιαρὸν, καὶ τῆς τῶν ἀλόγων ἀκολασίας καὶ ἀκα-
+θαρσίας. Quid quod lex Basilii Macedonis laudata,
+quæ exstat Juris Græco-Romani pag. 86, 498, et
+tomus Unionis, prohibent, condemnant, pro nullo
+haberi volunt quartum conjugium, τετραγάμους se-
+parari jubent, liberos ex τετραγαμίᾳ susceptos pro
+legitimis nolunt agnosci : consentientibus Græcis,
+tam hujus temporis, quam superioris, Theophylacto
+epist. 41, Balsamone ad Photii tit. 13, cap. 2, aliis.
+Sciti sunt Mimi Publiani :
+
+# block=4
+orat. 31 trigamia est παρανομία, B. Hieronymo ad
+Jeremiæ xvi, 1, miseriarum solatium, et extrema ta-
+bula naufragorum ; Herardo Turonensi capitulo
+111, adulterium ; concilio Toletano 1, can. 4, in
+subdiacono, res nec dicenda, nec audienda. Appo-
+site ad Constitutionem Valerius Maximus lib. ii,
+cap. 1 : Multorum matrimoniorum experientiam,
+quasi legitimæ cujusdam intemperantiæ signum esse
+credentes. Profecto Græci trinubos nequaquam, aut
+vix tolerandos censuerunt, præsertim cum ex prio-
+ribus conjugiis liberos susceperant, aut erant ætate
+provectiores. Ut etiam videre est præcipue in tomo
+Unionis, tempore Constantini Porphyrogenetæ, in
+lege Basilii Macedonis, in Novella 90 Leonis Sa-
+pientis, in Balsamone ad canones Basilii 4, 50, 69
+et 80, atque in Jure Græco-Romano tum lib. iii,
+ubi De Manuele pag. 239, tum lib. v, responso 41,
+eorum quæ sunt Balsamonis ad quæstiones Marci
+Alexandrini. Mitior tamen fuit sententia B. Epi-
+phanii hæresi 59, cap. 6, quemadmodum et Lati-
+norum, si paucos excipias. Nam præter citatos hic
+et ad Pastorem, decernitur in Capitularibus lib. vii,
+cap. 321 : Ne quisquam amplius quam duas accipiat
+uxores ; quia tertia superflua est. Et Gregorius papa
+tertius epist. 1 ad Bonifacium archiepiscopum, ad-
+monet illum ut, si valuerit, devitandum doceat, ne
+cui uxor obierit, amplius quam duabus debeat copu-
+lari. In Pœnitentiali autem Romano, apud Hugo-
+nem Menardum ad librum Sacramentorum S. Gre-
+gorii pag. 248 legitur : Si cujuslibet hominis mortua
+fuerit uxor, habet potestatem accipere alteram : simi-
+liter et mulier. Si tertium acceperit, jejunet hebdo-
+madas tres : si quartum aut quintum acceperit, je-
+junet hebdomadas 21. Apud Fulgentium denique
+Lib. de fide ad Petrum diaconum cap. 3 et 42 ultra
+tertias nuptias non proceditur. Præclare, ut omnia,
+S. Augustinus capite 12 libri De bono viduitatis :
+Nec ullas nuptias audeo damnare, nec eis verecun-
+diam numerositalis auferre. Tandem a Constitutore
+nostro nuptiæ post tertias, quartæ et sequentes,
+notantur censura manifestæ scortationis ac indubiæ
+salacitatis. Id vero cur adeo mirum videatur non-
+nullis, nullus video. An eos clam sunt, quæ circa
+secundum tertiumque connubium disseruimus ?
+Nonne legerunt canonem Basilianum 80 : Τὴν πολυ-
+γαμίαν οἱ πατέρες ἀπεσιώπησαν, ὡς κτηνώδη, καὶ
+παντελῶς ἀλλοτρίαν τοῦ γένους τῶν ἀνθρώπων.
+Ἡμῖν δὲ παρίσταται πλέον τι πορνείας εἶναι ἁμάρ-
+τημα, cum interpretatione Balsamonis. Item Elo-
+gium Gregorianum in loco citato : Τὸ δὲ ὑπὲρ τοῦ-
+
+# block=1
+Habent locum maledicti, crebræ nuptiæ.
+Mulier quæ nubit multis, multis non placet.
+Cæterum in mss. Regiis 507, 2392, tomum Unio-
+nis post voces εὐλάβειαν ἀνάθεμα in Jure Græco-
+Romano pag. 109, hoc inedito corollario conclusum
+reperi : Τούτων οὕτω διωρισμένων πρὸς ἀσφάλειαν
+τῆς ἁγίας Ἐκκλησίας, καὶ τοῦ ἀμέτοχον εἶναι τὸ εὐ-
+σεβὲς τῶν Χριστιανῶν πλήρωμα * τῶν ἐξ ἀθεμίτων
+γάμων ῥύπων [al. τόν et ῥύπον], δεόμεθα τῆς σῆς
+ἀγαθότητος, Χριστὲ ὁ Θεὸς ἡμῶν, καὶ ἔτι καὶ διαπαν-
+τὸς πᾶν σκάνδαλον, πᾶσαν διορισμοῦ [al. διαμερι-
+σμοῦ] αἰτίαν, τῆς σῆς ἐξελαύνειν ἐκκλησίας, καὶ συν-
+τηρεῖν αὐτῇ τὴν εἰρηναίαν κατάστασιν· πρεσβείαις
+τῆς δεσποίνης ἡμῶν καὶ ἀχράντου Μητρός σου, τῶν
+πανιερῶν μαθητῶν σου καὶ ἀποστόλων, δι' ὧν ἐν
+πάσῃ τῇ οἰκουμένῃ τὴν σὴν κατεφύτευσας εἰρήνην,
+καὶ πάντων οἷς ἐξ αἰῶνος εὐαρεστούμενος ὤφθης
+ἁγίων. Ἀμήν. Id est : His ita definitis ad sanctæ
+Ecclesiæ securitatem, utque religiosus Christianorum
+cœtus expers sit sordium, quæ ex illicitis nuptiis pro-
+veniunt ; rogamus bonitatem tuam, Christe Deus no-
+ster, adhuc ac semper omne scandalum omnemque
+dissidii causam a tua propellas Ecclesia, illique ser-
+ves pacificum statum ; intercessionibus Dominæ no-
+stræ et immaculatæ Matris tuæ, sacratissimorum
+discipulorum tuorum ac apostolorum, per quos in
+toto orbe terrarum pacem tuam plantasti, omnium-
+que sanctorum quibus a sæculo apparere dignatus es.
+Amen. Cor.

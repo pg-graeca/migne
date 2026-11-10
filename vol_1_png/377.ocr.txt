@@ -1,0 +1,192 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,961,275,1712,1223
+2,173,145,928,1221
+3,173,1727,929,2242
+4,957,1556,1712,2254
+5,956,2290,1719,2665
+6,957,143,1706,271
+7,752,87,1112,132
+8,273,1686,820,1722
+9,790,1341,1085,1397
+10,639,1432,1235,1469
+11,171,2517,922,2690
+12,171,2290,913,2389
+13,172,2385,917,2457
+14,181,90,233,131
+15,172,2452,914,2520
+16,438,1558,657,1591
+17,170,1593,916,1673
+18,1648,84,1716,138
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=16px
+# block=8 fontSize=15px
+# block=9 fontSize=29px
+# block=10 fontSize=18px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=12px centerRows=true
+# block=18 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=18
+154
+
+# block=7
+PROOEMIA VARIORUM.
+
+# block=14
+153
+
+# block=6
+Clementi sacra ad tria millia passuum recedere? Qui-
+bus universi reposuere, hæc sibi hactenus incom-
+perta fuisse (57).
+
+# block=2
+tionis hujus partes se ipsas falsitatis coarguunt.
+Idem sentiendum est de iis, quæ acta ista addunt,
+cum discipuli paucis post sancti Clementis marty-
+rium diebus ad locum, quo ille in aquas demersus
+fuerat, accessissent, tribus scilicet a littore millia-
+ribus mare recessisse, atque eos sancti martyris
+reliquias tumulo lapideo conditas in marmoreo
+templo invenisse. Qui enim fieri posset, ut res adeo
+admirandæ universæ antiquitati ignotæ, atque ab
+omnibus ecclesiasticæ historiæ scriptoribus al-
+tissimo silentio sepultæ fuerint? haud diffitemur
+quidem, ejus rei in opusculo quodam (56) Ephraim
+Chersonis episcopo tributo mentionem fieri : verum
+scriptum illud levioris ponderis esse videtur. Ex ipso
+enim stylo dignoscimus, illud Græci cujusdam
+medii ævi opus esse. Eumdem æque, ac actorum
+martyrii sancti Clementis auctorem fabellis delectari
+inde intelligimus, quod singula ab eo relata a ve-
+teri quodam episcopo Constantino appellato, cujus
+acta a Bollando edita sunt, falsi redarguantur. Is
+enim cum circa annum 850 Chersonem profectus
+esset, incolas diligenter sciscitatus est, constaretne
+sibi, quæ ferebatur, fama, sancti Clementis corpus
+marmoreo monumento in templo ab angelis con-
+dito repertum fuisse, et mare quotannis die sancto
+
+# block=1
+Obscurior præterea, aut potius tanquam apocry-
+pha et commentitia a D. Gregorii M. usque ætate
+historia hæc habita fuit ; cum sancto Eulogio epi-
+scopo Alexandrino martyrum acta ab Eusebio
+Cæsareensi collecta expetenti Pontifex ille doctissi-
+mus responderit : « Præter illa, quæ in ejusdem
+Eusebii libris de Gestis sanctorum martyrum con-
+tinentur, nulla in Archivo hujus nostræ Ecclesiæ
+vel in Romanæ urbis bibliothecis esse cognovi,
+nisi pauca quædam in unius codicis volumine col-
+lecta. Nos autem pæne omnium martyrum distinctis
+per dies singulos passionibus collecta in uno co-
+dice nomina habemus, atque quotidianis diebus in
+eorum veneratione Missarum solemnia agimus.
+Non tamen in eodem volumine, quis, qualiter sit
+passus indicatur, sed tantummodo nomen, locus,
+et dies passionis ponitur. » Hæc sane sanctus Gre-
+gorius (58) scripturus non fuisset, si acta, quæ
+hodie sub sancti Clementis nomine exstant, novis-
+set, ubi non dies modo et locus passionis ejus le-
+gitur, sed complura alia, quæ circa ejus mortem
+evenere, singillatim describuntur.
+
+# block=9
+CAPUT V.
+
+# block=10
+DOCTRINA SANCTI CLEMENTIS.
+
+# block=4
+mus, sed eumdem sanctum pontificem tanquam
+testem non contemnendum apostolicæ Evangelio-
+rum originis cum viro doctissimo (60) contra Fre-
+retum (61) in aciem producimus ; in utraque enim
+sua epistola verbis evangelistarum frequenter uti-
+tur. Quinimo ex ipsius scriptis demonstrare pos-
+sumus contra antiquos et recentiores bibliomachos,
+non paucos sanctæ Scripturæ libros habere aucto-
+ritatem canonicam. Siquidem ait : Præcipue memo-
+res sermonum Domini Jesu, quos locutus est docens
+mansuetudinem et æquanimitatem. Sic enim dixit :
+« Estote misericordes, ut misericordiam consequa-
+mini; dimittite, ut dimittatur vobis (62). » E libris
+canonicis ad Evangelia Matthæi ac Lucæ respexit.
+Et dum dicit capite secundo prioris epistolæ : Om-
+nes autem humili animo eratis, nullatenus super-
+
+# block=16
+ARTICULUS I.
+
+# block=17
+OBSERVATIONES DOGMATICÆ IN DIVI CLEMENTIS ROMANI
+EPISTOLAS GENUINAS.
+
+# block=8
+§ I. De sancta Scriptura et traditione.
+
+# block=3
+Ex prima divi Clementis ad Corinthios epistola
+utilissimum eruimus in favorem sacrarum littera-
+rum testimonium ; has siquidem Spiritus sancti
+oracula vocat : Diligenter, legitur ibi, inspicite Scri-
+pturas, Spiritus sancti vera oracula : Τὰς ἀληθεῖς
+ῥήσεις Πνεύματος τοῦ ἁγίου (59). Ait etiam sanctus
+Pontifex : Nostis enim, et probe nostis Scripturas
+sacras, dilecti, et penitus in divina eloquia, Τὰ
+λόγια τοῦ Θεοῦ, introspexistis. Quid aptius ad SS.
+Scripturarum cum inspirationem, tum divinitatem
+comprobandam proferri potest? Non solum autem
+SS. litterarum divinitatem ex divo Clemente ostendi-
+
+# block=12
+(56) Tom. I Operum Cotelerii, pag. 815.
+(57) Acta sancti Constantini apud Bolland., 9
+Martii.
+
+# block=5
+(62) D. Clemens, ep. 1 ad Cor., cap. 13 : Μά-
+λιστα μεμνημένοι τῶν λόγων τοῦ Κυρίου Ἰησοῦ, οὓς
+ἐλάλησε διδάσκων ἐπιείκειαν καὶ μακροθυμίαν. Οὕτως
+γὰρ εἶπεν· Ἐλεεῖτε, ἵνα ἐλεηθῆτε, ἀφίετε, ἵνα ἀφεθῇ
+ὑμῖν· ὡς ποιεῖτε, οὕτω ποιηθήσεται ὑμῖν· ὡς δίδοτε,
+οὕτω δοθήσεται ὑμῖν· ὡς κρίνετε, οὕτω κριθήσεται
+ὑμῖν· ὡς χρηστεύεσθε, οὕτως χρηστευθήσεται ὑμῖν·
+ᾧ μέτρῳ μετρεῖτε, ἐν αὐτῷ μετρηθήσεται ὑμῖν.
+Conf. Luc. vi, 36, 38 ; et Matth. vii, 1. Taceo plura
+alia loca, quæ in secunda Clementis epistola ex
+evangelistis relata conspiciuntur.
+
+# block=13
+(58) S. Gregor. M., lib. VIII Epistol., indictione I,
+epistola 29, Ad Eulogium Alexandr.
+
+# block=15
+(59) S. Clemens Rom., ep. 1 ad Corinth., cap.
+45.
+
+# block=11
+(60) Vincentius Fassinius in libro singulari ad-
+versus Freretum De apostolica Evangeliorum origine,
+Liburni edito 1775, in-4ᵒ.
+(61) L'Examen critique des apologistes de la reli-
+gion chrétienne.

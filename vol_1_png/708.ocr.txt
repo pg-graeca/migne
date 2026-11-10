@@ -1,0 +1,204 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1040,127,1800,771
+2,248,1682,998,2684
+3,257,127,1011,769
+4,671,71,1395,109
+5,307,820,831,862
+6,870,906,1169,944
+7,266,67,320,115
+8,1715,68,1795,116
+9,255,994,621,1164
+10,635,998,1013,1166
+11,247,1164,1021,1334
+12,239,1338,615,1678
+13,633,1340,1011,1670
+14,1027,1694,1791,2688
+15,1039,992,1789,1698
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+φήτης, παρακούσας τοῦ Θεοῦ, καὶ φαγὼν ἄρτον καὶ
+πιὼν ὕδωρ ἐν τῷ τόπῳ, ᾧ ἀπεῖπεν αὐτῷ ὁ Κύριος, διὰ
+τὴν τοῦ Ἱεροβοὰμ ἀσέβειαν, ὑπὸ (35) λέοντος ἀναι-
+ρεθείς. Ὁ γὰρ ἐκ κόπου διακονούμενος ἄρτος χήραις
+καὶ ὀρφανοῖς (36), δίκαιος μᾶλλον, κἂν ᾖ βραχὺς καὶ
+ὀλίγος, ἢ ἐξ ἀδικίας καὶ συκοφαντίας, κἂν ᾖ πολὺς
+καὶ ἐξησκημένος (37). Λέγει γὰρ ἡ Γραφή· « Κρεῖσ-
+σον ὀλίγον τῷ δικαίῳ, ὑπὲρ πλοῦτον ἁμαρτωλῶν πο-
+λύν. » Εἰ δὲ καὶ ἐξ ἀσεβῶν φαγοῦσα χήρα, καὶ ἐμ-
+πλησθεῖσα, προσεύξεται ὑπὲρ αὐτῶν, οὐκ εἰσακου-
+σθήσεται· ὅτι ὁ καρδιογνώστης Θεὸς μετὰ κρίσεως
+ἀπεφήνατο περὶ ἀσεβῶν, λέγων· « Ἐὰν στῇ Μωσῆς,
+καὶ Σαμουὴλ πρὸ προσώπου μου ὑπὲρ αὐτῶν, οὐκ
+εἰσακούσομαι αὐτῶν. Καὶ σὺ μὴ προσεύχου ὑπὲρ
+τοῦ λαοῦ τούτου, καὶ μὴ ἀξίου ἐλεηθῆναι αὐτοὺς, καὶ
+
+# block=2
+Vides tum eamdem mendam in nomine Obedi,
+ac supra; tum elogium viri Dei, desumptum ex
+præsenti historia III Reg. xiii. Quod si vera pute-
+tur hæc prima opinio, distinguere oportebit Adoniam
+istum seu Adonem, qui tempore Roboami interiit,
+ab Addone propheta, quem de Abia rege, filio Ro-
+boami, scripsisse dicit liber II Paralipom. cap. xiii,
+vers. 22. In secunda sententia noster propheta voca-
+tur Sameas, Samæas, Sameias, Semei. Nam primum
+nomen datur ei a Tertulliano, libro De jejuniis, cap.
+16; secundum, in Chronico Alexandrino ad regnum
+Josiæ, pag. 278; tertium a concilio Meldensi, can. 11;
+ex synodo ad Theodonis villam cap. 4; qua in sy-
+nodo et in Capitularibus Caroli Calvi tit. 11, cap. 4,
+corrupte editum est Samuel, pro Semeias vel Se-
+meas. Qui autem his in locis adnotarunt ad margi-
+nem textum III Reg. xi, 30 de Ahia, immemores
+erant consimilis alterius de Samæa ejusdem libri,
+cap. 12, in Græca editione, quem etiam Theodori-
+tus ac Procopius explicant. Ultimum nomen exhi-
+bet Epistola Varadati monachi ad Leonem impera-
+torem, in fine concilii Chalcedonensis : Dixit Deus
+omnipotens Semei prophetæ, etc. Videnda synopsis
+Athanasiana ad calcem. His ego scriptoribus cre-
+dere nequaquam possum : quia docet sacra Historia
+Semeiam diutius vixisse vate, de quo est quæstio. Ex
+tertia sententia inducitur Sofonias aut Sophonias. Ita
+cap. 258 tertiæ cognitionis Collationis Carthaginensis:
+quanquam suspicio non levis datur depravatæ le-
+ctionis, ne locum Adoniæ, aut Semeiæ, Sofonias oc-
+
+# block=3
+tribunali Dei efficientur obnoxii. Quemadmodum
+Adonias propheta ⁴⁸, in Regnorum libris comme-
+moratus, qui Dei mandatum despexit, panem com-
+edit et aquam bibit, in loco in quo Dominus eum
+edere ac bibere noluerat, propter Jeroboami im-
+pietatem, et a leone occisus fuit. Panis enim viduis
+et pupillis ex labore subministratus, etsi modicus
+ac exiguus, dignior est, quam qui ex iniquitate et
+calumnia, licet copiosus sit ac elaboratus. Si-
+quidem ait Scriptura : « Melius est modicum ju-
+sto, super divitias peccatorum multas ⁴⁹. » Si autem
+vidua ab impiis pasta et satiata, pro eis oraverit,
+non exaudietur : quoniam cordis cognitor Deus
+de impiis cum judicio pronuntiavit, dicens : « Si
+steterit Moyses, et Samuel ante faciem meam pro
+
+# block=4
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=5
+⁴⁸ III Reg. xiii. ⁴⁹ Psal. xxxvi, 16.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=7
+815
+
+# block=8
+816
+
+# block=9
+δὲ ἀπὸ τῶν καθεξῆς χρό-
+νων· οὓς δεῖν ᾠήθην μὴ
+παραλείψαι αὖθις μετὰ τὸν
+ξγ' ἀριθμὸν, ἀλλὰ συνά-
+ψαι τῇ τῆς ἀνακεφαλαιώ-
+
+# block=10
+melech, qui et Achimelech.
+70. Amase. 71. Sadoc.
+72. Senex qui Bethele.
+Agabus de quo in Actis
+apostolorum.
+
+# block=11
+σεως ἀκολουθία. Οἷον καί εἰσιν οἵδε· ξδ' Ἐνώς. ξε'.
+Μαθουσάλα. ξϛ'. Λάμεχ. ξζ'. Βαλαάμ. ξη'. Ζαούλ.
+ξθ'. Ἀβιμέλεχ, ὁ καὶ Ἀχιμέλεχ. ο'. Ἀμασέ (in
+LXX, Ἀμασαὶ, I Paral. xii, 18). οα'. Σαδώκ. οβ'.
+Ὁ γέρων ὁ ἐν Βεθὴλ, Ἄγαβος ὁ ἐν ταῖς Πράξεσιν.
+
+# block=12
+Καὶ ὅσαι προφήτιδες.
+α'. Σάῤῥα. β'. Ῥεβέκ-
+κα. γ'. Μαρία ἡ τοῦ Μω-
+σέως ἀδελφή. δ'. Δεβόῤῥα.
+ε'. Ὀλδᾶ. ϛ'. Ἄννα ἡ μή-
+τηρ Σαμουήλ. ζ'. Ἰουδίθ.
+η'. Ἐλισαβὲτ ἡ μήτηρ Ἰω-
+άννου. θ'. Ἄννα ἡ θυγά-
+τηρ Φανουήλ. ι'. Μαρία ἡ
+θεοτόκος.
+
+# block=13
+Et quæ prophetides.
+1. Sara. 2. Rebecca.
+3. Maria, Mosis soror. 4.
+Debbora. 5. Olda. 6. Anna
+mater Samuelis. 7. Ju-
+dith. 8. Elisabeth mater
+Joannis. 9. Anna, filia
+Phanuelis. 10. Maria Dei
+genitrix.
+
+# block=14
+post agam. Nunc vero antequam relinquo hanc no-
+tam, lectorem de nonnullis scitu non indignis,
+etsi levibus, admonebo, quæ componendo eam obser-
+vavi. Et primo quidem velim ut tollat vitium le-
+ctionis e Chronologicis excerptis, quæ cum Eusebii
+Chronicis publica fecit Josephus Scaliger, et ubi
+inveniet Abdæus, rescribat Addæus, qui est Addo.
+Corrigat quoque Latina Eusebii, ex mss. Græ-
+cis, necnon ex Adone ac Freculfo, legatque Joel,
+non Joed, quod antiquariorum erratum etiam in
+Mariano Scoto comparet. Notabilis præterea est in-
+cogitantia Eusebii, quando prophetam qui apud
+altare Samariæ fuerat, quique occisus est vivente
+Roboamo, commemorat sub Asa Roboami nepote.
+Sed et insigniter lapsi sunt interpretes Clementis
+Alexandrini et Georgii Cedreni : ille cum locum p.
+326. A. edit. Paris. : Καὶ ὁ ἐξ Ἰούδα ἀπελθὼν ἐπὶ
+Ῥοβοὰμ, καὶ προφητεύσας ἐπὶ τοῦ θυσιαστηρίου, La-
+tine sic vertit : Qui etiam ex Juda abiit ad Roboam,
+et prophetavit super altare; hic, dum verba p. 87,
+lib. 1, ed. Basil. : Ἀχίας ὁ Σιλωνίτης, Σαμέας ὁ Ἀ-
+δών, transfert : Achias Silonites, Samæas Adonius.
+Nam debuit a priori reddi; et qui ex Juda abiit sub
+Roboamo, atque ad altare prophetavit; ab alio autem :
+Achias Silonites, Sameas, Adon. Cot.
+(35) Ὑπό. Alter codex καὶ ὑπό. Cler.
+(36) Καὶ ὀρφανοῖς. Prætermissa hæc sunt in al-
+tero cod. Id.
+(37) Ἐξησκημένος. In altero cod. ἁδρός. Id.
+
+# block=15
+cupet. Aliam sententiam disces ex Theodorito et
+Procopio ad II Paralipom., ex his Michaelis Glycæ
+in Annalibus, p. 2, p. 187 : Ὁ μὲν Ἰώσηπος Ἰαδὼν
+αὐτὸν ὀνομάζει· ἡ δὲ βίβλος τῶν Παραλειπομένων
+Ἰωὴλ αὐτὸν ἡμᾶς καλεῖσθαι ἐδίδαξεν. Josephus quidem
+eum appellat Jadonem : at liber Paralipomenon (II,
+cap. ix, vers. 29 apud LXX, citato jam per me
+loco, ubi Hebræum habet Jeddo, vulgata Addo) Joe-
+lem eum vocatum fuisse nos docet. Pseudo-Epipha-
+nius, libro De vitis prophetarum : Ἰωὰμ ὁ προφήτης
+ἐγένετο ἐν Σαμαρείᾳ. Οὗτός ἐστιν ὃν ἐπάταξεν ὁ λέ-
+ων ἐν τῇ ὁδῷ, καὶ ἀπέθανεν, etc. Joam propheta in
+Samaria exstitit. Hic est ille, qui a leone in via per-
+cussus obiit. Dorothei Synopsis : Joath. Hic erat
+ex terra Samariæ. Percussit eum leo, et mortuus
+est, ac sepultus in Bethel, juxta pseudoprophetam
+a quo fuerat seductus. Græce in mss. habetur περὶ
+τοῦ Ἰωάθ· Οὗτος ἦν ἐκ γῆς Σαμαρείας, ἐπάταξε δὲ
+αὐτὸν ὁ λέων, καὶ ἀπέθανε, καὶ ἐτάφη ἐν Βαιθήλ,
+ἐγγὺς τοῦ ψευδοπροφήτου τοῦ πλανήσαντος αὐτόν.
+De diversa denique et postrema sententia paulo

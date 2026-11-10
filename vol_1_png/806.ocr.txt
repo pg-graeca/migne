@@ -1,0 +1,234 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1025,293,1780,808
+2,239,293,994,856
+3,1030,943,1774,1066
+4,1026,2100,1779,2690
+5,239,1232,992,1917
+7,1271,1114,1523,1147
+8,240,941,987,1106
+9,1270,854,1530,893
+10,240,1937,1787,2042
+11,517,142,703,181
+14,515,855,705,889
+15,240,2105,994,2714
+16,1275,145,1553,178
+17,659,86,1372,125
+18,878,2053,1177,2090
+19,1046,1154,1751,1224
+20,240,1156,985,1224
+21,242,95,309,128
+23,249,185,975,291
+24,507,1113,714,1147
+27,1031,183,1775,287
+28,1701,95,1769,127
+31,1021,1226,1794,1921
+32,273,898,947,938
+33,1027,896,1781,950
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=16px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=16px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=27 fontSize=15px
+# block=28 fontSize=16px
+# block=31 fontSize=15px
+# block=32 fontSize=15px
+# block=33 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=21
+1011
+
+# block=28
+1012
+
+# block=11
+CAPUT XX.
+
+# block=16
+ΚΕΦΑΛΑΙΟΝ Κ'.
+
+# block=27
+Ὅτι μὴ χρὴ φαυλίζειν τι τῶν προσφόρων βρω-
+μάτων, ἀλλ' εὐχαρίστως μεταλαμβάνειν καὶ τε-
+ταγμένως.
+
+# block=23
+Quod non oporteat improbare cibum ullum usui ac-
+commodatum, sed cum gratiarum actione et or-
+dinate sumere.
+
+# block=2
+De cibis vero tibi ait Dominus : « Bona terræ ⁴⁴
+comedetis ⁴⁵ ; » et : « Omnem carnem edetis, ut
+olera herbæ : sanguinem vero effundes ⁴⁶ : Non
+enim quæ intrant in os , coinquinant hominem ⁴⁷,
+sed quæ ex ore procedunt ; » blasphemiæ 48, in-
+quiæ, obtrectationes, et si quid hujusmodi. Tu
+vero comede medullam terræ in justitia ⁴⁹ : « Quo-
+niam si quid pulchrum, ejus est; et si quid bonum,
+ejusdem : frumentum juvenibus , et vinum odora-
+tum virginibus ⁵⁰. » — « Quis enim comedet , aut
+quis bibet , sine ipso ⁵¹ ? » Sed et admonet te sa-
+piens Esdras , dicens : « Ite , et comedite pingue-
+dines, et bibite dulcedines, et nolite contristari ⁵².»
+
+# block=1
+Περὶ δὲ βρωμάτων λέγει σοι ὁ Κύριος· «Τὰ ἀγαθὰ
+τῆς γῆς φάγεσθε ·» καί· «Πᾶν κρέας ἔδεσθε , ὡς λά-
+χανα χλόης· τὸ δὲ αἷμα ἐκχεεῖς· οὐ γὰρ τὰ εἰσερχό-
+μενα εἰς τὸ στόμα κοινοῖ τὸν ἄνθρωπον, ἀλλὰ τὰ
+ἐκπορευόμενα· » λέγω δή, βλασφημίαι, καταλα-
+λιαί, καὶ εἴ τι τοιοῦτον. Σὺ δὲ φάγῃ τὸν μυελὸν τῆς
+γῆς μετὰ δικαιοσύνης·«Ὅτι εἴ τι καλὸν, αὐτοῦ (42) ·
+καὶ εἴ τι ἀγαθὸν, αὐτοῦ· σῖτος νεανίσκοις, καὶ οἶνος
+εὐωδιάζων παρθένους· τίς γὰρ φάγεται , ἢ τίς πίεται ,
+παρὲξ αὐτοῦ ; » Παραινεῖ (43) δέ σοι καὶ ὁ σοφὸς
+Ἔσδρας , λέγων· « Πορεύεσθε , καὶ φάγετε λιπάσμα-
+τα, καὶ πίετε γλυκάσματα , καὶ μὴ λυπεῖσθε. »
+
+# block=9
+ΚΕΦΑΛΑΙΟΝ ΚΑ'.
+
+# block=14
+CAPUT XXI
+
+# block=33
+Ὅτι χρὴ φεύγειν τὴν τῶν εἰδωλοθύτων βρῶσιν.
+
+# block=32
+Quod oporteat abstinere ab esu idolothytorum.
+
+# block=8
+Porro ab idolothytis abstinete: in honorem enim
+dæmonum immolant ea ⁵³; ad contumeliam, sci-
+licet, solius Dei: ut non efficiamini participes dæ-
+monum.
+
+# block=3
+Ἀπὸ δὲ τῶν εἰδωλοθύτων φεύγετε· ἐπὶ τιμῇ γὰρ
+δαιμόνων θύουσι ταῦτα· ἐφ' ὕβρει δηλαδὴ τοῦ μόνου
+Θεοῦ· ὅπως μὴ γένησθε κοινωνοὶ δαιμόνων.
+
+# block=24
+CAPUT XXII.
+
+# block=7
+ΚΕΦΑΛΑΙΟΝ ΚΒ'
+
+# block=19
+Διάταξις Κυριακὴ, ὅπως (44) χρὴ βαπτίζειν,
+καὶ εἰς τὸν τίνος θάνατον.
+
+# block=20
+Constitutio Dominica, quomodo oporteat baptizare,
+et in cujus mortem.
+
+# block=31
+Περὶ δὲ βαπτίσματος, ὦ ἐπίσκοπε ἢ πρεσβύτερε,
+ἤδη μὲν καὶ πρότερον διεταξάμεθα· καὶ νῦν δέ φα-
+μεν, ὅτι οὕτω βαπτίσεις, ὡς ὁ Κύριος διετάξατο ἡμῖν,
+λέγων· « Πορευθέντες μαθητεύσατε πάντα τὰ ἔθνη·
+βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ Πατρὸς, καὶ τοῦ
+Υἱοῦ, καὶ τοῦ ἁγίου Πνεύματος· διδάσκοντες αὐτοὺς
+τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· » τοῦ ἀποστεί-
+λαντος Πατρός· τοῦ ἐλθόντος Χριστοῦ· τοῦ μαρτυρή-
+σαντος Παρακλήτου. Χρίσεις δὲ πρῶτον ἐλαίῳ· ἔπειτα
+βαπτίσεις ὕδατι, καὶ (45) τελευταῖον σφραγίσεις μύρῳ·
+ἵνα τὸ μὲν χρίσμα μετοχὴ ᾖ τοῦ ἁγίου Πνεύματος, τὸ
+δὲ ὕδωρ σύμβολον τοῦ θανάτου, τὸ δὲ μύρον σφραγὶς
+τῶν συνθηκῶν. Εἰ δὲ μήτε ἔλαιον ᾖ, μήτε μύρον, ἀρ-
+κεῖ ὕδωρ, καὶ πρὸς χρίσιν, καὶ πρὸς σφραγῖδα, καὶ
+πρὸς ὁμολογίαν τοῦ ἀποθανόντος, ἤτοι συναποθνήσκον-
+τος. Πρὸ δὲ τοῦ βαπτίσματος (46), νηστευσάτω ὁ βα-
+
+# block=5
+De baptismo autem, episcope aut presbyter, jam
+quidem antea constituimus; et nunc vero dicimus,
+quod ita baptizabis, sicut Dominus injunxit nobis
+dicens : « Euntes, docete omnes gentes, baptizantes
+eos in nomine Patris, et Filii, et Spiritus sancti;
+docentes eos servare omnia quæcumque mandavi
+vobis ⁵⁴; » in nomine Patris, qui misit; Christi,
+qui venit; Spiritus sancti, qui testimonium per-
+hibuit. Unges autem prius oleo sancto; deinde
+baptizabis aqua; et tandem signabis unguento; ut
+oleum quidem sit participatio Spiritus sancti,
+aqua vero symbolum mortis, unguentum autem
+sigillum pactionum. Quod si neque oleum adsit,
+neque unguentum, sufficit aqua, et ad unctionem,
+et ad sigillum, et ad confessionem morientis, seu
+commorientis. Cæterum ante baptisma, jejunet
+
+# block=10
+⁴⁴ I. Pseudo-Ignat. ad Heron. I. ⁴⁵ Isa. I, 19. ⁴⁶ Gen. IX, 3; Deut. XII, 23. 47 Matth. XV, 11. ⁴⁸ Marc.
+VII, 22. ⁴⁹ Gen. XLV, 18. ⁵⁰ Zach. IX, 17. ⁵¹ Eccle. II, 25, in LXX. ⁵² II Esdr. VIII, 10. ⁵³ I Cor. X, 20.
+⁵⁴ Matth. XXVIII, 19.
+
+# block=18
+VARIORUM NOTÆ.
+
+# block=4
+Et devota pii celebrant jejunia mystæ.
+At nos, æternum cohibentes pectore cultum,
+Intemeratorum vim continuamus honorum ;
+in quibus per mystas intelligunt catechumenos, et
+nos post particulam adversativam, inquiunt, at,
+exponunt de baptizatis. Quam vere hæc, aliorum
+esto judicium. Certe cum Paschale jejunium non
+solis conveniat catechumenis, nec solis sacerdoti-
+bus aut clericis, sed ad cunctos fideles pertineat;
+cum mystæ appellari soleant tam qui initiantur, tum
+initiati, tum initiatores, hoc est catechumeni,
+Christiani, et clerici; cumque at non semper op-
+ponat, interdum vero affirmet, explanet, copulet,
+continuet, idemque sit ac verum, atque, atqui;
+verisimile fit, quatuor allatos versus de fidelibus
+universis accipi debere, nullatenus de catechu-
+menis, nec de clericis. COT.
+
+# block=15
+(42) Εἴ τι καλὸν, αὐτοῦ. Corrige ex vet. cod.
+Maximum ad caput 2 libri De divinis nominibus :
+ubi vitiose ἐστὶ editum est, pro εἴ τι. COT.
+(43) Παραινεῖ. Hæc vox et seqq. ad finem ca-
+pitis omissæ sunt in cod. Vindob. CLER.
+(44) Ὅπως. Ante hanc vocem est in utraque
+cod. Vindobon. τῶν περὶ τὸ βάπτισμα. ID.
+(45) Καὶ. Καὶ τό in Vind. cod. recte. ID.
+(46) Πρὸ δὲ τοῦ βαπτίσματος, νηστευσάτω ὁ
+βαπτιζόμενος. Antiquissima consuetudo, a Justino
+martyre et Tertulliano, indeque a pluribus memo-
+rata; qui ei ante baptismum jejunio assignant diem
+vel triduum, unam vel duas hebdomadas, quadra-
+ginta aut plures dies; pro prudentia, videlicet,
+baptizantium ac fide baptizandorum, et secundum
+varios usus. Eo trahunt multijuga eruditione ce-
+lebres viri versus Paschales Ausonii :
+Sancta salutiferi redeunt solemnia Christi,

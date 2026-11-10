@@ -1,0 +1,173 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,199,2609,947,2713
+2,189,1714,949,2610
+3,981,2608,1728,2679
+4,200,150,959,1512
+5,822,1644,1139,1681
+6,624,93,1326,129
+7,987,150,1750,1522
+8,982,2508,1715,2610
+9,980,1718,1745,2509
+10,1689,104,1741,138
+11,197,88,285,132
+12,191,1524,1745,1620
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=199 source_y1=2609 source_x2=947 source_y2=2713
+(95) Πεφονευμένον ὑπὸ πειρατῶν Συρίας.
+In LXX, IV Reg. XIII, 20 : Καὶ ἀπέθανεν Ἐλι-
+σαιὲ, καὶ ἔθαψαν αὐτόν· καὶ μονόζωνοι Μωὰβ
+
+# block=2 source_x1=189 source_y1=1714 source_x2=949 source_y2=2610
+(94) Ψάλλοντες προπέμπετε αὐτούς. Socrates
+lib. VII, cap. 46 : Αὐτοῦ τὸ σῶμα ἔχρι τοῦ μνήματος
+σὺν ψαλμῳδίαις παρέπεμπον. Chrysostomus homil.
+4 in Epistolam ad Hebræos, ὡς ἀθλητὰς αὐτοὺς
+προπέμπομεν, et sermone in textum Apostoli I
+Thessal. IV, 15, tom. V, καθάπερ τοὺς ἐπ' ἀρχὴν
+καλουμένους. Unde Gregorio Nysseno in Vita Ma-
+crinæ, μυστικὴ πομπή dicitur. Scilicet, Christia-
+norum est lætari in funere piorum : uti docetur a
+S. Chrysostomo multis in locis, et significatur per
+Hieronymum in Epitaphio Fabiolæ, dum exprimi-
+tur mos canendi Alleluia in exsequiis. Mitto insi-
+gnem canonem 22 concilii Toletani III, aliaque
+testimonia, , quia christianam hanc traditionem
+(quemadmodum appellat Hieronymus in Vita Pauli
+Eremitæ) nemo nescit. Quod autem προπέμπειν
+est multis, id non paucis est προκομίζειν, atque
+auctori incerto De Persica captivitate, quem
+R. P. Francisco Combefisio acceptum ferimus,
+p. 306 : Τοὺς ἀδελφοὺς ἡμῶν, inquit, πολλάκις προ-
+κομίζοντες, ἢ λιτὰς καὶ ἱκεσίας τῷ Θεῷ ὑπὲρ τῶν
+ἀπειλῶν (conjicio ἀπελθόντων) προσφέροντες, καὶ
+ἐκεῖσε τοῖς προειρημένοις ἐνασχολούμεθα. Id est,
+Sæpe cum fratres nostros efferimus, aut Deo preces
+ac supplicationes pro defunctis offerimus, etiam illic
+in supra dictis rebus occupamur, deliciis videli-
+cet. COT.
+
+# block=3 source_x1=981 source_y1=2608 source_x2=1728 source_y2=2679
+(98) Τοῦ Θεοῦ. Αὐτοῦ, in cod. Vind. rectius ut
+videtur repetitio vocis Θεοῦ. ID.
+
+# block=4 source_x1=200 source_y1=150 source_x2=959 source_y2=1512
+μντηρίοις· καὶ ἐν ταῖς ἐξόδοις τῶν κεκοιμημένων,
+ψάλλοντες προπέμπετε αὐτούς (94), ἐὰν ὦσι πιστοὶ
+ἐν Κυρίῳ· « Τίμιος γὰρ ἐναντίον Κυρίου ὁ θάνατος
+τῶν ὁσίων αὐτοῦ· » καὶ πάλιν· « Ἐπίστρεψον ἡ
+ψυχή μου εἰς τὴν ἀνάπαυσίν σου, ὅτι Κύριος εὐηργέ-
+τησέ σε· » καὶ ἐν ἄλλοις· « Μνήμη δικαίων μετ' ἐγ-
+κωμίων· » καὶ· « Δικαίων ψυχαὶ ἐν χειρὶ Θεοῦ. » Οἱ
+γὰρ Θεῷ πεπιστευκότες, ἐὰν καὶ κοιμηθῶσιν, οὐκ
+εἰσὶν νεκροί· λέγει γὰρ ὁ Σωτὴρ τοῖς Σαδδουκαίοις· «Περὶ
+δὲ τῆς ἀναστάσεως τῶν νεκρῶν οὐκ ἀνέγνωτε τὸ γεγραμ-
+μένον, ὅτι· Ἐγώ εἰμι ὁ Θεὸς Ἀβραὰμ, καὶ ὁ Θεὸς Ἰσαὰκ,
+καὶ ὁ Θεὸς Ἰακώβ; Οὐκ ἔστιν οὖν ὁ Θεὸς, Θεὸς νεκρῶν,
+ἀλλὰ ζώντων· πάντες γὰρ αὐτῷ ζῶσιν. » Οὐκοῦν
+τῶν παρὰ Θεῷ ζώντων οὐδὲ τὰ λείψανα ἄτιμα. Καὶ
+γὰρ καὶ Ἐλισσαῖος ὁ προφήτης μετὰ τὸ κοιμηθῆναι
+αὐτὸν, νεκρὸν ἤγειρε πεφονευμένον ὑπὸ πειρατῶν
+Συρίας (95)· ἔθαψε γὰρ τὸ σῶμα αὐτοῦ τῶν Ἐλισ-
+σαίου ὀστέων, καὶ ἀναστὰς ἔζησεν· οὐκ ἂν δὲ ἐγεγό-
+νει τοῦτο, εἰ μὴ ἦν τὸ σῶμα Ἐλισσαίου ἅγιον. Καὶ
+Ἰωσὴφ ὁ σώφρων περιεπλέκετο τῷ Ἰακὼβ μετὰ τὸ
+ἀποθανεῖν ὄντι ἐπὶ τῆς κλίνης. Καὶ Μωϋσῆς, καὶ
+Ἰησοῦς ὁ τοῦ Ναυῆ ἐπεφέροντο τὰ λείψανα Ἰω-
+σὴφ (96), μολυσμὸν οὐχ ἡγούμενοι τοῦτο. Ὅθεν καὶ
+ὑμεῖς, ὦ ἐπίσκοποι, καὶ οἱ λοιποὶ, ἀπαρατηρήτως
+ἁπτόμενοι τῶν κεκοιμημένων, μὴ νομίζητε μιαίνε-
+σθαι, μηδὲ βδελύσσεσθε τὰ τούτων λείψανα· περι-
+ιστάμενοι τὰς τοιαύτας παρατηρήσεις, μωρὰς οὔσας·
+καὶ κοσμεῖτε αὐτοὺς (97) ἐν ἁγιασμῷ καὶ σωφροσύνῃ,
+ὅπως μέτοχοι τῆς ἀθανασίας καὶ κοινωνοὶ τῆς βασι-
+λείας τοῦ Θεοῦ γένησθε, καὶ τὴν ἐπαγγελίαν τοῦ '
+Θεοῦ (98) λάβητε, ἀναπαυόμενοι διὰ Ἰησοῦ Χριστοῦ
+
+# block=5 source_x1=822 source_y1=1644 source_x2=1139 source_y2=1681
+VARIORUM NOTÆ.
+
+# block=6 source_x1=624 source_y1=93 source_x2=1326 source_y2=129
+CONSTITUTIONES APOSTOLICÆ. — LIB. VI.
+
+# block=7 source_x1=987 source_y1=150 source_x2=1750 source_y2=1522
+neribus mortuorum, cum psalmis deducite eos, si
+fuerint fideles in Domino : « Pretiosa enim in con-
+spectu Domini mors sanctorum ejus ⁸¹ ; » et iterum :
+« Convertere, anima mea, in requiem tuam ; quia
+Dominus benefecit tibi ⁸² ; » et alio in loco : « Me-
+moria justorum cum laudibus ⁸³ ; » et : « Justorum
+animæ in manu Dei ⁸⁴ . » Nam qui Deo crediderunt,
+licet obierint, mortui non censentur ; ait quippe
+Salvator Sadducæis : « De resurrectione autem
+mortuorum non legistis quod scriptum est ⁸⁵ : Ego
+sum Deus Abrahami, et Deus Isaaci, et Deus Ja-
+cobi ? ⁸⁶ Non est igitur Deus, mortuorum Deus, sed
+vivorum : omnes enim vivunt ei ⁸⁷ . » Igitur eorum
+qui apud Deum vivunt nec reliquiæ pretio ac ho-
+nore carent. Etenim propheta Elisæus, postquam
+morte sublatus est ; suscitavit mortuum, a prædo-
+nibus Syriæ trucidatum ; tetigit enim corpus ejus
+ossa Elisæi, et excitatus vixit ⁸⁸ : quod certe non
+accidisset, nisi corpus Elisæi sanctum esset. Et
+Josephus, ille castus, Jacobum, post mortem in
+lecto positum complexus est ⁸⁹ . Et Moses ⁹⁰ , ac
+Jesus filius Navæ ⁹¹ deferebant reliquias Josephi,
+hoc non arbitrati esse inquinamentum. Quocirca et
+vos, episcopi, ac reliqui, sine religione ac metu
+contingite mortuos, nec putetis vos ideo pollui, nec
+eorum reliquias abominamini ; et declinate ab hu-
+jusmodi observationibus stultis ; ac ornate vos
+sanctitate atque continentia , ut participes immor-
+talitatis, ac regni Dei consortes efficiamini, atque
+promissionem Dei capiatis, requiescentes perpetuo
+per Jesum Christum Salvatorem. Adhærete ergo ei
+
+# block=8 source_x1=982 source_y1=2508 source_x2=1715 source_y2=2610
+(96) Ἰωσήφ. Τοῦ Ἰωσήφ melius in cod. Vind. Ca.
+(97) Αὐτούς. Melius sine dubio ἑαυτούς, in cod.
+Vindob. ID.
+
+# block=9 source_x1=980 source_y1=1718 source_x2=1745 source_y2=2509
+ἦλθον ἐν τῇ γῇ, ἐλθόντος τοῦ ἐνιαυτοῦ, καὶ ἐγέ-
+νετο αὐτῶν θαπτόντων τὸν ἄνδρα, καὶ ἰδοὺ εἶδον
+τὸν μονόζωνον, καὶ ἔῤῥιψαν τὸν ἄνδρα ἐν τῷ τάφῳ
+Ἐλισαιέ· καὶ ἐπορεύθη, καὶ ἥψατο τῶν ὀστέων Ἐλι-
+σαιὲ, καὶ ἔζησε, καὶ ἀνέστη ἐπὶ τοὺς πόδας αὐτοῦ.
+Eo, inquam, in loco ambiguitas vocis αὐτῶν, respon-
+dentis Hebraico הם, quod ex sensu optime red-
+ditur a Latino interprete per quidam, turbavit non
+paucos, ut sepultores istos arbitrarentur esse
+ipsos grassatores, qui terræ mandarent aut hominem
+a se occisum, aut commilitonem suum et collatro-
+nem. Prima sententia est etiam illius qui Chronicum
+vocatum Alexandrinum composuit p. 242, necnon
+auctoris Tractatus de resurrectione Domini, tom. IX
+Operum S. Hieronymi ; secunda est nostri, et Zu-
+naræ in Annalibus, post Josephum Antiq. Judaic.
+lib. IX, cap. 9 ; tertia Athanasii in Synopsi Scri-
+pturæ, Pseudo-Epiphanii in Vita Elisæi, ubi μονό-
+ζωος una littera minus legitur, itemque Georgii Ce-
+dreni in Compendio historiarum. Rectius e Græcis
+Asterius Encomio in sanctos martyres, ac Eulo-
+gius Alexandrinus lib. V Adversus Novatianos,
+apud Photium cod. 280. Vide in hoc Opere p. 842,
+C. ID.
+
+# block=10 source_x1=1689 source_y1=104 source_x2=1741 source_y2=138
+990
+
+# block=11 source_x1=197 source_y1=88 source_x2=285 source_y2=132
+989
+
+# block=12 source_x1=191 source_y1=1524 source_x2=1745 source_y2=1620
+⁸¹ Psal. cxv, 15.  ⁸² Psal. cxiv, 7.  ⁸³ Prov. x, 7.  ⁸⁴ Sap. III, 1.  ⁸⁵ Matth. XXI, 31.  ⁸⁶ Exod. III, 6.
+⁸⁷ Luc. xx, 38.  ⁸⁸ IV Reg. XIII, 21.  ⁸⁹ Gen. L, 1.  ⁹⁰ Exod. XIII, 19.  ⁹¹ Jos. XXIV, 32.

@@ -1,0 +1,165 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,264,138,1021,692
+2,1057,141,1805,654
+3,1052,707,1809,2399
+4,1052,2488,1798,2613
+5,257,2495,1015,2620
+6,233,705,1015,2487
+7,780,83,1274,120
+8,305,2653,1268,2695
+9,269,86,337,122
+10,1732,91,1801,126
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=16px
+# block=8 fontSize=15px
+# block=9 fontSize=16px
+# block=10 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=7
+RECOGNITIONES. — APPENDIX.
+
+# block=9
+1469
+
+# block=10
+1470
+
+# block=1
+ἀποστρεφομένοις μὲν τοῦ τιμίου αἵματος καὶ σώμα-
+τος τοῦ Χριστοῦ κοινωνίαν, ἀποδέχεσθαι δὲ ταύτην
+σχηματιζομένοις, καὶ νοοῦσιν ἀντὶ ταύτης τὰ ῥήμα-
+τα τῆς τοῦ Χριστοῦ διδασκαλίας, ὧν, φασὶ, μεταδιδοὺς
+τοῖς ἀποστόλοις ἔλεγε· Λάβετε, φάγετε, πίετε· καὶ
+μυσαττομένοις μὲν τὸ βάπτισμα, ὑποκρινομένοις δὲ
+τοῦτο περὶ πολλοῦ τίθεσθαι, καὶ νοοῦσι ἀντ' αὐτοῦ
+τὸν Χριστὸν τὸν λέγοντα, φασὶν, ὅτι Ἐγώ εἰμι τὸ
+ὕδωρ τὸ ζῶν· καὶ τοῖς ἐκτρεπομένοις μὲν τὴν καθο-
+λικὴν Ἐκκλησίαν, τιμᾷν δὲ λέγουσι ταύτην καὶ νοοῦ-
+σιν ἀντ' αὐτῆς τὰ τε ἴδια συνέδρια καὶ συνακτήρια,
+καὶ Ἰωάννην (76) τὸν ἀδελφὸν Παύλου τοῦ τῆς αἱρέσεως
+αὐτῶν ἀρχηγοῦ.
+
+# block=2
+signavit; iis quoque qui fastidiunt quidem pretiosi
+sanguinis et corporis Christi communionem, appro-
+bare autem eam confingunt, et loco illius intelli-
+gunt verba Christi doctrinæ, quæ, inquiunt, tradens
+apostolis, dixit : Accipite, manducate, bibite : simi-
+liter iis qui quidem baptisma detestantur, simulant
+tamen illud plurimi facere, atque pro eo intelligunt
+Christum, qui, inquiunt, dixit : Ego sum aqua viva ;
+tum iis qui Ecclesiam quidem catholicam aversan-
+tur, eam vero in pretio habere aiunt, intelliguntque
+pro illa consessus suos atque conventus, et Joan-
+nem fratrem Pauli hæreseos illorum ducis.
+
+# block=6
+Ἀνάθεμα τοίνυν πᾶσι τοῖς εἰρημένοις, καὶ τοῖς τὰ
+ὅμοια φρονοῦσι· καὶ ἀποβαλλομένοις μὲν τὰς Ἐκκλη-
+σίας τῶν Χριστιανῶν, οὓς αὐτοὶ καλοῦσι Ῥωμαίους·
+καὶ ὑβρίζουσι μὲν τὴν ἁγίαν Θεοτόκον Μαρίαν, καὶ
+τὸν τίμιον σταυρὸν, καὶ τὰς ἱερὰς εἰκόνας, καὶ τὸ σω-
+τήριον βάπτισμα· καὶ ἀποστρεφομένοις μὲν τὴν τῶν
+θείων μυστηρίων μετάληψιν, ὀμφαλοῖς δὲ βρεφῶν
+κεκαυμένοις εἰς κάθαρσιν, μᾶλλον δὲ μόλυσμὸν ψυ-
+χῶν, κεχρημένοις, καὶ τὰ ἴδια βρώματα τούτοις κα-
+ταμιαίνουσιν. Ἀνάθεμα τοῖς τῇ βρώσει τῶν θνησι-
+μαίων μολυνομένοις· καὶ τοῖς πᾶσαν μὲν ἐκτρεπομέ-
+νοις Χριστιανικὴν νηστείαν, κατὰ δὲ τὸν καιρὸν τῆς
+δοκούσης αὐτοῖς Τεσσαρακοστῆς, τυροῦ τε καὶ γά-
+λακτος ἐμφορουμένοις. Ἀνάθεμα τοῖς ἀρνουμένοις ἢ
+νοθεύουσι τὰ τέσσαρα τοῦ Χριστοῦ Εὐαγγέλια, καὶ
+τὰς τοῦ ἁγίου Παύλου τοῦ ἀποστόλου Ἐπιστολάς·
+καὶ ἀντὶ μὲν τοῦ δημιουργοῦ τῶν ἁπάντων Θεοῦ, σε-
+βομένοις τὸν λεγόμενον ἄρχοντα τοῦ κόσμου τούτου·
+ἀντὶ δὲ τοῦ ἀποστόλου Παύλου, τὸν τῆς Καλλινίκης
+υἱὸν Παῦλον τιμῶσι, καὶ τοὺς μὲν τέσσαρας αὐτοῦ
+μαθητὰς εἰς τύπον τῶν Εὐαγγελίων δεχομένοις, τοῖς
+δὲ ἑτέροις τρισὶ τὸ τῆς Τριάδος ἐπιφημίζουσιν ὄνομα.
+Ἀνάθεμα τοῖς συμφθειρομένοις ἀδελφῇ καὶ πενθερᾷ
+καὶ νύμφῃ· καὶ τοῖς κατὰ τὴν πρώτην τοῦ Ἰαννουα-
+᾽ ρίου μηνὸς, εἰς ἑορτὴν δῆθεν ἁθροιζομένοις, μετὰ δὲ
+τὴν ἑσπερινὴν μέθην ἀποσβεννύουσι τὰ φῶτα, σαρ-
+κικῶς τε ἀλλήλοις ἐνασελγαίνουσι, καὶ μηδεμιᾶς ὅλως
+φειδομένοις φύσεως ἢ συγγενείας ἢ ἡλικίας. Ἀνάθεμα
+τοῖς μηδέποτε δι' ὅρκου ἀληθεύουσιν, ἀλλ' ἐξεπίτηδες
+ἀεὶ ψευδομένοις καὶ ἐπιορκοῦσι, κατὰ τὴν τοῦ τρι-
+ξκαταράτου Μάνεντος διδασκαλίαν, οὕτω λέγοντος·
+Οὐκ εἰμὶ ἀσπλαγχνος ὥσπερ ὁ Χριστὸς, οὐδὲ ἀρνήσο-
+μαι τὸν ἀρνησάμενόν με ἔμπροσθεν τῶν ἀνθρώπων,
+ἀλλὰ καὶ τὸν ψευδόμενον διὰ τὴν οἰκείαν σωτηρίαν,
+καὶ τὸν διὰ φόβον ἀρνούμενον τὴν ἰδίαν πίστιν, μετὰ
+χαρᾶς προσδέξομαι. Ἐὰν δὲ μὴ ἐξ ὅλης ψυχῆς ταῦτα
+φρονῶ καὶ λέγω, ἐγὼ ὁ δεῖνα, ἀλλὰ μεθ' ὑποκρίσεως
+ἐποίησα τοὺς προκειμένους ἀναθεματισμοὺς, ἀνάθε-
+μά μοι εἴη καὶ κατάθεμα, ἔν τε τῷ νῦν αἰῶνι, καὶ ἐν
+τῷ μέλλοντι, καὶ κατακριθείη καὶ ἀπόλοιτο ἡ ψυχή
+μου, καὶ διηνεκῶς ταρταρωθείη.
+
+# block=3
+V. Anathema ergo omnibus dictis, item iis qui
+similia opinantur ; et Christianorum quos ipsi Ro-
+manos vocant, Ecclesias rejiciunt ; suntque contu-
+meliosi in sanctam Dei genitricem Mariam, in ve-
+nerandam crucem, sacras imagines, et salutarem
+baptismum ; denique sumptionem quidem divino-
+rum mysteriorum oderunt, umbilicis autem infan-
+tium combustis utuntur ad animarum purificatio-
+nem, seu potius inquinamentum, atque suos cibos
+iis conspurcant. Anathema iis qui esu morticino-
+rum se polluunt ; quique omne quidem Christia-
+num jejunium respuunt, tempore vero ab ipsis
+existimatæ Quadragesimæ, caseo et lacte se explent.
+Anathema iis qui aut negant, aut corrumpunt qua-
+tuor Christi Evangelia , sanctique apostoli Pauli
+Epistolas ; quique loco quidem cunctorum opificis
+Dei, colunt eum qui princeps hujus mundi dicitur ;
+loco vero apostoli Pauli, Paulum filium Callinicæ
+honorant, et cum quatuor ejus discipulos in figu-
+ram quatuor Evangeliorum suscipiant, tum cæteros
+tres Trinitatis nomine insigniunt. Anathema iis qui
+concumbunt cum sorore, et socru, et nuru ; nec
+non iis qui primo mensis Januarii die ad festum
+congregati, post vespertinam temulentiam exstin-
+guunt lumina, et inter se carne lasciviunt, nec ulli
+omnino parcunt sexui, propinquitati, ætati. Ana-
+thema iis qui nunquam in juramento vera prædi-
+cant, sed de industria semper mentiuntur ac peje-
+rant, juxta doctrinam maxime exsecrandi Manetis,
+qui sic loquitur : Non sum immisericors , sicut
+Christus, nec negabo eum qui me coram hominibus
+negaverit ; quinimo eum qui propriæ salutis causa
+mentitus fuerit, eumque qui per timorem negaverit
+suam fidem, cum gaudio recipiam. Quod si hæc toto
+ex animo non sentio ac dico, ego ille, verum cum
+simulatione præpositos anathematismos feci, mihi
+sit anathema et catathema, tam in hoc sæculo quam
+in futuro, animaque mea condemnetur ac pereat et
+perpetim in Tartaro puniatur.
+
+# block=4
+VI. Hæc dicente eo qui accedit coram ecclesia,
+facimus eum Christianum, sive habemus pro Chri-
+stiano nondum baptizato, quales fere sunt Christia-
+
+# block=5
+Ταῦτα τοῦ προσερχομένου λέγοντος ἐπ' ἐκκλησίας,
+ποιοῦμεν αὐτὸν Χριστιανὸν, εἴτ' οὖν ἡγούμεθα ὡς
+ἀβάπτιστον Χριστιανὸν, οἷα τυχόν ἐστι τὰ τῶν Χρι-
+
+# block=8
+(76) Καὶ Ἰωάννη. Forte aliquid deest. Vide Petr. Sic., p. 50. In.

@@ -1,0 +1,189 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,987,501,1739,1189
+2,989,1198,1743,2102
+3,201,1283,951,2018
+4,206,2023,957,2323
+5,996,2108,1746,2320
+6,201,155,954,1275
+7,211,2541,960,2712
+8,988,153,1736,492
+9,997,2536,1758,2670
+10,211,2439,958,2544
+11,588,97,1300,133
+12,996,2433,1750,2538
+13,810,2359,1117,2393
+14,1666,98,1734,135
+17,207,99,274,133
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=17 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA
+
+# block=14
+1428
+
+# block=17
+1427
+
+# block=8
+fecit omnia. Si enim Magister noster diem et horam,
+cujus etiam signa prædixit, nescire se professus est,
+ut totum revocaret ad Patrem, quomodo nos turpe
+ducemus, si aliqua nos ignorare fateamur, cum Ma-
+gistri in hoc habeamus exemplum? Hoc tamen unum
+profitemur ea nos scire, quæ a vero propheta didi-
+cimus ; ea autem a vero propheta nobis esse tradita,
+quæ sufficere humanæ scientiæ judicavit.
+
+# block=6
+XII. Sicut enim fieri solet ubi somnia obliqua vi-
+derint homines, et nihil certi intelligunt, cum aliquis
+occurrerit exitus rerum, tunc ad ea quæ acciderint
+aptant etiam somnii visum, ita est et mathesis ;
+antequam aliquid fiat, certi nihil pronuntiatur,
+postea vero quam aliquid acciderit, rei jam gestæ
+colligunt causas. Denique frequenter cum errave-
+rint et aliter res acciderit, semetipsos increpant di-
+centes quia illa fuit stella quæ impedivit, quæ oc-
+currit, et non vidimus, ignorantes quia error eorum
+non ex artis imprudentia, sed ex totius causæ in-
+convenientia descendit : ignorant enim quæ sint,
+quæ facere quidem concupiscamus, non tamen in-
+dulgeamus concupiscentiis. Nos autem qui mysterii
+hujus didicimus rationem, scimus et causam, quia
+libertatem habentes arbitrii interdum concupiscen-
+tiis obsistimus, interdum cedimus : et ideo huma-
+norum gestorum (17) incertus est exitus, quia in
+libertate pendet arbitrii. Nam concupiscentiam qui-
+dem, quam operatur maligna virtus, potest indicare
+mathematicus ; sed si concupiscentiæ hujus actus
+vel exitus impleri possit necne, quia in arbitrii li-
+bertate est, sciri ante effectum rei a nullo potest. Et
+hoc est quod ignorantes astrologi invenerunt sibi ut
+climacteras dicerent, rei scilicet incertæ perfugia (18),
+sicut hesterno plenissime ostendimus.
+
+# block=1
+XV. Tum ego Clemens dicere ita cœpi : Apud
+Tripolim cum contra gentiles disputares, domine
+mi Petre, valde miratus sum te, qui a patribus He-
+bræo ritu et observantiis propriæ legis imbutus,
+Græcæ eruditionis studiis in nullo inquinatus es,
+quomodo tam magnifice et tam incomparabiliter
+prosecutus sis, ita ut etiam quædam de historiis
+deorum quæ in theatris decantari solent, continge-
+res. Verum quoniam sensi tibi ipsas fabulas et blas-
+phemias eorum minus esse notas, de his, si placet,
+aliqua in auditu tuo repetens ab ipsa origine disse-
+ram. Et Petrus : Dic, inquit, bene facis juvare præ-
+dicationem nostram. Tum ego : Dicam igitur quia
+jubes, non ut docens, sed quam stultas de diis
+suis opiniones habeant gentiles, in medium profe-
+rens.
+
+# block=2
+XVI. Cumque vellem dicere, Niceta labrum mor-
+dicus stringens, innuebat mihi, ut tacerem ; quem
+cum vidisset Petrus, ait : Cur ingenium liberale et
+generosam lædere vis naturam, ut in honorem mei,
+qui nullus est, tacere eum velis? Aut nescis, quia
+si omnes gentes, postquam audierint a me prædi-
+cationem veritatis et crediderint, velint se ad do-
+cendum conferre, mihi majorem pariunt gloriam,
+siquidem gloriæ me cupidum putas? Quid enim tam
+gloriosum quam Christo discipulos præparasse, non
+qui taceant et soli salvi fiant, sed qui loquantur
+quæ didicerunt, et multis prosint? Utinam quidem
+et tu, Niceta, sed et tu, dulcissime Aquila, juvaretis
+me ad prædicandum verbum Dei, eo magis quo ea
+in quibus errant gentiles, bene vobis comperta sunt :
+et non solum vos, sed et omnes qui audiunt me,
+opto, ut dixi, ita audire et discere, ut et docere
+possint; multis namque adjutoribus indiget mun-
+dus, quibus homines ab errore revocentur. Cumque
+hæc dixisset, ait ad me : Tu ergo, Clemens, exse-
+quere quæ cœpisti.
+
+# block=3
+XIII. Ad hæc si quid tibi dicendum videtur, dicito.
+Et pater : Nihil verius, inquit, fili, his quæ prosec-
+cutus es (19). Cumque hæc loqueremur inter nos,
+nuntiavit quidam plurimum stare populum foris qui
+audiendi gratia convenerint, et Petrus jussit his in-
+grediendi copiam dari ; erat enim locus opportunus
+et amplus. Cumque ingressi fuissent, ait ad nos Pe-
+trus : Si quis vult vestrum, faciat ad populum ser-
+monem et de idololatria disserat. Cui ego Clemens
+respondi : Multa benignitas tua et erga omnes leni-
+tas ac patientia indulget nobis, ut audeamus loqui
+coram te et rogare quæ volumus ; et ideo, ut dixi,
+morum tuorum mansuetudo invitat omnes et adhor-
+tatur salutaris doctrinæ præcepta suscipere. Hoc ego
+usque ad præsens apud nullum alium vidi, nisi apud
+te solum, apud quem invidia nulla est neque indigna-
+tio ; aut quid tibi videtur?
+
+# block=4
+XIV. Et Petrus : Non solum hæc ex invidia aut
+indignatione veniunt, sed interdum inest aliquibus
+verecundia, ne forte de his quæ proponuntur, plane
+respondere non possint, et fugiunt imperitiæ notam.
+Sed non debet pro hoc quis verecundiam pati, quia
+nec est aliquis hominum qui profiteri debeat omnia
+se scire ; unus enim est qui scit omnia, ipse qui et
+
+# block=5
+XVII. Et ego continuo subjunxi : Quoniam, ut
+dixi, apud Tripolim disputans, multa de diis gentium
+utiliter et necessario disseruisti, cupio de origine
+eorum ridicula te coram exponere, ut neque te
+lateat vanæ hujus superstitionis commentum, et au-
+
+# block=13
+COTELERII NOTÆ.
+
+# block=12
+μενοι τὴν προαίρεσιν. Nempe : Climacteras commenti
+sunt, liberam hominis voluntatem in incerto ponentes,
+aut in rem incertam commutantes.
+
+# block=10
+(17) Et ideo humanorum gestorum, etc. Hic Rufi-
+nus Rufinum agit, hoc est, laxum malumque præ-
+sertim in obscurioribus interpretem.
+
+# block=9
+(19) Nihil verius, inquit, fili, his quæ prosecutus
+es. Alicujus momenti est lectio Græca duorum Re-
+giorum codicum, ἀπεκρίνατο, μηδὲν τούτων ἀληθέ-
+στερον εἶναι ὧν εἶπεν.
+
+# block=7
+(18) Ut climacteras dicerent, rei scilicet incertæ
+verfugia. Hinc scribi forte debeat in S. Sebastiani
+Actis : Climacteras dicunt, id est natura rei incertæ
+perfugia. Aliud sonat Græca : Τοὺς κλιμακτῆρας
+ἐπενόησαν, εἰς ἀδηλότητα ποιούμενοι vel μεταποιού-

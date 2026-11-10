@@ -1,0 +1,147 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1049,1473,1796,2459
+2,266,136,1014,2463
+3,272,2516,1793,2687
+4,1052,134,1794,1466
+5,668,80,1387,117
+6,269,81,319,120
+7,1735,70,1793,120
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Diaconi vero Ecclesiæ ⁷⁴, tanquam oculi sint epi-
+scopi oberrantes ⁷⁵, et circumlustrantes cum vere-
+cundia actus totius Ecclesiæ, et perscrutantes dili-
+gentius , si quem videant vicinum fieri præcipitio,
+et proximum esse peccato, ut referant hæc ad epi-
+scopum, et commoneri ab eo possit is qui in præci-
+pitium lapsurus est , uti revocetur, et non corruat
+in peccatum. Negligentiores ⁷⁶ quoque, et eos qui ra-
+rius ad audiendum verbum Dei accedunt, nec solli-
+cite ad episcopi tractatum conveniunt, ipsi commo-
+neant et hortentur. Si enim assidui sint ad audien-
+dum, non solum vitæ æternæ ex salubri communi-
+tione capiunt lucra, verum et quæcunque illæ sunt
+tristitiæ vel mœrores, quæ ⁷⁷ ex præsentis vitæ ne-
+cessitatibus et cladibus temporum veniunt, quæque
+malorum sermonibus ⁷⁸ in corde suo velut jacula
+defixa circumferunt , abjiciuntur omnia prædica-
+tione veritatis, et vitæ æternæ doctrina ⁷⁹, et erudi-
+tione purgata. Alioquin si multo tempore auditum
+subtrahant a verbo Dei, et remaneant ⁸⁰ in cultu ⁸¹
+vitiorum, sine dubio spinis erunt ac ⁸² sentibus oc-
+cupati. Et quid aliud, nisi ad ignem talis hæc terra
+præparabitur ? De his ergo, ut diximus, diaconis ⁸³
+
+# block=2
+aberrant a Deo, etiamsi sobrie vixerint ⁶⁷. Propter
+quod vos, o presbyteri, Ecclesiam excolite, et ordi-
+nate ⁶⁸ sponsam Christi ad pudicitiam. Sponsam
+autem dico, omnem Ecclesiæ congregationem ; quæ
+si pudica inventa fuerit a sponso suo, ingentibus
+ab eo donis et muneribus honorabitur ; et vos, vel
+ut ministri sponsæ, et amici sponsi, ingenti gaudio
+et lætitia perfruemini. Si vero sponsa hæc reperta
+fuerit commaculata peccatis, ipsa quidem, tanquam
+indigna, non tradetur regalibus ⁶⁹ toris. Vos autem
+pœnas dabitis , si forte per vestram negligentiam
+vel desidiam obrepserit contagio sæva peccati. Id-
+circo ante omnia sobrietatis et pudicitiæ sollicitu-
+dinem gerite. Valde enim apud Deum grave crimen
+ducitur fornicatio , cujus species sunt quidem plu-
+res, sicut vobis et ipse Clemens diligenter exponet.
+Verumtamen prima species adulterii est, virum
+propria uxore solummodo non esse contentum , et
+mulierem non proprio tantum servare se viro. Si
+ergo castus fuerit quis, potest et humanus et mise-
+ricors fieri, per quod et ipse æternam a Deo mise-
+ricordiam consequatur. Sane sicut adulterii vene-
+num cunctis malis perniciosius est , ita amor fra-
+ternus et charitas totius boni fastigium tenet. Et
+ideo diligite omnes fratres vestros, et cum religio-
+ne ac misericordia respicite ad omnes ⁷⁰. Orphanis
+exhibete vosmetipsos parentes. Viduis virorum cu-
+ram impendite , cum omni castitate, quæ necessa-
+ria sunt, præbentes. Juniores tamen viduas nuptiis
+copulate. His qui ignorant artificia, exquirite hone-
+stas aliquas occasiones, quibus victum necessarium
+quærant ; artificibus vero operam providete, debili-
+bus misericordiam facite. Scio autem hæc omnia
+facturos vos, si charitatem præ cæteris et ante om-
+nia in vestro corde figatis. Cujus charitatis , et re-
+cipiendæ, et habendæ, maximum erit fomentum , si
+frequenter inter vosmetipsos communem cibum ve-
+strum mensamque faciatis, et inquantum unusquis-
+que prævalet, crebrius panes ac sales suos cum fra-
+tribus suis sumat. Per hæc enim præcipue charitas
+comparatur, et causa totius boni in hujusmodi
+communione consistit. Ubi autem pax et bonitas,
+ibi et salus. Propter quod communes facite cibos
+vestros cum his qui secundum Deum fratres sunt ,
+quia per hæc temporalia officia, pacis et charitatis
+fructibus gaudia æterna merebimini ⁷¹. Multo au-
+tem sollicitius esurientes reficite, et sitientibus po-
+tum date, nudis vestimentum ; ægros visitate, et
+eos qui in carcere sunt, prout possibile est, juvate ;
+peregrinos satis prompte in domibus vestris susci-
+pite ⁷². Et ne omnia nunc singulatim dicam , omne
+bonum ipsa per se (si in vobis fuerit) charitas vos
+facere docebit , sicut et econtrario eos qui a salute
+alieni sunt, omne malum facere odium docet.
+
+# block=3
+⁶⁷ Et in Decr. Ivo, lib. vii. ⁶⁸ adornate. ⁶⁹ extrudetur a regalibus. ⁷⁰ Constit. iv 2. ⁷¹ Item in
+ep. 2 S. Evaristi papæ. ⁷² Matth. xxv. ⁷³ 11. quæst. 1, Si qui est. ⁷⁴ Distinct. 93, Diaconi Eccle-
+siæ. ⁷⁵ Const. ii, 44. ⁷⁶ Ms. Negligentiores, et ita semper. ⁷⁷ Ms. qui, et ex recentiori manu quæ.
+⁷⁸ Ms. quæcunque sermonibus suis. ⁷⁹ Ms. vitæ æternitate, doctrina, etc. ⁸⁰ inculti vitiorum, etc.
+⁸¹ Ms. a cultu. ⁸² Deum amiserunt, spinis ac. ⁸³ Ms. diaconi.
+
+# block=4
+Si qui ⁷³ ex fratribus negotia habent inter se,
+apud cognitores sæculi non judicentur ; sed apud
+presbyteros Ecclesiæ, quidquid illud est, dirimatur
+et omni modo obediant statutis eorum. Super om-
+nia autem avaritiam fugite ; quæ homines occasione
+præsentis lucri ab æternis separat bonis. Pondera,
+mensuras, stateras, pro locis quibusque æquissima
+custodite ; deposita fideliter restituite. Quæ omnia,
+et si qua sunt similia his, ita demum sollicite et
+diligenter implebitis , si futurum Dei judicium sine
+intermissione in vestro corde volvatis. Quis enim
+peccare poterit, si semper ante oculos suos Dei ju-
+dicium ponat ? Quod in fine mundi certum est agi-
+tandum, ut tandem qui bene in hac vita egerunt,
+consequantur bona reposita ; peccatores autem ut
+consequantur præparatas et reconditas pœnas, de
+quibus ita futurum dubitare omnino non possumus ;
+siquidem hæc omnia ita esse ventura verus nobis
+Propheta prædixit. Unde et vos, qui estis veri pro-
+phetæ discipuli, abjicite a cordibus vestris ante
+omnia discordias et animorum dissensiones, ex qui-
+bus omne malum opus procedit, et benignitatem ac
+simplicitatem tota mente servate. Quod si forte ali-
+cujus cor vel livor, vel infidelitas, vel aliquod ma-
+lum ex his quæ superius memoravimus, latenter
+irrepserit ; non erubescat, qui animæ suæ curam
+gerit, confiteri hæc huic qui præest , ut ab ipso per
+verbum Dei et consilium salubre curetur, quo
+possit integra fide et operibus bonis pœnas æterni
+ignis effugere, et ad perpetuæ vitæ præmia perve-
+nire.
+
+# block=5
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=6
+467
+
+# block=7
+468

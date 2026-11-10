@@ -1,0 +1,225 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1023,527,1768,1250
+2,232,744,985,1260
+3,232,138,995,734
+4,999,1791,1751,2686
+6,223,2120,973,2385
+7,221,1755,974,2120
+8,1012,1694,1761,1790
+9,227,1562,976,1692
+10,223,2387,962,2453
+11,1029,135,1778,519
+12,1012,1593,1759,1692
+14,842,1308,1143,1342
+15,790,77,1217,119
+16,230,1395,979,1562
+17,1007,1393,1760,1591
+18,222,2454,970,2686
+19,250,87,324,121
+20,1149,2766,1173,2795
+24,227,1693,961,1757
+26,1705,87,1777,120
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=16px
+# block=20 fontSize=15px
+# block=24 fontSize=15px
+# block=26 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+RECOGNITIONUM LIB. VIII.
+
+# block=19
+1377
+
+# block=26
+1378
+
+# block=11
+plex nec haberet intra se aliud a quo resolvi ac
+dividi posset? Quod si ex duobus aut tribus, vel
+etiam ex quatuor constare corpora videntur, cui
+non etiam exiguum habenti sensum manifestum sit,
+quod fuerit aliquis qui in unum plura collegerit, et
+temperamenti moderatione servata, ex diversis par-
+tibus solidum corpus effecerit? Hunc igitur nos con-
+ditorem mundi dicimus Deum, hunc agnoscimus
+universitatis auctorem.
+
+# block=3
+plex visibilem, eo ipso quod est visibilis, satis
+constat. Omne autem corpus duas recipit differen-
+tias; aut enim connexum est et solidum, aut divi-
+sum et separatum. Et si quidem connexum fuit et
+solidum corpus ex quo mundus factus est, et per
+diversas species partesque secundum differentias
+sui corpus illud partitum est et divisum, necesse
+est intelligi fuisse aliquem qui corpus quod erat
+connexum et solidum dirimeret, atque in partes
+multas duceret formasque diversas. Aut si ex di-
+versis dispersisque corporum partibus omnis mundi
+hæc moles composita est et compaginata, necesse est
+nihilominus intelligi fuisse aliquem qui in unum di-
+spersas colligeret et diversas rebus species indueret.
+
+# block=1
+XV. Nam Græcorum philosophi de principiis
+mundi quærentes, alius alia incessit via. Denique
+Pythagoras elementa principiorum numeros esse
+dicit, Callistratus qualitates (52), Alcmæon contra-
+rietates (53), Anaximandrus immensitatem, Anaxa-
+goras æqualitates partium (54), Epicurus atomos,
+Diodorus amere (55), hoc est ex his in quibus partes
+non sunt, Asclepias ὄγκους (56), quod nos tumores
+vel elationes possumus dicere, Geometræ fines (57),
+Democritus ideas (58), Thales aquam, Heraclitus
+ignem, Diogenes aerem (59), Parmenides terram (60),
+Zenon, Empedocles, Plato ignem, aquam, aerem,
+terram; Aristoteles etiam quintum introducit ele-
+mentum, quod ἀκατονόμαστον, id est incompella-
+bile nominavit (61), sine dubio illum indicans, qui
+in unum quatuor elementa conjungens mundum fe-
+cerit. Sive igitur duo sive tria sive quatuor aut
+
+# block=2
+XIV. Et quidem plures philosophorum hoc magis
+sensisse scio, quod ex uno corpore, quam illi ma-
+teriam vocant, divisiones ac discretiones conditor
+fecerit Deus; quod tamen ex quatuor simplicibus,
+et in unum temperamento quodam divinæ Provi-
+dentiæ admistis constaret elementis. Nam illud su-
+perfluo a quibusdam dictum puto (51), quod sim-
+plex corpus, id est absque ulla conjunctione sit
+mundi, cum constet nec corpus posse esse quod
+simplex est, neque misceri posse aut propagari vel
+solvi; quæ omnia utique mundi corporibus videmus
+accidere. Quo modo enim solveretur, si esset sim-
+
+# block=14
+COTELERII NOTÆ.
+
+# block=17
+μόκριτος. Clemens Alexandrinus Protreptici p. 43.
+Id est, opinor: Leucippus autem Milesius, et Chius
+Metrodorus, duplicia, ut videtur, ipsi quoque reli-
+quere principia, plenum et inane. Adjecit autem, mu-
+tuatus, duobus illis imagines Democritus Abderita.
+Mitto Ciceronem, et Minutium Felicem, cum aliis.
+
+# block=16
+(51) Nam illud superfluo a quibusdam dictum pu-
+to. A Xenophane, Parmenide ac Melisso.
+(52) Callistratus qualitates. In Sexti Empirici
+Pyrrhoniis Hypotyposibus, lib. III, cap. 4, id Strato-
+ni physico tribuitur.
+
+# block=9
+(53) Alcmæon contrarietates. Ἀλκμαίων vulgo; qui
+Theodorito Ἀλκμάν, eodem vel simillimo nomine.
+Philosophi hujus ἐναντιότητας explicatas habes apud
+Aristotelem, lib. I Metaphysicorum, cap. 5.
+
+# block=12
+(59) Heraclitus ignem, Diogenes aerem. Ita sex co-
+dices mss. quibus usi sumus. Intellige vero Dioge-
+nem Apolloniatem.
+
+# block=24
+(54) Anaxagoras æqualitates partium. Ὁμοιομέ-
+ρειαν, vel ὁμοιομερείας.
+
+# block=8
+(60) Parmenides terram. Cum igne: ut materiam
+cum opifice. Diogenes Laertius, Clemens Alexan-
+drinus, Theodoritus, Cicero.
+
+# block=7
+(55) Diodorus AMERE. Forte scripserat Rufinus
+Græce: ἀμερῆ. In Eclogis physicis Stobæi, cap. 13:
+Διόδωρος ἐπίκλην Κρόνος, τὰ ἀμερῆ σώματα, ἄπειρα,
+τὰ δὲ αὐτὰ λεγόμενα καὶ ἐλάχιστα, ἄπειρα μὲν κατ'
+ἀριθμὸν, ὡρισμένα δὲ κατὰ τὸ μέγεθος. Dionysius
+Alexandrinus episcopus, in opere De natura, apud
+Eusebium Præparat. Evangel., lib. XIV, c. 23: Καὶ
+τούτων φασὶ τῶν ἀμερῶν ὀνοματοποιὸν Διόδωρον γε-
+γονέναι. Lege Sextum Empiricum Pyrrhoniarum
+Hypotyposeon lib. III, c. 4; in Mathematicos lib. VIII,
+p. 367; et Chalcidium in Timæum Platonis.
+
+# block=4
+(61) Aristoteles etiam quintum introducit elemen-
+tum, quod acatonomaston (ἀκατονόμαστον), id est in-
+compellabile nominavit, etc. Cicero Tusculan. quæst.
+lib. 1: Aristoteles quintum genus adhibet, vacans no-
+mine. Apud Laertium et Illustrium, in Aristotele:
+Εἶναι δὲ παρὰ τὰ τέσσαρα στοιχεῖα καὶ ἄλλο πέμπτον,
+ἐξ οὗ τὰ αἰθέρια συνεστάναι. Quibus similia in Theo-
+doriti sermone De materia et mundo, in Justino Mar-
+tyri attributis pag. 143 et 197; ex Philosopho lib. 1
+De cœlo, cap. 2, 3, in Stobæi Eclogis physicis, c. 13;
+in Attici Platonici opere adversus Aristotelem apud
+Eusebium Præp. evang. xv, 7, 8; in Sexti Hypoty-
+posibus ubi supra, et opere in Mathematicos p. 433,
+necnon in Plutarcho lib. 1 De placitis philosophorum,
+cap. 3. Atque hæc posui, cum ut illustrarem locum
+præsentem, ac exponerem sententiam Aristotelis
+alio per nostrum traductam, tum ut ab accusatione
+docti animadversoris Desiderii Heraldi defenderem
+verba Arnobii lib. II: Qui quintum elementum prin-
+cipalibus applicat causis, non Aristoteli peripatetico-
+rum patri credit. Lege Philostratum, in De vita Apol-
+lonii II, Strabonem lib. xv, paulo post medium,
+De Brachmanibus, et Julianum imperat., orat. 5,
+pag. 303; item clarissimum Huetium in notis ad
+Origenem pag. 111. Rufinus contra Hieronymum:
+Nesciebam te ἀκατονόμαστον dici et incompellabilem
+nominari.
+
+# block=6
+(56) Asclepias ὄγκους. Pergit Dionysius Alexan-
+drinus, post citata verba, sic: ὄνομα δὲ, φασὶν, αὐ-
+τοῖς ἄλλο Ἡρακλείδης θέμενος, ἐκάλεσεν ὄγκους, παρ'
+οὗ καὶ Ἀσκληπιάδης ὁ ἰατρὸς ἐκληρονόμησε τὸ ὄνομα.
+Hoc est: Nomine autem, aiunt, alio illis imposito,
+Heraclides vocavit ὄγκους, hoc est moles seu massas;
+a quo et Asclepias medicus nomen velut hæreditate
+accepit. Cætera apud Sextum Empiricum.
+
+# block=10
+(57) Geometrǣ fines. Οἱ μαθηματικοὶ τὰ πέρατα
+τῶν σωμάτων. Sextus.
+
+# block=18
+(58) Democritus ideas. Primus enim Democritus,
+teste S. Irenæo lib. II, cap. 19, dixit, multas et va-
+rias ab universitate figuras expressas descendisse in
+hunc mundum. Ὁ δὲ Μιλήσιος Λεύκιππος, καὶ ὁ Χῖος
+Μητρόδωρος, διττὰς, ὡς ἔοικεν, καὶ αὐτοὶ ἀρχὰς ἀπε-
+λείπετην, τὸ πλῆρες καὶ τὸ κενόν. Προσέθηκε δὲ λα-
+βὼν τούτοιν τοῖν δυεῖν τὰ εἴδωλα ὁ Ἀβδηρίτης Δη-
+
+# block=20
+-T

@@ -1,0 +1,164 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,272,975,1019,2088
+2,282,155,1033,966
+3,269,2095,1019,2434
+4,1061,157,1810,1781
+5,1053,1790,1800,2476
+6,306,2440,1007,2478
+7,809,99,1274,133
+8,1049,2519,1793,2697
+10,288,104,327,145
+12,261,2520,1009,2695
+13,1742,92,1814,142
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+At enim sententiam illam de qua disputamus, ex
+opere aliquo pseudepigrapho exceptam novimus.
+Quasi vero alicujus operis auctoritas propterea mi-
+nuatur, quod illius scriptor quædam vere dicta et
+argumento quod jam tractat apprime congrua, ex
+libro non canonico forte adduxerit. Viri eruditissi-
+mi verbis utor (39). Næ, si contra secundam epi-
+stolam hæc ratio vim habeat, jam de primæ quoque
+integritate conclamatum est. Quid quod Photii cen-
+sura epistolæ utriusque consensionem, ad loca quæ-
+dam apocrypha quod attinet, confirmans, utriusque
+item unum eumdemque auctorem agnoscit? En per-
+acre de his Clementinis epistolis critici hujus ju-
+dicium (40) : Secunda, inquit, dicta quædam pere-
+grina velut e sacra Scriptura subinducit, quibus ne
+epistola quidem prima omnino vacat. Et interpreta-
+tiones quorumdam locorum alieniores profert. Hinc
+de utraque ita demum concludit : Alioquin ipsa quæ
+in his epistolis insunt sensa, nonnihil abjecta sunt,
+nec continentem seriem ac consequentiam servant.
+Videsne nihil in posteriore notare Photium, quod non
+et priori cum ea esse commune pronuntiet? Photius
+igitur, ut jure arguit Coutantius, utriusque hac in
+re consensum indigitans, ad utramque pariter su-
+scipiendam nos quodammodo inducit, hortatur,
+perurget.
+
+# block=2
+Itane censes? Quasi vero, ut cum viro docto re-
+spondeam (38), justam suspicionis ansam ejusdem
+sententiæ repetitio præbeat. Quod si res ita se ha-
+beret, actum profecto esset de pluribus veterum
+indubiis monumentis, in quibus passim unus idem-
+que auctor, sive in ipso opere, sive etiam in variis,
+eadem Scripturarum loca easdemque sententias pro
+re nata sibi repetenda esse duxit. Cujus quidem rei
+exemplum quod mihi nunc succurrit, apud Justinum
+Martyrem cum in utraque Apologia tum in Dialogo
+cum Tryphone, luculentum satis habetur. Quid
+porro vetat, quo minus pro temporis institutique
+ratione unam eamdemque sententiam in eodem
+opere, adeoque magis si diversa illa sint, recitet
+iterum idem auctor? Imo vero, quo singularius est
+effatum rursus in medium adductum, eo conduci-
+bilius evadit ad suadendum unum esse auctorem
+epistolæ utriusque, in quibus relatum pariter com-
+peritur.
+
+# block=3
+Hactenus cum Grabio sumus in primis congressi;
+qui tamen deinceps animum mutasse perhibetur :
+siquidem alibi (41) locum ex Epistola II, et quidem
+tanquam Clementinum acceptum, contra Lucæ
+Mellierii Artemonii seu Samuelis Crellii cavillatio-
+nes acriter propugnat : adeo ut sive Grabianæ sen-
+tentiæ patronis, sive vel ipsi Grabio nihil reliqui
+esse videatur.
+
+# block=4
+veritati locum objiciant e pseudo-Justino desum-
+ptum, qui sic se habet (42): Εἰ τῆς παρούσης κατα-
+στάσεως τὸ τέλος ἐστὶν, ἡ διὰ τοῦ πυρὸς κρίσις τῶν
+ἀσεβῶν, καθά φασιν αἱ γραφαὶ προφητῶν τε καὶ ἀπο-
+στόλων, ἔτι δὲ καὶ τῆς Σιβύλλης, καθώς φησιν ὁ μα-
+κάριος Κλήμης ἐν τῇ πρὸς Κορινθίους ἐπιστολῇ, κ. τ. λ.
+« Si præsentis rerum status finis, est impiorum
+per ignem judicium, prout testantur Scripturæ pro-
+phetarum et apostolorum, atque insuper Sibyllæ,
+ut ait beatus Clemens in Epistola ad Corinthios, » etc.
+Ad quæ quidem verba plura erudite observat Cote-
+lerius, atque ex eo Coutantius aliique. Verum, iis
+missis, in medium proferre libet, quæ ad hunc
+pseudo-Justini locum adnotavit nuperus operum
+S. Justini editor Parisiensis : « Cum Sibyllini ver-
+sus, inquit, referantur in Constitut. apostol. lib. v,
+quod opus sub nomine Clementis ferebatur, conjici
+posset nostrum hunc scriptorem, memoria effluente
+existimasse, hoc Sibyllæ testimonium quod in Con-
+stitutionibus apostolicis legerat, in Epistola ad Co-
+rinthios exstare. Si minus placeat hæc conjectura,
+illud saltem cum doctissimis viris asseverare non
+dubitabo, nostrum scriptorem minime cum eis fa-
+cere, qui ejus testimonio utuntur, ut Epistolam
+S. Clementis secundam minime genuinam esse pro-
+bent, sed hominis fetum cui noti erant Sibyllini de
+extremo judicio versus, multo recentioris S. Cle-
+mente. Ut omittam pseudo-Justinum in ambiguo
+reliquisse, utrum S. Clementis Epistolam citaverit;
+quis ignorat multa Sibyllis oracula, propheticis sen-
+tentiis consentanea, attribui solita fuisse, antequam
+prodirent carmina illa Sibyllina? Quorum artifex
+non videtur facinus suscepturus, aut saltem opta-
+tos fraudis exitus habiturus, nisi jam tum animis
+insedisset anticipata de Sibyllinis prædictionibus
+opinio. » Hactenus vir ille doctus. Qui autem hac de
+re plura scire gestiunt, eos ad scriptores modo lau-
+datos remittimus.
+
+# block=5
+VIII. Reliquum est ut alius adversarii neque in-
+celebris neque indocti, Hermanni Venemæ, obje-
+ctationibus occurramus, quibus hujus Epistolæ qua
+de agimus, integritas vehementius impetitur. Et in
+prima quidem Epistolarum suarum (43) quarum mo-
+do meminimus, in eo totus est vir clar. quo probet,
+non tantum Hieronymum doctorem maximum ad
+secundam Epistolam Clementinam respexisse, dum
+nos edocuit S. Clementem ad spirituales et evange-
+licos eunuchos scripsisse, omnemque pene sermonem
+suum de virginitatis puritate contexuisse, verum
+etiam S. Epiphanium in eamdem oculos habuisse
+intentos, dum de ipsius Clementis Epistolis encycli-
+cis sermonem habuit. Nec ita multo post, sui penè
+tus oblitus vir eruditus, quod profecto mirari sub-
+it, plura congerit (44) quibus evincat, alium om-
+
+# block=6
+VII. Sunt insuper, qui secundæ hujus Epistolæ
+
+# block=7
+AD S. CLEMENTEM I PAPAM
+
+# block=8
+(42) Quæst. ad orthod. Respons. ad quæst. LXXIV,
+inter. Opp. S. Just. M.
+(43) Epist. I, ad cel. P. Wesseling, § 10, p. 15.
+(44) Epist. II, ad cl. T. Hemstherus., § 20, p.
+76.
+
+# block=10
+93
+
+# block=12
+(38) Coutant., Epist. Rom. Pontif., pag. 39, § v.
+(39) Mill., Prolegom. ad N. T., n. 147.
+(40) Bibl. cod. cxxvi.
+(41) Annot. ad G. Bulli defens. fid. Nic., sect.
+II, cap. 3, § 5, pag. 62.
+
+# block=13
+100

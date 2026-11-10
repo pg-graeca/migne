@@ -1,0 +1,183 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,966,2347,1719,2645
+2,189,164,939,461
+3,174,1511,928,2557
+4,973,169,1732,1292
+5,964,1316,1727,2342
+6,181,465,935,1501
+7,179,2565,927,2644
+8,765,104,1175,140
+9,1537,2741,1582,2773
+10,192,111,261,142
+11,1653,103,1728,137
+17,325,2741,594,2776
+20,1851,0,1892,20
+24,224,2695,694,2729
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=17 fontSize=15px
+# block=24 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=11
+1290
+
+# block=8
+RECOGNITIONUM LIB. III.
+
+# block=10
+1289
+
+# block=2
+diligunt, cum utique olim habentes notitiam mei,
+me magis diligere deberent. Et ideo ex hoc indi-
+cio, qui habent sensum possunt intelligere, quia
+magis Petrus magus videri potest, cum mihi, cui
+ex consuetudine debitus propemodum est, non de-
+fertur affectus, illi autem, cui nullo usu debetur,
+abundanter expenditur.
+
+# block=4
+Petrus : Video te sentire quod arguendus sis, et vis
+urbane subterfugere certamen ; nam quid vidisti
+me iratum fecisse in te hominem tantum populum
+decipere cupientem, et cum nihil habeas quod di-
+cas, modestiam simulantem? qui et auctoritate tua
+jubes, ut quomodo ipse vis et non quomodo ordo
+postulat, controversia moveatur. Et Simon : Impe-
+rabo mihi ipsi patientia uti ad imperitiam tuam, ut
+ostendam te quidem velle populum seducere, me
+autem docere quæ vera sunt. Sed nunc omitto de
+immensa luce discutere, quod interrogo te, hoc
+mihi responde : Cum Deus fecerit universa, ut tu
+dicis, unde est malum? Et Petrus : Hoc modo in-
+terrogare non est adversantis, sed discentis. Si ergo
+vis discere, confitere, et prius te doceam quomodo
+debeas discere, et cum didiceris audire, tunc jam
+te incipiam consequenter docere. Si vero non vis
+discere tanquam sciens omnia, ego prius expono
+fidem quam prædico, expone et tu quod tibi verum
+videtur, et cum manifesta fuerit utriusque profes-
+sio, judicetur ab auditoribus cujus nostrum sermo
+sit veritate subnixus. Et Simon ad hæc respondit :
+Risus mihi est, ecce qui promittit quod me doceat.
+Verumtamen patiar te et imperitiam tuam atque
+arrogantiam feram. Confiteor, discere volo, videa-
+mus quomodo me poteris docere.
+
+# block=6
+XIII. Et cum multa hujuscemodi Simon diceret,
+Petrus salutato ex more populo ita respondit : Suf-
+ficit unicuique, o Simon, ad confutandum con-
+scientia sua; quod si hoc miraris, quod noti non
+solum te non diligunt sed et oderunt tui, causam
+disce a me. Cum sis seductor, veritatem te prædi-
+care profiteris, ob hoc plures desiderium gerentes
+discendæ veritatis me habuisti. Sed hi ubi con-
+traria in te quam profitebaris viderunt, quia ama-
+tores erant, ut dixi, veritatis, non solum non dili-
+gere te, sed et odisse cœperunt. Non autem statim
+ab eis desertus es, quia vel pollicebaris adhuc te
+eis ostendere posse, quod verum est. Donec ergo
+nondum aderat qui posset ostendere, patiebantur te,
+ubi vero spes eis doctrinæ melioris arrisit, te con-
+temnentes quod melius intelligunt nosse deside-
+rant. Et tu quidem nefariis artibus agens, ab exor-
+dio latere te posse credidisti, sed non lates ; urge-
+ris enim et contra spem publicaris, quia non solum
+ignorasti veritatem, sed nec audire voluisti ab his
+qui eam sciebant. Si enim audire voluisses, inno-
+tuisset utique tibi ille sermo ejus qui ait, quia ni-
+hil est occultum quod non agnoscetur, neque opertum
+quod non reveletur ⁸⁶.
+
+# block=5
+XVI. Et Petrus : Si, inquit, vere vis discere, disce
+hoc primum, quam imperite interrogaveris ; ais
+enim, cum Deus universa creaverit, unde est ma-
+lum? Ante enim quam hoc rogares, tres inter-
+rogandi species præcedebant. Primo, si est
+malum ; secundo, quid sit malum ; tertio, cui
+sit, et unde. Ad hæc Simon : O imperitissime,
+inquit, et ineruditissime, estne hominum quis-
+quam qui non confiteatur, quia sit in hac vita
+malum? Unde et ego putans te vel communem
+omnium habere sensum, interrogavi unde sit ma-
+lum, non ut discere volens, qui omnia sciam, abs
+te præcipue qui nihil noveris, sed ut te ostendam
+ignarum esse omnium. Et ne putes quia iratus sum
+quod ita tecum austerius loquor, miseratio me
+habet horum qui adsunt, quos tu decipere conaris.
+Et Petrus ait : Multum malus es, si tantas injurias
+non iratus facis ; sed impossibile est fumum
+non consurgere, ubi ignis est. Verumtamen dicam,
+ne te verbis videar occupare, quominus ad ea quæ
+abs te inconvenienter sunt dicta, respondeam. Ais
+omnes fateri quia sit malum, quod utique falsum
+est; nam primo omnium quia subsistat malum,
+universa Hebræorum negat gens.
+
+# block=3
+XIV. Hæc et his similia dicente Petro, Simon
+respondit : Nolo me verbis occupes, Petre, repetito
+abs te quæ hesterno promiseras ; dicebas enim os-
+tendere te posse, quia lex doceat de immensitate
+lucis æternæ, et quod duo tantum sint cœli et ipsi
+creati, sed superius esse lucis illius sedem, in qua
+solus in æternum residet ineffabilis Pater; ad illius
+vero cœli similitudinem factum esse etiam istud
+visibile cœlum, quod et transiturum confirmabas.
+Unum ergo dixisti esse Patrem omnium, quia non
+possunt duo esse immensi, alioqui neuter eorum
+immensus erit, quia in eo quo alter subsistit, alteri
+finem subsistendi facit. Si ergo hæc non tantum
+polliceris, sed et ostendere potes ex lege, omittens
+plura loqui hinc incipe. Et Petrus : Si propter te,
+inquit, qui ad contradicendum tantummodo venis,
+rogarer de his dicere, nunquam a me unum saltem
+posses audire sermonem, sed quoniam necesse est
+agricolam, qui vult bonam terram seminare, non-
+nulla semina perdere aut in petrosis, aut in his
+quæ ab hominibus conculcanda sunt, vel in dumo-
+sis ac repletis sentibus locis, sicut et Magister no-
+ster exposuit diversitatem propositi uniuscujusque
+animæ per hæc indicans ⁸⁵, non morabor.
+
+# block=1
+XVII. Et Simon, interrupto ejus sermone : Recte,
+inquit, faciunt qui dicunt non esse malum. Et Pe-
+trus : Non de hoc nunc proposuimus dicere, sed
+quia non omnes dicunt esse malum. Secundum
+autem erat interrogare te, quid est malum, sub-
+stantia, an accidens, an actus? sed et alia multa
+hujusmodi. Et post hæc, erga quid vel quomodo
+
+# block=7
+XV. Tum Simon : Videris mihi, inquit, irasci ;
+quod si est, non necesse est inire conflictum. Et
+
+# block=24
+⁸⁵ Matth. x, 26. ⁸⁶ Luc. viii, 5.
+
+# block=17
+PATROL. GR. I.
+
+# block=9
+41

@@ -1,0 +1,182 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,246,795,1004,1567
+2,243,1575,1000,2134
+3,248,144,1005,788
+4,1039,140,1795,701
+5,1040,706,1799,1826
+6,1041,1831,1795,2130
+7,243,2238,1004,2706
+8,835,92,1214,126
+9,1037,2227,1795,2703
+10,248,96,317,130
+11,860,2162,1162,2196
+13,1708,82,1792,124
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+1438
+
+# block=8
+RECOGNITIONUM LIB. X
+
+# block=10
+1437
+
+# block=4
+Hanc ergo aquarum libertatem, quæ prius bulla
+obtegente premebatur, postquam illa inferni sortita
+est locum, Neptunum esse appellatam. Post hoc
+cum elementum frigidum per concretionem glacia-
+lis bullæ ad inferiora fuisset absorptum, et aridum
+fuisset humidumque discretum, nullo jam impe-
+diente, elementum calidum ignis utpote vigore et
+levitate ad superiora convolavit aeris, spiritu et pro-
+cella subvectum. Hanc ergo procellam, quæ καται-
+γὶς Græce appellatur, ægem, id est capram dixe-
+runt, et ignem qui ad superna conscendit, Jovem;
+et ideo eum capra subvectum conscendisse Olym-
+pum dicunt.
+
+# block=3
+quo omnia facta sunt; hoc sane ipsum chaos non
+tenebras dixit esse, non lucem, non humidum, non
+aridum, non calidum, non frigidum, sed omnia
+simul mista, et semper unum fuisse informe; ali-
+quando tamen quasi ad ovi immanis modum, per
+immensa tempora effectam peperisse ac protulisse
+ex se duplicem quamdam speciem, quam illi mas-
+culofeminam vocant, ex contraria admistione hujus-
+modi diversitatis speciem concretam; et hoc esse
+principium omnium, quod primum ex materia pu-
+riore processerit, quodque procedens discretionem
+quatuor elementorum dederit, et ex duobus quæ
+prima sunt elementis fecerit cœlum, ex aliis autem
+terram, ex quibus jam omnia participatione sui
+invicem nasci dicit et gigni. Hæc quidem Orpheus.
+
+# block=5
+XXXIII. Ipsum vero Jovem Græci quidem a vi-
+vendo vel vitam dando, nostri a juvando nomina-
+tum volunt. Hanc ergo esse viventem substantiam
+ferunt, quæ in superioribus posita, vi caloris velut
+cerebri ambitu ad se trahens cuncta, et cujusdam
+temperamenti moderatione componens, de capite
+dicitur genuisse sapientiam, quam Minervam vocant,
+quæ a Græcis Ἀθήνη propter immortalitatem (58)
+nominata est; quæ quia pater omnium per sapien-
+tiam suam cuncta condidit, et ex ipso capite ejus
+et principali omnium genita dicitur loco, et tempe-
+rata admistione elementorum universum formasse
+mundum et adornasse perhibetur. Igitur species
+quæ materiæ inditæ sunt, ut fieret mundus, quia
+vi caloris constringuntur, Jovis viribus contineri
+dicuntur. Quæ quoniam sufficienter se habent, nec
+ultra addi sibi indigent aliquid novi, sed unum-
+quodque seminis sui posteritate reparatur, vinctæ
+esse a Jove Saturni manus dicuntur : quia nihil
+novi jam, ut [dixi, ex materia tempus producit, sed
+calor seminum secundum sui speciem cuncta
+restituit, nec ultra Rheæ partus, hoc est propago
+materiæ fluentis, ascendit, et ideo ipsam primam
+elementorum divisionem abscisionem Saturni no-
+minant, quasi qui ultra mundum generare non
+possit.
+
+# block=1
+XXXI. Subjungit autem his et Hesiodus, post
+chaos statim cœlum dicens factum esse et terram,
+ex quibus ait progenitos illos undecim, quos inter-
+dum et duodecim dicit (57), ex quibus sex mares,
+quinque feminas ponit; nomina autem dat mari-
+bus : Oceanus, Cœus, Crius, Hyperion, Iapetus,
+Cronus, qui et Saturnus ; item feminis : Thia, Rhea,
+Themis, Mnemosyne, Thetys, quæ nomina per alle-
+goriam hoc modo interpretantur : numerum quidem
+undecim vel duodecim, ipsam dicunt primam na-
+turam, quam et Rheam a fluendo dictam volunt ;
+reliquos autem decem accidentia ejus dicunt quas
+et qualitates appellant ; duodecimum tamen addunt
+et Cronum quem apud nos Saturnum dicunt ; hunc
+pro tempore accipiunt. Saturnum ergo et Rheam
+tempus ponunt et materiam, quæ ubi cum humido
+et arido et calido et frigido tempore fuerint admi-
+sta, omnia generant.
+
+# block=2
+XXXII. Hæc ergo, inquit, primo omnium tempore
+multo concretam genuit quamdam quasi bullam,
+quæ ex spiritu qui in aquis erat, paulatim collecta
+intumuit, et aliquanto tempore circumacta per super-
+ficiem materiæ, ex qua quasi ex vulva processerat,
+rigore frigoris obdurata et glacialibus augmentis
+semper increscens, abrupta tandem demergitur in
+profundum, ac pondere ipso pertracta in infernum
+descendit, et quia invisibilis facta est, Aides ap-
+pellata est, qui et Orcus vel Pluto nominatur. Cum-
+quæ de superioribus mergeretur in inferna, locum
+confluendi humido præbuit elemento, et pars cras-
+sior, quæ est terra, aquis cedentibus patefacta est.
+
+# block=6
+XXXIV. Nam de Venere hoc modo allegoriam
+tradunt : Ubi, aiunt, ætheri subjectum est pelagus,
+cum repercussus aquis splendor cœli gratior reful-
+sisset,venustas rerum quæ ex aquis pulchrior appa-
+ruerat, Venus nominata est (59), quæ ætheri tan-
+quam fratri suo sociata, quod concupiscibile decus
+effecerit, Cupidinem genuisse memorata est. Hoc
+
+# block=11
+COTELERII NOTÆ.
+
+# block=9
+(58) Ἀθήνη, propter immortalitatem. Fulgentius :
+Minerva denique et Ἀθήνη Græce dicitur, quasi
+ἀθάνατος παρθένος, id est immortalis virgo.
+(59) Venustas rerum, quæ ex aquis pulchrior ap
+paruerat, Venus nominata est. Habes hic quoque
+Rufiniana Clementinis, Græca Latinis non inseite,
+audaci licet in interpretatione facinore, permista.
+Ut enim Venus a venustate dicatur, quod etiam
+tradit Firmicus, refellit vero Cicero ; Ἀφροδίτη al-
+terius originis est, ab ἀφρῷ spuma, ut vulgo sentiunt,
+utque colligitur ex cap. 20 hujus libri. Macrobius 1
+Saturnal. 8 : Venerem, quæ a spuma undæ coaluit,
+Aphrodite nomen accepit. Vide Clementina, hom. 6,
+c. 13.
+
+# block=7
+(57) Illos undecim, quos interdum et duodecim di-
+cit. Theogoniæ vers. 133, etc. Ὠκεανὸν, Κοῖον,
+Κρεῖον, Ὑπερίονα, Ἰαπετὸν, Θείαν, Ῥείαν, Θέμιν,
+Μνημοσύνην, Φοίβην, Τηθὺν, Κρόνον. Supra c. 17 et
+Clementinorum homil. VI, n. 2, duodecim ponuntur.
+Diodorus Siculus lib. v enumerat undecim, Κρόνον,
+Ὑπερίονα, Κοῖον, Ἰαπετὸν, Κριὸν, Ὠκεανὸν, Ῥέαν,
+Θέμιν, Μνημοσύνην, Φοίβην, Τηθύν. Apollodorus
+lib. I, tredecim, Ὠκεανὸν, Κοῖον, Ὑπερίονα, Κρῖον,
+Ἰαπετὸν, Κρόνον, Τηθὺν, Ῥέαν, Θέμιν, Μνημοσύνην,
+Φοίβην, Διώνην, Θείαν. Orpheus denique quatuorde-
+cim, Θέμιν, Τηθὺν, Μνημοσύνην, Θείαν, Διώνην, Φοί-
+βην, Ῥείην, Κοῖον, Κριὸν, Φόρκυν, Κρόνον, Ὠκεα-
+νὸν, Ὑπερίονα, Ἰαπετόν.

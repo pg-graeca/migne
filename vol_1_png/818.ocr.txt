@@ -1,0 +1,172 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1038,1450,1788,2012
+2,244,2044,1792,2217
+3,245,138,999,1259
+4,1035,132,1789,1345
+5,1035,2306,1782,2713
+6,242,2298,995,2706
+7,246,1450,1000,2010
+8,668,80,1373,119
+9,849,2252,1165,2293
+11,251,84,318,119
+12,1720,80,1785,117
+14,1285,1363,1545,1399
+15,1157,1408,1681,1442
+16,403,1402,827,1446
+17,485,1358,757,1404
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1038 source_y1=1450 source_x2=1788 source_y2=2012
+Εὐχαριστοῦμέν σοι περὶ πάντων, Δέσποτα παντό-
+κρατορ· ὅτι οὐκ ἐγκατέλιπες τὰ ἐλέη σου καὶ τοὺς
+οἰκτιρμούς σου ἀφ’ ἡμῶν· ἀλλὰ καθ’ ἑκάστην γενεὰν
+καὶ γενεὰν σώζεις, ῥύῃ, ἀντιλαμβάνῃ, σκεπάζεις.
+Ἀντελάβου γὰρ ἐν ἡμέραις Ἑνὼς καὶ Ἑνὼχ, ἐν
+ἡμέραις Μωσῆ καὶ Ἰησοῦ, ἐν ἡμέραις τῶν κριτῶν,
+ἐν ἡμέραις Δαυῒδ καὶ τῶν βασιλέων, ἐν ἡμέραις Σα-
+μουὴλ καὶ Ἠλία καὶ τῶν προφητῶν, ἐν ἡμέραις
+Ἐσθὴρ καὶ Μαρδοχαίου, ἐν ἡμέραις Ἰουδίθ, ἐν
+ἡμέραις Ἰούδα Μακκαβαίου καὶ τῶν ἀδελφῶν αὐτοῦ
+Καὶ ἐν ταῖς ἡμέραις ἡμῶν ἀντελάβου ἡμῶν διὰ τοῦ
+μεγάλου σου ἀρχιερέως Ἰησοῦ Χριστοῦ τοῦ Παιδός
+σου. Καὶ ἀπὸ μαχαίρας γὰρ ἐῤῥύσατο, καὶ ἐκ λιμοῦ
+
+# block=2 source_x1=244 source_y1=2044 source_x2=1792 source_y2=2217
+³⁵ Gen. IV. ³⁶ Gen. VIII. ³⁷ Gen. XII. ³⁸ Gen. XXII. ³⁹ Gen. XXXV. ⁴⁰ Exod. XII. ⁴¹ Num. XVI. ⁴² Jos.
+V. ⁴³ Judic. VI et VIII. ⁴⁴ Judic. XIII. ⁴⁵ Judic. XV et XVI. ⁴⁶ Judic. XI. ⁴⁷ Judic. IV. ⁴⁸ I Reg. VII.
+⁴⁹ I Paral. XXI. ⁵⁰ III Reg. III et VIII. ⁵¹ III Reg. XVII. ⁵² IV Reg. II. ⁵³ II Paral. XVIII. ⁵⁴ IV Reg. XX
+et XIX. ⁵⁵ II Paral. XXXIII. ⁵⁶ II Paral. XXXV. ⁵⁷ f. Φάσχα. ⁵⁸ I Esdr. VIII. ⁵⁹ Dan. VI et XIV. ⁶⁰ Jon. II.
+⁶¹ Dan. III. ⁶² I Reg. I. ⁶³ I Esdr. III. ⁶⁴ I Mach. II. ⁶⁵ Judic. V, 24.
+
+# block=3 source_x1=245 source_y1=138 source_x2=999 source_y2=1259
+labiis prolatas populi tui congregati ex gentibus,
+quæ te in veritate invocant; sicut suscepisti mu-
+nera justorum in eorum sæculis. Abelis in primis
+respexisti ac suscepisti sacrificium ³⁵, et Noæ ex
+arca egressi ³⁶, Abrahami postquam exisset ex terra
+Chaldæorum ³⁷, Isaaci in puteo juramenti ³⁸, Jacobi
+in Bethlehem ³⁹, Mosis in solitudine ⁴⁰, Aaronis
+inter viventes ac mortuos ⁴¹, Jesu Navæ in Galga-
+lis ⁴², Gedeonis in petra et velleribus ante pecca-
+tum ⁴³, Manoæ et uxoris ejus in campo ⁴⁴, Samsonis
+in siti ante delictum ⁴⁵, Jephthæ in bello ante incon-
+sideratam promissionem ⁴⁶, Baraci et Deboræ in
+Sisara ⁴⁷, Samuelis in Maspha ⁴⁸, Davidis in area
+Ornæ Jebusæi ⁴⁹, Salomonis in Gabaone et in Hie-
+rosolymis ⁵⁰, Eliæ in monte Carmelo ⁵¹, Elisæi in
+fonte sterili ⁵², Josaphati in bello ⁵³, Ezechiæ in
+morbo et in Senacheribo ⁵⁴, Manassis in terra
+Chaldæorum post delictum ⁵⁵, Josiæ in Pascha ⁵⁶,
+Esdræ in reditu ⁵⁷, Danielis in lacu leonum ⁵⁸, Jo-
+næ in ventre ceti ⁵⁹, trium puerorum in fornace
+ignis ⁶⁰, Annæ in tabernaculo coram arca ⁶¹, Nehe-
+miæ ac Zorobabelis in extructione murorum ⁶²,
+Matathiæ et filiorum ejus in zelo tuo ⁶³, Jaelis in
+benedictionibus ⁶⁴. Et nunc ergo suscipe populi tui
+preces, tibi cum scientia, per Christum in Spiritu
+oblatas.
+
+# block=4 source_x1=1035 source_y1=132 source_x2=1789 source_y2=1345
+πρόσδεξαι τὰς διὰ χειλέων δεήσεις τοῦ λαοῦ σου τοῦ
+ἐξ ἐθνῶν, τῶν ἐπικαλουμένων σε ἐν ἀληθείᾳ, καθὼς
+προσεδέξω τὰ δῶρα τῶν δικαίων ἐν ταῖς γενεαῖς αὐ-
+τῶν. Ἄβελ ἐν πρώτοις τὴν θυσίαν ἐπεῖδες καὶ προσ-
+εδέξω, Νῶε ἐξελθόντος τῆς κιβωτοῦ, Ἀβραὰμ μετὰ
+τὸ ἐξελθεῖν ἐκ (3) γῆς Χαλδαίων, Ἰσαὰκ ἐν τῷ φρέατι
+τοῦ ὅρκου, Ἰακὼβ ἐν Βηθλεὲμ (4), Μωσέως ἐν τῇ ἐρή-
+μῳ, Ἀαρὼν ἀνὰ μέσον τῶν ζώντων καὶ τῶν τεθνειώτων,
+Ἰησοῦ τοῦ Ναυῆ ἐν Γαλγάλοις, Γεδεὼν ἐπὶ τῆς πέ-
+τρας καὶ τῶν πόκων πρὸ τῆς ἁμαρτίας, Μανωὲ καὶ
+τῆς αὐτοῦ γυναικὸς ἐν τῷ πεδίῳ, Σαμψὼν ἐν τῷ δίψει
+πρὸ τῆς πλημμελείας, Ἰεφθάε ἐν τῷ πολέμῳ πρὸ τῆς
+ἀκρίτου ἐπαγγελίας, Βαρὰκ καὶ Δεββόρας ἐπὶ τοῦ Σι-
+σάρα, Σαμουὴλ ἐν Μασσηφᾶ, Δαυῒδ ἐν ἅλῳ Ὀρνᾶ
+τοῦ Ἰεβουσαίου, Σολομῶντος ἐν Γαβαὼν καὶ ἐν Ἱερου-
+σαλὴμ, Ἠλία ἐν τῷ ὄρει τῷ Καρμηλίῳ, Ἐλισσαίου
+ἐπὶ τῆς ἀτεκνούσης πηγῆς, Ἰωσαφὰτ ἐν πολέμῳ,
+Ἐζεκία ἐν ἀῤῥωστίᾳ καὶ ἐπὶ τοῦ Σεναχηρεὶμ (5), Μα-
+νασσῆ ἐν γῇ Χαλδαίων μετὰ τὴν πλημμέλειαν, Ἰω-
+σία ἐν τῷ Φασσᾶ (6) ⁵⁷, Ἔσδρα ἐν τῇ ἐπανόδῳ, Δανιὴλ
+ἐν τῷ λάκκῳ τῶν λεόντων, Ἰωνᾶ ἐν τῇ κοιλίᾳ τοῦ
+κήτους, τῶν τριῶν παίδων ἐν τῇ καμίνῳ τοῦ πυρὸς,
+Ἄννης ἐν τῇ σκηνῇ ἐνώπιον τῆς κιβωτοῦ, Νεεμία
+ἐπὶ τῇ ἀνεγέρσει τῶν τειχῶν καὶ τοῦ Ζοροβάβελ, Ματ-
+ταθία καὶ τῶν υἱῶν αὐτοῦ ἐν τῷ ζήλῳ σου, Ἰαὴλ (7)
+ἐν εὐλογίαις. Καὶ νῦν οὖν πρόσδεξαι τὰς τοῦ λαοῦ σου
+προσευχὰς, μετ’ ἐπιγνώσεως σοὶ διὰ Χριστοῦ προσ-
+φερομένας ἐν τῷ Πνεύματι.
+
+# block=5 source_x1=1035 source_y1=2306 source_x2=1782 source_y2=2713
+Bethlehem, domus Ephrata, etc. COT.
+(5) Σεναχηρείμ. Cod. Vind. Σεναχιρίμ. CT.
+(6) Ἐν τῷ Φασσᾶ. Non infeliciter mihi videor vo-
+cem nihili Φασσᾶ hoc loco mutasse in præclarum
+vocabulum Φάσχα, quod est Φασέκ II Paralip. xxxv
+et xxx, seu Pascha, docente magno theologo Gre-
+gorio Nazianzeno in oratione 42, p. 682, 683. At a
+doctissimo Turriano, qui vertit, in Sampha, intelli-
+gitur, ni fallor, Saphan Σαφάν, sive Σαμφάν, scriba
+templi Domini temporibus Josiæ regis. COT.
+(7) Ἰαήλ. Est Ἰαήλ, Jael, aut Jahel. Josepho
+Ἰάλη. ID.
+
+# block=6 source_x1=242 source_y1=2298 source_x2=995 source_y2=2706
+(3) Ἐκ. Αὐτὸν ἐκ. Sic idem cod. CLER.
+(4) Ἰακὼβ ἐν Βηθλεέμ: Bovius, in Bethel, optime,
+sive ita repererit, sive emendarit. Notum hæc duo
+nomina ubi per compendium scribuntur, confundi
+facile ac librariis fraudi esse: quod cernere licet in
+Chronico Alexandrino, p. 218. Sane ob eumdem
+errorem S. Ambrosius lib. II De Jacob, cap. 7, pro
+Bethel, Gen. xxxv, dum legit Bethlehem, sic loqui-
+tur: Exsurgens ascende in locum Bethlehem (eo
+modo prorsus scribi debere docent sequentia), hoc
+est in domum panis, ubi natus est Christus; sicut
+Michæas propheta testatus est, dicens: Et tu,
+
+# block=7 source_x1=246 source_y1=1450 source_x2=1000 source_y2=2010
+Agimus tibi gratias de universis, Domine omni-
+potens; quod misericordias tuas et miserationes
+non removisti a nobis; sed per singulas ætates ac
+generationes servas, eripis, opitularis, protegis.
+Opem enim tulisti in diebus Enosi et Henochi, in
+diebus Mosis ac Jesu, in diebus judicum, in diebus
+Samuelis et Eliæ atque prophetarum, in diebus
+Davidis ac regum, in diebus Estheræ et Mardochæi,
+in diebus Judithæ, in diebus Judæ Machabæi et
+fratrum ejus. Etiam in diebus nostris auxilium
+nobis tulisti, per magnum tuum pontificem Jesum
+Christum Filium tuum. Etenim ex gladio liberavit,
+et alendo eripuit a fame, ex morbo sanavit, a lin-
+
+# block=8 source_x1=668 source_y1=80 source_x2=1373 source_y2=119
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9 source_x1=849 source_y1=2252 source_x2=1165 source_y2=2293
+VARIORUM NOTÆ.
+
+# block=11 source_x1=251 source_y1=84 source_x2=318 source_y2=119
+1035
+
+# block=12 source_x1=1720 source_y1=80 source_x2=1785 source_y2=117
+1036
+
+# block=14 source_x1=1285 source_y1=1363 source_x2=1545 source_y2=1399
+ΚΕΦΑΛΑΙΟΝ ΛΗ'.
+
+# block=15 source_x1=1157 source_y1=1408 source_x2=1681 source_y2=1442
+Προσευχὴ ἀντιλήψεως δικαίων.
+
+# block=16 source_x1=403 source_y1=1402 source_x2=827 source_y2=1446
+Oratio pro ope justis allata.
+
+# block=17 source_x1=485 source_y1=1358 source_x2=757 source_y2=1404
+CAPUT XXXVIII.

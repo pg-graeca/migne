@@ -1,0 +1,193 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,268,702,1021,1129
+2,269,141,1021,619
+3,1053,142,1808,620
+4,1042,695,1812,1128
+6,636,84,1402,126
+7,319,1177,868,1215
+8,266,1329,1022,2696
+9,1053,1330,1817,2705
+10,562,637,755,672
+11,884,1248,1182,1286
+14,269,83,319,132
+15,1733,84,1805,132
+16,1291,632,1565,664
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=6 fontSize=16px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+311
+
+# block=6
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=15
+312
+
+# block=2
+charitas omnia sustinet ⁶⁷, omnia æquo animo fert;
+in charitate nihil sordidum, nihil superbum; cha-
+ritas schisma non habet; charitas seditionem non
+concitat; charitas omnia facit in concordia; in cha-
+ritate omnes Dei electi, perfecti sunt facti. Sine
+charitate nihil acceptum est Deo. In charitate nos
+assumpsit Dominus; propter charitatem quam erga
+nos habuit Jesus Christus Dominus noster ex vo-
+luntate Dei, sanguinem suum pro nobis tradidit, et
+carnem pro carne nostra, et animam pro anima-
+bus nostris (37).
+
+# block=3
+πλῆθος ἁμαρτιῶν · ἀγάπη πάντα ἀνέχεται, πάντα
+μακροθυμεῖ · οὐδὲν βάναυσον (33) ἐν ἀγάπῃ (34),
+οὐδὲν ὑπερήφανον · ἀγάπη σχίσμα οὐκ ἔχει, ἀγάπη
+οὐ στασιάζει · ἀγάπη πάντα ποιεῖ ἐν ὁμονοίᾳ · ἐν τῇ
+ἀγάπῃ (35) ἐτελειώθησαν πάντες οἱ ἐκλεκτοὶ τοῦ
+Θεοῦ. Δίχα ἀγάπης οὐδὲν εὐάρεστόν ἐστιν τῷ Θεῷ.
+Ἐν ἀγάπῃ προσελάβετο ἡμᾶς ὁ Δεσπότης · διὰ τὴν
+ἀγάπην ἣν ἔσχεν πρὸς ἡμᾶς, τὸ αἷμα αὐτοῦ ἔδωκεν
+ὑπὲρ ἡμῶν Ἰησοῦς Χριστὸς (36) ὁ Κύριος ἡμῶν, ἐν
+θελήματι Θεοῦ, καὶ τὴν σάρκα ὑπὲρ τῆς σαρκὸς
+ἡμῶν, καὶ τὴν ψυχὴν ὑπὲρ τῶν ψυχῶν ἡμῶν.
+
+# block=16
+ΚΕΦΑΛΑΙΟΝ Ν΄.
+
+# block=10
+CAPUT L.
+
+# block=4
+Ὁρᾶτε, ἀγαπητοὶ, πῶς μέγα καὶ θαυμαστόν ἐστιν
+ἡ ἀγάπη, καὶ τῆς τελειότητος αὐτῆς οὐκ ἔστιν ἐξή-
+γησις. Τίς ἱκανὸς ἐν αὐτῇ εὑρ[εθῆναι], εἰ μὴ οὓς ἂν
+καταξιώσῃ [ὁ Θεός; Εὐχώμε]θα (38) οὖν καὶ αἰτώ-
+μεθα ἀπ[ὸ τοῦ ἐλέ]ους (39) αὐτοῦ, ἵνα ἐν ἀγάπῃ
+[ζῶμεν], δίχα προσκλίσεως ἀνθρω[πίνης], ἄμωμοι.
+Αἱ γενεαὶ πᾶσαι (40) ἕως τῆσδε ἡμέρας παρῆ[λθον]
+ἀλλ' οἱ ἐν ἀγάπῃ τελειωθέν[τες] κατὰ τὴν τοῦ
+Θεοῦ (41) χάριν, ἔχου[σιν] χῶρον (42) εὐσεβῶν · οἱ
+φανερ[ωθήσον]ται (43) ἐν τῇ ἐπισκοπῇ τῆς βασιλ[είας]
+
+# block=1
+Videtis, charissimi, quam magna et admiranda
+res sit charitas, et quod perfectio ejus nequeat expli-
+cari. Quis idoneus est ut in ipsa inveniatur, præter
+eos quos Deus dignos esse voluerit? Oremus igitur
+et petamus a misericordia ejus, ut in charitate vi-
+vamus ⁶⁸, citra humanam propensionem, et incul-
+pati. Generationes omnes ab Adam usque in hodier
+num diem præterierunt: at qui per Dei gratiam con-
+summati sunt in charitate, habent sedem piorum;
+qui manifestabuntur in visitatione regni Christi. Scri-
+
+# block=7
+⁶⁷ I Cor. XIII 4 seq. ⁶⁹ I Tim. v 21.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=8
+πάντων σὺν Θεῷ περιγίνεται, ἡ γὰρ ἀγάπη ἔξω βάλ-
+λει τὸν φόβον· ὁ ἔχων ἀγάπην, οὐδένα βδελύσσεται
+ποτε, οὐ μικρὸν, οὐ μέγαν, οὐκ ἔνδοξον, οὐκ ἄδοξον,
+οὐ πένητα, οὐ πλούσιον, ἀλλ' ἀπάντων περίψημα γί-
+νεται, πάντα στέγει, πάντα ὑπομένει· ὁ ἔχων ἀγάπην,
+οὐκ ἐπαίρεται κατά τινος, οὐ φυσιοῦται, οὐδενὸς κα-
+ταλαλεῖ, ἀλλὰ τοὺς καταλαλοῦντας ἀποστρέφεται. Ὁ
+ἔχων ἀγάπην ἐν δόλῳ οὐ πορεύεται, οὐχ ὑποσκελίζει
+τὸν ἀδελφὸν· ὁ ἔχων ἀγάπην οὐ φθονεῖ, οὐ ζηλοῖ, οὐ
+βασκαίνει ἐπὶ πτώσει ἑτέρων, οὐ διασύρει τὸν πταίον-
+τα, ἀλλὰ συνλυπεῖται καὶ συναντιλαμβάνεται, οὐ παρ-
+ορᾷ τὸν ἀδελφὸν ἐν ἀνάγκῃ, ἀλλὰ συνεπαμύνει καὶ
+συναποθνήσκει· ὁ ἔχων ἀγάπην, τὸ θέλημα ποιεῖ τοῦ
+Θεοῦ, καὶ μαθητὴς τῆς ἀληθείας ὑπάρχει. Αὐτὸς γὰρ
+ὁ καλὸς Δεσπότης ἡμῶν εἶπεν, Ἐν τούτῳ γνώσονται
+πάντες ὅτι ἐμοῦ μαθηταὶ ἐστε, ἐὰν ἀγαπᾶτε ἀλλή-
+λους. Ὁ ἔχων ἀγάπην οὐδέποτε ἑαυτὸν περιποιεῖται,
+οὐ λέγει ἑαυτοῦ ἴδιον οὐδὲν, ἀλλὰ πάντα ὅσα ἔχει,
+κοινὰ τοῖς πᾶσι προτίθησιν· ὁ ἔχων ἀγάπην, ἀλλό-
+τριον οὐδένα λογίζεται, ἀλλὰ πάντας ἰδιοποιεῖται· ὁ
+ἔχων ἀγάπην, οὐ παροξύνεται, οὐ φυσιοῦται, οὐκ ἐξά-
+πτεται εἰς ὀργὴν, οὐ χαίρει ἐπὶ ἀδικίᾳ, ἐπὶ ψεύδει
+οὐκ ἐνδελεχίζει, ἐχθρὸν οὐδένα ἡγεῖται, εἰ μὴ μόνον
+τὸν διάβολον· ὁ ἔχων ἀγάπην, πάντα ὑπομένει, χρη-
+στεύεται, μακροθυμεῖ. Μακάριος οὖν ὁ τὴν ἀγάπην
+κεκτημένος καὶ μετὰ ταύτης ἀποδημήσας πρὸς Θεὸν,
+ὅτι αὐτὸς τὸ ἴδιον ἐπιγινώσκων, προσδέξεται αὐτὸν ἐν
+τοῖς κόλποις αὐτοῦ, ὁμοδίαιτος γὰρ ἀγγέλων ἔσται,
+καὶ σὺν Χριστῷ βασιλεύσει ὁ τῆς ἀγάπης ἐργάτης.
+Δι' αὐτῆς γὰρ καὶ ὁ Θεὸς Λόγος ἐπὶ τὴν γῆν παρεγέ-
+νετο, δι' αὐτῆς καὶ ὁ παράδεισος ἠνέωκται ἡμῖν, καὶ
+ἄνοδος εἰς οὐρανὸν ἐπεδείχθη πᾶσιν· ἐχθροὶ ὑπάρχον-
+τες τῷ Θεῷ δι' αὐτῆς κατηλλάγημεν· εἰκότως οὖν εἴ-
+πωμεν, ὅτι ἀγάπη ὁ Θεός ἐστι, καὶ ὁ μένων ἐν τῇ
+ἀγάπῃ, ἐν τῷ Θεῷ μένει. JUN. — 'Αγάπη κολλᾷ
+ἡμᾶς τῷ Θεῷ. Hæc ad μακροθυμεῖ esse ex Clemente
+Alexandrino scies, si legas p. 518. D. BERN.
+(33) Οὐδὲν βάναυσον ad ἀγάπην. Hæc absunt
+a Clemente Alexandrino, suntque interpolatoris.
+IDEM.
+(34) Ἐν ἀγάπῃ ad voculam καὶ capitis sequentis
+
+# block=9
+decimam. Hæc non sunt in Clemente Alexandrino,
+p. 518 D. ID.
+(35) Ἐν τῇ ἀγάπῃ. Deest τῇ codd. impp. si Lon-
+dinensem excipias. At illud ex Wott. agnoscunt
+ms. et Clemens Alex. GALL.
+(36) Ἰησοῦς Χριστός. Codd. impp. ὁ Χριστός.
+Restitui Ἰησοῦς ex ms. qui exhibet ῑϛ: quo modo
+vox Ἰησοῦς perpetuo describitur in hoc codice.
+Wott. Sic et edit. Londin. ID.
+(37) Nota hic Apollinaris dogma præverti et Pa-
+trum adversus eum argumentis præludi. COUST.
+(38) Εὐχώμεθα ad ἄμωμοι. Hæc sunt interpola-
+toris. BERN.
+(39) Ἀπὸ τοῦ ἐλέους. Codd. impp. αἰτώμεθα
+[εἶναι ἀξί]ους : petamus digni haberi : mentem qui-
+dem, sed non verba S. Patris assecuti. Ms. enim
+exhibet ΑΠ...ΟΥΣ. Ad quem locum Mill. : « Desi-
+derantur, quantum ex lacuna colligo, sex vel sep-
+tem litteræ. Legendum forte ἀπ[ὸ τοῦ ἐλέ]ους : ita
+enim vocem istam semel atque iterum exprimit li-
+brarius noster, licet plerumque αι scribat pro ε. »
+In eamdem sententiam Wott. qui tamen putat ms.
+exhibuisse ἀπ[ὸ ἐλαί]ους omisso articulo, et αι pro
+e positis, ut alibi passim. Sic et Cler. At Dav. leg.
+ἀγ[ιασμ]ούς. « Litteræ namque, ait, Γ Π, decurtato
+altero crure, tam vicinæ sunt, ut hæc pro illa vel
+scribi, vel scripta possit videri. » GALL.
+(40) Αἱ γενεαὶ πᾶσαι. Recitat hæc verba Clem.
+Alex. suppresso Clementis Rom. nomine, Στρωμ.,
+lib. ιν, cap. 17, pag. 614. ID.
+(41) Θεοῦ. Sic Wott. ex ms. Sic et Clem. Alex.
+At Jun. cum editis, præter Londin. Χριστοῦ. ID
+(42) Χῶρον. Ita ms., editi vero, si Londinensem
+excipias, exhibent χώραν, ut apud Clem. Alex. Le-
+ctionem ms. pluribus veterum exemplis tuetur Wott.
+addens quoque, idem judicium tulisse Cl. Bentleium,
+quem consule sis in Dissert. de Phalar., pag. 185. ID.
+(43) Φανερωθήσονται. Sic Jun. cum editis, Cle-
+mentem Alex. secutus : quæ optima esse lectio vi-
+detur. Wott. tamen sic leg. φανερ[οῦν]ται : mani-
+festantur : fortasse ob præcedens ἔχουσιν. ID.

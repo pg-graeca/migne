@@ -1,0 +1,204 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,193,145,965,872
+2,192,2238,943,2530
+3,194,2534,938,2697
+4,988,794,1754,1489
+5,991,152,1765,794
+6,199,878,950,1491
+7,192,1638,943,2237
+8,983,1639,1733,2004
+9,976,2172,1730,2566
+10,975,2569,1718,2702
+11,981,2071,1724,2170
+12,787,1543,1093,1579
+13,619,91,1329,125
+15,971,2002,1739,2070
+17,222,91,298,126
+18,1675,96,1748,131
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+1385
+
+# block=13
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=18
+1384
+
+# block=1
+XXIV. Quid de fontibus dicemus et fluviis, qui
+peremni in mare fluunt meatu? Et per divinam Provi-
+dentiam nec illis abundans deficit cursus, nec mare
+tantas aquarum recipiens copias ullum sentit au-
+gmentum, sed in eadem mensura et ea quæ con-
+ferunt, et ea quæ ibi conferuntur elementa per-
+durant. Sed dicis mihi : Salsa aqua naturaliter
+consumit fluentum dulce, quod ei fuerit infu-
+sum. Et in hoc ergo manifestum est Provi-
+dentiæ opus, ut salsum faceret illud elementum,
+in quod cursus omnium aquarum, quas ad usum
+hominibus præstiterat, declinavit; uti ne per
+tanta sæculi spatia, repletus maris alveus inunda-
+tionem perniciosam terris et hominibus redderet.
+Nec ita quisquam insipiens erit, ut hanc tantam
+rationem tantamque providentiam ab irrationabili
+natura arbitretur esse dispositam.
+
+# block=5
+ordine genus servare jussit in terris, verbi gratia
+ut per os conciperet corvus, et per aurem mustela
+generaret (68), ut aves nonnullæ sicut gallinæ, in-
+terdum ova vel vento vel pulvere concepta (69)
+parerent, alia quædam animalia marem vicibus
+alternis in feminam verterent et sexum per annos
+singulos commutarent, ut lepores et hyænæ, quas
+belluas (70) vocant, alia etiam ex terra orirentur
+atque inde sumerent carnem, ut talpæ, alia ex ci-
+nere, ut viperæ, alia ex putrefactis carnibus, ut
+vespæ quidem equinis (71), apes autem bubulis,
+alia ex fimo boum (72), ut scarabæi, alia ex her-
+bis, ut de ocimo scorpius (73), et rursus herbæ
+ex animalibus, ut ex cornu cervi vel capræ apii et
+asparagi.
+
+# block=4
+XXVI. Et quid opus est plura enumerare, in
+quibus divina Providentia mutato ordine eo qui a
+natura datus putatur, multimodis differentiis nati-
+vitatem animalium constare voluit, ex quibus non
+irrationabilis rerum cursus, sed ipsius dispensa-
+tus ratione docetur? Aut non et in hoc plenissi-
+mum demonstratur opus divinæ Providentiæ, ubi
+ex terra et aqua ad vitam hominum semina jacta
+reparantur? quæ cum terræ fuerint mandata, vo-
+luntate Dei humorem quem susceperit gleba, velut
+uberibus suis semimibus immulget. Aquis enim
+inest quædam vis spiritus a Deo dati ex initio,
+cujus opere habitus futuri corporis, in ipso sta-
+tim semine formari incipit et per culmum spicam-
+que restitui; turgefacto etenim ex humore semi-
+num grano, per angustos quosdam venarum meatus
+
+# block=6
+XXV. Quid autem de virgultis, quid de anima-
+libus dicam? Nonne per providentiam factum est,
+ut cum senecta temporis resolverentur, virgulta
+quidem vel plantis vel seminibus quæ ipsa de-
+derint, animalia vero per progeniem reparentur?
+Et mira quadam dispensatione Providentiæ nasci-
+turo pecori lac præparatur in uberibus, ac sta-
+tim ut natum fuerit, nullo docente scit ubi ali-
+moniæ suæ horrea requirat. Gignuntur autem non
+solum mares, sed et feminæ, ut ex utroque possit
+rursus constare posteritas. Sed ne ut putant homi-
+nes, viderentur hæc naturæ quodam ordine et non
+dispensatione fieri Conditoris, pauca quædam ad
+indicium et documentum providentiæ suæ, mutato
+
+# block=12
+ÇOTELERII NOTÆ.
+
+# block=7
+ἔστι κάτωθεν ἐπινέφων; libro De profugis, p. 476 :
+Νεῖλος μονονούκ ἀντίμιμον οὐρανοῦ δύναμιν ἐπιδεί-
+κνυσθαι δοκῶν, κάτωθεν ἄνω ῥέων. Et lib. III De vita
+Mosis, p. 682 : Θεοπλαστοῦσι τῷ λόγῳ τὸν Νεῖλον Αἰ-
+γύπτιοι, ὡς ἀντίμιμον οὐρανοῦ γεγονότα, καὶ περὶ
+τῆς χώρας σεμνηγοροῦσιν. Ad quæ respectum dubio
+procul ab Heliodoro in lib. IX quando scribit, θεο-
+πλαστοῦσι τὸν Νεῖλον Αἰγύπτιοι, καὶ κρειττόνων τὸν
+μέγιστον ἄγουσιν, ἀντίμιμον οὐρανοῦ τὸν ποταμὸν
+σεμνηγοροῦντες, οἷα δὴ δίχα νεφώσεων καὶ ὑετῶν ἀε-
+ρίων τὴν ἀρουμένην αὐτοῖς ἄρδοντος [ al. ἄρδοντα ],
+καὶ εἰς ἔτος ἀεὶ τεταγμένως [ al. τεταγμένον ] ἐπομ-
+βρίζοντος [ al. ἐπομβρίζοντα ]. Insignis quoque est lo-
+cus Gregorii Nazianzeni orat. 24, in ipso statim
+exordio : Ποταμὸς ἐκ γῆς ῥέων καὶ πελαγίζων ὅρια,
+ita antiquissimus codex Regius 155, cum alii sex
+ejusdem Bibliothecæ habeant ὥρια. Ad Theodori-
+tum quæst. 19 in Exodum.
+
+# block=8
+ipsum ipsis præbeat imitationi illorum, et redemptio-
+nem illorum consecutus est. Quem ego locum aliter
+soleo legere, ad hunc modum : Si autem aliquis
+quasi parvum ovum editum, semetipsum ipsis præbeat,
+initiatori illorum ; κακὸν ὠὸν, juxta adagium κα-
+κοῦ κόρακος κακὸν ὠόν. Mali corvi malum ovum.
+Epiphanius hæresi 26, num. 1 De iisdem hæreticis
+de quibus Irenæus, ἀπὸ Νικολάου ὡς ἀπὸ οὐρίου ὠοῦ
+ὄφεως σκορπίοι ἢ ἔξ ἀσπίδων γεγεννημένοι. A Nico-
+lao vel subventaneo serpentis ovo scorpii, sive aspi-
+dibus prognati.
+
+# block=15
+(70) Belluas. Vide not. ad S. Barnabæ epistolam,
+c. 10, Patr. Gr. t. II. EDIT.
+
+# block=11
+(71) Vespæ quidem equinis. Sic vulgo. Sed tur-
+bant Servius ad Georgicon IV, et 1 Æneidos, atque
+Isidorus Originum lib. XI et XII, cap. ult.
+
+# block=9
+(72) Ex fimo boum. Eadem est sententia Hori
+Apollinis lib. 1 Hieroglyph., cap. 10, atque Eusta-
+thii in Hexaemeron, p. 44. Alii scarabæorum seu can-
+tharorum ortum ad asini stercus et cadaver refe-
+runt ; unde et κάνθαρον ἀπὸ τοῦ κάνθωνος dictum
+volunt. Conciliari tamen in fimo possunt, ex Ari-
+stotele lib. V De historia animalium, cap. 19, ubi de
+μηλολόνθαις et κανθάροις. Omitto Hispalensem Isi-
+dorum, qui crabrones cum scarabæis videtur con-
+fudisse. Apud S. Augustinum cap. 7 libri primi Re-
+tractationum, a multis stercorea hæc origo vocatur
+in dubium, a multis ignoratur.
+
+# block=2
+(68) Ut per os conciperet corvus, et per aurem mu-
+stela generaret. Licet ista lectio confirmari possit
+per ea quæ in Aristotele III De generatione anima-
+lium, 6, Plinio, lib. X, cap. 12; et Martiali Epigram-
+matum XIV, 74, de corvo leguntur : quia tamen vox
+corvus abest a sex libris MSS. quos cum editis con-
+tuli, videtur scripsisse Rufinus : Ut per os concipe-
+ret, et per aurem mustela generaret; qua de fabula
+dixi ad Barnabam. Sed nihil affirmo.
+
+# block=3
+(69) Ova vel vento vel pulvere concepta. Ἀνεμιαῖα,
+ἀνεμίδια, ὑπηνέμια, ζεφύρια, ὄβρια et ὀβρίνα, ven-
+tosa, subventanea, urina et inania. Ut intelligunt
+parvum ovum in his S. Irenæi verbis lib. III, c. 15 :
+Si autem aliquis quasi parvum ovum deditum semet
+
+# block=10
+(73) De ocimo scorpius. Traditur quoque apud
+Plinium Naturalis historiæ lib. XX, cap. 12. Mox de
+asparagis (codex Regius asfaragi ἀσφάραγοι) lege
+idem magnum opus lib. XIX, cap. 8.

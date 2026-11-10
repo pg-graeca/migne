@@ -1,0 +1,206 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,955,143,1704,1825
+2,163,2327,911,2427
+3,164,2554,904,2691
+4,164,2195,908,2326
+5,168,147,922,1826
+6,941,2621,1700,2691
+7,943,2357,1699,2558
+8,319,2699,571,2736
+9,945,2062,1703,2359
+10,605,92,1272,128
+11,163,1863,1695,1935
+12,162,2054,903,2197
+13,157,2425,901,2552
+14,940,2556,1704,2623
+15,780,1985,1083,2022
+18,1514,2699,1555,2736
+19,175,94,228,135
+20,1635,86,1705,132
+
+# layer=format
+# block=1 fontSize=16px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=16px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=16px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=16px
+# block=20 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=20
+874
+
+# block=10
+CONSTITUTIONES APOSTOLICÆ.—LIB. V.
+
+# block=19
+837
+
+# block=1
+Dominus eum corrigere, et nos præscientiam, suam
+docere, dixit : ‹ Amen, amen dico vobis, quia unus
+ex vobis tradet me ›; et unoquoque nostrum dicente:
+‹ Nunquid ego ? › ac Domino tacente; surgens ego,
+unus ex duodecim, quem plus cæteris adamabat,
+et incumbens in pectus ejus, orabam, ut diceret,
+quis esset, qui eum erat traditurusc; et, neque, sic
+nomen illius nobis aperuit bonus Dominus; sed duo
+signa proditoris dedit; umum quidem, dicens: ‹ Qui
+intingit mecum in catino › ; alterum vero, dicens:
+‹Cui ego tinctam buccam porrexero ›; ›; jmo Juda in-
+terrogante: ‹ Nunquid ego sum, Rabbi? ›, non, res-
+spondit Dominus, ‹Etiam›; sed, ‹Tu dixisti›; et cut
+piens metum illi ea in recutere, ‹Væ,inquit,homini
+illi, per quem Filius hominis tradetur; bonum erat ei,
+si natus non fuisset; › quibus auditis abiit, dixitque
+sacerdotibus: ‹Quid vultis mihi dare, et ego vobis
+eum tradam ⁸³? ›, illi vero constituerunt ei triginta ar-
+genteos; et impleta est Scriptura quæ dicit; ‹ Et acce-
+perunt triginta argenteos pretium appretiati, quem
+appretiaverunt a filiis Israelis; et dederunt, eos, in
+domum figuli⁸⁴ : › et quinta feria, cum apud eum com-
+edissemus Paschia, et Judas manum intinxisset, in
+catino, buccam accepisset ac nocte exiisset, nobis
+dixit Dominus: ‹Venit hora, ut dispergamini, et me
+solum relinquatis ⁸⁵ ›; et singulis affirmantibus quod
+non relicturi essent eum, meque Petro promittente
+quod cum eo mori paratus essem, respondit: ‹ Amen
+dico tibi, priusquam gallus cantet, ter negabis me
+tibi notum esse ⁸⁶. › Cum autem tradidisset nobis,an-
+titypa mysteria pretiosi corporis ac sanguinis, sui,
+Juda nobiscum non consistente, egressus est, in
+montem Olivarum prope torrentem Cedrorum, ubi
+erat hortus ⁸⁷ : aderamus autem nos, et more, mos
+stro hymnum diximus ⁸⁸ : ille vero a nobis remo-
+tus, multum orabat Patrem, dicens: ‹ Pater, transfer
+a me calicem; veruntamen mea voluntas fiat,
+sed tua ⁸⁹ ›; quod cum tertio fecisset, nosque præ
+mæstitia in somnum decidissemus ⁹⁰, accedens di-
+
+# block=5
+μενος καὶ αὐτὸν σωφρονίσαι, καὶ ἡμᾶς παιδεῦσαι (72)
+τὴν πρόγνωσιν αὐτοῦ, λέγει • ‹ Ἀμήν, ἀμήν λέγω
+ὑμῖν, ὅτι εἷς ἐξ ὑμῶν παραδώσει με ›, καὶ ἑκάστου
+ἡμῶν λέγοντος • ‹ Μήτι ἐγώ ; › καὶ τοῦ Κυρίου σω-
+πῶντος, ἀναστὰς ἐγώ, εἷς τῶν δώδεκα, φιλούμε-
+νος πλεῖον τῶν ἄλλων ὑπ᾿ αὐτοῦ, ἐνστερνισάμενος,
+αὐτὸν (73) ἱκέτευον εἰπεῖν τίς ἂν εἴη ὁ παραδώσων
+αὐτόν • καὶ οὐδ᾽ οὗτος ἡμῖν ἐξῆκεν αὐτοῦ τὸ ὄνομα
+ὁ ἀγαθὸς Κύριος • ἀλλὰ δύο σημεῖα τοῦ προδότου ἐδῶ-
+κεν • ἐν μέν, εἰπών • ‹ Ὁ ἐμβαπτόμενος μετ᾿ ἐμοῦ ἐν
+τῷ τρυβλίῳ › • δεύτερον δέ • ‹ Ὁ ἐγὼ βάψας τὸ ψω-
+μιον ἐπιδώσω › • καὶ τοῦ κἀκείνου λέγοντος • ‹ Μήτι
+ἐγώ εἰμι, Ῥαββί; ›, οὐκ εἶπεν ὁ Κύριος (74), ὅτι
+‹ Ναί ›, ἀλλ᾽ ὅτι • ‹ Σὺ εἶπας › • καὶ φοθῆσαι αὐτὸν ἐπὶ
+τούτῳ βουληθείς, φησίν • ‹ Ὀὐαὶ τῷ ἀνθρώπῳ ἐκείνῳ,
+δι᾿ οὗ ὁ Υἱὸς τοῦ ἀνθρώπου παραδίδεται › • καλὸν ἦν
+αὐτῷ, εἰ οὐκ ἐγεννήθη › • καὶ ταῦτα ἀκούσας (75).
+ἀπελθὼν εἶπε τοῖς ἱερεῦσιν • ‹ Τί θέλετέ μοι δοῦναι,
+καὶ ἐγὼ ὑμῖν αὐτὸν παραδώσω › ; οἱ δὲ ἔστησαν αὐτῷ
+τριάκοντα ἀργύρια • καὶ ἐπληρώθη ἡ Γραφὴ ἢ λέ-
+γουσα • ‹ Καὶ ἔλαβον (76) τὰ τριάκοντα ἀργύρια τὴν
+τιμὴν τοῦ τετιμημένου, ὃν ἐτιμήσαντο ἀπὸ υἱῶν
+Ἰσραὴλ, καὶ ἔδωκαν αὐτὰ εἰς τὸν οἶκον (77) τοῦ κερα-
+μέως › • καὶ τῇ πέμπτῃ, φαγόντες παρ᾿ αὐτῷ τὸ
+Πάσχα, βάψαντες ἐκείνου τὴν χεῖρα εἰς τὸ τρυβλίον,
+καὶ τὸ ψωμίον λαβόντος, καὶ ἐξελθόντος νυκτός, ἡμῖν
+εἶπεν ὁ Κύριος • ‹ Ἐλλήλυθεν ἡ ὥρα, ἵνα σκοτισθῆτε,
+καὶ ἐμὲ μόνον ἀφῆτε › • καὶ ἕκαστου διασχυριζομένου
+μὴ ἐγκαταλείψαι αὐτὸν, ἐμοῦ Πέτρου ἐπαγγελλομέ-
+νου καὶ συναποθανεῖν, εἶπεν • ‹ Ἀμήν λέγω σοι, πρὶν
+ἀλέκτορα φωνῆσαι, τρίς ἀπαρνήσῃ μὴ εἰδέναι με. ›
+Παραδοὺς δὲ ἡμῖν τὰ ἀντίτυπα μυστήρια τοῦ τιμίου
+σώματος αὐτοῦ καὶ αἵματος (78), Ἰούδα μὴ συμπα-
+ρόντος ἡμῖν (79), ἐξῆλθεν εἰς τὸ ὄρος τῶν ἐλαιῶν
+πλησίον τοῦ χειμάρρου τῶν Κεδρων, ὅπου ἦν κῆπος •
+συνῆμεν δὲ καὶ ἡμῖν, καὶ ὑμνήσαμεν κατὰ τὸ ἔθος •
+καὶ χωρισθεὶς ἡμῶν, πολὺ (80) προσηύχετο τῷ Πατρὶ,
+λέγων • ‹ Πάτερ, παρένεργε ἀπ᾿ ἐμοῦ τὸ ποτήριον •
+πλὴν μὴ ἐμὸν (81) θέλημα γενέσθω, ἀλλὰ τὸ σόν• › καὶ
+
+# block=11
+⁸³ Matth. xxvi, 15. ⁸⁴ Matth. xxvii, 9. ⁸⁵ Joan. xvi, 52; Matth. xxvi, 31. ⁸⁶ Luc. xxII, 34. ⁸⁷ Joan.
+XVIII, 1. ⁸⁸ Matth. xxvi, 30. ⁸⁹ Luc. xxII, 42. ⁹⁰ Matth. xxvi, 43, 44; Luc. xxII, 45.
+
+# block=15
+VARIORUM NOTÆ.
+
+# block=12
+(72) Ἡμᾶς παιδεῦσαι. Uterque ἡμῖν δεῖξαι. CLER.
+(73) Ἐνστερνισάμενος αὐτόν. Uterque: Ἐπι-
+πεσὼν τῷ στήθει αὐτοῦ. Quod videtur esse glos-
+sema. IB.
+
+# block=9
+Operum S. Epiphanii, orat. In Christi resurrectionem :
+Τὰ μὴ παλαιούμενα τοῦ νέου Πάσχα ἀντὶ παλαιοῦ
+μυστήρια ἀντίτυπα. Minus ergo recte a Salmasio,
+libro De transsubstantiatione, p. 41; ἀντίτυπα μυστήρι
+ρια indictum esse putatur et ineptum, atque hoc
+loco ex glossa vel ex interpolatione profectum. <Cot.
+᾿Αντίτυπα μυστήρια. Sic dicuntur panis et vinum,
+quæ, mystica ratione, corpus ejus et sanguinem
+referebant. CLER.
+
+# block=4
+(74) Οὐκ εἶπεν ὁ Κύριος. Hoc est quod eleganter
+dicit Tertullianus in laudem patientiæ Domini:
+Etiam proditorem suum secum habuit, nec constan-
+ter denotavit. Cor.
+
+# block=2
+(75) Καὶ ταῦτα ἀκούσας. Imo antequam dixisset
+Dominus : Væ homini illi, per quem Filius hominis
+tradetur, cum Judæis pactus fuerat Judas. IB.
+
+# block=7
+(79) Ἰούδα μὴ συμπαρόντος ἡμῖν. Non est hujus-
+modi expendere duas celebres contrariasque senten-
+tias, cum veterum, tum recentiorum, circa quæ-
+stionem, adfueritne Judas, vel abfuerit, quando
+eucharistia instituta fuit. Videantur sacrorum elo-
+quiorum interpretes. COT.
+
+# block=13
+(76) Καὶ ἔλαβον, εἰς. Hæc omnia, usque ad κε-
+ραμέως, desunt in altero codice. CLER.
+(77) Τὸν οἶκον. Melius in utroque cod. τὸν ἀγρόν.
+IB.
+
+# block=3
+(78) Ἀντίτυπα μυστήρια τοῦ τιμίου σώματος
+αὐτοῦ καὶ αἵματος. Sacramenta corporis et sangui-
+nis Domini. In Andreæ Cretensis oratione De ramis
+palmarum: Ἐν ἀντιτύποις συμβόλοις. Et tomo II.
+
+# block=14
+(80) Πολύ. Uterque codex οὐ πολύ, hoc est non
+diu. CLER.
+
+# block=6
+(81) Ἐμόν. In altero τὸ ἐμόν, quod melius con-
+venit cum τὸ σόν quod sequitur, IB.
+
+# block=8
+PATROL. GR. I.
+
+# block=18
+28

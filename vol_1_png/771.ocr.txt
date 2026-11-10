@@ -1,0 +1,153 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,969,2468,1718,2708
+2,189,2471,932,2708
+3,174,163,921,2259
+4,172,2273,1711,2355
+5,795,2398,1096,2434
+6,953,163,1726,2239
+7,610,106,1313,146
+8,165,100,231,142
+9,1627,110,1695,150
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=969 source_y1=2468 source_x2=1718 source_y2=2708
+eoque forsan Œcumenio reddenda; Theophylacto
+autem non forsan, sed omnino, quod ex ipsius
+expositione manifestum fit. Alias hujus capitis va-
+riantes Scripturas similiter nota: neque enim
+exemplis carent. Cod.
+  (62) Ἔκρινα. In altero cod. κρίνω.  Cl.
+  (63) Ἀλλ'. In eodem ἀλλ' ἦ, nisi.  Ib.
+
+# block=2 source_x1=189 source_y1=2471 source_x2=932 source_y2=2708
+(58) Κυρίου. Τοῦ Κυρίου. CLER.
+(59) Καθαρίσας. Alter cod., καθαρίσαν, ut refe-
+ratur ad πνεῦμα. Ib.
+(60) Ἔσται. In altero cod. ἔστι. Ib.
+(61) λαῶν τῷ ὀνόματι αὐτοῦ. Lectio quorumdam
+interpretum, quorumdam mss., quarumdam editio-
+num, nonnullorum Patrum, in his B. Chrysostomi,
+
+# block=3 source_x1=174 source_y1=163 source_x2=921 source_y2=2259
+κοίνου. › Τοῦτο δὲ ἐγένετο ἐπὶ τρίς· καὶ ἀνελήφθη τὸ
+σκεῦος εἰς τὸν οὐρανόν. Ὡς δὲ διηπόρουν, τί ἂν εἴη τὸ
+ὅραμα, εἶπέ μοι τὸ Πνεῦμα· ‹ Ἰδοὺ ἄνδρες ζητοῦσί
+σε· ἀλλὰ ἀναστὰς πορεύθητι σὺν αὐτοῖς, μηδὲν δια-
+κρινόμενος, διότι ἐγὼ ἀπέστειλα αὐτούς. › Οὗτοι δὲ
+ἦσαν οἱ παρὰ τοῦ ἑκατοντάρχου. Καὶ οὕτως ἀναλο-
+γισάμενος, ἔγνων τὸ ῥῆμα Κυρίου (58) τὸ γεγραμμέ-
+νον, ὅτι ‹ Πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα Κυρίου,
+σωθήσεται· › καὶ πάλιν· ‹ Μνησθήσεται, καὶ ἐπιστρα-
+φήσεται πρὸς Κύριον πάντα τὰ πέρατα τῆς γῆς, καὶ
+προσκυνήσουσιν ἐνώπιον αὐτοῦ πᾶσαι αἱ πατριαὶ τῶν
+ἐθνῶν· ὅτι τοῦ Κυρίου ἡ βασιλεία, καὶ αὐτὸς δεσπό-
+ζει τῶν ἐθνῶν. › Καὶ ὡς πανταχοῦ περὶ τῆς κλή-
+σεως τῶν ἐθνῶν εἴρηται, ἐννοήσας, ἀναστὰς ἐπορεύ-
+θην σὺν αὐτοῖς, καὶ εἰσῆλθον εἰς τὸν οἶκον τοῦ ἀν-
+δρός· καὶ ἔτι μου διαγγέλλοντος τὸν λόγον, ἔπεσε τὸ
+Πνεῦμα τὸ ἅγιον ἐπ' αὐτὸν καὶ ἐπὶ τοὺς παρόντας
+σὺν αὐτῷ, καθὼς καὶ ἐφ' ἡμᾶς ἐν ἀρχῇ, καὶ οὐδὲν
+διέκρινε μεταξὺ ἡμῶν τε καὶ αὐτῶν, τῇ πίστει κα-
+θαρίσας (59) τὰς καρδίας αὐτῶν. Καὶ ἔγνων ἐγὼ ὅτι
+oὐκ ἔστι προσωπολήπτης ὁ Θεός, ἀλλ' ἐν παντὶ ἔθνει
+ὁ φοβούμενος αὐτὸν καὶ ἐργαζόμενος δικαιοσύνην,
+δεκτὸς αὐτῷ ἔσται (60)· ἐξέστησαν δὲ ἐπὶ τούτῳ καὶ
+οἱ ἐκ περιτομῆς πιστοί. Νῦν οὖν τί πειράζετε τὸν
+Θεόν, ἐπιθεῖναι ζυγὸν βαρὺν ἐπὶ τὸν τράχηλον τῶν
+μαθητῶν, ὃν οὔτε ἡμεῖς, οὔτε οἱ πατέρες ἡμῶν ἰσχύσα-
+μεν βαστάσαι; ἀλλὰ διὰ τῆς χάριτος τοῦ Κυρίου πιστεύο-
+μεν σωθῆναι, καθ' ὃν τρόπον κἀκεῖνοι· ἔλυσε γὰρ ἡμᾶς
+ὁ Κύριος ἐκ τῶν δεσμῶν, καὶ ἠλάφρυνε τὸ φορτίον ἡ-
+μῶν, καὶ τὸν ζυγὸν τοῦ βάρους πραότητι ἔλυσεν ἀφ'
+ἡμῶν. › Ταῦτα δέ μου εἰπόντος, ἐσίγησεν ἅπαν τὸ
+πλῆθος· ἀπεκρίθη δὲ Ἰάκωβος ὁ τοῦ Κυρίου ἀδελ-
+φός, λέγων· ‹ Ἄνδρες ἀδελφοί, ἀκούσατε. Συμεὼν
+ἐξηγήσατο, καθὼς πρῶτον ὁ Θεὸς ἐπεσκέψατο λαβεῖν
+ἐξ ἐθνῶν λαὸν τῷ ὀνόματι αὐτοῦ (61)· καὶ τούτῳ
+συμφωνοῦσιν οἱ λόγοι τῶν προφητῶν, καθὼς γέγρα-
+πται·— Μετὰ ταῦτα ἀναστρέψω, καὶ ἀνοικοδομήσω
+τὴν σκηνὴν Δαβὶδ τὴν πεπτωκυῖαν, καὶ τὰ κατεσκαμ-
+μένα αὐτῆς ἀνοικοδομήσω, καὶ ἀνορθώσω αὐτήν,
+ὅπως ἂν ἐκζητήσωσιν οἱ κατάλοιποι τῶν ἀνθρώπων
+τὸν Κύριον, καὶ πάντα τὰ ἔθνη, ἐφ' οὓς ἐπικέκληται
+τὸ ὄνομα μου ἐπ' αὐτούς, λέγει Κύριος ὁ ποιῶν
+ταῦτα.—Γνωστὰ ἀπ' αἰῶνός ἐστι τῷ Θεῷ πάντα τὰ
+ἔργα αὐτοῦ. Διὸ ἐγὼ ἔκρινα (62) μὴ παρενοχλεῖν
+τοῖς ἀπὸ τῶν ἐθνῶν ἐπιστρέφουσιν ἐπὶ τὸν Θεόν·
+ἀλλ' (63) ἐπιστεῖλαι αὐτοῖς τοῦ ἀπέχεσθαι ἀπὸ τῶν
+ἀλισγημάτων τῶν ἐθνῶν εἰδωλοθύτου, καὶ αἵματος,
+καὶ πνικτοῦ, καὶ πορνείας· › ἅπερ καὶ τοῖς πάλαι
+
+# block=4 source_x1=172 source_y1=2273 source_x2=1711 source_y2=2355
+¹⁰ Ibid. 17.. ¹ Joel. II, 32. ² Psal. XXI, 28. ³ Act. XI, 12. ⁴ Act. XI, 15. ⁵ Act. XV, 9. ⁶ Act. X, 34.
+⁷ Ibid. 45. ⁸ Act. XV, 10. ⁹ Amos. IX, 11. ¹⁰ Act. XV, 13.
+
+# block=5 source_x1=795 source_y1=2398 source_x2=1096 source_y2=2434
+VARIORUM NOTÆ.
+
+# block=6 source_x1=953 source_y1=163 source_x2=1726 source_y2=2239
+Dumque hæsitarem, quid sibi vellet illud visum,
+dixit mihi Spiritus: ‹ Ecce viri quærunt te. Surge
+itaque et vade cum eis, nihil dubitans; quia ego
+misi illos ¹⁰. › II autem erant illi qui a centurione
+veniebant. Atque ita mecum reputans, intellexi ver-
+bum Domini quod scriptum est: ‹ Omnis qui in-
+vocaverit nomen Domini, salvus erit ¹; › et ite-
+rum: ‹ Reminiscentur, et convertentur ad Domi-
+num omnes fines terræ, et adorabunt in conspectu
+ejus universæ familiæ gentium; quoniam Domini
+est regnum et ipse dominabitur gentibus ². › Et
+cogitans, ubique de vocatione gentium mentionem
+fieri, surrexi, ac ivi cum eis; et intravi in domum
+viri ³; cumque adhuc verbum annuntiarem, cecidit
+Spiritus sanctus in eum atque in illos qui cum eo
+aderant, quemadmodum in nos initio ⁴; nihilque
+discrevit inter nos ac illos, fide purificans corda
+illorum ⁵. Et ego agnovi quod Deus non est acce-
+ptor personarum ⁶; sed in omni gente, qui timet
+eum, ac operatur justitiam, acceptus erit illi: et
+de hoc obstupuerunt etiam qui ex circumcisione
+fideles ⁷. Nunc ergo quid tentatis Deum, impo-
+nere jugum grave super cervices discipulorum, quod
+neque nos neque patres nostri portare potuimus? sed
+per gratiam Domini credimus salvari, sicut et illi ⁸ :
+solvit enim nos Dominus ex vinculis, et onus ne-
+strum leve effecit, et jugum gravitatis ac molestiæ
+dissolvit a nobis lenitate sua. › Hæc me dicente,
+universa multitudo silentium tenuit. Atque Jaco-
+bus frater Domini respondit, dicens: ‹ Viri fratres,
+audite me. Simon narravit, quemadmodum pri-
+mum Deus visitavit sumere ex gentibus populum
+nomini suo: et huic concordant verba propheta-
+rum; sicut scriptum est ⁹: — Post hæc revertar, et
+reædificabo tabernaculum Davidis, quod decidit, et
+diruta ejus reædificabo, et erigam illud; ut requi-
+rant cæteri hominum Dominum; et omnes gentes,
+super quas invocatum est nomen meum, dicit Do-
+minus, faciens hæc. — Nota a sæculo sunt Domino
+omnia opera sua. Propter quod ego judicavi, non
+inquietandos eos qui ex gentibus convertuntur ad
+Deum; sed scribendum ad eos, ut abstineant se a
+contaminationibus gentilis idolothyti, et sanguine,
+et suffocatis, et fornicatione ¹⁰; › quæ etiam anti-
+quis illis, qui ante legem secundum naturam vive-
+bant, sancita fuerant, Enoso, Henocho, Noæ, Mel-
+chisedeco, Jobo, et si quis hujusmodi fuit. Tunc
+placuit nobis apostolis, et episcopo Jacobo, et se-
+
+# block=7 source_x1=610 source_y1=106 source_x2=1313 source_y2=146
+CONSTITUTIONES APOSTOLICÆ. — LIB. VI.
+
+# block=8 source_x1=165 source_y1=100 source_x2=231 source_y2=142
+941
+
+# block=9 source_x1=1627 source_y1=110 source_x2=1695 source_y2=150
+942

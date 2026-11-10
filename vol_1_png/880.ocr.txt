@@ -1,0 +1,204 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,226,191,719,651
+2,243,2383,981,2639
+3,1027,2381,1773,2547
+4,1011,1305,1766,2117
+5,231,1305,980,2204
+6,278,2661,733,2702
+8,674,879,1311,915
+9,228,944,975,1109
+10,746,188,1246,568
+12,1263,188,1754,567
+14,1015,942,1755,1107
+15,966,808,1012,844
+16,219,668,1741,738
+17,610,91,1312,129
+20,632,1241,1352,1276
+22,710,2285,1279,2320
+24,741,140,1221,182
+25,1363,138,1635,182
+26,1673,84,1757,132
+27,215,92,309,138
+28,951,1144,1013,1202
+29,965,2214,1029,2256
+30,1245,2331,1553,2373
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=16px
+# block=20 fontSize=15px
+# block=22 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=26 fontSize=16px
+# block=27 fontSize=16px
+# block=28 fontSize=15px
+# block=29 fontSize=15px
+# block=30 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=26
+1160
+
+# block=17
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=27
+1159
+
+# block=25
+Ex interpr. Rufini.
+
+# block=24
+Idem EUSEBIUS, lib. III, cap 38.
+
+# block=10
+Ἤδη δὲ καὶ ἕτερα πολυεπῆ καὶ
+μακρὰ συγγράμματα, ὡς τοῦ αὐ-
+τοῦ, χθὲς καὶ πρώην τινὲς προήγα-
+γον, Πέτρου δὴ καὶ Ἀπίωνος διαλό-
+γους περιέχοντα· ὧν οὐδ' ὅλως
+μνήμη τις παρὰ τοῦς παλαιοῖς φέ-
+ρεται. Οὐδὲ γὰρ καθαρὸν τῆς ἀπο-
+στολικῆς ὀρθοδοξίας ἀποσώζει τὸν
+χαρακτῆρα.
+
+# block=12
+Sed et alia ejus opuscula non
+minima a nonnullis haberi perhi-
+bentur ; velut Petri et Apionis dis-
+putatio ; quæ in usu a veteribus
+habita minime reperimus ; quia
+nec pura in eis et incorrupta apo-
+stolicæ fidei regula mansisse de-
+prehenditur. Lege Niceph. lib. III,
+cap. 18.
+
+# block=1
+Quidam porro alia etiam opera
+prolixa et copiosa sub ejus no-
+mine heri ac nudiustertius in lu-
+cem protulerunt : puta Petri et
+Apionis disputationes ; quorum
+apud antiquos nulla omnino ex-
+stat mentio. Neque enim sincera
+rectæ fidei ab apostolis traditæ
+nota in illis expressa reperitur.
+Lege Maximi Prologum in Opera
+Dionysii.
+
+# block=16
+De Disputatione Petri et Apionis, quæ videtur fuisse vel pars vel appendix Clementis Recognitionum e
+Actuum Petri vide infra in Hieronymo, Photio et Honorio Augustodunensi.
+
+# block=15
+III.
+
+# block=8
+S. ATHANASIUS, in Synopsi sacræ Scripturæ.
+
+# block=14
+Τῆς Νέας πάλιν Διαθήκης ἀντιλεγόμενα ταῦτα
+Περίοδοι Πέτρου, etc. Ἐξ ὧν μετεφράσθησαν ἐκλε-
+γέντα τὰ ἀληθέστερα καὶ θεόπνευστα. Ταῦτα τὰ ἀνα-
+γινωσκόμενα, etc.
+
+# block=9
+Iterum libri Novi Testamenti quibus contradici-
+tur, sunt : Circuitus Petri, etc. Ex quibus veriora
+et a Deo inspirata, electa sunt ac translata. Hæc
+sunt quæ leguntur, etc.
+
+# block=28
+. IV.
+
+# block=20
+S. EPIPHANIUS, hæresi x̄x̄x̄, Ebionæorum, num. 15.
+
+# block=5
+Utuntur autem et aliis quibusdam libris, nempe
+iis qui vocantur Circuitus Petri, a Clemente con-
+scripti : atque ea quidem quæ in illis continentur
+corruperunt, pauca autem vera reliquerunt : quem-
+admodum eos ipse Clemens omnibus modis redar-
+guit, per epistolas circulares quæ, ab eo scriptæ, in
+sanctis ecclesiis leguntur. Quia alium habet chara-
+cterem fides illius ac oratio, ab iis quæ sub nomine
+ejus isti in Circuitibus supposuerunt. Ille enim vir-
+ginitatem docet ; at isti repudiant. Ille Eliam, Davi-
+dem, Sampsonem omnesque prophetas commendat;
+quos isti detestantur. Itaque in Circuitibus omnia
+ad suum institutum accommodarunt, ac de Petro
+multa mendacia confinxerunt : quasi is quotidie ca-
+stimoniæ causa laverit, sicut et isti faciunt. Eum-
+dem etiam aiunt abstinuisse ab animatis et carni-
+bus, ut ipsi solent; et ab omni alio cibo qui carne
+constat ; quandoquidem et ipse Ebion , et Ebionitæ
+omnino ab iis abstinent. Lege Recognit. lib. IV, cap.
+3; lib. V, cap. 36 ; lib. VII; cap. 6, et lib. VIII, cap.
+1 et 2.
+
+# block=4
+Χρῶνται δὲ καὶ ἄλλαις τισὶ βίβλοις, δῆθεν ταῖς Πε-
+ριόδοις καλουμέναις Πέτρου, ταῖς διὰ Κλήμεντος γρα-
+φείσαις· νοθεύσαντες μὲν τὰ ἐν αὐταῖς, ὀλίγα δὲ ἀλη-
+θινὰ ἐάσαντες· ὡς αὐτὸς Κλήμης αὐτοὺς κατὰ πάντα
+ἐλέγχει, ἀφ' ὧν ἔγραψεν Ἐπιστολῶν ἐγκυκλίων τῶν
+ἐν ταῖς ἁγίαις ἐκκλησίαις ἀναγινωσκομένων· ὅτι ἄλ-
+λον ἔχει χαρακτῆρα ἡ ἑαυτοῦ πίστις καὶ ὁ λόγος,
+παρὰ τὰ ὑπὸ τούτων εἰς ὄνομα αὐτοῦ ἐν ταῖς Περιό-
+δοις νοθευόμενα. Αὐτὸς γὰρ παρθενίαν διδάσκει, καὶ
+αὐτοὶ οὐ δέχονται. Αὐτὸς γὰρ ἐγκωμιάζει Ἠλίαν, καὶ
+Δαβίδ, καὶ Σαμψών, καὶ πάντας τοὺς προφήτας, οὓς
+οὗτοι βδελύττονται. Ἐν ταῖς οὖν Περιόδοις τὸ πᾶν εἰς
+ἑαυτοὺς μετήνεγκαν, καταψευσάμενοι Πέτρου κατὰ
+πολλοὺς τρόπους· ὡς αὐτοῦ καθ' ἡμέραν βαπτιζο-
+μένου ἁγνισμοῦ ἕνεκεν, καθάπερ καὶ οὗτοι. Ἐμψύ-
+χων τε τὸν αὐτὸν ἀπέχεσθαι καὶ κρεῶν, ὡς καὶ οὗτοι,
+καὶ πάσης ἄλλης ἐδωδῆς τῆς ἀπὸ σαρκῶν πεποιημέ-
+νης λέγουσιν, ἐπειδήπερ καὶ αὐτὸς Ἐβίων καὶ Ἐβιω-
+νῖται παντελῶς ἀπέχονται τούτων.
+
+# block=29
+V.
+
+# block=22
+S. HIERONYMUS, De vir. illustr., cap. 1.
+
+# block=30
+Ex antiqua versione.
+
+# block=3
+Tὰ δὲ συγγράμματα, τοῦτ' ἔστι πρῶτον, ὃ ἐπιγέ-
+γραπται, Πράξεις αὐτοῦ· δεύτερον, Εὐαγγέλιον· τρί-
+τον, Κήρυγμα· τέταρτον, 'Αποκάλυψις· πέμπτον,
+Κρίσις· ὡς ἀπόκρυφα ὄντα ἀποδοκιμάζεται.
+
+# block=2
+Libri autem, e quibus unus Actorum ejus (Petri)
+inscribitur, alius Evangelii, tertius Prædicationis,
+quartus Apocalypseos, quintus Judicii, inter apo-
+cryphas scripturas reputantur (3). Lege Freculfum,
+tom. II, lib. 1, cap. 20, et Honorium August.,
+cap. 1.
+
+# block=6
+(3) Reputantur. Al. repudiantur.

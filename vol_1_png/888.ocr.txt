@@ -1,0 +1,164 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,215,1139,966,2094
+2,210,2102,962,2713
+3,999,1799,1749,2535
+4,225,309,975,1130
+5,1014,135,1760,694
+6,997,2540,1745,2712
+7,1006,701,1757,1789
+8,232,134,976,299
+9,619,77,1328,113
+10,233,76,304,114
+11,1679,74,1771,116
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=215 source_y1=1139 source_x2=966 source_y2=2094
+Exorta igitur die, idem ipse Petrus, præmissa
+mentali oratione, aliam quæ LIBRO QUINTO exhibe-
+tur, ad populum habuit concionem. In ea ob om-
+nium oculos ponit hominem, ad imaginem Dei
+factum, tandiu in res terrenas habuisse domina-
+tum, quandiu ipse justitiæ legibus obtemperavit ;
+ubi vero ab iis discessit, continuo fragilitati, animi
+perturbationibus, tentationibus, vexationibus dæ-
+monum, miseriisque omnibus obnoxium factum
+esse. Monet tamen parvo fidei grano morbos omnes
+posse sanari. Hanc igitur fidem ab omnibus susci-
+piendam esse concludit, et vero Prophetæ, quem,
+sicuti prænuntiatum fuerat, jam adventasse nove-
+rant, unice serviendum. Deinde docet non au-
+diendas esse, quas ille singulatim recenset, sug-
+gestas a dæmone tentationes. Dimissis porro om-
+nibus, ad sua ipse revertitur, ubi sociis suis con-
+cedit quodcunque libuisset, sciscitandi facultatem,
+et continuo ad singula quæque respondit eorum in-
+terrogata. Clemens vero cuncta quæ ab eo pronun-
+tiata fuerat, in librum, quem misit ad Jacobum,
+accuratissime redegit.
+
+# block=2 source_x1=210 source_y1=2102 source_x2=962 source_y2=2713
+SEXTUS LIBER aliam quoque Petri concionem
+continet. Is cum tardius solito ob noctium brevi-
+tatem surrexisset, ad consuetum concionis locum
+perrexit. Atque ibi primo explicuit quomodo ho-
+mines possint falsas opiniones deponere, et in ve-
+ritatis verique Dei pervenire notitiam. Manifestum
+deinde fecit illos haud difficulter scire potuisse
+non quidem quid sit Deus, sed quod non sit, ac
+proinde illum in idolis, humana arte fabricatis,
+non includi. At vero quia omnia gignuntur ex
+aqua, quæ creata est ab initio per Unigenitum, per
+quem pervenitur ad Patrem, exinde intulit genita-
+libus baptismi, cujus necessitatem utilitatemque
+demonstrare conatus est, nos aquis renasci de-
+
+# block=3 source_x1=999 source_y1=1799 source_x2=1749 source_y2=2535
+Die subsequenti, ut in LIBRO OCTAVO auctor nar-
+rat, Petrus, Clemente duobusque aliis fratribus
+suis comitibus, lavat in mari, atque in secretum
+locum ad orationem secedit. Inde illi egredienti
+occurrit senex quidam pauper, ex habitu operarius,
+qui preces ad Deum perperam fundi, et mundum
+non secundum Dei providentiam gubernari..... sed
+genesin esse quæ omnia agit et continet, audacter
+asseruit. Fit interim magnus populi concursus, et
+Nicetas, data a Petro, qui seni respondere volebat,
+dicendi facultate, docuit mundum a Deo factum,
+et ab ipso quandoque solvendum, nec ex indivi-
+duis corpusculis seu atomis, ut ferebat Epicuri
+sententia, quælibet corpora, mentesque intelligentia
+præditas, fieri. Variis deinde argumentis probavit
+mundum ab ipsa sapientia et ratione, quando ipsi
+placuit, fuisse conditum.
+
+# block=4 source_x1=225 source_y1=309 source_x2=975 source_y2=1130
+Quamobrem opportunum ille nactus locum, at-
+que ex iis quos ab corporis ægritudinibus vel a
+dæmonis possessione liberaverat, argumentum du-
+cens, planum omnibus fecit ægrotationes morbos-
+que hominum, iisdem quibus a vero Dei cultu re-
+cesserant, ad eos accessisse gradibus; ac tandem
+eo cultu penitus derelicto, atque idololatria, cujus
+sicuti et magiæ originem pandit, introducta, datam
+dæmonibus animas eorum possidendi facultatem.
+Subinde se suosque ad verum summi Dei cultum
+restituendum missos esse suis annuntiavit audito-
+ribus, ipsisque quid inter falsas verasque prophe-
+tias et visiones, inter sanationem vero aut falso
+miraculo redditam intersit discriminis, patefecit.
+Denique illos ad veram religionem amplexandam;
+apostolis Christi gerendum morem, vitamque pure
+et religiose instituendam, adhortatus, ut die se-
+quenti ad eundem locum maturius se conferrent,
+admonuit.
+
+# block=5 source_x1=1014 source_y1=135 source_x2=1760 source_y2=694
+bere. Illos autem qui hôc regenerationis sacra-
+mento initiati erant, commonefecit, ipsis non so-
+lum omnia opera bona quæ hactenus egerant con-
+tinuo esse facienda, sed ad sublimiores perfectionis
+virtutis gradus semper esse ascendendum. Hæc et
+his similia, inquit Clemens, cum dixisset Petrus,
+dimisit turbas. Per tres autem integros menses apud
+Tripolitanos, quorum plurimos adduxit ad fidem,
+eodem modo concionatus est. Post hæc, Clemente
+aliisque pluribus sacro baptismate ablutis, Tripoli
+Maronem episcopum, et duodecim presbyteros, ac
+quosdam diaconos creavit, atque, inde tandem egres-
+sus, venit Antiochiam.
+
+# block=6 source_x1=997 source_y1=2540 source_x2=1745 source_y2=2712
+Postridie, cœtu in primarii cujusdam civis do-
+mum coacto, senex ea quæ Nicetas dixerat sum-
+matim repetit, atque, adversus illa disputans, con-
+tendit quædam injuste et inordinate facta esse; ex
+
+# block=7 source_x1=1006 source_y1=701 source_x2=1757 source_y2=1789
+SEPTIMI LIBRI initio narratur Petrum, cum Tri-
+poli Antaradum accessisset, socios suos, quorum
+major creverat numerus, duas, quæ ipsum præ-
+cederent, divisisse in turmas; atque uni Nicetam,
+Aquilam alteri præfecisse. Clemens vero, gratiis
+Petro, quia eum apud se retinuerat, actis, ipsi
+poscenti quomodo patrem, et matrem, ac fratres
+amisisset, confestim declaravit. Die subsequenti,
+Petrus in insulam Aradum, viteas immensæ ma-
+gnitudinis columnas videndi gratia, se contulit,
+ibique Clemens agnovit matrem suam Mathidiam
+illuc naufragio expulsam, atque eleemosynis vi-
+ctum quærentem. Illa vero cum uxore Petri cæ-
+terisque omnibus Laodiceam ducitur, qua in urbe
+a duobus aliis filiis suis, quibuscum naufragium
+fecerat, agnita quoque est. Hi autem narraverunt
+se post naufragium Cæsaream delatos, et cuidam
+viduæ, cui nomen Justæ erat, venditos, ejus po-
+stea cura litteris et philosophiæ cum Simone Mago
+operam dedisse, illiusque imbibisse errores; sed,
+Zachæi ope, fide Christi suscepta, se Petro tandem
+fuisse oblatos. Quibus auditis, Petrus Mathidiam,
+baptismi gratia donari postulantem, post unius
+diei jejunium eo regenerationis sacramento in mari
+initiavit.
+
+# block=8 source_x1=232 source_y1=134 source_x2=976 source_y2=299
+adventu ejus certiorem factum, in Syriam ten-
+dentem aufugisse; et populum frequentem ad ja-
+nuam, ut sermones ejus audiret, ipsi avidissime
+præstolari.
+
+# block=9 source_x1=619 source_y1=77 source_x2=1328 source_y2=113
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10 source_x1=233 source_y1=76 source_x2=304 source_y2=114
+1175
+
+# block=11 source_x1=1679 source_y1=74 source_x2=1771 source_y2=116
+1176

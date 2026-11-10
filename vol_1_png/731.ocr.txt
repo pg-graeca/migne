@@ -1,0 +1,306 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,169,293,915,1230
+2,957,1866,1720,2639
+3,211,2657,668,2726
+4,776,235,1077,270
+5,569,97,1265,146
+7,149,98,237,144
+8,1617,98,1689,140
+9,163,164,909,204
+10,945,154,1693,206
+11,151,1280,547,2638
+12,187,1234,507,1284
+13,577,1232,881,1272
+14,551,1272,927,2642
+15,945,1732,1699,1850
+16,947,1620,1701,1730
+17,943,294,1313,1586
+18,1329,298,1705,1626
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=5
+CONSTITUTIONES APOSTOLICÆ.-LIB. V.
+
+# block=7
+861.
+
+# block=8
+862
+
+# block=10
+tinens recordationem conversationis Dominicæ, et
+
+# block=9
+σαρακοστῆς (66), μνήμην περιέχουσα τῆς τοῦ Κυ-
+
+# block=4
+VARIORUM NOTÆ.
+
+# block=1
+6 Januarii festum ipsis erat tam Natale quam ba-
+ptisma Domini, commenti fuisse constitutionem apo-
+stolicam Jacobi primi Hierosolymorum episcopi su-
+per ea re: cum vero mutaverunt errorem veritate,
+aliam excogitasse fabellam, nimirum, epistolam
+Hierosolymitani episcopi ad Julium Romanum pon-
+tificem, quæ causa exstiterit mutationis in melius.
+Is episcopus a Nicæno Cyrillus appellatur. At in co-
+dice Regio 696, e quo doctissimus Combefisius Joan-
+nis illius Nicæni opusculum publicavit, habetur
+ejusdem rei altera narratiuncula non paulum diversa,
+ubi episcopus ille dicitur Juvenalis : immani qui-
+dem metachronismo, si tempora Julii spectes ; sed
+in quo tamen nonnihil eluceat veritatis. Siquidem ex
+Basilio Seluenciensi laudatione S. Stephani, quæ
+etiam Combefisii opera et diligentia lucem aspexit,
+constat a Juvenali Natale Dominicum celebrari cœ-
+ptum, separatım (ut interpretatur) a die Epiphanio-
+rum. Quocirca (id quoque obiter monebo) necesse
+est ut ante hoc Basilii encomium habita fuerit La-
+tini auctoris homilia de Nativitate Domini ad Luc. II,
+quam in Latinis Chrysostomi editionibus reperies:
+nam secundum illam tunc temporis adhuc et sola
+Hierosolymitana provincia in Epiphaniis Christum
+natum arbitrabatur. Quia autem fabellæ inedita me-
+mini, ex ea vero lucem accipiet tam Joannis Nicæni
+epistola, quam Theoriani legatio ad Armenios, non
+pigebit illam subdere.
+
+# block=17
+nuarii. Juxta hanc ergo in-
+vestigationem cum Patres
+festum divisissent, inter
+multos ortum est murmur.
+Erat autem tunc temporis
+Constantinopoli Gregorius
+Theologus; nec parum mur-
+murabant cives quasi in
+eum qui festum divisisset;
+dicebantque: « Festum di-
+visisti, et ad deorum mul-
+titudinem nos conjecisti. »
+Ideo Gregorius orationem
+hanc composuit (b): « Rur-
+sus Christum festo cele-
+brans prædico, non genti-
+lium mystéria; vana quip-
+pe sunt et falso conficta;
+eaque fabulas appello, ap-
+pellabitque omnis vir pru-
+dens. » Atque hac de causa
+Gregorius Theologus ista
+traduxit, manifestam fa-
+ciens tum suam solertiam,
+tum ignorantiam homi-
+num, quod fabulis et por-
+tentis attenderent, et um-
+bra deciperentur, errorem-
+que suum in gloriam
+perditionis haberent. Nos
+porro Christus Deum
+nostrum inter tres per-
+sonas indivise adorantes,
+Deum ac hominem eum
+esse docentes, glorifice-
+mus, cum principio ca-
+rente Patre illius, cum
+sanctissimo, optimo, et
+vivifico Spiritu, nunc, etc.
+
+# block=18
+τῆς αὐτοῦ γεννήσεως ἐβα-
+πτίσθη ὑπὸ Ἰωάννου ἐν
+τῷ Ἰορδάνῃ ποταμῷ, τῇ
+ςʹ τοῦ Ἰαννουαρίου μη-
+νός. Κατὰ τὴν ἔρευναν
+οὖν ταύτην γνωρίσαντες οἱ
+πατέρες τὴν ἑορτήν, γογ-
+γυσμὸς ἦν τοῖς πολλοῖς.
+Ἦν δὲ τῷ τότε καιρῷ καὶ
+Γρηγόριος ὁ Θεολόγος ἐν
+τῇ Κωνσταντινουπόλει, καὶ
+ἦν τοῖς πολίταις γογγυ-
+σμὸς οὐκ ὀλίγος, ὡς τε-
+μόντος τὴν ἑορτήν · λέ-
+γοντες ὅτι · «Ἔτεμες τὴν
+ἑορτήν, καὶ εἰς πολυθεΐαν
+ἡμᾶς ἐνέβales. »Διὰ τοῦτο
+αὐτὸς τὸν λόγον τοῦτον
+τέθεικεν, ὅτι · «Πάλιν τὸν
+Χριστὸν ἑορτάζων κηρύσ-
+σω, οὐ τὰ τῶν Ἑλλήνων,
+μάταια γάρ εἰσι καὶ ψευ-
+δόπλαστα, καὶ μύθους κα-
+λῶ ταῦτα, καὶ πᾶς ἐχέ-
+φρων. » Καὶ ἕνεκεν τῆς αἰ-
+τίας ταύτης ἐστηλίτευσε
+ταῦτα ὁ Θεολόγος Γρηγό-
+ριος, τὴν αὐτῶν [ſ. αὐ-
+τοῦ] ἀνδράνοιαν δηλο-
+ποιῶν, καὶ τὴν ἀγνοσίαν
+τῶν ἀνθρώπων, ὅτι μύθοις
+καὶ φάσμασι προσεῖχον,
+καὶ σκιᾷ ἐπλανῶντο, καὶ
+τὴν πλάνην αὐτῶν καύχη-
+μα τῆς ἀπωλείας εἶχον.
+Ἡμεῖς δὲ Χριστὸν τὸν
+Θεὸν ἡμῶν ἐν τρισὶν ὑπο-
+στάσεσιν ἀδιαιρέτως προσ-
+κυνοῦντες, Θεὸν καὶ ἄνθρω-
+πον αὐτὸν δογματίζοντες,
+
+# block=13
+Necessaria narratio.
+
+# block=12
+Ἀναγκαία διήγησις.
+
+# block=14
+(a)Priori tempore Chri-
+stiani uno eodemque die
+celebrabant Christi Na-
+tivitatem, et Lumina.
+Scripsit autem patriar-
+cha Hierosolymitanus Ju-
+venalis ad Julium papam
+Romanum ea de re : « Non
+possum una die conferre
+me ad Bethlehem et ad
+Jordanem. Etenim Jor-
+danis distat ab urbe Hie-
+rusalem ad orientem,
+milliaribus 25; sancta
+vero Bethlehem ad au-
+strum civitatis milliaribus
+sex: nec possum eadem
+die duo festa peragere.
+Rogo itaque sanctitatem
+tuam, Pater, ut scruteris
+commentaria, et des no-
+bis in accurata disquisi-
+tione per scriptum tuum
+(venerande) ejus rei noti-
+tiam, quo die natus sit
+Christus Dominus, et quo
+die baptizatus. Probe
+enim scimus commenta-
+rios ab initio libros e Hie-
+rosolymis Roman delatos
+fuisse per Titum et Ves-
+pasianum. » His litteris
+acceptis, Julius papa Ro-
+mæ investigavit commen-
+tarios, invenitque quod
+25 Decembris natus est
+Dominus noster Jesus
+Christus, et post annos
+30 a nativitate sua bap-
+tizatus est a Joanne in
+Jordane fluvio, 6 mensis Ja-
+
+# block=11
+Τῷ πρὸ τούτου καιρῷ,
+ἐν μιᾷ ἡμέρᾳ ἑώρταζον οἱ
+Χριστιανοὶ Χριστοῦ γέν-
+ναν καὶ φῶτα. Ἔγραψε δὲ
+ὁ πατριάρχης Ἱεροσόλυ-
+μων Ἰουβενάλιος τῷ πάπᾳ
+Ῥώμης Ἰουλίῳ περὶ τού-
+του, ὅτι · « Οὐ δύναμαι ἐν
+μιᾷ ἡμέρᾳ ἀπαντῆσαι εἰς
+Βηθλεὲμ καὶ εἰς Ἰορδά-
+νην, καὶ γὰρ Ἰορδάνης
+ἀπέχει τῆς πόλεως Ἱερου-
+σαλήμ, κατὰ ἀνατολάς,
+μιλία κε´. Ἡ δὲ ἁγία Βη-
+θλεὲμ κατὰ νότον τῆς πό-
+λεως μιλία ἕξჂ καὶ οὐ δύ-
+ναμαι ἐν μιᾷ ἡμέρᾳ τὰς
+δύο ἑορτὰς ἀποτελεῖν · πα-
+ρακαλῶ οὖν τὴν σὴν ὁσιό-
+τητα, Πάτερ, ἵνα ἐρευνη-
+σῆς τὰ ὑπομνήματα, καὶ
+δώσῃς ἡμῖν ἐν ἀκριβεῖ
+ἐρεύνα διὰ γραφῆς σου,
+τίμιε, τὴν περὶ τούτου
+εἴδησιν, ἐν ποίᾳ ἡμέρᾳ
+ἐτέχθη Χριστὸς ὁ Κύριος,
+καὶ ἐν ποίᾳ ἡμέρᾳ ἐβα-
+πτίσθη. Ὡς γὰρ ἀκριβῶς
+ἔγνωμεν, ὅτι τὰ ἐξαρχῆς
+ὑπομνήματα ἐξ Ἱεροσο-
+λύμων ἐν τῇ Ῥώμῃ ἠνέ-
+χθησαν ὑπὸ Τίτου καὶ
+Οὐεσπασιανοῦ. » Ταύτην
+τὴν γραφὴν δεξάμενος
+Ἰούλιος ὁ πάπας Ῥώμης,
+ἐρευνήσας τὰ ὑπομνή-
+ματα, εὗρεν ὅτι τῇ εἰ-
+κοστῇ πέμπτῃ τοῦ Δεκεμ-
+βρίου ἐγεννήθη ὁ Κύριος
+ἡμῶν Ἰησοῦς Χριστός, καὶ
+μετὰ τριάκοντα χρόνους
+
+# block=16
+δοξάζωμεν, σὺν τῷ ἀνάρχῳ αὐτοῦ Πατρὶ, σὺν τῷ
+παναγίῳ καὶ ἀγαθῷ καὶ ζωοποιῷ Πνεύματι, νῦν
+κ.τ.λ.
+
+# block=15
+Ab Hierosolymitanis venio ad Ægyptios, transsul-
+tis Orientalibus, de quibus habeo nihil, præter vul-
+gare
+
+# block=2
+(66) Ἡ νηστεία τῆς Τεσσαρακοστῆς. De Qua-
+dragesima præstat nihil, quam pauca dicere; multa
+vero profari, brevitas in notis requisita non sinit.
+Attamen, quod vitio non vertitur, antiquos scripto-
+res qualibet data occasione corrigere, quæstiones
+Anastasii Græcas levi mendo absolvam, idque ex
+mss., quæ certior est via. Quæstione 64, p. 430:
+Κἀντεῦθεν, ὡς ἔοικε, καὶ παρ᾿ ἡμῖν εἰκότως φυλάτ-
+τονται αἱ τρεῖς τεσσαρακοσταὶ, ἃς προετύπουν αἱ
+ἑορταὶ ἐκεῖναι, καὶ προσθήκην τοῦ τριακοστοῦ ἀριθ-
+μοῦ, μηδαμῶς ἐπιδεχόμεναι. Leg. τριαδικοῦ ἀριθμοῦ.
+Hinc merito, ut videtur, etiam apud nos observantur
+tres quadragesimæ, quas præsignabant illa festa He-
+bræorum, quæ additamentum ternarii numeri nullo
+modo admittunt. Corrupta quoque sunt, insuperque
+transpositione laborant ista Valeriani Gemeliensis,
+homilia 19, de Quadragesima : Qui dum ad sanctæ
+Paschæ dies desiderio instigante festinant, accusando
+vigiliarum studia, continentia bona, Paschæ convivia,
+et jejunia copiosa. Nec dubito quin reponi debeat :
+Qui dum ad sanctæ Paschæ dies, Paschæ convivia,
+desiderio instigante festinant, accusant vigiliarum
+studia, continentia bona, et jejunia copiosa. Cot.
+
+# block=3
+(a) Hinc supple in Joanne Nicæno.
+(b) Initium orat. 39, ex sensu.

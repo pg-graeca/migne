@@ -1,0 +1,171 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,167,118,917,1665
+2,941,109,1697,1624
+3,172,2099,1703,2274
+4,165,2280,913,2688
+5,173,1874,925,1950
+6,172,1959,916,2088
+7,720,58,1132,96
+8,749,1756,1124,1822
+9,944,1874,1700,2092
+10,939,2278,1714,2666
+11,1622,54,1681,92
+13,159,62,227,108
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=29px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=11
+506
+
+# block=7
+EPISTOLÆ DECRETALES.
+
+# block=13
+505
+
+# block=2
+illud, in quo mens purificatur, sed quod sequela
+sit illius boni hoc, in quo caro diluitur. Sic enim,
+et magister noster quosdam Pharisæorum et scri-
+barum, qui videbantur esse cæteris meliores, et a
+vulgo separati, increpabat, dicens eos hypocritas;
+quia ea solummodo quæ hominibus videbantur,
+purificabant; corda vero, quæ solus Deus aspicit,
+inquinata relinquebant et sordida. Ad quosdam
+ergo ex ipsis, non ad omnes, dicebat: Væ vobis
+scribæ et Pharisæi hypocritæ, quia mundatis quod
+deforis est calicis et paropsidis, intus autem plena
+sunt sordibus. Pharisæe cæce, munda prius quod
+intus est : et quod deforis est, erit mundum ¹⁶! Vere
+enim, si mens mundetur luce scientiæ, cum ipsa
+fuerit munda ac splendida, tunc etiam ejus, qui
+deforis est, hominis ipsa necessario curam gerit,
+id est carnis suæ, ut et ipsa purificetur. ¹⁷ Ubi au-
+tem ista, quæ deforis est, purificatio carnis negli-
+gitur, certum est neque de puritate mentis ac mun-
+ditia cordis curam geri. Ita ergo fit, ut is qui
+intrinsecus mundus est, mundetur sine dubio et ex-
+trinsecus. Non semper autem is, qui mundatur ex-
+trinsecus, etiam intrinsecus mundus est, videlicet
+cum agit hæc, ut hominibus placeat. ¹⁸ Sed et illa
+species castimoniæ observanda est, uti ne passim
+et libidinis solius causa, cum feminis coeat quis,
+sed posteritatis reparandæ gratia; quæ observantia
+cum etiam in nonnullis pecudibus inveniatur, pu-
+doris est, si non ab hominibus rationalibus et
+Deum colentibus observetur. Ergo omnes pecca-
+verunt et egent auxilio Dei (32). Propter quod, cha-
+rissimi, sectamini semper charitatem, et æmula-
+mini meliora et spiritualia, et adjuvate vos invi-
+cem, ut Deo semper in omnibus placere valeatis ¹⁹.
+Amen.
+
+# block=1
+regeneretur Deo; injusto vero, ut peccatorum quæ
+gessit, remissio concedatur. ¹⁰ Omnibus ergo festi-
+nandum est, sine mora renasci Deo, et demum con-
+signari ab episcopo, id est septiformem gratiam
+Spiritus sancti percipere (30-31), quia incertus est
+uniuscujusque exitus vitæ. ¹¹ Cum autem regene-
+ratus fuerit per aquam, et postmodum septiformi
+Spiritus gratia ab episcopo (ut memoratum est)
+confirmatus, quia aliter perfectus esse Christianus
+nequaquam poterit, nec sedem habere inter per-
+fectos, si non necessitate, sed incuria aut volun-
+tate remanserit (ut a beato Petro accepimus, et
+cæteri sancti apostoli, præcipiente Domino, do-
+cuerunt), et demum ex operibus bonis ostendat in
+se similitudinem ejus, qui eum genuit, Patris. Post
+hæc vero agnoscat Deum honorare. Honor autem
+ejus est, ut ita vivat, sicut ipse vult; vult enim
+unumquemque ita vivere, ut homicidium et adulte-
+rium nesciat, odium et avaritiam fugiat, iram, su-
+perbiam, jactantiam respuat et exsecretur, invi-
+diam quoque, et cætera his similia, penitus a se
+ducat aliena. Est sane propria quædam nostræ re-
+ligionis observantia, quæ non tam imponitur homi-
+nibus, quam proprie ab unoquoque Deum colente,
+causa puritatis expetitur; de castimoniæ dico cau-
+tela, cujus species multæ sunt. Sed primo, ut ob-
+servet unusquisque, ne menstruatæ mulieri mi-
+sceatur ; hoc enim exsecrabile ducit lex Dei ¹².
+Quod si lex de his non admonuisset nos, ut catuli ¹³
+libenter volveremur in stercore ¹⁴. Debemus ali-
+quid amplius habere animalibus, utpote rationales
+homines, et cælestium sensuum capaces, quibus
+summum studium esse debet, ab omni inquina-
+mento cordis conscientiam custodire. ¹⁵ Bonum est
+autem, et puritati conveniens, etiam corpus aqua
+diluere. Bonum vero dico, non quasi principale
+
+# block=8
+EPISTOLA V.
+
+# block=5
+De communi vita et reliquis causis, suis discipulis
+scripta, Hierosolymitanisque directa (33).
+
+# block=9
+Communis ²⁰ vita, fratres, omnibus necessaria est
+et maxime his qui Deo irreprehensibiliter militare
+cupiunt, et vitam apostolorum, eorumque discipu-
+lorum imitari volunt. ²¹ Communis enim usus om-
+nium, quæ sunt in hoc mundo, omnibus esse ho-
+
+# block=6
+Dilectissimis fratribus et condiscipulis, Hieroso-
+lymis cum charissimo fratre Jacobo coepiscopo ha-
+bitantibus, Cʟᴇᴍᴇɴꜱ episcopus.
+
+# block=3
+¹⁰.Siric. ep. 1, initio. ¹¹ Recogn. ᴠɪ, c. 10. ¹² Levit. ⲭᴠɪɪɪ. ¹³ cantharides, imo canthari, ut bene Turrianus
+ex Græco codice lib. ᴠ, cap. 24. ¹⁴ Deest hæc comparatio in c. Just. ¹⁵ Recogn. ᴠɪ, c. 11. ¹⁶ Matth. 23,
+25. ¹⁷ Hæc ab Hemerobaptistis Ebionitis inserta qq. videntur. ¹⁸ Recogn. ᴠɪ, c. 12. ¹⁹ ɪ Cor. ⲭɪᴠ. ²⁰ 12,
+q. 1, Dilectiss. fratribus. ²¹ Faustinianus hæc dicit lib. ⲭɪ Recogn. , p. 138, quæ refellit ipsemet
+Clemens.
+
+# block=10
+(33) Hæc epistola encyclica est; sic dicta, quod
+omnibus Ecclesiis communis esset, et per manus
+singulis tradita, universum Christianum orbem
+circumiret. Diversa tamen est ab illa encyclica, in
+qua virginitas, teste Epiphan. hæresi 30, deprædi-
+cata fuit, quæque suo tempore, quo integra exstabat,
+in sanctis Ecclesiis, ut ait, legebatur : sicut et illa
+quæ ad Corinthios scripta fuit. Cujus autem fidei
+ac firmitatis sint hæ quinque titulo Clementis no-
+tatæ, vide Turrianum lib. ɪɪ, adversus Magdebur-
+genses. Sᴇᴠ. Bɪɴɪᴜꜱ
+
+# block=4
+(30-31) De confirmatione loquitur.
+(32) Ergo omnes peccaverunt, etc. Hæc conclusio
+calumniose reprehenditur ab hæreticis : ita enim
+sanctus Clemens (aut qui sub ejus persona deli-
+tescit) argumentatur : Si ratio naturalis et lex co-
+lendi Deum non sufficit ad observandam hanc spe-
+ciem castitatis, quam pecudes, sine ratione et lege
+naturæ instinctu servant, et ita mutabiles sunt ho-
+mines; sequitur omnes esse peccatores, et auxilio
+Dei egere, ad bene vivendum. Quo nihil verius,
+nihil subtilius, nec ad rem accommodatius dici
+potuit. Sᴇᴠ. Bɪɴɪᴜꜱ.

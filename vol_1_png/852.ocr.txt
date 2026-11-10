@@ -1,0 +1,179 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1015,2358,1762,2657
+2,235,2451,980,2657
+3,237,1103,983,1534
+4,233,2166,1762,2270
+5,234,2351,973,2456
+6,861,2293,1151,2332
+7,637,58,1350,95
+8,1021,110,1774,1107
+9,248,54,322,98
+10,1689,62,1765,102
+11,1013,1107,1775,2141
+12,237,114,987,812
+13,229,1541,983,2147
+14,231,809,985,1101
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=16px
+# block=11 fontSize=16px
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+1103
+
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10
+1104
+
+# block=8
+τος, καὶ ἐτάφη ὁ ζωοποιὸς, ἵνα πάθους λύσῃ καὶ θα-
+νάτου ἐξέληται τούτους τοὺς (57) δι’ οὓς παρεγένετο,
+καὶ ῥήξῃ τὰ· δεσμὰ τοῦ διαβόλου, καὶ ῥύσηται τοὺς
+ἀνθρώπους ἐκ τῆς ἀπάτης αὐτοῦ· καὶ ἀνέστη ἐκ
+νεκρῶν τῇ τρίτῃ ἡμέρᾳ· καὶ τεσσαράκοντα ἡμέρας
+ἐνδιατρίψας (58) τοῖς μαθηταῖς, ἀνελήφθη εἰς τοὺς
+οὐρανοὺς, καὶ ἐκαθέσθη ἐκ δεξιῶν σου τοῦ Θεοῦ καὶ
+Πατρὸς αὐτοῦ. Μεμνημένοι οὖν ὧν δι’ ἡμᾶς ὑπέμεινε,
+εὐχαριστοῦμέν σοι, Θεὲ παντόκρατορ, οὐχ ὅσον ὀφει-
+λομεν, ἀλλ’ ὅσον δυνάμεθα, καὶ τὴν διάταξιν αὐτοῦ
+πληροῦμεν. Ἐν ᾗ γὰρ νυκτὶ παρεδίδοτο, λαβὼν ἄρτον
+ταῖς ἁγίαις καὶ ἀμώμοις αὐτοῦ χερσὶ, καὶ ἀναβλέψας
+πρὸς σὲ τὸν Θεὸν αὐτοῦ καὶ Πατέρα, καὶ κλάσας,
+ἔδωκε τοῖς μαθηταῖς εἰπών· « Τοῦτο τὸ μυστήριον
+τῆς Καινῆς Διαθήκης· λάβετε ἐξ αὐτοῦ, φάγετε· τοῦτό
+ἐστι τὸ σῶμά μου, τὸ περὶ πολλῶν θρυπτόμενον εἰς
+ἄφεσιν ἁμαρτιῶν· ὡσαύτως καὶ τὸ ποτήριον κεράσας
+ἐξ οἴνου καὶ ὕδατος (59), καὶ ἁγιάσας, ἐπέδωκεν ²⁰*
+αὐτοῖς, λέγων· Πίετε ἐξ αὐτοῦ πάντες· τοῦτό ἐστι τὸ
+αἷμά μου, τὸ περὶ πολλῶν ἐκχυνόμενον εἰς ἄφεσιν
+ἁμαρτιῶν. Τοῦτο ποιεῖτε εἰς τὴν ἐμὴν ἀνάμνησιν.
+Ὁσάκις γὰρ ἐὰν ἐσθίητε τὸν ἄρτον τοῦτον, καὶ πί-
+νητε τὸ ποτήριον τοῦτο, τὸν θάνατον τὸν ἐμὸν
+
+# block=12
+tinuit, permissu tuo; traditus est Pilato præsidi;
+judicatus est, judex; condemnatus est, Salvator;
+cruci affixus est, qui pati non potest; mortuus est,
+natura immortalis; sepultus est, vitæ effector; ut
+illos propter quos advenerat, a passione solveret,
+et a morte eriperet, ut diaboli vincula rumperet, il-
+liusque ex fallacia liberaret homines: resurrexit e
+mortuis tertia die: quadraginta diebus commoratus
+cum discipulis, assumptus est in cœlos; et ad dexte-
+ram assidet tibi, Deo ac Patri suo. ¹⁹. Memores igi-
+tur eorum quæ propter nos pertulit, gratias agimus
+tibi, Deus omnipotens, non quantum debemus, at
+quantum possumus; et constitutionem ejus imple-
+mus. In qua enim nocte tradebatur, pane sanctis ac
+immaculatis manibus suis accepto, et elevatis ocu-
+lis ad te Deum suum ac Patrem, fregit, et dedit di-
+
+# block=14
+scipulis, dicens : ‘ Hoc est mysterium Novi Testa-
+menti, accipite ex eo, manducate : hoc est corpus
+meum, quod pro multis frangitur, in remissionem
+peccatorum. Similiter calicem miscuit ex vino et
+aqua, sanctificavit, ac dedit iisdem, dicens : Bibite
+ex eo omnes : hic est sanguis meus, qui pro multis
+effunditur in remissionem peccatorum. Hoc facite in
+
+# block=3
+meam commemorationem. Quotiescunque enim
+manducabitis panem hunc, et bibetis hunc calicem,
+mortem meam annuntiabitis, donec veniam ²⁰ ,
+²¹ Itaque memores passionis ejus, et mortis, et a
+mortuis resurrectionis, atque in cœlum reditus ;
+necnon secundi adventus, quem idem facturus est,
+in quo cum gloria et potestate veniet judicare vivos
+et mortuos ²² , et reddere singulis juxta opera eo-
+rum ²³ ; tibi regi ac Deo panem hunc et calicem
+hunc offerimus, secundum constitutionem ejus,
+
+# block=11
+καταγγέλλετε, ἄχρις ἂν ἔλθω. » Μεμνημένοι τοί-
+νυν τοῦ πάθους αὐτοῦ, καὶ τοῦ θανάτου, καὶ τῆς ἐκ
+νεκρῶν ἀναστάσεως, καὶ τῆς εἰς οὐρανοὺς ἐπανό-
+δου, καὶ τῆς μελλούσης αὐτοῦ δευτέρας παρουσίας,
+ἐν ᾗ ἔρχεται μετὰ δόξης καὶ δυνάμεως κρῖναι ζῶντας
+καὶ νεκροὺς, καὶ ἀποδοῦναι ἑκάστῳ κατὰ τὰ ἔργα
+αὐτοῦ, προσφέρομέν σοι τῷ βασιλεῖ καὶ Θεῷ, κατὰ
+τὴν αὐτοῦ διάταξιν, τὸν.ἄρτον τοῦτον, καὶ τὸ ποτήριον
+τοῦτο, εὐχαριστοῦντές σοι δι’ αὐτοῦ, ἐφ’ οἷς κατηξίω-
+σας ἡμᾶς ἑστάναι ἑνώπιόν σου, καὶ ἱερατεύειν σοι,
+καὶ ἀξιοῦμέν σε, ὅπως εὐμενῶς ἐπιβλέψῃς ἐπὶ τὰ
+προκείμενα δῶρα ταῦτα ἐνώπιόν σου, σὺ ὁ ἀνενδεὴς
+Θεὸς, καὶ εὐδοκήσῃς ἐπ’ αὐτοῖς εἰς τιμὴν τοῦ Χριστοῦ
+σου, καὶ καταπέμψῃς τὸ ἅγιόν σου Πνεῦμα ἐπὶ τὴν
+θυσίαν ταύτην, τὸν μάρτυρα τῶν παθημάτων τοῦ Κυ-
+ρίου Ἰησοῦ, ὅπως ἀποφήνῃ τὸν ἄρτον τοῦτον σῶμα τοῦ
+Χριστοῦ σου, καὶ τὸ ποτήριον τοῦτο αἷμα τοῦ Χρι-
+στοῦ σου, ἵνα οἱ μεταλαβόντες αὐτοῦ, βεβαιωθῶσι
+πρὸς εὐσέβειαν, ἀφέσεως ἁμαρτημάτων τύχωσι, τοῦ
+διαβόλου καὶ τῆς πλάνης αὐτοῦ ῥυσθῶσι, Πνεύματος
+ἁγίου πληρωθῶσιν, ἄξιοι τοῦ Χριστοῦ σου γένωνται,
+ζωῆς αἰωνίου τύχωσι, σοῦ καταλλαγέντος αὐτοῖς,
+Δέσποτα παντόκρατορ. Ἔτι δεόμεθά σου, Κύριε, καὶ
+ὑπὲρ τῆς ἁγίας σου Ἐκκλησίας τῆς ἀπὸ περάτων
+
+# block=13
+gratias tibi per eum agentes, quia nos dignos ha-
+buisti, qui staremus coram te, ac sacerdotio fun-
+geremur tibi ; et poscimus te, ut super hæc dona in
+conspectu tuo proposita placate respicias, tu qui
+nullius indiges Deus, et beneplaceas in eis ad ho-
+norem Christi tui, atque supra hoc sacrificium
+mittas sanctum tuum Spiritum, testem passionum
+Domini Jesu, ut exhibeat panem hunc corpus Chri-
+sti tui, et calicem hunc sanguinem Christi tui, quo
+participes illius, ad pietatem confirmentur, remis-
+sionem peccatorum consequantur, diabolo ejusque
+errore liberentur, Spiritu sancto repleantur, digni
+Christo tuo fiant, vitam sempiternam impetrent, te
+illis reconciliato, Domine omnipotens. Adhuc ora-
+
+# block=4
+¹⁹ Nicol. Methon. De corpore et sanguine Christi. ²⁰ I Cor. XI; Matth. XXVI ; Marc. XIV; Luc. XXII.
+²⁰* Nic. Methon. ἡμῖν. ²¹ Ignat. interpol. ad Magn. 11. ²² Marc. XIII, 26; II Tim. IV, 1. ²³ Rom.
+II, 6.
+
+# block=5
+(57) Τούς. Deest rectius in cod. Vind. CLER.
+(58) Ἐνδιατρίψας. Συνδιατρίψας melius in cod.
+Vindob. ID.
+
+# block=1
+parastatas, et Hydrophobos: prima in Novellis; altera
+citante Rabano vel alio cap. 47, lib. contra Judæos:
+quæ explicari potest per Epiphanium ubi de Ebio-
+næis: docet enim eos hæreticos aquam pro-Deo ha-
+buisse, illamque meram in sanctum calicem immi-
+sisse. Erunt itaque hydrophobæ vel hydrophobi, qui
+aquam reverentur. Hydrotheitas habes apud anony-
+mum De hæresibus scriptorem a Sirmondo in lucem
+emissum, hæresi 75. Cот.
+
+# block=2
+(59) Τὸ ποτήριον κεράσας ἐξ οἴνου καὶ ὕδατος.
+Contra duas hæreses ex adverso pugnantes; Mono-
+physitarum et Armeniorum solo vino in mysteriis
+utentium, atque aquariorum sive hydroparastata-
+rum sola aqua. De his observabilis et varia lectio
+ad Leg. Novell. Theodosii tit. 3 De Judæis, Hydro-

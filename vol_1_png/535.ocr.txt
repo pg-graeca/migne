@@ -1,0 +1,152 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,192,989,945,2492
+2,169,120,927,987
+3,954,107,1729,1339
+4,215,2534,1753,2678
+5,735,60,1154,97
+6,172,86,223,123
+7,1629,44,1699,90
+8,976,1344,1732,2500
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Verumtamen illud est quod præ cæteris ab omni-
+bus vobis cupio in commune servari, ut concordiam
+teneatis, per quod solum ⁸⁸ potestis portum quietis
+intrare, et civitatem summi regis, quæ pax nomina-
+tur, habitare ⁸⁹. Similis ⁹⁰ namque est status omnis
+Ecclesiæ magnæ navi, quæ per undosum pelagus
+diversis e locis et regionibus viros portat, ad unam
+potentis regni urbem properare cupientes. Sit ergo
+navis hujus Dominus ⁹¹, ipse omnipotens Deus, gu-
+bernator vero sit Christus. Tum deinde proretæ of-
+ficium episcopus impleat, presbyteri nautarum,
+diaconi dispensatorum locum teneant : hi qui cate-
+chizant, nautologis conferantur; epibatis autem,
+totius fraternitatis multitudo similis sit; ipsum quo-
+que mare hic mundus habeatur : ventorum vero va-
+rietates et turbinum, diversis tentationibus confe-
+rantur : persecutiones, tribulationes et pericula,
+fluctibus exæquentur. Terreni vero spiritus, qui
+vel de torrentibus, vel de convallibus spirant, pseu-
+doprophetarum et seductorum, seu pravæ doctrinæ
+verba ducantur ⁹² : promontoria vero et loca con-
+fragosa, hi qui in potestatibus sæculi sunt judices,
+et pericula minantur et mortes. Dithalassa ⁹³ vero
+loca, quæ duplicibus undæ fallacis æstibus verbe-
+rantur, dubiis mente, et de repromissionum veri-
+tate nutantibus conferantur, atque his qui irratio-
+nabili fidem nostram ratione discutiunt. Hypocritæ
+autem et dolosi, piratis similes habeantur. Jam vero
+rapidus vortex, et tartarea Charybdis, et saxis il-
+lisa naufragia, ac mortiferæ submersiones, quid
+aliud æstimanda sunt, quam peccata? Restat
+igitur, ut hæc navis cursu prospero tuta pos-
+sit portum desideratæ urbis intrare, ita Deo pre-
+cem fundere navigantes, ut mereantur audiri. Au-
+diri autem a Deo ita demum merebitur quis, si ora-
+
+# block=2
+cura sit. Sed et eos qui secundum carnem ægrotant,
+sollicite perquirant, et plebi (si forte plebs ⁸⁴ igno-
+rat) indicent de his, ut et ipsi visitent eos, et quæ
+necessaria sunt, præbeant eis cum conscientia ejus
+qui præest. Quod ⁸⁵ tamen etiam si clam fecerint,
+non peccabunt, sed et de peregrinis ⁸⁶ similiter epi-
+scopo suggerant refovendis; et cætera his similia,
+quæ ad cultum Ecclesiæ et disciplinam ejus perti-
+nent, diaconis curæ sint ⁸⁶. Qui catechizant, id est
+qui verbo instruunt incipientes, primo oportet, ut
+ipsi instructi sint; de anima enim agitur hominum.
+Et oportet eum qui docet et instruit animas rudes,
+esse talem, ut pro ingenio discentium semetipsum
+possit aptare, et verbi ordinem pro audientis capa-
+citate dirigere. Debet ergo ipse præcipue ⁸⁷ appri-
+me esse eruditus et doctus, irreprehensibilis, ma-
+turus, impavidus, sicut ipsi probabitis fore Clemen-
+tem hunc post me. Multum est autem, si ego nunc
+de singulis, quæ unusquisque habere debeat, pro-
+sequar.
+
+# block=3
+tiones ipsæ ⁹⁴ bonis moribus et bonis operibus ad-
+juventur. Sed ante omnia cum quiete et silentio,
+epibatæ (id est laici) in suis unusquisque resideant
+locis, ne forte per inquietudinem, et inconditos
+inutilesque discursus, si passim vagari cœperint,
+vel ab officio suo nautas impediant, vel in alterum
+latus per inquietudinem eorum navis pressa de-
+mergatur. Nautologi de mercedibus ⁹⁵ commoneant;
+et nihil omnino quod ad diligentiam vel ad disci-
+plinam pertinet, diaconi negligant. Presbyteri vel-
+ut nautæ aptent singula ad instructionem navis di-
+ligenter, et instruant quæ in suo tempore requi-
+renda sunt. Episcopus tanquam proreta, vigilanter
+et sollicite gubernatoris verba custodiat Christi.
+Salvator Dominus gubernator Ecclesiæ suæ, dili-
+gatur ab omnibus, et ipsius solius præceptis ac jus-
+sis credat et obediat omnis Ecclesia. Deo quoque
+indesinenter supplicetur a cunctis de prosperitate
+ventorum, ut navigantes omnem tribulationem et
+omne periculum superent, tanquam mare profun-
+dum mundi istius et vitæ humanæ pelagus navigan-
+tes, in quo esuriendum sit et sitiendum, nuditatem
+quoque ferendam, morbos etiam corporis et ægri-
+tudines tolerandas. Insuper et hominum insidiis ac
+dolo sæpe laborandum, quippe qui dispergendos se
+nonnunquam noverint, sed aliquando etiam congre-
+gandos, vomitus quoque et sugillationes ferendas,
+cum ex confusione peccatorum et rejectione crimi-
+num, velut male congregati in visceribus fellis, ja-
+
+# block=4
+⁸⁴ Ex ms. dele plebs. ⁸⁵ Dist. 93 , Diaconi Ecclesiæ. ⁸⁶ Ms. cura sit. ⁸⁷ In ms. abest vox præcipue.
+⁸⁸ quam solam. ⁸⁹ Redundat vox habitare, nec legitur in ms. ⁹⁰ Ivo in Decret part. Ⅲ, c. 1.
+⁹¹ Anaclet. epist. 1 , Const. Ⅱ, 61. ⁹² vocentur. ⁹³ Ms. Bithalassa. ⁹⁴ ipsius ⁹⁵ mercibus. ⁹⁶ Evarist.
+2 epist. ⁹⁷ Ms. justitiæ dispensationem. ⁹⁸ Gesta S. Petri , p. 413.
+
+# block=5
+EPISTOLÆ DECRETALES.
+
+# block=6
+489
+
+# block=7
+470
+
+# block=8
+ctura facienda est , et abjicienda prorsus e corde
+omnis intrinsecus quæ latet amaritudo peccati, si
+qua forte ex desideriis iniquis, velut ex cibis noxiis,
+congregata est. Quam utique cum evomuerit quis
+et abjecerit, ingentis ægritudinis liberabitur morbo,
+si tamen post vomitum, quæ ad sanitatem perti-
+nent, sumat. Verumtamen scitote cuncti ⁹⁶, quod
+supra omnes vos laboret episcopus; quia unus-
+quisque vestrum suum proprium fert laborem, ille
+vero et suum et singulorum. Propter quod, o Cle-
+mens, tanquam qui omnibus præesse te noveris,
+singulos (prout potueris) juva, et singulos releva,
+qui et singulorum onus et sollicitudinem portas.
+Unde et ego nunc hanc tibi injungens dispensatio-
+nem, scio quia accipio gratiam magis, quam præ-
+sto. Sed esto confidens et fortiter ferens ; certus
+quia laboris tui meritum recipies, cum ad portum
+quietis incolumem hanc provexeris navem. Ibi
+mercedes et præmia pro omnium salute suscipies,
+si hic pro omnium incolumitate vigilaveris. Itaque
+si te multi e fratribus propter rigorem justitiæ odio
+habuerint, ex hoc quidem non læderis, sed ex hu-
+juscemodi odiis amor tibi conciliabitur Dei. Et ideo
+satage magis et refuge, ne lauderis ab iniquis, et ne
+a pessime agentibus diligaris ; sed potius propter
+justam dispensationem ⁹⁷ , et æquissimam regulam
+disciplinæ, a Christo collaudari merearis ⁹⁸. Hæc

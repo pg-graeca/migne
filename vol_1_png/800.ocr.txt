@@ -1,0 +1,189 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1022,130,1793,1045
+2,240,1226,995,1351
+3,236,118,988,1079
+4,236,2282,996,2686
+5,238,2020,993,2283
+6,239,1379,1783,1484
+9,642,70,1361,109
+10,237,1587,994,2022
+11,1032,1142,1778,1209
+13,239,69,295,112
+14,1019,1589,1792,2688
+15,860,1522,1156,1557
+16,1701,75,1776,118
+17,1026,1227,1782,1352
+19,485,1082,715,1132
+20,1269,1092,1541,1142
+21,223,1128,995,1222
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1022 source_y1=130 source_x2=1793 source_y2=1045
+νου. « Οὐ μοιχεύσεις· » διαιρεῖς γὰρ μίαν σάρκα
+εἰς δύο· « Ἔσονται γὰρ, φησὶν, οἱ δύο εἰς σάρκα
+μίαν· » ἓν γάρ εἰσιν ἀνὴρ καὶ γυνὴ τῇ φύσει, τῇ
+συμπνοίᾳ, τῇ ἑνώσει, τῇ διαθέσει, τῷ βίῳ, τῷ τρόπῳ·
+κεχωρισμένοι δέ εἰσι τῷ σχήματι καὶ τῷ ἀριθμῷ·
+οὐ παιδοφθορήσεις (15)· παρὰ φύσιν γὰρ τὸ κακὸν
+ἐκ Σοδόμων φυὲν, ἥτις πυρὸς θεηλάτου παρανάλωμα
+γέγονεν· ἐπικατάρατος δὲ ὁ τοιοῦτος· καὶ ἐρεῖ πᾶς ὁ
+λαός· Γένοιτο. Οὐ πορνεύσεις· « Οὐκ ἔσται γὰρ, φησὶ,
+πορνεύων ἐν υἱοῖς Ἰσραήλ. » — « Οὐ κλέψεις· »
+Ἄχαρ ³⁸ γὰρ, κλέψας ἐκ τῷ Ἰσραὴλ ἐν Ἱεριχὼ,
+λίθοις βληθεὶς τοῦ ζῇν ὑπεξῆλθε· καὶ Γιεζεῖ ⁴⁰, κλέ-
+ψας καὶ ψευσάμενος, ἐκληρονόμησε τοῦ Νεεμὰν
+τὴν λέπραν (16)· καὶ Ἰούδας, κλέπτων τὰ τῶν πενή-
+των, τὸν Κύριον τῆς δόξης παρέδωκεν Ἰουδαίοις,
+καὶ μεταμεληθεὶς ἀπήγξατο, καὶ ἔλακησε μέσος, καὶ
+ἐξεχύθη πάντα τὰ σπλάγχνα αὐτοῦ· καὶ Ἁνανίας,
+καὶ Σαπφείρα ἡ τούτου γυνὴ, κλέψαντες τὰ ἴδια,
+καὶ πειράσαντες τὸ Πνεῦμα Κυρίου, παραχρῆμα
+ἀποφάσει Πέτρου τοῦ συναποστόλου ἡμῶν, ἐθανα-
+τώθησαν.
+
+# block=2 source_x1=240 source_y1=1226 source_x2=995 source_y2=1351
+Non uteris magia, neque præstigiis ⁴⁶ ; ait enim :
+« Præstigiatores non sinetis vivere ⁴⁷. » Non inter-
+ficies filium tuum in abortione, neque quod natum
+
+# block=3 source_x1=236 source_y1=118 source_x2=988 source_y2=1079
+vides enim unam carnem in duo, ait quippe :
+« Erunt duo in carnem unam ³¹; » siquidem mari-
+tus et uxor unum sunt natura, conspiratione,
+unione, affectu, vita, more; separantur vero sexu
+ac numero ³². Non corrumpes pueros ³³; naturæ
+enim adversatur vitium ex Sodomis ortum, quæ
+civitas igne divinitus immisso consumpta fuit ³⁴;
+maledictus autem qui talis est; et dicet omnis
+populus : Fiat ³⁵. Non fornicaberis : « Non erit
+enim, inquit, fornicator in filiis Israelis ³⁶. »—« Non
+furaberis ³⁷. » Achar namque cum in Israele, apud
+Hierichuntem furatus esset, lapidibus obrutus ex-
+cessit e vita ³⁸; et Giezis, quod furtum ac menda-
+cium commisisset, Naamanis lepram in hæreditatem
+accepit ⁴⁰; et Judas, res pauperum surripiens ⁴¹,
+Dominum gloriæ prodidit Judæis, ac pœnitentia
+ductus laqueo se suspendit ⁴³, et crepuit medius,
+diffusaque sunt omnia viscera ejus ⁴⁴; et Ananias,
+atque Sapphira uxor ejus, quoniam propria bona
+rapuerant, et tentaverant Spiritum Domini, statim
+sententia Petri coapostoli nostri, morte mulctati
+fuerunt ⁴⁵.
+
+# block=4 source_x1=236 source_y1=2282 source_x2=996 source_y2=2686
+(18) Οὐ φονεύσεις·τέκνον σου ἐν φθορᾷ. Optime,
+ex Barnaba : licet Anastasii Quæstiones manu-
+scriptæ exhibeant : Οὐ φονεύσεις βρέφος ἐν διαφθορᾷ·
+πᾶν γὰρ τὸ ἐξεικονισμένον, ψυχὴν λαβὸν παρὰ Θεοῦ,
+φονευθὲν ἀδίκως, ἐκδικηθήσεται. Voces φθορὰ,
+διαφθορὰ, φθείρειν, διαφθείρειν, φθορεὺς, φθόριος,
+etc., in explicando abortu frequenter occurrere,
+apud sacros et profanos auctores, notius est quam
+ut loca proferre sit necesse, si demas pauca, quæ
+aut illustria sunt, aut opis criticæ videntur indigere.
+Qualia præ oculis habeo ista Clementis Alexan-
+drini Pædag. II, 10, p. 194 : Αὗται γὰρ πορνείας
+
+# block=5 source_x1=238 source_y1=2020 source_x2=993 source_y2=2283
+(16) Τοῦ Νεεμὰν τὴν λέπραν. Hoc nomen, quod
+scribitur etiam Ναιμάν, Νειμάν, Νασμὰν, Νεεμ-
+μὰν, et Νεεμᾶν, restituendum videtur, in formula
+juramenti Judaici lib. II Juris Græco-Romani, p.
+120 : Ἀὼη μοι Κύριος ὁ Θεὸς τὴν λέπραν τοῦ Γιεζῆ,
+καὶ τοῦ Ἀμμά. IB.
+(17) Τεκνοκτονίας. Ψεύδους. In cod. Vind. e quo
+abest ψευδομαρτυρίας. EL.
+
+# block=6 source_x1=239 source_y1=1379 source_x2=1783 source_y2=1484
+³¹ Gen. II, 24. ³² Epist. Barn. cap. 19. ³³ Levit. XVIII, 22. ³⁴ Gen. XIX. ³⁵ Deut. XXVII. ³⁶ Deut.
+XXIII, 17. ³⁷ Exod. XX, 15. ³⁸ Anast. Ἄχαν. ³⁹ Jos. VII. ⁴⁰ al. Γιεζῆ, in Anast. Γιεζῆ. ⁴¹ IV Reg. V.
+⁴² Joan. XII, 6. ⁴³ Matth. XXVII. ⁴⁴ Act. I. ⁴⁵ Act. V. ⁴⁶ Anast. ibid. ⁴⁷ Exod. XXII, 18.
+
+# block=9 source_x1=642 source_y1=70 source_x2=1361 source_y2=109
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10 source_x1=237 source_y1=1587 source_x2=994 source_y2=2022
+(15) Οὐ παιδοφθορήσεις. Infandum scelus dici-
+tur διαφθορὰ in titulo, proprie, ex dictato Hesychii
+magni magistri, διαφθοράς, ἐχθρᾶς βδελυρίας. Lexi-
+con Cyrilli : «Διαφθορά, παιδὸς ἢ παρθένου. Stuprum.»
+Ἀῤῥενοφθορεῖν apud Gregorium Nyssenum De Vita
+Mosis, et Cæsarium quæstione 109. Alio sensu
+Joannes monachus in Canonario παιδοφθορίαν defi-
+nit, τὸ κόρην παρθένον νεᾶνιν πρὸ τῆς ἥβης, ἤγουν
+πρὸ τῶν δώδεκα χρόνων διαφθαρῆναι. Porro istud
+οὐ παιδοφθορήσεις junctum cum οὐ μοιχεύσεις et
+οὐ πορνεύσεις, a Barnaba habet quoque Clemens
+Alexandrinus Admonitione ad gentes, p. 67, et Pæ-
+dagogi lib. II, cap. 10. COT.
+
+# block=11 source_x1=1032 source_y1=1142 source_x2=1778 source_y2=1209
+Ἀπαγόρευσις γοητείας, τεκνοκτονίας (17), ἐπιορ-
+κίας, ψευδομαρτυρίας.
+
+# block=13 source_x1=239 source_y1=69 source_x2=295 source_y2=112
+999
+
+# block=14 source_x1=1019 source_y1=1589 source_x2=1792 source_y2=2688
+ἐπικαλύμματι (vel ἐπὶ καλύμματι) τοῖς ἐς παντελῆ
+κατάστασιν φθορᾶν φθορίοις συγχρώμεναι φαρμάκοις,
+ἐξαναλίσκουσιν ἅμα τῷ ἐμβρύῳ τὴν φιλανθρωπίαν.
+Basilii canone 2 : Φθείρασα κατ' ἐπιτήδευσιν, φόνου
+δίκην ὑπέχει, etc., Lexici Græco-Latini veteres :
+« Διαφθορά, ἐπὶ ἀμβλώσεως. Abortus. » Concilii Ancy-
+rani can. 21 : Περί τῶν γυναικῶν τῶν ἐκπορνευουσῶν,
+καὶ ἀναιρουσῶν τὰ γεννώμενα, καὶ σπουδαζουσῶν
+τὰ φθόρια ποιεῖν. Suidas, ἀμβλωθρίδια· ἐκτρώματα
+(sic constituo etiam ex veteribus libris), τὰ ἐξηγ-
+γλωμένα ἔμβρυα. Καὶ ἀμβλωθρίδια· ἐκτρώματα
+φθόριον φάρμακον, καὶ δὴ καὶ τὸ διαφθαρέν. Hesy-
+chii : ·Ἀμβλώσσειν· ὠμοτοκεῖν. Ἀμβλωθρίδια· τὰ
+ἐξηττωμένα (pro ἐξημβλωμένα) ἔμβρυα. Denique
+Josephi lib. II contra Apionem , p. 1074 : Ὁ νόμος
+γυναῖξιν ἀπεῖπεν, μήτε ἀμφιβάλ-
+τῶν αὑτῆς, μήτε διαφθείρειν· ἀλλὰ μηχανῇ τινι
+προσέπεσθαι αὐτοῦ (vel αὑτῷ), τεκνοκτόνος γὰρ ἂν
+εἴη, ψυχὴν ἀφανίζουσα, καὶ τὸ γένος ἐλαττοῦσα.
+Τοιγαροῦν εἴτις ἐπὶ λέχος ἢ φθοράν παρέλθοι, καθα-
+ρός εἰναι οὐ δύναται. Ἢ καὶ μετὰ τὴν νόμιμον συνου-
+σίαν ἀνδρὸς καὶ γυναικὸς ἀπολούσασθαι κελεύει ὁ
+νόμος. Ψυχῆς τε γὰρ καὶ σώματος ἐγγίνεται μολυ-
+σμὸς, ὡς πρὸς ἄλλην χώραν ὑποβαλόντων. Καὶ γὰρ
+ἐμψυχωμένῃ σώμασι κακοπαθεῖ ἡ ψυχὴ, καὶ τούτων
+αὖ πάλιν ὡς θανάτῳ διακριθεῖσα· διόπερ ἁγνείας
+ἐπίτασιν τοῖς τοιούτοις προσέταξεν. Latine Rufino
+interprete : Lex mulieribus interdixit vel celare quod
+statum est (cod. Reg. statutum) vel aliam machina-
+tionem corrumpere filiis. Namque machatriz est anima
+demoliens, et genus imminuens. Igitur si quis ad
+concubitum corruptionemque transierit, immundus
+(add. in mss. est). Oportet autem etiam (abest a
+
+# block=15 source_x1=860 source_y1=1522 source_x2=1156 source_y2=1557
+VARIORUM NOTÆ.
+
+# block=16 source_x1=1701 source_y1=75 source_x2=1776 source_y2=118
+1000
+
+# block=17 source_x1=1026 source_y1=1227 source_x2=1782 source_y2=1352
+Οὐ μαγεύσεις· οὐ φαρμακεύσεις· « Φαρμακοὺς γὰρ,
+φησὶν, οὐ περιβιώσετε. » Οὐ φονεύσεις τέκνον σου ἐν
+φθορᾷ (18), οὐδὲ τὸ γεννηθὲν ἀποκτενεῖς· πᾶν γὰρ
+
+# block=19 source_x1=485 source_y1=1082 source_x2=715 source_y2=1132
+CAPUT III.
+
+# block=20 source_x1=1269 source_y1=1092 source_x2=1541 source_y2=1142
+ΚΕΦΑΛΑΙΟΝ ΙΓ'.
+
+# block=21 source_x1=223 source_y1=1128 source_x2=995 source_y2=1222
+Interdictio magicarum artium, interfectionis filiorum,
+perjurii, falsi testimonii.

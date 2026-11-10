@@ -1,0 +1,161 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,942,553,1686,1018
+2,156,1200,900,1712
+3,157,1722,903,2321
+4,941,1027,1691,2329
+5,156,160,904,1189
+6,939,161,1684,541
+7,954,2519,1297,2692
+8,160,2513,481,2686
+9,153,2379,1727,2458
+10,738,104,1098,139
+11,157,110,211,145
+13,1610,98,1698,142
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Ut ostendat sanctus Clemens, impossibile haud-
+quaquam esse, quod superius docuit, exempla pro-
+fert gentium, ac narrat, multos reges ac principes
+exstitisse ex gentibus, qui se ipsos morti tradide-
+runt, ut cives suo sanguine liberarent. Ait insu-
+per (49) : Multos inter nos cognovimus, qui seipsos
+in vincula conjecerunt, ut alios redimerent. Multi se
+ipsos in servitutem dederunt, et accepto pretio sui,
+alios cibarunt. Egregia hæc perfectæ charitatis exem-
+pla præ oculis habeant Ecclesiæ ministri, ac attente
+considerent.
+
+# block=2
+De charitate. Characteres charitatis. — Quod de
+charitate docet sanctus Pontifex, et ad pietatem al-
+licit, et omnem nostram promeretur attentionem.
+Divinæ hujus virtutis characteres sunt sequentes :
+Charitas nos Deo agglutinat, « charitas operit mul-
+titudinem peccatorum ³¹ : charitas omnia tolerat ³², »
+omnia æquo fert animo ; in charitate nihil sordidum,
+nihil superbum, videlicet moderationem in omnibus
+servat, charitas schisma non habet, charitas seditio-
+nem non concitat, charitas omnia facit in concordia :
+in charitate omnes Dei electi perfecti sunt. Sine cha-
+ritate nihil acceptum est Deo (46).
+
+# block=3
+Pulcherrimo huic charitatis elogio, ejusdem vir-
+tutis exemplum addit sanctus Pontifex, illudque
+considerandum proponit in Moyse, qui olim suas
+ad Deum fudit preces, ut aut dimitteret peccatum
+populi sui, aut deleret eum de libro viventium ³³.
+Quis ergo inter vos generosus ? concludit sanctus
+Clemens (47), quis misericors ? quis charitate plenus ?
+dicat : Si propter me seditio orta est, et discordia,
+et schismata, discedo, abeo quocunque volueritis ;
+et facio quæ a plebe mandantur ; solum ovile Christi
+in pace degat, cum constitutis presbyteris. Hæc sane
+est perfecta charitas, quæ nullo privatæ utilitatis
+studio ducitur ; ejusque ductum secuti sunt non-
+nulli sancti episcopi, quando dissensiones, ac
+
+# block=4
+De æmulatione. Effectus æmulationis. — Tertius
+articulus quoad mores, quem in sancto Clemente
+observat cl. Marechal O. S. B., est circa invidiam,
+seu æmulationem. Demonstrat Corinthiis, quod,
+postquam huic passioni se toto animo dediderunt,
+procul absit justitia et pax : Unusquisque timorem
+Dei deserit, et in fide illius cæcutit, nec in institutis
+præceptorum ejus ambulat, nec Christo decenter con-
+versatur ; sed unusquisque secundum pravas cupidita-
+tes suas incèdit. Deinde nonnulla ex Scripturis
+exempla affert, quibus morum depravationem omni
+tempore in hominibus inductam ostendit ex hoc vi-
+tio : Quod propter æmulationem, ait hic sanctus Pa-
+ter (50), fratricidium ³⁴ commissum sit propter æmu-
+lationem Pater noster Jacob a facie fratris Esau au-
+fugit ³⁵ ; æmulatio effecit, ut Joseph ad mortem usque
+persecutionem sustineret ³⁶ et in servitutem addicere-
+tur. Æmulatio Moysem a facie Pharaonis regis
+Ægypti fugere compulit cum popularem suum di-
+centem audiret : Quis te constituit principem et judi-
+cem super nos ? nunquid tu vis me occidere, quemad-
+modum occidisti heri Ægyptium ³⁷ ? Propter æmula-
+tionem Aaron et Maria ³⁸ extra castra segregati habi-
+tarunt. Æmulatio Dathan et Abiron ³⁹ vivos ad in-
+feros detrusit, quod cum Moyse Dei famulo seditione
+contenderent. Ob æmulationem David non tantum
+alienigenis invisus, sed etiam a Saul rege Israel ⁴⁰
+fuit vexatus. Sed ut vetera exempla relinquamus,
+prosequitur sanctus Pontifex (51), veniamus ad proxi-
+mos athletas, et sæculi nostri generosa exempla pro-
+
+# block=5
+Pulchræ sententiæ de humilitate. — Splendidissi-
+mis hisce humilitatis Christianæ exemplis adjungit
+sanctus Clemens nonnullas breves sententias circa
+hanc eamdem virtutem. Laus nostra, inquit, in Deo
+sit, et non a nobis ipsis (42). Etenim, addit ipse,
+Deus odit eos qui semetipsos prædicant. Testimonium
+boni operis nostri ab aliis tribuatur nobis, sicuti ex-
+hibitum est Patribus nostris. Temeritas, arrogantia
+et audacia, maledictis a Deo ; moderatio autem et
+humilitas et mansuetudo apud illos, qui a Deo bene-
+dicti sunt . . . Unusquisque, habet alibi (43), pro-
+ximo suo subjiciatur . . . humilis non sibi testimo-
+nium ferat, sed sinat, ut alter ipsi perhibeat testimo-
+nium : qui carne castus est, ne insolescat, sciens alium
+esse, qui ei continentiam donat. Reputemus ergo, fra-
+tres, ex qua materia creati simus ; qui, et quales in
+mundum ingressi simus, tanquam e sepulcro et tene-
+bris ; auctor et opifex noster in mundum suum nos
+introduxit, præparatis, antequam nasceremur, bene-
+factis suis. Sit aliquis fidelis, sit potens in enarranda
+cognitione . . . tanto humilior esse debet, quo major
+esse videtur (44) ; quia, ut alio loco dicit (45), quo
+majori cognitione digni sumus habiti, eo periculo
+graviori obnoxii sumus.
+
+# block=6
+schismata eorum causa excitari deprehenderunt.
+Dicamus etiam, omnes ministros Domini idipsum
+in iisdem circumstantiis peragere debere ; fidelibus
+enim præbere tenentur exempla charitatis, quæ pu-
+rissima sit, et commoda non quærat. Ne vereantur
+igitur id agendo necessaria amittere : Qui enim hoc
+fecerit... peroptime ait sanctus Pontifex (48), omnis
+locus eum suscipiet : Domini enim est terra, et pleni-
+tudo ejus.
+
+# block=7
+(47) Epist. 1, cap. 54.
+(48) Id., ibid.
+(49) Ibid., cap. 55.
+(50) Ibid., cap. 4.
+(51) Epist. 1, c. 5.
+
+# block=8
+(42) Ep. 1, cap. 30.
+(43) Ibid., cap. 38.
+(44) Ibid., cap. 48.
+(45) Ibid., cap. 41.
+(46) Ibid., cap. 49.
+
+# block=9
+³¹ Jac. v, 20; I Petr. iv, 8. ³² I Cor. xiii, 4. ³³ Exod. xxxii, 32. ³⁴ Gen. iv, 3-8. ³⁵ Gen. xxvii, 41.
+³⁶ Gen. xxxvii. ³⁷ Exod. ii, 14. ³⁸ Num. xii, 4. ³⁹ Num. xvi, 33. ⁴⁰ I Reg. xviii, 8.
+
+# block=10
+PROOEMIA VARIORUM.
+
+# block=11
+173
+
+# block=13
+174

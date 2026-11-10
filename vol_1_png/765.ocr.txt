@@ -1,0 +1,231 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,993,543,1749,1149
+2,206,550,956,1149
+3,207,2197,961,2699
+4,994,138,1741,350
+5,209,150,964,358
+6,208,1504,958,1675
+7,206,1337,958,1509
+8,209,1705,959,1807
+9,1278,383,1450,417
+10,236,406,967,545
+11,981,1340,1751,2303
+12,989,2299,1744,2567
+13,257,1197,827,1234
+14,993,421,1739,528
+15,206,1804,962,2202
+16,801,1271,1098,1306
+17,471,367,713,402
+18,624,81,1338,125
+21,991,2564,1734,2668
+22,211,82,266,127
+24,243,1671,790,1708
+25,1675,82,1743,130
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=18
+CONSTITUTIONES APOSTOLICÆ. — LIB. VI.
+
+# block=22
+929
+
+# block=25
+930
+
+# block=4
+stolo nostro et ad evangelium adjutore : cumque
+ter coram iis disceptassem quæstionem de pro-
+pheta, et de monarchia, seu unitate Dei, atque il-
+lum virtute Domini devicissem, prostratumque ob-
+mutescere coegissem, effeci ut in Italiam fugeret.
+
+# block=5
+συνεργῷ ἐν τῷ Εὐαγγελίῳ· καὶ τρίτον (16) ἐπ’ αὐτῶν
+διαλεχθεὶς αὐτῷ εἰς τὸν περὶ προφήτου λόγον, καὶ
+περὶ Θεοῦ μοναρχίας, ἧττήσας αὐτὸν δυνάμει Κυρίου,
+καὶ εἰς ἀφωνίαν καταβαλὼν (17), φυγάδα κατέστησα
+εἰς τὴν Ἰταλίαν.
+
+# block=17
+ΚΕΦΑΛΑΙΟΝ Θ′.
+
+# block=9
+CAPUT IX.
+
+# block=10
+Ὅπως ὁ Σίμων γοητείαις τισὶ πτῆναι θελήσας,
+εὐχαῖς Πέτρου κατενεχθεὶς ἐξ ὕψους κάτω συν-
+ετρίβη τοὺς πόδας καὶ τὼ χεῖρε (18) τοὺς ταρ-
+σούς (19).
+
+# block=14
+Quo modo Simon cum quibusdam præstigiis volare
+instituisset, precibus Petri ex alto deorsum præ-
+cipitatus, pedum et manuum extremitates fregit.
+
+# block=1
+⁸⁰ Romam autem adveniens, Ecclesiam magno-
+pere vexavit, multos evertens, ac sibi comparans,
+gentilesque peritia magica percellens : ita ut ali-
+quando, cum in eorum theatrum meridie proces-
+sisset, præcepissetque multitudini ut me quoque
+in theatrum raperent, se promitteret in aere vola-
+turum : cunctis vero eam in rem intendentibus,
+ego apud me precabar : jamque a dæmonibus in
+altum sublatus, volabat sublimis per aerem, dicens
+se in cœlum ascendere, indeque ipsis bona suppe-
+ditaturum : cumque universa turba illum faustis
+acclamationibus ut deum prosequeretur, ego mente
+ac manibus ad cœlum protentis, supplicabam Deo
+per Jesum Dominum, ut exitiosum hominem detur-
+
+# block=2
+Γενόμενος δὲ ἐν Ῥώμῃ (20), πολὺ τὴν Ἐκκλησίαν
+ἔσκυλε, πολλοὺς ἀνατρέπων (21), καὶ ἑαυτῷ περι-
+ποιούμενος, τὰ δὲ ἔθνη ἐξιστῶν μαγικῇ ἐμπειρίᾳ (22)·
+ὡς καὶ ποτε μέσης ἡμέρας προελθὼν εἰς τὸ θέατρον
+αὐτῶν, κελεύσας τοῖς δήμοις ἁρπαγῆναι κἀμὲ ἐν τῷ
+θεάτρῳ, ἐπηγγέλλετο πέτησθαι δι’ ἀέρος· πάντων δὲ ἐπὶ
+τούτῳ μετεώρων τυγχανόντων, ἐγὼ προσηυχόμην (23)
+κατ’ ἐμαυτόν· καὶ δὴ μετεωρισθεὶς ὑπὸ δαιμόνων
+ἵπτατο (24) μετάρσιος εἰς ἀέρα, λέγων εἰς οὐρανοὺς
+ἀνιέναι, κἀκεῖθεν αὐτοῖς τὰ ἀγαθὰ ἐπιχορηγήσειν·
+τῶν δὲ δήμων (25) ἐπευφημούντων ὡς θεὸν, ἐκτείνας
+ἐγὼ τὰς χεῖρας εἰς οὐρανὸν σὺν (26) αὐτῇ διανοίᾳ,
+ἱκέτευον τὸν Θεὸν διὰ Ἰησοῦ τοῦ Κυρίου ῥῆξαι τὸν
+λυμεῶνα, καὶ τὴν ἰσχὺν τῶν δαιμόνων περικόψαι, ἐπ’
+
+# block=13
+⁸⁰ Hoc caput vide in Cedreno, ibid.
+
+# block=16
+VARIORUM NOTÆ.
+
+# block=7
+ἆρα ὁμιλητὴς τοῦ μεγάλου· ἀλλὰ δὴ καὶ Παύλου τοῦ
+θείου· ὡς αὐτός δήπου περὶ ἑαυτοῦ ἱστορεῖ. COT.
+Legitur in altero Vindob. cod. μαθητεύσαντι, quod
+refertur ad Paulum, qui Clementem discipulum fe-
+cerat. CLER.
+
+# block=11
+(23) Ἐγὼ προσηυχόμην. Ita cum aliis Philastrius
+in Simone Mago, Ambrosius Hexaemeron IV, 8 ; Au-
+gustinus lib. De hæresibus, hær. 1 ; Auctor incertus
+libri contra Fulgentium Donatistam, cap. 25; et
+Anonymus citatus nota antepenult., hæresi 1. Sed
+multis placuit Paulum Petro adjungere : Cyrillo
+Hierosolym. catechesi 6, Severo Sulpitio in Histo-
+ria sacra, Prospero in libello cui titulus Dimidium
+temporis, cap. 13 ; Gregorio Turonensi Historiarum,
+lib. 1, cap. 25, et Miraculorum lib. I, cap. 28 ;
+Isidoro in Chronico ; Abboni, serm. 5, tom. IX Spi-
+cilegii; fabricatori Actorum Petri et Pauli, et Mar-
+cello cum apud Sigebertum De viris illustribus,
+cap. 1, tum apud Surium 12 Maii in Vita Nerei et
+Achillei. Consule Maximum Taurinensem homilia
+5, in Natali Petri et Pauli, quam inseruerunt quo-
+que sermonibus Ambrosii et Augustini ; Freculfum
+parte II, lib. I, cap. 20 ; Petrum Damiani epist. 20
+lib. I, epist. 14 lib. V; Nicephorum, etc. Legito
+etiam Dungalum ad finem libri adversus Claudium
+Taurinensem, ubi solius Pauli mentionem facit. Pari
+modo additum per nonnullos orationi jejunium :
+ut videre est in Augustino, epist. 86 ; Cassiano De
+institutis cœnobiorum III, 10 ; et Scriptore περὶ
+Φράγκων καὶ τῶν λοιπῶν Λατίνων, qui tamen minus
+probabiliter diem eumdem statuit jejunii atque con-
+flictus, opinionem amplexus Glycæ et Cedreni. Me-
+lius interpunge locum Ratramni lib. IV contra Græ-
+cos, cap. 3, Spicilegii II, p. 120. COT.
+
+# block=6
+(16) Καὶ τρίτον. Alter cod. τρίτον οὖν. CL.
+(17) Εἰς ἀφωνίαν καταβαλών. Pacianus epist. 2,
+de uno e certaminibus Petri cum Simone : Nonne
+Simonem Petrus, judice astipulante, confundit ?
+COT.
+
+# block=24
+(18) Τὼ χεῖρε. Melius τῶν χειρῶν. CL.
+
+# block=8
+(19) Ταρσοῦς. Additum est in margine utriusque
+codicis : ἱστορεῖ Κλήμης, Ἡγήσιππος, Ἰουστῖνος,
+Εἰρηναῖος. ID.
+
+# block=15
+(20) Γενόμενος δὲ ἐν Ῥώμῃ, etc. Romam ve-
+nisse Petrum apostolum, ut Simoni Mago obsiste-
+ret, docent Eusebius Historiæ lib. II, cap. 14, Hie-
+ronymus in Catalogo, Ado in Chronicis, alii. Cle-
+mens Romanus episcopus, Petri discipulus, Christi
+dignissimus martyr, Simonis hæresim a Petro apo-
+stolo cum ipso Simone superatam edocuit. Verba ano-
+nymi Prædestinatorum oppugnatoris, in præfatione.
+COT. — Codd. Vind. ἐκεῖνος δὲ γενόμενος. CL.
+(21) Πολλοὺς ἀνατρέπων. Male in Cedreno
+p. 174 edit. Basil., 211 Reg., πολλὰ ἀνατρέπων.
+ID.
+
+# block=3
+(22) Μαγικῇ ἐμπειρίᾳ. Titulus, γοητείαις. Nihil
+hic esset adnotandum, nisi imperiti librarii corru-
+pissent barbaram inscitamque interpretationem ve-
+terem Libelli monachorum imperatori Justiniano
+oblati, et lecti actione I concilii Constantinopolitani
+sub Menna, ad finem istorim Græcorum : Ἐξαπέ-
+στειλεν ὁ Θεὸς τῇδε τῇ πόλει, Ἀγαπητὸν, τὸν ὄντως
+ἀγαπητὸν Θεῷ καὶ ἀνθρώποις, ἀρχιερέα τῆς πρεσβυ-
+τέρας Ῥώμης, ἐπὶ καθαιρέσει τοῦ Ἀνθίμου τε καὶ
+τῶν εἰρημένων αἱρετικῶν, ὥσπερ ποτὲ Πέτρον τὸν
+μέγαν, τοῖς Ῥωμαίοις, ἐπὶ καθαιρέσει τῆς Σίμωνος
+γοητείας, in depositione Simonis Goetiani, vel Goe-
+tici, typis mandando : Simonis Crotiam, et ad margi-
+nem : Zoetici. COT.—Legimus in Vind. codd. μαγικῇ,
+καὶ δαιμόνων ἐνεργείᾳ. CL.
+
+# block=12
+(24) Ἵπτατο. Aliis sibi ad Icarium modum apta-
+tis, si fides Hegesippo lib. III De bello Judaico,
+cap. 2; Abdiæ Historiæ apostolicæ lib. I, non multo
+ante finem; Patribus VI synodi ad imperatorem Con-
+stantinum actione 18; Maximo Taurinensi : vel
+conscensis quadrigis igneis, aut fabricato curru,
+juxta Arnobium lib. II, et Præfationem Arabicam
+concilii Nicæni. ID.
+
+# block=21
+(25) Τῶν δὲ δήμων. Apud Cedrenum, τῶν δὲ δαι-
+μόνων, manifesto vitio. ID.
+(26) Σύν. Ἐν, in Vind. codice melius. CLER.

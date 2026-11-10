@@ -1,0 +1,216 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,262,217,1021,1126
+2,1046,220,1814,1127
+3,281,2308,1034,2672
+4,264,1315,1019,1651
+5,272,1678,1029,2011
+6,1060,2243,1814,2741
+7,287,2669,1032,2743
+8,1054,1479,1818,2245
+9,276,2009,1025,2242
+10,665,114,1434,159
+11,1282,176,1551,214
+12,534,177,741,208
+13,319,1164,545,1200
+14,277,2241,1030,2310
+16,1048,1312,1806,1483
+17,259,118,343,168
+18,1721,120,1793,164
+19,869,1232,1183,1276
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=16px
+# block=18 fontSize=16px
+# block=19 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=17
+255
+
+# block=18
+256
+
+# block=11
+ΚΕΦΑΛΑΙΟΝ ΚΑ'.
+
+# block=12
+CAPUT XXI.
+
+# block=1
+Videte, dilecti, ne beneficia ejus quæ multa sunt,
+omnibus nobis in condemnationem cedant, nisi di-
+gne illo viventes, bona et accepta in conspectu ejus
+cum concordia fecerimus. Dicit enim alicubi : Spi-
+ritus Domini, lucerna scrutans secreta ventris⁴. Con-
+sideremus quam prope sit, et quod nihil latet ipsum,
+tum cogitationum nostrarum, tum ratiocinationum
+quas facimus. Æquum igitur est, ut ab ejus volun-
+tate non simus transfugæ. Homines stultos, insi-
+pientes, elatos et gloriantes in sermonis sui jactan-
+tia offendamus potius, quam Deum. Dominum Je-
+sum Christum, cujus sanguis pro nobis datus est,
+veneremur. Præpositos nostros revereamur, senio-
+res nostros honoremus, juvenes doceamus discipli-
+nam timoris Dei. Uxores nostras ad id quod bonum
+est corrigamus : amabiles castitatis mores osten-
+dant ; simplicem ac sinceram mansuetudinis suæ
+voluntatem demonstrent ; linguæ suæ moderationem
+silentio manifestam faciant ; charitatem suam non
+secundum animi propensiones, sed omnibus Deum
+sancte timentibus æqualem exhibeant. Filii vestri
+
+# block=2
+Ὁρᾶτε, ἀγαπητοὶ, μὴ αἱ εὐεργεσίαι αὐτοῦ αἱ πολ-
+λαὶ γένωνται εἰς κρῖμα πᾶσιν ἡμῖν, ἐὰν μὴ ἀξίως
+αὐτοῦ πολιτευόμενοι, τὰ καλὰ καὶ εὐάρεστα ἐνώπιον
+αὐτοῦ ποιῶμεν μεθ’ ὁμονοίας. Λέγει γάρ που (46)·
+Πνεῦμα Κυρίου λύχνος ἐρευνῶν τὰ ταμιεῖα τῆς
+γαστρός. Ἴδωμεν πῶς ἐγγύς ἐστιν, καὶ ὅτι οὐδὲν
+λέληθεν αὐτὸν τῶν ἐννοιῶν ἡμῶν, οὐδὲ τῶν διαλογισμῶν
+ὧν ποιούμεθα. Δίκαιον οὖν (47) ἐστιν μὴ λειποτακτεῖν
+ἡμᾶς ἀπὸ τοῦ θελήματος αὐτοῦ. Μᾶλλον ἀνθρώποις
+ἄφροσι καὶ ἀνοήτοις καὶ ἐπαιρομένοις καὶ ἐγκαυχωμέ-
+νοις ἀλαζονείᾳ (48) τοῦ λόγου αὐτῶν, προσκόψω-
+μεν (49), ἢ τῷ Θεῷ. Τὸν Κύριον Ἰησοῦν Χριστὸν, οὗ τὸ
+αἷμα ὑπὲρ ἡμῶν ἐδόθη (50), ἐντραπῶμεν. Τοὺς προ-
+ηγουμένους (51) ἡμῶν αἰδεσθῶμεν, τοὺς πρεσβυτέρους
+ἡμῶν τιμήσωμεν, τοὺς νέους παιδεύσωμεν τὴν παι-
+δείαν τοῦ φόβου τοῦ Θεοῦ. Τὰς γυναῖκας ἡμῶν ἐπὶ
+τὸ ἀγαθὸν διορθωσώμεθα· τὸ ἀξιαγάπητον τῆς ἁγνείας
+ἦθος ἐνδειξάσθωσαν, τὸ ἀκέραιον τῆς πραΰτητος αὐ-
+ῶν βούλημα ἀποδειξάτωσαν, τὸ ἐπιεικὲς τῆς γλώσσης
+αὐτῶν διὰ τῆς φωνῆς (52) φανερὸν ποιησάτωσαν, τὴν ἀγά-
+πην αὐτῶν μὴ κατὰ προσκλίσεις (53), ἀλλὰ πᾶσι τοῖς
+
+# block=13
+⁴ Prov. xx, 27.
+
+# block=19
+VARIORUM NOTÆ.
+
+# block=16
+(51) Τοὺς προηγουμένους. Omnia apud Clemen-
+tem Alexandr. probe cohærent. Apud Clementem
+Romanum est maxima perturbatio. Caput hoc ex
+Clemente Alexandr., p. 517, misere corruptum est.
+BERN.
+
+# block=4
+tur Nicetas in præfatione in Catenam suam. Si
+enim Amen, inquit, pro quo Aquila transtulit πεπι-
+στωμένως, in fine tantummodo librorum poneretur,
+et non interdum aut in exordio, aut in calce sermo-
+nis sive sententiæ, nunquam Salvator in Evangelio
+loqueretur : « Amen, amen dico vobis ; » nec Pauli
+Epistolæ ; in medio illud opere continerent. Moyses
+quoque et Jeremias, et cæteri in hunc modum mul-
+tos haberent libros, qui in mediis voluminibus suis,
+Amen, frequenter interserunt. JUN.
+
+# block=8
+(52)Διὰ τῆς φωνῆς. Clem. Alex. l. c. pag. 612,
+legit διὰ τῆς σιγῆς : quam quidem lectionem ms.
+lectioni præfert Wott. Sic et Dav. nisi malis cum
+ipso, διὰ τῆς ἀφωνίας, ut propius ad ms. accedas.
+GALL. — Διὰ τῆς φωνῆς. Clemens Alex. legit σι-
+γῆς, et quidem multo rectius : γυναιξὶ γὰρ κόσμον
+ἡ σιγὴ φέρει, ut auctor est Sophocles. Modesto
+enim silentio in muliere nihil commendatius, præ-
+sertim in publicis cœtibus, et sacris conventibus,
+ut præcipit Paulus. Unde Cyrillus Hieros. in Pro-
+catechesi, mulieres vult in templis exorcismorum
+tempore, legendo, orando et psallendo occupatas
+esse, sed sine omni murmure et strepitu, ita ut
+proxime assidentium vicinæ aures, labiorum loque-
+las non audiant. Ejus verba ita se habent, καὶ ὁ
+σύλλογος πάλιν ὁ παρθενικὸς οὕτω συνειλέχθω, ἢ ψάλ-
+λων, ἢ ἀναγινώσκων, ἢ εὐχῇ (ms. Oxoniensis in Bi-
+bliotheca Bodleiana optimæ notæ, legit ἡσυχῇ, et
+recte) ὥστε λαλεῖν μὲν τὰ χείλη, μὴ ἀκούειν δὲ τὰ ἀλ-
+λότρια ὦτα· γυναικὶ γὰρ λαλεῖν ἐν ἐκκλησίᾳ οὐκ ἐπι-
+τρέπω. Καὶ ἡ ἔγγαμος ὁμοίως μιμείσθω [ἴσ. ὑμνεί-
+σθω] καὶ προσευχέσθω, καὶ τὰ χείλη κινείσθω, φωνὴ
+δὲ μὴ ἀκουέσθω, etc. JUN.
+
+# block=5
+(46) Λέγει γάρ που. Ista exscribit Clem. Alex.,
+Στρωμ., lib. IV, cap. 17, pag. 611. GAL. — Λέγει γάρ
+που· Πνεῦμα Κυρίου λύχνος, ἐρευνῶν τὰ ταμιεῖα
+τῆς γαστρός. Ita distinguo. Dictum est Salomonis,
+Prov. xx, 27, ex memoria paulo indiligentius, ut
+fere fit, prolatum. Neque enim recurrendum ad li-
+bros vel apocryphos, vel sacros deperditos, quo
+mittimur a viro doctissimo Joanne Morino, exerci-
+tatione Biblica IX, cap. 4, num. 8. Idem porro sen-
+sus dicto datur in Catena Græcorum Patrum. COT.
+
+# block=9
+(47) Δίκαιον οὖν ad τῷ Θεῷ. Interpolatoris hæc
+sunt. Verba ab usu remota aut difficilia indoctus
+homo vitat, immutatque et mittit de Gnosticis, ut
+dolum tegat, sed transparet. BERN. Petita, nempe,
+hæc vult vir doctus a Clemente Alexandr., p. 517,
+sed interpolata, ut Clementis Romani verba haberi
+queant.
+
+# block=14
+(48) Ἀλαζονείᾳ. Editi ἐν ἀλαζονείᾳ. At ms. deest
+præpositio ἐν. GALL.
+
+# block=6
+(53) Μὴ μετὰ προσκλίσεις. 1 Timoth. v, 21 :
+Μηδὲν ποιῶν κατὰ πρόσκλισιν. Nihil faciens in alte-
+ram partem declinando, vertit Latinus interpres.
+Exponitur enim πρόσκλισις per Suidam ἑτερομέ-
+ρεια. Id vero nominis restitui debet bis S. Basilio :
+semel quidem, homilia in principium Proverbio-
+rum, p. 399, ubi nunc habetur : Οὔτε ποιῶν κατὰ
+πρόκλησιν, (editio Græca πρόσκλησιν) ἀλλ’ εὐθέως
+(eadem editio εὐθείας) καὶ ἀδιαστρόφους ἐκφέρων τὰς
+κρίσεις : cum OEcumenius ad locum Apostoli lauda-
+tum ita citet : Μηδὲν ποιῶν κατὰ πρόσκλισιν, ἀλλ’
+εὐθείας καὶ ἀδιαστρόφους ἐκφέρων τὰς κρίσεις. Ite-
+rum autem, epistola 342, in qua pari modo hodie
+legitur : Μηδὲν ἡμῶν δυναμένων ποιῆσαι κατὰ πρόσ-
+κλισιν. COT.
+
+# block=3
+(49) Προσκόψωμεν. Forte προσκρούσωμεν, qua
+voce Chrysostomus frequentissime utitur, ut ho-
+mil. 20 in Epist. ad Ephes. : Οὐδὲν φοβερὸν τῶν ἐν
+τῷ βίῳ, ἢ μόνον τὸ προσκροῦσαι τῷ Θεῷ, et homil.
+5 in Epist. ad Rom. : Τὸ γὰρ προσκροῦσαι τῷ Θεῷ
+τοῦ κολασθῆναι χαλεπώτερον, et in Matth. homil. 31:
+Τὸ γὰρ πάντων χαλεπώτερον παρῆκα νῦν, ὅτι τῷ Θεῷ
+προσκρούεις, et alibi passim : quibus vero προσκό-
+ψωμεν magis arridet, per me retineant licebit, cum
+sciam apud Petrum scriptum esse, τῷ λόγῳ προσκό-
+πτειν. JUN.
+
+# block=7
+(50) Ὑπὲρ ἡμων ἐδόθη. Clemens Alex. legit
+ἡγιάσθη : quid si ἐξεχύθη ; sed nihil muto. JUN.

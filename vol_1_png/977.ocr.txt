@@ -1,0 +1,183 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,194,392,954,1247
+2,199,2377,943,2588
+3,195,133,955,382
+4,978,1686,1733,2596
+5,985,463,1748,1682
+6,198,1255,950,2370
+7,771,74,1177,111
+8,997,131,1747,464
+9,198,2623,1730,2700
+11,1491,2709,1543,2747
+12,1667,73,1745,107
+13,351,2710,613,2743
+17,220,78,295,112
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=16px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+# block=17 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+1354
+
+# block=7
+RECOGNITIONUM LIB. VI.
+
+# block=17
+1353
+
+# block=8
+et Deum colentibus observetur. In tantum autem ca-
+stimonia verum Dei cultum tenentibus,per has quas
+supra diximus aliasque horum similes species conser-
+vanda est, ut etiam apud eos qui a diabolo adhuc in
+erroribus detinentur, attentius observetur; est enim
+apud illos nonnulla observantia castimoniæ. Quid
+ergo, quod errantes custodiebatis, hoc non obser-
+vabitis emendati?
+
+# block=3
+sis sive injustus, baptismus tibi per omnia neces-
+sarius est, Justo quidem, ut adimpleatur in eo per-
+fectio et regeneretur Deo; injusto vero, ut pecca-
+torum quæ gessit in ignorantia remissio concedatur.
+Omnibus ergo festinandum est sine mora renasci
+Deo, quia incertus est uniuscujusque exitus vitæ.
+
+# block=1
+X. Cum autem regeneratus fueris per aquam, ex
+operibus bonis ostende in te similitudinem ejus,
+qui te genuit Patris. Agnovisti enim Deum, honora
+patrem; honor autem ejus est, ut ita vivas sicut
+ipse vult. Vult autem te ita vivere, ut homicidium,
+adulterium nescias,odium,avaritiam fugias, iram, su-
+perbiam, jactantiam respuas, et exsecreris invidiam,
+cæteraque his similia penitus a te ducas aliena. Est
+sane propria quædam nostræ religionis observantia,
+quæ non tam imponitur hominibus, quam proprie
+ab unoquoque Deum colente causa puritatis expeti-
+tur. Castimoniæ dico causa, cujus species multæ
+sunt; sed primo ut observet unusquisque, ne men-
+struatæ mulieri misceatur, hoc enim exsecrabile
+duxit lex Dei. Quod etsi lex de his non admonuisset,
+nos ut canthari libenter volveremur in stercore? De-
+bemus amplius aliquid habere animalibus, utpote
+rationabiles homines et cœlestium sensuum capaces,
+quibus summi studii esse debet, ab omni inquina-
+mento cordis conscientiam custodire.
+
+# block=5
+XIII. Sed fortasse dicet aliquis vestrum: Oportet
+ergo nos omnia quæ fecimus dum coleremus idola,
+custodire? Non omnia; sed quæcunque bene fiebant,
+hæc etiam nunc convenit observare, quia si quid
+recte fit ab his qui in errore sunt, certum est id a
+veritate sumptum. Quia et si quid in vera religione
+non recte fit, non est dubium quin ab errore mu-
+tuatum sit; bonum namque etiamsi ab errantibus
+gestum fuerit, bonum est, et malum etiamsi ab his
+qui veritatem sequuntur gestum fuerit, malum est.
+Aut nunquid ita desipiemus, ut si videamus eum
+qui idola colit esse sobrium, nos qui Deum colimus,
+sobrii esse recusemus, ne eadem facere, quæ ille
+qui colit idola, videamur? Non ita est, sed sit nobis
+studium, ut si illi qui errant, homicidium non fa-
+ciunt, nos ne irascamur quidem; et si illi adulte-
+rium non admittunt, nos ne concupiscamus quidem
+alienam mulierem; si illi amant proximos suos, nos
+diligamus etiam inimicos nostros; ⁴⁸; si illi mutuo
+dant his qui habent unde reddant, nos etiam his
+demus a quibus recipere non speramus. Et per om-
+nia nos qui æterni sæculi hæreditatem speramus,
+debemus præcellere eos qui præsens tantum sæcu-
+lum norunt, scientes quia, si opera illorum nostris
+operibus collata, in die judicii similia inveniantur
+ac paria, confusio nobis erit, quod æquales inveni-
+mur in operibus his qui propter ignorantiam con-
+demnantur, et nullam spem futuri sæculi habuerunt.
+
+# block=6
+XI. Bonum est autem et puritati conveniens,
+etiam corpus aqua diluere. Bonum vero dico, non
+quasi principale illud in quo mens purificatur, sed
+quod sequela sit illius boni hoc in quo caro dilui-
+tur. Sic enim et Magister noster quosdam Phari-
+sæorum et Scribarum, qui videbantur esse cæteris
+meliores et a vulgo separati, increpabat, dicens eos
+hypocritas, quia ea solum quæ hominibus videban-
+tur, purificabant, corda vero quæ solus Deus aspi-
+cit, inquinata relinquebant et sordida. Ad quosdam
+ergo ex ipsis, non ad omnes dicebat: Væ vobis, Scri-
+bæ et Pharisæi hypocritæ, quia mundatis calicis
+et paropsidis quod deforis est, intus autem plena
+sunt sordibus. Pharisæe cæce, emunda prius quod
+intus est, et quod deforis est erit mundum ⁴⁹. Vere
+enim si mens mundetur luce scientiæ, cum ipsa fuc-
+rit munda ac splendida, tunc etiam ejus qui defo-
+ris est hominis ipsa necessario curam gerit, id est
+carnis suæ, ut et ipsa purificetur. Ubi autem ista
+quæ deforis est purificatio carnis negligitur, certum
+est ibi neque de puritate mentis, ac munditia cordis
+curam geri. Ita ergo fit, ut is quidem qui intrinse-
+cus mundus est, mundetur sine dubio et extrinse-
+cus, non semper autem is qui mundatur extrinsecus,
+etiam intrinsecus mundus est, videlicet cum agit
+hæc ut omnibus placeat.
+
+# block=4
+XIV. Et vere digna confusio est, ubi nihil amplius
+gessimus ab his quibus amplius intelleximus. Quod
+si confusio nobis erit æquales eis inveniri in operi-
+bus bonis, quid erit nobis, si inferiores nos ac de-
+teriores examinatio futura reperiat? Audite ergo
+quomodo de his nos ipse verus Propheta docuerit;
+ad eos enim qui negligunt audire verba sapientiæ,
+ita ait: Regina austri surget in judicio cum genera-
+tione hac et condemnabit eam, quia venit a finibus
+terræ audire sapientiam Salomonis, et ecce plus quam
+Salomon hic, et non audiunt ⁴⁵. Ad eos vero qui de
+malis actibus gerere pœnitentiam detrectabant, ita
+ait: Viri Ninivitæ surgent in judicio cum genera-
+tione hac et condemnabunt eam, quia pœnitentiam
+egerunt in prædicatione Jonæ, et ecce plus quam
+Jonas hic ⁴⁶,⁴⁷. Vides ergo quomodo eos qui erudie-
+bantur ex lege, adductis ad exemplum illis qui ex gen-
+tili ignorantia veniebant, et ostendens eos nec illis
+æquales esse qui in errore positi videbantur, ex ipsa
+tantum comparatione condemnat. Ex quibus omni-
+bus sermo quem proposuimus approbatur, ut casti-
+
+# block=2
+XII. Sed et illa species castimoniæ observanda
+est, ut ne passim et libidinis solius causa feminis
+coeatur, sed posteritatis reparandæ gratia. Quæ ob-
+servantia cum in nonnullis etiam pecudibus invenia-
+tur, pudoris est si non ab hominibus rationabilibus
+
+# block=9
+⁴⁵ Matth. XXIII, 25, 26. ⁴⁶ Matth. v, 21, 22, 28; Luc. VI, 27. ⁴⁷ Matth. XII,42; Luc. XI, 31. ⁴⁸,⁴⁹ Luc.
+XI, 32; Matth. XII, 41.
+
+# block=11
+43
+
+# block=13
+PATROL. GR. I.

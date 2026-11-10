@@ -1,0 +1,97 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1061,916,1682,1362
+2,1054,147,1690,763
+3,138,129,1034,748
+4,127,903,1031,1353
+5,1055,1515,1681,2725
+7,123,1482,1025,2713
+8,1256,826,1483,868
+9,1250,1419,1486,1469
+10,688,72,1140,123
+12,139,84,207,124
+13,1603,80,1685,128
+14,405,826,731,888
+15,399,1384,747,1492
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+EPISTOLA II AD VIRGINES.
+
+# block=13
+442
+
+# block=12
+441
+
+# block=2
+periit et humiliavit ac oppressit
+eam, quia exarserat in illam concu-
+piscentia exsecranda vir ille iniquus
+et impius. Ejus nequitia quæ, Dei
+timore remoto, rem detestandam
+in Israel ei inspiravit, ex tali se pro-
+didit stupro. Quos ergo decentia
+prohibet cum sororibus lusus ac risus
+amovendi sunt a nobis, quos comi-
+tari debent omnigena castitas, san-
+ctitas Deique timor.
+
+# block=8
+CAPUT XII.
+
+# block=1
+Nonne ex Scripturarum lectione
+didicisti quæ fuerit Salomonis fama,
+cui dedit Deus sapientiam, et scien-
+tiam, et animi magnitudinem, et
+divitias, et magnificentiam præ om-
+nibus hominibus? Et iste tamen
+per mulieres in perditionem indu-
+ctus, a Domino recessit.
+
+# block=9
+CAPUT XIII.
+
+# block=5
+Nonne ex iisdem Scripturis no-
+tum tibi est quid, ad tempora Su-
+sannæ, narretur de senibus illis
+qui, cum frequenter starent inter
+mulieres, contemplati pulchritudi-
+nem alienam, in concupiscentiæ
+barathrum præcipites dederunt sese?
+Castitatis quidem pretium nove-
+rant, sed ipsius jugum fregerunt.
+Hinc appetitui perverso venumdati,
+in beatam Susannam conspirarunt
+ut eam constuprarent. At illa turpe
+ipsorum desiderium frustrata est.
+Innocentiæ suæ testem invocavit
+Deum, qui de manibus impiorum
+senum eam liberavit .•
+¶ Quo modo fieri posset ut hæc
+exempla horrore nos ac tremore non
+implerent, dum videmus, propter
+mulierem, a dignitate sua decidere
+senes, judices, ac populi Dei recto-

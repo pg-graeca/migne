@@ -1,0 +1,172 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,211,436,960,1621
+2,988,1204,1738,1709
+3,993,131,1739,1198
+4,218,134,956,426
+5,212,1628,957,1707
+6,213,1886,959,2690
+7,810,1835,1108,1870
+8,220,79,290,118
+9,611,82,1322,118
+10,207,1735,1725,1809
+11,982,1876,1738,2702
+12,1656,76,1736,122
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=211 source_y1=436 source_x2=960 source_y2=1621
+XXI. Nam si exiguum hoc vitæ tempus per ina-
+nes occupemus et inutiles quæstiones, inanes sine
+dubio et vacui ab operibus bonis pergemus ad
+Deum, ubi judicium ²², ut dixi, operum nostrorum
+fiet. Unaqueque etenim res suum tempus habet et
+locum. Operum hic locus, hoc tempus est sæculum
+futurum. Ne ergo impediamur ordinem locorum ac
+temporum permutantes, primo quæ sit Dei justitia
+requiramus, ut tanquam iter acturi, abundanti via-
+tico bonis operibus repleamur, quo possimus ad
+regnum Dei, tanquam ad urbem maximam perve-
+nire. Deus enim his, qui recte sentiunt, per ipsa
+opera mundi, quæ fecit manifestus est, ipsius crea-
+turæ suæ utens testimonio ²³, et ideo cum de Deo
+dubitatio esse non debeat, de sola nunc ejus justi-
+tia requiramus et regno. Quod si aliquid nobis de
+secretis et reconditis inquirendum suggerit mens
+nostra, antequam de operibus justitiæ requiramus,
+rationem reddere nobismetipsis debemus; quia si
+bene agentes salutem consequi meruerimus, tan-
+quam casti et mundi euntes ad Deum Spiritu
+sancto replebimur, et omnia quæ sunt secreta et
+occulta, sine ulla quæstionum cavillatione nosce-
+mus, quæ nunc, etiam si totum quis vitæ suæ tem-
+pus in inquirendo consumat, non solum non poterit
+invenire, sed et majoribus se erroribus inseret,
+quia non per viam prius justitiæ incedens, ad por-
+tum vitæ pervenire contendit.
+
+# block=2 source_x1=988 source_y1=1204 source_x2=1738 source_y2=1709
+XXIII. Ad hæc Simon respondit : Nos pace tua
+opus non habemus, si enim pax sit et concordia,
+ad inveniendam veritatem nihil proficere poterimus;
+habent enim inter se pacem et latrones, et scorta-
+tores, et omnis nequitia cum semetipsa concordat,
+et nos ergo si ob hoc convenimus, ut pacis causa
+omnibus quæ dicuntur præbeamus assensum, nihil
+auditoribus conferemus; sed e contrario illusis eis,
+nos amici discedemus. Propter quod noli invocare
+pacem, sed magis pugnam matrem ejus, et si potes
+expugna errores. Nec requiras amicitiam injustis
+assentationibus partam; hoc enim ante omnia scire
+
+# block=3 source_x1=993 source_y1=131 source_x2=1739 source_y2=1198
+positi veritatis, verum prophetam invenire possi-
+mus, non velocitate pedum, sed operum bonitate
+currentes; ut ipso duce usi, nullum viæ hujus pa-
+tiamur errorem. Si enim ipsum sequentes ingredi
+meruerimus illam, quo pervenire cupimus, civita-
+tem, omnia jam de quibus quæritur, oculis videbi-
+mus, tanquam hæredes omnium facti. Intelligite
+itaque viam esse hunc vitæ nostræ cursum, viato-
+res eos, qui bona opera gerunt, ortam verum
+prophetam, de quo dicimus, urbem regnum esse,
+in quo residet omnipotens pater, quem soli videre
+possunt hi qui mundo sunt corde ²⁴. Non ergo no-
+bis difficilis videatur hujus itineris labor, quia in
+fine ejus requies erit ²⁵; nam et ipse verus pro-
+pheta ab initio mundi per sæculum currens festinat
+ad requiem. Adest enim nobis omnibus diebus, et si
+quando necesse est apparet et corrigit nos, ut ob-
+temperantes sibi ad vitam perducat æternam. Mea
+ergo ista sententia est, sicut et vero prophetæ vi-
+sum est, ut primo de justitia requiratur, ab his
+maxime qui Deum se nosse profitentur. Si ergo
+habet aliquis quod esse rectius putet, dicat et cum
+dixerit audiat, sed cum patientia et quiete. Propter
+hoc enim ab initio, salutationis specie (72) pacem
+cunctis precatus sum.
+
+# block=4 source_x1=218 source_y1=134 source_x2=956 source_y2=426
+Nam si quis velit (71) antequam actus suos emen-
+det, de his requirere quæ non potest invenire,
+stulta et inefficax erit hujuscemodi inquisitio. Tem-
+pus enim breve est, et judicium Dei gestorum
+causa agetur, non quæstionum. Ideoque ante omnia
+hoc quæramus, quid nos, aut qualiter agere opor-
+teat, ut æternam vitam consequi mereamur.
+
+# block=5 source_x1=212 source_y1=1628 source_x2=957 source_y2=1707
+XXII. Et propterea suadeo primo justitiam ejus
+requirendam, ut per hanc iter agentes, et in via
+
+# block=6 source_x1=213 source_y1=1886 source_x2=959 source_y2=2690
+(71) Nam si quis velit, etc. Ex his observavi de-
+sumptam fuisse epistolam Nili ad Asclepium gramma-
+ticum, Possinianæ editionis 315, Allatianæ 24, lib.
+III : Ἔὰν πρὸ τῶν ἀγαθῶν πράξεων ζητῶμεν ζητήματά
+τινα ἀνωφελῆ καὶ ἀνεύρετα, ὡς ἐνδεεῖς φρενῶν πλανώ-
+μεθα καὶ ἐνεδρευόμεθα. Ὅ τε γὰρ ἑκάστου χρόνος
+βραχὺς, καὶ τὸ κρίνεσθαι ἡμῖν ἔστι περὶ ἔργων, οὐ
+περὶ γνώσεως ἀποῤῥήτων. Διὸ μὴ καταλείψωμεν ζη-
+τεῖν, τί χρὴ ποιήσαντας ζωῆς αἰωνίου τυχεῖν. Εἰ γὰρ
+ἀπασχοληθέντες τὸν βραχὺν χρόνον εἰς δυσεύρετα καὶ
+ἀνωφελῆ ζητήματα τὰς ἡμέρας τοῦ παρόντος βίου
+καταδαπανήσωμεν, ἐνεδρευθέντες ἀπερχόμεθα ἔνθεν
+κεναῖς χερσί. Et infra : Ἔκαστον γὰρ ἴδιον ἔχει καὶ-
+ρὸν, τὸ πράττειν τὰ δίκαια ἐνταῦθα, τὸ δὲ ἀπολαβεῖν
+τὴν μισθαποδοσίαν ἐν τῷ μέλλοντι αἰῶνι. Ἵνα οὖν μὴ
+ἐνεδρευθῶμεν μᾶλλον τὴν δικαιοσύνην ἰχνεύσωμέν τε
+καὶ πράξωμεν, ὅπως καθάπερ τινὲς κάλλιστοι ὁδοι-
+πόροι, καὶ ἐφόδια τῶν ἀγαθῶν βαστάσαντες πράξεων,
+ὥσπερ εἰς τινα πόλιν τὸ τοῦ θεοῦ βασίλειον εἰσελθω-
+μεν. Ὁ γὰρ τοι θεὸς τοῖς εὐγνωμονοῦσι, διὰ τὸν ὑπ'
+αὐτοῦ γενόμενον κόσμον, πρόδηλός ἐστιν ὑπὸ πάσης
+κτίσεως αὐτοῦ μαρτυρούμενος. Pari modo epistolam
+ad Xenonem acceptam fuisse a Basilio edocti sumus
+per Emericum Bigotium eximiæ eruditionis homi-
+
+# block=7 source_x1=810 source_y1=1835 source_x2=1108 source_y2=1870
+COTELERII NOTÆ.
+
+# block=8 source_x1=220 source_y1=79 source_x2=290 source_y2=118
+1259
+
+# block=9 source_x1=611 source_y1=82 source_x2=1322 source_y2=118
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10 source_x1=207 source_y1=1735 source_x2=1725 source_y2=1809
+²² Ubi judicium—pervenire non leguntur in utroque codd. Lipss. ²³ Rom. 1, 20. ²⁴ Matth. v, 8.
+²⁵ Requies erit. Pergit uterque codd. Lipss. ita : Mea ergo ista est sententia. Si ergo, etc.
+
+# block=11 source_x1=982 source_y1=1876 source_x2=1738 source_y2=2702
+nem. Sed et (ut pauca de multis dicam) Nili epi-
+stola 52, lib. 1, est sententia Gregorii Nazianzeni
+orat. 21, p. 382, A; at 254 epist. ejusdem libri
+expressa est ex Irenæo lib. 1, cap. 1, p. 19, 21, apud
+Epiphanium hæres. 31, n. 16, 17. Epistolam vero
+247, ad verbum leges in eodem Irenæi capite p. 337
+B, Epiphan. n. 24. Jam libri III in his notis protuli.
+Atque epistola ad Chionium verba habet Basilii ejus-
+dem homilia 13 exhortatoria ad baptismum, in
+fine. Nili certe non paucæ epistolæ; forsan non sine
+fraude, aut saltem errore Græculorum. Conferas
+etiam velim illam 190 lib. III cum § ult. epistolæ 8
+Dionysii pseudo-Areopagitæ, de Carpo.
+(72) Salutationis specie, pacem cunctis precatus
+sum. Ad Matth. x, 12, Hieronymus : Occulte salu-
+tationem Hebraë ac Syri sermonis expressit. Quod
+enim Græce dicitur χαῖρε, et Latine Ave, hoc He-
+braico Syroque sermone appellatur שׁלום עמך Salom
+lach, sive שׁלום לך, id est, pax tecum. Quo loci
+in codice Regio 230, litteris solummodo Latinis ex-
+aratum habetur, chere et appellant Salomlach sive
+Salamalach.
+
+# block=12 source_x1=1656 source_y1=76 source_x2=1736 source_y2=122
+1260

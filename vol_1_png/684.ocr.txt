@@ -1,0 +1,160 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,256,927,1010,2269
+2,1042,889,1793,2265
+3,1053,147,1799,781
+4,553,828,713,861
+5,268,138,1014,780
+6,1303,828,1536,859
+7,252,2310,1772,2384
+8,313,893,951,925
+9,674,82,1387,121
+10,256,2593,989,2693
+12,272,80,327,119
+13,1019,2588,1768,2705
+14,1729,84,1809,132
+15,857,2457,1175,2519
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Cæterum omnis vidua mitis sit, quieta, mode-
+rata, malitiæ ac iræ expers, non garrula, non cla-
+mosa, non volubilis linguæ, non maledica, non de-
+dita verborum aucupio, non duplicis sermonis, non
+sese in aliena negotia immittens. Cum viderit vel
+audierit aliquod indignum facinus, ita se gerat, quasi
+nec viderit nec audierit, nihilque aliud curet vidua,
+nisi orare pro beneficiis et pro tota Ecclesia. Ab aliquo
+quidpiam rogata, ne facile respondeat, præterquam
+de rebus ad fidem, justitiam, et in Deum spem per-
+tinentibus : eosque qui in pietatis dogmatibus in-
+stitui cupiunt, ad præpositos remittat ; in illis vero
+solum respondeat quæ ad evertendum de multitu-
+dine deorum errorem spectant, demonstrans do-
+ctrinam de Dei unitate ; at in cæteris nihil temere
+reponat, ne aliquid inscite prolocuta, infamiam
+verbo Dei inurat. Docuit enim Dominus, Verbum
+simile esse grano sinapis ⁷⁹ : hoc autem acre et
+ardens est, quo si quis imperite abutatur, amarum
+illud inveniet ; scilicet, in mysticis oportet non esse
+proditorem, sed cautum, quia nos his verbis Domi-
+nus admonet : « Nolite mittere margaritas vestras
+ante porcos, ne forte conculcent eas pedibus suis,
+et conversi dirumpant vos ⁸⁰. » Cum enim infideles,
+non pro dignitate, sed minus quam par sit, de
+Christo verbum acceperint, præsertimque quod in-
+carnationem vel passionem ejus tradit, magis adunco
+naso irridebunt veluti mendax, quam laudibus ce-
+lebrabunt ; eritque anus rea temeritatis ac blasphe-
+miæ, et væ sortietur. « Væ autem, inquit, per quem
+nomen meum blasphematur in gentibus ⁸¹ . »
+
+# block=2
+Ὅτι καὶ τοῦ ἤθους ἐπιμελητέον τὴν χήραν (35).
+Ὑπαρχέτω δὲ πᾶσα χήρα πραεῖα, ἥσυχος, ἐπιεικής,
+ἄκακος, ἀόργητος, μὴ πολύλαλος, μὴ κραύγασος, μὴ
+πρόγλωσσος, μὴ κατάλαλος, μὴ λεξίθηρος, μὴ δισσο-
+λόγος, μὴ φιλοπράγμων. Βλέπουσά τι σκολιὸν ἢ καὶ
+ἀκούουσα γινόμενον, ἔστω (36) ὡς μὴ βλέπουσα, καὶ
+ὡς μὴ ἀκούουσα ὑπαρχέτω· καὶ μηδὲν ἕτερον τῇ
+χήρᾳ μελέτω, εἰ μὴ τὸ προσεύχεσθαι ὑπὲρ τῶν διδόν-
+των καὶ ὑπὲρ ὅλης τῆς Ἐκκλησίας. Ἐπερωτωμένη δὲ
+τι ὑπό τινος, μὴ ῥᾳδίως ἀποκρινέσθω, πλὴν ὅσα περὶ
+πίστεως, καὶ δικαιοσύνης, καὶ τῆς εἰς Θεὸν ἐλπίδος·
+ἀποστέλλουσα τοῖς ἡγουμένοις τοὺς θέλοντας κατη-
+χεῖσθαι τὰ τῆς εὐσεβείας δόγματα· μόνα δὲ ἀποκρι-
+νέσθω τὰ περὶ ἀνατροπῆς πολυθέου πλάνης, ἀπο-
+δεικνύουσα τὸν περὶ μοναρχίας Θεοῦ λόγον· περὶ δὲ
+τῶν ἑξῆς προπετῶς τι μὴ ἀποκρινέσθω, ὅπως μή τι
+ἀμαθῶς φθεγξαμένη βλασφημίαν προστρίψῃ τῷ λόγῳ.
+Κόκκῳ γὰρ σινάπεως ἐοικέναι τὸν λόγον ὁ Κύριος
+ἐδογμάτισε. Τοῦτο δ’ ἐστὶ διάπυρον, ᾧ ἐάν τις ἀπεί-
+ρως χρήσηται, πικρὸν αὐτὸ εὑρήσει· χρὴ γὰρ ἐν τοῖς
+μυστικοῖς μὴ προδότην εἶναι, ἀλλ’ ἀσφαλῆ· παραινεῖ
+γὰρ ἡμῖν ὁ Κύριος λέγων· « Μὴ βάλλετε τοὺς μαρ-
+γαρίτας ὑμῶν ἔμπροσθεν τῶν χοίρων, μήποτε κατα-
+πατήσωσιν αὐτοὺς ἐν τοῖς ποσὶ αὐτῶν, καὶ στραφέντες
+ῥήξωσιν ὑμᾶς. » Ἀκούσαντες γὰρ οἱ ἄπιστοι τὸν περὶ
+Χριστοῦ λόγον, οὐ δεόντως, ἀλλ’ ἐνδεῶς (37), καὶ μά-
+λιστα τὸν περὶ ἐνσωματώσεως, ἢ τοῦ πάθους αὐτοῦ, μυ-
+κτηρίσαντες χλευάσουσι μᾶλλον ὡς ψευδῆ, ἢ δοξάσουσι.
+Καὶ ἔνοχος (38) ἔσται τῆς προπετείας ἡ πρεσβῦτις
+καὶ τῆς βλασφημίας, καὶ τὸ οὐαὶ κληρονομήσει·
+« Οὐαὶ δὲ, φησὶ, δι’ οὗ τὸ ὄνομά μου βλασφημεῖται ἐν
+τοῖς ἔθνεσιν. »
+
+# block=3
+ματός σου οὐχ ὑπερόψῃ· » καὶ διὰ τοῦ Δανιὴλ λέγει
+τῷ δυνάστῃ· « Διὸ, βασιλεῦ, ἡ βουλή μου ἀρεσάτω
+σοι, καὶ τὰς ἁμαρτίας σου ἐν ἐλεημοσύναις λύτρω-
+σαι, καὶ τὰς ἀδικίας σου ἐν οἰκτιρμοῖς πενήτων· »
+καὶ διὰ Σολομῶνός φησιν· « Ἐλεημοσύναις καὶ πί-
+στεσιν ἀποκαθαίρονται ἁμαρτίαι· » καὶ διὰ τοῦ Δαβὶδ
+πάλιν λέγει· « Μακάριος ὁ συνιὼν ἐπὶ πτωχὸν καὶ
+πένητα· ἐν ἡμέρᾳ πονηρᾷ ῥύσεται αὐτὸν ὁ Κύριος· » καὶ
+πάλιν· « Ἐσκόρπισεν, ἔδωκε τοῖς πένησιν, ἡ δικαιο-
+σύνη αὐτοῦ μένει εἰς τὸν αἰῶνα· » καὶ ὁ Σολομῶν
+φησίν· « Ὁ ἐλεῶν πτωχὸν, Κυρίῳ δανείζει· κατὰ δὲ
+τὸ δόμα αὐτοῦ ἀνταποδοθήσεται αὐτῷ· » καὶ ἑξῆς·
+« Ὅς φράσσει τὰ ὦτα αὐτοῦ μὴ εἰσακοῦσαι τοῦ δεο-
+μένου, καὶ αὐτὸς ἐπικαλέσεται, καὶ οὐκ ἔσται εἰσα-
+κούων αὐτοῦ. »
+
+# block=4
+CAPUT V.
+
+# block=5
+in domum tuam. Si autem videris nudum, operi ;
+et domesticos seminis tui ne despexeris ⁷² ; » et per
+Danielem dicit principi : « Idcirco rex, consilium
+meum placeat tibi et peccata tua eleemosynis re-
+dime, et iniquitates tuas miserationibus paupe-
+rum ⁷³ ; » et per Salomonem ait : « Eleemosynis et
+fide purgantur peccata ⁷⁴ ; » et per Davidem iterum
+dicit : « Beatus qui intelligit super egenum et pau-
+perem : in die mala liberabit eum Dominus ⁷⁵ ; » et
+rursus : « Dispersit, dedit pauperibus ; justitia ejus
+manet in sæculum ⁷⁶ ; » Salomon etiam ait : « Qui
+miseretur pauperis, Domino feneratur : secundum
+autem datum ejus retribuetur ei ⁷⁷ ; » et infra :
+« Qui obturat aures suas, ne audiat indigentem, et
+ipse invocabit, et non erit qui exaudiat eum ⁷⁸ . »
+
+# block=6
+ΚΕΦΑΛΑΙΟΝ Ε΄.
+
+# block=7
+⁷² Is. LVIII, 7. ⁷³ Dan. IV, 24. ⁷⁴ Prov. XV, 27. ⁷⁵ Psal. XL, 2. ⁷⁶ Psal. CXI, 9. ⁷⁷ Prov. XIX, 17.
+⁷⁸ Prov. XXI, 13. ⁷⁹ Matth. XIII, 31. ⁸⁰ Matth. VII, 6. ⁸¹ Isa. LII, 5.
+
+# block=8
+Quod viduæ probitas morum curæ esse debeat.
+
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10
+(35) Τὴν χήραν. Τῶν χηρῶν, alter. CLER.
+(36) Ἔστω. Hæc vox et tres seqq. perperam in
+altero omittuntur Id.
+
+# block=12
+767
+
+# block=13
+(37) Ἀλλ’ ἐνδεῶς. Desunt in altero cod. Id.
+(38) Ἔνοχος. Alter addit λοιπόν atque omittit
+τῆς προπετείας. Id.
+
+# block=14
+768
+
+# block=15
+VARIORUM NOTÆ.

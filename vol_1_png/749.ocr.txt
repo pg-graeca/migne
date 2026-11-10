@@ -1,0 +1,153 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+3,198,149,952,1974
+4,638,96,1303,135
+5,193,1979,1715,2087
+8,975,132,1732,1984
+9,968,2209,1730,2692
+10,809,2127,1100,2164
+12,193,2202,932,2711
+13,207,98,277,140
+14,1661,94,1729,134
+
+# layer=format
+# block=3 fontSize=16px
+# block=5 fontSize=16px
+# block=8 fontSize=16px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+Deo judicem vivorum ac mortuorum ⁸¹. Huic
+Christo Moyses testimonium præbens, aiebat :
+‹ Accept Dominus ignem a Domino, et pluit ⁸². ›
+Hunc Jacobus tanquam hominem vidit, et dixit :
+‹ Vidi Deum facie ad faciem, et salva facta est
+anima mea ⁸³. › Hunc Abrahamus hospitio exce-
+ptum, confitebatur judicem ac Dominum suum ⁸⁴.
+Hunc Moyses in rubo vidit ⁸⁵ : et de eodem in Deu-
+teronomio dixit : ‹ Prophetam suscitabit vobis
+Dominus Deus ex fratribus vestris sicut me;
+ipsum audietis, secundum omnia quæ locutus
+fuerit vobis; et erit, omnis anima, quæ non
+audierit Prophetam illum, exterminabitur de po-
+pulo suo ⁸⁶. › Hunc vidit Jesus filius Navæ ducem
+exercitus ac virtutis Domini, armatum, et subsi-
+diarium in expeditione Hierichuntina; quem et
+procidens adoravit, ut servus dominum ⁸⁷. Hunc
+Samuel respiciens Christum Dei ⁸⁸, sacerdotes et
+reges, christos nominavit. Hunc David cernens,
+canticum de eo psallebat, inscribens : ‹ Canticum
+pro dilecto ⁸⁹. › atque hæc verba de persona ipsius
+subjungens : ‹ Accingere gladio tuo super femur
+tuum, potentissime, specie tua et pulchritudine tua,
+et intende; et prospere procede, et regna, propter
+veritatem, et mansuetudinem, et justitiam; et de-
+ducet te mirabiliter dextera tua. Sagittæ tuæ acutæ,
+potentissime; populi sub te cadent, in corde inimi-
+corum regis. Propterea unxit te Deus, Deus tuus
+oleo exsultationis, præ participibus tuis ⁹⁰. › De eo
+etiam, et ex ejus persona, dicebat Salomon : ‹ Do-
+minus condidit me principium viarum suarum in
+opera sua : ante sæculum fundavit me, in principio,
+antequam terram faceret, antequam prodirent fontes
+aquarum, antequam montes firmarentur, et ante
+omnes colles generat me ⁹¹; › et iterum : ‹ Sapientia
+ædificavit sibi domum ⁹². › De eo et Isaias aiebat ⁹³ :
+‹ Egredietur virga de radice Jessæ, et flos de radice
+ascendet. Et erit radix Jessæ, et qui consurgit, ut
+princeps sit gentium, in ipso gentes sperabunt ⁹⁴. ›
+Zacharias vero : ‹ Ecce rex tuus venit justus et
+salvaus, ipse mitis, et sedens super asinam, et pul-
+lum filium subjugalis ⁹⁵. › Hunc Daniel dicit esse
+
+# block=3
+Χριστὸν τοῦ θεοῦ, τὸν ὡρισμένον ὑπ' αὐτοῦ κριτὴν (50)
+ζώντων καὶ νεκρῶν. Τούτῳ Μωσῆς μαρτυρῶν ἔλεγεν·
+‹ Ἔλαβε Κύριος πῦρ παρὰ Κυρίου, καὶ ἔβρεξε. ›
+Τοῦτον εἶδεν Ἰακὼβ ὡς ἄνθρωπον, καὶ εἶπεν· ‹ Εἶδον
+Θεὸν πρόσωπον πρὸς πρόσωπον, καὶ ἐσώθη μου ἡ
+ψυχή. › Τοῦτον ᾿Αβραὰμ ξενοδοχήσας, κριτὴν ὁμολόγει
+τεθέαται· περὶ τούτου ἐν Δευτεronomίῳ ἔλεγεν· ‹ Προφή-
+την ὑμῖν ἀναστήσει Κύριος ὁ Θεὸς ἐκ τῶν ἀδελφῶν
+ὑμῶν ὡς ἐμέ· αὐτοῦ ἀκούσεσθε κατὰ πάντα ὅσα ἂν λα-
+λήσῃ πρὸς ὑμᾶς. Ἔσται δὲ, πᾶσα ψυχὴ ἥτις ἀκού-
+σῃ τοῦ προφήτου ἐκείνου, ἐξολοθρευθήσεται ἐκ τοῦ λαοῦ
+αὐτῆς. › Τοῦτον εἶδεν Ἰησοῦς ὁ τοῦ Ναυῆ στρατάρχην
+τῆς δυνάμεως Κυρίου, καθωπλισμένος, σύμμαχον εἰς
+Ἱεριχώ· ᾧ καὶ πεσὼν προσεκύνησεν (51), ὡς δοῦλος
+δεσπότην. Τοῦτον Σαμουὴλ εἰδὼς Χριστὸν Θεοῦ,
+τοὺς ἱερεῖς καὶ τοὺς βασιλεῖς, χριστοὺς ὠνόμαζε.
+Τοῦτον εἰδὼς Δαβὶδ, ἔψαλλε τὴν ὑπὲρ αὐτοῦ ᾠδὴν,
+λέγων· ‹ Ὠδὴ ὑπὲρ τοῦ ἀγαπητοῦ· › καὶ ἐπιφέρων
+εἰς πρόσωπον αὐτοῦ, ἔφασκεν· ‹ Περίζωσαι τὴν
+ῥομφαίαν σου ἐπὶ τὸν μηρόν σου, δυνατὲ, τῇ ὡραιό-
+τητί σου, καὶ τῷ κάλλει σου, καὶ ἔντεινον, καὶ κατ-
+ευδοῦ, καὶ βασίλευε, ἕνεκεν ἀληθείας, καὶ πραότη-
+τος καὶ δικαιοσύνης· καὶ ὁδηγήσει σε θαυμαστῶς ἡ
+δεξιὰ σου. Τὰ βέλη σου ἠκονημένα, δυνατὲ (52), λαοὶ
+ὑποκάτω σου πεσοῦνται ἐν καρδίᾳ τῶν ἐχθρῶν τοῦ
+βασιλέως (53). Διὰ τοῦτο ἔχρισέ σε ὁ Θεὸς, ὁ Θεὸς
+σου ἔλαιον ἀγαλλιάσεως, παρὰ τοὺς μετόχους σου. ›
+Περὶ αὐτοῦ καὶ ὁ Σολομὼν ἔλεγεν ὡς ἐκ προσώπου
+αὐτοῦ· ‹ Κύριος ἔκτισέ με ἀρχὴν ὁδῶν αὐτοῦ εἰς ι
+ἔργα αὐτοῦ· πρὸ τοῦ αἰῶνος ἐθεμελίωσέ με, ἐν ἀρχῇ,
+πρὸ τοῦ τὴν γῆν ποτῆσαι, πρὸ τοῦ ἐλθεῖν (54) τὰς
+πηγὰς τῶν ὑδάτων, πρὸ τοῦ ὄρη ἐδρασθῆναι, πρὸ δὲ
+πάντων βουνῶν γεννᾶ με· › καὶ πάλιν· ‹ Ἡ σοφία
+ᾠκοδόμησεν ἑαυτῇ οἶκον. › Περὶ αὐτοῦ καὶ Ἡσαΐας
+ἔλεγεν· ‹ Ἐξελεύσεται ῥάβδος ἐκ τῆς ῥίζης Ἰεσσαὶ,
+καὶ ἄνθος ἐκ τῆς ῥίζης ἀναβήσεται. Καὶ ἔσται ἡ ῥίζα
+τοῦ Ἰεσσαὶ, καὶ ὁ ἀνιστάμενος, ἄρχειν ἐθνῶν· ἐπ' αὐ-
+τῷ ἔθνη ἐλπιοῦσι. › Ζαχαρίας δέ· ‹ Ἰδοὺ (55) ὁ βα-
+σιλεύς σου ἔρχεται δίκαιος καὶ σῴζων, αὐτὸς πρᾷος,
+καὶ ἐπιβεβηκὼς ἐπὶ ὄνον, καὶ πῶλον υἱὸν ὑποζυ-
+γίου. › Τοῦτον Δανιὴλ υἱὸν ἀνθρώπου λέγει εἶναι (56),
+
+# block=5
+⁸¹ Act. x, 42. ⁸² Gen. xIx, 24. ⁸³ Gen. xxxII, 50. ⁸⁴ Gen. XVIII, 25, 27. ⁸⁵ Exod. III, 2. ⁸⁶ Deut. xvIII, 15.
+⁸⁷ Jos. v, 15. ⁸⁸ 1 Reg. XII, 3. ⁸⁹ Psal. XLIV, 1. ⁹⁰ Ibid., 4. ⁹¹ Prov. vIII, 22. ⁹² Prov. IX, 1.
+⁹³ 1. Ignat. interpol. ad Sm. 2. ⁹⁴ Isa. XI, 1, 10. ⁹⁵ Zach. IX, 9.
+
+# block=10
+VARIORUM NOTÆ.
+
+# block=12
+(50) Κριτήν. Additur εἶναι in altero codice, pa-
+rum concinne, cum jam antecesserit. In margine
+adscriptum : περὶ τοῦ Κυρίου προφητεῖαι. CL.
+(51) ᾯ καὶ πεσὼν προσεκύνησεν. De nullo
+sanctorum refertur in sacra Scriptura, quod Deum
+cadens adoraverit ; sed quicunque illicita adorat,
+cadens dicitur adorare. Observatio est S. Hiero-
+nymi ad caput ᴵᴵᴵ Danielis. Quanquam in Matthæi
+Evangelio de Magis legimus, procidentes infantem
+Jesum adorasse. COT.
+(52) Ἠκονημένα, δυνατέ. Notanda in hoc Da-
+vidis textu varians lectio, δυνατά, tum apud Euse-
+bium Demonstr. Evangel., lib. ᵛ, cap. 3, tum ex Meta-
+phrasi Apollinaris, Arnobii Commentario, et Catena
+hic p. 826. Firmicus De errore profanarum religio-
+
+# block=9
+num : Sagitta acuta potentissima. Vide etiam Pa-
+schasium. Malo autem exemplo factum ab iis qui.
+præfuerunt editionibus S. Augustini, quod non sus-
+tulerunt evidens mendum ad hunc Psalmum : Sa-
+gittæ tuæ acutæ, potentissime: et transfigentes et
+efficientes. Præsertim cum cernerent mox: O sagit-
+tam acutam potentissimam! Unde corrigere debue-
+rant, acutæ potentissimæ. Id.
+(55) Βασιλέως. Additur in cod. Vind. καὶ
+ἑξῆς. Cl.
+(54) Ἐλθεῖν. Proelθεῖν in utroque cod. Id.
+(55) Ἰδοὺ. Præcedunt hanc voculam hæc, in
+altero cod.: Χαῖρε σφόδρα, θύγατερ Σιών. Id.
+(56) Ebræi. Deest in altero. Id.

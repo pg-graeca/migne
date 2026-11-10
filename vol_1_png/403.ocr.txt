@@ -1,0 +1,207 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,178,2132,938,2705
+2,965,2266,1726,2703
+3,179,1752,940,2120
+4,176,646,928,1744
+5,173,314,933,526
+6,962,219,1723,524
+7,173,138,924,313
+8,963,1176,1725,1474
+9,959,639,1731,1178
+10,780,588,1095,631
+11,690,76,1160,123
+13,963,1569,1728,2269
+14,963,1474,1720,1579
+15,174,86,229,130
+16,205,542,589,579
+17,960,138,1716,218
+18,1628,66,1720,120
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(84) Διὰ γενομένας συμφοράς. Ex hisce verbis
+colligit Junius verisimile esse hanc epistolam fuisse
+conscriptam a Clemente in exsilio constituto; sed
+puto bonae fidei rem non esse, si quis alieno no-
+mine litteras mitteret, quo tempore constaret eum
+peregre versari, nec convenire eos posse, quorum
+verbis se scribere profitetur. Praeterea solemnis illa
+legatio, quae in calce epistolae recensetur, argu-
+mento erit, haec ab Insula aut Metallo minime
+fuisse transmissa. Et quidem si anonymo auctori,
+qui de certaminibus, peregrinationibus, vita et morte
+Petri et Pauli scripsit, et in Bibliotheca Arundeliana
+habetur, fides sit habenda, saltem in illa persecu-
+tione, quae B. Petrum martyrio donavit, praeterieba-
+tur Clemens noster et natalium privilegio inviolatus
+permansit. Ait enim ille : Οἱ στρατιῶται παραχρῆμα
+πάντας συλλαβόμενοι, (Christianos) ἐπὶ τὸν τῶν κατα-
+
+# block=2
+(88) Ἐπιστροφὴν πεποιηκέναι. Ἐπιστρέφεσθαι,
+et ἐπιστροφὴν ποιεῖν est, curare, animadvertere, et
+animum adhibere, vel adjicere. Praeter exempla quae
+Stephanus affert, adde, si placet, e Rhodiaca Dio-
+nis Chrysostomi locum insignem, non tantum ut
+vim vocis et proprietatem discas, sed turpe lucrum
+caveas, quod animi et rationis oculos obcaecat, nec
+justum ab injusto, aut honestum a turpi discernere
+patitur : Ἀλλ' ἔστι αὐτὸ τοῦτο ἡ μοχθηρία, τοῦ κέρ-
+δους ἕνεκα καὶ χρείας, μηδενὸς αἰσχροῦ μηδὲ ἀδίκου
+πράγματος ἐπιστρέφεσθαι, μηδὲ φροντίζειν ποῖον τὸ
+γιγνόμενον, ἀλλὰ μόνον εἰ λυσιτελές. Jun.
+(89) Ἀγαπητοί. Vox haec sede sua, et loco tur-
+
+# block=3
+(85) Διὰ τὰς αἰφνιδίους. Ex acriori ms. inspe-
+ctione sic legit ediditque Wott., clausa sententia
+cum πληθυνθείη. Paulo aliter Pearson. Vitio sane
+laborat Jun. et codd. Impp. lectio. Quorsum enim
+ista, ἐφ' ὑμῶν ἰδίους καὶ ἐπ' ἀλλήλους, post πλη-
+θυνθείη subjecta? Plura videsis apud ipsum Wotto-
+num. Gall. — Ἐφ' ὑμῶν ἰδίους. Alludit fortasse
+ad locum Pauli I Thess. iii, 12 : Ὑμᾶς δὲ ὁ Κύριος
+πλεονάσαι, καὶ περισσεύσαι τῇ ἀγάπῃ εἰς ἀλλήλους,
+καὶ εἰς πάντας, καθάπερ καὶ ἡμεῖς εἰς ὑμᾶς. Legen-
+dum autem arbitror, ἐφ' ὑμᾶς ἰδίως. Jun.
+
+# block=4
+suburbicariam regionem, et, ut Theophili Anteces-
+soris verbis utar, πάντας τοὺς ὑπὸ τὴν πόλιν ἀγροὺς
+urbibus accenseri; quodque ad rem praesentem in
+primis spectat, in manifesto est, minores Ecclesias
+familiam atque nomen a matricibus ducere. Unde
+Epistola D. Pauli, quae ad Corinthios inscribitur,
+omnibus totius Achaiae Ecclesiis, teste ipso Apo-
+stolo, mittebatur; nimirum τοῖς ἁγίοις τοῖς οὖσιν ἐν
+ὅλῃ τῇ Ἀχαΐᾳ. II Cor. i. Insuper collecta Hiero-
+solyma mittenda I Cor. xvi. 1, et II Cor. viii, 9,
+ad totam Achaiam pertinuit, quod constare poterit
+ex Rom. xv, 26; II Cor. ix, 2. Qui demum Co-
+rinthios irrigasse I Cor. iii, 6, totam Achaiam
+perlustrasse fertur Act. xviii, 27. Pari ratione
+cum Smyrnensis Ecclesia, apud Eusebium lib. iv,
+cap. 14, Epistolam suam inscribit ταῖς κατὰ Πόν-
+τον παροικίαις, et ibidem Dionysius, τῆς ἐν Κο-
+ρίνθῳ παροικίας, Philippus τῆς Γορτυναίων παροι-
+κίας, episcopi perhibentur; ut ubique regiones
+omnes istis matricibus Ecclesiis, et eidem episco-
+pali curae subjectae intelligendae veniant. Priscis si-
+quidem temporibus, idem fere erat paroecia, quod
+nunc diœcesis diceretur. Sic can. 18 concil. An-
+cyrani : Εἴ τινες ἐπίσκοποι κατασταθέντες, καὶ μὴ
+δεχθέντες ὑπὸ παροικίας ἐκείνης, εἰς ἣν ὠνομάσθη-
+σαν, ἑτέραις βούλοιντο παροικίαις εἰσιέναι καὶ βιά-
+ζεσθαι τοὺς καθεστῶτας, καὶ στάσεις κινεῖν κατ' αὐ-
+τῶν, τούτους ἀφορίζεσθαι. Frustra itaque sunt ii,
+qui ex plurium presbyterorum, hac in epistola ad
+Christianos Κόρινθον παροικοῦντας mentione, rem
+hierarchicam concidisse autumant, et presbyteranæ
+ἰσοτιμίας imaginem et typum exhiberi gloriantur.
+Fell.
+
+# block=5
+[Διὰ τὰς] αἰφνιδίους (83) καὶ ἐπαλλήλους ⁴² [τὰς γε-
+νοµ]ένας ἡµῖν συµφοράς (84) καὶ [περι]πτώσεις,
+ἀδελφοί, βράδειον (86) [γνωρ]ίζοµεν (87) ἐπιστροφὴν
+πεποιη[κέν]αι (88) περὶ τῶν ἐπιζητουµένων [πα]ρ'
+ὑµῖν πραγµάτων, ἀγαπητοί (89), τῆς τε ἀλλοτρίας
+
+# block=6
+Propter subitas ac sibi invicem succedentes ca-
+lamitates et casus adversos qui nobis acciderunt (85),
+tardius, fratres, nosmetipsos convertisse agnosci-
+mus ad ea quae fuerunt quaesita a vobis, dilecti, et
+ad seditionem impiam ac detestandam, advenis
+Deique electis alienam; quam pauci homines
+insolentes et audaces in tantum vecordiae inflam-
+
+# block=7
+θελήµατι Θεοῦ, διὰ τοῦ [Κυρίου ἡµ]ῶν Ἰησοῦ
+Χριστοῦ · [χάρις ὑ]µῖν καὶ εἰρήνη ἀπὸ παντο-
+[κράτο]ρος Θεοῦ διὰ Ἰησοῦ Χριστοῦ πληθυν-
+θείη.
+
+# block=8
+(85) Saeviente scilicet Domitiani persecutione,
+quae anno Christi 95 coepit. Quo tempore Roma-
+nam Ecclesiam convocare, ut Corinthiorum votis
+fieret satis, minime liberum erat. Qui calamitates,
+quas Clemens exsul passus sit, hic commemorari
+putant, non attendunt eum Romanae Ecclesiae no-
+mine scribere, adeoque non privatas, sed sibi cum
+Ecclesia Romana communes ærumnas enarrare.
+Coust.
+
+# block=9
+δίκων ἄγουσι τόπον· καὶ τοῦ µὲν Κλήµεντος, ὡς συγ-
+γενοῦς Καίσαρος, φείδονται, Ἡροδίωνα δὲ καὶ Ὀλυµ-
+πᾶν, σὺν ἅµα πλήθει, τῇ τοῦ ξίφους ὑπάγουσι τοµῇ·
+Πέτρον δὲ τὸν µέγαν τοῦ Κυρίου ἀπόστολον ἀντι-
+στρόφως τῷ σταυρῷ προσπηγνύουσιν. Ubi obiter no-
+tare est, plerosque, qui Clementis vitam scripsere,
+succedentium pontificum majestatem ob oculos
+habentes, eum imperatoria familia ortum som-
+niasse; et quae de Fabio Clemente consule, atque
+Flaviæ Domitillæ viro, retulerat Dio lib. lxvii, ad
+nostri decora congessisse. Fell. — Διὰ γενοµένας
+conjungendum cum antecedentibus, quae ita, ex co-
+dice Alexandrino, legenda sunt : Δι' αἰφνιδίους καὶ
+ἐπαλλήλους γενοµένας ἡµῖν συµφοράς καὶ παρεµ-
+πτώσεις, non ἐφ' ὑµῶν ἰδίους. Ita legendum vidit
+Angliæ decus Joan. Pearson. Colom.
+
+# block=10
+VARIORUM NOTÆ.
+
+# block=11
+EPISTOLA I AD CORINTHIOS
+
+# block=13
+(87) Γνωρίζοµεν. Jun. δυσοίζοµεν : satis incom-
+mode. Cler. δοκήσοµεν, contra ms. fidem. Al. cum
+Wott. νοµίζοµεν. At Wetst. in Proleg. ad Nov.
+Test. Gr. p. 65, γνωρίζοµεν· pressius ad stylum
+S. Pauli, quem passim usurpat S. Pater. Hæc lectio
+probatur Freyo, et Birrio. Gall.—Δυσοίζοµεν. Ad
+supplendam hanc lacunam, vocem νοµίζοµεν, nec
+incommodo sensu, primum substituimus, sed cum
+diligentius postea, et oculis accuratioribus exem-
+plar intueremur, et vestigium minutissimum τοῦ ο
+ante ι cerneremus, δυσοίζοµεν, licet rarius occurrat,
+reponere non dubitavimus; δυσοίζειν autem Hesy-
+chio est, φοβεῖσθαι καὶ ὑποπτεύειν. Jun. — Guie-
+tinus opinatur ab οἴω οἴοµαι, οἴζω οἴζοµαι deduci.
+Fell. Quidquid hic comminiscuntur aut coactum,
+aut barbarum est. Legendum videtur βραδεῖαν δο-
+κήσοµεν ἐπιστροφὴν πεποιηκέναι περὶ τῶν ἐπιζητου-
+µένων, hoc est, si ita loqui Latine liceret, seram vide-
+bimur animadversionem fecisse de iis quæ quærebatis.
+Sensus est, videbimur sero ad animum revocasse.
+Cler.
+
+# block=14
+(86) βράδιον. Al. βράδιον; at Cler. et Birr. βρα-
+δεῖαν..... ἐπιστροφήν· id est : Seram nos adver-
+sionem (animi) fecisse intelligimus. Gall.
+
+# block=15
+205
+
+# block=16
+⁴² F. ἰδίως καὶ ἐπαλλήλως.
+
+# block=17
+stum : gratia vobis et pax ab omnipotente Deo per
+Jesum Christum multiplicetur.
+
+# block=18
+206.

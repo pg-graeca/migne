@@ -1,0 +1,189 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,307,594,1055,975
+2,297,2159,1040,2720
+3,297,1768,1046,2162
+4,298,1540,1047,1770
+5,1082,597,1831,981
+6,310,165,1057,423
+7,300,1142,1056,1539
+8,1067,1140,1828,2719
+9,911,1081,1206,1116
+10,578,552,784,589
+11,1324,558,1589,594
+12,663,109,1427,149
+13,333,1005,816,1042
+14,1086,170,1842,428
+15,302,420,1840,548
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Vos ergo qui seditionis fundamenta jecistis, sub-
+diti estote ⁸⁸ presbyteris, et correptionem suscipite
+in pœnitentiam : flectentes genua cordis vestri, di-
+scite subjici, deponentes arrogantem et superbam
+linguæ vestræ jactantiam ; melius enim vobis est,
+in ovili Christi parvos et probatos inveniri, quam
+altum sapientes e spe illius dejici. Ita siquidem
+dicit Sapientia, omnem virtutem complectens: Ecce
+proferam vobis mei spiritus dictionem ; docebo autem
+
+# block=2
+(91) Ἡ πανάρετος Σοφία. Librum Proverbio-
+rum, πανάρετον σοφίαν appellat, post Clementem
+Romanum, Clemens Alexandrinus in Miscellaneo
+2, p. 420, citans versum ultimum primi capitis sa-
+cri Operis illius ; itemque Hegesippus, Irenæus,
+καὶ ὁ πᾶς τῶν ἀρχαίων χορὸς apud Eusebium Hist.
+Eccles., lib. iv; cap. 22. Sed et eodem nomine in-
+signitur Sapientiæ volumen ab Athanasio in Syn-
+opsi, Epiphanio Libro de mensuris et ponderibus,
+cap. 4; Damasceno. Orthodoxæ fidei lib. IV, cap. 18,
+et a Gregorio Nysseno, lib. VII contra Eunomium,
+Idit. Parisiens. an. 1658, tom. II, 638. In Biblio-
+thecæ Regiæ codice Biblico 721 : Σοφία Σολομῶντος
+ἡ πανάρετος, et 1253 : Σοφία Σολομῶντος πανάρε-
+τος. At codice 772, Lexicon vocum sacræ Scriptu-
+ræ, ubi de Sapientia Salomonis, in titulo habet,
+λέξις τῆς πανάρετου. Præterea Sapientiam Siraci-
+
+# block=3
+(90) Ἡ καθ' ὑπεροχὴν δοκοῦντας, ἐκριφῆναι
+ἐκ τῆς ἐλπίδος αὐτοῦ. Nihil muto; capite 51, ὀφεί-
+λουσιν τὸ κοινὸν τῆς ἐλπίδος σκοπεῖν. Lege hic S.
+Ignatium ad Ephesios 1, ad Magnesianos 9, ad Phi-
+ladelphenos 5, 11, et S. Polycarpum, Epistolæ cap.8.
+Severus de Vita B. Martini, cap. ult. : Jesum testor,
+spemque communem. ID. — Ἐκ τῆς ἐλπίδος. For-
+te, κιγκλίδος, vel ἐπαύλιδος potius. Basilius in
+psal. XXVIII, homil. prima : Μία ἐστὶν αὐλὴ, ἁγία
+τοῦ Θεοῦ Ἐκκλησία · ἣν αὐλὴ πρότερον ἡ τῶν Ἰου-
+δαίων Συνάγωγη´, ἀλλὰ μετὰ τὴν εἰς Χριστὸν ἁμαρ-
+τίαν ἐγένετο ἡ ἔπαυλις αὐτῶν ἡρημωμένη. JUN.
+
+# block=4
+(89) Κάμψαντες τὰ γόνατα τῆς καρδίας ὑμῶν.
+Hæc phrasis in Patribus et conciliis frequens, de-
+sumpta videtur ex oratione Manassis, quam quæ-
+dam biblia complectuntur, quamque referunt Con-
+stitutiones apostolicæ, lib. II, cap. 22. Multas vero
+similes in scriptoribus sacris et ecclesiasticis inve-
+nies. Cor.
+
+# block=5
+Ὑμεῖς οὖν οἱ τὴν καταβολὴν [τῆς] στάσεως ποιή-
+σαντες, ὑποτ[αγῆ]τε τοῖς πρεσβυτέροις, καὶ πα[ι-
+δευθ]ῆτε εἰς μετάνοιαν. Κάμψαν[τες] τὰ γόνατα τῆς
+καρδίας ὑμῶν (89), μάθετε ὑποτάσσεσθαι, ἀποθέμε-
+νοι τὴν ἀλαζόνα καὶ ὑπερήφανον τῆς γλώσσης ὑμῶν
+αὐθάδ[ειαν·] ἄμεινον γάρ ἐστιν ὑμῖν [ἐν] τῷ ποιμνίῳ
+τοῦ Χριστοῦ μικροὺς καὶ ἐλλογίμους εὑρεθῆναι, ἢ
+καθ' ὑπεροχὴν δοκοῦντας ἐκριφῆναι ἐκ τῆς ἐλπίδας
+αὐτοῦ (90). Οὕτως γὰρ λέγει ἡ πανάρετος Σοφία (91)·
+
+# block=6
+omnis herba campi : et venies in sepulcrum, tan-
+quam frumentum maturum, quod in tempore messue-
+runt; vel sicut acervus areæ in tempore comporta-
+tur 84. Videtis, dilecti, protegi eos qui a Domino
+castigantur : cum enim bonus sit castigat nos
+Deus, ut sancta ejus disciplina commonefiamus.
+
+# block=7
+(88) Δεσπότου; κ. τ. λ. Jun. cum editis locum
+hunc ita supplet : δεσπό[του· καὶ γὰρ] ἀγαθὸς ὢν
+παιδ[ευτὴς, θέλει νουθετ]ηθῆναι ἡμᾶς. Sed non pror-
+sus ad fidem ms. cod. qui sic habet : ΔΕΣΠΟΤ—
+ΑΓΑΘΩΣΩΝΠΑΙΔΕ— ΕΙΣΤ— ΗΘΗΝΑΙΗΜΑΣ. Legit
+itaque Wott.: δεσπότ[ου· καὶ γὰρ] ἀγαθὸς ὢν παιδ[εύει
+ὁ Θεὸς] εἰς τ[ὸ νουθετ]ηθῆναι ἡμᾶς. Dav. autem ita
+scribendum putat : δεσπότ[ου. Θεὸς γὰρ] ἀγαθὸς ὢν
+παίδ[ευει, ἀλλὰ] εἰς τ[ὸ εὐθυν]θῆναι ἡμᾶς. Quod qui-
+dem supplementum Cler. felicissimum vocat. Verum
+nos Woitonianam lectionem sequimur, utpote quæ
+pressius ms. exprimat. GALL.
+
+# block=8
+dis, seu Ecclesiasticum vocari 'πανάρετον Σοφίαν,
+et πανάρετον invenies in Eusebii lib. VIII Demon-
+strationis evangelicæ, p. 393, cujus verba refert
+Hieronymus ad Danielis IX, 24, et in ejusdem Eu-
+sebii et aliorum Chronicis, in Hieronymo, Præ-
+fatione ad libros Salomonis; item apud Isidorum
+Pelusiotam, lib. III, epist. 66; Cassiodorum, Divi-
+narum lectionum cap. v; et Georgium Cedrenum
+edit. Basil. p. 159, l. XLVI. Jam quod σοφία σιμ-
+pliciter ac Sapientia de Proverbiis dicatur, osten-
+dunt loca Constitutionum apostolicarum lib. I, cap.
+7 et 10; lib. II, cap. 3; lib. IV, cap. 11 et alibi;
+Justini martyris in Dialogo p. 559; Melitonis Sar-
+densis apud Eusebium Hist. lib. IV, cap. 26; Irenæi
+lib. IV, cap. 37; Clementis Alexandrini in Protre-
+plico p. 52; Pædagog. II, cap. 2, et Strom. 1, pag.
+317; Origenis Homil. 14 in Genesim, 6 in Exodum,
+ac sæpe; Gregorii Nysseni Libro de Vita Mosis paulo
+ante finem, oratione 5 De gratione Dominica, et in
+ὑποτυπώσει de pietatis scopo; Chrysostomi sive al-
+terius sermone de tribus pueris, tom. VI. Quibus
+adjunge veterem interpretem Epistolæ Ignatio at-
+tributæ ad Tarsenses cap. 6. In quem locum homo
+litteratus Jacobus Usserius, prava deceptus ver-
+sione, falso citat Athanasii librum De decretis Ni-
+cænæ synodi. Verba Alexandrini archiepiscopi sunt
+(tom. I, p. 276) : 'Ὁ εἰπὼν ὡς Σοφία· Πρὸ δὲ πάντων
+βουνῶν γεννᾷ με. Quæ interpretantur : Qui dixit,
+ut in Sapientiæ libro habetur, cum significant : Qui
+dixit, quatenus Sapientia. Proverb. VIII, 25. Simili-
+ter Ecclesiastico σοφίας, sapientia, nomen absolute
+datur per multos, Origenem homil. 2 in psalorum
+XXXVIII; homil. 6 Græca in Jeremiam, et ad Ro-
+man. IX, 20, 21; Gregorii Nyssenum de Vita
+Mosis, non multo ante medium; Hieronymum dia-
+logo 1 adversus Pelagianos, cap. 10; pseudo-Hiero-
+nymum ad II Corinth. IX, 7. Ratio autem earum
+appellationum ex eo peti debet, quod sapientes viri
+prædictis libris præcepta sapientiæ omniumque
+virtutum comprehenderint. Ita enim Epiphanius
+hæresi 69, cap. 11, Paschatis diem, ἁγίαν Θεοῦ παν-
+άρετον ἡμέραν indigitat. Denique Προιμῖαι sunt
+Σοφία παιδαγωγική, Gregorio Nazianzeno oratione
+11. Ecclesiasticus est, A Deo spirata Sapientia, Ma-
+gna Sapientia, in Excerptis chronologicis ex Euse-
+bio, Africano, et aliis. Atque de Cantico cantico-
+rum, scriptor homiliæ de Susanna tom. VI Chry-
+sostomi ait : Κατὰ τὴν Σοφίαν τὴν λέγουσαν, Κῆπος
+
+# block=9
+VARIORUM NOTÆ.
+
+# block=10
+CAPUT LVII.
+
+# block=11
+ΚΕΦΑΛΑΙΟΝ ΝΖ´.
+
+# block=12
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=13
+⁸⁴ Job v, 17-26. ⁸⁵ I Petr. V, 5.
+
+# block=14
+εἰρηνεύσουσιν σοι. Εἶτα γνώσῃ ὅτι εἰρηνεύσει
+σου ὁ οἶκος· ἡ δὲ δίαιτα τῆς σκηνῆς σου οὐ μὴ
+ἁμάρτῃ. Γνώσῃ δὲ ὅτι πολὺ [τὸ σπέρμα σου]
+τὰ δὲ τέκνα σου ὥσπερ [τὸ παμβό]ταιον τοῦ ἀγροῦ •
+ἐλεύσῃ [δὲ ἐν τά]φῳ ὥσπερ σῖτος ὤριμος, [κατὰ
+και]ρὸν θεριζόμενος, ἣ ὥσπερ θημω]νία ἅλωνος
+
+# block=15
+καθ' ὥραν συ[γκομι]σθεῖσα. Βλέπετε, ἀγαπητ[οὶ, ὅτι] ὑπερασπισμός ἐστιν τ[οῖς παιδευ]ομένοις ὑπὸ
+τοῦ Δεσπότ[ου· (88) καὶ γὰρ] ἀγαθὸς ὢν παιδ[εύει ὁ Θεὸς] εἰς τ[ὸ νουθετ]ηθῆναι ἡμᾶς, διὰ τῆς ὁσίας
+[παι]δείας αὐτοῦ.

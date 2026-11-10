@@ -1,0 +1,96 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1108,1741,1735,2417
+2,1109,646,1726,1722
+3,191,2529,1707,2703
+4,189,612,1083,2448
+5,1203,256,1648,295
+6,1367,354,1481,384
+7,1669,96,1722,127
+10,268,241,1031,500
+11,219,89,271,124
+12,1197,440,1659,516
+13,1333,548,1511,604
+14,499,516,765,594
+15,763,76,1211,148
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=12px
+# block=7 fontSize=16px
+# block=11 fontSize=16px
+# block=12 fontSize=30px
+# block=13 fontSize=20px
+# block=15 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+EPISTOLA II AD VIRGINES.
+
+# block=11
+417
+
+# block=7
+418
+
+# block=5
+PORRO EPISTOLA SECUNDA
+
+# block=6
+EJUSDEM
+
+# block=12
+B. CLEMENTIS.
+
+# block=13
+CAPUT I.
+
+# block=2
+Scire vos cupio, fratres, quod si,
+propter timorem Dei, placuit vobis
+forma vivendi quam in Christo serva-
+vimus inter omnes fratres nostros, in
+variis locis ad quos perreximus,
+æquum est ut sic ambuletis in Do-
+mino. Nos autem, Deo adjuvante
+nos, sic in Domino conversamur.
+Sub eodem tecto cum virginibus non
+manemus, nec inter nos et illas ne-
+cessitudo ulla intercedit. Cum illis
+nec cibum sumimus nec potum.
+Alibi ea quæ virum non habet,
+virgo aut filia nubilis, quiescit et
+pernoctat; et alibi nos somnum car-
+pimus et pernoctamus, etiamsi illa
+in alio domus loco sola remaneret.
+Pedes nostros mulieres non lavant,
+nec nos ungunt ³³.
+
+# block=1
+Si autem inopinatẹ irruat in nos
+tempus adversum, in campis, in
+urbe, vel in villa, nobisque occur-
+rant fratres qui in his locis repe-
+riuntur, intramus in domum cujus-
+quam fratris, illuc convocatis cun-
+ctis fratribus, ad eos exhortationis
+et honestatis verba proferimus. Hi
+vero soli loquuntur quibus inest
+prædicandi scientia. Verbis suis isti
+sedulo attendunt, et quasi præcincti,
+sermones gravitatem, reverentiam,
+
+# block=3
+³³ Inter charitatis officia, Christus ipse (Luc. ᴠɪɪ, 46) et, post ipsum, Apostolus (I Tim. ᴠ, 10), duo præfata
+opera numeraverat. Cum autem ex ipsis charitatis operibus occasionem captet diabolus homines ad pecca-
+tum adducendi, sapienter judicavit sanctus Clemens amovendam esse hanc tentationis lapsusque originem,
+non quidem erga fideles laicos, sed erga clericos, ut nihil omnino sinistri in eos rumoris fingi posset,
+nihilque detrahi famæ castitatis ac modestiæ ipsorum.

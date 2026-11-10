@@ -1,0 +1,169 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1025,383,1772,1113
+2,238,381,991,1241
+3,236,1250,982,2024
+4,231,2031,978,2678
+5,1027,120,1773,372
+6,1015,1120,1766,2677
+7,242,119,995,373
+8,801,64,1214,100
+9,360,2680,625,2720
+10,226,62,332,104
+11,1680,64,1766,108
+12,1564,2676,1640,2724
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1025 source_y1=383 source_x2=1772 source_y2=1113
+XXXV. Et cum hæc dixisset, conversus ad tur-
+bas ita cœpit : Hic quem videtis , o viri , in hac
+veste pauperrima , Romanæ urbis est civis , ex ge-
+nere ipsius Cæsaris descendens ; nomen ei Fausti-
+nianus , uxorem quoque nobilissimam Matthidiam
+nomine sortitus est, ex qua tres filios suscepit,
+quorum duo gemini, unus autem qui erat junior,
+cui nomen Clemens, hic est. Et cum hoc dixisset,
+digito me ostendit. Gemini autem filii ejus sunt
+isti, Niceta et Aquila, quorum alius Faustinus vo-
+cabatur prius, et alius Faustus. Simul autem ut
+nomina nostra enuntiavit Petrus, senex resolutis
+membris omnibus, quasi interceptus concidit. Nos
+autem filii irruentes super eum, complectebamur
+et osculabamur, verentes simul ne spiritum revo-
+care non posset. Et cum hæc fierent, populus qui-
+dem admiratione ipsa obstupefactus est.
+
+# block=2 source_x1=238 source_y1=381 source_x2=991 source_y2=1241
+XXXII. Nunc et tu senex , si quid habes quod
+ad hæc respondeas, incipe. Senex ad hæc : Ple-
+nissime, ait, ostendisti, fili; sed ego, sicut dixi ex
+initio, omni huic incomparabili assertioni tuæ, a
+propria conscientia prohibebor accommodare con-
+sensum. Novi enim et meam genesim et conjugis
+meæ, et scio ea quæ unicuique nostrum dictabat
+genesis accidisse , et ab his quæ rebus et operi-
+bus comperta sunt mihi, nunc verbis transferri non
+possum. Denique quoniam te apprime imbutum vi-
+deo in hujuscemodi disciplinis , audi conjugis meæ
+thema, et invenies schema cujus exitus accidit.
+Habuit enim Martem cum Venere super centrum,
+Lunam vero in occasu in domibus Martis et fini-
+bus Saturni, quod schema adulteras facit et ser-
+vos proprios amare, in peregrinatione et in aquis
+defungi, quod et ita factum est ; incidit namque
+in amorem servi, et periculum simul atque oppro-
+brium metuens fugit cum ipso, et peregre profe-
+cta ubi amori suo satisfecit, periit in mari.
+
+# block=3 source_x1=236 source_y1=1250 source_x2=982 source_y2=2024
+XXXIII. Et ego respondi : Unde scis quia pere-
+gre servo suo sociata est et in ejus consortio po-
+sita defungitur? Et senex : Certissime , inquit ,
+scio, revera non quia nupserit servo, quippe qui
+neque hoc quidem quod eum amaret agnoveram,
+sed postquam profecta est, frater meus mihi enar-
+ravit, dicens, quod primo quidem ipsum adamas-
+set; sed ille quia erat honestus, utpote frater,
+noluit torum fratris incesti macula polluere. Sed
+illa et me verens, et opprobrium non ferens infelix
+(neque enim imputandum ei est, quod eam gene-
+sis facere compulit), finxit somnium et ait ad me :
+Astitit mihi quidam per visum, qui jussit me cum
+duobus geminis meis sine mora ex Urbe proficisci.
+Hæc ergo cum audissem, pro salute ejus filiorum-
+que sollicitus, confestim ipsam et liberos exire feci ;
+unum qui erat junior, mihi retinui ; hoc enim cum
+qui responsa in somnis dederat, permisisse dicebat.
+
+# block=4 source_x1=231 source_y1=2031 source_x2=978 source_y2=2678
+XXXIV. Tum ego Clemens, intelligens quod ipse
+fortassis esset pater meus, lacrymis oppletus sum;
+fratres quoque meos volentes prosilire et aperire
+rem, prohibuit Petrus dicens: Quiescite quoadus-
+que mihi placuerit. Respondens ergo Petrus ait
+ad senem : Quod nomen erat juniori filio tuo ? At
+ille ait: Clemens. Et Petrus: Si tibi, inquit, ho-
+die conjugem tuam castissimam consignavero cum
+tribus filiis tuis, credis quia potest pudica mens
+motus irrationabiles superare , et quod omnia quæ
+a nobis dicta sunt, vera sint et genesis nihil sit ?
+Et senex : Sicut impossibile est, inquit, te exhi-
+bere quod promisisti, ita impossibile est extra ge-
+nesim fieri aliquid. Tum Petrus: Testes, inquit,
+habere volo omnes hos qui præsentes sunt , nisi
+
+# block=5 source_x1=1027 source_y1=120 source_x2=1773 source_y2=372
+tibi hodie conjugem tuam cum tribus vestris li-
+beris viventem pudicissime traditurum ; et jam
+nunc accipe fidem rerum ex eo , quod omnem cau-
+sam multo diligentius scio quam tu, cunctaque
+tibi per ordinem quæ gesta sunt enarrabo, ut et
+tu cognoscas et qui præsentes sunt discant.
+
+# block=6 source_x1=1015 source_y1=1120 source_x2=1766 source_y2=2677
+XXXVI. Petrus autem surgere nos a complexi-
+bus patris, ne eum necaremus jubet, et ipse ap-
+prehensa manu ejus, quasi de somno quodam pro-
+fundo elevans eum et paululum recreans, omnia quæ
+gesta fuerant secundum veritatem cœpit exponere :
+quomodo frater ejus in amorem inciderit Matthidiæ,
+et illa cum esset pudicissima, illicitum fratris amo-
+rem viro indicare noluerit, ne vel bellum fratribus
+vel opprobrium generi indiceret, sed sapienter
+somnium finxerit, quo ex Urbe juberetur excedere
+cum geminis filiis, juniore apud patrem relicto ;
+utque navigantes naufragium vi tempestatis incur-
+rerint, et ad insulam Antaraddum nomine expulsi,
+Matthidia quidem supra saxum quoddam fluctu
+jactante projecta sit, gemini vero liberi rapti a
+piratis et Cæsaream perducti, religiosæ cuidam fe-
+minæ venundati sint, quæ eos in filiorum loco
+habens liberaliter educaverit et erudiri fecerit,
+eorumque nomina piratæ immutaverint et Nicetam
+alium, alium Aquilam vocitaverint ; utque post
+hæc studiorum et consuetudinis causa Simoni ad-
+hæserint, atque ab eo, ubi magum et deceptorem vi-
+derunt, aversi accesserint ad Zacchæum; et ut post
+hæc sociati sunt sibi ; sed et Clemens quomodo ex
+Urbe agnoscendæ veritatis causa profectus, per Bar-
+nabæ notitiam Cæsaream venerit sibique innotuerit
+et adhæserit, utque ab eo sit de fide religionis edo-
+ctus; sed et qualiter apud Antaradum mendicantem
+repererit et recognoverit matrem, utque omnis in-
+sula in ejus cognitione gavisa sit, et de pudicissi-
+mæ hospitæ contubernio atque ejus per semetipsum
+collata sanitate, et de liberalitate Clementis in eos
+qui erga matrem benefici exstiterant ; utque post
+hæc Niceta et Aquila requirentes quænam esset pe-
+regrina mulier, cum audissent a Clemente omne
+negotium, se esse geminos ejus filios Faustinum
+
+# block=7 source_x1=242 source_y1=119 source_x2=995 source_y2=373
+singulis obsistere et repugnare habet in natura sua
+mens, cum ei obfulserit veritatis agnitio, per quam
+scientiam timor futuri judicii datur, qui sit idoneus
+animæ gubernator et qui eam possit a concupis-
+centiarum præcipitiis revocare. Quia ergo sint hæc
+in nostra potestate, sufficienter dictum est.
+
+# block=8 source_x1=801 source_y1=64 source_x2=1214 source_y2=100
+RECOGNITIONUM LIB. IX.
+
+# block=9 source_x1=360 source_y1=2680 source_x2=625 source_y2=2720
+PATROL. GR. I.
+
+# block=10 source_x1=226 source_y1=62 source_x2=332 source_y2=104
+1417
+
+# block=11 source_x1=1680 source_y1=64 source_x2=1766 source_y2=108
+1418
+
+# block=12 source_x1=1564 source_y1=2676 source_x2=1640 source_y2=2724
+45

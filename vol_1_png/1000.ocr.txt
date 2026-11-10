@@ -1,0 +1,152 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,194,133,945,1160
+2,982,130,1732,1197
+3,982,1203,1744,2105
+4,201,2333,948,2586
+5,195,1207,947,2107
+6,628,71,1341,109
+7,196,79,261,114
+8,200,2603,1735,2677
+9,984,2334,1735,2585
+10,754,2201,1195,2256
+15,1649,66,1725,108
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=194 source_y1=133 source_x2=945 source_y2=1160
+mnibus qui desiderium gerunt agnoscendi quod
+sibi expedit, suadeo ut requirant verum Prophetam,
+quia ipse solus est, qui novit omnia, et scit quid et
+quomodo unusquisque quærat.' Inest enim intra
+uniuscujusque nostrum mentem, sed in illis qui-
+dem, qui desiderium Dei agnitionis et justitiæ ejus
+nullum gerunt; otiatur, in his vero qui quod animæ
+suæ expedit quærunt, operatur et scientiæ lumen
+accendit. Propter quod primo omnium hunc requi-
+rite, quem si non inveneritis, ab alio vos agnituros
+aliquid non speretis. Invenitur autem cito ab his qui
+veritatis amore perquirunt, et quorum anima præ-
+occupata non tenetur in malitia. Adest enim his qui
+eum in innocentia spiritus sui desiderant, qui per
+patientiam sustinent, et suspiria de profundo cor-
+dis veritatis amore producunt; fugit autem male-
+volas mentes ⁶¹, quia ut propheta cognoscit cogita-
+tiones uniuscujusque. Et ideo nemo putet eum per
+prudentiam suam invenire posse, nisi, ut supra dixi-
+mus, mentem suam omni nequitia vacuam effecerit,
+atque agnitionis ejus desiderium purum et fidele
+conceperit. Ubi enim talem se quis præparaverit,
+ipse ut propheta, videns præparatam mentem sponte
+se adhibet ad agnoscendum.
+
+# block=2 source_x1=982 source_y1=130 source_x2=1732 source_y2=1197
+mum credi eis de omnibus quibus dixerint et re-
+sponderint, debet.
+ LXI. Etenim consideremus diligentius opus di-
+vinæ Providentiæ. Nam quod philosophi introduxe-
+runt verba subtilia quædam et difficilia, ita ut ne
+ipsa quidem vocabula sermonum nota esse omnibus
+possent et intelligibilia, Deus eos qui sibi artifices
+verborum videbantur, per omnia imperitos erga
+agnitionem veritatis ostendit. Simplex enim est et
+manifesta ac brevis rerum scientia, quæ per verum
+prophetam traditur, quam isti per devia incedentes
+et scrupeas verborum difficultates, tota ignorave-
+runt via. Igitur verecundis et simplicibus mentibus,
+cum viderint fieri quæ prædicta sunt, satis abun-
+deque sufficit, ut de certissima præscientia certis-
+simam scientiam capiant, et de cætero requiescant
+evidenti agnitione veritatis assumpta; cætera omnia
+æstimatione tractantur, in quibus firmum nihil
+esse potest. Quis enim sermo est, qui non reci-
+piat contradictionem? et quæ argumentatio est,
+quæ non possit alia argumentatione subverti? Et
+inde est quod ad nullum finem scientiæ et agni-
+tionis per hujusmodi disputationem pervenire ho-
+mines possunt, priusque finem vitæ inveniunt
+quam quæstionum.
+
+# block=3 source_x1=982 source_y1=1203 source_x2=1744 source_y2=2105
+ LXII. Et ideo cum in his omnia habeantur in-
+certa, ad verum prophetam veniendum est, quem
+Deus Pater volens ab omnibus diligi, hæc quæ ho-
+mines induxerunt, in quibus nihil potest appre-
+hendi, voluit penitus extinguere, ut eo magis iste
+quæreretur, et quem illi obcluserant, hic homi-
+nibus viam veritatis aperiret. Propter hunc enim
+Deus etiam mundum fecit et ab ipso mundus reple-
+tur, unde et quærentibus se adest ubique, etiamsi
+in ultimis terræ finibus quæratur. Si vero non pure
+eum quis nec sancte neque fideliter quærat, intra
+ipsum quidem est, quia ubique est et intra sensus
+omnium invenitur; sed, ut supra diximus, infide-
+libus dormit et absens habetur his, a quibus esse
+non creditur. Cumque hæc et alia hujusmodi Petrus
+de vero propheta prosecutus esset, turbas dimisit,
+senem vero cum rogasset plurimum permanere no-
+biscum, obtinere non potuit, sed et ipse discessit,
+alia die sicut placuerat rediturus. Et post hæc nos
+una cum Petro ingressi hospitium, cibo et quiete
+solito utimur.
+
+# block=4 source_x1=201 source_y1=2333 source_x2=948 source_y2=2586
+ I. Sequenti die Petrus una nobiscum mature ad
+locum, in quo pridie habita fuerat disputatio, pro-
+peravit, atque ibi cum plurimas jam ad audiendum
+convenisse turbas et senem cum eis videret, ait ad
+eum : Hesterna die, o senex, cum Clemente pla-
+cuerat ut hodie sermo fieret, et aut tu ostenderes
+
+# block=5 source_x1=195 source_y1=1207 source_x2=947 source_y2=2107
+ LX. Si quis igitur vult omnia discere, non per
+singula discutiens; neque enim poterit, cum sit
+mortalis, Dei investigare consilium et ipsam in-
+mensitatem perscrutari : sed si discere, ut dixi-
+mus, omnia desiderat, verum prophetam requirat.
+Quem cum invenerit, non quæstionibus et disputa-
+tionibus neque argumentis cum eo agat, sed si
+quid responderit, si quid pronuntiaverit, hoc cer-
+tum esse non potest dubitari. Et ideo quæratur
+verus propheta ante omnia, et ejus verba tenean-
+tur; in quibus illud tantummodo discutiendum
+unicuique est, ut satisfaciat sibi si vere prophetica
+ejus verba sunt, id est, si indubitatam fidem con-
+tinent futurorum, si tempora definita consignant,
+si rerum ordinem servant, si non quæ prima sunt,
+novissima, et quæ in novissimis gesta sunt, prima
+narrarunt, si nihil versutum, nihil magica arte ad
+decipiendum compositum continent, aut si non
+quæ aliis revelata sunt, ad se transtulerit admistis
+mendaciis. Et cum his omnibus recto judicio dis-
+cussis, verba constiterit esse prophetica, ita de-
+
+# block=6 source_x1=628 source_y1=71 source_x2=1341 source_y2=109
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=7 source_x1=196 source_y1=79 source_x2=261 source_y2=114
+1399
+
+# block=8 source_x1=200 source_y1=2603 source_x2=1735 source_y2=2677
+⁶¹ Sap. 1, 4.  ⁶² In codd. Lipss. omissis iis, quæ usque ad cap. 16 med. sequuntur, sic legitur : Locu-
+tus es. Deinde prosecutus senex adjecit : Certum est mihi et bene novi quia compaginatione, etc.
+
+# block=9 source_x1=984 source_y1=2334 source_x2=1735 source_y2=2585
+nihil extra genesim fieri, aut Clemens doceret ge-
+nesim non esse [sed in nobis et in nostra potestate
+haberi quæ gerimus]. Ad hæc senex respondit : Et
+quid placuerit memini, et tua verba teneo quæ
+post pactiones locutus es⁶², quibus docuisti impos-
+sibile esse homini scire aliquid, nisi a vero Pro-
+
+# block=10 source_x1=754 source_y1=2201 source_x2=1195 source_y2=2256
+LIBER NONUS.
+
+# block=15 source_x1=1649 source_y1=66 source_x2=1725 source_y2=108
+1400

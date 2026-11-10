@@ -1,0 +1,87 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1121,298,1730,1397
+2,1105,1427,1716,2350
+3,196,279,1082,2371
+4,187,2379,1711,2526
+5,1345,216,1525,259
+6,1677,116,1733,147
+7,561,2545,1009,2753
+8,498,192,773,250
+9,201,104,277,162
+10,741,104,1183,166
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+381
+
+# block=10
+EPISTOLA Ⅰ AD VIRGINES.
+
+# block=6
+382
+
+# block=5
+CAPUT Ⅱ.
+
+# block=1
+Quicunque vir feminave, propter
+regnum cælorum, vere ac sine dolo
+intemeratæ virginitati se devovere
+constituit, in omnibus regno cælo-
+rum coaptare seipsum tenetur :
+possessio namque hujus regni nec
+eloquentia, nec fama, nec claritate,
+nec genere, nec venusta forma con-
+quiritur, non fortitudine, non diu-
+turna exspectatione ; sed virtute fi-
+dei rapitur ab illo qui fidem suam
+operibus probat. Opera enim ejus
+quæ manant ex fide de ipso testan-
+tur ipsum esse vere justum, vere fi-
+delem, ac ditatum fide magna, fide
+perfecta, fide quæ Deum apprehen-
+dit, fide quæ operibus splendescit ⁴⁸,
+ut Pater omnium per Christum glo-
+rificetur.
+
+# block=2
+Qui vere virgines sunt, propter
+Deum, sive inter viros, sive inter
+feminas, aures præbent hæc sugge-
+renti : Misericordia et veritas te non
+deserant. Circumda eas gutturi tuo,
+et invenies gratiam et disciplinam
+bonam coram Deo et hominibus ⁴⁹.
+Justorum autem semita, quasi lux
+splendens, procedit et crescit usque
+ad perfectam diem ⁵⁰. Omnis nam-
+que creatura vere illuminatur splen-
+dore quo refulgent eorum opera,
+dum hic vivunt, quia vere sunt lux
+mundi quæ orta est sedentibus in
+tenebris, ut isti surgerent et trans-
+irent a tenebris ad lucem bonorum
+
+# block=4
+⁴⁸ Maximi erat momenti primis Ecclesiæ temporibus, inculcare bonorum operum necessitatem, ne fideles
+otio torpentes, sola fide quam sibi finxissent, ad cœlestem patriam pervenire posse existimarent. Illic
+confodiuntur omnium sæculorum hæretici qui, ut sectarios allicerent, suæque perversæ doctrinæ devinci-
+rent, unice sterili fidei salutem annexuri erant. ⁴⁹ Prov. Ⅲ, 3. ⁵⁰ Prov. Ⅳ, 18.

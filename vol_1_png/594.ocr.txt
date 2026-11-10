@@ -1,0 +1,196 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1052,425,1810,1283
+2,260,416,1018,1240
+3,279,2588,1032,2715
+4,279,2413,1031,2584
+5,255,154,1016,320
+6,271,2326,1030,2410
+7,1063,2587,1832,2713
+8,273,2237,1029,2322
+9,657,100,1378,137
+10,299,1328,1821,1399
+11,271,2151,1026,2235
+12,864,1438,1169,1473
+13,1313,330,1543,364
+14,386,374,873,409
+15,546,331,713,365
+16,255,107,306,144
+17,445,2091,854,2136
+18,260,1509,1023,2038
+19,1051,154,1807,326
+20,1735,94,1807,132
+21,1095,376,1751,416
+22,1055,1500,1819,2026
+23,1061,2148,1827,2558
+24,1101,2088,1767,2144
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Τὸ δὲ μάχιμόν σου πρὸς πάντας, μάλιστα δὲ καὶ
+πρὸς τὸν ἄνδρα σου περίκοψον, πιστὴ ὑπάρχουσα,
+ἵνα σου ὁ ἀνὴρ ἐὰν ᾖ ἄπιστος (82), ἢ ἐθνικὸς, μὴ
+διὰ σὲ σκανδαλισθεὶς βλασφημήσῃ Θεὸν, καὶ σὺ τοῦ
+οὐαὶ κληρονόμος εὑρεθῇς παρὰ Θεῷ. « Οὐαὶ, γὰρ,
+φησὶ, δι’ οὗ τὸ ὄνομά μου βλασφημεῖται ἐν τοῖς
+ἔθνεσιν (83)· » εἰ δὲ πιστὸς ὑπάρχει σου ὁ ἀνὴρ,
+ἀναγκασθήσεται, ὡς εἰδὼς τὰς Γραφὰς, εἰπεῖν τὸ
+ῥῆμα τὸ γεγραμμένον ἐν τῇ Σοφίᾳ· « Κρεῖσσον οἰ-
+κεῖν ἐν ἐρήμῳ, ἢ μετὰ γυναικὸς γλωσσώδους καὶ
+μαχίμης. » Αἱ οὖν γυναῖκες, διὰ τῆς αἰδοῦς καὶ
+πραότητος τὴν θεοσέβειαν ἐνδείκνυσθε, εἰς ἐπιστρο-
+φὴν καὶ προτροπὴν πίστεως, καὶ τοῖς ἐκτὸς πᾶσιν,
+εἴτε γυναιξὶν, εἴτε ἀνδράσι. Καὶ εἰ δι’ ὀλίγων νουθε-
+τήσαντες ἐπαιδεύσαμεν ὑμᾶς, ἀδελφαὶ καὶ θυγατέρες
+καὶ μέλη ἡμῶν, ὡς σοφαὶ καὶ αὐταὶ ἀλοιδόρητοι τοῦ
+βίου διαμείνατε (84)· ἐκζητεῖτε μαθήματα γινώσκειν,
+δι’ ὧν δυνήσεσθε τῇ τοῦ Κυρίου ἡμῶν ἐγγίσαι βασι-
+λείᾳ εὐαρέστως, καὶ ἀναπαύσεσθαι (85) εἰς τοὺς
+αἰῶνας τῶν αἰώνων. Ἀμήν.
+
+# block=2
+Contentionem autem, Christiana mulier, tum ad-
+versus cunctos, tum præsertim adversus virum
+tuum amputa : ne si infidelis sit, aut ethnicus, per
+te scandalum passus, Deum blasphemet ; et tu apud
+Deum, illius væ hæres reperiaris. Ait enim : « Væ
+ei per quem nomen meum blasphematur in genti-
+bus ¹⁴ ; » si autem fidelis est maritus tuus ¹⁵, coge-
+tur, ut qui Scripturas sciat, illam vocem in Sa-
+pientia scriptam usurpare : « Melius est habitare
+in deserto, quam cum muliere linguace et rixo-
+sa ¹⁶. » Quocirca, mulieres, pudore et lenitate pie-
+tatem erga Deum etiam ethnicis omnibus, cum vi-
+ris, tum feminis, ostendite, in conversionem ac
+exhortationem fidei. Quod si vos, o sorores et filiæ
+et membra nostra, brevi admonitione erudivimus ;
+jam ut sapientes perseverate sine probro vitæ :
+studete disciplinas eas nosse, quibus possitis ad
+Domini nostri regnum gratia illius pervenire, atque
+requiescere in sæcula sæculorum. Amen.
+
+# block=3
+V. Quod non oportet episcopum in judicio esse
+acceptorem personarum ; quodque debeat esse
+moribus moderatis, et victu frugali.
+
+# block=4
+IV. Quod non cuilibet viduæ sit largiendum ; sed
+quandoque sit anteponenda nupta ; et quod vo-
+raci, ebrioso, pigro, eleemosyna non sit præ-
+benda.
+
+# block=5
+potest quotidie. Sit vero tibi constitutum tempe-
+stivæ lavationis tempus, hora decima ; oportet enim
+te, quæ fidelis es, omnimodis ac semper oculatissi-
+mam curiositatem vitare.
+
+# block=6
+III. In quibus probandus sit qui designatur in epi-
+scopum.
+
+# block=7
+ε΄. Ὅτι χρὴ ἀπροσωπόληπτον εἶναι τὸν ἐπίσκοπον
+ἐν τῷ κρίνειν, καὶ τὸ ἦθος μέτριον, καὶ τὴν
+δίαιταν συνεσταλμένον.
+
+# block=8
+II. Qualem esse oporteat episcopum, et reliquos
+clericos.
+
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10
+¹⁴ Isa. LII, 5. ¹⁵ L. Ignat. ad Trall. 8, et Ignat. interpol. ibid. Polycarp. cap. 10, l. infra, lib. II, cap. 5.
+¹⁶ Prov. XXI, 19.
+
+# block=11
+I. Quod oporteat episcopum esse eruditum, et in
+sermone exercitatum.
+
+# block=12
+VARIORUM NOTÆ.
+
+# block=13
+ΚΕΦΑΛΑΙΟΝ Ι΄.
+
+# block=14
+De muliere contentiosa et loquace.
+
+# block=15
+CAPUT X.
+
+# block=16
+587
+
+# block=17
+CAPITA LIBRI SECUNDI.
+
+# block=18
+(82) Ἄπιστος. Πιστός in utroque, quam bene,
+nescio. CLER.
+(83) Οὐαὶ γὰρ, φησὶ, δι’ οὗ, etc. Eodem modo
+lib. III, cap. 5. Capite autem 24 libri VII. Δι’ ὑμᾶς
+τὸ ὄνομά μου βλασφημεῖται ἐν τοῖς ἔθνεσι. Vulgo,
+δι’ ὑμᾶς διαπαντὸς τὸ ὄνομά μου βλασφημεῖται ἐν
+τοῖς ἔθνεσι. S. Ignatius Epistola ad Trallianos c. 8 :
+Οὐαὶ, δι’ οὗ ἐπὶ ματαιότητι τὸ ὄνομά μου ἐπί τινων
+βλασφημεῖται. Ejus interpolator ibidem, quemad-
+modum Constitutiones hoc in loco. S. Polycarpus
+Epistolæ suæ cap. 10 : Væ illi, per quem nomen
+Domini blasphematur ! Ex Athanasio, Apologia ad
+Constantium p. 693, ac Gregorio Nysseno serm. 3
+De Oratione Dominica, et libro De professione Chri-
+stiana, οὐαὶ, δι’ οὓς τὸ ὄνομά μου βλασφημεῖται ἐν
+
+# block=19
+ἀλλ’ εἰ δυνατόν, μηδὲ καθημέραν. Ὥρα δέ σοι ἔστω
+τακτὴ ἡ τῆς καιρολουσίας δεκάτη· δεῖ γάρ σε, πιστὴν
+οὖσαν, ἐκ παντὸς καὶ πάντοτε τὴν πολυόφθαλμον
+περιεργίαν φεύγειν.
+
+# block=20
+588
+
+# block=21
+Περὶ μαχίμου καὶ γλωσσώδους γυναικός.
+
+# block=22
+τοῖς ἔθνεσι ! Joannes Chrysostomus homil. 7 in Ge-
+nesim : Οὐαὶ ὑμῖν, ὅτι δι’ ὑμᾶς τὸ ὄνομά μου βλασ-
+φημεῖται ἐν τοῖς ἔθνεσι. Homil. 57 in Joannem :
+Οὐαὶ τῷ δούλῳ ἐκείνῳ, δι’ οὗ τὸ ὄνομα τοῦ Θεοῦ
+βλασφημεῖται. Et homil. 46 in Acta apostolorum :
+Οὐαὶ ὑμῖν, δι’ οὓς τὸ ὄνομα τοῦ Θεοῦ βλασφημεῖται.
+In Confessione S. Patricii, quam in lucem emisit
+Jacobus Waræus : Væ homini, per quem nomen Do-
+mini blasphematur ! Denique concilii Turonen-
+sis I, canone 1 : Væ eis, per quos nomen Dei
+blasphematur ! COT.
+(84) Διαμείνατε. Omittit uterque codex Vindo-
+bon. et potest abesse. CLER.
+(85) Ἀναπαύσεσθαι. Ἀναπαύσασθε alter codι-
+cum. Vulgata lectio melior. ID.
+
+# block=23
+α΄. Ὅτι χρὴ τὸν ἐπίσκοπον εἶναι πεπαιδευμένον,
+καὶ ἔμπειρον τοῦ λόγου.
+β΄. Οἷον εἶναι χρὴ τὸν ἐπίσκοπον, καὶ τοὺς λοι-
+ποὺς κληρικούς.
+γ΄. Τίνα χρὴ δοκιμάζεσθαι τὸν ἐπίσκοπον προχει-
+ριζόμενον.
+δ΄. Ὅτι οὐχ ἑκάστῃ χήρᾳ δεῖ μεταδιδόναι, ἀλλ’
+ἔσθ’ ὅτε καὶ τὴν ὕπανδρον προκρίνειν, καὶ ὅτι
+καταφαγῇ, μεθύσῳ, ἀργῷ, οὐ μεταδιδόναι χρή.
+
+# block=24
+ΚΕΦΑΛΑΙΑ ΤΟΥ ΔΕΥΤΕΡΟΥ ΒΙΒΛΙΟΥ.

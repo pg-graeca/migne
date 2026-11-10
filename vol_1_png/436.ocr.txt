@@ -1,0 +1,213 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,268,957,1033,1732
+2,1060,959,1821,1775
+3,279,479,1030,907
+4,1060,481,1815,905
+5,275,2106,1036,2409
+6,284,134,1028,426
+7,1069,137,1814,431
+8,275,1788,1782,1861
+10,875,1891,1173,1923
+11,1308,917,1571,952
+12,278,1941,1038,2109
+14,559,434,771,473
+15,1301,439,1563,477
+16,623,78,1422,117
+17,1058,1942,1819,2709
+19,272,2405,1031,2715
+20,285,81,337,117
+21,1743,82,1815,132
+22,531,914,775,950
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=16px
+# block=21 fontSize=16px
+# block=22 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=20
+271
+
+# block=21
+272
+
+# block=6
+et non ex nobis ipsis ²² : odit enim Deus eos, qui
+semetipsos prædicant ²³. Testimonium boni operis
+nostri ab aliis tribuatur nobis, sicut datum est
+patribus nostris, viris justis. Temeritas et arrogan-
+tia et audacia, maledictis a Deo ; moderatio autem
+et humilitas et mansuetudo, apud illos qui a Deo
+benedicti sunt.
+
+# block=7
+ἔστω ἐν Θεῷ (100), καὶ μὴ ἐξ αὐτῶν · αὐτεπαινετοὺς
+γὰρ μισεῖ ὁ Θεός. Ἡ μαρτυρία τῆς ἀγαθῆς πράξεως
+ἡμῶν διδόσθω ὑπ' ἄλλων (1), καθὼς ἐδόθη τοῖς πα-
+τράσιν ἡμῶν τοῖς δικαίοις. Θράσος καὶ αὐθάδεια καὶ
+τόλμα, τοῖς κατηραμένοις (2) ὑπὸ τοῦ Θεοῦ · ἐπιεί-
+κεια καὶ ταπεινοφροσύνη, καὶ πραΰτης, παρὰ τοῖς
+εὐλογημένοις ὑπὸ τοῦ Θεοῦ.
+
+# block=14
+CAPUT XXXI.
+
+# block=15
+ΚΕΦΑΛΑΙΟΝ ΛΑ'.
+
+# block=3
+Ejus igitur benedictioni firmiter adhæreamus ;
+et videamus quænam sint benedictionis viæ. Animo
+repetamus quæ ab initio facta sunt. Cujus gratia
+pater noster Abraham benedictus fuit ²⁴? nonne
+quia justitiam et veritatem per fidem operatus
+fuerat? Isaac cum confidentia quod futurum erat
+cognoscens, libenter factus est sacrificium ²⁵. Jacob
+in humilitate, dum fratrem fugit, secessit de terra
+sua, et profectus est ad Laban ²⁶, et servivit : et
+datæ sunt ei duodecim tribus Israel ²⁷.
+
+# block=4
+Κολληθῶμεν οὖν τῇ εὐλογίᾳ αὐτοῦ, καὶ ἴδωμεν
+τίνες αἱ ὁδοὶ τῆς εὐλογίας. Ἀνατυλίξωμεν τὰ ἀπ'
+ἀρχῆς γενόμενα. Τίνος χάριν εὐλογήθη ὁ πατὴρ ἡμῶν
+Ἀβραάμ ; οὐχὶ δικαιοσύνην καὶ ἀλήθειαν διὰ πίστεως
+ποιήσας; Ἰσαὰκ μετὰ πεποιθήσ[εως γινώ]σκων τὸ
+μέλλον, ἡδέ[ως ἐγένε]το θυσία. Ἰακὼβ μετὰ ταπει-
+νοφρ[οσύνης] ἐξεχώρησεν τῆς γῆς αὐ[τοῦ φεύγων
+ἀδελ]φὸν, καὶ ἐπορεύθη πρὸς [Λαβὰν], καὶ ἐδούλευ-
+σεν· καὶ ἐδόθ[η αὐτῷ] τὸ δωδεκάσκηπτρον (3) τοῦ
+[Ἰσραήλ.]
+
+# block=22
+CAPUT XXXII.
+
+# block=11
+ΚΕΦΑΛΑΙΟΝ ΛΒ'.
+
+# block=1
+Si quis animo sincero singula perpenderit, do-
+norum quæ per eum concessa sunt magnificentiam
+agnoscet. Ab illo enim orti sunt omnes sacerdotes
+ac levitæ, qui altari Dei ministrant : ab illo Do-
+minus Jesus secundum carnem ; ab illo reges et
+principes et duces secundum (5) Judam : nec reli-
+quæ ejus tribus in parvo honore sunt, utpote Deo
+promittente : Erit semen tuum sicut stellæ cæli ²⁸.
+Ii ergo omnes gloriam et amplitudinem consecuti
+sunt, non per seipsos aut opera sua aut justas
+actiones quas fecerunt, sed per voluntatem ejus.
+Et nos igitur ex voluntate illius in Christo Jesu
+vocati, non per nos ipsos justi efficimur, neque
+per sapientiam nostram aut intelligentiam aut pie-
+tatem aut opera quæ in cordis sanctitate operati
+sumus, sed per fidem, per quam omnes ab initio
+justificavit Deus omnipotens, cui sit gloria in sæ-
+cula sæculorum. Amen.
+
+# block=2
+[Εἴ]τις καθ' ἕν ἕκαστον εἰλικρι[νῶς] κατανοήσῃ,
+ἐπιγνώσεται [τὰ με]γαλεῖα τῶν ὑπ' αὐτοῦ δεδομ[ένων]
+δωρεῶν. Ἐξ αὐτοῦ (4) γὰρ ἱερεῖ[ς] καὶ λευῖται πάν-
+τες οἱ λειτουργ[οῦν]τες τῷ θυσιαστηρίῳ τοῦ Θεοῦ ·
+ἐξ αὐτοῦ ὁ Κύριος Ἰησοῦς τὸ κατὰ σάρκα· ἐξ αὐτοῦ
+βασιλεῖς, καὶ ἄρχοντες, καὶ ἡγούμενοι κατὰ τὸν Ἰού-
+δαν · τὰ δὲ λοιπὰ σκῆπτρα αὐτοῦ οὐκ ἐν μικρᾷ δόξῃ
+ὑπάρχουσιν, ὡς ἐπαγγειλαμένου τοῦ Θεοῦ, ὅτι ἔσται
+τὸ σπέρμα σου ὡς οἱ ἀστέρες τοῦ οὐρανοῦ. Πάντες
+οὖν ἐδοξάσθησαν καὶ ἐμεγαλύνθησαν, οὐ δι' αὐτῶν,
+ἢ τῶν ἔργων αὐτῶν, ἢ τῆς δικαιοπραγίας ἧς κατειρ-
+γάσαντο, ἀλλὰ διὰ τοῦ θελήματος αὐτοῦ. Καὶ ἡμεῖς
+οὖν διὰ θελήματος αὐτοῦ ἐν Χριστῷ Ἰησοῦ κληθέντες,
+οὐ δι' ἑαυτῶν δικαιούμεθα, οὐδὲ διὰ τῆς ἡμετέρας
+σοφίας, ἢ συνέσεως, ἢ εὐσεβείας, ἢ ἔργων ὧν κατ-
+ειργασάμεθα ἐν ὁσιότητι καρδίας· ἀλλὰ διὰ τῆς
+πίστεως, δι' ἧς πάντας τοῦ ἀπ' αἰῶνος (6) ὁ παντο-
+κράτωρ Θεὸς ἐδικαίωσεν· ᾧ ἔστω ἡ δόξα (7) εἰς τοὺς
+αἰῶνας τῶν αἰώνων. Ἀμήν.
+
+# block=8
+²² Rom. II, 29. ²³ II Cor. x, 17, 18. ²⁴ Jac. II, 21. ²⁵ Gen. XXII, 9. ²⁶ Gen. XXVIII, XXIX. ²⁷ I
+Reg. XI, 31 sec. LXX. ²⁸ Gen. XXII, 17 et XXVI, 4.
+
+# block=10
+VARIORUM NOTÆ.
+
+# block=12
+(100) Ἐν Θεῷ. Jun. mallet ἐκ Θεοῦ. Hanc le-
+ctionem Wottono videntur suadere sequentia, καὶ
+μὴ ἐξ αὐτῶν. Conjecturam confirmat locus Rom. ii,
+29, unde Clementinus forte desumptus : Οὗ ὁ ἔπαι-
+νος οὐκ ἐξ ἀνθρώπων, ἀλλ' ἐκ τοῦ Θεοῦ. Gall.
+
+# block=17
+31 : Καὶ δώσω σοι δέκα σκῆπτρα, καὶ δύο σκῆπτρα
+ἔσονται αὐτῷ. Sic etiam Clemens noster cap. seq.,
+τὰ δὲ λοιπὰ σκῆπτρα. Ita Jun. Quibus addesis, ex
+Kuchat., eamdem vocem hoc ipso sensu usurpari
+ab auctore Testam. xii Patriarch., tum in Test.
+Dan, cap. 1 : Ἵνα μὴ λυθῶσι δύο σκῆπτρα ἐν Ἰσραήλ :
+Ne solvantur duo tribus in Israel ; tum etiam in
+Test. Nephthalim, cap. 5 : Κληρονομήσουσιν αἰχμα-
+λωσίᾳ τὰ ιβ' σκῆπτρα τοῦ Ἰσραήλ : Hæreditatem ob-
+tinebunt in captivitate duodecim tribus Israel. Id.
+(4) Ἐξ αὐτοῦ. Ita recte Jun. cum editis, licet
+ms. præ se ferat, ἐξ αὐτῶν. Mendum sane ex libra-
+rii negligentia ortum : mox enim bis repetitur, ἐξ
+αὐτοῦ. Id.
+(5) Vertit Coteler. propter Judam, alii vero in-
+terpretes, ex familia et sanguine Judæ. Declarat
+Clemens reges, principes ac duces originem ha-
+buisse ex Jacob secundum tribum Judæ. Coust.
+(6) Τοῦ ἀπ' αἰῶνος. Hæc est ms. lectio, teste
+Mill., non autem, τοὺς ἀπ' αἰῶνος, ut habent editi.
+Wott. id fugit. Gall.
+(7) Ἔστω ἡ δόξα. Codd. impp. præter Londin
+deest articulus ἡ, quem exhibet ms. Id.
+
+# block=5
+(1) Διδόσθω ὑπ' ἄλλων. Sic Proverb. xxvii, 2 :
+Ἐγκωμιαζέτω σε ὁ πέλας καὶ μὴ τὸ σὸν στόμα, ἀλλό-
+τριος καὶ μὴ τὰ σὰ χείλη. In proprias enim laudes
+odiosa est jactatio, ut Cyprianus ad Donatum lo-
+quitur, et ut Plinius, epist. 8, lib 1, eleganter, quod
+magnificum referente alio fuisset, ipso qui gesserat
+recensente, vanescit. Et Clemens noster infra : Ὁ τα-
+πεινοφρονῶν μὴ ἑαυτῷ μαρτυρείτω, ἀλλ' ἐάτω ὑφ'
+ἑτέρου μαρτυρεῖσθαι. Jun.
+
+# block=19
+(2) Τοῖς κατηραμένοις. Al. præmittendum putant
+παρά, sicut mox, παρὰ τοῖς εὐλογημένοις. Wott.
+nihil addit : eadem enim phraseos mutatio subinde
+occurrit in Novo Test. ad cujus stylum proxime ac-
+cedit S. Pater. Quam sane sententiam probat con-
+firmatque Blackwallus in Auctoribus sacris class. de-
+fens., pag. 85. Gall.
+(3) Τὸ δωδεκάσκηπτρον. Hoc est, τὸ δωδεκάφυ-
+λον : σκῆπτρον enim pro φυλή sumitur, ut III Reg. xi,

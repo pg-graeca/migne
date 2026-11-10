@@ -1,0 +1,157 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,276,2278,1012,2699
+2,1047,1939,1790,2697
+3,280,143,1027,2269
+4,1061,780,1799,1929
+5,1069,142,1809,775
+6,805,85,1270,121
+7,284,70,362,136
+8,1756,86,1820,130
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+VII. Neque his adversatur illud, num. 41 : Non
+ubique, fratres, offeruntur sacrificia jugia, vel vo-
+tiva, vel pro peccato et delicto, sed Jerosolymis tan-
+tum, licet Grabius hinc certo constare sibi dicat,
+templum Jerosolymitanum tum stetisse, atque exci-
+dium illius, quod in annum 70 incidit, necdum con-
+tigisse; alioqui non offeruntur in præsenti, sed olim
+offerebantur fuisse dicendum. Verum non satis at-
+tendit vir eruditus sermonis usum, quo res præter-
+itas veluti præsentes ob oculos ponere et per præ-
+
+# block=2
+IX. Ex venerando illo sacræ antiquitatis monu-
+mento, quod summam primorum Christianorum
+simplicitatem sapit, duo inprimis maximi momenti
+documenta fideles percipiunt. Primum enim ubi in
+primaria Ecclesia, tot Spiritus sancti donis ornata,
+ac maximis apostolorum sudoribus exculta, spinas
+dissensionum exortas vident, minus jam mirantur,
+si inter Christianas societates, quæ recte compositæ
+audiunt, hujusmodi scandala oboriri contigerit.
+Nunquam nimirum quiescit antiquus zizaniorum
+seminator, et agrum Domini infaustis seminibus
+fœdare non cessat. Sed quamvis antiquum sit hoc
+malum, non ideo tamen minus lugendum; sed nul-
+lum esse, cui remedium citius adhibendum sit,
+item ex hoc scripto, ut ex Pauli Epistola, docemur.
+Nempe tenui discordiarum flamma, nisi quam pri-
+mum exstinguatur, brevi ingens incendium conci-
+tari apprime callebant.
+
+# block=3
+VI. Obscurum non est, Clementem ibi de ærum-
+nis, quibus oppressa erat Romana Ecclesia cum
+Corinthiorum epistolam accepit, sed a quibus respi-
+rabat cum hanc rescripsit, habere sermonem,
+adeoque Vendelini de persecutione fervente senten-
+tiam minime probandam esse. Neque minus certo
+ex eodem exordio conficitur, ærumnas illas de Ne-
+ronis persecutione interpretari non licere. Nihil
+enim erat, cur in litterarum tarditate Corinthiis
+excusanda hoc taceretur, Petrum videlicet, cujus
+erat ipsorum satisfacere quæstionibus, iis acceptis
+detentum, cæsum et e vivis fuisse sublatum. Deinde
+in toto epistolæ contextu illud innuitur, eum ipsum
+qui nunc rescribit, prius Corinthiorum scripta ac-
+cepisse. Quocirca ad litteram intelligendi sunt tum
+Irenæus lib. III, Adv. hæres. c. 3, et apud Eusebium
+Hist. eccl., lib. V, cap. 6; tum Hegesippus apud
+eumdem Eusebium lib. IV, c. 22, cum dissensio-
+nem, quam sedare nunc conatur Clemens, non sub
+Petro, sed sub Clemente ortam esse testantur. Præ-
+terea cum idem Irenæus, apostolicorum temporum
+tam vicinus, Clementem tertio loco ab apostolis post
+Linum et Cletum, seu ut vocat, Anacletum, Romæ
+episcopatum sortitum esse scribat, reliquum est ut
+eum pluribus post Neronem annis Romanæ Ecclesiæ
+administrationem suscepisse crediderit. Hunc autem
+ea in re falsum esse quis sibi persuadeat? Eidem
+suffragantur et plerique Patres, qui Romanorum
+Pontificum seriem texunt, atque ipsi veteres cata-
+logi, in quibus Petro Linus, Lino Cletus, huic Cle-
+mens successisse legitur. Ipsa quoque Clementis
+verba num. 44 qui expenderit, ubi laudata aposto-
+lorum providentia subdit : Qui igitur ab illis, aut
+deinceps ab aliis viris eximiis constituti sunt... ac
+longo tempore præclarum ab omnibus testimonium
+reportarunt, hos censemus officio injuste dejici; hæc,
+inquam, qui expenderit, is persuasum habebit epi-
+stolam istam tunc temporis conscriptam esse, cum
+ab officio suo remoti fuissent presbyteri, qui non
+solum ab apostolis, sed etiam ab aliis deinceps, hoc
+est ab eorum successoribus ordinati, munus suum
+longo tempore obierant. Standum igitur est senten-
+tiæ Eusebii, in cujus Chronico cap. 15, pontificatus
+Clementis initia ad postremos Domitiani impera-
+toris annos referuntur. Unde nihil rationi magis
+consentaneum occurrit, quam ut Corinthiorum epi-
+stolam sæviente Domitiani persecutione Romam
+pervenisse, atque illis eadem persecutione desi-
+nente a Clemente circa annum Christi 97, rescri-
+ptum esse censeamus.
+
+# block=4
+VIII. Frustra etiam Clementem proxime post Pe-
+tri ac Pauli martyrium scripsisse ex eo colligitur,
+quod num. 4 Abelis, Jacob, Moysis ac Davidis, qui
+per æmulationem et invidiam multa passi sunt, præ-
+missis exemplis, num. 5 initio subjicit, sed missis
+veteribus exemplis, veniamus ad proximos athletas, et
+ætatis nostræ generosa exempla sumamus, ac deinde
+Petri et Pauli martyrium enarrat. Nemo enim non
+videt quam recte Clemens circa annum Christi 97,
+Petri ac Pauli martyrium, cum temporibus Davidis,
+Moysis, Jacob et Abelis comparatum, proximum ac
+vicinum ætatis nostræ dixerit. Imo neque proximum
+ab eo dicitur diebus quibus scribit, sed ætati, γενεᾷ
+quam agit, seu in qua degit. Demum num. 47 ubi
+ad evangelica tempora animum refert, eaque cum
+illo confert quo scribit, Corinthiorum Ecclesiam
+antiquam vocare, et primum eorum dissidium, de
+quo Paulus I Cor. 1, loquitur, ut in principio Evan-
+gelii ortum memorare, ipsamque apostoli hujus epi-
+stolam, tametsi quatuordecim tantum annis exci-
+dium Jerosolym. præcesserit, in principio Evangelii
+scriptam dicere non dubitat. Quod sane evidenti
+argumento est eum, cum ita scriberet, longius ab
+eodem principio recessisse; nec ab hinc recessisse
+longius videretur, si, ut vult Grabius, prædicta
+Pauli Epistola hæc Clementis novem duntaxat vel
+ad summum duodecim annis posterior foret.
+
+# block=5
+sens tempus enuntiare narranti licet. Quid enim in
+hac epistola sibi vult, Sacrificia non in omni loco,
+sed Jerosolymis tantum offerantur, nisi illud, Ex
+præscripto legis sacrificia Jerosolymis tantum offe-
+runtur? Quod quidem præscriptum cum etiamnum
+in lege maneat, ipsa Clementis verba etiam nobis
+efferre non inepte nunc liceret. Nempe Clemens
+comparatione ac more Judæorum, quibus sacrificio-
+rum leges a Moyse præscribuntur, Christianis au-
+ctor est, ut et ipsi statutum ab apostolis oblatio-
+num et officiorum ordinem reverenter accipiant ac
+servent. Hoc autem, ut ipse v. cl. Claud. Fleury fa-
+tetur, in exponendis comparationibus usuvenit, ut
+res præteritæ perinde ac si præsentes adessent, ob
+oculos ponantur.
+
+# block=6
+AD S. CLEMENTEM I PAPAM
+
+# block=7
+79
+
+# block=8
+80

@@ -1,0 +1,121 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,255,2161,1781,2637
+2,255,1591,1779,1914
+3,255,1260,1778,1581
+4,257,393,1779,673
+5,255,1927,1776,2151
+6,255,679,1780,864
+7,256,1114,1779,1247
+8,256,969,1781,1103
+9,255,875,1781,959
+10,260,252,1779,384
+11,290,2662,522,2698
+12,264,158,1777,242
+15,255,98,333,150
+16,1719,86,1787,134
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+352
+
+# block=15
+351.
+
+# block=12
+vero, fidei Catholicæ hostis gloriam propriam quæsivit, imo Ecclesiæ humiliationem, dum
+thesaurum absconditum reseraret.
+
+# block=10
+Beati quidem Clementis Epistolas ad Virgines, laudibus extulit; sed, cum simul imma-
+culatam Christi sponsam conviciis impeteret, adversarium Christi se detegit et ministrum
+Satanæ, qui transfigurat se in angelum lucis 3.
+
+# block=4
+Non omnes qui extra Ecclesiam sunt, hostili semper spiritu loquuntur. Junius Patricius,
+Oxoniensis, aliam operam sancti Clementis publicans, in Ecclesiam Romanam non inve-
+hitur; quæ catholice sanctus Clemens semper dicit, numquam in Catholicos detorquet;
+his quæ ad pacem restituendam sanctus Clemens profert, ad seditionem discordiamque
+spargendam nullibi abutitur; in Petram Ecclesiæ immotam inferi portas commovere non
+tentat.
+
+# block=6
+Veniam igitur ab omnibus orthodoxis, præsertim vero a te spero, fidelissime Præsul, si
+beatum Clementem virgines alloquentem novis producam et dignioribus, dummodo mihi
+non illudam, ornamentis vestitum, et si sensum verborum ejus a Wetstini interpretatione
+prorsus alienum, non semel usurpem.
+
+# block=9
+Nunc quid in hac publicatione intenderim piis omnibus lectoribus declarare operæ pre-
+tium judico, fusius in prævia dissertatione discussurus.
+
+# block=8
+Doctus Binius, qui scribebat diu antequam invenirentur Epistolæ sancti Clementis ad
+Virgines, expresse profitetur eas exstitisse, canonicasque fuisse appellatas, sicut Epistolam
+primam ad Corinthios, quia in fidelium cœtibus legebantur.
+
+# block=7
+Hic ego tantum dicam quod si eas authenticas esse non firmiter tenuissem, imo, si mi-
+nimum etiam dubium de earum genuino auctore in mente remansisset, ab eis vertendis et
+evulgandis prorsus abstinuissem, vel rationes saltem dubii mei exposuissem.
+
+# block=3
+Non eamdem certe securitatem exprimere valeo circa verum sensum ab auctore inten-
+tum : cum enim adhuc desideretur primigenius earum textus Græcus, timendum est sem-
+per ne quandoque erraverit Syriacus interpres. Ut ut sit, non dubito quin Wetstinus,
+etiam Syriacum vertens, plures ipse addiderit errores : ideoque non semel ab ejus sensu-
+bus exorbitavi. Si recta et congrua fuisset Wetstini interpretatio, nihil fere redarguendum
+esset in translatione Gallica D. Boistard de Prémagny : ideoque non interpretationem ejus,
+sed annotationes carpo.
+
+# block=2
+Cum vero nihil absolute certum de fidelitate vel erroribus interpretum affirmari queat,
+absente textu primitivo, cur et ipse novam interpretationem aggressus sum ? Huic quæsito
+in prævia dissertatione satisfaciam. Dicam tamen plurima sacræ Scripturæ loca a Wetstino
+aut non fuisse agnita, aut male reddita fuisse : quamvis id creditu difficile videri queat de
+viro tam diu in sacris litteris versato. Sed, si hæc loca agnovit, cur communem etiam apud
+suos interpretationem abjudicavit ? Errores Wetstini aberrationes traductoris Gallici in-
+duxerunt.
+
+# block=5
+Præcipua igitur mihi cura incubuit ut, in hac silva densissima, divinas detegerem sen-
+tentias easque manifestarem. An rectum iter tenuerim, judicet pius ac eruditus lector, in-
+primis textus antecedentes consequentibus jungendo et comparando. Dialectices enim re-
+gulas non ignorabat sanctus Clemens, nec supponi debet contra illas voluisse dis-
+serere.
+
+# block=1
+Præterea, ne unum quidem textum novum introduxi, sed semper Wetstini interpretatio
+oculis meis subjecta est, dum irregulares et contortas ejus locutiones rectitudini naturali
+restituebam. Nec primus viam hanc ingressus sum : multi enim ante me, in antiquorum
+auctorum explicatione, audaces, ut sic loquar, conjecturas emiserunt, quæ postea, ab omni-
+bus eruditis, ut veritates inconcussæ receptæ sunt. Ego vero rarissime, nec forsan semel,
+meris innixus sum conjecturis; sed, ut plurimum, pars quædam textus agniti ad notitiam
+partis, præ confusione verborum ignotæ, me deduxit. Si fere ubique verba Wetstini ab-
+dicaverim, etiam quando ipsius sensui stabam, nedum adversari, potius morem ipsi ge-
+rere, existimavi. Sic enim loquitur in suorum Prolegomenon conclusione : « Conversionis
+Latinæ vitia et inelegantiam benignus lector condonabit homini in opere novo et satis
+
+# block=11
+³ II Cor. xI, 14.

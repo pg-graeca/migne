@@ -1,0 +1,175 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,970,418,1721,1941
+2,182,417,938,1936
+3,193,341,936,407
+4,436,299,685,330
+5,971,334,1716,399
+6,956,2150,1714,2700
+7,789,2072,1092,2112
+8,218,1971,1707,2014
+11,181,2141,931,2720
+12,194,159,942,279
+14,625,101,1316,138
+15,1256,288,1431,321
+19,979,156,1725,284
+20,191,98,267,146
+21,1661,108,1727,146
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Si ergo pax apud eos, qui illam ad alios mise-
+runt, rursum ad præmittentes redit, quod non in-
+venerit dignos ipsa , multo magis maledictio rever-
+tetur in caput inique immittentis eam, quod is ad
+quem amandata est, non mereatur illam recipere.
+Quisquis enim sine causa conviciatur, sibi maledi-
+cit, ut Salomon ait : « Sicut aves volant, et passe-
+res , sic maledictum vanum non in nullum veniet¹¹ . »
+Et iterum dicit : « Qui autem proferunt convicia,
+insipientissimi sunt¹² . » Quemadmodum vero apis,
+viribus infirma , cum pupugerit aliquem , aculeum
+amittit, efficiturque sterilis : pari modo et vos,
+quam injuriam aliis intuleritis, hanc vobis facietis.
+« Lacum enim aperuit, et effodit eum; et incidet
+in foveam quam fecit¹³ . » Et rursus : « Qui
+fodit foveam proximo suo, incidet in eam¹⁴ . » Ergo
+qui maledici refugit, ne alteri maledicat. Nam quod
+oderis tibi fieri, neque alteri tu feceris. Quocirca
+monete immorigeras, objurgate inverecundas, con-
+solamini pusillo animo præditas, fortificate infir-
+mas, laudate sanctitatis iter ingressas. Benedicant
+potius, et non convicientur; pacem, non bellum
+faciant. Itaque nec episcopus, nec presbyter, nec
+diaconus, nec quivis alius sacri ordinis, linguam
+convicio inquinet; ne pro benedictione maledictio-
+nem sortiatur. Studeat autem et curet episcopus,
+ut neque laicus maledictum proferat : omnibus
+enim prospicere debet, clericis, virginibus, viduis,
+laicis. Propterea , episcope , tibi in vita adjutores,
+justitiæ operarios, Deoque gratos diaconos elige ,
+quos ex omni populo dignos esse probaris , et sub-
+eundis diaconici officii laboribus maxime accom-
+modatos. Etiam elige diaconissam fidelem et san-
+ctam, ad mulierum ministeria. Fit enim nonnun-
+quam, ut in quibusdam domibus, virum diaconum
+
+# block=2
+Εἰ οὖν ἡ εἰρήνη ἐπὶ τοὺς (77) πέμψαντας αὐτὴν
+ἐπ’ ἐκείνους, πάλιν ἐπιστρέφει ἐπὶ τοὺς προηκαμέ-
+νους αὐτὴν, διὰ τὸ μὴ εὑρεῖν ἀξίους αὐτῆς (78), πολὺ
+μᾶλλον ἡ κατάρα ἐπιστρέψει εἰς κεφαλὴν τοῦ ἀδίκως
+αὐτὴν ἐκπέμψαντος, ὡς οὐκ ἀξίου ὄντος λαβεῖν αὐτὴν
+ἐκείνου πρὸς ὅνπερ ἐξαπεστάλη. Πᾶς γὰρ ὁ μάτην
+λοιδορῶν, ἑαυτὸν ἀρᾶται (79), καθά φησιν ὁ Σολο-
+μών· « Ὥσπερ ὄρνεα πέτονται καὶ στρουθοὶ, οὕτως
+ἀρὰ ματαία οὐκ ἐπελεύσεται ἐπ’ οὐδενί . » Καὶ πάλιν
+λέγει· « Οἱ δὲ ἐκφέροντες λοιδορίας, ἀφρονέστατοί εἰ-
+σιν . » Ὥσπερ δὲ (80) ἡ μέλισσα, ἐν τῇ δυνάμει αὐτῆς
+ἀσθενὴς οὖσα, ἐπὰν πλήξῃ τινὰ, τὸ κέντρον ἀποβάλλει,
+καὶ γίνεται στεῖρα (81)· τὸν αὐτὸν τρόπον καὶ ὑμεῖς ὃ
+ἐὰν ποιήσητε ἄδικον εἰς ἑτέρους, τοῦτο εἰς (82) ἑαυ-
+τοὺς ἐνεργήσετε· « Λάκκον γὰρ ὤρυξε, καὶ ἀνέσκα-
+ψεν αὐτὸν, καὶ ἐμπεσεῖται εἰς βόθρον ὃν εἰργάσατο . »
+Καὶ πάλιν (83)· « Ὁ ὀρύσσων βόθρον τῷ πλησίον
+αὐτοῦ (84), ἐμπεσεῖται εἰς αὐτόν . » Οὐκοῦν ὁ φεύγων
+κατάραν, ἕτερον μὴ καταράσθω· ὃ γὰρ μισεῖς σοι
+γενέσθαι, οὐδὲ ἄλλῳ σὺ ποιήσεις. Διὸ νουθετεῖτε τὰς
+ἀπειθεῖς, ἐπιπλήσσετε ταῖς ἀναισχύντοις, παρακαλεῖτε
+τὰς ὀλιγοψύχους, ἰσχυροποιεῖτε τὰς ἀσθενούσας, ἐπαι-
+νεῖτε τὰς ἐν ὁσιότητι ὁδευούσας. Εὐλογείτωσαν μᾶλλον,
+καὶ μὴ λοιδορείτωσαν· εἰρηνοποιείτωσαν, καὶ μὴ πόλε-
+μον ἐμποιείτωσαν. Μήτε οὖν ἐπίσκοπος, μήτε πρεσβύ-
+τερος, μήτε διάκονος, μήτε ἄλλος τις ἐκ τοῦ καταλόγου
+τοῦ ἱερατικοῦ λοιδορίᾳ τὴν γλῶσσαν μολυνέτω, ἵνα μὴ
+ἀντὶ εὐλογίας κατάραν κληρονομήσῃ. Ἔστω δὲ σπουδὴ
+καὶ ἐπιμέλεια τῷ ἐπισκόπῳ, ὅπως μηδὲ λαϊκὸς κατά-
+ραν ἐκφέρῃ· περὶ πάντων γὰρ αὐτῷ μέλλειν ὀφείλει,
+περὶ κληρικῶν, περὶ παρθένων, περὶ χηρῶν, περὶ
+λαϊκῶν. Διὰ τοῦτο, ὦ ἐπίσκοπε, τοὺς συνεργούς σου
+τῆς ζωῆς καὶ τῆς δικαιοσύνης ἐργάτας, διακόνους
+εὐαρέστους Θεῷ προχειρίζου, οὓς ἐκ παντὸς τοῦ λαοῦ
+δοκιμάζεις εἶναι ἀξίους, καὶ εἰς τὰς τῆς διακονίας
+
+# block=3
+"Ὅτι ἀπρεπὲς τὸ λοιδορεῖν τὸν πλησίον· ἀλλότριον
+γὰρ (76) Χριστιανῶν τὸ καταρᾶσθαι.
+
+# block=4
+ΚΕΦΑΛΑΙΟΝ ΙΕ'.
+
+# block=5
+Quod non deceat conviciari proximo : alienum enim
+esse a Christianis maledicere.
+
+# block=6
+ditur a multis. Unde proverbialis locutio in Plato-
+nis Phædone, ὥσπερ μέλιττα τὸ κέντρον ἐγκατα-
+λιπὼν οἰχήσομαι. Velut apis aculeo relicto discedam.
+3° Improprie, et ratione mellis nequaquam confi-
+ciendi postea. Plinius lib. XI, cap. 18 : Aculeum api-
+bus natura dedit, ventri consertum. Ad unum ictum
+hoc infixo, quidam eas statim emori putant. Aliqui,
+nonnisi in tantum adacto, ut intestini quidpiam se-
+quatur : sed fucos postea esse, nec mella facere, velut
+castratis viribus, pariterque et nocere et prodesse de-
+sinere. COT.
+(82) Εἰς. Idem ἐπ’, quod est perinde. CLER.
+(83) Πάλιν. In altero ὁ Σολομών, rectius, nam
+proxime superior locus est Davidis. ID.
+(84) Τῷ πλησίον αὐτοῦ. Absunt hæc, et facile
+supplentur. ID.
+
+# block=7
+VARIORUM NOTÆ.
+
+# block=8
+¹⁰ Luc. x, 5; Matth. x, 13. ¹¹ Prov. xxvi, 2. ¹² Prov. x, 18. ¹³ Psal. vii, 16. ¹⁴ Prov. xxvi, 27.
+
+# block=11
+(76) Ἀλλότριον γάρ. Alter codex καὶ ἀλλότριον,
+nec loco convenit αἰτιολογική particula. CLER.
+(77) Ἐπὶ τούς ad ἐκείνους. Absunt in altero
+cod. et postea sequitur προσηκαμένους utrumque
+perperam. CLER.
+(78) Αὐτῆς. Legit idem ἑαυτῆς, recte. ID.
+(79) Πᾶς γὰρ ὁ μάτην λοιδορῶν, ἑαυτὸν ἀρᾶ-
+ται. Juxta illud Ecclesiastici xxi, 30 : Dum male-
+dicit impius diabolum, maledicit ipse animam suam:
+Ἐν τῷ καταρᾶσθαι ἀσεβῆ τὸν Σατανᾶν, αὐτὸς κατα-
+ρᾶται τὴν ἑαυτοῦ ψυχήν. COT.
+(80) Δέ. Idem cod. Vind. οὖν, quod melius. CLER.
+(81) Καὶ γίνεται στεῖρα. Tribus modis accipi
+potest : 1° simpliciter, ut sensus sit : apem, cum
+pupugerit, sterilem evadere, nec amplius gignere.
+Id vero nullibi me legere memini. 2° Subintelli-
+gendo κέντρον. Hoc est, privatur aculeo. Quod tra-
+
+# block=12
+τούτῳ· καὶ ἐὰν ᾖ ἐκεῖ υἱὸς εἰρήνης, ἡ εἰρήνη ὑμῶν
+ἐπαναπαύσεται ἐπ’ αὐτόν· ἐὰν δὲ μὴ ᾖ ἄξιος, ἡ εἰρήνη
+ὑμῶν πρὸς ὑμᾶς ἐπιστρέψει.
+
+# block=14
+CONSTITUTIONES APOSTOLICÆ.—LIB. III.
+
+# block=15
+CAPUT XV.
+
+# block=19
+rit ibi filius pacis, pax vestra requiescet super il-
+lum; sin autem non fuerit dignus, pax vestra
+revertetur ad vos¹⁰ . »
+
+# block=20
+793
+
+# block=21
+794

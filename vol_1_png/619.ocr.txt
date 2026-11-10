@@ -1,0 +1,176 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,981,1154,1734,1813
+2,189,1128,956,1813
+3,993,139,1745,970
+4,201,124,960,950
+5,205,1023,949,1090
+6,181,2019,945,2700
+7,1264,992,1458,1025
+8,440,969,708,1002
+9,185,1852,1729,1922
+10,997,1043,1734,1149
+11,649,78,1321,119
+12,967,2030,1734,2660
+13,805,1962,1102,1997
+17,211,70,281,112
+18,1677,92,1755,132
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Esto autem humanus, bonus, lenis, sincerus,
+verax, non durus, non contumax, non rigidus, non
+arrogans, non immisericors, non inflatus, non as-
+sentator, non improbus, non versipellis, non illu-
+dens tibi subjectis populis, Dei leges atque de pœ-
+nitentia sermones illis non occultans, non prom-
+ptus ad expellendum et ejiciendum; sed prudens,
+nec qui libenter ac procaciter increpes; nec qui
+testimonium adversus quempiam admittas, sine
+tribus fidelibus testibus, iisque quorum mores jam-
+pridem approbati sint, et dummodo neque inimici-
+tiis neque invidia ducantur. Multi quippe sunt ma
+levoli, dicaces, tertiam linguam habentes ⁶¹, osores
+fratrum, id operam dantes, ut Christi oves disper-
+gant: horum si delationes temere vis excipere, gre-
+
+# block=2
+Ἔσο δὲ χρηστὸς, ἀγαθὸς, ἤπιος, ἄδολος (25),
+ἀψευδὴς, μὴ σκληρὸς, μὴ αὐθάδης, μὴ ἀπότομος, μὴ
+ἀλαζὼν, μὴ ἀνηλεὴς, μὴ τετυφωμένος, μὴ ἀνθρωπά-
+ρεσκος, μὴ δειλὸς, μὴ δίγνωμος, ἐμπαίζων τοῖς ὑπὸ
+σὲ λαοῖς, μὴ ἀποκρύπτων ἀπ’ αὐτῶν τὰ τοῦ Θεοῦ
+νόμιμα καὶ τοὺς περὶ μετανοίας λόγους, μὴ πρόχειρος
+πρὸς τὸ ἐξῶσαι καὶ ἐκβαλεῖν, ἀλλ’ ἀσφαλὴς, μὴ φι-
+λεπιτιμητὴς (26) προπετὴς, μὴ παραδεχόμενος κατά
+τινος μαρτυρίαν ἄνευ τριῶν πιστῶν (27) μαρτύρων,
+καὶ τούτων ὧν ὁ τρόπος ᾖ μεμαρτυρημένος πάλαι,
+καὶ εἰ μὴ ἀπ’ ἔχθρας κινούμενοι ἢ φθόνου. Εἰσὶ γὰρ
+πολλοὶ ἐπιχαιρεσίκακοι, πρόγλωσσοι, τριττὴν γλῶσ-
+σαν ἔχοντες (28), μισάδελφοι, ἔργον τιθέμενοι σκορ-
+πίζειν τὰ Χριστοῦ πρόβατα· ὧν εἰ παραδέχεσθαι
+θέλεις τοὺς λόγους ἀκρίτως, διασπερεῖς σου τὸ ποί-
+μνιον, καὶ παραδώσεις λύκοις εἰς κατάβρωμα, τουτ-
+
+# block=3
+gis, quod secesserat revocas; potestatem enim ha-
+bes revocandi, et dimittendi confractos in remis-
+sionem ⁵²; per te Salvator, ad paralysi delictorum
+laborantem ait: « Remittuntur peccata tua ⁵³. Fi-
+des tua te salvum fecit; vade in pace ⁵⁴. » Pax au-
+tem et tranquillus portus est Ecclesia Christi: ad
+quam peccatores absolvendo restitue sanos et im-
+maculatos, bene sperantes, studiosos, in bonis
+operibus laboriosos: ut peritus et misericors medi-
+cus omnibus in peccato versantibus medere. « Non
+enim opus habent medico qui valent, sed qui male
+habent ⁵⁵ ... Venit enim Filius hominis salvare et
+quærere quod erraverat ⁵⁶. » Cum ergo sis Ecclesiæ
+Domini medicus, ⁵⁷ singulis ægrotis convenientem
+medicinam adhibe, omni modo, cura, sana, sospi-
+tes redde Ecclesiæ: pasce gregem ⁵⁸, non imperiose
+cum ludibrio, quasi potestatem exercens ⁵⁹; sed
+ut benignus pastor, in sinum agnos congregans, et
+fetas refocillans ⁶⁰.
+
+# block=4
+ἀφεστὸς· ἐξουσίαν γὰρ ἔχεις ἐπιστρέφειν, καὶ ἀπο-
+στέλλειν τεθραυσμένους ἐν ἀφέσει· διὰ σοῦ ὁ Σωτὴρ
+λέγει τῷ παρειμένῳ ἐν ἁμαρτίαις· « Ἀφέωνταί σου
+αἱ ἁμαρτίαι. Ἡ πίστις σου σέσωκέ σε· πορεύου εἰς
+εἰρήνην. » Εἰρήνη δὲ καὶ λιμὴν (21) γαληνός ἐστιν ἡ
+τοῦ Χριστοῦ Ἐκκλησία· εἰς ἣν λύων τοὺς ἡμαρτηκότας
+ἀποκαθίστα ὑγιεῖς καὶ ἀμώμους, εὐέλπιδας, σπου-
+δαίους, ἐργοπόνους ἐν τοῖς ἀγαθοῖς ἔργοις· ὡς ἔμπειρος
+καὶ συμπαθὴς ἰατρὸς πάντας ἰῶ (22) τοὺς ἐν ἁμαρτίᾳ
+πεπλανημένους. « Οὐ γὰρ χρείαν ἔχουσιν οἱ ἰσχύοντες
+ἰατροῦ, ἀλλ’ οἱ κακῶς ἔχοντες. Ἦλθεν γὰρ ὁ Υἱὸς
+τοῦ ἀνθρώπου σῶσαι καὶ ζητῆσαι τὸ πεπλανημένον. »
+Ἰατρὸς οὖν ὢν (23) τῆς Ἐκκλησίας τοῦ Κυρίου,
+πρόσαγε θεραπείαν κατάλληλον ἑκάστῳ τῶν νοσούν-
+των, παντὶ τρόπῳ, θεράπευε, ὑγίαζε, σώους ἀποκαθ-
+ίστα τῇ Ἐκκλησίᾳ· ποίμαινε τὸ ποίμνιον, μὴ ἐν
+κράτει μετὰ ἐμπαιγμοῦ, ὡς κατεξουσιάζων, ἀλλ’ ὡς
+ποιμὴν χρηστὸς τῷ κόλπῳ συνάγων τὰ ἀρνία (24),
+καὶ τὰς ἐν γαστρὶ ἐχούσας παρακαλῶν.
+
+# block=5
+Ὅτι κίνδυνος μονομερῆ κρίσιν ποιήσασθαι, καὶ
+τιμωρίαν ὁρίσαι κατὰ τοῦ μηδέπω ἐλεγχθέντος.
+
+# block=6
+(21) Λιμήν. Male omittunt in utroque Vindobo-
+nensi. Cler.
+(22) Ἰῶ. Rectius alter ἰώμενος. Idem pro ἁμαρτίᾳ
+habet ἁμαρτίαις. Id.
+(23) Ὤν. Alter cod. ὑπάρχων. Id.
+(24) Τῷ κόλπῳ συνάγων τὰ ἀρνία, κ. τ. λ. Habes
+vestigia integræ versionis Senum Is. xl, 11 : Τῷ
+βραχίονι αὐτοῦ συνάξει ἄρνας, καὶ ἐν τῷ κόλπῳ αὐτοῦ
+βαστάσει, καὶ ἐν γαστρὶ ἐχούσας παρακαλέσει. Hoc
+est apud Hieronymum : In brachio suo congregabit
+agnos, et in sinu suo portabit, et prægnantes conso-
+labitur. Minus bene quotquot venerunt in manus
+meas libri, sive excusi, sive manu exarati, ut et
+Cyrillus ac Procopius, omittunt voces, καὶ ἐν τῷ
+κόλπῳ αὐτοῦ βαστάσει, quas codex celeber. Renati
+Marchali tribuit Aquilæ et Symmacho, cum sint
+etiam interpretum LXX. Cot.
+(25) Ἄδολος. Deest in altero cod. Vindobon. Cl.
+(26) Φιλεπιτιμητής. Omittitur in altero cod. Id.
+(27) Πιστῶν. Deest in altero cod. nec necessa-
+
+# block=7
+CAPUT XXI.
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ ΚΑ'.
+
+# block=9
+⁵² Luc. iv, 19. ⁵³ Matth. ix, 2. ⁵⁴ Marc. v, 34. ⁵⁵ Matth. ix, 12. ⁵⁶ Luc. xix, 10. ⁵⁷ l. Ignat. ad
+Polyc. 2. ⁵⁸ Ezech. xxxiv, 4. ⁵⁹ Matth. xx, 25. ⁶⁰ Isa. xl, 11. ⁶¹ Eccli. xxviii, 16.
+
+# block=10
+Quod periculum sit una tantum parte audita judi-
+care, et pœnam decernere contra eum qui nondum
+convictus est.
+
+# block=11
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=12
+rium est, quia res per se satis intelligitur. Pro ὧν
+quod sequitur est ἐάν in utroque. Id.
+(28) Τριττὴν γλῶσσαν ἔχοντες Linguam tertiam
+Hebræi appellant, linguam oblocutoris, utpote me-
+diam inter auditorem ac eum de quo sermo habetur :
+aiuntque lingua tertia tribus perniciem importari,
+detrahenti, auscultanti et insimulato. Quæ γλῶσσα
+τριτὴ quanta mala excitet, describitur in Eccli. cap.
+xxviii; ubi tamen nonnulla exemplaria videntur
+habuisse τρητή, hoc est τετρυπημένη, perforata;
+eodem sensu quo servus ille Terentianus jocatur,
+se quando mendacia tacere jubetur, plenum rima-
+rum esse, hac atque illac perfluere. Egregie in scho-
+lio 2 ad gradum 10 Scalæ Joannis Climaci, Κατάλα-
+λος ψυχὴ, τρίβολον ἔχει γλῶσσαν· ἑαυτὴν γὰρ, καὶ τὸν
+ἀκούοντα, ἔσθ’ ὅτε δὲ καὶ τὸν καταλαλούμενον βλά-
+πτει. Anima quæ detractionibus est obnoxia, trisul-
+cam habet linguam : nocet enim et sibi ipsi, et audi-
+tori, et illi quandoque cui detrahitur. Cot.
+
+# block=13
+VARIORUM NOTÆ.
+
+# block=17
+637
+
+# block=18
+638

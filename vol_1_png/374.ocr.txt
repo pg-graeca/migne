@@ -1,0 +1,225 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,277,962,1030,1821
+2,283,1925,1039,2625
+3,291,271,1033,954
+4,1066,1486,1813,1863
+5,1062,139,1813,1479
+6,1063,2322,1802,2418
+7,1066,2482,1810,2686
+8,1060,2223,1801,2322
+9,320,1830,1029,1864
+10,322,2656,1027,2693
+11,546,142,786,178
+13,322,1893,841,1926
+14,1066,1893,1538,1927
+15,300,91,349,123
+16,1101,2419,1430,2452
+18,829,89,1289,124
+19,322,2624,569,2656
+20,1098,2450,1805,2485
+21,283,196,1032,264
+22,1063,1923,1813,2228
+23,1746,76,1832,124
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=18 fontSize=16px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=13px centerRows=true
+# block=22 fontSize=15px
+# block=23 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=23
+148.
+
+# block=18
+AD S. CLEMENTEM I PAPAM
+
+# block=15
+147
+
+# block=5
+sebii (37) ætate legebantur, cum a scriptore isto non
+ideo tantum rejiciatur, quod veterum testimoniis fir-
+matum non sit, verum etiam, quod apostolicæ fidei
+normam non servaret. Rejectum quoque fuit ab
+auctore synopseos sancti Athanasii (38) nomen præ-
+ferentis, a Gelasio papa (39). Sanctus Hieronymus (40)
+vero qui id sancti Clementis nomine laudat, idem ta-
+men tanquam apocryphum rejici monet. Est enim
+commentitiis historiis refertum, nullam veritatis
+speciem habentibus. Imo et blasphemæ voces (41)
+in Dei Filium, atque ineptiæ indignæ, quæ sub tanto
+nomine lucem viderent, ibidem occurrunt. Opus
+vero istud supposititium esse vel ipsa epistola, quæ
+in ejus antecessum legitur, argumento est; nuntiat
+enim sancti Petri mortem sancto Jacobo Hierosoly-
+mitano episcopo (42) qui pluribus annis ante apo-
+stolorum principem obierat. Epistola hæc Photii (43)
+ætate in omnibus Recognitionum exemplaribus non
+exstabat. Observat autem idem criticus, eam ali-
+quando sancti Clementis, quemadmodum hodie ex
+Ruﬁni interpretatione legitur, alias vero sancti Pe-
+tri nomine inscriptam fuisse, atque duo hæc exem-
+plaria eventus toto cælo diversos retulisse. Conje-
+cturam vero inde sumit, duas operis hujus editio-
+nes invicem valde diversas exstitisse, unam sub
+sancti Petri, alteram sub sancti Clementis nomine,
+quæ a Ruﬁno reddita fuit. Nec injuria : videmus
+enim ea, quæ sanctus Epiphanius et sanctus Hiero-
+nymus ex Recognitionibus laudarunt, in iis, quæ su-
+persunt, aut penitus non exstare, aut longe alia
+ratione legi.
+
+# block=11
+ARTICULUS Ⅱ.
+
+# block=21
+DE RECOGNITIONUM LIBRIS, LITURGIA CLEMENTINA,
+ALIISQUE SUPPOSITITIIS OPERIBUS.
+
+# block=3
+Testatur Photius (29) duo volumina a se perlecta
+fuisse, quæ scripta complura sub sancti Clementis
+nomine complectebantur. Priori apostolicæ consti-
+tutiones, opus apud universam antiquitatem cele-
+berrimum, continebantur; quod tamen doctorum
+virorum judicio longe post sancti hujus Pontificis
+tempora conscriptum fuit (30), altero sancti Petri
+res gestæ, ejusque cum Simone Mago colloquia de-
+scribuntur, et qua ratione sancti Clementis ipse
+parentem, atque fratres suos recognoverit, unde
+Recognitionum appellatio syntagmati huic indita est.
+Solet et Itinera, aut Itinerarium vel Circuitus S.
+Petri, atque Acta D. Petri appellari. Fuere et qui
+opus istud cum illa, quæ fertur sancti Petri cum
+Apione, disputatione confuderint. At Photius (31)
+opera hæc inter se diversa esse contendit.
+
+# block=1
+Veterum quidam eos sancto Clementi tribuerunt. —
+Origenes (32) sancti Clementis nomine loca complura
+recitat, quæ hodie in Recognitionum libris leguntur.
+Origene igitur opus istud antiquius est, atque ejus
+ætate, ut supposititium ab universis non habeba-
+tur. Idem quoque ut sancti Clementis Romani scri-
+ptum a D. Epiphanio et Rufino (33) laudatur ; uter-
+que vero conqueritur, ab hæreticis, Ebionitis præ-
+sertim, corruptum atque interpolatum fuisse, er-
+roresque suos undique eos illi inspersisse. Addit
+sanctus Epiphanius, nihil integrum ab illis relictum
+fuisse. Sanctus Hieronymus (34) idipsum S. Cle-
+mentis nomine recitat. Rufinus (35) ad sancti Gau-
+dentii preces Latine opus istud reddidit; neque
+quidquam a se resectum præter loca nonnulla vires
+suas, atque captum exsuperantia commemorat. At-
+tamen præter Ebionitarum, Eunomianorum præ-
+terea, atque complurium aliorum errores, qui ab
+Ecclesia damnati fuere, eo contentos animadver-
+tit (36).
+
+# block=4
+Circa tertium sæculum scripti fuere. — Recogni-
+tionum auctoris ætatem accurate designare non va-
+lemus; at si opus istud idem, atque sancti Petri
+cum Apione disputatio foret, quæ fuit Cotelerii (44)
+et insignium quorumdam criticorum sententia, al-
+tero tantum sæculo exeunte, aut tertio ineunte
+paulo ante Origenem scriptum fuisse censendum
+esset. Ait enim Eusebius (45) haud dudum spissa
+quædam opera sancti Clementis nomine prolata
+
+# block=9
+Supposititii sunt.— Eadem vero in hoc opere Eu-
+
+# block=13
+(29) Codice cxiii, in sua Bibliotheca.
+
+# block=14
+Philocal., et in cap. xxvi Matth.
+
+# block=22
+(33) Epiphan., hæres. 30, n. 15 ; Ruﬁnus, De adul-
+terat. libr. Origenis.
+(34) Hieronym., in Ep. ad Galat.
+(35) Ruf., prolog. in lib. Recognit.
+(36) Idem, De adulterat., lib. Orig.
+(37) Euseb., l. Ⅲ, c. 38, H. E.
+(38) Pag. 154.
+(39) In decreto.
+(40) In Catalog. c. 15.
+
+# block=2
+(30) Invicti argumenti loco sit D. Hieronymi si-
+lentium, qui ut peritissimus antiquitatis scrutator
+in catalogo scriptorum ecclesiasticorum mentio-
+nem certe eam injecisset, si se vivente constitutio-
+nes D. Clementis nomen præferentes in Catholicorum
+manibus versatæ fuissent. Quid quod liber hic ab
+apostolico sæculo abhorrentia complectatur? Petrus
+enim Saturninum et Basilidem absurdorum dogma-
+tum auctores dicit, qui Petro tamen posteriores
+erant. Lib. Ⅱ, c. 29 decernitur decimas et primitias
+pendendas episcopis, quas profecto nascens Eccle-
+sia ignoravit. L. Ⅵ, c. 15 baptismum ab hæreticis
+collatum iterari jubent. In octavo Constitutionum
+libro continetur etiam liturgia seu Missæ dicendæ
+ratio a capite quinto usque ad 15, in fine autem
+ejusdem libri in editione Conciliorum v. cl. Mansi
+col. 595, t. I, subjunguntur canones 84 ceu ab
+apostolis sanciti, ac a B. Clemente collecti. Verum
+de his alio loco et tempore, in quo nos demonstra-
+turos confidimus, scripta hæc primum sæculo tertio
+adornata fuisse.
+
+# block=8
+(41) Refertum autem est hoc opus absurdis nugis,
+non sine plurimis ex Arii opinione in Filium blasphe-
+mis. Photius, cod. cxiii.
+
+# block=6
+(42) Notum tibi facio, Domine, quia Simon Petrus
+pro pietate pati volens, præsentem vitam ﬁnivit. Ep.
+Clem. ad Jacob., n. 1.
+
+# block=16
+(43) Photius, cod. 113.
+
+# block=20
+(44) Cotelerius, t. I Patrum apostol., pag. 490.
+
+# block=7
+(45) Quidam porro alia etiam opera prolixa et co-
+piosa sub ejus nomine heri ac nudius tertius in lu-
+cem protulerunt : puta Petri et Apionis disputatio-
+nes, quarum apud antiquos nulla omnino exstat men-
+tio; neque enim sincera rectæ ﬁdei ab apostolis traditæ
+nota illis expressa reperitur. Euseb. l. Ⅲ, c. 38, H. E.
+
+# block=19
+(31) Codice 113.
+
+# block=10
+(32) Origenes, t. Ⅲ Comment. in Genes. cap. xxii,

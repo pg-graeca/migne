@@ -1,0 +1,216 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,217,849,967,1581
+2,989,2487,1739,2724
+3,211,1593,965,2724
+4,991,1728,1746,2491
+5,219,323,602,757
+6,991,323,1763,1731
+8,221,141,976,234
+9,831,258,1134,298
+11,1005,152,1759,244
+12,613,86,1353,156
+13,213,86,293,132
+14,1683,98,1759,152
+15,603,320,971,754
+16,213,750,967,826
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=217 source_y1=849 source_x2=967 source_y2=1581
+Non enim unus duntaxat nebulo circa Salvatoris
+infantiam comminisci sibi permisit; sed ejusdem
+Bibliothecæ codice 2276 legitur : Incipit Historia
+de Joachim et Anna, et de nativitate B. Dei genitricis
+semperque Virginis Mariæ, et de infantia Salvatoris.
+Ego Jacobus, filius Joseph, etc.; finitoque opere :
+Explicit liber de infantia Salvatoris. Codice vero
+1697 exstat liber tanquam Matthæi evangelistæ de
+infantia Salvatoris, narrationis cum præcedentibus
+partim similis, partim dissimilis; ineptus quidem
+instar illorum, in eo tamen consideratione dignus,
+quod etiam continet, non tamen absque interpola-
+tione, responsionem Christi pueri litteras discentis
+ad magistrum, relatam ex falsa Scriptura ab Ire-
+næo, lib. 1, cap. 17. Sed et in eodem apocrypho
+refertur quoque fabella de passeribus; quam lectam
+fuisse a Mahamede discimus per Nicetam Chonia-
+tem, atque adeo per impostorem ipsum, Alcorani
+Sur. 3 et 5. Cæterum nuper hic Parisiis doctissimus
+Dominicanus Vanslebius publico proposuit edendam
+cum aliis operibus Æthiopicis liturgiam D. N. Jesu
+Christo ascriptam. Cot.
+
+# block=2 source_x1=989 source_y1=2487 source_x2=1739 source_y2=2724
+(91) ᾿Αδάμ. Hujus reconditi scripti mentio in
+exemplaris Regii 1789 indiculo; Epiphanius hæ-
+resi 26, n. 8, ᾿Αποκαλύψεις τοῦ ᾿Αδάμ. Apud Gela-
+sium, Pænitentia Adæ. Idem enim esse opus colligi
+datur ex Cedreno, non multo post initium; unde
+nugatorii voluminis specimen accipies. Sed et libro
+Adami, hoc aut similis farinæ alio, se adhuc jacti-
+
+# block=3 source_x1=211 source_y1=1593 source_x2=965 source_y2=2724
+(88) ᾿Εν τοῖς παλαιοῖς. Talis liber, prophetiæ
+Chami, quam a Pherecyde expressam refert Cle-
+mens Alexandrinus centone 6, p. 642. Quod autem,
+ait Tertullianus, De anima, cap. 2, si philosophis etiam
+illa incursaverunt, quæ penes nos apocryphorum con-
+fessione damnantur, etc. Talis quoque τῶν παρ’
+῾Εβραίοις φερομένων ἀποκρύφων ἡ ἐπιγραφομένη
+᾿Ιωσὴφ προσευχὴ, apud Origenem tom. V in Joan-
+nis Evangelium; qui alibi sæpe secretorum, apud
+Judæos, voluminum mentionem facit. Additur a
+S. Epiphanio in libro De mensuris et ponderibus;
+quam vere, non excutio nunc; per LXX in Græcum
+sermonem translatos fuisse libros apocryphos 72,
+seu potius 22, probabilius enim corrigetur nume-
+rus capitis decimi per numerum capitis quinti, οϐ’
+per xϐ’, quam vice versa. Sed cogitent viri docti de
+loco deplorato in dicto cap. 5 : Αὗται αἱ βίϐλοι τὸν
+τρόπον ὃν εἴπομεν ἑρμηνεύθησαν, κατὰ περίοδον
+ἑκάστη ζυγεῖ ἑρμηνευτῶν ἐπιδιδομέναι, καὶ ἀπὸ τῆς
+πρώτης ζυγῆς τῇ δευτέρᾳ, καὶ πάλιν ἀπὸ τῆς δευ-
+τέρας τῇ τρίτῃ, καὶ οὕτως παρῆλθον κελεύουσαι
+ἑκάστη τριακονταεξάκις ἑρμηνευθεῖσαι, ὡς ᾄδεται λό-
+γος, καὶ ἐξικοῦσθαι τῶν ἀποκρύφων. Nihil succur-
+rit, præter χέλλη ἑνοῦσαι ἑκάστη. Hi libri sacræ
+Scripturæ eo quem diximus modo translati sunt, in
+orbem unicuique pari interpretum tributi, a primo
+pari ad secundum, rursusque a secundo ad tertium :
+atque ita per singulas cellas fuerunt ac transierunt,
+trigesies sexies conversi, ut fama percrebuit. Una cum
+viginti duobus apocryphis. Quid si quis harioletur
+κελεύουσα ἑκάστη, hoc est per unamquamque, ut
+æque barbare loquar, collationem? Præter hæc apo-
+crypha confixero alia hæretici, et maximis anti-
+quissimisque nominibus donavere, Evæ, Sethi ac
+
+# block=4 source_x1=991 source_y1=1728 source_x2=1746 source_y2=2491
+(90) ᾿Ενώχ. Aliquid ne ad hunc locum observa-
+remus, effecit doctorum hominum diligentia. Quæ
+enim subjunctum imus, observationum nomen non
+merentur. Duo autem sunt : 1. Citatio ejusdem loci
+per Clementem Alexandrinum, ejusque discipulum
+Origenem : ῾Ομοδοξῶν τῷ ᾿Ενώχ, ait primus, p. 801,
+col. 2, in Hypotyposibus, τῷ εἰρηκότι· Καὶ εἶδον τὰς
+ὕλας πάσας. Alter vero, in De principiis, cap. ult. ex
+versione Rufini : Dicente Enoch, universas materias
+perspexi. II. Collatio verborum S. Hilarii ad psal.
+cxxxii, 3 : Hermon mons est in Phænice, cujus in-
+terpretatio anathema est : quod enim nobis anathema
+nuncupatur, id Hebraice Hermon dicitur. Fertur au-
+tem id, de quo etiam nescio cujus liber exstat, quod
+angeli concupiscentes filias hominum, cum de cælo
+descenderent, in hunc montem maxime convenirent
+excelsum. Horum, inquam, comparatio cum istis
+libri Henoch : ῞Ησαν δὲ οὗτοι (ἐγρήγοροι) διακόσιοι,
+οἱ καταϐάντες ἐν ταῖς ἡμέραις ᾿Ιάρεδ εἰς τὴν κορυ-
+φὴν ῾Ερμονιὲμ ὄρους· καὶ ἐκάλεσαν τὸ ὄρος ῾Ερμὼν,
+καθότι ὤμοσαν καὶ ἀνεθεμάτισαν ἀλλήλους ἐν αὐτῷ.
+Georgii Syncelli, p. 12, A. Vides nescio quem illum,
+esse supposititium Henochum. ID.
+
+# block=5 source_x1=219 source_y1=323 source_x2=602 source_y2=757
+θεὶς ἀνεχώρησεν οἴκαδε,
+θαυμάζων, ἐξιστάμενος τὸ
+παράδοξον. Πορευομένου
+δὲ τοῦ ᾿Ιησοῦ, εἶδέ τι
+ἐργαστήριον, καί τινα νεα-
+νίσκον βάπτοντα εἰς λέ-
+ϐητας ἱμάτια καὶ τζόχας·
+τινὰς διαφόρους φαιὰς, τὸ
+καθέκαστον ἐκτελῶντα κα-
+τὰ τὴν τοῦ ἑνὸς ἑκάστου
+βoύλησιν. Εἰσελθὼν οὖν τὸ
+παιδίον ᾿Ιησοῦς, οὕτως
+ποιοῦντα τὸν νεανίαν, λα-
+
+# block=6 source_x1=991 source_y1=323 source_x2=1763 source_y2=1731
+septem ejus liberorum, Abrahami, Moysis, aliorum,
+tradente Epiphanio. Cot.
+(89) Μωσέως. Gaudebant illustri nomine quatuor
+secretæ ac occultæ scripturæ : Sermones mystici,
+Testamentum, Assumptio vel Ascensio atque Reve-
+latio. Habes βίϐλον λόγων μυστικῶν Μωσέως in Actis
+concilii Nicæni editionis Morellianæ in-8º, p. 110,
+111, Commelinianæ in-fol. p. 28, l. VI; Διαθήκην
+Μωσέως in Synopsi Athanasiana, in Nicephori
+Constantinopolitani Stichometria, et in laterculo
+supra posito initio notarum ad hoc opus Consti-
+tutionum : item ᾿Ανάληψιν apud Origenem Περὶ
+ἀρχῶν III, 2; Athanasium et Nicephorum ubi mox;
+Acta concilii Nicæni edit. Morell., p 110, 131, 134;
+3 Commel., p. 28 et 55; eamque intelligere videtur
+Evodius epistola ad S. Augustinum, inter Augusti-
+nianas 258. Denique ᾿Αποκάλυψιν Mosis citat Geor-
+gius Cedrenus, in Compendio historiarum : atque
+inde sumptum vult versiculum 15, cap. VI Epistolæ
+ad Galatas Georgius Syncellus, Chronographiæ
+p. 27. ad quod Pauli testimonium in cod. Reg. 607
+et 1253 adnotatur esse ex Moysis apocrypho. Ob-
+servabis præcipue verba Cedreni, edit. Basil., p. 3,
+l. XXXII : Ὡς ἐν λεπτῇ φέρεται Γενέσει, ἦν καὶ Μωσέως
+εἶναί φασί τινες ᾿Αποκάλυψιν, et p. 6, l. XXXIX : Ὡς ἡ
+λεπτὴ Μωσέως Γένεσίς φησιν. Nam parva Genesis,
+λεπτὴ Γένεσις, Λεπτογένεσις, Μικρογένεσις memora-
+tur a Hieronymo, epist. 127, mans. 18 et 24, qui
+id Geneseos apocryphum Hebraice legerat. Memo-
+ratur a Celasio his verbis : Liber de filiabus Adæ,
+hoc est Leptogenesis, apocryphus. Item a Georgio
+Syncello, Zonara, Glyca. Sed insigniter ab Epi-
+phanio hæresi 39, n. 6, nec sine difficultate : Ὡς
+δὲ ἐν ᾿Ιωϐηλαίοις εὑρίσκεται, τῇ καὶ Λεπτογενέσει
+καλουμένῃ, etc. Obscurum quipре, cur τῇ λεπτῇ
+Γενέσει nomen τὰ ᾿Ιωϐηλαῖα inditum fuerit; tacuit-
+que qui docere poterat doctissimus Petavius. Con-
+jecerim, quia verbum יָבַל significat deducere, et
+nomen יוֹבֵל rivum, aquarum processum : quæ Genesi
+atque originibus conveniunt, ut fusius videre est in
+R. Mose Nachmanide, ubi de jubilæo disserit. Vide
+Jos. Scaligerum Anim. in Euseb., p. 16. ID.
+
+# block=8 source_x1=221 source_y1=141 source_x2=976 source_y2=234
+Καὶ ἐν τοῖς παλαιοῖς (88) δέ τινες συνέγραψαν βίϐλια
+ἀπόκρυφα Μωσέως (89), καὶ ᾿Ενώχ (90), καὶ ᾿Αδὰμ (91),
+
+# block=9 source_x1=831 source_y1=258 source_x2=1134 source_y2=298
+VARIORUM NOTÆ.
+
+# block=11 source_x1=1005 source_y1=152 source_x2=1759 source_y2=244
+Mosis, Enochi, Adami, Isaia, Davidis, Eliæ et
+trium patriarcharum libros apocryphos, exitiales,
+
+# block=12 source_x1=613 source_y1=86 source_x2=1353 source_y2=156
+CONSTITUTIONES APOSTOLICÆ.— LIB. VI.
+
+# block=13 source_x1=213 source_y1=86 source_x2=293 source_y2=132
+953
+
+# block=14 source_x1=1683 source_y1=98 source_x2=1759 source_y2=152
+954
+
+# block=15 source_x1=603 source_y1=320 source_x2=971 source_y2=754
+rans, stupefactus de re
+incredebili. Postea cum
+Jesus iter faceret, vidit of-
+ficinam, et juvenem quem-
+dam qui in lebetes immer-
+gebat vestes, et soccos di-
+versos coloris fusci, sin-
+gula peragens juxta unius-
+cujusque voluntatem. In-
+gressus itaque puer Jesus
+ad juvenem sic facientem,
+ipse etiam accepit de ap-
+positis pannis * * * * *
+
+# block=16 source_x1=213 source_y1=750 source_x2=967 source_y2=826
+θῶν καὶ αὐτὸς ἐκ τῶν προσκειμένων ὑφασμά-
+των * * * * *

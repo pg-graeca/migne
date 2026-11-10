@@ -1,0 +1,106 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1179,1196,1805,1982
+2,248,246,1153,1918
+3,1182,2123,1797,2461
+4,259,2513,1821,2602
+5,1186,790,1804,1179
+6,1389,178,1587,222
+7,1184,267,1795,774
+8,1393,2045,1584,2082
+9,242,2111,1146,2466
+10,256,62,319,109
+12,1727,80,1795,128
+13,631,66,1431,126
+14,537,148,837,224
+15,557,2034,833,2096
+16,737,2648,1087,2738
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+387
+
+# block=13
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=12
+388
+
+# block=6
+CAPUT IV.
+
+# block=7
+Qui enim his anhelat sublimibus
+excellentibusque sedibus, mundo
+moritur seque ab eo segregat, ut,
+procul, vitam ducat cælestem ac
+divinam , sanctorum angelorum
+instar, in conscientia pura sanctaque
+et in virtute Spiritus sancti, Deo
+omnipotenti, propter regnum cælo-
+rum, serviens per Jesum Christum.
+
+# block=5
+Idcirco concupiscentias carnis a
+se removet, nec solum his valedicit
+verbis : Crescite et multiplicamini,
+sed suspirat in spem vitæ æternæ,
+paratam et conservatam in cælis ⁵⁹,
+quam promisit qui non mentitur
+Deus ⁶⁰.
+
+# block=1
+Hinc cujuscunque sexus virgini-
+bus asseritur nomen multo clarius
+quam honor ex filiis et filiabus pro-
+cedens, eisque promittitur subli-
+mior habitationis locus ; nec ipsis
+comparandi sunt conjuges licet san-
+ctitate eximii, et quorum torus fuit
+immaculatus. Locus enim in quo
+habitabunt, non tantum electis om-
+nibus commune regnum cælorum
+est, sed pars ipsorum cum sanctis
+angelis est, ut nobilius et excellen-
+tius quod elegerunt vitæ genus re-
+muneretur ⁶¹.
+
+# block=8
+CAPUT V.
+
+# block=3
+Virginitatem amplecti meditaris,
+frater! Num vero satis expendisti
+quantum laboris ac molestiæ secum
+inducat virginitas? Jugiter coram
+Deo ambulare debet, nec unquam
+ab ejus removenda est præsentia.
+
+# block=4
+⁵⁹ I Petr. ɪ, 4. ⁶⁰ Tit. ɪ, 2. ⁶¹ Nemo non videt hic virginibus applicari a sancto Clemente textum
+Isaiæ (cap. ʟᴠɪ, 5). Eamdem, sequentibus sæculis, applicationem ejusdem loci fecerunt multi doctores.
+
+# block=16
+.ܓܡܝܼܪ. FIN. (a)

@@ -1,0 +1,164 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,935,623,1694,2180
+2,140,625,908,2140
+3,163,2479,903,2683
+4,947,2479,1695,2683
+5,149,143,898,279
+6,387,421,653,458
+7,943,487,1683,595
+8,1186,414,1434,453
+9,161,2247,1707,2354
+10,562,92,1229,132
+11,149,491,897,595
+14,775,2395,1073,2432
+15,935,148,1685,278
+16,147,274,1689,364
+17,139,88,215,134
+18,1611,96,1679,140
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Porro episcopum oportet recte judicare; sicut
+scriptum est : « Justum judicium judicate⁴⁰; » et
+alibi : « Quid vero a vobis ipsis quod justum est
+non judicatis⁴¹ ? » Estote igitur tanquam argentarii
+periti. Ut enim illi nummos adulterinos rejiciunt,
+probos autem retinent ; eumdem ad modum oportet
+ut episcopus quæ non habent maculam complecta-
+tur, quæ autem maculosa sunt, vel curet, vel si
+desperanter laborent, abjiciat ; non tamen statim
+amputet, nec quibusvis credat ⁴²; fit enim nonnun-
+quam, ut aliqui æmulatione ac invidia ducti adver-
+sus fratrem falsam accusationem instituant ; ut olim
+Babylone duo senes adversus Susannam ⁴³, utque
+Ægyptia mulier contra Josephum ⁴⁴. Talia tu, qui
+homo Dei es, non temere admittes, ne forte inno-
+centem perimas, et occidas justum. Qui enim hæc
+libenter audit, magis iræ pater est, quam pacis ; ubi
+vero ira est, hinc Dominus abest ; quia ira Satanæ
+amica; illam dico, quæ, a falsis fratribus contra
+æquitatem concitata , nunquam concordiam in Ec-
+clesia subsistere patitur. Unde cognitis iis homini-
+bus, imprudentibus, contentiosis, æmulis, malevo-
+lentibus, nolite fidem illis habere ; quin potius cum
+eos audieritis fratrem criminari, cautionem adhi-
+bete ; quia homicidium ludus illis videtur ac nihi-
+lum ; et ubi nemo suspicatur; prosternunt hominem.
+Tu ergo accusatum considera, et sapienter expende
+mores illius, qui ac quales sint ; et si accusatorem
+vere ac juste loqui compereris, secundum Domini
+doctrinam facito ; reum assumptum solum, nemine
+præsente argue, ut pœnitentiam agat : quod si non
+patitur se persuaderi, adhibitis duobus vel tribus,
+ipsi quantum deliquerit ostende ⁴⁵, admonens eum
+cum mansuetudine ac disciplina ; quoniam « in corde
+bono requiescet sapientia; in corde autem impru-
+dentium non dignoscitur ⁴⁶. »
+
+# block=2
+Τὸν μέντοι ἐπίσκοπον δεῖ κρίνειν ὀρθῶς, καθὼς
+γέγραπται· « Τὴν δικαίαν κρίσιν κρίνετε. » Καὶ ἀλ-
+λαχοῦ· « Τί δὲ καὶ ἀφ’ ἑαυτῶν οὐ κρίνετε τὸ δίκαιον; »
+Γίνεσθε οὖν ὡς ἀργυρονόμοι ἐπιστήμονες. Καθάπερ
+γὰρ οὗτοι τὰ φαῦλα τῶν νομισμάτων ἀποκρίνουσι, τὰ
+δὲ δόκιμα οἰκειοῦνται· τὸν αὐτὸν δὴ τρόπον καὶ τὸν
+ἐπίσκοπον χρή, τὰ μὲν ἄμωμα κατέχειν, τὰ δὲ ἐπί-
+μωμα ἢ θεραπεύειν, ἢ ἀνιάτως νοσοῦντα ἀποῤῥίπτειν·
+καὶ μὴ ταχέως κόπτειν, μηδὲ οἷς δήποτε πιστεύειν·
+ἐγχωρεῖ γάρ τινας καὶ διὰ ζῆλον, ἢ φθόνον κατά τινος
+ἀδελφοῦ ἐνστήσασθαι ψευδῆ κατηγορίαν· ὡς οἱ δύο
+πρεσβύτεροι ἐπὶ τῆς Σωσάννης ἐν Βαβυλῶνι, καὶ ἡ
+Αἰγυπτία ἐπὶ τῷ Ἰωσήφ. Σὺ οὖν, ὡς Θεοῦ ἄνθρωπος,
+τὰ τοιαῦτα μὴ προχείρως παραδέχου, ἵνα μὴ ἀνέλῃς
+τὸν ἀθῶον καὶ ἀποκτείνῃς τὸν δίκαιον. Ὁ γὰρ τοιαῦτα
+παραδέχεσθαι θέλων, ὀργῆς πατήρ ἐστι μᾶλλον ἢ εἰ-
+ρήνης· ὅπου δὲ ὀργή, ἐκεῖ ὁ Κύριος οὐκ ἔστιν· ἡ γὰρ
+ὀργὴ τοῦ Σατανᾶ ὑπάρχουσα φίλη, λέγω δέ, ἡ παρὰ
+τὸ δίκαιον κινουμένη διὰ τῶν ψευδαδέλφων, οὐδέποτε
+ἀφίησι γενέσθαι ὁμόνοιαν ἐν τῇ Ἐκκλησίᾳ. Ὅθεν ἐπι-
+γινώσκοντες τοὺς τοιούτους ἄφρονας, ἐριστάς, ζηλω-
+τάς, χαιρεσικάκους (34), μὴ πιστεύετε αὐτοῖς· ἀλλὰ
+καὶ παρατηρεῖσθε τοὺς τοιούτους, ἀκούοντές τι παρ’
+αὐτῶν κατὰ ἀδελφοῦ· ὅτι οὐδὲν ἐν ὀφθαλμοῖς αὐτῶν
+φόνος· καὶ οὗ τις οὐχ ὑπονοεῖ, καταβάλλουσιν ἄνδρα.
+Σὺ οὖν πρόσεχε τῷ κατηγορηθέντι, ἐν σοφίᾳ παρατη-
+ρῶν τὴν ἀναστροφὴν αὐτοῦ, τίς καὶ ὁποία τυγχάνει·
+καὶ εἰ εὕροις αὐτὸν ἀληθεύοντα, κατὰ τὴν τοῦ Κυρίου
+διδαχὴν ποίησον, καὶ μόνον παραλαβὼν τὸν κατηγο-
+ρηθέντα, ἔλεγξον αὐτόν, ὅπως μεταγνῷ, μηδενός σοι
+συμπαρόντος. Εἰ δὲ οὐ πεισθείη, γενόμενος δεύτερος,
+ἢ τρίτος, οὕτως αὐτῷ ὑπόδειξον τὸ πλημμέλημα,
+νουθετήσας αὐτὸν ἐν πραότητι καὶ παιδείᾳ· ὅτι « ἐν
+καρδίᾳ ἀγαθῇ ἀναπαύσεται σοφία· ἐν δὲ καρδίᾳ ἀφρό-
+νων οὐ διαγινώσκεται. »
+
+# block=3
+μενοι. Omiseram notare assertionem Constitutoris,
+de præcepto, Estote probi trapezitæ, sacerdotibus
+dato, congruere cum oratione Dionysii Alexandrini
+de eodem dicto πρὸς τοὺς δυνατωτέρους emisso :
+alios tamen id vocis pro generali monito habuisse.
+Cot.
+
+# block=4
+(32) Ἡ διδασκαλικοῦ. Deest in codice altero
+Vindobonensi, et abesse debet ; sermo enim est de
+judice, non de doctore. Cler.
+(33) Ὅπως. Legit ὅτι alter cod. Vind. Id.
+(34) Χαιρεσικάκους. Vind. codices, ἐπιχαιρεσι-
+κάκους, a quibus abest ζηλωτάς. Id.
+
+# block=5
+Τοὐναντίον γὰρ εἴρηται τοῖς ἔξω τοῦ ἀξιώματος τοῦ
+δικαστικοῦ, ἢ διδασκαλικοῦ (32) ὑπάρχουσι· « Μὴ
+κρίνετε, καὶ οὐ μὴ κριθήσεσθε. »
+
+# block=6
+ΚΕΦΑΛΑΙΟΝ ΛΖ'.
+
+# block=7
+De accusatoribus et delatoribus; et quod judex non
+debeat illis facile credere, vel non credere, sed ad-
+hibita diligenti inquisitione.
+
+# block=8
+CAPUT XXXVII.
+
+# block=9
+³⁷ Deut. i, 16, et xvi, 18 ; Zach. vii, 9. ³⁸⁻³⁹ Luc vi, 37. ⁴⁰ Jo. vii, 24. ⁴¹ Luc xii, 57. ⁴² Lau-
+detur a Cedreno. Vide Vet. Testim. ⁴³ Dan. xiii. ⁴⁴ Gen. xxxix. ⁴⁵ Matth. xviii, 15. ⁴⁶ Prov.
+xiv, 33.
+
+# block=10
+CONSTITUTIONES APOSTOLICÆ.—LIB. II
+
+# block=11
+Περὶ κατηγόρων καὶ συκοφαντῶν· καὶ ὅπως (33)
+χρὴ μὴ προχείρως πιστεύειν ἢ ἀπιστεῖν τούτοις
+τὸν κριτήν, ἀλλὰ μετὰ ἀκριβοῦς ἐξετάσεως.
+
+# block=14
+VARIORUM NOTÆ.
+
+# block=15
+ctione effectus es ; atqui solis sacerdotibus judicare
+est concessum , quippe quibus dictum sit : « Judi-
+cium justum judicate ³⁷; » et rursum : « Es-
+
+# block=16
+tote probi trapezitæ ³⁸: » vobis autem id non est permissum ; imo contra, iis qui dignitatem aut judicis aut
+magistri non habent, dictum est : « Nolite judicare, et non judicabimini ³⁸⁻³⁹. »
+
+# block=17
+689
+
+# block=18
+690

@@ -1,0 +1,207 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,235,734,979,903
+2,1026,142,1782,614
+5,642,86,1371,124
+6,516,683,701,716
+7,1013,732,1775,904
+8,245,79,298,127
+9,231,138,994,617
+10,220,1029,971,2686
+11,1274,682,1519,718
+12,858,983,1168,1019
+13,993,1462,1771,2660
+14,231,618,1201,662
+15,1705,84,1785,140
+16,221,916,1579,978
+17,1013,1027,1763,1463
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=16px
+# block=5 fontSize=16px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=16px
+# block=9 fontSize=16px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+910
+
+# block=15
+920
+
+# block=5
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA
+
+# block=9
+non comedunt, imo et lectis, catinis, crateribus, po-
+culis ac sedilibus nisi aqua purgaverint, nullatenus
+utuntur, et Ebionæi nostra ætas nunc exorti, qui
+Filium Dei volunt esse nihil aliud quam hominem,
+ex voluptate viri, et Josephi ac Mariæ conjunctione
+natum, affirmantes. Qui vero ab iis omnibus separa-
+runt se, ac patrios ritus servant, Essæi sunt. Atque
+hæc in priore populo. Nunc autem malus seu dia-
+bolus, utpote ad malefaciendum sapiens, at boni
+omnino ignarus ⁶⁷, ex nobis quosdam excussit, at-
+que in iis hæreses ac schismata operatus est ⁶⁸.
+
+# block=2
+ran, ἐὰν μὴ βαπτίζωνται, οὐκ· ἐσθίουσιν, ἀλλὰ καὶ
+τὰς κλίνας καὶ τοὺς πίνακας ἤτοι κρατῆρας καὶ πο-
+τήρια καὶ καθίσματα ἐὰν μὴ καθάρωσιν ὕδατι.
+οὐδενὶ χρῶνται. Καὶ οἱ ἐφ᾽ ἡμῶν νῦν φανέντες
+Ἑβιωναῖοι (91), τὸν Υἱὸν τοῦ θεοῦ φιλὸν ἄνθρωπον
+εἶναι βουλόμενοι, ἐξ ἡδονῆς ἀνδρὸς καὶ συμπλοκῆς
+Ἰωσὴφ καὶ Μαρίας αὐτὸν γεννῶντες. Οἱ δὲ τούτων
+πάντων ἑαυτοὺς χωρίσαντες, καὶ τὰ πάτρια φυλάσ-
+σοντες (92), εἰσὶν Ἔσσαιοι. Ταῦτα μὲν οὖν ἐν τῷ
+προτέρῳ λαῷ. Καὶ νῦν ὁ πονηρός, σοφὸς ὢν τοῦ κα-
+κοποιῆσαι, καὶ τὸ καλὸν ὅ τι ποτέ ἐστιν ἀγνοῶν, ἐξ
+
+# block=14
+ἡμῶν τινας ἐκβαλὼν, ἐνήργησεν ἐν αὐτοῖς αἱρέσεις καὶ σχίσματα.
+
+# block=11
+ΚΕΦΑΛΑΙΟΝ Ζ′.
+
+# block=6
+CAPUT VII.
+
+# block=7
+Ὁπόθεν ἀνέφυσαν αἱ αἱρέσεις (93-94), καὶ ὅς τις
+αὐτῶν ἀρχηγὸς τῆς ἀσεβείας γεγένηται.
+Ἡ δὲ καταρχὴ τῶν νέων αἱρέσεων γέγονεν οὕτως.
+Σίμωνά τινα ἀπὸ Γιτθῶν (95) οὕτω καλουμένης κώ-
+
+# block=1
+Unde prodierint hæreses, et quis fuerit impietatis
+earum dux et auctor.
+⁶⁹ Hæreses vero novæ initium habuere isto modo,
+Simonem quemdam, ex vico Gitthorum dicto, Sa-
+
+# block=16
+⁶⁷ Jerem. iv, 22. ⁶⁸ l. Pseudo-Ignat. ad Philip. 4. ⁶⁹ Citat Cedrenus. VideTestim. vet.
+
+# block=12
+VARIORUM NOTÆ.
+
+# block=17
+mittentur cum his Josephi, De bello Judaico, lib. II,
+cap. 12, p. 786, e quibus expressa sunt, quæque
+exstant etiam in Porphyrio, lib. IV, de abstinentia
+a rebus animatis, indeque apud Eusebium Præpar.
+evangel. IX, 3 : Καὶ τοῖς ἐξωθέν ὡς μυστήριον τι
+φριχτὸν, ἢ τῶν ἔνδον σιωπὴ καταφαίνεται. Τούτου δὲ
+αἴτιον, ἡ διηνεκὴς νῆψις. Eorumque silentium, vertit
+Rūlīnus, extra tectum constitutis, arcanum quoddam
+videatur horribile. Cujus quidem rei perpetua sobrie-
+tas causa est. Etenim in loco Josephi de somno ne
+verbum quidem : rectius tamen sobrietas dicitur
+esse causa somni brevis levisque, quam silentii,
+Amplius cogitemus. Nollem vero tantopere peccasse
+
+# block=10
+Justino Martyre in Dialogo, p. 307, Joannes Nicæ-
+nus Epistola ad Zachariam, tom. II Auctarii Com-
+belliani, p. 300 : Τῶν δὲ ἑπτὰ αἱρέσεων ὀνόματα,
+ταῦτα· πρῶτον Γραμματεῖς· δεύτερον Φαρισαῖοι· τρί-
+τον Σαδδουκαῖοι· τέταρτον Ἡμεροβάπτιστοι· πέμ-
+πτον Ἀσιανοί· ἕκτον Ναζαραῖοι· ἕβδομον Ἡρωδια-
+νοί. Emenda ex Epiphanio, Ἡμεροβαπτισταί: Ὄπ-
+συνοί, Νασαραῖοι, ΣΟΤ.
+(91) Νῦν φανέντες Ἐβιωναῖοι. Ebionitarum,
+Semi-Judæorum, Semi-Christianorum, ideoque mo-
+do Judæis adnumeratorum, modo Christianis, or-
+tus melius referetur cum Epiphanio et Hieronymo
+ad tempora Joannis apostoli, quam ut in Chronico
+Alexandrino ad annum proximum a morte illius.
+Et benigno interprete eget illud Paciam epist. 1. ad
+Sympronjanum; Ut Judæorum hæreticos prætermil-
+tam, Dositheum Samaritanum, Sadducæos, et Pha-
+risæos; quanti apostolorum temporibus emerserint,
+dinumerare perlongum est; Simon Magus, et Me-
+nander, et Nicolaus, et cæteri, quos fama recondit
+obscura. Quid posterioribus temporibus Ebion, et
+Apelles et Marcion, et Valentinus, et Cerdon; nec
+longe post eos, Cataphryges, et Novatiani. Hujus
+sectæ princeps Ebion docuit suos, pari modo atque
+Cerinthus et Carpocrates, Christum ex Josepho et
+Maria, instar cæterorum hominum, genitum fuisse.
+Ubi corrigere oportet Irenæum, lib. I, cap. 28,
+tollendo particulam negantem ex his verbis : Qui
+autem dicuntur Ebionæi, consentiunt quidem mun-
+dum a Deo factum : ea autem quæ sunt erga Domi-
+num, non similiter ut Cerinthus et Carpocrates opi-
+nantur. Patet per alia Irenæi loca, Postea divisi
+sunt Ebionæi, quia illorum nonnulli partys virgi-
+nei miraculum agnoverunt. Jocolari porro menda,
+in Paschasio Ratherdo ad Matth. xxvi, 17, p. 1088,
+excusum invenies Obionitæ pro Ebionitæ. In.
+(92) Τὰ πάτρια φυλάσσοντες, Philo, describens
+Essæos actioni deditos : Τὸ ἠθικὸν εὖ μάλα διαπονοῦ-
+σιν, ἀλείπτοις χρώμενοι τοῖς πατρίοις νόμοις; et in
+descriptione Essæorum contemplatorum, φιλοσα-
+φοῦσι τὴν πάτριον φιλοσοφίαν. Notabuntur a lectore
+studioso verbὰ Georgii Cedreni, edit. Basil. p. 164,
+Regiæ vero p. 190 : Μετὰ τῆς συνήθους σιωπῆς καὶ
+σεμνοπρεποῦς καταστάσεως, ἐπ᾽ εὐχὰς πάλιν ἐπὶ τὸ
+αὐτὸ συνέργονται, τοὺς βραχυτάτους ὕπνους καὶ κου-
+φοτάτους ἐκτινασσόμενοι. Ὑπέρ ἐστιν αἴτιον ἡ διηνε-
+κὴς νῆψις, etc., hoc est : Esseni cum solito silen-
+tio, et decora gravitate, rursus ad preces conveniunt,
+brevissimum ac levissimum somnum excussuri. Cu-
+jus quidem rei causa est sobrietas continua; et com-
+
+# block=13
+Hieronymum, virum sane maximum, sed fatali illa
+sua properantia sæpe lapsum, quando Jovinianuo
+objicit : Josephus in secunda Judaicæ captivitatis
+Historia, et in octavo decimo Antiquitatum libro, et
+contra Apionem duobus voluminibus, tria describit
+dogmata Judæorum, Phariseos, Sadducæos, Essenos;
+quorum novissimos miris effert laudibus, quod ab
+uxoribus et vino et carnibus semper abstinuerunt
+et quotidianum jejunium verterint in naturam,
+Super quorum vita et Philo, vir doctissimus, pro-
+prium volumen edidit. Scilicet, nec disputans ad-
+versus Apionem Josephus mentionem fecit sectarum
+Judaicarum, Nec ullibi tradit Essenos vino et car-
+nibus abstinuisse, aut quotidie jejunasse : imo con-
+trarium edocet Περὶ ἀλώσεως, lib. II, cap. 12. Sed
+qui Esseni perpetuo jejunabant, nec unquam carne
+et vino utebantur, sunt illi a Philone Judæo litteris
+commendati. Çot.
+(93-94) Αἱρέσεις. Addit. alter cod. Vindob. παρὰ
+Χριστιανοῖς. Çt.
+(95) Ἀπὸ Γιτθῶν. E Gitthis. Nam Γιτθῶν malim;
+quamvis apud Georgium Syncellum p. 331, Γητθῶν
+legatur, Nomen loci puto fuisse RJ, unde scriptori-
+bus ecclesiasticis κώμη Γίττων, vel Γιττῶν, Γιτθῶν,
+Γιτθῶν; p. 333 Syncelli, Γητῶν, Γαιτθῶν, In Eusc-
+bii autem chronicis Γηθῶν, pro quo male excude-
+runt Γηθῶ. Et in Timotheo presbytero de receptione
+hæreticorum, cod. Reg. 2536. Γετθῶν, ut Clementi-
+norum II, necnoo apud Palladium dialogo De vita
+S. Chrysostomi paulo post initium, pag. 6, editionis
+quam sub prelo habet Bígotius noster, variæ do-
+ctrinæ et felicis curiositatis nominibus celeberri-
+mus. Sic Josephus na Palæstinæ urbem, quæ ipsi,
+et apud Stephanum Polybio, Γἴττα, Bibliorum in-
+terpretibus ΓΕΘ, ac Geth, Plinio Getta, appellat etiam
+Γιττῶν πόλιν. Ἰn.

@@ -1,0 +1,187 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,977,706,1732,1919
+2,194,144,947,527
+3,986,147,1731,442
+4,192,709,953,1917
+5,193,2151,947,2716
+6,971,2151,1735,2706
+7,1258,544,1454,580
+8,435,550,697,583
+9,985,609,1724,679
+10,633,92,1311,130
+11,194,1956,1726,2027
+13,806,2062,1101,2099
+14,197,613,947,680
+16,197,96,254,130
+17,1659,90,1727,134
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=16 fontSize=16px
+# block=17 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+626
+
+# block=10
+CONSTITUTIONES APOSTOLICÆ. — LIB. II.
+
+# block=16
+625
+
+# block=2
+Κυρίου, καὶ φαυλίσης αὐτοῦ τὸ ὄνομα τὸ καινὸν τὸ
+εἰς τὸν λαὸν αὐτοῦ ἐπιτεθὲν, καὶ ὀνειδισθήσῃ, καθά-
+περ καὶ οἱ παλαιοὶ ποιμένες, περὶ ὧν ἔλεγεν ὁ Θεὸς
+τῷ Ἱερεμίᾳ· « Ποιμένες πολλοὶ διέφθειραν τὸν ἀμ-
+πελῶνά μου, ἐμόλυναν τὴν κληρονομίαν μου. » Καὶ
+ἐν ἄλλοις· « Ἐπὶ τοὺς ποιμένας παρωξύνθη ὁ θυμός
+μου, καὶ ἐπὶ τοὺς ἀμνοὺς ὀργισθήσομαι. » Καὶ ἐν
+ἑτέροις· « Ὑμεῖς οἱ ἱερεῖς οἱ φαυλίζοντες τὸ ὄνομά
+μου. »
+
+# block=3
+illius impositum est, vile habeas, et ipse feras op-
+probrium quemadmodum veteres illi pastores, de
+quibus Deus dicebat Jeremiæ : « Pastores multi de-
+struxerunt vineam meam, polluerunt hæreditatem
+meam ¹³. » Et alibi : « Super pastores concitatus
+est furor meus, et super agnos irascar ¹⁴. » Et alias :
+« Vos sacerdotes, qui despicitis nomen meum ¹⁵. »
+
+# block=7
+CAPUT XVI.
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ ΙϚʹ.
+
+# block=9
+De pœnitentia, et quis illius modus, et quo pacto
+peragatur.
+
+# block=14
+Περὶ μετανοίας, καὶ τίς αὐτῆς ὁ τρόπος, καὶ ὅπως
+κατορθοῦται.
+
+# block=1
+Cum videris aliquem deliquisse, acerbe ferens
+jube eum ejici foras; quo exeunte diaconi moleste
+etiam ferant, et inquisitum detineant extra eccle-
+siam; posteaque ingressi, pro ipso rogent te. Etenim
+Salvator pro peccatoribus Patrem oravit, ut in
+Evangelio scriptum est : « Pater, dimitte illis; non
+enim sciunt quid faciunt ¹⁷. » Tunc jubebis eum in-
+trare : et examine facto, an ducatur pœnitentia,
+dignusque sit qui in ecclesiam omnino admittatur;
+afflictum jejuniis per dies hebdomadarum aut dua-
+rum, aut trium, aut quinque, aut septem, pro ra-
+tione delicti; ita illum dimittes, ea locutus quæ a
+castigatore salubriter doceri ac moneri convenit
+peccatorem ; quo apud se humiliter maneat, Deum,
+ut sit sibi propitius, deprecans, ac dicens : « Si ini-
+quitates observaveris, Domine, Domine, quis sus-
+tinebit? Quoniam apud te propensio est ¹⁹. » Nam
+tale quid innuit illud quoque, quod in Genesi Caïno
+dictum est : « Peccasti? Quiesce ²⁰; » id est, ne
+pergas peccare. ²¹ Quod enim cum qui deliquit, pu-
+dere errati proprii oporteat, satis demonstrat ora-
+culum illud Mosi in causa Mariæ datum, cum ut
+huic condonaretur ille oraret. Ait enim Deus illi .
+« Si pater ejus spuens fuisset in faciem illius,
+nonne erubuisset? Septem diebus segregetur extra
+castra, et postea ingredietur ²². » Sic ergo et nos
+necesse est facere, nimirum, eos qui se de peccato
+agere pœnitentiam profitentur, per tempus propor-
+
+# block=4
+Ἰδὼν δὲ σὺ τὸν ἡμαρτηκότα, πικρανθεὶς κέλευσον
+αὐτὸν ἔξω βληθῆναι, καὶ ἐξελθόντι αὐτῷ ¹⁶ πικραινέ-
+σθωσαν οἱ διάκονοι, καὶ ἐπιζητοῦντες κατεχέτωσαν
+αὐτὸν ἔξω τῆς ἐκκλησίας, καὶ εἰσελθόντες ὑπὲρ αὐ-
+τοῦ σε (80) ἐρωτάτωσαν. Καὶ γὰρ ὑπὲρ τῶν ἡμαρτη-
+κότων ὁ Σωτὴρ τὸν Πατέρα ἠξίου, ὡς γέγραπται ἐν
+τῷ Εὐαγγελίῳ· « Πάτερ, ἄφες αὐτοῖς, οὐ γὰρ οἴδασιν
+ὃ ποιοῦσι. » Τότε σὺ κελεύσεις εἰσελθεῖν αὐτὸν, καὶ
+ἀνακρίνας εἰ μετανοεῖ, καὶ ἄξιός ἐστιν εἰς ἐκκλησίαν
+ὅλως παραδεχθῆναι, στιβώσας αὐτὸν ἡμέρας νη-
+στειῶν (81) κατὰ τὸ ἁμάρτημα, ἑβδομάδας δύο, ἢ
+τρεῖς, ἢ πέντε, ἢ ἑπτὰ, οὕτως αὐτὸν ἀπόλυσον, εἰπὼν
+αὐτῷ ὅσα ἁρμόζει ἡμαρτηκότι εἰς νουθεσίαν ἐπι-
+πλήσσοντα διδάσκειν καὶ παραινεῖν, ὅπως μείνῃ παρ’
+ἑαυτῷ ταπεινοφρωνῶν, καὶ δεόμενος τοῦ Θεοῦ τυχεῖν
+αὐτοῦ εὐμενοῦς (82), καὶ λέγειν· ¹⁸ « Ἐὰν ἀνομίας
+παρατηρήσῃ, Κύριε, Κύριε, τίς ὑποστήσεται ; ὅτι
+παρὰ σοὶ ὁ ἱλασμός ἐστι. » Τοιοῦτον γάρ τι ὑπεμφαί-
+νει καὶ τὸ ἐν τῇ Γενέσει εἰρημένον τῷ Καΐν· « Ἤμαρ-
+τες ; ἡσύχασον· » τουτέστι, μὴ προσθῇς. Ὅτι γὰρ
+τὸν ἁμαρτήσαντα δεῖ ὑπὲρ τοῦ οἰκείου πλημμελήμα-
+τος αἰσχύνεσθαι, ἱκανὸν τὸ λόγιον τῷ Μωσεῖ ὑπὲρ
+Μαρίας εἰρημένον, ἡνίκα ἠξίου ἀφεθῆναι αὐτῇ· Φησὶ
+γὰρ αὐτῷ ὁ Θεὸς· « Εἰ ὁ πατὴρ αὐτῆς πτύων ἐνέπτυ-
+σεν εἰς τὸ πρόσωπον αὐτῆς, οὐκ (83) ἐνετράπη ; ἑπτὰ
+ἡμέρας ἀφορισθήτω ἔξω τῆς παρεμβολῆς, καὶ μετὰ
+ταῦτα εἰσελεύσεται. » Οὕτως οὖν καὶ ἡμᾶς δέον ἐστὶ
+ποιεῖν, τοὺς ἐφ’ ἁμαρτίᾳ λέγοντας μετανοεῖν, ἀφο-
+
+# block=11
+¹³ Jer. XII, 10. ¹⁴ Zach. X, 3. ¹⁵ Mal. I, 6. ¹⁶ al. ἐξελθόντος αὐτοῦ. ¹⁷ Luc. XXIII, 34. ¹⁸ f. λέγων.
+¹⁹ Ps. CXXIX, 5. ²⁰ Gen. IV, 7 apud LXX. ²¹ Citatur ab Anastasio quæst. 6. ²² Num. XII, 14.
+
+# block=13
+VARIORUM NOTE.
+
+# block=5
+(80) Σὲ. Deest in altero codice. CLER.
+(81) Ἡμέρας νηστειῶν, κ. τ. λ. Aiunt viri eruditi,
+ac pluribus documentis aggrediuntur demonstrare,
+ante Montani hæresim, non diu exclusos fuisse a
+communione ecclesiastica peccatores pœnitentes;
+per tempora autem inter Montanum ac Novatum
+media, crevisse severitatem, non tamen adeo ut ve-
+niæ mora biennium unquam excederet. Nec ego
+contra tendo. Tantum dico, quod fidem non supe-
+ret, hac quoque in parte variasse disciplinam. Quis
+enim putet, omnes eos, qui semel duntaxat pœni-
+tentiam suscipi permittebant, breve tempus defi-
+nivisse ad satisfaciendum Deo pro plurimis etiam ac
+gravissimis delictis ? Præterea Victorinus commen-
+tario in Apocalypsim, nescio unde mutuatus, Nico-
+laitis hunc errorem tribuit : Ut quicunque fornica-
+tus esset, octava die pacem acciperet. Plures denique
+
+# block=6
+illi episcopi, ad quos S. Cyprianus destinat episto-
+lam 53, dubitabant, in causa favorabili trium lap-
+sorum, qui cum nomen Domini fuissent confessi, et
+carcerem, minas, ac multa diuturna, repetitaque tor-
+menta, pro fide in Christum pertulissent, tandem
+diritate cruciatuum subacti, de gradu gloriæ deci-
+derant, atque ab eo tempore per triennium a pœni-
+tentia agenda non cessaverant; dubitabant, in-
+quam, utrum fas esset, eos lapsos ad communio-
+nem admittere, insuperque volebant ea de quæ-
+stione concilium episcoporum agitari; non dispari
+vigore, atque conspicitur postea in canonibus sy-
+nodi Ancyranæ ac Petri Alexandrini. Vide ad
+canonem apostolicum 17, seu 24. COR.
+(82) Εὐμενοῦς. Alter codex εὐμενῶς. CL.
+(83) Οὐκ. Uterque cod. Vind. οὐκ ἄν, non male. IB.

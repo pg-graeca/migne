@@ -1,0 +1,194 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,181,1602,934,2074
+2,179,911,934,1418
+3,972,2254,1725,2595
+4,958,1776,1716,2118
+5,963,650,1732,987
+6,177,131,936,900
+7,962,133,1718,642
+8,184,2162,941,2596
+9,969,1342,1722,1769
+10,967,996,1716,1334
+11,181,1426,934,1593
+12,976,2171,1718,2237
+13,603,77,1278,113
+14,314,2131,796,2165
+16,222,2640,1568,2684
+17,1637,68,1709,114
+18,165,72,241,114
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+358
+
+# block=18
+357
+
+# block=13
+EPISTOLÆ AD VIRGINES. — PROOEMIA.
+
+# block=6
+tento. Præterea sciebam sectarios non æquiores
+futuros esse erga elucubrationem meam, postquam
+ejusdem generis fetum a sodali editum tam dire
+lacesserint. Expendebam quoque modicum, qui
+sperari posset, hujus opusculi fructum : fratres
+enim nostri errantes, hoc edito libello, non minus
+quam antea virginitati infensi erunt, etiamsi luce
+clarius probaretur authenticas esse sancti Clemen-
+tis Epistolas ad Virgines. Non siquidem huic pon-
+tifici felicior obtingere sors potest quam divo Paulo
+cujus erat discipulus. Catholici hoc novo argu-
+mento non indigent ut doctrinam sanctæ matris
+Ecclesiæ commendatam habeant. Tandem, aiebam,
+si Deo placuerit emendari et explicatum prodire
+opus istud, lucem ac voluntatem, ut perficiatur,
+inspirabit uni ex tot piis doctoribus qui insudant
+hodie in eruendis et evulgandis tot veterum Patrum
+thesauris absconditis.
+
+# block=7
+sed et defunctus adhuc locutus est 2, dum, per plura
+sæcula, ipsius scripta fidelibus legerentur. Eo pu-
+rior aqua manat quo fonti propinquior est. Nemo
+vero nescit fidem ac vivendi formam cordi sancti
+Clementis instillatas fuisse ab ipsis apostolis Pe-
+tro et Paulo quorum discipulus erat. Horum mores
+sanctissimos coram intuitus est, cæterisque intuen-
+dos ac imitandos proposuit : dignus profecto qui
+ab ipso Petro in successorem eligeretur : ejus
+quippe scientia, vita, martyrium satis probarunt a
+cœlo inspiratam fuisse tam eximiam electio-
+nem.
+
+# block=5
+Quale fuit illius meritum cujus prædestinatio
+gloriosa ab ipso beato Paulo prædicta est! Quem
+certatim laudibus efferunt maximis Ignatius An-
+tiochenus, Irenæus Lugdunensis, Clemens Alexan-
+drinus, Origenes, Eusebius, Athanasius, Cyrillus
+Hierosolymitanus, Optatus Milevitanus, Epipha-
+nius, Basilius, Hieronymus, Rufinus, Augustinus,
+Eucherius Lugdunensis, innumerique alii!
+
+# block=2
+Semper tamen perseveravit in me motus interior
+quo ad hunc laborem urgebar. An ille motus su-
+pernaturalis fuerit nec affirmare, nec negare au-
+deo. Dicam solummodo quod per plures annos cun-
+ctantem sanctus Clemens intus arguere me videba-
+tur; quasi fidejussorem et adjutorem operis offerens
+sese : ut quemadmodum ipse virginitatem laudibus
+exornaverat, cautisque monitis eam præmunierat,
+sic ego Epistolarum suarum authenticitatem contra
+oblocutores naviter firmarem : qui enim aperit os
+mutorum 1, etiam, quando vult, loquacissimos et
+audacissimos mutos efficit.
+
+# block=10
+Non solæ sancti Clementis ad Virgines Epistolæ
+temporum injuriam subierant, plurima alia tanti
+pontificis scripta amissa sunt, et quæ supersunt,
+aut mutila aut corrupta ad nos transmissa sunt.
+Dominus autem qui custodit ossa Sanctorum suo-
+rum 3, eaque, cum sibi placet, revelat, scripta
+etiam eorum quandoque, per quemlibet, etiamsi
+Ecclesiæ catholicæ extraneum, manifestat.
+
+# block=9
+Sic, anno 1633, doctissimus Junius Patricius,
+Oxoniensis, edidit Græce Latineque primam ejus-
+dem sancti Clementis Epistolam ad Corinthios, ex
+antiquissimo manuscripto Alexandrino. Sic, fere
+diebus nostris, Joannes Jacobus Wetstinus, e pro-
+testantium etiam grege, Syriace ac Latine edidit,
+Lugduni Batavorum, duas alias sancti Clementis ad
+Virgines Epistolas, quas ex antiquo manuscripto
+Syriaco Novi Testamenti, Alepo, ab imperatore
+Turcarum misso, eruit.
+
+# block=11
+Quare diutius hæsitassem, cum hujus libelli, per
+tot sæcula absconditi, publicatio ad majorem Dei
+gloriam et ad sanctæ matris Ecclesiæ honorem
+vergere nata esset?
+
+# block=1
+Certe si sola eloquentia in scriptis antiquis quæ-
+reretur, in oblivione relinqui potuissent sancti Cle-
+mentis Epistolæ quas publicamus : libri namque
+superabundantes politioris litteraturæ et eximiæ
+poseos undequaque ad nos pervenerunt. Et utinam
+periissent tot opera plena fœditatibus et immun-
+ditiis vitium eleganter insinuantibus! Utinam, e
+contra, conservati fuissent, eorum loco, innu-
+meri sanctorum Patrum thesauri injuria tem-
+porum amissi, cœlestemque sapientiam spi-
+rantes!
+
+# block=4
+Litteras sancti Clementis ad Corinthios vocat
+sanctus Irenæus potentissimas 4. Primam ad eos
+Epistolam sanctus Hieronymus testatur specialius
+esse valde utilem. ‹ Hæc videtur, ait, characteri
+Epistolæ, quæ sub Pauli nomine ad Hebræos fertur,
+convenire 5.› Idem sanctus doctor dubitat de au-
+thenticitate posterioris epistolæ sancti Clementis
+ad Corinthios.
+
+# block=14
+PRETIUM HUJUS MONUMENTI ANTIQUI.
+
+# block=8
+Verum, has inter divitias, tanti nullæ æstimari
+debent quanti virorum apostolicorum scripta quæ
+prima Christianorum vestigia nobis detegunt, præ-
+cipue autem si ex his ad nos reboet quædam echo
+remota pontificiæ vocis quæ penitus exstincta cre-
+debatur. Quis, porro, sonus, post apostolorum vo-
+cem, clarior nobis vel charior esse potest quam
+vox sancti Clementis quæ koties in fidelium cœti-
+bus aures attentas implevit, pectora sancta com-
+movit! Non modo namque ipse vivens prædicavit,
+
+# block=12
+MOMENTA QUÆ ASTRUUNT NOSTRARUM EPISTOLARUM
+AUTHENTICITATEM.
+
+# block=3
+De ambabus Epistolis quas hodie, post Wetsti-
+num, publicamus, locutus est sanctus Hieronymus,
+lib. 1 contra Jovinianum, dicens : ‹ Hi sunt eunu-
+chi quos castravit non necessitas, sed voluntas,
+propter regnum cœlorum. Ad hos et Clemens suc-
+cessor apostoli Petri scripsit epistolas ; omnemque
+pene sermonem suum de virginitatis puritate con-
+texuit : et deinceps multi apostolici, et martyres, et
+
+# block=16
+¹ Sap. x, 21. ² Hebr. xi, 4. ³ Psal. xxxiii, 21. ⁴ l. iii, c 3. ⁵ De script. eccl., c. 15.

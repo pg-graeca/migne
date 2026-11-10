@@ -1,0 +1,199 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,968,540,1713,1315
+2,182,540,939,1310
+3,185,154,935,449
+4,177,1464,928,2723
+5,965,153,1708,455
+9,712,99,1182,136
+10,958,1455,1723,2713
+11,218,1337,843,1382
+12,1650,99,1703,134
+14,185,94,255,142
+15,413,494,697,540
+16,1213,490,1465,536
+17,775,1398,1095,1438
+18,183,450,1415,496
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=9 fontSize=16px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=14 fontSize=16px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+277
+
+# block=9
+EPISTOLA 1 AD CORINTHIOS.
+
+# block=12
+278
+
+# block=5
+est omnis creatura gloria ejus ³⁶. Et nos ergo con-
+corditer in unum congregati, communi consensu
+tanquam ex uno ore ad ipsum clamemus totis viri-
+bus, ut participes fiamus magnarum et inclytarum
+promissionum ejus. Dicit enim : Oculus non vidit,
+nec auris audivit, nec in cor hominis ascendit, quanta
+præparavit exspectantibus eum ³⁵.
+
+# block=3
+ἐκέκραξον· Ἅγιος, ἅγιος, ἅγιός, Κύριος σαβαὼθ,
+πλήρης πᾶσα ἡ κτίσις (27) τῆς δόξης αὐτοῦ. Καὶ
+ἡμεῖς οὖν ἐν ὁμονοίᾳ ἐπὶ τὸ αὐτὸ συναχθέντες, τῇ
+συνειδήσει (28) ὡς ἐξ ἑνὸς στόματος βοήσωμεν πρὸς
+αὐτὸν ἐκτενῶς, εἰς τὸ μετόχους ἡμᾶς γενέσθαι τῶν
+μεγάλων καὶ ἐνδόξων ἐπαγγελιῶν αὐτοῦ. Λέγει γάρ·
+Ὀφθαλμὸς οὐκ εἶδεν, καὶ οὖς οὐκ ἤκουσεν, καὶ
+
+# block=18
+ἐπὶ καρδίαν ἀνθρώπου οὐκ ἀνέβη, ὅσα ἡτοίμασεν (29) τοῖς ὑπομένουσιv αὐτόν.
+
+# block=16
+CAPUT XXXV.
+
+# block=15
+ΚΕΦΑΛΑΙΟΝ ΛΕʹ.
+
+# block=2
+Ὡς μακάρια καὶ θαυμαστὰ τὰ δῶρα τοῦ Θεοῦ, ἀγα-
+πητοί· ζωὴ ἐν ἀθανασίᾳ, λαμπρότης ἐν δικαιοσύνῃ,
+ἀλήθεια ἐν παρρησίᾳ, πίστις ἐν πεποιθήσει, ἐγκρά-
+τεια ἐν ἁγιασμῷ, καὶ ταῦτα ὑπέπιπτεν πάντα ὑπὸ
+τὴν διάνοιαν ἡμῶν. Τίνα οὖν ἄρα ἐστὶν τὰ ἑτοιμαζό-
+μενα τοῖς ὑπομένουσιv; ὁ δημιουργὸς καὶ πατὴρ τῶν
+αἰώνων ὁ πανάγιος, αὐτὸς γινώσκει τὴν ποσότητα καὶ
+τὴν καλλονὴν αὐτῶν. Ἡμεῖς οὖν ἀγωνισώμεθα εὑρεθῆ-
+ναι ἐν τῷ ἀριθμῷ τῶν ὑπομενόντων αὐτὸν, ὅπως μετα-
+λάβωμεν τῶν ἐπηγγελλμένων δωρεῶν. Πῶς δὲ ἔσται
+τοῦτο, ἀγαπητοί; Ἐὰν ἐστηριγμένη ᾖ ἡ διάνοια (30)
+ἡμῶν πίστεως (31) πρὸς τὸν Θεὸν, ἐὰν ἐκζητῶμεν τὰ
+εὐάρεστα καὶ εὐπρόσδεκτα αὐτῷ, ἐὰν ἐπιτελέσωμεν τὰ
+ἀνήκοντα τῇ ἀμώμῳ βουλήσει αὐτοῦ, καὶ ἀκολουθή-
+σωμεν τῇ ὁδῷ τῆς ἀληθείας, ἀπορρίψαντες ἀφ᾽ ἑαυτῶν
+πᾶσαν ἀδικίαν καὶ ἀνομίαν, πλεονεξίαν, ἔρεις, κακοη-
+θείας τε καὶ δόλους, ψιθυρισμοὺς τε καὶ καταλαλιὰς,
+θεοστυγίαν, ὑπερηφανίαν τε καὶ ἀλαζονείαν, κενοδο-
+
+# block=1
+Quam beata sunt, dilecti, et mirabilia dona Dei!
+vita in immortalitate, splendor in justitia, veritas
+in libertate, fides in confidentia, continentia in san-
+ctitate; et hæc omnia sub intellectum nostrum ca-
+dunt. Quænam igitur sunt quæ præstantibus
+apparantur? sanctissimus opifex et pater sæculo-
+rum, ipse quantitatem, pulchritudinem excellen-
+tiamque illorum cognoscit. Nos igitur summo stu-
+dio contendamus in numero exspectantium eum
+reperiri, ut participes fiamus donorum repromis-
+sorum. Quo modo autem eveniet istud, dilecti? Si
+mens nostra in Deum fide stabilita fuerit, si placita
+illi et accepta exquisiverimus, si perfecerimus quæ
+ad inculpatam ejus voluntatem pertinent, et secuti
+fuerimus viam veritatis; abicientes a nobis om-
+nem injustitiam et iniquitatem, avaritiam, conten-
+tiones, malignitates et fraudes, susurros et obtre-
+ctationes, odium Dei, superbiam et ostentationem,
+
+# block=11
+³⁴ Isa. vi, 3. ³⁵ Isa. lxiv, 4; 1 Cor. ii, 9.
+
+# block=17
+VARIORUM NOTÆ.
+
+# block=10
+παρειστήκεισαν αὐτῷ, καὶ χίλιαι χιλιάδες ἐλειτούρ-
+γουν αὐτῷ, cum a LXX convenienter archetypo
+redditum fuerit, χίλιαι χιλιάδες ἐλειτούργουν αὐτῷ,
+καὶ μύριαι μυριάδες παρειστήκεισαν αὐτῷ. Consen-
+tiunt tamen cum Clemente Irenæus lib. ii, cap. 6;
+Gregorius Nyssenus, homil. 8 in Ecclesiastem, et
+Cyrillus Alexandrinus, epistola in Symbolum. Pe-
+jus in aliis verba ministrandi et assistendi perver-
+tuntur: ut in Tertulliano c. 3 Libri contra Praxeam;
+Chrysostomo tom. VI Hom. de cæco et Zacchæo;
+Theodoro Studita, catech. 82, 107; Michaele Syn-
+cello Laudatione in angelos, tom. 1 Auctarii Biblio-
+thecæ Patrum Combefisiani; Liturgiis Gregorii et
+Cyrilli; et Ordinationibus Syrorum Maronitarum a
+Joanne Morino publicatis; necnon in Gregorio Nys-
+seno tom. III ad finem tractatus De virginitate, et
+Basilio Seleuciensi oratione 1. Quin etiam qui ad-
+versus Novatianos scripsit, impressus cum Cypria-
+no, sub finem sui opusculi, in Danielis textu parem
+ponit numerum assistentium ac servientium. Sed
+maxime præ cæteris turbant Eusebius et Chryso-
+stomus, Præparationis evangelicæ lib. vii, cap. 15,
+et contra Anomæos oratione 6, tom. I, referendo :
+Μύριαι μυριάδες ἐλειτούργουν αὐτῷ, καὶ χίλιαι χιλιά-
+δες παρειστήκεισαν ἔμπροσθεν αὐτοῦ, vel παρειστή-
+κεισαν αὐτῷ. Cот.
+(27) Πᾶσα ἡ κτίσις. Ita ms. Editis vero, præter
+Londin. deest ἡ, LXX, ἡ γῆ. Gall.
+(28) Τῇ συνειδήσει. Forte, καὶ τῇ συνειδήσει,
+vel potius συνδέσει, sic etiam supra : Mετ᾽ ἐλέους
+καὶ συνειδήσεως, forte συνδέσεως legendum est. JUN.
+(29) Ἠτοίμασεν. Sic ms. apud Wott. Sic et edit.
+Londin. Al. ἡτοίμασεν. Gall.
+(30) Ἡ διάνοια. Deest codd. impp. articulus ἡ,
+quem exhibet ms. Wott. ÍD.
+(31) Πίστεως. Aut legendum πίστει cum Wott.
+aut cum aliis supplendum διά. ÍD.
+
+# block=4
+Duplex angelorum officium est : aut enim spiritum
+consolationis, aut ignem vindictæ hominibus mini-
+strant; item cum istis Hieronymianis pariter, in
+psalmum ciii : Ut in aliis lumen veritatis infundant,
+in aliis peccata consumant; et istis, ad locum Da-
+nielis : Duplex angelorum officium est; aliorum qui
+justis præmia tribuunt; aliorum qui singulis præsunt
+cruciatibus; nisi si ultima vox mutanda est in civi-
+tatibus, ex S. Thoma ad eumdem prophetam : Ne-
+que enim boni, sed mali angeli tormentis præpositi
+sunt, inquit sæpe dictus Hieronymus sub finem li-
+bri ix Commentariorum in Ezechielem. Idem,
+enarrans duos primos versus capitis vi. Michææ :
+Alii, montes, colles et valles, angelos arbitrantur :
+qui vel in cœlestibus serviant Deo; vel hominibus præ-
+sint super hanc terram; vel apud inferos constituti,
+eorum qui suo vitio exstitere terreni, fundamenta di-
+cantur. Consule de assistentia et ministerio angelo-
+rum Gregorium Papam hom. 34 in Evangelia, Pri-
+masium ad Hebr. I, 14; et Isidorum Hispalensem
+libro De ordine creaturarum cap. 2, tom. I Spici-
+legii Acheriani. Itaque minus verisimilis sit Diony-
+sii opinio, in opere De cœlesti hierarchia contenden-
+tis, angelos tantum superiores assidere Deo, solos-
+que inferiores mitti ad humana ministeria : necnon
+Theodoriti contraria sententia, ad Danielis vii, 16,
+existimantis, digniores ex angelis non modo astare,
+sed ministrare etiam, reliquos astare duntaxat.
+Crediderim, sacris eloquiis potissimum adductus,
+omnes angelorum ordines assistendi ac ministrandi
+officiis fungi; quosdam tamen angelorum sæpius
+alterutrum munus exsequi; ita ut minores dignita-
+te ac numero magis mittantur, rebusque nostris
+serviant, majores vero ac plures frequentius assi-
+stant propter Deum, atque inter hos pauci sint qui
+rarissime omnium cessent ab assistendo. Alterum
+quod observandum sese offert, est inversio prophe-
+tici contextus, Dan. vii, 10, sic : Μύριαι μυριάδες

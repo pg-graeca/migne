@@ -1,0 +1,165 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1044,1543,1793,2397
+2,258,295,1008,1358
+3,254,1369,1012,2393
+4,1042,159,1785,1318
+5,1043,1327,1788,1533
+6,1049,2427,1782,2667
+7,258,162,1002,288
+8,263,2425,1008,2695
+9,803,105,1262,145
+10,258,114,298,145
+12,1722,102,1796,142
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+V. Morinum modo audivimus, nullo teste adhi-
+bito, asseruisse hanc epistolam a sanctis Patribus
+tanquam adulterinam fuisse habitam : quæ quidem
+sententia nonnullis quoque aliis probatur. Jurene,
+an secus, videamus. De hac ipsa epistola Eusebii
+testimonium hujusmodi habemus (27) : 'Ιστέον δ' ὡς
+καὶ δευτέρα τις εἶναι λέγεται τοῦ Κλήμεντος ἐπι-
+στολή· οὐ μὲν ἔθ' ὁμοίως τῇ προτέρᾳ καὶ ταύτην
+γνώριμον ἐπιστάμεθα, ὅτι μηδὲ τοὺς ἀρχαίους αὐτῇ
+κεχρημένους ἴσμεν. ◗ Sciendum est autem, quod et
+secunda quædam Clementis epistola esse dicatur : ve-
+rum hanc non perinde ac priorem notam esse com-
+perimus; quoniam nec veteres ea usos esse novi-
+mus. ◗ Quem locum Rufinus indiligenter pro more
+suo ita interpretatur : Dicitur tamen esse et alia Cle-
+mentis epistola, cujus nos notitiam non accepimus.
+Neque magis accurate Hieronymus : Fertur secunda
+esse ex ejus nomine epistola, quæ a veteribus reproba-
+tur. Photius autem ad Hieronymi sententiam acce-
+dens, hæc habet (28) : Ἡ δὲ λεγομένη δευτέρα πρὸς
+
+# block=2
+Hinc itaque meritissimo exploditur a viris doctis
+Vendelini et Dodwelli (17) opinio, quæ Grabio (18)
+quoque aliisque probatur : homiliæ scilicet partem
+esse, quæ inscribitur secunda Epistola ; illiusque
+fragmentum satis longum quod etiamnum superest,
+ad veterem διδαχήν Clementinam esse omnino
+amandandum : quin et eo processit ipse Dodwellus
+intemperantioris critices sectator studiosissimus, ut
+loca nonnulla ejusdem Epistolæ stylum eclogarium
+hypotyposeon Clementis Alexandrini referre pro-
+fessus fuerit, adeoque immistos invicem duos illos
+fuisse Clementes conjecerit. Sed censores istius-
+modi mittamus, qui a veritate longe aberrare no-
+scuntur. Quam enim canones apostolici, quam per-
+vetustus codex Alexandrinus, quam denique Euse-
+bius, Hieronymus, Dorotheus, Damascenus, Photius,
+et cæteri summo consensu Epistolam nuncupant, eam
+vero nonnisi conjectando in Homiliarum censum
+referre atque inter supposititia Clementina colloca-
+re : id tum demum est hominum otio abutentium,
+qui non rationem in disputando sequantur, sed sive
+contentionis sive novitatis studio se abripi sinant :
+ut propterea eorum opinio veterum sententiæ non
+solum non præferenda, sed ne conferenda quidem
+cum illa videatur.
+
+# block=3
+IV. Neque demum singillatim acceptæ adversa-
+riorum objectiones tanti sunt ponderis, ut hanc
+Epistolam suppositionis suspectam reddere valeant.
+Joannes Morinus, vir cætera doctus, eamdem a
+sanctis Patribus adulterinam fuisse habitam secum
+reputans, sed immerito ut mox patebit, quo id ma-
+gis adhuc astruat, ab ipsius Epistolæ stylo argu-
+mentum desumit, et quidem acrius fortasse quam
+decebat. ◗ Illius stylus, inquit (19), ut prioris non
+est simplex, sed argutulus ; non sponte fluens, sed
+pro auctoris captu studiose elaboratus ; non ἀπε-
+ριοδικὸς et nonnunquam ἀνανταπόδοτος sed verbo-
+rum ambitum, antitheses earumque redditionem
+ambitiose affectat. ◗ Hæc Morinus, cujus sententia
+Richardo quoque Simonio probari videtur (20). In-
+ficiari equidem nolim haud leve aliquando argu-
+mentum ex dissimilitudine styli suppetere, quo ali-
+cui scriptori opus abjudicetur, aliique addicatur ;
+dummodo tamen reliqua rite cohæreant. Verum
+hunc canonem criticum non esse nimium urgendum,
+nemo non videt : siquidem, ut optime Cotelerius
+quem sequitur et Grabius (21), styli dissimilitudo
+ab eodem scriptore pro varietate temporum et cau-
+sarum oriri potuit.
+
+# block=4
+Neque desunt exempla, quibus hujusmodi assertum
+comprobetur. Ut autem unum vel alterum propona-
+mus, Epistolam ad Hebræos non esse apostoli Pauli,
+sed vel Barnabæ vel Lucæ vel nostri Clementis, e
+styli charactere veterum nonnulli existimarunt, Ori-
+genes (22), Eusebius, Hieronymus, aliique antiquio-
+res. Attamen quam fluxa sit hæc sententia, cum ex
+Epistola II Petri, tum in primis ex ipsius Epistolæ
+ad Hebræos contextu satis liquet, ut præ cæteris
+nervose rem astruit Joannes Millius (23). Idem ju-
+dicium latum olim fuisse de Petri Epistola II te-
+stantur iidem scriptores quorum modo memini-
+mus (24). Verum et hic frustra censitum ex dissi-
+militudine styli, eas Epistolas duos scriptores pro-
+dere, quas unius Petri esse luculenter aliunde con-
+stat. De auctore itidem Apocalypseos, aliis quidem
+nominibus, at præsertim e styli ratione antiquitus
+dubitatum, utrum fuerit Joannes apostolus. Diony-
+sium Alexandrinum apud Eusebium (25) si audia-
+mus, Evangelium Joannis et ejusdem Epistola I sibi
+mutuo cohærent ; atque in omnibus, si recte per-
+penderis, unum idemque utriusque scriptionis ge-
+nus evidenter apparet ; Apocalypsis vero ab utro-
+que illo scripto aliena est et extranea. At quam pa-
+rum hac in re tribuendum sit Dionysii Alexandrini
+auctoritati, norunt eruditi, ut abunde satis ante
+oculos posuit vir doctus modo laudatus (26).
+
+# block=5
+Ex hactenus allatis exemplis manifeste liquet,
+mea quidem sententia, quam tenui tibicine fultum
+sit argumentum e styli dissimilitudine sumptum,
+quo Epistola II abjudicetur Clementi. Jam cætera
+prosequamur.
+
+# block=6
+(23) Prolegom. ad N. T., n. 85. seqq.
+(24) Origen., Comment. in Joan., tom. v. p. 88 :
+Euseb., l. c. ; Hieron., De vir. illustr., cap. 1.
+(25) Hist. eccl., lib. VII, cap. 30.
+(26) Mill., l. c. num. 176, seqq.
+(27) Hist. eccl., lib. III, cap. 38.
+(28) Bibl. cod. CXIII.
+
+# block=7
+recensionis locus sit accipiendus de duabus Episto-
+lis Corinthiacis, quorum auctor fuerit Clemens
+Romanus.
+
+# block=8
+(17) Dodw., Dissert. in Iren. § XXIX, p. 53.
+(18) Spicil., tom. I. p. 268.
+(19) Exercit. biblic., lib. I, exerc. IX, cap. 4, §
+IX.
+(20) Bibl. chois., t. I, chap. 28, p. 282.
+(21) Spicil., tom. I, p. 268.
+(22) Origen., apud Euseb., Hist. eccl., lib. VI,
+cap. 25.
+
+# block=9
+AD S. CLEMENTEM I PAPAM
+
+# block=10
+95
+
+# block=12
+96

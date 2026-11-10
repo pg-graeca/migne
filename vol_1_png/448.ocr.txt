@@ -1,0 +1,202 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,255,178,1013,1435
+2,1050,181,1806,1481
+3,254,1723,1002,2698
+4,876,1668,1175,1706
+5,1039,2132,1801,2697
+6,1042,1727,1804,2132
+7,1283,139,1562,176
+8,1083,1530,1791,1569
+9,529,131,759,174
+11,289,1532,1055,1573
+12,655,83,1431,122
+14,255,82,321,124
+15,1733,90,1805,132
+16,1253,1486,1573,1522
+17,279,1588,1099,1636
+18,507,1478,755,1520
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=14 fontSize=16px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+295
+
+# block=12
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=15
+296
+
+# block=9
+CAPUT XLIII.
+
+# block=7
+ΚΕΦΑΛΑΙΟΝ ΜΓ΄.
+
+# block=1
+Et quid mirum, si quibus in Christo com-
+missum est a Deo hoc munus, prædictos constitue-
+rint? quandoquidem et beatus Moyses, fidelis
+famulus in tota domo ⁵³, omnia quæ ipsi man-
+data erant, in sacris libris adnotavit; quem
+et secuti sunt reliqui prophetæ, iis quæ ab ipso
+sancita erant testimonium pariter perhibentes.
+Ille namque ⁵⁴ cum æmulatio pro sacerdotio
+incidisset, ac tribus inter se dissentirent; quæ-
+nam illarum glorioso eo nomine ornata esset;
+jussit ut duodecim principes tribuum affer-
+rent sibi virgas quibus uniuscujusque tribus no-
+men esset superscriptum : hasque acceptas liga-
+vit, et annulis eorum principum obsignavit; at-
+que illas deposuit in tabernaculo testimonii super
+mensam Dei : et clauso tabernaculo, claves juxta et
+virgas signavit : ac dixit illis (91) : ‹ Viri fratres, cu-
+jus tribus virga germinaverit, hanc elegit Deus ut
+sacerdotio fungatur eique ministret. › Mane autem
+facto, convocavit universum Israelem, sexcenta
+millia virorum; et sigilla principibus tribuum
+ostendit, aperuitque tabernaculum testimonii, ac
+protulit virgas : et inventa est virga Aaron non
+tantum germinasse, sed et fructum habere. Quid
+vobis videtur, dilecti? Annon id futurum præ-
+sciverat Moyses? Maxime noverat : verum ne sedi-
+tio inter Israelitas oriretur, ita se gessit ut glo-
+rificaretur nomen veri et solius Dei, cui gloria
+in sæcula sæculorum. Amen.
+
+# block=2
+Καὶ τί θαυμαστὸν, εἰ οἱ ἐν Χριστῷ πιστευθέν-
+τες (88) παρὰ Θεοῦ ἔργον τοιοῦτο, κατέστησαν τοὺς
+προειρημένους; ὅπου καὶ ὁ μακάριος πιστὸς θεράπων
+ἐν ὅλῳ οἴκῳ Μωϋσῆς, τὰ διατεταγμένα αὐτῷ πάντα
+ἐσημειώσατο ἐν ταῖς ἱεραῖς βίβλοις, ᾧ καὶ ἐπηκο-
+λούθησαν οἱ λοιποί προφῆται, συνεπιμαρτυροῦντες
+τῷν ὑπ’ αὐτοῦ νενομοθετημένοις. ’Εκεῖνος γὰρ, ζή-
+λου ἐμπεσόντος περὶ τῆς ἱερωσύνης, καὶ στασιαζου-
+σῶν τῶν φυλῶν, ὁποία αὐτῶν εἴη τῷ ἐνδόξῳ ὀνό-
+ματι κεκοσμημένη, ἐκέλευσε τοὺς δώδεκα φυλάρ-
+χους προσενεγκεῖν αὐτῷ ῥάβδους, ἐπιγεγραμμένας
+ἑκάστης φυλῆς κατ’ ὄνομα (89)· καὶ λαβὼν αὐτὰς,
+ἔδησεν, καὶ ἐσφράγισεν τοῖς δακτυλίοις (90) τῶν φυ-
+λάρχων, καὶ ἀπέθετο αὐτὰς εἰς τὴν σκηνὴν τοῦ μαρ-
+τυρίου ἐπὶ τὴν τράπεζαν τοῦ Θεοῦ· καὶ κλείσας τὴν
+σκηνὴν, ἐσφράγισεν τὰς κλεῖδας, ὡσαύτως καὶ τὰς
+ῥάβδους· καὶ εἶπεν αὐτοῖς· ‹ Ἄνδρες ἀδελφοὶ, ἧς ἂν
+φυλῆς ἡ ῥάβδος βλαστήσῃ, ταύτην ἐκλέλεκται ὸ Θεὸς,
+εἰς τὸ ἱερατεύειν καὶ λειτουργεῖν αὐτῷ. › Πρῶτας δὲ
+γενομένης, συνεκάλεςεμ πάντα τὸν Ἰσραὴλ, τὰς ἑξα-
+κοσίας χιλιάδας τῶν ἀνδρῶν, [καὶ ἐπε]δείξατο τοῖς
+φυλάρχοις [τὰς σφρα]γῖδας, καὶ ἤνοιξεν τῇ[ν σκηνὴν]
+τοῦ μαρτυρίου, καὶ προσ[ήνεγκεν] ῥάβδους, καὶ
+εὑρέθη ἡ ῥ[άβδος] Ἀαρὼν οὐ μόνον βέβλα[στηκυῖα],
+ἀλλὰ καὶ `καρπὸν ἔχουσα. Τί δοκεῖτε, ἀγαπητοί; οὐ
+π[ροέγνω] Μωϋσῆς τοῦτο μέλλειν [ἔσεσθαι ;] Μάλιστα
+ἤδει· ἀλλ’ ἵνα μὴ ἀκ[αταστα]σία γένηται ἐν τῷ Ἰσ-
+ραὴλ, οὗτ[ως ἐποίη]σεν (92), εἰς τὸ δοξασθῆναι τ[ὸ
+ὄνο]μα τοῦ ἀληθινοῦ καὶ μόνου [Θεοῦ] ᾧ ἡ δόξα
+εἰς τοὺς αἰῶνας τῶν αἰώνων. ᾿Αμήν.
+
+# block=18
+CAPUT XLIV.
+
+# block=16
+ΚΕΦΑΛΑΙΟΝ ΜΔ΄.
+
+# block=8
+Καὶ οἱ ἀπόστολοι ἡμῶν (93) ἔγνωσαν διὰ τοῦ Κυ-
+
+# block=11
+Et apostoli nostri cognoverunt per Dominum
+
+# block=17
+⁵³ Num. XII, 7. Heb. III, 2, 5. ⁵⁴ Num. XVII, 1, etc.
+
+# block=4
+VARIORUM NOTÆ.
+
+# block=3
+(88) Πιστευθέντες. Ita ms. apud Wott. quem
+sequitur quoque edit. Londin. At Jun. cum reli-
+quis, πιστεύοντες, germana lectione ad marginem
+rejecta, GALL.
+(89) ’Επιγεγραμμένας — κατ’ ὄνομα. Mallet
+Dav. ἐπιγεγραμμένης. Bois. vero, τὸ ὄνομα. ID.
+(90) ’Εσφράγισεν τοῖς δακτυλίοις. In rebus gestis
+narrandis, semper licere creditum est circumstan-
+tias adhibere, quæ narrationis filo rectius texendo
+videntur conducere; licet minime reperiantur in
+iis scriptis, e quibus historia ipsa primitus peteba-
+tur. Hoc jure utebatur B. Stephanus Act. VII,
+B. Paulus II Tim. III, 8, et ad Heb. XII, 21, ut et
+aliis passim. Josephus, cum negotium hoc narrat,
+ait virgas facile cognitas τῶν τότε ἀνδρῶν κατα-
+σημηναμένων αὐτὰς οἵπερ ἐκόμιζον. FELL.
+(91) Referendo virgarum historiam, ad contenta
+capite XVII libri Numerorum adjicit nonnullas cir-
+cumstantias admodum verosimiles, ac ut videtur
+desumptas ex Hebræorum traditionibus. Cum vero
+duodecim virgas ponit, eadem in sententia versatur
+ac Philo Judæus lib. III De vita Mosis, circa me-
+dium, Augustinus sermone 3, De tempore , et
+auctor librorum De mirabilibus sacræ Scripturæ,
+lib. 1, cap. 31, tom. III Operum ejusdem Hippo-
+nensis episcopi; ‘sed dissentit ab editione Vulgata,
+nisi in ea præpositio absque mutetur in copulam
+atque, legaturque Num. XVII, 6 : Locutusque est
+Moyses ad filios Israel : et dederunt ei omnes prin-.
+
+# block=6
+cipes virgas per singulas tribus : fueruntque virgæ
+duodecim, atque virga Aaron. Ceterum istius περι-
+κοπῆς expositionem habes in postrema parte ho-
+miliæ 9 Origenis ad Numeros : ex qua fecerunt
+integrum sermonem, ac inter Augustinianos collo-
+carunt, 99 De tempore, et 40 De diversis. Ac
+emendandus etiam per duos manu exaratos codi-
+ces, Origenis textus: Est enim virga una : non Et-
+enim virgam unam; ut respondeat Græco LXX : ἔστιι
+γὰρ ῥάβδος μία. COT.
+(92) ’Εποίησεν. Hiatum ms. sic supplevit JUN.
+cui Vott. adhæret. At Cot. leg. ἐνόησεν. GALL.
+
+# block=5
+(93) Οἱ ’Απόστολοι ἡμῶν. Displicet Dav. hæc
+ms. lectio; adeoque vel scribendum putat εὖ μέν,
+vel prorsus delendum ἡμῶν. Apostoli enim, inquit,
+non ἡμῶν erant, sed Ἰησοῦ Χριστοῦ : neque ita,
+si eum audias, loqui solent veteres vel recentiores.
+Dictum nollem. Sic enim lego Philipp. II, 25 :
+’Αναγκαῖον δὲ ἡγησάμην ’Επαφρόδιτον τὸν ἀδελφὸν
+— ὙΜΩΝ ἀπόστολον — πέμψαι πρὸς ὑμᾶς. Pres-
+sius adhuc II Pet. III, 2 : Μνησθῆναι — τῆς τῶν
+ἀποστόλων ὙΜΩΝ ἐντολῆς. Cur ergo οἱ ἀπόστολοι
+’ΗΜΩΝ non scripserit S. Pater? His addas velim
+ex II Cor. VIII, 23 : ’Απόστολοι ’Εκκλησιῶν : quo
+sensu forte dixerit S. Clemens, οἱ ἀπόστολοι ἡμῶν,
+ad utramque Ecclesiam, Romanam scilicet et Co-
+rinthiacam, respiciens. Denique ad rem quod atti-
+net, ita statuit ipseinet Apostolus I Cor. III, 22 :
+Πάντα γὰρ ὑμῶν ἐστιν, εἴτε Παῦλος, εἴτε ’Απολλώς,

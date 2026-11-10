@@ -1,0 +1,200 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1046,2370,1817,2642
+2,251,705,1006,1092
+3,1046,2160,1811,2364
+4,1035,708,1794,1095
+5,1038,1240,1806,2155
+6,1045,2645,1804,2721
+7,255,1251,1017,2721
+8,252,594,1003,700
+9,529,542,710,577
+11,288,1119,840,1156
+12,1032,141,1782,526
+13,1282,547,1526,580
+14,836,1189,1129,1223
+15,1044,596,1787,701
+16,647,79,1354,120
+17,249,83,302,119
+18,248,140,993,520
+19,1713,86,1781,126
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(13) Μήτε δὲ καὶ πρεσβύτερον, etc. Sequentia
+sæcula in collatione minoris cleri variaverunt. Ca-
+non ἀνέκδοτος Nicephori confessoris: Ὁ ἔχων εὐχὴν
+ἡγουμένου, πρεσβύτερος ὢν, χειροτονεῖ ἀναγνώ-
+στην καὶ ὑποδιάκονον ἐν τῇ ἰδίᾳ μονῇ. Qui habet con-
+secrationem, hegumenis seu abbatis, estque presbyter,
+ordinare potest lectorem et subdiaconum in suo mo-
+nasterio. ID.
+
+# block=2
+Episcopum vero præcipimus ordinari a tribus
+episcopis; aut ut minimum a duobus; non licere
+autem vobis ab uno constitui. Nam duorum et
+trium testimonium firmius est et indubium ³⁰⁻³¹. Item
+jubemus ut presbyter et diaconus ab uno episcopo
+ordinetur; et reliqui clerici : utque nec presbyter,
+nec diaconus clericos ex laicis ordinent; sed so-
+lummodo, presbyter quidem doceat, offerat, bapti-
+zet, benedicat populo; diaconus vero ministret
+
+# block=3
+(12) Καὶ τῶν λοιπῶν κληρικῶν. Omnino ex sen-
+su, et ex canone apostolico 1, rescribendum, κα'.
+τοὺς λοιποὺς κληρικούς. Quod vertit Turrianus. At
+a Bovio lectum videtur, καὶ τῶν λοιπῶν κλῆρον. ID.
+Ὡσαύτως καὶ τὸν λοιπὸν κλῆρον, alter cod. Vindo-
+bonensis. CLER.
+
+# block=4
+Ἐπίσκοπον δὲ προστάσσομεν χειροτονεῖσθαι ὑπὸ
+τριῶν ἐπισκόπων (11)· ἢ τὸ γοῦν ἔλαττον, ὑπὸ δύο·
+μὴ ἐξεῖναι δὲ ὑπὸ ἑνὸς ὑμῖν καθίστασθαι. Ἡ γὰρ
+τῶν δύο καὶ τριῶν μαρτυρία βεβαιοτέρα καὶ ἀσφαλής.
+Πρεσβύτερον δὲ καὶ διάκονον ὑπὸ ἑνὸς ἐπισκόπου,
+καὶ τῶν λοιπῶν κληρικῶν (12)· μήτε δὲ καὶ πρεσβύ-
+τερον, μήτε διάκονον, χειροτονεῖν ἐκ λαϊκῶν κληρι-
+κούς (13)· ἀλλὰ μόνον, τὸν μὲν πρεσβύτερον διδάσκειν,
+ἀναφέρειν, βαπτίζειν, εὐλογεῖν τὸν λαόν (14)· τὸν δὲ
+
+# block=5
+audeat ordinare. Integrum enim judicium est, quod
+plurimorum sententia consequitur. 11. Ne unus episco-
+pus episcopum ordinare præsumat propter arrogan-
+tiam, ne furtivum beneficium præstitum videatur.
+Hoc enim in synodo Nicæna constat esse definitum.
+Quæ hunc ad modum secutus est Innocentius, epist. 2,
+cap. 1 : Ut extra conscientiam metropolitani episcopi
+nullus audeat ordinare episcopum. Integrum enim
+est judicium, quod plurimorum sententiis confirmatur.
+Nec unus episcopus ordinare præsumat episcopum,
+ne furtivum præstitum beneficium videatur. Hoc enim
+et a synodo Nicæna constitutum est atque definitum.
+Verum, ut ad institutum sermonem revertar, nar-
+rant Pelagium papam coactum fuisse pontificiam
+dignitatem accipere a duobus episcopis et uno pre-
+sbytero. Refertur quoque de aliis permissis in ne-
+cessitate ordinari ab uno episcopo et duobus aut
+pluribus abbatibus. Denique, a quo ordiendum fuit,
+temporibus apostolicis satis constat episcopos fuisse
+constitutos interdum ab uno apostolo, seu aposto-
+lico; interdum a pluribus, juxta illud 1 Tim. iv, 14:
+Noli negligere gratiam quæ in te est; quæ data est
+tibi per prophetiam, cum impositione manuum presby-
+teri; hoc est, ex interpretatione S. Chrysostomi,
+episcoporum qui eum ordinaverant. Vide infra,
+lib. vii, cap. 46; lib. viii, cap. 4, 27, et can. apost. 1.
+Cor.
+
+# block=6
+(14) Εὐλογεῖν τὸν λαόν. In Responsionibus
+synoᵉⁱ Constantinopolitanæ sub patriarcha Nicolao
+
+# block=7
+(10) Εὐήκοοι. Hæc vox cum tribus seqq. et mox
+voculæ τῷ πατρί, desunt in altero cod. Vindob. CLER.
+(11) Ἐπίσκοπον δὲ προστάσσομεν, etc. Epi-
+scoporum numerus episcopum ordinantium, res
+est ecclesiastici juris, quæ eapropter varietatem di-
+sciplinæ admittit. Et primo quidem canonem Nicæ-
+num quartum ita acceperunt Patres Constantino-
+poli congregati, apud Theodoritum Hist. eccl. lib. v,
+cap. 9, ut liceret provinciæ episcopis collegas finiti-
+mos ad ordinationem convocare. Qui et addunt a se
+ordinatum fuisse Nectarium. Patres vero Sardicen-
+ses can. 6, quemadmodum et Nicæni, canone citato,
+et Antiocheni can. 19, optant omnes provinciæ an-
+tistites ordinationi comprovincialis sui interesse.
+In concilio autem Carthaginensi 3, can. 39, legimus
+sententiam quorumdam de non celebrandis ordina-
+tionibus, nisi a duodecim. Sed et octo ordinatores,
+cum fieri potest, exigit concilium Arelatense 1,
+can. 20. Ad hæc circa quatuor, testantur ordina-
+tiones Græcorum impressæ, et duæ Gregorii papæ I,
+respondens ad interrogata Augustini, n. 8 in
+Beda, Hist. eccles., I, 27, et 3, epistola 1 ad Bonifa-
+cium. Jam trium esse officium coepiscopum conse-
+crare, innumera decreta ac testimonia loquuntur;
+quorum in plurimis tanquam minime sufficiens re-
+jicitur minor numerus, præsertim singularis. Unde
+Novatianus tres episcopos coegit, ut sibi manum
+imponerent; Julianitæ vero, cum tres tantum essent
+episcopi, mortuo Juliano uno ex illis, quo alium
+substituerent, defuncti manum, suasque capiti ho-
+minis a se ordinandi imposuerunt; sicuti refer-
+tur in narratione De rebus Armeniæ, tom. II, aucta-
+rii Bibliothecæ Patrum Combefisiani. Atque hoc
+loco celatum nolim lectorem errorem geminum, qui
+apparet in Breviatione canonum Fulgentii Ferrandi,
+cap. 6 : Ut unus episcopus episcopum non ordinet :
+excepta Ecclesia Romana. Concilio Zellensi, ex epi-
+stola papæ Siricii. Etenim duo prima decreta
+epistolæ 4 Siricii perperam commiscentur: et Se-
+des apostolica primatis seu metropolitana mutatur
+in sedem apostolicam Romanam; non culpa (suspi-
+cor) Ferrandi, sed ignorantia vel fraude cujusdam
+recentioris. En pontificis verba : I. Ut extra con-
+scientiam sedis apostolicæ, hoc est primatis, nemo
+
+# block=8
+Quod episcopus a tribus vel duobus episcopis debeat
+ordinari; non autem ab uno, id enim esse irri-
+tum.
+
+# block=9
+CAPUT XX.
+
+# block=11
+³⁰⁻³¹ Joan. viii, 17; Matth. xviii, 16.
+
+# block=12
+γογγύζοντες, μηδὲ διαστασιάζοντες, οὐ γὰρ διὰ ἄν-
+θρωπον ποιεῖτε, ἀλλὰ διὰ τὸν Θεόν· καὶ τὸν μισθὸν
+τῆς διακονίας παρ’ ἐκείνου ἀπολήψεσθε ἐν ἡμέρᾳ
+ἐπισκοπῆς, ὑμῶν· χρὴ οὖν ὑμᾶς τοὺς διακόνους ἐπι-
+σκέπτεσθαι πάντας τοὺς δεομένους ἐπισκέψεως· καὶ
+περὶ τῶν θλιβομένων ἀναγγέλλετε τῷ ἐπισκόπῳ
+ὑμῶν· ψυχὴ γὰρ αὐτοῦ, καὶ αἴσθησις εἶναι ὀφείλετε·
+εὔσκυλτοι καὶ εὐήκοοι (10) εἰς πάντα ὄντες αὐτῷ,
+ὡς ἐπισκόπῳ ὑμῶν, καὶ πατρὶ, καὶ διδασκάλῳ.
+
+# block=13
+ΚΕΦΑΛΑΙΟΝ Κ'.
+
+# block=14
+VARIORUM NOTÆ.
+
+# block=15
+Ὅτι ὑπὸ τριῶν ἢ δύο ἐπισκόπων ὀφείλει χειρο-
+τονεῖσθαι ὁ ἐπίσκοπος, ἀλλ’ οὐχ ὑπὸ ἑνός·
+ἀβέβαιον γάρ.
+
+# block=16
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=17
+803
+
+# block=18
+ventes; quia non propter hominem operamini,
+sed propter Deum; a quo mercedem ministerii,
+in die visitationis vestræ, recipietis. Oportet ita-
+que ut vos djaconi visitetis omnes qui visitationis
+indigent. De miseris etiam, ad episcopum referte;
+debetis enim esse anima illius, ac sentiendi vis;
+parati ad ministrandum illi ac obediendum in omni
+opera, veluti episcopo ,vestro, et patri, et magi-
+stro.
+
+# block=19
+804

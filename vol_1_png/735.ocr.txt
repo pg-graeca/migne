@@ -1,0 +1,358 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,207,733,577,2665
+2,216,190,957,319
+3,994,183,1752,321
+4,987,2575,1740,2650
+5,825,390,1123,424
+6,1686,86,1739,121
+7,1260,136,1490,180
+9,215,94,285,134
+10,213,320,961,368
+11,1017,320,1757,368
+12,461,136,729,180
+13,639,80,1341,132
+14,209,464,577,634
+15,589,466,959,608
+16,209,626,961,738
+17,219,2676,597,2718
+18,591,726,963,2650
+19,993,456,1367,2550
+20,1373,452,1753,2536
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=16px
+# block=7 fontSize=15px
+# block=9 fontSize=16px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=16px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+CONSTITUTIONES APOSTOLICÆ.—LIB. V.
+
+# block=6
+870
+
+# block=9
+869
+
+# block=12
+KEΦΑΛΑIΟΝ ΙΔ'.
+
+# block=7
+CAPUT XIV.
+
+# block=3
+De passione Domini; et quid in singulis diebus
+actum sit eorum quæ ad passionem pertinent; et de
+Juda; et quod quando Dominus tradidit discipulis
+sacramenta, Judas non intererat.
+
+# block=2
+Περὶ τοῦ πάθους τοῦ Κυρίου· καὶ τῲν ἐν ἑκάστῃ
+ἡμέρᾳ ἐπραχθέντων ἐν τῷ πάθει· καὶ περὶ τοῦ (68)
+Ἰούδα· καὶ ὅτι οὐ συμπαρῆν Ἰούδας ἐν τῷ τῶν
+Κυρίου τοῖς μαθηταῖς παραδιδόναι τὰ μυστήρια.
+
+# block=10
+Ἤρξαντο γὰρ τὴν κατὰ τοῦ Κυρίου βουλὴν ποιεῖ-
+
+# block=11
+Cœperunt enim consilium adversus Dominum ca-
+
+# block=5
+VARIORUM NOTÆ.
+
+# block=20
+πᾶσαι τῷ κατ᾿ αὐτὸ ἀπα-
+θεῖ τῆς θεότητος, καὶ φυρ-
+μὸν καὶ κρᾶσιν εἰσάγουσι·
+καὶ μίαν εἶναι φύσιν
+τὴν τοῦ Κυρίου ἡμῶν Ἰη-
+σοῦ Χριστοῦ ἀσεβῶς δο-
+γματίζουσιν, οἳ καὶ ὁ
+Εὐτυχεῖς καὶ Διόσκορος καὶ
+ὁ δείλαιος Πέτρος φρονοῦν-
+σιν αὐτῖς· καὶ ἡ τοῦ
+ἀθέου Σεβήρου αἵρεσις
+συντρέχει, καὶ ἐξ αὐτῶν
+μετέχουσιν οἱ ᾿Ακέφαλοι,
+Σεβηριανοί, οἱ Ἰακωβῖται.
+Ἔτι δὲ ὁ αὐτὸς ἀθεος Εὐ-
+τυχής, καὶ Διόσκορος, καὶ
+Πέτρος, καὶ ὁ ἀρχηγὸς τῶν
+᾿Αρμενίων Μαντακουνὴς
+λέγουσιν ὅτι πρὸ τοῦ γεν-
+νηθῆναι ἐκ τῆς ἀειπαρθέ-
+νου Μαρίας τὸν Σωτῆρα
+καὶ Θεὸν ἡμῶν, ἐξ οὐρα-
+νοῦ ἔσχε τὴν σάρκα. Τὴν
+γὰρ ὁμοιότητα καὶ μόνην
+κατὰ φαντασίαν καὶ οὐ
+κατ᾿ ἀλήθειαν ἔλαβεν ἐκ
+τῆς παρθένου. Λέγουσι δὲ
+ὡς οὔτε ψυχὴν οὔτε σῶμα
+ἔλαβεν ἐκ τῆς παρθένου,
+οὔτε Θεὸς μείνας ἐν τῇ
+γαστρὶ αὐτῆς ὑπέμεινεν,
+ἀλλ᾿ ὥσπερ διὰ σωλῆνος
+διῆλθεν, ἐκ δύο φύσεων,
+καὶ εἰς μίαν ὑπαρξιν φύ-
+σιν, καὶ διὰ τοῦτο οἱ ᾿Αρ-
+μένιοι τὸν εὐαγγελισμὸν
+οὐχ ἑορτάζουσιν εἰς τὸν
+ἴδιον καιρόν· ἀλλὰ πρὸ ὁκ-
+τὼ ἡμερῶν τῶν ἁγίων φύ-
+των ἑορτάζουσί τῇ ἑστέρᾳ
+τὴν ἑορτὴν τοῦ Εὐαγγελι-
+σμοῦ, καὶ διὰ τῆς νυκτὸς
+ἑορτάζουσι τὰ Χριστοῦ
+Γέννα, καὶ περιτρέχου-
+σιν ἑπτὰ ἡμέρας, καὶ εἰθ᾿
+οὕτως ἑορτάζουσι τὰ φῶ-
+τα, μηδέλως ποιοῦντες
+μνείαν τῆς περιτομῆς. Καὶ
+κατὰ τοὺς ἰδίουs [f. deest
+τρόπος]. Ἰουδαΐζουσιν
+οἱ ᾿Αρμένιοι· καὶ ἐν αὐτῷ
+τῷ καιρῷ τοῦ Πάσχα,
+θύουσι τὸν ἀμνὸν, καὶ ἐκ
+τοῦ αἵματος αὐτοῦ τὰς
+φλιὰς τῶν θυρῶν γρύουσι,
+ὀπτὰ πυρὶ ποιοῦσι καὶ
+ἐσθίουσι. Καὶ τὴν προσφο-
+ρὰν αὐτῶν ἄζυμον ποιοῦ-
+σι· καὶ ἔνωσιν τοῦ αἵμα-
+τος καὶ τοῦ ὕδατος οὐ ποιο-
+οῦσιν, ἀλλ᾿ οἶνον καὶ μέ-
+νον κατὰ τὸ ἔθιμον τῶν
+
+# block=19
+Domini nostri Jesu Chri-
+sti naturam impie docent;
+qualia Eutyches, Diosco-
+rus et infelix Petrus cum
+illis sentiant; concurrique
+impii Severi hæresis; ac
+ex illis habent Acephali,
+Severiani, Jacobitæ. Præ-
+terea idem impius Eu-
+tyches, et Dioscorus,
+et Petrus, et Armenio-
+rum ductor Mantacu-
+nes dicunt servatorem
+Deumque nostrum, ante-
+quam ex Maria semper
+Virgine nasceretur, de cœ-
+lo carnem habuisse, siml-
+itudinem enim et solum
+secundum modum ac opi-
+ninonem, non vero secun-
+dum veritatem sumpsisse
+de Virgine. Aiunt autem
+quod nec animam nec cor-
+pus ex Virgine acceperit,
+nec Deus manere in illius
+utero sustinuerit, sed tan-
+quam per tubum perivans-
+ierit; atque ex duabus
+naturis in unam commi-
+stus fuerit. Idsoque Ar-
+menii Annuntiationem suo
+tempore non celebrant :
+verum octo diebus antè
+sancta Lumina vespere ce-
+lebrant Annuntiationis fe-
+stum, et per noctem Na-
+tale Christi festum ha-
+bent, transcursisque se-
+plem diebus, ita postea
+Lumina concelebrant, nul-
+lo modo circumcisionis
+memoriam facientes. Ad
+hæc suo modo Judæos
+imitantur Armenii: atque
+in ipso Paschatis tempore
+agnum sacrificant, ex cu-
+jus sanguine limina por-
+tarum inungunt; assaigni
+faciunt et manducant.
+Suam oblationem absque
+fermento conficiunt: unio-
+nem sanguinis et aquæ non
+peragunt, sed solo vino
+utuntur, juxta Judæorum
+consuetudinem traditio-
+nemque cultus legalis; non
+intelligentes divina Evan-
+gelia, nec quod ab Apo-
+stolo dicitur: «Vetera
+transeunt, ecce facta
+suntomnia nova (II Cor.
+v, 17). » Signum autem
+venerandæ
+
+# block=14
+[κοινωνεῖ ex Euchologio]
+καταχωσμεῖται. Καὶ λαμ-
+βάνει ὁ τῷ ἁγίῳ μύρῳ
+σφραγισθεὶς παραγγελλίαν
+ταῖς ἑπτὰ ἡμέραις ἐκεί-
+
+# block=15
+non comedat, neque vul-
+tum lavet, sed sicut ba-
+phtizati, ita permaneat; at-
+que octavo die abluitur.
+
+# block=16
+ναις κρέα μὴ φαγεῖν, μηδὲ νίψασθαι τὴν ὄψιν,
+ἀλλὰ καθὼς οἱ βαπτιζόμενοι, οὕτω διατελεῖν· καὶ τῇ
+ὀγδόῃ ἡμέρᾳ ἀπολύεται. .
+
+# block=18
+A sancto et universali con-
+cilio sanctorum 318 Pa-
+trum Nicææ, usque ad
+sanctum et universale con-
+cilium 650 Chalcedone
+congregatorum, quæ exti-
+terunt sanctæ ac œcume-
+nicæ synodi, idem sentien-
+tes, omnem contrariam
+pravamque hæresim expu-
+lerunt, ac æterno anathe-
+mati tradiderunt, In qui-
+bus et sanctius numineque
+afflatus Pater noster Gre-
+gorius magnager Armenia,
+ordinatus in sanctissima
+metropoli Cæsareæ, de-
+creta et canones posuit,
+ne ñeque Armenia epi-
+scopo liceat alibi ordinari,
+quam apud Cæsariensium
+Ecclesiam : et ita post di-
+vinum Patrem nostrum
+Gregorium, alii episcopi,
+octo deinceps ordinati
+sunt. Quando autem, ut
+prædictum est, sancta
+synodus in Spiritu sancto
+congregata est Chalcedo-
+ne, schisma fecerunt et ad
+suas hæreses contulerunt
+se, Echanes ille qui et
+Mantacunes ac reliqui to-
+tius Armeniæ profani sa-
+cerdotes. Cæterum prin-
+ceps malitiæ serpens in-
+ventis pravitatis suæ in-
+strumentis Dioscoro Ale-
+xandrino, Petro Antio-
+cheno, et monothelita Eu-
+tyche, qui expulsi et ana-
+themate percussi fuerunt
+per sancias œcumenicus-
+que synodos : is, inquam,
+serpens et Armenii in ci-
+vitate Armeniæ dicta Tbe
+collecti, ibique synodo, ut
+ipsi putabant, congregata,
+impia et blasphema con-
+scripserunt dogmata; in-
+deque errorem Chantzit-
+zariorum. Sic ab illis exi-
+stimatur. Passionem ad
+passionem imponunt ei
+quod per se ratione divi-
+nitatis nihil pati potest:
+inducunt confusionem et
+misionem; unamque esse
+
+# block=1
+᾿Απὸ τῆς ἁγίας καὶ οἰ-
+κουμενικῆς συνόδου τῶν
+τ:ηʹ ἁγίων Πατέρων τῶν ἐν
+Νικαίᾳ καὶ μέχρι τῆς ἁ-
+γίας καὶ οἰκουμενικῆς συν-
+όδου τῶν ἐν Χαλκηδόνι
+γλʹ, αἱ προλαβοῦσαι αἱ
+ἅγιαι καὶ οἰκουμενικαὶ σύν-
+οδοι ὁμοφρονήσασαι, πᾶ-
+σαν ἐναντίαν καὶ πονηρὰν
+αἵρεσιν ἀπεδίωξαν, καὶ
+τῷ αἰωνίῳ ἀναθέματι παρ-
+εδέξασιν. Ἐν οἷς καὶ ὁ
+ἅγιος καὶ θεοφόρος Πατὴρ
+ἡμῶν Γρηγόριος ὁ τῆς με-
+γάλης ᾿Αρμενίας χειροτο-
+νηθεὶς τῇ ἁγιωτάτῃ μη-
+τροπόλει Καισαρείας, ὅ-
+ρους καὶ κανόνας ἔθετο
+τοῦ μὴ ἔχειν ἐξουσίαν ἀλ-
+λαχοῦ χειροτονηθῆναι τὴν
+τῆς μεγάλης ᾿Αρμενίας
+ἀρχιερέα, εἰ μὴ ἐν τῇ ἐκ-
+κλησίᾳ τῶν Καισαρέων·
+καὶ ἀπʹ αὐτοῦ τοῦ θεοφό-
+ρου Πατρὸς ἡμῶν Γρηγο-
+ρίου, ἕτεροι ἀρχιερεῖς ἐ-
+χειροτονήθησαν καθεξῆς
+ὀκτώ. Ὅτε δὲ ὡς προείρη-
+ται ἡ ἁγία σύνοδος ἐν
+Πνεύματι ἁγίῳ συνηθροί-
+σθη ἐν Χαλκηδόνι, ἀπέσχι-
+σαν καὶ εἰς ἰδίας αἱρέσεις
+ἐχώρησαν, ὁ ᾿Εχάνης ἐκεῖ-
+νος ὁ καὶ Μαντακουνῆς
+ἅμα τῶν λοιπῶν ἀνιέρων
+τῆς ὅλης ᾿Αρμενίας. Εὗ-
+ρὼν δὲ ὁ ἀρχέκακος ὄφις
+ὄργανα τῆς αὐτοῦ σκαιω-
+ρίας, Διόσκορον τὸν ᾿Αλε-
+ξανδρείας, καὶ Πέτρον τὸν
+᾿Αντιοχείας, καὶ τὸν Μο-
+νοθελήτην. Εὐτυξέα, ἀπε-
+λαθέντας καὶ ἀναθεματι-
+σθέντας παρὰ τῶν ἁγίων
+καὶ οἰκουμενικῶν συνό-
+δων· καὶ ἀμφότεροι συνα-
+χθέντες ἐν τῇ πόλει τῇ λε-
+γομένῃ Τ6ὴ [ aliis Τι-
+6ὴ ] τῆς ᾿Αρμενίας, καὶ
+ἐν αὐτῇ σύνοδον ὡς ἐκεῖ-
+νοι ἐνόμισαν συγκροτή-
+συντες, καὶ τὰ ἄθεα καὶ
+βλάσφημα συνεργψάντο
+δόγματα· ἐκεῖθεν καὶ τὴν
+τῶν Χαντζιτζαρίων· (a)
+οὕτως ἐκείνοις λογίζεται·
+πάθος γὰρ ἐπιφέρουσι τῷ
+
+# block=4
+(68) Καὶ περὶ τοῦ, etc. Hæc et reliqua ad finem
+inscriptionis in utroque cod. desunt. CLER.
+
+# block=17
+(a) Videtur aliquid deesse.

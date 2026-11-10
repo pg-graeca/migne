@@ -1,0 +1,193 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,212,2338,965,2508
+2,215,2505,964,2638
+4,216,2637,955,2707
+5,826,2275,1118,2313
+6,229,397,962,463
+7,485,352,719,386
+8,280,2201,1622,2239
+9,217,990,964,2172
+10,1249,349,1519,384
+11,996,2541,1738,2709
+12,997,2402,1745,2542
+13,999,466,1755,2158
+15,371,140,837,200
+19,1683,77,1752,113
+21,999,2337,1736,2409
+22,1015,393,1746,463
+23,222,206,976,282
+24,226,86,320,126
+25,640,68,1378,132
+26,1146,140,1640,190
+27,1022,208,1782,280
+28,220,474,972,992
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=212 source_y1=2338 source_x2=965 source_y2=2508
+(71) Τίνων χάριν, etc. Habent gemini codd. : ὅτι
+τὰ χαρίσματα τῶν ἰαμάτων, καὶ τῶν λοιπῶν σημείων
+οὐχὶ δι' ὠφέλειαν τῶν ἐνεργούντων δίδοται, ἀλλὰ πρὸς
+πληροφορίαν τῶν ἀπίστων, καὶ ὅτι οὐκ ἀνάγκη πάν-
+τα πιστὸν σημεῖον ποιεῖν. CLER.
+
+# block=2 source_x1=215 source_y1=2505 source_x2=964 source_y2=2638
+(72) Πατρὸς αὐτοῦ. Desunt in altero cod., nec
+necessaria sunt, nam ὁ εἷς καὶ μόνος ἀληθινὸς
+Θεός ex sententia Arianorum solus est Pater Jesu
+Christi. ID.
+
+# block=4 source_x1=216 source_y1=2637 source_x2=955 source_y2=2707
+(73) Καὶ οὗτοί σε ἔγνωσαν. Joannis xvii, 25:
+Καὶ οὗτοι ἔγνωσάν σε ὅτι με ἀπέστειλας. Et hi co-
+
+# block=5 source_x1=826 source_y1=2275 source_x2=1118 source_y2=2313
+VARIORUM NOTÆ.
+
+# block=6 source_x1=229 source_y1=397 source_x2=962 source_y2=463
+Τίνων χάριν (71) ἐπιτελοῦνταί αἱ τῶν σημείων
+δυνάμεις. .
+
+# block=7 source_x1=485 source_y1=352 source_x2=719 source_y2=386
+ΚΕΦΑΛΑΙΟΝ Α'.
+
+# block=8 source_x1=280 source_y1=2201 source_x2=1622 source_y2=2239
+⁹¹ Tim. III, 16 ⁹² Joan. XVII, 6, 4. ⁹³ Ibid. 11, 25. ⁹⁴ Marc. XVI, 17, 18. ⁹⁴ ᴬ Luc. X, 20.
+
+# block=9 source_x1=217 source_y1=990 source_x2=964 source_y2=2172
+« Σημεῖα δὲ τοῖς πιστεύσασιν, ταῦτα παρακολουθήσει·
+ἐν τῷ ὀνόματί μου δαιμόνια ἐκβαλοῦσι· γλώσσαις
+καιναῖς λαλήσουσιν· ὄφεις ἀροῦσι· κἂν θανάσιμόν τι
+πίωσιν, οὐ μὴ αὐτοὺς βλάψει· ἐπὶ ἀρρώστους χεῖρας
+ἐπιθήσουσι, καὶ καλῶς ἕξουσι. » Τούτων τῶν χαρισμά-
+των πρότερον μὲν ἡμῖν δοθέντων τοῖς ἀποστόλοις, μέλ-
+λουσι τὸ Εὐαγγέλιον καταγγέλλειν πάσῃ τῇ κτίσει·
+ἔπειτα δὲ τοῖς δι' ἡμῶν πιστεύσασιν ἀναγκαίως χο-
+ρηγουμένων· οὐκ εἰς τὴν τῶν ἐνεργούντων ὠφέλειαν,
+ἀλλ' εἰς τὴν τῶν ἀπίστων συγκατάθεσιν, ἵνα οὓς οὐκ
+ἔπεισεν ὁ λόγος, τούτους ἡ τῶν σημείων δυσωπήσῃ δύ-
+ναμις· τὰ γὰρ σημεῖα οὐ τοῖς πιστοῖς ἡμῖν, ἀλλὰ τοῖς
+ἀπίστοις, Ἰουδαίοις τε καὶ Ἑλλήνων· οὔτε γὰρ τὸ
+δαίμονας ἐκβάλλειν ἡμέτερον κέρδος, ἀλλὰ τῶν ἐνερ-
+γείᾳ Κυρίου καθαιρουμένων· καθὼς αὐτός που παι-
+δεύων ἡμᾶς ὁ Κύριος δείκνυσι λέγων· « Μὴ χαίρετε
+ὅτι τὰ πνεύματα ὑμῖν ὑπακούεται, ἀλλὰ χαίρετε ὅτι
+τὰ ὀνόματα ὑμῶν γέγραπται ἐν τῷ οὐρανῷ· » ἐπειδὴ
+τὸ μὲν αὐτοῦ δυνάμει γίνεται, τὸ δὲ ἡμετέρᾳ εὐνοίᾳ
+καὶ σπουδῇ, δῆλον ὅτι βοηθουμένοις ὑπ' αὐτοῦ. Θὐκ
+ἐπάναγκες οὖν πάντα πιστὸν δαίμονας ἐκβάλλειν, ἢ
+νεκροὺς ἀνιστᾷν, ἢ γλώσσαις λαλεῖν· ἀλλὰ τῶν ἀξιω-
+θέντα χαρίσματος ἐπί τινι αἰτίᾳ χρησίμῃ, εἰς σωτη-
+ρίαν τῶν ἀπίστων, δυσωπουμένων πολλάκις οὐ τῇ (74)
+τῶν λόγων ἀποδείξει, ἀλλὰ τῇ τῶν σημείων ἐνεργείᾳ,
+ἀξίων ὄντων σωτηρίας· οὐδὲ γὰρ πάντες οἱ ἀσεβεῖς
+ὑπὸ τῶν θαυμάτων ἐντρέπονται· καὶ τούτου μάρτυς
+
+# block=10 source_x1=1249 source_y1=349 source_x2=1519 source_y2=384
+CAPUT PRIMUM.
+
+# block=11 source_x1=996 source_y1=2541 source_x2=1738 source_y2=2709
+(74) Τῇ. Alter cod. τήν et postea ἀπόδειξιν ac
+τὴν ἐνέργειαν. Revera δυσωπέομαι accusativum
+regere apud bonos scriptores solet. Sed ele-
+gantiorum usum non semper sequitur hic scri-
+ptor. CLER.
+
+# block=12 source_x1=997 source_y1=2402 source_x2=1745 source_y2=2542
+Καὶ σὲ σοφὸς χορὸς οὗτος ἐμῶν διδάηκεν ἑταίρων.
+Chrysostomus in Catena Joannis : Καὶ οὗτοι δέ σε
+ἔγνωσαν, ὅτι σύ με ἀπέστειλας, ubi in editionibus S.
+doctoris, σέ illud non comparet. COT.
+
+# block=13 source_x1=999 source_y1=466 source_x2=1755 source_y2=2158
+« Cum Deus et Salvator noster Jesus Christus
+magnum pietatis sacramentum nobis tradat, et Ju-
+dæos gentilesque invitet ad agnitionem unius ac
+solius veri Dei Patris sui ⁹¹ ; quemadmodum ipse
+alicubi, gratias de salute credentium agens, ait :
+« Manifestavi nomen tuum hominibus ; opus quod
+dedisti mihi, consummavi ⁹² ; » cumque de nobis
+dicat Patri : « Pater sancte, etsi mundus te non co-
+gnovit ; at ego te cognovi, et hi te cognoverunt ⁹³ ; »
+merito omnibus simul, utpote qui simus con-
+summati, ait de charismatibus, quæ ipse per Spi-
+ritum dedit : « Signa autem eos qui credide-
+rint, hæc sequentur : In nomine meo dæmonia
+ejicient ; linguis novis loquentur ; serpentes tollent ;
+et si mortiferum quid biberint, non eis nocebit ;
+super ægros manus imponent, et bene habebunt ⁹⁴. »
+Quæ charismata seu dona prius quidem nobis apo-
+stolis tradita sunt, qui omni creaturæ prædicaturi
+eramus Evangelium ; postea vero necessario iis,
+qui per nos crediderunt, præbentur ; non ad utili-
+tatem ea operantium, sed ad infidelium assensio-
+nem ; ut quibus non persuasit sermo, hos virtus si-
+gnorum flectat ac pudore afficiat. Signa enim non
+nobis fidelibus eduntur, sed infidelibus, cum Ju-
+dæorum, tum Græcorum. Neque enim dæmones
+ejicere nostrum emolumentum est, sed eorum qui
+per Domini operationem purgantur ; sicut ipse
+Dominus, nos erudiens, ostendit, dicendo : « Nolite
+gaudere, quia spiritus vobis obediunt; sed gaudete,
+quod nomina vestra scripta sunt in cœlo ⁹⁴ ᵃ ; »
+quando illud quidem ipsius virtute fit ; hoc autem
+nostro affectu ac studio, nobis, videlicet, ab eo
+adjutis. Non ergo necesse est ut omnis fidelis dæ-
+mones expellat, aut suscitet mortuos, aut linguis
+loquatur, sed is qui charismate dignatus est propter
+aliquam causam utilem, ad salutem infidelium, qui
+sæpe non sermonum demonstratione, sed signorum
+operatione commoventur, quique digni sunt salute ;
+non enim omnes impii miraculis convertuntur :
+
+# block=15 source_x1=371 source_y1=140 source_x2=837 source_y2=200
+ΒΙΒΛΙΟΝ ΟΓΔΟΟΝ.
+
+# block=19 source_x1=1683 source_y1=77 source_x2=1752 source_y2=113
+1062
+
+# block=21 source_x1=999 source_y1=2337 source_x2=1736 source_y2=2409
+gnoverunt quia tu me misisti. At enim Nonni Para-
+phrasis :
+
+# block=22 source_x1=1015 source_y1=393 source_x2=1746 source_y2=463
+Quare et propter quosnam edantur signa et mira-
+cula.
+
+# block=23 source_x1=222 source_y1=206 source_x2=976 source_y2=282
+ΠΕΡΙ ΧΑΡΙΣΜΑΤΩΝ, ΚΑΙ ΧΕΙΡΟΤΟΝΙΩΝ, ΚΑΙ
+ΚΑΝΟΝΩΝ ΕΚΚΛΗΣΙΑΣΤΙΚΩΝ.
+
+# block=24 source_x1=226 source_y1=86 source_x2=320 source_y2=126
+1061
+
+# block=25 source_x1=640 source_y1=68 source_x2=1378 source_y2=132
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=26 source_x1=1146 source_y1=140 source_x2=1640 source_y2=190
+LIBER OCTAVUS.
+
+# block=27 source_x1=1022 source_y1=208 source_x2=1782 source_y2=280
+DE CHARISMATIBUS, ET ORDINATIONIBUS,
+ET ECCLESIASTICIS CANONIBUS.
+
+# block=28 source_x1=220 source_y1=474 source_x2=972 source_y2=992
+Τοῦ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ τὸ
+μέγα τῆς εὐσεβείας ἡμῖν παραδιδόντος μυστήριον,
+καὶ προσκαλουμένου Ἰουδαίους τε καὶ Ἕλληνας εἰς
+ἐπίγνωσιν τοῦ ἑνὸς καὶ μόνου ἀληθινοῦ Θεοῦ Πατρὸς
+αὐτοῦ (72), καθὼς αὐτός που φησιν εὐχαριστῶν ἐπὶ
+τῇ σωτηρίᾳ τῶν πιστευσάντων · « Ἐφανέρωσά σου τὸ
+ὄνομα τοῖς ἀνθρώποις, τὸ ἔργον ὃ ἔδωκάς μοι, ἐτε-
+λείωσα· » καὶ περὶ ἡμῶν λέγοντος τῷ Πατρί· « Πά-
+τερ ἅγιε, εἰ καὶ ὁ κόσμος σε οὐκ ἔγνω, ἀλλ' ἐγώ σε
+ἔγνων, καὶ οὗτοί σε ἔγνωσαν (73) · » εἰκότως, ὡς ἄν
+τετελειωμένων ἡμῶν, φησὶ πᾶσιν ἅμα, περὶ τῶν ἐξ
+αὐτοῦ διὰ τοῦ Πνεύματος διδομένων χαρισμάτων·

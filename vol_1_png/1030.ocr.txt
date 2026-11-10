@@ -1,0 +1,150 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,172,1907,932,2684
+2,960,1913,1718,2688
+3,179,140,929,1820
+4,964,140,1720,1908
+5,594,83,1315,119
+6,1648,93,1715,126
+7,184,84,252,120
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=172 source_y1=1907 source_x2=932 source_y2=2684
+III. Et vero cultu dignam crucem ejusdem veri
+Christi Deique nostri, velut non amplius interitus
+ac maledicti instrumentum, sed libertatis vitæque
+perpetuæ, signumque victoriæ adversus mortem et
+diabolum partæ; atque adhuc venerandas imagines
+tum præsentiæ Dei Verbi secundum carnem inter
+homines, tum purissimæ virginis Dei Matris quæ
+ineffabiliter eum genuit, tum divinorum angelorum,
+tum denique sanctorum omnium, recipio, honoro,
+amplector velut symbola et indicia prototyporum
+seu exemplarium : ipsos autem sacros angelos,
+omnesque sanctos, non solum antiquos patres cum
+prophetis, sed et apostolos, martyres, confessores,
+doctores, sanctos, item omnes omnino qui jam
+orto Christo placuerunt, tanquam illius servos ac
+fideles famulos honoro, veneror, propter honorem
+illi debitum. Et ita ex toto animo et corde, vero-
+que proposito venio ad fidem Christianorum. Quod
+
+# block=2 source_x1=960 source_y1=1913 source_x2=1718 source_y2=2688
+Καὶ τὸν σεβάσμιον δὲ σταυρὸν τοῦ αὐτοῦ ἀληθινοῦ
+Χριστοῦ καὶ Θεοῦ ἡμῶν ὡς οὐκ ἔτι φθορᾶς καὶ ἀρᾶς
+ὄργανον, ἀλλ’ ἐλευθερίας καὶ ζωῆς αἰωνίου, καὶ ση-
+μεῖον τῆς κατὰ τοῦ θανάτου καὶ τοῦ διαβόλου νίκης·
+ἔτι δὲ καὶ τὰς σεβασμίους εἰκόνας τῆς τε κατὰ σάρκα
+πρὸς ἀνθρώπους ἐπιφανείας τοῦ Θεοῦ Λόγου, καὶ τῆς
+ἀφράστως αὐτὸν τεκούσης ἁγνῆς παρθένου καὶ Θεο-
+μήτορος, καὶ τῶν θεοειδῶν ἀγγέλων, καὶ τῶν ἁγίων
+ἀπάντων, ὡς σύμβολα τῶν πρωτοτύπων καὶ δέχομαι
+καὶ τιμῶ καὶ ἀσπάζομαι· καὶ αὐτοὺς δὲ τοὺς ἱεροὺς
+ἀγγέλους καὶ τοὺς ἁγίους ἅπαντας, οὐ μόνον προπά-
+τορας καὶ προφήτας, ἀλλὰ καὶ ἀποστόλους καὶ μάρ-
+τυρας καὶ ὁμολογητὰς καὶ διδασκάλους καὶ ὁσίους
+καὶ πάντας ἁπλῶς τοὺς τῷ ἤδη ἐλθόντι Χριστῷ εὐ-
+αρεστήσαντας, ὡς δούλους ἐκείνου καὶ πιστοὺς θερά-
+ποντας τιμῶ καὶ σέβομαι, διὰ τὴν πρὸς ἐκεῖνον τι-
+μήν. Καὶ οὕτως ἐξ ὅλης ψυχῆς καὶ καρδίας καὶ
+προαιρέσεως ἀληθοῦς, προσέρχομαι τῇ πίστει τῶν
+
+# block=3 source_x1=179 source_y1=140 source_x2=929 source_y2=1820
+trem, Filium et Spiritum sanctum , sanctam, con-
+substantialem et individuam Trinitatem. Confiteor
+Incarnationem et ad homines adventum unius e
+sancta Trinitate, scilicet Filii unigeniti ac Verbi
+Dei, a Patre ante omnia sæcula geniti, per quem
+omnia facta sunt : cum credo esse Messiam qui a
+Lege et prophetis prædictus fuit ; certumque habeo
+quod jam in terram venerit propter humani gene-
+ris salutem ; quod vere factus sit homo, nec tamen
+a propria divinitate excesserit ; quod idem vere
+Deus sit, ac vere homo, absque confusione, muta-
+tione et alteratione, in una persona et duabus na-
+turis ; quodque sponte cuncta passus fuerit, et
+carne crucifixus, divinitate impassibili permanente,
+sepultus fuerit, ac tertia die resurrexerit, postea in
+cœlum ascenderit, venturusque sit in 'gloria, ut ju-
+dicet vivos et mortuos. Credo ac profiteor, sanctam
+virginem Mariam, quæ secundum carnem illum pe-
+perit, et post partum virgo permansit, vere ac pro-
+prie esse Dei genitricem, eamque veneror et ho-
+noro tanquam vere matrem Dei incarnati, ideoque
+dominam et heram in gratia factam universæ crea-
+turæ. Adhuc panem et vinum, quæ apud Christianos
+mystice consecrantur, quemadmodum in divinis sa-
+cris sumunt, certus sum, confiteor, credo esse re-
+vera corpus et sanguinem Domini Jesu Christi,
+transmutata per divinam illius potentiam intelle-
+ctualiter et invisibiliter super omnem naturalem
+cogitationem, quemadmodum solus ipse novit ; sic-
+que ego horum participem me fore assentior, ut
+vere ac reapse carnis et sanguinis illius, et in san-
+ctitatem animæ et corporis, vitamque æternam, ac
+regnum cœlorum atque hæreditatem eorum qui .
+sumunt, si in fide perfecta communicent. Sanctum
+præterea Christi baptisma, ex puro candidoque
+animo et corde, fideque sincera accipere flagito,
+plene persuasus illud vere esse lustrationem quæ
+mente percipitur, et regenerationem animæ et
+corporis.
+
+# block=4 source_x1=964 source_y1=140 source_x2=1720 source_y2=1908
+καὶ μόνῳ Χριστῷ καὶ Θεῷ. Καὶ πιστεύω εἰς Πατέρα
+καὶ Υἱὸν καὶ ἅγιον Πνεῦμα, τὴν ἁγίαν καὶ ὁμοούσιον
+καὶ ἀχώριστον Τριάδα. Καὶ τὴν Ἔνσαρκον οἰκονο-
+μίαν, καὶ πρὸς ἀνθρώπους ἐπιδημίαν ὁμολογῶν τοῦ
+τῆς ἁγίας Τριάδος ἑνὸς, τοῦ μονογενοῦς Υἱοῦ καὶ
+Λόγου τοῦ Θεοῦ, τοῦ ἐκ Πατρὸς πρὸ πάντων τῶν
+αἰώνων γεννηθέντος, δι’ οὗ τὰ πάντα ἐγένετο, αὐτὸν
+ὑπάρχειν πιστεύω τὸν παρὰ τοῦ νόμου καὶ τῶν
+προφητῶν προκηρυχθέντα Μεσίαν· ὃν καὶ ἤδη ἐλθεῖν
+ἐπὶ γῆς πληροφοροῦμαι, διὰ τὴν σωτηρίαν τοῦ ἀν-
+θρωπίνου γένους, καὶ γενέσθαι κατὰ ἀλήθειαν ἄν-
+θρωπον, μὴ ἐκστάντα τῆς οἰκείας θεότητος, καὶ εἶ-
+ναι τὸν αὐτὸν Θεὸν ἀληθῶς, καὶ ἄνθρωπον ἀληθῶς,
+ἀσυγχύτως, ἀτρέπτως καὶ ἀναλλοιώτως, ἐν ὑποστάσει
+μιᾷ καὶ δυσὶ φύσεσιν, ἑκουσίως τε πάντα παθεῖν, καὶ
+σταυρωθῆναι σαρκὶ, τῆς θεότητος ἀπαθοῦς μεινάσης,
+καὶ ταφῆναι, καὶ τριήμερον ἀναστῆναι, καὶ εἰς οὐρα-
+νοὺς ἀναληφθῆναι, καὶ ἥξειν ἐν δόξῃ μέλλοντα κρῖναι
+ζῶντας καὶ νεκρούς· καὶ τὴν κατὰ σάρκα τοῦτον τε-
+κοῦσαν ἁγίαν παρθένον Μαρίαν, καὶ μείνασαν μετὰ
+τόκον παρθένον, κυρίως καὶ ἀληθῶς Θεοτόκον καὶ
+πιστεύω καὶ λέγω, καὶ ὡς κατὰ ἀλήθειαν μητέρα
+Θεοῦ ἐνανθρωπήσαντος καὶ διὰ τοῦτο κυρίαν καὶ δέ-
+σποιναν ἐν χάριτι γεγενημένην πάσης τῆς κτίσεως
+προσκυνῶ καὶ τιμῶ. Καὶ τὸν παρὰ Χριστιανοῖς μυ-
+στικῶς ἱερουργούμενον ἄρτον καὶ τὸν οἶνον, ὡς ἐν,
+ταῖς θείαις τελεταῖς μεταλαμβάνουσι, πείθομαι, καὶ
+ὁμολογῶ, καὶ πιστεύω, σῶμα καὶ αἷμα κατὰ ἀλήθειαν
+εἶναι τοῦ Κυρίου Ἰησοῦ Χριστοῦ, μεταβαλλόμενα τῇ
+ἐκείνου θεϊκῇ δυνάμει νοερῶς τε καὶ ἀοράτως ὑπὲρ
+πᾶσαν φυσικὴν ἔννοιαν, ὡς οἶδε μόνος αὐτός· καὶ
+οὕτω κἀγὼ μεταλήψεσθαι τούτων συντίθεμαι, ὡς
+κατὰ ἀλήθειαν ὄντως σαρκός τε ∙ αὶ αἵματος αὐτοῦ,
+καὶ εἰς ἁγιασμὸν ψυχῆς τε καὶ σώματος, καὶ ζωὴν
+αἰώνιον, καὶ βασιλείαν οὐρανῶν κληρονομίαν, μετα-
+λαμβανομένων, τοῖς αὐτῶν ἐν πίστει τελείᾳ μετέ-
+χουσι. Καὶ τὸ ἅγιον τοῦ Χριστοῦ βάπτισμα, μετὰ
+καθαρᾶς καὶ ἀδόλου ψυχῆς καὶ καρδίας, πίστεως εἰ-
+λικρινοῦς ἐπιζητῶ δέξασθαι, πληροφορούμενος ἀλη-
+θῶς κάθαρσιν αὐτὸ νοητὴν εἶναι, καὶ ἀναγέννησιν
+ψυχῆς τε καὶ σώματος..
+
+# block=5 source_x1=594 source_y1=83 source_x2=1315 source_y2=119
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=6 source_x1=1648 source_y1=93 source_x2=1715 source_y2=126
+1460
+
+# block=7 source_x1=184 source_y1=84 source_x2=252 source_y2=120
+1459

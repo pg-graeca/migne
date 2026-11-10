@@ -1,0 +1,167 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,997,1839,1740,2488
+2,218,968,967,1745
+3,217,1753,964,2444
+4,997,1317,1742,1832
+5,989,139,1744,1181
+6,221,138,963,785
+7,225,848,960,947
+8,253,2454,961,2490
+9,251,2526,691,2563
+10,463,806,720,839
+11,1008,1241,1741,1307
+12,722,81,1229,120
+13,1239,1196,1505,1231
+14,223,84,294,120
+15,1657,80,1741,126
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=997 source_y1=1839 source_x2=1740 source_y2=2488
+Unum his omnibus addendum, nempe auctorem
+nostrum, si fidem aliquam mereatur, plures alios
+ex iis quæ a Petro audierat libros confecisse. Ilos
+autem ille accurate enumerat (lib. 1, 111, v), librum
+De vero Propheta, librum De præfinitione Dei, et
+decem alios ab editis, Recognitionum libros, quo-
+rum singula promit argumenta : alios autem libellos
+ex Petri ad discipulorum suorum 'interrogata re-
+sponsis compositos. Utrum tamen hi libri in lucem
+aliquando emissi fuerint vel vana tantummodo
+mendacis scriptoris ostentatione ficte fallaciterque
+venditentur, in dubium merito revocari potest. At
+si aliquando prodierunt in publicum, hi non minus
+quam illi de quibus hactenus disputavimus, sup-
+positi sunt et adulterini.
+
+# block=2 source_x1=218 source_y1=968 source_x2=967 source_y2=1745
+Cæterum hi libri, quantumvis adulterini fuerint
+et corrupti, ad nos tamen quales ab auctore suo
+scripti fuerant non pervenerunt. Nulli siquidem nunc
+occurrunt eorum Græci codices manuscripti, quos
+suo tempore frequentes fuisse Rufinus Photiusque
+testantur ⁶³ : solam habemus hujus operis Latinam
+versionem Rufini, qui plures, ut monuimus, locos
+se omisisse, nec Latine reddere voluisse ingenue
+confessus est. Et re quidem vera Cotelerius in sua
+horum librorum editione ex tribus mss. Sorbonico,
+Thuaneo, et Candeleriano restituit fragmentum,
+quod illud ipsum esse putat, quo auctor noster,
+teste Rufino, de ingenito Deo genitoque disseruit;
+atque ideo quod Arianis faveret, ab eodem Rufino
+de industria fuerat prætermissum. Præterea si ei-
+dem Rufino Photioque fides habeatur, hi libri ab
+Eunomianis et Arianis, primigenio illorum auctore
+longe posterioribus, depravati sunt et adulterati.
+
+# block=3 source_x1=217 source_y1=1753 source_x2=964 source_y2=2444
+Quapropter quamvis iidem libri maximæ sint
+antiquitatis, cautis tamen prudentibusque oculis
+legendi sunt, quippe qui ab iis qui errores suos
+quoquo tandem modo disseminare tentabant, variis
+temporibus nequiter corrupti fuerint. Possunt
+tamen aliquibus, non omnino imprudentibus, non-
+nihil utilitatis idcirco adferre, quod Christianæ
+religionis apologia sint et defensio, qua fabulæ pa-
+ganorum, idololatria, cultusque falsorum numinum,
+atque eorum qui astris influentibus fatalem homini
+necessitatem imponi dicunt, errores impugnantur
+et destruuntur. Nec etiam inutiles omnino iis esse
+poterunt qui varias philosophorum opiniones, va-
+rios diversorum populorum mores consuetudines-
+que atque allegoricas fabularum explicationes
+voluerint addiscere.
+
+# block=4 source_x1=997 source_y1=1317 source_x2=1742 source_y2=1832
+Gruterus quædam in hos libros edidit scholia,
+quæ nec magni sunt momenti, nec multæ utilitatis.
+At Cotelerius doctiores utilioresque in hos libros
+scripsit notas et observationes, quibus auctoris
+textus corrigitur et enodatur. Monet tamen majorem
+Recognitionum partem, quod ad humanas potius
+disciplinas spectent, quam ad theologiam, notis il-
+lustratum se non ivisse. Non paucas tamen in res
+philosophicas edidit animadversiones. Neque forsan
+alia plura ab eo observata lectoribus minus essent
+jucunda et utilia, si a proposito auctoris textu rarius
+digrederetur.
+
+# block=5 source_x1=989 source_y1=139 source_x2=1744 source_y2=1181
+iis qui. illos citarunt, varii tituli præfiguntur. Ali-
+quando enim Clementis Recognitio, vel Recognitiones,
+Clementis Itinerarium, liber Itinerarius Prædicatio-
+nis Petri, Clementis gesta, vel Historia, aut Chro-
+nica, vel Narratio, aliquando vero Petri Periodi,
+vel Circuitus, vel Itinerarium, vel Actus appellantur.
+Ii porro ex duobus mss. cum variis summorum
+quorumdam pontificum epistolis, curante Joanne
+Sichardo, anno 1526 typis editi sunt. Postea Lam-
+bertus Gruterus Venradius eosdem rursus typis
+excudit, atque in eis quædam se emendasse affir-
+mat. Verum cum ille has emendationes non ex
+manuscriptis se hausisse dixerit, eas suis duntaxat
+conjecturis videtur fuisse assecutus. Ex hac tamen
+editione in Bibliotheca Lugdunensi hi libri rursus
+emissi sunt in lucem. Cotelerius autem illos cum
+operibus Patrum, qui temporibus apostolicis flo-
+ruerunt, publicari voluit, hancque editionem ope
+sex mss. codicum, Sorbonæ nimirum, Thuaneo,
+Petri Candelerii, Regis, Petri Petiti, et Carmeli-
+tarum Discalceatorum se adornasse testificatur.
+Alium præterea codicem, ante annos quadringentos
+exaratum, ex bibliotheca Colbertina penes nos
+habuimus.
+
+# block=6 source_x1=221 source_y1=138 source_x2=963 source_y2=785
+Denique quo tempore eosdem illos libros in lu-
+cem ipse emiserit, paulo proclivius est definire.
+Verum enimvero cum Origenes non solum illos cita-
+verit, sed longum etiam ex iis transcripserit frag-
+mentum, constat eosdem Origene.ipso esse antiquio-
+res. Non temere igitur illi secundo Ecclesiæ sæculo
+in vulgus prodiisse dicuntur. Quod quidem inde
+rursus confirmari potest, quod Bardesanes Syrus
+aliud quoque, uti diximus, fragmentum non minus
+prolixum, in suum adversus Marcionem librum
+transtulit. Nam Bardesanes ille hunc eumdem li-
+brum sub Soteris pontificatu, paulo post secundum
+sæculum medium Antonio imperatori nuncupavit.
+Jam ergo pervulgati erant illi Recognitionum Cle-
+mentinarum libri.
+
+# block=7 source_x1=225 source_y1=848 source_x2=960 source_y2=947
+Num hi libri ad nos, quales ab auctore prodierunt
+pervenerint; ac de eorum utilitate, titulis et edi-
+tionibus.
+
+# block=8 source_x1=253 source_y1=2454 source_x2=961 source_y2=2490
+His libris et in manuscriptis codicibus, et ab
+
+# block=9 source_x1=251 source_y1=2526 source_x2=691 source_y2=2563
+⁶³ In Biblioth. cod. 112 et 113.
+
+# block=10 source_x1=463 source_y1=806 source_x2=720 source_y2=839
+ARTICULUS VII.
+
+# block=11 source_x1=1008 source_y1=1241 source_x2=1741 source_y2=1307
+De variis in hos libros notis et observationibus, et de
+aliis libris ab eodem auctore editis.
+
+# block=12 source_x1=722 source_y1=81 source_x2=1229 source_y2=120
+RECOGNITIONES. — PROŒMIA.
+
+# block=13 source_x1=1239 source_y1=1196 source_x2=1505 source_y2=1231
+ARTICULUS VIII.
+
+# block=14 source_x1=223 source_y1=84 source_x2=294 source_y2=120
+1185
+
+# block=15 source_x1=1657 source_y1=80 source_x2=1741 source_y2=126
+1186

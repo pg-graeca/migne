@@ -1,0 +1,184 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,223,1366,992,1838
+2,204,2074,982,2731
+3,1018,1285,1767,1351
+4,1023,1371,1781,1837
+5,224,1281,981,1348
+6,1014,168,1779,1160
+7,854,2015,1153,2056
+8,226,1863,1773,1979
+9,224,170,992,1207
+10,1268,1227,1522,1264
+11,632,102,1350,147
+12,225,102,280,161
+13,1011,2079,1765,2737
+14,495,1220,703,1262
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+CAPUT XX.
+
+# block=12
+963
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=6
+ἔθετο, τέλειον, ἀνελλιπῆ, δέκα λογίων πλήρη,
+ἄμωμον, ἐπιστρέφοντα ψυχάς· οὕπερ καὶ ἐπιλα-
+βομένους Ἑβραίους ὑπομιμνήσκει διὰ Μαλαχίου τοῦ
+προφήτου λέγων· «Μνήσθητε νόμου Μωσέως, ἀνθρώ-
+που τοῦ Θεοῦ, ὃς ἐνετείλατο ὑμῖν προστάγματα καὶ
+δικαιώματα.» Ὅς τοσοῦτόν ἐστιν ἅγιος καὶ δίκαιος,
+ὡς καὶ τὸν Σωτῆρά ποτε θεραπεύσαντα λεπρὸν ἕνα,
+καὶ πάλιν ἐννέα (13), εἰπεῖν τῷ πρώτῳ· «Πορευθεὶς
+δεῖξον σεαυτὸν ἀρχιερεῖ, καὶ προσένεγκε τὸ δῶρον ὃ
+προσέταξε Μωσῆς εἰς μαρτύριον αὐτοῖς·» τοῖς δὲ
+ἐννέα πάλιν· «Πορευθέντες ἐπιδείξατε ἑαυτοὺς τοῖς
+ἱερεῦσιν.» Οὐ γάρ που κατέλυσε τὸν νόμον, ὡς Σί-
+μων δοξάζει, ἀλλ’ ἐπλήρωσε· λέγει γάρ· «Iῶτα ἓν,
+ἢ μία κεραία οὐ μὴ παρέλθῃ ἀπὸ τοῦ νόμου, ἕως ἂν
+πάντα (14) γένηται. Οὐ γὰρ ἦλθον, φησὶ, καταλῦσαι
+τὸν νόμον (15), ἀλλὰ πληρῶσαι.» Καὶ γὰρ καὶ Μωσῆς
+νομοθέτης ὁμοῦ, καὶ ἀρχιερεὺς, καὶ προφήτης, καὶ
+βασιλεὺς, καὶ Ἠλίας ὁ ζηλωτὴς τῶν προφητῶν, συν-
+ῆσαν ἐν τῇ μεταμορφώσει τοῦ Κυρίου ἐν τῷ ὄρει,
+μάρτυρες αὐτοῦ τῆς ἐνανθρωπήσεως καὶ τῶν παθη-
+μάτων, ὡς φίλοι Χριστοῦ καὶ οἰκεῖοι, ἀλλ’ οὐχ ὡς
+ἐχθροὶ ἢ ἀλλότριοι. Ἐξ ὧν δείκνυται, ὅτι καὶ ὁ νόμος
+καλὸς καὶ ἅγιος, καὶ οἱ προφῆται.
+
+# block=9
+in qua et nomen proprium reposuerit ⁷⁹, perfectam,
+nullo præditam defectu, per decem illa mandata
+plenam, immaculatam, animas convertentem ⁸⁰,
+cujus quidem oblitos Hebræos commonefacit per
+Malachiam prophetam, dicens : « Mementote legis
+Moysi, hominis Dei, qui mandavit vobis præcepta et
+justificationes ⁸¹.» Quæ adeo sancta est ac justa, ut,
+cum Salvator aliquando unum leprosum curasset,
+et rursus novem alios, dixerit primo : « Abi, os-
+tende te summo sacerdoti, et offer munus quod præ-
+cepit Moses, in testimonium il!is ⁸¹⁻⁸³; » novein au-
+tem illis iterum : « Ite, ostendite vos sacerdotibus ³⁴.»
+Non enim solvit legem, ut Simon arbitratur, sed
+adimplevit; ait enim : « Iota unum aut unus apex
+non præteribit a lege, donec omnia fiant. Non
+enim, inquit, veni solvere legem, sed adim-
+plere ⁸⁵. » Quandoquidem Moses, legislator simul et
+pontifex, et propheta, ac rex, atque Elias, ille pro-
+phetarum zelotes ⁸⁶, adfuerunt transfigurationi Do-
+mini in monte ⁸⁷, testes incarnationis ac passionum
+illius, tanquam amici et familiares Christi, non au-
+tem tanquam hostes et alieni. Ex quibus rebus pa-
+lam fit legem bonam esse et sanctam, atque etiam
+prophetas.
+
+# block=10
+ΚΕΦΑΛΑΙΟΝ Κ’.
+
+# block=5
+Quæ sit lex naturalis, et quæ invectitia, et quam ob
+causam invecta fuit.
+
+# block=3
+Τίς ὁ φυσικὸς νόμος, καὶ τίς ὁ ἐπείσακτος, καὶ
+δι’ ἣν αἰτίαν ἐπεισήχθη.
+
+# block=1
+⁸⁸ Lex vero est Decalogus, decem illa præce-
+pta quæ, antequam populus vitulum conflaret ⁸⁹,
+Apim scilicet Ægyptiorum, Deus illis sonora voce (
+sanxit. Hæc autem lex justa est, quare et lex dici-
+tur, quod secundum naturam juste judicia fiant.
+Quam legem Simon improbat ac deridet, existimans
+quod ab ea non judicatus, supplicium effugiet. Hæc
+bona est, sancta, minime coacta : Deus enim ait :
+« Si autem feceris mihi altare, ex terra facies mihi
+illud⁹⁰ : » non dixit, fac; sed, si feceris : non im-
+posuit necessitatem; sed potestati permisit, utpote
+
+# block=4
+Νόμος δέ ἐστιν ἡ Δεκάλογος, ἣν πρὸ τοῦ τὸν λαὸν
+μοσχοποιῆσαι τὸν παρ’ Αἰγυπτίοις Ἄπιν, Θεὸς αὐ-
+τοῖς ἐνομοθέτησεν ἀκουστῇ φωνῇ· οὗτος δὲ δίκαιός
+ἐστι, διὸ καὶ νόμος λέγεται (16), διὰ τὸ φύσει δικαίως
+τὰς κρίσεις ποιεῖσθαι· ὃν οἱ περὶ Σίμωνα φαυλίζου-
+σιν (17), οἰόμενοι μὴ κριθέντες ὑπ’ αὐτοῦ, τὴν κό-
+λασιν ἐκφεύγειν· οὗτος ὁ νόμος ἀγαθὸς, ἅγιος, ἀκατ-
+ανάγκαστος· φησὶ γάρ· «Ἐὰν δὲ ποιήσῃς μοι θυ-
+σιαστήριον, ἐκ γῆς ποιήσεις μοι αὐτό.» Οὐκ εἶπε,
+ποίησον (18), ἀλλὰ, ἐὰν ποιήσῃς· οὐκ ἀνάγκην περιέ-
+θηκεν (19), ἀλλὰ τῇ ἐξουσίᾳ ἐπέτρεψεν, ἅτε ἐλευθέρῳ.
+
+# block=8
+⁷⁹ Deut. xii, 5. ⁸⁰ Psal. xviii, 8. ⁸¹ Mal. iv, 4. ⁸²⁻⁸³ Matth. viii, 4; Marc. i, 44. ⁸⁴ Luc. xvii,
+14. ⁸⁵ Matth. v, 18, 17. ⁸⁶ III Reg. xix, 10. ⁸⁷ Luc. ix, 30. ⁸⁸ Laudat Anastasius, quæst. 45. ⁸⁹ Exod.
+xx et xxxii. ⁹⁰ Exod. xx, 24.
+
+# block=7
+VARİORUM NOTÆ.
+
+# block=2
+(13) Λεπρὸν ἕνα, καὶ πάλιν ἐννέα. Iterum per-
+miscet historias : nempe unius leprosi Matth. viii;
+Marc. i, Luc. v, et aliorum decem eodem morbo la-
+borantium Luc. xvii. De prima exstat locus Epipha-
+nii hæres. 66, sect. 57, valde obscurus, ab inter-
+pretibus in mendo cubare judicatus, eoque minus
+plene conversus, cum potuisset saltem ex saltu ma-
+gis integre transferri. Atque eccum : Μακάριαι
+ἡμῶν αἱ ἐλπίδες, ὅτι ἄρχοντι τοῦ σκότους ὁ Χριστὸς
+ἐλθὼν προσφέρειν ἠνάγκαζε· καθαρίσας γὰρ τὸν λε-
+πρὸν τὸν ἐν τῷ νόμῳ γραφέντα ὑπ’ αὐτοῦ λαλήσαν-
+τος, τὸ ἐν τῷ νόμῳ ἐπιτελεῖσθαι δῶρον, «Ἀπελθὼν
+προσένεγκε τὸ δῶρόν σου,» τῷ καθαρισθέντι ὑπ’ αὐ-
+τοῦ λεπρῷ λέγων, «καθὼς προσέταξε Μωῦσῆς.» Hoc
+est, ni fallor : O felices spes nostras! quod principi
+tenebrarum Christus veniens offerre coegerit : purgato
+scilicet leproso, qui in lege eodem loquente Domino
+descriptus est; ac volens ut munus quod lege præ-
+scriptum fuit exhibeatur, dicensque leproso quem pur-
+
+# block=13
+gaverat : Vade, offer munus tuum, sicut præcepit
+Moyses. Cᴏᴛ.
+(14) Πάντα. Cod. Vind. ταῦτα πάντα. Cʙ.
+(15) Νόμον. Addit cod. Vind. ἢ τοὺς προφήτας.
+Iᴅ.
+(16) Διὸ καὶ νόμος λέγεται. Basilicon lib. ii, tit.
+1, 1. 1 : Ὁ νόμος ἀπὸ τῆς δικαιοσύνης ὠνόμασται·
+ἔστι γὰρ νόμος τέχνη τοῦ καλοῦ καὶ ἴσου, ἃ νέμω,
+id est μερίζω, ἀπὸ τοῦ μερισμοῦ τῆς δικαιοσύνης,
+ait Scholiastes ibidem. Quod sequitur, διὰ τὸ φύσει
+δικαίως τὰς κρίσεις ποιεῖσθαι, verti etiam potest,
+quod ex natura et proprietate sua juste faciat judicia.
+Iᴅ.
+(17) Ὅν οἱ περὶ Σίμωνα φαυλίζουσι. Cod. Vind.
+οὐ. π. Σ. τὰς κρίσεις φαυλίζουσι. Cᴛ.
+(18) Οὐκ εἶπε, ποίησον. Citari magna incuria tex-
+tum Exod. xx, 24, et assumi ἐάν ex sequenti versi-
+culo 25, observatum est a viris doctis. Cᴏᴛ.
+(19) Περιέθηκεν. Ἐπέθηκε, id. cod. Cʟ.

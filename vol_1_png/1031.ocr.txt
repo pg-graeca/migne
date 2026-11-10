@@ -1,0 +1,171 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,197,1568,956,2559
+2,990,1563,1755,2554
+3,189,136,970,1299
+4,1002,132,1768,1296
+5,212,1410,957,1554
+6,673,1336,1282,1372
+8,725,75,1232,114
+9,1024,2632,1714,2682
+12,212,84,279,118
+13,1666,72,1762,112
+14,992,1406,1762,1524
+15,218,2638,740,2688
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+1462
+
+# block=8
+RECOGNITIONES. .— APPENDIX.
+
+# block=12
+1461
+
+# block=4
+si per simulationem et dolum ista dico, non autem
+ex fide totius animi teste, et corde Christum qui
+jam advenit diligente; verum propter quamdam
+vim, necessitatem, metum, damnum, paupertatem,
+debitum, accusationem adversus me motam, sæcu-
+larem dignitatem, beneficia quædam, pecunias, res
+a quoquam promissas; aut plane cujuslibet utili-
+tatis ergo, vel humani præsidii, vel dissidii causa,
+vel contentionis cum nonnullis fidei meæ homini-
+bus, aut quasi volens hinc ultionem capere de Chri-
+stianis, tanquam videlicet legis æmulator, sive
+et ab ipsis injuriam passus, nunc quidem fingo
+Christianus fieri, posthac autem negare voluero,
+iterumque ad Judaicam religionem reverti, vel in-
+ventus fuero una cum Judæis manducare, festa
+peragere, jejunare, clam cum illis colloqui, Chri-
+stianamque fidem infamare, aut ad eorum synago-
+gas et proseuchas proficisci, easve instaurare seu
+tutari : et non potius prædictos Judæos eorumque
+actus palam reprehendo, vanamque illorum fidem
+improbo : nunc quidem veniant super me omnes
+diræ quas in Deuteronomio Moses scripsit, item
+tremor Caini, et lepra Giezis, insuperque pœnis
+quas leges civiles decernunt, sim absque ulla spe
+veniæ obnoxius; in futuro autem sæculo sit mihi
+anathema et catathema, animaque mea collocetur
+cum Satana et dæmonibus.
+
+# block=3
+Χριστιανῶν. Εἰ δὲ μεθ' ὑποκρίσεως καὶ δόλου ταῦτα
+φημι, καὶ οὐκ ἐκ πίστεως ὁλοψύχου καὶ καρδίας τὸν
+ἤδη ἐλθόντα Χριστὸν ἀγαπώσης, ἀλλὰ διά τινα βίαν,
+ἢ ἀνάγκην, ἢ φόβον, ἢ ἐπήρειαν, ἢ πενίαν, ἢ χρέος,
+ἢ ἔγκλημα κατ' ἐμοῦ κινούμενον, ἢ διὰ τιμὴν κο-
+σμικὴν, ἢ εὐεργεσίας τινὰς, ἢ χρήματα, ἢ πράγματα
+παρά τινος ὑπισχνούμενα, ἢ ὅλως διὰ οἱανδήποτε
+ὠφέλειαν, ἢ προστασίαν ἀνθρωπίνην, ἢ δι' ἔριν ἢ
+φιλονεικίαν πρός τινας γενομένην τῶν ὁμοπίστων
+ἐμοῦ, ἢ ὡς βουλόμενος ἐντεῦθεν ἀμύνασθαι Χριστια-
+νοὺς ὡς ζηλωτὴς δῆθεν τοῦ νόμου, ἢ καὶ παρ' αὐτῶν
+ἀδικηθεὶς, ἄρτι μὲν σχηματίζομαι γίνεσθαι Χριστια-
+νὸς, ὕστερον δὲ θελήσω ἀρνήσασθαι, καὶ πρὸς τὴν
+Ἰουδαϊκὴν ὑποστρέψαι πάλιν θρησκείαν, ἢ εὑρεθῶ
+' συνεθίζων τοῖς Ἰουδαίοις, ἢ συνεορτάζων, ἢ συννη-
+στεύων, ἢ συνομιλῶν αὐτοῖς λάθρα, καὶ τὸν Χριστια-
+νισμὸν διαβάλλων, ἢ πρὸς τὰς συναγωγὰς καὶ τὰς
+προσευχὰς αὐτῶν ἀπιὼν, καὶ ἀνανεῶν, ἢ περιποιού-
+μενος ταύτας, καὶ οὐχὶ μᾶλλον φανερῶς ἐλέγχω τού.
+τους, τὰς τούτων πράξεις, καὶ ἀθετῶ τὴν ματαίαν
+πίστιν αὐτῶν· νῦν μὲν ἐλθοῖεν ἐπ' ἐμὲ πᾶσαι αἱ κατάραι
+αἱ ἐν τῷ Δευτερονομίῳ Μωσῆς ἔγραψε, καὶ ὁ τρόμος
+τοῦ Κάϊν, καὶ ἡ λέπρα τοῦ Γιεζῆ, πρὸς τῷ καὶ ταῖς
+ποιναῖς τῶν πολιτικῶν νόμων εἶναί με ὑπεύθυνον
+ἀπαραιτήτως, κατὰ δὲ τὸν μέλλοντα αἰῶνα εἴη μοι
+ἀνάθεμα καὶ κατάθεμα, καὶ ἡ ψυχή μου ταχθείη μετὰ
+τοῦ Σατανᾶ καὶ τῶν δαιμόνων.
+
+# block=6
+III. Ad lib. iv, cap. 27 (ex eodem codice).
+
+# block=14
+Quo modo hæresim suam scriptis oporteat anathema-
+tizare eos qui e Manichæis accedunt ad sanctam
+Dei catholicam et apostolicam Ecclesiam.
+
+# block=5
+Ὅπως χρὴ ἀναθεματίζειν ἐγγράφως τὴν αἵρεσιν
+αὑτῶν, τοὺς ἀπὸ Μανιχαίων προσιόντας τῇ
+ἁγίᾳ τοῦ Θεοῦ καθολικῇ καὶ ἀποστολικῇ Ἐκ-
+κλησίᾳ.
+
+# block=2
+I. Anathemate ferio Manetem,. seu Manichæum
+et Cubricum, qui se ausus est Paracletum et Apo-
+stolum Jesu Christi appellare. Anathematizo Scy-
+thianum ac Terebinthum qui et Budas, Manetis
+præceptores. Anathematizo Zaradem, quem Manes
+deum dixit ante se apparuisse apud Indos et Per-
+sas, quemque Solem vocavit : cum illo autem etiam
+anathematizo preces Zaradeas dictas. Anathema-
+tizo cunctos a Mane fabricatos deos : videlicet qua-
+driformem patrem magnitudinis, et eum qui pri-
+mus homo dicitur, et Coronigerum, ac eum qui
+nominatur Virgo lucis, tum lumine afflatum, et
+quinque intelligentias præditos splendores, voca-
+tuumque Opificem, et ab hoc prolatum justum judi
+cem, necnon bajulum qui portat terram, item Se
+nem, cunctosque prorsus quos Manes confingit
+deos, Æones, ac Æonum Æones, quæcunque de-
+mum ab eo elaborata sunt de gigantibus et aborti-
+vis. Anathematizo omnes qui dixerunt aut dicunt
+aut dicturi sunt duo principia ingenita, sibi invicem
+opposita : alterum bonum, alterum malum. Anathe-
+matizo Marcionem cum Valentino et Basilide, om-
+nemque hominem qui ausus fuit, audet vel ausurus
+
+# block=1
+'Αναθεματίζω Μάνεντα τὸν καὶ Μανιχαῖον καὶ
+Κούβρικον, ὃς ἐτόλμησεν ἑαυτὸν Παράκλητον ὀνομά-
+ζειν, καὶ Ἀπόστολον Ἰησοῦ Χριστοῦ. Ἀναθεματίζω
+Σκυθιανὸν, καὶ Τερέβινθον τὸν καὶ Κουδᾶν (71), τοὺς
+Μάνεντος διδασκάλους. Ἀναθεματίζω Ζαράδην, ὃν
+ὁ Μάνης θεὸν ἔλεγε πρὸ αὐτοῦ φανέντα παρ' Ἰνδοῖς
+καὶ Πέρσαις, καὶ Ἥλιον ἀπεκάλει· σὺν αὐτῷ δὲ καὶ
+τὰς Ζαραδείους ὀνομαζομένας εὐχάς. Ἀναθεματίζω
+πάντας οὓς ὁ Μάνης ἀνέπλασε θεούς· ἤτοι τὸν τε-
+τραπρόσωπον πατέρα τοῦ μεγέθους, καὶ τὸν λεγόμε-
+νον πρῶτον ἄνθρωπον, καὶ τὸν Στεφανηφόρον, καί,
+τὸν ὀνομαζόμενον Παρθένον τοῦ φωτὸς, καὶ τὸν φεγ-
+γοκάστοχον (72), καὶ πέντε νοερὰ φέγγη, καὶ τὸν κα-
+λούμενον Δημιουργὸν, καὶ τὸν ὑπ' αὐτοῦ προβληθέντα
+δίκαιον κριτὴν, καὶ τὸν ὠμοφόρον τὸν βαστάζοντα
+τὴν γῆν, καὶ τὸν Πρεσβύτην, καὶ πάντας ἁπλῶς
+οὓς ὁ Μάνης πλάττει θεοὺς καὶ Αἰῶνας καὶ τῶν
+Αἰώνων Αἰῶνας, καὶ ὅσα αὐτῷ ἐπραγματεύθη περὶ
+γιγάντων καὶ ἐκτρωμάτων. Ἀναθεματίζω πάντας
+τοὺς εἰπόντας ἢ λέγοντας ἢ λέξοντας δύο ἀρχὰς ἀγεν-
+νήτους ἀντικαθεστώσας ἀλλήλαις, τὴν μὲν ἀγαθὴν,
+τὴν δὲ πονηράν. Ἀναθεματίζω Μαρκίωνα, καὶ Οὐαλεν-
+τῖνον, καὶ Βασιλείδην, καὶ πάντα ἄνθρωπον τὸν τολ-
+
+# block=9
+(72) Φεγγοκάστοχον. Leg. φεγγοκάτοχον. Ιn.
+
+# block=15
+(71). Κουδᾶν. Leg. Βουδᾶν. COTEL.

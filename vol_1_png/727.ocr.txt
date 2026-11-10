@@ -1,0 +1,218 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,969,1370,1729,1972
+2,184,1374,948,1974
+3,183,833,937,1173
+4,967,261,1724,730
+5,180,269,938,746
+6,970,825,1720,1221
+7,190,2112,938,2324
+8,976,2109,1725,2324
+9,974,1258,1725,1365
+10,384,794,713,826
+11,201,1265,932,1369
+12,971,184,1717,257
+13,188,2038,930,2104
+14,196,2529,948,2706
+15,1241,139,1440,181
+18,977,2534,1729,2636
+19,976,2635,1730,2702
+20,607,91,1271,128
+21,436,1995,692,2027
+22,1656,81,1711,118
+23,224,2369,1719,2409
+25,174,194,922,265
+28,1263,1988,1478,2027
+30,177,98,243,146
+31,1241,738,1453,774
+32,1153,774,1497,820
+33,419,742,683,788
+34,437,1218,673,1266
+35,1221,1220,1451,1254
+36,971,2030,1723,2106
+37,785,2436,1109,2490
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Monemus autem vos, fratres et conversi, ut fu-
+giatis sermones vanos, turpes, ac scurriles ; ebrieta-
+tes, lascivias, mores effeminatos, immoderatos
+impetus, cum stultiloquiis : quoniam neque in Do-
+minicis diebus, qui dies lætitiæ dicuntur, permitti-
+mus vobis quidquam inhonesti aut loqui aut fa-
+cere : ait enim alicubi Scriptura : Servite Domino
+in timore ; et exsultate ei in tremore ⁵⁹. Oportet er-
+go exsultationes vestras cum timore ac tremore
+peragi. Christianus quippe fidelis, neque cantile-
+nam ethnicam debet effari, neque canticum mere-
+tricium ; siquidem continget ei, ut inter cantilenam
+memoret diabolica idolorum nomina ; et pro Spi-
+ritu sancto, spiritus nequam invadet eum.
+
+# block=2
+Παραινοῦμεν δὲ ὑμῖν, ἀδελφοὶ καὶ σύνδουλοι, φεύ-
+γειν τὰς ματαιολογίας, καὶ τὰς αἰσχρολογίας (52),
+καὶ τὰς εὐτραπελίας, μέθας, λαγνείας, θρύψεις, καὶ
+τὰς ἀμέτρους ὀργὰς, σὺν ταῖς μωρολογίαις· ὅτι οὐδὲ
+ἐν ταῖς Κυριακαῖς ἡμέραις τῶν εὐφροσυνῶν, ἐπιτρέ-
+πομεν ὑμῖν ἄσεμνόν τι ἢ φθέγγεσθαι, ἢ πράττειν·
+λέγει γάρ που ἡ Γραφή· ‹ Δουλεύσατε τῷ Κυρίῳ ἐν
+φόβῳ, καὶ ἀγαλλιᾶσθε αὐτῷ ἐν τρόμῳ. › Καὶ τὰς
+ἀγαλλιάσεις οὖν ὑμῶν, μετὰ φόβου καὶ τρόμου γί-
+νεσθαι χρή. Ὁ γάρ τοι Χριστιανὸς ὁ πιστὸς οὐδὲ
+ᾠδὴν ἐθνικὴν ὀφείλει λέγειν, οὔτε ᾆσμα πορνικόν·
+ἐπεὶ συμβήσεται αὐτῷ, διὰ τῆς ᾠδῆς, εἰδώλων μνη-
+μονεύειν ὀνόματα δαιμονικά, καὶ ἀντὶ τοῦ ἁγίου
+Πνεύματος, εἰσφρήσει ἐν αὐτῷ τὸ πονηρόν.
+
+# block=3
+Ταῦτα δὲ περὶ τῶν κατὰ ἀλήθειαν ὑπὲρ Χριστοῦ
+μαρτυρησάντων εἴρηται, ἀλλ’ οὐ περὶ τῶν ψευδομαρ-
+τύρων, περὶ ὧν τὸ λόγιόν φησιν· ‹ Ὄνομα δὲ ἀσε-
+βῶν σβέννυται. Μάρτυς (50) γὰρ πιστὸς οὐ ψεύδεται·
+ἐκκαίει δὲ ψευδῆ μάρτυς ἄδικος. › Ὁ γὰρ ἐν μαρτυ-
+ρίῳ ἐξελθὼν ἀψευδῶς ὑπὲρ τῆς ἀληθείας, οὗτος ἀλη-
+θινὸς μάρτυς, ἀξιόπιστος ἐν οἷς συνηγωνίσατο τῷ
+λόγῳ τῆς εὐσεβείας διὰ τοῦ οἰκείου αἵματος.
+
+# block=4
+De martyribus vero præcipimus vobis, ut in
+omni honore sint apud vos ; sicut Jacobus episco-
+pus, et sanctus Stephanus condiaconus noster,
+apud nos honorati fuerunt. Ii enim sunt et a Deo
+beatitudine donati, et a sanctis viris honore affecti ;
+puri ab omni delicto, inflexibiles ad peccatum, im-
+mutabiles a virtute, indubitanter laudabiles ; de
+quibus David dixit : Pretiosa in conspectu Domini
+mors sanctorum ejus ⁵⁴ ; et Salomon : Memoria
+justi cum laude ⁵⁵ : de quibus et propheta ait :
+Viri justi tolluntur ⁵⁶.
+
+# block=5
+Περὶ δὲ τῶν μαρτύρων λέγομεν ὅπως ἐν πάσῃ τιμῇ
+ὦσι παρ’ ὑμῖν, ὡς καὶ παρ’ ἡμῖν τετίμηνται ὁ μακά-
+ριος Ἰάκωβος ὁ ἐπίσκοπος, καὶ ὁ ἅγιος ἡμῶν συνδιάκο-
+νος Στέφανος. Οὗτοι γάρ εἰσι καὶ ὑπὸ Θεοῦ μεμακα-
+ρισμένοι, καὶ ὑπὸ ὁσίων ἀνδρῶν τετιμημένοι, καθα-
+ροὶ πάσης πλημμελείας, ἄτρεπτοι (49) πρὸς ἁμαρ-
+τίαν, ἀμετάπειστοι τῶν καλῶν, ἀνενδοίαστοι πρὸς
+ἐγκώμια· περὶ ὧν καὶ ὁ Δαβὶδ ἔλεγε· ‹ Τίμιος ἐναν-
+τίον Κυρίου ὁ θάνατος τῶν ὁσίων αὐτοῦ· › καὶ ὁ Σολο-
+μών· ‹ Μνήμη δικαίου μετ’ ἐγκωμίου· › περὶ ὧν
+καὶ ὁ προφήτης ἔλεγεν· ‹ Ἄνδρες δίκαιοι αἴρονται. ›
+
+# block=6
+Atque hæc dicta sunt de iis, qui vere pro Christo
+martyrium subierunt : non autem de falsis marty-
+ribus ; de quibus divinum oraculum pronuntiat :
+Nomen autem impiorum exstinguitur ⁵⁷. Testis enim,
+seu martyr fidelis non mentitur ; accendit autem
+mendacia testis iniquus ⁵⁸. Nam qui in martyrio non
+fallaciter pro veritate decessit, hic est verus mar-
+tyr ac testis, fide dignus in quibus per proprium
+sanguinem, verbum pietatis, certando adjuvit.
+
+# block=7
+Ἀπείρηται δὲ καὶ τὸ ὀμνύειν ἐν αὐτοῖς, καὶ τὸ
+διὰ στόματος αὐτῶν προφέρειν τὰ βδελυκτὰ τὰ ὀνό-
+ματα, ἢ προσκυνεῖν αὐτοῖς, ἢ φοβεῖσθαι αὐτοὺς ὡς
+θεούς. Οὐ γάρ εἰσι θεοὶ, ἀλλ’ ἢ πονηροὶ δαίμονες, ἢ
+μεμωκημένα ἔργα. Λέγει γάρ που ὁ Θεὸς περὶ τῶν
+
+# block=8
+Interdictum quoque est jurare per idola, et eo-
+rum exsecrabilia nomina ore proferre ; aut ea ado-
+rare, aut ut deos vereri. Non enim dii sunt ; sed
+vel mali dæmones, vel opera per ludibrium facta.
+Siquidem Deus alicubi de Israelitis dicit : Dereli-
+
+# block=9
+Moralis admonitio ; quod oporteat fugere vanos ser-
+mones, turpiloquia, dicacitates, ebrietatem, lasci-
+viam, et delicias.
+
+# block=10
+Περὶ ψευδομαρτύρων.
+
+# block=11
+Ἠθικὴ παραίνεσις (51), ὅτι δεῖ φεύγειν ματαιο-
+λογίας, αἰσχρολογίας, εὐτραπελλίας, μέθην, λα-
+γνείαν, θρύψιν.
+
+# block=12
+De Jacobo, fratre Domini, et Stephano, martyre
+primo.
+
+# block=13
+Παραίνεσις παιδεύουσα φεύγειν τῆς εἰδωλολα-
+τρείας τὸ μύσος.
+
+# block=14
+(49) Ἄτρεπτοι. In altero ἀνένδοτοι, eodem sensu.
+CLER.
+(50) Μάρτυς. Alter cod. Καὶ πάλιν μάρτυς πι-
+στός. ID.
+(51) Ἠθικὴ παραίνεσις. Desunt in altero cod.
+
+# block=15
+CAPUT VIII.
+
+# block=18
+Vindob. quorum uterque post θρύψιν habent : ὀρ-
+γὴν ἄμετρον, μωρολογίαν, ᾠδὴν ἐθνικὴν, ὀνομασίαν
+εἰδώλων, ἢ δαιμόνων. ID.
+
+# block=19
+(52) Καὶ τὰς αἰσχρολογίας. Desunt in altero
+cod. ID.
+
+# block=20
+CONSTITUTIONES APOSTOLICÆ.—LIB. V
+
+# block=21
+ΚΕΦΑΛΑΙΟΝ ΙΑ΄.
+
+# block=22
+854
+
+# block=23
+⁵⁴ Psal. cxv, 15. ⁵⁵ Prov. x, 7. ⁵⁶ Isa. lvii, 1, in LXX. ⁵⁷ Prov. x, 7. ⁵⁸ Prov. xiv, 5. ⁵⁹ Psal. ii, 11.
+
+# block=25
+Περὶ Ἰακώβου τοῦ ἀδελφοῦ τοῦ Κυρίου, καὶ Στε-
+φάνου τοῦ πρωτομάρτυρος.
+
+# block=28
+CAPUT XI.
+
+# block=30
+853
+
+# block=31
+CAPUT IX.
+
+# block=32
+De falsis martyribus.
+
+# block=33
+ΚΕΦΑΛΑΙΟΝ Θ΄.
+
+# block=34
+ΚΕΦΑΛΑΙΟΝ Ι΄.
+
+# block=35
+CAPUT X.
+
+# block=36
+Admonitio, docens fugiendum esse idololatriæ scelus
+abominabile.
+
+# block=37
+VARIORUM NOTÆ.

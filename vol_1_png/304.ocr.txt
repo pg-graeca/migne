@@ -1,0 +1,66 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,227,1626,1861,1926
+2,854,243,1295,324
+3,677,776,1420,819
+4,944,1541,1138,1588
+5,362,482,1730,540
+7,233,909,1580,1393
+8,1200,2562,1828,2646
+9,1759,970,1871,1386
+
+# layer=format
+# block=1 fontSize=19px
+# block=2 fontSize=39px
+# block=3 fontSize=20px
+# block=4 fontSize=20px
+# block=5 fontSize=22px
+# block=7 fontSize=20px
+# block=8 fontSize=18px
+# block=9 fontSize=19px centerRows=true
+
+# layer=metadata
+
+# layer=rawLLM
+# block=2
+ELENCHUS
+
+# block=5
+AUCTORUM ET OPERUM QUI IN HOC TOMO I CONTINENTURA
+
+# block=3
+S. CLEMENS I PONTIFEX ROMANUS.
+
+# block=7
+SCRIPTA GENUINA.
+Epistola I ad Corinthios.
+Epistola II.
+Epistolæ duæ ad virgines (Syriacè et Latinè), interprete D. Cl. Villecourt,
+S. R. E. cardinali.
+SCRIPTA DUBIA.
+Constitutiones apostolicæ.
+Recognitiones.
+
+# block=9
+199
+329
+349
+509
+1157
+
+# block=4
+LECTORI.
+
+# block=1
+Prodeunt feliciter, erudite Lector, hæc nostri Clementis Opera, sive genuina, sive ipsi
+supposita, ab omnibus antiquitatis ecclesiasticæ studiosis tanti facienda. Hæc quæ antea,
+hic illic sparsa, in bibliothecarum angulis delitescebant et pene sigillatim sepulta jacebant,
+nos primi in unum collegimus et nova luce donavimus. Grandis quidem labor, sed cui, an-
+nuente Deo, non impares fuisse confidimus. Hæc nobis sit merces nos de religione Chri-
+stiana bene meritos fatearis. Vale et nostris conatibus fave.
+
+# block=8
+Ex Typis MIGNE, au Petit-Montrouge.

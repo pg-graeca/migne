@@ -1,0 +1,175 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,968,345,1719,1200
+2,180,132,934,860
+3,181,866,943,1948
+4,969,1217,1723,1776
+5,168,2431,933,2697
+6,965,1782,1719,1950
+7,964,2298,1722,2664
+8,970,130,1718,337
+9,173,2164,927,2432
+10,966,2165,1718,2299
+11,755,76,1141,111
+12,787,2074,1107,2105
+13,224,1985,702,2022
+15,1626,68,1718,116
+16,176,78,272,118
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=968 source_y1=345 source_x2=1719 source_y2=1200
+LV. Verumtamen, ut dicere cœperamus, cum
+frequenter nos pontifex per sacerdotes rogasset,
+ut de Jesu sermo nobis haberetur ad alterutrum,
+ubi opportunum visum est et omni Ecclesiæ pla-
+cuit, ascendimus ad templum, et stantes in gradi-
+bus una cum fidelibus fratribus nostris, facto po-
+puli summo silentio, prior pontifex cœpit adhortari
+populum; ut patienter et cum quiete audiant, simul-
+que eorum quæ dicenda sunt testes et judices fiant.
+Tum deinde multis laudibus efferens sacrificiorum
+ritum, qui ad remissionem peccatorum humano
+generi divinitus esset indultus, causabatur Jesu
+nostri baptisma velut contra hæc nuper inductum.
+Sed propositionibus ejus occurrens Matthæus, evi-
+denter ostendit. quod si quis Jesu baptisma non
+fuerit consecutus, is non solum cœlorum regno
+fraudabitur, verum et in resurrectione mortuorum
+non absque periculo erit, etiamsi bonæ vitæ et
+rectæ mentis prærogativa muniatur. Hæc et his si-
+milia prosecutus siluit Matthæus.
+
+# block=2 source_x1=180 source_y1=132 source_x2=934 source_y2=860
+stio habetur, et infideles quique ex Judæis immensa
+adversum nos insania commoventur, verentes ne
+forte ipse sit, in quem peccaverunt; et eo magis
+metus increscit, quod sciunt, statim ut eum cruci
+affixere, universum ei compassum esse mundum,
+corpusque ejus diligenti a se custodia conservatum
+nusquam comparuisse, atque ad fidem nominis
+ejus innumeras multitudines convenire. Unde et
+compulsi sunt una cum pontifice Caipha, sæpius
+mittere ad nos, ut de nominis ejus veritate quæ-
+reretur. Cumque crebro deposcerent ut de Jesu
+aut discerent aut docerent, si ipse esset Christus,
+visum nobis est ascendere ad templum, et coram
+omni populo protestari de eo, simul et arguere
+Judæos de multis, quæ ab eis absurde gerebantur.
+In multas etenim jam partes populus scindebatur,
+initio sumpto a Joanne Baptista.
+
+# block=3 source_x1=181 source_y1=866 source_x2=943 source_y2=1948
+LIV. Cum enim jam immineret ortus Christi ad
+sacrificia quidem reprimenda, baptismi vero gra-
+tiam largiendam, inimicus ex his quæ prædicta
+fuerant adesse tempus intelligens, [diversa schi-
+mata operabatur in populo (44), ut si forte prius
+peccatum potuisset aboleri, secunda corrigi culpa
+non posset. Erat ergo primum schisma eorum qui
+dicebantur Sadducæi, initio Joannis jam pene
+temporibus sumpto. Hique ut cæteris justiores (45),
+segregare se cœpere a populi cœtu, et mortuorum
+resurrectionem negare ᵃ idque argumento infide-
+litatis asserere, dicentes non esse dignum ut
+quasi sub mercede proposita colatur Deus. Auctor
+vero sententiæ hujus primus Dositheus, secundus
+Simon fuit. Aliud Samaræum schisma est; ipsi enim
+resurrectionem mortuorum negantes asserunt, non
+in Hierosolymis, sed in monte Garizin adorandum
+esse Deum. Qui tamen unum verum prophetam ex
+Moysis vaticinationibus recte exspectantes, pravi-
+tate Dosithei impediti sunt, ne hunc quem exspec-
+tabant, crederent esse Jesum. Scribæ quoque et
+Pharisæi in aliud schisma deducuntur. Sed hi bapti-
+zati a Joanne, et velut clavem regni cœlorum ver-
+bum veritatis tenentes ex Moysis traditione susce-
+ptum, occultarunt auribus populi ᵇ. Sed et ex dis-
+
+# block=4 source_x1=969 source_y1=1217 source_x2=1723 source_y2=1776
+LVI. Sed Sadducæorum pars, quæ negat esse
+resurrectionem mortuorum, indignata est, ita ut
+quidam ex ipsis de medio populi exclamaret,
+dicens multum errare eos qui putent mortuos ali-
+quando resurgere. Contra hunc Andreas meus fra-
+ter respondens, docuit errorem non esse, sed cer-
+tissamam fidem, quod mortui resurgant, secundum
+ea quæ docuit is, quem Moyses prædixit venturum
+prophetam; aut si non videretur eis ipse esse quem
+prædixit Moyses, de hoc, inquit, primo requiratur,
+ut cum evidenter ipse fuerit probatus, nihil de
+reliquo super his quæ docuit ambigatur. Hæc
+autem et his similia plura protestatus siluit Andreas.
+
+# block=5 source_x1=168 source_y1=2431 source_x2=933 source_y2=2697
+(45) Ut cæteris justiores. Allusio ad nomen. Hie-
+ronymus, sub finem libri III Commentariorum in
+Matthæum : Sadducæi autem qui interpretantur
+justi, et ipsi vindicabant sibi quod non erant. Theo-
+phylactus ad Matth. III, 7, De Sadducæis : Ἑρμη-
+νεύονται δὲ, δίκαιοι. Σεδὲκ γὰρ ἡ δικαιοσύνη. Δι-
+καίους γὰρ ἑαυτοὺς ὠνόμαζον. Ἢ ἀπὸ αἱρεσιάρχου
+Σαδὼκ ὀνομάζονται. Unde, ac ex similibus Epipha-
+
+# block=6 source_x1=965 source_y1=1782 source_x2=1719 source_y2=1950
+LVII. Samaræus vero quidam, contraria populo
+et Deo loquens, et neque mortuos asserens resur-
+recturos, neque eum qui est in Hierusalem cultum
+Dei tenendum, sed montem Garizin venerandum,
+
+# block=7 source_x1=964 source_y1=2298 source_x2=1722 source_y2=2664
+(46) Ex discipulis Joannis, etc. Vigilius Tapsen-
+sis lib. I contra Arium, Sabellium et Photinum cap.
+20 : Et quia multi dogmatum novorum auctores ex-
+stiterant, doctrinæ obviantes apostolicæ, omnesque
+sectatores suos discipulos nominabant, nec erat ulla
+nominis discretio inter veros falsosque discipulos,
+sive qui Christi, sive qui Dosithei, sive Theodæ, sive
+Judæ cujusdam, sive etiam Joannis sectatores, qui
+se quasi Christo (ita membranæ Regiæ n. 358, et
+editio Cassandri) credere fatebantur; noluerunt ut
+uno discipulorum nomine censerentur.
+
+# block=8 source_x1=970 source_y1=130 source_x2=1718 source_y2=337
+cipulis Joannis (46), qui videbantur esse magni,
+segregarunt se a populo et magistrum suum veluti
+Christum prædicarunt. Hæc autem omnia præpa-
+rata sunt schismata, ut et fides Christi per hæc im-
+pediretur, et baptisma.
+
+# block=9 source_x1=173 source_y1=2164 source_x2=927 source_y2=2432
+(44). Diversa schismata operabatur in populo. Pro-
+fero in re vulgata aliquid non omni ex parte vul-
+gatum : formulam Græcam renuntiandi Judaicæ
+religioni, Hebræorumque ritibus et sectis; amplio-
+rem illa quæ habetur Euchologii p. 344. Eam com-
+plectitur codex Regius 1818. — Exstat vero infra in
+Append. Monum. his Recognit. libris subjecta,
+num. 2.
+
+# block=10 source_x1=966 source_y1=2165 source_x2=1718 source_y2=2299
+nii, corrigere debemus Suidam : Σαδδουκαῖος ἀπὸ
+τόπου. Scripserat, ἀπὸ τρόπου, a moribus. Remo-
+tior est emendatio Drusii, III De sectis Judæorum 4,
+ἀπὸ Δοσιθέου.
+
+# block=11 source_x1=755 source_y1=76 source_x2=1141 source_y2=111
+RECOGNITIONUM LIB. I.
+
+# block=12 source_x1=787 source_y1=2074 source_x2=1107 source_y2=2105
+COTELERII NOTÆ.
+
+# block=13 source_x1=224 source_y1=1985 source_x2=702 source_y2=2022
+ᵃ Matth. xxii, 23. ᵇ Luc. xi, 52.
+
+# block=15 source_x1=1626 source_y1=68 source_x2=1718 source_y2=116
+1238
+
+# block=16 source_x1=176 source_y1=78 source_x2=272 source_y2=118
+1237

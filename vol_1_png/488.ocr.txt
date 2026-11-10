@@ -1,0 +1,216 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,262,439,1020,1039
+2,255,1265,1012,1646
+3,1052,389,1805,860
+4,253,1959,1009,2432
+5,1043,1831,1790,2178
+6,1049,960,1799,1299
+7,255,1656,1005,1823
+8,259,1048,1014,1257
+9,1048,1308,1795,1518
+10,1042,2185,1787,2397
+11,253,2439,1005,2607
+12,1046,1655,1791,1824
+13,266,137,1022,428
+14,256,1831,1007,1952
+15,1048,1526,1799,1648
+16,1052,132,1807,379
+17,1040,2402,1787,2617
+18,1050,872,1799,952
+19,649,71,1406,110
+20,279,2642,736,2680
+21,255,66,335,110
+22,1735,78,1803,120
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=16px
+# block=20 fontSize=15px
+# block=21 fontSize=16px
+# block=22 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=21
+375
+
+# block=19
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=22
+376
+
+# block=16
+guine, insperata victoria potiti essent, cum cerne-
+rent temporis puncto, hostium internecionem, duas
+choreas, unam virorum, alteram mulierum, in
+littore instituunt : et Moyse viris præcinente,
+ejus sorore mulieribus, gratulationem Deo cecine-
+runt ⁴⁴ ».
+
+# block=13
+quando ex contextu satis intelligitur. Sæpe, in Bi-
+bliis, verbum dixit his æquivalet dicitur, dictum
+est. Poterat ergo scriptor criticus Pythagoricorum
+somnum non turbare, nec eruditionem prorsus in-
+utilem nobis ostentare. Hanc ego difficultatem ex-
+punxi in versione mea : eamdem poterat de medio
+tollere ipse Wetstinus.
+
+# block=3
+Ultimam adnotatoris objectionem de mari Suph
+attingamus. Non dubitat criticus scriptor hujus
+maris nomen nullibi in Exodo inveniri. Si de Vul-
+gata versione locutus fuisset, verum quidem dixis-
+set; si vero de textu Hebraico aut Syriaco, te-
+mere certe locutus est, præsertim cum esset aca-
+demicus vir; nunquam enim sive in Exodo, sive
+in locis aliis sacræ Scripturæ, Hebraice aut Syriace,
+aliis verbis inare Rubrum designatur quam ver-
+bis Im Suph, quæ reddit Vulgata nostra per Mare
+Rubrum.
+
+# block=1
+XVII et XVIII. Adnotationes quæ sub his duobus
+numeris includuntur, probant dominum de Prema-
+gny non semper præjudiciis obcæcatum et alluci-
+natum fuisse. Has scribendo lineas, optime de ju-
+stitia et veritáte meritus est. Quilibet nihilominus
+animadvertet ipsum Wetstino semper contradi-
+xisse, sive quando rectam viam sequebatur, sive
+quando ab ea deflectebat. Optandum certe erat ut
+his ultimis numeris nihil addidisset D. de Prema-
+gny. Sed altera, de qua jam locutus sum, opusculi
+ejus editio quasi pœnitentem ipsum exhibet optime
+finiisse quod male cœperat. Duas ergo novas prio-
+ribus suis adnotationibus adjecit, quæ famæ illius
+plus nocebunt quam proderunt.
+
+# block=18
+Quis porro ferat hominem præsumentem loqui
+de his quæ absolute ignorat?
+
+# block=6
+Verbum Suph quater invenitur in textu He-
+braico et Syriaco Exodi. Si recti fuerint calculi
+mei, vicesies novies hoc verbum Suph eumdem sen-
+sum exprimens invenitur in Veteri Testamento He-
+braico, et plus quam tricies in Syriaco Novum
+Testamentum complectente. Santes Pagninus in sua
+versione Latina litterali semper conservat nomen
+primitivum, ac vertit: Mare Suph.
+
+# block=8
+Prima refertur ad separationem quam sanctus
+Clemens a Moyse factam fuisse asserit inter viros
+et mulieres, dum incederent Israelitæ, Ægyptum
+relinquentes. Secunda spectat nomen maris quod
+sicco vestigio filii Israel transierunt.
+
+# block=2
+1° Juxta adnotatorem, sanctus Clemens locutus
+est de virorum ac mulierum separatione quam
+Moyses nullatenus memoravit. Probabile ergo judi-
+cat Moysen, virum tam prudentem, consensisse
+ut promiscue sexcenta millia virorum armatorum
+procederent cum multo superiori numero mu-
+lierum, puellarum et infantium! Quis unquam
+talem confusionem admissam fuisse imaginari au-
+debit?
+
+# block=9
+Existimavit sanctus Hieronymus verbo euph signi-
+ficari rubrum. Græci idem mare Erythræum vocant,
+quod etiam rubrum sonat. Sed quidam isti mari hoc
+nomen datum autumant a rege Erythro qui regna-
+vit in insula hujus maris finitima.
+
+# block=15
+Qui uberius hujus vocabuli significationem callere
+cupiunt, doctissimum adeant Drusium (Comment.
+in Exod., c. 26).
+
+# block=12
+Hæc sunt fere quæ a pluribus annis scripsissem
+de duabus Epistolis sancti Clementis ad Virgines,
+nisi partim temporis angustia, partim laboris diffi-
+cultas voluntati meæ obices posuissent.
+
+# block=7
+Hanc vero considerationem adnotator, quasi puer
+inexpertus, forsan mente revolvit : Unde didicit
+sanctus Clemens hanc factam fuisse separationem
+de qua Scriptura non loquitur?
+
+# block=14
+Nulla mihi profecto difficultas esset admittendi
+sanctum Clementem a traditione Judæorum, hac de
+circumstantia, fuisse edoctum.
+
+# block=5
+Has Epistolas firmissime credo esse authenticas,
+quantumvis amarissime feram nondum hucusque
+repertum fuisse primigenium textum. Si inveniatur
+tandem, quod instantissimis precibus a Deo postulo,
+omnibus innotescet verus sancti pontificis sensus,
+qui per traductorem Syriacum vitiari potuit. Spero
+tamen traductionis vitia a me non modo adaucta
+non fuisse, sed valde imminuta.
+
+# block=4
+Sed nulla nobis est traditionis non scriptæ ne-
+cessitas, quando æquivalentibus verbis hanc vi-
+rorum ac mulierum separationem Moyses exprimit.
+Enimvero sic legitur in capite XII Exodi, v. 37:
+Profecti sunt filii Israel de Ramesse in Socoth,
+sexcenta fere millia peditum virorum, absque par-
+vulis. Hic soli viri, quasi emphatice, designantur.
+Capite xv expressius innuitur separatio. Canticum
+enim Moyses cum viris concinit. Deinde egrediun-
+tur mulieres, et ipsæ vice sua id canticum cum
+Maria Moysis et Aaronis sorore, recinunt.
+
+# block=10
+Mira fuit sors scriptorum sancti Clementis. A
+Junio Patricio Anglicano inventa est ejus Epistola
+ad Corinthios scripta; a Wetstino non minus Ec-
+clesiæ Romanæ infenso inventæ sunt ambæ ejusdem
+sancti Clementis ad Virgines Epistolæ.
+
+# block=17
+Notæ Patricii in Epistolam quam invenit vix
+dissidentem hominem detegunt. Prolegomena Wet-
+stini, duobus locis exceptis in quibus odium suum
+erga Romanam Ecclesiam exerit, testimonia exhi-
+bent sinceritatis ac veritatis.
+
+# block=11
+Philo Judæus, sancto Clementi coætaneus, hanc
+separationem clarė exprimit. Postquam enim Ægy-
+ptiorum narravit ruinam, addit: Factum istud
+ingens et stupendum Hebræi mirati, quod sine san-
+
+# block=20
+⁴⁴ Philo De vita Moysis, lib. I.

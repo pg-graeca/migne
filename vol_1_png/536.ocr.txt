@@ -1,0 +1,147 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1059,1574,1802,2373
+2,277,140,1026,870
+3,1061,140,1805,1568
+4,274,2416,1802,2689
+5,276,877,1023,2342
+6,678,87,1399,125
+7,271,86,343,128
+8,1745,90,1815,130
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Sed et nunc exponere jam quæ præcepit, Domino
+opem ferente, incipiam : Pœnitemini, inquit, et ve-
+ram agite pœnitentiam ¹³. Omnes ergo homines, qui
+Christiano censentur vocabulo, Patrem et Filium
+et Spiritum sanctum, unum Deum et Dominum ve-
+raciter credere et confiteri, eumque tota mente et
+toto corde et tota virtute diligere, et proximos suos
+tanquam semetipsos, docibilesque esse usque ad
+perfectam doctrinam ad hæc perficienda, summopere
+oportet. Fides enim et dilectio, totius bonitatis est
+fundamentum. Sine fide autem placere Deo nemo
+poterit ¹⁴. Christo itaque resurgente ¹⁵ et ascendente
+in cœlum, misso sancto Spiritu, collata apostolis
+scientia linguarum, adhuc in uno positi, Symbolum,
+quod fidelis nunc tenet Ecclesia, unusquisque quod
+sensit dicendo, condiderunt, ut discedentes ab in-
+vicem, hanc regulam per omnes gentes prædica-
+rent. Summam ergo totius fidei catholicæ recen-
+
+# block=2
+cum dixisset, et his similia quam plurima, rursum
+respiciens ad populum, dixit : Sed et vos, charis-
+simi fratres et conservi mei, huic qui præsidet vo-
+bis ad veritatem docendam, in omnibus obedite;
+scientes quod si quis hunc contristaverit, Christum,
+qui ei docendi credidit cathedram, non recipit. Et
+qui Christum non susceperit, nec Deum Patrem sus-
+cepisse judicabitur, et ideo nec ipse suscipietur in
+regno cœlorum. Propter quod satagite ad omnem
+collectam et congregationem semper convenire, ut
+non velut negligentes et desides a judice Christo
+condemnemini. Convenientes vero semper ad Cle-
+mentem, date omnes operam pro ipso sentire, et
+summo studio favorem vestrum erga ipsum osten-
+dere ⁹⁹, scientes quia propter singulos vestrum, ipsi
+magis soli infestus est inimicus ¹⁰⁰, et in ipsum ma-
+jora suscitat bella.
+
+# block=3
+Clemens, coram omnibus qui præsentes sunt, ut
+posteaquam (sicut naturæ ⁶ debitum est) vitæ præ-
+sentis finem fecero, ⁷ Jacobo fratri Domini, descri-
+pta breviter, vel quæ ad initium fidei tuæ spectant,
+vel etiam quos ante fidem animos gesseris, sed et
+qualiter mihi ab initio usque ad finem comes iti-
+neris et actuum fueris, quæque per singulas civi-
+tates (me disputante) sollicitus auditor exceperis,
+quique in prædicationibus meis vel verborum
+fuerit ordo vel actuum; sed qui me finis in hac
+urbe repererit, sicut dixi, omnia quam potes, bre-
+viter comprehensa, ad ipsum te destinare non
+pigeat. Nec verearis ne forte multum de meo
+exitu contristandus sit, cum id me pro pietate
+sustinere non ambigat. Erit autem ei grande sola-
+tium, si didicerit, quod post me non imperitus vir
+aliquis, aut indoctus, atque ignorans divini verbi
+mysterium ⁸ , et ecclesiastici ordinis disciplinam,
+vel doctrinæ regulam nesciens, susceperit cathe-
+dram meam; scit enim, quia si indoctus et inscius
+officium doctoris accipiat, sine dubio discipuli et
+auditores ignorantiæ tenebris obvoluti ⁹ , in interi-
+tum demergentur. Unde et ego, mi domine Jacobe,
+cum hæc ab eo præcepta susceperim, necesse habui
+implere quod jusserat, indicans tibi et de his ipsis,
+simul et de illis breviter comprehendens, quæ per
+singulas quasque urbes digrediens, aut in prædica-
+tionis sermone protulerit, aut in gestorum virtute
+perfecerit; quamvis tibi de his plurima jam et plenius
+ante descripta, ipso jubente, transmiserim, sub eo
+ipso titulo, quem ipse præcipit affigi, ¹⁰ id est
+Clementis Itinerarium, ¹¹ non Prædicationis Pe-
+tri ¹².
+
+# block=4
+⁹⁹ dependere. ¹⁰⁰ infestat inimicus. ¹ Conc. Vasense II, c. 6, an. 442, distinct. 93. Et in epist. decr.
+3 Anaclet. papæ cujus initium est : Benedictus Deus, et similiter Fabiani papæ, quæ incipit : Divinis
+præceptis. ² Conc. Metense ann. 888, c. 8. ³ Ms. aversum. ⁴ inimica. ⁵ Gesta Petri, p. 413.
+⁶ Ms. naturale. ⁷ Neronis anno 8, currente Christi 62, cæsus est, Petrus vero Neronis ejusdem 13
+exeunte, Christi 67. ⁸ ministerium, ita et c. Just. ⁹ Ms. involuti. ¹⁰ Reliqua sententia non exstat
+in ms. nostro addita ab aliquo interpolatore. ¹¹ Deest hæc negatio in ms. ¹² Hic desinit epistola in
+quibusdam codicibus. Cætera sunt vice appendicis, addita circa annum 800, ut videtur. ¹³ Marc. 1.
+¹⁴ Hebr. XI, 6. ¹⁵ Venantii exp. in Symbolum c. 1, usque ad Diligere ergo Deum, etc.
+
+# block=5
+Oportet ergo vos summo studio niti, ut omni
+erga illum vinculo amoris innexi plenissimo erga
+eum inhæreatis affectu. Sed et vos quoque ipsi
+unanimes in omni concordia perdurate, quo faci-
+lius etiam illi obedire omnes pari et consensu et
+unanimitate possitis. Propter quod et vos salutem
+consequi, et ille possit, obtemperantibus sibi vobis,
+promptius impositi oneris pondus evehere.¹ Quædam
+etiam ex vobis ipsis intelligere debetis, si qua sunt,
+quæ ipse propter insidias hominum malorum non
+potest evidentius et manifestius proloqui. Verbi
+gratia : ² Si inimicus est alicui pro actibus suis, vos
+nolite exspectare, ut ipse vobis dicat : Cum illo no-
+lite amici esse ; sed prudenter observare debetis,
+et voluntati ejus sine commonitione obsecundare
+et avertere vos ab eo cui ipsum sentitis adver-
+sum ³ ; sed nec loqui his, quibus ipse non loqui-
+tur, ut unusquisque qui in culpa est, dum cupit
+omnium vestrum amicitias reparare, festinet citius
+reconciliari ei, qui omnibus præest, et per hoc red-
+eat ad salutem, cum obedire cœperit monitis præ-
+sidentis. Si vero quis amicus fuerit his quibus
+ipse amicus non est, et locutus fuerit his quibus
+ipse non loquitur, unus est et ipse ex illis qui ex-
+terminare volunt Ecclesiam Dei : et cum corpore
+vobiscum esse videatur, mente et animo contra vos
+est. Et est multo nequior hostis hic, quam illi
+qui foris sunt, et evidenter inimici sunt. Hic enim
+per amicitiarum speciem, quæ inimici ⁴ sunt, gerit,
+et Ecclesiam dispergit ac vastat ⁵. Et cum hæc
+dixisset, in medio coram omnibus manus mihi im-
+posuit, et in cathedra sua, ingenti verecundia fa-
+tigatum, sedere me compulit. Cumque sedissem,
+hæc ad me rursum locutus est : Deprecor te, o
+
+# block=6
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=7
+471
+
+# block=8
+472

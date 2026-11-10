@@ -1,0 +1,190 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,241,1194,995,1845
+2,243,132,996,1003
+3,1033,1198,1797,1846
+4,1026,137,1797,1002
+5,1044,1079,1787,1178
+6,245,1076,994,1174
+7,273,1891,1282,1932
+8,236,2050,998,2716
+9,648,78,1381,122
+11,540,1021,722,1056
+12,1269,1026,1530,1059
+13,250,79,302,119
+15,855,1972,1156,2012
+17,1727,86,1789,128
+18,1029,2052,1801,2678
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=13
+719
+
+# block=17
+720
+
+# block=2
+conscientia pulsati, Deum rogent, et fratribus re-
+concilientur. Si enim qui cujuspiam domum ingre-
+diuntur, ante omnia dicere debent : « Pax huic do-
+mui ¹⁰; » et ut pacis filii, pacem dignis donare,
+quemadmodum scriptum est : « Iis qui prope, et
+iis qui longe ¹¹, » quos novit Dominus suos esse ¹²:
+multo magis qui ecclesiam Dei ingrediuntur, de-
+bent ante omnia pacem Dei postulare. Cum autem
+eam aliis precetur, multo magis ipse intra se illius
+sit, tanquam filius lucis. Nam qui illam in se non
+habet, non est dignus cujus fidei committatur eam
+aliis conferre. Quocirca principio ipsum oportet
+secum pacem perficere. Qui enim secum non dis-
+sidet, neque cum alio pugnabit; sed erit pacis et
+amicitiæ studiosus, congregans quæ Domini sunt,
+ipsiusque adjutor ad multiplicandum ei numerum
+illorum, qui in unanimitate salvantur. Siqui-
+dem excogitatores inimicitiarum et pugnarum,
+controversiarum et litium, improbi sunt, et a
+Deo alieni.
+
+# block=4
+ἵνα ἐὰν εὑρεθῇ ἔν τισιν ἀντιλογία, συνειδήσει κρου-
+σθέντες, δεηθῶσί τοῦ Θεοῦ, καὶ διαλλαγῶσι τοῖς
+ἀδελφοῖς. Εἰ γὰρ τοὺς ἐν οἰκίᾳ τινὸς εἰσερχομένους,
+πρὸ πάντων δεῖ λέγειν· « Εἰρήνη τῷ οἴκῳ τούτῳ· »
+ὡς υἱοὺς εἰρήνης εἰρήνην χαριζομένους τοῖς ἀξίοις,
+καθὼς γέγραπται· « Τοῖς ἐγγὺς (11) καὶ τοῖς μα-
+κρὰν, » οὓς ἔγνω Κύριος ὄντας αὐτοῦ· πολὺ (12) μᾶλ-
+λον τοὺς ἐν ἐκκλησίᾳ Θεοῦ εἰσερχομένους χρὴ πρὸ
+πάντων ἐπεύχεσθαι (13) τὴν τοῦ Θεοῦ εἰρήνην. Εἰ
+δὲ ἄλλοις ταύτην ἐπεύχεται, πολὺ (14) μᾶλλον αὐτὸς
+αὐτῆς ἐντὸς ὑπαρχέτω, ὡς τέκνον φωτός. Ὁ γὰρ μὴ
+ἔχων αὐτὴν ἐν ἑαυτῷ, οὐκ ἔστιν ἀξιόπιστος, ἄλλοις
+αὐτὴν χαρίζεσθαι. Διὸ πρὸ πάντων χρὴ εἰς ἑαυτὸν
+εἰρηνεύειν αὐτόν. Ὁ γὰρ μὴ πρὸς ἑαυτὸν στασιάζων,
+οὐδ᾿ ἂν πρὸς ἄλλον διαμαχεσθήσεται· ἀλλ᾿ ἔσται εἰρη-
+νικὸς, φιλικὸς, συνάγων τὰ τοῦ Κυρίου, καὶ συνερ-
+γὸς αὐτοῦ γιγνόμενος πρὸς τὸ πλεονάσαι αὐτῷ τοὺς
+σωζομένους ἐν ὁμονοίᾳ. Οἱ γὰρ ἐπινοοῦντες ἔχθρας
+καὶ μάχας, ἀντιλογίας καὶ κρίσεις, πονηροὶ καὶ τοῦ
+Θεοῦ ἀλλότριοι τυγχάνουσι.
+
+# block=11
+CAPUT LV.
+
+# block=12
+ΚΕΦΑΛΑΙΟΝ ΝΕ΄.
+
+# block=6
+Enumeratio variæ providentiæ, et quemadmodum ab
+initio Deus per singulas generationes ad pœniten-
+tiam omnes homines vocavit.
+
+# block=5
+Ἀπαρίθμησις διαφόρου προνοίας, καὶ ὅπως ἐξ
+ἀρχῆς καθ᾿ ἑκάστην γενεὰν ἐκάλεσεν ὁ Θεὸς
+εἰς μετάνοιαν πάντας.
+
+# block=1
+Deus enim, qui Deus misericordiæ est, a princi-
+pio singulas generationes per justos ac prophetas
+vocat ad pœnitentiam. Et eos quidem qui ante di-
+luvium vixerunt, per Abelem, et Semum, et Sethum,
+itemque Enosum, ac translatum illum Enochum,
+ad sanam mentem revocavit; eos vero qui tempore
+diluvii, per Noem; Sodomitas, per hospitalem Lo-
+tum; eos qui post diluvium fuerunt, per Melchise-
+decum, et patriarchas, nec non per amicum Dei
+Jobum; Ægyptios, per Mosem; Israelitas, per eum-
+dem, et per Jesum, Calebum, Phineem, reliquos-
+que; eos qui legis tempora consecuti sunt, per an-
+gelos et prophetas; eosdem, per propriam ex Virgine
+incarnationem; eos qui paulo præcesserunt illius
+præsentiam corporalem, per Joannem præcursorem;
+
+# block=3
+Ὁ γὰρ Θεὸς, Θεὸς ὢν ἐλέους, ἀπ᾿ ἀρχῆς ἑκάστην
+γενεὰν ἐπὶ μετάνοιαν καλεῖ διὰ τῶν δικαίων καὶ τῶν
+προφητῶν. Καὶ τοὺς μὲν πρὸ τοῦ κατακλυσμοῦ, διὰ
+τοῦ Ἅβελ, καὶ Σὴμ, καὶ Σὴθ, ἔτι δὲ Ἐνὼς, καὶ τοῦ
+μετατεθέντος Ἐνὼχ ἐσωφρόνιζε· τοὺς δὲ ἐν τῷ κατα-
+κλυσμῷ, διὰ τοῦ Νῶε· τοὺς ἐν Σοδόμοις, διὰ τοῦ φι-
+λοξένου Λώτ· τοὺς μετὰ τὸν κατακλυσμὸν, διὰ Μελχι-
+σεδὲκ, καὶ τῶν πατριαρχῶν, καὶ τοῦ θεοφιλοῦς Ἰώβ·
+τοὺς ἐν Αἰγύπτῳ, διὰ Μωσέως· τοὺς Ἰσραηλίτας, δι᾿
+αὐτοῦ, καὶ Ἰησοῦ, καὶ Χαλὲβ, καὶ Φινεὲς, καὶ τῶν
+λοιπῶν· τοὺς μετὰ νόμον, δι᾿ ἀγγέλων καὶ προφητῶν·
+τοὺς αὐτοὺς διὰ τῆς ἰδίας ἐνανθρωπήσεως τῆς ἐκ
+Παρθένου (15) γενομένης· τοὺς πρὸ μικροῦ τῆς ἀνα-
+δείξεως αὐτοῦ τῆς σωματικῆς, διὰ Ἰωάννου τοῦ προ-
+δρόμου· τοὺς δ᾿ αὐτοὺς, διὰ τοῦ αὐτοῦ, καὶ μετὰ
+
+# block=7
+¹⁰ Matth. x, 12. ¹¹ Isa. lvii, 19 ; Eph. ii, 17. ¹² II Tim. ii, 19.
+
+# block=15
+VARIORUM NOTÆ.
+
+# block=8
+drinus : Οἱ ἀκοινώνητοι περιπατήσατε. In S. Chry-
+sostomo tom. I, orat. I adversus Judæos p. 440 :
+Ἐπιγινώσκετε ἀλλήλους· et tom. VI, hom. in Para-
+bolam de filio prodigo, post medium : Μή τις τῶν
+κατηχουμένων, μή τις τῶν μὴ ἐσθιόντων, μή τις τῶν
+κατασκόπων, μή τις τῶν μὴ δυναμένων θεάσασθαι
+τὸν μόσχον ἐσθιόμενον, μή τις τῶν μὴ δυναμένων
+θεάσασθαι τὸ οὐράνιον αἷμα τὸ ἐκχυνόμενον εἰς ἄφε-
+σιν ἁμαρτιῶν, μή τις ἀνάξιος τῆς ζωῆς θυσίας, μή
+τις ἀμύητος, μή τις μὴ δυνάμενος ἀκαθάρτοις χεί-
+λεσι προσψαύσασθαι τῶν φρικτῶν μυστηρίων. Apud
+Latinos vero Isidorus lib. vi Originum, cap. 19, scri-
+bit : Missa tempore sacrificii est, quando catechu-
+meni foras mittuntur, clamante levita : Si quis cate-
+chumenus remansit, exeat foras. Et inde missa
+quia sacramentis altaris interesse non possunt, qui
+nondum regenerati noscuntur. Auctor Vitæ S. Mar-
+tialis : Postquam a diacono ex more clamatum fuis-
+set, ut si quis non posset communicare, ab ecclesia
+
+# block=18
+exiret. Gregorius PP. dialog. ii, 23 .... atque ex
+more diaconus clamaret : Si quis non communicat,
+det locum. Cot.
+(11) Τοῖς ἐγγύς. Hisce præliguntur hæc verba :
+ἐλθὼν εὐαγγελίσατο εἰρήνην ὑμῖν, in altero cod.
+Vindob. Cler.
+(12) Πολύ. Vindobon. cod. πολλῷ. Id.
+(13) Ἐπεύχεσθαι, etc. Alter cod. Vindob. προσ-
+εύχεσθαι τῷ Θεῷ τὴν τοῦ λαοῦ εἰρήνην. Quorum
+verborum eamdem esse crediderim sententiam,
+quæ est Vulgatæ lectionis : ita ut orare Deo populi
+pacem, perinde sit ac orare pacem Dei, sed poste-
+rius loquendi genus usitatius est et dilucidius. Id.
+(14) Πολύ. Alter codex πολλῷ. Id.
+(15) Ἐκ Παρθένου. In alterο codice Vindobon.
+præmittitur : ἐκ Πνεύματος ἁγίου καί, nec male, nam
+potissima ἐνανθρωπήσεως causa fuit Spiritus san-
+ctus. Id.

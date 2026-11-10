@@ -1,0 +1,243 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,969,121,1741,683
+2,964,777,1736,882
+3,180,124,938,729
+4,959,2174,1724,2718
+5,574,67,1325,107
+6,1240,735,1449,772
+7,183,782,934,888
+8,786,1057,1102,1096
+9,216,987,1724,1024
+10,158,1122,927,2524
+13,184,67,255,107
+14,1649,66,1725,112
+15,405,734,707,774
+16,985,884,1725,932
+17,209,886,931,934
+18,155,2528,539,2632
+19,559,2528,925,2638
+20,551,2636,925,2720
+21,165,2628,533,2716
+22,963,1120,1337,2112
+23,1341,1120,1723,2170
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=969 source_y1=121 source_x2=1741 source_y2=683
+actio gratiarum, adoratio, in sancto Spiritu, in
+sæcula. Amen. Et diaconus dicat: Inclinate, et ac-
+cipite benedictionem. At episcopus gratias pro eis
+agat, hæc dicens: « Salvum fac, Domine, populum
+tuum et benedic hæreditati tuæ ⁹⁴, » quam acquisisti
+pretioso Christi tui sanguine; pasce illos sub
+dextera tua, protege illos sub alis tuis; et tribue
+illis, ut certamen bonum certent, cursum consum-
+ment ⁹⁵, fidem servent, absque mutatione, culpa et
+crimine; per Dominum nostrum Jesum Christum
+dilectum Filium tuum; cum quo tibi gloria, honor,
+et veneratio, atque sancto Spiritui, in sæcula.
+Amen.
+
+# block=2 source_x1=964 source_y1=777 source_x2=1736 source_y2=882
+Quomodo et quando oporteat fidelium defunctorum
+fieri memorias; et quod ex eorum facultatibus sit
+pauperibus largiendum.
+
+# block=3 source_x1=180 source_y1=124 source_x2=938 source_y2=729
+μὴ καὶ σέβας, εὐχαριστία, προσκύνησις (68), ἐν Ἁγίῳ
+Πνεύματι, εἰς τοὺς αἰῶνας. Ἀμήν. Καὶ ὁ διάκονος
+λεγέτω· Κλίνατε, καὶ εὐλογεῖσθε. Καὶ ὁ ἐπίσκοπος
+εὐχαριστείτω ὑπὲρ αὐτῶν, λέγων τοιάδε· « Σῶσον (69),
+Κύριε, τὸν λαόν σου, καὶ εὐλόγησον τὴν κληρονο-
+μίαν σου, ἣν περιεποιήσω τῷ τιμίῳ αἵματι τοῦ
+Χριστοῦ σου· ποίμανον αὐτοὺς ὑπὸ τὴν δεξιάν σου,
+καὶ σκέπασον αὐτοὺς ὑπὸ τὰς πτέρυγάς σου, καὶ δὸς
+αὐτοῖς τὸν ἀγῶνα ἀγωνίσασθαι (70) καλὸν, τὸν δρόμον
+τελέσαι (71), τὴν πίστιν τηρῆσαι ἀτρέπτως, ἀμέμ-
+πτως, ἀνεγκλήτως, διὰ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χρι-
+στοῦ τοῦ ἀγαπητοῦ σου Παιδός· μεθ' οὗ σοι δόξα,
+τιμὴ καὶ σέβας, καὶ τῷ ἁγίῳ Πνεύματι, εἰς τοὺς
+αἰῶνας. Ἀμήν.
+
+# block=4 source_x1=959 source_y1=2174 source_x2=1724 source_y2=2718
+Quem locum frustra quæras in versione Jacobi
+Pontani. Ad hæc corrigi debent ista apud Hincma-
+rum capite 14: Capitulorum presbyteris datorum,
+anno 852: Ut nullus presbyterorum ad anniversariam
+diem, vel tricesimam tertiam, vel septimam alicujus
+defuncti, aut quacunque vocatione ad collectam pre-
+sbyteri convenerint, se inebriare præsumat. Scribo,
+etiam ex Reginone, Burchardo, Ivone, Gratiano: Ut
+nullus presbyterorum, ad anniversariam diem vel
+tricesimam, tertiam vel septimam, etc. Denique in-
+dicatum capitulum 19 Theodori accipe, prout legen-
+dum cl constituit edito codice: Pro defuncto mona-
+cho missa agitur in die sepulturæ ejus, tertia die, et
+postea gaundiu voluerit abbas : pro laico bono tertia
+vel septima [5 vel 7 unde factum, tres vel septem],
+post jejunium : pro pænitente trigesima die vel sep-
+
+# block=5 source_x1=574 source_y1=67 source_x2=1325 source_y2=107
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=6 source_x1=1240 source_y1=735 source_x2=1449 source_y2=772
+CAPUT XLII.
+
+# block=7 source_x1=183 source_y1=782 source_x2=934 source_y2=888
+Πῶς (72) δεῖ καὶ πότε γίνεσθαι τὰς τῶν κοιμη-
+θέντων πιστῶν μνείας· καὶ ὅτι ἐκ τῶν ὑπαρ-
+χόντων αὐτοῖς, δεῖ παρέχεσθαι πένησι.
+
+# block=8 source_x1=786 source_y1=1057 source_x2=1102 source_y2=1096
+VARIORUM NOTÆ.
+
+# block=9 source_x1=216 source_y1=987 source_x2=1724 source_y2=1024
+⁹⁴ Psal. xxvii, 9. ⁹⁵ II Tim. iv, 7. ⁹⁶ Anast. ἐπιτελεῖσθε. ⁹⁷ Hoc caput profert Anastasius, quæst. 22.
+
+# block=10 source_x1=158 source_y1=1122 source_x2=927 source_y2=2524
+(68) Προσκύνησις. In altero: καὶ προσκύνησις,
+καὶ ἁγίῳ, etc. Quod eadem de causa mutatum vi-
+detur. COTER.
+(69) Σῶσον, etc. Ascribitur in altero cod. χειρο-
+θεσία πιστῶν. ID.
+(70) Ἀγωνίσασθαι. In altero cod. τελέσαι, a
+τελέθω, perficio, barbarice. ID.
+(71) Τελέσαι. In eodem ἀνύσαι, absolute, eodem
+sensu. Sic passim miscentur συνώνυμα. ID.
+(72) Πῶς. Ibidem: ὅπως. ID.
+(73) Ἐπιτελείσθω δὲ τρίτα τῶν κεκοιμημέ-
+νων, etc. Hinc ista et sequentia sumpta esse ab
+Orientalibus, Melchitis, Maronitis, Cophthitis et Jaco-
+bitis, præsertimque Collectionibus conciliorum apud
+eos, discere est ex Abrahami Ecchellensis Maronitæ
+Notis ad Catalogum librorum Chaldæorum, quem
+Hebedjesu composuit, p. 167, etc. Eadem cum aliis
+itidem Apostolicarum constitutionum cernere est,
+in Codicibus conciliorum et canonum, Arabico et
+Græcis, penes Christianissimum regem. Citantur
+autem ab Anastasio absque ulla diversitate prima-
+rum linarum, in ms. Regio 2206. Ad rem ipsam
+quod attinet, plurima congeri possent; sed ego, in-
+dicatis potioribus locis, illa solummodo describam,
+quæ aut novitatem habent, aut lucem ab aliquo
+exspectant. Igitur consulat qui volet Palladii Histo-
+riam Lausiacam, cap. 26, sub finem; Isodorum
+Pelusiotam, lib. I, epist. 114; Justiniani Novellam
+133; Damascenum Oratione de fidelibus defunctis,
+editionis Græcæ fol. 147, 150; Eustratium in Bi-
+bliotheca Photiana codice 171; Niconem De erro-
+ribus Armeniorum apud Balsamonem, pag. 1098, et
+supra ad lib. II, cap. 24; Ambrosium Oratione de
+obitu Theodosii, Epistolam inter Augustinianas 258;
+Alcuinum aut alium lib. De divinis officiis, cap. 50,
+51; Capitula selecta Theodori Cantuariensis, n. 19,
+37, 90; in IX Spicilegio, Meletii epistolam De Bo-
+russis; Meursii Glossarium voce Τριτεννάται· Hu-
+gonem Menardum, Concordia regularum p. 218, et
+Jacobum Goar, Euchologii p. 540. Jam Philippus
+Solitarius, lib. IV. Dioptra manu scriptæ in Regia
+Bibliotheca, ad hunc modum loquitur:
+
+# block=13 source_x1=184 source_y1=67 source_x2=255 source_y2=107
+1145
+
+# block=14 source_x1=1649 source_y1=66 source_x2=1725 source_y2=112
+1146
+
+# block=15 source_x1=405 source_y1=734 source_x2=707 source_y2=774
+ΚΕΦΑΛΑΙΟΝ ΜΒ'.
+
+# block=16 source_x1=985 source_y1=884 source_x2=1725 source_y2=932
+⁹⁷Quod spectat ad mortuos, celebretur dies tertius,
+
+# block=17 source_x1=209 source_y1=886 source_x2=931 source_y2=934
+Ἐπιτελείσθω ⁹⁶ δὲ τρίτα τῶν κεκοιμημένων (73),
+
+# block=18 source_x1=155 source_y1=2528 source_x2=539 source_y2=2632
+Περὶ τοῦ πῶς ἐπιτελοῦ-
+μεν τρίτα, ἔννατα, καὶ
+τεσσαρακοστά.
+
+# block=19 source_x1=559 source_y1=2528 source_x2=925 source_y2=2638
+De modo quo celebramus
+dies tertium, nonum, et
+quadragesimum.
+
+# block=20 source_x1=551 source_y1=2636 source_x2=925 source_y2=2720
+Et hoc sciendum est,
+quod quadraginta dies
+
+# block=21 source_x1=165 source_y1=2628 source_x2=533 source_y2=2716
+Χρὴ καὶ τοῦτο γινώ-
+σκειν, ὅτι τὰς τεσσαρά-
+
+# block=22 source_x1=963 source_y1=1120 source_x2=1337 source_y2=2112
+veteris luctus in tria di-
+viserint apostoli; in ter-
+tium diem, et nonum, et
+quadragesimum. Ita enim
+ipse Dominus post resur-
+rectionem tertia die fac-
+tam, seipsum ostendit
+discipulis, januis clausis,
+et insufflavit eis dicens :
+« Accipite Spiritum san-
+ctum. » Et post dies octo,
+iterum ecce post resur-
+rectionem intra octo dies,
+secundo ipsis apparuit.
+Itaque evangelista di-
+cens, « Post dies octo, »
+diem resurrectionis non
+numeravit cum aliis die-
+bus, quatuor cum illo
+novem numerantur. Ad
+hanc ergo formam, nos
+ad sepultura ad nonum
+diem secundo memorias
+eorum celebramus qui
+sancte obdormierunt. Et
+vero pari ratione quadra-
+gesimum exspectant; nam
+die quadragesimo assum-
+ptus est Dominus.
+
+# block=23 source_x1=1341 source_y1=1120 source_x2=1723 source_y2=2170
+κοντα ἡμέρας τοῦ πα-
+λαιοῦ πένθους τριχῇ διε-
+ῖλοντο οἱ ἀπόστολοι, εἰς
+τρίτα, καὶ ἔννατα, καὶ τεσ-
+σαρακοστά. Οὕτω γὰρ καὶ
+αὐτὸς ὁ Κύριος μετὰ τὴν
+τριήμερον ἔγερσιν ἐφανέ-
+ρωσεν ἑαυτὸν τοῖς μαθη-
+ταῖς τῶν θυρῶν κεκλει-
+σμένων, καὶ ἐνεφύσησεν
+αὐτοῖς λέγων· Λάβετε
+Πνεῦμα ἅγιον. Καὶ μεθ'
+ἡμέρας ὀκτὼ, πάλιν ἰδοὺ
+μετὰ τὴν ἀνάστασιν ἐντὸς
+τῶν ὀκτὼ ἡμερῶν, δεύτε-
+ρον ἐφάνη αὐτοῖς. Εἰπὼν
+οὖν ὁ εὐαγγελιστὴς, μεθ'
+ἡμέρας ὀκτὼ, τὴν ἀνα-
+στάσιμον ἡμέραν οὐ
+συνεψηφίσατο ταῖς ἐκεί-
+νης γοῦν, ἐννέα καταριθ-
+μοῦνται. Κατὰ γοῦν τὸν
+τύπον τοῦτον, ἡμεῖς ἀπὸ
+τῆς ταφῆς ἕως τῶν ἐννά-
+των δεύτερον τὰς μνείας
+τῶν ἁγίως κεκοιμημένων
+ἐπιτελοῦμεν. Ὁμοίως δὲ
+καὶ τὰ τεσσαρακοστὰ, ἐ-
+πειδὴ τῇ τεσσαρακοστῇ
+ἡμέρᾳ ἀνελήφθη ὁ Κύ-
+ριος.

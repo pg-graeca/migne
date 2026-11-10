@@ -1,0 +1,181 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,977,813,1729,2199
+2,968,2456,1717,2691
+3,988,140,1736,611
+4,191,810,942,2205
+5,197,137,950,610
+6,183,2454,933,2696
+7,1248,652,1463,689
+8,437,652,690,682
+9,987,717,1726,787
+10,205,2244,1720,2321
+12,637,84,1303,125
+13,795,2372,1097,2411
+14,198,712,937,782
+15,193,82,267,124
+16,1663,78,1741,126
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+630
+
+# block=15
+629
+
+# block=12
+CONSTITUTIONES APOSTOLICÆ.—LIB. Ⅱ.
+
+# block=5
+τεῖν, ὑποπιέζειν, στιβοῦν νηστείαις, ὅπως καὶ τοῖς
+ἑτέροις εὐλάβειαν ἐμποιήσῃ. « Εὐλαβεῖς γὰρ, φησὶν,
+ποιήσατε τοὺς υἱοὺς Ἰσραήλ. » Χρὴ γὰρ τὸν ἐπίσκο-
+πον καὶ τὸν ἁμαρτιῶν κωλυτὴν διὰ τῆς νουθεσίας γί-
+νεσθαι, καὶ τῆς δικαιοσύνης σκοπὸν, καὶ τῶν ἡτοι-
+μασμένων ὑπὸ Θεοῦ ἀγαθῶν κήρυκα, καὶ τῆς μελ-
+λούσης ὀργῆς ἐν τῇ κρίσει διαγγελτῆρα· ὅπως μὴ κα-
+ταφρονήσας τῆς τοῦ Θεοῦ φυτουργίας, ἀκούσῃ διὰ
+ἀμέλειαν, τὸ ἐν τῷ Ὡσηὲ εἰρημένον· « Ἵνα τί παρε-
+σιωπήσατε ἀσέβειαν, καὶ τὸν καρπὸν αὐτῆς ἐτρυγή-
+σατε; »
+
+# block=3
+conniventia ac silentio præterire; quinimo ar-
+guere, monere, comprimere, jejuniis macerare,
+quo cæteri ad sibi cavendum inducantur: « Cau-
+tos enim, inquit, facite filios Israelis ³². » Decet
+quippe episcopum delictorum propulsatorem per
+admonitionem effici, justitiæ speculatorem, bono-
+rum a Deo præparatorum præconem, et futuræ in
+judicio iræ denuntiatorem; ne contempta Dei plan-
+tatione audiat, propter negligentiam, quod apud
+Oseam dictum est: « Quid reticuistis impietatem,
+et fructum illius vindemiastis ³³? »
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ ΙΗ'.
+
+# block=7
+CAPUT XVIII.
+
+# block=14
+Ὅτι χρὴ τὸν ἐπίσκοπον φροντίζειν, ὅπως ὁ λαὸς
+μὴ πλημμελῇ, διὰ τὸ εἶναι αὐτὸν σκοπόν.
+
+# block=9
+Quod oportet episcopum curare, ne peccet plebs, quia
+ipse est speculator.
+
+# block=4
+Πάντων οὖν φροντιζέτω ὁ ἐπίσκοπος, καὶ τῶν μὴ
+ἡμαρτηκότων, ἵνα μείνωσιν ἀναμάρτητοι, καὶ τῶν
+ἁμαρτανόντων, ἵνα μετανοῶσι. Λέγει γὰρ ὁ Κύριος
+πρὸς ὑμᾶς (95)· « Ὁρᾶτε μὴ καταφρονήσητε ἑνὸς
+τῶν μικρῶν τούτων. » Καὶ (96) τοῖς μετανοοῦσιν ἄφε-
+σιν διδόναι χρή. Ἅμα γὰρ τῷ εἰπεῖν τινα τῶν πλημ-
+μελησάντων γνησίᾳ διαθέσει· « Ἡμάρτηκα τῷ Κυ-
+ρίῳ· » ἀποκρίνεται τὸ ἅγιον Πνεῦμα· « Καὶ Κύριος
+ἀφῆκέ σοι τὴν ἁμαρτίαν, θάρσει, οὐ μὴ ἀποθάνῃς. »
+Γνώριζε οὖν, ὦ ἐπίσκοπε, τὸ ἀξίωμά σου, ὅτι ὡς τοῦ
+δεσμεῖν ἐκληρώσω τὴν ἐξουσίαν, οὕτω καὶ τοῦ λύειν.
+Ἐξουσίαν οὖν ἔχων τοῦ λύειν, γνώριζε σεαυτὸν, καὶ
+ἀξίως τοῦ τόπου σου ἐν τῷδε τῷ βίῳ ἀναστρέφου, εἰ-
+δὼς ὅτι πλείονα αὐτὸς ἀπαιτηθήσῃ τὸν λόγον· « ᾯ γὰρ,
+φησὶ, παρέθεντο πολὺ, περισσότερον ἀπαιτήσουσι παρ’
+αὐτοῦ. » Ἀναμάρτητος μὲν γὰρ ἀνθρώπων οὐδεὶς
+παρέξ τοῦ γενομένου δι’ ἡμᾶς ἀνθρώπου· ἐπεὶ γέ-
+γραπται· « Οὐδεὶς καθαρὸς ἀπὸ ῥύπου, οὐδ’ ἂν μία
+ἡμέρα (97) ἡ ζωὴ αὐτοῦ. » Διὰ τοῦτο καὶ τῶν προ-
+γεγενημένων (98) δικαίων τε καὶ πατριαρχῶν οἱ βίοι
+καὶ αἱ ἀναστροφαὶ ἀνεγράφησαν· οὐχ ἵνα ἐκείνους
+ὀνειδίζωμεν ἀναγινώσκοντες, ἀλλ’ ἵνα ἡμεῖς μετα-
+νοῶμεν, καὶ εὐέλπιδες γενώμεθα ὡς ἀφέσεως τευξό-
+μενοι. Τὰ γὰρ ἐκείνων ῥύπη, ἡμετέρα ἀσφάλεια καὶ
+παραίνεσις, ὅτι καὶ ἡμεῖς ἁμαρτήσαντες, ἐὰν μετα-
+νοήσωμεν, συγγνώμην ἕξομεν· ἐπεὶ γέγραπται· « Τίς
+καυχήσεται ἁγνὴν ἔχειν τὴν καρδίαν, ἢ τίς παῤῥη-
+σιάσεται καθαρὸς εἶναι ἀπὸ ἁμαρτίας; » Οὐδεὶς οὖν
+ἀναμάρτητος. Σὺ οὖν κατὰ δύναμιν, σπούδαζε ἀνεπί-
+ληπτος εἶναι· καὶ περὶ πάντων μερίμνα, μὴ διὰ σέ
+τις σκανδαλισθεὶς ἀπόληται. Ὁ γὰρ λαϊκὸς περὶ ἑαυ-
+τοῦ μόνου μεριμνᾷ, σὺ δὲ περὶ πάντων, ὡς πλεῖον
+
+# block=1
+Omnium itaque curam habeat episcopus; tum
+eorum qui non peccarunt, ut tales esse perseve-
+rent; tum eorum qui deliquerunt, ut pœnitentia
+ducantur. Ad vos enim dicit Dominus: « Videte ne
+contemnatis unum ex his pusillis ³⁴. » Pœnitentibus
+autem venia concedenda est. Nam simul ac pecca-
+tor quispiam sincero affectu pronuntiavit: « Pec-
+cavi Domino; » Spiritus sanctus respondet: « Et
+Dominus remisit tibi peccatum; confide, non morie-
+ris ³⁵. » Agnosce igitur, episcope, dignitatem tuam;
+quod sicut sortitus es potestatem ligandi, ita et sol-
+vendi. Quocirca potestate absolvendi præditus, co-
+gnosce teipsum, et condignam loco tuo vitam age,
+non inscius quod majorem reposceris rationem:
+« Cui enim, inquit, commendaverunt multum, plus
+petent ab eo ³⁶. » Nullus siquidem hominum expers
+peccati reperitur, præter eum qui propter nos homo
+factus est, Scriptura dicente: « Nullus mundus a
+sorde, neque si unus dies vita illius ³⁷. » Propter
+hoc justorum ac patriarcharum qui olim floruerunt,
+actus et mores conscripti sunt; non quidem ut piis
+hominibus, dum legimus, vitam exprobremus; sed
+ut nos peccatorum nostrorum pœniteat, utque in
+certam remissionis adipiscendæ spem inducamur.
+Illorum enim nævi nostra securitas et consolatio
+sunt, quod nos quoque, si de peccatis nostris ege-
+rimus pœnitentiam, venia donabimur; quandoqui-
+dem scriptum est: « Quis gloriabitur castum se
+habere cor; aut quis confidet mundum se esse a
+peccato ³⁸? » Nemo igitur absque peccato est. Tu
+vero, quoad potes, inculpatus esse stude et de om-
+
+# block=10
+³² Lev. xv, 31. ³³ Osc. x, 13, juxta LXX. ³⁴ Matth. xviii, 10. ³⁵ Ⅱ Reg. xii, 13. ³⁶ Luc. xii, 48.
+³⁷ Job xiv, 4, in LXX. ³⁸ Prov. xx, 9.
+
+# block=13
+VARIORUM NOTÆ.
+
+# block=6
+(95) Πρὸς ὑμᾶς. Alter Vind. cod. ἐν Εὐαγγε-
+λίοις.—CLER.
+(96) Καί. Alter, οὐκοῦν, ergo. ID.
+(97) Μία ἡμέρα. Alter cod. μιᾶς ἡμέρας, æque
+bene, imo melius; quamvis vulgata lectio sit con-
+sentanea edit. LXX Intt. ID.
+(98) Διὰ τοῦτο καὶ τῶν προγεγενημένων, etc.
+
+# block=2
+Lege, si vacat, quæ in hanc sententiam edisserun-
+tur apud sanctos Patres, Irenæum lib. ⅳ, cap. 45;
+Chrysostomum, homil. de pœnitentia et oratione,
+tom. Ⅰ; homil. 29 in Genesim, tom. Ⅱ; homil. in
+psalmum Ⅼ, tom. Ⅲ; et Augustinum lib. ⅲ De doc-
+trina Christiana, cap. 23, atque libro De natura et
+gratia, cap. 55. Cot.

@@ -1,0 +1,213 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,921,2216,1665,2648
+2,142,2352,891,2720
+3,141,697,899,2355
+4,941,159,1683,499
+5,150,156,906,501
+6,921,1816,1663,2087
+7,923,698,1686,1394
+8,925,1392,1672,1819
+9,921,2085,1669,2218
+10,922,2645,1656,2718
+11,760,613,1065,648
+12,252,538,936,574
+13,547,98,1275,141
+14,159,107,232,142
+15,1613,108,1680,146
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=16px
+# block=14 fontSize=16px
+# block=15 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+CONSTITUTIONES APOSTOLICÆ, — LIB. VII.
+
+# block=14
+1053
+
+# block=15
+1054
+
+# block=5
+ὑπὸ Παύλου, Κλήμης δὲ μετὰ τὸν Λίνου θάνατον ὑπ'
+ἐμοῦ Πέτρου, δεύτερος χειροτονηθείς· τῆς δὲ Ἐφέ-
+σου (53) Τιμόθεος μὲν ὑπὸ Παύλου, Ἰωάννης δὲ ὑπ'
+ἐμοῦ Ἰωάννου· Σμύρνης (54) δὲ Ἀρίστων πρῶτος,
+μεθ' ὃν Στραταίας ὁ Λώϊδος, καὶ τρίτος Ἀρίστων·
+Περγάμου δὲ Γάϊος (55), καὶ Φιλαδελφίας Δημήτριος
+ὑπ' ἐμοῦ (56)· ὑπὸ δὲ Παύλου Λούκιος Κεγχρεῶν (57)·
+καὶ τῆς Κρήτης Τίτος· Διονύσιος (58) δὲ ἐν Ἀθήναις·
+
+# block=4
+Lini ordinatus fuit Clemens : et Ephesi Timotheus
+a Paulo, Joannes a me Joanne : Smyrnæ Aristo
+primus, post quem Stratæas Loidis filius, et ter-
+tius Aristo : Pergami Gaius, Philadelphiæ Deme-
+trius a me : a Paulo autem Lucius, Cenchrearum :
+Cretæ Titus : Dionysius Athenis ⁸⁰ : Tripoleos in
+Phœnicia Maroones : Laodicææ in Phrygia Archip-
+pus : Colossensium Philemon : Bercææ apud Mace-
+
+# block=12
+⁸⁰ Maximus ad Dionysii epist. 8,Patr. Gr. t. IV.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=3
+num 1103, Spicilegii laudati tomo V, p. 475 : Hic
+jacet sanctus Clemens Petri discipulus, et a Petro
+papa secundus, qui jussu Trajani imperatoris, an-
+chora ad ejus collum ligata, fuit in pelago mersus.
+Quæ opinio potest subsistere, et cum sententia Con-
+stitutoris, si Linus præteritus credatur, quod su-
+perstite Petro decesserit; et cum sententia Irenæi,
+sive Linus et Cletus putentur omissi, quod ex non-
+nullorum veterum placito, cum Petro et sub Petro
+tenuerint episcopatum urbis, qua de re alibi; sive
+postpositi Clementi existimentur, ex opinione apud
+Epiphanium, a Petro ordinatum Clementem ces-
+sisse Lino, Lino successisse Cletum, Cleto Clemen-
+tem resumpto pontificatu. Atque dummodo illa ces-
+sio statuatur, post obitum Lini, una cum resum-
+ptione Cleto mortuo; conciliabuntur duæ sententiæ,
+Constitutoris, et Irenæi, hunc ad modum seriem ac
+supputationem componendo : Petrus, Linus, Clemens
+(a nostro hic positus ob ordinationem, a martyre
+prætermissus cessionis ergo), Cletus, idem Clemens
+(in Irenæo locum istum nactus, propter episcopatus
+resumptionem et functionem). Nec velim dictam
+cessionem, si vera est, ad ignominiam cum Cle-
+mentis, tum Principis apostolorum trahi, quasi re-
+liqui apostoli illius electionem ab hoc factam impro-
+baverint, ut pudore omni abjecto dicitur a Joanne
+Antiocheno, in opusculo quod continet Appendix
+concilii Basileensis; sed omnino accipi cum Epipha-
+nio in laudem et Petri, qui tantum virum promo-
+verit, et Clementis, qui humiliter deposuerit suscep-
+tum officium; necnon in opprobrium quorumdam
+seditiosorum, cum quibus contendere benigne no-
+luerint sanctissimi homines. Porro celebre Τoῦ πα-
+ναρίου caput, sæpius hac nota memoratum, una
+syllaba, copula καὶ redundare videtur, in his ver-
+bis : Ἡ τῶν ἐν Ῥώμῃ ἐπισκόπων διαδοχὴ ταύτην
+ἔχει τὴν ἀκολουθίαν· Πέτρος καὶ Παῦλος, Λίνος καὶ
+Κλῆτος, Κλήμης : scripsisse enim Epiphanius,
+Λῖνος, Κλῆτος, suadent quæ initio capitis habentur :
+ἐν Ῥώμῃ γὰρ γεγόνασι πρῶτοι Πέτρος καὶ Παῦλος
+οἱ ἀπόστολοι αὐτοὶ καὶ ἐπίσκοποι, εἶτα Λῖνος, εἶτα
+Κλῆτος, εἶτα Κλήμης, et multis interjectis, Λῖνον
+καὶ Κλῆτον ἐπισκοπεύσαντας πρὸς δεκαδύο ἔτη ἕκα-
+στον μετὰ τὴν τοῦ ἁγίου Πέτρου καὶ Παύλου τελευ-
+τήν. Denique tacere non debeo supplementum quod
+reperi in mss. codicibus Scholiorum Maximi, ad cap. v
+libri De divinis nominibus, ubi de Clemente, post
+voces, οὗ μέμνηται ὁ Ἀπόστολος, ecce illud : Tὸν καὶ ἐν
+Ῥώμῃ τρίτον ἀπὸ τοῦ ἁγίου Πέτρου ἐπισκοπεύσαντα.
+Cot.
+
+# block=7
+apud Ephesum sepulcra, καὶ ἑκάτερον Ἰωάννου ἔτι νῦν
+λέγεσθαι, et utrumque Joannis hactenus nominari.
+At Hieronymus his postremis non perpensis, quod
+de nomine Joannis in genere dictum erat, ad Joan-
+nem apostolum et evangelistam detorsit, scribens
+libro De viris illustribus : Joannis presbyteri et ho-
+die alterum sepulcrum apud Ephesum ostenditur : et
+nonnulli putant duas memorias ejusdem Joannis
+evangelistæ esse. Alia conjectura seu potius mera
+divinatione, ex Nicephori Historia lib. IV, cap. 14,
+putabitur Joannes Senior idem esse cum anonymo
+illo seniore seu presbytero apostolico, cujus verba
+non raro laudat B. Irenæus. Quod vero tradit ca-
+tholicus noster doctor Joannem minorem a majori ac-
+cepisse episcopatus ordinem, verisimile admodum fit;
+quoniam, ut refertur, totius Asiæ Ecclesias potissi-
+mumque Ephesinam rexit theologus. Cæterum ne-
+scio ἀνωνυμίᾳ evenerit ut apostolus Joannes suc-
+cessor habitus sit Timothei, in Metaphraste apud
+Surium 24 Januarii, et in Martyrio Timothei, codice
+CCLIV Bibliothecæ Photii, Ib.
+
+# block=8
+(54) Σμύρνης. Suspicio oriri potest, alterum ex
+his Aristonibus esse celebrem Papiæ Hierapolitani
+Aristionem, in Eusebio, Hieronymo (apud quem co-
+dex Gemblacensis scriptum habet, Ariston), et Mar-
+tyrologiis. Post secundum Aristonem numerare li-
+cet Bucolum, indeque Polycarpum ab apostolo
+Joanne Smyrnæis præpositum, inquiunt veteres,
+quique ideo poterat hoc loco memorari. Verum
+Græcorum ad 6 Februarii calculus fert secundum
+a primo Bucolo Polycarpum Smyrnæorum episco-
+pum exstitisse. Lege Suidam in Πολύκαρπος. Mitto
+Apellem κακοπλαστοῦ et κακοπλάστου Dorothei,
+Smyrnæ episcopum ante Polycarpum. Ib.
+
+# block=6
+(55) Γάϊος. Non Gaius Corinthius Rom. XVI, 23;
+1 Corinth. I, 14, quem traditio episcopum Thessa-
+lonicensis Ecclesiæ facit apud Origenem. Ambro-
+siaster vero, Beda, Ado, etc., eumdem arbitrantur
+cum illo ad quem Joannes apostolus scripsit episto-
+lam 3; sed vel Gaius Macedo Act. XIX, 29; vel
+Gaius Derbensis Act. XX, 4, si duo homines fuerunt,
+aut alius ejusdem nominis. Ib.
+
+# block=9
+(56) Δημήτριος ὑπ' ἐμοῦ. Demetrius a me.— Joanne
+repetendum ex superioribus, Demetrii hujus, vel al-
+terius mentio cum laude habetur epist. 3 Joannis,
+versu 12. Ib.
+
+# block=1
+(57) Ὑπὸ δὲ Παύλου Λούκιος Κεγχρεῶν. Forte
+Lucius Pauli cognatus, et Corinthi sectator illius,
+cum Apostolus ad Romanos scriberet, Rom. XVI,
+21; alius a Luca evangelista (quidquid videatur
+nonnullis apud Origenem, atque adeo ipsi Origeni)
+supra lib. VI, cap. 18, in fine. A fabulatore Dorotheo
+Lucius (mss. 2 Λουκᾶς) Pauli in Laodicea Syriæ
+episcopus collocatur. Lucium quoque Cyrenæum
+nominat Lucas Act. XIII, 1, quem quidam eundem
+credunt ac apostoli affinem, alii alium; Latini 6
+Maii Cyrenarum episcopum, Et Λευκίου, Leucií sive
+Lucii, apostolici hominis, meminit Epiphanius hæ-
+resi 51, cap. 6. Ib.
+
+# block=2
+(53) Tῆς δὲ Ἐφέσου. Timotheum primum Ephe-
+siorum, sive, ut ex Scriptura loquitur Theodoritus,
+Asianorum antistitem a Paulo factum, pluribus ve-
+terum testimoniis accepimus; Joannem a Joanne
+apostolo eidem Ecclesiæ præfectum non item. Est qui-
+dem Joannes hic mea conjectura Joannes ille presby-
+ter apud Eusebium, atque ex eo apud Hieronymum.
+A quo tamen S. doctore mens Cæsariensis capta
+non fuit. Comprobat hic lib. III Hist., cap. 39,
+narrationem illorum qui duos eodem Joannis no-
+mine appellatos in Asia vixisse dixerant, duoque esse
+
+# block=10
+(58) Διονύσιος. S. Maximus in Prologo ad opera
+Dionysii crediti istius: Καθίσταται κατὰ τὸ φερόμε-

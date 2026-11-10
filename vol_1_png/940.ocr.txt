@@ -1,0 +1,167 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,192,128,937,731
+2,185,741,935,1335
+3,970,606,1718,1253
+4,973,128,1718,596
+5,181,1342,927,2115
+6,965,1262,1712,2117
+7,965,2124,1702,2334
+8,183,2122,930,2333
+9,188,2557,922,2665
+10,966,2561,1721,2631
+11,214,2403,1165,2441
+12,596,71,1324,106
+13,197,73,270,108
+14,1624,64,1720,110
+15,778,2480,1100,2532
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=192 source_y1=128 source_x2=937 source_y2=731
+videris tua cogitatione perspicere, et supra cœlos
+intueri, non dubium quin ex his ea consideres quæ
+in terris positus vides. Aut si putas facilem menti
+tuæ accessum esse super cœlos, et considerare te
+posse quæ illic sunt, atque immensæ illius lucis
+scientiam capere, puto ei qui illa potest compre-
+hendere, facilius esse ut sensum suum qui illuc
+novit ascendere, in alicujus nostrum qui assistimus,
+cor et pectus injiciat et dicat, quas in eo cogitationes
+gerat. Si ergo potes alicujus nostrum, qui tamen
+non sit erga favorem tuum occupatus, enuntiare
+cogitationes cordis, poterimus tibi fortasse credere,
+quod et ea quæ super cœlos sunt, scire potueris,
+licet illa multo sint celsiora.
+
+# block=2 source_x1=185 source_y1=741 source_x2=935 source_y2=1335
+LXVI. Ad hæc Simon : Qui vero, inquit, multas
+nænias texuisti, audi jam nunc. Impossibile est
+omne quod ad cogitationem hominis venerit, non
+etiam re ipsa ac veritate subsistere; quæ enim non
+subsistunt, nec speciem habent, quæ autem speciem
+non habent, nec cogitationi possunt occurrere. Et
+Petrus : Si omne, inquit, quod ad cogitationem
+venire potest, subsistit, istum quem dicis extra
+mundum esse immensitatis locum, si eum quis in
+corde suo lumen esse cogitet, alius vero tenebras,
+quomodo poterit unus atque idem locus secundum
+eos, qui diversa de eo cogitarunt, et lumen esse
+et tenebræ? Et Simon : Omitte nunc ista quæ
+ego dixi, tu quid esse putes super cœlos dicito?
+
+# block=3 source_x1=970 source_y1=606 source_x2=1718 source_y2=1253
+LXIX. Et Petrus : Noli, inquit, putare nos quod
+hæc fide sola recipienda esse dicamus, sed et ra-
+tione asserenda. Neque enim tutum est nudæ hæc
+fidei absque ratione committere, cum utique veri-
+tas ratione non careat. Et ideo ⁷² qui hæc ratione
+munita susceperit, perdere ea nunquam potest,
+qui vero absque assertionibus ea suscipit simplicis
+sermonis assensu, neque servare ea tuto potest, ne-
+que si vera sint certus est, quia qui facile credit fa-
+cile et recedit ; qui autem rationem quæsivit eorum
+quæ credidit, et accepit, quasi vinculis quibusdam
+rationis ipsius colligatus, nunquam ab his quæ
+credidit, divelli aut separari potest. Et ideo quanto
+quis propensior fuerit in expetenda ratione, tanto
+erit firmior in conservanda fide.
+
+# block=4 source_x1=973 source_y1=128 source_x2=1718 source_y2=596
+qui ab eo facti sunt, sicut et lex dicit, quorum
+unum cœlum sit superius, quo continetur etiam vi-
+sibile firmamentum, illud esse perpetuum et æter-
+num cum his qui habitant ibi ; istud autem visibile
+in consummatione sæculi resolvendum esse et trans-
+ire, ut illud cœlum quod est antiquius et excel-
+sius post judicium sanctis et dignis appareat. Ad
+hæc Simon respondit : Hæc ita esse, ut tu dicis,
+credentibus possint videri, ei autem qui horum
+exspectat rationes, impossibile est ex lege proferri
+et præcipue de immensitate lucis.
+
+# block=5 source_x1=181 source_y1=1342 source_x2=927 source_y2=2115
+LXVII. Et Petrus : Si de vero, inquit, fonte
+luminis crederes, possem te docere, quid et quo-
+modo esset quod immensum est, et non phanta-
+siam vanam, sed consequentem et necessariam
+rationem redderem veritatis, nec assertionibus so-
+phisticis, sed legis et naturæ testimoniis uterer, ut
+scires quia immensitatis fidem præcipue continet
+lex. Quod si immensitatis ratio non latet legem,
+nihil profecto aliud eam latere potest, et ideo fal-
+sum est, quod putasti esse aliquid quod ignoret
+lex. Multo autem amplius nihil latebit eum, qui le-
+gem dedit. Nec tamen possum tibi aliquid de im-
+mensitate et his quæ sine fine sunt loqui, nisi prius
+de his, qui certo fine terminantur cœlis, rationem
+vel receperis nostram, vel ipse protuleris tuam.
+Quod si de his quæ certis finibus concluduntur intel-
+ligere non potes, multo magis de his quæ sine fine
+sunt, neque scire aliquid poteris neque discere.
+
+# block=6 source_x1=965 source_y1=1262 source_x2=1712 source_y2=2117
+LXX. Ad hæc Simon : Magnum est, inquit, quod
+repromittis ut immensæ lucis æternitas ex lege
+possit ostendi. Cumque Petrus dixisset : Quando
+volueris, Simon ait : Quoniam hora jam multa est,
+crastino astanti mihi et renitenti, si probare potue-
+ris factum esse hunc mundum et animas esse im-
+mortales, habebis me adjutorem prædicationis tuæ.
+Et cum hæc dixisset, egressus est, secuta autem est
+eum ex omni populo qui cum ipso venerat pars
+tertia, qui erant quasi mille viri ; cæteri vero flexis
+genibus prostrabant se Petro, super quos ille invo-
+cato Dei nomine, alios dæmonia habentes curavit,
+alios etiam languentes sanavit, et ita lætantem po-
+pulum dimisit, mandans eis, ut in crastinum diem
+maturius convenirent. Petrus vero cum recessis-
+sent turbæ, sterni jussit humi sub aere atrii nudo
+ubi fuerat disputatum, et recubuit una cum illis
+undecim, ego vero cum aliis quibusdam, qui et
+ipsi initia audiendi verbi Dei acceperant et erant
+charissimi, recumbens sumebam cibum.
+
+# block=7 source_x1=965 source_y1=2124 source_x2=1702 source_y2=2334
+LXXI. Sed benignissimus Petrus considerans, ne
+forte tristitiam mihi inferret ista sequestratio, ait
+ad me : Non pro superbia, o Clemens, convivium
+non ago cum his qui nondum purificati sunt, sed
+vereor ne forte mihi quidem noceam, ipsis autem
+
+# block=8 source_x1=183 source_y1=2122 source_x2=930 source_y2=2333
+LXVIII. Ad hæc Simon : Melius, ait, mihi videtur
+simpliciter credere, quia Deus est, et quia solum
+istud quod videmus, sit cœlum in universo mundo.
+Et Petrus : Non ita, inquit, sed unum quidem confiteri
+convenit Deum qui vere est; cœlos autem esse (79)
+
+# block=9 source_x1=188 source_y1=2557 source_x2=922 source_y2=2665
+(79) Cœlos autem esse. De cœlo et cœlis multa
+sancti Patres, atque contraria : sed ea, ut et majo-
+rem Recognitionum partem, quod ad humanas disci-
+
+# block=10 source_x1=966 source_y1=2561 source_x2=1721 source_y2=2631
+plinas potius spectent, quam ad theologiam, notis
+illustratum non imus.
+
+# block=11 source_x1=214 source_y1=2403 source_x2=1165 source_y2=2441
+⁷² Et ideo — separari potest desiderantur in utroque cod. Lips.
+
+# block=12 source_x1=596 source_y1=71 source_x2=1324 source_y2=106
+S. CLEMENTIS I ROM. PONT. OPERA. DUBIA.
+
+# block=13 source_x1=197 source_y1=73 source_x2=270 source_y2=108
+1279
+
+# block=14 source_x1=1624 source_y1=64 source_x2=1720 source_y2=110
+1280
+
+# block=15 source_x1=778 source_y1=2480 source_x2=1100 source_y2=2532
+COTELERII NOTÆ.

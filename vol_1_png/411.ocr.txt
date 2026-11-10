@@ -1,0 +1,220 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,973,2263,1735,2704
+2,967,2077,1721,2252
+3,191,783,936,2696
+4,192,142,946,478
+5,1244,484,1437,523
+6,977,147,1728,446
+7,971,788,1731,1058
+8,973,1061,1720,1396
+9,969,1403,1719,2066
+11,430,483,698,525
+12,729,83,1198,131
+13,803,723,1105,763
+14,186,529,944,657
+15,225,672,441,705
+16,184,82,258,128
+17,1652,92,1726,136
+18,975,526,1715,664
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=16px
+# block=17 fontSize=16px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+221
+
+# block=12
+EPISTOLA I AD CORINTHIOS.
+
+# block=17
+222
+
+# block=4
+σματα δεινὰ καὶ ἀνόσια παθοῦσαι, ἐπὶ τὸν πίστεως
+βέβαιον δρόμον κατήντης[αν] (44), καὶ ἔλαβον γέρας
+γενναῖον αἱ ἀσθενεῖς τῷ σώματι. Ζῆλος ἀπηλλοτρίωσε
+γαμετὰς ἀνδρῶν, καὶ ἠλλοίωσεν τὸ ῥηθὲν ὑπὸ τοῦ
+πατρὸς ἡμῶν ᾿Αδὰμ • Τοῦτ[ο] νῦν ὀστοῦν ἐκ τῶν
+ὀστέων μου, καὶ σὰρξ ἐκ τῆς σαρκός μου. Ζῆλος
+καὶ ἔρις πόλεις μεγάλας κατέστρεψεν, καὶ ἔθνη με-
+γάλα ἐξεῤῥίζωσεν.
+
+# block=6
+Dircæ, postquam gravia et nefanda supplicia susti-
+nuissent, constantem fidei cursum consummarunt,
+et debiles corpore nobile præmium acceperunt. Æ-
+mulatio uxores a maritis abalienavit, et dictum pa-
+tris nostri Adam mutavit: Hoc nunc os ex ossibus
+meis, et caro de carne mea ⁶⁰. Æmulatio et contentio
+urbes magnas evertit, et gentes magnas eradicavit.
+
+# block=11
+ΚΕΦΑΛΑΙΟΝ Ζ′.
+
+# block=5
+CAPUT VII.
+
+# block=18
+Hæc, charissimi, non tantum ut vos officii vestri
+admoneamus scribimus, sed etiam ut nos ipsos
+commonefaciamus; in eadem enim arena versamur,
+
+# block=14
+Ταῦτα, ἀγαπητοὶ (45), οὐ μόνον ὑμᾶς νουθετοῦντες
+ἐπιστέλλομεν, ἀλλὰ καὶ ἑαυτοὺς ὑπομνήσκον[τες] (46) •
+ἐν γὰρ τῷ αὐτῷ ἐσμεν σκάμμα[τι] (47) καὶ ὁ αὐτὸς
+
+# block=15
+⁶⁰ Gen. 11, 23.
+
+# block=13
+VARIORUM NOTÆ.
+
+# block=3
+ista ex Alexandrino huc esse translata : cum illic
+Dirce quidem nulla; Danaides vero, non in patientiæ,
+sed in audaciæ muliebris in armis tractandis exem-
+plum proponantur. GALL. — Δαναίδες καὶ Δίρκη.
+Legendum forte, Δανάη τε καὶ Δίρκη. Cor. Vide
+quæ hæc de re scripsimus Artis criticæ, p. 3, sect.
+11, c. 5, 14. CLERICUS. — Δαναΐδες καὶ Δίρκη.
+Nemo est qui primo intuitu non videat, hæc aliena
+esse ab hoc loco, et plane contra auctoris mentem,
+qui verba ejus quæ paulo supra habentur, vel levi-
+ter perpenderit; ubi relictis antiquis exemplis, sui
+sæculi et ὑπογυιότερα (ut verbo Demosthenis utar)
+in medium proferre pollicetur. Errori autem huic,
+si conjecturæ locus, ansam præbuisse Clementis
+Alexandrini lectionem verisimile est, qui libro IV
+Strom., dum repetit quæ infra sub finem hujus epi-
+stolæ habentur, et hujus loci ἐξηγητικὰ sunt, post
+exempla Judith et Esther, addit ex profana historia,
+et poetarum fabulis, fortium mulierum facta non-
+nulla, quæ gladios, ignes et tormentorum crucia-
+tus, constanti animo et masculo contempserunt (quod
+etiam in Libro ad Martyras a Tertulliano factum
+esse deprehenditur), inter quas, Danai filias, et
+Danaidum auctorem memorat, qui illarum historiam
+carmine heroico conscripsit. Unde factum est, ut
+cum in margine vetusti alicujus exemplaris, hæ
+voces primum scriberentur, ab imperito librario
+postea in textum irrepserint; quas nos idcirco uncis
+inclusas a reliquis discrevimus, non inepte tamen
+retineri possunt, si ὡς particula præmittatur, sed
+prior sententia magis arridet. JUN. — Variæ in
+hunc locum diversorum sunt conjecturæ. Græce
+Δανάη τε καὶ Δίρκη legendum esse Cotelerius suspi-
+catur. At Joann. Clericus Artis crit., p. 3, sect. 2,
+c. 6, n. 15, pro verbis Δαναΐδες καὶ Δίρκη, resti-
+tuendum esse conjectat ἄνευ αἰδοῦς καὶ δίκης, sine
+reverentia et jure, hoc est irreverenter habito sexu
+infirmiore, et contra jus et fas. Sed conjecturæ ejus
+neminem facile subscripturum puto, cum orationis
+series postulet, ut quemadmodum proxime expo-
+suit virorum, ita nunc mulierum proponat specialia
+atque singularia exempla. Longe minus cuiquam
+placebit, quod vocem Græcam ζῆλον, Latine zeloty-
+piam interpretatur. Non enim aliud hic sonat, quam
+superius, ubi Paulus, Petrus, David, etc., διὰ ζῆ-
+λον vexati memorantur. Neque magis audiendus vi-
+detur, cum id de hoc loco statuit, ut nisi mendum
+in eum irrepserit, dubium esse nequeat, quin semi-
+pagano librario debeatur, qui fabulam filiarum Da-
+nai cum veris historiis conjunxerit. Quasi vero
+fieri non potuerit, ut circa illud tempus, quo Petrus
+et Paulus propter æmulationem gentilium passi sunt,
+eandem ob causam vexatæ fuerint duæ mulieres
+Danaides et Dirce appellatæ, quæ aliunde nobis igno-
+tæ sint. Certe orationis series, uti mox dicebamus,
+postulat, ut insignium mulierum singularia exempla
+subjiciantur: nec quidquam magis in errorem in-
+ducit, quam ex cognatione nominum id uni tribuere,
+
+# block=7
+quod de altero novimus. Quapropter nec probanda
+videtur opinio eorum, qui eo quod Clemens Alex.
+lib. IV Strom. inter feminas ethnicas quæ sibi lau-
+dem virtutibus suis pepererunt, prædictas Danai fi-
+lias recenset, easque encomio, cui titulus Danaides,
+a quodam poeta celebratas commemorat, ex hoc
+Alexandrini loco istum a librario quodam temere
+consarcinatum fuisse arguunt. Coust.
+
+# block=8
+(44) Ἐπὶ τὸν πίστεως. Ex Wott. ita ms. abs-
+que articulo τῆς, quem addunt editi. GALL — Ἐπὶ
+τὸν δρόμον κατήντησαν. Forte εἰς, ut infra εἰς
+πέπειρον καταντᾷ. Sic Paulus ad Ephes. IV, 13:
+Μέχρι καταντήσωμεν οἱ πάντες εἰς τὴν ἑνότητα τῆς
+πίστεως ; et ad Philip. III, 11 : Εἴπως καταντήσω
+εἰς ἐξανάστασιν τῶν νεκρῶν. Malim tamen, deleta
+præpositione, κατήνυσan legere, alludendo ad illud
+Pauli II Timoth. IV, 7 : Τὸν ἀγῶνα τὸν καλὸν ἠγώνι-
+σμαι, τὸν δρόμον τετέλεκα, τὴν πίστιν τετήρηκα. JUN.
+
+# block=9
+(45) Ταῦτα, ἀγαπητοὶ. Hic mutato stylo, supe-
+rioris objurgationis asperitatem, blandiore alloquio
+lenit et emollit, καὶ κουφότερα παρεμβάλλων, ut
+alicubi loquitur Os aureum, καὶ τιθεὶς ἑαυτὸν μέσον,
+τὸ σφόδρον τῆς ἐπιτιμήσεως λειαίνει. Atque in hoc
+veri, fidelis, et solliciti pastoris partes exsequitur,
+cui ab Apostolo utrumque munus, hortandi, scili-
+cet, et objurgandi, pariter injungitur: quorum al-
+terum, metu vel adulatione negligere, οὐ διδασκά-
+λου, ut Chrysost. in Epist. ad Galatas, ἀλλὰ λυμεῶ-
+νος ἄν εἴη, καὶ πολεμίου. Sic Christus exemplo suo
+apostolos instituit, quos interdum laudat et beatos
+prædicat, interdum vero acriter increpat et objur-
+gat. Sic Apostolus Clementem docuit, qui sæpenu-
+mero in epistolis suis (ut Chrysost. ibidem) κατ᾽
+ἴχνος τοῦ διδασκάλου βαίνων ποικίλλει τὸν λόγον πρὸς
+τὴν τῶν μαθητευομένων χρείαν, νῦν μὲν καίων καὶ
+τέμνων, νῦν δὲ προσηνῆ φάρμακα ἐπιτιθεὶς, νῦν μὲν
+ἐν ῥάβδῳ νῦν δὲ ἐν ἀγάπῃ καὶ πνεύματι πραότητος
+ἐρχόμενος, ut de seipso ad Corinthios loquitur. ID.
+
+# block=2
+(46) Ὑπομνήσκοντες. Ms. mendum ex errore li-
+brarii sic corrigunt Wott. et Dav. ὑπομιμνήσκοντες.
+Rectius quam Clericus, cujus emendatio ὑπομνή-
+σοντες in fut. minus apte cohæret cum præcedente
+νουθετοῦντες. GALL.
+
+# block=1
+(47) Ἐν τῷ αὐτῷ ἐσμεν σκάμματι. Σκάμμα non
+tantum locum certaminis et agonis, sed certamen
+ipsum significat, atque hoc sensu intelligendus est
+Balsamon ad canonem 63 synodi sextæ in Trullo,
+ubi de Simeone Metaphraste sic loquitur: Χάρις
+τοίνυν τῷ μακαρίτῃ, τῷ τὰ μαρτυρικὰ ὑπὲρ τῆς
+ἀληθείας σκάμματα, πολλοῖς πόνοις καὶ ἱδρῶσι κα-
+τακαλλύναντι, εἰς ὕμνον Θεοῦ, καὶ δόξαν αἰωνίζουσαν
+τῶν ἁγίων μαρτύρων. Interpres vertit fossas, sed
+non adeo recte. Sic passim apud Chrysostomum :
+Πρὸς μείζονα ἐκλήθημεν σκάμματα, et πρὸς μακρό-
+τερα ἀπεδυσάμεθα σκάμματα. Interdum etiam vita
+nostra in terris, misera, laboriosa, molestiis ac

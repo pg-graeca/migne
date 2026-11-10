@@ -1,0 +1,200 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,960,135,1726,1325
+2,185,2285,945,2686
+3,171,1343,1731,1601
+4,165,126,929,1339
+5,175,2013,949,2287
+6,979,1725,1731,1810
+7,1010,1610,1694,1719
+8,174,1750,950,1841
+9,592,73,1279,119
+10,170,1662,942,1753
+13,417,1620,686,1657
+14,968,2002,1753,2682
+15,166,69,225,117
+16,369,2696,626,2738
+17,787,1919,1107,1969
+18,1645,82,1737,124
+19,197,1856,361,1906
+20,1491,2682,1569,2722
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=16px
+# block=10 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=16px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+649
+
+# block=9
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=18
+650
+
+# block=4
+Καὶ νῦν κλίνω γόνυ καρδίας μου, δεόμενος τῆς παρὰ
+σοῦ χρηστότητος. Ἡμάρτηκα, Κύριε, ἡμάρτηκα,
+καὶ τὰς ἀνομίας μου ἐγὼ γινώσκω• ἀλλ’ (29) αἰτοῦ-
+μαι δεόμενός σου• Ἄνες μοι, Κύριε, ἄνες μοι (30),
+καὶ μὴ συναπολέσῃς με ταῖς ἀνομίαις μου, μηδὲ εἰς
+τὸν αἰῶνα μηνίσας τηρήσῃς τὰ κακά μοι, μηδὲ κα-
+ταδικάσῃς με ἐν τοῖς κατωτάτοις τῆς γῆς. Ὅτι σὺ
+Θεὸς, Θεὸς τῶν μετανοούντων, καὶ ἐπ’ ἐμοὶ δείξεις
+τὴν (31) ἀγαθωσύνην σου• ὅτι ἀνάξιον ὄντα σώσεις
+{(32) κατὰ τὸ πολὺ ἔλεός σου• καὶ αἰνέσω σε διαπαν-
+τὸς ἐν πάσαις ταῖς ἡμέραις τῆς ζωῆς μου. Ὅτι σε
+ὑμνεῖ πᾶσα ἡ δύναμις τῶν οὐρανῶν, καὶ σοῦ ἐστιν ἡ
+δόξα, εἰς τοὺς αἰῶνας. Ἀμήν. Καὶ ἐπήκουσε τῆς
+φωνῆς αὐτοῦ Κύριος, καὶ ᾠκτείρησεν αὐτόν. Καὶ
+ἐγένετο περὶ αὐτὸν φλὸξ πυρὸς (33), καὶ ἐτάκησαν
+πάντα τὰ περὶ αὐτὸν σίδηρα· καὶ ἰσάσατο Κύριος τὸν
+Μανασλῆν ἐκ τῆς θλίψεως αὐτοῦ, καὶ ἐπέστρεψεν αὐτὸν
+εἰς Ἱερουσαλὴμ ἐπὶ τὴν βασιλείαν αὐτοῦ. Καὶ ἔγνω
+Μανασλῆς, ὅτι Κύριος αὐτός ἐστι Θεὸς μόνος, καὶ
+ἐλάτρευσεν μόνη Κυρίῳ τῷ Θεῷ ἐν ὅλῃ καρδίᾳ αὐ-
+τοῦ, καὶ ἐν ὅλῃ τῇ ψυχῇ αὐτοῦ, πάσας τὰς ἡμέρας
+τῆς ζωῆς αὐτοῦ, καὶ ἐλογίσθη δίκαιος. Καὶ περιεῖλε
+τοὺς θεοὺς τοὺς ἀλλοτρίους, καὶ τὸ γλυπτὸν ἐξ οἴκου
+Κυρίου, καὶ πάντα τὰ θυσιαστήρια ἃ ᾠκοδόμησεν ἐν
+οἴκῳ (34) Κυρίου, καὶ πάντα τὰ θυσιαστήρια τὰ ἐν
+Ἱερουσαλὴμ, καὶ ἐξέβαλεν ἔξω τῆς πόλεως, καὶ κατ-
+ώρθωσε τὸ θυσιαστήριον, καὶ ἐθυσίασεν ἐπ’ αὐτὸ
+θυσίαν σωτηρίου καὶ αἰνέσεως. Καὶ εἶπε Μανασσῆς
+
+# block=1
+nis virtus cælorum; et tua est gloria, in sæcula.
+Amen. Et audivit Dominus vocem illius, ac mise-
+ratus est eum : et orta est circa ipsum flamma
+ignis; et liquefacta sunt omnia vincula ferrea, quæ
+circum eum : et sanavit Dominus Manassem ex
+afflictione ejus; et reduxit eum Hierosolymam ad
+regnum ipsius. Et cognovit Manasses, quia Domi-
+nus ipse est Deus solus; et servivit soli Domino
+Deo, ex toto corde suo, et ex tota anima sua, per
+omnes dies vitæ suæ; et reputatus est justus. Et
+abstulit deos alienos, et sculptile de domo Domini,
+et omnia altaria quæ ædificaverat in domo Domini,
+et omnia altaria quæ in Hierosolymis, et projecit
+extra civitatem; et instauravit altare, et super il-
+lud sacrificavit sacrificium salutaris et laudis. Et
+dixit Manasses ad Judam, ut serviret Domino Deo
+Israel. Et dormivit in pace cum patribus suis. Et
+regnavit Amon filius ejus pro eo : fecitque malum
+in conspectu Domini, secundum omnia quæ fece-
+rat pater ejus in principio ; et irritavit Dominum
+Deum suum. › Audistis, filii nobis charissimi ,
+quemadmodum Dominus Deus eum qui idolis ad-
+hæserat, et multos insontes interemerat, leviter
+castigatum jamque resipiscentem susceperit, dimis-
+sisque illi peccatis in regnum restituerit. Non modo
+enim pœnitentiam agentibus concedit veniam, sed
+et eos ad pristinam dignitatem revocat.
+
+# block=3
+τῷ Ἰούδᾳ, τοῦ δουλεύειν Κυρίῳ τῷ Θεῷ Ἰσραήλ. Καὶ ἐκοιμήθη ἐν εἰρήνῃ μετὰ τῶν πατέρων αὐτοῦ. Καὶ
+ἐβασίλευσεν Ἀμὼν ὁ υἱὸς αὐτοῦ ἀντ’ αὐτοῦ· καὶ ἐποίησε τὸ πονηρὸν ἐνώπιον Κυρίου, κατὰ πάντα ὅσα ἐποίησε
+Μανασλῆς ὁ πατὴρ αὐτοῦ ἐν πρώτοις, καὶ παρώξυνε Κύριον τὸν Θεὸν αὐτοῦ. › Ἠκούσατε, τέκνα ποθητὰ
+ἡμῶν, ὅπως Κύριος ὁ Θεὸς εἰδώλοις (35) προσανασχόντα καὶ πολλοὺς ἀθῴους φονεύσαντα, βραχέως τι-
+μωρησάμενος, μεταγνόντα προσελάβετο, καὶ ἀφεὶς αὐτῷ τὰ πλημμελήματα, ἐπέστρεψεν αὐτὸν περὶ ⁷⁴ (36)
+τὴν βασιλείαν. Οὐ μόνον γὰρ ἀφίησι τοῖς μετανοοῦσιν, ἀλλὰ καὶ εἰς τὴν προτέραν ἀξίαν αὐτοὺς ἐπανάγει.
+
+# block=7
+CAPUT XXIII.
+In eos qui ex contemptu peccant, exemplum sit
+Amon.
+
+# block=13
+ΚΕΦΑΛΑΙΟΝ ΚΓ′.
+
+# block=10
+Πρὸς τοὺς ἐκ καταφρονήσεως ἀμαρτάνοντας
+ἔστω παράδειγμα Ἀμών (37).
+
+# block=6
+Gravius delictum idololatria non reperitur : est
+enim in Deum impietas : nihilominus tamen et il-
+
+# block=8
+Μείζων εἰδωλολατρείας οὐκ ἔστιν ἁμαρτία· εἰς Θεὸν
+γάρ ἐστι δυσσέβεια· ἀλλ’ ὅμως καὶ αὐτὴ διὰ γνη-
+
+# block=19
+⁷⁴ al. εἰς.
+
+# block=17
+VARIORUM NOTÆ.
+
+# block=14
+suis, Georgium Syncellum in Chronographia, et
+Suidam in Lexico. Cernet figmenti vices, ac tan-
+tum non taurum Phalaridis. Enim vero post hæc
+scripta venit in manus meas S. Gregorii Nazian-
+zeni codex ms. optimæ notæ ac venerandæ anti-
+quitatis, qui ditissimam magni regis Bibliothecam
+ditiorem facit; estque octingentorum fere anno-
+rum; scriptus magna arte temporibus Leonis im-
+peratoris, filii Basilii Macedonis et Eudociæ Au-
+gustæ, quorum icones principio exhibet, ut et
+Alexandri fratris Leonis. In quo codice circa finem,
+non sine voluptate vidi figuram Manassis regis in
+tauro æneo positi. COT.
+(34) Ἐν οἴκῳ. Alter Vind. ἐν ὄρει οἴκου, deletis
+quinque seqq. vocibus. CLER.
+(35) Εἰδώλοις. Ambu cod. τοῖς εἰδώλοις. ID.
+(36) Περί. Melius cod. Vindob. ἐπí. ID.
+(37) Ἀμών. Additur in altero cod.: Καὶ ὅτι χεί-
+ρων εἰδωλολατρείας οὐκ ἔστιν ἁμαρτία : nec ullum
+peccatum esse idololatria deterius. ID.
+
+# block=5
+(29) Ἀλλ’. Omissum in altero Vind. nec ejusmodi
+precum stylus omitti conjunctiones vetat. CLER.
+(30) Ἄνες μοι, Κύριε, ἄνες μοι. De hoc loco
+videnda homilia 2 Ceramei Theophanis. COT.
+(31) Τήν. Alter codex habet τὴν πᾶσαν, quod est
+ἐμφατικώτερον. CLER.
+(32) Σώσεις με. Sic habet alter codex Vind.
+ID.
+
+# block=2
+(33) Καὶ ἐγένετο περὶ αὐτὸν φλὸξ πυρός. Ut
+mendacia instabilitate ac portentis gaudent, variis
+mirişque modis narratur Manassis liberatio, contra
+simplicitatem divinæ Scripturæ, et auctoritatem
+Josephi Historici. Non juvat fabulatorum verba
+transcribere. Legat qui tempus et operam perdere
+volet, præter Damascenum ex Africano, et aucto-
+rem Operis imperfecti, paucis ab hinc notis citatos,
+quæstiones seu traditiones Hebraicas in II Parali-
+pomenon quæ cum Hieronymo excuduntur, Ana-
+stasium Sinaitam homilia in psalmum VI, laudato-
+remque ac sectatorem illius Glycam in Annalibus
+
+# block=20
+21
+
+# block=16
+PATROL. GR. I.

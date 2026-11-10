@@ -1,0 +1,235 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,250,130,1789,474
+2,242,1836,743,2572
+3,1288,1840,1781,2711
+4,1039,729,1785,1027
+5,766,1838,1262,2711
+6,243,731,997,988
+7,239,1171,738,1733
+8,1041,535,1790,658
+9,1289,1164,1784,1770
+10,785,73,1253,111
+11,763,1128,1287,1773
+12,356,1800,613,1835
+13,423,676,1516,713
+14,679,491,1371,527
+15,810,1802,1226,1838
+16,1415,1806,1661,1840
+17,982,1070,1032,1107
+18,245,537,1001,661
+19,1418,1120,1670,1156
+20,253,79,288,115
+21,1736,68,1804,120
+22,338,1108,628,1164
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=16px
+# block=21 fontSize=16px
+# block=22 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=21
+38
+
+# block=10
+AD S. CLEMENTEM I PAPAM
+
+# block=20
+35
+
+# block=1
+quisquam transire ad nos ; quos et ipsos mundos appellavit, cum ait: Oceanus intransmeabilis est homi-
+nibus, et hi qui trans ipsum sunt mundi, qui his eisdem dominatoris Dei dispositionibus gubernantur. Pau-
+cisque interjectis.... Ex his tamen quæ Clemens visus est indicare cum dicit : Oceanus qui intransmea-
+bilis est hominibus, et hi mundi qui post ipsum sunt: qui post ipsum sunt mundos pluraliter nominans,
+quos et eadem Dei providentia agi regique significat, semina quædam nobis hujusmodi intelligentiæ vi-
+detur aspergere, quo putetur omnis quidem universitas eorum quæ sunt atque subsistunt, cœlestium et
+supercœlestium, terrenorum infernorumque, unus et perfectus mundus generaliter dici: intra quem vel
+a quo (si qui illi sunt) putandi sunt contineri. Epist. I, cap. 20.
+
+# block=14
+IDEM, in Ezechiel., cap. 8, tom. III, pag. 422, A.
+
+# block=8
+Dicit quoque Clemens : Oceanus impermeabilis
+hominibus, et qui post eum mundi, tantis Domini or-
+dinationibus gubernantur. Epist. I, cap. 20.
+
+# block=18
+Φησὶ δὲ ὁ Κλήμης · Ὠκεανὸς ἀπέρατος ἀνθρώποις,
+καὶ οἱ μετ' αὐτὸν κόσμοι τοσαύταις διαταγαῖς τοῦ
+Δεσπότου διοικεῖνται.
+
+# block=13
+IDEM, in Joan., tom. IX. part. II, pag. 143, edit. Huet. Colon., 1685.
+
+# block=4
+Relatum autem atque testatum apud gentes est,
+multos cum pestilentes morbi grassarentur, se ip-
+sos ut victimas pro patria tradidisse : atque hæc
+ita evenisse admittit non sine causa, historiis cre-
+dens Clemens ille fidelis, cui testimonium perhibet
+Paulus dicens : Cum Clemente , etc. Epist. I,
+cap. 55.
+
+# block=6
+Μεμαρτύρηται δὲ καὶ παρὰ τοῖς ἔθνεσιν, ὅτι πολ-
+λοί τινες λοιμικῶν ἐνσκηψάντων νοσημάτων ἑαυτοὺς
+σφάγια ὑπὲρ τοῦ κοινοῦ παραδεδώκασι · καὶ παραδέ-
+χεται ταῦθ' οὕτως γεγονέναι οὐκ ἀλόγως πιστεύσας
+ταῖς ἱστορίαις ὁ πιστὸς Κλήμης, ὑπὸ Παύλου μαρτυ-
+ρούμενος, λέγοντος · Μετὰ Κλήμεντος, κ. τ. λ.
+
+# block=17
+IV.
+
+# block=22
+Rufino interprete.
+
+# block=19
+Vulesio interprete.
+
+# block=11
+EUSEBIUS, Hist. eccl., lib. III, cap. 16
+Τούτου δὴ οὖν τοῦ Κλήμεντος
+ὁμολογουμένη μία ἐπιστολὴ φέρε-
+ται, μεγάλη τε καὶ θαυμασία, ἣν
+ὡς ἀπὸ τῆς Ῥωμαίων Ἐκκλησίας
+τῇ Κορινθίων διετετυπώσατο, στά-
+σεως τηνικάδε κατά τὴν Κόρινθον
+γενομένης. Ταύτην δὲ καὶ ἐν πλεί-
+σταις Ἐκκλησίαις ἐπὶ τοῦ κοινοῦ δε-
+δημοσιευμένην πάλαι τε καὶ καθ’
+ἡμᾶς αὐτοὺς ἔγνωμεν. Καὶ ὅτι γε
+κατὰ τὸν δηλούμενον, τὰ τῆς Κο-
+ρινθίων κεκίνητο στάσεως, ἀξιό-
+χρεως μάρτυς ὁ Ἡγήσιππος. Lege
+NICEPHORUM, lib. III, cap. 16.
+
+# block=9
+Hujus igitur Clementis exstat
+epistola uno consensu recepta,
+eximia prorsus atque mirabilis,
+quam nomine Ecclesiæ Romanæ
+ad Corinthiorum Ecclesiam scrip-
+sit, cum apud eos gravis esset
+exorta dissensio. Hanc in pleris-
+que Ecclesiis et nostra et supé-
+riori memoria palam recitari con-
+suevisse comperimus. Porro su-
+pradicti Clementis tempore sedi-
+tionem inter Corinthios esse con-
+notam locupletissimus testis est
+Hegesippus.
+
+# block=7
+Hujus Clementis epistola habe-
+tur ad Corinthios scripta, præci-
+pua plane et valde mirabilis :
+quam velut ex persona Romanæ
+Ecclesiæ dictavit, cum dissensio
+apud Corinthios fuisset exorta.
+Quam epistolam in plurimis Ec-
+clesiis publice legi, et veterum et
+nostris etiam temporibus constat.
+Verum de seditione facta apud
+Corinthios ac dissensione plebis,
+testis valde fidelis Hegesippus
+indicat.
+
+# block=12
+Rufino interprete.
+
+# block=15
+IDEM, ibid., lib. III, cap. 38.
+
+# block=16
+Valesio interprete
+
+# block=2
+Clemens in epistola quam Co-
+rinthiis scribit, meminit Episto-
+læ Pauli ad Hebræos, et utitur
+ejus testimoniis. Unde constat,
+quod Apostolus tamquam Hebræis
+mittendam patrio eam sermone
+conscripserit, et ut quidam tra-
+dunt, Lucam evangelistam , alii
+autem hunc ipsum Clementem in-
+terpretatum esse. Quod et magis
+verum est, quia et stylus ipse
+epistolæ Clementis cum hac con-
+cordat, et sensus nimirum utrius-
+que Scripturæ plurimam similitu-
+dinem ferunt. Dicitur tamen esse
+et alia Clementis epistola, cujus
+nos notitiam non accepimus.
+
+# block=5
+Τοῦ Κλήμεντος ἐν τῇ ἀνωμολο-
+γημένῃ παρὰ πᾶσιν, ἣν ἐκ προσώ-
+που τῆς Ῥωμαίων Ἐκκλησίας τῇ
+Κορινθίων διετετυπώσατο. Ἐν ᾗ τῆς
+πρὸς Ἑβραίους πολλὰ νοήματα πα-
+ραθεὶς, ἤδη δὲ καὶ αὐτολεξεὶ ῥητοῖς
+τισιν ἐξ αὐτῆς χρησάμενος, σαφέ-
+στατα παρίστησιν ὅτι μὴ νέον ὑπάρχ-
+χει τὸ σύγγραμμα. Ὄθεν εἰκότως
+ἔδοξεν, αὐτὸ τοῖς λοιποῖς ἐγκατα-
+λεχθῆναι γράμμασι τοῦ Ἀποστό-
+λου. Ἑβραίοις γὰρ διὰ τῆς πατρίου
+γλώττης ἐγγράφως ὡμιληκότος τοῦ
+Παύλου, οἱ μὲν τὸν εὐαγγελιστὴν
+Λουκᾶν, οἱ δὲ τὸν Κλήμερτα τοῦτον
+αὐτὸν, ἑρμηνεῦσαι λέγουσι τὴν γρα-
+φήν. Ὃ καὶ μᾶλλον εἴη ἂν ἀληθὲς,
+τῷ τὸν ὅμοιον τῆς φράσεως χαρα-
+κτῆρα τήν τε τοῦ Κλήμεντος ἐπι-
+στολὴν, καὶ τὴν πρὸς Ἑβραίους
+
+# block=3
+Clementis illa (epistola) ab omni
+bus recepta, quam Ecclesiæ Ro-
+manæ nomine ad Corinthiorum
+Ecclesiam scripsit. In qua cum
+multas inserat sententias desump-
+tas ex Epistola ad Hebræos, iis-
+demque interdum verbis utatur,
+satis indicat opus illud nequa-
+quam recens esse. Quamobrem
+cum reliquis Apostoli scriptis non
+sine causa hoc etiam recensitum
+videtur. Cum enim ad Hebræos
+patrio sermone scripsisset Paulus,
+alii Lucam evangelistam, alii
+hunc de quo loquimur Clementem,
+Epistolam illam esse interpreta-
+tum ferunt. Quod quidem verius
+videtur, cum præsertim et Cle-
+mentis, et illa ad Hebræos Epistola
+eumdem habeant stylum, nec

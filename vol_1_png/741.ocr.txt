@@ -1,0 +1,194 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,180,392,936,2731
+2,224,255,1519,292
+3,767,328,1098,364
+5,969,387,1740,2696
+6,183,134,936,219
+7,603,81,1269,120
+8,973,132,1727,224
+9,1653,82,1721,120
+10,177,80,257,122
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+881
+
+# block=7
+CONSTITUTIONES APOSTOLICÆ.—LIB. V.
+
+# block=9
+882
+
+# block=8
+tum, sed quod illo solo jejunari oporteat, in quo
+scilicet Creator adhuc sub terra erat. ¹⁵ Dominum
+
+# block=6
+βατον νηστεύειν, κατάπαυσιν δημιουργίας ὑπάρχον,
+ἀλλ’ ὅτι ἐκεῖνο μόνον χρὴ νηστεύειν (5), τοῦ δη-
+
+# block=2
+¹⁵ Ignat. interpol. ad Trall. 9, ad Magn. 9; Pseudo-Ignat. ad Philipp. 13. Infra cap. 18.
+
+# block=3
+VARIORUM NOTÆ.
+
+# block=5
+At 134 et 195 Μαρκιωνιστῶν) ἤτοι Ἀκεφάλων, καθ’
+ὧν ἠγωνίσατο Κύριλλος Ἀλεξανδρείας, Φλαβιανὸς,
+καὶ Θεόδοτος Ἀντιοχείας, Λιτόϊος (Codex 195 Λη-
+τόϊος) Μελιτινῆς (mss. 195, 781. Μελιτηνῆς) καὶ Ἀμ-
+φιλόχιος Ἰκονίου · οἵτινες καὶ πεπραγμένα συνεστή-
+σαντο κατὰ (lib. 195 τὰ κατὰ) τῆς τοιαύτης αἱρέσεως.
+Quæ omnia eo etiam adduxi, quia postremis addu-
+cor, ut ejusdem tomi Combefisiani p. 305, in
+Joannis Nicæni epistola, ubi cum Jacobitis, Julia-
+nitis, Gaianitis, ac Severianis conjunguntur Ma-
+riani, existimem Marcianos substituendos esse : et
+quia per præcedentia confirmatur scriptura codicum
+Regiorum in epistola synodica Sophronii Hierosoly-
+mitani ad Sergium Constantinopolitanum : Λαμπέ-
+τιος ὁ τῆς δυσωνύμου τῶν Μαρκιανιστῶν (non Μαρ-
+κιωνιστῶν) αἱρέσεως ἔξαρχος. Secundo, facile tolle-
+tur per quemlibet qui animum adverterit, leve men-
+dum ex Humberti Sylvæ Candidæ (vel Friderici)
+diaconi et cancellarii, si fides Wiberto in Vita
+Leonis IX, lib. II, cap. 9) Responsione ad Nicetam
+Pectoratum, cum disputatur pro jejunio Sabba-
+torum apud Latinos contra unius solummodo
+Sabbati jejunium Græcorum. Hinc videamus si
+non estis Sabbatiani, quos commemorant Patres san-
+ctæ quintæ synodi. Nam quis nescit Sabbatianorum
+mentionem fieri in canone 7 synodi II, non autem
+in synodo V, notam vero numeri secundi duabus
+lineis certo modo distortis depictam, accedere
+proxime ad quinarii figuram ? Scilicet Sabbatiani
+Latinis Græci, et vicissim Græcis Latini : quemad-
+modum de ultimo fidem facit, præter anonymum
+scriptorem libri Περὶ τῶν Φραγκῶν καὶ τῶν λοιπῶν
+Λατίνων ab eruditissimo Combefisio citatum jam
+memorati tomi, p. 429, Matthæus Blastares in No-
+mecanone alphabetico litt. A, cap. 2 : Σαββατιανοὶ
+δὲ, ὧν ἡγήσατο Σαββάτιός τις πρεσβύτερος, τῆς αἱρέ-
+σεως μὲν κἀκεῖνος ὢν τοῦ Ναυάτου, τῇ δὲ περὶ τὰ
+χείρω φιλοτιμίᾳ καὶ Ἰουδαϊκῶς σαββατίζειν ᾑρέξτο,
+νηστείαν ἐν τούτῳ μετιὼν, καὶ τἄλλα παραπλησίως
+ἐκείνοις · καθὰ δὴ καὶ οἱ Λατῖνοι τανῦν. Sabbatlani
+autem. quibus præfuit Sabbatius quidam presbyter,
+ipse quoque ex hæresi Novati, qui que libidine in de-
+teriora, etiam Judæorum modo sabbatizare voluit,
+ea die jejunare affectans, et alia instar eorum fa-
+ciens : quemadmodum et nunc Latini. Tertio deni-
+que, σκάμμασι monstrum lectionis, in σάββασι mu-
+tari volo hocce in loco tractatus De hæresi Jacobi
+tarum et Chatzitzariorum, tomi sæpe dicti p. 268 :
+Οἱ αὐτοὶ δὲ καὶ πρὸ τῆς ἀπόκρεω, ἐπί τινας ἡμέρας
+νηστεύοντες, ἐν τοῖς σκάμμασι καὶ ταῖς Κυριακαῖς
+τῆς ἁγίας Τεσσαρακοστῆς, γάλα καὶ τυρὸν καὶ ᾠὸν
+ἐσθίουσιν. Res per se clara est. Atque ita liber Re-
+gis. Ecce tamen tibi locum geminum Nicephori
+Hist. eccl. lib. XVIII, cap. 53 : Καὶ ἐν τοῖς Σάββασι
+καὶ ταῖς Κυριακαῖς τῆς ἁγίας μεγάλης Τεσσαρακο-
+στῆς, γάλα καὶ τυρὸν καὶ ᾠὰ ἐσθίουσι. Cæterum ubi
+servasse mihi videor jocosam rem in Theodoro
+Balsamone ad canon. Trullanum 55. Homo Græcus
+rituum nostrorum imperitus, cum audiisset Latinos
+Sabbatis jejunare, διὰ τὴν εἰς τὸν ἅγιον τάφον τοῦ
+Κυρίου καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ ἀπέλευσιν,
+hoc est, ex sensu dicentium, propterea quod eo die
+Dominus et Servator noster Jesus Christus in se-
+pulcro fuerit; putavit jejunii rationem esse aditio-
+nem fidelium ad sanctum et Dominicum sepulcrum;
+notatque ideo, a se visos homines qui Hierosoly-
+mam non venerant, et tamen Sabbato jejunabant,
+item alios qui ad sepulcrum Domini accesserant,
+nec tamen observabant illud jejunium. Cot.
+
+# block=1
+(5) Ἐκεῖνο μόνον χρὴ νηστεύειν. Nullum mihi
+tempus, nulla lectori patientia sufficeret, si quæ ad
+jejunium Sabbati spectant pleraque omnia, hic ap-
+positum irem. Itaque pro more pauca duntaxat
+subjiciam, de quibusdam hac in re auctorum eccle-
+siasticorum locis depravatis, quo modo partim ope
+mss., partim ex conjectura vindicari queant a libra-
+riorum corruptelis, et ad primam veramque lectio-
+nem reduci, Primo, Anastasii verba, Quæstione 64,
+p. 424, sic se habent in ms. Regio quantivis pretii :
+Ὡς καί τινες πάλιν νηστεύουσι Τεσσαρακοστὴν ἐν
+Σαββάτῳ καὶ Κυριακῇ, κατὰ τὸ δόγμα τῶν λεγομένων
+Εὐσταθιανῶν, καὶ Μαρκιανιστῶν, καὶ Λαμπετιανῶν,
+καὶ Μασσαλιανῶν, τῶν ἐν Παφλαγονίᾳ ποτὲ ἀναφα-
+νέντων. Ediderunt Μαρκιωνιστῶν, Marcionistarum.
+Sed Μαρκιανιστῶν tuetur Maximus ad caput 6 libri
+De ecclesiastica hierarchia : Σημείωσαι, inquit, κατὰ
+Λαμπετιανῶν, ἤτοι Μεσσαλιανῶν, ἢ Ἀδελφιανῶν,
+ταὐτὸν δὲ εἰπεῖν Μαρκιανιστῶν. Item Timotheus
+presbyter CP. De iis qui ad fidem catholicam ac-
+cedunt, variis verbis, prout ille tractatus diverse
+exstat. Nam tomo VI Bibliothecæ Patrum, et apud
+Balsamonem legitur : Marcianistæ qui a Marciano
+Trapezita, Messaliani, qui etiam Euchitæ, et Enthu-
+siastæ, et Choreutæ, Lampetiani, Adelphiani, et Lu-
+stathiani. Quæ Græce continet Pandectes ms. Ni-
+conis monachi sermone seu capite 65, et ultimo :
+Μαρκιανισταὶ, οἱ ἀπὸ Μαρκιανοῦ τοῦ τραπεζίτου, καὶ
+Μεσσαλιανοὶ, καὶ Εὐτυχῖται ( malim Εὐχῖται ) καὶ
+Ἐνθουσιασταὶ, καὶ Χορευταὶ, καὶ Λαμπετιανοὶ, καὶ
+Ἀδελφιανοὶ, καὶ Εὐσταθιανοί. In Apparatu sacro
+Possevini : Marcianistæ, et Messaliani, et Euchitæ,
+et Enthusiastæ, et Adelphiani, et Eustathiani, sic
+vocati sunt, quia hæresis eorum fuit multiplicis
+nominis : vocati autem sunt Marcianistæ a Mar-
+ciano trapezita, qui fuit tempore Justiniani, et
+Justini junioris. Scripsit contra hæresim hanc multi
+nominis Cyrillus Alex., Flavianus et Theodotus epi-
+scopi Ant., Letoius Melitenes episcopus. Exemplari
+autem Regio 2336 : Μαρκιανισταὶ, καὶ Μεσσαλιανοὶ,
+καὶ Εὐτυχῖται, (melius Εὐχῖται), καὶ Ἐνθουσιασταὶ,
+καὶ Χορευταὶ, καὶ Λαμπετιανοὶ, καὶ Ἀδελφιανοὶ,
+καὶ Εὐσταθιανοί · οὕτως προσαγορευόμενοι, διὰ τὸ
+πολυώνυμον εἶναι τὴν αἵρεσιν. Ἐκλήθησαν δὲ Μαρ-
+κιανισταὶ, ὡς ἀπὸ Μαρκιανοῦ τοῦ τραπεζίτου, τοῦ ἐν
+χρόνοις γενομένου Ἰουστινιανοῦ, καὶ Ἰουστίνου τοῦ
+νέου. Ἠγωνίσατο δὲ ἐγγράφως κατὰ τῆς πολυωνύ-
+μου ταύτης αἱρέσεως, Κύριλλος ὁ τῆς Ἀλεξανδρείας
+ἀρχιεπίσκοπος, Φλαβιανὸς καὶ Θεόδοτος τῆς Ἀντιο-
+χέων πρόεδροι, Λιτόϊος Μελιτηνῆς ἐπίσκοπος, Ἀμ-
+φιλόχιος Ἰκονίου ἐπίσκοπος· οἵτινες καὶ πεπραγμένα
+συνεστήσαντο κατὰ τῆς τοιαύτης πολυκεφάλου καὶ
+πολυωνύμου τῶν Μαρκιανιστῶν αἱρέσεως. Hoc est,
+Marcianistæ, Messaliani, Euchitæ, Enthusiastæ,
+Choreutæ, Lampetiani, Adelphiani, et Eustathiani;
+ita appellati, eo quod multa nomina habeat illa hæ-
+resis. Vocati autem fuerunt Marcianistæ, a Marciano
+trapezita, qui vixit temporibus Justiniani, et Justini
+Junioris. Scriptis decertarunt adversus hanc multipli-
+cis nominis hæresim Cyrillus Alexandriæ archi-
+episcopus, Flavianus ac Theodotus Antiocheno-
+rum civitatis antistites, Letoius Melitenes et Amphi-
+lochius Iconii episcopi : qui et Acta confecerunt con-
+tra eam multicipitem atque multinominem Marciani-
+starum hæresim. Demum ex Nicephori patriarchæ
+Antirrhetico primo hæc profert vir doctissimus at-
+que sedulus mss. codicum indagator Franciscus
+Combefisius tom. II Auctarii, p. 461 : Ἐκ τῆς συγ-
+γραφῆς Τιμοθέου πρεσβυτέρου τῆς κατὰ Μαρκια-
+νιστῶν (sic recte in Bibliotheca Regia, codex 781;

@@ -1,0 +1,176 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,994,214,1730,377
+2,203,214,951,336
+3,188,1087,942,1732
+4,199,481,941,645
+5,207,2660,597,2754
+6,195,744,939,891
+7,295,1770,1625,1839
+8,970,1091,1740,1735
+10,676,409,1250,446
+11,986,484,1732,605
+12,183,1884,932,2095
+13,231,2579,472,2618
+14,638,1002,1266,1037
+15,551,2220,1344,2260
+16,539,682,1391,721
+17,178,2296,931,2550
+19,815,142,1100,178
+20,940,930,979,965
+21,965,1890,1719,2097
+22,205,86,263,121
+23,700,87,1191,125
+24,963,2300,1720,2556
+25,1649,86,1735,132
+26,975,760,1739,896
+27,913,2138,981,2188
+28,1493,2714,1561,2766
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=994 source_y1=214 source_x2=1730 source_y2=377
+Et Disputatio Petri et Apionis longo sermone
+conscripta, quam Eusebius in tertio Historiæ eccle-
+siasticæ volumine coarguit. Lege Fœculfum, tom. II,
+lib. 11, cap. 10.
+
+# block=2 source_x1=203 source_y1=214 source_x2=951 source_y2=336
+Καὶ Διάλογος Πέτρου καὶ Ἀπίωνος μακρῷ λόγῳ
+συνταγεῖσα, ἥν τινα Εὐσέβιος εὐθύνει, ἐν τῷ τρίτῳ
+τῆς Ἐκκλησιαστικῆς ἱστορίας τεύχει.
+
+# block=3 source_x1=188 source_y1=1087 source_x2=942 source_y2=1732
+Clemens, apostolorum discipulus, qui Romanæ
+Ecclesiæ post apostolos, et episcopus et martyr
+præfuit, libros edidit qui Græce appellantur ἀναγνω-
+ρισμὸς, id est Recognitio : in quibus, cum ex per-
+sona Petri apostoli doctrina quasi vere apostolica
+in quamplurimis exponatur, in aliquibus ita Euno-
+mii dogma scribitur (4) ut nihil aliud quam ipse
+Eunomius disputare credatur, Filium Dei creatum
+ex nullis exstantibus asseverans. Tum deinde etiam
+illud adulterii inseritur genus, ut naturam diaboli,
+cæterorumque dæmonum,non propositi voluntatis-
+que malitia, sed excepta ac separata creaturæ pro-
+duxerit qualitas; qui utique in cæteris omnem ra-
+tionabilem creaturam docuerat liberi arbitrii facul-
+tate donatam. Sunt etiam alia nonnulla libris ejus
+
+# block=4 source_x1=199 source_y1=481 source_x2=941 source_y2=645
+Possumus autem de Petro dicere, quod habuerit
+socrum eo tempore quo credidit, et uxorem jam
+non habuerit : quanquam legatur in Περιόδοις, et
+uxor ejus, et filia. Sed nunc nobis de canone omne
+
+# block=5 source_x1=207 source_y1=2660 source_x2=597 source_y2=2754
+(4) Scribitur. Al. inseritur.
+PATROL. GR. I.
+
+# block=6 source_x1=195 source_y1=744 source_x2=939 source_y2=891
+Non ut oculos, genas vultumque ejus (Petri Pau-
+lus) aspiceret : utrum macilentus, an pinguis, ad-
+unco naso esset, an recto : et utrum frontem vesti-
+
+# block=7 source_x1=295 source_y1=1770 source_x2=1625 source_y2=1839
+IDEM, in peroratione translationis suæ Explanationum Origenis in Epistolam ad Romanos.
+(Ex noviss. Origenis Opp. edit., tom. IV, pag. 689.)
+
+# block=8 source_x1=970 source_y1=1091 source_x2=1740 source_y2=1735
+inserta quæ ecclesiastica Regula omnino non reci-
+pit. Quid, quæso, de his sentiendum est? quod apo-
+stolicus vir, imo pene apostolus, non ea scribit quæ
+apostoli dicunt; cui Paulus apostolus testimonium
+dedit, dicens : Cum Clemente et adjutoribus meis
+cæteris, quorum nomina sunt in libro vitæ⁴³ ; et scri
+bat hoc quod libris vitæ contrarium est ? An id po-
+tius credendum est, quod supra diximus ; quod per-
+versi homines, ad assertionem dogmatum suorum,
+sub virorum sanctorum nomine, tanquam facilius
+credenda inseruerunt ea quæ illi nec sensisse , nec
+scripsisse credendi sunt. Lege Hieronymum, Apolo-
+giæ adversus Rufinum lib. II, cap. 4 ; et Præfatio-
+nem Rufini ad hos Recognitionum libros. Lege etiam
+Recognit., lib. III, cap. 8.
+
+# block=10 source_x1=676 source_y1=409 source_x2=1250 source_y2=446
+IDEM lib. 1 adversus Jovinianum, cap. 14
+
+# block=11 source_x1=986 source_y1=484 source_x2=1732 source_y2=605
+certamen est. In Recognitionibus, uxor Petri me-
+moratur lib. VII, cap. 25, 26, et lib. IX, cap. 38; fi-
+lia vero, nusquam.
+
+# block=12 source_x1=183 source_y1=1884 source_x2=932 source_y2=2095
+Post hoc sane vocat nos opus, quod olim quidem
+injunctum est, sed nunc a beato Gaudentio episcopo
+vehementius perurgetur ; Clementis, scilicet, Romani
+episcopi, apostolorum comitis ac successoris, de
+Recognitione libri, ut in Latinum vertantur. In quo
+
+# block=13 source_x1=231 source_y1=2579 source_x2=472 source_y2=2618
+⁴³ Philipp. IV, 3.
+
+# block=14 source_x1=638 source_y1=1002 source_x2=1266 source_y2=1037
+RUFINUS, De adulteratione librorum Origenis.
+
+# block=15 source_x1=551 source_y1=2220 source_x2=1344 source_y2=2260
+S. PAULINUS NOLANUS epistola 46 ad Rufinum, num. 2.
+
+# block=16 source_x1=539 source_y1=682 source_x2=1391 source_y2=721
+IDEM lib. 1 Commentariorum in Epistolam ad Galatas, 1, 18.
+
+# block=17 source_x1=178 source_y1=2296 source_x2=931 source_y2=2550
+Sane quod admonere dignaris affectu illo quo nos
+sicut te diligis, ut studium in Græcas litteras atten-
+tius sumam, libenter accipio ; sed implere non
+valeo : nisi forte desideria mea adjuvat Dominus,
+ut diutius consortio tuo perfruar. Nam quo modo
+profectum capere potero sermonis ignoti, si desit a
+
+# block=19 source_x1=815 source_y1=142 source_x2=1100 source_y2=178
+IDEM ibid., cap. 15.
+
+# block=20 source_x1=940 source_y1=930 source_x2=979 source_y2=965
+VI.
+
+# block=21 source_x1=965 source_y1=1890 source_x2=1719 source_y2=2097
+opere bene novi, quod laborem labor multiplicat ,
+si sortem suscipiat. Satisfaciam sane in eo amicis
+meis; dabo titulo nomen meum, auctoris nihilomi-
+nus vocabulo permanente. Nam Rufini Clemens scri-
+betur.
+
+# block=22 source_x1=205 source_y1=86 source_x2=263 source_y2=121
+1161
+
+# block=23 source_x1=700 source_y1=87 source_x2=1191 source_y2=125
+RECOGNITIONES. — PROŒMIA.
+
+# block=24 source_x1=963 source_y1=2300 source_x2=1720 source_y2=2556
+quo ignorata condiscam? Credo enim in transla-
+tione sancti Clementis, præter alias ingenii mei de-
+fectiones, hanc te potissimum imperitiæ meæ penu-
+riam considerasse, quod aliqua in quibus intelli-
+gere vel exprimere verba non potui, sensu potius
+apprehenso, vel (ut verius dicam) opinata transtule-
+
+# block=25 source_x1=1649 source_y1=86 source_x2=1735 source_y2=132
+1162
+
+# block=26 source_x1=975 source_y1=760 source_x2=1739 source_y2=896
+ret coma ; an, ut Clemens in Periodis ejus refert,
+calvitiem haberet in capite. Hoc nunc in Recognitio-
+nibus non invenitur.
+
+# block=27 source_x1=913 source_y1=2138 source_x2=981 source_y2=2188
+VII.
+
+# block=28 source_x1=1493 source_y1=2714 source_x2=1561 source_y2=2766
+37

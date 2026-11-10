@@ -1,0 +1,92 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,236,443,1137,2626
+2,1169,466,1789,1159
+3,1160,1170,1794,2639
+4,1370,377,1590,417
+6,244,167,1137,326
+8,328,2696,803,2743
+9,1171,154,1783,272
+10,241,88,317,132
+11,1721,102,1787,144
+12,675,88,1469,152
+13,527,352,849,418
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=6 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+447
+
+# block=12
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=11
+448
+
+# block=9
+bus, quorum contubernium nihil,
+nisi Dei timorem, redolebat.
+
+# block=4
+CAPUT XV.
+
+# block=2
+Et ne diutius sermonem protraha-
+mus, quid de Domino Jesu Christo
+scriptum est? Suos duodecim disci-
+pulos comites assiduos habuit, tem-
+pore manifestationis suæ in mundo.
+Imo, dum eos mitteret, jussit illos
+incedere binos et binos, viros scili-
+cet cum viris. Nullæ cum illis de-
+putantur mulieres ; et neque in via,
+neque domi, socias habent habita-
+tionis mulieres aut virgines. Sicque
+Deo per omnia placuerunt.
+
+# block=3
+De ipso Domino Jesu Christo scri-
+ptum est quod venientes discipuli,
+et videntes eum prope fontem seor-
+sim cum Samaritana sermocinan-
+tem, mirabantur quia cum muliere
+loquebatur ⁷³. Nunquid terminus
+ibi est dimovendus? Nunquid
+speculum et exemplar omnibus ex-
+hibetur generationibus? Insuper,
+postquam Dominus a mortuis sur-
+rexit, cum Maria ad sepulcrum pro-
+perasset, eumque adorans, ipsius
+pedes tenere voluisset : Noli, in-
+quit, me tangere : nondum enim as-
+cendi ad Patrem meum ⁷⁴. Quis non
+miretur Dominum qui impedit ne
+Maria, mulier sancta, pedes ipsius
+tangat? Et tu cum mulieribus et vir-
+ginibus habitares, ipsarum suscipe-
+res ministerium, somnum sub eo-
+dem tecto sumeres ! Ipsæ pedes tuos
+abluerent, ipsæ te ungerent !
+Væ illis qui sic inique sentiunt !
+Væ illis qui sic terrore carent !
+Væ præsumptioni ac imprudentiæ
+
+# block=8
+⁷³ Joan. iv, 27. ⁷⁴ Joan. xx, 17.

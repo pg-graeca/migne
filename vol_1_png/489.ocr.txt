@@ -1,0 +1,150 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,968,1375,1718,1893
+2,970,1111,1717,1365
+3,186,143,943,971
+4,970,806,1718,1099
+5,179,1595,929,1888
+6,976,149,1724,531
+7,973,541,1721,796
+8,183,979,930,1230
+9,179,1418,927,1585
+10,181,1242,927,1412
+11,632,89,1277,126
+13,1672,100,1723,136
+14,212,2007,1645,2056
+15,179,86,263,122
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=16px
+# block=13 fontSize=16px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+377
+
+# block=11
+EPISTOLÆ AD VIRGINES. — PROŒMIA.
+
+# block=13
+578
+
+# block=3
+Permisit Deus hæc monumenta a viris sedi apo-
+stolicæ hostilibus detegi et publicari, ut a sectariis
+minus impugnarentur, aut fraus Catholicis non
+imputaretur. Siluit generaliter hæresis de epistola
+a Junio Patricio inventa: nullusque, quod sciam,
+novator hujus authenticitatem aggressus est : vix
+enim, in hac Epistola, sanctus Pontifex delibaverat
+veritates hæresi odiosas. Dixi vix delibaverat quia
+non absolute de his omnibus tacuerat, ut jam alibi
+notatum est. Longe aliter se res habuit in episto-
+lis de virginitate tractantibus : Protestantes enim
+virginitatis osores, quasi unanimi voce contra au-
+thenticitatem earum insurrexerunt. Nec quisquam
+inde mirari debet : ‹ Omnes namque quærunt pla-
+centia; omnes ea audire gestiunt quæ habenas
+carni laxent, non quæ inducant conscientiæ custo-
+diendæ studium, religionis curam, Christianorum
+morum pondus. › Hæc Wicelius Senior qui
+optime noverat sectam quæ seduxerat illum ⁴³.
+
+# block=6
+Non nocebit inventor qui certe monumentum ipse
+non struxit quod tot ante illum sæculis existe-
+bat, sicut adhuc existit, antiquitatis suæ signa
+præferens. Imo quo magis suspectæ fidei inven-
+tor probabitur, eo clarius patebit inimicum
+dogmatum orthodoxorum, non sponte in eorum
+favorem tam splendidum protulisse fulcimentum.
+Nec illud exhibuit sine conviciis in Ecclesiam sibi
+invisam.
+
+# block=7
+Adnotator Epistolarum authenticitati non no-
+cet. Quilibet lector æstimare potuit valorem ob-
+jectationum illius, ac penetrare animum hostilem
+quo movebatur : Non enim cor ejus erat rectum
+coram Domino ⁴⁴, cum esset vesanæ philosophiæ
+labe infectum.
+
+# block=4
+Tandem inventionis ætas vix campum liberum
+relinquebat veræ eruditioni : hujus enim ætatis phi-
+losophia undique sannis ac dicteriis veritates etiam
+apertissimas audacter persequebatur. Ideo con-
+versum est retrorsum judicium, et justitia longe ste-
+tit et corruit in platea veritas et æquitas non potuit
+ingredi ⁴⁶.
+
+# block=8
+Certe si qualiscunque epistola, nomine sancti
+Clementis insignita, reperta fuisset, cujus interpres-
+tatio sensum præbuisset cœlibatui infensum, mille
+buccinatores adlaborassent, inter sectarios, ut eam
+superextollerent, ejusque authenticitatem asse-
+rerent.
+
+# block=2
+Hodie vero Ecclesia mater longis expleta fasti-
+diis contemptores suos contemptui traditos intue-
+tur. Ipsi jam comedunt fructus viæ suæ et suis con-
+siliis saturantur ⁴⁸. Si quædam adhuc remanent
+priscæ fraudis sectatores, ultra non proficient : in-
+sapientia enim eorum manifesta erit ⁴⁷.
+
+# block=10
+Id abunde probat testimonium quod sancto
+Paphnucio Socrates tam mendaciter imputat, tan-
+quam in ipso concilio Nicæno prolatum, quodque
+nunc tot probationibus falsum demonstratum est.
+
+# block=1
+Et nunc, divine Clemens, exsurge, et quasi de
+tenebris erumpe. Sonet iterum vox tua dulcis quæ
+prima virginitatis lilia immaculato et intacto splen-
+dore olim adornare gestiebat. Te perflante hortum
+Ecclesiæ, fluant aromata illius; novi semper ap-
+pareant flores in terra nostra. Hos flores protege,
+nunquam deficiant; nunquam marcescant. Sacer
+pontifex, virgo sacerdos, cœlestis rore doctrinæ
+pasce clericos; pasce presbyteros; pasce præsules;
+pasce candidas sponsas Christi, cui cum Patre et
+Spiritu sancto sit honor et gloria in sæcula sæcu-
+lorum. Amen.
+
+# block=9
+Nec negabo tria concurrisse, non ut pessumda-
+retur, sed ut differretur agnitio authenticitatis no-
+strarum Epistolarum: primo inventorem, secundo
+adnotatorem, tertio inventionis ætatem.
+
+# block=5
+Inventorem, qui apud suos etiám suspectæ admo-
+dum fidei erat; annotatorem, qui nomen habebat
+inter ultimi sæculi philosophos et in academia Ro-
+thomagensi ut oraculum audiebatur. Inventionis
+ætatem, quam vocare possemus incredulitatis æram.
+Hæc nunc prodesse, non nocere debent judicio
+eruditorum.
+
+# block=14
+⁴³ Epist. 8 Jun., 1533. ⁴⁴ Psal. LXXVII, 37. ⁴⁵ Isa. LIX, 14. ⁴⁶ Prov. I, 31. ⁴⁷ II Tim. III, 9.

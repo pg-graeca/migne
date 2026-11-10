@@ -1,0 +1,162 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,191,318,942,1002
+2,974,894,1719,1539
+3,960,1560,1715,2652
+4,973,151,1724,876
+5,183,1009,937,2513
+6,180,2654,1380,2712
+7,197,144,941,311
+8,180,2519,927,2648
+9,758,96,1154,132
+11,199,91,264,127
+12,1636,92,1726,138
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=191 source_y1=318 source_x2=942 source_y2=1002
+XXIV. Ad hæc Petrus : Attentius audite, o viri ,
+quæ dicimus. Ponamus mundum hunc campum
+esse aliquem magnum , et ex duabus civitatibus ,
+quarum reges sibi invicem sint contrarii, missos
+esse singulos ad dimicandum duces , et illum qui-
+dem boni regis ducem consilium dare , ut uterque
+exercitus absque sanguinis profusione , melioris in
+regis jura concedat, quo sine periculo omnes salvi
+fiant, illum vero contrarium dicere : Non, sed pu-
+gnetur, ut non qui dignus est , sed qui fortior ipse
+cum his qui evaserint regnet. Quæso vos, quid ma-
+gis eligeretis? Non dubito quin , ut cum incolumi-
+tate omnium , regi meliori manus darentur. Et ego
+nunc non, ut Simon ait, pacis causa assensum volo
+commodari his quæ male dicuntur, sed ut cum
+quiete et ordine veritas requiratur.
+
+# block=2 source_x1=974 source_y1=894 source_x2=1719 source_y2=1539
+XXVII. Ad hæc Petrus : Neque qui misit me male
+fecit gladium mittere in terram, neque ego contra-
+ria ei ago , auditorum pacem requirens. Sed tu et
+imperite et temere reprehendis ea quæ non intelli-
+gis; etenim quia pacem non venit mittere in terram
+magister, audisti, quod autem dixerit : Beati paci-
+fici, quoniam ipsi filii Dei vocabuntur ²⁷, non audisti.
+Propter quod non ego magistro diversa sentio, pa-
+cem persuadens, quam ille servantibus beatitudinem
+posuit. Et Simon ait : Pro magistro respondere cu-
+piens, o Petre, multo eum gravius accusasti, si cum
+ipse non venerit pacem facere , hanc aliis servare
+præceperit. Et quomodo alius ille ejus sermo con-
+stabit quem dixit? Quia sufficit discipulo, ut sit sicut
+magister ejus ²⁸.
+
+# block=3 source_x1=960 source_y1=1560 source_x2=1715 source_y2=2652
+XXVIII. Petrus ad hæc : Magister, inquit, noster,
+qui erat verus propheta et sui in omnibus memor,
+neque sibi contraria locutus est, neque nobis ab his
+quæ ipse gerebat diversa mandavit. Quod enim ait :
+Non veni pacem mittere in terram , sed gladium, et
+ex hoc videbitis separari patrem a filio , filium a pa-
+tre, virum ab uxore , et uxorem a viro, et matrem a
+filia, filiam a matre, fratrem a fratre, socrum a nuru,
+amicum ab amico ²⁹, hæc omnia continent doctrinam
+pacis, et quomodo , audi. Initio prædictionis suæ,
+utpote qui velit omnes invitare et adducere ad sa-
+lutem , ac patientiam laborum tentationumque ha-
+bendam suaderet, pauperes beatificabat, eosque
+pro penuriæ tolerantia adepturos esse pollicebatur
+regna cælorum , ut sub tanta spe æquanimiter
+paupertatis pondus, spreta cupiditate portarent. Est
+enim unum et maximum ex perniciosissimis pecca-
+tis, cupiditas. Sed et esurientes et sitientes æternis
+bonis justitiæ saturandos esse promisit , ut egesta-
+tem tolerabiliter ferentes, nihil pro hac injusti ope-
+ris molirentur. Mundos quoque corde similiter bea-
+tos dicebat , et per hoc Deum visuros, ut unus-
+quisque adipisci tantum cupiens bonum, semetipsum
+a pessimis et pollutis cogitationibus contineret.
+XXIX. Sic ergo magister noster discipulos ad
+
+# block=4 source_x1=973 source_y1=151 source_x2=1724 source_y2=876
+Intelligo versutias tuas; vis enim tibi ea ipse pro-
+ponere, quorum absolutio bene tibi meditata est,
+ut ignorantibus turbis videaris recte aliquid dicere;
+sed apud me non tibi erit horum locus. Nunc ergo,
+quoniam ut vir fortis polliceris , te omni volenti
+proponere responsurum , mihi interim primo re-
+spondeto. Et Petrus : Paratus, inquit, sum, tantum
+ut cum pace sit sermo. Tum Simon : Non vides,
+inquit, imperitissime, quod contraria agis magistro
+tuo, pacem deposcens, quod utique non convenit ei,
+qui expugnaturum se promittit ignorantiam? Aut si
+tu recte pacem ab auditoribus poscis, non recte
+magister tuus dixit : Quia non veni pacem mittere in
+terram , sed gladium ²⁶. Aut enim tu bene dicis, et
+ille non bene, aut si magister tuus bene, tu pessime,
+qui non intellexisti contraria te proferre ei, cujus
+te discipulum profiteris.
+
+# block=5 source_x1=183 source_y1=1009 source_x2=937 source_y2=2513
+XXV. Nonnulli enim in disputationum certamine
+ubi errorem suum senserint confutari , causa per-
+fugii conturbare continuo incipiunt, et movere lites,
+ne palam fiat omnibus quod superantur; et pro-
+pterea ego frequenter exoro, ut cum omni patientia
+et quiete indago disputationis habeatur, ut et si
+forte aliquid minus recte dictum videatur, repetere
+id et apertius liceat explanare. Solet enim interdum
+aliter dici quid et aliter audiri , dum aut minus lu-
+cide profertur, aut minus vigilanter advertitur, et
+ob hoc patienter cupio haberi sermonem, ut neque
+subripiat alter alteri , neque sermonem dicentis in-
+tempestivus sermo contradicentis interrumpat, ne-
+que reprehendendi studium geramus, sed liceat ut
+dixi , minus plane dicta repetere , ut examinatione
+justissima clarescat veritatis agnitio. Scire enim
+debemus, quia si quis a veritate vincatur, non ipse
+vincitur , sed ignorantia quæ in ipso est , quæ est
+dæmon pessimus, quam qui potuerit effugare , sa-
+lutis accipit palmam. Propositum namque nobis est
+prodesse auditoribus , non ut male vincamus, sed
+ut pro agnitione veritatis bene vincamur. Si enim
+veritatis inquirendæ studio sermo moveatur, etiamsi
+quid minus plane pro humana fragilitate dicemus,
+Deus pro ineffabili sua bonitate, ea quæ desunt la-
+tenter auditorum sensibus adimplebit. Justus est
+enim, et secundum uniuscujusque propositum, aliis
+quidem in promptu facit esse quod quæritur, aliis
+vero obscurum reddit, etiam quod palam positum est.
+Quia ergo via Dei, via pacis est, cum pace quæ Dei
+sunt requiramus. Ad hæc si quis habet quod pro-
+sequatur, locus est; si vero nullus est qui respon-
+dere velit, ego dicere incipiam, et quæ mihi ab
+alio possunt objici , ipse in medium prolata dis-
+solvam.
+
+# block=6 source_x1=180 source_y1=2654 source_x2=1380 source_y2=2712
+²⁶ Matth. x, 34.  ²⁷ Matth. v, 9.  ²⁸ Matth. x, 25.  ²⁹ Ibid. 34, 35; Luc. xii, 53.
+
+# block=7 source_x1=197 source_y1=144 source_x2=941 source_y2=311
+te volo, quia duobus inter se dimicantibus tunc erit
+pax, cum alter ceciderit superatus; et ideo pugna
+ut potes , nec requiras pacem sine bello , quod im-
+possibile est, aut si potest fieri, ostende.
+
+# block=8 source_x1=180 source_y1=2519 source_x2=927 source_y2=2648
+XXVI. Cum ergo Petrus cœpisset continuare
+sermonem , Simon interrupta oratione ejus : Cur,
+inquit , festinas ipse tibi dicere, quæ tibi videntur?
+
+# block=9 source_x1=758 source_y1=96 source_x2=1154 source_y2=132
+RECOGNITIONUM LIB. II.
+
+# block=11 source_x1=199 source_y1=91 source_x2=264 source_y2=127
+1261
+
+# block=12 source_x1=1636 source_y1=92 source_x2=1726 source_y2=138
+1262

@@ -1,0 +1,118 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,473,2035,1505,2070
+2,991,157,1762,1108
+3,206,154,962,1119
+4,1002,1428,1760,1762
+5,585,98,1316,136
+6,828,1353,1134,1388
+7,243,1245,1613,1293
+8,552,1924,1421,2000
+10,199,90,305,136
+11,1665,96,1759,148
+12,205,1120,1519,1162
+13,201,1416,969,1778
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=473 source_y1=2035 source_x2=1505 source_y2=2070
+(Vide Conciliorum Collectionem, nostræ editionis tom. I. EDIT. PATR.)
+
+# block=2 source_x1=991 source_y1=157 source_x2=1762 source_y2=1108
+ἡμῶν κατὰ τὴν πρὸς Θεὸν εὔνοιαν· ὃς τοσοῦτον τὴν
+θεοσέβειαν τῇ πίστει ἐνεδείξατο, καὶ τὴν εἰς τὸν Κύ-
+ριον ἡμῶν Ἰησοῦν Χριστὸν ἀγάπην, ὡς ὑπὲρ αὐτοῦ
+δοῦναι καὶ τὴν ψυχήν, πρὸς τῶν κυριοκτόνων Ἰου-
+δαίων λίθοις βληθείς. Ἀλλ' ὅμως ὁ τοιοῦτος καὶ τη-
+λικοῦτος ἀνήρ, ὁ τῷ πνεύματι ζέων, ὁ τὸν Χριστὸν
+ὁρῶν ἐκ δεξιῶν τοῦ Θεοῦ καὶ τὰς οὐρανίας πύλας
+ἀνεῳγμένας, οὐδαμοῦ φαίνεται τοῦς μὴ ἀνήκουσι τῇ
+διακονίᾳ χρησάμενος, ἢ θυσίαν ἀνενεγκών, ἢ χεῖρας
+ἐπιθεὶς τινι, ἀλλὰ τὸ τῆς διακονίας τάγμα φυλάξας
+μέχρι τέλους· οὕτω γὰρ ἔπρεπε τῷ τοῦ Χριστοῦ
+μάρτυρι, τὴν εὐταξίαν ἀποσώζειν. Εἰ δὲ Φίλιππον (99)
+τὸν διάκονον ἡμῶν καὶ Ἀνανίαν τὸν πιστὸν ἀδελ-
+φὸν (100) αἰτιῶνταί τινες, ὅτι ὁ μὲν τὸν εὐνοῦχον
+ἐβάπτισεν, ὁ δὲ ἐμὲ Παῦλον· ἀγνοοῦσιν αὐτοῖ, ὃ λέγο-
+μεν ἡμεῖς· εἴπομεν γὰρ ὅτι οὐχ ἑαυτῷ τις ἁρπάζει τὸ
+ἱερατικὸν ἀξίωμα, ἀλλ' ἢ παρὰ τοῦ Θεοῦ λαμβάνει,
+ὡς Μελχισεδέκ, καὶ Ἰώβ, ἢ παρὰ ἀρχιερέως, ὡς
+Ἀαρὼν παρὰ Μωϋσέως· οὐκοῦν καὶ Φίλιππος καὶ
+Ἀνανίας οὐχ ἑαυτοὺς προείλοντο, ἀλλ' ὑπὸ τοῦ Χρι-
+στοῦ προεχειρίσθησαν τοῦ ἀρχιερέως, τοῦ ἀσυγκρί-
+του Θεοῦ (1).
+
+# block=3 source_x1=206 source_y1=154 source_x2=962 source_y2=1119
+incruentum, elegimus episcopos, et presbyteros, et
+diaconos numero septem. Ex his septem unus erat
+Stephanus beatus martyr ⁴⁰, in amore erga Deum
+nobis nequaquam inferior; qui adeo in Deum
+pietatem fide ostendit et charitatem in Dominum
+nostrum Jesum Christum, ut pro eo animam quo-
+que daret, a Judæis Domini interfectoribus jactu
+lapidum occisus. ⁴¹ Verumtamen talis ac tantus vir,
+qui spiritu fervebat, qui Christum a dextris Dei
+et cœlestes januas apertas vidit; nusquam cerni-
+tur iis usus esse, quæ ad diaconorum ministerium
+non pertinent, vel sacrificium offerendo, vel manus
+alicui imponendo; sed diaconi ordinem usque ad
+finem custodisse: ita quippe decebat Christi mar-
+tyrem, ordinem ac disciplinam servare. Si vero
+Philippum diaconum, et Ananiam fidelem fratrem
+quidam causantur ⁴²; quod ille quidem eunuchum
+baptizavit, hic vero me Paulum; ii non intelligunt
+quod dicimus : siquidem inquimus, neminem sibi
+rapere sacerdotalem dignitatem; sed vel a Deo ac-
+cipere, ut Melchisedecus et Jobus; vel a pontifice,
+ut Aaron a Mose: igitur etiam Philippus et Ana-
+
+# block=4 source_x1=1002 source_y1=1428 source_x2=1760 source_y2=1762
+Κανόσι. Et iste Ananias erat diaconus, quemadmo-
+dum ipse Paulus testatur in Canonibus. Verum id
+nequaquam dicit Constitutio. COT.
+   (1) Τοῦ ἀσυγκρίτου Θεοῦ. Potest etiam aliter
+verti, tollendo virgulam præcedentem. Id. — Sic
+debet verti : A Christo Pont. Maximo Dei nulli æqui-
+parandi, vel cum quo nullus conferri queat. Hæc
+enim fuit Arianorum sententia, quam auctor, larva
+apostolorum tectus, caute Constitutionibus inserit.
+CLER.
+
+# block=5 source_x1=585 source_y1=98 source_x2=1316 source_y2=136
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=6 source_x1=828 source_y1=1353 source_x2=1134 source_y2=1388
+VARIORUM NOTÆ.
+
+# block=7 source_x1=243 source_y1=1245 source_x2=1613 source_y2=1293
+⁴⁰ Act. VI, VII.   ⁴¹ 1. Ignat. interpol. ad Trall. 11; pseudo-Ignat. ad Tars. 3   ⁴² Act. VIII, IX.
+
+# block=8 source_x1=552 source_y1=1924 source_x2=1421 source_y2=2000
+CANONES APOSTOLICI.
+
+# block=10 source_x1=199 source_y1=90 source_x2=305 source_y2=136
+1155
+
+# block=11 source_x1=1665 source_y1=96 source_x2=1759 source_y2=148
+1156
+
+# block=12 source_x1=205 source_y1=1120 source_x2=1519 source_y2=1162
+nias non seipsos constituerunt, sed electi sunt a Christo pontifice, Deo incomparabili.
+
+# block=13 source_x1=201 source_y1=1416 source_x2=969 source_y2=1778
+   (99) Φίλιππον. In margine cod. Vindobon. legi-
+tur hoc Scholion : Ὅτι ὁ βαπτίσας τὸν εὐνοῦχον
+Aἰθίοπα οὐκ ἦν ἀπόστολος Φίλιππος, ἀλλ' εἷς τῶν
+μετὰ τοῦ ἁγίου Στεφάνου προχειρισθέντων εἰς δια-
+κόνους, ἥτινι ἦσαν τέσσαρες θυγατέρες, ὥς φησι
+Λουκᾶς ἐν ταῖς Πράξεσι. CLER.
+   (100) Ἀνανίαν τὸν πιστὸν ἀδελφόν. Hunc lo-
+cum sic interpretatur Œcumenius ad Act. IX, 10,
+quasi Ananias fuerit diaconus : Καὶ οὗτος ὁ Ἀνα-
+νίας διάκονος ἦν, ὡς αὐτὸς Παῦλος μαρτυρεῖ ἐν τοῖς

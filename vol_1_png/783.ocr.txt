@@ -1,0 +1,162 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,963,160,1727,1920
+2,188,161,937,1931
+4,188,2155,945,2376
+5,183,1949,1720,2021
+7,814,2066,1113,2100
+8,191,2372,936,2708
+9,606,104,1308,145
+12,195,100,246,147
+15,1658,111,1715,145
+16,961,2129,1717,2701
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=963 source_y1=160 source_x2=1727 source_y2=1920
+liberæ ⁹¹. Non enim sacrificiis eget Deus, qui na-
+tura sua nullius rei est indiguus; sed cum sciret
+quod jam antea Dei amans Abel, et Noe, et Abra-
+ham, et alii deinceps, non jussi, sed naturali lege
+moti, sponte Deo obtulerant sacrificium ex grato
+animo; eodem modo et nunc id permittit Hebræis;
+non præcipiens, sed si voluerint, concedens; at-
+que si recto animo obtulerint, acceptans eorum sa-
+crificia. Ideo ait : Si sacrificare cupis, mihi non in-
+digenti sacrificia; in nullius quippe rei inopia sum
+constitutus : « Mens enim est orbis terræ, et pleni-
+tudo ejus ⁹². » Postquam vero hujus rei immemor
+fuit populus; et pro Deo vitulum vocaverunt Deum,
+eique causam egressionis ex Ægypto ascripse-
+runt, dicentes : « Hi dii tui, Israel, qui te eduxe-
+runt de terra Ægypti ⁹³; » et impie adorato simu-
+lacro vituli fænum comedentis, negaverunt Deum,
+qui per Mosem eos, dum affligerentur, visitaverat ⁹⁴;
+qui signa in manu et virga ediderat, ac Ægyptios
+plagis decem percusserat; qui mare Rubrum divise-
+rat in aquarum divisiones; qui eos traduxerat per
+medium undæ, ut equum in campo; qui hostes eo-
+rum ac insidiatores demerserat; qui in Mara fon-
+tem amarum effecerat dulcem; qui ex petra dura
+aquam ad satietatem elicuerat; qui per columnam
+nubis eos a nimio æstu protexerat, et per columnam
+ignis illuminaverat, nescientesque quo proficisce-
+rentur, deduxerat; qui mannam ex cælo ipsis de-
+derat, et ex mari carnem seu ortygometram præ-
+buerat ⁹⁵; qui in monte legem illis tulerat ⁹⁶; cujus
+vocem audire digni facti fuerant : hunc postquam
+abnegarunt, dicentes Aaroni : « Fac nobis deos,
+qui præcedent nos ⁹⁷; » et fecerunt vitulum confla-
+tilem, et idolo sacrificaverunt : tunc iratus Deus,
+quod, nempe, ab iis gratiam non ferret, ligavit eos
+vinculis insolubilibus, oppressione oneris, et duri-
+tia catenæ; neque amplius dixit : «Si autem feceris;»
+sed : « Fac altare, et sacrifica continue ⁹⁸, » oblivio-
+sus enim es ac ingratus; offer igitur assidue holo-
+caustum, ut memineris mei : quia enim libera po-
+testate male abusus es, impono tibi posthac neces-
+
+# block=2 source_x1=188 source_y1=161 source_x2=937 source_y2=1931
+Οὐ γὰρ θυσιῶν δέεται Θεὸς, ἀνενδεὴς ὑπάρχων τῇ φύ-
+σει· ἀλλὰ γινώσκων, καθάπερ καὶ ἤδη (20) πρότερον
+τὸν φιλόθεον Ἄβελ, καὶ Νῶε (21), καὶ Ἀβραὰμ, καὶ
+τοὺς καθεξῆς, οὐκ αἰτηθέντας, φυσικῷ δὲ νόμῳ κι-
+νηθέντας ἀφ’ ἑαυτῶν, προσενέγκαι θυσίαν Θεῷ ἀπὸ
+γνώμης εὐχαρίστου, ἐπιτρέπει καὶ νῦν Ἑβραίοις, οὐ
+προστάσσων, ἀλλ’ εἰ βουληθῶσι, συγχωρῶν, καὶ εἰ
+ἀπὸ ὀρθῆς προσοίσωσι (22) γνώμης, εὐδοκῶν ἐπὶ
+ταῖς θυσίαις αὐτῶν. Διὰ τοῦτό φησιν· Εἰ θύειν (23)
+ἐπιθυμεῖς, οὐ δεομένῳ μοι θύε· οὐδενὸς γὰρ ἐν χρείᾳ
+καθέστηκα· « Ἐμὴ γάρ ἐστιν ἡ οἰκουμένη καὶ τὸ
+πλήρωμα αὐτῆς. » Ὁπότε δὲ οἱ τοῦ λαοῦ τούτου
+(24) ἀμνήμονες ὑπῆρξαν, καὶ μόσχον ἀντὶ Θεοῦ θεὸν
+ἐπεκαλέσαντο, καὶ τούτῳ τὴν αἰτίαν τῆς ἐξ Αἰγύπτου
+πορείας ἐπέγραψαν, λέγοντες· « Οὗτοι οἱ θεοί σου,
+Ἰσραὴλ, οἳ ἐξαγαγόντες σε ἐκ γῆς Αἰγύπτου· » καὶ
+δυσσεβήσαντες εἰς ὁμοίωμα μόσχου ἐσθίοντος χόρτον,
+ἐπηρνήσαντο (25) Θεὸν, τὸν διὰ Μωσέως ἐπισκεψά-
+μενον αὐτοὺς ἐν τῇ θλίψει αὐτῶν· τὸν τὰ σημεῖα ἐπὶ
+χειρὸς καὶ ῥάβδου ποιησάμενον, καὶ τοὺς Αἰγυπτίους
+δεκαπλήγῳ πατάξαντα· τὸν τὴν Ἐρυθρὰν διελόντα θά-
+λασσαν εἰς διαιρέσεις ὑδάτων· τὸν διαγαγόντα αὐτοὺς
+ἐν μέσῳ ὕδατος, ὡς ἵππον ἐν πεδίῳ· τὸν τοὺς ἐχθροὺς
+αὐτῶν καὶ ἐπιβούλους βυθίσαντα· τὸν εἰς Μερρὰν (26)
+τὴν πικρὰν πηγὴν γλυκάναντα· τὸν ἐκ πέτρας ἀκρο-
+τόμου καταγαγόντα ὕδωρ εἰς πλησμονήν· τὸν στύλῳ
+νεφέλης καὶ στύλῳ πυρὸς σκιάζοντα αὐτοῖς διὰ θάλ-
+πος ἄμετρον, καὶ φωτίζοντα καὶ ὁδηγοῦντα τοὺς οὐκ
+εἰδότας ὅπου πορευθῶσι· τὸν ἐξ οὐρανοῦ μαννοδοτή-
+σαντα αὐτοῖς, καὶ ἐκ θαλάσσης κρεωδοτήσαντα ὀρτυ-
+γομήτραν· τὸν ἐν τῷ ὄρει νομοθετήσαντα αὐτοῖς· οὗ
+τῆς φωνῆς ἠξιώθησαν ἐπακοῦσαι· τοῦτον ἀπηρνή-
+σαντο, εἰπόντες τῷ Ἀαρών· « Ποίησον ἡμῖν θεοὺς,
+οἳ προπορεύσονται ἡμῶν· » καὶ ἐμοσχοποίησαν χω-
+νευτὸν, καὶ ἔθυσαν τῷ εἰδώλῳ· τότε (27) ὀργισθεὶς ὁ
+Θεὸς, ἅτε ἀχαριστηθεὶς ὑπ’ αὐτῶν, ἔδησεν αὐτοὺς
+δεσμοῖς ἀλύτοις ⁹⁸, στιβώσει (28) φορτισμοῦ, καὶ
+σκληρότητι κλοιοῦ· καὶ οὐκέτι εἶπεν· Ἐὰν δὲ ποιῇς,
+ἀλλὰ, « Ποίησον θυσιαστήριον, καὶ θύε διηνεκῶς· »
+ἐπιλήσμων γὰρ τυγχάνεις καὶ ἀχάριστος. Ὁλοκαύτε
+οὖν συνεχῶς, ἵν’ ὑπομιμνήσκῃς μου. Ἐπειδὴ γὰρ τῇ
+
+# block=4 source_x1=188 source_y1=2155 source_x2=945 source_y2=2376
+(20) Ἠδη. Hoet. cod. Vind. CLER.
+(21) Ἄβελ καὶ Νῶε. Nihil certius. Et tamen a
+Philastrio parte III, hæres. 62 scribitur : Vita etiam
+non alia priores illi sancti nisi hac, in qua nos vivi-
+mus utebantur ; usque ad Abraham enim non cir-
+cumcisionem habentes, non sacrificiis gaudentes, Deo
+placebant. COT.
+
+# block=5 source_x1=183 source_y1=1949 source_x2=1720 source_y2=2021
+⁹¹ Citat Cedrenus. Vide testimonia veterum.   ⁹² Psal. xlix, 12.   ⁹³ Exod. xxxii, 4.   ⁹⁴ Exod. iv, etc.
+⁹⁵ Num. xi, 31.   ⁹⁶ Exod. xx, 1.   ⁹⁷ Exod. xxxii, 1.   ⁹⁸ Exod. xx, 24.   ⁹⁹ Vide in Cedreno et Anastasio.
+
+# block=7 source_x1=814 source_y1=2066 source_x2=1113 source_y2=2100
+VARIORUM NOTÆ.
+
+# block=8 source_x1=191 source_y1=2372 source_x2=936 source_y2=2708
+(22) Προσοίσωσι. Cod. Vind. προσοίσουσι. Cl.
+(23) Θύειν. Θυσίαν, cod. Vind. minus commo-
+de. Id.
+(24) Τούτου. Τούτων, cod. Vind. melius, ut vide-
+tur, plurium enim quæ antecesserunt, ratio est ha-
+benda. Cl.
+(25) Ἐπηρνήσαντο. Ἀπαρνήσαντο, quod verbum
+frequentius est in Scriptura. Id.
+(26) Εἰς Μερράν. מרה Latine Mara, Græcis est aut
+Μερὰ seu Μερᾶ, in Macario homil. 47 Gregentio fol.
+
+# block=9 source_x1=606 source_y1=104 source_x2=1308 source_y2=145
+CONSTITUTIONES APOSTOLICÆ.— LIB. VI.
+
+# block=12 source_x1=195 source_y1=100 source_x2=246 source_y2=147
+965
+
+# block=15 source_x1=1658 source_y1=111 source_x2=1715 source_y2=145
+966
+
+# block=16 source_x1=961 source_y1=2129 source_x2=1717 source_y2=2701
+185 et Epiphanio Hagiopolita, de Syria et sacris lo-
+cis ; aut Μερρᾶ sive Μερρᾶ vulgo. Hoc nescientes
+plerique librorum Latinorum exscriptores , notum
+autem habentes myrrhæ amorem, quando memo-
+rari inveniebant merrhæ amaritudinem, myrrhæ
+nomen substituendum arbitrabantur : uti cernere est
+apud Cyprianum, sub finem libri De zelo et livore,
+Julium Firmicum Maternum, De errore profanarum
+religionum ante finem , Hieronymum, epist. 4 ad
+Rusticum, 151 ad Algasiam, et in Nahum III, 8. Di-
+sces reliqua ex notis ad Paulini carmen 30. COT.
+(27) Τότε. Διὸ in cod. Vind., forte rectius. Cl.
+(28) Στιβώσει. Ita codices Regii Anastasianarum
+Quæstionum. Emendandus igitur Georgius Cedre-
+nus. Postea notabis varias lectiones, κάθαροῦ loco
+καλοῦ in Anastasio, et δεκατισμοὺς pro ῥαντισμούς
+apud Cedrenum. COT.

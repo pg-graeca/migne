@@ -1,0 +1,209 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,168,1979,913,2710
+2,952,484,1700,610
+8,167,485,921,610
+10,1217,440,1436,478
+11,949,134,1707,397
+12,942,753,1709,2709
+13,167,762,914,1979
+14,157,135,921,398
+15,684,78,1150,121
+16,757,672,1082,711
+18,1629,81,1704,122
+19,173,89,226,131
+20,151,398,1163,442
+21,387,444,693,480
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=15px
+# block=18 fontSize=16px
+# block=19 fontSize=16px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+EPISTOLA I AD CORINTHIOS.
+
+# block=18
+262
+
+# block=19
+261
+
+# block=11
+deamus fruges : seminatio grani quomodo fiat.
+Exiit seminator, et jecit semen in terram; jactisque
+seminibus, quæ arida et nuda ceciderunt in ter-
+ram, dissolvuntur; deinde ex ea dissolutione (77),
+magna providentiæ Domini potestas resuscitat:
+atque ex uno, fructum pluribus auctum profert.
+
+# block=14
+[χεται. Βλέπωμ]εν (73) τοὺς καρπούς· ὁ σπόρος
+[κόκκου (74) ] τίνα τρόπον γίνεται. Ἐξῆλ[θεν ὁ
+σπ]είρων, καὶ ἔβαλεν εἰς τὴν γῆν, [καὶ βληθέ]ντων
+σπερμάτων, ἅτινα πέ[πτωκεν ε]ἰς τὴν γῆν ξηρὰ καὶ
+γυμνὰ (75), δι[αλύεται (76).] Εἶτ᾽ ἐκ τῆς διαλύσεως ἡ
+μεγα[λειότ]ης (78) τῆς προνοίας τοῦ Δεσπότου [ἀνίσ]-
+
+# block=20
+τηνσιν αὐτὰ, καὶ ἐκ τοῦ ἑνὸς πλεί[ονα α]ὔξει, καὶ ἐκφέρει καρπόν.
+
+# block=10
+CAPUT XXV.
+
+# block=21
+ΚΕΦΑΛΑΙΟΝ ΚΕ΄.
+
+# block=2
+Contemplemur signum mirabile, quod in Orien-
+talibus locis, scilicet in Arabia fit. Avis quippe est
+quæ vocatur phœnix : hæc unigena existens, annos
+
+# block=8
+[῎Iδω]μεν τὸ παράδοξον σημεῖον, τὸ [γιν]όμενον ἐν τοῖς
+ἀνατολικοῖς [τό]ποις, τουτέστιν τοῖς περὶ τὴν 'Αραβίαν.
+Ὄρνεον γάρ ἐστιν ὃ προσονομάζεται φοῖνιξ (79)·
+
+# block=16
+VARIORUM NOTÆ
+
+# block=12
+stram. Trahitur ab aliis ad falsa dogmata, apud
+Augustinum lib. IV, De anima et ejus origine cap. 20;
+et apud Maximum, citatum in Euthymii Panoplia
+parte II, titulo 15, p. 607, et in Notis Hœschelii
+ad Bibliothecæ Photianæ codicem CXXVI. Sed mirum,
+cunctis Christianis non suboluisse fraudem, ob pa-
+ganismum fabellæ permistum. Quia autem φοῖνιξ
+Græce et unigenam avem et palmam significat,
+hinc factum est, ut Davidis textus psalm. XCI, 13,
+Δίκαιος ὡς φοῖνιξ ἀνθήσει, a plurimis de palma, a
+Tertulliano in Libro de resurrectione carnis, cap. 13,
+et ab Epiphanio in Physiologi capite 11, de alite sit
+acceptus. Hinc etiam evenit, ut Ezechielus poeta, in
+dramate inscripto 'Eξαγωγή, postquam egit de se-
+ptuaginta palmis, Exod, xv, 27, subjunxerit, occur-
+sum atque descriptionem phœnicis, versibus quos
+continet Eusebii Præparatio evangelica lib. IX, cap.
+29, et Eustathii Commentarius in Hexaemeron,
+p. 25, 26; utque auctor carminis de phœnice, La-
+clantio tributi, in fictione sua locum palmæ dederit;
+ut denique ratione etymologiæ, arborem alii ab
+ave, avem alii ab arbore deduxerint : de quo vi-
+dendi præter mox memoratum poetam, Plinius
+Historia lib. XIII, cap. 4, et Isidorus Originum lib.
+XVII, cap. 7 et lib. XIII, cap. 7. Porro narratiun-
+cula phœnicis in editionibus posterioribus Hiero-
+nymi manca est, atque adeo ex veteri Lugdunensi
+ad pristinam integritatem revocari debet, rescri-
+bendo hunc in modum : Phœnix avis est in India,
+et per quingentos annos de Libano implet se aroma-
+tibus, et sic nidificat. Et indicat sacerdoti Heliopo-
+litano, mense Famenoth aut Farmuth. Implet aram
+sacerdos sarmentis, et ibi confert phœnix aromata,
+et electrum aræ imponit. Et primo solis ortu, phœ-
+nix quidem movet pennas, solis vero calore accendi-
+tur electrum, et sic exuruntur aromata, et ipse phœ-
+nix incenditur. Crastino die de cinere gignitur vermis,
+secundo pennas effert, tertio ad antiquam redit na-
+turam : et sic ad sua loca revertitur. Habetur locus
+in Epistola, seu potius post Epistolam ad Præsi-
+dium, de cereo Paschali. Cotelerius. — "Ὄρνεον
+γάρ ἐστι ὃ προσονομάζεται φοῖνιξ. De phœnice,
+ave πολυθρυλήτῳ, et resurrectionis symbolo, multi
+multa, Patres Græci et Latini, historici, et philoso-
+phi, stricta et soluta oratione. Maximus autem con-
+tra Severi dogmata ad Petrum Illustrium, fabulam
+conatur ostendere, quæ de ea narrantur, nullumque
+animal μονάδικὸν esse contendit, οὐδέ τι τῶν ὑπὸ
+γένεσιν καὶ φθορὰν ἐμψύχων καὶ αἰσθητικῶν σωμά-
+των (ut ille loquitur) μονάδικὴν ὑπάρχειν καθ᾽ ὑπό-
+στασιν φύσεως. Ὧν ἡ ἐξ ἀλλήλων κατ᾽ εἶδος διαδο-
+χή, ἀρίδηλος χαρακτὴρ τοῦ εἶναι, καὶ ὅρος ἐστί. Ego,
+licet incerta sint quædam, quæ de hoc alite ferun-
+tur, et fabulosis aucta (ut Tacitus Annalium lib. VI),
+ceterum esse ejusmodi volucrem, quæ redivivo suæ
+carnis humore reparetur, et de suo surgat rogo,
+corporisque sui hæres, et cineris sui fetus sit, et
+quod in Ægypto etiam aliquando aspiciatur, cum
+illo non ambigo : maloque cum Clemente nostro
+
+# block=13
+Funestatur mundi honor, omnis substantia denigra-
+tur. Sordent, silent, stupent cuncta, ubique justitium
+est, quies rerum. Ita lux amissa lugetur , et tamen
+rursus cum suo cultu, cum dote, cum sole, eadem et
+integra et tota universo orbi reviviscit , interficiens
+mortem suam, noctem, rescindens sepulturam suam,
+tenebras, hæres sibimet existens, donec et nox revi-
+viscat cum suo et illa suggestu, etc. Sic Epiphanius
+in Ancorato : Καὶ ἡ κτίσις πᾶσα διαρρήδην αὐτοὺς
+ἐλέγχει, ὑποφαίνουσα καθ' ἑκάστην ἡμέραν ἀναστά-
+σεως τὸ εἶδος· δύνει γὰρ ἡ ἡμέρα, καὶ νεκρῶν αἰνιτ-
+τόμεθα τὴν τρόπον κοιμισμὸν αἰνιττομένης. ᾿Ανα-
+τέλλει ἡ ἡμέρα ἡμᾶς διυπνίζουσα, καὶ ἀναστάσεως
+ὑποδεικνύουσα τὸ σημεῖον. Locus hic corruptus vi-
+detur, quem nos ex conjectura sic emendandum
+putamus, καὶ νεκρῶν ὑπνωττόμεθα τὸν τρόπον, κοι-
+μήσεως θάνατον αἰνιττομένης, etc. JUN.
+(73) Βλέπωμεν. Sic legit Mill., non autem ἴδωμ]-
+εν cum Jun. et editis: quod hic ms. hiatus sex
+litteras admittat. Jamque paulo superius, et mox
+infra iterum occurrit ἴδωμεν. GALL.
+(74) Ὁ σπόρος κόκκου. Qui ms. inspexerunt,
+Junii supplementum , ὁ σπόρος [πᾶσι δῆλον] reji-
+ciunt viri docti ; cum nonnisi sex vel septem litte-
+rarum sit chasma. Mill. ergo supplet γυμνός, vel
+νεκρός, vertitque : Videamus fructus; quomodo se-
+men nudum , vel mortuum producitur. Dav. autem
+supplendum autumat, οἴδαμεν vel εὖ ἴσμεν. Wott.
+vero sic legit : ὁ σπόρος [κόκκου] vel [σίτου] τίνα
+τρόπον γίνεται : Quomodo fiat seminatio grani. Quam
+sane lectionem cum Cl. editor pluribus tueatur,
+præ reliquis seligendam censuimus. ID.
+(75) Ξηρὰ καὶ γυμνά. Sic Proclus apud Epipha-
+nium, γυμνὰ καὶ ἄσαρκα βάλλεται εἰς γῆν, καὶ τε-
+λεσφορούμενα ἀποδίδδοται. Sic Apostolus ad Corinth.
+1, xv, 37, οὐ τὸ σῶμα γενησόμενον σπείρεις, ἀλλὰ
+γυμνὸν κόκκον. JUN.
+
+# block=1
+(76) Διαλύεται. Sic legunt Mill. et Wott. quod
+ms. lacuna quinque aut sex tantum litteras requi-
+rat, adeoque incapax sit supplementi Juniani, di-
+[αλύει χρόνος]. Theophilus quoque Antioch., lib. I,
+ad Autol., cap. 13, hac ipsa de re agens, verbum
+λύεται usurpat. GALL.
+(77) Junius et Coteler. post dissolutionem. Ma-
+luimus secundum Græcam litteram ex dissolutione:
+quod et institutæ comparationi aptius congruil, ut
+quemadmodum corpora ex morte, ila grana ex dis-
+solutione resuscitentur. Coust.
+(78) Μεγαλειότης. Legit Jun. cum editis, μεγό-
+[λη δύναμ]ις : contra ms. fidem, qui exhibet με-
+γα...ης. Hinc procul dubio legendum censent
+Wort. et Mill. μεγα[λειότ]ης. GALL.
+(79) Ὄρνεον γάρ ἐστιν ὁ προσονoμάζεται φοῖ-
+νιξ. Non fertur alia fabula, in cujus enarratione
+consentiant magis, magisque dissentiant scriptores.
+Consentiunt fere omnes in re, dissentiunt de mo-
+do. Et quidem mos est patribus exemplo phœnicis,
+partim ad mores uti, partim ad mysteria, partum
+virgineum, et resurrectionem Dominicam ac no-

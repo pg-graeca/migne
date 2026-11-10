@@ -1,0 +1,181 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,252,137,1009,1350
+2,281,1484,991,1525
+3,1037,141,1787,1395
+4,656,86,1372,125
+5,242,1706,994,2703
+6,1061,1484,1777,1530
+8,852,1651,1158,1690
+9,1729,88,1781,131
+11,261,90,314,122
+12,353,1440,873,1492
+13,507,1384,729,1448
+14,1053,1446,1755,1492
+15,1261,1396,1541,1442
+16,255,1566,473,1624
+17,1029,1712,1775,2708
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+ditur, nisi per Christum. Quare ad eumdem modum
+quæcunque volunt laici, per diaconum episcopo
+manifestent; atque ita sententiam illius adim-
+pleant. Nam apud priorem quoque populum, nihil
+sacri in templo aut offerebatur, aut fiebat absque
+sacerdote. « Labia enim sacerdotis custodient scien-
+tiam, et legem requirent ex ore ejus, » ait alicubi
+propheta, « quia angelus Domini omnipotentis est ¹³. »
+Quod si dæmonum cultores in detestandis et abo-
+minandis ac impuris Deumque offendentibus sacris
+suis, hucusque sancta ac divina æmulantur : quan-
+quam vero comparatione inita, longissime a sanctis
+cærimoniis secernenda sit exsecrabilis superstitio :
+si tamen in illusionibus suis, nihil sine falso sacer-
+dote offerunt, neque efficiunt; imo illum pontificem
+pro lapidum ac idolorum ore habent, atque quid
+facere jubeat exspectant, ut quidquid jusserit per-
+ficiant, tum absque eo faciunt nihil, eumdemque
+flaminem honore prosequuntur, ipsius nomen quo-
+que venerando, ad honorem inanimatarum statua-
+rum, et ad cultum malignorum spirituum. Si illi,
+inquam, qui vana et falsa opinantur, spemque suam
+nulla in re solidant, imitari tamen sanctos ritus
+student : quanto æquius est vos, quorum fides evi-
+dentissima, spes certissima est, et a quibus ex-
+spectatur gloriosa, perpetua, ac stabilis repromis-
+sio; venerari in antistitibus Dominum Deum, et exi-
+stimare episcopos esse os Dei?
+
+# block=2
+Nam si Aaron, quia verba, Moysis nomine detulit
+
+# block=3
+πλέον παῤῥησιαζέσθωσαν. Οὐδὲ γὰρ τῷ παντοκρά-
+τορι Θεῷ προσελθεῖν ἔστιν, ἐὰν μὴ διὰ τοῦ Χριστοῦ.
+Οὕτως καὶ οἱ λαϊκοὶ πάντα ὅσα βούλονται, διὰ τοῦ
+διακόνου φανερὰ τῷ ἐπισκόπῳ ποιείτωσαν, καὶ οὕτω
+κατὰ τὸ δοκοῦν ἐκείνῳ ἐπιτελείτωσαν· οὐδὲ γὰρ πρό-
+τερον ἐν τῷ ἱερῷ ἁγίασμά τι προσεφέρετο ἢ ἐγίνετο
+ἄνευ τοῦ ἱερέως. « Χείλη γὰρ ἱερέως φυλάξεται γνῶ-
+σιν, καὶ νόμον ἐκζητήσουσιν ἐκ τοῦ στόματος αὐτοῦ, »
+φησί που ὁ προφήτης, « ὅτι ἄγγελος Κυρίου παντο-
+κράτορός ἐστιν. » Εἰ γὰρ οἱ τῶν δαιμόνων θεραπευ-
+ταὶ ἐν τοῖς μυσαροῖς καὶ βδελυκτοῖς καὶ ἀκαθάρτοις
+προσοχθίσμασιν αὐτῶν ἄχρι τοῦ δεῦρο τὰ ἅγια μι-
+μοῦνται· καὶ μακρὰν μὲν ἐπὶ συγκρίσεως τὸ βδέλυγμα
+κεχωρίσθω τῶν ἁγίων· πλὴν ἐν τοῖς ἐμπαίγμασιν αὐ-
+τῶν, ἄνευ τοῦ μηερέως (2) οὐδὲν προσφέρουσιν, οὐδὲ ἐπι-
+τελοῦσιν, ἀλλὰ στόμα νομίζουσι τῶν λίθων τὸν μηερέα,
+περιμένοντες τί προστάξει ποιεῖν αὐτοῖς, καὶ πάντα
+ἃ ἂν προστάξῃ αὐτοῖς, ἐκεῖνα ἐπιτελοῦσι, καὶ ἄνευ
+αὐτοῦ ποιοῦσιν οὐθὲν, καὶ τιμῶσιν αὐτὸν τὸν μηερέα,
+καὶ σεπτὸν αὐτοῦ ἡγοῦνται τὸ ὄνομα, εἰς τιμὴν τῶν
+ἀψύχων ξοάνων, καὶ εἰς λατρείαν τῶν πονηρῶν πνευ-
+μάτων. Εἰ οὖν ἐκεῖνοι μάταια καὶ διεψευσμένα (3)
+δοξάζοντες, καὶ ἐπ' οὐδενὶ βεβαίῳ ἔχοντες τὴν ἑαυτῶν
+ἐλπίδα, ἐπιτηδεύουσι μιμεῖσθαι τὰ ἅγια· πόσῳ δί-
+καιον ὑμᾶς τοὺς φανοτάτην πίστιν καὶ ἀψευδῆ ἐλπίδα
+ἔχοντας, καὶ ἔνδοξον (4) καὶ αἰώνιον καὶ ἀδιάπτωτον
+ἐπαγγελίαν ἀπεκδεχομένους, τιμᾷν διὰ τῶν προεστώ-
+των Κύριον τὸν Θεὸν, ἡγουμένους στόμα Θεοῦ εἶναι
+τοὺς ἐπισκόπους ;
+
+# block=4
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=5
+nique ultimo loquendi modo utitur Optatus lib. ɪ,
+pag. 39; et lib. ɪɪ, pag. 53, atque ex eo Theodorus
+Balsamon exponit canonem 10, Neocæsariensem.
+Observarunt etiam viri docti, in canone Eliberi-
+tano 33, presbyteros ministros appellari. COT.
+(2) Τοῦ μηερέως. Dixi ad Barnabæ cap. 9. Addo
+nunc, forsan ab Epiphanio Epimenidem appellatum
+fuisse μιερέα τοῦ παρὰ Κρησὶν εἰδωλίου, non μιθρα,
+quod sensu nullo aut falso ediderunt, hæresi 42,
+p. 362. ID.
+(3) Διεψευσμένα. Ἐψευσμένα, cod. Vind. alt. Cl.
+(4) Καὶ ἔνδοξον. Hæ duæ voces, totidemque
+seqq. absunt ab altero codice. ID.
+(5) Εἰ γὰρ Ἀαρών. Sacra duo Mosis et Aaronis
+Epitheta dilucidaverat Theodoritus quæstione 17,
+in Exodum; sed illius declaratio hodie manca est,
+intricata, et tenebris plus quam Cimmeriis obvo-
+luta : Πῶς ἐγένετο τοῦ Ἀαρὼν (melius codices Re-
+gii Φαραὼ) θεὸς ὁ Μωσῆς; ... Ὥσπερ ὁ Θεὸς προσ-
+έταττε τῷ Μωσῇ, οὕτως ὁ Μωσῆς τῷ Ἀαρών. Διὸ
+δὴ καὶ προφήτης ὁ Ἀαρὼν προσηγορεύθη τοῦ Μω-
+σέως. Quo modo Moses fuit deus Aaronis? (imo Pha-
+raonis). Quemadmodum Deus imperabat Mosi, ita
+Moses Aaroni. Quamobrem etiam Aaron vocatus est
+propheta Mosis. Quis hæc percipiat ac explicet?
+Nemo, Hercule, nemo. Nisi loco facis admoveat
+Catenam Græcorum Patrum in Pentateuchum, edi-
+tam solummodo Latine, Francisco Zephyro inter-
+prete; in qua ad Exodi caput vir legitur ex Theo-
+
+# block=6
+Εἰ γὰρ Ἀαρὼν (5), ἐπειδὴ ἤγγειλε τῷ Φαραὼ πα-
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=9
+676
+
+# block=11
+675
+
+# block=12
+Quæ sit dignitas episcopi et diaconi.
+
+# block=13
+CAPUT XXIX.
+
+# block=14
+Τίς ἡ ἀξία τοῦ ἐπισκόπου, καὶ τοῦ διακόνου.
+
+# block=15
+ΚΕΦΑΛΑΙΟΝ ΚΘ'.
+
+# block=16
+¹³ Mal. ɪɪ, 7.
+
+# block=17
+dorito : Ecce constitui te deum Pharaonis : et Aa-
+ron frater tuus erit propheta tuus. . . . Id vero quo
+pacto? . . . Perinde ac Deus præcipiebat instrue-
+batque Mosem, Moses Aaron ipsum instituebat : quo-
+circa propheta dictus est Aaron fratris sui, id est,
+interpres ; Moses vero deus Pharaonis, quasi judex
+et magister. Quo fit ut scriptum videatur a magno
+interprete, hoc fere modo : Πῶς ἐγένετο τοῦ Φαραὼ
+θεὸς ὁ Μωσῆς, καὶ τοῦ Μωσέως προφήτης Ἀαρὼν
+ὁ ἀδελφὸς αὐτοῦ ; . . . Ὥσπερ ὁ Θεὸς προσέταττε τῷ
+Μωσῇ, οὕτως ὁ Μωσῆς τῷ Ἀαρών. Διὸ δὴ καὶ προ-
+φήτης ὁ Ἀαρὼν προσηγορεύθη τοῦ Μωσέως, τουτ-
+έστιν ἑρμηνεύς · καὶ ὁ Μωσῆς θεὸς τοῦ Φαραὼ, ὡς
+κριτὴς καὶ διδάσκαλος. Hoc est : Quomodo Moses
+fuit deus Pharaonis, et Mosis propheta Aaron frater
+ejus? Quemadmodum Deus mandata dabat Mosi,
+ita Moses Aaroni. Quare et Aaron vocatus est pro-
+pheta Mosis, hoc est, interpres ; et Moses deus Pha-
+raonis, ut judex et magister. Præclare in Catena
+manu scripta Acacius : Ὃν τρόπον ὁ Θεὸς διὰ προ-
+φητῶν λαλεῖ τοῖς ἀνθρώποις, οὕτω καὶ ὁ Μωσῆς διὰ
+Ἀαρὼν τῷ Φαραώ. Διὸ ἑρμηνεύων τὸν νοῦν τοῦ λό-
+γου φησί · Καὶ Ἀαρὼν ὁ ἀδελφός σου ἔσται σου
+προφήτης. Quemadmodum Deus per prophetas ho-
+minibus loquitur, ita et Moses per Aaronem Pha-
+raoni. Unde Scriptura exponens sensum dicti ait :
+« Et Aaron frater tuus erit tuus propheta. » Lega-
+tur Exod. ɪv, 16. COT. In altero cod. abest ὡς et
+postea legitur τί πείσηται ἄν. CLER.

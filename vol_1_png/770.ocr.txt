@@ -1,0 +1,168 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,292,2535,1036,2743
+2,267,425,1024,2359
+3,1072,2524,1818,2706
+4,264,341,1018,409
+5,544,294,731,332
+6,1054,335,1794,405
+7,1286,295,1552,328
+8,261,177,1792,268
+10,684,113,1410,160
+11,283,2376,1803,2452
+12,1053,428,1817,1923
+13,898,2477,1202,2514
+15,1734,110,1802,160
+16,258,112,332,158
+17,1064,1920,1828,2354
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=292 source_y1=2535 source_x2=1036 source_y2=2743
+(53) Πρὸς τοὺς, etc. Deest inscriptio in cod.
+Vindob. CLER.
+(54) Ἔθεσιν. Ἅπασι in cod. Vind. CLER.
+(55) Ζητήσαντες. Vir doctus Joannes Dallæus,
+ζητήσοντες. COT.
+(56) Ἐν ὑμῖν. Ita Alexandrinus codex omnium
+
+# block=2 source_x1=267 source_y1=425 source_x2=1024 source_y2=2359
+Verum quia tunc ea hæresis ad fraudem validior
+visa est, et universa Ecclesia periclitabatur; con-
+gregati Hierosolymis nos duodecim (nam loco Pro-
+ditoris Matthias electus fuit, ut nobis cum esset
+apostolus, accepta sorte Judæ ⁹⁶ ; sicut dixit Scri-
+ptura : « Episcopatum ejus accipiat alter ⁹⁷ »), dispi-
+ciebamus una cum Jacobo fratre Domini, quid fieri
+oporteret : placuitque illi ac presbyteris, ut de
+sermonibus doctrinæ allocutio haberetur ad popu-
+lum. Etenim quidam ex Judæa Antiochiam degressi,
+docebant fratres ibi consistentes, his verbis : « Nisi
+circumcidamini ritu Mosaico, et in aliis ritibus quos
+idem constituit incidatis, non potestis salvi fie-
+ri ⁹⁸ . » Orta igitur contentione et quæstione non
+parva, Antiochenses fratres certiores facti quod
+omnes ea de re disquisituri conveneramus, mise-
+runt nobis viros fideles ac Scripturarum peritos,
+ut de hac quæstione edocerentur : at illi Hieroso-
+lymam advenientes, nuntiaverunt nobis ea quæ in
+Ecclesia quoque Antiochena disputabantur, scilicet,
+quod quidam dicerent, oportere circumcidi, et re-
+liquas cæremonias ac sanctimonias legis observare.
+Cumque aliud alii proferrent, ego Petrus surgens
+dixi ad eos : « Viri fratres, vos scitis, quoniam ab
+antiquis diebus, Deus in vobis elegit, per os meum
+audire gentes verbum Evangelii, et credere ⁹⁹ ; et
+qui novit corda Deus, testimonium perhibuit ipsis,
+Cornelio enim ⁹⁷ , qui erat Romani imperii Centurio,
+Angelus Domini apparuit; et de me dixit ei, ut ar-
+cesseret me, et ex ore meo audiret verbum vitæ.
+Ille vero accersivit me a Joppe in Cæsaream Stra-
+tonis. Cum autem ad eum essem perventurus, vo-
+lui cibum capere; quem dum pararent, eram in
+cœnaculo orans; et video cœlum apertum; atque
+quatuor initiis illigatum vas quoddam, velut lin-
+teum splendidum, in terram dimitti, in quo erant
+omnia quadrupedia, et terræ reptilia, et volatilia
+cœli. Exstititque vox e cœlo ad me dicens : « Sur-
+ge, Petre, occide, et manduca ⁹⁸ . » Ego autem re-
+spondi : « Nequaquam, Domine; quia nunquam
+manducavi quidquam commune et immundum. »
+Tum vox secundo edita est, dicens : « Quæ Deus
+purificavit, tu communia ne putato ⁹⁹ . » Hoc autem
+factum est ter : et receptum est vas in cœlum.
+
+# block=3 source_x1=1072 source_y1=2524 source_x2=1818 source_y2=2706
+veterrimus. Ita Irenæus lib. III, cap. 12. Sic etiam
+Chrysostomus : ex quo corrigendæ editiones OEcu-
+menii et Theophylacti. ID.
+(57) Φωνή, etc. In altero cod. est, πάλιν φωνὴ
+ἐκ τοῦ οὐρανοῦ. CLER.
+
+# block=4 source_x1=264 source_y1=341 source_x2=1018 source_y2=409
+Contra eos qui Christianæ religioni cum assentiantur,
+volunt tamen Judaicos ritus observare.
+
+# block=5 source_x1=544 source_y1=294 source_x2=731 source_y2=332
+CAPUT XII.
+
+# block=6 source_x1=1054 source_y1=335 source_x2=1794 source_y2=405
+Πρὸς τοὺς ὁμολογοῦντας (53), ἰουδαΐζειν δὲ θέ-
+λοντας.
+
+# block=7 source_x1=1286 source_y1=295 source_x2=1552 source_y2=328
+ΚΕΦΑΛΑΙΟΝ ΙΒ'.
+
+# block=8 source_x1=261 source_y1=177 source_x2=1792 source_y2=268
+tur progenies, qui erat exspectatio gentium, Jesus Christus, qui ex Juda originem duxit, filius ex
+germine, flos ex Jesse ⁹⁴ : « Cujus principatus super humerum ⁹⁵, »
+
+# block=10 source_x1=684 source_y1=113 source_x2=1410 source_y2=160
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=11 source_x1=283 source_y1=2376 source_x2=1803 source_y2=2452
+⁹⁴ Gen. xlix, 10; 9, in LXX; Isa. xi, 1. ⁹⁵ Isa. ix, 6. ⁹⁶ Act. i. ⁹⁷ Psal. cviii, 1. ⁹⁸ Act. xv, 5.
+⁹⁹ Ibid. 7. ⁹⁷ Act. x. ⁹⁸ Ibid. 15. ⁹⁹ Ibid. 15.
+
+# block=12 source_x1=1053 source_y1=428 source_x2=1817 source_y2=1923
+Ἀλλʼ ἐπεὶ τότε αὕτη ἡ αἵρεσις ἰσχυροτέρα πρὸς
+πλάνην ἔδοξεν εἶναι, καὶ τῆς Ἐκκλησίας ὅλης κινδυ-
+νευούσης, ἡμεῖς οἱ δώδεκα, συνελθόντες εἰς Ἱερου-
+σαλὴμ (ἀντὶ γὰρ τοῦ προδότου Ματθίας σὺν ἡμῖν
+κατεψηφίσθη ἀπόστολος εἶναι, λαβὼν τὸ κλῆρον Ἰού-
+δα, ὡς εἴρηται· « Τὴν ἐπισκοπὴν αὐτοῦ λάβοι ἕτε-
+ρος»),ἐπεσκεπτόμεθα ἅμα Ἰακώβῳ τῷ τοῦ Κυρίου
+ἀδελφῷ, τί γένηται· καὶ ἔδοξεν αὐτῷ τε καὶ τοῖς
+πρεσβυτέροις, λόγους διδασκαλίας προσλαλῆσαι τῷ
+λαῷ. Καὶ γὰρ καί τινες κατελθόντες ἀπὸ τῆς Ἰου-
+δαίας εἰς Ἀντιόχειαν ἐδίδασκον τοὺς ἐκεῖ ἀδελφοὺς,
+λέγοντες· ὅτι « Ἐὰν μὴ περιτμηθῆτε τῷ ἔθει Μωϋ-
+σέως, καὶ τοῖς ἄλλοις ἔθεσιν (54) οἷς διετάξατο πε-
+ριπατῆτε, οὐ δύνασθε σωθῆναι.»Γενομένης οὖν στά-
+σεως καὶ ζητήσεως οὐκ ὀλίγης, οἱ ἐν Ἀντιοχείᾳ ἀδελ-
+φοὶ, γνόντες ὅτι συνεληλύθαμεν πάντες περὶ τούτου
+ζητήσαντες (55), ἐξαπέστειλαν πρὸς ἡμᾶς ἄνδρας
+πιστοὺς καὶ τῶν Γραφῶν εἰδήμονας, μαθεῖν περὶ τοῦ
+ζητήματος τούτου· οἱ δὲ, παραγενόμενοι εἰς Ἱερου-
+σαλὴμ, ἀνήγγειλαν ἡμῖν τὰ ζητηθέντα καὶ ἐν τῇ Ἀν-
+τιοχέων Ἐκκλησίᾳ, ὡς ὅτι τινὲς ἔλεγον, ὅτι δεῖ περι-
+τέμνεσθαι, καὶ τὰς ἄλλας ἀγνείας παραφυλάττειν.
+Ἄλλων δὲ ἄλλο τι λεγόντων, ἐγὼ Πέτρος ἀναστὰς εἶ-
+πον πρὸς αὐτούς· «Ἄνδρες ἀδελφοὶ, ὑμεῖς ἐπίστασθε,
+ὅτι ἀφʼ ἡμερῶν ἀρχαίων, ἐν ὑμῖν (56) ἐξελέξατο ὁ
+Θεὸς, διὰ τοῦ στόματός μου ἀκοῦσαι τὰ ἔθνη τὸν λό-
+γον τοῦ Εὐαγγελίου, καὶ πιστεῦσαι· καὶ ὁ καρδιογνώ-
+στης Θεὸς ἐμαρτύρησεν αὐτοῖς, » Κορνηλίῳ γάρ
+ποτε ἑκατοντάρχῃ Ῥωμαϊκῆς ἀρχῆς ὤφθη ἄγγελος
+Κυρίου, καὶ περὶ ἐμοῦ εἶπεν αὐτῷ, ὅπως μεταστεί-
+ληταί με, καὶ ἀκούσῃ ῥῆμα ζωῆς ἐκ τοῦ στόματός
+μου. Ὁ δὲ, μετεπέμψατό με ἀπὸ Ἰόππης εἰς Και-
+σάρειαν τὴν Στράτωνος. Ὁπότε δὲ ἔμελλον πρὸς αὐ-
+τὸν ἐκπορεύεσθαι, ἐβουλήθην τροφῆς μεταλαβεῖν·
+
+# block=13 source_x1=898 source_y1=2477 source_x2=1202 source_y2=2514
+VARIORUM NOTÆ.
+
+# block=15 source_x1=1734 source_y1=110 source_x2=1802 source_y2=160
+940
+
+# block=16 source_x1=258 source_y1=112 source_x2=332 source_y2=158
+939
+
+# block=17 source_x1=1064 source_y1=1920 source_x2=1828 source_y2=2354
+καὶ παρασκευαζόντων, ἤμην ἐν τῷ ὑπερῴῳ προσευ-
+χόμενος· καὶ θεωρῶ τὸν οὐρανὸν ἀνεῳγότα, καὶ τέσ-
+σαρσιν ἀρχαῖς δεδεμένον σκευός τι, ὡς ὀθόνην λαμ-
+πρὰν, καὶ καθιεμένον ἐπὶ τῆς γῆς, ἐν ᾧ ὑπῆρχε πάντα
+τὰ τετράποδα, καὶ ἑρπετὰ τῆς γῆς, καὶ τὰ πετεινὰ
+τοῦ οὐρανοῦ. Καὶ ἐγένετο φωνὴ ἐκ τοῦ οὐρανοῦ πρὸς
+με λέγουσα· «Ἀναστὰς, Πέτρε, θῦσον, καὶ φάγε. »
+Κἀγὼ εἶπον·«Μηδαμῶς, Κύριε, ὅτι οὐδέποτε ἔφαγον
+πᾶν κοινὸν καὶ ἀκάθαρτον. » Καὶ ἐγένετο φωνὴ (57)
+ἐκ δευτέρου, λέγουσα· « Ἃ ὁ Θεὸς ἐκαθάρισε, σὺ μὴ

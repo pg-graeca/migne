@@ -1,0 +1,110 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,214,143,972,1487
+2,1011,144,1774,884
+3,208,1501,1760,1763
+4,242,1807,558,1840
+5,1035,1805,1504,1842
+6,227,93,297,130
+7,751,84,1263,125
+8,1696,91,1766,133
+9,1000,884,1762,1494
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=214 source_y1=143 source_x2=972 source_y2=1487
+τῆς γενέσεως τοῦτο γέγονε· καὶ ὅμως, ὡς προεῖπον,
+ἔχει, σοῦ καταψευσαμένου, αὐτὸς ἐκ πολλῶν σχημά-
+των ἕν τι εὑρεῖν σχῆμα, καὶ δεύτερον, καὶ τρίτον,
+καὶ πλείονα, ὡς αὐτὸ ἐνεργῆσαν, ὅθεν τὰ ἀγαθὰ
+ἐρεῖ γεγενῆσθαι· ἀδύνατον γὰρ ἐν πάσῃ γενέσει ἀν-
+θρώπων, μὴ ἐν πάσῃ ὥρᾳ τῶν ἀστέρων, τοὺς μὲν
+καλῶς κεῖσθαι, τοὺς δὲ κακῶς· κύκλος γάρ ἐστιν
+ἰσομερὴς ποικίλος, ἀπείρους ἔχων τὰς προφάσεις,
+πρὸς ἃς ἕκαστος εἰπεῖν ἔχει ὃ θέλει· ὃν γὰρ τρόπον
+ἐπὶ τῶν λοξῶν ὀνείρων ἐνίοτε οὐδὲν νοοῦμεν, ἀπο-
+βάντων δὲ οἰκειοτάτην προσφέρομεν ἐπίλυσιν· οὕτως
+καὶ τὸ μάθημα· πρὸ τοῦ τι ἀποτελεσθῆναι, οὐδὲν
+σαφὲς ἡμῖν μηνῦσαι δύναται· μετὰ δὲ τὴν τοῦ γενο-
+μένου ἱστορίαν, τότε πρόδηλος ἡ τῆς ἐκβάσεως αἰτία
+φαίνεται· πολλάκις μὲν οὖν οἱ προλέγοντες πταίουσι,
+καὶ μετὰ τὴν ἔκβασιν ἑαυτοὺς μέμφονται, λέγοντες
+ὅτι τόδε ἦν τὸ ποιῆσαν, καὶ οὐκ εἴδομεν. Τὸ μὲν οὖν
+καὶ τοὺς πάνυ ἐπιστήμονας πταίειν, γίνεται διὰ τὸ
+μὴ εἰδέναι, ὡς χθὲς ἔφην, ποῖα πάντως τῆς γενέ-
+σεως αἴτια (78) γίνεται, ποῖα δὲ οὐ πάντως, καὶ ποῖα
+πάντως ποιῆσαι ἐπιθυμοῦμεν, οὐ πάντως δὲ ποιοῦ-
+μεν· ὅτι ἥδε ἡ αἰτία ἡμῖν τοῖς μυστηρίων μεμαθη-
+κόσι, σαφής ἐστιν· ὅτι ἐλεύθερον ἔχοντες λογισμόν,
+ἐνίοτε ἐπέχειν ταύτην βουλευσάμενοι, νενικήκαμεν·
+οἱ δὲ ἀστρολόγοι τοῦτο αὐτὸ τὸ μυστήριον, περὶ πά-
+σης προαιρέσεως ἀποφηνάμενοι ἐξ ἀρχῆς, πταίσαντες
+τοὺς κλιμακτῆρας ἐπενόησαν, εἰς ἀδηλότητα ποιούμε-
+νοι τὴν προαίρεσιν, ὡς χθὲς ἀπεδείξαμεν. Σὺ δὲ
+τοῦ λοιποῦ πρὸς ταῦτα εἴ τι ἔχεις εἰπεῖν, λέγε. Καὶ
+ὀμόσας (79) ἀπεκρίνατο, μηδὲν τούτων ἀληθέστερον
+εἶναι ὧν εἶπας.
+
+# block=2 source_x1=1011 source_y1=144 source_x2=1774 source_y2=884
+mathematicum, et dicito contraria : Quia illud mihi
+boni contigit in illo tempore; tempus autem hoc
+idem dicito : et require ex quibus partibus genesis
+hoc tibi evenerit boni; et tempora, ut dixi, eadem
+quæ de malis interrogaveras, custodito : cumque tu
+fefelleris de temporibus, vide quanta tibi inveniet
+schemata, per quæ ostendat quod tibi in illis ipsis
+temporibus evenire debuerint bona : impossibile
+enim est hominum genesim tractantibus, non in
+omni quam dicunt regione stellarum semper inve-
+nire quasdam bene positas stellas, et quasdam ma-
+le : circulus enim est æqualiter ex omni parte col-
+lectus secundum mathesim, diversas et varias acci-
+piens causas, ex quibus occasionem capiant dicendi
+quod volunt. Sicut enim fieri solet ubi somnia obli-
+qua viderint homines, et nihil certi intelligunt;
+cum aliquis occurrerit exitus rerum, tunc ad ea
+
+# block=3 source_x1=208 source_y1=1501 source_x2=1760 source_y2=1763
+humanorum gestorum incertus est exitus; quia in libertate pendet arbitrii. Nam concupiscentiam qui-
+dem, quam operatur maligna virtus, potest indicare mathematicus : sed si concupiscentiæ hujus actus
+vel exitus impleri possit, nec ne, quia in arbitrii libertate est, sciri ante effectum rei a nullo potest:
+et hoc est quod ignorantes astrologi invenerunt sibi, ut climacteras dicerent, rei scilicet incertæ
+perfugia, sicut hesterno plenissime ostendimus. Ad hæc, si quid tibi dicendum videtur, dicito. Et pa-
+ter : Nihil verius, inquit, fili, his quæ prosecutus es.
+
+# block=4 source_x1=242 source_y1=1807 source_x2=558 source_y2=1840
+(78) Αἴτια. Al. αἰτία.
+
+# block=5 source_x1=1035 source_y1=1805 source_x2=1504 source_y2=1842
+(79) Καὶ ὀμόσ. Al. καὶ ὁ πατήρ.
+
+# block=6 source_x1=227 source_y1=93 source_x2=297 source_y2=130
+1473
+
+# block=7 source_x1=751 source_y1=84 source_x2=1263 source_y2=125
+RECOGNITIONES. — APPENDIX.
+
+# block=8 source_x1=1696 source_y1=91 source_x2=1766 source_y2=133
+1474
+
+# block=9 source_x1=1000 source_y1=884 source_x2=1762 source_y2=1494
+quæ acciderint aptant etiam somnii visum ; ita est
+et mathesis : antequam aliquid fiat, certi nihil pro-
+nuntiatur ; postea vero quam aliquid acciderit, rei
+jam gestæ colligunt causas. Denique frequenter cum
+erraverint, et aliter res acciderit, semetipsos in-
+crepant, dicentes quia illa fuit stella quæ impedivit,
+quæ occurrit, et non vidimus; ignorantes quia er-
+ror eorum non ex artis imprudentia, sed ex totius
+causæ inconvenientia descendit : ignorant enim quæ
+sint, quæ facere quidem concupiscamus, non tamen
+indulgeamus concupiscentiis. Nos autem qui my-
+sterii hujus didicimus rationem, scimus et causam;
+quia libertatem habentes arbitrii, interdum concu-
+piscentiis resistimus, interdum cedimus : et ideo

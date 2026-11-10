@@ -1,0 +1,281 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,996,581,1751,1008
+2,215,577,968,1004
+3,214,229,965,398
+4,216,1102,969,1442
+5,1002,1105,1751,1446
+6,219,2097,981,2366
+7,1001,224,1748,436
+8,219,2364,978,2498
+9,445,450,709,482
+10,220,2496,971,2563
+11,220,1820,979,2101
+12,214,504,962,571
+13,222,2563,977,2630
+14,1004,2559,1759,2698
+15,224,2629,972,2699
+16,1015,496,1731,533
+17,1264,1454,1489,1488
+18,464,1453,735,1484
+19,219,75,287,110
+20,354,176,814,213
+21,819,1755,1126,1788
+22,1268,444,1476,477
+23,460,125,721,158
+24,1259,1019,1486,1052
+25,225,1643,1756,1719
+26,210,1495,966,1566
+28,457,1018,743,1052
+29,1005,1815,1766,2562
+30,382,1062,793,1095
+31,1672,60,1744,91
+32,1263,114,1491,154
+33,1205,162,1553,208
+34,593,58,1355,112
+35,1225,1058,1525,1098
+36,247,1572,963,1610
+37,1009,1492,1755,1538
+38,1037,1572,1767,1608
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=26 fontSize=15px
+# block=28 fontSize=15px
+# block=29 fontSize=15px
+# block=30 fontSize=15px
+# block=31 fontSize=15px
+# block=32 fontSize=15px
+# block=33 fontSize=15px
+# block=34 fontSize=15px
+# block=35 fontSize=15px
+# block=36 fontSize=15px
+# block=37 fontSize=15px
+# block=38 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=34
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=31
+1122
+
+# block=19
+1121
+
+# block=32
+CAPUT XXIV.
+
+# block=23
+ΚΕΦΑΛΑΙΟΝ ΚΔ'.
+
+# block=33
+Ejusdem de virginibus .
+
+# block=20
+Toῦ αὐτοῦ (93) περὶ παρθένων.
+
+# block=7
+Ipse ego constituo de virginibus. Non ordinatur
+virgo. Præceptum enim Domini non habemus ⁴⁶.
+Siquidem voluntatis est hæc certaminis gloria ; non
+ad criminandum matrimonium, sed ad vacandum
+pietati.
+
+# block=3
+Ὁ αὐτὸς, περὶ παρθένων διατάσσομαι (94)· Παρθέ-
+νος οὐ χειροτονεῖται. Ἐπιταγὴν γὰρ Κυρίου οὐκ ἔχο-
+μεν· γνώμης γάρ ἐστι τὸ ἔπαθλον· οὐχ ἐπὶ διαβολῇ
+τοῦ γάμου, ἀλλ’ ἐπὶ σχολῇ τῆς εὐσεβείας.
+
+# block=22
+CAPUT XXV.
+
+# block=9
+ΚΕΦΑΛΑΙΟΝ ΚΕ'.
+
+# block=16
+Lebbæi cognomento Thaddæi constitutio de viduis.
+
+# block=12
+Λεββαίου (95) τοῦ ἐπικληθέντος Θαδδαίου περὶ
+χηρῶν διάταξις.
+
+# block=2
+Κἀγὼ Λεββαῖος ὁ ἐπικληθεὶς Θαδδαῖος, τάδε περὶ
+χηρῶν (96) διατάσσομαι. Χήρα οὐ χειροτονεῖται · ἀλλ’
+εἰ μὲν ἐκ πολλοῦ ἀπέβαλε τὸν ἄνδρα, καὶ σωφρόνως
+καὶ ἀκαταγνώστως ἔζησε, καὶ τῶν οἰκείων ἄριστα
+ἐπεμελήθη, ὡς Ἰουδὶθ καὶ Ἄννα, αἱ σεμνόταται,
+κατατασσέσθω εἰς τὸ χηρικόν. Εἰ δὲ νεωστὶ ἀπέβαλε
+τὸν ὁμύζυγον , μὴ πιστευέσθω, ἀλλὰ χρόνῳ νεότης
+κρινέσθω. Τὰ γὰρ πάθη ἔσθ’ ὅτε καὶ συγγηρᾷ (97)
+ἀνθρώποις, εἰ μὴ ⁴⁹ ὑπὸ κρείττονος χαλινοῦ εἰργό-
+μεθα ⁵⁰.
+
+# block=1
+Et ego Lebbæus, cognominatus Thaddæus, hæc
+de viduis constituo. Vidua non ordinatur : sed si
+multo ante amisit virum, et caste ac inculpabiliter
+vixit, ac domesticorum optime curam gessit, ut Ju-
+ditha ⁴⁷ et Anna ⁴⁸, sanctissimæ feminæ, cooptetur
+in gradum vidualem. Quod si nuper amisit conju-
+gem, ne illi credatur, sed tempore adolescentia di-
+judicetur. Perturbationes enim interdum cum ho-
+minibus consenescunt, nisi potiori freno coercea-
+mur.
+
+# block=28
+ΚΕΦΑΛΑΙΟΝ ΚϚ'.
+
+# block=24
+CAPUT XXVI.
+
+# block=35
+Idem de exorcista.
+
+# block=30
+Ὁ αὐτὸς περὶ ἐπορκιστοῦ.
+
+# block=4
+Ὁ αὐτὸς (98), περὶ ἐπορκιστοῦ διατάσσομαι. Ἐπορ-
+κιστὴς (99) οὐ χειροτονεῖται. Εὐνοίας γὰρ ἐχουσίου
+τὸ ἔπαθλον, καὶ χάριτος Θεοῦ διὰ Χριστοῦ, ἐπιφοι-
+τήσει τοῦ ἁγίου Πνεύματος· ὁ γὰρ λαβὼν χάρισμα
+ἰαμάτων, δι’ ἀποκαλύψεως ὑπὸ Θεοῦ ἀναδείκνυται ,
+φανερᾶς οὔσης πάσῃ τῆς ἐν αὐτῷ χάριτος. Ἐὰν δὲ
+χρεία αὐτοῦ γένηται εἰς ἐπίσκοπον, ἢ πρεσβύτερον,
+ἢ διάκονον, χειροτονεῖται.
+
+# block=5
+⁵¹ Ipse egomet, de exorcista constituo. Exorcista
+non ordinatur. Hæc enim certaminis laus pendet a
+libera et bona voluntate, et a gratia Dei per Chri-
+stum, adventu Spiritus sancti. Qui enim accepit
+charisma, seu donum sanationum, per revelationem
+a Deo declaratur, cunctisque manifesta est gratia
+quæ est in ipso. Si autem opus eo fuerit, in episco-
+pum, vel presbyterum, vel diaconum ordinatur.
+
+# block=18
+ΚΕΦΑΛΑΙΟΝ ΚΖ'.
+
+# block=17
+CAPUT XXVII.
+
+# block=37
+Simon Cananita de episcopo, a quot debeat ordinari.
+
+# block=26
+Σίμων (100) ὁ Κανανίτης, περὶ τοῦ ὑπὸ πόσων
+ὀφείλει χειροτονεῖσθαι ὁ ἐπίσκοπος.
+
+# block=36
+Σίμων δὲ ὁ Κανανίτης, κἀγὼ διατάσσομαι ὑπὸ πό-
+
+# block=38
+Et vero ego Simon Cananæus constituo, a quot
+
+# block=25
+⁴⁶ I Cor. VII, 25. ⁴⁷ Judith, VIII. ⁴⁸ Luc. II. ⁴⁹ al. συνηγορεῖ ἀνθρώποις μή. ⁵⁰ al. εἰργόμενα. Sic
+Vind. cod. ⁵¹ pseudo-Ignat. ad Antioch. 12.
+
+# block=21
+VARIORUM NOTÆ.
+
+# block=29
+cap. 11 : Quo ore Christianus thurarius, si per templa
+transibit, fumantes aras despuet, et exsufflabit, qui-
+bus ipse prospexit ? qua constantia exorcizabit alum-
+nos suos, quibus domum suam cellarium præstat ?
+Ille quidem si excluserit dæmonium, non sibi placeat
+de fide, neque enim inimicum exclusit ; facile debuit
+de eo impetrare quem quotidie pascit. Quem locum e
+multis unum delegi, ut indicarem cujusdam viri
+docti jocularem errorem : quod Tertullianus illic
+doceat, solitos a parentibus exorcizari proprios
+filios : quasi per alumnos, Altorum doctissimus in-
+telligeret liberos ; cum ita vocet dæmones, quod
+mercibus thurarii pascerentur. Idem Septimius De
+præscriptione hæreticorum, cap. 41, procacitatem
+mulierum hæreticarum insectatur, quæ exorcismos
+agere audebant. Postea charisma repellendi dæmo-
+nes paucioribus a Deo concessum est, sive ex clero,
+sive de plebe : Origenes, lib. VII, contra Celsum,
+paulo post initium. Atque hos solos exorcistas
+agnoscebat Ecclesia pseudo-Clementis nostri, ca-
+rens, instar plurimarum, exorcistis certo genere cle-
+ricorum. COT.
+
+# block=11
+(93) Toῦ αὐτοῦ. Desunt in cod. VIND. CLER.
+(94) Διατάσσομαι. Deest in eodem. Ib.
+(95) Λεββαῖον, Deest inscriptio hæc in eodem. In
+utroque hæc adduntur : Θαδδαῖος ὁ καὶ Λεββαῖος, ὁ
+ἐπικαλούμενος Ἰούδας ζηλώτης Ἐδεσσηνοῖς κηρύξας
+τὸν λόγον καὶ τοῦ ἐν τῇ μέσῃ τῶν ποταμῶν Ἀβγάρου
+Ἐδέσης τοπαρχοῦντος, τέθαπται ἐν Βηρύτῳ τῆς Φοι-
+νίκης. Ib.
+
+# block=6
+(96) Περί χηρῶν. Inter multa decreta ad hasce
+viduas pertinentia, est quoque canon 27 concilii
+Arausicani I, ita habens in editione Sirmondana.....
+De viduis professis, si nupserint aut raptæ fuerint....
+Vidualitatis servandæ professionem, coram episcopo in
+secretario habitam, imposita ab episcopo veste viduali
+indicandam. Raptores vero talium, vel ipsam talis
+professionis desertricem, merito esse damnandam.
+
+# block=8
+Ubi indicandam exponet alius : ego autem mu-
+tabo in vindicandam, cujus loco cæteræ editiones,
+non esse violandam ; legamque, imposita ab episcopo
+veste viduali, vindicandam. Cot.
+
+# block=10
+(97) Συγγηρᾷ. Lectio diversa, συνηγορεῖ, corrupta
+est ex συγγηρεῖ. Ib.
+
+# block=14
+(100) Σίμων, etc. Deest hic titulus in cod. VIND.
+Sed loco tituli est Σίμων ὁ Κανανίτης, κήρυξ τοῦ λό-
+γου, σταυρῷ τελειοῦται, ἐν τῇ Ἰουδαίᾳ, ἐπὶ Δομε-
+τιανοῦ. CLER.
+
+# block=13
+(98) Ὁ αὐτός. Hæ et tres sequentes voces absunt,
+in cod. VIND. CLER.
+
+# block=15
+(99) Ἐπορκιστής. Initio fungebantur hoc munere
+omnes Christiani. In Tertulliano De idololatria,

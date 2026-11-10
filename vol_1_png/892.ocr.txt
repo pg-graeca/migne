@@ -1,0 +1,174 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,210,1688,955,2636
+2,987,1992,1755,2639
+3,994,1340,1734,1984
+4,219,644,963,1681
+5,998,991,1742,1332
+6,231,145,972,483
+7,1004,142,1746,828
+8,1244,837,1488,873
+9,278,2671,822,2709
+11,644,84,1363,125
+12,236,93,305,132
+13,232,557,964,625
+15,1007,882,1739,989
+16,1678,93,1740,130
+17,457,506,729,552
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=210 source_y1=1688 source_x2=955 source_y2=2636
+Jam vero de his libris quid sentiendum, vel cui
+opinioni adhærendum sit, si rogetur, dicemus illos
+eo modo, quo nunc, et a tot sæculis repræsentan-
+tur, ab Clemente Romano profectos non esse.
+Constat enim quæcunque de mutatione vultus Fau-
+stiniani, et postea ibi narrantur, omnino fictitia
+esse, et aperte falsa. Et vero vel sola mendacia
+quæ Petro apostolorum principi ibidem tribuuntur,
+id invictissime demonstrant. Neque etiam cætera
+omnia, quæ in reliquo opere legimus, magis Cle-
+menti adjudicanda nobis videntur. Nam iter Ma-
+thidiæ, illiusque cum filiis suis Niceta et Aquila
+naufragium, illi tandem fortuitu occursus, quibus
+sese invicem ac patrem suum Faustinianum ipsum-
+que Clementem agnovisse feruntur, plane fabulosa
+et gratis ficta sunt. Fac tamen ea esse verissima;
+quid autem magis a verisimilitudine abhorret,
+quam verba et sermones quos Petrus ad suos et
+ad populum habuisse perhibetur? Quam multæ
+enim, Deus bone, ibi occurrunt nugæ, ineptiæ, fa-
+bulæ! quam multæ puerilia, perridicula et insulsa!
+quam multi errores atque mendacia? quam belle
+
+# block=2 source_x1=987 source_y1=1992 source_x2=1755 source_y2=2639
+Porro autem quamvis auctoris, a quo opus illud
+corruptum prodiit, nomen hactenus incognitum
+atque incompertum fuerit, quia tamen illud Græce \
+primum composuit, eum Græcum quemdam homi-
+nem fuisse vero certe est perquam simillimum. Is
+porro dialecticus fuit disputatorque acerrimus,
+qui varias philosophorum opiniones, astrologiam,
+mythologiam, omnes paganorum fabulas allegori-
+casque earum interpretationes, ac varias tandem
+variorum populorum leges, mores, consuetudines-
+que apprime callebat. Sed ille hæreticorum ac
+præcipue Ebionitarum erroribus omnino addictus
+erat, atque eos in suis lucubrationibus facilius ut
+propinaret, easdem ementito Clementis, apostolo-
+rum discipuli, magno nomine inscribi voluit.
+
+# block=3 source_x1=994 source_y1=1340 source_x2=1734 source_y2=1984
+De Epiphanii autem sententia, quæ hæreticos
+pauca his in libris, a Clemente scriptis, intacta re-
+liquisse pronuntiat, certi aliquid definire difficile
+est. Cum enim epistolæ quibus Clemens de sui
+operis facta ab hæreticis corruptione conquere-
+batur, ad nos pervenerint, divinare utique non
+possumus quæ sint illa pauca quæ hæretici integra
+reliquerunt. Quapropter nisi ea pauca clare sigil-
+latimque demonstrentur, nobis facillime persuade-
+bitur nihil in toto opere sanum, sed omnia cor-
+rupta esse et depravata. Cæterum si Epiphanius
+pauca quædam suo tempore sincera et genuina
+compererit, ille in alios, ab iis, qui nunc supersunt,
+codices manuscriptos incidisse haud immerito vi-
+detur.
+
+# block=4 source_x1=219 source_y1=644 source_x2=963 source_y2=1681
+Neque vero scriptorum recentiorum sententiæ
+minus quam antiquiorum a se invicem dissident
+secumque discordant. Quidam enim a Rufini opi-
+nione non longe abeunt, ut Lambertus Gruterus
+Venradius, qui de his libris sic sentit: Quantum
+ad Recognitionum Clementinarum libros attinet,
+eos vere Clementi nostro ascribo, tametsi corruptos
+esse agnoscam, ut dicetur infra. Et certe quasdam
+ille notat corruptiones, quibus ea omnia subjungit
+quæ de Faustiniani vultus transformatione ibidem
+leguntur. Quidam autem cum Bellarmino ad Epi-
+phanii sententiam magis inclinant; atque hos libros
+ab hæreticis fœde corruptos esse asserunt. Sed
+communior aliorum hujusce temporis criticorum
+opinio Clementem librorum illorum auctorem esse
+negat, affirmatque illos ab aliquo secundi sæculi
+scriptore fuisse depravatos, eosque repletos esse
+fabulis, nugis, somniis, mendaciis, atque sermoni-
+bus disputationibusque ineptis, absurdis et ridicu-
+lis; ac denique in iis reperiri fragmentum ex libro
+Bardesanis Syri, adversus Abydam astronomum
+edito, totidem verbis transcriptum. Fragmentum
+autem illud ab his verbis incipit ⁶² : Denique primi
+Seres, qui initio orbis terræ, etc.
+
+# block=5 source_x1=998 source_y1=991 source_x2=1742 source_y2=1332
+Verum, inquies, nihilne quod ab ipso Clemente
+profectum sit, toto in opere reliquum est amplius?
+Ut huic quæstioni fiat satis, animadvertas velim
+ex iis quæ protulimus rationum momentis colligi,
+eos a vero longe aberrare qui maximam hujus
+operis partem, iisque tantum quæ hæreticorum
+pravitate adjecta sunt, exceptis, Clementi nostro
+adjudicandam esse arbitrantur.
+
+# block=6 source_x1=231 source_y1=145 source_x2=972 source_y2=483
+tisse, ac tertio demum Trajani anno vitam finisse.
+Hinc colligas in omnibus Photii codicibus idem ac
+in editis nostris fuisse operis hujus initium. Porro
+autem nullus, uti opinamur, sibi facile persuadebit
+hoc idem opus ab eruditissimo illo viro fuisse Cle-
+menti adjudicatum; ut pote qui illud ipsum absur-
+dis nugis et Arianorum blasphemiis oppletum esse
+testetur.
+
+# block=7 source_x1=1004 source_y1=142 source_x2=1746 source_y2=828
+Petrus dialecticum sophistamque ibi agit, ipso
+Simone Mago longe subtiliorem? Quid vero de ejus
+ratione vivendi, mane surgendi, disputationes in-
+stituendi et ordinandi, in urbes ingrediendi, atque
+ab iis qui baptizati non erant, sese separandi, dici
+potest? Nonne hæc omnia operis hujus suppositio-
+nem evidenter arguunt? Quid adhuc magis fabulo-
+sum quam ea disputatio qua singuli apostoli, suo
+quique ordine, contra Caipham, Samaritanos,
+Scribas, aliosque Judæos decertasse finguntur?
+Denique in toto illo opere nullas reprehendimus,
+ejus cui ascribitur, nimirum Clementis Romani
+pontificis, apostolorum discipuli, notas nullosque
+characteres. Quod quidem ex sola quam dedimus
+hujus operis analysi cuilibet æquo rerum æstima-
+tori facile probabitur.
+
+# block=8 source_x1=1244 source_y1=837 source_x2=1488 source_y2=873
+ARTICULUS VI.
+
+# block=9 source_x1=278 source_y1=2671 source_x2=822 source_y2=2709
+⁶² Apud Euseb. lib. VI Præp. evangel.
+
+# block=11 source_x1=644 source_y1=84 source_x2=1363 source_y2=125
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=12 source_x1=236 source_y1=93 source_x2=305 source_y2=132
+1183
+
+# block=13 source_x1=232 source_y1=557 source_x2=964 source_y2=625
+Sententiæ recentiorum auctorum de his libris, et quid
+de iisdem sit sentiendum.
+
+# block=15 source_x1=1007 source_y1=882 source_x2=1739 source_y2=989
+Num aliquid a Clemente profectum his in libris su-
+persit; et quis eorum auctor, ac quo tempore sint
+scripti.
+
+# block=16 source_x1=1678 source_y1=93 source_x2=1740 source_y2=130
+1184
+
+# block=17 source_x1=457 source_y1=506 source_x2=729 source_y2=552
+ARTICULUS V.

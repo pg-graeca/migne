@@ -1,0 +1,161 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,210,865,960,1464
+2,212,126,963,856
+3,998,256,1750,1425
+4,204,2531,953,2670
+5,213,1497,1751,1572
+6,991,2180,1759,2433
+7,992,2526,1750,2668
+8,207,2182,961,2438
+9,615,72,1324,110
+11,1000,130,1743,254
+12,804,1604,1107,1641
+13,988,1673,1712,1914
+14,200,57,298,107
+15,1658,69,1750,119
+16,194,1661,968,1947
+17,700,2030,1238,2104
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=210 source_y1=865 source_x2=960 source_y2=1464
+LXXIII. Ingredienti autem mihi occurrit Zac-
+chæus dilectissimus frater noster, et inhærens am-
+plexibus meis perduxit ad hoc in quo ipse comma-
+nebat hospitium, requirens a me de singulis qui-
+busque fratribus, præcipue tamen de honorabili
+fratre nostro Jacobo. Cumque audisset a me, quod
+uno adhuc claudicaret pede, percontanti continuo
+causam, omnia hæc quæ nunc tibi exposuimus, ei
+enarravi; quomodo ¹³ evocati essemus a sacerdo-
+tibus et pontifice Caipha ad templum, et Jacobus
+archiepiscopus stans in summis gradibus, per se-
+ptem continuos dies universo populo de Scripturis
+Dominicis assignaverit, quod Jesus esset Christus,
+quove modo omnibus jam acquiescentibus, ut ab
+
+# block=2 source_x1=212 source_y1=126 source_x2=963 source_y2=856
+stum, et virtutem summam excelsi Dei (58), qui
+sit supra conditorem mundi, simulque mirabilia
+plurima ostendens alios dubitare, alios declinare
+fecerit ad se; cunctaque diligenter comperta ab
+his, qui prius vel socii ejus, vel discipuli fuerant,
+et post hoc ad Zacchæum conversi sunt, indicavit.
+Multi sunt ergo, inquit Jacobus, o Petre, quorum
+salutis causa proficisci te oportet, et arguere ma-
+gum, ac sermonem veritatis docere; sed nihil mo-
+reris, neque te contristet quod solus proficisceris,
+sciens comitem tibi et adjutorem Deum per Jesum,
+et cito per ejus gratiam multos tibi socios et una-
+nimes fore. Dato sane operam, ut per singulos an-
+nos præcipua quæque ex dictis gestisque tuis
+scripta mittas ad me, et maxime per septimanas
+annorum. Et his dictis dimissus ab eo, sex diebus
+perveni Cæsaream.
+
+# block=3 source_x1=998 source_y1=256 source_x2=1750 source_y2=1425
+LXXIV. Quibus cognitis Zacchæus rursus mihi
+quæ a Simone agerentur exponit; et inter hæc,
+nescio unde cognito adventu meo, ipse mandat ad
+me Simon : Audiente, inquit, populo die crastina
+disputemus. Cui ego : Fiat, inquam, ut libet. Et
+hæc pollicitatio mea universæ innotuit civitati, ita
+ut etiam tu qui ipsa die adveneras, disceres me die
+postera cum Simone habiturum esse certamen, et
+requisita mansione nostra secundum indicia quæ a
+Barnaba acceperas, venires ad nos. Ego vero in-
+gressu tuo ita gratulatus sum, ut nescio unde mo-
+tus, festinaverit animus meus exponere tibi cuncta
+velociter, præcipue tamen quod est in fide maxi-
+mum de vero propheta, quod unum ac totius do-
+ctrinæ fundamentum sufficere posse non ambigo;
+tum etiam ¹⁴ scriptæ legis per singula quæque capi-
+tula quorum ratio poscebat, secretiorem tibi intel-
+ligentiam patefeci, non occultans a te nec traditio-
+num bona. Quæ vero supersunt incipiens a die cra-
+stina, ex his quæ in quæstionibus cum Simone
+movebuntur, per dies singulos audies, usquequo
+Deo favente perveniatur ad ipsam quo iter nostrum
+dirigendum credimus urbem Romam. Cumque ad
+hæc ab eo dicta, omnem gratiam me ei debere pro-
+fiterer, facturumque omnia me quæ præciperet
+promptissime pollicerer, cibo sumpto quiescere nos
+jussit sibique ipse quietem dedit.
+
+# block=4 source_x1=204 source_y1=2531 source_x2=953 source_y2=2670
+(59) Cumque adhuc vespertinum lumen duraret.
+Ms. Candeler. clareret. Ut Clementinorum homil. III,
+n. 1 : Εὕρομεν τὸν μὲν λύχνον ἔτι φαίνοντα. De
+more lucernam non extinguendi, sed sinendi do-
+
+# block=5 source_x1=213 source_y1=1497 source_x2=1751 source_y2=1572
+¹³ Quomodo—dicamus desunt in utroque cod. Lips. ¹⁴ Tum etiam—traditionum bona pariter desunt
+in utroque cod. Lips.
+
+# block=6 source_x1=991 source_y1=2180 source_x2=1759 source_y2=2433
+Eliesdros et Phinees, Lazarus et Eliseus; post hos
+ego Clemens et Nicodemus, deinde Niceta et Aquila,
+qui fuerant prius discipuli Simonis, et docente
+Zacchæo conversi sunt ad fidem Christi. Mulierum
+sane nulla prorsus aderat. Cumque adhuc vesper-
+tinum lumen duraret (59), omnes resedimus, et
+
+# block=7 source_x1=992 source_y1=2526 source_x2=1750 source_y2=2668
+nec ultro consumeretur, videndus Plutarchus in
+Quæstionibus Romanis p. 281, F. Monachos etiam
+solitos ad lumen dormire, discimus ex eorum Re-
+gulis.
+
+# block=8 source_x1=207 source_y1=2182 source_x2=961 source_y2=2438
+I. Cum autem dies, quæ ad disceptandum cum
+Simone statuta fuerat, illucesceret, Petrus primis
+gallorum cantibus surgens excitavit etiam nos;
+eramus enim in eodem conclavi cubitantes simul
+omnes tredecim, in quibus primus post Petrum
+Zacchæus, deinde Sophonias, Josephus, et Michæas,
+
+# block=9 source_x1=615 source_y1=72 source_x2=1324 source_y2=110
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=11 source_x1=1000 source_y1=130 source_x2=1743 source_y2=254
+eo baptizarentur in nomine Jesu, inimicus homo
+effecerit illa omnia, quæ supra diximus, ut ne ea-
+dem iterum dicamus.
+
+# block=12 source_x1=804 source_y1=1604 source_x2=1107 source_y2=1641
+COTELERII NOTÆ.
+
+# block=13 source_x1=988 source_y1=1673 source_x2=1712 source_y2=1914
+Infandos omni magicæ dementia plenos
+  Persuasit, sese virtutem dicere summam;
+  Fingere cum meretrice, nefas peragrare, volare.
+Sine dubio scribi debet :
+  Infando Simoni magica dementia pleno
+  Persuasit, sese virtutem dicere summam :
+  Fingere, cum meretrice, nefas, peragrare, volare.
+
+# block=14 source_x1=200 source_y1=57 source_x2=298 source_y2=107
+1247
+
+# block=15 source_x1=1658 source_y1=69 source_x2=1750 source_y2=119
+1248
+
+# block=16 source_x1=194 source_y1=1661 source_x2=968 source_y2=1947
+duobus Societatis Jesu insignibus theologis, Dio-
+nysio Petavio ad Epiphanium in hæresi Simonia-
+norum, et Francisco Vigero in Euseb. Præparat.
+evangel. lib. 11, cap. 18.
+(58) Virtutem summam excelsi Dei. Miseris mo-
+dis deformati sunt versus Auctoris ψευδωνύμου et
+ἀνωνύμου, post Tertulliani Opera, lib. I, adversus
+Marcionem :
+
+# block=17 source_x1=700 source_y1=2030 source_x2=1238 source_y2=2104
+LIBER SECUNDUS.

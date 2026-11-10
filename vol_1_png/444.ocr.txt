@@ -1,0 +1,221 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,259,1760,1020,2726
+2,1047,2455,1799,2727
+3,263,513,1022,810
+4,1049,514,1802,810
+5,262,1596,1015,1763
+6,257,1433,1015,1598
+7,1041,964,1803,2456
+8,263,169,1018,384
+9,295,841,908,877
+10,263,969,1016,1430
+11,874,909,1178,942
+12,1295,470,1546,508
+13,650,110,1433,154
+14,543,471,740,507
+15,268,114,325,152
+16,1729,112,1797,154
+17,1055,174,1801,384
+18,259,384,1811,466
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=16px
+# block=14 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=16px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=16
+288.
+
+# block=15
+287
+
+# block=8
+tes; sed statim absumpta est illorum habitatio. Longe
+fiant filii eorum a salute; conterantur super januas
+minorum; et non erit qui eripiat. Quæ enim ab illis
+parata sunt, justi comedent; ipsi vero de malis non
+liberabuntur 48.
+
+# block=17
+καὶ γὰρ ἄφρονα ἀναιρεῖ ὀργή· πεπλανημένον δὲ
+θανατοῖ ζῆλος. Ἐγὼ δὲ ἑώρακα ἄφρονας ῥίζας
+βαλόντας, ἀλλ᾽ (68) εὐθέως ἐβρώθη αὐτῶν ἡ
+δίαιτα. Πόρρְω γένοιντο οἱ υἱοὶ αὐτῶν ἀπὸ σωτη-
+ρίας· κολαβρισθείησαν (69) ἐπὶ θύραις ἠσσόνων,
+
+# block=18
+καὶ οὐκ ἔσται ὁ ἐξαιρούμενος · ἃ γὰρ ἐκείνοις ἡτοίμασται, δίκαιοι ἔδονται · αὐτοὶ δὲ ἐκ κακῶν
+οὐκ ἐξαιρετοι ἔσονται.
+
+# block=12
+ΚΕΦΑΛΑΙΟΝ Μʹ.
+
+# block=14
+CAPUT XL.
+
+# block=3
+Cum 49 ergo hæc nobis manifesta sint, etiam in
+divinæ cognitionis profunda introspicientes, cuncta
+ordine debemus facere, quæ nos Dominus statutis
+temporibus peragere jussit : oblationes scilicet et
+officia perfici, neque temere vel inordinate fieri,
+præcepit, sed præfinitis temporibus et horis : ubi
+etiam et a quibus celebrari vult, ipse excelsissima
+
+# block=4
+Προδήλων οὖν ἡμῖν ὄντων τούτων, καὶ ἐγκεκυφό-
+τες (70) εἰς τὰ βάθη τῆς · θειας γνώσεως, πάντα
+τάξει (71) ποιεῖν ὀφείλομεν, ὅσα ὁ Δεσπότης ἐπιτελεῖν
+ἐκέλευσεν] κατὰ καιροὺς τεταγμένους· τάς τε προσ-
+φορὰς (72) καὶ λειτουργίας ἐπιτελεῖσθαι, καὶ οὐκ
+εἰκῇ ἢ ἀτάκτως ἐκέλευσεν γίνεσθαι, ἀλλ᾽ ὡρισμένοις
+καιροῖς (73) καὶ ὥραις· ποῦ τε καὶ διὰ τίνων ἐπιτε-
+
+# block=9
+⁴⁸ Job v, 1-5. ⁴⁹ Clem. Alex., Strom. IV.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=7
+προσενεγκόντες τὰ δῶρα. In quem sensum θεοφόρος
+Ignatius, nequidquam reclamante plagoso SS. Pa-
+trum Orbilio Dallæo, ait ad Smyrnenses, non licere
+absque episcopo οὔτε βαπτίζειν, οὔτε προσφέρειν,
+οὔτε θυσίαν προσκομίζειν. Nec aliter Justinus mar-
+tyr, cum elementa ad Eucharistiam adhibita, tum
+ad eulogias absentibus mittendas destinata Apol. II
+disertis verbis προσφοράς appellat. Sed apertissime
+omnium Irenæus, lib. IV, c. 39, rem totam exse-
+quitur : Dominus, inquit, discipulis suis dans consi-
+lium primitias Deo offerre ex suis creaturis, non quasi
+indigenti, sed ut ipsi nec infructuosi, nec ingrati,
+quod sæpius ingerit c. 33 et 34, et alibi passim.
+Quibus succinit B. Cyprianus De opere et eleemo-
+syna, quem fere descripsit August. serm. 13 De
+temp. Atque hanc ipsam ob causam, oblationum
+vox tam frequenter apud antiquissimos Ecclesiæ
+Patres occurrit, præsertim ubi de Eucharistiæ my-
+steriis agitur, ut et Missali Romano, imo vero et in
+Ecclesiæ nostræ Anglicanæ solemni officio etiam-
+num retineatur. Nimirum, ut sacratissima Eucha-
+ristiæ mysteria τὰ εἰρηνικά sive pacifica omnino
+videri possent, par erat ut qui sacris operaretur,
+munera sua Deo offerret, cumque eadem participa-
+ret, sacræ admotus mensæ numinis conviva fieret,
+possetque, ut D. Pauli verbis utar, θυσιαστηρίου
+μέτεχειν. Porro animadverti debet, eam fuisse pri-
+mitus non modo Eucharistiæ, sed et oblationum
+religionem, ut ab illa detineri ἀφορισμοῦ, sive ex-
+comunicationis gradus haberetur; et proinde
+apud sacros canones, præsertim Ancyranos, κοινωνi
+νία χωρὶς προσφορᾶς tanquam districtioris censuræ,
+et segregationis nota solebat irrogari, utcunque
+hoc minus observatum a viris doctissimis. Quin-
+imo in gravissimam inexpiabilis delicti pœnam ce-
+debat, si cui post mortem animadversio illa pro-
+rogaretur, nec in veniæ indultæ fidem oblationes
+defuncti nomine, quasi postliminio reciperentur;
+adeo Deo et sacris elargiri, non jactura, sed pri-
+vilegium et lucrum, nascente Ecclesia, habebantur.
+FELL.—Est qui velit hæc omnia esse mali comma-
+tis, ad finem usque capitis, et lectorem amandet ad
+Clementem Alexandrinum, p. 518. Eadem, in-
+quit, habes inter διατάξεις apostolicas, ut dicuntur.
+BERN.
+
+# block=10
+(68) Βαλόντας, ἀλλ᾽. Ita ex ms. Wott. et editt.
+Russel. Al. βάλλοντας, ἀλλά. GALL.
+- (69) Κολαβρισθείησαν. Id est contemnantur.
+Κόλαβρος, porcellus, quo apud Judæos nihil con-
+temptius. COLOM. Legimus apud Hesychium cum α,
+καλαβρισθείησαν, quod ille interpretatur χλευας-
+θείησαν. Nec non per ω, quod ab eo explicatur
+κωπηθείησαν et ποδοκοπηθείησαν. Vide quæ apud
+Suidam a Kustero observata fuerunt. WOTT. Sed
+magis ad rem facit Olympiodori scholion in hunc
+locum, a Lamberto Bosio in sua Bibliorum Græc.
+edit. relatum : Κολαβρισθείησαν, τουτέστιν, ἐπιτρι-
+θείησαν, ἐξευτελισθείησαν· κολαβρὸς γὰρ ὁ μικρὸς
+χοῖρος. GALL.
+
+# block=6
+(70) Ἐγκεκυφότες. Hanc esse germanam lectio-
+nem, non autem ἐκκεκυφότες, ut habet Clem. Alex.
+Στρωμ. lib. IV, cap. 16, p. 613, advertit Potter.
+Sic et infra cap. 53, Ἐγκεκύφατε εἰς τὰ λόγια τοῦ
+Θεοῦ. Idque Bois. jam antea viderat. ID.
+
+# block=5
+(71) Πάντα τάξει, κ. τ. λ. Editi sic distinguunt
+hunc locum : πάντα — ἐκέλευσεν· κατὰ καιροὺς,
+κ. τ. λ. Wott. tamen interpungit, ut apud Clem.
+Alex. quem heic et nos sequimur. Idem placuit et
+Dav. ID.
+
+# block=1
+(72) Τὰς τε προσφοράς, κ. τ. λ. Ista, duarum
+vocum sede mutata, mallet Dav. sic leg. : Τὰς τε
+προσφοράς καὶ λειτουργίας οὐκ εἰκῆ καὶ ἀτάκτως
+ἐκέλευσιν ἐπιτελεῖσθαι καὶ γίνεσθαι, ἀλλ᾽ ὡρισμένοις
+καιροῖς καὶ ὥραις. Id. — Προσφοράς. Satis constat
+δῶρα, προσφοράς, quodque eodem redit ὀσμήν εὐω-
+δίας, voces esse in Novo Testamento receptas; an
+vero per metaphoram et blandiora tropi tormenta
+usurpentur, aut absolute ex usu communi et rece-
+pta Ecclesiæ praxi admissæ fuerint, altius repeten-
+dum. Et quidem si Canones ii, qui apostolorum no-
+men præferunt, illos, aut saltem Clementem hunc
+nostrum (quod a quibusdam dici solet) auctorem
+haberent, nullus superesset dubitationi locus. Ca-
+non enim tertius sic ait : Εἴ τις ἐπίσκοπος ἢ πρες-
+βύτερος παρὰ τὴν τοῦ Κυρίου διάταξιν, ἐπὶ τῇ θυ-
+σία προσενέγκῃ ἕτερά τινα ἐπὶ τὸ θυσιαστήριον ἢ
+μέλι, ἢ γάλα, ἢ ἀντὶ οἴνου σίκερα, ἢ ὄρνεις, ἢ ζῶά
+τινα, ἢ ὄσπρια παρὰ τὴν διάταξιν, καθαιρείσθω·
+πλὴν νέων χήδρων, ἢ σταφυλῆς τῷ καιρῷ τῷ δέοντι, etc.
+Sed quandoquidem de eorum canonum fide dubita-
+tur, observari debet, primis temporibus, non solum
+singulis diebus Dominicis, in Christianorum con-
+ventu ex D. Pauli mandato, pauperum gratia col-
+lectam pecuniarum fuisse institutam; sed etiam
+ἀκροθίνια quædam doni, seu oblationis nomine sa-
+cræ mensæ fuisse allata. Hinc sæpius, in hac ipsa
+epistola, τῆς προσφορᾶς mentio; ubi etiam episcopi
+describuntur hoc charactere, et elogio, quod sint
+
+# block=2
+(73) Ὡρισμένοις καιροῖς. Omnibus tempus deter-
+minatum est et opportunitas omni negotio sub cœlis,
+inquit vir sapiens Eccles. III, 1. Serio dolendum,
+si paratas sibi habeant vices levissima vitæ munia,
+sola pietas, in cujus obsequium vita ipsa concessa
+fuit, temporis limitibus excluderetur. Revera se-
+ptimum diem humano generi a condito mundo
+maximis, id est suis auspiciis sanctum voluit

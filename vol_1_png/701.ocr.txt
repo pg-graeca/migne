@@ -1,0 +1,174 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,176,206,943,1922
+2,962,217,1731,1910
+4,956,2084,1726,2682
+6,789,2010,1091,2054
+8,611,74,1292,110
+9,183,74,233,112
+10,330,170,784,207
+11,169,2082,930,2721
+12,173,1923,1722,2000
+13,1194,127,1554,166
+14,425,130,689,163
+16,1127,170,1561,210
+17,1659,68,1727,118
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Ἔστωσαν δὲ καὶ οἱ διάκονοι ἐν πᾶσιν ἄμωμοι , ὡς
+καὶ ὁ ἐπίσκοπος· μόνον δὲ εὐσκυλτότεροι· ἀνάλογοι
+πρὸς τὸ πλῆθος τῆς Ἐκκλησίας· ἵνα καὶ τοῖς (2) ἀδυ-
+νάτοις ὑπηρετεῖσθαι (3) δύνωνται, ὡς ἐργάται ἀνεπ-
+αίσχυντοι. Καὶ ἡ μὲν γυνὴ τὰς γυναῖκας σπουδά-
+ζουσα θεραπεύειν· ἀμφότεροι δὲ τὰ πρὸς ἀγγελίαν (4),
+ἐκδημίαν, ὑπηρεσίαν, δουλείαν· ὡς καὶ περὶ τοῦ
+Κυρίου Ἠσαΐας ἔλεγε , φάσκων· « Δικαιῶσαι δίκαιον
+εὖ δουλεύοντα πολλοῖς. » Ἕκαστος οὖν τὸν ἴδιον γνωρι-
+ζέτω τόπον, καὶ ἐκτελείτω αὐτὸν σπουδαίως, ὁμο-
+φρόνως, ὁμοψύχως· γινώσκοντες τὸν τῆς διακονίας
+μισθόν. Ἔστωσαν δὲ καὶ ἀνεπαίσχυντοι εἰς τὸ ὑπηρε-
+τεῖσθαι τοῖς δεομένοις· ὡς καὶ ὁ Κύριος ἡμῶν Ἰησοῦς
+ὁ Χριστὸς οὐκ ἦλθε διακονηθῆναι , ἀλλὰ διακονῆσαι ,
+καὶ δοῦναι τὴν ψυχὴν αὐτοῦ, λύτρον ἀντὶ πολλῶν·
+οὕτως οὖν καὶ αὐτοὺς δεῖ ποιεῖν. Κἂν δέῃ (5) ψυχὴν
+ὑπὲρ (6) ἀδελφοῦ ἀποθέσθαι, μὴ διστάσωσιν· οὐδὲ γὰρ
+ὁ Κύριος καὶ Σωτὴρ ἡμῶν Ἰησοῦς ὁ Χριστὸς ἐδίστασε
+τὴν ψυχὴν αὐτοῦ θεῖναι (7), ὡς αὐτὸς ἔφη, ὑπὲρ τῶν
+φίλων αὐτοῦ. Εἰ οὖν ὁ Κύριος τοῦ οὐρανοῦ καὶ τῆς
+γῆς πάντα ὑπέμεινε δι’ ἡμᾶς, πῶς ἂν ὑμεῖς διακονῆ-
+σαι τοῖς δεομένοις ἐνδοιάσητε· μιμηταὶ ὀφείλοντες
+αὐτοῦ εἶναι, τοῦ καὶ δουλείαν, καὶ ἔνδειαν (8), καὶ
+πληγὰς, καὶ σταυρὸν δι’ ἡμᾶς ὑπομείναντος; Χρὴ οὖν
+καὶ ἡμᾶς δουλεύειν τοῖς ἀδελφοῖς, ὡς Χριστοῦ μιμη-
+τάς. « Ὁ θέλων γὰρ , φησὶν , ἐν ὑμῖν εἶναι μέγας ,
+ἔστω ὑμῶν διάκονος· καὶ ὁ θέλων ἐν ὑμῖν εἶναι πρῶ-
+τος, ἔστω ὑμῶν δοῦλος. » Οὕτω γὰρ καὶ αὐτὸς ἔργῳ
+πεπλήρωκε τὸ εὖ δουλεύειν πολλοῖς , καὶ οὐ λόγῳ.
+Λαβὼν γὰρ λέντιον, διεζώσατο· εἶτα βάλλει (9) ὕδωρ
+εἰς τὸν νιπτῆρα· καὶ ἡμῶν ἀνακειμένων ἐπελθὼν,
+πάντων ἡμῶν ἔνιψε τοὺς πόδας, καὶ τῷ λεντίῳ ἐξέ-
+μαξε. Τοῦτο δὲ ποιῶν, ἐπεδείκνυεν ἡμῖν τὸ τῆς φιλα-
+δελφίας ἀγαπητικὸν, ἵνα καὶ ἡμεῖς εἰς ἀλλήλους αὐτὸ
+ποιῶμεν. Εἰ οὖν ὁ Κύριος ἡμῶν, καὶ ὁ διδάσκαλος,
+οὕτως ἐταπείνωσεν ἑαυτόν· πῶς ἂν ὑμεῖς ἐπαισχυν-
+θήσεσθε τοῦτο ποιῆσαι τοῖς ἀδυνατοις καὶ ἀσθενέσι τῶν
+ἀδελφῶν. ἐργάται ὄντες ἀληθείας, καὶ τῆς εὐσεβείας
+προστάται; Ἐξυπηρετεῖτε οὖν ἀγαπητικῶς, μὴ ἐπι-
+
+# block=2
+Sint autem diaconi omni vitio immunes, sicut
+et episcopus ; tantummodo activiores ; multitudini
+Ecclesiæ congruentes ; ut et invalidis possint mi-
+nistrare, tanquam operarii, nihil pudore deterriti.
+Ac mulier quidem mulieribus providere studeat :
+utrique vero munia nuntiandi , digrediendi , mini-
+strandi, serviendi obeant ; quemadmodum de Domi-
+no dixit Isaias : « Justificare , inquit , justum , bene
+servientem multis ²⁴. » Singuli igitur locum suum
+ac munus agnoscant, impleantque diligenter, con-
+cordi mente et anima ; scientes mercedem ministe-
+rii. Nec vero pudeat eos egentibus ministrare : « sicut
+Dominus noster Jesus Christus non venit ut sibi mi-
+nistraretur ; sed ut ministraret , et daret animam
+suam , redemptionem pro multis ²⁵. » Hunc ergo in
+modum et ipsos facere oportet. Et quamvis anima
+pro fratre ponenda sit , nequaquam hæreant ; neque
+enim Dominus et Salvator noster Jesus Christus , ut
+ipse ait , pro amicis suis hæsitavit animam suam
+ponere ²⁶. Quod si cæli ac terræ Dominus omnia
+propter nos sustinuit ; quomodo vos indigentibus
+ministrare dubitetis, cum teneamini eum imitari,
+qui servitutem , egestatem , verbera et crucem
+propter nos pertulit? Oportet igitur et nos fratri-
+bus servire, tanquam Christi imitatores. « Qui
+enim , inquit , vult inter vos esse magnus , sit vester
+minister ; et qui vult inter vos esse primus , sit ve-
+ster servus ²⁷. » Nam sic ipse etiam illud : Bene
+servire multis ²⁸ , opere implevit , non verbis. Si-
+quidem , accepto linteo , præcinxit se ; deinde misit
+aquam in pelvim ; et ad nos recumbentes accedens ,
+omnium nostrum pedes lavit ac linteo extersit ²⁹.
+Quod faciens, ostendit nobis fraternæ benevolentiæ
+charitatem ; ut et nos idem mutuo faciamus. Itaque
+si Dominus noster ac præceptor tantum se demi-
+sit ; quo pacto vos erubescetis hoc agere erga fra-
+tres debiles ac infirmos, cum sitis veritatis opera-
+rii, et præsides pietatis? Quocirca cum charitate
+ministrate, non murmurantes, nec dissidia commo-
+
+# block=4
+xxiv , 23 , sic passim apud Xenophontem aliosque
+Græcos scriptores. Id.
+(4) Ἀμφότεροι δὲ τὰ πρὸς ἀγγελίαν , etc. De
+diaconissis egimus supra. Diaconorum vero officia
+et ministeria quis cuncta queat numerare ? Notatu
+dignum illud , in Vita S. Epiphanii , num. 56 ,
+quod pertinebat ad postremum diaconum , ἐπιχο-
+σμεῖν τὸν θρόνον τοῦ ἐπισκόπου , exornare thronum
+seu cathedram episcopalem. Cot.
+(5) Δέῃ. Alter cod. addit τὴν ἑαυτῶν , suam ipso-
+rum animam. Cler.
+(6) Ὑπέρ. Alter cod. ἀντί , et paulo post διστά-
+σαι, eodem sensu. Id.
+(7) Θεῖναι. Alter θείς , non male. Id.
+(8) Ἔνδειαν. Ὄνειδος , alter cod. non absurde.
+Id.
+(9) Βάλλει. Alter βαλών , quod est narrationi con-
+venientius. Id.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=8
+CONSTITUTIONES APOSTOLICÆ.—LIB. III.
+
+# block=9
+801
+
+# block=10
+Οἷος ὀφείλει εἶναι ὁ διάκονος.
+
+# block=11
+sermone 10, et ad locum Matthæi ; Isidorum Pelu-
+siotam lib. iv, epist. 24 ; Cæsarium dialogo 1, Re-
+spons. ad interrog. 29 ; et Ambrosium ult. De sa-
+cramentis ult. Porro apud Lucianum in Dialogo cui
+situlus Philopatris, initium ac finis iste orationis in-
+dicantur : Τὴν εὐχήν , ait nescio quis ille , ἀπὸ Πα-
+τρὸς ἀρξάμενος , τὴν δὲ πολυώνυμον ᾠδὴν εἰς τέλος
+ἐπιθείς , orationem a Patre incipiens , et celebre can-
+ticum ad fidem apponens. Adde ex Lambecio Scho-
+lium libri Cæsarei Theol. Græc. 29 : Τὸ δὲ ὅτι σοῦ
+ἐστιν ἡ βασιλεία καὶ ἡ δύναμις καὶ ἡ δόξα , ἐν τισὶν
+οὐ κεῖται μέχρι τοῦ Ἀμήν. Id.
+(2) Τοῖς. Alter codex ἐν τοῖς , minus bene, cum
+sermo sit de officiis a diaconis præstandis homini-
+bus , qui sibi necessaria prospicere nequeunt ,
+quales ἀδύνατοι dicuntur. Cler.
+(3) Ὑπηρετεῖσθαι. Alter cod. ὑπηρετεῖν, rectius ;
+solet enim verbum hoc in activa conjugatione , non
+in media, adhiberi. Vide infra et Act. xx , 34 ;
+
+# block=12
+²⁴ Isa. liii , 11 , in LXX. ²⁵ Matth. xx , 28. ²⁶ Joan. x , 15 ; et xv , 13. ²⁷ Matth. xx , 26. ²⁸ Isa.
+liii , 11. ²⁹ Joan. xiii , 4.
+
+# block=13
+CAPUT XIX.
+
+# block=14
+ΚΕΦΑΛΑΙΟΝ ΙΘ'.
+
+# block=16
+Qualis esse debeat diaconus.
+
+# block=17
+802

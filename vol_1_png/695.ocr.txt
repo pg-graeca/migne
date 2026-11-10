@@ -1,0 +1,193 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,992,413,1737,1313
+2,990,1494,1735,1960
+3,210,401,961,1308
+4,208,1488,955,1959
+5,218,151,967,314
+6,983,2081,1738,2707
+9,206,1417,949,1488
+10,206,2081,951,2708
+11,1262,1366,1451,1400
+12,453,1365,698,1395
+13,646,99,1324,135
+14,409,371,749,402
+15,1217,374,1517,402
+16,816,2009,1112,2045
+18,1681,109,1732,139
+19,1257,322,1467,366
+20,457,322,743,368
+21,989,152,1743,282
+22,209,90,299,142
+23,989,1414,1733,1494
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+De invidia vero, æmulatione, maledicentia, dis-
+cordia, et contentione, jam vobis diximus, aliena
+esse hæc a Christiano, maximeque a viduis. Cum
+tamen diabolus, impulsor versutus et mille no-
+cendi artes callens, in falso viduas tanquam
+triumpho ejus paratas collimet; quemadmodum olim
+in Cainum. Nonnullæ enim se viduas prædicant, at
+viduitate digna præcepta non servant; sicut nec
+Cainus jura fraterna. Ignorant enim, quod non vi-
+duitatis nomen illas in regnum introducet, sed vera
+fides, et sancta opera. Si quæ vero nomen viduita-
+tis obtinet, et adversarii studia peragit; viduitas
+ejus non computabitur, et repulsa a regno, æternæ
+pœnæ tradetur. Audimus enim quasdam esse vi-
+duas æmulas, invidas, calumniatrices, aliarum le-
+vamentis anxias. Quæ tales sunt, ad Christum non
+pertinent, nec discipulæ æstimantur doctrinæ Chri-
+stianæ. Siquidem, cum aliqua pariter vidua a quo-
+piam induta fuit, aut accepit vel pecuniam, vel
+cibum, vel potum, vel calceos; oportuisset eas,
+recreatam sororem suam intuitas, dicere:
+
+# block=2
+Benedictus es, Deus, qui conviduam recreasti:
+benedic, Domine, et clarifica eum, qui illi submi-
+nistravit; ut opus ejus in veritate ascendat ad te:
+et memineris illius, in bonum, die visitationis ejus.
+Sed et benedic episcopo meo, qui recte tibi mi-
+nistravit, et opportunam eleemosynam convetuæ
+meæ nudæ fieri docuit: addas ei gloriam et des ei
+coronam exsultationis in die quo revelabitur visi-
+tatio tua. Similiter et vidua, quæ misericordiam
+accepit, comprecetur pro eo, qui illi præbuit mi-
+nisterium.
+
+# block=3
+Περὶ δὲ φθόνου, ἢ ζήλου, ἢ καταλαλιᾶς, ἢ ἔριδος,
+ἢ φιλονεικίας, προείρηται ὑμῖν, ὅτι ταῦτα Χριστια-
+νοῦ (63) ἀλλότρια, καὶ μάλιστα ἐπὶ χηρῶν. Ἐπειδὴ
+δὲ ὁ ἐνεργῶν διάβολος πολύτροπος καὶ ποικίλος ὑπάρ-
+χων, εἰς τὰς μὴ χήρας ἐμπομπεύει, ὡς καὶ ποτε εἰς
+τὸν Κάϊν. Ἔνιαι γὰρ λέγουσιν εἶναι χῆραι, τὰ δὲ τῆς
+χηρείας ἄξια παραγγέλματα οὐ ποιοῦσιν, ὡς οὐδ’
+ὁ Κάϊν τὰ ἀδελφικὰ δικαιώματα. Ἀγνοοῦσι γὰρ ὡς
+οὐ τὸ ὄνομα τῆς χηρείας εἰς βασιλείαν αὐτὰς εἰσάξει,
+ἀλλ’ ἡ ἀληθὴς πίστις καὶ τὰ ὅσια (64) ἔργα. Εἰ δέ
+τις τὸ μὲν ὄνομα τῆς χηρείας κέκτηται, τὰ δὲ τοῦ
+ἀντικειμένου ἐπιτελεῖ ἐπιτηδεύματα, ἡ μὲν χηρεία
+αὐτῆς οὐ λογισθήσεται, ἐξωσθεῖσα δὲ τῆς βασιλείας,
+αἰωνίᾳ κολάσει παραδοθήσεται. Ἀκούομεν γάρ τινας
+χήρας ζηλοτύπους, φθονεράς, διαβόλους, βασκαινού-
+σας ταῖς ἑτέρων ἀνέσεσιν· αἱ δὲ τοιαῦται οὐκ εἰσὶ
+τοῦ Χριστοῦ, οὐδὲ τῆς ἐκείνου διδασκαλίας μαθήτριαι.
+Δέον γὰρ αὐτὰς, ἐνδυθείσης αὐτῶν συγχήρας ὑπό
+τινος, ἢ λαβούσης ἀργύρια (65), ἢ τροφὴν, ἢ πόμα,
+ἢ ὑπόδεσιν, θεασαμένας τὴν ἀδελφὴν αὐτῶν ἀναψύ-
+ξασαν, εἰπεῖν·
+
+# block=4
+Εὐλογητὸς (66) εἶ, ὁ Θεὸς, ὁ ἀναψύξας τὴν συγχήραν·
+εὐλόγησον, Κύριε, καὶ δόξασον τὸν διακονήσαντα αὐ-
+τῇ, καὶ τὸ ἔργον αὐτοῦ ἀναβῆναι ἐν ἀληθείᾳ πρὸς
+σέ· καὶ μνησθήσῃ (67) αὐτοῦ εἰς ἀγαθὸν ἐν ἡμέρᾳ
+ἐπισκοπῆς αὐτοῦ (68). Καὶ τὸν ἐπίσκοπόν μου τὸν
+καλῶς σοι λειτουργήσαντα (69), καὶ διδάξαντα εὔκαι-
+ρον ἐλεημοσύνην γυμνῇ οὔσῃ τῇ συγχήρῳ μου γενέ-
+σθαι· προσθείης αὐτῷ δόξαν, καὶ δῴης αὐτῷ στέφανον
+καυχήσεως ἐν ἡμέρᾳ ἀποκαλύψεως ἐπισκοπῆς σου.
+Ὁμοίως καὶ ἡ λαβοῦσα χήρα τὸ ἔλεος, συμπροσεύ-
+χέσθω τῷ διδόντι αὐτῇ τὴν διακονίαν (70).
+
+# block=5
+μοις χειροτονεῖν διακόνους, ἢ διακονίσσας, ἢ ἀναγνώ-
+στας, ἢ ὑπηρέτας, ἢ ᾠδοὺς, ἢ πυλωροὺς, ἀλλὰ μόνοις
+τοῖς ἐπισκόποις. Αὕτη γάρ ἐστι τάξις ἐκκλησιαστικὴ
+καὶ ἁρμονία.
+
+# block=6
+ea quæ habet impertit. Deus enim res a se conditas
+omnino nobis tribuit. Quocirca hoc scitote, qui divi-
+tiis polletis, vos ministrare debere, cum plura quam
+vobis opus sint acceperitis. Intelligite deesse ea aliis,
+quæ vobis supersunt. Erubescite qui aliena retinetis,
+atque æquitatem Dei vobis imitandam proponite, et
+nemo pauper erit. Græce ex Bibliotheca Claromon-
+tana hujus urbis : Ἐκ τοῦ ἁγίου Πέτρου· Πλού-
+σιος ἐκεῖνός ἐστιν ὁ πολλοὺς ἐλεῶν, ὁ δὲ κατὰ
+Θεοῦ μίμησιν ἐπιδιδοὺς ἐξ ὧν ἔχει. Θεὸς γὰρ
+πάντα πᾶσιν ἔδωκεν ἐκ τῶν αὐτοῦ κτισμάτων.
+Σύνετε δὴ, πλούσιοι, ὅτι διακονεῖν ὀφείλετε, λα-
+βόντες πλείονα, ὧν αὐτοὶ χρήζετε. Μάθετε ὅτι
+ἑτέροις λείπει τὰ ὑμῖν περισσεύοντα· αἰσχύνθητε
+κατέχοντες ἀλλότρια. Μιμήσασθε ἰσότητα Θεοῦ,
+καὶ οὐδεὶς ἔσται πένης. Cujus loci postrema citata
+reperies in Gregorio Nazianzeno orat. 16, p. 254,
+sic : Μὴ γενώμεθα κακοὶ τῶν δοθέντων ἡμῖν οἰκονό-
+μοι, ἵνα μὴ ἀκούσωμεν Πέτρου λέγοντος· Αἰσχύν-
+
+# block=9
+Ὅπως δεῖ προσεύχεσθαι τὰς χήρας ὑπὲρ τῶν
+διδόντων τὰ πρὸς τὰς χρείας.
+
+# block=10
+(63) Χριστιανοῦ. Codex alter Χριστιανοῖς. CLER.
+(64) Ὅσια. Idem habet θεῖα. ID.
+(65) Ἀργύρια. Alter cod. ἀργύριον. ID.
+(66) Εἶ. Abest a cod. altero Vind. ID.
+(67) Καὶ μνησθήσῃ. Alter cod. μνήσθητι sine
+καὶ. ID.
+(68) Αὐτοῦ. Idem σοῦ non mutata sententia; visit
+enim Deus, homines visuntur. ID.
+(69) Σοὶ λειτουργήσαντα. Absunt ab altero co-
+dice, ut et δόξαν καὶ δώσης αὐτῷ. Quæ omnia sine
+sensus jactura tolli revera possunt. ID.
+(70) Τὴν διακονίαν. Locutio Scripturæ et Patrum
+in significanda eleemosyna. Nihil enim frequentius,
+quam διακονία et διακονεῖν, ministerium et mini-
+strare, hoc sensu. Unum sufficiet, sed præ cæteris
+illustre testimonium, quod Joannes Damascenus ex
+Doctrina Petri excerpsit, ac in Paralellorum suo-
+rum lib. II, cap. 16, retulit : Dives est ille, qui mul-
+tis misericordiam tribuit, et qui ad Dei imitationem,
+
+# block=11
+CAPUT XIII.
+
+# block=12
+ΚΕΦΑΛΑΙΟΝ ΙΓ’.
+
+# block=13
+CONSTITUTIONES APOSTOLICÆ.—LIB. III.
+
+# block=14
+Ἀποτροπὴ βασκανίας.
+
+# block=15
+Dehortatio ab invidia.
+
+# block=16
+VARIORUM NOTÆ.
+
+# block=18
+790
+
+# block=19
+CAPUT XII.
+
+# block=20
+ΚΕΦΑΛΑΙΟΝ ΙΒ’.
+
+# block=21
+vel diaconissas, vel lectores, vel ministros, vel can-
+tores, vel janitores ; sed episcopis solis. Hic enim
+est ecclesiasticus ordo, et concentus.
+
+# block=22
+789
+
+# block=23
+Quomodo oporteat viduas orare pro iis, qui necessa-
+ria tribuunt.

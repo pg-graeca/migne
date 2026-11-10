@@ -1,0 +1,201 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,240,1860,995,2726
+2,243,152,988,533
+3,1028,1858,1783,2157
+4,1025,139,1777,607
+5,240,698,991,1744
+6,1025,2587,1769,2654
+7,1026,2652,1771,2722
+8,1016,706,1777,1748
+9,1026,2518,1767,2588
+10,1026,2386,1768,2521
+11,862,1818,1156,1850
+12,1026,2156,1774,2289
+13,647,89,1356,128
+14,1026,2288,1771,2356
+15,1261,617,1514,651
+16,516,612,711,647
+17,233,98,315,138
+18,1711,78,1779,118
+19,301,648,921,700
+20,1027,654,1771,704
+21,281,1736,1593,1806
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Τὸ οὖν Ἀδωναῒ Κυρίου, τῷ νοήσαντι τὰ εἰρημένα
+περὶ τοῦ ἀῤῥήτου ὀνόματος, οὐδὲν διαφέρει τοῦ Κυ-
+ρίου, (f. Κυρίου Κυρίου,) ὡς ἐκδεδώκαμεν. Hoc est :
+In quibusdam autem scriptum est : « Manus Domini
+Domini. » Atqui diximus alibi, sæpe quod exprimi-
+tur in voce Dominus, esse venerandum illud apud
+Hebræos nomen Dei, quod quidem non cito proferunt.
+Verumtamen est etiam cum nomen Dominus usurpatur
+de domino servorum. Ubi igitur ponitur Dominus
+Dominus, sciendum est, alterum quidem esse quasi
+proprium et ineffabile nomen Dei; reliquum vero
+Dominus, Hebræi Adonai, de Domino ponunt : inter-
+dum quidem proferentes vocem istam in nomine in-
+effabili, interdum vero tanquam in Domino servorum.
+Illud igitur Adonai Domini, intelligenti quæ dicta
+sunt de ineffabili nomine, nihil differt a Domini Do-
+mini, ut explicuimus. Quocirca ex corruptis exem-
+plaribus (qualia memorantur in editione Romana
+ad Ezech. cap. 11) Dominus Adonai citatur a Ter-
+tulliano, cap. 20 libri De resurrectione carnis, et
+ab Origene homil. 4 et 12 in Ezechielem; falsum-
+que est quod in dicta homilia quarta subjungitur :
+Prius nomen Dei quatuor litterarum est, quod inter-
+pretatur naturaliter Deus. Quanquam his quoque in
+locis librarii accusari queant, qui Adonai Domi-
+nus mutaverint in Dominus Adonai, et posterius in
+
+# block=2
+sed potius, ut impius convertatur a via sua prava,
+et vivat. Convertimini ergo a viis vestris malis, et
+quare morimini, domus Israel⁸³ ? » Hic Scriptura
+bene sperare peccatores jussit, et salutem, si resi-
+puerint, exspectare : ne quasi deplorati, crimini-
+bus succumbant; sed ut sperata salute ad se re-
+versi, peccata sua coram Deo defleant; a quo, pa-
+tre videlicet bono, oblivionem scelerum ac impu-
+nitatem consequantur.
+
+# block=3
+prius. Maxime cum ms. codex homiliarum Orige-
+nis, ad Christianissimum regem pertinens, homilia
+illa quarta exhibeat, Adonai Dominus, et nomen Do-
+mini, rectius sine dubio. Certe liber Regius 2431,
+in fragmento Constitutionum hic habet Κύριος
+Ἀδωναΐ. Cot. In altero ms. Vindobonensi Κύριος
+ὁ Θεός expressa compendiaria scriptura κς ὁ θς.
+(40) Ἢ. Omittitur in altero cod., nec sane neces-
+sarium est. Cler.
+
+# block=4
+τὸν θάνατον τοῦ ἁμαρτωλοῦ, ἀλλ' ἢ (40) ἐν τῷ ἀπο-
+στρέψαι τὸν ἀσεβῆ ἐκ τῆς ὁδοῦ αὐτοῦ τῆς πονηρᾶς,
+καὶ ζῇν. Ἐπιστράφητε οὖν ἀπὸ τῶν ὁδῶν ὑμῶν τῶν
+πονηρῶν, καὶ ἵνα τί ἀποθνήσκεται (41) οἶκος Ἰσραήλ; »
+Ἐνταῦθα ὁ λόγος (42) εὐέλπιδας ἐποίησε τοὺς ἡμαρ-
+τηκότας, ὅτι ἐὰν μετανοήσωσιν, ἐλπίδα σωτηρίας
+ἕξουσι· μήποτε ὡς ἀπηλγηκότες αὑτοὺς (43) ἐκδῶσι
+ταῖς παρανομίαις, ἀλλ' ἔχοντες ἐλπίδα σωτηρίας ἐπι-
+στραφέντες προσκλαύσωσι Θεῷ περὶ τῶν ἁμαρτιῶν
+αὐτῶν, καὶ (44) λήψωνταί παρ' αὐτοῦ τὴν ἀμνηστίαν,
+ὡς παρὰ πατρὸς ἀγαθοῦ.
+
+# block=5
+Porro qui insontes sunt, ita maneant, nec sibi
+commodum putent peccatorum experimentum ; ne
+dolore, tristitia ac fletibus satisfactionis indigeant.
+An enim, o homo, qui peccasti, compertum ha-
+bes, te aliquot dies in hac vita moraturum, ut
+pœnitentiam agere possis ? Incertum obitus tui tem-
+pus ; et in peccato morienti nulla dabitur pœni-
+tentia, sicuti per Davidem dicitur : « In inferno
+autem quis confitebitur tibi ⁸⁴ ? » Oportet igitur pa-
+rata habere bona ; quo absque tristitia illud iter
+emetiamur. Unde sacra Scriptura per sapientem
+Salomonem suadet ac dicit tibi : « Præpara in exi-
+tum opera tua, et præpara in agrum ⁸⁵, » ne quid
+boni desit nobis ; ut quinque Evangelii virginibus
+propter fatuitatem defuit oleum pietatis, seu bo-
+norum operum ; et exstinctis divinæ cognitionis
+lampadibus, a thalamo sponsi sunt exclusæ ⁸⁶. Quare
+securus vivit, quicunque vitæ suæ parcit, et pec-
+cati expers perseverat, ut præcedentia merita sua
+sibi conservet. Tu vero, episcope, ita in judicando
+te gere, quasi Deo judicans. « Domini enim, » in-
+quit, « est judicium ⁸⁷. » Et primo quidem pro po-
+testate reum condemna ; deinde cum misericordia,
+miseratione et illecebris adjunge eum tibi, atque
+
+# block=6
+(46) Διά usque ad σοῦ. Desunt in codd. Vindo-
+bonensibus. Id.
+
+# block=7
+(47) Ἀποσβέσασαι ad θεογνωσίας. Desunt in
+altero codice, nec necessaria sunt. Id.
+
+# block=8
+Τοὺς μέν τοι ἀναμαρτήτους, τοίους μένειν χρή,
+καὶ μὴ χρείαν ἔχειν τῆς πείρας τῶν ἁμαρτιῶν, ὅπως
+μὴ δέωνται ὀδύνης, λύπης, καὶ κλαυθμῶν ἀφέσεως.
+Τί γὰρ οἶδας, ἄνθρωπε, ἁμαρτήσας, εἰ ἡμέρας ζήσεις
+ἐν τῷδε τῷ βίῳ, ἵνα καὶ μετανοήσῃς ; ὅτι ἄδηλος ἡ
+ἔξοδός σου ἐκ τοῦ βίου ὑπάρχει, καὶ ἐν ἁμαρτίᾳ τε-
+λευτήσαντι μετάνοια οὐκ ἔσται· ὡς λέγει διὰ τοῦ
+Δαβίδ· « Ἐν δὲ τῷ ᾅδῃ τίς ἐξομολογήσεταί σοι ; » Δεῖ
+οὖν ἕτοιμον εἶναι ἐν ἀγαθοῖς· ἵνα ἄνευ λύπης τὴν
+ὁδὸν (45) ἐκείνην στειλώμεθα. Διὸ καὶ παραινεῖ ὁ
+θεῖος λόγος διὰ (46) Σολομῶντος τοῦ σοφοῦ λέγων σοι·
+« Ἑτοίμαζε εἰς τὴν ἔξοδον τὰ ἔργα σου, καὶ παρα-
+σκευάζου εἰς τὸν ἀγρὸν, » ἵνα μὴ ἐπιλείψῃ ἡμῖν τι
+τῶν καλῶν· ὥσπερ καὶ ταῖς πέντε ἐν τῷ Εὐαγγελίῳ
+παρθένοις διὰ μωρίαν ἐπέλειπε τὸ τῆς εὐσεβείας
+ἔλαιον, καὶ ἀποσβέσασαι (47) τὰς λαμπάδας τῆς
+θεογνωσίας ἀπεβλήθησαν τοῦ νυμφῶνος. Διὰ τοῦτο
+ἀκίνδυνος μένει πᾶς ὁ φειδόμενος τῆς ἑαυτοῦ ζωῆς,
+καὶ μένων ἀναμάρτητος, ὅπως καὶ τὰς προγεγονυίας
+ὑπ' αὐτοῦ δικαιοσύνας αὐτῷ συντηρήσῃ. Σὺ οὖν οὕτω
+κρίνε, ὡς Θεῷ δικάζων. « Τοῦ γὰρ Κυρίου, φησὶν, ἡ
+κρίσις. » Πρῶτον οὖν ἀπ' ἐξουσίας τὸν ἔνοχον κατα-
+δίκαζε· ἔπειτα μετὰ ἐλέου καὶ οἰκτιρμοῦ καὶ προσλή-
+ψεως οἰκειοῦ, ὑπισχνούμενος αὐτῷ σωτηρίαν, εἰ με-
+
+# block=9
+(45) Τὴν ὁδόν. Alter cod. ἔξοδον bene, sermo
+enim est de vitæ exitu. Cler.
+
+# block=10
+(44) Αὐτῶν, καί. Insere : Καὶ μετανοήσωσιν ἐκ
+καρδίας, ἐξευμενισάμενοι αὐτόν, et pœnitentiam ex
+corde agant, placantes eum. Cot. Sic habet etiam
+alter codd. Vindobonensium.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=12
+(41) Ἀποθνήσκεται. Alter habet ἀποθνήσκετε,
+melius, sed oporteret scribi, ὦ οἶκε Ἰσραήλ : quan-
+quam potest etiam ferri nominativus loco vocativi,
+ut est apud LXX Intt., Ezech. xxxiii, 11. Id.
+
+# block=13
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=14
+(42) Ὁ λόγος. Deest in utroque, et revera ex re
+ipsa subaudiri potest, et sæpe subauditur Γραφή. Id.
+
+# block=15
+ΚΕΦΑΛΑΙΟΝ ΙΓ'.
+
+# block=16
+CAPUT XIII.
+
+# block=17
+615
+
+# block=18
+616
+
+# block=19
+Fugiendam esse delictorum experientiam.
+
+# block=20
+Ὅτι φεύγειν χρὴ τῶν ἁμαρτημάτων τὴν πεῖραν.
+
+# block=21
+⁸³ Ezech. xxxiii, 11. ⁸⁴ Psal. vi, 6. ⁸⁵ Prov. xxiv, 27. ⁸⁶ Matth. xxv. ⁸⁷ Deut. i, 17.

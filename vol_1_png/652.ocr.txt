@@ -1,0 +1,198 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,261,899,1003,1544
+2,1023,1772,1793,2705
+3,1039,894,1790,1547
+4,269,160,1016,678
+5,262,1602,1776,1675
+6,1045,162,1794,680
+7,249,1769,995,2701
+8,1282,769,1546,803
+13,667,103,1364,142
+14,859,1707,1153,1740
+15,293,822,973,895
+17,517,772,743,810
+18,1053,820,1782,890
+19,276,105,328,144
+20,1733,100,1793,152
+21,265,680,1791,774
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=13 fontSize=16px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=16px
+# block=20 fontSize=16px
+# block=21 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=20
+704
+
+# block=13
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=19
+703
+
+# block=4
+deinceps nulli detractioni, nulli contumeliæ fetori
+subjacet, liberata hominibus improbis, fraudulen-
+tis, conviciatoribus, inhumanis, proditoribus, virtu-
+tis osoribus, voluptatis amantibus, inanis gloriæ
+cupidis, impostoribus, opinione sapientiæ inflatis,
+quique id operam dant ut Domini agnos dispergant,
+aut potius dissipent. Tu ergo, episcope, satage una
+cum clero tibi subjecto, verbum veritatis recte tra-
+ctare; quia Dominus ait : « Si obliqui ambulaveri-
+tis ad me, et ego ad vos oblique ambulabo ⁷¹, » et
+alio in loco : « Cum sancto sanctus eris, et cum in-
+nocente innocens eris, et cum perverso perverte-
+
+# block=6
+πονηρῶν ἀπαλλαγεῖσα, δολίων, λοιδόρων, ἀνημέρων,
+προδοτῶν, μισοκάλων, φιληδόνων, κενοδόξων, ἀπατη-
+λῶν, δοξοσόφων, ἔργον θεμένων διασπείρειν, μᾶλλον
+δὲ διασκορπίζειν τὰ τοῦ Κυρίου ἀρνία. Σὺ οὖν, ὦ ἐπί-
+σκοπε, σπούδαζε ἅμα τῷ ὑπὸ σὲ κλήρῳ, ὀρθοτομεῖν
+τὸν λόγον τῆς ἀληθείας· ὅτι λέγει Κύριος· « Ἐὰν
+πλάγιοι πορεύησθε πρός με, κἀγὼ πρὸς ὑμᾶς πλα-
+γίως πορεύσομαι. » Καὶ ἀλλαχοῦ· « Μετὰ ὁσίου ὁσιω-
+θήσῃ, καὶ μετὰ ἀθώου ἀθῶος ἔσῃ, καὶ μετὰ στρεβλοῦ
+διαστρέψεις. » Ὁσίως οὖν πορεύεσθε, ἵνα μᾶλλον
+ἐπαίνου καταξιωθῆτε (67) ὑπὸ τοῦ Κυρίου, ἢ μέμ-
+ψεως ἐκ τοῦ ἐναντίου.
+
+# block=21
+ris ⁷². » Sancte igitur ambulate, ut potius ex hoc laudem a Domino consequamini, quam ex contra-
+rio reprehensionem.
+
+# block=17
+CAPUT XLIV.
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ ΜΔ'.
+
+# block=18
+Ὅτι χρὴ τὸν διάκονον ἐπικουφίζειν τὸ βάρος τῶν
+ἐπισκόπων, καὶ διευθύνειν τὰ κουφότερα (68).
+
+# block=15
+Quod debeat diaconus sublevare onus episcopi, et
+leviora quæque dirigere.
+
+# block=3
+Ὁμόφρονες οὖν ὄντες πρὸς ἀλλήλους, ὦ ἐπίσκοποι,
+εἰρηνεύετε μετ’ ἀλλήλων, συμπαθεῖς, φιλάδελφοι (69),
+μετὰ ἀκριβείας ποιμαίνετε τὸν λαὸν, ὁμοφρόνως δι-
+δάσκοντες τοὺς ὑφ’ ὑμᾶς ὁμογνωμονεῖν, καὶ τὸ αὐτὸ
+περὶ τῶν αὐτῶν δοξάζειν, ὅπως « μὴ ᾖ ἐν ὑμῖν σχί-
+σματα, » ἦτε δὲ « ἓν σῶμα καὶ ἓν πνεῦμα, κατηρτι-
+σμένοι τῷ αὐτῷ νοῒ, καὶ τῇ αὐτῇ γνώμῃ » κατὰ τὴν
+Κυριακὴν θέσιν (70). Καὶ πάντα μὲν ὁ διάκονος τῷ
+ἐπισκόπῳ ἀναφερέτω, ὡς ὁ Χριστὸς τῷ Πατρί· ἀλλ’
+ὅσα δὲ (71) δύναται, εὐθυνέτω δι’ ἑαυτοῦ, λαβὼν παρὰ
+τοῦ ἐπισκόπου τὴν ἐξουσίαν, ὡς ὁ Κύριος παρὰ τοῦ
+Πατρὸς τὸ δημιουργεῖν (72), τὸ προνοεῖν· τὰ δ’ ὑπέρ-
+ογκα (73) ὁ ἐπίσκοπος κρινέτω. Πλὴν ἔστω ὁ διάκο-
+νος ἐπισκόπου ἀκοὴ, καὶ ὀφθαλμὸς, καὶ στόμα, καρ-
+δία τε καὶ ψυχὴ (74), ἵνα μὴ ᾖ τὰ πολλὰ μεριμνῶν ὁ
+
+# block=1
+Unanimitatem igitur inter vos habentes, o epi-
+scopi, pacem mutuam colite, misericordes, fratrum
+amantes, cum diligentia pascite populum, concor-
+diter docentes eos qui vobis subjecti sunt, consen-
+tire, ac idem iisdem de rebus existimare, ut « non sint
+in vobis schismata ⁷³; » sitis autem « unum corpus
+et unus spiritus, perfecti eadem mente et eadem sen-
+tentia ⁷⁴, » secundum Dominicam sanctionem. ⁷⁵ Ac
+diaconus quidem cuncta ad episcopum referat, ut
+Christus ad Patrem : quæcunque tamen potest, per
+se moderetur, accepta ab episcopo potestate, sicut
+Dominus a Patre, creare ac providere accepit; at
+majores causas episcopus judicet. Cæterum sit dia-
+conus, episcopi..auris et oculus, et os, cor pariter
+et anima; ut episcopus in pluribus quam par est
+
+# block=5
+⁷¹ Lev. xxvi, 23, 24. ⁷² Psal. xvii, 26. ⁷³ I Cor. i, 10. ⁷⁴ Eph. iv, 4. ⁷⁵ L. Clem. Epist. ad Jacob.,
+c. 12.
+
+# block=14
+VARIORUM NOTÆ.
+
+# block=7
+(67) Καταξιωθῆτε. Resecatur præpositio in ms.
+Vindob. qui habet ἀξιωθῆτε, eodem significatu. Cler.
+(68) Κουφότερα. Vind. cod. ἐλαφρότερα, quod
+idem est, more librariorum synonyma miscen-
+tium. Id.
+(69) Φιλάδελφοι. In cod. Vind. sequitur γίνεσθε,
+et mox ποιμαίνοντες. Id.
+(70) Θέσιν. Ms. Vind. διδασκαλίαν, quod glosse-
+ma esse videtur. Id.
+(71) Δέ. Deest in altero codice, nec intercedo
+quin deleatur. Id.
+(72) Τὸ δημιουργεῖν. Hoc omittitur in altero co-
+dice Vindob. Id.
+(73) Ὑπέρογκα. In altero codice μείζονα, quod
+glossema redolet. Id.
+(74) Ἔστω ὁ διάκονος, κ. τ. λ. Et lib. iii, cap.
+penult. καὶ αἴσθησις. Diaconos, episcopi oculos, præ-
+sertimque archidiaconum, episcopalem oculum, pas-
+sim appellant antiqui. Inter cæteros auctor Episto-
+læ ad Jacobum, cap. 12 infra; Isidorus Pelusiota
+Epistola ad Lucium archidiaconum Pelusii, quæ bis
+edita legitur, lib. i, num. 29, et lib. iv, num. 188,
+ubi dicit quod archidiaconus esse debeat totus ocu-
+lus, cum diaconi sint oculi episcopi : item Fulbertus
+epist. 34, et Arnulfus contra Girardum, cap. 1, t. II
+Spicilegii p. 341. Cujus locum ita restituo : Engo-
+lismensem abbatissam quidam tuus archidiaconus
+gravidam pravo fecit accessu. Porro facinus ingra-
+
+# block=2
+vescentis uteri tumor excedens, et naturalis effectus
+aperuit. Quod dum propter insolentiam criminis, di-
+vinitatisque contemptum civibus incredibile videtur,
+parturientis abbatissæ gemitus, et novi partus cre-
+pundia fidem fecerunt. Universa igitur civitas admi-
+ratione perculsa est : qua cogitatum impatientia, qua
+temeritate conceptum, qua denique impudentia posset
+esse completum; quod homo animarum custos, epi-
+scopalis oculus, Ecclesiæ columna, sponsam Domini,
+Virginum ejus matrem atque custodem, non compel-
+lasset verbo tantum, sed opere polluisset. Sic minis-
+tri spiritales, angeli, possunt teste Hilario in psal.
+cxxix, 2, haberi pro Dei oculis, vel auribus, vel ma-
+nibus, vel pedibus. Atqui ex Origene ad Matth.
+xviii, 8, 9, sacerdotes, Ecclesiæ oculus recte nomi-
+nantur; diaconi vero cæterique ministri, manus. In
+quorum primo Adamantium sequitur Hilarius ad
+psal. cxxxviii, 16, ut in posteriori Zonaras inter-
+pretans canonem apostolicum 56. Symeoni autem
+Thessalonicensi De sacris ordinationibus cap. 13,
+chartophylax ὅλος ἐστὶ τῷ ἀρχιερεῖ δεξιά , pontificis
+dextera. Ratio porro, propter quam tot præclaris
+nominibus decorati inveniuntur diaconi, tangitur ab
+Epiphanio hæresi 78, cap. 5, his verbis : “Ἄνευ δια-
+κόνου, ἐπίσκοπον ἀδύνατον εἶναι, Sine diacono epi-
+scopus esse non potest, et a scriptore Epistolæ De
+gradibus Ecclesiæ, tom. IX Operum S. Hieronymi,
+istis : Sine diacono sacerdos nomen non habet, or-

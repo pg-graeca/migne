@@ -1,0 +1,159 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,264,2071,1021,2584
+2,262,144,1018,1873
+3,1053,143,1812,2585
+4,1086,2625,1631,2700
+5,298,2631,1014,2704
+6,264,1941,1015,2043
+7,553,1890,721,1921
+8,659,81,1377,120
+9,267,83,322,122
+10,1739,84,1809,128
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+I. Tertullianus, Montanistarum præstigiis fasci-
+natus, paulatim in eorum sectam inclinare cœpit,
+a qua demum abreptus est. Quod ubi animadvertit
+Hippolytus, binos opposuit eidem sectæ tractatus,
+quorum alterum De charismatibus inscripsit, Περὶ
+χαρισμάτων ; alteri titulum Apostolica traditio,
+᾿Αποστολικὴ παράδοσις fecit. Montanistas enim in-
+valuisse falsa miracula jactando exploratum est,
+eaque finxisse non ut paganos Judæosve ad fidem
+pertraherent, sed ut perverterent orthodoxos. Ait
+autem Hippolytus charismata divinitus dari, οὐκ
+εἰς τὴν ἐνεργούντων ὠφέλειαν, ἀλλ᾿ εἰς τὴν τῶν ἀπί-
+
+# block=2
+Paulus Ecclesiam, ad Timotheum scribens : Si au-
+tem tardavero, ut scias quomodo oporteat te in
+domo Dei conversari, quæ est Ecclesia Dei vivi (71).
+Hujus domus bona sunt Spiritus charismata, et de
+Trinitate, cæteraque dogmata, et traditiones, Con-
+stitutionesque, et Canones apostolorum. In his autem
+mirabiliter virtus perficitur, quæ justitia nuncupa-
+tur (72). Provocat quodammodo ad ipsum opus
+quo de agimus, et singulatim recenset non modo
+charismata, et apostolorum traditiones, verum etiam
+Canones, adeoque hos pariter in collectione Hip-
+polyti fuisse manifestius apparet. De numero ita-
+que canonum quos Hippolytus recensuit incerti
+sumus, de collectione non item. Quemadmodum
+vero superius testimonium Hippolyto convenit, qui
+titulum ipsum sui operis in eoque contenta ex-
+pressit, ita nemo imposterum loqui eo modo po-
+tuisset. Nam paulo post, eodem III sæculo vertente,
+cum Hippolyti opus corruptum interpolatumque in
+Oriente fuerit, atque adeo, sicuti nunc exstat, in-
+ter apocrypha relatum : quisnam subinde in præ-
+cipua Ecclesiæ laude posuisset, eam apocryphis
+dubiisve Constitutionibus administrari ? Equidem
+ad Hippolyti laudem pertinet, quod aliæ collectio-
+nes pervetustæ ab hæreticis vel fictæ vel inter-
+polatæ, ac magnis Patrum nominibus insignitæ,
+cum repudiatæ fuerint ; una ipsius collectio quam-
+vis interpolata multum aliis præstet Nam sicut
+διδασκαλία τοῦ Ποιμένος improbata fuit, ita quoque
+᾿Ιγνατίου διδασκαλία, Πολυκάρπου διδασκαλία aliæque
+hujusmodi, de quibus recte pronuntiavit M. Atha-
+nasius : Αἱρετικῶν ἐστιν ἐπίνοια, γραφόντων μὲν
+ὅτι θέλουσιν αὐτὰ, χαριζομένων δὲ καὶ προστιθέντων
+αὐτοῖς χρόνους, ἵνα ὡς παλαιὰ προφέροντες, πρό-
+φασιν ἔχωσιν ἀπατᾷν ἐκ τούτου τοὺς ἀκεραίους.
+Hæreticorum sunt commentum, qui ea scribunt
+quando volunt ; illis autem largiuntur, et adjiciunt
+tempora, quo tanquam antiqua proferentes, ex ea
+re occasionem habeant decipiendi homines simpli-
+ces (73).
+
+# block=3
+στων συγκατάθεσιν, ἵνα οὓς οὐκ ἔπεισεν ὁ λόγος,
+τούτους ἡ τῶν σημείων δυσωπήσῃ δύναμις. Τὰ γὰρ
+σημεῖα οὐ τοῖς πιστοῖς ἡμῖν, ἀλλὰ τοῖς ἀπίστοις,
+᾿Ιουδαίων τε καὶ ῾Ελλήνων. Οὔτε γὰρ τὸ δαίμονας
+ἐκβάλλειν ἡμέτερον κέρδος, ἀλλὰ τῶν ἐνεργείᾳ Κυ-
+ρίου καθαιρομένων. Non ad utilitatem ea operantium,
+sed ad infidelium assensionem concedi : ut quibus
+non persuasit sermo, hos virtus signorum flectat ac
+pudore afficiat. Signa enim non nobis fidelibus
+eduntur, sed infidelibus, cum Judæorum tum Græ-
+corum. Neque enim dæmones ejicere, nostrum emo-
+lumentum est, sed eorum qui per Domini operationem
+purgantur. Ac Tertullianus quidem somnia mulier-
+cularum insolenter nimis charismata vocabat, quem-
+admodum in visione illa de anima corporali ait :
+Et Deus testis et Apostolus, charismatum in Ecclesia
+futurorum idoneus sponsor : Tu, nec si res ipsa de
+singulis persuaserit, credas (74). Montanistæ vero suis
+fallaciis lucrum undique corradebant, etsi propter
+cælestia dona se ab Ecclesia descivisse causaren-
+tur. Quid ergo sit charisma eos docet Hippolytus :
+Οὐκ ἔστιν ἄνθρωπος πιστεύσας διὰ Χριστοῦ εἰς τὸν
+Θεὸν, ὃς οὐκ εἴληφε χάρισμα πνευματικόν. Αὐτό τε
+γὰρ τὸ ἀπαλλαγῆναι πολυθέου ἀσεβείας καὶ πιστεῦ-
+σαι Θεῷ Πατρὶ διὰ Χριστοῦ, χάρισμά ἐστι Θεοῦ· τό
+τε ἀποῤῥίψαι τὸ ᾿Ιουδαϊκὸν κάλυμμα, καὶ πιστεῦσαι
+ὅτι εὐδοκίᾳ Θεοῦ ὁ πρὸ αἰώνων Μονογενὴς, ἐν ὑστέρῳ
+καιρῷ ἐκ Παρθένου γεγένηται δίχα ὁμιλίας ἀνδρός·
+καὶ ὅτι ἐπολιτεύσατο ὡς ἄνθρωπος ἄνευ ἁμαρτίας
+πληρώσας πᾶσαν δικαιοσύνην τὴν τοῦ νόμου· καὶ ὅτι
+συγχωρήσει Θεοῦ σταυρὸν ὑπέμεινεν, αἰσχύνης κατα-
+φρονήσας ὁ Θεὸς Λόγος· καὶ ὅτι ἀπέθανε, καὶ ἐτάφη
+καὶ ἀνέστη διὰ τριῶν ἡμερῶν, καὶ μετὰ τὴν ἀνάστα-
+σιν τεσσαράκοντα ἡμέρας παραμείνας τοῖς ἀποστό-
+λοις, καὶ πληρώσας πᾶσαν διάταξιν ἀνελήφθη ἐπ᾿
+ὄψεσιν αὐτῶν πρὸς τὸν ἀποστείλαντα αὐτὸν Θεὸν καὶ
+Πατέρα. ῾Ο ταῦτα πιστεύσας, οὐχ ἁπλῶς οὐδὲ ἀλόγως,
+ἀλλὰ κρίσει καὶ πληροφορίᾳ, χάρισμα εἴληφεν ἐκ
+Θεοῦ. ῾Ωσαύτως δὲ καὶ ὁ πάσης αἱρέσεως ἀπαλλαγείς.
+Nemo per Christum in Deum credens, qui non acce-
+perit charisma spirituale. Ipsum etenim hoc, libera-
+tum esse impio multorum deorum cultu, et credidisse
+Deo Patri per Christum, charisma Dei est : ut et
+abjecisse Judaicum velamen, ac credidisse quod Dei
+beneplacito Unigenitus qui ante sæcula existebat, in
+extremo tempore ex Virgine natus est sine viri con-
+cubitu : et quod in vita tanquam homo versatus est
+absque peccato, impleta omni justitia legis : quodque
+permissione Dei Deus Verbum sustinuit crucem,
+confusione contempta : et quod mortuus est, ac se-
+pultus et resurrexit in triduo, atque post resurrectio-
+nem cum apostolis diebus quadraginta permansit,
+completaque omni constitutione, assumptus est in
+eorum conspectu ad Deum et Patrem qui eum mi-
+serat. Qui hæc credidit, non stolide ac citra ratio-
+nem, sed cum judicio ac certitudine, is charisma
+
+# block=4
+(73) S. Athan., ep. Festal., t. II, 39.
+(74) Tertull., De an. IX, p. 270
+
+# block=5
+(71) I Tim. III, 15.
+(72) S. Hippol. in psalm. LXIV, 5, ex Cat. Corder.
+
+# block=6
+Quænam causa Hippolytum ad hoc opus incitaverit.
+Constitutiones potissimum Tertulliano et Mon-
+tanistis oppositæ.
+
+# block=7
+CAPUT III.
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9
+535
+
+# block=10
+536

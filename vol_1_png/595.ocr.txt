@@ -1,0 +1,222 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,162,975,917,1103
+3,160,498,914,576
+6,160,587,914,669
+7,162,847,921,969
+8,155,1192,914,1275
+10,160,1587,917,1713
+11,955,1197,1708,1275
+13,162,1501,914,1582
+14,160,1108,916,1190
+15,953,1851,1703,1932
+17,956,1285,1707,1362
+18,954,981,1703,1060
+19,163,1288,918,1493
+20,158,672,916,752
+21,957,1502,1703,1580
+22,952,1938,1706,2019
+24,161,327,868,364
+25,600,99,1269,136
+26,951,850,1707,973
+27,162,412,912,451
+28,166,154,912,233
+29,954,1588,1703,1712
+30,950,2022,1709,2712
+31,162,1715,919,1844
+32,951,1719,1705,1845
+33,952,1104,1710,1190
+35,957,1371,1703,1452
+36,162,757,906,843
+38,153,100,247,142
+39,1643,96,1703,140
+40,951,148,1705,816
+41,159,242,719,290
+42,159,1858,913,2718
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+ιε'. "Οτι οὐ χρὴ τὸν ἱερέα μήποτε παρορᾷν τὰ
+ἁμαρτήματα, μήτε πρόχειρον εἶναι ἐν τῷ τιμω-
+ρεῖσθαι.
+
+# block=3
+ι'. "Οτι ὁ ἐπίσκοπος, ἀκρίτως φειδόμενος τοῦ
+ἡμαρτηκότος, ὑπαίτιος γίνεται.
+
+# block=6
+ια'. "Οπως χρὴ τὸν ἐπίσκοπον κρίνειν τοὺς ἁμαρ-
+τάνοντας.
+
+# block=7
+ιδ'. Περὶ τῶν λεγόντων μὴ δέχεσθαι μετανοοῦντα,
+καὶ ὅτι δίκαιος, κἂν σύνεστιν ἁμαρτωλῷ, οὐ
+συναπόλλυται αὐτῷ.
+
+# block=8
+ιζ'. "Οτι ἀνεπίληπτον εἶναι χρὴ τὸν ἐπίσκοπον,
+ὡς τύπον τῶν ἀρχομένων.
+
+# block=10
+κα'. "Οτι κίνδυνος μονομερῆ κρίσιν ποιήσασθαι,
+καὶ τιμωρίαν ὁρίσαι κατὰ τοῦ μηδέπω ἐλεγ-
+χθέντος.
+
+# block=11
+XVII. Episcopum debere esse irreprehensibilem,
+utpote formam subjectorum.
+
+# block=13
+κ'. "Οπως χρὴ τοὺς ἀρχομένους πειθαρχεῖν τοῖς
+ἄρχουσιν ἐπισκόποις.
+
+# block=14
+ις'. Περὶ μετανοίας, καὶ τίς αὐτῆς ὁ τρόπος, καὶ
+ὅπως κατορθοῦται.
+
+# block=15
+XXIII. In eos, qui ex contemptu peccant, exem-
+plum sit Amon.
+
+# block=17
+XVIII. Quod oportet episcopum curare, ne peccet
+plebs, quia ipse est speculator.
+
+# block=18
+XV. Quod sacerdos nec peccata negligere debeat,
+nec promptus esse ad vindictam.
+
+# block=19
+ιη'. "Οτι χρὴ τὸν ἐπίσκοπον φροντίζειν, ὅπως ὁ
+λαὸς μὴ πλημμελῇ, διὰ τὸ εἶναι αὐτὸν σκοπόν.
+ιθ'. "Οτι καὶ ὁ ποιμὴν ἀμελῶς φερόμενος περὶ τὰ
+πρόβατα, δίκην τίννυσιν, καὶ τὸ πρόβατον μὴ
+πειθαρχοῦν τῷ ποιμένι, κολάζεται.
+
+# block=20
+ιβ'. Διδασκαλία, ὅπως χρὴ προσφέρεσθαι τοῖς
+μετανοοῦσι.
+
+# block=21
+XX. Quo modo subjecti præpositis sibi episcopis
+obedire debeant.
+
+# block=22
+XXIV. Quod Christus Jesus Dominus ideo advenit,
+ut per pœnitentiam servaret peccatores.
+
+# block=24
+η'. Περὶ συκοφαντουμένου, ἤτοι ἐλεγχομένου.
+
+# block=25
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=26
+XIV. De iis qui affirmant non debere recipi pœ-
+nitentem; et de justo, quod licet cum peccatore
+versetur, non tamen cum eo pereat.
+
+# block=27
+θ'. "Οτι ἀδωροδόκητον εἶναι χρὴ τὸν ἐπίσκοπον.
+
+# block=28
+ς'. Περὶ τοῦ μὴ εἶναι τὸν ἐπίσκοπον αἰσχροκερδῆ,
+μήτε δὲ ἐγγυᾶσθαι, ἢ συνηγορεῖν.
+
+# block=29
+XXI. Quod periculum sit, una tantum parte au-
+dita, judicare, et pœnam decernere contra eum
+qui nondum convictus est.
+
+# block=30
+XXV. De primitiis et decimis; et quo modo debeat
+episcopus, ex eis vel ipse accipere, vel aliis
+distribuere.
+XXVI. Ad cujus formam et dignitatem unusquis-
+que de clero, a Deo sit ordinatus.
+XXVII. Quod horrenda res sit, hominem immittere
+se in aliquam dignitatem sacerdotalem; ut Co-
+ritæ. ut Saul, ut Ozias.
+XXVIII. De convivio; et qua ratione quilibet cleri
+ordo a vocatoribus honorandus sit.
+XXIX. Quæ sit dignitas episcopi, et diaconi.
+XXX. Quo modo oportet laicos obedire diaconis.
+XXXI. Quod non oporteat diaconum sine episcopo
+quidquam facere.
+
+# block=31
+κβ'. "Οτι μέγα παράδειγμα μετανοίας πρόκειται
+Δαβὶδ, καὶ Νινευῖται, Ἐζεχίας τε καὶ ὁ τούτου
+υἱὸς Μανασσῆς.
+
+# block=32
+XXII. Quod magnum pœnitentiæ exemplum in
+Davide proponatur; item in Ninivitis, in Ezechia,
+et in filio illius Manasse.
+
+# block=33
+XVI. De pœnitentia, et quis illius modus, et quo
+pacto peragatur.
+
+# block=35
+XIX. Quod pastor ovium negligens, pœnas solvat;
+et ovis, non obediens pastori, puniatur.
+
+# block=36
+ιγ'. "Οτι φεύγειν χρὴ τῶν ἁμαρτημάτων τὴν πεῖ-
+ραν.
+
+# block=38
+589
+
+# block=39
+590
+
+# block=40
+VI. Episcopus ne sit turpi lucro deditus, nec fide-
+jussor, nec advocatus.
+VII. Qualem oportet esse eum qui per baptismum
+est initiatus.
+VIII. De eo qui in calumniam, vel reprehensionem
+incurrit.
+IX. Episcopum non debere esse muneribus per-
+vium.
+X. Quod episcopus, qui temere parcit peccatori,
+culpa non careat.
+XI. Quo modo oporteat peccatores ab episcopo
+judicari.
+XII. Doctrina de modo quo pœnitentes tractandi
+sunt.
+XIII. Fugiendam esse delictorum experientiam.
+
+# block=41
+ζ'. Οἷον χρὴ εἶναι τὸν μεμυημένον.
+
+# block=42
+κγ'. Πρὸς τοὺς ἐκ καταφρονήσεως ἁμαρτάνοντας
+ἔστω παράδειγμα Ἀμών.
+κδ'. "Οτι Χριστὸς Ἰησοῦς Κύριος παρεγένετο ἁμαρ-
+τωλοὺς σῶσαι διὰ μετανοίας.
+κε'. Περὶ ἀπαρχῶν καὶ δεκατῶν, καὶ ὅπως ὀφείλει
+ὁ ἐπίσκοπος, ἢ αὐτὸς μεταλαμβάνειν ἐξ αὐ-
+τῶν, ἢ ἑτέροις διανέμειν.
+κς'. Εἰς τίνος τύπον καὶ ἀξίαν ἕκαστος τῶν ἐν
+τῷ κλήρῳ τέτακται παρὰ Θεῷ.
+κζ'. "Οτι φρικῶδες, ἄνθρωπον σαυτὸν ἐπιῤῥίπτειν
+ἀξιώματί τινι ἱερατικῷ· ὡς οἱ Κορεῖται, ὡς
+Σαούλ, ὡς Ὀζίας.
+κη'. Περὶ δοχῆς, καὶ ὅπως χρὴ ἕκαστον τάγμα
+τοῦ κλήρου ὑπὸ τῶν προσκαλουμένων τιμᾶ-
+σθαι.
+κθ'. Τίς ἡ ἀξία τοῦ ἐπισκόπου, καὶ τοῦ διακόνου.
+λ'. "Οπως χρὴ τοὺς λαϊκοὺς πειθαρχεῖν τοῖς δια-
+κόνοις.
+λα'. "Οτι μὴ χρὴ τὸν διάκονον ἄνευ τοῦ ἐπισκό-
+που τι πράττειν.

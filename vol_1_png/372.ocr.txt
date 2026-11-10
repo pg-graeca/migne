@@ -1,0 +1,204 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1082,1066,1825,1750
+2,307,1628,1059,2009
+3,304,1065,1051,1622
+4,1082,161,1822,1057
+5,1086,1757,1839,2010
+6,304,592,1043,1057
+7,312,2387,1057,2689
+8,305,160,1047,584
+9,312,2188,1058,2389
+10,1086,2055,1846,2388
+11,837,105,1299,141
+12,345,2156,896,2189
+13,314,2090,1049,2156
+15,310,106,362,141
+16,1084,2381,1829,2666
+17,346,2054,959,2090
+18,1726,90,1846,144
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=18
+144
+
+# block=11
+AD S. CLEMENTEM I PAPAM
+
+# block=15
+143
+
+# block=8
+terario Gallice inscripto Bibliothèque raisonnée (17)
+Venemæ autem, epistola eo ipso anno 1754 Am-
+stælodamensibus typis consignata, quam epistolæ
+primæ Venemianæ opposuit. Ulteriores vindicias
+pro his Clementinis epistolis demum v. c. Andreas
+Gallandius (18) exaravit. Verum argumentis cum
+intrinsecis tum extrinsecis in utramque partem sine
+præjudicio expensis eas positive dubias esse; neque
+aliquid pro vel contra authentiam earumdem certe
+statui posse, cum v. cl. Joa. Mansi (19) existimo.
+
+# block=4
+epistolam primam ad Corinthios; meminit et se-
+cundæ, quam tamen non ab omnibus admitti af-
+firmat. Profecto non siluisset et geminas alias, si
+nosset (22). Quo ergo spectavit in testimonio illo
+ex libro contra Jovinianum producto? arbitror præ
+oculis habuisse epistolam ad Corinthios secun-
+dam, in qua forte de virginitate prolixior sermo
+habebatur; quanquam enim is modo non legatur,
+non est cur quispiam miretur; neque enim inte-
+gra ad nos pervenit, ut eruditis omnibus explo-
+ratum est. Nec multum Epiphanii testimonium nos
+morari debet; siquidem illud expeditum est ex
+epistolis Clementis, quæ tunc legebantur in Ecclesiis.
+Profecto ex testimonio sancti Hieronymi discimus,
+nullas alias Clementis epistolas ætate illa in Eccle-
+sia legi consuevisse, nisi ad Corinthios geminas.
+Accedit quod, observante v. cl. Lardnero (23), neu-
+tra Corinthiacarum epistola integra ad nos perve-
+nerit, atque inde facile fieri potuit, ut Samsonis
+mentio inter ea, quæ in iisdem epistolis desunt,
+maxime vero in secunda, occurrerit.
+
+# block=6
+Argumentum pro authentia primum. — Argumen-
+tum primum pro authentia harum D. Clementis
+epistolarum petunt præfati auctores ex testimoniis
+sanctorum Hieronymi et Epiphanii, quorum pri-
+mus hujus Clementis epistolas a frequenti virgi-
+nitatis commendatione laudat (20), alter vero ait,
+a sancto Clemente laudibus efferri Eliam, Davi-
+dem et Samsonem (21). Utraque hæc sicut nus-
+piam in duabus leguntur vulgatis divi Clementis
+ad Corinthios epistolis, ita vicissim perspicue in
+utraque hac apparent.
+
+# block=3
+Secundum argumentum. — Secundo probant au-
+thentiam Clementinarum ex conformitate styli ha-
+rum epistolarum cum duabus ad Corinthios datis :
+observant passim easdem sententias, eamdem scri-
+bendi, exemplaque in medium producendi et ra-
+tiocinandi methodum. Ad hæc mores vere aposto-
+lici, simplicitas, modestia, frugalitas, benignitas
+eadem insunt, etc.; uno verbo, utrumque epistola-
+rum par vivam Clementis imaginem referre, ac
+tantum non spirare arbitrantur. Demum in utraque
+hac epistola nihil occurrere oppositum moribus
+Ecclesiæ Christianæ prioris sæculi, quo Clemens
+floruit, Wetstenius, aliique persuadere conantur.
+
+# block=1
+An nihil moribus primi sæculi contrarium occurrat?
+—Quod vero ait Wetstenius, nihil in utraque littera
+hac occurrere a moribus ætatis illius abhorrens,
+usque adeo verum haud judicat illustrissimus D.
+Mansi (24); ex earum enim lectione deprehendisse
+sibi visus est, nescio quæ vestigia monachatus,
+nempe cœtus hominum, qui morum sanctimoniam
+singularem elegerint, quod permaxime elucet illis
+verbis : « Id quod non decet fideles, illos præcipue,
+qui elegerunt sanctitatem. » Monachorum autem a
+consortio fidelium secessus recentior est, quam ut
+cum ætate Clementis componi possit (25). Cæte-
+rum styli similitudo, sententiarum æqualitas non
+semper eumdem probat operis auctorem. Tandem
+vix probabile est, Clementem Romanum Syriace
+scripsisse.
+
+# block=2
+Argumenta contra authentiam. — At vero criticis
+morosioribus arduum videtur admittere, et pro
+sinceris agnoscere epistolas tota plane antiquitate,
+et ad hoc usque sæculum ignotas. Neque facile
+concedunt, divum Hieronymum sermonem de illis
+habuisse in fragmento a Wetstenio ejusque se-
+ctatoribus producto, quod hoc argumento evinci
+posse existimant. Hieronymus in catalogo De viris
+illustribus Clementem non negligit, laudatque ejus
+
+# block=5
+Aliis insuper argumentis Semlerus has epistolas
+oppugnat, sed quæ mihi præjudicia potius, quam
+rationes esse videntur. Talia certe sunt, quod Igna-
+tius (26) Clementi pudicitiam, non virginitatem,
+concedat, et quod doctrina de fugiendis omnimode,
+etiam quoad locum, mulieribus, non sapiat genium
+
+# block=17
+(17) Tom. I, parte II, art. 8, pag. 363.
+
+# block=10
+(22) At pace adversariorum dixerim, hoc argu-
+mentum nimium probare, consequenter nihil inde
+evinci. Plurima enim veterum scriptorum opera abs
+D. Hieronymo in Libro de viris illustribus prius
+omissa in aliis postea lucubrationibus Hieronymia-
+nis enuntiata observant viri eruditi. Adde quod li-
+brum De viris illustribus anno Christi 392 absolve-
+rit, primumque subsequente anno libros adversus
+Jovinianum evulgarit, quemadmodum ex eodem
+sancto doctore constat
+
+# block=13
+(18) Bibl. Vet. PP. tom. I, in prolegom., pag.
+20 et seqq.
+
+# block=12
+(19) Tom. I Concil., col. 144 et seqq.
+
+# block=9
+(20) Hi sunt eunuchi, quos castravit non necessi-
+tas, sed voluntas propter regnum cælorum. Ad hos
+et Clemens successor apostoli Petri, cujus Paulus
+apostolus meminit, scribit epistolas, omnemque pene
+sermonem suum de virginitatis puritate contexuit.
+S. Hieron., lib. 1 contra Jovinianum.
+
+# block=16
+(23) A dissertat. upon the two Epist., pag. 24.
+(24) Tom. I Conciliorum, col. 157.
+(25) Neque hæc crisis sat firmo innititur talo.
+Quis enim ignorat, jam a tempore apostolorum exsti-
+tisse ascetas, qui inter Christianos strictius quoddam,
+ac severius vitæ genus amplexi sunt? Vide Montfau-
+conium, dissert. De Philonis Therapeutis.
+(26) S. Ignatius, Epistola ad Philadeph., cap. 4.
+
+# block=7
+(21) Clemens ipse omnibus illos (Ebionæos) modis
+redarguit iis epistolis circularibus, quæ in sacrosan-
+ctis Ecclesiis leguntur : ex quibus constat, longe ab
+iis, quæ in Circuitibus illis (Petri) sub ejus nomine
+adulterina exstant, illius fidem ac sermonem abhor-
+ruisse. Etenim virginitatem ipse (Clemens) docet, et
+isti (Ebionitæ) repudiant : ille Eliam, Davidem, et
+Samsonem omnesque prophetas commendat; quos hi
+detestantur. Epiph., hær. 30, § 15, Opp. t. I, p. 139.

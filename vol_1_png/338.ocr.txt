@@ -1,0 +1,181 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,284,2563,1038,2688
+2,277,246,1022,926
+3,262,1698,1033,2558
+4,1062,1700,1820,2646
+5,1442,258,1807,913
+6,1047,256,1424,830
+7,796,1554,1283,1592
+8,742,1298,1318,1333
+9,405,1162,1672,1256
+10,539,1443,1534,1506
+12,275,109,311,146
+13,273,159,1015,241
+15,803,104,1269,142
+16,1750,94,1810,142
+17,1060,152,1424,240
+18,1448,146,1806,244
+19,984,1050,1104,1130
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px centerRows=true
+# block=8 fontSize=15px
+# block=9 fontSize=37px
+# block=10 fontSize=28px centerRows=true
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=16px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=36px centerRows=true
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+76
+
+# block=15
+AD S. CLEMENTEM I PAPAM
+
+# block=12
+75
+
+# block=18
+S. Clementis ex Episto-
+la II ad Corinthios.
+
+# block=17
+Τοῦ ἁγίου Κλήμεντος ἐκ
+τῆς πρὸς Κορινθίους β΄.
+
+# block=13
+bitur inter duas primas persecutiones, Neronis ac
+Domitiani, et ante seditionem Corinthi excitatam.
+
+# block=2
+Omittebam hic, ut in veterum testimoniis, duo
+quæ postea occurrerunt loca. Primus locus est præ-
+fationis concilii Nicæni, Latinæ ex Arabico per
+Abrahamum Ecchellensem factæ; in quo dicitur Cle-
+mentem epistola 2 mentionem fecisse sectarum 70.
+Verum illa epistola, si eadem est ac nostra, nec est
+plane apocrypha, nequaquam retulit 70 hæreses,
+retulit forsan 7. Alterum locum deprompsi ex opti-
+mis membranis codicis admodum antiqui in bi-
+bliotheca PP. Soc. Jesu, copiam faciente Gabriele
+Cossartio, viro cum insignis doctrinæ, tum prolixæ
+humanitatis. Est autem S. Damasceni Eclogarum
+sacrarum cap. Περὶ τῶν προσκαίρων καὶ τῶν αἰω-
+νίων ἀγαθῶν, καὶ ὅτι χρὴ τῶν παρόντων τὰ μέλ-
+λοντα προτιμᾷν, quod respondet capiti 20 libri II
+Parallelórum editorum.
+
+# block=6
+Ὁ τῶν παρόντων αἰσθη-
+τικὸς συνίησιν ὡς οὔτε ἃ
+λογίζονταί τινές εἶναι τε-
+πνὰ, ξένα καὶ μακράν
+ἐστι τῶν ἀπεχθῶν. Ἀλλὰ
+καὶ πλοῦτος πολλάκις
+μᾶλλον πενίας ἔθλιψε, καὶ
+ὑγεία πλέον ἠνίασε νόσου.
+Καὶ καθόλου τῶν λυπηρῶν
+καὶ φευκτῶν πάντων ὑπό-
+θεσις καὶ ὕλη, ἡ τῶν ἀσ-
+παστῶν καὶ μετ’ εὐχὴν
+περιβολὴ γίνεται.
+
+# block=5
+Qui res præsentis vitæ
+agnoscit, intelligit neque
+ea quæ nonnulli jucunda
+reputant, aliena esse aut
+procul dissita ab iis quæ
+odio habentur. Quinetiam
+divitiæ sæpenùmero ma-
+gis quam paupertas læ-
+serunt, et sanitas plus
+morbo afflixit. In summa,
+gratarum rerum ac opta-
+tarum affluentia evadit in
+causam et materiam om-
+nium tristium atque de-
+testatarum.
+
+# block=19
+II.
+
+# block=9
+EX EDITIONE PETRI COUSTANTII.
+
+# block=8
+(Epp. Rom. Pont. t. I, Paris. 1721, in-fol.)
+
+# block=10
+EPISTOLÆ S. CLEMENTIS I PAPÆ.
+
+# block=7
+Quando et quam diu sederit.
+
+# block=3
+1. Clemens veterum testimonio ut apostolorum æ-
+qualis celebratur. Quamobrem non alius creditur
+ab eo, cujus Paulus Philip. iv, 3, meminit. Licet
+hunc, uti jam præmonuimus, a Petro episcopum or-
+dinatum Tertullianus Lib. de præscript., c. 32, tra-
+dat, atque ævo Hieronymi, ipso Hieronymo teste,
+plerique Latinorum secundum post Petrum apostolum
+putarent fuisse; idem tamen Hieronymus, necnon
+Epiphanius, Augustinus, Optatus, Eusebius, scri-
+ptor poematis adversus Marcionem, Tertulliano
+olim tributi, et Irenæus, sicut et veteres Romano-
+rum pontificum catalogi, proximum Petri successo-
+rem non Clementem, sed Linum designant. Ita ille
+intelligi potest a Petro ordinatus episcopus ad epi-
+scopalia, seu apostolica munia obeunda, ut nulli
+tum ecclesiæ esset alligatus, sed post mortem Lini
+et Cleti a Romanis in episcopum proprium coopta-
+tus fuerit. Epiphanii ea de re conjecturam superius,
+ubi de Lino disseruimus, relatis ipsius verbis expo-
+suimus.
+
+# block=4
+in Corbeiensi autem annis ix, mensibus x, die 1
+obtinuisse memoratur. Eum, anno Trajani impera-
+toris tertio, hoc est Christi centesimo, cum totos
+novem annos prædicationem verbi divini procurasset,
+e vita abiisse Eusebius lib. III Hist., c. 34, scri-
+bit. Hinc valde sublestæ est fidei, quod solus Præ-
+destinatus a Sirmondo vulgatus cap. 12, narrat,
+quemdam videlicet Marcum, qui carnis negabat re-
+surrectionem, ideoque Christum non vere passum,
+sed putative, conabatur astruere, a Clemente Ro-
+mano episcopo ut dignissimo Christi martyre fixis
+et integris assertionibus confutatum, et coram plebe
+in ecclesia detectum, æterna damnatione punitum
+fuisse. Nam et Irenæus lib. I, c. 9, circa annum 180,
+aut etiam 190, Marci commenta confutans, de eo
+ut adhuc superstite loquitur: et Eusebius lib. IV,
+c. 11, postquam Valentinum aliosque hæreticos
+Hygino pontifice Romam venisse, atque ad Anice-
+tum usque permansisse enarravit, adjungit et
+hunc Marcum eodem tempore exstitisse. Quod in-
+dicio est hunc hæreticum ante Hygini tempora
+fuisse ignotum.
+
+# block=1
+2. Anno Christi 91, Clemens in Cleti locum suf-
+fectus creditur. Romanam sedem in Bucheriano
+quidem catalogo annis ix, mensibus xi, diebus xii,

@@ -1,0 +1,101 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,175,1516,1682,1625
+2,630,1191,1238,1255
+3,493,740,1395,823
+4,157,2433,1667,2548
+5,523,245,1357,312
+6,771,627,1110,677
+7,580,1826,1283,1883
+9,634,1750,1230,1796
+10,323,375,1553,556
+11,182,897,1722,1093
+12,812,121,1059,173
+13,604,2612,1237,2707
+15,499,1326,1368,1443
+16,260,1922,1598,1984
+17,720,2088,1150,2160
+18,680,2288,1180,2354
+22,904,1886,974,1918
+23,200,2707,1674,2765
+
+# layer=format
+# block=1 fontSize=15px centerRows=true
+# block=2 fontSize=29px
+# block=3 fontSize=33px
+# block=4 fontSize=14px centerRows=true
+# block=5 fontSize=26px
+# block=6 fontSize=23px
+# block=7 fontSize=20px
+# block=9 fontSize=21px
+# block=10 fontSize=92px
+# block=11 fontSize=94px
+# block=12 fontSize=19px
+# block=13 fontSize=18px centerRows=true
+# block=15 fontSize=57px
+# block=16 fontSize=15px
+# block=17 fontSize=26px
+# block=18 fontSize=16px
+# block=23 fontSize=18px centerRows=true
+
+# layer=metadata
+
+# layer=rawLLM
+# block=12
+SÆCULUM I.
+
+# block=5
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ
+
+# block=10
+ΚΛΗΜΕΝΤΟΣ
+
+# block=6
+ΠΑΠΑ ΡΩΜΗΣ
+
+# block=3
+ΤΑ ΕΥΡΙΣΚΟΜΕΝΑ ΠΑΝΤΑ
+
+# block=11
+S. CLEMENTIS I,
+
+# block=2
+PONTIFICIS ROMANI,
+
+# block=15
+OPERA OMNIA,
+
+# block=1
+CUM GENUINA, TUM DUBIA ET ALIENA, QUÆ GRÆCE IN PROPRIO IDIOMATE, VEL, DEPERDITO
+TEXTU GRÆCO, SYRIACE ET LATINE TRANSLATA TANTUM EXSTANT
+ET EJUS NOMINE CIRCUMFERUNTUR :
+
+# block=9
+ACCURANTE J.-P. MIGNE,
+
+# block=7
+BIBLIOTHECÆ CLERI UNIVERSÆ
+
+# block=16
+CURSUUM COMPLETORUM IN SINGULOS SCIENTIÆ ECCLESIASTICÆ RAMOS EDITORE.
+
+# block=17
+TOMUS PRIMUS.
+
+# block=18
+VENIT 10 FRANCIS GALLICIS.
+
+# block=4
+EXCUDEBATUR ET VENIT APUD J.-P. MIGNE EDITOREM,
+IN VIA DICTA D'AMBOISE, PROPE PORTAM LUTETIÆ PARISIORUM VULGO D'ENFER NOMINATAM,
+SEU PETIT-MONTROUGE.
+
+# block=13
+ΠΡΩΤΗ ΕΚΔΟΣΙΣ ΕΝ ΕΛΛΑΔΙ
+ΑΘΗΝΑΙ 1987
+
+# block=23
+DIGITAL EDITION BY E.VARTHIS, K. DOMOUCHTSIS, PATRISTIC CENTER STUDIES

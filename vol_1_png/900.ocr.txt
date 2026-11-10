@@ -1,0 +1,154 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1007,1569,1764,2080
+2,213,1232,977,2128
+3,214,152,976,1224
+4,1009,357,1764,1571
+5,1013,150,1762,358
+6,1012,2172,1756,2512
+7,628,99,1355,132
+9,226,98,296,132
+10,221,2176,971,2514
+12,1681,90,1765,144
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1007 source_y1=1569 source_x2=1764 source_y2=2080
+Hactenus eruditissimus Fontaninus : ex cujus ta-
+men opere illa tantum excerpsimus, quæ ad rem no-
+stram potissimum pertinebant, eaque pro instituti
+nostri ratione digessimus. Porro ad Recognitionum
+editionem nostram quod attinet, exemplar Cotele-
+rianum, omnium præstantissimum, typis excuden-
+dum tradidimus. Lectiones variantes potiores mar-
+gini appositas, suis locis restituimus. Editoris ob-
+servationes textui subdidimus. Quæ autem suis no-
+tis intexuit V. C. vetera monumenta, ne operis
+lectio nimis impediretur, in Appendicem Recogni-
+tionibus subjectam rejecimus.
+
+# block=2 source_x1=213 source_y1=1232 source_x2=977 source_y2=2128
+Primam inter epistolas pseudo-Isidori temere
+statuit, qui eam virulentis notis de more configit,
+Blondellus, Quanti eam fecerit Franciscus Turria-
+nus, inde constat quod eam et pro vera tueatur,
+et Latinæ versioni roborandæ, ex codice Vaticano
+Græcum ejus contextum non semel advocet (81). At
+Rufinum versionis auctorem esse, cum careat pro-
+logo, non admittit (82). Quis vero ignorat, Rufinum
+longioribus tantum Græcorum scriptis, non brevi
+ac simplici epistolæ, ex Gennadii sententia, prologos
+dare debuisse? Epistolæ antiquitatem astruit testi-
+monium Rufini, ab se olim interpretatam, atque edi-
+tam asseverantis in præfatione ad Gaudentium; Re-
+cognitionibus non præmissam, quia tempore posterior
+est, nempe Recognitionibus a Clemente, ut putaba-
+tur, antea conscriptis. Istud Rufini consilium Cote-
+lerius secutus, eam et ipse operi Clementino postpo-
+suit, licet codici Carmelitico insertam inter præfa-
+tionem et Recognitiones reperisset. Ita sane etiam
+codices quibus usus fuit Stapulensis, insertam ha-
+buerunt : et Photius quoque aperte ait (83), in
+
+# block=3 source_x1=214 source_y1=152 source_x2=976 source_y2=1224
+Huic pag. 7 adnectitur spuria appendix cum epigra-
+phe ad oram : Compendiolum fidei Christianæ. Lab-
+beus, qui tomo I Conciliorum, pag. 89, illam in-
+seruit, de additamento ita scribit : Hic desinit epi-
+stola in quibusdam codicibus : cætera sunt vice appen-
+dicis addita circa annum 800, ut videtur. Idem
+ferme ait Mabillonius (80). Petrus Crabbe assu-
+mento conjunctam epistolam inseruerat tomo I Con-
+ciliorum, pag. 14 edit. Colon. 1538. At Sichardus
+in prima sua Recognitionum editione anni 1526
+quartæ ex epistolis Clementis, appendicem ita in-
+scriptam subjecerat : Compendiolum fidei. Quæ in
+altera ejus editione anni 1536 ipsi epistolæ conjun-
+gitur. Gruterus quoque, Sichardum secutus, con-
+junxit post Constitutiones apostolicas, pag. 345,
+quam tamen Faber ante disjunxerat. Theodorus
+Bibliander libro inscripto, Christiana et catholica
+doctrina, Basileæ per Jacobum Parcum 1550, pag.
+221, eamdem epistolam Rufino interprete inseruit,
+sed ablata appendice. Ea tamen sine nomine inter-
+pretis, et sine appendice dudum inserta fuerat
+pag. 7 alterius libri, sic prænotati : Epistolæ ali-
+quot illustres, graves et eruditæ, extra bibliorum ca-
+nonem licet, apostolicæ tamen et piæ. Augustæ Vin-
+delicorum, per Alexandrum Weyssenhorn 1529, in 8°.
+
+# block=4 source_x1=1009 source_y1=357 source_x2=1764 source_y2=1571
+Quin ergo Clementis epistola ad Jacobum quam
+Rufinus Latinam fecit, ea sit pura puta quæ omnium
+manibus teritur, jure ambigi nequit ; nec sane dubi-
+tat Bellarminus (84). Ipsemet Blondellus hoc idem
+satis evincit, quamvis suæ sectæ virus censuræ im-
+misceat. Cotelerius cum post Recognitiones eam-
+dem epistolam Græce et Latine sine ullo addita-
+mento edidisset, mox Rufini interpretationem sub-
+jecit, ad veteres editiones et codices mss. de more
+collatam, et in capita 20 distinctam : quorum duo-
+devicesimum citari observavit in concilio I Vasensi,
+anno 442 celebrato, can. 6 (85), in Capitularibus
+regum Francorum (86), inque concilio Metensi can.
+12 (87). Citatur quoque a Nicolao I, epist. 49, a
+Joanne VIII, epist. 234, et a Gregorio VII, lib. VIII,
+epist. 21. Ad ejus epigraphen tanto ante allusit Si-
+donius lib. VI, epist. 1, eamdemque Bibliothecarius
+in Clemente laudavit. Antiquissima esse creditur per-
+inde ac sunt libri Recognitionum. At Clementi ante
+Blondellum, quinque insignes S. R. E. cardinales
+abjudicaverant : Turrecremata (88), Cusanus (89),
+Baronius (90), Bellarminus (91) et Perronius (92).
+Ex antiquioribus idem sanxerant Petrus Come-
+stor (93), ac postea Marsilius Patavinus (94), et Go-
+belinus Persona (95). De epistola 3 Clementina,
+cujus interpretatio Rufino etiam tribuitur, nihil
+dicam, cum liqueat eam ad Isidori merces de toto
+spectare.
+
+# block=5 source_x1=1013 source_y1=150 source_x2=1762 source_y2=358
+exemplaribus Græcis eam libris Recognitionum præ-
+poni solitam. Postponitur tamen in codice Palatino
+sine spuria appendice. Epistolæ ipsi additur in col-
+lectionibus Vaticanis Isidori cod. 629, fol. 127, et
+cod. 630, fol. 6.
+
+# block=6 source_x1=1012 source_y1=2172 source_x2=1756 source_y2=2512
+(88) Turrecr., Summ. Eccl., lib. II, cap. 101.
+(89) Cusan., Concord. cathol., lib. III, cap. 2.
+(90) Baron., ad ann. 69, § XIV.
+(91) Bellarn., De script. eccl., ad ann. 92, pag. 51.
+(92) Perron., in iterat. Respons. ad reg. Britann.,
+cap. 31, pag. 159.
+(93) Comest., Hist. Act. apost., cap. 101.
+(94) Marsil., Patav. Defensor. pac., part. II,
+cap. 27.
+(95) Gobel., Cosmodr., ætat. VI, cap. 7.
+
+# block=7 source_x1=628 source_y1=99 source_x2=1355 source_y2=132
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9 source_x1=226 source_y1=98 source_x2=296 source_y2=132
+1199
+
+# block=10 source_x1=221 source_y1=2176 source_x2=971 source_y2=2514
+(80) Mabill., Analect. tom. I, pag. 142.
+(81) Turrian., lib. II, capp. 3 et 13, pro Canon.
+apost.
+(82) Id. ibid., lib. IV, cap. 24.
+(83) Phot., cod. CXIII.
+(84) Bellarm., De Rom. pontif., lib. II, cap. 14,
+post init.
+(85) Apud Labb., tom. III, pag. 1458.
+(86) Capitul. reg. Franc., tom. II, pag. 1127.
+(87) Apud Labb., tom. IX, pag. 416.
+
+# block=12 source_x1=1681 source_y1=90 source_x2=1765 source_y2=144
+1200

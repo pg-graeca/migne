@@ -1,0 +1,186 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,247,2548,998,2718
+2,247,615,1002,1925
+3,1038,157,1794,455
+4,253,160,1001,416
+5,247,1950,1792,2057
+7,530,466,715,500
+8,1034,617,1791,1935
+9,1290,464,1536,501
+10,247,2282,1001,2449
+11,654,102,1371,143
+12,251,505,1001,611
+13,867,2086,1166,2119
+14,255,106,310,150
+15,246,2148,997,2282
+16,1049,507,1794,613
+18,246,2446,992,2549
+20,1723,96,1809,142
+21,1029,2151,1789,2723
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(58) Μήτε ἥλιον ὀμνύναι, etc. Per cœlum, cœle-
+stia, terram, cæteras creaturas, perque caput suum
+aut charorum jurare soliti Judæi, ethnici, Christiani.
+Quæ juramenta utramque librorum paginam im-
+plent. Philonis Judæi elegantem locum initio operis
+
+# block=2
+Non solum autem Scripturæ vetant de idolis ; sed
+et de luminaribus, lege lata cavent ne quis vel
+juret per ea, vel ipsis serviat. Dicunt enim : Ne vi-
+dens solem et lunam et stellas, errore deceptus
+adores ea ⁶³; et alibi : Juxta vias gentium nolite dis-
+cere; et a signis cœli nolite metuere ⁶⁴. Nam astra
+et luminaria data sunt hominibus, ut luceant, non
+autem ut colantur : ⁶⁴* licet Israëlitæ morum pra-
+vitate, creaturam pro Creatore adoraverint ; mun-
+di quidem fabricatorem contumelia afficientes, fa-
+bricæ vero plusquam oportuit admiratione capti :
+et aliquando quidem vitulum facientes, ut in de-
+serto ⁶⁵; aliquando vero adorantes Beelphegorem ⁶⁶;
+alias autem Baalem ⁶⁷, et Thammuzum , et Sido-
+niam Astarten ⁶⁸, rursusque Molochum ac Chamo-
+sum; et interdum solem, ut apud Ezechielem scri-
+ptum est ⁶⁹ : insuperque animalia rationis expertia,
+ut apud Ægyptos Apim, atque hircum Mendesium;
+item deos argenteos atque aureos, ut in Judæa.
+Propter quæ omnia minitans eis Dominus ait per
+prophetam : Nunquid parum est hoc domui Judæ,
+facere abominationes istas, quas fecerunt ; quia re-
+pleverunt terram iniquitate, ut irritarent me? Et ecce
+ipsi sunt quasi subsannantes. Et ego faciam cum
+furore ; non parcet oculus meus, neque miserebor :
+et clamabunt in auribus meis voce magna , et non
+exaudiam eos ⁷⁰. Videte, charissimi , quanta adver-
+sus idololatras, et solis ac lunæ cultores pronuntiet
+Dominus. Quare oportet Dei hominem, tanquam
+Christianum, neque jurare per solem , neque per
+
+# block=3
+Ἰσραηλιτῶν· « Ἐγκατέλιπόν με, καὶ ὤμνυον ἐν τοῖς
+οὐκ οὖσι θεοῖς. » Καὶ ἑξῆς (53)· « Ἐξαρῶ τὰ ὀνόμα-
+τα τῶν εἰδώλων ἐκ τοῦ στόματος αὐτῶν. » Καὶ ἀλ-
+λαχοῦ· « Αὐτοὶ παρεζήλωσάν με ἐπ’ οὐ θεοῖς, παρώρ-
+γισάν με ἐν τοῖς εἰδώλοις αὐτῶν. » Καὶ ἐν πάσαις
+δὲ ταῖς Γραφαῖς ἀπηγόρευται ταῦτα ὑπὸ Κυρίου τοῦ
+Θεοῦ.
+
+# block=4
+querunt me, et juraverunt in his qui non sunt dii ⁶⁰;
+et adhuc : Auferam nomina idolorum ex ore eorum ⁶¹;
+alioque in loco : Ipsi ad zelum me provocaverunt in
+non diis; et irritaverunt me in idolis suis ⁶². Atque
+in omnibus Scripturis eadem a Domino Deo prohi-
+bentur.
+
+# block=5
+⁶⁰ Jer. v, 7. ⁶¹ Zach. xiii, 2. ⁶² Deut. xxxii, 21. ⁶²* Hæc ad cap. xi spectant. ⁶³ Deut. iv, 19.
+⁶⁴ Jer. x, 2. ⁶⁴* Laudat Cedrenus. Vide Testim. vet. ⁶⁵ Exod. xxxii, 4. ⁶⁶ Num. xxv, 3.
+⁶⁷ Judic. ii, 13. ⁶⁸ III Reg. xi, 5. ⁶⁹ Ezech. viii, 14. ⁷⁰ Ezech. viii, 17.
+
+# block=7
+CAPUT XII.
+
+# block=8
+Οὐ μόνον δὲ περὶ εἰδώλων ἀπαγορεύουσιν, ἀλλὰ καὶ
+περὶ φωστήρων, νομοθετοῦντες παραινοῦσι, μήτε ὀμ-
+νύειν ταῦτα, μήτε μὴν λατρεύειν αὐτοῖς. Φασὶ γάρ·
+« Μὴ ἰδὼν τὸν ἥλιον καὶ τὴν σελήνην καὶ τοὺς ἀστέ-
+ρας, πλανηθεὶς προσκυνήσῃς αὐτοῖς. » Καὶ ἀλλαχοῦ·
+« Κατὰ τὰς ὁδοὺς τῶν ἐθνῶν μὴ μανθάνετε (56), καὶ
+ἀπὸ τῶν σημείων τοῦ οὐρανοῦ μὴ φοβεῖσθε. » Τὰ γὰρ
+ἄστρα καὶ οἱ φωστῆρες εἰς φαῦσιν ἀνθρώποις, ἀλλ’ οὐκ
+εἰς προσκύνησιν ἐδόθησαν· εἰ καὶ οἱ Ἰσραηλῖται μοχθη-
+ρίᾳ τρόπου προσεκύνουν ἀντὶ τοῦ Κτίστου τὴν κτίσιν·
+τὸν μὲν δημιουργὸν καθυβρίσαντες, τὴν δὲ κτίσιν πλεῖον
+ἢ δεῖ θαυμάσαντες· καὶ ποτὲ μὲν μοσχοποιοῦντες, ὡς
+ἐν ἐρήμῳ· ποτὲ δὲ τὸν Βεελφεγὼρ προσκυνοῦντες· ἄλ-
+λοτε δὲ τὸν Βαὰλ, καὶ τὸν Θαμμοὺς, καὶ τὴν Σιδωνίαν
+Ἀστάρτην, καὶ πάλιν τὸν Μολὸχ, καὶ Χαμὸς, καὶ ἄλλοτε
+τὸν ἥλιον, ὡς παρὰ τῷ Ἰεζεκιὴλ γέγραπται (57). Ἤδη
+δὲ καὶ ἄλογα ζῶα, ὡς παρ’ Αἰγυπτίοις τὸν Ἆπιν, καὶ
+τὸν Μενδήσιον τράγον, καὶ θεοὺς ἀργυροῦς καὶ χρυ-
+σοῦς, ὡς ἐν Ἰουδαίᾳ. Δι’ ἅπερ ἅπαντα ἀπειλῶν αὐτοῖς
+ἔλεγε διὰ τοῦ προφήτου· « Μὴ μικρὸν τοῦτο τῷ οἴκῳ
+Ἰούδα, τοῦ ποιεῖν βδελύγματα ταῦτα, ἃ ἐποίησαν, ὅτι
+ἔπλησαν τὴν γῆν ἀνομίας, τοῦ παροργίσαι με; καὶ ἰδοὺ
+αὐτοί εἰσιν ὡς μυκτηρίζοντες. Καὶ ἐγὼ ποιήσω μετὰ
+θυμοῦ, οὐ φείσεται ὁ ὀφθαλμός μου, οὐδ’ οὐ μὴ ἐλεήσω·
+καὶ κεκράξονται ἐν τοῖς ὠσί μου φωνῇ μεγάλῃ, καὶ
+οὐκ εἰσακούσομαι αὐτῶν. » Ὁρᾶτε, ἀγαπητοὶ, ὅσα
+κατὰ τῶν εἰδωλολατρῶν, καὶ τῶν σεβομένων ἥλιον
+καὶ σελήνην ἀποφαίνεται ὁ Κύριος. Διὸ χρὴ τὸν
+τοῦ Θεοῦ ἄνθρωπον, ὡς Χριστιανὸν, μήτε ἥλιον
+ὀμνύναι (58), μήτε σελήνην, μήτε ἄστρα, μήτε
+
+# block=9
+ΚΕΦΑΛΑΙΟΝ ΙΒ΄.
+
+# block=10
+(54) Ἢ πορνικήν. Deest in altero Vind. Id.
+(55) Εἴδωλον. Post hanc vocem alter codex ad-
+dit : οὔτε οἰωνοῖς, ἢ κληδόσιν, ἢ παλμοῖς, ἢ παρα-
+τηρήσεσιν Ἰουδαϊκαῖς προσανέχειν. Sed trium prio-
+rum nulla hic mentio. Id.
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=12
+Quod non liceat cantilenam ethnicam aut meretri-
+ciam canere ⁶²*; neque per idolum jurare : impium
+enim id esse, et cognitioni Dei repugnans.
+
+# block=13
+VARIORUM NOTÆ.
+
+# block=14
+865
+
+# block=15
+(53) Καὶ ἑξῆς. Ambo codd. Vindob. καὶ πάλιν,
+ut habet et Latina versio, rectius quam ἑξῆς, quo
+significatur et cætera, cum etiam alter locus profe-
+ratur. Cler.
+
+# block=16
+Ὅτι μὴ καθήκει ᾠδὴν ἐθνικὴν ἢ πορνικὴν (54)
+ᾄδειν, οὔτε ἐπόμνυσθαι εἴδωλον (55)· ἀσεβὲς γὰρ
+τοῦτο, καὶ τῆς Θεοῦ γνώσεως ἐχθρόν.
+
+# block=18
+(56) Μανθάνετε. Uterque cod. addit., πορεύ-
+εσθαι, discite incedere, quod et vere deerat. Id.
+(57) Γέγραπται. In utroque ἐμφέρεται. Id.
+
+# block=20
+856
+
+# block=21
+de specialibus legibus non assecutus est interpres.
+Ἀναγέγραπταί τις (inquit alter Plato) ἐν τοῖς νόμοις
+τῶν ἀρχιγενῶν καὶ ἐπὶ σοφίᾳ μάλιστα θαυμασθέν-
+των, ὀμνὺς κατὰ τοῦ φόβου τοῦ πατρὸς, ὑπὲρ ὠφε-
+λείας οἶμαι τῶν ἔπειτα, καὶ διδαχῆς ἀναγκαίας, ἵνα
+τοὺς γονεῖς ὃν χρὴ τρόπον τιμῶσι, στέργοντες ὡς
+εὐεργέτας, καὶ εὐλαβούμενοι ὡς ὑπὸ φύσεως κατα-
+σταθέντας ἄρχοντας, καὶ μὴ ῥᾳδίως ἐπιχειρῶσιν ὀνο-
+μάζειν Θεόν, et cætera : in quibus permittit jurare
+per terram, solem, astra, cœlum et mundum. Verti
+debuit : In legibus (Geneseos xxxi, 53), quidam ex
+priscis illis, quorumque sapientia maximam admira-
+tionem fecit, perscribitur jurare per timorem patris
+sui : pro utilitate (opinor) posterorum, et propter
+necessarium documentum, ut homines honorent pa-
+rentes suos eo quo decet modo, ament eos tanquam
+beneficos, ac revereantur velut a natura constitutos

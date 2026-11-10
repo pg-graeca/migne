@@ -1,0 +1,188 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,236,2248,991,2719
+2,236,2117,993,2254
+3,242,150,999,365
+4,238,492,993,2126
+5,869,408,1165,447
+6,660,93,1380,138
+7,1014,495,1784,2725
+8,235,94,323,138
+9,1027,148,1787,374
+10,1697,106,1789,152
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=236 source_y1=2248 source_x2=991 source_y2=2719
+(51) Ἀϐίλλιος. Ita Nicephorus Callisti. Alii Ἀϐί-
+λιος. [Sic alter cod. Vind.] Sic Flaccus Avilius Eu-
+sebio Ἀϐίλιος, Philoni est Ἀσύλλιος. In martyrio
+autem Petri Alexandrini Μῖλος legitur pro Ἀϐί-
+λιος, ingenti quidem corruptione, sed non insueta
+in hoc nomine. Nam Milo dicitur, lib. IX, cap. 19
+Catalogi Petri de Natalibus ; et ad calcem Regii ms.
+2423, in Patriarcharum indiculo scriptum habetur
+Aἰμιλιανός. Quod sequitur hic de Luca ordinatore
+Avilii illustrari potest per titulum Evangelii secun-
+dum Lucam, in versione Syriaca : Evangelium Lucæ
+evangelistæ, quod protulit et evangelizavit Græce in
+Alexandria magna; et in Persica : Evangelium Lucæ
+quod lingua Græca Ægyptiaca in Alexandria scripsit.
+
+# block=2 source_x1=236 source_y1=2117 source_x2=993 source_y2=2254
+(50) Ἀπό. Ms. Vindob. melius ὑπό, cum sequi-
+tur κεχειροτόνηται, quod si abesset, potuisset dici
+Annianus primus a Marco, hoc est post Marcum.
+CLER.
+
+# block=3 source_x1=242 source_y1=150 source_x2=999 source_y2=365
+Paulo. At urbis Alexandrinorum Annianus pri-
+mus a Marco evangelista ordinatus est, secundus
+vero Avilius a Luca et ipso evangelista. Romanorum
+Ecclesiæ primus quidem Linus Claudiæ filius , a
+Paulo; secundus autem , a me Petro post mortem
+
+# block=4 source_x1=238 source_y1=492 source_x2=993 source_y2=2126
+contigit : et episcopatus magnæ Antiochiæ dignita-
+tem suscepit Ignatius, eodem S. Petro apostolo ordi-
+nante illum ac in sedem collocante. Eo quippe posi-
+to, prædicta omnia nullam parient difficultatem ;
+atque poterit B. Ignatius nuncupari Antiochiæ epi-
+scopus primus, aut secundus, aut tertius, diversa
+ratione : tertius, numeratis Petro ac Evodio ; se-
+cundus, sive præterito Evodio, quod episcopa-
+tum solus non tenuerit , sed tantum una cum
+Petro; sive omisso Petro, propter causam mox
+dicendam; primus , expunctis e catalogo Evo-
+dio ob prolatam rationem, et Petro tanquam apo-
+stolo : quandoquidem celebris mos est apostolos,
+pro potestate eorum ordinaria vel extraordinaria,
+episcopali vel apostolica, indiculis antistitum præ-
+figere, aut ex iis eximere. Quo factum arbitror, ut
+Theophilus, qui Hieronymo in libro De viris illust-
+tribus, post Eusebium Hist. IV, 20, sextus Antio-
+chensis Ecclesiæ episcopus est, ab eodem Hierony-
+mo epistola 151, ad Algasiam, quæst. 6 (quem se-
+quuntur Guillelmus Tyrius et Jacobus de Vitriaco),
+Antiochenæ Ecclesiæ septimus post Petrum aposto-
+lum episcopus vocatur. Sicuti, juxta Irenæum, Hy-
+ginus papa octavum et nonum locum ab apostolis
+inter Romanos episcopos obtinet. Posterius enim do-
+cet beatus Martyr, lib. I, cap. 28, in eamque loquendi
+formam ducit S. Cyprianum epist. 74, et S. Epi-
+phanium hæres. 41, 42, editionis Petavianæ, p.
+300, 302, 364, quo ultimo loco perperam Ἀνικήτου
+pro Ὑγίνου scriptum invenies. Prius autem tradi-
+tur ab Irenæo, lib. III, cap. 3 et 4, licet Eusebius,
+Hist. eccl. lib. IV, cap. 11, in posterioris capitis
+verbis referat ἔνατος, sive corruptis deceptus exem-
+plaribus, sive dum vult Irenæum Aniceto conciliare,
+sed jugulat eam lectionem, quod ibidem decimus
+episcopatus locus assignatur Aniceto, inter quem
+et Hyginum sedit Pius; ut nihil dicam de expres-
+sissimo testimonio capitis 3, relato quoque per Eu-
+sebium, lib. V, cap. 6. Longioris notæ finem facio,
+errorem per superiora facilem confutatu ; Græco-
+rum nescio quorum apud Anastasium bibliotheca-
+rium in Scholio ad locum citatum octavæ synodi,
+quod apostoli ausi non fuerint Ignatio, cum ad Ec-
+clesiæ præsulatum promoveretur, amplius manus
+imponere; nimirum, quem ore Dei laudatum, et
+ipsius tactu sanctificatum cognoverint. Matth. XVIII,
+2 : Et advocans Jesus parvulum, etc., quem puerum
+esse Ignatium comminiscuntur posteriores Græci.
+COT.
+
+# block=5 source_x1=869 source_y1=408 source_x2=1165 source_y2=447
+VARIORUM NOTÆ.
+
+# block=6 source_x1=660 source_y1=93 source_x2=1380 source_y2=138
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=7 source_x1=1014 source_y1=495 source_x2=1784 source_y2=2725
+Quibus titulis consona reperi scholia in codicibu.
+Regiæ Bibliothecæ 1489, 1782 : Ἐγράϕη Ἑλληνι-
+στὶ μετὰ ἔτη ιε' τῆς Ἀναλήψεως τοῦ Κυρίου, εἰς Ἀλε-
+ξάνδρειαν τὴν μεγάλην. Evangelium Lucæ Græce
+scriptum fuit post quindecim annos ab Ascensione
+Domini, in Alexandria magna. Et : Εὐαγγέλιον κα-
+τὰ Λουκᾶν ἐγράϕη Συριστὶ εἰς Ἀλεξάνδρειαν τὴν με-
+γάλην μετὰ ιε' ἔτη τῆς Ἀναλήψεως τοῦ Κυρίου. Vide
+ὑπόμνημα ad eum evangelistam in fine Œcumenii. Ib.
+(52) Τῆς δὲ Ῥωμαίων Ἐκκλησίας. Linum a Pe-
+tro primum Romanæ Ecclesiæ pontificem collocant
+veteres ac recentiores : Claudiæ filium fuisse, illius
+(ut videtur) quæ in salutatione ipsi jungitur II Tim.
+IV, 21, et a Paulo esse ordinatum, dicit alius nemo,
+si bene memini : quinimo qui Librum pontificalem
+composuit, et Nicephorus, aliique, sed parvæ fidei scri-
+ptores, Lini, quemadmodum Cleti seu Anacleti et
+Clementis, consecratorem faciunt Petrum. At Ire-
+næus lib. III, cap. 3, scribit Petrum et Paulum apo-
+stolos Lino episcopatus officium tradidisse; Zo-
+naras autem et Balsamon , ad canones Carcha-
+ginenses, Linum a Petro pontificem fuisse consti-
+tutum. Jam quod Linum mortem oppetierit ante
+Petrum, affirmatur a multis, negatur ab Eusebio,
+Hist. eccl., lib. III, cap. 2 (quod caput in sua inter-
+pretatione omisit Rufinus, forte de industria), in me-
+dio relinquitur per Epiphanium hæresi XXVII, cap.
+6. Hactenus de Lino. Ejus successor, ex mente
+auctoris nostri, exstitit Clemens, a Petro ordinatus.
+Et quidem in ordinatione consentiunt vulgo, exstat-
+que insigne hujusce rei testimonium in Tertulliani
+libro De præscriptione hæreticorum, cap. 32. Addi-
+tur ab aliis post pseudo-Clementis Epistolam ad
+Jacobum, quam Rufinus in Latinum sermonem
+transtulit, et post Epitomen Recognitionum, id con-
+tigisse paulo ante quam apostolorum coryphæus
+migraret e vita. Quanquam Epiphanii consimilis
+priori dubitatio est, fueritne Clemens a Petro vel a
+Cleto consecratus pontifex. Circa successionem ma-
+jor oritur difficultas : multis multæque auctoritatis
+doctoribus Linum inter et Clementem interponen-
+tibus Cletum, seu Anacletum, aut Anencletum (sen-
+tentiæ enim unum eumdemque esse affirmanti calcu-
+lum meum addo) ; quorum agmen ducit martyr Ire-
+næus ; nec parte nostri magnis vindicibus destituta,
+utpote etiam Optati lib. II, et Augustini epist. 165;
+Pseudo-Tertulliano autem ita numerante in carmine
+3, adversus Marcionem , Linus, Cletus, Anacletus,
+Clemens, sed parum probabiliter ; Tertulliano deni-
+que ubi supra, falso Clemente jam citato et apud
+Nicephorum Hist. II, 35, Proclo in tractatu De tradi-
+tione divinæ missæ, Rufino De adulteratione libro-
+rum Origenis, Hieronymo I in Jovinianum, 7, et ad
+caput LII Isaiæ plerisque Latinorum apud eumdem
+Hieronymum in Catalogo ubi de Clemente, qui lo--
+cus et Photii cod. 112, 113, conferendi sunt, Eu-
+cherio in Epistola Parænetica ; Beda Hist., lib. II,
+cap. 4 ; Adhelmo De laudibus virginitatis, cap. 12;
+Gualtero Laudunensi, epistola ad Petrum Abælar-
+dum, Spicilegii tomo II, auctore Chronici episcoporum
+Metensium, paulo post initium, ejusdem optimæ
+collectionis tomo VI, et Paschali II, Epistola ad No-
+rigaudum, quam hoc anno emisit in lucem Stepha-
+nus Baluzius clarissimus vir, dicentibus aut innuen-
+tibus Clementem primum fuisse Petri successorem,
+et secundum ab eo pontificem; juxta titulum sepul-
+cralem, qui exstat in Chronico Casauriensi ad an-
+
+# block=8 source_x1=235 source_y1=94 source_x2=323 source_y2=138
+1051
+
+# block=9 source_x1=1027 source_y1=148 source_x2=1787 source_y2=374
+Πέτρου, Ἰγνάτιος δὲ ὑπὸ Παύλου. Τῆς δὲ Ἀλεξαν-
+δρέων Ἀννιανὸς πρῶτος ἀπὸ (50) Μάρκου τοῦ εὐαγγε-
+λιστοῦ κεχειροτόνηται ; δεύτερος δὲ Ἀϐίλλιος (51)
+ὑπὸ Λουκᾶ καὶ αὐτοῦ εὐαγγελιστοῦ. Τῆς δὲ Ῥω-
+μαίων Ἐκκλησίας (52) Λῖνος μὲν ὁ Κλαυδίας πρῶτος
+
+# block=10 source_x1=1697 source_y1=106 source_x2=1789 source_y2=152
+1052

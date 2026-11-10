@@ -1,0 +1,202 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,971,295,1727,1931
+2,964,2071,1711,2238
+3,184,295,935,1930
+4,179,2070,933,2237
+5,971,1995,1706,2066
+6,1229,143,1430,176
+7,978,187,1717,253
+9,601,88,1320,125
+10,179,2273,1727,2414
+11,807,2435,1097,2470
+12,1660,94,1719,125
+13,177,2500,926,2708
+14,408,143,686,175
+18,192,89,244,125
+19,195,185,939,284
+20,960,2497,1696,2670
+21,434,1944,690,1990
+22,1248,1948,1430,1992
+23,170,1980,932,2070
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=9 fontSize=16px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=18 fontSize=16px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+CONSTITUTIONES APOSTOLICÆ.--LIB. VI.
+
+# block=18
+913
+
+# block=12
+914
+
+# block=14
+ΚΕΦΑΛΑΙΟΝ Γ'.
+
+# block=6
+CAPUT III.
+
+# block=19
+Περὶ τῆς Μωϋσέως ἀρετῆς, καὶ ἀπιστίας τῶν Ἰου-
+δαίων ἔθνους, καὶ ὧν ὁ Θεὸς ἐθαυματούργησε
+δι' αὐτῶν ³⁰.
+
+# block=7
+De virtute Moysis, et de infidelitate gentis Judaicæ, et
+de miraculis quæ Deus per illum edidit.
+
+# block=3
+Καὶ ἐπανέστησαν Μωσεῖ τῷ τοῦ Θεοῦ θεράποντι,
+τῷ παρὰ πάντας πραοτάτῳ, καὶ πιστῷ, καὶ ἠτιμη-
+σαν (73) τὸν τηλικοῦτον ἄνδρα οἱ ἀχαριστότατοι · τὸν
+νομοθέτην, τὸν φύλακα, τὸν ἀρχιερέα καὶ βασιλέα,
+τὸν μύστην τῶν θείων, τὸν ὡς δημιουργὸν τὰς τοῦ
+δημιουργοῦ ἐπιδειξάμενον ἐνεργείας · τὸν πραότατον,
+τὸν ἀτυφότατον · τὸν καρτερικὸν, τὸν φιλανθρωπότα-
+τον · τὸν πολλῶν κινδύνων αὐτοὺς ἀπαλλάξαντα, καὶ
+διαφόρων θανάτων αὐτοὺς ῥυσάμενον, τῇ παρ' ἑαυτοῦ
+ὁσιότητι · τὸν τοσαῦτα παρὰ Θεοῦ σημεῖα καὶ τέρατα
+τῷ λαῷ πεποιηκότα · τὸν τὰ ἔνδοξα καὶ θαυμαστὰ
+ἔργα εἰς εὐεργεσίαν αὐτῶν τετελεκότα · τὸν ἐπ' Αἰγυ-
+πτίους δεκάπληγον πεπληρωκότα (74), τὸν τὴν Ἐρυθρὰν
+θάλασσαν διηρηκότα, καὶ ὡς τεῖχος τὰ ὕδατα ἔνθεν
+καὶ ἔνθεν διαστήσαντα, καὶ ὡς δι' ἐρήμου ξηρᾶς τὸν
+λαὸν ἀγαγόντα, καὶ βυθίσαντα Φαραὼ καὶ τοὺς Αἰγυ-
+πτίους καὶ πάντας τοὺς παρ' αὐτῶν μετ' αὐτῶν (75) ·
+τὸν γλυκάναντα πηγὴν αὐτοῖς διὰ ξύλου, καὶ ἐκ πέ-
+τρας ἀκροτόμου αὐτοῖς προαγαγόντα ὕδωρ διψῶσιν· τὸν
+ἐξ οὐρανοῦ μαννοδοτήσαντα αὐτοῖς, καὶ ἐξ ἀέρος χρεω-
+λογήσαντα ³⁶ · τὸν στῦλον πυρὸς ἐν νυκτὶ εἰς φωτισμὸν
+καὶ ὁδηγίαν παρεχόμενον αὐτοῖς, καὶ στῦλον νεφέλης εἰς
+σκιασμὸν ἡμέρας διὰ τὸν ἐξ ἡλίου φλογμόν· τὸν νόμον
+Θεοῦ ἐκ στόματος καὶ χειρὸς καὶ γραφῆς Θεοῦ ἐν πλαξὶ
+λιθίναις κεκολαμμένον παρασχόμενον αὐτοῖς, τελείου
+ἀριθμοῦ Δεκάλογον· ᾧ ὁ Θεὸς ἐνώπιος ἐνωπίῳ ὁμίλει
+[f. ὡμίλει], ὡσεί τις λαλήσαι πρὸς ἑαυτοῦ φίλον· περὶ
+οὗ εἶπεν · « Καὶ οὐκ ἀνέστη προφήτης ὡς Μωσῆς. » Τούτῳ
+ἐπανέστησαν οἱ Κορεῖται καὶ οἱ Ῥουβηνῖται ⁴¹, καὶ λί-
+θους ἔβαλλον κατὰ τοῦ Μωσέως (76) προσευχομένου καὶ
+λέγοντος · « Μὴ πρόσχῃς εἰς τὴν θυσίαν αὐτῶν. » Καὶ
+ὤφθησαν ἡ δόξα τοῦ Θεοῦ, τοὺς μὲν εἰς γῆν κατήνεγκε,
+τοὺς δὲ πυρὶ κατέφλεξε · καὶ οὕτω τοὺς ἀρχηγοὺς τῆς
+πλάνης τοῦ σχίσματος, λέγοντας· « Δῶμεν ἀρχηγὸν
+ἑαυτοῖς· » ἤνοιξεν ἡ γῆ τὸ στόμα αὐτῆς καὶ κατέπιεν
+αὐτοὺς, καὶ τὰς σκηνὰς αὐτῶν, καὶ τὴν ἀποσκευὴν
+αὐτῶν, καὶ κατῆλθον εἰς ᾅδου ζῶντες· τοὺς δὲ Κορεί-
+τας ἀπώλεσε διὰ πυρός.
+
+# block=1
+Et rebellaverunt adversus Mosen Dei famulum ³¹,
+omnium mansuetissimum hominem, ac fidelem, et
+ingratissimi tantum virum inhonestarunt; legisla-
+torem, custodem, pontificem ac regem, interpretem
+divinorum mysteriorum; in modum conditoris, ope-
+rum Creatoris monstratorem; mitissimum, minime
+ambitiosum, patientem, humanissimum; qui eos
+multis periculis liberaverat, et ex multiplici mortis
+genere eripuerat sanctitate sua; qui tot divina signa
+et prodigia populo ediderat; qui præclara et mira-
+bilia opera in eorum beneficium ac emolumentum
+perfecerat; qui Ægyptiis decem illas plagas intu-
+lerat; qui mare Rubrum diviserat, et instar muri
+aquas hinc inde distraxerat, et populum per undas
+quasi per solitudinem siccam duxerat, et Pharaonem
+ac Ægyptios cæteramque turbam una demerserat ³²;
+qui per lignum eis fontem reddiderat dulcem, et ex
+petra dura sitientibus elicuerat aquam ³³; qui ipsis
+mannam e cœlo dederat, et ex aere carnes college-
+rat ³⁴; qui tribuerat illis de nocte columnam ignis ³⁵,
+in illuminationem ac deductionem, et de die colum-
+nam nubis, in umbraculum adversus solis ardo-
+rem ³⁶; qui legem Dei ex ore et manu et scriptura
+Dei in tabulis lapideis sculptam eis præbuerat, per-
+fecti numeri Decalogum ³⁸ : cum quo Deus facie ad
+faciem colloquebatur, sicut aliquis loqueretur ad
+amicum suum ³⁹; ac de quo dixit : « Et non surrexit
+propheta sicut Moses⁴⁰. » Adversus hunc insurrexe-
+runt Coritæ et Rubenitæ; et lapides jecerunt in
+Mosem ⁴¹ orantem ac dicentem : « Ne attendas ad sa-
+crificium eorum ⁴² » : et gloria Dei quæ apparuit,
+alios quidem in terram intulit, alios vero igne con-
+sumpsit : atque ita erroris schismatici magistros
+ac ductores, qui dixerant : « Constituamus nobis du-
+cem ⁴³ , » terra, aperto sinu suo devoravit, una cum
+tabernaculis ac supellectile eorum, descenderunt-
+que in infernum vivi : Coritas vero per ignem Deus
+pessum dedit.
+
+# block=21
+ΚΕΦΑΛΑΙΟΝ Γ'.
+
+# block=22
+CAPUT IV.
+
+# block=23
+Ὅτι ἀποσχίζει, οὐχ ὁ τῶν ἀσεβῶν χωριζόμενος, ἀλλ'
+ὁ τῶν εὐσεβῶν ἀφιστάμενος.
+
+# block=5
+Quod schisma facit, non qui separat se ab impiis, sed
+qui a piis abscedit.
+
+# block=4
+Εἰ οὖν τοῖς διὰ φιλαρχίαν ἀποσχίσασιν, παραυτίκα
+Θεὸς ἐπήγαγε τὴν τιμωρίαν, πόσῳ μᾶλλον τοῖς
+αἱρέσεων ἀσεβῶν καθηγησαμένοις ; Οὐ σφοδροτέραν
+ἐπάξει τὴν τίσιν βλασφημοῦσιν αὐτοῦ πρόνοιαν ἢ τὴν
+
+# block=2
+Si ergo schisma per ambitionem conflantibus,
+Deus confestim supplicium intulit; quanto magis
+hæresium impiarum auctoribus? Nonne vehemen-
+tiorem inducet vindictam in eos qui providentiam
+
+# block=10
+³⁰ al. δι' αὐτόν. ³¹ Num. XII, 3. ³² Exod. VII, 8. ³³ Exod. XV, 25. ³⁴ Exod. XVI, 4. ³⁵ Exod. XVI, -
+14. ³⁶ al. χρεωδοτήσαντα, sic et alter cod. Vind. ³⁷ Exod. XIII, 21. ³⁸ Exod. XXXI, 18. ³⁹ Exod.
+XXXIII, 11. ⁴⁰ Deut. XXXIV, 10. ⁴¹ al. Ῥουβηλῖται. ⁴² Num. XVI, 10. ⁴³ Num. XVI, 15. ⁴⁴ Num.
+XIV, 4.
+
+# block=11
+VARIORUM NOTÆ.
+
+# block=13
+(73) Καὶ ἠτίμησαν. Hæc et quæ sequuntur, ad
+hæc verba : Tῇ παρ' ἑαυτοῦ ὁσιότητι· desunt in altero
+cod. Vind. CLER.
+(74) Τὸν ἐπ' Αἰγυπτίους δεκάπληγον πεπληρω-
+κότα. Desunt in altero cod. Vind. IB.
+(75) Παρ' αὐτῶν μετ' αὐτῶν. Posterius videtur
+
+# block=20
+esse prioris emendatio. COT.
+(76) Καὶ λίθους ἔβαλλον κατὰ τοῦ Μωσέως. In
+Josepho, lib. IV cap. 2 : Καὶ βάλλειν τὸν Μωσῆν
+ὡρμήκεσαν. Tunc itaque populus, ait Rufinus inter-
+pres, ut etiam Mosen lapidaret aggressus est. IB.

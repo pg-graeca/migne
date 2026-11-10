@@ -1,0 +1,186 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,209,2136,965,2733
+2,992,2003,1748,2700
+3,198,794,950,1483
+4,206,1672,965,2070
+5,193,153,942,789
+6,992,1672,1747,1941
+7,995,1938,1744,2009
+8,204,1498,1729,1603
+9,599,95,1319,133
+10,981,274,1749,1493
+11,980,147,1718,271
+12,837,1622,1136,1654
+13,206,2070,951,2138
+14,1647,99,1716,129
+16,194,100,261,137
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=209 source_y1=2136 source_x2=965 source_y2=2733
+(96) In Britanniæ partibus, etc. De antiquis Bri-
+tannis verba sunt Cæsaris lib. v De bello Gallico
+cap. 5 : Uxores habent deni duodenique inter se com-
+munes, et maxime fratres cum fratribus, et parentes
+cum liberis. De multo recentioribus autem sui tem-
+poris ait Gildas, in Epistola de excidio Britanniæ :
+Reges habet Britannia, sed tyrannos; judices habet,
+sed impios, sæpe prædantes, et concutientes innocen-
+tes; vindicantes, et protegentes, sed reos et latrones ;
+quamplurimas conjuges habentes, sed scortantes. Apud
+Scotos vero gentem Britannicam, communes exsti-
+tisse uxores discimus a Hieronymo lib. II adversus
+Jovinianum c. 6. Nec dissimiliter Hiberni in Stra-
+bone lib. IV. Quod spectat ad Parthos, uxores dul-
+cedine variæ libidinis singuli plures habebant; ut
+verbis Justini Historici lib. XLI, utar. Hoc porro in
+ioco, et Noster paululum deflexit a Bardesane, et
+diligentia defuit Cæsario.
+
+# block=2 source_x1=992 source_y1=2003 source_x2=1748 source_y2=2700
+(99) Medi. Narrat hoc de Bactrianis Onesicritus
+apud Strabonem lib. XI. De iisdem Bactriis seu Ba-
+ctris, et de Hyrcanis Porphyrius, in Περὶ ἀποχῆς
+ἐμψύχων num. 21 ac post eum Eusebius Præpar.
+evang. lib. I, cap. 14, et Hieronymus II in Jovinia-
+num, 6. Qui postremus, ut id obiter moneam, mi-
+nus commode Porphyrii κατακρημνίζουσιν convertit
+suspendunt in patibulis, uti etiam patet ex Theodo-
+riti sermone De legibus, p. 615. Ab aliis autem re-
+fertur usitatum fuisse apud Bactrianos, Hyrcanos,
+Persas, Assyrios, Caspios, Indorum aliquos, Parthos
+aliosque, mortuorum cadavera canibus, bestiis,
+vulturibus, volucribus devoranda projicere. Unde
+dictum Diogenis in Stobæi sermone 122 ,Ὅτι ἂν
+μὲν κύνες αὐτὸν σπαράξωσιν, Ὑρκανία ἔσται. ἡ τάφῃ ·
+ἂν δὲ γῦπες , Βάκτρων. Ita enim emendo in voce
+nihili ἀπτέον, adductus auctoritate Plutarchi, qui
+in libello An vitiositas ad infelicitatem sufficiat, hæc
+habet : Ὑρκάνων δὲ κύνες , Βακτριανῶν δὲ ὄρνιθες
+νεκροὺς ἐσθίουσιν κατὰ νόμους, ὅταν μακαρίου τέλους
+τυγχάνωσιν.
+
+# block=3 source_x1=198 source_y1=794 source_x2=950 source_y2=1483
+XXIII. Porro vero in Susis mulieres unguentis
+et quidem optimis utuntur, ornamentis comptæ ex
+lapidibus pretiosis, ministeriis quoque ancillarum
+fultæ procedunt multo majore ambitione quam
+viri, nec tamen pudicitiam colunt, sed indifferens
+eis cum quibuscunque voluerint usus est et servis
+et hospitibus, tali licentia a viris permissa ; et
+non solum non culpantur pro hoc, sed et domi-
+nantur in viros. ⁶⁷ Nec tamen omnium genesis mu-
+lierum Susidarum in medietate cœli, cum Jove et
+Marte Venerem in Jovis domibus habent. In ulte-
+rioribus Orientis partibus, si puer muliebri se sub-
+sternat injuriæ, cum agnitum fuerit, a fratribus
+aut parentibus vel quibuslibet proximis interficitur,
+nec sepultura donatur. Et rursus apud Gallos (95)
+lex prisca constituit nuptum tradi publice pueros,
+
+# block=4 source_x1=206 source_y1=1672 source_x2=965 source_y2=2070
+bus Regiis emendandus venit Bardesanes, ibidem,
+p. 280, A, παρὰ Βάκτροις καὶ Γάλοις, non Γάλλοις.
+Indiligenter autem Bardesanem ac Recognitiones hic
+legit Cæsarius. Rufinus vero habebat in codice suo
+ἀνανδρείους, non ἀνδρείους. Corrige obiter Scylacis
+Periplum capite de Liburnis : Οὗτοι γυναικοκρατοῦν-
+ται · καὶ εἰσὶν αἱ γυναῖκες ἀνδρῶν ἐλευθέρων · μί-
+σγονται δὲ τοῖς ἑαυτῶν δούλοις, καὶ τοῖς πλησιοχώ-
+ροις ἀνδράσι. Legendum, ἐλεύθεραι. Hi muliebri im-
+perio subjecti sunt : et mulieres a viris sunt liberæ ;
+miscentur autem cum suis servis, vicinarumque regio-
+num viris.
+
+# block=5 source_x1=193 source_y1=153 source_x2=942 source_y2=789
+res agricolentur, ædficent et omne opus virile per-
+ficiant, sed et misceri quibus volunt licet, nec in-
+cusantur a viris aut adulteræ appellantur, passim
+enim concubitus miscent et præcipue cum hospiti-
+bus, unguenta nesciunt, non induuntur veste fu-
+cata, non calceis ; econtra viri Gelonum ornantur,
+pectuntur, indumentis mollibus et variis induuntur,
+auro compositi unguentisque delibuti, et hæc non
+pro dissolutione virium, sunt enim bellicosissimi
+et venatores acerrimi ; ⁶⁶ nec tamen universæ Ge-
+lonum mulieres, in Capricornu aut Aquario caco-
+dæmonem Venerem nascentes habuere, neque viri
+eorum in Ariete cum Marte Venerem positam, per
+quod schema effeminatos et dissolutos nasci asse-
+rit viros Chaldaica disciplina.
+
+# block=6 source_x1=992 source_y1=1672 source_x2=1747 source_y2=1941
+(97) Sed neque Mercurium, etc. Hæc carent sensu,
+nec possunt construi. Equidem re attente conside-
+rata, comparatisque inter se tribus auctoribus, Bar-
+desane, pseudo-Clemente et Cæsario, arbitror in
+Græco hic scriptum fuisse ἀλλὰ μήν, Rufinum vero
+transtulisse sed et, aut si transtulerit sed neque,
+perperam legisse ἀλλὰ μή. Dein ut particulam esse
+concedentis existimo.
+
+# block=7 source_x1=995 source_y1=1938 source_x2=1744 source_y2=2009
+(98) Chrysea. De Chryse consule geographos, nec-
+non Salmasii Exercitationes Plinianas.
+
+# block=8 source_x1=204 source_y1=1498 source_x2=1729 source_y2=1603
+⁶⁶ Nec tamen... disciplina desunt in codd. Lipss. ⁶⁷ Nec tamen... habent , et| paulo infra : et nunquid...
+habuerint pariter desunt in utroque codd. Lipss. ⁶⁸ Cumque... poetas producat et in fine hujus cap. ergo...
+
+# block=9 source_x1=599 source_y1=95 source_x2=1319 source_y2=133
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10 source_x1=981 source_y1=274 source_x2=1749 source_y2=1493
+mibus Saturni et finibus Martis habuerint ?
+XXIV. In Britanniæ partibus (96) plures viri unam
+habent uxorem, in Parthia multæ mulieres unum
+habent virum, et utraque orbis pars moribus suis
+atque institutis obsequitur. Amazones omnes non
+habent viros, sed sicut animalia semel in anno
+circa vernale æquinoctium proprios egressæ termi-
+nos, finitimæ gentis viris miscentur, solemnitatem
+quandam per hoc observantes, ex quibus cum con-
+ceperint redeunt, et si marem mepererint abjiciunt,
+feminas nutriunt. ⁶⁸ Cumque unius temporis sit
+•mnium partus, absurdum est, ut in maribus qui-
+dem putetur Mars cum Saturno in tempore æquis
+esse portionibus, in feminarum vero genesi nun-
+quam. Sed neque Mercurium (97) cum Venere ha-
+buisse in domibus propriis positum, ut vel picto-
+res ibi vel sculptores vel trapezitas efficiat, aut
+in domibus Veneris, ut unguentarios vel vocales
+vel poetas producat. Apud Saracenos et superiores
+Libes et Mauros et circa ora maris Occani habi-
+tantes, sed et in extremis Germaniæ partibus et
+apud Sarmatas et Scythas atque omnes quæ sub
+axe septentrionis jacent Pontici littoris gentes, et
+in Chrysea (98) insula, nunquam invenitur trape-
+zita nec sculptor, aut pictor, aut architectus, aut
+geometres, aut tragœdus, aut poeta ; ergo deficit
+apud eos Mercurii Venerisque constellatio.
+XXV. Ex omni orbe terrarum Medi (99) tantum-
+
+# block=11 source_x1=980 source_y1=147 source_x2=1718 source_y2=271
+nec opprobrium ex hoc aliquod duci ; et nunquid
+possibile est, ut omnes qui tam turpiter succumb-
+bunt apud Gallos , Luciferum cum Mercurio in do-
+
+# block=12 source_x1=837 source_y1=1622 source_x2=1136 source_y2=1654
+COTELERII NOTÆ.
+
+# block=13 source_x1=206 source_y1=2070 source_x2=951 source_y2=2138
+(95) Apud Gallos. Id etiam testantur Diodorus
+Siculus, lib. v, et Athenæus, lib. XIII.
+
+# block=14 source_x1=1647 source_y1=99 source_x2=1716 source_y2=129
+1412
+
+# block=16 source_x1=194 source_y1=100 source_x2=261 source_y2=137
+1411

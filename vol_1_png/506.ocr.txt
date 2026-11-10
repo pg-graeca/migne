@@ -1,0 +1,90 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1185,1080,1802,1824
+2,1188,139,1803,811
+3,1182,1839,1797,2565
+4,1187,853,1799,1066
+5,241,116,1145,2589
+7,658,67,1427,116
+8,260,2616,1784,2716
+10,269,68,345,112
+11,1735,74,1809,116
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=10
+411
+
+# block=11
+412
+
+# block=2
+Qui sic agit, Spiritus sancti Dei
+templum est ; ejicit dæmonia, et
+Deus illum adjuvat : res enim exi-
+mia est auxilium ferre sic ægrotan-
+tibus. Postquam Dominus plurium
+sanationum aliarum dedisset gra-
+tiam, hanc etiam designavit, dicens :
+Dæmones ejicite : gratis accepistis,
+gratis date ¹⁸. Copiosa autem merces
+reservatur his qui fideliter fratribus
+suis ministrant per dona ipsis a Deo
+collata.
+
+# block=4
+Præclarum ac utile est ut servi
+Domini morem gerant, inter cætera
+similia, huic præcepto divino : In-
+firmus eram, et visitastis me ¹⁸ *.
+
+# block=1
+Pulchrum etiam, bonum æquum-
+que est ut, propter Deum, proxi-
+mos visitemus, in omni urbanitate,
+specieque decenti, memores verbo-
+rum Apostoli : Quis infirmatur, et
+ego non infirmor? Quis scandalizatur,
+et ego non uror ¹⁹ ? Hæc verba indi-
+cant quo proximus amore sit dili-
+gendus : ut sine offendiculo simus
+hæc agentes, sine personarum ac-
+ceptione, aut cæterorum confusione ;
+sed diligamus pauperes ut Dei ser-
+vos, et eos visitando præveniamus.
+
+# block=3
+Coram Deo et hominibus præcla-
+rum est ut pauperum recordemur,
+ut diligamus fratres et peregrinos,
+propter Deum, et propter eos qui
+credunt in Deum ²⁰ : id enim didi-
+cimus ex lege et prophetis, et ex
+Domino Jesu Christo, ubi agitur
+amore fraternitatis et hospitalitate.
+Hujusmodi officia dulcia jucunda-
+que erunt vobis qui estis docibiles
+Dei. Nec vos latent quæ dicta sunt
+de charitate erga fratres et hospites.
+
+# block=8
+¹⁸ Matth. x, 8. ¹⁸* Matth. xxv, 36. ¹⁹ II Cor. xi, 29. ²⁰ Ut honoremus Deum in fratribus nostris, et
+fratres nostros propter Deum.

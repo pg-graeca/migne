@@ -1,0 +1,191 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,256,324,1017,751
+2,1043,898,1806,1635
+3,1044,329,1802,796
+4,255,895,1016,1630
+5,256,2155,1010,2690
+6,1040,1826,1803,2660
+7,254,1827,1008,1959
+8,257,1956,1016,2025
+9,255,2022,1018,2157
+10,255,200,1013,304
+11,288,1678,827,1716
+15,1051,209,1800,309
+16,258,97,313,130
+17,1195,859,1637,892
+19,657,95,1361,132
+20,490,149,760,184
+22,1272,153,1540,188
+23,1729,105,1785,138
+24,465,846,781,902
+25,501,796,751,844
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Si ergo in ore trium vestrum persuasus fuerit,
+bene habet; sin aliquis obduret, dic Ecclesiæ ⁴⁷;
+quam si non audierit, sit tibi sicut ethnicus et pu-
+blicanus; nec amplius eum tanquam Christianum
+in Ecclesia relinque, sed tanquam ethnicum remo-
+ve; volentem tamen resipiscere, suscipe; neque
+enim ethnicum vel publicanum in communione re-
+cipit Ecclesia, priusquam eum priorum impietatum
+pœniteat; Dominus enim noster Jesus, Christus
+Dei, mores mutantibus instituit pœnitentiam.
+
+# block=2
+Καὶ γὰρ ἐγὼ Ματθαῖος, εἷς τῶν δώδεκα τῶν ἐν
+τῇδε τῇ διδασκαλίᾳ λαλούντων ὑμῖν, εἰμὶ ἀπόστολος·
+καὶ αὐτὸς ὢν τελώνης μὲν πρότερον, νῦν δὲ διὰ τοῦ
+πιστεύειν ἠλεημένος, μετεγνωκώς τε τῶν προτέρων
+πράξεων, καὶ ἠξιωμένος ἀπόστολος εἶναι καὶ κήρυξ
+τοῦ λόγου, καὶ Ζακχαῖος, ὃν ὁ Κύριος προσελάβετο ἐν
+μετανοίᾳ δεηθέντα αὐτοῦ, ὁμοίως καὶ αὐτὸς τελώνης
+τὸ πρότερον ὑπῆρχεν. Ἤδη δὲ καὶ στρατιῶται καὶ
+τελωνῶν ὄχλος προσελθόντες τῷ Κυριακῷ περὶ με-
+τανοίας λόγῳ, ἀκούουσι παρὰ τοῦ προφήτου Ἰωάν-
+νου μετὰ τὸ βάπτισμα· « Μηθὲν πλέον παρὰ τὸ διατε-
+ταγμένον ὑμῖν ποιεῖτε. » Ὁμοίως δὲ καὶ τοῖς ἐθνικοῖς
+οὐκ ἀπέγνωσται ἡ ζωή, ἐὰν μετανοήσαντες, τὴν
+ἀπιστίαν ἀποβάλλωσιν. Ὡς τελώνην οὖν ἢ ἐθνικὸν
+ἔχε τὸν ἐπὶ κακῷ ἔργῳ ἐλεγχθέντα, καὶ μὴ μεταγι-
+νώσκοντα. Ἐὰν δὲ ὕστερον μετανοῇ καὶ ἐπιστρέφῃ ἐκ
+τῆς πλάνης (38)· ὡς καὶ τοὺς ἐθνικοὺς (39) ὁπόταν
+
+# block=3
+Ἐὰν οὖν πεισθῇ ἐπὶ στόματος τῶν τριῶν ὑμῶν,
+εὖ ἂν ἔχοι· εἰ δέ τις σκληρύνοιτο, εἰπὲ τῇ Ἐκκλησίᾳ·
+ἐὰν δὲ καὶ τῆς Ἐκκλησίας παρακούσῃ, ἔστω σοι ὡς
+ὁ ἐθνικὸς καὶ ὁ τελώνης· καὶ μηκέτι αὐτὸν ὡς Χρι-
+στιανὸν παραδέχου ἐν τῇ Ἐκκλησίᾳ, ἀλλ' ὡς ἐθνικὸν
+παραιτοῦ· εἰ δὲ βούλοιτο μετανοεῖν, προσλαμβάνου·
+οὐδὲ γὰρ τὸν ἐθνικὸν, ἢ τὸν τελώνην εἰς κοινωνίαν
+παραδέχεται (36) ἡ Ἐκκλησία, πρὶν ἢ μεταγνῷ ἕκα-
+στος αὐτῶν ἐκ τῶν προτέρων ἀσεβημάτων· τοῖς γὰρ
+μεταμελομένοις τόπον μετανοίας ὥρισεν ὁ Κύριος
+ἡμῶν Ἰησοῦς, ὁ Χριστὸς (37) τοῦ Θεοῦ.
+
+# block=4
+Etenim ego Matthæus, unus ex duodecim, qui
+vobis in hac doctrina loquuntur, sum apostolus, et
+quidem qui prius fueram publicanus; qui vero nunc
+per fidem misericordiam consecutus sum, priorum
+operum pœnitens, et dignus habitus ut apostolus et
+verbi divini præco efficerer. Et Zacchæus, quem
+Dominus pœnitentem ac illi supplicantem recepit,
+ipse etiam publicanus antea fuit. Jam vero milites
+et turba publicanorum cum accedunt ad Domini-
+cum de pœnitentia sermonem, a propheta Joanne
+post baptismum audiunt : « Nihil amplius quam
+quod constitutum est vobis, facite ⁴⁸. » Similiter
+nec deplorata est vita ethnicorum, modo pœniten-
+tia ducti abjiciant incredulitatem. Itaque velut eth-
+nicum et publicanum habe eum, qui in malo opere
+deprehensus pœnitentiam detrectat. Si vero postea
+sententiam mutet, et ab errore se retrahat : quem-
+
+# block=5
+(39) Ὡς καὶ τοὺς ἐθνικούς. Quod ethnici, qui
+Christianam religionem amplecti gestiebant, admissi
+quondam fuerint in Ecclesiam, ad audiendum ver-
+bum Dei, res est certissima pariter ac notissima :
+ob quam Origenes in Homiliis sæpe alloquitur com-
+pellatque catechumenos et catechumenas. Quod vero
+spectat ad pœnitentes, docemur a viris eruditis :
+principio, antequam excogitarentur celebres illæ
+stationes, quæ enarrantur canone ultimo Gre-
+gorii Thaumaturgi, quarumque in prima (Fletus
+dicebatur) qui versabantur, extra ecclesiæ ostium
+consistebant; tunc, inquam, peccatoribus pœniten-
+tiam agentibus licuisse introire in sacram ædem,
+atque lectionibus concionibusque interesse. Quini-
+mo apud Latinos per canonem 4 Ilerdensem non
+excluduntur ab ejusmodi beneficio, refractarii ac
+
+# block=6
+in malo obdurati. Generaliterque dicitur ab Hispa-
+nis, concilii Valentini can. 1 : Sacrosancta Evan-
+gelia ante munerum illationem, vel missam Catechu-
+menorum, in ordine lectionum, post Apostolum le-
+gantur : quatenus salutaria præcepta Domini nostri
+Jesu Christi, vel sermonem sacerdotis, non solum
+fideles, sed etiam catechumeni, ac pœnitentes, et om-
+nes qui ex diverso sunt, audire licitum habeant. Sic
+enim pontificum prædicatione audita nonnullos ad
+fidem attractos evidenter scimus. Et antea sanxerant
+Afri, concilii Carthaginensis 4, cap. 84: Ut episco-
+pus nullum prohibeat ingredi Ecclesiam, et audire
+verbum Dei, sive gentilem, sive hæreticum, sive Ju-
+dæum, usque ad missam catechumenorum. Quod ca-
+pitulum Burchardus, lib. III, cap 28, attribuit conci-
+lio apud Valentias habito cap. 16, forsan per σφάλμα
+μνημονικόν. Afros tamen tempore Tertulliani non
+ita sensisse, conjici datur per illud libri De præ-
+scriptione hæreticorum, cap. 41 : In primis quis ca-
+techumenus, quis fidelis, incertum est : pariter adeunt,
+pariter audiunt, pariter orant : etiam ethnici si super-
+venerint, sanctum canibus, et porcis margaritas, licet
+non veras, jactabunt. Videsis de Judæis, in præsen-
+tia omnium interpretantibus legem, clarissimum
+Valesium ad Eusebii Hist. lib. II, cap. 6. COT.
+
+# block=7
+(35) Ὅτι χρή, κ.τ.λ. Titulus iste ad præcedentia
+quoque spectat. Sed observatum fuit ab episcopo
+Ostunensi Bovio, lemmatum horum auctorem de-
+functorie rem egisse. COT.
+
+# block=8
+(36) Παραδέχηται. Ita habet cod. Vind. omissis
+vocibus ἡ Ἐκκλησία. CLER.
+
+# block=9
+(37) Χριστός. Addit cod. Vind. Υἱός, Filius. ID.
+(38) Καὶ ἐπιστρέφῃ ἐκ τῆς πλάνης. Desunt hic
+in altero codice Vind. Sed sunt post μετανοεῖν, mi-
+nus commode. ID.
+
+# block=10
+Quod oporteat delinquentes privatim arguere, et pœ-
+nitentes recipere, secundum constitutionem Do-
+mini.
+
+# block=11
+⁴⁷ Matth. XVIII, 15. ⁴⁸ Luc. III, 13.
+
+# block=15
+Ὅτι χρὴ (35) τοὺς ἁμαρτάνοντας ἰδιαζόντως ἐξε-
+λέγχειν, καὶ τοὺς μετανοοῦντας προσδέχεσθαι,
+κατὰ τὴν τοῦ Κυρίου διάταξιν.
+
+# block=16
+691
+
+# block=17
+Παραδείγματα ἐπὶ μετανοίας.
+
+# block=19
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=20
+CAPUT XXXVIII.
+
+# block=22
+ΚΕΦΑΛΑΙΟΝ ΛΗ'.
+
+# block=23
+692
+
+# block=24
+Exempla pœnitentiæ.
+
+# block=25
+CAPUT XXXIX.

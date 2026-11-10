@@ -1,0 +1,219 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,275,879,1022,1175
+2,1055,881,1793,1174
+3,1052,2459,1784,2696
+4,1051,2003,1785,2167
+5,1051,1448,1791,1743
+6,1050,1742,1790,2004
+7,1055,158,1799,757
+8,276,1359,1024,2693
+9,308,1206,1260,1243
+10,281,150,1021,748
+11,540,841,759,873
+12,282,755,1798,833
+13,1292,839,1553,871
+14,695,96,1454,135
+16,1049,2164,1791,2463
+18,885,1279,1176,1311
+20,285,94,349,132
+21,1735,100,1797,142
+22,1051,1354,1793,1446
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=16 fontSize=15px
+# block=18 fontSize=15px
+# block=20 fontSize=16px
+# block=21 fontSize=16px
+# block=22 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=20
+259
+
+# block=14
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=21
+260
+
+# block=10
+muneribus. Longe a nobis sit Scriptura illa, ubi
+dicit: Miseri sunt qui animo sunt duplices et in-
+certi, qui dicunt: Hæc audivimus etiam tempore
+patrum nostrorum; et ecce consenuimus, et nihil
+horum nobis accidit. O amentes, comparate vos ar-
+bori: vitem sumite, primum quidem frondescit; inde
+fit germen, tum folium, exinde flos, postea acerba
+uva et immatura; denique uva perfecta et matura.
+Videtis quod in exiguo tempore ad maturitatem per-
+venit fructus arboris⁷. In veritate, brevi et subito
+perficietur voluntas ejus; Scriptura etiam testimo-
+nium perhibente, quod cito veniet neque tardabit, et
+repente veniet Dominus ad templum suum. et sanctus
+quem vos exspectatis⁸.
+
+# block=7
+ὑπερβαλλούσαις καὶ ἐνδόξοις δωρεαῖς αὐτοῦ. Πόῤῥω γε-
+νέσθω ἀφ’ ἡμῶν ἡ Γραφὴ αὐτὴ (66), ὅπου λέγει· Τα-
+λαίπωροί εἰσιν (67) οἱ δίψυχοι, οἱ διστάζοντες τὴν
+ψυχὴν, οἱ λέγοντες· Ταῦτα ἠκούσαμεν καὶ ἐπὶ
+τῶν πατέρων ἡμῶν (68), καὶ ἰδοὺ γεγηράκαμεν,
+καὶ οὐδὲν ἡμῖν τούτων συμβέβηκεν. Ὦ ἀνόη-
+τοι (69), συμβάλετε ἑαυτοὺς ξύλῳ· λάβετε ἄμπε-
+λον· πρῶτον μὲν φυλλοῤῥοεῖ, εἶτα βλαστὸς γί-
+νεται, εἶτα φύλλον, εἶτα ἄνθος, καὶ μετὰ ταῦτα
+ὄμφαξ, εἶτα σταφυλὴ παρεστηκυῖα. Ὁρᾶτε ὅτι
+ἐν καιρῷ ὀλίγῳ εἰς πέπειρον καταντᾷ ὁ καρπὸς
+τοῦ ξύλου. Ἐπ’ ἀληθείας ταχὺ καὶ ἐξαίφνης
+τελειωθήσεται τὸ βούλημα αὐτοῦ, συνεπιμαρ-
+τυρούσης καὶ τῆς Γραφῆς, ὅτι ταχὺ ἥξει, καὶ
+
+# block=12
+οὐ χρονιεῖ, καὶ ἐξαίφνης ἥξει (70) ὁ Κύριος εἰς τὸν ναὸν αὐτοῦ, καὶ ὁ ἅγιος (71) ὃν ὑμεῖς προσ-
+δοκᾶτε.
+
+# block=13
+ΚΕΦΑΛΑΙΟΝ ΚΔ'.
+
+# block=11
+CAPUT XXIV.
+
+# block=1
+Consideremus, dilecti, quemadmodum Dominus
+continue nobis ostendat resurrectionem quæ futura
+est; cujus primitias fecit Dominum Jesum Chri-
+stum, suscitans eum e mortuis. Intueamur, dilecti,
+quæ omni tempore fit, resurrectionem. Dies et nox
+resurrectionem nobis declarant: cubat nox, exsur-
+git dies: dies abit, nox ingruit et insequitur. Vi-
+
+# block=2
+Κατανοήσωμεν, ἀγαπητοὶ, πῶς ὁ Δεσπότης ἐπι-
+δείκνυται διηνεκῶς τὴν μέλλουσαν ἀνάστασιν ἔσε-
+σθαι, ἧς τὴν ἀπαρχὴν ἐποιήσατο τὸν Κύριον Ἰησοῦν
+Χριστὸν, ἐκ νεκρ[ῶν] ἀναστήσας. Ἴδωμεν, ἀγαπη-
+τοὶ, τὴν κατὰ κα[ιρὸν] γινομένην ἀνάστασιν. Ἡμέρ[α
+καὶ] νὺξ ἀνάστασιν ἡμῖν δηλοῦσ[ιν (72)·] κοιμᾶται ἡ
+νὺξ, ἀνίσταται ἡ[μέρα·] ἡ ἡμέρα ἄπεισιν, νὺξ ἐπέρ-
+
+# block=9
+⁷ Jac. I, 8; II Petr. III, 4. ⁸ Hab. II, 3, Malach. IV, 1; Hebr. XII, 37.
+
+# block=18
+VARIORUM NOTÆ.
+
+# block=22
+cujus testimonium, ut propheticum, repetitur in
+Epist. 2, cap. 11. Loca canonicorum librorum ut-
+cunque similia notavi ad marginem. Cor.
+
+# block=8
+ut adnotavit Frey, sed quæ huic loco apprime con-
+gruit. Hæc autem, auctore Varino, γίνεται ἐκ τοῦ
+εἴδω, τοῦ ὁμοιῶ· τραπέντος τοῦ ι εἰς ν, ὡς ἐπὶ τοῦ
+αἰεὶ αἰὲν, καὶ τετραμμένου τοῦ ε εἰς ι ὡς ἐπὶ ἔχω
+ἴχω, καὶ τῶν ὁμοίων. Hinc ἰνδάλματα sunt φαντά-
+σματα, ὀνείρατα, ἅπερ μὴ παρόντα ὑπονοεῖ τις,
+ὁμοιώματα, ἀπεικονίσματα. Idem docet Hesychius:
+Ἰνδάλλεται, ὁμοιοῦται, φαίνεται, δοκεῖ, στοχάζεται,
+ἰσοῦται, σοφίζεται. Sic ergo vertenda videtur Cle-
+mentis sententia: Neque vanas sibi fingat species et
+phantasmata, vel Neque decipiatur animi sui figmen-
+tis anima nostra. GALL.— Μηδὲ ἰνδαλλέσθω. Forte
+ἐνδοιάσθω litterarum levi mutatione, vel potius ἰλιγ-
+γιάσθω, quod idem est, et a Chrysostomo sæpenu-
+mero usurpatur, ut homil. 25 in Epist. ad Hebræos,
+de Abrahamo verba faciens, et ejus fide quæ non
+vacillaverat, licet Dei præcepta promissis plane con-
+traria viderentur: Εἶδες μάχην προσταγμάτων καὶ
+ἐπαγγελίας, ἐναντία ταῖς ἐπαγγελίαις προσέταξε,
+καὶ οὐδὲ οὕτως ἰλιγγίασεν ὁ δίκαιος, οὐδὲ ἠπατῆσθαι
+ἔφη, et paulo infra ibidem: Ἐναντία ταῖς ὑποσχέ-
+σεσι προσετέτακτο ποιεῖν, καὶ οὐδὲ οὕτως ἐθορυβήθη,
+οὐδ’ ἰλιγγίασεν, οὐδὲ ἠπατῆσθαι ἐνόμισεν, et homil.
+19, in Epist. ad Eph. ubi de Providentia divina du-
+bitandum non esse asserit, licet rerum multarum
+causæ et rationes nos lateant quod egregiis simi-
+litudinibus, a fabrorum, pictorum, apum, formi-
+carum, aranearum, et hirundinum operibus illu-
+strat. Ἀλλ’ ἄπελθε εἰς τεκτονεῖον, καὶ οὐκ ἐξετάζεις
+τὸν λόγον, καίτοιγε οὐδὲν οἶδας τῶν γινομένων ἐκεῖ,
+καὶ πολλὰ ἄπορα εἶναί σοι δοκεῖ, οἷον ὅταν τορεύῃ
+τὸ ξύλον ὅταν μετασχηματίζῃ· μᾶλλον δὲ εἰς εὐπο-
+ρωτέραν σε τέχνην ἂν ἀγάγω, οἷον τὴν τῶν ζωγράφων,
+καὶ ἐκεῖ ἰλιγγιάσεις· εἰπὲ γάρ μοι, οὐχὶ ἁπλῶς σοι
+δοκεῖ ποιεῖν ἃ ποιεῖ; τί γὰρ αὐτῷ βούλονται αἱ γραμμαὶ
+καὶ αἱ περιαγωγαὶ τῶν γραμμῶν; ἀλλ’ ἂν ἐπιθῇ τὰ
+χρώματα, τότε σοι φανεῖται ἡ τέχνη καλή, καὶ ὅμως
+οὐδὲ οὕτως ἀκριβῶς οὐδὲν δυνήσῃ καταμαθεῖν, JUN.
+(66) Ἡ Γραφὴ αὐτή. Quid, si cum Dav. mutato
+accentu, legamus, ἡ γραφὴ αὕτη, hæc Scriptura?
+GALL. — Ἡ Γραφὴ αὐτή. Scriptura apocrypha;
+
+# block=5
+(67) Ταλαίπωροί εἰσιν. De hoc loco, cum nus-
+quam in Scripturis exstet, nihil aliud responderi
+potest, quam quod supra de verbis Moysis, Ἐγὼ
+δέ εἰμι ἀτμὶς ἀπὸ χύτρας, ex Chrysostomo a nobis
+allatum est. Videtur autem respexisse ad locum
+Petri epist. II, cap. III, 4: Καὶ λέγοντες· Ποῦ ἐστιν ἡ
+ἐπαγγελία τῆς παρουσίας αὐτοῦ; ἀφ’ ἧς γὰρ οἱ πα-
+τέρες ἐκοιμήθησαν, πάντα οὕτω διαμένει ἀπ’ ἀρχῆς
+κτίσεως. JUN.
+
+# block=6
+(68) Ἐπὶ τῶν πατέρων. Editi ἀπό. Wott. vocem
+ἐπὶ restituit ex ms. cod. qui eam exhibet tam hic,
+quam cap. 11 alterius epistolæ, ubi hæc eadem ha-
+bentur pene αὐτολεξεί. Quæ quidem lectio magis
+placet Cler. Hunc autem locum illustrat Dodwel-
+lus tum in Cyprian. Dissert. 12, § 33, tum in Ire-
+naic. Dissert. 1, § 20. Utrobique, tamen pro ἐπί
+legit ἀπό, Junianam editionem secutus. GALL.
+
+# block=4
+(69) Ὦ ἀνόητοι. Verba hæc et sequentia Cle-
+mentis non sunt, ut ex secunda Ep. patet, sed
+ejusdem auctoris, cujus superiora. Hoc dudum
+monuerunt rev. Pearson et sagacissimus G. Wen-
+delinus. COLOM.
+
+# block=16
+(70) Καὶ οὐ χρονιεῖ καὶ ἐξαίφνης ἥξει. Ista quæ
+in omnibus editis omittuntur, præter Londinensem,
+Wott. ex ms. restituit. Nec immerito suspicatur,
+Junium vel librarium qui hanc epistolam primus
+ex isto Cod. descripsit, ea prætermisisse, quod
+oculos a priore ἥξει ad posterius converterit. GALL.
+(71) Καὶ ὁ ἅγιος. Conjicit Cot. per contractio-
+nem primo scriptum ἄγγελος, transiisse postea in
+ἅγιος. ID.
+
+# block=3
+(72) Ἡμέρα καὶ νὺξ ἀνάστασιν ἡμῖν δηλοῦ-
+σιν. Tertullianus De resurrectione, c. 12, locum
+hunc eleganter exprimit, nec dubium est, quin in
+hoc et sequente capite, quod de phœnice est, Cle-
+mentem nostrum secutus sit. Aspice nunc, inquit,
+ad ipsa quoque exempla divinæ potestatis. Dies mo-
+ritur in noctem, et tenebris usquequaque sepelitur

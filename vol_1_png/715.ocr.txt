@@ -1,0 +1,150 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,984,2526,1723,2699
+2,214,2529,944,2704
+3,982,136,1734,2335
+4,636,90,1304,127
+5,201,145,958,2329
+7,213,2363,1729,2435
+8,191,88,279,134
+9,1653,88,1725,130
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(69) Μετὰ τὴν περὶ τῶν θείων γνῶσιν. In altero
+cod. κατὰ τὴν τοῦ Κυρίου διάταξιν. ID.
+(70) Πατρός μου. Addit alter codex τοῦ ἐν τοῖς
+οὐρανοῖς, et paulo post ὥστε pro ὡς. ID.
+(71) Ἑτέρως. Antiquior cod. θέως. ID.
+
+# block=2
+(67) Μισθαποδοσίαν. Alter cod. θεραπείαν, quod
+melius ; stipendia enim milites a Cæsare accipiebant,
+sed nihil vetabat quin a Christianis munera obser-
+vantiæ causa, acciperent. CLER.
+(68) Ἀφθάρτου. Deest in altero codice. ID.
+
+# block=3
+tur et curæ habeatur; ut quantum in vobis est, non
+affligatur beatus frater vester. Qui enim ob Domini
+Dei nomen condemnatur, hic est sanctus martyr,
+frater Domini, filius Altissimi, receptaculum sancti
+(per quem illuminationem gloriæ sancti Evangelii
+acceperunt singuli fideles ⁷⁹) Spiritus; quia dignus
+habitus est incorrupta corona ⁸⁰, et testimonio pas-
+sionum Christi ⁸¹, et societate sanguinis ejus, ut
+ipsius morti configuraretur in adoptionem ⁸². Ob
+hanc igitur causam, omnes fideles, per episcopum
+vestrum, ex vestris bonis ac laboribus, submini-
+strate sanctis. Quod si quis non habeat, jejunet, et
+cibum ejus diei partitus, destinet sanctis. Si quis
+autem in abundantia versatur, plus etiam, secun-
+dum proportionem facultatis suæ, eis suppeditet.
+Jam vero si potest tradita omni substantia sua, eos
+ex carcere liberare, beatus erit, ac Christi amicus.
+Nam cum is, qui bona sua pauperibus dat, perfectus
+sit ⁸³, post cognitionem rerum divinarum, multo
+perfectior erit qui pro martyribus cuncta largietur.
+Siquidem Deo dignus existens, voluntatem ejus
+exsequetur, præbendo iis qui eumdem apud gentes,
+et reges, et Israelis filios confessi sunt ⁸⁴, ac de
+quibus Dominus pronuntiavit dicens : « Qui confi-
+tetur me coram hominibus, confitebor et ego eum
+coram Patre meo ⁸⁵. » Atque si illi tales sunt, ut
+testimonium a Christo apud Patrem consequan-
+tur; non debet pudere vos, ad eos in carceribus
+positos accedere. ⁸⁶ Hoc enim cum feceritis, pro
+martyrio vobis imputabitur : quoniam illi quidem
+martyres fuerunt experiendo; vos vero aliter,
+nempe alacrem exhibendo voluntatem, ut participes
+certaminis illorum. Ad tales namque his verbis lo-
+quitur Dominus : « Venite, benedicti Patris mei,
+possidete paratum vobis regnum a constitutione
+mundi. Esurivi enim, et dedistis mihi manducare;
+sitivi, et dedistis mihi bibere; hospes eram, et col-
+legistis me; nudus, et operuistis me : infirmus eram,
+et visitastis me : in carcere eram, et venistis ad
+me. Tunc respondebunt ei justi, dicentes : Domine,
+quando te vidimus esurientem, et pavimus? aut si-
+tientem, et dedimus potum? Quando autem te vidi-
+mus nudum, et cooperuimus? aut infirmum, et vi-
+sitavimus? quando vero te vidimus hospitem, et col-
+legimus? vel in carcere, et venimus ad te? Et re-
+spondens dicet illis : Quatenus fecistis uni ex his
+fratribus meis minimis, mihi fecistis. Et ibunt hi
+in vitam æternam. Tunc dicet et iis qui a sinistris
+erunt : Discedite a me, maledicti, in ignem æter-
+num, qui paratus est diabolo et angelis ejus. Esurivi
+
+# block=4
+CONSTITUTIONES APOSTOLICÆ.—LIB. V.
+
+# block=5
+καὶ εἰς μισθαποδοσίαν (67) τῶν στρατιωτῶν· ἵνα ἐλα-
+φρυνθῇ καὶ ἐπιμελείας τύχῃ· ἵν’ ὅσον τὸ ἐφ’ ὑμῖν,
+μὴ θλίβηται ὁ μακάριος ἀδελφὸς ὑμῶν. Ὁ γὰρ διὰ
+τὸ ὄνομα Κυρίου τοῦ Θεοῦ καταδικαζόμενος, οὗτος
+μάρτυς ἅγιος, ἀδελφὸς τοῦ Κυρίου, υἱὸς τοῦ Ὑψί-
+στου, δοχεῖον τοῦ ἁγίου Πνεύματος, δι’ οὗ καὶ τὸν
+φωτισμὸν τῆς δόξης τοῦ ἁγίου Εὐαγγελίου ἔλαβεν
+ἕκαστος τῶν πιστῶν· ἐν τῷ καταξιωθῆναι τοῦ ἀφθάρ-
+του (68) στεφάνου, καὶ τῆς μαρτυρίας τῶν παθημά-
+των αὐτοῦ, καὶ τῆς κοινωνίας τοῦ αἵματος αὐτοῦ,
+συμμορφωθῆναι τῷ θανάτῳ τοῦ Χριστοῦ εἰς υἱοθε-
+σίαν. Τούτου οὖν ἕνεκεν ἅπαντες οἱ πιστοὶ, διὰ τοῦ
+ἐπισκόπου ὑμῶν, ἐκ τῶν ὑπαρχόντων ὑμῶν καὶ ἐκ
+τοῦ κόπου διακονήσατε τοῖς ἁγίοις. Εἰ δὲ οὐκ ἔχει
+τις, νηστεύσας, τὸ τῆς ἡμέρας καὶ μερίσας, τοῦτο
+ἐκταξάτω τοῖς ἁγίοις. Εἰ δέ τις ἐν περιουσίᾳ ὑπάρχει,
+καὶ πλεῖόν τι κατὰ ἀναλογίαν τῆς δυνάμεως αὐτοῦ
+διακονείτω αὐτοῖς. Εἰ δὲ καὶ οἷός τέ ἐστιν ἅπαντα τὸν
+βίον ἑαυτοῦ ἀποδόμενος ῥύσασθαι αὐτοὺς ἐκ τοῦ δεσμω-
+τηρίου, μακάριος ἔσται, καὶ φίλος τοῦ Χριστοῦ. Εἰ
+γὰρ ὁ τὰ ὑπάρχοντα πτωχοῖς δοὺς, τέλειος, μετὰ τὴν
+περὶ τῶν θείων γνῶσιν (69)· πολλῷ μᾶλλον ὁ ὑπὲρ
+μαρτύρων. Ὁ γὰρ τοιοῦτος, ἄξιος Θεοῦ ὑπάρξας,
+πληρώσει τὸ θέλημα αὐτοῦ, χορηγήσας ἐκείνοις, οἵτι-
+νες αὐτὸν ὡμολόγησαν ἐνώπιον ἐθνῶν, καὶ βασιλέων,
+υἱῶν τε Ἰσραὴλ, περὶ ὧν ὁ Κύριος ἀπεφήνατο λέγων·
+« Ὃς ἂν ὁμολογήσῃ ἐν ἐμοὶ ἔμπροσθεν τῶν ἀνθρώ-
+πων, ὁμολογήσω κἀγὼ ἐν αὐτῷ ἔμπροσθεν τοῦ Πα-
+τρός μου (70). » Καὶ εἰ τοιοῦτοί εἰσιν, ὡς καὶ ὑπὸ
+Χριστοῦ ἐπὶ τοῦ Πατρὸς αὐτοὺς μαρτυρεῖσθαι, ὑμεῖς
+οὐκ ὀφείλετε ἐπαισχυνθῆναι ἀπιέναι πρὸς αὐτοὺς ἐν ταῖς
+φυλακαῖς. Τοῦτο γὰρ ποιησάντων ὑμῶν, μαρτύριον
+ὑμῖν λογισθήσεται· ὅτι ἐκείνοις μὲν πεῖρα τὸ μαρτύ-
+ριον ὑπῆρξεν, ὑμῖν δὲ ἑτέρως (71), προθυμία, ὡς
+κοινωνοῖς τῆς ἀθλήσεως αὐτῶν. Λέγει γάρ που ὁ Κύ-
+ριος πρὸς τοὺς τοιούτους, φάσκων· « Δεῦτε οἱ εὐλο-
+γημένοι τοῦ Πατρός μου, κληρονομήσατε τὴν ἡτοι-
+μασμένην ὑμῖν βασιλείαν ἀπὸ καταβολῆς κόσμου.
+Ἐπείνασα γὰρ, καὶ ἐδώκατέ μοι φαγεῖν, ἐδίψησα,
+καὶ ἐποτίσατέ μέ, ξένος ἤμην, καὶ συνηγάγετέ με,
+γυμνὸς, καὶ περιεβάλετέ με, ἀσθενὴς ἤμην, καὶ ἐπι-
+σκέψασθέ με· ἐν φυλακῇ ἤμην, καὶ ἤλθετε πρός με.
+Τότε ἀποκριθήσονται αὐτῷ οἱ δίκαιοι, λέγοντες· Κύ-
+ριε, πότε σε εἴδομεν πεινῶντα, καὶ ἐθρέψαμεν, ἢ δι-
+ψῶντα, καὶ ἐποτίσαμεν; πότε δέ σε εἴδομεν γυμνὸν,
+καὶ περιεβάλομεν; ἢ ἀσθενῆ, καὶ ἐπεσκεψάμεθα;
+πότε δέ σε εἴδομεν ξένον, καὶ συνηγάγομεν; ἢ ἐν
+φυλακῇ, καὶ ἤλθομεν πρὸς σέ; Καὶ ἀποκριθεὶς ἐρεῖ
+αὐτοῖς· Ἐφ’ ὅσον ἐποιήσατε ἑνὶ τούτων τῶν ἀδελφῶν
+μου τῶν ἐλαχίστων, ἐμοὶ ἐποιήσατε. Καὶ ἀπελεύσον-
+ται οὗτοι εἰς ζωὴν αἰώνιον. Τότε ἐρεῖ καὶ τοῖς ἐξ
+
+# block=7
+⁷⁹ II Cor. iv, 4. ⁸⁰ I Cor. ix, 25. ⁸¹ Philip. iii, 10. ⁸² Ephes. i, 5. ⁸³ Matth. xix, 21. ⁸⁴ Act. ix, 15.
+⁸⁵ Matth. x, 32. ⁸⁶ Ignat. interpol. ad Smyrn. 9.
+
+# block=8
+829
+
+# block=9
+830

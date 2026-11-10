@@ -1,0 +1,37 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,321,2421,1672,2562
+2,395,2327,1590,2395
+4,595,605,1438,661
+6,246,456,1762,568
+10,261,1151,1715,1229
+
+# layer=format
+# block=1 fontSize=21px centerRows=true
+# block=2 fontSize=24px
+# block=4 fontSize=22px
+# block=6 fontSize=23px
+# block=10 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=6
+Πανομοιότυπος ἀνατύπωσις τῆς πρώτης ἐκδόσεως ἐν Παρισίοις 1857.
+
+# block=4
+Facsimile of the 1857 Paris First Edition.
+
+# block=10
+DIGITAL EDITION BY E.VARTHIS, K. DOMOUCHTSIS, CENTER of PATRISTIC  STUDIES
+
+# block=2
+«ΚΕΝΤΡΟΝ ΠΑΤΕΡΙΚΩΝ ΕΚΔΟΣΕΩΝ» (ΚΕ.Π.Ε.)
+
+# block=1
+Πατησίων 5 (Ὁμόνοια), 104 31 Ἀθῆναι - Greece, τηλ. 52 43 400
+Ἰδρυτὴς - Ὑπεύθυνος: Ἱερεὺς ΙΩΑΝΝΗΣ Κ. ΔΙΩΤΗΣ, θεολόγος
+Ἐφημέριος Ἱεροῦ Ναοῦ Ἁγίου Παντελεήμονος Ἀχαρνῶν

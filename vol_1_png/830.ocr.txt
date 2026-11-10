@@ -1,0 +1,147 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+46,235,83,302,120
+49,219,959,983,2681
+51,1671,78,1757,120
+52,653,74,1381,116
+53,1011,128,1779,2706
+54,223,308,959,918
+55,225,134,931,258
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=46 source_x1=235 source_y1=83 source_x2=302 source_y2=120
+1059
+
+# block=49 source_x1=219 source_y1=959 source_x2=983 source_y2=2681
+XXIV. Ejusdem de virginibus.
+XXV. Lebbæi cognomento Thaddæi constitutio de
+viduis.
+XXVI. Idem de exorcista.
+XXVII. Simon Cananita, de episcopo, a quot debeat
+ordinari.
+XXVIII. Ejusdem canones de episcopis, presbyteris,
+diaconis, et reliquis clericis.
+XXIX. De benedictione aquæ et olei, Matthæi con-
+stitutio.
+XXX. Ejusdem, de primitiis et decimis.
+XXXI. Ejusdem, de iis quæ supersunt.
+XXXII. Varii canones Pauli apostoli, de iis qui ac-
+cedunt ad baptismum, quos oporteat admittere, et
+quos rejicere.
+XXXIII. Quibus diebus famuli debeant feriari.
+XXXIV. Quibus horis, et quare in eis precandum
+sit.
+XXXV. Jacobi fratris Domini constitutio de vesper-
+tino officio.
+XXXVI. Oratio lucernalis.
+XXXVII. Gratiarum actio lucernalis.
+XXXVIII. Gratiarum actio matutina.
+XXXIX. Impositio manus matutina.
+XL. Invocatio pro primitiis.
+XLI. Oratio pro mortuis.
+XLII. Quomodo et quando oporteat fidelium defun-
+ctorum fieri memorias, et quod ex eorum facultati-
+bus sit pauperibus largiendum.
+XLIII. Quod impios ex vita decedentes nihil juvent
+memoriæ, vel mandata.
+XLIV. De ebriosis.
+XLV. De recipientis tis qui propter Christum pa-
+tiuntur persecutionem.
+XLVI. Quod unusquisque, in eo gradu cleri, in quo
+est constitutus, debeat permanere et ordinem
+servare; non vero ad se rapere quæ commissa non
+sunt.
+XLVII. Canones ecclesiastici.
+
+# block=51 source_x1=1671 source_y1=78 source_x2=1757 source_y2=120
+1060
+
+# block=52 source_x1=653 source_y1=74 source_x2=1381 source_y2=116
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=53 source_x1=1011 source_y1=128 source_x2=1779 source_y2=2706
+ι'. Προσφώνησις ὑπὲρ τῶν πιστῶν.
+ια'. Ἐπίκλησις τῶν πιστῶν.
+ιβ'. Διάταξις Ἰακώβου, τοῦ ἀδελφοῦ Ἰωάννου
+τοῦ Ζεβεδαίου.
+ιγ'. Προσφώνησις ἐπὶ τῶν πιστῶν μετὰ τὴν θείαν
+ἀναφοράν.
+ιδ'. Προσφώνησις μετὰ τὴν μετάληψιν.
+ιε'. Ἐπίκλησις μετὰ τὴν μετάληψιν.
+ις'. Περὶ χειροτονίας πρεσβυτέρων, διάταξις
+Ἰωάννου τοῦ φιλουμένου ὑπὸ Κυρίου.
+ιζ'. Περὶ χειροτονίας διακόνων, τοῦ Φιλίππου
+διάταξις.
+ιη'. Ἐπίκλησις χειροτονίας διακόνου.
+ιθ'. Περὶ διακονίσσης, Βαρθολομαίου διάταξις.
+κ'. Ἐπίκλησις ἐπὶ χειροτονίας διακονίσσης.
+κα'. Περὶ ὑποδιακόνων, διάταξις τοῦ Θωμᾶ.
+κβ'. Περὶ ἀναγνωστῶν, τοῦ Ματθαίου διάταξις.
+κγ'. Ἰακώβου τοῦ Ἀλφαίου περὶ ὁμολογητῶν διά-
+ταξις.
+κδ'. Τοῦ αὐτοῦ περὶ παρθένων.
+κε'. Λεββαίου τοῦ ἐπικληθέντος Θαδδαίου περὶ
+χηρῶν διάταξις.
+κς'. Ὁ αὐτὸς περὶ ἐπορκιστοῦ.
+κζ'. Σίμων ὁ Κανανίτης, περὶ τοῦ ὑπὸ πόσων ὀφεί-
+λει χειροτονεῖσθαι ὁ ἐπίσκοπος.
+κη'. Τοῦ αὐτοῦ κανόνες περὶ ἐπισκόπων, πρεσβυ-
+τέρων, διακόνων, καὶ λοιπῶν κληρικῶν.
+κθ'. Περὶ εὐλογίας ὕδατος καὶ ἐλαίου, τοῦ Ματ-
+θαίου διάταξις.
+λ'. Τοῦ αὐτοῦ περὶ ἀπαρχῶν καὶ δεκατῶν.
+λα'. Τοῦ αὐτοῦ περὶ περισσευμάτων.
+λβ'. Κανόνες διάφοροι Παύλου τοῦ ἀποστόλου,
+περὶ τῶν προσιόντων τῷ βαπτίσματι, τίνας δεῖ
+προσδέχεσθαι, καὶ τίνας ἀποβάλλεσθαι.
+λγ'. Ποίας ἡμέρας δεῖ ἀργεῖν τοὺς οἰκέτας.
+λδ'. Ποίας ὥρας, καὶ διατί ἐν ταύταις δεῖ προσεύ-
+χεσθαι.
+λε'. Ἰακώβου τοῦ ἀδελφοῦ Χριστοῦ διάταξις περὶ
+ἑσπερινοῦ.
+λς'. Προσφώνησις ἐπιλύχνιος.
+λζ'. Εὐχαριστία ἐπιλύχνιος.
+λη'. Εὐχαριστία ὀρθρινή.
+λθ'. Χειροθεσία ὀρθρινή.
+μ'. Ἐπίκλησις ἐπὶ ἀπαρχῶν.
+μα'. Προσφώνησις ὑπὲρ τῶν κεκοιμημένων.
+μβ'. Πῶς δεῖ καὶ πότε γίνεσθαι τὰς τῶν κοιμηθέν-
+των πιστῶν μνείας· καὶ ὅτι ἐκ τῶν ὑπαρχόντων
+αὐτοῖς δεῖ παρέχεσθαι πένησι.
+μγ'. Ὅτι τοὺς ἀσεβεῖς τελευτῶντας οὐδὲν ὠφε-
+λοῦσι μνεῖαι, ἢ ἐντολαί.
+μδ'. Περὶ μεθυόντων.
+με'. Περὶ τοῦ ὑποδέχεσθαι τοὺς διὰ Χριστὸν διω-
+κομένους.
+μς'. Ὅτι ἕκαστος ἐν ᾧ ἐτάχθη κλήρῳ, ὀφείλει ἐμ-
+μένειν, καὶ φυλάττειν τὴν τάξιν, ἀλλὰ μὴ
+ἑαυτῷ ἁρπάζειν τὰ μὴ ἐγχειρισθέντα.
+μζ'. Κανόνες ἐκκλησιαστικοί.
+
+# block=54 source_x1=223 source_y1=308 source_x2=959 source_y2=918
+XIII. Oratio pro fidelibus, post divinam oblatio
+nem.
+XIV. Oratio post communionem.
+XV. Invocatio post communionem.
+XVI. De ordinatione presbyterorum, constitutio
+Joannis a Domino dilecti.
+XVII. De ordinatione diaconorum, constitutio Phi
+lippi.
+XVIII. Invocatio ordinationis diaconi.
+XIX De diaconissa, constitutio Bartholomæi.
+XX. Invocatio in ordinatione diaconissæ.
+XXI. De subdiaconis, constitutio Thomæ.
+XXII. De lectoribus, constitutio Matthæi.
+XXIII. Jacobi Alphæi constitutio de confessoribus.
+
+# block=55 source_x1=225 source_y1=134 source_x2=931 source_y2=258
+X. Oratio pro fidelibus.
+XI. Invocatio pro fidelibus.
+XII. Constitutio Jacobi, fratris Joannis Zebedæi.

@@ -1,0 +1,174 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,236,1399,991,2000
+2,239,137,988,1136
+3,236,2243,987,2681
+4,1023,1400,1781,2003
+5,1061,2540,1642,2648
+6,1022,2245,1779,2544
+7,239,2050,1784,2122
+8,513,1293,704,1325
+9,635,86,1370,123
+10,316,1346,900,1381
+11,851,2161,1151,2195
+12,1272,1294,1563,1325
+13,246,81,301,125
+15,2,2057,76,2473
+16,1023,136,1783,1139
+17,239,1139,1783,1265
+18,1711,86,1779,124
+19,1101,1338,1701,1390
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=236 source_y1=1399 source_x2=991 source_y2=2000
+Post vero satis longum tempus, visitavimus fra-
+tres, et confirmavimus eos verbo pietatis, et hor-
+tati sumus ut hæreticos fugerent, qui in nomine
+Christi ac Mosis, cum Christo ac Mose bellant, et
+in ovium pelle lupum occultant. ¹¹ Hi namque sunt
+pseudochristi, et pseudoprophetæ, et pseudoapo-
+stoli, fallaces et corruptores; vulpium partes, et
+vinearum humiliorum vastatores ¹³; per quos « re-
+frigescet charitas multorum; qui autem perseve-
+raverit usque in finem » indeflexus ¹⁴, « hic salvus
+erit ¹⁵. » De iisdem Dominus nos cautos reddens,
+ista denuntiavit: « Venient ad vos viri in vesti-
+mentis ovium; intrinsecus autem sunt lupi rapa-
+ces: a fructibus eorum cognoscetis eos: attendite
+
+# block=2 source_x1=239 source_y1=137 source_x2=988 source_y2=1136
+nioribus cum omni Ecclesia, eligere viros ex nobis,
+et mittere cum Barnaba, et cum Paulo gentium
+apostolo ac Tarsensi, Judam qui vocatur Barsab-
+bas, et Silam, viros primarios in fratribus, atque
+scribere per manus eorum hæc: « Apostoli et se-
+niores, et fratres, his qui sunt Antiochiæ et Syriæ
+et Ciliciæ fratribus ex gentibus, salutem. Quoniam
+audivimus quod quidam ex nobis turbaverunt vos
+verbis, evertentes animas vestras; quibus non
+mandavimus; placuit collectis in unum, eligere vi-
+ros, et mittere ad vos cum charissimis nostris Bar-
+naba et Paulo, hominibus qui tradiderunt animas
+suas pro Domino nostro Jesu Christo, per quos
+scripsistis. Misimus autem cum ipsis Judam et Si-
+lam, qui et ipsi verbis referent eadem. Visum est
+enim Spiritui sancto et nobis, nihil ultra imponere
+vobis oneris, quam hæc necessaria; ut abstineatis
+vos ab immolatis simulacrorum, et sanguine, et
+suffocato, et fornicatione; a quibus custodientes
+vos, bene agetis. Valete ¹⁶. » Hanc igitur epistolam
+misimus; ipsi autem sat multis diebus remansimus
+Hierosolymis, una conquirentes quæ ad commu-
+nem utilitatem et ad censuram pertinent.
+
+# block=3 source_x1=236 source_y1=2243 source_x2=987 source_y2=2681
+(64) Ἄπερ καὶ τοῖς πάλαι νενομοθέτητο. Ut
+homines sanctos qui ante Moysen vixerunt, nemo
+dixerit comedisse idolothyta, aut fuisse fornica-
+tores; ita non abhorret a vero, eosdem abstinuisse
+sanguine et suffocato. Siquidem ante diluvium
+vescendæ carnis copiam non esse factam docetur
+a Tertulliano in De jejuniis; Origene ad Genes. 1,
+29; Basilio, orat. 1 De jejunio; Chrysostomo, ho-
+mil. 27, in Genesim; Hieronymo adversus Jovinia-
+num lib. 1, cap. 10; lib. 11, cap. 10; Theodoro ac
+Theodorito in hujus Quæstionibus in Genesim, num.
+59, 51, 55. Et post diluvium audierunt Noe ac filii
+ejus a Deo: Carnem cum sanguine non comedetis. In
+
+# block=4 source_x1=1023 source_y1=1400 source_x2=1781 source_y2=2003
+Μετὰ δὲ χρόνον ἱκανὸν ἐπισκεψάμενοι τοὺς ἀδελ-
+φοὺς, καὶ στηρίξαντες αὐτοὺς τῷ λόγῳ τῆς εὐσεβείας,
+καὶ παρεγγυησάμενοι φεύγειν αὐτοὺς, οἳ ἐπ' ὀνό-
+ματι Χριστοῦ καὶ Μωσέως, πολεμοῦσι Χριστῷ καὶ
+Μωσεῖ, καὶ ἐν δορᾷ προβάτων τὸν λύκον κατακρύ-
+πτουσιν. Οὗτοι γάρ εἰσι ψευδόχριστοι, καὶ ψευδο-
+προφῆται, καὶ ψευδαπόστολοι, πλάνοι καὶ φθορεῖς,
+ἀλωπέκων μερίδες καὶ χαμαιζήλων ἀμπελώνων
+ἀφανισταί· δι' οὓς « ψυγήσεται ἡ τῶν πολλῶν
+ἀγάπη· ὁ δὲ ὑπομείνας εἰς τέλος ἀδιάστροφος, οὗτος
+σωθήσεται· » περὶ ὧν ἀσφαλιζόμενος ἡμᾶς ὁ Κύριος,
+παρήγγειλεν· « Ἐλεύσονται, » λέγων, « πρὸς ὑμᾶς ἄν-
+θρωποι ἐν ἐνδύμασι προβάτων· ἔσωθεν δέ εἰσι λύκοι
+ἅρπαγες· ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε
+
+# block=5 source_x1=1061 source_y1=2540 source_x2=1642 source_y2=2648
+(65) Ἡμῶν. Deest in altero. CLER.
+(66) Ἡμῶν. Deest etiam in eodem. ID.
+(67) Ἔδοξεν. Addit alter cod. ἡμῖν. ID.
+
+# block=6 source_x1=1022 source_y1=2245 source_x2=1779 source_y2=2544
+interdictione autem sanguinis continetur interdi-
+ctum suffocati, juxta illud Chrysostomi loco lau-
+dato: Τί ἐστι κρέας ἐν αἵματι ψυχῆς; τουτέστι,
+πνικτόν· τοῦ γὰρ ἀλόγου ἡ ψυχὴ τὸ αἷμα τυγ-
+χάνει. Tertullianus Apologetici cap. 9: Propter-
+ea quoque suffocatis, et morticinis abstinemus, ut
+quo sanguine contaminemur, vel intra viscera se-
+pulto. Consulantur quæ inferius in Recognit. 1, 50,
+COT.
+
+# block=7 source_x1=239 source_y1=2050 source_x2=1784 source_y2=2122
+¹¹ Act. xv, 25. ¹² Ignat. interpol. ad Trall. 6. ¹³ Psal. lxii, 11; Cant. ii, 15. ¹⁴ 1. Ignat. interpol.
+ad Philad. 3. ¹⁵ Matth. xxiv, 12.
+
+# block=8 source_x1=513 source_y1=1293 source_x2=704 source_y2=1325
+CAPUT XIII.
+
+# block=9 source_x1=635 source_y1=86 source_x2=1370 source_y2=123
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10 source_x1=316 source_y1=1346 source_x2=900 source_y2=1381
+Quomodo oporteat separari ab hæreticis.
+
+# block=11 source_x1=851 source_y1=2161 source_x2=1151 source_y2=2195
+VARIORUM NOTÆ.
+
+# block=12 source_x1=1272 source_y1=1294 source_x2=1563 source_y2=1325
+ΚΕΦΑΛΑΙΟΝ ΙΓ'.
+
+# block=13 source_x1=246 source_y1=81 source_x2=301 source_y2=125
+943
+
+# block=16 source_x1=1023 source_y1=136 source_x2=1783 source_y2=1139
+νενομοθέτητο (64) τοῖς πρὸ τοῦ νόμου φυσικοῖς,
+Ἐνὼχ, Ἐνὼχ, Νῶε, Μελχισεδὲκ, Ἰὼβ, καὶ εἴ τις
+τοιοῦτος ἐγεγόνει· τότε ἔδοξεν ἡμῖν (65) τοῖς ἀπο-
+στόλοις, καὶ τῷ ἐπισκόπῳ Ἰακώβῳ, καὶ τοῖς πρε-
+σβυτέροις σὺν ὅλῃ τῇ Ἐκκλησίᾳ, ἐκλεξαμένους ἄνδρας
+ἐξ ἡμῶν (66) αὐτῶν πέμψαι σὺν τοῖς περὶ Βαρνά-
+βαν, καὶ Παῦλον, τὸν τῶν ἐθνῶν ἀπόστολον, τὸν Ταρ-
+σέα, καὶ Ἰούδαν τὸν καλούμενον Βαρσαββᾶν, καὶ
+Σίλαν, ἄνδρας ἡγουμένους ἐν τοῖς ἀδελφοῖς, γρά-
+ψαντες διὰ χειρὸς αὐτῶν τάδε· « Οἱ ἀπόστολοι καὶ οἱ
+πρεσβύτεροι καὶ οἱ ἀδελφοὶ, τοῖς κατὰ τὴν Ἀντιό-
+χειαν καὶ Συρίαν καὶ Κιλικίαν ἀδελφοῖς τοῖς ἐξ
+ἐθνῶν, χαίρειν. Ἐπειδὴ ἠκούσαμεν ὅτι τινὲς ἐξ
+ἡμῶν ἐτάραξαν ὑμᾶς λόγοις, ἀνασκευάζοντες τὰς
+ψυχὰς ὑμῶν, οἷς οὐ διεστειλάμεθα· ἔδοξεν (67) γενο-
+μένοις ὁμοθυμαδὸν, ἐκλεξαμένους ἄνδρας ἐκπέμψαι
+πρὸς ὑμᾶς, σὺν τοῖς ἀγαπητοῖς ἡμῶν Βαρνάβᾳ καὶ
+Παύλῳ, ἀνθρώποις παραδεδωκόσι τὰς ψυχὰς αὐτῶν
+ὑπὲρ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, δι' ὧν ἐπε-
+στείλατε. Ἀπεστάλκαμεν δὲ μετ' αὐτῶν Ἰούδαν καὶ
+Σίλαν, καὶ αὐτοὺς διὰ λόγου ἀπαγγέλλοντας τὰ αὐτά.
+Ἔδοξε γὰρ τῷ ἁγίῳ Πνεύματι καὶ ἡμῖν, μηδὲν πλέον
+ἐπιτίθεσθαι ὑμῖν βάρος, πλὴν τούτων τῶν ἐπ' ἀνάγ-
+
+# block=17 source_x1=239 source_y1=1139 source_x2=1783 source_y2=1265
+καις, ἀπέχεσθαι εἰδωλοθύτων, καὶ αἵματος, καὶ πνικτοῦ, καὶ πορνείας. Ἐξ ὧν διατηροῦντες ἑαυτοὺς,
+εὖ πράξετε. Ἔῤῥωσθε. » Τὴν μὲν οὖν ἐπιστολὴν ἐξαπεστείλαμεν· αὐτοὶ δὲ ἐν ἱκαναῖς ἡμέραις ἐν
+Ἱεροσολύμοις ἐπειμέναμεν ἅμα συζητοῦντες πρὸς τὸ κοινωφελὲς εἰς διόρθωσιν.
+
+# block=18 source_x1=1711 source_y1=86 source_x2=1779 source_y2=124
+944
+
+# block=19 source_x1=1101 source_y1=1338 source_x2=1701 source_y2=1390
+Ὅπως χρὴ χωρίζεσθαι τῶν αἱρετικῶν.

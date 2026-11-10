@@ -1,0 +1,202 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,969,2194,1736,2731
+2,183,1037,935,1503
+3,966,1898,1735,2196
+4,187,1502,939,2100
+5,789,967,1099,1002
+6,189,2098,943,2377
+7,973,1041,1743,1900
+8,975,171,1727,853
+9,181,170,939,853
+10,189,2362,934,2429
+11,570,108,1324,146
+13,185,105,255,142
+15,1527,2735,1569,2778
+16,215,888,433,921
+17,188,2427,939,2731
+18,1641,110,1723,150
+19,301,2732,573,2776
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=969 source_y1=2194 source_x2=1736 source_y2=2731
+(24) Συμβολοδείκτης. Commemorat S. Gregorius
+Nyssenus συμβολομαντείας, in Epistola de Pytho-
+nissa : οἰωνοσκοπίας, συμβολομαντείας, χρηστήρια,
+ἢ πατοσκοπίας, νεκυίας, ἐνθουσιασμούς, κατὰ κωλὰς
+ἐμπνεύσεις, quo loci doctissimus interpres frustra
+sollicitat κατὰ κωλὰς, ut substituat καταγωγὰς nu-
+minis instinctus, κατὰ κωλὰς enim per pudenda si-
+gnificat. Auguria, divinationes per symbola, oracula,
+aruspicia, mortuorum evocationes, furiosos afflatus,
+per pudenda inspirationes. Aperta sunt verba Orige-
+nis, tom. III in Celsum : Διὰ τοῦ Πυθίου στομίου
+περικαθεζομένη τῇ καλουμένῃ προφήτιδι πνεῦμα διὰ
+των γυναικείων ὑπεισέρχεται τὸ μαντικὸν ὁ Ἀπόλ-
+λων τὸ καθαρὸν ἀπὸ γηΐνου σώματος. Vide Chryso-
+stomum initio Catenæ in Jeremiam apud Ghislerium,
+Συμβολικός, συμβολικῶς μαντεύεσθαι, in Cyrillo
+
+# block=2 source_x1=183 source_y1=1037 source_x2=935 source_y2=1503
+(17) Ἡνίοχος. Ad hunc canonem, et Eliberita-
+num, ac Arelatenses, apposite adjungitur elegans
+Historia ex Vita Hilarionis per Hieronymum : Au-
+riga Gazensis, in curru percussus a dæmone, totus
+obriguit, ita ut nec manus agitare, nec cervicem pos-
+set reflectere. Delatus ergo in lecto, cum solam lin-
+guam moveret ad preces, audivit non prius posse
+sanari, quam crederet in Jesum, et se sponderet arti
+pristinæ renuntiaturum. Credidit, spopondit, sanatus
+est, magisque de animæ quam de corporis salute ex-
+sultavit. Augustinus, De opere monachorum, cap. 13:
+Nec effractor aut latro erat, nec auriga, aut venator,
+aut histrio, aut turpilucrus. Tertullianum prætereo,
+cum aliis. COT.
+
+# block=3 source_x1=966 source_y1=1898 source_x2=1735 source_y2=2196
+(23) Περιάμματα ποιῶν. Corrige etiam e ms. Re-
+gio 18, 8, locum in Euchologio, seu Græcorum Ri-
+tuali, pag. 344 : ταῖς γοητείαις, καὶ ταῖς ἐπῳδαῖς,
+καὶ τοῖς περιάμμασι, καὶ τοῖς φυλακτηρίοις [leg. πε-
+ριάμμασι, εἰ φυλακτηρίοις]. Quid sint περιάμματα,
+ut et φυλακτήρια, si ignores, docebunt te plurimi
+A Scholiaste memorato Regii codicis, περιάμματα
+ποιῶν exponitur, περικρεμάσας ἐν νόσοις ἢ ἐν φίλ-
+τροις. ID.
+
+# block=4 source_x1=187 source_y1=1502 source_x2=939 source_y2=2100
+(18) Λουδεμπιστής. (Codice Regio 772, qui con-
+tinet λέξεις ἐκ τῶν Διατάξεων, cum acuto in penul-
+tima λουδεμπίστης.) Est laut lanista, qui Glossis λου-
+δοτρόφος, aut potius ludi procurator, ut appellatur
+a Tacito, is cui ludorum ac munerum publicorum
+cura credita est. Lexicon Favorini: Λουδεμπιστής,
+ὁ ἄρχων τῶν παιγνίων. Λοῦδοι γὰρ τὰ παίγνια παρὰ
+Ῥωμαίοις. Hinc glossa marginalis libri Regii 2592,
+ad locum Constitutionum, quantum fugientem seri-
+pturam assequi mihi licuit : τουτέστι ὁ πρῶτος τῶν
+παιγνιωτῶν, ὁ καί τινα θεάματα ποιῶν πρὸς γέλω-
+τα, λοῦδα τοῖς Ῥωμαίοις εἰρημένα. Vide supra Con-
+stit. lib. v. Nimirum errant Græci, qui ad libidinem
+hoc vocis trahunt. In Lexicon Stephani apud Meur-
+sium : Λουδεμπιστής, ἐφρηντοποιός. Et ms. Regio
+2592 : Λουδεμπιστής, ἑρμηνεύεται ὁ διακοριστής,
+ἤγουν ὁ παρθενοφθόρος· λοῦδος γὰρ παρὰ τῇ Ῥω-
+μαίων διαλέκτῳ ἡ φθορά. ID.
+
+# block=5 source_x1=789 source_y1=967 source_x2=1099 source_y2=1002
+VARIORUM NOTÆ.
+
+# block=6 source_x1=189 source_y1=2098 source_x2=943 source_y2=2377
+(19) Κιθαριστής, ἢ λυριστής. Notat Helladius
+apud Photium Bibliothecæ codice penult. Græcos
+dicere κιθάραν et κιθαριστήν, dicere λύραν, sed non
+dicere λυριστήν. Hoc de prima Græcia, postea enim
+λυριστής quoque in usu fuit. Lexicon Græco-Lati-
+num vetus : Λυριστής, fidicinarius. Pari modo La-
+tini mediæ ætatis lyristen usurpant. Unde lyristria
+Augustino III contra Julianum, cap. 11. ID.
+
+# block=7 source_x1=973 source_y1=1041 source_x2=1743 source_y2=1900
+ἐλεοῦμεν; ἀλλ' ὅμως τούτοις οὐδὲ συγγνώμη τίς
+ἐστιν. Οὐδὲ γὰρ συγγινώσκομεν αὐτοῖς ὅταν κυβεύον-
+τες ἑαυτῶν τὰ ἱμάτια ἀπολλῶσι. Non vides hos
+mendicos, quos solemus vocare lotagas? quomodo
+circumeant, quomodo etiam eorum misereamur? Sed
+tamen iis non datur ulla venia. Neque enim iis
+ignoscimus, quando' alea ludentes, suas vestes per-
+dunt. Chrysostomus, homilia 15 in Epistolam ad
+Ephesios. In Scholiis nostris ad λώταξ adnotatur,
+si bene tantum non deleta lego : Καὶ οἷόν τις παι-
+γνιώτης θυμελικὸς δι' εὐτραπελίαν γέλωτα ποιῶν. At
+alterius Græci eodem in ms. 2302, alibi observatio
+est : 'Η δὲ λῶταξ φωνὴ ποιὰ τίθεσιν ἐκ τοῦ ἀποτε-
+λουμένου λεγομένη, ἔστι δὲ τοιοῦτόν τι τὸ λεγόμε-
+νον· ἐπιδεικνύμενοί τινες τὸ παλαιὸν τὴν πρὸς ἀλ-
+λήλους ἀγάπην, βoχδία (lege aut intellige βανκάλια)
+στρογγύλα πληροῦντες οἴνου, εἰς ὕψος ἀνέπεμπον.
+Καὶ εἴπερ ἠχή τις ἐγένετο τῷ ἀναφερέσθαι τὸ καυ-
+κάλιον, σημεῖον τοῦτο ἐποιοῦντο ἀγάπης, τῷ ποιῷ
+τοῦ ἤχου τὸ ποσὸν συμμετροῦντες αὐτῆς. Lexicon
+Favorini : Λώταξ, ὁ λῃστὴς, ἢ ὁ μύρα ἀλειφόμενος,
+ἢ ὁ καταδαπανῶν ἐν τοῖς αἰσχροῖς τὸν βίον αὐτοῦ, ὡς
+ὁ πόρνος, καὶ ὁ ἀνδρόγυνος, ἢ ὁ αὐλητὴς, etc. Aliud
+Lexicon Græco-Latinum cod. Reg. 85 : Λωτοφάγοι,
+delicate viventes. Apud Hesychium : Λωτός· τράγημά
+τι, καὶ αὐλός, etc. ID.
+
+# block=8 source_x1=975 source_y1=171 source_x2=1727 source_y2=853
+habeat : doceatur quidem pietatem, sed non reci-
+piatur ad communionem, antequam mundetur :
+tamen si mors urgeat, recipiatur. Si quis est leno ,
+aut desinat perductorem agere, aut repellatur. Me-
+retrix quæ accedit, aut desistat, aut rejiciatur.
+Idolorum artifex, cum accedit, aut desistat, aut
+rejiciatur. Scenicorum si quis accedat, vir sive fe-
+mina , vel auriga, vel gladiator, vel stadii cursor,
+vel lanista seu ludorum curator, vel Olympicus, vel
+choraules, vel citharista , vel lyristes, vel saltatio-
+nem ostentans, vel caupo ; hi aut finem faciant, aut
+rejiciantur. Miles accedens, doceatur nemini inju-
+riam inferre, non calumniari , contentus esse sibi
+datis stipendiis ⁵⁷ : obtemperans his, admittatur ;
+repugnans, rejiciatur. Nefandæ libidinis perpetra-
+tor, cinædus, lascivus, magus, incantator, astrolo-
+
+# block=9 source_x1=181 source_y1=170 source_x2=939 source_y2=853
+νατος καταπνίγοι, προσδεχέσθω. Εἴ τις πορνοβοσκός·
+ἢ παυσάσθω τοῦ μαστροπεύειν, ἢ ἀποβαλλέσθω.
+Πόρνη προσιοῦσα, ἢ παυσάσθω, ἢ ἀποβαλλέσθω. Εἰ-
+δωλοποιὸς προσιὼν, ἢ παυσάσθω, ἢ ἀποβαλλέσθω.
+Τῶν ἐπὶ σκηνῆς ἐάν τις προσίῃ ἀνὴρ, ἢ γυνὴ, ἢ
+ἡνίοχος (17), ἢ μονομάχος, ἢ σταδιοδρόμος, ἢ λου-
+δεμπιστής (18), ἢ Ὀλυμπικὸς, ἢ χοραύλης, ἢ κιθα-
+ριστὴς, ἢ λυριστὴς (19), ἢ ὁ τὴν ὄρχησιν ἐπιδειχνύ-
+μενος, ἢ κάπηλος· ἢ παυσάσθωσαν, ἢ ἀποβαλλέσθω-
+σαν. Στρατιώτης προσιὼν, διδασκέσθω μὴ ἀδικεῖν,
+μὴ συκοφαντεῖν, ἀρκεῖσθαι δὲ τοῖς διδομένοις ὀψω-
+νίοις· πειθόμενος (20), προσδεχέσθω· ἀντιλέγων δὲ,
+ἀποβαλλέσθω. Ἀρῥητοποιὸς κίναιδος, βλὰξ (21),
+μάγος, ἐπαοιδὸς, ἀστρολόγος, μάντις, θηρευτὴς,
+λώταξ (22), ὀχλαγωγὸς, περιάμματα ποιῶν (23), πε-
+ρικαθαίρων, οἰωνιστὴς, συμβολοδείκτης (24), παλ-
+
+# block=10 source_x1=189 source_y1=2362 source_x2=934 source_y2=2429
+(20) Πειθόμενος. Præponitur huic voci copula
+καὶ in cod. Vindob., nec male. CLER.
+
+# block=11 source_x1=570 source_y1=108 source_x2=1324 source_y2=146
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=13 source_x1=185 source_y1=105 source_x2=255 source_y2=142
+1129
+
+# block=15 source_x1=1527 source_y1=2735 source_x2=1569 source_y2=2778
+36
+
+# block=16 source_x1=215 source_y1=888 source_x2=433 source_y2=921
+⁵⁷ Luc. III, 14.
+
+# block=17 source_x1=188 source_y1=2427 source_x2=939 source_y2=2731
+(21) Βλάξ. Significat mollem, lascivum, ignavum,
+supinum, jactatorem, fatuum. Optima glossa hic :
+“Ἄλλως οἱ Ἀθηναῖοι τὸν προβατώδη λέγουσι. COT.
+(22) Λῶταξ. Docente Eustathio, qui circa lotum
+laborabat, λῶταξ dicebatur. Id vero hominum ge-
+nus, quia vile fuit, malum, ac erroneum, eapropter
+λώταγες dicti mendici vagantes atque nebulones.
+Οὐχ ὁρᾷς τούτους τοὺς προσαιτοῦντας, οὓς λώταγας
+ἡμῖν ἔθος καλεῖν; πῶς περιΐᾶσι, πῶς καὶ αὐτοὺς
+
+# block=18 source_x1=1641 source_y1=110 source_x2=1723 source_y2=150
+1130
+
+# block=19 source_x1=301 source_y1=2732 source_x2=573 source_y2=2776
+PATROL. GR. I.

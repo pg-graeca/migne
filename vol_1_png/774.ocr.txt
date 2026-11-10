@@ -1,0 +1,201 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,246,607,1004,1951
+2,258,113,1016,407
+3,1045,115,1798,450
+4,1039,612,1805,1962
+5,245,1983,1805,2055
+6,1044,505,1792,606
+7,530,458,713,492
+8,1290,463,1540,496
+9,240,2145,991,2577
+10,845,2090,1148,2127
+11,259,54,318,92
+13,254,499,1002,602
+15,675,56,1393,93
+16,245,2574,990,2682
+17,1030,2314,1778,2680
+18,1030,2144,1781,2315
+20,1723,54,1793,108
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=11
+947
+
+# block=20
+948
+
+# block=15
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=2
+enim eam, inquit, a carnibus tuis ²⁷. » Nam adju-
+trix non est, sed insidiatrix, quæ mentem ad alium
+declinarit. Significamus etiam carnem non oportere
+circumcidi, sed fidelibus sufficere circumcisionem
+cordis in spiritu ²⁸. «Circumcidimini enim, inquit,
+Deo vestro, et circumcidite præputium cordis ve-
+stri ²⁹. »
+
+# block=3
+χαλίδα, ἄφρων καὶ ἀσεβής. Ἀπότεμε γὰρ αὐτὴν,
+φησὶν, ἀπὸ τῶν (75) σαρκῶν σου. » Οὐ γὰρ ἐστὶ βοη-
+θὸς, ἀλλ' ἐπίβουλος, πρὸς ἄλλον ἀποκλίνασα τὴν
+διάνοιαν. Μήτε δὲ περιτέμνεσθαι τὴν σάρκα, ἀρ-
+κεῖσθαι δὲ πιστοῖς τὴν τῆς καρδίας περιτομὴν ἐν
+πνεύματι. « Περιτμήθητε γὰρ, φησὶ, τῷ Θεῷ ὑμῶν,
+καὶ περιτέμνεσθε τὴν ἀκροβυστίαν τῆς καρδίας
+ὑμῶν. »
+
+# block=7
+CAPUT XV.
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ ΙΕ'.
+
+# block=13
+Quod nec oporteat rebaptizare; nec recipere baptis-
+mum ab impiis collatum, qui non est baptismus
+seu lavatio, sed inquinamentum.
+
+# block=6
+Ὅτι οὔτε ἀναβαπτίζειν χρὴ, οὔτε μὴν παραδέχε-
+σθαι τὸ παρὰ τῶν ἀσεβῶν βάπτισμα δοθὲν, ὃ
+οὐκ ἔστι βάπτισμα, ἀλλὰ μόλυσμα.
+
+# block=1
+Itidem contentos esse debere uno baptismo solo,
+in mortem Domini traditos ³⁰, non illo quem in-
+fausti hæretici, sed quem irreprehensi sacerdotes
+conferunt in nomine Patris et Filii et Spiritus
+sancti. Neque igitur, ab impiis datus, vobis probe-
+tur; neque a sanctis concessus, per secundum ba-
+ptismum infirmetur. Sicut enim unus Deus est ³¹
+unus Christus, et unus Paracletus, una quoque
+mors Domini in corpore; ita et unum sit baptisma
+in eam mortem datum. Qui autem ab impiis illis
+inquinamentum accipiunt, participes eorum damna-
+tionis fiunt. Illi enim non sunt sacerdotes. Dicit
+quippe Dominus ad eos : « Quoniam et tu scientiam
+repulisti, repellam et ego te, ne sacerdotio fungaris
+mihi ³². » Nec vero qui ab iis baptizati sunt, initiati
+fuerunt, sed sunt inquinati, accipiuntque non re-
+missionem peccatorum, sed vinculum impietatis.
+Neque hoc solum, verum etiam qui baptismo ini-
+tiatos secundo nituntur baptizare, iterum Dominum
+crucifigunt ³³, iterum eum interficiunt, divina irri-
+dent, deludunt sancta, contumelia afficiunt Spiri-
+tum, sanctum illum sanguinem ut communem in-
+honestant; impie agunt in eum qui misit, in eum
+qui passus est, in eum qui testimonium perhibuit,
+Quinetiam qui propter contemptum noluerit bapti-
+zari, tanquam infidelis damnabitur, et probrum
+feret tanquam ingratus ac incogitans. Dicit enim
+Dominus : « Nisi quis baptizatus fuerit ex aqua et
+Spiritu, non ingredietur in regnum cælorum ³⁴; »
+et rursus : « Qui crediderit, et baptizatus fuerit,
+salvus erit : qui vero non crediderit, condemnabi-
+
+# block=4
+Ὁμοίως καὶ βαπτίσματι ἑνὶ ἀρκεῖσθαι μόνῳ, τῷ
+εἰς τὸν τοῦ Κυρίου θάνατον δεδομένῳ· οὐ τῷ παρὰ
+τῶν δυσωνύμων αἱρετικῶν, ἀλλὰ τῷ παρὰ τῶν ἀμέμ-
+πτων ἱερέων δεδομένῳ εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ
+τοῦ Υἱοῦ καὶ τοῦ ἁγίου Πνεύματος. Μήτε δὲ τὸ παρὰ
+τῶν ἀσεβῶν, δεκτὸν ὑμῖν ἔστω· μήτε τὸ παρὰ τῶν
+ὁσίων ἀκυρούσθω διὰ δευτέρου. Ὡς γὰρ εἷς ὁ Θεὸς,
+εἷς ὁ Χριστὸς, καὶ εἷς ὁ Παράκλητος, εἷς δὲ καὶ ὁ τοῦ
+Κυρίου ἐν σώματι θάνατος· οὕτως ἓν ἔστω καὶ τὸ εἰς
+αὐτὸν διδόμενον βάπτισμα. Οἱ δὲ παρὰ ἀσεβῶν δεχό-
+μενοι μόλυσμα, κοινωνοὶ τῆς γνώμης αὐτῶν γενήσον-
+ται. Οὐ γὰρ εἰσιν ἐκεῖνοι ἱερεῖς (76). Λέγει γὰρ πρὸς
+αὐτοὺς ὁ Θεός· « Ἐπεὶ καὶ σὺ ἀπώσω γνῶσιν, ἀπώ-
+σομαί σε κἀγὼ τοῦ ἱερατεύειν μοι. » Οὔτε μὴν οἱ
+βαπτισθέντες ὑπ' αὐτῶν, μεμύηνται, ἀλλὰ μεμο-
+λυσμένοι ὑπάρχουσιν, οὐκ ἄφεσιν ἁμαρτιῶν λαμβά-
+νοντες, ἀλλὰ δεσμὸν ἀσεβείας. Οὐ μὴν δὲ, ἀλλὰ καὶ
+τοὺς μεμυημένους, ἐκ δευτέρου βαπτίζειν πειρώμενοι,
+ἀνασταυροῦσι τὸν Κύριον, ἀναιροῦσιν (77) αὐτὸν ἐκ
+δευτέρου, γελῶσι τὰ θεῖα, μυκτηρίζουσι τὰ ἅγια,
+ὑβρίζουσι τὸ Πνεῦμα (78), τὸ αἷμα τὸ ἅγιον ὡς κοι-
+νὸν ἀτιμάζουσιν, ἀσεβοῦσιν εἰς τὸν ἀποστείλαντα, εἰς
+τὸν παθόντα, εἰς τὸν μαρτυρήσαντα· ἀλλὰ καὶ ὁ ἐκ
+καταφρονήσεως (79) μὴ βουλόμενος βαπτισθῆναι, ὡς
+ἄπιστος κατακριθήσεται, καὶ ὀνειδισθήσεται ὡς ἀχά-
+ριστος καὶ ἀγνώμων· λέγει γὰρ ὁ Κύριος· « Ἐὰν
+μή τις βαπτισθῇ (80) ἐξ ὕδατος καὶ Πνεύματος, οὐ μὴ
+εἰσέλθῃ εἰς τὴν βασιλείαν τῶν οὐρανῶν. » Καὶ πάλιν·
+« Ὁ πιστεύσας, καὶ βαπτισθεὶς, σωθήσεται· ὁ δὲ
+ἀπιστήσας, κατακριθήσεται. » Ὁ δὲ λέγων, ὅτι « Ὅταν
+τελευτῶ, βαπτίζομαι (81), ἵνα μὴ ἁμαρτήσω, καὶ ῥυ-
+
+# block=5
+²⁷ Eccli. xxv, 56. ²⁸ Rom. II, 29. ²⁹ Jer. IV, 4. ³⁰ Rom. VI, 4. ³¹ Ephes. IV, 5. ³² Ose. IV, 6.
+³³ Hebr. VI, 6. ³⁴ Joan. III, 5.
+
+# block=10
+VARIORUM NOTÆ.
+
+# block=18
+postea ἀντὶ τοῦ ἅγιον legitur τίμιον. Quæ lectio
+præferenda Vulgatæ videtur. ID.
+(79) Ὁ ἐκ καταφρονήσεως, etc. In eodem cod.
+Vind. πληθυντικῶς hæc exprimuntur : Οἱ ἐκ κατα-
+φρονήσεως μὴ βουλόμενοι, καὶ τὰ ἑξῆς. ID.
+
+# block=9
+(75) Ἀπὸ τῶν. Ante hæc habet alter cod. τὴν
+καρδίαν, reseca enim eam, quæ est cor (tuum) a car-
+nibus tuis. Nec sane inepte. Cl.
+(76) Οὐ γὰρ εἰσιν ἐκεῖνοι ἱερεῖς. Et can. apost.
+47. Basilius, can. 1 : Οἱ δὲ ἀποῤῥαγέντες, λαϊκοὶ
+γενόμενοι, οὔτε τοῦ βαπτίζειν, οὔτε τοῦ χειροτονεῖν
+εἶχον τὴν ἐξουσίαν, et reliqua, quæ lege, ut et no-
+tata hic supra. Prætermitto, ne longior sim, loca
+multa veterum, in quibus aut generaliter bapti-
+smus hæreticorum impugnatur, aut de eo velut de
+re tantummodo disciplinæ agitur. Pauci quippe ad
+ima profundæ quæstionis penetrarunt, quod mira
+solertia fecit B. Augustinus. COT.
+
+# block=17
+(80) Βαπτισθῇ. Alter cod. γεννηθῇ. ID.
+(81) Ὅταν τελευτῶ, βαπτίζομαι. In dilationem
+tum baptismi, tum pœnitentiæ ad mortem usque,
+SS. Patres passim invehuntur; cum quibus jun-
+gendus Tertullianus De pœnitentia, cap. 6, licet li-
+bro De baptismo, cap. 18, utiliorem esse putet ba-
+ptismi cunctationem. Hinc clinicos, seu ægros in
+lecto perfusos baptizatosque, ad sacerdotium et ad
+clerum non solebant promoveri, ut docemur per
+canonem 12 synodi Neocæsariensis, perque episto-
+lam Cornelii in Eusebio, lib. VI, cap. 43. COT.
+
+# block=16
+(77) Ἀναιροῦσιν. In altero cod. præfigitur καὶ.
+Cl.
+(78) Τὸ Πνεῦμα. In eodem additur τὸ ἅγιον, et

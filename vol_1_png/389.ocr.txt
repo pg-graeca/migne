@@ -1,0 +1,175 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,147,1237,907,1577
+2,936,842,1707,1581
+3,147,154,907,1234
+4,940,151,1713,831
+5,145,1623,904,1924
+9,144,1922,903,2695
+11,935,1623,1703,1828
+12,929,1827,1722,2691
+14,734,95,1101,132
+16,134,90,234,140
+17,1620,82,1702,134
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Num S. Clemens hierarchiam ex episcopis, pre-
+sbyteris, ac ministris constantem crediderit? — Fue-
+re nonnulli critici, qui ex epistola priori sancti
+Pontificis nostri conficere putant, duos tantum in
+clero ordines, episcopos scilicet et diaconos a Cle-
+mente agnosci; quia ait ab apostolis episcopos et
+diaconos ordinatos fuisse, nulla de presbyteris ad-
+jecta mentione (65). Sed pluribus revincit eos v. cl.
+
+# block=2
+Illud certo constat, sanctum Clementem loca quæ-
+dam laudare, quæ in Scriptura iisdem verbis non
+exstant; eorum tamen aliqua quoad sententiam ibi-
+dem leguntur. Sic verba hæc refert (69) quasi in
+Scripturis essent: Miseri sunt, qui animo sunt du-
+plices et incerti, qui dicunt: Hæc audivimus etiam a
+patribus nostris, et ecce consenuimus et nihil horum
+nobis accidit. Eundem locum altera quoque epistola
+recitat (70); licet nullibi in Bibliis ita legatur. Quod
+si loca plura variis Scripturæ libris (71) dispersa
+colligamus, sententiam eamdem deprehendemus.
+Alium etiam locum sanctus Clemens altera epistola
+recitat, quem Clemens Alexandrinus (72) ex Evan-
+gelio secundum Ægyptios acceptum esse, ait. Est
+autem hujusmodi: Cum duo erunt unum, et quod fo-
+ris ut quod intus, et masculum cum femina, neque
+mas neque femina (73).
+
+# block=3
+voces ejus tantum humanitatem designantes adhi-
+beat, eum summum Pontificem et caput nostrum
+appellans; nihil vero eximium atque sublime ha-
+beat, quo ejus divinitas significetur. At secundam
+ac tertiam reprehensionem jam superius dilui-
+mus (59); ad primam vero respondet Cl. V. Remi
+Ceillier (60), mundos illos, quos sanctus Clemens
+ultra oceanum esse ait, antipodas esse, quos reve-
+ra existere omnes hodie fatentur; qua de re Photii
+ætate fortassis non liquebat (61). Quia tamen re-
+motas ac prius incognitas mundi partes, puta Bri-
+tannicas Insulas, Julio Cæsari, Virgilio, aliisque a
+Cotelerio relatis, novos orbes nuncupare solemne
+est, ambigere licet num Clemens Romanus Pontifex
+de remotis mundi partibus ultra oceanum, non ta-
+men in adversa nobis parte sitis loquatur. Viderit
+etiam quisque, num subscribendum putet Orige-
+ni (62) atque divo Hieronymo (63) qui plures mun-
+dos a divo Clemente hic asseri arbitrantur. Mihi
+vero longe probabilissimum videtur, cognitas orbis
+partes, quæ prius latebant, extra oceanum mundos
+ab eo appellari, eamque locutionem antiquis usita-
+tam fuisse Julii Cæsaris, Virgilii, Senecæ aliorum-
+ve testimonia a viro doctissimo Joanne Baptista Co-
+telerio (64) relata probant.
+
+# block=4
+Cotelerius. Superius quippe numero 40, præter sa-
+cerdotes et levitas summum sacerdotem prædi-
+cat (66), et inferius numero 44, cum Corinthiis ex-
+postulat, quod dejecti ab iis sint presbyteri, quos
+apostoli aliive eximii viri ordinassent (67), forte
+etiam episcopos tantum ac diaconos hic recenset,
+propter Isaiæ locum mox ab eo citatum, in quo epi-
+scopi et diaconi nominatim memorantur (68). Acce-
+dit quod numero 21 epistolæ 1, aperte presbyteros ab
+episcopis discernat; ait enim: Presbyteros nostros
+revereamur; seniores nostros honoremus. Græce:
+Τοὺς προηγουμένους ἡμῶν αἰδεσθῶμεν, τοὺς πρεσβυ-
+τέρους ἡμῶν τιμήσωμεν. Quis autem ignorat, epi-
+scopos frequenter appellatos fuisse προηγουμένους?
+Vide Cl. Binghamum, Originum eccles. t. I, c. 2,
+§ 5.
+
+# block=5
+(59) Vid. cap. 2, art. 2, num. 11, et in analysi no-
+tam inferius positam. Quibus adde, quod si S. Cle-
+mens de Christi humanitate frequentius disserat, in
+co apostolorum sectatur methodum, qui, ut est a
+S. Athanasio (Athanas. De Dionysiis, pag. 553) anim-
+adversum, sæpius de Servatoris humanitate quam
+divinitate agebant, idque propter hæreticos, qui
+primis illis temporibus Deum hominem factum esse
+negabant.
+
+# block=9
+(60) Histoire générale des auteurs eccl., tom. I,
+chap. 10, art. 3, § 4, n. 2.
+(61) Plinius in libro sexto, cap. 65 testatur, ea
+de re insignem olim vulgus inter ac litteratos viros
+pugnam fuisse.
+(62) Origenes, lib. II Periarchon., cap. 3.
+(63) D. Hieronym., in Ephes. Ep. cap. II, 2.
+(64) Consule Cotelerii notas in caput 20 episto-
+læ 1 D. Clementis I Rom. pontif.
+(65) Prædicantes (apostoli) igitur per regiones et
+urbes, primitias earum spiritu cum probassent, in
+episcopos et diaconos eorum, qui credituri erant, con-
+stituerunt. Clem., ep. 1, n. 42.
+(66) Summo quippe sacerdoti sua munia tributa
+sunt: et sacerdotibus locus proprius præstitutus est:
+levitis quoque sua ministeria incumbunt: homo lai-
+cus præceptis laicis constringitur. Idem, n. 40.
+(67) Non enim leve erit peccatum, si eos, qui citra
+querelam, et sancte offerunt dona, ab episcopatu re-
+moverimus. Beati presbyteri, qui viam prius emensi,
+fructuosam ac perfectam consecuti sunt dissolutionem.
+Idem, n. 44. Notat in hunc Clementis locum v. cl.
+Epp. Rom. pontif. Coustantius: Dum paulo inferius
+
+# block=11
+præmittit Clemens, si eos ab episcopatu removerimus,
+ac deinde proxime subjicit, Beati presbyteri, etc.
+sibi non secus, atque Irenæo, presbyteri atque epi-
+scopi nomina synonyma esse, eaque ad eandem
+rem enuntiandam, promiscue hoc loco usurpare se,
+indicat.
+
+# block=12
+(68) Neque hoc nove; a multis enim temporibus de
+episcopis et diaconis scriptum fuerat. Sic enim Scri-
+ptura alicubi Isaiæ LX, 17, dicit: « Constituam epi-
+scopos eorum in justitia, et diaconos eorum in fide. »
+Similis est Chrysostomi libro Quod Christus sit
+Deus, tom. V, c. 7, p. 737, hujusmodi observatio:
+Et neque ipsum sacerdotum nomen, episcoporum no-
+men dico, obticuit (vetus lex); « Constituam enim prin-
+cipes tuos in pace » dicit, « et episcopos tuos in justitia. »
+Nimirum Græce apud Isaiam legerat: Καταστήσω
+γὰρ τοὺς ἄρχοντάς σου ἐν εἰρήνῃ, καὶ τοὺς ἐπι-
+σκόπους σου ἐν δικαιοσύνῃ. Pro verbo καταστήσω,
+exstat apud LXX καὶ δώσω; quos secutus Irenæus,
+lib. IV, c. 44, scribit: Tales presbyteros nutrit Ec-
+clesia, de quibus et propheta ait: « Et dabo princi-
+pes tuos in pace, et episcopos tuos in justitia. » Quo
+in loco Irenæus presbyteri episcopique vocabula
+promiscue accipit, ac synonyma habet.
+(69) Clem. Rom., ep. 1, n. 23.
+(70) Idem, ep. 2, n. 11.
+(71) Consule Isaiæ v, 19; Eccles. v, 1 et seq.;
+Jac. I, 8, et IV, 8; II Petri III, 3, 4.
+(72) Clemens Alexandrin., lib. III Strom., sub
+finem.
+(73) S. Clem. Rom., ep. 2, n. 12, in fine.
+
+# block=14
+PROOEMIA VARIORUM.
+
+# block=16
+177
+
+# block=17
+178

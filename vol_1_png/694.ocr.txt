@@ -1,0 +1,231 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,267,717,1016,1057
+2,261,2536,1017,2711
+3,1050,721,1817,1059
+4,1051,155,1806,498
+5,266,1262,1022,1517
+6,270,156,1029,538
+7,1072,1121,1810,1256
+8,265,1121,1020,1255
+9,1045,1701,1809,2202
+10,273,607,1020,712
+11,1300,556,1545,594
+12,1064,610,1799,682
+13,544,1078,715,1112
+14,561,551,739,595
+15,881,1624,1202,1661
+16,1048,1263,1805,1518
+17,671,100,1383,141
+18,1047,2244,1793,2719
+19,316,1543,1557,1586
+20,645,1704,1023,2495
+21,272,102,328,142
+24,1288,1075,1556,1115
+25,263,1702,637,2532
+27,1741,98,1809,142
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Sed nec laicis permittimus quamlibet sacerdota-
+lium functionum usurpare; ut sacrificium, vel baptis-
+ma, vel impositionem manus, vel benedictionem tum
+parvam, tum magnam. « Nec enim quisquam sibi
+sumit honorem, sed qui vocatur a Deo ³. » Nam per
+impositionem manuum episcopi, datur hæc digni-
+tas : qui autem eam non habet sibi commissam,
+sed sibi illam rapuit, Oziæ supplicium ⁴ sustinebit.
+
+# block=2
+Vide præter allata canonem Illiberitanum xxxviii
+et confer cum Auxilio lib. ii, cap. 10, apud Mori-
+num De sacris ordinationibus, parte ii, pag. 565.
+Restat de mulieribus baptizantibus. Illarum porro
+eadem ratio est ac laicorum. Prohibitionem, etiam
+
+# block=3
+Ἀλλ’ οὔτε λαϊκοῖς ἐπιτρέπομεν ποιεῖν τι τῶν ἱερα-
+τικῶν ἔργων· οἷον θυσίαν, ἢ βάπτισμα, ἢ χειροθε-
+σίαν, ἢ εὐλογίαν μικρὰν ἢ μεγάλην (61). « Οὐχ ἑαυτῷ
+γάρ τις λαμβάνει τὴν τιμήν, ἀλλὰ ὁ καλούμενος ὑπὸ
+τοῦ Θεοῦ. » Διὰ γὰρ τῆς ἐπιθέσεως τῶν χειρῶν τοῦ
+ἐπισκόπου δίδεται ἡ τοιαύτη ἀξία· ὁ δὲ μὴ ἐγχειρι-
+σθεὶς ταύτην, ἀλλ’ ἁρπάσας αὐτὴν ἑαυτῷ, τὴν τιμω-
+ρίαν τοῦ Ὀζία ὑποστήσεται.
+
+# block=4
+πως ἂν καὶ ὁ Κύριος ὑπὸ τῆς ἰδίας μητρὸς ἐβαπτί-
+ζετο, καὶ οὐχ ὑπὸ Ἰωάννου, ἢ καὶ ἡμᾶς ἀποστέλλων
+ἐπὶ τὸ βαπτίζειν, συναπέστειλεν ἂν ἡμῖν καὶ γυναῖκας
+ἐπὶ τούτῳ· νῦν δὲ οὐδαμοῦ, οὔτε προσέταξεν, οὔτε
+ἐγγράφως παρέδωκεν, εἰδὼς καὶ τὴν ἀκολουθίαν τῆς
+φύσεως, καὶ τὴν εὐπρέπειαν τοῦ πράγματος, ὡς καὶ
+τῆς φύσεως δημιουργός, καὶ τῆς διατάξεως νομοθέ-
+της.
+
+# block=5
+Sed neque reliquos clericos baptismum conferre
+volumus ; veluti lectores, aut psaltes, aut janito-
+res, aut ministros ; nisi solos episcopos, et presby-
+teros, ministrantibus diaconis. Qui autem id præ-
+sumpserint, Coritarum pœnas ferent ⁵. Non etiam
+potestatem damus presbyteris, ordinandi diaconos,
+
+# block=6
+tatis erratum est, non autem Christi institutum.
+Quod si oportuisset a mulieribus baptismum admi-
+nistrari, profecto Dominus a matre sua fuisset ba-
+ptizatus, et non a Joanne ¹ ; aut quando nos ad ba-
+ptizandum misit ², una quoque misisset et mulieres
+ad idem ministerium : jam vero nihil tale usquam
+neque injunxit, neque scripto tradidit, quippe qui
+et naturæ ordinem, et rei decentiam probe nosset,
+ut et naturæ conditor, et constitutionis legislator.
+
+# block=7
+Ὅτι, πλὴν ἐπισκόπου ἢ πρεσβυτέρου, οὐδενὶ τῶν
+λοιπῶν κληρικῶν ἐπιτέτραπται τὰ τῶν ἱερέων
+ἐνεργεῖν· τὸ δὲ χειροτονεῖν μόνῳ ἐπισκόπῳ
+προσήκει, ἑτέρῳ δὲ οὐδενί.
+
+# block=8
+Quod præterquam episcopo, vel presbytero, nulli cæ-
+terorum clericorum liceat quæ sunt sacerdotum
+exercere : et quod ordinare, soli episcopo conve-
+niat, nulli vero alii.
+
+# block=9
+contra hæreticarum mulierum procacitatem, habes
+in Tertulliano De virginibus velandis, cap. 9, De
+præscriptione hæreticorum cap. 41, De baptismo cap.
+17; Epiphanio hæresi 42, cap. 4 ; hæresi 79, cap.
+3 et 7; Chrysostomo Homilia de Bernice, Prosdoce
+et Domnina, tom. I, et in consilio Carthaginensi 4,
+can. 100. Potestatem vero in necessitate, confirma-
+vit Urbanus papa II. Nec silentio obtegi debet ma-
+gnus error Attonis episcopi Vercellensis, Epistola
+ad Ambrosium sacerdotem Mediolanensem tom. VIII
+Spicilegii Acheriani p. 124, ortus ex non intellecto
+canone 12, concilii Carthaginensis 4, quasi diaconæ
+feminas baptizaverint ; cum duntaxat ministerium
+eas baptizantibus præbuerint, ut videbitur infra ad
+cap. 15. Cot.
+
+# block=10
+Quod non debeat laicus opus sacerdotale facere :
+baptisma, aut sacrificium, aut manus impositio-
+nem, aut benedictionem.
+
+# block=11
+ΚΕΦΑΛΑΙΟΝ ΙΓ΄.
+
+# block=12
+Ὅτι οὐ χρὴ λαϊκὸν ποιεῖν ἱερατικὸν ἔργον, βά-
+πτισμα, ἢ θυσίαν, ἢ χειροθεσίαν, ἢ εὐλογίαν.
+
+# block=13
+CAPUT XI.
+
+# block=14
+CAPUT X.
+
+# block=15
+VARIORUM NOTÆ.
+
+# block=16
+Ἀλλ’ οὔτε τοῖς λοιποῖς κληρικοῖς ἐπιτρέπομεν
+βαπτίζειν· οἷον ἀναγνώσταις, ἢ ψάλταις, ἢ πυλωροῖς,
+ἢ ὑπηρέταις· ἢ μόνοις (62) ἐπισκόποις, καὶ πρε-
+σβυτέροις, ἐξυπηρετουμένων αὐτοῖς τῶν διακό-
+νων. Οἱ δὲ τολμῶντες τοῦτο, τῶν Κοριτῶν ὑπο!-
+σουσι τὴν δίκην. Οὐκ ἐπιτρέπομεν δὲ πρεσβυτέ-
+
+# block=17
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=18
+(61) Εὐλογίαν μικρὰν ἢ μεγάλην. Benedictionem
+parvam interpretantur viri docti, quæ a presbyteris
+datur ; magnam, quæ ab episcopis. Potuissent ex
+canon. Basilii 27, Regensi 5, Agathensi 44, Herardi
+78. et aliis, magnam de publica, parvam de privata
+accipere. Porro hujus capitis et sequentis varias
+lectiones ex Georgio Hamartolo habes paulo supra :
+easdemque exhibet codex Regius 1326. Id.
+(62) Ἢ μόνοις. Hinc excidit ἀλλά, nam ἢ nun-
+quam significat nisi, sed ἀλλ’ ἢ id significare nemo
+nescit. Repetitio voculæ ἢ festinantem librarium fe-
+fellit. Miror hoc fugisse diligentiam Cotelerii. His
+dudum editis, ex collatione codd. Vindobonensium
+vidi unum esse in quo legitur ἀλλ’ ἢ. Cler.
+
+# block=19
+¹ Matth. iii, 13. ² Matth. xxviii, 19. ³ Heb. v, 4. ⁴ II Paral. xxvi. ⁵ Num. xvi.
+
+# block=20
+Rursus non permittimus
+presbyteris ordinare dia-
+conos, vel diaconissas, vel
+lectores, vel ministros, vel
+janitores, sed solis epi-
+scopis. Hic enim est ordo
+legitimus, ecclesiasticus,
+et Deo placens concentus,
+atque status. Frustra ita-
+que cavillantur, aut ut
+verius loquar, cum Deo
+pugnant, qui sacerdotii
+charismata seu dona, et
+functiones sæcularibus
+[viris] itemque mulieribus
+tribuunt, ad interitum au-
+dientium, et fidem haben-
+tium vaniloquentiæ ac nu-
+gis hominum, qui nullo
+penitus modo sciunt quid-
+nam tandem sit sacerdo-
+tium, quidve differat laicus
+a sacerdote.
+
+# block=21
+787
+
+# block=24
+ΚΕΦΑΛΑΙΟΝ ΙΑ΄.
+
+# block=25
+ὑποίσουσι τὴν δίκην. Καὶ
+μέν τοι οὐδὲ πρεσβυτέροις
+χειροτονεῖν διακόνους, ἢ
+διακονίσσας, ἢ ἀναγνώ-
+στας, ἢ ὑπηρέτας, ἢ πυλω-
+ροὺς, ἀλλ’ ἢ μόνοις τοῖς ἐπι-
+σκόποις. Αὕτη γάρ ἐστι τά-
+ξις ἔννομος, ἐκκλησιαστι-
+κὴ, καὶ θεάρεστος ἁρμονία,
+καὶ κατάστασις. Μάτην
+οὖν ἐρεσχελοῦσιν, ἢ τό γε
+ἀληθέστερον εἰπεῖν, θεο-
+μαχοῦσιν, οἱ τὰ τῆς ἱερω-
+σύνης χαρίσματα καὶ ἐνερ-
+γήματα, κοσμικοῖς τε καὶ
+γυναιξὶν [al. κοσμικοῖς ἀν-
+δράσι καὶ γυναιξὶν] ἀπο-
+νέμοντες ἐπὶ καταστροφῇ
+τῶν ἀκουόντων, καὶ πει-
+θομένων τῇ ματαιολογίᾳ
+καὶ φλοιαρίᾳ [al. φλυα-
+ρίᾳ] τῶν μηδὲ ὅ τί ποτέ
+ἐστιν ἱερωσύνη καὶ δια-
+φορὰ κοσμικοῦ τε καὶ ἱε-
+ρέως πάμπαν εἰδότων.
+
+# block=27
+788

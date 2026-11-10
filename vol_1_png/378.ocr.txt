@@ -1,0 +1,194 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,267,751,1019,1128
+2,268,145,1024,740
+3,265,1135,1015,1473
+4,262,1975,1013,2607
+5,1049,446,1816,1476
+6,1053,144,1805,438
+7,263,1633,1013,1968
+8,261,2616,1022,2691
+9,804,91,1271,127
+10,265,1551,1012,1630
+12,273,91,321,127
+13,1046,1558,1817,2696
+14,1716,76,1804,132
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+156
+
+# block=12
+155
+
+# block=9
+AD S. CLEMENTEM I PAPAM
+
+# block=6
+non nobis, sed Dei voluntati cedant (67); tertio
+cum inquit : Laus nostra in Deo sit, et non nobis
+ipsis (68). Sic sensum verborum divi Pauli ad
+Colossenses enarrrat, capite 21 suæ 1 Epistolæ san-
+ctus Papa dum scribit : Nisi digne illo viventes bona
+et beneplacita in conspectu ejus cum concordia fece-
+rimus (69).
+
+# block=2
+bientes, magis subjecti, quam subjicientes, dantes lu-
+bentius, quam accipientes, Acta apostolorum præ
+oculis habuit (63). Refert insuper integras senten-
+tias ac loquendi phrases in D. Pauli, Petri et Jacobi
+Epistolis obvias. Sic capite 35 epistolæ primæ ad
+Corinthios, dum ait : Si secuti fuerimus viam veri-
+tatis, abjicientes a nobis omnem injustitiam et ini-
+quitatem, avaritiam, contentiones, malignitates, et
+fraudes, susurros et obtrectationes, odium Dei, su-
+verbiam, et jactantiam, inanem gloriam atque amo-
+rem vanitatis (64). Qui enim hæc faciunt Deo odiosi
+sunt ; neque solum qui faciunt, sed et qui consentiunt
+eis. En integras sententias ex Epistola sancti Pauli
+ad Romanos.
+
+# block=5
+Sic phrasin Paulinam ad Thessalonicenses hisce
+verbis exprimit : Hæc omnia igitur ab eo habentes,
+in omnibus ipsi gratias agere debemus, cui gloria in
+sæcula sæculorum. Amen. Et dum ait : Servetur
+itaque totum corpus in Christo Jesu (70). Sic binis
+vicibus alludit (71) ad Epistolam primam divi Pauli
+ad Timotheum; primo cum ait : Accedamus ergo ad
+eum in sanctitate animæ, castas et impollutas manus
+elevantes ad illum, diligentes benignum et misericor-
+dem Patrem nostrum. Secundo dum dicit : Videa-
+mus quid bonum, quid gratum, acceptumque sit apud
+eum, qui fecit nos (72). Et quando scribit : Venia-
+mus ad gloriosam et venerabilem vocationis nostræ
+regulam, divi Pauli ad Timotheum Epistolæ secun-
+dæ imitatur expressionem (73). Alibi etiam eadem
+prorsus verba recitat, quæ in Epistola B. Pauli ad
+Titum habentur (74). Sæpissime quoque usurpat
+sententias, quæ cum Epistola Doctoris gentium ad
+Hebræos conspirant (75); atque propterea etiam a
+non paucis Græcis Patribus, ac orientis Ecclesiis
+ejusdem Epistolæ auctor credebatur. De Jacobi Epi-
+stola catholica, quam olim Lutherus velut strami-
+neam rejecit, non pauca in rem suam assumpsit
+sanctus Clemens (76). Tandem utriusque divi Pe-
+
+# block=1
+Sic capite 47, in prima sua Epistola, recitat san-
+ctus Pontifex integram fere historiam de dissen-
+sione in Ecclesia Corinthiorum exorta temporibus
+sancti Pauli apostoli, ex Epistola gentium Doctoris
+prima ad Corinthios perscripta. Sumite Epistolam,
+ait, beati Pauli apostoli. Quid primum vobis in prin-
+cipio Evangelii scripsit? Profecto in Spiritu ad vos
+litteras dedit de se ipso et Cepha, et Apollo, quia
+etiam tum diversa in studia scissi eratis (65).
+
+# block=3
+Eadem in Epistola sanctus Clemens tribus vici-
+bus alludit ad quædam divi Pauli in secunda ad
+Corinthios Epistola; primo dum ait : Per hunc (Je-
+sum Christum) in altitudines cælorum oculos defi-
+gemus. Per hunc speculabimur expertem labis ac su-
+premum illius vultum (66); secundo dum scribit :
+Et nos igitur oremus pro eis, qui in aliquod peccatum
+lapsi sunt, ut detur illis moderatio et humilitas, quo
+
+# block=10
+(63) Clemens Rom., ep. 1, c. 2 : "Ήδιον διδόντες
+ἢ λαμβάνοντες, conf. Act. xx, 35.
+
+# block=13
+μον καὶ ὑπερτάτην ὄψιν αὐτοῦ. Coll. II Cor. III, 18.
+(67) Idem, c. 56 : Καὶ ἡμεῖς οὖν ἐντύχωμεν περὶ
+τῶν ἔν τινι παραπτώματι ὑπαρχόντων, ὅπως δοθῇ
+αὐτοῖς ἐπιείκεια καὶ ταπεινοφροσύνη, εἰς τὸ εἶξαι
+αὐτοὺς μὴ ἡμῖν, ἀλλὰ τῷ θελήματι τοῦ Θεοῦ. Coll.
+II Cor. VIII, 5.
+(68) Idem, c. 30 : Ὁ ἔπαινος ἡμῶν ἔστω ἐν Θεῷ,
+καὶ μὴ ἐξ αὐτῶν. II Cor. x, 17, 18; et Rom. II, 29.
+(69) Idem, c. 21 : Ἐὰν μὴ ἀξίως αὐτοῦ πολι-
+τευόμενοι, τὰ καλὰ καὶ εὐάρεστα ἐνώπιον αὐτοῦ
+ποιῶμεν μεθ' ὁμονοίας. Coll. Col. I, 10.
+(70) Idem, c. 38 : Ταῦτα οὖν πάντα ἐξ αὐτοῦ
+ἔχοντες, ὀφείλομεν κατὰ πάντα εὐχαριστεῖν αὐτῷ ᾧ
+ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν. Coll.
+I Thess. v, 18. — Ideın, c. 38 : Σωζέσθω οὖν ἡμῶν
+ὅλον τὸ σῶμα ἐν Χριστῷ Ἰησοῦ. Coll. I Thess. v, 23.
+(71) Idem, c. 29 : Προσέλθωμεν οὖν αὐτῷ ἐν ὁσιό-
+τητι ψυχῆς, ἁγνὰς καὶ ἀμιάντους χεῖρας αἴροντες
+πρὸς αὐτόν. 1 Tim. II, 8.
+(72) Idem, c. 7 : Βλέπωμεν τί καλὸν, καὶ τί τερ-
+πνὸν, καὶ προσδεκτὸν ἐνώπιον τοῦ ποιήσαντος ἡμᾶς.
+Coll. I Tim. v, 4.
+(73) Idem, c. 7 : "Ελθωμεν ἐπὶ τὸν εὐκλεῆ καὶ
+σεμνὸν τῆς ἁγίας κλήσεως ἡμῶν κανόνα. Coll.
+II Tim. I, 9.
+(74) Idem, c. 2 : "Ετοιμοι εἰς πᾶν ἔργον ἀγαθόν.
+Parati ad omne opus bonum. Coll. Tit. III, 1.
+(75) Vide cap. 2 epist. 1 Clem., c. 7, 9, 12, 17,
+23, c. 26 et c. 43, coll. cum cap. VIII, v. 12, Epist.
+ad Hebr. Idem c. XI, v. 7, v. 31, v. 37, cap. III, v.
+2. — 5. c. 10, v. 39, c. 1, v. 3, 5, 7, 13. Consule
+observationes viri clar. Schmidii sup. Epist. D.
+Pauli ad Hebræos; proleg. c. 2, pag. 13, 14.
+(76) ᾿Αβραὰμ ὁ φίλος προσαγορευθείς, Abraham
+
+# block=7
+(64) D. Clem., c. 35 : Καὶ ἀκολουθήσωμεν τῇ
+ὁδῷ τῆς ἀληθείας, ἀπορρίψαντες ἀφ' ἑαυτῶν πᾶσαν
+ἀδικίαν καὶ ἀνομίαν, πλεονεξίαν, ἔρεις, κακοηθείας
+τε καὶ δόλους, ψιθυρισμούς τε καὶ καταλαλιὰς, θεο-
+στυγίαν, ὑπερηφανίαν τε καὶ ἀλαζονείαν, κενοδοξίαν
+τε καὶ φιλοξενίαν. Ταῦτα γὰρ οἱ πράσσοντες, στυγη-
+τοὶ τῷ Θεῷ ὑπάρχουσιν· οὐ μόνον δὲ οἱ πράσσοντες
+αὐτὰ, ἀλλὰ καὶ οἱ συνευδοκοῦντες αὐτοῖς. Collect.
+Rom. I, 29. Idem, c. 32 : Ἐξ αὐτοῦ ὁ Κύριος Ἰη-
+σοῦς τὸ κατὰ σάρκα.
+
+# block=4
+(65) ᾿Αναλάβετε τὴν Ἐπιστολὴν τοῦ μακαρίου Παύ-
+λου τοῦ ᾿Αποστόλου· τί πρῶτον ὑμῖν ἐν ἀρχῇ τοῦ
+Εὐαγγελίου ἔγραψεν ; ἐπ' ἀληθείας πνευματικῶς ἐπέ-
+στειλεν ὑμῖν, περὶ αὐτοῦ τε, καὶ Κηφᾶ, καὶ ᾿Απολλὼ
+διὰ τὸ καὶ τότε προσκλίσεις ὑμᾶς πεποιῆσθαι. Coll.
+I Cor. I, 12. — Idem, c. 48 : Καὶ ζητεῖν τὸ κοινω-
+φελὲς πᾶσιν, καὶ μὴ τὸ ἑαυτοῦ. Coll. I Cor. x, 24.
+— Idem, c. 37, longa allusione respicit ad I Cor.
+XII, 12. — Idem, c. 49 : Ἡ ἀγάπη πάντα ἀνέχε-
+ται, πάντα μακροθυμεῖ· οὐδὲν βάναυσον ἐν ἀγάπῃ,
+οὐδὲν ὑπερήφανον· ἀγάπη σχίσμα οὐκ ἔχει, ἀγάπη
+οὐ στασιάζει, ἀγάπη πάντα ποιεῖ ἐν ὁμονοίᾳ. Ἐν ἀγά-
+πῃ ἐτελειώθησαν πάντες οἱ ἐκλεκτοὶ τοῦ Θεοῦ. Δίχα
+ἀγάπης οὐδὲν εὐάρεστόν ἐστι τῷ Θεῷ. Conf. I Cor.
+XIII, 4, 7. — Idem, c. 24 : Κατανοήσωμεν, ἀγαπητοὶ,
+πῶς ὁ Δεσπότης ἐπιδείκνυται διηνεκῶς ἡμῖν τὴν μέλ-
+λουσαν ἀνάστασιν ἔσεσθαι, ἧς τὴν ἀπαρχὴν ἐποιήσατο
+τὸν Κύριον Ἰησοῦν Χριστὸν, ἐκ νεκρῶν ἀναστήσας.
+Conf. I Cor. xv, 20.
+
+# block=8
+(66) Idem, c. 56 : Διὰ τούτου ἀτενίσωμεν εἰς τὰ
+ὕψη τῶν οὐρανῶν, διὰ τούτου ἐνοπτριζόμεθα τὴν ἄμω-

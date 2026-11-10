@@ -1,0 +1,168 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,174,189,920,1007
+2,166,1016,916,1608
+3,952,151,1705,831
+4,165,1631,1692,1738
+5,162,1839,917,2712
+6,589,93,1313,131
+7,950,842,1699,1614
+8,759,1775,1068,1813
+9,942,1838,1722,2681
+10,181,97,253,135
+11,1620,90,1704,138
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=174 source_y1=189 source_x2=920 source_y2=1007
+XXII. Cumque hæc dixisset, exponere mihi sin-
+gula de his, quæ in quæstione esse videbantur
+legis capitulis cœpit, ab initio creaturæ usque ad
+id temporis, quo ad eum Cæsaream devolutus sum.
+Hæc mihi dicens, dilatio Simonis contulit, ut per
+ordinem cuncta cognoscerem. Alias, inquit, secun-
+dum ea quæ opportunitas sermonis attulerit, de
+singulis quibusque, quæ nunc compendiosius dixi-
+mus, latius disseremus, ut secundum ea quæ pol-
+licitus sum tibi, plenius de omnibus perfectiusque
+cognoscas ⁷². Quia ergo hodierna adhuc nobis su-
+perest dies, ex his quæ dilata sunt, volo tibi rursus
+ea quæ dicta sunt breviter iterare, ut magis tibi ad
+memoriam revocentur. Et exin cœpit hoc modo
+mentibus meis innovare quæ dixerat : Meministi,
+o amice Clemens, quæ mihi fuerit de æterno sæ-
+culo, ac finem nesciente, narratio? Tum ego : Nihil,
+inquam, o Petre, aliquando retinebo, si hoc omit-
+tere aut oblivisci potuero.
+
+# block=2 source_x1=166 source_y1=1016 source_x2=916 source_y2=1608
+XXIII. Et Petrus 'libenter hac mea responsione
+suscepta : Gratulor tibi, inquit, quod ita responde-
+ris, et non quod hæc ipsa facile dicas ⁷³, sed te me-
+minisse protuleris; quæ enim summa sunt, silentio
+honorari volunt. Ad fidem tamen eorum, quæ de
+ineffabilibus meministi, dic quæ retines ex his, quæ
+in loco secundo a nobis dicta sunt, quæ proferri
+facile queunt, ut pervidens tenacitatem memoriæ
+tuæ, de quibus volo, promptius tibi indicem, et li-
+benter aperiam. Tum ego, ubi adverti eum auditorum
+memoria gaudere, Non solum, inquam, definitionis
+tuæ memor sum, sed et præfinitionis illius, quæ
+ante definitionem posita est, et omnium pene quæ
+exposuisti, sensum integrum servo, etiamsi verba
+
+# block=3 source_x1=952 source_y1=151 source_x2=1705 source_y2=831
+non omnia, quia tanquam vernacula animæ meæ et
+ingenita effecta sunt, quæ dixisti. Nimium enim si-
+tienti mihi dulcissimum poculum porrexisti. Et ne
+putes ⁷⁴, quod rerum immemor, verbis te occupem,
+jam nunc quæ dicta sunt in memoriam revocabo ;
+in quo me plurimum juvat ordo disputationis tuæ.
+Etenim quia consequenter directa sunt et librate
+ordinata, quæ dicis, idcirco et facile ad memoriam
+ordinis sui lineis revocantur. Multum namque ad
+recordandum prodest ordo dictorum ; cum enim
+recolere singula per consequentiam cœperis, ubi
+aliquid deest, statim sensus inquirit, et cum inve-
+nerit, servat, aut certe, si investigare nequiverit, a
+magistro requirere non pigebit. Sed ne moram fa-
+ciam in reddendo ea quæ poscis a me, retexam bre-
+viter quæ de veritatis definitione tradidisti.
+
+# block=4 source_x1=165 source_y1=1631 source_x2=1692 source_y2=1738
+⁷² Ut secundum—cognoscas desunt in codd. Lipss. ⁷³ et non quod— libenter aperiam desunt in codd.
+Lipss. ⁷⁴ Quæ sequuntur usque ad illa cap. 53 vocabula : Erat ergo, non leguntur in utroque codd. Lipss.
+Vide præfat.
+
+# block=5 source_x1=162 source_y1=1839 source_x2=917 source_y2=2712
+(17) Et ex prima voluntate iterum voluntas. De
+Filio Clemens Alexandrinus Pædag. III, cap. ult. :
+ἀγαθοῦ Πατρὸς ἀγαθὸν βούλημα · Strom. v, p. 547 :
+θέλημα παντοκρατορικόν· Tertullianus, De oratione,
+cap. 4 : Ipse erat voluntas et potestas Patris. In Ori-
+gene, De principiis, et alibi : Natus ex Patre, velut
+voluntas ex mente procedens. Apud Athanasium,
+orat. 3 et 4, contra Arianos, p. 402, 514 : βουλὴ καὶ
+θέλημα τοῦ Πατρός. Similiaque legas Victorini Afri
+lib. I, adversus Arium, Faustini diaconi ad Flaccil-
+lam, Cyrilli Alexandrini contra Anthropomorphitas,
+cap. 14, et aliorum, de quibus Hieronymus initio
+Commentariorum in Epistolam ad Ephesios, et Au-
+gustinus xv, De Trinitate, 20, necnon duarum syn-
+odorum Toletanarum, decimæ quintæ ac decimæ
+sextæ. Prioris locus in binis levibus mendis cubat :
+Diximus : Voluntas genuit voluntatem, sicut et sa-
+pientia sapientiam. Quod vir ille incuriosa lectionis
+transcursione præteriens, existimavit hæc ipsa nomi-
+na, id est (lege in aut potius juxta, errandi occasio fuit
+brevians Scriptura) relativum, aut secundum compa-
+rationem humanæ mentis nos posuisse, etc. Nos au-
+tem non secundum hanc comparationem humanæ
+mentis, nec secundum relativum, sed secundum essen-
+tiam diximus : Voluntas ex voluntate, sicut et sa-
+pientia ex sapientia. Hoc enim ex (dubio procul est)
+
+# block=6 source_x1=589 source_y1=93 source_x2=1313 source_y2=131
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=7 source_x1=950 source_y1=842 source_x2=1699 source_y2=1614
+XXIV. Erat semper, et est, et erit illud a quo
+prima voluntas genita sempiternitate constat, et ex
+prima voluntate iterum voluntas (17). Post hæc
+mundus, ex mundo tempus, ex hoc hominum mul-
+titudo, ex multitudine electio amicorum, ex quorum
+unanimitate pacificum construitur Dei regnum. Re-
+liqua vero, quæ hæc consequi deberent, alias te
+mihi dicturum esse promiseras. Post hæc, cum de
+creatura mundi exposuisses, definitionem Dei, quam
+in conspectu omnium primorum angelorum de sua
+voluntate promisit, quamque æternam legem cun-
+ctis statuit, intimasti, et quod duo regna (18) posuit,
+præsentis dico temporis et futuri, et tempora utri-
+que constituit, statuitque exspectari judicii diem,
+quam ipse definivit, in qua habenda sit rerum, ani-
+marumque discretio, ut impii quidem pro peccatis
+suis igni tradantur æterno, hi vero qui secundum
+voluntatem conditoris Dei vixerint, pro bonis ope-
+
+# block=8 source_x1=759 source_y1=1775 source_x2=1068 source_y2=1813
+COTELERII NOTÆ.
+
+# block=9 source_x1=942 source_y1=1838 source_x2=1722 source_y2=2681
+Deo esse quod velle; hoc velle, quod sapere, et reli-
+qua. Quod ad Spiritum sanctum spectat, commodum
+in Bibliotheca Regia cod. ms. 1026, istud fragmen-
+tum nostro ascriptum inveni. Illud rejecimus infra
+in subjectam Recognitionibus Appendicem Monumen-
+torum, num. 1.
+(18) Duo regna. Quod hæc similiaque complura
+in istis apocryphis Ebionismum redoleant, auctorem
+damus Epiphanium hæreseos illius capite 16 : Δύο
+δέ τινας, ὡς ἔφην, συνιστῶσιν ἐκ Θεοῦ τεταγμένους·
+ἕνα μὲν τὸν Χριστὸν, ἕνα δὲ τὸν διάβολον. Καὶ τὸν
+μὲν Χριστὸν λέγουσι τοῦ μέλλοντος αἰῶνος εἰληφέναι
+τὸν κλῆρον· τὸν δὲ διάβολον, τοῦτον πεπιστεῦσθαι τὸν
+αἰῶνα· ἐκ προσταγῆς δῆθεν τοῦ παντοκράτορος, κατὰ
+αἴτησιν ἑκατέρων αὐτῶν. Duos, ut jam dixi, a Deo
+constitutos asserunt; Christum et diabolum. Quorum
+illi futuri, huic præsentis sæculi potestas est com-
+missa : idque adeo omnipotentis illius mandato, ad
+utriusquepostulationem esse factum. Quo ex loco lux
+oritur alteri capitis 3, quem interpres indiligenter
+in Latinum convertit : Πάντων τε κυριεύοντα, καὶ
+Χριστὸν λέγεσθαι, τὸν ἔχοντά δε αἰῶνα κεκληρῶσθαι,
+Hoc est : Atque omnium rerum dominatum tenere,
+et appellari Christum : in sortem vero accepisse sæ-
+culum quod illic erit.
+
+# block=10 source_x1=181 source_y1=97 source_x2=253 source_y2=135
+1219
+
+# block=11 source_x1=1620 source_y1=90 source_x2=1704 source_y2=138
+1220

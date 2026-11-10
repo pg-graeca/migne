@@ -1,0 +1,188 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,266,822,1027,1244
+2,1052,147,1798,659
+3,271,147,1022,697
+4,1053,825,1811,1250
+5,267,1271,1805,1382
+6,288,751,1006,819
+7,549,704,733,742
+8,1299,710,1562,743
+9,663,91,1389,132
+10,1054,752,1795,819
+11,274,96,330,131
+12,257,1456,1030,2732
+13,1731,90,1809,142
+14,863,1396,1193,1444
+15,1051,1461,1815,2713
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+¹² Christus ergo præcepit nobis jejunare his sex
+diebus, propter Judæorum impietatem et scelus ; ad-
+monens ut defleamus eos, et de eorum interitu la-
+mentemur : nam ipse etiam eis illacrymavit, igno-
+rantibus tempus quo visitabantur¹³. ¹⁴In quarta vero
+feria et in Parasceve jussit nos jejunare; in illa quidem
+propter proditionem, in hac vero propter passionem:
+mandavit autem solvere jejunium septima die ad galli
+cantum: et per ipsum Sabbatum jejunare; non quod je-
+junandum sit Sabbato, die quo a creatione est cessa-
+
+# block=2
+με τὸ πνεῦμά μου· » ἀπέπνευσεν · καὶ θάπτεται πρὸ
+ἡλίου δύσεως ἐν μνημείῳ καινῷ. Ἐπιφωσκούσης δὲ
+τῆς μιᾶς Σαββάτων, ἀναστὰς ἐκ νεκρῶν ἐπλήρωσεν
+ἐκεῖνα, ἃ καὶ πρὸ τοῦ πάθους ἡμῖν προέλεγε, φάσκων,
+ὅτι δεῖ τὸν Υἱὸν τοῦ ἀνθρώπου ποιῆσαι ἐν τῇ καρδίᾳ
+τῆς γῆς τρεῖς ἡμέρας καὶ τρεῖς νύκτας. Καὶ ἀναστὰς
+ἐκ νεκρῶν, πρώτη μὲν φανεροῦται Μαρίᾳ τῇ Μαγδα-
+ληνῇ, καὶ Μαρίᾳ τῇ τοῦ Ἰακώβου · εἶτα Κλεόπᾳ ἐν
+ὁδῷ · καὶ μετὰ τοῦτο ἡμῖν τοῖς μαθηταῖς αὐτοῦ φεύ-
+γουσι μὲν διὰ τὸν φόβον τῶν Ἰουδαίων, λαθραίως δὲ
+περιεργαζομένοις τὰ κατ’ αὐτόν. Ταῦτα δὲ καὶ ἐν τῷ
+Εὐαγγελίῳ ἐγράφη.
+
+# block=3
+faciunt⁵ ; » atque subjunxisset : « In manus tuas
+commendo spiritum meum⁶ ; » exspiravit. ⁷ Ac se-
+pelitur ante solis occasum in sepulcro novo. Illu-
+cescente vero una Sabbatorum, resurgens a mor-
+tuis, complevit ea quæ ante passionem nobis præ-
+dixerat, dicens, oportere Filium hominis manere in
+corde terræ tres dies et tres noctes ⁸. Excitatusque
+a mortuis, primum quidem apparuit Mariæ Magda-
+lenæ, et Mariæ Jacobi ⁹ : deinde Cleophæ in via ¹⁰ :
+et postea nobis discipulis suis ¹¹ , fugientibus qui-
+dem propter metum Judæorum, clam vero de illo
+exquirentibus. Atque hæc in Evangelio etiam scri-
+pta sunt.
+
+# block=4
+Παρήγγειλεν οὖν ἡμῖν αὐτὸς νηστεύειν τὰς ἓξ ἡμέ-
+ρας ταύτας, διὰ τὴν τῶν Ἰουδαίων δυσσέβειαν καὶ
+παρανομίαν, πενθεῖν αὐτοὺς καὶ ὀδύρεσθαι παρα-
+κελευσάμενος ἐπὶ τῇ ἀπωλείᾳ αὐτῶν· καὶ γὰρ
+αὐτὸς αὐτοῖς ἐπεδάκρυσεν, ἀγνοήσασι τὸν καιρὸν τῆς
+ἐπισκοπῆς αὐτῶν. Τετράδα δὲ καὶ παρασκευὴν (3)
+προσέταξεν ἡμῖν νηστεύειν · τὴν μὲν διὰ τὴν προδο-
+σίαν, τὴν δὲ διὰ τὸ πάθος · ἀπονηστεῦσαι δὲ προσέ-
+ταξε τῇ ἑβδόμῃ ἡμέρᾳ, ἀλέκτορος φωνήσαντος (4),
+αὐτὸ δὲ νηστεύαι τὸ Σάββατον · οὐχ ὅτι δεῖ τὸ Σάβ-
+
+# block=5
+; ⁵ Luc. xxiii, 34. ⁶ Ibid., 46. ⁷ I. Ignat interpol. ad Trall. 9. ⁸ Matth. xii, 40. ⁹ Matth. xxviii, 9.
+¹⁰ Luc. xxiv, 18. ¹¹ Marc. xvi, 14. ¹² Citat. Anastasius, quæst. 64 l. s. c. 13 ; l. Epiph., hær. 70, n. 11.
+¹³ Luc. xix, 44. ¹⁴ Lege cap. 32, et lib. vii, cap. 23 ; Epiph., hær. 75, n. 6 ; Nicetam Pectoratum, in Latinos.
+
+# block=6
+De magna hebdomade ; et cur quarta et sexta feria
+mandant jejunare.
+
+# block=7
+CAPUT XV.
+
+# block=8
+ΚΕΦΑΛΑΙΟΝ ΙΕ΄.
+
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=10
+Περὶ τῆς μεγάλης ἑβδομάδος · καὶ διὰ τί τετράδα
+καὶ παρασκευὴν ἐπιτρέπουσι νηστεύειν.
+
+# block=11
+879
+
+# block=12
+(3) Τετράδα δὲ καὶ παρασκευήν. Et cap. ult. et
+lib. vii, cap. 23, et can. apost. 64 , et in pseudo-
+Ign. ad Phil. 13. Jejunium quartæ et sextæ feriæ,
+aut dierum Mercurii et Veneris, necnon rationem
+illius jejunii, crudele , videlicet , consilium decre-
+tumque Judæorum cum traditione Judæ, ac necem
+Christi, passim reperire est apud veteres, tam Græ-
+cos quam Latinos. Adversatur quippe ut veritati,
+ita etiam cæterorum sententiæ Epiphanii opinio,
+qui refert jejunium τῆς τετράδος ad comprehensio-
+nem Domini, quæ contigerit inter tertiam quartam-
+que feriam, hæres. 51, n. 26, et Exposit. fid., n. 22.
+Alio respexit Clemens Alexandrinus Stromat. vii,
+p. 744, ad abstinentiam ab avaritia et libidine, re-
+bus Mercurii et Veneris : ingeniose profecto. Hæc
+clara. Obscuritatis nonnihil prima fronte habere vi-
+debitur locus Philostorgianus, lib. x, sect. 12 :
+Ὅτι τὴν τετράδος καὶ παρασκευῆς τὴν νηστείαν, ὁ
+Φιλοστόργιός φησιν οὐκ ἐν μόνῃ τῶν χρεῶν ἀποχῇ
+περιορίζεσθαι, ἀλλὰ καὶ τὸ μηδὲ τροφῆς ὅλως ἅπτε-
+σθαι μέχρις τῆς ἑσπέρας, κανονίζεσθαι. Λέγει γὰρ
+περί τινος Εὐδοξίου συναιρεσιώτου μὲν, πρεσβυτέ-
+ρου δὲ τὴν τάξιν, ἐψιλωμένου δὲ τῶν διῶν ἡ διαδοχὴ
+(in marg. τῶν ἰδιῶν, τῇ διαδοχῇ) τοῦ γένους · τοιάδε ·
+νηστατικός τε ( f. νηστευτικός τε ) οὗτος ἦν, ὡς καὶ
+παρ’ ὅλον μὲν τὸν χρόνον, μὴ μόνον τὰς κατὰ διάτα-
+ξιν τὴν μνήμην τοῦ Κυριακοῦ πάθους φερούσας... sic
+ab interprete conversus : Ait Philostorgius : Quartæ
+feriæ et Parasceves jejunium, non in sola carnium
+abstinentia consistere ; verum canonibus definiri : Ne
+omnino alimenti quidquam ad vesperam usque sumu-
+tur. Narrat vero de Eudoxio quodam cohæretico (qui
+gradu presbyter erat, macilentus vero maxime suc-
+cessione generis) adeo jejunatorem eum fuisse, ut
+toto tempore , non modo per dies juxta præceptum
+memoriam Dominicæ passionis præferentes... Sed his
+e tenebris nullo negotio emerges , si διῶν diviseris
+in δι’ ὧν, tunc enim nativus sensus elucescet ; Eu-
+
+# block=13
+880
+
+# block=14
+VARIORUM NOTÆ.
+
+# block=15
+doxium caruisse iis partibus, per quas constat ge-
+neris successio ; uno verbo, fuisse eunuchum. Cot.
+(4) Ἀλέκτορος φωνήσαντος. Solvebant alii jeju-
+nium paschale ad Sabbati sancti vesperam ; alii circa
+mediam noctem consequentem ; cæteri post, illuce-
+scente Dominica. Idque vel tardius, vel citius. Quem-
+admodum docemur per epistolam Dionysii Alexan-
+drini ad Basilidem, et per Eusebium Pamphili in
+Catena Græcorum Patrum ad Joan. cap. xx, 1
+(nam ibi quoque liber Regius 247 habet ἀπονηστί-
+ζεσθαι, non ἑορτάζειν), ac in tom. 1 Auctarii Bibl.
+PP. Combefisiani, p. 781. Sententia autem hoc in
+loco Clementino posita, multorum est : Romanæ
+Ecclesiæ apud laudatum Dionysium, Epiphanii hæ-
+res. 75, n. 6, et Expos. fid. n. 22 ; Cassiani collat.
+21, cap. 25, atque Gregorii Nysseni sive Hesychii
+Hierosolymitani in Dominicam resurrectionem. Ini-
+tium epistolæ Alexandrini Dionysii proferam , quo
+modo in ms. non paucis jacet : Ἐπέστειλάς μοι, πι-
+στότατε καὶ λογιώτατε υἱέ μου, πυνθανόμενος καθ’
+ἣν ὥραν ἀπονηστίζεσθαι δεῖ τῇ τοῦ πάσχα περιλύσει.
+Vulgo τὴν τοῦ πάσχα ἡμέραν. Est περίλυσις τοῦ πά-
+σχα, solutio paschalis jejunii. Τὰς τῶν ἀσιτιῶν ἐπι-
+λύσεις appellat Eusebius Hist. lib. v, cap. 23, fre-
+quentiaque in hunc sensum apud Græcos verba
+περιλύειν, ἀπολύειν , ἐπιλύειν , καταλύειν Nescio
+porro an omittere debuerim morem a Theodoro Bal-
+samone in interpretatione canonis 89 Trullani me-
+moratum, eorum qui toto Sabbato et usque ad ho-
+ram sextam noctis permanebant in ecclesia ; et
+hora sexta divinis sacramentis communicantes ,
+gustabant panem et aquam, forsanque et modicum
+vini; septima vero hora matutinas psalmodias au-
+dientes, quando alta voce pronuntiatur , Christus
+resurrexit, domum revertebantur, ubi magni Domi-
+nici sacrum exspectarent. Vide Typicum, cap. 45.
+Id.

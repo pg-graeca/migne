@@ -1,0 +1,171 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,208,788,950,1597
+2,986,599,1731,1962
+3,196,1609,951,2297
+4,191,140,949,781
+5,997,1962,1728,2566
+6,989,133,1738,600
+7,216,2619,1734,2690
+9,196,2306,957,2557
+10,603,80,1324,116
+12,204,84,280,116
+13,1658,81,1735,113
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=13
+1296
+
+# block=12
+1295
+
+# block=6
+per incorruptibilia, sed prout voluerit creator
+Deus, ita et erunt illa quæ creat. Neque enim sub
+lege est virtus Dei, sed lex creaturis suis voluntas
+ejus est. Respondit et Simon : Revoco te, inquit,
+ad primam quæstionem, dixisti Deum nunc quidem
+nulli esse visibilem, cum vero resolutum fuerit cœ-
+lum istud et supernus ille status regni cœlestis
+obfulserit, tunc eos qui mundo sunt corde ⁹⁴, etiam
+Deum visuros; quæ sententia contraria est legi,
+ibi enim scriptum est Deum dixisse : Nemo videbit
+faciem meam et vivet ⁹⁵.
+
+# block=4
+mundus iste temporibus, donec animarum quæ
+prædestinatæ sunt, ad expletionem ejus numerus
+impleretur, et tunc istud quidem visibile cœlum
+revolvetur ut liber, illud vero quod est superius
+apparebit, et animæ beatorum corporibus suis red-
+ditæ inducerentur in lucem, impiorum vero animæ
+pro immundis actibus suis spiritu flammeo circum-
+datæ, in profundum ignis inextinguibilis merge-
+rentur, per sæculum expensuræ supplicia. Hæc
+autem ita esse verus nobis propheta testatus est,
+de quo si vis agnoscere quia propheta sit, innumeris
+assertionibus docebo. Ex his enim quæ ab eo
+dicta sunt, et nunc singula quæ dixit implentur;
+etiam ea quæ futura dixit, creduntur implenda,
+fides enim futuris ex his quæ jam gesta sunt datur.
+
+# block=2
+XXX. Et Petrus respondit : His qui legem non
+ex traditione Moysi legunt, contrarius videtur ser-
+mo meus, sed audi quomodo non sit contrarius.
+Deus videtur mente non corpore, spiritu non carne.
+Unde et angeli qui sunt spiritus, vident Deum, et
+homines ergo donec homines sunt, Deum videre
+non possunt. Ex resurrectione autem mortuorum,
+cum facti fuerint sicut angeli, videre poterunt
+Deum ⁹¹. Et hoc modo non est sermo meus legi
+contrarius, neque illud quod magister meus dixit :
+Beati mundo corde, quoniam ipsi Deum videbunt ⁹².
+Futurum enim tempus ostendit, in quo ex homini-
+bus angeli fient, qui ⁹³ in spiritu mentis Deum
+videbunt. Post hæc autem verba multaque alia his
+similia, cum juramentis pluribus affirmare Simon
+cœpit dicens : De hoc mihi solo rationem redde,
+si immortalis est anima, et obsequar in omnibus
+voluntati tuæ, sed crastino, inquit, nam hodie jam
+tardum est. Ubi ergo cœpit dicere Petrus, Simon
+egressus est et cum ipso perpauci ex sodalibus
+ejus, et hoc præ verecundia. Cæteri vero omnes
+ad Petrum conversi, genibus positis, prosternebant
+se ante eum, ex quibus aliquanti diversis languo-
+ribus astricti aut dæmonibus incursati, oratione
+Petri sanabantur et discedebant gaudentes, quasi
+veri Dei doctrinam, simul et misericordiam conse-
+cuti. Cum ergo abscessissent turbæ, et soli fami-
+liares ejus remansissemus cum eo, stratis humi
+redditis accubuimus solitum unusquisque recogno-
+scens locum, sumptoque cibo cum gratias egisse-
+mus Deo, quievimus.
+
+# block=1
+XXVII. At Simon cui compertum erat, Petrum de
+prophetiæ titulo dilucide assignare rationem, ex
+quo quæstio omnis absolvitur, sermonem de hoc
+fieri declinavit, et respondens ait : Ad ea quæ volo
+responde mihi et dic,si visibile istud, ut ais, cœlum
+revolvetur, cur ex initio factum est? Respondit
+Petrus : Propter hominum præsentem hanc factum
+est vitam, ut esset interjectio quædam et divisio,
+ne quis forte indignus habitationem cœlestium et
+Dei ipsius sedem videret, quæ his solis qui mundo
+corde sunt ⁹⁰ videnda præparantur. Nunc autem, id
+est agonis tempore, invisibilia esse placuit ea,
+quæ vincentibus ad præmium destinata sunt. Et
+Simon ait : Si conditor bonus est et mundus bonus,
+quomodo bonus bona dissolvet aliquando ? Si autem
+dissolvet quod bonum est, quomodo ipse bonus
+videbitur? Si autem quasi malum resolvet et de-
+struet, quomodo non videbitur malus qui malum
+fecit?
+
+# block=3
+XXVIII. Petrus ad hæc : Quoniam, inquit, spopon-
+dimus tibi, ne blasphemantem te fugiamus, ipse
+enim reddes pro his quæ loqueris rationem, pa-
+tienter ferimus. Audi ergo nunc : Cœlum istud
+quod visibile est et pertransit, si quidem propter
+semetipsum factum esset, haberet fortasse quod
+dicis aliquid rationis, quia resolvi minime deberet.
+Si vero propter aliud quid factum est et non propter
+se, necessario solvetur, ut illud pro quo factum
+videtur appareat. Sicut verbi gratia dixerim, testa
+ovorum quamvis pulchre facta et diligenter formata
+videatur, necesse est tamen eam frangi et resolvi,
+ut inde pullus procedat et illud, pro quo totius ovi
+forma expressa videtur, appareat. Ita ergo et hujus
+mundi necesse est transire statum, ut status ille
+sublimior regni cœlestis effulgeat.
+
+# block=5
+XXXI. Sequenti vero die Petrus ex more ante
+lucem surgens, jam nos invenit vigilantes et para-
+tos ad audiendum, atque ita exorsus est : Deprecor
+vos, fratres et conservi mei, ut si quis forte ve-
+strum non potest vigilare, non sibi extorqueat eru-
+bescens præsentiam meam, quia difficilis est subita
+permutatio, longo autem tempore si paulatim as-
+suescat, labor non erit quod ex usu venit. Non enim
+omnes ejusdem institutionis fuimus, licet processu
+temporis in unam temperari consuetudinem poteri-
+mus; aiunt enim, quod secundum naturæ locum
+obtineat consuetudo. Testem autem Deum invoco,
+quod non indignor, si quis forte non potest vigi-
+lare, sed hoc magis, si cum totam quis noctem dor-
+
+# block=9
+XXIX. Et Simon : Non mihi videtur quia resolvi
+possit cœlum, quod a Deo factum est. Ab æterno
+enim æterna fiunt, a corruptibili temporalia et ca-
+duca. Et Petrus : Non ita est, sed a mortalibus qui-
+dem omnimodis corruptibilia fiunt et temporalia;
+ab æterno vero non semper corruptibilia neque sem-
+
+# block=7
+⁹⁰ Matth. v, 8.   ⁹¹ Ibid.   ⁹² Exod. xxxiii, 20.   ⁹³ Matth. xxii, 30.   ⁹⁴ Matth. v, 8.   * Vocabb. ex
+hom. angeli fient qui desunt in codd. Lips.

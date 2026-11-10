@@ -1,0 +1,194 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,272,152,1023,452
+2,1048,149,1797,447
+3,249,573,1022,2718
+4,1046,584,1807,2710
+5,306,479,549,517
+6,650,89,1422,140
+9,888,507,1185,555
+10,274,99,330,138
+11,1735,92,1801,136
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=16px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=6
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=11
+340
+
+# block=10
+339
+
+# block=2
+δεῖ ὅτι ὁ τὸν φθαρτὸν ἀγῶνα ἀγωνιζόμενος, ἐὰν εὕ-
+ρεθῇ φθείρων, μαστιγωθεὶς αἴρεται, καὶ ἔξω βάλλεται
+τοῦ σταδίου (34). Τί δοκεῖτε ; ὁ τὸν τῆς ἀφθαρσίας
+ἀγῶνα φθείρας, τί παθεῖται ; τῶν γὰρ μὴ τηρησάν-
+των, φησὶν, τὴν σφραγῖδα· Ὁ σκώληξ αὐτῶν οὐ
+τελευτήσει, (35), καὶ τὸ πῦρ αὐτῶν οὐ σβεσθή-
+σεται, καὶ ἔσονται εἰς ὅρασιν πάσῃ σαρκί.
+
+# block=1
+ruptibile certat, si corrumpere ac peccare invenia-
+tur, flagellatus aufertur, et extra stadium projicitur.
+Quid vobis videtur ? Qui incorruptionis certamen
+corruperit, quid patietur ? De iis enim qui sigillum
+non servaverint, ait: Vermis eorum non morietur, et
+ignis eorum non exstinguetur ; et erunt in visionem
+omni carni 9⁹.
+
+# block=5
+⁹⁹ Isa. LXVI, 24.
+
+# block=9
+VARIORUM NOTÆ.
+
+# block=3
+suæ negligenter consumpserit, ut indignus sit etiam
+cum minimis collaudari. Chrysostomi ad I Cor. ix,
+24 : Nescitis quod qui in stadio currunt, omnes qui-
+dem currunt, sed unus accipit bravium ? Τοῦτο δὲ λέ-
+γει, οὐχ ὡς καὶ ἐνταῦθα ἑνὸς ἐκ πάντων μέλλοντος
+σώζεσθαι, ἅπαγε, ἀλλ' ὡς πολλὴν ὀφειλόντων ἡμῶν
+εἰσενεγκεῖν τὴν σπουδὴν· ὥσπερ γὰρ ἐκεῖ κατιόντων
+πολλῶν εἰς τὸ στάδιον, οὐ στεφανοῦνται πολλοὶ, ἀλλ'
+εἰς ἕνα τοῦτο περίσταται, καὶ οὐκ ἀρκεῖ τὸ καθεῖ-
+ναι εἰς τὸν ἀγῶνα, οὔτε τὸ ἀλείψασθαι, καὶ παλαῖ-
+σαι· οὕτως καὶ ἐνταῦθα οὐκ ἀρκεῖ τὸ πιστεῦσαι,
+καὶ ὡς ἔτυχεν ἀγωνίσασθαι, ἀλλὰ ἂν μὴ οὕτως
+δράμωμεν, ὡς μέχρι τέλους ἀλήπτους ἑαυτοὺς πα-
+ρασχεῖν, καὶ ἐγγὺς γενέσθαι τοῦ βραβείου, οὐδὲν
+ἡμῖν ἔσται πλέον. Hoc autem dicit, non quod unus
+quoque ex omnibus hic salvus sit futurus, absit !
+sed quod nos multum adhibere debeamus studium.
+Nam sicut illic multis in stadium descendentibus,
+non coronantur plures, verum ad unum corona
+devenit ; nec sufficit in certamen descendere, neque
+inungi et luctari : ita hic quoque non sufficit credi-
+sse, et leviter ac utcunque decertasse ; sed nisi ita
+curramus, ut ad finem usque nos præbeamus inculpa-
+biles, et prope bravium simus, nihil ad nos emolu-
+menti redibit. Huc porro non facit opinio celebris de
+tertio statu, medio inter coronam gloriæ et gehennæ
+supplicium : qua de re vide, si lubet, Origenem ho-
+mil. xxI et xxvIII in Numeros ; 1x, x et XVII in Jesum
+Nave ; v in psalmum xxxvI, III in Jeremiam, tomis in
+Matthæum ad capitis xx pericopen 1, et ad cap. xxvII,
+vers. 15 ; hom. 17 in Lucam, et Explanationem in
+Epist. Ad Rom. ad cap. II, vers. 10 ; cap, x, vers.
+8, etc. ; cap. XIV, vers. 10, etc. ; Didymum lib. II
+De Spiritu sancto, ante medium ; Basilium in Regu-
+lis brevioribus, respons. ad interrog. 256 ; Grego-
+rium Nazianzenum, oratione 26, p. 458 ; oratione
+56, p. 590 ; orat. 40, p. 644, 645, 653 ; Gregorium
+Nyssenum, oratione adversus eos qui differunt ba-
+ptisma ; Chronicun a Radero editum, p. 562, 564,
+cum Paulini sexto carmine ; Philastrium, hæresi 99 ;
+Ambrosium, Observatione 2, in Michæam ; Vitam Am-
+brosii, in fine ; Hieronymum epíst. 22, cap. 2, lib. II
+contra Jovinianum, cap. ult. ; epist. 50, cap. 5 et
+8 ; lib. I adversus Pelagianos, cap. 9 et ad psalm.
+xv, 10 ; LXI, 13 ; LXIV, 14 ; CXVIII, 56 ; CXXXV, 6 ;
+Pelagium epistola ad Demetriadem cap. 10 ; Augu-
+stinum cum alibi, tum libro De hæresibus, hæresi
+ultima, lib. 1 ad Bonifacium, cap. 22 ; sermone 14
+De verbis Apostoli ; Salvianum, lib. III ad Ecclesiam
+catholicam, paulo ante finem, atque incertos scripto-
+res quatuor, Solutorem quæstionum ad Antiochum,
+cap. 114, et Exhortatorem monachorum, utroque tom.
+II S. Athanasii, Objurgatorem virginis lapsæ, tom.
+IV S. Ambrosii ac tom. IX B. Hieronymi, et au-
+ctorem homiliæ De corpore et sanguine Christi, seu
+de Paschate, excusæ tanquam Hieronymi, Eusebii
+Cæsariensis, Eusebii Emiseni ac Cæsariii Arelaten-
+sis : quibus jungendus est Prudentius in fine Ha-
+martigeniæ : Αὐτίκα ὁ Πέτρος, in Clementis Alexan-
+drini Hypotyposibus, p. 807. c. 1, ἐν τῇ Ἀποκα-
+λύψει φησὶν τὰ βρέφη ἐξαμβλωθέντα, τῆς ἀμείνονος
+ἐσόμενα πείρας (μοίρας), ταῦτα ἀγγέλῳ τμηλούχῳ
+παραδίδοσθαι, ἵνα γνώσεως μεταλαβόντα, τῆς ἀμείνο-
+νος τύχην μονῆς, παθόντα ἃ ἂν ἔπαθεν καὶ ἐν σώματι
+γεγόμενα· τὰ δὲ ἑτέρα μόνης τῆς σωτηρίας τεύξεται,
+
+# block=4
+ὡς ἠδικημένα ἐλεηθέντα, καὶ μενεῖ ἄνευ κολάσεως,
+τοῦτο γέρας λαβόντα. Hoc est : Jam vero Petrus in
+Apopcalypsi ait infantes abortivos, si melioris fuerint
+sortis, angelo curatori tradi, ut cognitione suscepta
+meliorem nanciscantur mansionem, patiendo quæ
+pertulissent, si exstitissent in corpore : reliquos autem
+solam salutem adepturos, misericordiam propter ja-
+ctam sibi injuriam consequendo, mansurosque abs-
+que supplicio, accipientes id muneris. Origenes ho-
+milia 9 in Josuam : Ego sic video duas esse species
+eorum qui per fidem festinant et properant ad salu-
+tem ; et cætera quæ conferre operæ pretium fuerit
+cum locis Chrysostomi Parænesi i ad Theodorum,
+cap. 7, Augustini libro quinquaginta Homiliarum,
+homil. ult., cap. 4 et Cæsarii homilia 6, earum
+quas in lucem dedit Stephanus Baluzius noster,
+præstanti vir ingenio excellentique doctrina. Cor.
+— Dorotheus abbas in Doctrina 23 locum hunc sic
+laudat, ut Clementis sententiam potius quam verba
+referat in hunc modum : Ὡς λέγει καὶ ἅγιος ὁ Κλῆ-
+μής· κἂν μὴ στεφανοῦταί τις, ἀλλὰ σπουδάση μὴ
+μακρὰν εὑρεθῆναι τῶν στεφανουμένων. Hinc corri-
+genda vetus interpretatio Latina, quæ in Bibliotheca
+Patrum etiam novissima Lugdunensi obtinet, præ-
+dicta Dorothei verba sic mendose atque indiligenter
+reddens : Ut enim ait Climacus, quisquis coronam
+optat consequi, studeat atque operam det ut sit apud
+coronatos, cum reddenda sic fuissent : Ait et san-
+ctus Clemens, etiamsi quis non coronetur, saltem stu-
+deat non procul a coronatis inveniri. Eo autem gra-
+vius est Climaci, loco Clementis, mendum, quod
+Joannes Climacus Dorotheo paulo junior fuerit. Lo-
+cum hunc Clementis egregie illustrat alter Ephremi
+a Cotelerio in notis secundum Petrum Fabrum Ago-
+nistici lib. III, c. 10, relatus : Festinemus autem ma-
+gis, ut cum perfectis ac fidelibus coronemur ; sin vero,
+vel cum multis placentium laudem præconii merea-
+mur. Beatus qui in agone certaverit, ut cum perfectis
+victoriæ coronam accipiat. Miserabilis vero qui hoc
+tempus vitæ suæ negligenter consumpserit, ut indi-
+gnus sit etiam cum minimis collaudari. Huc accedit
+quod Tertullianus lib. 1 Ad uxorem, cap. 3, scribit :
+Ad primum locum certamen omne contendit ; secundus
+solatium habet, victoriam non habet. Hic itaque Cle-
+mens ad athleticos agones respiciens, sin minus in-
+signem coronam, saltem laudem a Domino conse-
+qui ut mereamur nos hortatur. Coust.
+(34) Ὁ τὸν φθαρτὸν ἀγῶνα ἀγωνιζόμενος, ἐὰν
+εὑρεθῇ φθείρων,μαστιγωθεὶς αἴρεται, καὶ ἔξω βάλ-
+λεται τοῦ σταδίου. Iterum mos agonisticus, flagel-
+landi ac ejiciendi athletas qui contra certaminum
+scita peccarent, a multis antiquis, recentioribus,
+sæpenumero memoratus, insigniter vero inter paga-
+nos a Luciano in Piscatore, post medium ; Ariano
+in Epicteto, lib. III, cap. 22, sub medium ; Dione
+Chrysostomo, oratione 34, post initium; inter Chri-
+stianos ab Origene, homilia 3 in Jeremiam; Epipha-
+nio, hæresi 61, cap. penult., et Sidonio lib. II, epist.
+2. Cyprii episcopi locus cum Romani pontificis valde
+congruit : Παραφθείρας γὰρ ἀγῶνα ὁ ἀθλητής,
+μαστιχθεὶς ἐκβάλλεται τοῦ ἀγῶνος. Coust.
+(35) Ὁ σκώληξ αὐτῶν οὐ τελευτήσει. Fideju-
+bente me in Tertulliano De resurrectione carnis, cap.
+31, scribe : Vermis illorum non decedet. ID.

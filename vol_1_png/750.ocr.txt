@@ -1,0 +1,185 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,246,139,1001,1054
+2,1025,154,1787,1056
+3,859,1181,1156,1216
+4,637,91,1349,130
+5,265,1100,1547,1140
+6,244,1248,998,1552
+7,1020,1239,1781,2708
+8,242,1548,999,2715
+9,241,84,317,130
+10,1717,96,1781,138
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+899
+
+# block=4
+S. CLEMENTIS I ROM. PONT. OPÉRA DUBIA.
+
+# block=10
+900
+
+# block=1
+Filium hominis, verire ad Patrem ⁹⁶, omne judi-
+cium omnemque honorem ab eo accipere, et esse
+lapidem ex monte, sine manibus excisum, qui
+crevit in montem magnum, ac universam terram
+replevit ⁹⁷, quique conterit variarum gentium prin-
+cipatum, ac multorum deorum cultum, unum vero
+Deum prædicat, et Romanorum monarchiam eligit.
+De hoc quoque Jeremias prophetice dicebat: « Spi-
+ritus ante faciem nostram Christus Dominus captus
+est in corruptionibus eorum : de quo diximus : In
+umbra ejus vivemus in gentibus ⁹⁸. » Jam vero Eze-
+chiel, similiterque alii prophetæ ubique asserunt
+hunc esse Christum, Dominum, regem, judicem,
+legislatorem, Angelum Patris, unigenitum Deum.
+Hunc igitur et nos prædicamus vobis, et evangeli-
+zamus, Deum Sermonem, suo Deo ac Patri mini-
+strantem in omnium rerum creatione. Huic cre-
+dentes, vivetis; non credentes vero, etiam punie-
+mini. « Qui enim incredulus est Filio, non videbit
+vitam, sed ira Dei manet super eum ⁹⁹. » Itaque,
+postquam celebraveritis Pentecosten ¹⁰⁰, celebrate
+
+# block=2
+ἐρχόμενον πρὸς τὸν Πατέρα, καὶ πᾶσαν τὴν κρίσιν·
+καὶ τὴν τιμὴν παρ' ἐκείνου ὑποδεχόμενον, καὶ λίθον
+ἀπὸ ὄρους ἄνευ χειρῶν τμηθέντα, καὶ γενόμενον εἰς
+ὄρος μέγα, καὶ πληρώσαντα πᾶσαν τὴν γῆν, συν-
+τρίβοντα πολυαρχίαν τοπαρχιῶν, καὶ πολυθεΐαν
+θεῶν (57), κηρύσσοντα δὲ τὸν ἕνα θεὸν, καὶ χειροτο-
+νοῦντα τὴν Ῥωμαίων μοναρχίαν. Περὶ τούτου καὶ
+Ἱερεμίας· προφητεύων ἔλεγε· « Πνεῦμα πρὸ προσώ-
+που ἡμῶν Χριστὸς Κύριος συνελήφθη ἐν ταῖς διαφθο-
+ραῖς αὐτῶν· οὗ εἴπομεν, Ἐν τῇ σκιᾷ αὐτοῦ ζησόμεθα
+ἐν τοῖς ἔθνεσι. » Καὶ Ἰεζεκιὴλ δὲ καὶ οἱ καθεξῆς
+προφῆται πανταχοῦ τοῦτον εἶναι Χριστὸν, Κύριον,
+βασιλέα, κριτὴν, νομοθέτην, Ἄγγελον τοῦ Πατρὸς,
+μονογενῆ Θεόν. Τοῦτον οὖν καὶ ἡμεῖς κηρύσσομεν
+ὑμῖν, καὶ εὐαγγελιζόμεθα, Θεὸν Λόγον, ὑπηρετούμε-
+νον (58) τῷ Θεῷ αὐτοῦ καὶ Πατρὶ εἰς τὴν τῶν ὅλων
+δημιουργίαν. Τούτῳ πιστεύοντες ζήσεσθε, ἀπιστοῦν-
+τες δὲ καὶ κολασθήσεσθε. « Ὁ γὰρ ἀπειθῶν τῷ Υἱῷ,
+οὐκ ὄψεται τὴν ζωήν, ἀλλ' ἡ ὀργὴ τοῦ Θεοῦ μένει
+ἐπ' αὐτόν. » Μετὰ οὖν τὸ ἑορτάσαι ὑμᾶς τὴν Πεντη-
+κοστὴν, ἑορτάσατε μίαν ἑβδομάδα (59)· καὶ μετ'
+
+# block=5
+⁹⁶ Dan. VII, 13. ⁹⁷ Dan. II 34. ⁹⁸ Thren. IV, 20. ⁹⁹ Joan. III, 36. ¹⁰⁰ Anast. ibid.
+
+# block=3
+VARIORUM NOTÆ.
+
+# block=7
+tur, ex hisce libris ab Æthiopibus indicatum apud
+Damianum a Goes, non meminerant alicubi Eccle-
+siarum esse observatum, aut a se alibi lectum viri
+memoria excellenti, plurimæque lectionis. Ego
+vero illis hac parte felicior, non pauca reperi testi-
+monia, quibus constat ita multis in locis fuisse
+agitatum. Nonnulla proferam; et ad reliqua lecto-
+rem amandabo. Igitur in antiquis Pænitentialibus
+a doctissimo Morino evulgatis, p. 88, 89, inter dies
+festos quibus pœnitentes omni jejunio absolvuntur,
+ponitur, cum hebdomade Paschatis, hebdomas quæ
+Pentecosten excipit, quæque S. Spiritus hebdomas
+vocatur : Τὴν ἑβδομάδα τοῦ Πάσχα, καὶ τὴν ἀπὸ
+τῆς Πεντηκοστῆς, ἥν τοῦ ἁγίου Πνεύματος καλοῦμεν
+ἑβδομάδα. Et p. 90, B; 115, E, vetatur genu flectere,
+ut in diebus solemnibus, a Paschate usque ad fe-
+stum Omnium Sanctorum, hoc est, juxta Græcos,
+Dominicam post Pentecosten. Ad hæc ita scribit
+Joannes Citrius in responsis ad Cabasilam, non
+quidem impressis illis Juris Græco-Romani p. 325,
+etc., sed in compendium redactis, ac numero plu-
+ribus, Bibliothecæ Regiæ, et codicis Joliani, post
+Matthæi monachi Nomocanonem : Καταλύομεν δὲ
+καὶ πᾶσαν τὴν μετὰ τὴν Πεντηκοστὴν ἑβδομάδα, εἰς
+τιμὴν τοῦ ἁγίου Πνεύματος, ὡς γε δὴ καὶ τὴν δια-
+καινήσιμον,εἰς τιμὴν τοῦ Σωτῆρος ἡμῶν Ἰησοῦ Χρι-
+στοῦ, διὰ τὸ ὁμότιμον εἶναι τὸ Πνεῦμα τῷ Ἁγίον, ὥσπερ
+ἄρα τῷ Πατρὶ, οὕτω δὴ καὶ τῷ Υἱῷ· δι' αὐτῶν γὰρ τῇ
+τοῦ Πατρὸς εὐδοκίᾳ τὸ τῆς ἡμῶν ἀναπλάσεως ᾠκο-
+νομήθη μυστήριον, καὶ ὁ τῆς θεογνωσίας ἡμῖν ἐπέ-
+λαμψεν φωτισμός. Id est, totam quoque a Penteco-
+ste hebdomadem nequaquam jejunamus, in honorem
+S. Spiritus : quemadmodum, scilicet, hebdomadem
+post Pascha, in honorem Salvatoris nostri Jesu
+Christi : quod Spiritus sanctus paris sit dignitatis,
+ut cum Patre, ita et cum Filio : per Filium enim et
+sanctum Spiritum beneplacito Patris, nostræ refor-
+mationis mysterium dispensatum est, nobisque cogni-
+tionis Dei splendor illuxit. Jam vero adi ad Typicum
+fol. 134, ad concilium Moguntiacum can. 36, et Ca-
+pitularia, lib. II, cap. 35; ad synodum Salegunsta-
+diensem, cap. 2, et ad eos qui De ecclesiasticis of-
+ficiis scripserunt, Amalarium lib. I, cap. 39, lib. IV,
+cap. 29; Bernonem, cap. 5; Rupertum, lib. X, cap.
+
+# block=6
+(57) Θεῶν. In altero codice eleganter : ἀθέων,
+cum πολυθεΐαν θεῶν repetitionem auribus ingratam
+offerat. Est vero hic ὀξύμωρον. Prima enim fronte
+videtur repugnare, iis qui ne unum quidem Deum
+admittunt, objici deorum multitudinem; sed nihil est
+verius; deus enim, qui socios habet, non est deus,
+cujus hoc est summum attributum, non tantum
+superiorem nullum, sed ne parem quidem ullum
+habere. Cᴛ.
+
+# block=8
+(58) Ὑπηρετούμενον. Adnotabatur hic in anti-
+quo codice Turriani : Οὐ δέχομαι ὑπηρετῆσαι τῷ
+Θεῷ καὶ Πατρὶ τὸν Υἱὸν, ἀλλὰ σὺν αὐτῷ πάντα
+ποιήσαι. Non admitto ministrasse Deo et Patri Fi-
+lium; sed una cum ipso cuncta creavisse. Et ad con-
+simile effatum lib. VIII, cap. 12 : Μετὰ τὴν σάρκω-
+σιν εἴποι ἄν τις τὴν ὑπηρεσίαν δι' αὐτὸν, οὐ μὴν
+πρὸ τῆς σαρκώσεως. Post incarnationem, dixerit
+quis ministerium per illum (seu illum ministrasse),
+non vero ante incarnationem. Pie admodum, et con-
+gruenter doctrinæ SS. Patrum. Nam hæretici hu-
+jusmodi vocibus abutebantur contra æqualitatem
+Filii cum Patre. Cæteroqui non desunt exempla si-
+milium locutionum, non modo in magistris qui
+Arium præcesserunt (Justinum martyrem dico,
+Theophilum Antiochenum, Irenæum, Clementem
+Alexandrinum, Tertullianum, et Origenem); sed et
+in illis, qui post exortam Arianam hæresim scri-
+psere. Verbi gratia, in Hilario lib. III De Trinitate,
+Mario Victorino hymno 3, ac Epiphanio, circa
+quem leg. sup. ad Hermæ locum. Philo Judæus De
+nominum mutatione, p. 1058 : Ὑπηρέτης τοῦ Θεοῦ
+λόγος. Vide, si lubet, epistolam episcoporum sex
+ad Paulum Samosatensem. Cᴏᴛ.—In margine utrius-
+que cod. Vind. : Ὅτι τὸ λέγειν· « Ὑπηρετεῖ ὁ Υἱὸς τῷ
+Πατὲρι καὶ Θεῷ,» οὐχ ὑπόστασιν τοῦ Υἱοῦ δείκνυσιν,
+οὐδὲ λειτουργικὴν δύναμιν ὡς κτίσματος, ἀλλὰ ὡς
+συνδημιουργοῦ. Verum hæc non sunt scriptoris
+hujus libri, sed librarii, aut potius critici rectius
+sentientis. Non est hujus loci attingere quæstio-
+nem, quæ moveri hinc queat, cur Patres anteni-
+cæni instar Arianorum interdum locuti sint, inter-
+dum eos oppugnavisse videantur. Cʟᴇʀ.
+(59) Ἑορτάσατε μίαν ἑβδομάδα. Ritum festam
+habendi hebdomadem quæ Pentecosten consequi-

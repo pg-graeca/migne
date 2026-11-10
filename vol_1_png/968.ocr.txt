@@ -1,0 +1,184 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,197,2522,940,2690
+2,190,135,947,646
+3,974,215,1734,1211
+4,971,1212,1738,1950
+5,184,649,939,1680
+6,983,2522,1725,2687
+7,970,1949,1728,2349
+8,190,1695,936,2341
+9,979,136,1724,211
+10,594,76,1294,112
+12,190,2378,1720,2447
+17,1659,78,1735,114
+19,192,80,270,113
+20,798,2448,1114,2498
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=17 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+S CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=17
+1336
+
+# block=19
+1335
+
+# block=2
+Dei, cui nos de omnibus quæ dicebat, tanquam vero
+prophetæ credimus, firmitatem fidei nostræ non so-
+lum ex verbis ejus, sed et ex operibus assumentes,
+quia et dicta legis, quæ ante multas generationes de
+præsentia ejus exposuerant, in ipso consignabantur,
+et imagines gestorum Moysi et ante ipsum patriar-
+chæ Jacob, ipsius per omnia typum ferebant. Tem-
+pus quoque adventus ejus, hoc est, ipsum in quo
+venerat, prædictum ab eis constat, et super omnia
+quod esset a gentibus exspectandus, sacris litteris
+comprehensum est, quæ in eo pariter universa com-
+pleta sunt.
+
+# block=9
+ipse dixit, quia unusquisque illius fit servus cui se
+ipse subjecerit ³¹.
+
+# block=3
+XIII. Propterea ergo evigilate, et Dominum Deum-
+que nostrum vobis ascribite, Dominum qui et cœli
+ac terræ Dominus est, et ad ipsius vos imaginem ac
+similitudinem reformate, sicut ipse verus propheta
+docet, dicens : Estote misericordes sicut et Pater
+vester cœlestis misericors est, qui oriri facit solem
+suum super bonos et malos, et pluit super justos et
+injustos ³². Hunc ergo imitamini et hunc timete, sic-
+ut mandatum datur hominibus : Dominum Deum
+tuum adorabis, et ipsi soli servies ³³. Expedit enim
+vobis huic uni Domino servire, ut per ipsum co-
+gnoscentes unum Deum, a multis quos inutiliter
+timebatis, liberemini. Qui enim creatorem omnium
+non timet Deum, sed eos timet quos ipse manibus
+suis fecit, quid nisi vano et inutili semetipsum
+obnoxium facit timori? vilioremque se et abjectio-
+rem reddit quam sunt illa ipsa, quorum timorem
+mente concepit. Quin potius per bonitatem ejus qui
+vos invitat, redite ad priorem nobilitatem vestram,
+et ex bonis actibus, quod ipsius creatoris vestri
+imaginem portetis, ostendite, ut ex contemplatione
+similitudinis ipsius etiam filii ejus esse creda-
+mini.
+
+# block=5
+XI. Quod autem Judæorum propheta prædixit
+eum a gentibus exspectandum ²⁹, supra modum in
+eo fidem veri confirmat. Si enim dixisset a Judæis
+exspectandum, non aliquid eximium prophetasse
+videretur, quod a contribuli populo et a propria
+gente speraretur is, cujus adventus ad salutem
+mundi fuerat repromissus; videretur enim magis
+consequentia ratio esse, ut hoc fieret, quam magni-
+ficentia prophetalis. Nunc autem cum prophetæ di-
+cant, omnem illam spem quæ de salute mundi re-
+promittitur, et novitatem regni quæ instituenda per
+Christum est, atque omnia quæ de eo indicantur,
+ad gentes esse transferenda, jam non secundum
+consequentiam rerum, sed incredibili quodam va-
+ticinationis eventu magnificentia prophetica con-
+firmatur. Judæi namque ex initio adhuc aliquando
+hunc virum per quem cuncta repararentur, ve-
+rissima traditione susceperant, et quotidie meditan-
+tes ac prospicientes, quando ejus fieret adventus,
+ubi adesse eum viderunt et signa ac prodigia, sicut
+de eo scriptum fuerat, adimplentem, invidia excæ-
+cati agnoscere nequiverunt præsentem, in cujus spe
+lætabantur absentis; intelleximus tamen pauci nos
+qui ab eo electi sumus.
+
+# block=4
+XIV. Incipite ergo a sensibus vestris abjicere va-
+nas idolorum species atque inutiles et inanes timo-
+res, ut simul etiam conditionem possitis iniquæ
+servitutis effugere. Domini etenim vestri effecti sunt
+illi, qui ne servi quidem utiles vobis esse potuissent.
+Quomodo enim simulacra exanima vel ad servitu-
+tem vobis viderentur idonea, cum neque audiant,
+neque videant, neque aliquid sentiant? nisi quod
+ipsa saltem materia ex qua facta sunt, sive auri, sive
+argenti, vel etiam æris aut ligni, cum possit vobis
+ad usus necessarios prodesse, vos ex ea formando
+deos, otiosam per omnia eam atque inutilem reddi-
+distis. Nos ergo annuntiamus vobis verum Dei
+cultum, simulque monemus et hortamur cultores,
+ut per bonos actus imitentur eum quem colunt, et ad
+imaginem ac similitudinem ejus, ut superius dixi-
+mus, redire festinent.
+
+# block=8
+XII. Hoc autem providentia Dei factum est, ut
+agnitio boni hujus etiam gentibus traderetur, et hi
+qui nunquam de eo audierant nec a prophetis di-
+dicerant, agnoscerent eum, illi vero qui quotidianis
+meditationibus agnove rant, ignorarent. Ecce enim
+per vos nunc qui præsentes estis, et desideratis au-
+dire doctrinam fidei ejus et agnoscere quis, et quo
+modo, et qualis sit ejus adventus, prophetica veri-
+tas adimpletur. Hoc est enim quod prædixerunt
+prophetæ, quia a vobis quærendus esset, qui de eo
+nunquam audistis ³⁰. Et idco videntes in vobis ipsis
+prophetica dicta compleri, huic uni recte creditis,
+hunc recte exspectatis, de hoc recte inquiritis, ut
+non solum exspectetis eum, sed et hæreditatem re-
+gni ejus credentes consequamini, secundum quod
+
+# block=7
+XV. Velim autem dicerent mihi hi qui idola co-
+lunt, si optant similes fieri his quos colunt. Vultne
+aliquis vestrum sic videre quomodo illi vident? et
+sic audire quomodo illi audiunt? sic habere sensum
+quomodo illi habent? Absit hoc ab unoquoque au-
+dientium; hoc enim maledictum potius et convicium
+credendum est (17) homini, qui imaginem Dei in se
+gerit, etiamsi similitudinem perdidit. Quales ergo
+dii habendi sunt isti, quos imitari exsecrabile sit
+
+# block=12
+²⁹ Gen. xlix, 10. ³⁰ Isa. lxv, 1. ³¹ Joan. viii, 34. ³² Luc. vi, 36 ; Matth. v, 45. ³³ Deut. vi, 13;
+Matth. iv, 10.
+
+# block=20
+COTELERII NOTÆ.
+
+# block=1
+(17) Hoc enim maledictum potius et convicium
+credendum est. Qui solet appellari Eusebius Emise-
+nus, homilia quod idola coli non debeant : Dic mihi,
+cum lignum veneraris ac lapidem, si tibi diceretur :
+Talis sis qualis deus tuus; nunquid non convicium
+
+# block=6
+crederes? nunquid non injurias computares? Et illum
+te non pudet venerari, cujus te nolles similitudinem
+dici, cui te erubesceres comparari? Et illi tribuis Dei
+cultum, cui te assimilari gravissimum putares esse
+maledictum?

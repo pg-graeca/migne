@@ -1,0 +1,195 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,259,2249,1012,2715
+2,257,1884,1006,2252
+3,1042,1853,1805,2616
+4,237,149,995,1611
+5,1026,151,1788,1593
+6,1044,2615,1799,2685
+7,833,1670,1147,1703
+8,648,95,1375,130
+9,236,97,290,134
+10,1041,1718,1792,1791
+11,253,1718,1003,1821
+12,253,1819,999,1888
+14,1039,1788,1790,1857
+15,1711,92,1775,134
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+580
+
+# block=8
+S. CLEMENTIS I. ROM. PONT. OPERA DUBIA.
+
+# block=9
+579
+
+# block=4
+put est mulieris , viri autem in via justitiæ ince-
+;dentis caput est Christus; Christi vero caput, Deus
+et Pater ejus ⁵. Ergo post omnipotentem Deum no-
+strum, et Patrem, præsentis et futuri sæculi Domi-
+num, omnis spiritus et virtutis conditorem, et post
+dilectum illius Filium, Dominum nostrum Jesum
+Christum, per quem gloria Deo ; time virum tuum,
+o mulier, et reverere eum ; ipsi soli placere stude,
+et per ministerium tuum illi grata existere, ut ob
+te etiam beatus prædicetur a Sapientia, quæ per
+Salomonem hæc ait : ‹ Mulierem fortem quis inve-
+niet ? æstimabilior autem est lapidibus pretiosis,
+quæ talis est : confidit in ea cor viri ejus : quæ ta-
+lis est, spoliis non egebit ; operatur enim viro bona
+per omnem vitam : deducens lanam et linum, fe-
+cit utilia manibus suis : facta est velut navis nego-
+tians, de longe congregans ei vitam : et surrexit
+de nocte, et dedit escas familiæ, ac opera ancillis :
+consideravit agrum et emit, et de fructubus ma-
+nuum suarum plantavit possessionem : accinxit
+lumbos suos, firmavit brachia sua : et gustavit quod
+bonum est operari ; et non exstinguitur lucerna
+ejus tota nocte : cubitos suos ad utilia exten-
+dit , manus suas firmat ad fusum : manus
+autem suas aperuit pauperi ; palmam vero ex-
+tendit inopi : non est sollicitus de iis qui in
+domo, vir ejus ; omnes enim qui apud eam
+sunt, vestiti sunt duplici stola : et fecit viro suo læ-
+nas ; ex bysso ac purpura indumenta : conspicuus
+autem fit vir illius, quando sederit in consessu cum
+senioribus incolis : sindones fecit, et vendidit Phœ-
+nicibus, et cingula Chananæis : gloriam et deco-
+rem induit, et lætata est in diebus novissimis : os
+
+# block=5
+κεφαλὴ τῆς γυναικὸς ὁ ἀνὴρ ὑπάρχει· τοῦ δὲ ἀνδρὸς
+τοῦ πορευομένου ἐν ὁδῷ δικαιοσύνης, κεφαλὴ ἐστιν ὁ
+Χριστὸς· τοῦ Χριστοῦ δὲ κεφαλὴ ὁ Θεὸς (58) καὶ Πα-
+τὴρ αὐτοῦ. Μετὰ οὖν τὸν παντοκράτορα Θεὸν ἡμῶν,
+καὶ Πατέρα, τοῦ τε ἐνεστῶτος καὶ τοῦ μέλλοντος αἰῶ-
+νος Κύριον, πάσης τε πνοῆς καὶ δυνάμεως δημιουργὸν,
+καὶ τὸν ἠγαπημένον αὐτοῦ Υἱὸν τὸν Κύριον ἡμῶν
+Ἰησοῦν τὸν Χριστὸν, οὗ* ἡ δόξα τῷ Θεῷ (59), φοβή-
+θητί σου τὸν ἄνδρα, ὦ γύναι, καὶ ἐντράπηθι(60), αὐτῷ
+μόνῳ ἀρέσκουσα, αὐτῷ ὑπάρχουσα εὐάρεστος ἐν ταῖς
+διακονίαις αὐτοῦ, ἵνα καὶ ἐπὶ σοὶ μακαρισθῇ ὁ ἀνὴρ διὰ
+τῆς σοφίας τῆς λεγούσης διὰ Σολομῶντος τάδε· ‹ Γυ-
+ναῖκα ἀνδρείαν τίς εὑρήσει ; τιμιωτέρα δὲ ἐστι λίθων
+πολυτελῶν ἡ τοιαύτη· θαρσεῖ ἐπ’ αὐτῇ ἡ καρδία τοῦ
+ἀνδρὸς αὐτῆς· ἡ τοιαύτη σκύλων οὐκ ἀπορήσει (61)·
+ἐνεργεῖ γὰρ τῷ ἀνδρὶ ἀγαθὰ κατὰ πάντα τὸν βίον·
+μηρυσαμένη ἔριον (62) καὶ λίνον, ἐποίησεν εὔχρηστα
+ταῖς χερσὶν αὐτῆς· ἐγένετο ὡς ναῦς ἐμπορευομένη,
+μακρόθεν συνάγουσα αὐτῷ τὸν βίον· καὶ ἀνίσταται
+ἐκ νυκτῶν, καὶ ἔδωκε βρώματα τῷ οἴκῳ, καὶ ἔργα
+ταῖς θεραπαίναις· θεωρήσας γεώργιον ἐπρίατο, ἀπὸ
+δὲ καρπῶν τῶν χειρῶν αὐτῆς ἐφύτευσε κτῆμα· ἀνα-
+ζωσσαμένη τὴν ὀσφὺν (63) αὐτῆς, ἤρεισε τοὺς ἑαυτῆς
+βραχίονας· καὶ ἐγεύσατο ὅτι καλὸν τὸ ἐργάζεσθαι, καὶ
+οὐκ ἀποσβέννυται ὁ λύχνος αὐτῆς ὅλην τὴν νύκτα· τοὺς
+πήχεις αὐτῆς ἐκτείνει εἰς τὰ χρήσιμα (64), τὰς χεῖρας·
+αὐτῆς ἐρείδει εἰς ἄτρακτον· χεῖρας δὲ αὐτῆς διήνοιξε πέ-
+νητι, καρπὸν δὲ ἐξέτεινε πτωχῷ· οὐ φροντίζει τῶν ἐν
+οἴκῳ ὁ ἀνὴρ αὐτῆς (65), πάντες γὰρ οἱ παρ’ αὐτῇ εἰσιν
+ἐνδεδυμένοι δισσὰς στολάς· καὶ χλαίνας ἐποίησε τῷ ἀνδρὶ
+αὐτῆς, ἐκ βύσσου καὶ ποφύρας ἐνδύματα· περίβλεπτος
+δὲ γίνεται ἐν πύλαις ὁ ἀνὴρ αὐτῆς, ἡνίκα ἂν κάθηται ἐν
+συνεδρίῳ μετὰ τῶν πρεσβυτέρων τῶν κατοικούντων (6li)·
+
+# block=7
+VARIGRUM NOTÆ.
+
+# block=11
+(58) Ὁ Θεός. Ὁ ἐπὶ πάντων Θεός. Uterque co-
+dex. Quod etsi verum est, posset esse ab Ariana
+manu, sive scriptoris, sive interpolatoris. CLER.
+
+# block=10
+(63) Τὴν ὀσφύν. Unus codd. ἰσχύν, minus bene.
+CLER.
+
+# block=14
+(64) Χρήσιμα. Συμφέροντα, eodem sensu, sed
+diverso sono. ID.
+
+# block=12
+(59) Οὗ ἡ δόξα τῷ θεῷ. Alter codd. ᾧ, omissis
+verbis, τῷ θεῷ, quod forte melius. ID.
+
+# block=3
+(65) Οὐ φροντίζει τῶν ἐν οἴκῳ ὁ ἀνὴρ αὐτῆς.
+Omittit sequentia ὅταν που χιονίζῃ. Ita quippe legen-
+dum, pro χρονίζῃ. Non timebit domui suæ a frigo-
+ribus nivis. Proverb. xxxi, 21. Mox additur στολάς,
+explicationis gratia. Male autem in editionibus τῶν
+O', ab ἐνδεδυμένοι εἰσὶ, disjungitur δισσὰς, quam dis-
+junctionem invenire etiam est in Catena ad Pro-
+verbia, in tractatu memorato De muliere forti Sa-
+lomonis, in Gregorio Nazianzeno oratione 11, p. 181;
+Ambrosio ad Lucæ xvi, 18, et Augustino, serm. 217
+De tempore. Patet ex ordine alphabetico, quo con-
+stant isti versiculi viginti duo postremi Parabola-
+rum. Liber Regius 2221 : ἐνδεδυμένοι εἰσὶ δισσὰς
+στολὰς καὶ χλαίνας, etc. versio; Eliæ Cretensis in
+S. Gregorii Nazianzeni orat. 11, num. 11, Dupli-
+cem stolam ac penulam fecit viro suo. Alter codex
+2263 : ἐνδεδυμένοι εἰσὶ δισσὰς χλαίνας , etc. Apud
+Cassianum collatione 14, cap. 8 : Omnes enim qui
+apud eam sunt, vestiti sunt dupliciter. Regiæ Biblioth.
+cod. 1609 : ἐνδιδύσκονται δισσὰ, δισσὰς στολὰς καὶ
+χλαίνας. Idem ms. vers. 30 : μάταιον κάλλος γυναι-
+κὸς οὐκ ἔστι παρὰ σοὶ. Ubi in multis libris ἐν σοὶ.
+Cor.
+
+# block=2
+(60) Ἐντράπηθι. Utroque codice additur αὐτόν.
+ID.
+(61) Ἡ τοιαύτη σκύλων οὐκ ἀπορήσει. Prov.
+xxxi, 11. Hodierni LXX addunt, καλῶν, contra
+textum Hebraicum, et mss. Biblioth.ecæ Regiæ 721,
+2221. Rectius ergo in tractatu ad Proverbior. xxxi,
+10, etc. De muliere forti, editiones S. Augustini,
+tom. X, serm. 45, De diversis, cap. 4, ostendunt :
+Quæ talis est, spoliis non indigebit, quam editiones
+S. Ambrosii tom. II : Talis bonis spoliis non indi-
+jebit. Cor.
+
+# block=1
+(62) Μηρυσαμένη ἔριον. In codice Regio 2221 :
+εὑραμένη ἔρια. Quod alteri interpreti a LXX, Aquila,
+Symmacho, et Theodotione tribuunt, quodque sequi-
+tur B. Augustinus, ubi mox, vertendo inveniens la-
+nam. Nunc, μηρυσομένη ἔρια. Si autem mutaretur
+ρ in ν, quæ litteræ in mss. valde affines sunt, esset
+quod responderet Hebræo דרשׁ quæsivit, modo
+veritate nitatur illud Hesychii μηνύειν, κηρύσσειν, ζη-
+τεῖν. Non ausim tamen quidquam immutare ; tum
+quia hæc acceptio verbi μηνύειν inusitata est ; tum
+quia vulgata lectio apparet in Ambrosio, in Catena ad
+Proverbia, et in mss., tum denique quia sæpe LXX
+ad sensum magis quam ad verbum interpretantur.
+ID
+
+# block=6
+(66) Κατοικούντων. Addit alter codex Vind. τῆς
+γῆς, quod Hebræis convenit. CLER.

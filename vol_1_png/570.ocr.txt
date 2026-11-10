@@ -1,0 +1,157 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,271,2490,765,2694
+2,247,475,1004,2442
+3,1064,2495,1534,2667
+4,257,146,1005,484
+5,1032,1401,1784,2439
+6,1040,143,1787,1395
+7,661,92,1375,128
+8,258,96,314,132
+9,1717,80,1787,126
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(84) Ap. Euseb. v, 18.
+(85) Ap. S. Epiphan. hær. LI, 33.
+(86) Constit. II, 14, 18 et seq.
+(87) Moshem. Instit. mai. p. 219.
+(88) Constit. III, 1.
+(89) Ibid. VI, 14.
+
+# block=2
+IV. Errores Montanistarum singillatim ab Hippo-
+lyto rejecti. — Sed neque ullus error proprius Monta-
+nistarum fuit, qui non refellatur in Constitutioni-
+bus. Illi negabant Ecclesiæ potestatem dimittendi
+graviora crimina, Constitutiones ubique asserunt :
+Καὶ τοῖς μετανοοῦσιν ἄφεσιν διδόναι χρή... Γνώριζε
+οὖν, ὦ ἐπίσκοπε, τὸ ἀξίωμά σου, ὅτι ὡς τοῦ δεσμεῖν
+ἐκληρώσω τὴν ἐξουσίαν, οὕτω καὶ τοῦ λύειν. Pæni-
+tentibus autem venia concedenda est... Agnosce igi-
+tur, episcope, dignitatem tuam, quod sicut sortitus
+es potestatem ligandi, ita et solvendi. Montanistas
+autem digito monstrat auctor, ubi ait : Δέξαι οὖν
+τὸν μετανοοῦντα μὴ διστάζων ὅλως, μηδὲ παρεμπο-
+διζόμενος ὑπὸ τῶν ἀνηλεῶς λεγόντων, μὴ δεῖν τοιού-
+τοις συμμολύνεσθαι, μήτε λόγου κοινωνεῖν. Igitur
+pænitentem recipe; nec te ullatenus dubitare faciant,
+aut a proposito retrahant, qui immisericorditer di-
+cunt, non oportere cum hujusmodi coinquinari, neque
+vel sermone communicare (86). Hæc adversus Mon-
+tanistas dicta esse adnotavit Cotelerius, aut vetu-
+stiores etiam hæreticos, quamvis Moshemius ad
+Novatianos perperam distulerit (87). Neve ullum
+crimen excipi posset, exempla proferuntur Davidis,
+et Manassis, quorum unus mœchiæ atque homici-
+dii, alter idololatriæ reus fuerat : hæc enim pec-
+cata excipiebant Montanistæ, quos veluti alloquitur
+Constitutionum auctor cum ait : Μείζων εἰδωλολα-
+τρείας οὐκ ἔστιν ἁμαρτία. Εἰς Θεὸν γάρ ἐστι δυσσέ-
+βεια. Ἀλλ’ ὅμως καὶ αὐτὴ διὰ γνησίας μετανοίας
+συγκεχώρηται. Gravius delictum idololatria non re-
+peritur : est enim in Deum impietas : nihilominus
+tamen et illud per sinceram pænitentiam condonatum
+est (88). Illi secundas nuptias damnabant, quæ in
+Constitutionibus ita non improbantur, ut manifeste
+arguatur contrarius error : Λόγον ὑφέξει τῷ Θεῷ,
+οὐχ ὅτι δευτέρῳ γάμῳ συνήφθη, ἀλλ’ ὅτι τὴν ἑαυτῆς
+ἐπαγγελίαν οὐκ ἐφύλαξε. Rationem Deo reddet, non
+quod secundis nuptiis copulata sit, sed quod pro-
+fessionem suam non servarit (89) : sermo erat de
+viduis, quæ castitatem fuerant professæ. Quoniam
+vero Montanus dissolvendas esse nuptias docuerat,
+id quoque in Constitutionibus est vetitum, μήτε
+μὴν μετὰ γάμον ἐκβάλλειν ἀκατάγνωστον ἐξέστω.
+Non ergo post nuptias liceat ejicere inculpatam.
+Multiplicatis jejuniis, quin etiam Quadragesimis,
+
+# block=3
+(90) Ibid. v, 13.
+(91) Matth. XXVI, 41.
+(92) Constit. VIII, 45.
+(93) Ibid. v, 4.
+(94) Tertullian. De cor. mil., XI.
+
+# block=4
+picta? (84) Deinde ad coercendam muliercularum
+licentiam, quæ nimia erat apud Montanistas, plura
+congeruntur in primo Constitutionum libro, eadem-
+que toto opere sæpius inculcantur. Maximilla certe
+Montanistarum prophetissa, nullum habuit infen-
+siorem Hippolyto, qui novam Jesabelem in Apo-
+calypsi memoratam, ipsam fuisse interpretatus
+est (85).
+
+# block=5
+V. Proprii Tertulliani errores ab Hippolyto con-
+futati. — Ad hæc Tertullianus Montanista, ex novæ
+sectæ institutis consectaria quædam deduxit, unde
+et privatim errores alios ascivit. Cujusmodi ille est
+quem edito libro De fuga in persecutione docet, sui
+Paracleti, Montani scilicet auctoritate fretus, nulla
+occasione martyrium redimere fas esse. Adversus
+eam sententiam hæc profert Constitutionum auctor :
+Εἰ δὲ καὶ οἷός τέ ἐστιν ἅπαντα τὸν βίον ἑαυτοῦ ἀπο-
+δόμενος ῥύσασθαι αὐτοὺς ἐκ τοῦ δεσμωτηρίου, μακά-
+ριος ἔσται καὶ φίλος τοῦ Χριστοῦ. Εἰ γὰρ ὁ τὰ ὑπάρ-
+χοντα πτωχοῖς δοὺς, τέλειος, μετὰ τὴν περὶ τῶν
+θείων γνῶσιν, πολλῷ μᾶλλον ὁ ὑπὲρ μαρτύρων.
+Jam vero si quis potest tradita omni substantia sua
+eos [martyres] ex carcere liberare, beatus erit ac
+Christi amicus. Nam cum is qui bona sua pauperibus
+dat, perfectus sit post cognitionem rerum divinarum,
+multo erit perfectior qui pro martyribus cuncta lar-
+gietur (93). Christianum salva fide militare non
+posse Tertullianus pronuntiavit (94), Hippolytus
+contra in his quæ a corruptore servata sunt : Στρατιώ-
+της προσιὼν διδασκέσθω μὴ ἀδικεῖν, μὴ συκοφαν-
+τεῖν, ἀρκεῖσθαι δὲ τοῖς διδομένοις ὀψωνίοις· πειθό-
+μενος προσδεχέσθω, ἀντιλέγων δὲ ἀποβαλλέσθω.
+
+# block=6
+maxime nitebantur Montanistæ : at certa jejunia,
+atque unam Quadragesimam prisco more servan-
+dam Constitutiones memorant : Ὑμῖν φυλακτέα ἡ
+νηστεία τῆς Τεσσαρακοστῆς, μνήμην περιέχουσα τῆς
+τοῦ Κυρίου πολιτείας τε καὶ νομοθεσίας. Servandum
+vobis est jejunium Quadragesimæ, continens recor-
+dationem conversationis Dominicæ, et legis latæ (90).
+Denique Montanistæ nefas esse aiebant Christiano
+persecutionem fugere; Constitutiones contra, ex
+his quæ Hippolyti nomen præseferunt, non modo
+ex Evangelii præscripto fugientes persecutionem
+tuentur, sed laudant etiam ac fratribus commen-
+dant : Τοὺς διωκομένους διὰ πίστιν, καὶ εἰς πόλιν
+ἐκ πόλεως φεύγοντας, διὰ τὸ μεμνῆσθαι τῶν λόγων
+τοῦ Κυρίου, προσλαμβάνεσθε. Ἐπιστάμενοι γὰρ,
+ὅτι τὸ μὲν πνεῦμα πρόθυμον, ἡ δὲ σὰρξ ἀσθενὴς,
+ἀποδιδράσκουσι, καὶ τὴν ἁρπαγὴν τῶν ὑπαρχόντων
+προΐενται, ἵνα ἀνεξάρνητον ἐν ἑαυτοῖς τὸ ὄνομα τοῦ
+Χριστοῦ διατηρήσωσιν. Ἐπικουρεῖτε οὖν αὐτοῖς τὰ
+πρὸς χρείαν, ἐντολὴν Κυριακὴν πληροῦντες. Eos qui
+persecutionem patiuntur fidei causa, et de civitate
+in civitatem fugiunt, quod meminerint verborum
+Domini (91) suscipite. Cum enim norint spiritum
+quidem promptum esse, carnem vero infirmam, aufu-
+giunt, et facultatum suarum direptionem permittunt
+ac negligunt, ut in se ipsis nomen Christi illibatum,
+et negatione non proditum conservent. Suppeditate
+ergo illis quæ sunt necessaria, mandatum Dominicum
+adimplentes (92).
+
+# block=7
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=8
+539
+
+# block=9
+540

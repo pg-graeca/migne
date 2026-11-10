@@ -1,0 +1,193 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,225,1336,985,1810
+2,228,377,986,805
+3,1019,987,1777,1456
+4,224,1818,986,2112
+5,1013,1857,1768,2325
+6,1019,1465,1769,1717
+7,224,814,979,1025
+8,1021,335,1781,977
+9,220,2370,974,2713
+10,1009,2374,1769,2713
+11,225,2122,984,2327
+12,226,1120,981,1328
+13,223,1033,982,1111
+14,1019,1723,1769,1849
+15,229,288,984,368
+16,1073,157,1780,327
+17,230,158,1003,282
+19,759,97,1233,144
+20,231,104,285,148
+21,1712,98,1784,154
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(b) Capite 6 persecutio nuper præterlapsa (c. 1),
+adeo cruenta, et multitudo martyrum tanta
+describitur, ut Neronis, non Domitiani tem-
+pora indicentur. Ingentem enim multitudinem
+sub Nerone cruciatam fuisse, Tacitus (eadem
+sane phrasi, qua utitur S. Pater, πολὺ πλῆθος)
+nobis refert (43); de Domitiano autem Tertul-
+lianus ita loquitur : Tentaverat et Domitianus,
+portio Neronis de crudelitate, sed qua et homo,
+facile cœptum repressit, restitutis etiam quos
+relegaverat (44)
+
+# block=2
+Scriptam eam esse brevi post persecutionem ali-
+quam, constat ex ipsa epistola, c. I. Esse vel Nero-
+nis vel Domitiani persecutionem nemo dubitat. Gra-
+bius, Pagius, Orsius, Gallandius, Wottonus aliique,
+Neronis persecutione desinente, proxime post Apo-
+stolorum Petri et Pauli martyrium, circa A. 68
+scriptam eam esse contendunt. Cotelerius autem,
+Tillemontius et Lumperus, Domitiani persecutione
+desinente, circa a. 96 vel 97 eam exaratam arbi-
+trantur.
+
+# block=3
+Quæ a Cotelerio aliisque objiciuntur, nullius sunt
+ponderis. Inde enim, quod Clemens, c. 47, referat,
+primam Corinthiorum dissensionem ἐν ἀρχῇ τοῦ
+Εὐαγγελίου excitatam esse, concludi non potest,
+longius temporis spatium ab illa prima dissensione
+esse præterlapsum. Namque S. quoque Paulus
+novem circiter annis post fundatam Ecclesiam Phi-
+lippensem, in Epistola ad Philippenses IV, 15, de
+ἀρχῇ τοῦ Εὐαγγελίου loquitur, minime innuens, Ec-
+clesiam Philippensem ante multos jam annos esse
+fundatam.
+
+# block=4
+(c) Capp. 5 et 6, nullus tot illustrium martyrum,
+qui sub Domitiano passi sunt, nominatur : non
+Flavius Clemens, non Acilius Glabrio, non
+Flavia Domitilla, non Joannes Evangelista ; quo-
+rum aliquem, ut Cardinalis Orsi (45) monet,
+saltem memorasset S. Pater, si post Domitia-
+neam persecutionem scripsisset.
+
+# block=5
+X. Secundæ Clementis epistolæ a nemine anti-
+quissimorum Patrum fit mentio. Nam duas Cle-
+mentis epistolas jam secundo post Christum seculo
+fidelibus notas fuisse, nullo modo e verbis Dionysii,
+Corinthiorum episcopi, conjici potest (51). Quum
+enim egregiam illam, de qua supra disputavimus,
+Clementis epistolam προτέραν appellaverit, id non
+respectu secundæ cujusdam Clementinæ epistolæ,
+sed epistolæ Soteris, Romani pontificis, pariter
+apud Corinthios publice prælectæ, dixisse mani-
+festum est.
+
+# block=6
+Nec id nos movet, quod S. Clemens c. 42, Eccle-
+siam Corinthiorum ἀρχαίαν appellaverit. Ἀρχαία
+enim Ecclesia, ut bene animadvertit Dodwellus,
+optimo jure ea nuncupatur quæ ἐν ἀρχῇ τοῦ Εὐαγ-
+γελίου, id est primis prædicati Evangelii tempori-
+bus, est fundata (47).
+
+# block=7
+Tota hæc quæstio facillime posset dissolvi, si
+tempus Clementini episcopatus plane constaret.
+Ex supra dictis autem intelleximus, ecclesiasticum
+Clementis regimen aut annis 68—77, aut 92—101
+esse tribuendum.
+
+# block=8
+Sed res utraque, Josephi et Clementis, longe dis-
+similis est. Josephus, sacros populi sui ritus de-
+scribens, per figuram, historicis non inusitatam,
+præsenti, quod dicimus, historico utitur. Clemens
+autem, ut Corinthios ad ordinem servandum addu-
+ceret, lectoribus ordinem Judaici cultus ante oculos
+ponit. Quod si autem templum jam fuisset destru-
+ctum, tota S. Patris argumentatio fuisset infirma,
+ipsaque adversarios invitasset, ut dicerent : en,
+eversione templi Hierosolymitani Deus ipse testa-
+tus est, talem ordinem sibi non esse exoptatum.
+Ex his colligimus, epistolam nostram desinente
+Neronis persecutione et ante excidium Hierosolymæ
+(A. 68-70) esse scriptam, S. Clementem autem im-
+mediate S. Petro successisse,
+
+# block=9
+(43) Annal. xv, c. 41-44.
+(44) Apolog., c. 5.
+(45) Istor. eccl., t. I, p. 412. Apud Galland. Bibl.,
+t. I, Proleg., p. ix.
+(46) Antiquit. III, c. 10.
+(47) Cfr. Grabii Spicil., t. I, p. 256.
+(48) Historia theol. crit., t. I, p. 56-92.
+(49) In Commentationibus de Patrum apostolico-
+rum theologia morali.
+(50) Patrolog. t. I, p. 61 sqq.
+
+# block=10
+(51) Dionys. Cor. apud Euseb. H. E. IV 23 : Ἐν
+αὐτῇ δὲ ταύτῃ (epistola Dionysii ad Soterem) καὶ
+τῆς Κλήμεντος πρὸς Κορινθίους μέμνηται (Diony-
+sius) ἐπιστολῆς, δηλῶν ἀνέκαθεν, ἐξ ἀρχαίου ἔθους
+ἐπὶ τῆς ἐκκλησίας τὴν ἀνάγνωσιν αὐτῆς ποιεῖσθαι.
+Λέγει γοῦν· « Τὴν σήμερον οὖν Κυριακὴν ἁγίαν ἡμέραν
+διηγάγομεν, ἐν ᾗ ἀνεγνώκαμεν ὑμῶν (Soteris) τὴν
+ἐπιστολήν· ἣν ἕξομεν ἀεὶ ποτὲ ἀναγινώσκοντες νου-
+θετεῖσθαι, ὡς καὶ τὴν προτέραν ἡμῖν διὰ Κλήμεντος
+γραφεῖσαν. »
+
+# block=11
+(d) Ante Domitiani tempora, et paulo post Neronis
+persecutionem epistolam nostram scriptam esse,
+suadet cultus Judaici mentio, in templo Hiero-
+solymitano tunc adhuc stante vigentis. Capp.
+40 et 41. Ad enervandum hoc argumentum
+
+# block=12
+(a) Clemens·martyrii Apostolorum Petri et Pauli
+capite 5 mentionem faciens ait : ”Ἔλθωμεν ἐπὶ
+τοὺς ἔγγιστα γενομένους ἀθλητάς. Inde appa-
+ret, epistolam nostram non multo post persecu-
+tionem Neronis exaratam esse.
+
+# block=13
+Quum vero res ita se habeat, epistolam ipsam
+inspiciamus, temporis indicia investigaturi.
+
+# block=14
+IX. De doctrina S. Clementis Lumperus (48),
+Heynsius, Junius ac Van Gilse (49) et Moehlerus (50)
+disputarunt.
+
+# block=15
+VIII. Jam de tempore, quo prima Clementis epi-
+stola scripta fuerit, disputemus.
+
+# block=16
+Lardnerus et alii exemplum Josephi Flavii pro-
+ferebant, qui a. 93 p. Ch. n. de sacrificiis non
+aliter disputavit, ac si templum adhuc exsti-
+tisset (46).
+
+# block=17
+Dominum nostrum Jesum Christum appellans
+(c. 36), illas Deo convenientes ac sublimiores de eo
+voces non protulisset.
+
+# block=19
+AD S. CLEMENTEM I PAPAM
+
+# block=20
+195
+
+# block=21
+196

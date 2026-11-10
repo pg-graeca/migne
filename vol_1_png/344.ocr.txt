@@ -1,0 +1,170 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,262,968,1011,1873
+2,1047,1750,1794,2492
+3,261,1880,1011,2483
+4,266,149,1017,958
+5,1049,149,1803,1741
+7,260,2518,1005,2690
+8,1047,2510,1800,2648
+9,815,96,1272,130
+10,1736,90,1808,134
+11,264,80,346,138
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=16px
+# block=10 fontSize=16px
+# block=11 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=11
+87
+
+# block=10
+88
+
+# block=9
+AD S. CLEMENTEM I PAPAM
+
+# block=4
+sime dimensis, supplevit et minio rubro notavit;
+eo nimirum consilio, ut quæ in laceris membranis
+temporis injuria consumpta desiderabantur, ab iis
+quæ addita vel suppleta fuerint lectores facilius
+secernerent. Quæ quidem supplementa Juniana
+posteriores editores, ut uncinulis clausa typis im-
+primerentur, diligenter curarunt. Magna enim-
+vero et laudanda Junii solertia, si fides ipsi adhi-
+benda. Verum secus sentiunt de eo deque ejus la-
+bore in describendo ms. Alexandrino viri longe
+doctissimi, Wottonus (1) in primis, Millius (2) et
+Grabius (3) : ut proinde minus recte censuerit Fel-
+lus (4) , « actum scilicet irrito conatu acturum
+fuisse illum, qui post Junium ad exemplar Alexan-
+drinum omnia denuo exegisset : siquidem, subdit,
+ea habetur de eruditione, industria et fide D. Junii
+apud omnes fama, ut eandem suspicione aliqua
+labefactare, non incivile modo, sed iniquum pror-
+sus videatur. »
+
+# block=5
+plaria quæ eorum uterque cum ms. codice quam
+accurate contulerat, mihi comparavi, atque illorum
+collationes et emendationes diligenter ad oram
+libri mei adnotavi. Quod cum egissem, ms. codi-
+cem quanta fieri potuit diligentia plus quam semel
+de novo contuli; quem, cum unicus sit, usque ad
+litteram secutus sum, præterquam in abbreviatio-
+nibus, quas hoc in loco potius adnotandas duxi.
+Hujusmodi sunt : ΘΣ̅ pro Θεὸς, ΚΣ̅ pro Κύριος, ΙΣ̅
+pro Ἰησοῦς, ΧΣ̅ pro Χριστός, ΠΝΑ̅ et ΠΝΣ̅ pro
+Πνεῦμα et Πνεύματος, ΟΥΝΟΣ̅ pro οὐρανός, ΑΠΟΣ̅
+pro ἄνθρωπος, ΙΣΛ̅ et ΙΗΛ̅ pro Ἰσραήλ, ΙΛΜ̅ pro
+Ἱερουσαλήμ, ΠΡΑ̅ pro πατέρα. Ubi vero codex ms.
+discedit a vulgari scribendi ratione, vel parum
+recte se habet, veram ac usitatiorem scribendi ra-
+tionem, ut et lectiones, emendationes et conjectu-
+ras Junii, Boisii, Cotelerii, Fellii, Colomesii ac Cle-
+rici, inter variantes lectiones posui. Plurimis
+etiam in locis textum emendavi et suæ integritati
+restitui, ubi parum recte a Junio describebatur. —
+Quæ me ad hanc editionem suscipiendam præcipue
+impulerunt, hæc fuerunt : ne deesset emendatior
+Græci textus editio, etc. » Hanc autem Wottonia-
+nam editionem, omnium licet accuratissimam, qui
+deinceps epistolas Clementinas typis excuderunt
+viri eruditi, si Richardum Russelium excipias,
+præteriere inconsultam. Quod quidem mirum, sin
+minus de reliquis, at saltem de Clerico qui eandem
+præ manibus habuit : ex ea enim selectiores Boisii
+adnotationes a Wottono tum primum editas descri-
+psit, quas in secundam Amstælodamensem Patrum
+apostolicorum editionem Cotelerianam transtulit. At
+eo in primis nomine illam insuper habuisse videtur
+Clericus, quod editor Cantabrigiensis tum Eduardi
+Bernardi notulas quibus Epistolæ 1 αὐθεντίαν ele-
+vare conatus est exsufflarit, tum ipsummet Cleri-
+cum identidem haud immerito castigarit.
+
+# block=1
+At pretium fuerit operæ hic in medium proferre,
+quæ de Juniana Clementinarum Epistolarum edi-
+tione fuere ab ipso Grabio adnotata. Sic autem se
+habent (5) : « Quæ ex collatione (ms. codicis Alexan-
+drini) emendationem præbent, ad hæc fere capita
+reducuntur. I. Nonnulla in editis omittuntur quæ
+in prototypo exstant, ut ex versione Latina constat.
+II. Haud pauca vocabula litteris miniatis eduntur,
+quæ in codice exstant; quod factum esse a typo-
+thetis verisimile est. III. Sunt haud pauca, quæ
+non recte exscripsit editor. IV. Nonnulla aliter
+scripta sunt, quam editor repræsentavit ex singu-
+lari quadam ejus opinione; qua adduci non potuit,
+ut scriptionem veterem aliter exhiberet, quam se-
+cundum vulgarem scribendi morem. V. Sæpe cum
+ipse male exscripserit, correctionem ex conjectura
+addit ad marginem; quæ correctio in ipso codice
+reperitur. » Hactenus Grabius. Quibus ergo vitiis
+laborant editiones ferme omnes, utpote quæ fuere
+ad Junianam exactæ : quod quidem liquido patet
+ex Wottoniana, omnium emendatissima.
+
+# block=2
+Quandoquidem vero Russelii mentio incidit, il-
+lud interest adnotare, industrium hunc editorem in
+suis Patrum apostolicorum operibus genuinis, Lon-
+dini anno 1746 evulgatis, Wottonianam editionem
+præ cæteris sibi sequendam jure censuisse. Qui et
+ad calcem secundæ partis voluminis 1 laudabili
+consilio pleraque subjecit adnotata, ex Joannis
+Millii apographo accurate ad ms. codicis Alexan-
+drini fidem exacto descripta : quæ quidem adno-
+tata Wottonum prætermisisse, quamvis et ipse apo-
+graphum Millianum sibi comparasse asseveret,
+miror enimvero; eo vel maxime quod nonnulla in
+iis reperiantur, quibus ex eodem ms. vetustissimo
+codicum editorum lectio passim exactior red-
+ditur.
+Neque porro illud prætermittendum, V. C. Joanni
+Ludovico Frey, qui anno 1742 Epistolas Patrum
+
+# block=3
+Hæc igitur Cantabrigiensis satis luculenta ἔκδοσις
+in vulgus prodiit anno 1718, summa cura Henrici
+Wottoni elaborata. Eam enim haud semel exigens
+V. C. ad fidem ms. codicis Alexandrini, adhibito
+etiam Junii edito cum eodem codice a Millio atque
+a Grabio collato, Junianum textum quem cæteri
+editores sunt secuti, octogies emendavit supplevit-
+que; quæ vero aberant a ms. exemplari, atque a
+Junio litteris miniatis designabantur, minutioribus
+typis imprimenda curavit. Sed præstat Wottonum
+ipsum audire, qui consilium studiumque suum
+in hac editione adornanda hisce verbis exponit (6) :
+« Cum primum mecum decrevissem editionem S.
+Clementis in me suscipere, Grabii Milliique exem-
+
+# block=8
+(4) Præfat. ad epist. 1 Clem., edit. Oxon., 1669.
+(5) Apud Wottonum ad calcem epist. Clem., pag.
+102.
+(6) Præfat., p. ccvii.
+
+# block=7
+(1) Prolegom. ad Bibl. polyglott., sect. ix, §
+34.
+(2) Apud Russel., edit. PP. Apost., tom. I, part. ii,
+p. 256.
+(3) Prolegom. ad vers. LXX, cap. ii, § 1.

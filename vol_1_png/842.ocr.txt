@@ -1,0 +1,186 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,246,2091,994,2692
+2,247,1926,995,2092
+3,247,1760,991,1928
+4,1018,1764,1780,2695
+5,1277,1365,1521,1400
+7,864,1677,1166,1716
+8,1028,1418,1803,1461
+9,249,140,999,1308
+10,655,76,1375,119
+11,248,1416,986,1457
+12,530,1357,703,1400
+13,1027,134,1782,1353
+14,1708,79,1777,114
+15,256,83,328,126
+16,245,1574,1770,1650
+17,245,1470,993,1562
+18,1027,1472,1779,1554
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=246 source_y1=2091 source_x2=994 source_y2=2692
+(22) Χειροθεσία. Partim quia orationi, ut cum
+manuum impositione conjungi solitæ, nomen im-
+positionis manuum aliquando datur, ex Matth. xix,
+13, 15, in concilio Milevitano II, can. 12; apud
+Augustinum lib. III De baptismo contra Donatistas
+cap. 16; et juxta Leonem epist 92, cap. 2. Unde
+Clemens Alexandrinus, p. 801, l. 1: Εὐχαὶ χειρῶν,
+et p. 793, c. 1, B: Ἐν τῇ χειροθεσίᾳ λέγουσιν ἐπὶ
+τέλους : εἰς λύτρωσιν ἀγγελικήν. Eusebius Hist.
+libro I, cap. ult. : Εὐχάς τε διὰ χειρός (quod est
+Nicephoro, εὐχή τε ἅμα καὶ τῇ ἁφῇ, non male); et
+lib VII, cap. 2 : Τῇ διὰ χειρῶν ἐπιθέσεως εὐχῇ, ubi
+in Nicephoro, τῇ διὰ χειρὸς εὐχῇ, in Rufino quem-
+admodum loco superiori, manus impositio. Au-
+gustinus vero De peccatorum meritis et remissione
+cap. 26, lib. II : orationem manus impositionis. Par-
+tim quia in benedictione manus imponebatur.
+Genus. XLVIII, 14, 15, Marc. x, 16 : τὴν χειροθεσίαν
+
+# block=2 source_x1=247 source_y1=1926 source_x2=995 source_y2=2092
+(21) Σαλευθῶσι. Addunt idem τὰ διαβήματα
+αὐτῶν, ἀλλὰ καταξιωθῶσιν; ne labantur gressus
+eorum, sed digni f ant qui sint participes, etc. Quæ
+omissa propter similem terminationem verborum
+σαλευθῶσι et ἀξιωθῶσι. ID.
+
+# block=3 source_x1=247 source_y1=1760 source_x2=991 source_y2=1928
+(20) Αὐτοῖς. Uterque codex : αὐτοὺς εἰς τὴν προ-
+τέραν ἀξίαν καὶ ἀποδώσῃ αὐτοῖς τὴν : eos in pristi-
+nam dignitatem, et reddat iis, etc. Quæ prætermissa
+a librariis, propter voculas αὐτοὺς et αὐτοῖς, qui-
+bus erant interposita. CLER.
+
+# block=4 source_x1=1018 source_y1=1764 source_x2=1780 source_y2=2695
+ἐπ' εὐλογίας, ait Tarasius patriarcha actione I, sy-
+nodi 7, qua de re videnda præcipue epistola 59
+S. Augustini : notarique debet istud citati Clemen-
+tis cap. 11, Pædagogi 3, p. 248 : Τίνι γὰρ ὁ πρεσβύ-
+τερος ἐπιτίθησι χεῖρα; τίνα δὲ εὐλογήσει; οὐ τὴν
+γυναῖκα τὴν κεκοσμημένην, ἀλλὰ τὰς ἀλλοτρίας τρί-
+χας, καὶ τὴν αὐτῶν ἄλλην κεφαλήν. Partim denique
+ob notissimam consuetudinem, pœnitentibus manus
+imponendi in missa ante celebrationem mysterio-
+rum. Lege infra cap. 37, 38, 39, et supra lib VII,
+cap. 44. Exstat hujusmodi Oratio manus impositio-
+nis, seu Oratio : manus impositio, ad pœnitentiam
+pertinens, ex Romano pœnitentiali, apud Halitga-
+rium; sed corrupta, atque restituenda sic ope An-
+tiquorum pœnitentialium Joannis Morini, pag. 70,
+col. 2 : Domine sancte, Pater omnipotens, æterne
+Deus, qui per Jesum Christum Filium tuum Domi-
+num nostrum vulnera nostra curare dignatus es, te
+supplices rogamus et petimus nos humiles tui sacer-
+dotes, ut precibus nostris aurem tuæ pietatis incli-
+nare digneris, remittasque omnia crimina, et peccata
+universa condones, desque huic famulo tuo pro sup-
+pliciis veniam, pro mœrore lætitiam, pro morte vi-
+tam. Ipse a spe cœlestis apicis devolutus est : et de tua
+misericordia confidens, ad bonam pacem (vel ad bo-
+num pacis sive ad bona paciferi) prœmii tui, atque
+cœlestia (vel atque cœlestia dona) pervenire merea-
+tur, ad vitam æternam. Per Dominum. COT.
+
+# block=5 source_x1=1277 source_y1=1365 source_x2=1521 source_y2=1400
+ΚΕΦΑΛΑΙΟΝ Θ΄.
+
+# block=7 source_x1=864 source_y1=1677 source_x2=1166 source_y2=1716
+VARIORUM NOTÆ.
+
+# block=8 source_x1=1028 source_y1=1418 source_x2=1803 source_y2=1461
+Χειροθεσία (22), καὶ εὐχὴ ὑπὲρ τῶν ἐν μετανοίᾳ.
+
+# block=9 source_x1=249 source_y1=140 source_x2=999 source_y2=1308
+terat Satanam sub pedibus eorum velociter ⁶⁵, ›
+liberetque illos a laqueo diaboli, et violentia dæ-
+monum, atque ipsos eripiat ab omni sermone illicito,
+et omni actione turpi, et mala cogitatione; condo-
+net vero illis omnia delicta eorum, voluntaria pariter
+ac involuntaria, et deleat quod adversum eos erat,
+chirographum ⁶⁶, et ascribat eos in libro vitæ;
+mundet autem ipsos ab omni inquinamento carnis
+ac spiritus ⁶⁷, atque uniat illos, restituens in san-
+ctum ovile suum. Quia ipse cognoscit conformatio-
+nem nostram. Quoniam ‹ quis gloriabitur mundum
+se habere cor; aut quis poterit dicere durum se
+esse a peccato ⁶⁸? › Universi namque pœnis subja-
+cemus. Adhuc pro iisdem intentius deprecemur;
+quia ‹ gaudium oritur in cœlo super uno peccatore
+pœnitentiam agente ⁶⁹; › ut aversi ab omni opere
+illicito, adjungant se ad omnem actionem bonam;
+quo hominum amator Deus obsecrationem eorum
+cito suscipiat placide, restituat eis lætitiam salutaris,
+et spiritu principali confirmet illos ⁷⁰, ne amplius
+labantur : consortes fiant sacrosanctorum ejus, et
+participes divinorum mysteriorum : ut redditi digni
+adoptione, consequantur vitam æternam. Adhuc in-
+tente omnes pro ipsis dicamus : Kyrie eleison. Salva
+eos, Deus, et erige misericordia tua. Suscitati Deo
+per Christum ejus, inclinate, et accipite benedictio-
+nem. Episcopus igitur has preces fundat :
+
+# block=10 source_x1=655 source_y1=76 source_x2=1375 source_y2=119
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=11 source_x1=248 source_y1=1416 source_x2=986 source_y2=1457
+Impositio manuum, et oratio pro pœnitentibus.
+
+# block=12 source_x1=530 source_y1=1357 source_x2=703 source_y2=1400
+CAPUT IX.
+
+# block=13 source_x1=1027 source_y1=134 source_x2=1782 source_y2=1353
+‹ συντρίψῃ τὸν Σατανᾶν ὑπὸ τοὺς πόδας αὐτῶν ἐν
+τάχει, › καὶ λυτρώσηται αὐτοὺς ἀπὸ τῆς παγίδος τοῦ
+διαβόλου καὶ τῆς ἐπηρείας τῶν δαιμόνων, καὶ ἐξέλη-
+ται αὐτοὺς ἀπὸ παντὸς ἀθεμίτου λόγου, καὶ πάσης
+ἀτόπου πράξεως, καὶ πονηρᾶς ἐννοίας· συγχωρήσῃ
+δὲ αὐτοῖς πάντα τὰ παραπτώματα αὐτῶν, τά τε ἑκού-
+σια, καὶ τὰ ἀκούσια, καὶ ἐξαλείψῃ τὸ κατ' αὐτῶν
+χειρόγραφον, καὶ ἐγγράψηται αὐτοὺς ἐν βίβλῳ ζωῆς·
+καθάρῃ δὲ αὐτοὺς ἀπὸ παντὸς μολυσμοῦ σαρκὸς καὶ
+πνεύματος, καὶ ἑνώσῃ αὐτοὺς ἀποκαταστήσας εἰς τὴν
+ἁγίαν αὐτοῦ ποίμνην. Ὅτι αὐτὸς γινώσκει τὸ πλάσμα
+ἡμῶν. Ὅτι « τίς καυχήσεται ἁγνὴν ἔχειν καρδίαν; ἢ
+τίς παρῥησιάσεται καθαρὸς εἶναι ἀπὸ ἁμαρτίας; »
+πάντες γάρ ἐσμεν ἐν ἐπιτιμίοις. Ἔτι ὑπὲρ αὐτῶν
+ἐκτενέστερον δεηθῶμεν· ὅτι « χαρὰ γίνεται ἐν οὐρανῷ
+ἐπὶ ἑνὶ ἁμαρτωλῷ μετανοοῦντι, » ὅπως ἀποστραφέντες
+πᾶν ἔργον ἀθέμιτον, προσοικειωθῶσι πάσῃ πράξει
+ἀγαθῇ· ἵνα ὁ φιλάνθρωπος Θεὸς ᾗ τάχος εὐμενῶς
+προσεδεξάμενος αὐτῶν τὰς λιτὰς, ἀποκαταστήσῃ
+αὐτοῖς (20) ἀγαλλίασιν τοῦ σωτηρίου, καὶ πνεύματι
+ἡγεμονικῷ στηρίξῃ αὐτοὺς, ἵνα μηκέτι σαλευθῶσι (21),
+κοινωνοὶ γενέσθαι τῶν ἁγίων αὐτοῦ ἱερῶν, καὶ μέτοχοι
+τῶν θείων μυστηρίων· ἵνα ἄξιοι ἀποφανθέντες τῆς
+υἱοθεσίας, τύχωσι τῆς αἰωνίας ζωῆς. Ἔτι ἐκτενῶς
+πάντες ὑπὲρ αὐτῶν εἴπωμεν· Κύριε ἐλέησον. Σῶσον
+αὐτοὺς ὁ Θεὸς, καὶ ἀνάστησον τῷ ἐλέει σου. Ἀνα-
+στάντες τῷ Θεῷ διὰ τοῦ Χριστοῦ αὐτοῦ, κλίνατε καὶ
+εὐλογεῖσθε. Ἐπευχέσθω οὖν ὁ ἐπίσκοπος τοιάδε·
+
+# block=14 source_x1=1708 source_y1=79 source_x2=1777 source_y2=114
+1084
+
+# block=15 source_x1=256 source_y1=83 source_x2=328 source_y2=126
+1083
+
+# block=16 source_x1=245 source_y1=1574 source_x2=1770 source_y2=1650
+⁶⁵ Rom. xvi, 20.    ⁶⁶ Col. II, 13, 14.    ⁶⁷ II Cor. VII, 1.    ⁶⁸ Prov. xx, 9.    ⁶⁹ Luc. xv, 7.    ⁷⁰ Psal.
+L, 14.
+
+# block=17 source_x1=245 source_y1=1470 source_x2=993 source_y2=1562
+Omnipotens Deus æterne, Domine universorum,
+creator et rector cunctorum ; qui hominem mundi
+
+# block=18 source_x1=1027 source_y1=1472 source_x2=1779 source_y2=1554
+Παντοκράτορ Θεὲ αἰώνιε, Δέσποτα τῶν ὅλων, κτίστα
+καὶ πρύτανι τῶν πάντων· ὁ τὸν ἄνθρωπον κόσμου

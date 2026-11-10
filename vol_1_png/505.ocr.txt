@@ -1,0 +1,81 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,175,139,1063,2427
+2,168,2453,1692,2632
+3,1096,139,1710,2397
+4,757,78,1180,119
+5,1662,86,1711,134
+6,187,70,259,128
+7,587,2651,1009,2735
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=6
+409
+
+# block=4
+EPISTOLA I. AD VIRGINES.
+
+# block=5
+410
+
+# block=3
+acceptabilem, non verborum ele-
+gantia, copia, dispositione ac præ-
+paratione : venantes eloquentiæ fa-
+mam, aut memoriam suam osten-
+tantes; qui enim ita sunt comparati
+similes fiunt æri sonanti aut cymbalo
+tinienti; multiloquio suo nihil
+prosunt exorcizalis, quamtumvis in
+astantibus pavorem excitent terri-
+bilibus verbis; non enim agunt cum
+recta fide, et juxta doctrinam Domi-
+ni qui dixit : Hoc genus dæmonio-
+rum non ejicitur nisi per orationem
+et jejunium 14. Loquitur autem de
+oratione quæ semper perseverat,
+fitque mente attenta ab eis qui
+sancte Deum rogant et obsecrant in
+lætitia cordis, in omni vigilantia et
+castitate, sine odio et nequitia 15.
+Accedamus igitur ad fratrem aut
+sororem ægrotantes ut visitemus
+eos, sicut decet, sine dolo, sine pe-
+cuniæ cupiditate, non tumultuose,
+non verbose, non induti falso pieta-
+tis indumento, non superbia comite;
+sed cum spiritu demisso et humili
+Christi. In jejunio et orationibus
+exorcismi peragantur, et non in os-
+tensione doctrinæ, non in eleganti
+et concinna verborum dispositione.
+Sed agnoscant homines qui a
+Deo sanationum gratiam accepe-
+runt. Vos igitur quibus dictum est :
+Gratis accepistis, gratis date 16, ad
+laudem Dei, cum fiducia perseverate
+semper in jejuniis, orationibus, vi-
+giliis vestris, cæterisque præclaris
+operibus. Facta carnis mortificate 17,
+in virtute Spiritus sancti.
+
+# block=2
+14 Matth. XVII, 20. 15 Igitur abjiciendis dæmonibus ab obsessis apti non sunt nisi qui habent verum
+spiritum orationis, simplicitatis, humilitatis, mortificationis, sanctæ lætitiæ, vigilantiæ, castitatis, charita-
+tis, paupertatis et innocentiæ : contraria enim contrariis curantur. Porro, omnes prædictæ virtutes oppo-
+nuntur spiritui nequam qui semper illas oppugnat ac funditus evertere cupit. 16 Matth. X, 8. 17 Rom.
+VIII, 13.

@@ -1,0 +1,197 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,968,2449,1718,2617
+2,973,2149,1726,2382
+3,972,2382,1715,2449
+4,965,2616,1716,2716
+5,182,2645,929,2714
+6,182,2580,932,2646
+7,182,2146,936,2319
+8,184,2512,929,2581
+9,186,2345,942,2448
+10,186,2447,933,2513
+11,620,106,1298,142
+12,183,1937,1720,2010
+13,183,159,939,1899
+14,809,2067,1110,2097
+15,196,109,250,145
+16,973,156,1727,1892
+17,1661,100,1739,148
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+850
+
+# block=11
+CONSTITUTIONES APOSTOLICÆ.—LIB. V.
+
+# block=15
+849
+
+# block=16
+universos sua voluntate suscitabit, opis non indi-
+gens : cum ejusdem potestatis opus sit, et mundum
+condere, et mortuos excitare. Ac tunc quidem ho-
+minem qui non erat, ex diversis in hominem con-
+stituit, data ei ex nihilo anima ; nunc vero resti-
+tuet existentibus animabus corpora dissoluta. Nam
+resurrectio eorum est, quæ jacent, non autem eo-
+rum quæ non sunt. Itaque qui prima corpora ex
+nihilo effecit, et ex ipsis varia condidit ; hic etiam
+defunctos, vita reddita, suscitabit. Et qui in utero
+hominem ex semine exiguo format, et animam ex
+non ente creans ipsi indit ; sicut ipse Jeremiæ ait :
+Priusquam te formarem in utero, novi te ³¹ ; et alibi :
+Ego Dominus firmans cælum, et fundans terram,
+et fingens spiritum hominis in eo ³² ³³ : idem et omnes
+homines ad vitam revocabit, utpote quos fecit : sic-
+ut divina Scriptura Deum testatur Unigenito Chri-
+sto dixisse : Faciamus hominem ad imaginem et ad
+similitudinem nostram. Et fecit Deus hominem : ad
+imaginem Dei fecit eum : masculum et feminam fecit
+eos ³⁴. Et maxime divinus ac tolerans Job, de quo
+Scriptura dicit : Scriptum est, eum cum illis, cum
+quibus resurgit Dominus, resurrecturum ³⁵ ; is ad
+Deum ait : Nonne sicut lac mulsisti me, et coagmen-
+tasti me æque ac caseum ? Pelle et carne vestisti me;
+ossibusque et nervis innexuisti me ; vitam autem et mi-
+sericordiam posuisti apud me ; et visitatio tua custo-
+divit spiritum meum. Hæc cum habeam in meipso,
+scio quod omnia potes, et nihil tibi est impossibile ³⁶.
+Quare ait et noster Salvator ac Magister Jesus Chri-
+stus : Quod impossibile est apud homines, possibile est
+apud Deum ³⁷. Dicit etiam Deo charus David : Manus
+tuæ fecerunt me, et plasmaverunt me ³⁸ ; et iterum :
+Tu cognovisti figmentum nostrum; et deinceps : Tu for-
+masti me, et posuisti super me manum tuam ; mirabi-
+lis facta est scientia tua ex me, confortata est, non po-
+tero ad eam ³⁹. Imperfectum meum viderunt oculi mei,
+et in libro tuo omnes scribentur ⁴⁰. Sed et Isaias Deum
+deprecans : Nos, inquit, lutum ; et tu fictor noster ⁴¹.
+Si ergo homo creatura Dei est, per Christum fa-
+
+# block=13
+τετράποδα, ἑρπετὰ, φυτὰ, βοτάνας· τὸν αὐτὸν τρό-
+πον, καὶ πάντας ἀναστήσει θελήματι, συνεργείας μὴ
+δεόμενος· τῆς γὰρ αὐτῆς δυνάμεώς ἐστιν ἔργον, τὸ
+δημιουργῆσαι κόσμον, καὶ τὸ νεκροὺς ἀναστῆσαι. Καὶ
+τότε μὲν μὴ ὄντα (35) τὸν ἄνθρωπον, ἐκ διαφόρων
+ἐποίησεν ἄνθρωπον (36), δοὺς αὐτῷ τὴν ψυχὴν ἐκ τοῦ
+μὴ ὄντος· νῦν δὲ ταῖς οὔσαις ψυχαῖς τὰ διαλυθέντα
+σώματα ἀποτίσει. Κειμένων γάρ ἐστιν ἡ ἀνάστασις,
+οὐχὶ δὲ μὴ ὑπαρχόντων. Ὁ οὖν τὰ πρῶτα σώματα
+ἐκ μὴ ὄντων ποιήσας, καὶ ἐξ αὐτῶν διάφορα δημιουρ-
+γήσας (37), οὗτος καὶ τοὺς θανόντας ζωοποιήσας
+ἀναστήσει. Ὁ γὰρ ἐν τῇ κοιλίᾳ τὸν ἄνθρωπον ἐκ μι-
+κροῦ σπέρματος μορφῶν, καὶ ψυχὴν αὐτῷ οὐκ οὖσαν
+ἐνδημιουργῶν· (38) καθὼς αὐτός πού φησι τῷ Ἱερεμίᾳ·
+« Πρὸ τοῦ με πλάσαι σε ἐν κοιλίᾳ, ἐπίσταμαί σε· »
+καὶ ἀλλαχοῦ· « Ἐγὼ Κύριος, στερεῶν οὐρανὸν, καὶ
+θεμελιῶν γῆν, καὶ πλάσσων πνεῦμα ἀνθρώπου ἐν
+αὐτῷ· » αὐτὸς καὶ πάντας ἀνθρώπους ἀναστήσει, αὐ-
+τοῦ ὄντας ποιήματα· καθὼς καὶ ἡ θεία Γραφὴ μαρ-
+τυρεῖ λέγοντα τὸν Θεὸν τῷ μονογενεῖ Χριστῷ· « Ποιή-
+σωμεν ἄνθρωπον κατ’ εἰκόνα καὶ καθ’ ὁμοίωσιν ἡμε-
+τέραν. Καὶ ἐποίησεν ὁ Θεὸς τὸν ἄνθρωπον· κατ’ εἰ-
+κόνα Θεοῦ ἐποίησεν αὐτόν· ἄρσεν καὶ θῆλυ ἐποίησεν
+αὐτούς. » Καὶ ὁ θειότατος καὶ καρτερικὸς Ἰὼβ, περὶ
+οὗ φησὶν ἡ Γραφὴ, ὅτι « γέγραπται αὐτὸν ἀναστή-
+σεσθαι μεθ’ ὧν ὁ Κύριος ἀνέστησεν (39)· » οὗτός φησι
+πρὸς τὸν Θεόν· « Ἦ οὐχ ὥσπερ γάλα με ἤμελξας,
+ἔπηξας (40) δέ με ἴσα τυρῷ ; δέρμα καὶ κρέας με
+ἐνέδυσας· ὀστέοις δὲ καὶ νεύροις με ἐνεῖρας· ζωὴν
+δὲ καὶ ἔλεον ἔθου παρ’ ἐμοί· ἡ δὲ ἐπισκοπή σου ἐφύ-
+λαξέ μου τὸ πνεῦμα· Ταῦτα ἔχων ἐν ἐμαυτῷ, οἶδα
+ὅτι πάντα δύνασαι, ἀδυνατεῖ δέ σοι οὐδέν. » Διό φη-
+σι (41) καὶ ὁ ἡμέτερος Σωτὴρ καὶ διδάσκαλος Ἰη-
+σοῦς ὁ Χριστός· « Ὅτι τὸ παρὰ ἀνθρώποις ἀδύνατον,
+δυνατὸν παρὰ τῷ Θεῷ. » Λέγει δὲ καὶ ὁ θεοφιλὴς
+Δαβὶδ (42)· « Αἱ χεῖρές σου ἐποίησάν με, καὶ ἔπλασάν
+με· » καὶ πάλιν· « Σὺ ἔγνως τὸ πλάσμα ἡμῶν· » καὶ
+ἑξῆς· « Σὺ ἔπλασάς με, καὶ ἔθηκας ἐπ’ ἐμὲ τὴν
+χεῖρά σου· ἐθαυμαστώθη ἡ γνῶσίς σου ἐξ ἐμοῦ,
+ἐκραταιώθη, οὐ μὴ δύνωμαι πρὸς αὐτήν. Τὸ ἀκατέρ-
+
+# block=12
+³¹ Jer. I, 5. ³² ³³ Zach. XII, 1. ³⁴ Gen. I, 26. ³⁵ in fine Job apud LXX. ³⁶ Job X, 10.
+³⁷ Luc. XVIII, 27. ³⁸ Psal. CXVIII, 73. ³⁹ Psal. CII, 13. ⁴⁰ Psal. CXXXVIII, 5. ⁴¹ Isa. LXIV, 8.
+
+# block=14
+VARIORUM NOTÆ.
+
+# block=7
+tus, qui cælum pro throno habet, ac terram pro sca-
+bello ; insuperque, ut prophetice dicatur, qui palmo
+cælum metitur, et terram pugno ; ante cujus con-
+spectum omnes gentes sunt quasi momentum stateræ,
+et quasi stilla de situla. (Isai. XL, 12, 15.)
+
+# block=2
+resurgit Dominus, vel, cum illis quos resuscitat Do-
+minus. Aliud ms. exemplar, teste Turriano, inter
+αὐτὸν et ἀναστήσεσθαι insertum habebat πάλιν, ut
+vulgo legunt. Eam tamen particulam non videtur
+agnoscere Theophanes Cerameus, homil. 27, p. 211.
+Cot. Sic et in altero cod. Vindob. πάλιν αὐτὸν
+δέ. Cler.
+
+# block=9
+(35) Μὴ ὄντα, etc. In margine notatum a nescio
+quo Σημ. κατὰ Ὠριγενιαστῶν, quasi his verbis op-
+pugnaretur προΰπαρξις τῶν ψυχῶν. Cler.
+
+# block=3
+(40) Ἔπηξας. Alter codd. Vindobonensium, ἐτύ-
+ρωσας, forte rectius. Id.
+
+# block=10
+(36) Ἄνθρωπον. Vocula hæc ab altero codice ab-
+est. Id.
+
+# block=1
+(41) Διό φησιν. Hæc et seqq. ad τῷ Θεῷ omissa
+sunt in altero cod. nec sane quidquam ad rem fa-
+ciunt ; neque enim sermo est de omnipotentia divi-
+na, sed de creatione. In margine alterius ad hæc
+verba : Οὐδὲ ταῦτα ἐν τοῖς ἄλλοις εὗρον. Id.
+
+# block=8
+(37) Δημιουργήσας εἴδη. Sic legit, altera voce
+auctior, unus Vind. cod., nec male. Id.
+
+# block=6
+(38 Καὶ ὡς. Καθώς in utroque cod. ut hic habet
+versio, melius. Id.
+
+# block=4
+(42) Δαβίδ. Addit idem codex τῷ Θεῷ, quod
+et habetur in versione ; et re ipsa David Deum al-
+loquitur. Id.
+
+# block=5
+(39) Αὐτὸν ἀναστήσεσθαι μεθ’ ὧν ὁ Κύριος ἀνί-
+στησιν : Ipsum resurrecturum cum illis, cum quibus

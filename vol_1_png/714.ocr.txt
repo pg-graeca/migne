@@ -1,0 +1,241 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1052,2043,1818,2257
+2,1063,2447,1813,2659
+3,264,754,1029,925
+4,266,2049,1025,2262
+5,266,146,1027,399
+6,276,2452,1035,2692
+7,1072,1926,1817,2027
+8,278,1930,1029,2032
+9,279,406,1028,485
+10,1063,404,1810,483
+11,1066,621,1820,740
+12,1064,749,1835,960
+13,273,1414,1024,1541
+14,1056,1056,1817,1268
+15,1066,490,1818,613
+17,511,1876,775,1913
+19,1060,141,1822,395
+20,1060,971,1819,1049
+21,890,2369,1204,2416
+22,1177,1680,1693,1734
+23,1314,1870,1558,1906
+24,341,2299,619,2344
+26,1052,1405,1813,1576
+27,400,1685,889,1740
+28,272,970,1028,1357
+32,261,484,1034,749
+34,1058,1277,1796,1400
+35,675,82,1396,128
+38,489,1758,809,1806
+39,1219,1756,1641,1806
+40,263,84,353,132
+41,1743,86,1823,130
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=17 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=26 fontSize=15px
+# block=27 fontSize=15px
+# block=28 fontSize=15px
+# block=32 fontSize=15px
+# block=34 fontSize=15px
+# block=35 fontSize=16px
+# block=38 fontSize=15px
+# block=39 fontSize=15px
+# block=40 fontSize=16px
+# block=41 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=35
+S CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=40
+827
+
+# block=41
+828
+
+# block=19
+η΄. Περὶ Ἰακώβου τοῦ ἀδελφοῦ τοῦ Κυρίου, καὶ
+Στεφάνου τοῦ πρωτομάρτυρος.
+θ΄. Περὶ ψευδομαρτύρων.
+ι΄. Ἠθικὴ παραίνεσις, ὅτι δεῖ φεύγειν ματαιολο-
+γίας, αἰσχρολογίας, εὐτραπελίας, μέθην, λα-
+γνείαν, θρύψιν.
+
+# block=5
+VIII. De Jacobo fratre Domini, et Stephano mar-
+tyre primo.
+IX. De falsis martyribus.
+X. Moralis admonitio; quod oporteat fugere vanos
+sermones, turpiloquia, dicacitates, ebrietatem, lasci-
+viam et delicias.
+
+# block=10
+ια΄. Παραίνεσις παιδεύουσα φεύγειν τῆς εἰδω-
+λολατρείας τὸ μύσος.
+
+# block=9
+XI. Admonitio, docens fugiendum esse idololatriæ
+scelus abominabile.
+
+# block=32
+XII. Quod non liceat cantilenam ethnicam aut mere-
+triciam canere; neque per idolum jurare : impium
+enim id esse, et cognitioni Dei repugnans.
+XIII. Enumeratio festorum Domini, quæ oportet
+observare; et quando eorum unumquodque debeat
+celebrari.
+
+# block=15
+ιβ΄. Ὅτι μὴ καθήκει ᾠδὴν ἐθνικὴν ἢ πορνικὴν
+ᾄδειν, οὔτε ἐπόμνυσθαι εἴδωλον· ἀσεβὲς γὰρ
+τοῦτο, καὶ τῆς τοῦ Θεοῦ γνώσεως ἐχθρόν.
+
+# block=11
+ιγ΄. Κατάλογος τῶν τοῦ Κυρίου ἑορτῶν, ἃς δεῖ
+φυλάσσειν· καὶ πότε τούτων ἑκάστη ὀφείλει
+ἐπιτελεῖσθαι.
+
+# block=12
+ιδ΄. Περὶ τοῦ πάθους τοῦ Κυρίου· καὶ τί ἐν ἑκάστῃ
+ἡμέρᾳ ἐπράχθη τῶν ἐν τῷ πάθει· καὶ περὶ τοῦ
+Ἰούδα· καὶ ὅτι οὐ συμπαρῆν Ἰούδας ἐν τῷ
+τὸν Κύριον τοῖς μαθηταῖς παραδιδόναι τὰ μυ-
+στήρια.
+
+# block=3
+XIV. De passione Domini; et quid in singulis die-
+bus actum sit eorum, quæ ad passionem pertinent;
+et de Juda; et quod quando Dominus tradidit di-
+scipulis sacramenta, Judas non intererat.
+
+# block=28
+XV. De magna hebdomade; et cur quarta et sexta
+feria mandant jejunare.
+XVI. Enumeratio prædictionum propheticarum, quæ
+Christum prædicant; quarum eventum Judæi in-
+tuiti, propter malevolentiam eum esse Christum
+Dei non crediderunt, et ad crucem Dominum gloriæ
+condemnaverunt.
+XVII. Quomodo Pascha debeat celebrari.
+XVIII. Constitutio de magna hebdomada Paschæ.
+
+# block=20
+ιε΄. Περὶ τῆς μεγάλης ἑβδομάδος· καὶ διὰ τί
+τετράδα καὶ παρασκευὴν ἐπιτρέπουσι νηστεύειν.
+
+# block=14
+ις΄. Ἀπαρίθμησις προφητικῶν προῤῥήσεων τὸν
+Χριστὸν κηρυττουσῶν, ὧν Ἰουδαῖοι τὴν ἔκβα-
+σιν θεασάμενοι, ἐκ κακονοίας ἠπίστησαν αὐτὸν
+εἶναι τὸν Χριστὸν τοῦ Θεοῦ, καὶ σταυρῷ κατέ-
+κριναν τὸν τῆς δόξης Κύριον.
+
+# block=34
+ιζ΄. Ὅπως ὀφείλει γίνεσθαι τὸ Πάσχα.
+ιη΄. Διάταξις περὶ τῆς μεγάλης τοῦ Πάσχα ἑβδο-
+μάδος.
+
+# block=26
+ιθ΄. Περὶ τῆς παννυχίδος τοῦ μεγάλου Σαββάτου,
+καὶ περὶ τῆς Ἀναστασίμου ἡμέρας.
+κ΄. Πρόῤῥησις προφητείας περὶ Χριστοῦ τοῦ
+Ἰησοῦ.
+
+# block=13
+XIX. De pervigilio magni Sabbati; et de die Resurre-
+ctionis.
+XX. Prædictio prophetiæ de Christo Jesu.
+
+# block=22
+ΒΙΒΛΙΟΝ ΠΕΜΠΤΟΝ.
+
+# block=27
+LIBER QUINTUS.
+
+# block=39
+ΠΕΡΙ ΜΑΡΤΥΡΩΝ (64).
+
+# block=38
+DE MARTYRIBUS.
+
+# block=23
+ΚΕΦΑΛΑΙΟΝ Α΄.
+
+# block=17
+CAPUT PRIMUM.
+
+# block=7
+Ὅτι τοῖς διὰ Χριστὸν θλιβομένοις παρὰ ἀπίστων,
+δίκαιον τοῖς πιστοῖς⁷⁸ τὰ δέοντα παρέχειν, κατὰ
+τὴν τοῦ Κυρίου διάταξιν.
+
+# block=8
+Quod iis, qui propter Christum ab infidelibus affligun-
+tur, æquum sit ut fideles necessaria præbeant,
+secundum Domini constitutionem.
+
+# block=1
+Εἴ τις Χριστιανὸς, διὰ τὸ ὄνομα τοῦ Χριστοῦ, καὶ
+τὴν εἰς τὸν Θεὸν ἀγάπην καὶ πίστιν, κατακριθῇ ὑπὸ
+ἀσεβῶν εἰς λοῦδον (65), ἢ θηρία, ἢ μέταλλον, μὴ παρ-
+ἴδητε αὐτὸν, ἀλλ᾽ ἐκ τοῦ κόπου καὶ ἐκ τοῦ ἱδρῶ-
+τος (66) ὑμῶν πέμψατε αὐτῷ εἰς διατροφὴν αὐτοῦ,
+
+# block=4
+Si quis Christianus, propter nomen Christi, ac
+erga Deum charitatem, ab impiis damnatus fuerit
+ad ludum, vel bestias, vel metalla; ne eum despi-
+ciatis; sed ex labore ac sudore vestro mittite ei
+unde vivat, et militibus mercedem solvat, quo alleve-
+
+# block=24
+⁷⁸ f. τοὺς πιστούς.
+
+# block=21
+VARIORUM NOTÆ.
+
+# block=2
+cum non intelligeret librarius, aut criticus Græcus,
+mutavit in δοῦλον, in altero cod. perperam. ID.
+(66) Ἱδρῶτος. Alter ἱδρῶτος ὑπαρχόντων, quo-
+modo legendum videtur, deleto ὑμῶν, aut mutato
+in ὑμῖν, ex eo, nempe, quod sudore vestro vobis com-
+parastis. ID.
+
+# block=6
+(64) Περὶ μαρτύρων. Titulum hunc agnoscit Ni-
+cetas Pectoratus in loco, quem inter Veterum testi-
+monia collocavi. COT. Habet vero alter codex Vin-
+dobon.: Ἐν ᾧ περὶ μαρτύρων τῶν διὰ τὸ ὄνομα τοῦ
+Χριστοῦ διωκομένων, ὅτι δεῖ αὐτῶν ποιεῖσθαι πρό-
+νοιαν. CLER.
+(65) Λοῦδον. Ludum, nempe, gladiatorium. Quod

@@ -1,0 +1,215 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,212,982,962,2070
+2,990,142,1763,792
+3,996,982,1777,2111
+4,986,2433,1743,2706
+5,211,2436,950,2710
+6,1020,2161,1739,2263
+7,470,896,708,932
+9,607,88,1327,129
+10,216,2163,947,2236
+13,218,89,272,131
+14,1223,2116,1493,2151
+15,233,2270,967,2315
+17,217,144,965,790
+18,209,794,1759,886
+19,215,936,957,986
+20,995,930,1743,986
+21,1225,892,1505,936
+22,453,2108,703,2158
+23,1019,2274,1751,2312
+24,237,2322,1297,2372
+25,817,2376,1117,2424
+26,1675,88,1739,134
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=26 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=26
+708
+
+# block=13
+707
+
+# block=2
+φίας τιννύτω· εἶτα μεταμελόμενος προσλαμβανέσθω·
+καὶ οὕτω σωφρονιζόμενοι, ἐπικουφίσουσιν ὑμῖν τὰ
+κριτήρια. Χρὴ δὲ καὶ συγχωρεῖν τὰ εἰς ἀλλήλους ἀδι-
+κήματα· οὐ τοὺς κρίνοντας, ἀλλὰ τοὺς ἔχοντας εἰς
+ἑαυτούς· καθὼς ὁ Κύριος ἀπεφήνατο, ἐμοῦ Πέτρου
+ἐρωτήσαντος αὐτόν· «Ποσάκις ἁμαρτήσει εἰς ἐμὲ ὁ
+ἀδελφός μου, καὶ ἀφήσω αὐτῷ; ἕως ἑπτάκις;» καὶ εἰ-
+πόντος· « Οὐ λέγω σοι, ἕως ἑπτάκις, ἀλλ’ ἕως ἑβδο-
+μηκοντάκις ἑπτά. » Οὕτως γὰρ θέλει ὁ Κύριος ἀλη-
+θῶς εἶναι αὐτοῦ μαθητὰς, καὶ μηδὲν ἔχειν κατὰ μη-
+δενὸς πώποτε, οἷον ὀργὴν ἄμετρον, ἢ θυμὸν ἀνήμε-
+ρον, ἢ ἐπιθυμίαν ἄδικον, ἢ μῖσος ἄσπονδον. Τοὺς οὖν
+ὀργιζομένους συμβιβάζετε εἰς φιλίαν, τοὺς ἐχθραί-
+νοντας εἰς ὁμόνοιαν· ὅτι λέγει Κύριος· «Μακάριοι οἱ
+εἰρηνοποιοὶ, ὅτι αὐτοὶ υἱοὶ Θεοῦ κληθήσονται. »
+
+# block=17
+mitis, contumax, fraudator : hic igitur agnitus pu-
+niatur, et segregetur, et pœnas fraterni odii luat :
+dein cum propositum mutaverit, assumatur in so-
+cietatem : atque ita castigati, tribunalia vestra alle-
+vabunt ac infrequentia efficient. Oportet autem et
+mutuo injurias condonare; non quidem judices, sed
+eos qui simultates habent ; quemadmodum Domi-
+nus pronuntiavit, cum ego Petrus interrogarem
+eum : « Quoties peccabit in me frater meus, et di-
+mittam ei? usque septies? » et respondit : « Non
+dico tibi, usque septies, sed usque septuagesies se-
+pties ⁸⁰. » Sic enim vult Dominus vere esse suos disci-
+pulos, nihilque illos contra aliquem habere unquam,
+exempli gratia, iram immoderatam, aut furorem
+immanem, aut cupiditatem iniquam, aut odium irre-
+
+# block=18
+conciliabile. Eos itaque qui ira jactantur, ad amicitiam; qui odio asperantur, ad concordiam adducite;
+quia Dominus ait : « Beati pacifici, quoniam ipsi filii Dei vocabuntur ⁸¹. »
+
+# block=21
+ΚΕΦΑΛΑΙΟΝ ΜΖ'.
+
+# block=7
+CAPUT XLVII.
+
+# block=20
+Ὅτι χρὴ ἐν δευτέρᾳ Σαββάτων ποιεῖσθαι τὰς δίκας.
+
+# block=19
+Quod oporteat in secunda Sabbatorum forum agere.
+
+# block=1
+Fiant judicia vestra secunda post Sabbatum die;
+ut si vestræ sententiæ contradicatur, vacantes us-
+que ad Sabbatum, possitis contradictionem expen-
+dere, et inter se dissentientes, in diem Dominicum
+pacificare. Assistant autem tribunali diaconi et
+presbyteri, cum justitia ac citra personarum ac-
+ceptionem judicantes, tanquam homines Dei. Cum
+igitur utraque persona, sicut et dicit lex ⁸², adve-
+nerit, stabunt partes adversæ in medio foro : et
+auditis iis, sancte ferte suffragia, conantes inter
+ambos conciliare amicitiam, ante episcopi decre-
+tum, ne in publicum prodeat sententia adversus
+eum qui deliquit; quia episcopus in tribunali ap-
+probatorem et conscium judicii habet Christum Dei.
+Si qui vero de infamia non recte ambulandi in
+Domino a quopiam arguantur; eumdem in modum
+utramque personam, et accusatoris et accusati, au-
+dite; et non ex præsumpta opinione, neque ex
+studio unius partis, sed ex justitia, tanquam de
+æterna vita aut morte, dicite sententiam. « Juste »
+enim, inquit Deus, « persequeris quod justum
+est ⁸³.» Nam qui juste a vobis punitus est ac ex-
+communicatus, a sempiterna vita et gloria rejiculus
+evasit, tum apud sanctos homines ignominiosus,
+tum obnoxius apud Deum.
+
+# block=3
+Τὰ δικαστήρια ἡμῶν γινέσθω δευτέρᾳ Σαββά-
+των (84), ὅπως ἐὰν ἀντιλογία τῇ ἀποφάσει ὑμῶν
+γένηται, ἕως Σαββάτου ἔχοντες ἄδειαν, δυνηθῆτε εὐ-
+θῦναι τὴν ἀντιλογίαν, καὶ εἰρηνεῦσαι εἰς τὴν Κυρια-
+κὴν τοὺς διαφερομένους πρὸς ἀλλήλους. Συμπαρέ-
+στωσαν δὲ τῷ δικαστηρίῳ καὶ οἱ διάκονοι καὶ οἱ πρεσ-
+βύτεροι (85), ἀπροσωπολήπτως κρίνοντες, ὡς Θεοῦ
+ἄνθρωποι, μετὰ δικαιοσύνης. Παραγενομένων οὖν
+ἑκατέρων τῶν προσώπων, καθὼς καὶ ὁ νόμος λέγει,
+στήσονται ἑκάτεροι ἐν μέσῳ τῷ κριτηρίῳ, οἷς ἔστιν
+ἡ ἀντιλογία· καὶ ἀκούσαντες αὐτῶν, ὁσίως ἀνενέγκατε
+τὰς ψήφους, σπουδάζοντες αὐτοὺς φίλους ἀμφοτέρους
+ποιῆσαι, πρὶν ἀποφάσεως τῆς τοῦ ἐπισκόπου, ὅπως
+μὴ ἐξέλθοι ἐπὶ γῆς κρίσις κατὰ τοῦ ἁμαρτήσαντος·
+καθότι καὶ ἐν τῷ δικαστηρίῳ σύμψηφον ἔχει καὶ συν-
+ίστορα τῆς δίκης τὸν Χριστὸν τοῦ Θεοῦ. Εἰ δέ τινες
+ἐν βλασφημίαις τοῦ μὴ καλῶς ὁδεύειν ἐν Κυρίῳ ἐλέγ-
+χοιντο ὑπό τινος, ὁμοίως ἀκούσαντες ἑκατέρων τῶν
+προσώπων, τοῦ τε κατηγοροῦντος, καὶ τοῦ κατηγορου-
+μένου, ἀλλὰ μὴ προλήψει, μηδὲ μονομερῶς, ἀλλὰ
+μετὰ δικαιοσύνης, ὡς ὑπὲρ ζωῆς αἰωνίου ἢ θανάτου
+διδόντες ἀπόφασιν. « Δικαίως » γὰρ, φησὶν ὁ Θεὸς,
+« διώξει τὸ δίκαιον. » Ὁ γὰρ δικαίως τιμωρηθεὶς καὶ
+ἀφορισθεὶς παρ’ ὑμῶν, αἰωνίου ζωῆς καὶ δόξης ἀπό-
+βλητος γέγονε, καὶ παρ’ ἀνθρώποις ὁσίοις ἄτιμος,
+καὶ παρὰ Θεῷ κατάδικος.
+
+# block=22
+CAPUT XLVIII.
+
+# block=14
+ΚΕΦΑΛΑΙΟΝ ΜΗ'.
+
+# block=6
+Ὅτι μὴ χρὴ ταύτην (86) ἐπάγειν τιμωρίαν ἐπὶ
+πάσης πλημμελείας, ἀλλὰ διάφορον, πρὸς τὸ
+διάφορον τοῦ ἁμαρτάνοντος.
+
+# block=10
+Quod non oporteat eamdem pœnam in omni delicto
+irrogare, sed variam, pro varietate delinquentis.
+
+# block=15
+Nolite de omni peccato eamdem proferre senten-
+
+# block=23
+Μὴ πάσης δὲ ἁμαρτίας τὴν αὐτὴν ποιεῖσθε ἀπόφα-
+
+# block=24
+⁸⁰ Matth. xviii, 21. ⁸¹ Matth. v, 9. ⁸² Deut. xix, 17. ⁸³ Deut. xvi, 20.
+
+# block=25
+VARIORUM NOTÆ.
+
+# block=4
+clericis suis. Aliquando liberabant se ea molestia ;
+inferioribusque ordinibus litium diremptionem re-
+linquebant. Coacti etiam nonnunquam fuerunt laicos
+hac in re clericis præponere. Cujus ultimi exemplum
+habes apud Socratem, Hist. eccl., lib. vii, cap. 37,
+in Silvano Trojæ episcopo. Cot.
+(86) Ταύτην. Lege ex cod. Vindobon. et re ipsa
+τὴν αὐτήν. Cler.
+
+# block=5
+(84) Δευτέρᾳ Σαββάτων. Hoc est, secundo die
+ebdomadis, nam Σάββατα hic hebdomadem signifi-
+at, non Sabbatum. Sic dies solis, sive Dominicus
+dicitur μία Σαββάτων Matth. xxviii, 1, ad quem
+locum vide interpretes, et præsertim H. Grotium.
+Cler.
+(85) Συμπαρέστωσαν δέ, κ. τ. λ. Interdum jus di-
+cebant episcopi soli; interdum advocatis in consilium

@@ -1,0 +1,92 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,189,2237,1727,2622
+2,1125,1061,1742,1740
+3,193,165,1091,2189
+4,1117,1824,1731,2155
+5,1128,182,1750,978
+6,761,115,1196,156
+7,673,2665,1027,2788
+8,203,110,289,154
+9,1683,118,1755,166
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+445
+
+# block=6
+EPISTOLA II AD VIRGINES.
+
+# block=9
+446
+
+# block=5
+quælibet tribus seorsim incederet,
+omnesque viri cum tribu sua essent;
+mulieres vero seorsim cum mulie-
+ribus pone exercitum sequebantur.
+Sic, tanquam populus sapiens, pro-
+fecti sunt, juxta præceptum Domini,
+filii Israel, ne, propter mulieres,
+ulla turbatio exoriretur. Castrorum
+acies pulchro concinnoque ordine
+procedebat, absque scandali occa-
+sione. Id expresse testantur Scri-
+pturæ sacræ dicentes : Filii Israel
+perrexerunt per medium maris Ru-
+bri ⁷⁰.
+
+# block=2
+Tunc cecinit Moyses et filii Israel
+carmen hoc Domino, et dixerunt :
+Cantemus Domino : gloriose enim
+magnificatus est ⁷¹. Postquam Moy-
+ses Dei laudes canere cessavit, Ma-
+ria, ipsius et Aaron soror, sumpsit
+tympanum in manu sua; egressæ-
+que sunt omnes mulieres post eam,
+et ipsæ, vice sua, cecinerunt. Sic-
+que seorsim cantaverunt viri cum
+viris, et deinde mulieres seorsim
+cum mulieribus.
+
+# block=4
+Legimus etiam Eliseum et Giezi
+⁷² filiosque prophetarum congrega-
+tos fuisse in timore Domini: nul-
+lam vero invenimus mulierem quæ
+cum eis habitaverit. Idem reperi-
+mus de Michæa et prophetis omni-
+
+# block=1
+⁷⁰ Exod. xiv, 29. Notandum est in textu Hebraico, sicut in Vulgata hic tantum exprimi sensum sicci
+maris. Nec tamen minus certum est mare istud quod siccis pedibus filii Israel calcarunt, fuisse mare
+vocatum in textu Hebraico et Syriaco mare Suph, id est, algosum; quia sinus Arabicus, ibi designatus,
+alga marina abundans est. Vulgatæ translatio semper mare Suph vertit per mare rubrum. Authenti-
+citatem hujus epistolæ in dubium revocat D. de Premagny, quia S. Clemens, vel potius Syriacus trans-
+lator, conservavit vocem Hebraicam Suph. Hac occasione dicit adnotator mare istud esse ignotum; sed
+vox Suph frequenter adhibetur in Scripturis, ut in prævia dissertatione demonstratum est. Santes Pa-
+gninus, in sua versione Bibliorum, ubique idem verbum Suph conservavit. Sed quidam, ait S. Paulus
+(I Tim. i, 6, 7), aberrantes conversi sunt in vaniloquium, volentes esse legis doctores, non intelligentes neque
+quæ loquuntur, neque de quibus affirmant. ⁷¹ Exod. xv. ⁷² Diu Giezi laudabiliter vixit in obsequio Eli-
+sei, donec avaritia mancipium factus, domini sui maledictionem incurrit.
+
+# block=7
+ܚܿܬܡܐ FIN. (a).
+ܗܘܐ ID. (b).

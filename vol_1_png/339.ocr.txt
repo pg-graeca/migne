@@ -1,0 +1,158 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,979,1019,1724,1655
+2,972,1662,1725,2691
+3,973,242,1729,1011
+4,188,1404,942,2646
+5,197,239,945,1396
+6,606,175,1327,213
+7,182,2651,929,2693
+8,776,91,1137,124
+9,203,98,238,130
+10,1680,93,1719,126
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+IV. Præclaram hanc epistolam primus Patricius
+Junius Latine conversam ac notis illustratam Oxo-
+nii anno 1633 edidit. Eamdem cum insigni præfa-
+tione anno 1654 Helmestadii recudi curavit Joachi-
+mus Joannes Maderus. Mitto et quam Bartonius
+anno 1647, ac subinde Godefridus Vendelinus et
+Joannes Fell. Oxoniensis antistes aliique subinde in
+eam navarunt operam. Postmodum et Joannes-Ba-
+ptista Cotelerius anno 1672 illam nova interpreta-
+tione novisque notis adornatam Parisiis in lucem
+emisit. Eam demum recensuit ac notarum spicile-
+gium collegit Paulus Colomesius, cujus novissima
+editio Londini anno 1694 prodiit. Cotelerii inter-
+pretationem, ut litteræ tenaciorem, verbis nonnullis
+identidem mutatis, retinendam duxi.
+
+# block=2
+V. De tempore quo scripta est, nondum inter eru-
+ditos convenit. Ac licet prima illius verba de per-
+secutione dicta esse plerique omnes consentiant,
+ea tamen alii de Neronis, alii de Domitiani persecu-
+tione interpretantur. Et hanc quidem alii ferven-
+tem, alii desinentem intelligunt. Hinc circa tenı-
+pus, quo epistola ista scripta est, triplex maxime
+existit opinio : prima Joannis Ernesti Grabii, qui
+Spicileg. Patr. t. I, p. 254 et 255, eam Neronis per-
+secutione desinente. proxime post apostolorum Pe-
+tri et Pauli martyrium, hoc est anno Christi 68 vel
+etiam 65 exeunte scriptam esse contendit; altera
+Godefridi Vendelini eamdem anno Christi 95, fer-
+vente Domitiani persecutione illigantis; postrema
+Cotelerii atque Tillemontii, qui illam desinente ejus-
+dem imperatoris persecutione, circa annum Christi
+97 scriptam arbitrantur. Quartam vir clarissimus
+Claudius Fleury, t. I Hist. eccl., pag. 248, excogi-
+tavit, quæ ad Grabii sententiam propius accedat.
+Nempe ad id tempus, quod Neronis interitum exce-
+pit, et Jerosolymitanum antecessit excidium, re-
+ferri posse opinatur; et casus adversos, in epistolæ
+principio memoratos, de bello civili, quod Neronis
+mors excitavit, interpretatur.
+
+# block=3
+tentias apud Clementem Alex. lib. ⅳ, pag. 516,
+paucioribus perstrictas, et contra pag. 517 pluribus
+explicatas offendant, epistolam hanc non sinceram,
+sed aliis locis truncatam et aliis interpolatam ad
+nos pervenisse suspicentur. Sed Clementis Romani
+Alexandrinum interpolatorem esse non ambiget,
+qui verba addita ad institutum ipsius Alexandrini,
+quo de Gnosi tractare sibi proposuerat, accommo-
+data esse compererit. Qui autem Clementis nostri
+sententias nonnullis in locis interpolare sibi licere
+existimavit, in aliis eadem licentia ad eas contra-
+hendas uti potuisse non dubitatur. Præterea Joan.
+Clericus Artis criticæ part. ⅲ, sect. 2, c. 5, n. 12,
+observat, ex duorum locorum capitis 46 epistolæ
+nostræ cum verbis Clementis Alexandrini cogna-
+tione nonnullos moveri, ut hæc duo loca ex Ale-
+xandrino ascita opinentur. Ipsius Alexandrini verba
+ad prædictum caput 46 referemus et expendemus.
+
+# block=4
+Ⅱ. Epistolam illam publice olim plurimis in ec-
+clesiis lectam fuisse Eusebius Hist. eccl. lib. ⅲ,
+c. 16, tradit, et Epiphanius hær. 30, n. 15, atque
+Hieronymus lib. De viris illustr. confirmant. Hoc
+certe Corinthi ex prisca consuetudine factum esse
+Dionysius Alexandrinus apud Eusebium lib. ⅳ,
+c. 23, locupletissimus testis est. Ex eo etiam loco,
+quem in laudato codice Alexandrino obtinet; con-
+jectare est ei a nonnullis vel parem sacris libris, vel
+proximam post illos tributam esse auctoritatem.
+Cui conjecturæ favet ultimus Apostolorum canon,
+in quo inter Novi Testamenti libros duæ Clementis
+epistolæ recensentur. Et Clemens quidem Alexan-
+drinus lib. ⅳ Strom., dum hanc ut Clementis apo-
+stoli laudat, inter apostolicas Scripturas videtur ei
+locum dare. Imo non alia de causa Eusebius lib. ⅵ,
+c. 13, Clementem Alexandrinum Scripturarum ab
+aliis repudiatarum, nominatimque epistolarum Bar-
+nabæ, Clementis et Judæ testimoniis uti notat, nisi
+quia pro sacra Scriptura hanc Clementis epistolam
+habebat. Eo pacto quamdam pugnæ speciem, quæ
+in Eusebii Historia occurrit, dum Clementis episto-
+lam loco mox laudato ab aliis repudiatam, et lib. ⅲ,
+cap. 16 et 38, ab omnibus uno consensu receptam
+scribit, componi posse Cotelerius observat. Quam-
+vis enim ab omnibus inter ecclesiasticas, non item
+ab omnibus inter sacras Scripturas est recepta, sed
+a plerisque e divinorum librorum canone rejecta
+fuit.
+
+# block=5
+Ⅰ. Elapso sæculo Cyrillus Lucaris primum Alexan-
+drinus, ac deinde Constantinopolitanus patriarcha
+Carolo Ⅰ, Anglorum regi, insignem dono misit co-
+dicem Alexandrinum, grandioribus litteris manu
+Theclæ nobilis feminæ Ægyptiæ, circa Nicæni
+Ⅰ concilii, ut fertur, tempora exaratum, in quo Ve-
+teris et Novi Testamenti libris duæ Clementis epi-
+stolæ subjiciuntur. Harum prima valde celebris apud
+veteres fuit. Hanc quippe laudant Irenæus lib. ⅲ,
+c. 3; et apud Eusebium lib. ⅴ, c. 6, Clemens Ale-
+xandrinus Stromatum lib. Ⅰ, ⅳ, ⅴ et ⅵ; Origenes
+lib. ⅱ De principiis, cap. 3, et in Joan. Ⅰ, 29; He-
+gesippus apud Eusebium lib. ⅳ, c. 22; Eusebius
+ipse lib. ⅲ Hist. eccl., c. 16; scriptor quæstionum
+Justini nomine vulgatarum, c. 74; Epiphanius hær.
+27, n. 6, et hær. 30, n. 15; Hieronymus, Lib. de
+vir. illustr. c. 25, lib. ⅹⅳ, in Isaiæ ⅬⅡ, 13, et
+Comment. in Ephes. ⅳ, 1; Photius cod. 113 et 126,
+ut alios taceam. Etiamsi autem a plerisque Cle-
+mentis, a nonnullis tamen Romanorum, quia vide-
+licet eorum nomine a Clemente conscripta est, epi-
+stola nuncupatur. Nominatim vero Clemens Ale-
+xandrinus, lib. ⅴ Strom. pag. 584, verba numeri 20
+sic laudat : ᾿Αλλὰ κἀν τῇ πρὸς Κορινθίους ῾Ρωμαίων
+ἐπιστολῇ ὠκεανὸς ἀπέραντος ἀνθρώποις γέγραπται,
+καὶ οἱ μετ᾿ αὐτὸν κόσμοι. Quin etiam in epistola Ro-
+manorum ad Corinthios scriptum est : Oceanus, etc.
+
+# block=6
+ADMONITIO IN EPISTOLAM PRIMAM.
+
+# block=7
+Ⅲ. Non desunt, qui cum Clementis nostri sen-
+
+# block=8
+PROCŒMIA VARIORUM.
+
+# block=9
+77
+
+# block=10
+78

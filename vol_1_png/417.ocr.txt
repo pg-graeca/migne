@@ -1,0 +1,223 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,177,2190,927,2424
+2,952,2379,1698,2690
+3,954,2024,1703,2358
+4,175,2421,923,2691
+5,177,1199,928,2193
+6,179,1067,927,1201
+7,960,998,1718,1267
+8,958,1264,1718,1892
+9,953,1894,1702,2026
+11,179,128,926,820
+12,300,2693,547,2736
+13,670,70,1157,113
+15,182,998,926,1070
+16,791,937,1095,971
+17,182,827,1705,908
+18,1531,2691,1560,2732
+19,964,126,1708,820
+20,174,62,260,120
+21,1610,64,1718,116
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=18px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=18px
+# block=21 fontSize=18px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=20
+233
+
+# block=21
+234
+
+# block=13
+EPISTOLA 1 AD CORINTHIOS.
+
+# block=19
+sed confestim abierunt et pergunt : non ostendens
+eis illos. Et dixit ad viros : Certo scio ego, quod
+Dominus Deus vester tradit vobis urbem hanc ; ti-
+mor enim et pavor vestri incidit in habitatores ejus.
+Quando igitur contigerit vos eam capere, servate
+me et domum patris mei. Et dixerunt ei : Sic erit,
+quemadmodum locuta es nobis. Cum igitur nos adesse
+cognoveris, congregabis omnes tuos sub tecto tuo,
+et servabuntur : quotquot enim invenientur extra do-
+mum, peribunt. Et signum ei dare addiderunt, ut
+funiculum nempe coccineum appenderet de domo
+sua : manifestum facientes, quod per sanguinem
+Domini futura esset redemptio universis creden-
+tibus et sperantibus in Deum. Videte, dilecti,
+non solum fides, sed etiam prophetia in muliere
+exstitit.
+
+# block=11
+κρίνῃ (78)· εἰσῆλθον [οἱ δύο ἄνδρες οὗτος ζητεῖτε
+πρός με, [ἀλλὰ ταχέως ἀπῆλθον, καὶ πορεύον-
+ται (79)· οὐκ] ὑποδεικνύουσα αὐτοῖς ἐ[κείνους
+(80).] Καὶ εἶπεν πρὸς τοὺς ἄνδρας· [Γινώσκουσυ
+γινώσκω ἐγὼ, ὅτι [Κύριος ὁ Θεὸς] ὑμῶν παραδί-
+δωσιν ὑμῖν· [τὴν πό]λιν ταύτην, ὁ γὰρ φόβος καὶ
+[τρό]μος ὑμῶν ἐπέπεσεν τοῖς κα[το]ικοῦσιν αὐ-
+τῇ (81). Ἐὰν οὖν γέ[ρηται] λαβεῖν αὐτὴν ὑμᾶς,
+διασώσατέ με, καὶ τὸν οἶκον τοῦ πατρός μου.
+Καὶ εἶπαν αὐτῇ· Ἔσται οὕτως, ὡς ἐλάλησας ἡμῖν.
+Ὡς ἐὰν οὖν γνῷς παραγινομένους ἡμᾶς, συνά-
+ξεις πάντας τοὺς σοὺς ὑπὸ τὸ στέγος σου, καὶ
+διασωθήσονται· ὅσοι γὰρ ἐὰν εὑρεθῶσιν ἔξω τῆς
+οἰκίας, ἀπολοῦνται. Καὶ προσέθεντο αὐτῇ δοῦναι
+σημεῖον (82), ὅπως κρεμάσῃ ἐκ τοῦ οἴκου αὐτῆς κόκ-
+κινον· πρόδηλον ποιοῦντες (83), ὅτι διὰ τοῦ αἵμα-
+
+# block=17
+τος (84) τοῦ Κυρίου λύτρωσις ἔσται πᾶσι τοῖς πιστεύουσιν καὶ ἐλπίζουσιν ἐπὶ τὸν Θεόν. Ὀρᾶτε, ἀγα-
+πητοὶ, οὐ μόνον πίστις (85), ἀλλὰ προφητεία ἐν τῇ γυναικὶ γέγονεν (86).
+
+# block=16
+VARIORUM NOTÆ.
+
+# block=15
+(78) Ἤ δὲ ἀπεκρίθη. Cum Dav. lego ἥδε ἀπε-
+κρίθη : Hæc respondit. GALL.
+
+# block=7
+sensum quod attinet, interpretatur : Præterea, vel
+insuper ei signum dederunt. Recte. At ejusdem erro-
+ris postulandi erant Junius et Fellus, Cotelerio
+præeuntes, apud quos sic lego : Et ut signum daret,
+addiderunt. Hic reformandam esse Cotelerianam
+versionem non agnovit Cout. aliter emendaturus,
+ut alibi passim. Eam ipsi recensuimus, litteræ ta-
+men inhærentes. GALL.
+
+# block=6
+(79) Καὶ πορεύονται. Cout. mallet, καὶ ποῦ
+πορεύονται, οὐκ οἶδα, et quo pergant nescio. At hujus
+supplementi capax non est ms. lacuna. Simplicior
+lectio quæ hactenus invaluit. ID.
+
+# block=5
+(80) Οὐχ ὑποδεικνύουσα αὐτοῖς ἐκείνους. Ita
+ms. recte supplevit Cot. Juniana enim lectio [ὁδὸν]
+ὑποδεικνύουσα ἐ[ναντίαν] contextui et historicæ ve-
+ritati minime respondere videtur. ID. — [Οὐχ]
+ὑποδεικνύουσα αὐτοῖς ἐ[κείνους.] Cum variis mo-
+dis quæ desiderantur, suppleri queant; vir doctus
+edendum curavit, [ὁδὸν] ὑποδεικνύουσα αὐτοῖς
+ἐ[ναντίαν.] Viam ostendens eis contrariam : sensu
+plane diverso a verbis libri Josue, cap. II, vers. 5,
+ubi Rahab negat se scire quo homines illi abierint.
+Ostendit quidem mulier contrariam viam, sed ex-
+ploratoribus Judæis, non autem missis a Hieri-
+chuntis rege. Liceat autem hic obiter monere de
+vitio editionum S. Hieronymi, in nomine Rahabæ,
+Libro de interpretatione nominum Hebraicorum,
+capite de Jesu Nave : Raal, latitudo, vel fames, sive
+impetus. Legendum enim dubio procul Raab. CoT.—
+Junius quod hic in archetypo desideratar, studens
+supplere, ediderat, [ὁδὸν] ὑποδεικνύουσα αὐτοῖς
+ἐ[ναντίαν] et Latine, viam ostendens eis contrariam.
+Quod cum Cotelerius animadverteret repugnare
+historiæ sacræ, quæ exploratores e domo Rahab
+tum nondum exiisse, sed in ea adhuc latitare do-
+cet, οὐχ pro ὁδὸν, ἐ[κείνους] pro ἐ[ναντίαν] sub-
+stituit. Nec dubium quin ejus correctio Juniane sit
+præferenda lectioni : maxime cum hanc ad explo-
+ratores Josue, quibus unis Rahab viam contrariam
+ostendisse memoratur, referri orationis series non
+sinat. Antea etiam forte legendum, καὶ ποῦ πορεύον-
+ται, οὐκ οἶδα, et quo pergant nescio. CouST.
+
+# block=8
+(83) Πρόδηλον ποιοῦντες, etc. Habet hæc figura
+et allegoria suffragatores multos magnosque : Justi-
+num in Dialogo, p. 338, Irenæum, lib. Iv, cap. 57;
+Origenem Homil. 5 et 6 in Jesum Nave, et ad Mat-
+thæi xxvii, 28; Ambrosium libro de Salomone, cap. 5;
+et lib. v De fide, cap. 4; Hieronymum epist. 2; pseudo-
+Hieronymum ad Marcixiv, 1; Paulinum carmine 23;
+Augustinum in psalm. LXXXxvi, 4; Prosperum De pro-
+missionibus et prædictionibus Dei, part. II, cap. 14; Ful-
+gentium lib. I De remissione peccatorum, cap. 21;
+Theodoritum quæst. 2 in Josuam, et ad versum 51
+cap. XI Epistolæ ad Hebræos. Ut nihil dicam de
+auctore operis imperfecti in Matthæum, tomo VII
+B. Chrysostomi, ad cap. 1, vers. 5, quo loci cor-
+rupte legitur signo rubri sparsi pro signo rubro
+sparti; item de Procopio Gazæo, et aliis quos in
+adversariis meis notatos non inveni. Quam horrende
+coccinum interpretati sint Gnostici, cernere potes
+apud Epiphanium, iu eorum hæresi, cap. 9. COT.
+
+# block=9
+(84) Διὰ τοῦ αἵματος. Post B. Clementem eodem
+trahere linteum istud observo Justinum M. Irenæum,
+Origenem et alios, quorum nomina legere est in
+Observ. sacris, p. 97. COLOU.
+
+# block=3
+(85) Οὐ μόνον πίστις, ἀλλὰ προφητεία. In Deo
+Israelis reposita fiducia, et ab ipso sperata salus
+ante Domini adventum, in justitiam atque fidem re-
+putabantur, licet Messἰæ futurus adventus, cum
+ejusdem incarnationis, mortis et resurrectionis
+mysteriis minime essent perspecta. Eodem jure ple-
+reque res gestæ per totam legis œconomiam, pro-
+phetiæ loco sunt habitæ, Deo eas ita dirigente, ut
+futuræ redemptionis statum adumbrarent. Ita ex
+Ægypto
+
+# block=1
+(81) Τοῖς κατοικοῦσιν αὐτήν. Lectum ergo Cle-
+menti comma versiculi 9, cap. II Josue, quod a
+multis editionibus abest, in Complutensi vero ita
+effertur, καὶ κατέπτησ τὸν πάντες οἱ κατοικοῦντες τὴν
+γῆν ἀφ᾽ ὑμῶν, at codice 720 Bibliothecæ regiæ hoc
+modo, καὶ τετήκασι πάντες οἱ κατοικοῦντες τὴν γῆν,
+ἀπὸ προσώπου ὑμῶν. COT.
+
+# block=2
+(86) Προφητεία ἐν τῇ γυναικὶ γέγονεν. Origenes
+homil. 3 mox citata : Sed et ista meretrix, quae eos
+suscepit, ex meretrice efficitur jam propheta. Dicit
+enim : « Scio quia Dominus Deus vester tradidit vo-
+bis terram hanc. » Vides quomodo illa quae aliquando
+erat meretrix, et impia et immunda, nunc jam Spi-
+ritu sancto repleta est; et de præteritis quidem con-
+fitetur, de præsentibus vero credit, prophetat autem
+et prænuntiat de futuris. Cor.
+
+# block=4
+(82) Καὶ προσέθεντο αὐτῇ δοῦναι σημεῖον. Hel-
+lenismus, in sacris litteris passim occurrens, quo
+alias utitur S. Pater, ut advertit Wott., idemque si-
+gnificat quod ἔδωκαν ἐπὶ αὐτῇ σημεῖον. Cotelerii
+versionem : Et addiderunt ut signum daret, suggillat
+Dav. quod historiæ divinæ repugnet : non enim
+Rahab speculatoribus, sed speculatores Rahab si-
+gnum dederunt, ex Jos. 11, 18. Sic igitur ipse, ad
+
+# block=12
+PATROL. GR. I.

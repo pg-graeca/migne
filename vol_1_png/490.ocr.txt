@@ -1,0 +1,111 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1168,1946,1779,2508
+2,629,977,1434,1046
+3,949,1088,1113,1114
+4,503,1140,1532,1220
+5,861,1261,1241,1299
+6,750,659,1305,725
+7,671,100,1438,140
+8,276,98,335,140
+9,255,1928,1140,2622
+11,508,760,1508,864
+13,327,1338,1700,1375
+15,619,250,1490,605
+16,1749,104,1799,147
+17,925,892,1143,952
+18,259,1430,1101,1910
+19,1299,1740,1657,1914
+20,727,2652,1163,2752
+21,1205,1546,1747,1622
+22,1271,1462,1693,1510
+23,1405,1668,1549,1706
+
+# layer=format
+# block=1 fontSize=18px
+# block=2 fontSize=28px
+# block=3 fontSize=11px
+# block=4 fontSize=39px
+# block=5 fontSize=19px
+# block=6 fontSize=32px
+# block=7 fontSize=16px
+# block=8 fontSize=16px
+# block=9 fontSize=23px
+# block=11 fontSize=49px
+# block=13 fontSize=15px
+# block=15 fontSize=38px
+# block=16 fontSize=16px
+# block=17 fontSize=21px
+# block=18 fontSize=46px
+# block=19 fontSize=20px centerRows=true
+# block=20 fontSize=38px
+# block=21 fontSize=28px
+# block=22 fontSize=16px
+# block=23 fontSize=13px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=8
+379
+
+# block=7
+S. CLEMENTIS ROM. PONT. OPERA GENUINA.
+
+# block=16
+380
+
+# block=6
+DUÆ EPISTOLÆ
+
+# block=11
+SANCTI CLEMENTIS
+
+# block=17
+(ROMANI)
+
+# block=2
+DISCIPULI PETRI APOSTOLI
+
+# block=3
+INTERPRETE
+
+# block=4
+CLEMENTE VILLECOURT
+
+# block=5
+S. R. E. CARDINALI.
+
+# block=13
+(Textum Syriacum ex Gallandio [Vet. Patr., t. I] expressimus, adhibitis Typographri Imperialis typis.)
+
+# block=22
+PORRO EPISTOLA PRIOR
+
+# block=21
+BEATI CLEMENTIS
+
+# block=23
+DISCIPULI
+
+# block=19
+PETRI APOSTOLI.
+CAPUT I.
+
+# block=1
+Omnibus de salute sua anxiis
+ac sollicitis in Christo per Deum
+Patrem ; veritati divinæ obedienti-
+bus in spem vitæ perennis ; diligen-
+tibus fratres suos proximosque suos
+in charitate Dei amplectentibus ;
+sexus utriusque virginibus beatis ac
+in Deo sanctis, qui, propter regnum
+cœlorum, decreto consilio, sponte
+virginitati se manciparunt, salutem.
+
+# block=20
+ܫܠܡ Fin. (a)

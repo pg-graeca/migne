@@ -1,0 +1,159 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1037,157,1795,2244
+2,869,2394,1162,2430
+3,1032,2545,1779,2712
+4,657,99,1375,136
+5,248,2293,1779,2366
+6,247,2447,991,2716
+7,1029,2447,1781,2548
+8,254,153,1005,2264
+9,261,93,319,137
+10,1721,100,1799,144
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+γαστόν (43) μου εἶδον οἱ ὀφθαλμοί σου, καὶ ἐπὶ τὸ
+βιβλίον σου πάντες γραφήσονται. » Ἀλλὰ καὶ ὁ Ἡ-
+σαΐας λέγει προσευχόμενος αὐτῷ, ὅτι « Ἡμεῖς ὁ πηλός,
+καὶ σὺ ὁ πλάστης ἡμῶν (44). » Εἰ τοίνυν αὐτοῦ δη-
+μιούργημα ὁ ἄνθρωπος, διὰ Χριστοῦ γενόμενος, πάν-
+τως ὅτι καὶ θανὼν, δι’ αὐτοῦ ἀναστήσεται· ἐπὶ τῷ ἢ
+στεφθῆναι (45) ἐπὶ τοῖς κατορθώμασιν, ἢ κολασθῆναι
+ἐπὶ τοῖς πλημμελήμασιν. Εἰ δὲ δικαιοσύνῃ κρίνει,
+ὡς νομοθέτης· ὥσπερ κολάζει τοὺς ἀσεβεῖς, οὕτως
+εὐεργετῶν σώζει τοὺς πιστοὺς, καὶ τοὺς δι’ αὐτὸν ὑπ’
+ἀνθρώπων σφαγέντας ἁγίους· τοὺς μὲν ὡς ἄστρα φαι-
+δρύνων, τοὺς δὲ ὡς φωστῆρας λαμπρύνων· καθὼς ὁ
+Γαβριὴλ τῷ Δανιὴλ ἔλεγε· μαθηταὶ οὖν Χριστοῦ πάν-
+τες ὑπάρχοντες οἱ πιστοὶ, πιστεύομεν αὐτοῦ ταῖς
+ἐπαγγελίαις· ἀψευδὴς γὰρ ὁ ἐπαγγειλάμενος· λέγει
+δὲ ὁ μακάριος προφήτης Δαβὶδ, ὅτι « Πιστὸς Κύριος
+ἐν πᾶσι τοῖς λόγοις αὐτοῦ, καὶ ὅσιος (46) ἐν πᾶσι τοῖς
+ἔργοις αὐτοῦ. » Ὁ γὰρ ἐκ παρθένου ἑαυτῷ κατα-
+σκευάσας σῶμα, οὗτος καὶ τῶν ἄλλων ἀνθρώπων δη-
+μιιουργός ἐστι· καὶ (47) ἑαυτὸν ἀναστήσας ἐκ τῶν νε-
+κρῶν, αὐτὸς καὶ πάντας τοὺς κειμένους ἀναστήσει·
+ὁ τὸν πυρὸν ἐξ ἑνὸς κόκκου πολύχουν ἐκ γῆς ἀνιστῶν,
+ὁ τὸ ἐκκοπὲν δένδρον εἰς ῥάδαμνον ἀναθάλλων, ὁ τὴν
+Ἀαρὼν ῥάβδον ξηράνασαν (48) ἐκφύσας εἰς βλαστόν·
+αὐτὸς καὶ ἡμᾶς ἐγερεῖ ἐν δόξῃ. Ὁ τὸν παραλυτικὸν
+σῶον ἀνεγείρας, καὶ τὸν ἐξηραμμένην ἔχοντα τὴν
+χεῖρα ἰασάμενος, καὶ τὸ λεῖπον μέρος ἐν τῷ ἐκ γενε-
+τῆς πηρῷ ἐκ γῆς καὶ σιέλου ἀποδούς· ὁ αὐτὸς καὶ
+ἡμᾶς ἀνεγερεῖ. Ὁ ἐκ πέντε ἄρτων καὶ δύο ἰχθύων
+πεντακισχιλίους κορέσας, καὶ περισσεύσας δώδεκα
+κοφίνους, καὶ ἐξ ὕδατος οἶνον μεταποιήσας, καὶ ἐκ
+στόματος ἰχθύος στατῆρα δι’ ἐμοῦ Πέτρου τοῖς ἀπαι-
+τοῦσι κῆνσον ἀποστείλας· οὗτος καὶ τοὺς νεκροὺς ἀνε-
+γερεῖ. Ταῦτα γὰρ ἅπαντα ἡμεῖς περὶ αὐτοῦ μαρτυ-
+ροῦμεν· τὰ δ’ ἄλλα οἱ προφῆται. Ἡμεῖς οἱ συμφαγόν-
+τες αὐτῷ καὶ συμπιόντες· καὶ θεαταὶ γενόμενοι τῶν
+αὐτοῦ τεραστίων, καὶ τῆς ζωῆς, καὶ τῆς πολιτείας,
+καὶ τῶν λόγων, καὶ τῶν παθημάτων, καὶ τοῦ θανά-
+του, καὶ τῆς ἐκ νεκρῶν αὐτοῦ ἀναστάσεως, καὶ συνα-
+ναστραφέντες αὐτῷ ἡμέρας τεσσαράκοντα μετὰ τὴν
+ἔγερσιν αὐτοῦ· καὶ λαβόντες ἐντολὴν παρ’ αὐτοῦ
+κηρύξαι τὸ Εὐαγγέλιον εἰς ὅλον τὸν κόσμον, καὶ μα-
+θητεῦσαι πάντα τὰ ἔθνη, καὶ βαπτίσαι εἰς τὸν αὐτοῦ
+θάνατον, ἐπὶ αὐθεντίᾳ τοῦ Θεοῦ τῶν ὅλων, ὅς ἐστιν
+αὐτοῦ Πατὴρ, καὶ μαρτυρίᾳ Πνεύματος, ὅς ἐστι Πα-
+ράκλητος· διδάσκομεν ὑμᾶς ταῦτα πάντα, ἃ διαταξά-
+ρος τὸν ἀποστείλαντα αὐτόν. Καὶ ἐὰν μὲν πιστεύ-
+ἡμεῖς εὑρεθησόμεθα καὶ καθαροὶ τῆς ὑμετέρας
+
+# block=2
+VARIORUM NOTÆ.
+
+# block=3
+(46) Καὶ ὅσιος usque ad αὐτοῦ. Desunt in an-
+tiquiore sed deteriore cod. ID.
+(47) Καὶ. Lege ex altero cod. Καὶ ὁ. ID.
+(48) Ξηράνασαν. Alter ξηραίνουσαν ἐκφυσήσας.
+ID
+
+# block=4
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=5
+⁴² Dan. xii, 3. ⁴³ Psal. cxliv, 13. ⁴⁴ Num. xvii, 8. ⁴⁵ Matth. ix, 5. ⁴⁶ Marc. iii, 5. ⁴⁷ Joan. ix, 7.
+⁴⁸ Matth. xiv, 20. ⁴⁹ Joan. ii, 3. ⁵⁰ Matth. xvii, 26. ⁵¹ Act. i, 3. ⁵² Matth. xxviii, 18. ⁵³ Act. i, 9.
+
+# block=6
+(43) Τὸ ἀκατέργαστον. Præfigitur in altero καὶ
+αὖθις, ut in versione, nec male. CLER.
+(44) Καὶ σὺ ὁ πλάστης ἡμῶν. Non abhorret a
+vero, esse etiam τῶν Ο', licet apud eos jampridem
+non compareant, et sub asterisco quasi Aquilæ et
+Theodotionis, ponantur in editione Procopii ex ms.
+Renati Marchali. Ac forte continebantur in codice
+quo usus fuit Theodoritus. COT.
+
+# block=7
+(45) Στεφθῆναι. Alter cod. Vind. στεφανωθῆ-
+ναι, eadem sententia, sed voce paulo frequentiore.
+CLER.
+
+# block=8
+ctus; profecto etiam per eum post mortem resur-
+get; ut vel coronetur pro virtutibus, vel puniatur
+pro delictis. Quod si justitia judicat, ut legislator;
+quemadmodum punit impios, sic fideles et qui
+propter eum ab hominibus sunt mactati sanctos,
+beneficus salvat; partim sicut astra splendidos red-
+dens, partim velut luminaria refulgentes, quod
+Danieli prolocutus est Gabriel ⁴². Igitur fideles
+omnes, qui Christi sumus discipuli, promissis ejus
+credimus: nam qui promisit, mentiri non potest:
+dicit autem beatus propheta David: Fidelis Domi-
+nus in omnibus verbis suis, et sanctus in omnibus
+operibus suis ⁴³. Certe qui sibi corpus ex Virgine
+construxit, is et cæterorum hominum est conditor;
+et qui se a mortuis excitavit, idem et omnes in
+morte jacentes ad vitam eriget. Qui frumentum ex
+uno grano numerosum e terra educit; qui excisam
+arborem repullulare facit in surculum; qui Aaronis
+virgam jam siccatam, in germen jussit prorum-
+pere ⁴⁴: ipse nos quoque suscitabit in gloria. Qui
+paralyticum sanum in pedes statuit ⁴⁵; et manus
+ariditate laborantem curavit ⁴⁶; et cæco a nati-
+vitate, quod deficiebat membrum, per terram et
+salivam reddidit ⁴⁷: is ipse nos quoque ad vitam
+revocabit. Qui ex quinque panibus et duobus pi-
+scibus quinque millia virorum satiavit, faciens ut
+duodecim cophini superessent ⁴⁸; et ex aqua vi-
+num confecit ⁴⁹; et ex ore piscis extractum state-
+rem per me Petrum misit census exactoribus ⁵⁰:
+idem et morte sublatos vitæ reddet. Hæc quippe
+omnia de eo attestamur; alia vero prophetæ. Nos
+qui cum eo comedimus ac bibimus; et spectavimus
+miracula ejus, vitam, conversationem, sermones,
+passiones, mortem, atque ex mortuis resurrectio-
+nem; et cum eo per quadraginta dies postquam
+rediit ad vitam ⁵¹, versati sumus; et mandatum
+accepimus ab eo, prædicandi Evangelium in uni-
+verso mundo, docendi omnes gentes, ac baptizandi
+in mortem ejus ⁵², in auctoritate Dei cunctorum;
+qui est Pater ejus, nec non in testimonio Spiritus,
+qui est Paracletus: nos, inquam, hæc omnia doce-
+mus vos; quæ cum edixisset nobis, in conspectu
+nostro assumptus est in cœlum ⁵³, ad eum qui ipsum
+miserat. Atque si credideritis, beati eritis; si con-
+tra non credideritis, nos innocentes et mundi a
+vestra incredulitate reperiemur.
+μενος ἡμῖν ἀνελήφθη ἐπ’ ὄψει ἡμῶν εἰς τὸν οὐρανὸν
+σητε, μακάριοι γενήσεσθε· εἰ δὲ μὴ πιστεύσητε, ἀθῶ-
+δυσπιστίας.
+
+# block=9
+831
+
+# block=10
+852

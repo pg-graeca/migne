@@ -1,0 +1,173 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,243,982,986,1839
+2,252,334,991,669
+3,239,1846,989,2400
+4,1026,420,1770,715
+5,250,678,989,973
+6,1028,161,1770,410
+7,1020,944,1766,2403
+8,1021,723,1768,927
+9,273,2517,768,2689
+10,258,160,1005,322
+11,1051,2526,1372,2697
+12,274,2435,1037,2474
+13,783,102,1248,142
+14,232,88,334,144
+15,1688,90,1792,146
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Jesus Christus judex vivorum et mortuorum.
+Æternitas suppliciorum et præmiorum. Meritum et
+necessitas bonarum actionum. — Sanctus Clemens
+Jesum Christum appellat quoque judicem vivorum
+et mortuorum (12), item pœnarum æternitatem cla-
+rissimo testimonio affirmat, dum ad Corinthios
+scribit (13) : Facientes enim Christi voluntatem, re-
+quiem inveniemus. Sin minus : nihil nos ab æterno
+supplicio eripiet, si mandata illius contemnamus ;...
+quid vobis videtur ? qui incorruptionis certamen cor-
+ruperit, quid patietur ? De iis enim, qui sigillum non
+servaverunt, ait : Vermis eorum non exstingue-
+tur ²². Itaque fratres mei, alibi scribit (14), omnino
+ne vacillemus, sed sperantes sustineamus, ut et mer-
+cedem reportemus. Fidelis enim est, qui pollicitus
+est, se unicuique retributurum operum retributiones.
+Si ergo fecerimus justitiam coram Deo, in regnum
+ingrediemur, et accipiemus promissiones, quas « au-
+ris non audivit, nec oculus vidit, quæque in cor ho-
+minis non ascenderunt ²³ . » )
+
+# block=2
+Jesus Christus non fuit homo phantasticus, sed
+verus, quamvis non purus. — In prima sua epistola
+sanctus Clemens Jesu Christo carnem, sanguinem,
+et animam manifeste attribuit. In charitate, in-
+quit (10), assumpsit nos Dominus Deus noster ex vo-
+luntate Dei, sanguinem suum pro nobis tradidit, et
+carnem pro carne nostra, et animam pro animabus
+nostris.
+
+# block=3
+Verba faciens sanctus Clemens de gratiis quas
+veteres patriarchæ consecuti sunt, aperte docet,
+has omnes Deum gratis largitum fuisse, et horum
+virorum meritis, ac bonis operibus tribui non
+posse. Ii ergo omnes, ait ille (15), gloriam et ampli-
+tudinem consecuti sunt, non per se ipsos, aut opera
+sua, aut justas actiones, quas fecerunt, sed per vo-
+luntatem ejus. Ex quibus præmissis hanc infert
+illationem (16) : Et nos igitur ex voluntate illius,
+scil. Dei, in Christo Jesu vocati, non per nosmetipsos
+justi efficimur ; neque per sapientiam nostram, aut
+intelligentiam, aut pietatem, aut opera, quæ in cor-
+dis sanctitate operati sumus ; sed per fidem, per
+
+# block=4
+Secundo omnes conatus humanos, et ipsa etiam
+pietatis opera, si in se ipsis spectentur, et sejuncta
+a fide, per quam vivificantur, nequaquam sufficere
+ad justificationem promerendam : Οὐ δι’ ἑαυτῶν
+δικαιούμεθα, οὐδὲ διὰ τῆς ἡμετέρας σοφίας, ἢ συν-
+έσεως, ἢ εὐσεβείας, ἢ ἔργων ὧν κατειργασάμεθα
+ἐν ὁσιότητι καρδίας.
+
+# block=5
+Christus pro omnibus mortuus. — Sanguinem
+Christi pro totius mundi salute effusum esse, quin
+ab hac gratia mortalium ullus excipiatur, sanctus
+hic pontifex diserte affirmat (11) : Fixis oculis, re-
+spiciamus in sanguinem Christi, cernamusque, quam
+pretiosus sit ejus sanguis, qui propter nostram salu-
+tem effusus toti mundo pœnitentiæ gratiam attulit.
+
+# block=6
+quam cunctos, qui unquam justi fuerunt, justificavit.
+Sanctus Pater tradit hic conjunctim egregias tres ve-
+ritates ; primo nostram vocationem ad fidem esse
+gratuitam ex parte Dei, cum sit effectus bonæ vo-
+luntatis suæ, ac misericordiæ erga nos : Καὶ ἡμεῖς
+οὖν διὰ θελήματος αὐτοῦ κληθέντες.
+
+# block=7
+Fatendum nihilominus est, in allato textu non-
+nulla verba haberi, quæ possent lectorem morari,
+nisi perfecte calleat vera sancti Clementis princi-
+pia. Hæc autem verba haud ita perspicua sunt,
+quæ sequuntur : Opera, quæ in cordis sanctitate
+(ἐν ὁσιότητι τῆς καρδίας) operati sumus ! Ex quibus
+inferre quis potest, sanctum hunc pontificem reji-
+cere meritum bonorum operum. Immerito autem
+hanc illationem quis inferret ; et hoc esset recedere
+a mente sancti Pontificis, qui non in uno loco et
+meritum et necessitatem bonorum operum fatetur.
+Quid igitur faciemus, fratres ? sanctus ait ille post
+allata superius verba (17) ; cessabimus a bonis ope-
+ribus, et charitatem derelinquemus ? Neutiquam hoc
+a nobis fieri permittat Dominus ; sed cum diligentia
+et alacritate festinemus omne opus perficere..... vi-
+deamus, quod in bonis operibus ornati fuerint omnes
+justi. Et ipse ergo Dominus, cum se operibus decoras-
+set, gavisus est. Habentes itaque hoc exemplar, im-
+pigre ad voluntatem ejus accedamus ; ex totis viribus
+nostris operemur opus justitiæ. Et paucis interje-
+ctis, sic concludit (18) : Oportet ergo nos ad bonum
+faciendum prompto animo esse : ex hoc enim omnia
+constant. Sufficiant hæc, ut omnibus innotescat,
+quid sanctus Clemens senserit de merito et neces-
+sitate bonorum operum. Cæterum quando dicit,
+nos per bona opera non venire ad justificationem,
+id unice intendit, bona pietatis opera in se ipsis
+accepta, et fidei spiritu destituta, sicuti superius
+diximus, operari non posse nostram justificatio-
+nem, et ex sola fide, qua opera nostra vivifican-
+tur, effectum hunc posse exspectari. Hoc pacto
+sanctus Pontifex satis superque comprobat excel-
+lentiam, et efficaciam fidei Christianæ.
+
+# block=8
+Tertio per fidem nos justos effici, et fidem hanc
+omni tempore ad salutem necessariam fuisse ;
+quippe per hanc Deus justificavit cunctos qui un-
+quam justi fuerunt : Ἀλλὰ διὰ τῆς πίστεως, δι’ ἧς
+πάντας τοῦ ἀπ’ αἰῶνος ὁ παντοκράτωρ Θεὸς ἐδικαίωσεν.
+
+# block=9
+(9) Clem. Rom., epist. 2, cap. 4.
+(10) Idem, ep. 1, cap. 49.
+(11) Idem, ibid., cap. 7.
+(12) Epist. 2, cap. 1.
+(13) Ibid., cap. 6 et 7.
+
+# block=10
+neque obtrectando invicem, neque æmulando ; sed vi-
+vendo in continentia, misericordia, et bonitate, etc.
+(θ) Hæc agendo acceptorum beneficiorum memores
+erimus vere, sicuti Christianos decet.
+
+# block=11
+(14) Epist. 2, cap. 11.
+(15) Epist. 1, cap. 32.
+(16) Ibid.
+(17) Ibid., cap. 33.
+(18) Ibid., cap. 34.
+
+# block=12
+²² Isai. LXVI, 24. ²³ Isai. LXIV, 4 ; et I Cor. II, 9.
+
+# block=13
+AD S. CLEMENTEM I PAPAM
+
+# block=14
+163
+
+# block=15
+164

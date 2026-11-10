@@ -1,0 +1,188 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,234,752,996,1812
+2,1030,694,1794,1568
+3,236,1814,990,2114
+4,232,2272,985,2705
+5,1007,2279,1771,2676
+6,262,149,1010,483
+7,1020,1569,1772,2118
+8,1038,149,1787,700
+9,816,90,1219,125
+10,853,2210,1156,2244
+13,265,94,339,129
+14,269,2134,501,2166
+19,1718,90,1794,126
+28,246,480,1012,754
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=19 fontSize=15px
+# block=28 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=9
+RECOGNITIONUM LIB. V.
+
+# block=19
+1342
+
+# block=13
+1341
+
+# block=6
+longe erretis. Cæsari, ejusdem licet naturæ homi-
+nem cujus ipse est, conferri tamen neminem licet ;
+Deo, qui hoc ipso quod a nullo factus, sed ipse fecit
+omnia, cuncta supereminet, conferri debere aliquem
+creditis? Sed Cæsaris quidem nomen nulli alii au-
+detis imponere, quia reum suum statim punit ; Dei
+vero audetis, quia reum suum punire propter
+pœnitentiam differt ?
+
+# block=8
+rum erat in hoc mundo. Quid enim est quod reli-
+quistis, quod non adorastis? solem, lunam, stellas,
+aquam, terram, montes, arbores, lapides, homines,
+nihil horum est quod non adorastis. Oportuit ergo
+juxta vocem vestram nihil horum fieri a Deo, ne
+haberetis quod possetis adorare; sed ne homines
+quidem ipsos esse oportuit, qui adorarent. Vere
+hoc est quod desiderat ille qui intra vos latet ser-
+pens, nulli vestrum parcit, nullum vult effugere de
+interitu; sed non ita erit. Audite enim, quia non
+delinquit illud quod adoratur, sed ille qui adorat.
+Justum namque est apud Deum judicium, et aliter
+injuriam patientem judicat, aliter inferentem.
+
+# block=28
+XXIII. Per alios item serpens ille proferre verba
+hujuscemodi solet : Nos ad honorem invisibilis Dei
+imagines visibiles adoramus; quod certissime fal-
+sum est. Si enim vere velitis Dei imaginem colere,
+homini benefacientes veram in eo Dei imaginem co-
+leretis. In omni enim homine est imago Dei, non in
+
+# block=2
+XXV. Sed dicis : Oportebat ergo eos qui adorant
+quod non licet adorari, statim perimi a Deo, ne et
+alius hoc faceret. Sed nonne es tu prudentior Deo,
+ut ei consilia suggeras ᵃ? scit ille quid faciat. Om-
+nibus etenim in ignorantia positis patientiam præ-
+stat, quia misericors et pius est, et prævidet, quia
+ex impiis multi efficiuntur pii, et ex ipsis qui im-
+pura figmenta et pollutas imagines venerantur, non-
+nulli conversi ad Deum, et revocantes se a peccatis
+et agentes bona opera, perveniunt ad salutem. Sed
+debuimus, inquit, omnino nec ad cogitationem is-
+tam venire, ut hæc faceremus. Ignoratis quid est
+libertas arbitrii, et latet vos quia ille vere bonus
+est, qui suo proposito bonus est; qui autem neces-
+sitate retinetur in bono, bonus non potest dici, quia
+non est suum quod est. Quia ergo in unoquoque
+libertas est in electione bonorum vel malorum, ipse
+sibi vel præmia vel interitum quærit. Imo, inquit,
+quidquid cogitamus, Deus nobis adducit ad men-
+tem. Quid agitis, o homines? blasphematis; si enim
+
+# block=1
+omnibus vero similitudo, sed ubi benigna anima
+est et mens pura (24). Si ergo vere vultis honorare
+imaginem Dei, nos vobis quod verum est aperimus,
+ut homini qui ad imaginem Dei factus est benefa-
+ciatis, honorem et reverentiam deferatis, esurienti
+cibum, sitienti poculum, nudo indumentum, ægro
+ministerium, peregrino hospitium, et in carcere
+posito necessaria ministretis, et hoc est quod vere
+Deo delatum reputabitur. Hæc autem in tantum ad
+honorem Dei imaginis cedunt, ut qui ista non fece-
+rit, contumeliam imagini divinæ intulisse credatur.
+Quis ergo iste honor Dei est, per lapideas et ligneas
+formas discurrere, et inanes atque exanimes figuras
+tanquam numina venerari, et hominem in quo vere
+imago Dei est spernere? imo potius certi estote,
+quod qui homicidium facit aut adulterium, et quid-
+quid in hominum pœnam vel injuriam geritur, in
+his omnibus Dei imago violatur. Magna enim im-
+pietas in Deum est, lædere hominem : omne ergo
+quod ipse pati non vis, cum facis alii, imaginem Dei
+iniquis mœroribus fœdas. Intelligite ergo, quia la-
+tentis intrinsecus serpentis est ista suggestio, quæ
+persuadet pios vos videri posse, cum insensibilia
+colitis, et non videri impios, cum sensibiles et ra-
+tionabiles læditis.
+
+# block=7
+omne quod cogitamus, ipse nobis adducit ad men-
+tem, ipse ergo nobis cogitationes adulterii suggerit,
+et avaritiæ, et blasphemiæ, omnisque luxuriæ? De-
+sinite, quæso, ab hujusmodi blasphemiis, et qui sit
+Deo dignus honor intelligite. Nec dicatis, ut solent
+quidam vestrum, quia Deus mortalium honore non
+indiget. Ille quidem vere nullius indiget, sed vos
+debetis agnoscere, quia vobis prodest honor quem
+Deo defertis. Quid enim tam execrabile, quam si
+gratiam referre nesciat homo proprio conditori?
+XXVI. Sed melius, inquit, facimus nos, qui et ipsi
+et omnibus cum ipso gratias agimus. In hoc sub-
+versionem salutis vestræ non intelligitis. Tale est
+
+# block=3
+XXIV. Sed ad hæc alio nobis serpens ore respon-
+det et dicit : Si nolebat hæc esse Deus, utique non
+erant. Nondum vobis dico, quomodo ad uniuscujus-
+que mentis probationem in hoc mundo permittun-
+tur esse multa contraria; sed illud est quod nunc
+interim convenit dici, si secundum vos omne quod
+adorandum erat esse non debuit, nihil pene futu-
+
+# block=14
+ᵃ¹ Rom. xi, 34.
+
+# block=10
+COTELERII NOTÆ.
+
+# block=4
+(24) In omni enim homine.... et mens pura. Cle-
+mentin. x, 7. Juxta sententiam B. Maximi cen-
+turia 3, De charitate, n. 25 : Κατ' εἰκόνα μὲν, πᾶσα
+φύσις λογική ἐστι τοῦ Θεοῦ. Καθ' ὁμοίωσιν δὲ, μόνοι
+ἀγαθοὶ καὶ σοφοί. A non paucis tamen imago et si-
+militudo Dei in homine, idem esse putantur.
+Emenda obiter Isidorum Hispalensem, libro De or-
+dine creaturarum, cap. ult., tom. I Spicilegii Ache-
+riani p. 306 : Si enim de semetipso eam (animam)
+Deus fecisset, nequaquam passibilis et mutabilis et
+misera esset. Item si ex creaturis corporalibus illam
+creasset, et corporale aliquid in sua natura haberet;
+aut, inanam (male nunquam), calorem de ignea, aut
+
+# block=5
+flatum ex aerea, aut humorem ex aquatica, aut cras-
+situdinem et soliditatem ex terrena materia haberet;
+sed quia his omnibus caret, incorpoream illam esse
+conditam convenit; et per ipsam incorporalitatem, et
+æternitatem, et mutabilitatem, et liberi arbitrii po-
+testatem, eamdem cum angelis habere substantiam
+creandique ordinem dignoscitur. Hæc autem, Dei
+imago non [leg. imaginem] in æternitate, similitudi-
+nem in arbitrio libero (sic restituo) possidet : de
+qua imaginis Dei similitudine impressa propheta com-
+memorat, dicens: «Signatum super nos lumen vultus
+tui. »

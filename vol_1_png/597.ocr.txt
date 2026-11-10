@@ -1,0 +1,221 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,957,1839,1721,2708
+2,159,1827,931,2707
+3,955,1444,1713,1657
+4,163,1444,925,1654
+5,157,439,921,996
+6,157,139,919,367
+7,986,1221,1670,1298
+8,205,1220,883,1294
+9,169,1371,910,1436
+10,952,1373,1709,1439
+11,1078,1103,1588,1162
+12,200,1695,799,1729
+13,951,264,1712,433
+14,763,1767,1068,1803
+15,1197,1318,1459,1351
+16,956,828,1716,1000
+17,948,525,1713,694
+18,950,740,1705,822
+19,948,439,1713,519
+20,963,137,1704,259
+22,419,1317,662,1350
+23,274,1094,808,1156
+24,158,82,217,126
+25,1635,78,1705,120
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=16px
+# block=8 fontSize=16px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=25px centerRows=true
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=16px
+# block=22 fontSize=15px
+# block=23 fontSize=25px centerRows=true
+# block=24 fontSize=16px
+# block=25 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=25
+594
+
+# block=24
+593
+
+# block=20
+LVII. Descriptio ecclesiæ, et cleri; et quid facere
+debeat unusquisque clericus vel laicus, in sy-
+naxi congregatus.
+
+# block=6
+νζ'. Διατύπωσις ἐκκλησίας καὶ κλήρου, καὶ τί
+ἕκαστος ἐπιτελεῖν ὀφείλει τῶν συναθροιζομένων
+κληρικῶν ἢ λαϊκῶν, ἐν τῇ συνάξει.
+νη'. Περὶ συστατικῶν, ἤτοι ξένων, λαϊκῶν, κλη-
+ρικῶν, ἐπισκόπων· καὶ ὡς οὐ χρεία διαφορεῖν.
+
+# block=13
+LVIII. De hominibus commendatis, peregrinis sci-
+licet, laicis, clericis, aut episcopis ; et quod sine
+differentia sint recipiendi qui ecclesiam ingre-
+diuntur.
+
+# block=5
+νθ'. Ὅτι χρὴ ἕκαστον ὄρθρου καὶ ἑσπέρας σπου-
+δαῖον εἶναι περὶ τὰς συνάξεις.
+ξ'. Παράδειγμα πρὸς ζῆλον ἐνάγον. Ἡ Ἑλλήνων
+καὶ Ἰουδαίων μάταιος συνδρομὴ ἐπὶ τοὺς νεὼς
+καὶ τὰς συναγωγάς.
+ξα'. Ὅτι οὐχ ὅσιον προκρίνειν τὰ βιωτικὰ τῶν
+θείων.
+ξβ'. Ὅτι πάντα τὰ Ἑλλήνων ἀσεβήματα ἀπο-
+στρέφεσθαι χρή.
+ξγ'. Ὅτι ἀργὸν οὐ χρὴ ἐσθίειν τινὰ τῶν πιστῶν·
+ὡς οἱ περὶ Πέτρον ἁλιεῖς, καὶ οἱ λοιποὶ ἀπό-
+στολοι, οἱ δὲ περὶ Παῦλον καὶ Ἀκύλαν σκηνο-
+ποιοί, οἱ δὲ περὶ Ἰούδαν Ἰακώβου γῆς ἐργάται.
+
+# block=19
+LIX. Quod debeat unusquisque mane et vespere
+collectarum esse studiosus.
+
+# block=17
+LX. Exemplum ad æmulationem inducens; vanus
+Gentilium, et Judæorum ad delubra et synagogas
+concursus.
+LXI. Quod non sit fas anteponere divinis sæcularia.
+
+# block=18
+LXII. Quod oporteat omnes impietates gentilium
+aversari.
+
+# block=16
+LXIII. Quod inter fideles qui otiosus fuerit, non de-
+beat comedere : Petrus enim fuit piscator, et re-
+liqui apostoli; Paulus autem et Aquila artifices
+tabernaculorum; Judas vero Jacobi, agricola.
+
+# block=23
+ΒΙΒΛΙΟΝ ΔΕΥΤΕΡΟΝ.
+
+# block=11
+LIBER SECUNDUS
+
+# block=8
+ΠΕΡΙ ΕΠΙΣΚΟΠΩΝ, ΠΡΕΣΒΥΤΕΡΩΝ ΚΑΙ
+ΔΙΑΚΟΝΩΝ
+
+# block=7
+DE EPISCOPIS, PRESBYTERIS ET DIA-
+CONIS.
+
+# block=22
+ΚΕΦΑΛΑΙΟΝ Α'.
+
+# block=15
+CAPUT PRIMUM.
+
+# block=9
+Ὅτι χρὴ τὸν ἐπίσκοπον εἶναι πεπαιδευμένον, καὶ
+ἔμπειρον τοῦ λόγου.
+
+# block=10
+Quod oporteat episcopum esse eruditum et in sermone
+exercitatum.
+
+# block=4
+Περὶ δὲ τῶν ἐπισκόπων ἠκούσαμεν (86) παρὰ τοῦ
+Κυρίου ἡμῶν, τὸν ποιμένα τὸν καθιστάμενον ἐπίσκο-
+πον εἰς τὰς ἐκκλησίας ἐν πάσῃ παροικίᾳ, δεῖ ¹⁷ ὑπάρ-
+χειν ἀνέγκλητον, ἀνεπίληπτον, ἀνέπαφον πάσης ἀδι-
+κίας ἀνθρώπων, οὐκ ἔλαττον (87) ἐτῶν πεντήκοντα·
+
+# block=3
+De episcopis vero ex Domino nostro audivimus,
+eum qui pastor et episcopus in aliqua Ecclesia et pa-
+rœcia sit constitutus, oportere esse sine crimine ¹⁸,
+irreprehensibilem ¹⁹, ab omni humana iniquitate li-
+berum , nec minorem annis quinquaginta ; tunc
+
+# block=12
+¹⁷ f. δεῖν. ¹⁸ Tit. I, 7. ¹⁹ I Tim. III, 2.
+
+# block=14
+VARIORUM NOTÆ.
+
+# block=2
+(86) Ἠκούσαμεν. In utroque οὕτως ἠκούσαμεν.
+Melius. CLER.
+(87) Οὐκ ἐλάττονα (sic lego) ἐτῶν πεντήκοντα.
+Minus ut habeat admirationis Constitutio , facit hoc
+Siricii Decretum epist. I, cap. 9 : Quicunque se Ec-
+clesiæ vovit obsequiis , a sua infantia ante pubertatis
+annos baptizari, et lectorum debet ministerio sociari ;
+qui ab accessu adolescentiæ usque ad tricesimum
+ætatis annum , si probabiliter vixerit, una tantum
+et ea quam virginem communi per sacerdotem bene-
+dictione perceperit, uxore contentus; acolythus et
+subdiaconus esse debebit ; post quæ ad diaconii gra-
+dum, si seipse primitus continentia præeunte dignum
+probarit, accedat ; ubi si ultra quinque annos lauda-
+biliter ministraverit, congrue presbyterium consèque-
+tur : et exinde post decennium episcopalem cathedram
+poterit adipisci; si tamen per hæc tempora integritas
+vitæ ac fidei ejus fuerit approbata. Cui adjiciet qui
+volet canonem supposititium Sylvestri papæ. In Ca-
+nonibus Hiberniæ , Spicilegio 9, p. 4 : Presbyter
+anno tricesimo, episcopus vel tricesimo, vel quadra-
+gesimo, vel quinquagesimo sacerdos efficiatur; item :
+quadragesimo anno presbyter , quinquagesimo Epi-
+scopus stet. Gregorius M. , Dialogorum libro II,
+cap. 2 : Per Moysem in Exodo (Duæ hæ voces recte
+absunt a versione Græca et a mss tum duobus
+
+# block=1
+Regiis,tum uno V. Cl. Claudii Jolii, canonici Pari-
+siensis. Neque enim ad Exodum, sed ad Numeros
+respicit summus pontifex) præcipitur, ut levitæ a
+viginti quinque annis et supra ministrare debeant;
+ab anno vero quinquagesimo custodes vasorum fiant...
+Liquet quod in juventute carnis tentatio ferveat , ab
+anno autem quinquagesimo calor corporis frigescat :
+vasa autem sacra sunt fidelium mentes. Electi ergo
+cum adhuc in tentatione sunt , subesse eos ac servire
+necesse est,et obsequiis laboribusque fatigari. Cum vero
+jam mentis ætate tranquilla calor recesserit tentatio-
+nis ; custodes vasorum sunt, quia doctores animarum
+fiunt. Quanquam canonibus multis et edictis prin-
+cipum requiratur solummodo ad episcopatum sus-
+cipiendum ætas annorum triginta, vel triginta quin-
+que, vel supra triginta : necessitate ac summa
+virtute semper exceptis; quemadmodum docetur,
+de necessitate , in Epistola Zachariæ papæ ad Bo-
+nifacium archiepiscopum decima tertia, et in con-
+cilio Lateranensi sub Alexandro III , cap. III, de
+eximia virtute, exemplis præcipue S. Eleutherii Il-
+lyrici apud Nicephorum Histor. lib. III, cap. 29, et
+S. Remigii Remensis in Vita illius ; quorum pri-
+mus annum agens 20, alter 22, ad summum sacerdo-
+tium provecti fuere. Ἀλλ’ οὐ νόμος ἐκκλησίας, τὸ
+σπάνιον, præclara est B. Gregorii Theologi senten-

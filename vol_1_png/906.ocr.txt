@@ -1,0 +1,180 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1023,1570,1781,2307
+2,239,524,997,1996
+3,1035,823,1799,1132
+4,235,2007,990,2346
+5,233,2475,984,2684
+6,1019,2478,1772,2682
+7,252,131,1007,509
+8,659,75,1387,112
+9,844,2405,1152,2441
+10,1047,2311,1773,2349
+11,1722,86,1791,123
+12,240,66,342,110
+13,1043,130,1805,350
+14,1043,354,1795,570
+15,1039,570,1797,826
+16,1031,1139,1785,1557
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=13
+omnipotens abscondit a vobis voluntatem suam, quos
+agnitione sui prævidit indignos, sicut ex his quæ
+nunc agitis, sanum sapientibus palam est. Nam cum
+videatis prædicatores voluntatis Dei advenisse, quia
+nullam sermo eorum grammaticæ artis scientiam
+
+# block=7
+indicaret. Quibus ego auditis, cum reliqua multitu-
+dine sequi eum cœpi et audire, quæ diceret. Intel-
+ligebam sane quod nihil dialecticæ artis esset in
+homine, sed simpliciter et absque ullo dicendi fuco,
+quæ audisset a Filio Dei vel vidisset, exponeret.
+Assertiones enim suas non argumentorum virtute
+muniebat, sed verborum et mirabilium, quæ an-
+nuntiabat, testes multos, ex ipso etiam circum-
+stante populo, producebat.
+
+# block=14
+profitetur, sed simplicibus et impolitis sermonibus
+perferunt ad vos divina mandata, ita ut omnes qui
+audiunt, sequi possint et intelligere quæ dicuntur;
+ridetis salutis vestræ ministros et nuntios, ignoran-
+tes quia vestra, qui vobis periti et eloquentes vi-
+
+# block=2
+VIII. Verum quoniam ad ea, quæ sincere dice-
+bantur, libenter annuere populus et amplecti ser-
+monem simplicem cœpit, hi qui sibi eruditi vide-
+bantur vel philosophi, ridere hominem ac spernere
+cœpere, et syllogismorum in eum tendiculas velut
+validissima arma proferre. At ille interritus et vel-
+ut deliramenta argutias eorum ducens, ne respon-
+sione quidem dignos judicabat, sed ea quæ propo-
+suerat, exsequebatur intrepidus. Denique cum lo-
+quenti ei quidam proposuisset, cur ita factus esset
+culex (12), ut cum sit animal exiguum, et sex ha-
+beat pedes, insuper additæ sint ei et alæ, elephan-
+tus verò cum sit immane animal neque alas habeat,
+quatuor tantum pedes habeat : ad hæc ille ne respi-
+ciens quidem, sermonem suum, quem importuna
+propositio interruperat, continuata intentione per-
+agebat, hac sola admonitione per singulas quasque
+interrupciones addita : Nos ejus qui misit nos ver-
+ba factaque mirabilia annuntiare vobis in manda-
+tis habemus, fidemque eorum quæ dicimus, non ex
+argumentis arte quæsitis, sed ex vobis ipsis pro-
+ductis testibus confirmare. Agnosco enim plurimos
+astare in medio vestrum ex his, quos una nobiscum
+memini audisse quæ audivimus, et vidisse quæ vi-
+dimus. Sit autem in vestra potestate, vel recipere
+quæ annuntiamus, vel spernere. Nos enim quod ex-
+pedire vobis novimus, tacere non possumus, quia
+nobis, si taceamus, damnum est, vobis verò, quæ
+dicimus, si non recipiatis, pernicies. Sed et stultis
+propositionibus vestris respondere perfacile possim,
+si veritatis discendæ causa quæreretis, de culicis
+dico atque elephantis differentia ; sed nunc de crea-
+turis dicere vobis aliquid absurdum est, cum à vo-
+bis ipse omnium Creator et Conditor ignoretur.
+
+# block=15
+demini, condemnatio est, quod apud agrestes et bar-
+baros habetur veritatis agnitio. Quæ cum ad vos ad-
+venerit, nec quasi hospita suscipitur, quæ nisi in-
+temperantia vestra et libido obsisteret, civis esse et
+vernacula debuisset ; ut ex his arguamini, quod non
+veritatis amici et philosophi, sed jactantiæ secta-
+
+# block=3
+tores, et vaniloqui estis; qui veritatem non in sim-
+plicibus verbis, sed in versutis et callidis creditis
+habitare, et innumerabilia verborum profertis, unius
+verbi nequaquam pretio pensitanda: Quid ergo pu-
+tatis futurum de vobis, vos o omnis turba Græco-
+rum, si erit judicium Dei, sicut iste dicit? Sed nunc,
+omittentes ridere in perniciem vestri virum hunc,
+
+# block=16
+respondeat mihi qui vult ex vobis, quoniam quidem
+solo latratu vestro obturbatis etiam eorum aures,
+qui salvi esse volunt, et mentes quæ ad fidem pa-
+ratæ sunt, ad infidelitatis lapsum vestris obturba-
+tionibus declinatis : quæ vobis erit unquam venia,
+qui Divinitatis nuntium, promittentem vobis agni-
+tionem Dei, ridetis et injuriis afficitis ? quem utique
+etiamsi nihil veritatis afferret, pro ipso tamen be-
+nignitatis erga vos proposito, gratum acceptumque
+habere deberetis.
+
+# block=1
+X. Hæc et his similia cum prosequerer, plurimus
+astantis populi fremitus concitabatur, dum alii vel-
+ut erga hospitem miseratione moverentur, meum-
+que sermonem ut consequenter habitum probarent,
+alii petulantes et stolidi, in me quoque pariter, ut
+in Barnabam, effrenati animi iracundiam concita-
+rent. Sed cum ad vesperam jam declinaret dies, ap-
+prehensa Barnabæ dextera, obluctantem licet eum,
+ad meam tamen adduxi domum, atque ibi manere
+feci, ne quis forte ex indocili vulgo injiceret ei ma-
+nus. Aliquantulis igitur diebus una positi, disseren-
+te eo [paucis], sermonem veritatis libenter audie-
+bam; urgebat tamen profectionem, dicens se diem
+festum religionis suæ, qui immineret, omnimodis
+apud Judæam celebraturum, ibique de reliquo cum
+suis civibus ac fratribus permansurum, evidenter
+indicans injuriæ se horrore perculsum.
+
+# block=4
+IX. Hæc autem cum dixisset, velut ex uno con-
+sensu, indisciplinato ore omnes simul risum dede-
+re, incutere ei verecundiam ac silentium imponere
+cupientes, barbarumque et minus sanæ mentis eum
+acclamantes. Ego vero cum hæc ita fieri cernerem,
+zelo quodam nescio unde repletus, ac religioso fu-
+rore succensus, silere non potui, sed cum omni li-
+bertate proclamans : Rectissime Deus, inquam ,
+
+# block=10
+XI. Denique cum ego dicerem: Tu mihi tantum
+
+# block=9
+COTELERII NOTÆ.
+
+# block=5
+(12) Cur ita factus esset culex. Hieronymus, l. 1
+adversus Pelagianos, 7 : Elephanti tantæ molis, et
+gryphes in sua gravitate causentur, cur quaternis pe-
+dibus incedant, cum muscæ culicesque, et cætera
+hujusmodi animantia sub pennulis senos pedes ha-
+beant ; et aliqui vermiculi sint , qui tantis pedibus
+
+# block=6
+scateant, ut innumerabiles simul motus nulla acies
+comprehendat. Et III, contra Rufinum, 8 : Ergo nisi
+tibi rationem reddidero, quare formica, parvum ani-
+mal et punctum, ut ita dicam, corporis, sex pedes ha-
+beat ; cum elephantus, tanta moles, quatuor pedibus
+incedat.

@@ -1,0 +1,169 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1021,2380,1779,2584
+2,1020,2579,1766,2688
+3,224,1400,988,2228
+4,670,74,1398,116
+5,844,2325,1149,2367
+6,255,72,313,115
+8,1734,79,1797,126
+10,227,2385,978,2523
+12,222,2515,983,2691
+13,227,2233,1769,2315
+14,1033,140,1810,873
+15,225,138,1003,1402
+16,1019,878,1787,2224
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+ἀνακολούθοις aliisque vitiis sermonis abundans.
+Quamobrem hic coactus sum non tam ad verba at-
+tendere, quam ad sensum, et ad textum Numero-
+rum, qui carptim citatur. Atque simili modo fa-
+ciendum sæpe fuit interpretibus hujusce operis.
+Cot.
+
+# block=2
+(74) Ἀρχὴ ὀνόματος Ἰησοῦ. Forsitan iste locus
+occasionem præbuerit S. Epiphanio ita scribendi
+hæresi 8, sectione 6 : Καὶ ἦν ἐκεῖ ἀποδεκάτωσις
+
+# block=3
+« Omnes primitiæ olei , et vini , et frumenti ,
+quæcunque dederint Domino , tibi dedi ea : omnes
+primitias frugum tibi dedi. His accedit omnis con-
+secratio. Præterea omne hominis ac pecudis sive
+mundæ sive immundæ primogenitum : item victimæ,
+earumque pectusculum ac brachium dextrum , ad
+sacerdotes pertinent, et ad levitas reliquos, eorum
+comites⁹² . » Audite hæc vos etiam laici , electa Dei
+Ecclesia. Nam et prior populus, « Dei populus , » et
+« gens sanctα ⁹³ » vocabatur. Et vos igitur estis sa-
+crosancta Dei Ecclesia conscripta in cœlis, « regale
+sacerdotium, gens sancta, populus acquisitionis ⁹⁴, »
+sponsa ornata Domino Deo. Ecclesia magna , Ec-
+clesia fidelis , auribus percipe quæ prius dicta fue-
+runt : exceptitia , et decimæ , et primitiæ Christo
+pontifici et ministris ejus : decimæ salutaris, prin-
+cipium nominis Jesu. Audi, sacra catholica Eccle-
+sia, quæ decem illas plagas effugisti, et decem illos
+sermones seu Decalogum accepisti, et legem didi-
+
+# block=4
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=5
+VARIORUM NOTÆ.
+
+# block=6
+663
+
+# block=8
+664
+
+# block=10
+(69) Ὡσαύτως. Bene conjecit Cotelerius ὡς αὐτός.
+Sic enim legitur in altero cod. Vind. Cot.
+(70) Μὴ γὰρ νόμιζε. Idem μὴ νομίζετε, non male.
+IDEM.
+
+# block=12
+(71) Πάντων. Deest in altero ms. Vind. Id.
+(72) Φάγεσθε. Idem habet φάγεσθαι, hoc est, ut
+comedantur a vobis. Id.
+(73) Καὶ θυσίας. Non sine causa Photio critico-
+rum maximo displicuit Constitutionum phrasis ,
+
+# block=13
+⁸⁹ L. Ὡς αὐτάς. ⁹⁰ Is. liii, 4, 12. ⁹¹ Num. xviii, 1, 8. ⁹² Ibid. 12. ⁹³ Exod. xix, 5, 6. ⁹⁴ Hebr.
+xii, 23; I Pet. ii, 9.
+
+# block=14
+καρποῦσθε. Μιμηταὶ γάρ ἐστε Χριστοῦ τοῦ Κυρίου·
+καὶ ὡσαύτως ⁸⁹ (69) πάντων τὰς ἁμαρτίας ἀνήνεγκεν
+ἐπὶ τὸ ξύλον, σταυρωθεὶς ὁ ἄμωμος ὑπὲρ τῶν κολά-
+σεως ἀξίων, οὕτω καὶ ὑμᾶς τοῦ λαοῦ τὰς ἁμαρτίας
+ἐξιδιοποιεῖσθαι χρή· εἴρηται γὰρ περὶ τοῦ Σωτῆρος ἐν
+Ἠσαΐᾳ, ὅτι « Οὗτος τὰς ἁμαρτίας ἡμῶν φέρει, καὶ
+περὶ ἡμῶν ὀδυνᾶται. » Καὶ πάλιν· « Αὐτὸς ἁμαρτίας
+πολλῶν ἀνήνεγκε, καὶ διὰ τὰς ἀνομίας αὐτῶν παρ-
+εδότη. » Ὥσπερ οὖν ὑμεῖς σκοποί ἐστε, οὕτω καὶ σκο-
+πὸν ἔχετε τὸν Χριστόν· ὡς οὖν αὐτὸς πάντων ὑμῶν,
+οὕτω καὶ ὑμεῖς τῶν ὑφ᾽ ὑμᾶς λαϊκῶν. Μὴ γὰρ νό-
+μιζε (70), ὅτι εὐχερὲς ἢ ἐλαφρὸν φορτίον ἐστὶν ἡ ἐπι-
+σκοπή. Χρὴ οὖν ὡς τὸ βάρος φέρετε, οὕτως καὶ τῶν
+καρπῶν πρώτους μεταλαμβάνειν, καὶ τοῖς δεομένοις
+μεταδιδόναι, ὡς λόγον ὑφέξοντες τῷ ἀπαραλογίστως
+ὑμᾶς μέλλοντι λογιστεύειν. Δεῖ γὰρ τοὺς τῇ Ἐκκλη-
+σίᾳ προσεδρεύοντας, ἐκ τῆς ἐκκλησίας διατρέφεσθαι,
+
+# block=15
+omnium nostrum peccata in ligno crucis portavit,
+immaculatus pro merentibus supplicium crucifixus;
+ita et vos plebis peccata vindicare oportet; cum de
+Salvatore in Isaia dictum sit : « Iste peccata nostra
+portat, et pro nobis dolet⁹⁰; » et post : « Ipse pec-
+cata multorum tulit, et propter iniquitates eorum
+traditus est. » Ut ergo vos scopi estis, ita et Chri-
+stum scopum habetis ; et ut ille omnium vestrum
+exemplar est, ita et vos laicorum quibus præestis.
+Non enim existimandum est, episcopatum facile ac
+leve onus esse. Quocirca sicut pondus fertis ; sic et
+decet ut primi fructus percipiatis, quos cum egen-
+tibus communicetis; utpote rationem reddituri ei
+qui cum ratiocinator vester sederit, nulla ratione
+poterit seduci. Oportet itaque eos , qui Ecclesiæ as-
+siduo incumbunt, ex Ecclesiæ bonis nutriri, quippe
+sacerdotes, levitas, præsides, Dei ministros ; sicut
+in Numerorum libro de sacerdotibus scriptum re-
+peritur. « Et dixit Dominus ad Aaronem : Tu, et fi-
+lii tui, et domus patria tua, accipietis peccata san-
+ctuarii, et sacerdotii vestri. Ecce dedi vobis custo-
+diam primitiarum ; de omnibus quæ sanctificata sunt
+mihi a filiis Israel, tibi dedi ea , in honorem, et fi-
+liis tuis post te, legitimum sempiternum. Et hoc erit
+vobis de sanctificatis, de oblationibus, et de mune-
+ribus , et de omnibus sacrificiis , et de omni de-
+licto , et de peccatis : et quæcunque reddunt
+mihi de omnibus sanctis , tibi erunt ac filiis
+tuis. In sancto comedetis illa ⁹¹ . » Et paulo post :
+
+# block=16
+ἅτε ἱερεῖς, λευίτας , προέδρους, λειτουργοὺς Θεοῦ ·
+καθὼς ἐν βίβλῳ τῶν Ἀριθμῶν γέγραπται περὶ τῶν ἱε-
+ρέων· « Καὶ εἶπε Κύριος πρὸς Ἀαρών· Σὺ, καὶ οἱ υἱοί
+σου, καὶ ὁ οἶκος πατριᾶς σου λήψεσθε τὰς ἁμαρτίας
+τῶν ἁγίων, τῆς ἱερατείας ὑμῶν. Ἰδοὺ δέδωκα ὑμῖν
+τὴν διατήρησιν τῶν ἀπαρχῶν· ἀπὸ πάντων τῶν ἡγια-
+σμένων μοι παρὰ τῶν υἱῶν Ἰσραὴλ, σοὶ δέδωκα αὐτά
+εἰς γέρας, καὶ τοῖς υἱοῖς σου μετὰ σὲ, νόμιμον αἰώ-
+νιον. Καὶ τοῦτο ἔσται ὑμῖν ἀπὸ τῶν ἡγιασμένων, ἐκ
+τῶν καρπωμάτων, καὶ ἀπὸ τῶν δώρων, καὶ ἀπὸ πάν-
+των (71) τῶν θυσιῶν, καὶ ἀπὸ πάσης πλημμελείας, καὶ
+περὶ ἁμαρτιῶν· καὶ ὅσα ἀποδιδόασί μοι ἀπὸ πάντων
+τῶν ἁγίων, σοὶ ἔσται καὶ τοῖς υἱοῖς σου. Ἐν τῷ ἁγίῳ
+φάγεσθε (72) αὐτά. » Καὶ μετ᾽ ὀλίγα· « Πᾶσα ἀπαρχὴ
+ἐλαίου καὶ οἴνου καὶ σίτου , ὅσα ἂν δῶσι Κυρίῳ , σοὶ
+δέδωκα αὐτά· καὶ τὰ πρωτογεννήματα πάντα σοὶ δέ-
+δωκα. Καὶ συνέρρει πᾶν ἀνάθεμα· πᾶν πρωτότοκον
+ἀνθρώπου καὶ κτήνους καθαροῦ καὶ ἀκαθάρτου , καὶ
+θυσίας(73), καὶ στηθηνίου, καὶ βραχίονος δεξιοῦ τοῖς
+ἱερεῦσι προσανήκει , καὶ τοῖς λοιποῖς τοῖς παραμέ-
+νουσιν αὐτοῖς λευίταις. » Ἀκούετε ταῦτα καὶ ὑμεῖς
+οἱ λαϊκοὶ, ἐκλεκτὴ Ἐκκλησία τοῦ Θεοῦ. Καὶ γὰρ ὁ
+λαὸς πρότερον « Θεοῦ λαὸς καὶ ἔθνος ἅγιον » ὠνομά-
+ζετο· καὶ ὑμεῖς οὖν ἐστε ἁγία τοῦ Θεοῦ ἱερὰ Ἐκκλη-
+σία ἀπογεγραμμένη ἐν οὐρανῷ, « βασίλειον ἱεράτευμα,
+ἔθνος ἅγιον, λαὸς εἰς περιποίησιν, » νύμφη κεκαλλω-
+πισμένη Κυρίῳ τῷ Θεῷ. Ἐκκλησία μεγάλη, Ἐκκλη-
+σία πιστὴ, ἃ πρότερον ἐρρέθη, νῦν ἐνωτίζου· ἀφαι-
+ρέματα , καὶ δεκάται , ἀπαρχαὶ τῷ ἀρχιερεῖ Χριστῷ
+καὶ τοῖς λειτουργοῦσιν αὐτῷ, δεκάται σωτηρίου, ἀρχὴ
+ὀνόματος Ἰησοῦ (74). Ἄκουε, ἱερὰ καθολικὴ Ἐκκλη-

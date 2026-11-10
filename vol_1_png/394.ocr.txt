@@ -1,0 +1,176 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,269,153,1019,1059
+2,257,1065,1016,1580
+3,1053,154,1799,881
+4,1048,1147,1798,2053
+5,1053,889,1797,1142
+7,268,1585,1019,1922
+8,270,2164,1021,2714
+9,1052,2166,1799,2705
+10,269,1927,1020,2135
+13,1049,2060,1797,2141
+16,787,92,1250,134
+19,275,110,328,144
+21,1735,92,1791,123
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+ultra duo millia Christianorum, jam diu ad cædendi
+marmoris opus damnatorum. Inter maxima autem
+horum fidelium incommoda illud erat, quod sexto
+milliario aquam humeris suis deportare deberent.
+Pontifex autem eorum miseratione tactus , cum
+agni cujusdam ductu, ubi fons esset, cognovisset,
+eam, ut effoderent, Christianis ostendit. Quibus ne-
+quidquam laborantibus S. Clemens ipse eum locum
+levi ictu percussit, et fons illico exsiliit. Ad mira-
+culi hujus famam tota provincia accurrente, cun-
+ctisque ad fidem traductis et baptizatis, intra anni
+spatium septuaginta ecclesiæ constructæ, idola
+omnia confracta, templa circumjacentis regionis
+diruta, omnesque luci usque ad trecenta milliaria
+in circuitu concisi fuere. Trajanus vero, ut tantum
+rei Christianæ progressum sisteret, Clementem an-
+chora ad collum ligata in mare demergi mandavit.
+At mari usque ad locum, quo Pontificis corpus ja-
+cebat, recedente, illud tumulo saxeo in templo
+quodam marmoreo conditum Christiani invene-
+runt (18). )
+
+# block=2
+II. Clementis temporibus cum gravissima dis-
+sensio Corinthi exorta esset inter fratres (19), Ec-
+clesia Romana luculentissimam epistolam Corin-
+thiis scripsit, qua eos ad pacem concordiamque
+revocaret, et fidem illorum, et quam recens ab
+apostolis susceperant traditionem renovarent. Ita
+Irenæus (20). Hanc epistolam nomine Ecclesiæ Ro-
+manæ Clementem nostrum scripsisse refert Euse-
+bius (21); multique alii veterum hujus epistolæ me-
+minerunt. Sed ante sæc. XVII omnes medii et infe-
+rioris ævi theologi hanc Patris apostolici epistolam
+deperditam lugebant.
+
+# block=3
+plevit et minio notavit. Sed ipsius editio, et omnes,
+ad Junianam exactæ, vitiis laborant non paucis.
+Quo factum est, ut Henricus Wottonus, e Coll.
+S. Joan. Evang. A. M. codicem mstum de novo
+accurate inspiceret, et textum Junianum octogies
+emendaret et suppleret. Sic prodiit 1718 Cantabrigiæ
+editio Wottoniana, in qua, quæ aberant a msto exem-
+plari, minutioribus typis impressa invenis. Hanc
+editionem Gallandius sibi sequendam summo jure
+censuit, qui insuper notis et conjecturis aliorum
+virorum eruditorum, Millii, Birii, Freyii, etc., in
+elaboranda sua editione est usus. Denique a. 1839
+Oxonii e typographeo academico prodiit editio ele-
+gantissima Guilielmi Jacobsoni, qui codicem Ale-
+xandrinum iterum evolvit, textum passim emen-
+davit, conjecturas doctas proposuit, et annotatio-
+nibus aliorum suas adjecit (24).
+
+# block=4
+III. Clementem Romanum ad Corinthios scrip-
+sisse , nemo negabit. Fuere tamen, qui epistolam
+nostram non genuinam putarent nec illam cense-
+rent, quam antiqui Patres laudarunt et allegarunt.
+Præsertim Jo. Tolandus (25), Christ. Aug. Salig (26)
+et Gisbertus Voetius, theol. professor in Acade-
+mia Ultrajectina (27) authentiam epistolæ nostræ
+negarunt, illi imperiose nulla afferentes argumenta,
+hic hallucinationem potius, quam demonstrationem
+proferens. Quam male præconcepta opinione duc-
+tus id egerit, audi. Admiramur, inquit, singularem
+divinam providentiam, quæ curavit, ut ab apostolo-
+rum discipulis, virisque apostolicis, et apostolorum
+sæculo proximis, aut nihil scriberetur, aut nihil con-
+servaretur et ad posteros manaret, aut saltem nihil
+ab initio Ecclesiæ usque in hunc diem superesset, de
+quo non dubitaretur, aut quod per tineas blattasque,
+aut alium quemvis Dei exercitum mutilatum non es-
+set: ut soli Scripturæ tanto evidentius sua constaret
+auctoritas, illique soli esset propria incorruptibilitas
+et æternitas.
+
+# block=5
+Nos cum Gallandio et Jacobsono, ea, quæ apud
+Wottonum, msto codici plane adhærentem, vitioso
+vel obsoleto more scripta inveniebantur, mutavi-
+mus; voces et litteras, quæ in codice desunt, uncis
+inclusimus , et Jacobsonum aliosque viros doctos
+duces habuimus.
+
+# block=7
+Anno autem 1632 Cyrillus Lucaris, patriarcha
+Constantinopolitanus, Anglorum regi Carolo I an-
+tiquissimum V. et N. T. codicem dono misit; et
+ecce, ad calcem præstantissimi hujus codicis Ale-
+xandrini epistola illa Clementis, dudum desiderata,
+inveniebatur (22) cum fragmento alterius libri, quem
+catalogus codici præfixus his litteris signat:
+....εντος ἐ....λη Β. (23) id est Κλήμεντος ἐπιστολὴ β'.
+
+# block=8
+(18) Historia theol. crit., t. I, p. 52 sq.
+(19) Seditio mota fuerat contra presbyteros (c.
+47), qui injuste muneribus suis dejiciebantur (c.
+44). Schenkelius (in Ullmanni Stud. et Krit. 1841,
+Fasc. I, p. 53 sqq.:) autumat, factionem illam, quæ
+Christi esse gloriabatur, revixisse, et sicut aucto-
+ritatem apostolorum, ita et auctoritatem presbyte-
+rorum, qui ab apostolis fuerant instituti, sprevisse
+ac rejecisse. Sed Clemens ipse recentiorem Corinthio-
+rum seditionem ab illa priori bene distinguit, c. 47.
+(20) Adv. hær. III, 3. Apud Euseb., Hist. eccl.,
+v, 6.
+(21) H. E. III, 16 et 38.
+(22) Codex ms. epigraphen præstat : Κλήμεντος
+πρὸς Κορινθίους ἐπιστολή. Cfr. Jacobson, Patres
+apost., t. I, p. 205.
+
+# block=9
+(23) Cfr. Jacobson l. c., p. XI. Inscriptionis in fronte
+epistolæ ipsius ne litteram quidem integram præbet
+Cod. mstus Jacobson , l. c. p. 214.
+(24) S. Clementis Romani, S. Ignatii et S. Poly-
+carpi Patrum apostolicorum, quæ supersunt. Acce-
+dunt S. Ignatii et S. Polycarpi martyria. Ad fidem co-
+dicum recensuit, adnotationibus variorum et suis
+illustravit, indicibus instruxit Guilielmus Jacobson
+A. M., aulæ B. Mariæ Magdalenæ vice-principalis,
+collegii Exoniensis nuper socius. II tomi.
+(25) In Catalogo librorum Christo et apostolis
+ascriptorum c. 18. T. I Opp., p. 392.
+(26) De diptychis veterum , c. 5, § 4 , p. 59. Cfr.
+Mosheim. Instit. majores, p. 213.
+(27) Select. disput. , p. 1 , p. 103. Cfr. Grabii
+Spicileg., t. I, p. 250.
+
+# block=10
+Utramque hanc Clementis epistolam ex vetustis-
+simo illo codice primus omnium Oxonii 1633 edidit
+Patricius Junius, regis Anglorum bibliothecarius;
+voces deperditas et litteras vetustate exesas, spatiis
+et interstitiis accurate, ut putabat, dimensis, sup-
+
+# block=13
+Nos eamdem, quam Clemens scripserit, habere
+epistolam, exinde satis probatur, quia ea, quæ ve-
+
+# block=16
+AD S. CLEMENTEM I PAPAM
+
+# block=19
+187
+
+# block=21
+188

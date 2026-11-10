@@ -1,0 +1,304 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,259,1788,995,1865
+2,259,1703,997,1779
+3,1048,1265,1788,1608
+5,1046,1179,1796,1258
+6,1038,1870,1781,2036
+7,1045,1697,1785,1775
+8,1046,1090,1792,1171
+10,260,1613,1001,1694
+11,1042,1782,1783,1862
+12,262,1090,1003,1172
+13,1042,1610,1785,1688
+14,249,1265,996,1609
+15,255,2118,990,2249
+16,259,1179,1001,1259
+17,252,2388,994,2509
+18,256,1875,997,2040
+19,1033,2257,1770,2382
+21,256,2048,998,2118
+22,1035,2044,1781,2124
+23,1035,2390,1775,2512
+24,1035,2129,1779,2253
+25,227,495,630,936
+27,1036,2522,1620,2555
+29,273,160,1018,245
+30,911,415,1205,453
+31,250,2258,995,2382
+32,250,2519,687,2553
+33,319,331,1686,369
+34,441,1035,828,1074
+35,1037,2564,1769,2736
+36,1051,735,1789,922
+39,255,2562,999,2725
+42,1133,1038,1705,1074
+43,267,240,1215,290
+44,1051,156,1801,242
+45,643,496,1013,942
+46,1045,496,1411,666
+47,1435,498,1805,726
+48,257,96,347,146
+49,1729,106,1797,146
+50,653,96,1383,152
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=27 fontSize=15px
+# block=29 fontSize=15px
+# block=30 fontSize=15px
+# block=31 fontSize=15px
+# block=32 fontSize=15px
+# block=33 fontSize=15px
+# block=34 fontSize=15px
+# block=35 fontSize=15px
+# block=36 fontSize=15px
+# block=39 fontSize=15px
+# block=42 fontSize=15px
+# block=43 fontSize=15px
+# block=44 fontSize=15px
+# block=45 fontSize=15px
+# block=46 fontSize=15px
+# block=47 fontSize=15px
+# block=48 fontSize=16px
+# block=49 fontSize=16px
+# block=50 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=48
+907
+
+# block=50
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=49
+908
+
+# block=44
+ὅλως ἡμέραν ἑορτῆς Κυρίου κατηφῶν· εὐφρανθῆναι
+γὰρ δεῖ ἐν αὐταῖς, ἀλλ᾽ οὐ πενθῆσαι.
+
+# block=29
+cam, utpote diem resurrectionis, jejunaverit, aut
+qui Pentecosten, vel quemlibet festum diem tristi-
+
+# block=43
+tia funestaverit : tunc enim lætari oportet, non autem lugere ¹¹.
+
+# block=33
+¹¹ Can. Ap. 45, 56. Epiph. hær. 70, n. 11, hær. 75, n. 6. Nicetam Pectoratum, contra Latinos.
+
+# block=30
+VARIORUM NOTÆ.
+
+# block=25
+Θεοφανίων νήστιμον ἡμέ-
+ραν εἶναι ταύτην (vel ut
+membranæ Regiæ ταύτην
+εἶναι), οἰκονομήσωμεν, καὶ
+πρὸς ἑκάτερον ἐπιστημό-
+νως χωρήσωμεν, ἵνα με-
+ταλαμβάνοντες ὀλίγον ψω-
+νίων, ἐκκλίνωμεν ἅμα
+καὶ τὰς αἱρέσεις τὰς μὴ
+τιμώσας τὴν ἀναστάσιμον
+τοῦ Κυρίου ἡμῶν Ἰησοῦ
+Χριστοῦ ἡμέραν, καὶ τὸ
+ὀφειλόμενον τῇ νῃστίμῳ
+
+# block=45
+tur contigit, diem jejunii,
+qui ad sancta Theophania
+pertinet, in illum Domi-
+nicum incidere; œconomia
+utamur, et ad utrumque
+prudenter accedamus; ut
+sumentes paucas palmu-
+las, simul et hæreses vi-
+tenus, quæ diem resur-
+rectionis Domini nostri
+Jesu Christi non hono-
+rant, et quod debetur diei
+jejunii reddamus, exspe-
+
+# block=46
+ctantes vespertinum con-
+ventum, qui hic, Deo vo-
+lente, peragetur. Congre-
+gemur itaque hic ab hora
+nona.
+
+# block=47
+ἡμέρᾳ ἀποδῶμεν, περι-
+μένοντες τὴν ἑσπερινὴν
+σύναξιν, ἥτις ἐνταῦθα,
+Θεοῦ θέλοντος τελεῖται
+(aut συντελεῖται). Συνα-
+χθῶμεν τοίνυν ἀπὸ ὥρας
+ἐννάτης ἐνταῦθα.
+
+# block=36
+Denique librum his verbis claudit Constitutor : Εὐ-
+φρανθῆναι γὰρ δεῖ ἐν αὐταῖς, ἀλλ᾽ οὐ πενθῆσαι. Qui-
+bus ex adverso respondent ista Zonaræ in canonem
+Trullanum 52 : Ἐν ταῖς τῶν νηστειῶν ἡμέραις
+πενθεῖν, ἀλλ᾽ οὐ χαίρειν χρεών. Cот.
+
+# block=34
+CAPITA LIBRI SEXTI.
+
+# block=42
+ΚΕΦΑΛΑΙΑ ΤΟΥ ΕΚΤΟΥ ΒΙΒΛΙΟΥ,
+
+# block=12
+I. Quinam schismata ausi facere, non effugerunt
+supplicium.
+
+# block=8
+α΄. Τίνες σχίσματα ποιεῖν τολμήσαντες, οὐ διέ-
+φυγον τὴν τιμωρίαν.
+
+# block=16
+II. Quod neque regno, neque sacerdotio fas sit insur-
+gere.
+
+# block=5
+β΄. Ὅτι οὔτε βασιλεία οὔτε ἱερωσύνη θεμιτὸν
+ἐπανίστασθαι.
+
+# block=14
+III. De virtute Moysis, et de infidelitate gentis Ju-
+daicæ, et de miraculis quæ Deus per illum edi-
+dit.
+IV. Quod schisma facit, non qui separat se ab im-
+piis, sed qui a piis abscedit.
+V. Qua de causa rejectus fuerit qui falso nominatur
+Israel, demonstratio ex propheticis predictio-
+nibus.
+
+# block=3
+γ΄. Περὶ τῆς Μωϋσέως ἀρετῆς, καὶ ἀπιστίας τῶν
+Ἰουδαίων ἔθνους, καὶ ὅν ὁ Θεὸς ἐθαυματούρ-
+γησε δι᾽ αὐτῶν [l. δι᾽ αὐτόν].
+δ΄. Ὅτι ἀποσχίζει, οὐχ ὁ τῶν ἀσεβῶν χωριζόμε-
+νος, ἀλλ᾽ ὁ τῶν εὐσεβῶν ἀφιστάμενος.
+ε΄. Τίνος χάριν ἀπεβλήθη ὁ ψευδώνυμος Ἰσραὴλ,
+ἀποδείξεις ἐκ προφητικῶν προῤῥήσεων.
+
+# block=13
+ϛ΄. Ὅτι καὶ παρὰ Ἰουδαίοις συνέστη θεομισὴς δι-
+δασκαλία διαφόρων αἱρέσεων.
+
+# block=10
+VI. Quod etiam apud Judæos exstiterit diversarum
+hæresium odiosa Deo doctrina.
+
+# block=7
+ζ΄. Ὁπόθεν ἀνέφυσαν αἱ αἱρέσεις, καὶ ὅστις αὐ-
+τῶν ἀρχηγὸς τῆς ἀσεβείας γεγένηται.
+
+# block=2
+VII. Unde prodierint hæreses, et quis fuerit impie-
+tatis earum dux et auctor.
+
+# block=11
+η΄. Τίνες τῆς Σίμωνος ἀσεβείας διάδοχοι, καὶ ὅλων
+αἱρέσεων κατῆρξαν.
+
+# block=1
+VIII. Quinam successerint impietati Simonis et quas
+hæreses induxerint.
+
+# block=6
+θ΄. Ὅπως ὁ Σίμων γοητείαις τισὶ πέτηται βελήσας,
+εὐχαῖς Πέτρου κατενεχθεὶς ἐξ ὕψους κάτω,
+συνετρίβη τοὺς πόδας καὶ τὼ χεῖρε τοὺς ταρ-
+σούς.
+
+# block=18
+IX. Quo modo Simon cum quibusdam præstigiis vo-
+lare instituisset, precibus Petri ex alto deorsum
+præcipitatus, fregit pedum et manuum extremi-
+tates.
+
+# block=22
+ια΄. Ὅπως αἱ αἱρέσεις καὶ πρὸς ἑαυτὰς καὶ πρὸς
+ἀλήθειαν διαφωνοῦσιν.
+
+# block=21
+X. Quo modo hæreses et inter se et a veritate discre-
+pent.
+
+# block=15
+XI. Enarratio apostolicæ prædicationis.
+XII. Contra eos qui Christianæ religioni cum assen-
+tiantur, volunt tamen Judaicos ritus observare.
+
+# block=24
+ιβ΄. Ἐξήγησις ἀποστολικοῦ κηρύγματος.
+ιγ΄. Πρὸς τοὺς ὁμολογοῦντας. Ἰουδαΐζειν δὲ θέ-
+λοντας.
+
+# block=19
+ιγ΄. Ὅπως χρὴ χωρίζεσθαι τῶν αἱρετικῶν.
+ιδ΄. Τίνες οἱ κηρύξαντες τὴν καθολικὴν διδα
+σκαλίαν, καὶ τίνα τὰ δι᾽ αὐτῶν παραγγέλματα.
+
+# block=31
+XIII. Quo modo oporteat separari ab hæreticis.
+XIV. Qui prædicarint catholicam doctrinam, et quæ
+sint illorum præcepta.
+
+# block=17
+XV. Quod nec oporteat rebaptizare; nec recipere ba-
+ptismum ab impiis collatum, qui non est baptismus,
+sed inquinamentum.
+
+# block=23
+ιε΄. Ὅτι οὔτε ἀναβαπτίζειν χρὴ, οὔτε μὴν παρα-
+δέχεσθαι τὸ παρὰ τῶν ἀσεβῶν βάπτισμα δοθὲν,
+ὃ οὐκ ἔστι βάπτισμα, ἀλλὰ μόλυσμα.
+
+# block=32
+XVI. De libris falso inscriptis.
+
+# block=27
+ιϛ΄. Περὶ τῶν ψευδεπιγράφων βιβλίων.
+
+# block=39
+XVII. Conjugalia præcepta de clericis.
+XVIII. Cohortatio, invitans ad fugiendam impiorum
+hæreticorum communionem.
+XIX. Contra improbantes legem.
+
+# block=35
+ιζ΄. Περὶ κληρικῶν γαμικὰ παραγγέλματα.
+ιη΄. Παραίνεσις κελεύουσα φεύγειν τὴν τῶν ἀσε-
+βῶν αἱρετικῶν κοινωνίαν.
+ιθ΄. Πρὸς φαυλίζοντας τὸν νόμον.

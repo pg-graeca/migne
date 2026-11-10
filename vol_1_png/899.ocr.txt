@@ -1,0 +1,161 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,969,1246,1729,2203
+2,174,1550,939,2466
+3,964,166,1723,1247
+4,974,2207,1731,2464
+5,168,167,928,1550
+6,181,2526,922,2734
+7,976,2515,1736,2732
+8,683,112,1191,145
+9,167,113,236,149
+11,1631,106,1727,154
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=969 source_y1=1246 source_x2=1729 source_y2=2203
+Cæterum Jacobus Faber in margine præfationis
+Rufini ad Gaudentium, ubi de ingenito genitoque
+Deo agitur, hæc verba adnotavit : Pars illa de in-
+genito genitoque Deo, cognoscitur ab Eunomio aut ab
+aliis qui Eunomii sequebantur errores, vitiata; ut et
+epistola Pauli ad Corinthios a Marcione corrupta
+fuerat. Merito igitur illud Eunomii interpretandum
+non fuit, ut neque Marcion in Paulo. Istud scholion
+in cæteris editionibus, et in ipsa Coteleriana, desi-
+deratur; etiamsi in Coloniensi anni 1547 scholion
+persimile ad oram legeretur his verbis : Corrupta
+hæc fuisse suspicor ab Eunomio, quemadmodum epi-
+stola Pauli ad Corinthios a Marcione. Hæc tamen
+quæ in Clemente suo, ut ab hæreticis corrupta,
+prætermisit Rufinus, reliquæ ejus versioni inserta
+reperit Cotelerius in tribus codicibus, Candeleriano,
+Sorbonico et Thuano : suntque decem capita inter
+primum et duodecimum clausa, de quibus ait : Ne-
+scio quis igitur, quod a Rufino prætermissum fuerat,
+sibi sumpsit, ut interpretaretur. Hoc assumentum
+prodit, ni fallor, versionem Rufini antiquitus ad
+Græca exemplaria recognitam et collatam.
+
+# block=2 source_x1=174 source_y1=1550 source_x2=939 source_y2=2466
+VII. Nec penitus nobis prætereundus est alter
+Bellarmini locus, ubi hæc de Clementinis Recogni-
+tionibus scribit (75) : Teste Epiphanio, hæresi XXX,
+Clemens ipse testatur Circuitus Petri, a se conscri-
+ptos, ab hæreticis depravatos fuisse. Vir purpuratus
+hæc hausit e magnis Annalibus (76). Verum Lucas
+Holstenius non hoc dicere Epiphanium detexit, sed
+ex encyclicis epistolis beati Clementis quæ in eccle-
+siis leguntur, Periodos istas falsitatis convinci. Ne-
+que enim congruere cum stylo sancti Clementis, neque
+cum ejus docendi mo.lo. Verba sunt Holstenii in no-
+tis mss. ad Bellarmini Catalogum, in Museo nostro
+servatum. Lapsum tanti viri indicavi, ne ulli am-
+plius ob dicentis auctoritatem sit causa offensionis,
+ut nuper fuit alteri viro docto, quem corrigens no-
+minare non debeo, ne amicitiam quæ mihi cum eo
+intercedit, lædere videar. Idem Epiphanius Clemen-
+tinos libros fuisse ab Ebionitis corruptos testa-
+tur (77). Photius etiam vocat (78) refertum opus
+absurdis nugis, non sine pluribus ex Arii opinione in
+Filium blasphemiis. Hæc suaserunt magni nominis
+
+# block=3 source_x1=964 source_y1=166 source_x2=1723 source_y2=1247
+theologo Dionysio Petavio (79), Photi.os codices
+magis fuisse depravatos, quam sit interpretatio Rufini
+qui ea sustulerit, quæ ab hæreticis, præsertim Eu-
+nomianis, ingesta, idem Rufinus monuerat in opu-
+sculo De adulteratione librorum Origenis, quippe
+quæ, eodem Rufino teste, ecclesiastica regula omnino
+non recipiat. Sed memoria repetendum est, binas
+Recognitionum veteres editiones a Rufino indicari
+in præfatione ad Gaudentium : Puto, inquit, quod
+non te (Gaudenti) lateat, Clementis hujus in Græco
+ejusdem operis Ἀναγνώσεων, hoc est Recognitionum,
+DUAS EDITIONES haberi, in aliquantis quidem diver-
+sas; in multis tamen, ejusdem narrationis. Denique
+pars ultima hujus operis, in qua de transformatione
+Simonis refertur, IN UNO CORPORE habetur. Sunt au-
+tem et quædam in UTROQUE CORPORE de ingenito Deo
+genitoque disserta, et de aliis nonnullis, quæ, ut ni-
+hil amplius dicam, excesserunt intelligentiam nostram.
+Jam dispice, quamnam Clementini operis editionem
+Epiphanius et Photius censura perstrinxerint. Non
+certe quam Rufinus Latine convertit. Hæc enim ab
+hæreticorum depravationibus vacat; eamdemque
+etiam Græce scriptam vacasse, nos credere jubent
+viri sancti Paulinus et Gaudentius, qui eam per ami-
+cum Latio donandam studuerunt.
+
+# block=4 source_x1=974 source_y1=2207 source_x2=1731 source_y2=2464
+VIII. Nunc ad epistolam Recognitionum libris sub-
+jectam deveniamus. Romæ ex ædibus Populi Ro-
+mani, anno 1591, prodierunt epistolæ summorurn
+pontificum, tribus tomis distinctæ : in quorum pri-
+mo ante omnes alias exstat quæ dicitur Clementina
+ad Jacobum fratrem Domini Rufino interprete.
+
+# block=5 source_x1=168 source_y1=167 source_x2=928 source_y2=1550
+minus ergo viros insigniter doctos, ad alia prope-
+rantes hæc fugerint, non est ambigendum : alias
+rem certam pro commento non habuissent. E ju-
+nioribus Cotelerius, Rufini esse præfationem ad
+Gaudentium juxta ac versionem totius operis, ex
+stylo etiam probari ait (71) : et codicum vetustio-
+rum præsidio utramque Rufino vindicat. Unus enim
+quem laudat, sic incipit : Rufini presbyteri præ-
+fatio ad Gaudentium pontificem in Itinerarium
+Clementis; ab eo ex Græco in Latinum conversum.
+Et post præfationem, Clementisque ad Jacobum
+epistolam, ita habet : Itinerarii Clementis, Petri
+apostoli successoris, liber primus incipit, a Rufino
+traductus. Cæterum Bellarminus agnovit, Clemen-
+tinas Recognitiones a Rufino conversas : nam, Ba-
+ronio judice (72), nemo est qui dubitare debeat, cum
+Gennadius hoc ipsum de Rufino testetur. Et tamen
+Dupinium audire nobis contingit (73), omnino aliam
+sententiam Bellarmino tribuentem, eam scilicet
+quam refutavimus. Nec minus spisso errore tanto
+ante irretitum deprehendimus Anastasium Biblio-
+thecarium in epistola modo adducta, cumque illo e
+junioribus Petrum Danielem Huetium (74), quando
+hæc verba, quibus Rufinus præfationem suam ad
+Gaudentium auspicatur, ut Clementem nostræ linguæ
+redderemus, ita acceperunt, quasi Recognitiones ipsæ
+Latine scriptæ primum fuissent, postmodum de-
+perditæ, et demum a Rufino e Græcia in Latium
+restitutæ, non e Græco translatæ. At plane aliud,
+non hoc scripsit Rufinus, apud quem viri docti pri-
+mis tantum voculis, uti fit, raptim perlectis in erro-
+rem adducti sunt.
+
+# block=6 source_x1=181 source_y1=2526 source_x2=922 source_y2=2734
+(71) Cotel., in Judic. de libris Recognit., pag
+484 edit. nov.
+(72) Baron., ad ann. 102, § XXII.
+(73) Dupin., tom. III Biblioth.
+(74) Huet., De clar. interpr., pag. 154.
+(75) Bellarin., De script. eccles., ad ann. 92.
+
+# block=7 source_x1=976 source_y1=2515 source_x2=1736 source_y2=2732
+(76) Baron., ad ann. 41, § X, et ad ann. 102,
+§ XXI.
+(77) Epiph., Hær XXX, § XV.
+(78) Phot., Bibl. cod. CXIII.
+(79) Petav., Dogm. Theol., lib. 1 De Trin., cap. 3,
+§ ult.
+
+# block=8 source_x1=683 source_y1=112 source_x2=1191 source_y2=145
+RECOGNITIONES. -- PROŒMIA.
+
+# block=9 source_x1=167 source_y1=113 source_x2=236 source_y2=149
+1197
+
+# block=11 source_x1=1631 source_y1=106 source_x2=1727 source_y2=154
+1198

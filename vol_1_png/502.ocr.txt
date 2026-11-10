@@ -1,0 +1,96 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1194,1449,1794,1949
+2,264,560,1164,2543
+3,1193,597,1804,1432
+4,1198,141,1799,468
+5,1180,1962,1799,2525
+6,290,127,1168,405
+7,611,470,881,534
+8,699,64,1458,112
+9,270,2591,1790,2666
+10,290,62,344,101
+11,1729,76,1809,126
+12,1417,510,1635,558
+
+# layer=format
+# block=1 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=16px
+# block=9 fontSize=15px
+# block=10 fontSize=16px
+# block=11 fontSize=16px
+# block=12 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+403
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=11
+404
+
+# block=4
+mine Christi. Hos sinistra præfigit
+nota divinus Apostolus ⁹² multa
+mala in eis redarguens. Scriptum
+est etiam agrum hominis pigri spi-
+nis operiri ⁹³, iterque otiosorum esse
+quasi sepem spinarum ⁹⁴.
+
+# block=12
+CAPUT XI.
+
+# block=3
+Omnis quippe otiosus, ut sine la-
+bore, ita sine utilitate est. Hinc non
+nisi sterilitas sequitur gressus eo-
+rum qui nihil agunt, qui vana verba
+quasi venatum quærunt, in hoc sibi
+fingentes utilitatem et justitiam.
+Similes sunt tales operarii viduis
+quæ otiosæ et verbosæ circumeunt
+domos semper loquentes; ipsi quo-
+que aut effundunt aut excipiunt
+verba otiosa et a domo in domum ea
+transferunt, multumque exaggerant,
+sine ullo Dei timore, quantumvis
+impudenter, sub prætextu doctrinæ,
+variis varia loquantur.
+
+# block=1
+Utinam autem isti veræ doctrinæ
+doctores essent, utinamque beati !
+Sed sunt inquieti, non intelligentes
+quæ loquuntur, neque de quibus af-
+firmant ⁹⁵. Volunt nihilominus vi-
+deri doctores, sibique persuadent
+se nosse quæ ore proferunt, cum de
+iniquo tantum mammona commer-
+cium agant in nomine Christi.
+
+# block=5
+Servos Dei hæc prorsus dedecent.
+Hanc autem viam multi sequuntur,
+quia non animadvertunt quod scri-
+ptum est: Non multos in vobis, fratres,
+positos esse doctores et prophetas ⁹⁶ ;
+et iterum : Si quis in verbo non of-
+fendit, hic perfectus est vir. Potest
+etiam freno circumducere totum cor-
+pus. ⁹⁷ Si quis loquitur, quasi sermo-
+nes Dei ⁹⁸ ; si est tibi intellectus, re-
+
+# block=9
+⁹² II Thess. III, 14. ⁹³ Prov. XXIV, 31. ⁹⁴ Prov. XV, 19. ⁹⁵ I Tim. I, 7. ⁹⁶ I Cor. XII, 28. ⁹⁷ Jac.
+III, 2. ⁹⁸ I Petr. IV, 11.

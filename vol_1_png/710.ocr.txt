@@ -1,0 +1,203 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,266,895,1029,1672
+2,262,142,1019,660
+3,1053,146,1805,656
+4,1050,891,1818,1716
+5,1073,720,1808,887
+6,269,721,1022,892
+7,1053,2084,1811,2387
+8,847,2030,1172,2073
+9,540,679,739,712
+10,1052,2382,1805,2725
+11,541,1719,745,1756
+12,1054,1766,1807,1866
+13,1298,677,1555,711
+14,264,2088,1027,2719
+15,657,88,1395,131
+16,268,1761,1013,1868
+17,268,1873,1015,1923
+19,262,90,318,130
+20,1049,1874,1800,1920
+21,1745,81,1798,131
+22,1275,1718,1555,1758
+23,263,1934,1805,2016
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Sed si dicatis : Hi sunt, qui dant eleemosynas ;
+et nisi ab iis sumamus, unde viduæ per nos ad-
+ministrabuntur, unde plebis pauperes nutrientur ?
+audietis a nobis, quod ideo accepistis donum levita-
+rum, oblationem populi vestri, ut et vobis et egen-
+tibus suppeditetis ; atque ne, inopia coarctati, ab
+improbis capiatis. Quod si ad id miseriarum redi-
+gantur ecclesiæ, præstat perire quam ab hostibus
+Dei aliquid accipere, in contumeliam ac ludibrium
+amicorum ejus. De illis enim Propheta dicit :
+« Oleum peccatoris non impinguet caput meum⁵⁹. »
+Estote igitur talium probatores; et ab iis quidem
+qui sancte vivunt accipite, quod calamitosis sup-
+peditetis ; ab excommunicatis vero ne recipiatis,
+priusquam esse membra Ecclesiæ mereantur. Si
+autem defecerit donum, annuntia fratribus ; et ex
+iis facta collecta, subministra cum justitia pupillis
+ac viduis.
+
+# block=2
+Azaele munera accepit⁵⁴, nec Achias a Jeroboamo ⁵⁵.
+Quod si Dei prophetæ dona impiorum non admisere,
+æquum est ut neque vos, episcopi, admittatis.
+Cum etiam Simon Magus, mihi Petro, et Joanni
+pecuniam offerens ⁵⁷, gratiam inæstimabilem cona-
+tus est pretio comparare ; nos, repulso munere, eum
+diris perpetuis constrinximus ; quoniam donum Dei,
+non benevolentia erga Numen, sed pecuniæ permu-
+tatione existimavit possideri. Recusate ergo obla-
+tiones quæ ad altare a male sibi consciis afferun-
+tur. « Recede enim, inquit, ab iniquo, et non time-
+bis, et tremor non appropinquabit tibi ⁵⁸. »
+
+# block=3
+τοῦ Ἀζαὴλ κομισθέντα ἐδέξατο, οὔτε Ἀχίας τὰ
+παρὰ τοῦ Ἱεροβοάμ. Εἰ δὲ οἱ τοῦ Θεοῦ προφῆται τὰ
+παρὰ τῶν ἀσεβῶν οὐ προσήκαντο ξένια, δίκαιον ⁵⁶
+μηδὲ ὑμᾶς, ὦ ἐπίσκοποι. Ἀλλὰ καὶ Σίμων ὁ Μάγος,
+ἐμοὶ Πέτρῳ καὶ Ἰωάννῃ χρήματα προσενεγκὼν, ἐπει-
+ρᾶτο ὠνητὴν τὴν ἀτίμητον χάριν λήψεσθαι· ἅπερ μὴ
+προσῃκάμενοι, ἀραῖς αἰωνίοις αὐτὸν ἐδησάμεθα· ὅτι
+τὴν δωρεὰν τοῦ Θεοῦ, οὐκ εὐνοίᾳ τῇ πρὸς Θεὸν, ἀλλὰ
+χρημάτων ἐναλλαγῇ ἐνόμισε κτᾶσθαι (40). Φεύγετε
+οὖν τὰς δυσσυνειδήτους εἰς τὸ θυσιαστήριον τοῦ Θεοῦ
+εἰσφοράς. « Ἀπέχου γὰρ, φησὶν, ἀπὸ ἀδίκου, καὶ οὐ
+φοβηθήσῃ, καὶ τρόμος οὐκ ἐγγιεῖ σοι. »
+
+# block=4
+Ἀλλ’ ἐὰν (41) λέγοιτε, ὅτι οἱ διδόντες τὰς ἐλεημο-
+σύνας, οὗτοί εἰσι, κἂν μὴ λάβοιμεν παρ’ αὐτῶν, πό-
+θεν αἱ χῆραι ὑπηρετηθήσονται παρ’ ἡμῶν (42), καὶ
+οἱ ἐνδεεῖς τοῦ λαοῦ διατραφῶσιν (43) ; ἀκούσεσθε παρ’
+ἡμῶν, ὅτι διὰ τοῦτο ἐλάβετε δόμα Λευιτῶν, τὴν καρ-
+ποφορίαν τοῦ ἐν ὑμῖν λαοῦ, ἵνα ἐπαρκῆτε καὶ ἑαυτοῖς
+καὶ τοῖς δεομένοις, καὶ μὴ ἐν (44) ἀπορίᾳ συνεχόμε-
+νοι, παρὰ πονηρῶν λαμβάνητε. Εἰ δὲ οὕτως ἀποροῦσιν
+αἱ ἐκκλησίαι, λυσιτελεῖ διαφθαρῆναι (45), ἢ παρ’ ἐχ-
+θρῶν τοῦ Θεοῦ λαβεῖν τι, ἐφ’ ὕβρει καὶ χλεύῃ τῶν
+αὐτοῦ φίλων. Περὶ γὰρ τῶν τοιούτων καὶ ὁ Προφήτης
+λέγει· « Ἔλαιον ἁμαρτωλοῦ μὴ λιπανάτω τὴν κεφαλήν
+μου. » Δοκιμασταὶ οὖν γίνεσθε τῶν τοιούτων, καὶ
+παρὰ μὲν τῶν ὁσίως περιπατούντων λαμβάνετε,
+καὶ τοῖς θλιβομένοις χορηγεῖτε. Παρὰ δὲ ἀποσυναγώ-
+γων μὴ λαμβάνετε, πρὶν ἂν τῆς Ἐκκλησίας εἶναι μέλη
+καταξιωθῶσιν. Εἰ δὲ ἐπιλίποι δόμα, προσάγγελλε τοῖς
+ἀδελφοῖς, καὶ ἐξ αὐτῶν συλλογὴν ποιησάμενος, διακόνει
+τοῖς ὀρφανοῖς καὶ ταῖς χήραις ἐν δικαιοσύνῃ.
+
+# block=5
+Ὅτι βέλτιον ἐκ κόπου ἰδίου παρέχειν ταῖς χή-
+ραις, κἂν ᾖ εὐτελῆ καὶ ὀλίγα, ἢ τὰ παρὰ τῶν
+ἀσεβῶν, κἂν πολλὰ καὶ μεγάλα τυγχάνῃ· βέλ-
+τιον γὰρ λιμῷ διαφθαρῆναι, ἢ παρὰ ἀσεβῶν
+συνεισφορὰν δέξασθαι.
+
+# block=6
+Quod præstet, ex proprio labore præbere viduis,
+quamvis exilia et pauca sint, quam ex donis impio-
+rum, etsi multa et magna existant : fame enim
+perire præstat, quam ab impiis collationem acci-
+pere.
+
+# block=7
+ecce cum intraveris portam civitatis Sarira, et puellæ
+tuæ exient in obviam, et dicent tibi : Puer mortuus est.
+Quoniam hæc dicit Dominus : Ecce ego disperdo hujus
+Jeroboam mingentem ad parietem; et erunt mortui
+ejus Jeroboam in civitate, et comedent eos canes, et
+mortui erunt ei in agro, et comedent eos volucres cæli.
+Porro de munerum rejectione, præter LXX, vide
+Hieronymum ad Michææ caput ɪɪɪ, et Procopium
+in I Reg. ɪx. Cot.
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=9
+CAPUT VIII.
+
+# block=10
+(40) Ἐναλλαγῇ ἐνόμισε κτᾶσθαι. In altero cod.
+μεταβολῇ κτήσασθαι, quod vertendum mutatione se
+comparaturum; obtulit enim Simon pecuniam, ea
+lege, ut sibi donum Spiritus sancti aliis conferendi
+venderet Petrus. Cler.
+(41) Ἀλλ’ ἐάν. Alter ἐὰν δέ. Cl.
+(42) Παρ’ ἡμῶν. Deest in altero cod. Id.
+(43) Διατραφῶσιν. Deest in eodem. Id.
+(44) Ἐν. Deest in eodem. Id.
+(45) Λυσιτελεῖ διαφθαρῆναι. Severe pro more
+
+# block=11
+CAPUT IX ⁶⁰.
+
+# block=12
+Ὅτι χρὴ προτρέπεσθαι τὸν λαὸν ὑπὸ τοῦ ἱερέως
+εὐποιεῖν τοὺς πένητας· ὡς καὶ ὁ Σολομὼν ὁ
+σοφός.
+
+# block=13
+ΚΕΦΑΛΑΙΟΝ Η’.
+
+# block=14
+Græcæ editionis, cap. xɪv Hebraicæ et Latinæ ; ita
+tamen ut facile, sequendo vestigia Græcorum vocα-
+bulorum, corrigi queat, hunc fere in modum : Et
+homo, inquit, erat ex Silis, aut potius ex Silon, et
+nomen ei Achiab; vel quod malim Achiah, et hic erat
+sexaginta annorum, et verbum Domini erat cum illo.
+Et dixit Jeroboam ad uxorem suam : Surge et accipe
+in manu tua homini Dei panes, et collyrides filiis ejus,
+et uvas, et vas mellis. Et surrexit mulier, et fecit sic-
+ut dixit ei vir ejus. Et Achiah homo senex erat
+valde, et oculi ejus caliginabantur videre. Et surrexit
+mulier ex Sarira, et abiit. Et factum est, cum intras-
+set ipsa in civitate ad Achiah Silonitem, et dixit
+Achiah puero suo : Exi nunc in obviam Annæ uxori
+Jeroboam, et dices ei: Intra, et noli stare, quoniam
+hæc dicit Dominus : Dura ego mitto in te. Et intravit
+Anna ad hominem Dei ; et dixit ei Achiah : Utquid
+mihi attulisti panes, et uvam, et collyrides, et vas
+mellis? Hæc dicit Dominus : Ecce tu ibis a me ; et
+
+# block=15
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=16
+Quod oporteat provocari populum a sacerdote ad be-
+nefaciendum pauperibus, exemplo sapientis Salo-
+monis.
+
+# block=17
+Dic vero populo tuæ potestati commisso, quæ
+
+# block=19
+819
+
+# block=20
+Λέγε δὲ τῷ ὑπὸ σὲ λαῷ, ἃ καὶ Σολομὼν ὁ σοφός·
+
+# block=21
+820
+
+# block=22
+ΚΕΦΑΛΑΙΟΝ Θ’.
+
+# block=23
+⁵⁴ IV Reg. vɪɪɪ. ⁵⁵ III Reg. xɪv. ⁵⁶ Anast. δίον. ⁵⁷ Act. vɪɪɪ. ⁵⁸ Isa. lɪv, 14. ⁵⁹ Psal. cxl, 5. ⁶⁰ Hæc
+caput adducit Anastasius, quæst. 12.

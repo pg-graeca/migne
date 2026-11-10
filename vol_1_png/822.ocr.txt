@@ -1,0 +1,204 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,265,972,1017,1396
+2,1054,1493,1807,2100
+3,263,139,1020,786
+4,268,2559,1020,2731
+5,268,1492,1022,2097
+6,266,2292,1023,2563
+7,1053,973,1808,1396
+8,1055,2526,1810,2730
+9,1052,144,1809,792
+10,1052,2426,1814,2527
+11,892,2210,1188,2246
+12,336,2133,712,2170
+13,1295,888,1562,920
+14,265,796,1811,871
+15,680,88,1383,125
+16,1055,2293,1803,2427
+17,530,882,740,914
+18,268,92,335,124
+19,403,1452,880,1485
+20,1715,84,1807,128
+21,339,924,935,968
+22,1057,926,1807,968
+23,1287,1406,1567,1444
+24,1125,1452,1731,1488
+25,483,1396,769,1442
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=265 source_y1=972 source_x2=1017 source_y2=1396
+Benedictur autem hoc a pontifice in remissionem
+peccatorum, et præparationem baptismi. Sic enim
+invocat ingenitum Deum, Patrem Christi, regem
+omnis naturæ in sensum ac intelligentiam ca-
+dentis; ut sanctificet oleum nomine Domini Jesu,
+et det gratiam spiritualem, et vim efficacem, ac
+remissionem delictorum, atque præparationem con-
+fessionis baptismi; ut is qui ungitur, solutus omni
+impietate, fiat dignus initiatione secundum Unige-
+niti præceptum.
+
+# block=2 source_x1=1054 source_y1=1493 source_x2=1807 source_y2=2100
+Εἶτα ἔρχεται εἰς τὸ ὕδωρ. Εὐλογεῖ καὶ δοξάζει τὸν
+Δεσπότην Θεὸν τὸν παντοκράτορα, τὸν Πατέρα τοῦ
+Μονογενοῦς Θεοῦ (32), εὐχαριστῶν, ὁ ἱερεύς· ὅτι
+ἀπέστειλεν ἐνανθρωπῆσαι τὸν Υἱὸν αὐτοῦ δι’ ἡμᾶς,
+ἵνα ἡμᾶς σώσῃ· ὅτι ἠνέσχετο τῆς ἐνανθρωπήσεως
+ὑπήκοον αὐτὸν γενέσθαι ἐν πᾶσι, κηρύξαι βασιλείαν
+οὐρανῶν, ἄφεσιν ἁμαρτιῶν, νεκρῶν ἀνάστασιν. Ἐπὶ
+τούτοις προσκυνεῖ αὐτὸν τὸν μονογενῆ Θεὸν μετ’ αὐ-
+τοῦ, καὶ δι’ αὐτὸν εὐχαριστῶν αὐτῷ, τῷ ἀναδέξασθαι
+αὐτὸν τὸν⁷⁶ ὑπὲρ πάντων θάνατον διὰ τοῦ σταυροῦ,
+οὗ τύπον ἔδωκε τὸ βάπτισμα τῆς παλιγγενεσίας. Δο-
+ξάζει τε ὅτι ἐν τῷ ὀνόματι τοῦ Χριστοῦ, Θεὸς ὁ τῶν
+ὅλων Κύριος, ἐν ἁγίῳ Πνεύματι οὐκ ἀπέῤῥιψε τὸ τῶν
+ἀνθρώπων γένος, ἀλλὰ διαφόροις καιροῖς διαφόρους
+
+# block=3 source_x1=263 source_y1=139 source_x2=1020 source_y2=786
+mortuus est pro nobis; et postquam passus est,
+tertia die resurrexit a mortuis; ascendit ad cælos,
+et sedet ad dexteram Patris, et iterum venturus est
+in consummatione sæculi cum gloria, ad judicandos
+vivos ac mortuos, cujus regni non erit finis : bapti-
+zor etiam in Spiritum sanctum, id est Paracletum,
+qui Spiritus operatus est in omnibus ab initio mundi
+sanctis, postea vero missus quoque est apostolis a
+Patre, secundum promissionem Salvatoris nostri
+Domini Jesu Christi, et post apostolos etiam omni-
+bus, qui in sancta catholica Ecclesia credunt in
+carnis resurrectionem, in remissionem peccatorum,
+in regnum cælorum, et in vitam futuri sæculi. Post
+hanc autem confessionem, ordine venit ad olei un-
+ctionem.
+
+# block=4 source_x1=268 source_y1=2559 source_x2=1020 source_y2=2731
+(30) Εἰς σαρκὸς ἀνάστασιν. Frustra asserit Fran-
+ciscus Turrianus respexisse ad hæc verba Sophro-
+nium Hierosolymitanum, in epistola illa sua quæ re-
+fertur actione xı sextæ synodi, ubi aliquem sapientum
+citat. (Editionis Binianæ ann. 1618, tom, III, part. ı,
+
+# block=5 source_x1=268 source_y1=1492 source_x2=1022 source_y2=2097
+Deinde venit ad aquam. Sacerdos autem benedi-
+cit ac laudat Dominum Deum omnipotentem, Pa-
+trem Unigeniti Dei, et gratias agit; quia misit Filium
+suum, qui homo fieret propter nos, ut nos salvaret;
+quia sustinuit ut ille in Incarnatione fieret per omnia
+obediens, prædicaret regnum cælorum, remissionem
+peccatorum, mortuorum resurrectionem. Ad hæc
+adorat ipsum unigenitum Deum post eum, et per
+illum gratias huic agens, quod ille mortem pro
+omnibus per crucem subierit, cujus mortis figuram
+dedit baptismum regenerationis. Laudat etiam quia
+in nomine Christi, Deus cunctorum Dominus, in
+Spiritu sancto non abjecit humanum genus; sed
+variis temporibus variam providentiam adhibuit :
+
+# block=6 source_x1=266 source_y1=2292 source_x2=1023 source_y2=2563
+(28) Τοῖς ἀποστόλοις. Deest in altero cod. Vin-
+dobon. CLER.
+(29) Καθολικὴ Ἐκκλησία. Satis constat aposto-
+lorum ævo usitatum non fuisse hoc loquendi genus.
+Alter codex habet pro καθολικὴ voces καὶ ἀποστο-
+λική. Sed nec apostoli ipsi solebant sui ævi Eccle-
+siam sic vocare. Ita locuta sunt sequentia sæcula.
+fp.
+
+# block=7 source_x1=1053 source_y1=973 source_x2=1808 source_y2=1396
+Εὐλογεῖται δὲ τοῦτο παρὰ τοῦ ἀρχιερέως εἰς ἄφεσιν
+ἁμαρτιῶν, καὶ προκατασκευὴν τοῦ βαπτίσματος.
+Ἐπικαλεῖται γὰρ οὕτω (31) τὸν ἀγέννητον Θεὸν, τὸν
+Πατέρα τοῦ Χριστοῦ, τὸν βασιλέα πάσης αἰσθητῆς
+καὶ νοητῆς φύσεως, ἵνα ἁγιάσῃ τὸ ἔλαιον τῷ ὀνόματι
+τοῦ Κυρίου Ἰησοῦ, καὶ δώσῃ χάριν πνευματικὴν, καὶ
+δύναμιν ἐνεργητικὴν, ἄφεσίν τε ἁμαρτιῶν, καὶ προ-
+παρασκευὴν ὁμολογίας βαπτίσματος, ὥστε τὸν χριόμε-
+νον,ἀπολυθέντα πάσης ἀσεβείας, ἄξιον γενέσθαι τῆς
+μυήσεως κατ’ ἐντολὴν τοῦ Μονογενοῦς.
+
+# block=8 source_x1=1055 source_y1=2526 source_x2=1810 source_y2=2730
+(32) Θεοῦ. Etiam hoc μονογενὴς Θεὸς alienum est
+a stylo apostolico, sed proprium Arianorum, qui
+Patrem ἀγέννητον vocabant, ut vidimus paulo antea;
+Filium vero γεννητὸν et μονογενῆ Θεόν. Quod cum
+offenderet scriptorem librarium alterius cod. Vindob.
+pro Θεοῦ hic scripsit Υἱοῦ.
+
+# block=9 source_x1=1052 source_y1=144 source_x2=1809 source_y2=792
+τοὺς νόμους τοῦ Θεοῦ καὶ Πατρὸς αὐτοῦ, καὶ σταυ-
+ρωθέντα ἐπὶ Ποντίου Πιλάτου, καὶ ἀποθανόντα ὑπὲρ
+ἡμῶν, καὶ ἀναστάντα ἐκ νεκρῶν μετὰ τὸ παθεῖν τῇ
+τρίτῃ ἡμέρᾳ, καὶ ἀνελθόντα εἰς τοὺς οὐρανοὺς, καὶ
+καθεσθέντα ἐν δεξιᾷ τοῦ Πατρὸς, καὶ πάλιν ἐρχόμενον
+ἐπὶ συντελείᾳ τοῦ αἰῶνος μετὰ δόξης κρῖναι ζῶντας
+καὶ νεκρούς, οὗ τῆς βασιλείας οὐκ ἔσται τέλος· βα-
+πτίζομαι καὶ εἰς τὸ Πνεῦμα τὸ ἅγιον, τουτέστι τὸν
+Παράκλητον, τὸ ἐνεργῆσαν ἐν πᾶσιν τοῖς ἀπ’ αἰῶνος
+ἁγίοις, ὕστερον δὲ ἀποσταλὲν καὶ τοῖς ἀποστόλοις (28)⁷⁸
+παρὰ τοῦ Πατρὸς κατὰ τὴν ἐπαγγελίαν τοῦ Σωτῆρος
+ἡμῶν Κυρίου Ἰησοῦ Χριστοῦ, καὶ μετὰ τοὺς ἀπο-
+στόλους δὲ πᾶσι τοῖς πιστεύουσιν, ἐν τῇ ἁγίᾳ καθολικῇ
+Ἐκκλησίᾳ (29), εἰς σαρκὸς ἀνάστασιν (30), καὶ εἰς
+ἄφεσιν ἁμαρτιῶν, καὶ εἰς βασιλείαν οὐρανῶν, καὶ εἰς
+
+# block=10 source_x1=1052 source_y1=2426 source_x2=1814 source_y2=2527
+(31) Οὕτω. Alter codex οὕτως. Quod sequitur ὁ
+ἀγέννητος Θεός est etiam loquendi formula Ariano-
+rum, quamvis cæteroqui sit vera. CLER.
+
+# block=11 source_x1=892 source_y1=2210 source_x2=1188 source_y2=2246
+VARIORUM NOTÆ.
+
+# block=12 source_x1=336 source_y1=2133 source_x2=712 source_y2=2170
+⁷⁵ al. add. ἡμῖν. ⁷⁶ f. τόν.
+
+# block=13 source_x1=1295 source_y1=888 source_x2=1562 source_y2=920
+ΚΕΦΑΛΑΙΟΝ ΜΒ΄.
+
+# block=14 source_x1=265 source_y1=796 source_x2=1811 source_y2=871
+ζωὴν τοῦ μέλλοντος αἰῶνος. Καὶ μετὰ τὴν ἐπαγγελίαν ταύτην, κατ’ ἀκολουθίαν ἔρχεται καὶ εἰς · τὴν τοῦ
+ἐλαίου χρίσιν.
+
+# block=15 source_x1=680 source_y1=88 source_x2=1383 source_y2=125
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=16 source_x1=1055 source_y1=2293 source_x2=1803 source_y2=2427
+p. 126, A.) Quæ enim laudantur, hæc, ἵνα καὶ τὴν
+εἰκόνα σώσῃ, καὶ τὴν σάρκα ἀθανατίσῃ, exstant in
+Gregorio Nazianzeno orat. 38, p. 620, C; orat. 42,
+p. 682, C. COT.
+
+# block=17 source_x1=530 source_y1=882 source_x2=740 source_y2=914
+CAPUT XLII.
+
+# block=18 source_x1=268 source_y1=92 source_x2=335 source_y2=124
+1043
+
+# block=19 source_x1=403 source_y1=1452 source_x2=880 source_y2=1485
+Gratiarum actio de mystica aqua.
+
+# block=20 source_x1=1715 source_y1=84 source_x2=1807 source_y2=128
+1044
+
+# block=21 source_x1=339 source_y1=924 source_x2=935 source_y2=968
+De unctione mystici olei actio gratiarum.
+
+# block=22 source_x1=1057 source_y1=926 source_x2=1807 source_y2=968
+Περὶ χρίσματος τοῦ μυστικοῦ ἐλαίου εὐχαριστία.
+
+# block=23 source_x1=1287 source_y1=1406 source_x2=1567 source_y2=1444
+ΚΕΦΑΛΑΙΟΝ ΜΓ΄.
+
+# block=24 source_x1=1125 source_y1=1452 source_x2=1731 source_y2=1488
+Περὶ τοῦ μυστικοῦ ὕδατος εὐχαριστία.
+
+# block=25 source_x1=483 source_y1=1396 source_x2=769 source_y2=1442
+CAPUT XLIII.

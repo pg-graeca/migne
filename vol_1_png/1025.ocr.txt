@@ -1,0 +1,176 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1037,757,1798,1577
+2,245,1719,1001,2147
+3,1039,1584,1806,2149
+4,244,630,1002,1710
+5,1037,2295,1806,2665
+6,246,144,1003,620
+7,1039,147,1797,748
+8,246,2357,1006,2693
+9,813,88,1217,125
+10,379,2704,640,2743
+11,864,2216,1167,2250
+12,247,2290,997,2362
+13,1575,2708,1617,2744
+14,249,96,318,132
+15,1710,88,1806,132
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=1037 source_y1=757 source_x2=1798 source_y2=1577
+LXIII. Tum ego, Competenter, aio, Deus negotia
+nostra componit; habemus enim nobiscum et Anu-
+bionem astrologum, cum quo si Antiochiam vene-
+rimus, de genesi attentius disputabimus. Cumque
+post medium noctis pater noster cum his quos jus-
+serat Petrus, et Anubione profectus esset; mane
+priusquam procederet ad disputandum Petrus, re-
+gressi sunt illi qui deduxerunt Simonem, id est
+Appion et Athenodorus, et venerunt ad nos requi-
+rentes patrem meum. Petrus vero ubi cognovit,
+jussit eos introire. Et cum consedissent, Ubi est,
+aiunt, Faustinianus? Petrus respondit : Nescimus :
+vespere enim postquam ad vos venit, ultra nulli
+suorum visus est; hesterno tamen die mane Si-
+mon venit quærens eum, et quia nihil illi respondi-
+mus, nescio quid ei visum sit, Faustinianum se esse
+dicebat. Quod cum ei nemo crederet, flens et dolens
+comminabatur perempturum semetipsum, et post
+hæc abiit ad mare versus.
+
+# block=2 source_x1=245 source_y1=1719 source_x2=1001 source_y2=2147
+LXII. Cum hæc Petrus intimaret patri, ille respon-
+dit : Scio quid velis, ne labores ultra ; intellexi enim
+et novi, quid oporteat cum ad locum venero, prose-
+qui. Et Petrus iterum suggerebat ei, dicens : Cum
+ergo veneris ad locum et videris populum ex ser-
+mone tuo converti, et depositis odiis recipere de-
+siderium nostri, mitte et manda mihi, et statim
+veniam. Cum autem venero, sine mora alienum
+hunc a te vultum effugabo, et tuum proprium qui
+tuis omnibus notus est reddam. Et his dictis fra-
+
+# block=3 source_x1=1039 source_y1=1584 source_x2=1806 source_y2=2149
+LXIV. Hæc cum audisset Appion et qui cum ipso
+erant, ululatum dederunt grandem, dicentes : Quid
+hoc fecistis, cur non recepistis eum? Et cum vellet
+Athenodorus dicere mihi quia ipse erat Fausti-
+nianus pater tuus, Appion præveniens eum : Com-
+perimus, inquit, a quodam qui cum Simone pro-
+fectus est, ipso Faustiniano deprecante cum, pro
+eo quod nollet filios suos videre, quia Judæi
+erant (63-64). Nos ergo cum audissemus hæc, venimus
+eum hic requirere, sed quia hic non est, apparet
+quia vere dixit qui nuntiavit cum Simone profe-
+ctum; hoc ergo nuntiamus vobis. Ego autem Cle-
+mens ubi intellexi consilium Petri, quia voluerit
+
+# block=4 source_x1=244 source_y1=630 source_x2=1002 source_y2=1710
+LXI. Cum ergo una cum ipsis Antiochiam vene-
+ris, quandoquidem Simon videris, publice stans
+prædica pœnitentiam tuam et dic : Ego Simon de-
+nuntio vobis et confiteor me omnia fefellisse de
+Petro; ille enim neque seductor est, neque magus,
+neque homicida, neque horum aliquid quæcunque
+contra eum locutus sum, sed dixi illa omnia furore
+commotus. Obsecro ergo vos ipse ego, qui dudum
+causas odii vobis contra eum dederam, ut nihil tale
+de eo sentiatis; sed deponite odium, cessate ab in-
+dignatione, quia vere a Deo ad salutem mundi mis-
+sus est discipulus veri Prophetæ et apostolus. Propter
+quod suadeo, hortor et moneo ut ipsum audiatis,
+ipsi creatis prædicanti vobis veritatem, ne forte
+si spreveritis eum, ipsa etiam subito civitas vestra
+pereat. Quam vero ob causam hæc nunc vobis con-
+fitear, indicabo. Hac nocte angelus Dei corripuit me
+impium, et cur inimicus essem veritatis præconi,
+vehementissime flagellavit (62).Deprecor ergo vos, ut
+etiamsi ego ipse post hæc veniens ad vos aliquid
+tentavero adversum Petrum dicere, ne suscipiatis,
+nec credatis. Confiteor enim vobis, ego magus,
+ego seductor, ego deceptor fui, sed pœnitentiam
+ago; licet enim per pœnitentiam priora male gesta
+delere.
+
+# block=5 source_x1=1037 source_y1=2295 source_x2=1806 source_y2=2665
+cus exstat c. 7. Ibi de Clemente dicitur : Ὑπὸ βαρ-
+βάρους τινὸς, τὴν προσηγορίαν Πέτρου, τὰ Ἰουδαίων
+ποιεῖν καὶ λέγειν ἠπάτηται. Metaphrastes vero posuit
+Epitomes c. 46, τὰ Χριστιανῶν. Secundum locum
+habes c. 13, ὁ δὲ τῶν, ὡς ὑμεῖς φατε, βαρβάρων Ἰου-
+δαίων λόγος, e quo vocem Ἰουδαίων Simeon abstulit,
+c. 50. Tertium c. 13, quem simili modo circumci-
+dit, c. 51. In quarto denique loco c. 24, Apion no-
+tat Clementem προσομιλοῦντα Ἰουδαίοις · at ex
+emendatione breviantis c. 53, Χριστιανοῖς. Lege
+homil. xı, c. 16, et alibi.
+
+# block=6 source_x1=246 source_y1=144 source_x2=1003 source_y2=620
+audisti quod unus ex his qui præmissi fuerant, re-
+gressus ex Antiochia, nuntiaverit, quomodo Simon
+ibi positus, turbas adversum me concitaverit, atque
+in odium mei totam inflammaverit civitatem; magum
+me et homicidam ac deceptorem confirmans, in tan-
+tum ut desiderent, si me videant, etiam carnes meas
+devorare. Fac ergo quod dico tibi : relinquens apud
+me Clementem, præcede nos Antiochiam cum con-
+juge tua et Fausto ac Faustino filiis tuis. Sed et
+alios mittam tecum, quos mihi videbitur, qui ob-
+temperent his quæ præcepero.
+
+# block=7 source_x1=1039 source_y1=147 source_x2=1797 source_y2=748
+tres meos proficisci cum ipso jubet, ac Matthidiam
+matrem nostram et quosdam ex familiaribus simul.
+Sed mater recusabat proficisci simul et aiebat :
+Quasi adultera mihi futura videor, si vultui Simo-
+nis conjuncta sim ; quod etsi cogar simul ire, im-
+possibile tamen est ut in eodem lectulo cum ipso
+jaceam, sed nescio si vel proficisci simul acquies-
+cam. Et cum valde renueret, Anubion hortari eam
+cœpit, dicens : Crede mihi et Petro, sed et ipsa vox
+non tibi Faustinianum esse persuadet conjugem
+tuum? quem vere non minus ego diligo quam tu.
+Denique etiam ego ipse vobiscum veniam. Et cum
+hæc dixisset Anubion, promisit mater simul se pro-
+fecturam.
+
+# block=8 source_x1=246 source_y1=2357 source_x2=1006 source_y2=2693
+(63-64) Quia Judæi erant. Ut benigne exponi potest
+per satis cognitum errorem, quo ethnici primis
+temporibus in nomine Judæorum Christianos quo-
+que comprehendebant : ita et suspectum esse queat
+Ebioniticæ labis apocryphis Clementinis inspersæ.
+Confundebant enim Ebionæi Christianismum cum
+Judaismo. Quocirca prudenter factum a Simone
+Metaphraste in Vita Clementis Romani, seu Cle-
+mentina Epitome, cum quatuor loca homiliæ quar-
+tæ Clementinorum mutavit et correxit. Primus lo-
+
+# block=9 source_x1=813 source_y1=88 source_x2=1217 source_y2=125
+RECOGNITIONUM LIB. X.
+
+# block=10 source_x1=379 source_y1=2704 source_x2=640 source_y2=2743
+PATROL. GR. I.
+
+# block=11 source_x1=864 source_y1=2216 source_x2=1167 source_y2=2250
+COTELERII NOTÆ.
+
+# block=12 source_x1=247 source_y1=2290 source_x2=997 source_y2=2362
+(62) Vehementissime flagellavit. Conferri potest
+hæc flagellatio cum illa famosa Hieronymi.
+
+# block=13 source_x1=1575 source_y1=2708 source_x2=1617 source_y2=2744
+46
+
+# block=14 source_x1=249 source_y1=96 source_x2=318 source_y2=132
+1449
+
+# block=15 source_x1=1710 source_y1=88 source_x2=1806 source_y2=132
+1450

@@ -1,0 +1,199 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,966,1133,1718,1648
+2,172,954,927,1383
+3,966,654,1718,1127
+4,173,1392,935,2032
+5,963,1654,1723,2082
+6,966,2089,1717,2343
+7,174,2039,934,2338
+8,172,699,928,947
+9,173,137,931,607
+10,966,481,1716,648
+11,967,132,1717,473
+12,172,617,922,694
+13,960,2491,1724,2669
+14,205,2380,884,2435
+15,172,2493,921,2696
+16,618,78,1265,116
+17,165,84,249,126
+18,1655,68,1725,110
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=18
+366
+
+# block=16
+EPISTOLÆ AD VIRGINES.-- PROOEMIA.
+
+# block=17
+365
+
+# block=11
+pidatus esset, præco factus in Oriente et Occidente;
+qui eximium fidei suæ decus accepit, totum mun-
+dum docens justitiam, et ad Occidentis veniens
+terminum, et sub præfectis martyrium passus (6),
+ita e mundo migravit, atque in locum sanctum ab-
+iit, patientiæ magnum exemplar factus. His viris
+qui divinam vitam duxerunt, aggregata est ingens
+electorum multitudo, › etc.
+
+# block=9
+turæ, inter præcipuos modernæ philosophiæ patro-
+nos, quorum amicus erat, versatus, innumera fere
+opuscula a se composita legit coram Academia Ro-
+thomagensi, cujus membrum erat. Solam vero
+traductionem Gallicam nostrarum Epistolarum evul-
+gavit, quamvis varia scientiarum penetralia adierit.
+Catalogus manuscriptorum quæ reliquit (5) non
+exhibet hominem fidei infensum. Nec tamen negari
+potest adnotationes ejus plurimas versioni subjec-
+tas reprehensione dignas esse, ut patebit ex his quæ
+modo dicturus sum.
+
+# block=10
+IV. Dubiam esse harum Epistolarum authentici-
+tatem, inde pronuntiat D. de Premagny quod, juxta
+ipsum, impossibile sit conjicere quibusnam scriptæ
+fuerint.
+
+# block=12
+Ordinem sequar numerorum quos affixit D. de
+Premagny in suis adnotationibus.
+
+# block=3
+Et tamen magis clara esse non possunt verba quæ
+initio primæ Epistolæ reperiuntur : Omnibus virgi-
+nibus beatis qui (7) constituerunt servare virginitatem
+propter regnum cœlorum. Ad hos solos utriusque
+sexus virgines scriptas fuisse has Epistolas agno-
+vit sanctus Hieronymus : ita ut animum mire dis-
+tractum habere debuerit D. de Premagny qui su-
+pra dicta verba prius ab ipso Latine transcripta,
+deinde in nostram linguam verterat, quando dixit
+conjici non posse quibus istæ destinarentur Epi-
+stolæ.
+
+# block=8
+I. Vix morabor ut probem contra adnotatorem
+non nocere Epistolarum authenticitati sanctorum
+ac beatorum vocabula quibus utitur sanctus Cle-
+mens. Ut ab eo adhiberi potuerint, sufficeret unicus
+horum verborum usus in Novo Testamento, ubi fre-
+quenter reperiuntur.
+
+# block=2
+II. Indirecte et transeunter perstringit apostola-
+tum beati Petri Romæ. Ille autem incursus respon-
+sum non meretur : innumeri quippe libri exstabant,
+tempore D. de Premagny, et nunc exstant, probantes
+nullum insulsiorem in mentibus eruditorum rema-
+nere posse dubitationem quam de longa sancti Pe-
+tri Romæ commemoratione : in hoc enim historiæ fac-
+to unanimes sunt cum tota retro antiquitate doctis-
+simi scriptores, tum inter Catholicos, tum etiam in-
+ter protestantes.
+
+# block=1
+Boni pastoris officium implebat sanctus Clemens
+dum invigilaret perfectioni eorum qui illustriorem
+gregis Christi portionem efficiunt. Dilectus discipu-
+lus ipse locum in cœlis honoratissimum eis assignat.
+Postquam enim nuntiavit eos habere nomen Agni
+Dei et Patris ejus scriptum in frontibus suis, dicit
+eos cantare ante sedem canticum novum, quod
+nemo præter illos, cantare potest, additque : Hi
+sunt qui cum mulieribus non sunt coinquinati : vir-
+gines enim sunt. Hi sequuntur Agnum quocunque
+ierit. Hi empti sunt ex hominibus primitiæ Deo et
+Agno 16.
+
+# block=4
+III. Miratur quod sancto Paulo titulus Divini Apo-
+stoli a contemporaneo tribuatur, isque vocetur
+Apostolus sine nominis additione, et per antonoma-
+siam. Sed sanctus Clemens in prima Epistola ad
+Corinthios, quæ authentica ab omnibus agnoscitur,
+dicit : ‹ Sumite Epistolam beati Pauli. › Quodnam
+tantum discrimen est inter divinum et beatum ?
+Nullum profecto. Præterea utrumque vocabulum,
+tempore sancti Clementis indifferentere usurpatur.
+Hinc in Actis martyrii sancti Ignatii Antiocheni, quæ
+scripta sunt ab ejus discipulis, legitur (n. 9) : ‹ Ut
+convenienter ei quod dixit divinus Paulus, ipse
+quoque fieret spectaculum mundo, et angelis et ho-
+minibus. › Igitur hac ætate ejusmodi voces adhiberi
+solebant.
+
+# block=5
+V. Domino de Premagny, post Wetstinum anim-
+advertere placet, nihil in his Epistolis inveniri
+dictum de hierarchia et ecclesiastica auctoritate :
+et inde concludere vult dubiam esse earum authen-
+ticitatem. Dixerat vero Wetstinus hanc authentici-
+tatem astrui præcise illo silentio. Wetstino jam
+responsum dedi. Restat ergo ut respondeam adnota-
+tori ibidem quæstionem nullam fuisse de hierarchia
+et de auctoritate ecclesiastica. Omnia tempus et lo-
+cum suum habent.
+
+# block=7
+Nec mirum quod etiam tunc sanctus Paulus per
+antonomasiam Apostolus dictus fuerit, cum tam
+divinitus ad apostolatum fuerit vocatus, ac tanto
+encomio a sancto Petro fuerit celebrata sapientia 14
+talis viri, qui, ut ait sanctus Clemens in prima Epi-
+stola ad Corinthios 15 : ‹ Patientiæ præmium obti-
+nuit, cum catenas septies portasset, vapulasset, la-
+
+# block=6
+VI. Vitiligat quoque D. de Premagny super vo-
+cabulis Apostoli et Evangelii, quasi hoc tempore
+usurpari non debuerint. Liceat mihi dicere litem
+hanc esse summopere ridiculam : postquam enim
+voces istæ a Christo, ab apostolis et evangelistis
+adhibitæ fuerint, quis dicere auderet a sancto Cle-
+
+# block=14
+¹⁴ II Petr. III, 15, 16. ¹⁵ N. 5. ¹⁶ Apocal. XIV.
+
+# block=13
+anno 1767, annis natus 58.
+(6) Ex historia discimus duos fuisse Romæ præ-
+fectos ultimo Neronis anno.
+(7) Scribitur qui non quæ, quia Epistola dirigitur
+ad virgines utriusque sexus.
+
+# block=15
+(5) Hunc catalogum benigne mihi transmisit D.
+D. Archiepiscopus Rothomagensis cum brevi notitia
+hujus auctoris. Tanto Præsuli grates rependo debi-
+tas pro isto totque aliis beneficiis mihi præstitis.
+Hinc didici D. de Premagny inter religionis ample-
+xus ante mortem se projecisse. Obiit 5 Februarii

@@ -1,0 +1,194 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,993,926,1758,1314
+2,206,928,968,1276
+3,995,125,1761,782
+4,211,129,965,784
+5,1003,1373,1757,1479
+6,209,1376,965,1483
+7,985,2400,1758,2710
+8,212,2507,972,2715
+9,1002,838,1756,910
+10,212,2406,960,2512
+11,820,2349,1126,2390
+12,210,841,963,914
+13,606,69,1346,110
+14,1269,1331,1481,1369
+15,203,1492,966,2207
+16,1271,796,1484,830
+17,439,1336,724,1372
+18,456,798,722,837
+19,212,77,291,117
+20,1671,68,1757,114
+21,999,1486,1755,2200
+22,191,2218,1759,2344
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=993 source_y1=926 source_x2=1758 source_y2=1314
+Eos qui persecutionem patiuntur fidei causa ,
+et de civitate in civitatem fugiunt ¹⁵ quod memine-
+rint verborum Domini, suscipite. Cum enim no-
+rint spiritum quidem promptum esse, carnem vero
+infirmam ¹⁶, aufugiunt, et facultatum suarum di-
+reptionem permittunt ac negligunt, ut in seipsis
+nomen Christi illibatum et negatione non proditum
+conservent. Subpeditate ergo illis quæ sunt neces-
+saria, mandatum Dominicum adimplentes.
+
+# block=2 source_x1=206 source_y1=928 source_x2=968 source_y2=1276
+Τοὺς διωκομένους διὰ πίστιν, καὶ εἰς πόλιν ἐκ πό-
+λεως φεύγοντας, διὰ τὸ μεμνῆσθαι τῶν λόγων τοῦ
+Κυρίου, προσλαμβάνεσθε. Ἐπιστάμενοι γὰρ, ὅτι τὸ
+μὲν πνεῦμα πρόθυμον, ἡ δὲ σὰρξ ἀσθενὴς, ἀποδι-
+δράσκουσι, καὶ τὴν ἁρπαγὴν τῶν ὑπαρχόντων προ-
+ΐενται ¹⁷, ἵνα ἀνεξάρνητον ἐν ἑαυτοῖς τὸ ὄνομα τοῦ Χρι-
+στοῦ διατηρήσωσιν. Ἐπικουρεῖτε οὖν αὐτοῖς τὰ πρὸς
+χρείαν, ἐντολὴν Κυριακὴν πληροῦντες.
+
+# block=3 source_x1=995 source_y1=125 source_x2=1761 source_y2=782
+ctum Filium, sunt potentes ac dynastæ Ecclesiæ.
+Hoc autem dicimus, non ut vinum nequaquam bi-
+bant; eo enim modo contumelia afficerent id quod
+a Deo factum est ad lætitiam; sed ut non inebrientur.
+Siquidem non dixit Scriptura, vinum non biben-
+dum; sed quid ait? « Ne bibe vinum ad ebrieta-
+tem ¹⁷, » et iterum: « Spinæ nascuntur in manu te-
+mulenti ¹⁸. » Id vero non de iis tantum, qui sunt
+in clero, dicimus; verum etiam de omni laico
+Christiano, super quem invocatum est nomen Do-
+mini nostri Jesu Christi ¹⁹; nam ipsis quoque di-
+ctum est: « Cui væ? cui tumultus? cui tædia et
+garrulitas? cujus oculi lividi? cui contusiones fru-
+stra? Nonne hæc eorum sunt, qui in vino immo-
+rantur, quique explorant, ubi fiant compotationes ¹⁵. »
+
+# block=4 source_x1=211 source_y1=129 source_x2=965 source_y2=784
+τὸν παντοκράτορα καὶ τὸν ἠγαπημένον αὐτοῦ Υἱὸν
+δυνάσται ὑπάρχουσι τῆς Ἐκκλησίας. Τοῦτο δέ φαμεν,
+οὐχ ἵνα μὴ πίνωσιν· ἄλλως γὰρ καὶ (80) ἔστιν ὑβρί-
+σαι τὸ ὑπὸ Θεοῦ γενόμενον εἰς εὐφροσύνην· ἀλλὰ ἵνα
+μὴ παροινῶσι. Οὐ γὰρ εἶπεν ἡ Γραφὴ, μὴ πίνειν οἶ-
+νον, ἀλλὰ τί φησιν; « Μὴ πῖνε οἶνον εἰς μέθην· »
+Καὶ πάλιν· « Ἄκανθαι φύονται ἐν χειρὶ μεθύσου. »
+Τοῦτο δὲ οὐ περὶ τῶν ἐν κλήρῳ μόνον φαμὲν, ἀλλὰ
+καὶ περὶ παντὸς λαϊκοῦ Χριστιανοῦ, ἐφ' οὗ ἐπικέκλη-
+ται τὸ ὄνομα τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ· καὶ
+αὐτοῖς γὰρ εἴρηται· « Τίνι οὐαί; τίνι θόρυβος; τίνι
+ἀηδίαι καὶ λέσχαι; τίνος πελιδνοὶ (81) οἱ ὀφθαλμοί;
+τίνι συντρίμματα διακενῆς; οὐ τῶν ἐγχρονιζόντων ἐν
+οἴνῳ, καὶ τῶν κατασκοπουμένων (82) ποῦ πότοι γί-
+νονται; »
+
+# block=5 source_x1=1003 source_y1=1373 source_x2=1757 source_y2=1479
+Quod unusquisque, in eo gradu cleri, in quo est con-
+stitutus, debeat permanere, et ordinem servare;
+non vero ad se rapere quæ commissa non sunt.
+
+# block=6 source_x1=209 source_y1=1376 source_x2=965 source_y2=1483
+Ὅτι ἕκαστος ἐν ᾧ ἐτάχθη κλήρῳ, ὀφείλει ἐμμέ-
+νειν, καὶ φυλάττειν τὴν τάξιν, ἀλλὰ μὴ ἑαυτῷ
+ἁρπάζειν τὰ μὴ ἐγχειρισθέντα.
+
+# block=7 source_x1=985 source_y1=2400 source_x2=1758 source_y2=2710
+κοινῇ πᾶσι COT.
+(85) Ἕκαστον. Addit alter cod. μὲν. CLER.
+(86) Ἥλιος. Scholion ad hæc verba habet: Ὅτι
+ἥλιος, καὶ σελήνη, καὶ ἄστρα, καὶ τὰ λοιπὰ ἄψυχα.
+contra Origenem, qui astra animata esse putabat.
+Eum vide lib. v contra Celsum, p. 238, ed. Cantab.
+et libro De oratione, cap. 24. IB.
+(87) Τολμᾷν. Deest in altero codice; ac sane
+abundat. IB.
+
+# block=8 source_x1=212 source_y1=2507 source_x2=972 source_y2=2715
+(82) Κατασκοπουμένων. Sic quoque citatur in
+Antiocho homilia 5. Unum exemplar ms. κατασκο-
+πευόντων; aliud, κατασκοπούντων. COT.
+(83) Περὶ τοῦ, etc. Deest inscriptio in altero cod.
+CLER.
+(84) Κοινῇ πάντες. In duobus scriptis libris,
+
+# block=9 source_x1=1002 source_y1=838 source_x2=1756 source_y2=910
+De recipiendis iis qui propter Christum patiuntur
+persecutionem.
+
+# block=10 source_x1=212 source_y1=2406 source_x2=960 source_y2=2512
+(80) Καὶ Dele cum altero cod. VIND. CLER.
+(81) Πελεδνοί. In altero cod. πέλιοι, quod idem
+est. IB.
+
+# block=11 source_x1=820 source_y1=2349 source_x2=1126 source_y2=2390
+VARIORUM NOTÆ.
+
+# block=12 source_x1=210 source_y1=841 source_x2=963 source_y2=914
+Περὶ τοῦ (83) ὑποδέχεσθαι τοὺς διὰ Χριστὸν διω-
+κομένους.
+
+# block=13 source_x1=606 source_y1=69 source_x2=1346 source_y2=110
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=14 source_x1=1269 source_y1=1331 source_x2=1481 source_y2=1369
+CAPUT XLVI.
+
+# block=15 source_x1=203 source_y1=1492 source_x2=966 source_y2=2207
+Ἐκεῖνο δὲ κοινῇ πάντες (84) παραγγέλλομεν, ἕκα-
+στον (85) ἐμμένειν τάξει τῇ δοθείσῃ αὐτῷ, καὶ μὴ
+ὑπερβαίνειν τοὺς ὅρους· οὐ γάρ εἰσιν ἡμέτεροι, ἀλλὰ
+τοῦ Θεοῦ. « Ὁ ὑμῶν γὰρ, φησὶν ὁ Κύριος, ἀκούων,
+ἐμοῦ ἀκούει· καὶ ὁ ἐμοῦ ἀκούων, ἀκούει τοῦ ἀπο-
+στείλαντός με· καὶ ὁ ὑμᾶς ἀθετῶν, ἐμὲ ἀθετεῖ· ὁ δὲ
+ἐμὲ ἀθετῶν, ἀθετεῖ τὸν ἀποστείλαντά με. » Εἰ γὰρ
+τὰ ἄψυχα γενόμενα, τὴν εὐταξίαν ἀποσώζει· οἷον
+νὺξ, ἡμέρα, ἥλιος (86), σελήνη, ἄστρα, στοιχεῖα, τρο-
+παὶ, μῆνες, ἑβδομάδες, ἡμέραι, ὧραι, καὶ δουλεύει
+τῇ διατυπωθείσῃ χρείᾳ, κατὰ τὸ εἰρημένον· « Ὅ-
+ριον ἔθου, ὃ οὐ παρελεύσονται· » καὶ πάλιν, περὶ
+τῆς θαλάσσης· « Ἐθέμην αὐτῇ ὅρια, περιθεὶς καὶ
+κλεῖθρα, καὶ πύλας· εἶπα δὲ αὐτῇ· Μέχρι τούτου
+ἐλεύσῃ, καὶ οὐχ ὑπερβήσῃ· » πόσῳ μᾶλλον ὑμεῖς οὐ-
+δὲν ὀφείλετε τολμᾷν (87) παρακινεῖν τῶν ὑμῖν κατὰ
+
+# block=16 source_x1=1271 source_y1=796 source_x2=1484 source_y2=830
+CAPUT XLV.
+
+# block=17 source_x1=439 source_y1=1336 source_x2=724 source_y2=1372
+ΚΕΦΑΛΑΙΟΝ ΜϚ'.
+
+# block=18 source_x1=456 source_y1=798 source_x2=722 source_y2=837
+ΚΕΦΑΛΑΙΟΝ ΜΕ'.
+
+# block=19 source_x1=212 source_y1=77 source_x2=291 source_y2=117
+1149
+
+# block=20 source_x1=1671 source_y1=68 source_x2=1757 source_y2=114
+1150
+
+# block=21 source_x1=999 source_y1=1486 source_x2=1755 source_y2=2200
+Illud autem communiter omnes præcipimus ; ut
+unusquisque in ordine sibi dato permaneat , neque
+regulorum terminos transcendat : non enim nostri
+sunt, sed Dei. « Qui enim vos, inquit Dominus,
+audit, me audit ; et qui me audit, audit eum qui
+misit me ; et qui vos spernit, me spernit ; qui
+autem me spernit, spernit eum qui misit me ¹⁸. »
+Nam si ea quæ inanima condita sunt, pul-
+chrum ordinem observant ; ut nox, dies, sol,
+luna, stellæ, elementa, tempestates, menses,
+hebdomades, dies, horæ ; ac usui constituto ser-
+viunt ; juxta illud dictum : « Terminum posuisti,
+quem non transgradientur ¹⁹ ; » et iterum, de mari :
+« Posui ei terminos, et circumposui claustra et
+ostia ; dixi autem ei : Hucusque venies, et non trans-
+ibis ²⁰ ; » quanto magis vos non debetis audere
+
+# block=22 source_x1=191 source_y1=2218 source_x2=1759 source_y2=2344
+¹⁵ Prov. xxiii; Eccl. xxxi; Ephes. v. ¹⁶ Prov. xxvi, 9. ¹⁷ Jac. II, 7. ¹⁸ Prov. xxiii, 29. ¹⁹ Matth. x,
+25. ¹⁶ Matth. xxvi, 41. ¹⁷ al. προσίενται. ¹⁸ Luc. x, 16; Matth. x, 40; Joan. xiii, 20. ¹⁹ Psal. ciii, 9.
+²⁰ Job xxxviii, 11.

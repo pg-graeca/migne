@@ -1,0 +1,62 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1106,158,1723,1240
+2,189,132,1076,2604
+3,768,87,1194,127
+4,1130,2517,1698,2562
+5,202,84,272,126
+6,1674,98,1734,132
+7,176,2622,1710,2742
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=5
+405
+
+# block=3
+EPISTOLA I AD VIRGINES.
+
+# block=6
+406
+
+# block=1
+sponde proximo; sin autem, sit manus
+tua super os tuum ⁹⁹; quia est tem-
+pus loquendi, et tempus tacendi ¹⁰⁰.
+Dictum est etiam : Quam pulchrum
+sit verbum in tempore suo prola-
+tum ¹; et iterum : Sermo vester
+semper in gratia sale sit conditus, ut
+sciatis quomodo oporteat vos uni-
+cuique respondere ²; labia enim
+stulti miscent serixis, et os ejus jur-
+gia provocat ³. Qui custodit os suum,
+custodit animam suam; qui autem
+inconsideratus est ad loquendum,
+sentiet mala ⁴ : nam per petulan-
+tiam linguæ excitat indignatio-
+nem. Quidam tandem beatum po-
+pulum dicunt ⁵, et per dulces sermo-
+nes et benedictiones, seducunt corda
+innocentium ⁶.
+
+# block=4
+Verumtamen, si acceperis verba
+
+# block=7
+⁹⁹ Eccli. v, 14. ¹⁰⁰ Eccle. iii, 7. ¹ Prov. xxv, 11. ² Coloss. iv, 6. ³ Prov. xviii, vi. ⁴ Prov. xiii,
+3. ⁵ Isa. iii, 12. ⁶ Rom. xvi, 18. ⁷ Matth. xv, 14. ⁸ Gal. v, 10. ⁹ Jac. iii, 15. ¹⁰ I Cor. ii, 4. ¹¹ Ephes.
+v, 2.

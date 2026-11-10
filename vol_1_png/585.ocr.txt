@@ -1,0 +1,214 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,953,260,1705,777
+2,157,265,916,822
+3,157,922,912,1081
+4,950,922,1708,1079
+5,969,182,1683,250
+6,755,1286,1070,1321
+7,941,1322,1692,2691
+8,159,1126,920,1221
+9,155,188,909,257
+10,1646,82,1696,117
+11,1235,136,1416,175
+12,406,147,657,180
+13,151,1327,911,2688
+14,158,92,212,126
+15,595,85,1263,120
+18,397,830,679,864
+19,199,874,883,918
+20,1039,870,1597,916
+21,1231,824,1403,874
+22,945,1130,1709,1214
+23,1225,1084,1415,1130
+24,393,1092,663,1132
+25,185,1232,1139,1270
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Ne sis quasi volitans, et inambulans, ac errans
+in vicis, intempestivus prave viventium spectator ;
+sed arti tuæ operique tuo animum intendens, stude
+ut quæ Deo accepta sunt facias, et Christi oracula
+recordatus assidue meditare. Tibi enim ait Scri-
+ptura : « In lege ejus meditaberis die ac nocte, de-
+ambulans in agro, et sedens in domo, cubans et
+exsurgens; ut in omnibus intelligas⁹². » Sed etsi
+dives sis, nec arte quæ te nutriat opus habeas ; ne
+vagabundus atque ambulator importunus efficiaris :
+sed sive adeas ad fideles ac consectarios, cum eis
+conferens, sermones salutiferos sere.
+
+# block=2
+Οὐκ ἔσῃ ὡς πετόμενος· (37) καὶ ἐμπεριπατῶν καὶ
+ἀλώμενος ἐν ταῖς ῥύμαις, ἀκαιροεπόπτης τῶν κακῶς
+ζώντων· ἀλλὰ τῇ τέχνῃ σου καὶ τῷ ἔργῳ σου προσ-
+έχων, τὰ τῷ Θεῷ φίλα ἀναζήτει ποιεῖν, καὶ τὰ τοῦ
+Χριστοῦ λόγια ἀναμιμνησκόμενος διηνεκῶς μελέτα.
+Λέγει γὰρ ἡ Γραφή σοι, ὅτι « Ἐν τῷ νόμῳ αὐτοῦ με-
+λετήσεις ἡμέρας καὶ νυκτὸς, περιπατῶν ἐν ἀγρῷ, καὶ
+ἐν οἴκῳ καθήμενος, κοιταζόμενος, καὶ διανιστάμενός·
+ἵνα συνιῇς ἐν πᾶσιν. » Ἀλλ’ εἰ καὶ πλούσιος ὑπάρ-
+χεις, χρείαν τέχνης πρὸς τὸ τρέφεσθαι οὐκ ἔχων, μὴ
+ῥεμβὸς γίνου, μηδὲ ἀκαιροπεριπάτητος (38)· ἀλλ’
+εἴτε προσέρχῃ τοῖς πιστοῖς τε καὶ ὁμοδόξοις, συμ-
+βάλλων τὰ ζωοποιὰ προσομίλει ῥήματα.
+
+# block=3
+Εἰ δὲ μὴ, καθεζόμενος ἔνδον ἀναγίνωσκε τὸν Νό-
+μον, τὰς Βασιλείους, τοὺς Προφήτας· ψάλλε τοὺς ὕ-
+μνους Δαβίδ (39)· διέρχου ἐπιμελῶς τὸ Εὐαγγέλιον
+τὸ τούτων συμπλήρωμα.
+
+# block=4
+Sin minus; intus sedens Legem perlege, libros
+Regum, Prophetas; psalle hymnos Davidicos; ho-
+rumque complementum Evangelium diligenter per-
+curre.
+
+# block=5
+Quod non oportet de iis qui male vivunt satagere ,
+sed operi suo vacare.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=7
+Cyprianus discipulus in Vita illius, c. 3. Vide quo-
+que epistolam 2 Paulini ad Ausonium. Sed et Ori-
+genis studium erga litteras sæculares nonnullis dis-
+plicebat; quibus ille respondit per epistolam, ut vi-
+dere est in Historia Eusebii lib. VI, cap. 19. Haymo
+Halberstadensis lib. VI De Christianarum rerum me-
+moria cap. 3: Quod autem erratum est ab Origene,
+et contra orthodoxam fidem aliquid descriptum, opi-
+nor hoc ei accidisse, quia nimio lectionis studio philo-
+sophos est amplexus. Attigerat enim et omnino asse-
+cutus fuerat secreta Platonis, et Pythagoræ, Zenonis-
+que Stoici, et Cerinthi volumina, cæterorumque phi-
+losophorum, etc. Quis fuerit Cerinthus iste, novus
+ex hæretico philosophus, juxta cum ignavissimis
+scio; nec satago quærere, quia constat apud me
+debere reponi Cornuti nomen, ex his Rufini, inter-
+pretantis caput mox laudatum Eusebianæ historiæ :
+Assecutus fuerat Origenes omnia Platonis secreta.
+Institutus fuerat in libris Numenii, et Cronii, et
+Apollophanis, ac Longini, sed et Moderati, atque
+Nicomachi. In Pythagoricis vero summorum virorum,
+non eum latuere Commentarii. Attigit etiam Chære-
+monis Stoici, et Cornuti volumina. Unde etiam sub-
+stituendum forte Chæremonis, loco Zenonis in Hay-
+mone. Peculiariter vero, ne legant libros ethnico-
+rum interdicit episcopis concilium Carthaginense IV,
+can. 61 : Ut episcopus gentilium libros non legat,
+hæreticorum autem pro necessitate et tempore. Mona-
+chis Isidorus Pelusiota lib. I, epist. 63, et Isidorus
+Hispalensis cap. 8 suæ Regulæ. Nilus asceta lib. II,
+epist. 73, lib. IV, epist. 1. Quinetiam ab Apostata
+Juliano Christianorum simia, in fragmento præ-
+scribitur quibus scriptoribus abstinere debeant sa-
+cerdotes. Exstat adhæc epistola Gregorii Nazian-
+zeni ad Gregorium Nyssenum, numero quadrage-
+sima tertia, qua increpat eum quod sacris volumi-
+[nibus
+(41) Ti. Ante hanc voculam leguntur in altero
+Vindobonensi libro : Τὰ αἱρετικὰ μὴ ἀναγίνωσκε.
+CLER.
+
+# block=8
+Περὶ τοῦ ἀπέχεσθαι πάντων τῶν ἔξωθεν βιβλίων.
+Τῶν ἐθνικῶν βιβλίων πάντων ἀπέχου (40). Τί (41)
+
+# block=9
+Ὅτι οὐ δεῖ περιεργάζεσθαι τοὺς κακῶς ζῶντας,
+ἀλλὰ τῷ οἰκείῳ ἔργῳ σχολάζειν.
+
+# block=10
+570
+
+# block=11
+CAPUT IV.
+
+# block=12
+ΚΕΦΑΛΑΙΟΝ Δ'.
+
+# block=13
+(37) Οὐκ ἔσῃ ὡς πετόμενος. Infra cap. 7 pro-
+fertur sententia Proverbiorum VII, 10, 11, 12, quam
+non injucundum erit cum hac conferre. S. Hiero-
+nymus contra Helvidium cap. ult.: Illa ad hirundi-
+nis modum lustrat universa penetralia. Item episto-
+la XXII, cap. 12 et 13. COT.—Uterque codex Vindo-
+bonensis habet πωτώμενος, quod est poeticum, po-
+tius quam vulgaris usus. Intelligitur homo otiosus,
+qui huc illuc fertur vagaturque, cum nescit cuinam
+rei incumbere eum oporteat. Suidas : πετόμενος,
+φερόμενος, hoc est, homo vagus. CLER.
+(38) Ἀκαιροπεριπάτητος. Mss. Vindobonenses
+ἀκαιροπάτος. Significatur intempestivus ambulator,
+qui quasi explorator ubique vagatur. Debuisset po-
+tius dicere ἀκαιροπεριπατητικός, nam ea forma acti-
+vam potestatem habet, περιπάτητος passivam. CLER.
+(39) Δαβίδ. Deest in altero cod. Vindobonensi. ID.
+(40) Τῶν ἐθνικῶν βιβλίων πάντων ἀπέχου. Li-
+brorum a paganis conscriptorum lectio secum tra-
+hit multa commoda, multa incommoda, ut bono
+vel malo animo suscipitur. Eapropter apud magi-
+stros veteres modo invenies permissam, imo probα-
+tam, suasam, laudatam, defensam ; modo condem-
+natam, et vel omnibus, aut saltem quibusdam pro-
+hibitam ; modo nonnullis præceptionibus munitam
+atque vallatam. Comprobant, tuentur, laudibus ef-
+ferunt, potissimum Alexandrinus Clemens lib. I
+Operis varie contexti, Tertullianus De idololatria
+cap. 18 ; Origenes Philocaliæ cap. 13, et apud Eu-
+sebium Hist. eccl. lib. VI, cap. 18, 19 ; Gregorius
+Nazianzenus orat. 20 ; Hieronymus epist. 84 ad Ma-
+gnum Oratorem, Gregorius Papa ad I Reg. XIII, 19,
+20 ; Theodoritus Hist. eccl. lib. IV, cap. 26 ; Socra-
+tes ac Nicephorus in consimili syntagmate, ille
+lib. III, cap. 16, hic lib. X, cap. 26 ; et Joannes Da-
+mascenus cap. 1 libri De dialectica. Rejiciunt ac
+vetant universe, cum Constitutionibus hic et lib. II,
+cap. 61, Recognitiones lib. X, capp. 15, 42 ; Isido-
+rus lib. III Sententiarum c. 13 ; notaque nulli non
+est circa hanc rem Hieronymi flagellatio ; cui ad-
+nectere oportet quod de Cæsario Arelatensi refert
+
+# block=14
+569
+
+# block=15
+CONSTITUTIONES APOSTOLICÆ.—LIB. I.
+
+# block=18
+ΚΕΦΑΛΑΙΟΝ Ε'.
+
+# block=19
+Ποῖα τῆς Γραφῆς βιβλία δεῖ ἀναγινώσκειν.
+
+# block=20
+Quos Scripturæ libros oporteat legere.
+
+# block=21
+CAPUT V.
+
+# block=22
+Quod oporteat abstinere ab omnibus gentilium libris.
+⁹³ Ab omnibus gentilium libris abstine. Quid enim
+
+# block=23
+CAPUT VI.
+
+# block=24
+ΚΕΦΑΛΑΙΟΝ Ϛ'.
+
+# block=25
+⁹² Jos. I, 8 ; Deut. VI, 7 ⁹³ Citatur ab Anastasio, Quæst. 65.

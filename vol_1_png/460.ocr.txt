@@ -1,0 +1,206 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,262,307,1012,1041
+2,1047,309,1795,1042
+3,257,1256,1006,2719
+4,1042,1418,1795,2679
+5,546,263,731,303
+6,1042,1185,1793,1421
+7,250,1184,1002,1258
+8,873,1125,1174,1162
+9,617,86,1381,125
+11,268,140,1015,218
+12,267,86,341,124
+13,1727,88,1799,134
+14,1047,138,1803,266
+15,1281,270,1569,306
+16,259,1053,891,1117
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=16px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=13 fontSize=16px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+⁷⁹ Judith. ṽiii-xiii. ⁸⁰ Esth. v, xiv, xv.
+
+# block=12
+319
+
+# block=9
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=13
+320
+
+# block=14
+Κυρίου ἡ γῆ καὶ τὸ πλήρωμα αὐτῆς. Ταῦτα, εἱ
+πολιτευόμενοι τὴν ἀμεταμέλητον πολιτείαν τοῦ Θεοῦ,
+ἐποίησαν, καὶ ποιήσουσιν
+
+# block=11
+qui divinam, cujus nunquam pœnitet vitam vi-
+vunt, fecerunt et facient.
+
+# block=5
+CAPUT LV.
+
+# block=15
+ΚΕΦΑΛΑΙΟΝ ΝΕ'.
+
+# block=1
+Ut autem etiam gentium exempla proferamus:
+multi reges et principes, pestifero tempore sæ-
+viente, cum oraculo admoniti essent, se ipsos morti
+tradiderunt, ut cives suo sanguine liberarent. Multi
+a suis civitatibus , ne seditio amplius duraret,
+secesserunt. Multos e nostris cognovimus, qui se
+ipsos in vincula conjecerunt, ut alios redimerent.
+Multi se ipsi in servitutem dederunt, et accepto pretio
+sui, alios cibarunt. Mulieres complures per gratiam
+Dei corroboratæ, strenua et virilia multa gesserunt.
+Beata Judith ⁷⁹, cum urbs obsideretur, rogaret se-
+niores ut sibi liceret in alienigenarum castra trans-
+ire : ac se ipsam periculo tradens, propter charita-
+tem patriæ populique obsessi egressa est ; et Domi-
+nus tradidit Olophernem in manu feminæ. Nec mí-
+nus perfecta secundum fidem Esther ⁸⁰ periculo se
+objecit, ut duodecim tribus Israel jam perituras
+
+# block=2
+Ἵνα δὲ (73) καὶ ὑποδείγματα ἐθνῶν ἐνέγκωμεν ·
+πολλοὶ βασιλεῖς καὶ ἡγούμενοι (74), λοιμικοῦ τινος
+ἐνστάντος καιροῦ, χρησμοδοτηθέντες, παρέδωκαν
+ἑαυτοὺς εἰς θάνατον, ἵνα ῥύσωνται διὰ τοῦ ἑαυτῶν
+αἵματος τοὺς πολίτας. Πολλοὶ ἐξεχώρησαν ἰδίων πό-
+λεων, ἵνα μὴ στασιάζωσιν ἐπὶ πλεῖον. Ἐπιστάμεθα
+πολλοὺς (75) ἐν ἡμῖν παραδεδωκότας ἑαυτοὺς εἰς
+δεσμά, ὅπως ἑτέρους λυτρώσονται (76). Πολλοὶ ἑαυ-
+τοὺς παρέδωκαν εἰς δουλείαν, καὶ λαβόντες τὰς τιμὰς
+αὐτῶν, ἑτέρους ἐψώμισαν. Πολλαὶ γυναῖκες ἐνδυναμω-
+θεῖσαι διὰ τῆς χάριτος τοῦ Θεοῦ, ἐπετελέσαντο πολλὰ
+ἀνδρεῖα. Ἰουδὶθ ἡ μακαρία (77), ἐν συγκλεισμῷ οὖ-
+σης τῆς πόλεως, ἠτήσατο παρὰ τῶν πρεσβυτέρων
+ἐαθῆναι αὐτὴν ἐξελθεῖν εἰς τὴν παρεμβολὴν τῶν ἀλ-
+λοφύλων · παραδοῦσα οὖν ἑαυτὴν τῷ κινδύνῳ ἐξῆλθεν
+δι' ἀγάπην τῆς πατρίδος, καὶ τοῦ λαοῦ τοῦ ὄντος ἐν
+συγκλεισμῷ, καὶ παρέδωκεν Κύριος Ὀλοφέρνην ἐν.
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=7
+(73) Ἵνα δὲ, κ. τ. λ. Huc respexit Origenes tom.
+IX, in Joan., p. 143. GALL.
+
+# block=6
+crevi. Quin et ŒEdipus, λοιμικοῦ τινος ἐνστάντος και-
+ροῦ, χρησμοδοτηθεὶς (auctoris nostri verba allero) a
+poeta inducitur in eumdem morem verba faciens:
+Quicunque fessi corpore et morbo graves
+Semianima trahitis corpora, en fugio, exeo,
+Relevate colla, mitior cœli status
+Post terga sequitur. FELL.
+
+# block=3
+(74) Πολλοὶ βασιλεῖς καὶ ἡγούμενοι. En Orige-
+nis verba in Joannem, p. 142, 143, huc respicien-
+tis : Μεμαρτύρηται δὲ καὶ παρὰ τοῖς ἔθνεσιν, ὅτι
+πολλοὶ τινες λοιμικῶν ἐνσκηψάντων νοσημάτων, ἑαυ-
+τοὺς σφάγια ὑπὲρ τοῦ κοινοῦ παραδεδώκασι, καὶ πα-
+ραδέχεται ταῦθ' οὕτως γεγονέναι, οὐκ ἀλόγως πι-
+στεύσας ταῖς ἱστορίαις ὁ πιστὸς Κλήμης, ὑπὸ Παύλου
+μαρτυρούμενος. Hoc est : Relatum autem ac testatum
+etiam apud gentes est, multos, cum pestilentes morbi
+grassarentur, seipsos in victimas pro patria tradi-
+disse. Atque hæc ita evenisse admittit, non sine cau-
+sa historiis credens, Clemens ille fidelis, cui testimo-
+nium tribuitur a Paulo. Idem in iisdem Commenta-
+riis, p. 363 : Περὶ δὲ τοῦ πολλάκις ἐπικρατούντων
+τινῶν χαλεπῶν ἐν τῷ τῶν ἀνθρώπων γένει, οἷον λοι-
+μῶν, ἢ ἐπιβλαβῶν νηνεμιῶν, ἢ λιμῶν, λύεσθαι τὰ
+τοιεῦτα, οἱονεὶ καταργουμένου τοῦ ἐνεργοῦντος αὐτὰ
+πονηροῦ πνεύματος, διὰ τὸ ἑαυτόν τινα ὑπὲρ τοῦ
+κοινοῦ διδόναι, πολλαὶ φέρονται Ἑλλήνων καὶ Βαρ-
+βάρων ἱστορίοι, τὴν περὶ τοῦ τοιούτου εὔνοιαν (male
+interpres ἔννοιαν) οὐκ ἀποπτυόντων οὐδὲ ἀποδοκιμα-
+ζόντων. Πότερον μὲν οὖν ἀληθῆ ἐστι τὰ τοιαῦτα, ἢ
+μὴ, οὐ τοῦ παρόντος ἐστὶ καιροῦ μετὰ ἐξετάσεως
+διαλαβεῖν. Verti debuit : Quod autem frequenter in-
+valescentibus rebus quibusdam asperis in humano ge-
+nere, veluti peste, aut nocua serenitate ac ventorum
+cessatione, aut fame, solvantur hæc, quasi sublato malo
+spiritu qui ea operabatur, eo quod aliquis seipsum pro
+cunctis obtulerit, multæ feruntur Græcorum et barbaro-
+rum historiæ, hujusmodi benevolentiam neque respuen-
+tium neque reprobantium. Utrum autem illæ narrationes
+veræ sint, necne, non est præsentis temporis accurate
+disceptare. Quibus similia profert lib. iv in Episto-
+lam ad Romanos, ante finem , atque, tomo 1 con-
+tra Celsum, ante medium. Nihil porro notius iis
+quæ referuntur de Menœceo, Codro, Macaria, Pro-
+togenia et Pandora, Philænis fratribus, Lei filiabus,
+Curtio, Deciis, aliisque qui se ultro morti pro com-
+muni civium salute obtulerunt. Cot. — Πολλοὶ βα-
+σιλεῖς καὶ ἡγούμενοι. Quales Codrus, Lycurgus ;
+Genusius Cippus, M. Curtius et Scipio Africanus,
+qui ingratam urbem relicturus, per quem stetit ut
+ingrata esse posset, Clementis nostri fere verbis ei
+valedixit, dicens : Exeo, si plus quam tibi expedit.
+
+# block=4
+(75) Ἐπιστάμεθα πολλοὺς, etc. Ad horum exem-
+plum postea B. Paulinus Nolanus præsul subiit vo-
+luntariam servitutem, ut filium viduæ liberaret ;
+referente magno Gregorio, lib. 111 Dialogorum,
+cap. 4 : "Αν αἰχμάλωτον, inquit incertus scriptor de
+Persica captivitate a R. P. Francisco Combefisio
+publici juris factus, θεάσῃ δακρύοντα, προσπίπτοντα,
+ταλαιπωροῦντα, χειμαζόμενον, τόπον ἐκ τόπου πρὸς
+εὐποιΐαν μετερχόμενον, μαστιζόμενον, ὑπὲρ Χριστοῦ,
+καταπονούμενον, καὶ ὡς κτῆνος πιπρασκόμενον· μὴ
+μόνον χρήματα, ἀλλ' εἰ δυνατὸν τὰ ἑαυτῶν σώματα
+μεταδώσωμεν · καλὸν γὰρ ἀγοράσαι Χριστὸν πιπρα-
+σκόμενον. Cor. — Ἐπιστάμεθα. Hujus rei exempla
+dabit B. Paulus, Ep. ad Rom c. xv1, 3, Priscam et
+Aquilam, qui pro anima ejus suas cervices supposue-
+runt ; et ad Philip. 11, 30, Epaphroditum animæ
+suæ parabolanum, παραβολευσάμενον τῇ ψυχῇ. Se-
+quentium temporum heroas, qui hac laude clarue-
+runt, referre mora esset. Gentis tamen nostræ pro-
+tomartyr S. Albanus a nobis præteriri minime de-
+bet, qui sub Diocletiano, pro clerico hospite, qui per-
+secutionem fugientem susceperat, se ipsum tradens,
+post verbera , aliaque acerbiora tormenta , capite
+plexus est; quemadmodum Baronius ad. an. 103,
+ex Beda nostrate historiam narrat, Hoc autem in
+loco observari poterit, durante primævæ charitatis
+impetu , tantam fuisse Parabolanorum segetem,
+quibus id negotii dabatur, ut propriæ salutis dis-
+pendio alienam procurarent, inque tam magna ho-
+minum collegia excrevisse, ut eorum numerum im-
+peratorum rescriptis necesse esset coerceri, quem-
+admodum videre est cod. Theod., lib. xv1, tit. 11,
+de Ep. Eccles. et clericis, leg. 42. FELL.
+(76) Λυτρώσονται. Forte λυτρώσωνται, Mill. Gall.
+(77) Ἰουδὶθ ἡ μακαρία. Confer Clementem
+Alexandrinum, p. 521, et constabit illo aliquem ju-
+niorem inde hæc quæ hic legis deformasse. nec id
+quidem perite. BERN.

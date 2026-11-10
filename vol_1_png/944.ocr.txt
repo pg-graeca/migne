@@ -1,0 +1,189 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,229,1949,976,2329
+2,223,421,974,1943
+3,1009,1904,1767,2332
+4,227,2500,966,2703
+5,1010,172,1768,1896
+6,826,2432,1127,2469
+7,241,173,982,421
+8,1009,2664,1748,2731
+9,1000,2530,1742,2662
+10,256,2365,704,2403
+11,1006,2498,1270,2529
+15,243,118,315,151
+17,246,2700,962,2732
+18,1690,117,1764,152
+20,674,114,1377,154
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=15 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=20
+. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=18
+1288
+
+# block=15
+1287
+
+# block=5
+dissensionem surrexit et hoc numero distans, nec
+enim est Autopator, hoc est sibi ipsi pater, quo-
+modo non magis innascibili consensu permanere
+diligeret, quod ingenitum quidem erat substantia,
+genitura vero in dualitatem dinumerata. Hujus nam-
+que inconvenientiæ mater quidem est ignorantia de
+Deo, cooperatrix vero et soror negligentia de Spi-
+ritu sancto: Spiritus autem sanctus pignus ad con-
+servationem eorum quæ a Domino data sunt nobis
+(quem non post multos dies assumptionis ejus ac-
+cepimus), habet quod est ab Unigenito, plenissima
+declaratio virtutis ejus; sicut unigenitus et omnium
+primogenitus imago est immutabilis ingenitæ virtu-
+tis, imago scilicet unica, immaculata manens, vi-
+sionem ingeniti cum sit visibilis, præstat intelligi-
+bilibus et sensilibus; quo modo si quis soleni
+verbi gratia ostendere volens aut aliud aliquid, his
+qui non possunt per se ipsos eum videre, sit autem
+illis necessitas videre solem, temperans obtutibus
+ipsam necessitatem, per speculum quidem solem
+ostendere festinat, et non solem afferens injicit
+speculo; ita et Unigenitus ipse quidem ingenitus
+non est, ingenitum vero totam in se demonstrat vir-
+tutem cum sit talis ac tantus deitate; ab his vero
+qui non diligenter inquisiverunt ingenitus suspica-
+batur, apud quos vero præcedit ipsa inquisitio ti-
+morem Dei (86), non solum dicere aliquid tale re-
+cusant, sed etiam cogitare cavent. Cum ergo unus
+sit ingenitus et unus genitus, Spiritus sanctus
+Filius dici non potest, nec primogenitus; factus
+est enim per factum (87), subconnumeratur autem
+Patri et Filio, tanquam primum secundi per fa-
+ctum virtutis signaculum. Etenim ipse Patris ferens
+æquipondera voluntate, innatæ perseverantiæ in
+imagine operationem, post ingenitum consequenter
+bene connumeratus est. Multa autem et alia de
+Patre, et Filio, et Spiritu sancto breviter nobis et
+evidenter exposuit, ut omnes audientes mirare-
+mur, quomodo homines derelicta veritate conversi
+sunt ad vanitatem.]
+
+# block=7
+In seipso; impietatis autem plena sunt hæc de in-
+genito suspicari, periclitantur enim filii impiorum
+pie se putantes intelligere, magnam blasphemiam
+ingenito ingerendo, masculofeminam eum existi-
+mantes. Memor sum sane ejus qui commonuit nos,
+fratres.
+
+# block=2
+X. Manendo ergo genuit Deus voluntate præce-
+dente (85), sicut prædictum est. Propterea Unige-
+nitus vere appellatur; ex ingenito enim habet quod
+est et Filius vere appellatur, ab innato enim natus
+est. Sed tamen voluntate controversiam noxiam
+mansuete paulatim relaxantes eorum, qui audent
+dicere infectum a facto appellatione sola distare, et
+illud quod genite distinctum est, adversus innatum
+esse substantiam ingenitum affirmare. Quod si ita
+dicitur, quod quidem dicitur non est, quod autem est
+non dicitur. Est enim infectum substantia, si autem
+dicitur factum, detestatur quod non est appellatum,
+maxime autem ultro rationabili exstante Deo et
+ultro sine principio, quod modo non sit impossi-
+bile; magis autem impium est, et id quod ultro est
+rationabile ultroque ingenitum, non sibi ipsi ma-
+gis vellet esse conjunctum, quam qualitatis subire
+ordinem, honorabiliorem existimans nativitatem
+innatæ perseverantiæ. Unum enim non est, neque
+ipsum sibi præcipit dicens : Sede a dextris meis,
+donec ponam inimicos tuos scabellum pedum tuo-
+rum ⁸ᵃ. Sed neque contendit adversus se ipsum, ut
+aliquid videlicet ejus permaneret ingenitum, aliquid
+vero nativitati subjiceretur : scire quoque atque
+præscire ingenite aliquid sui nasciturum, aliquid
+vero generaturum; omnino videlicet honorabilio-
+rem se sibimetipsi non ignorans esse futurum, ali-
+quid quidem præcipientem, aliquid vero præceptum
+accipientem, illud verbi gratia quod dictum est :
+Sede a dextris meis, vel etiam illud quod ad missio-
+nem pertinet aut quod ipse semetipsum præferens
+collaudaverit, dicens : Et vidit Deus, quia bona ⁸ᵇ, post-
+quam ab Unigenito sex diebus effecta sunt quæ facta
+esse constat, immutabilem videns suam voluntatem
+in consummationibus Unigeniti divinæ operationis.
+
+# block=3
+XII. Sed cum illuxisset dies (88), ingressus est
+quidam dicens : Multitudo plurima exspectat in
+atrio, in quorum medio stat Simon, persuasionibus
+pessimis prævenire aures populi cupiens. Et Pe-
+trus statim egressus stetit in loco quo pridie dispu-
+taverat, omnisque ad ipsum populus conversus cum
+gaudio intendebat in eum. Simon vero ubi sensit
+gavisum esse populum de conspectu Petri, et erga
+affectum ejus moveri, obstupefactus ait : Miror ho-
+minum stultitiam, qui me magnum dicunt et Petrum
+
+# block=1
+XI. Si autem ingenitus non est factus Pater aut
+sui ipsius factor, sicut ostendimus; quomodo uti-
+que faceret aut generaret ex se ipso aliquid, quod
+nativitatem et facturam usque ad appellationem
+non recepit? Non enim quod est per hæc habet;
+ista autem de Deo dicere impium est. Manifesta
+enim est his qui vel modicum quidpiam videre pos-
+sunt, illa ingeniti, impassibilis, innata substantia.
+Si vero et post nativitatem substantia nunquam ad
+
+# block=10
+⁸² Psal. cıx, 1. ⁸³ Gen. ı, 31.
+
+# block=6
+COTELERII NOTÆ.
+
+# block=11
+Dei. Sic ms. Cand.
+
+# block=4
+(85) Genuit Deus voluntate præcedente. Dicere de-
+puit, voluntate comitante, aut concomitante, ut
+loquuntur theologi. Pari modo paulo post, recte
+scripsisset : Unus enim non est, neque ipse sibi præ-
+cipit, pro, unum enim non est, neque ipsum sibi præ-
+cipit.
+
+# block=9
+(87) Factus est enim per factum. Forsan Græce ha-
+bebatur γέγονε γὰρ διὰ τοῦ γενητοῦ, quod melius
+verti potuisset : Exstitit enim per eum, qui ortus
+est.
+
+# block=8
+(88) Sed cum, etc. In marg. ms. Th. : Ab isto
+loco secure legere potes.
+
+# block=17
+(86) Ipsa inquisitio.Forte,ipsam inquisitionem timor

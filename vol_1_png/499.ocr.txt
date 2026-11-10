@@ -1,0 +1,88 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,145,2300,1680,2711
+2,1075,148,1689,1159
+3,1069,1663,1679,2231
+4,155,133,1044,1542
+5,145,1648,1035,2256
+6,692,66,1118,127
+8,1255,1562,1493,1622
+9,459,1566,737,1634
+10,153,82,239,122
+11,1621,80,1695,126
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=6
+EPISTOLA I AD VIRGINES.
+
+# block=11
+398
+
+# block=10
+397
+
+# block=2
+Carnales sunt isti omnes eorum-
+que similes: quod enim natum est
+de carne caro est⁷⁷; qui est de terra,
+de terra est, et de terra loquitur⁷⁸,
+et terrena sapit: quæ sapientia ini-
+mica est Deo: legi enim Dei non est
+subjecta, nec enim potest⁷⁹, et non
+habitat in carne bonum⁸⁰, id est in
+eo qui carnalis est, quia Spiritus
+Dei non est in eo. Recte igitur de
+tali generatione dicit Dominus :
+Non permanebit Spiritus meus in
+homine in æternum, qui caro est⁸¹;
+si quis autem Spiritum Christi non
+habet, hic non est ejus⁸². Unde scri-
+ptum est : Spiritus Domini recessit
+a Saul, et agitabat eum spiritus
+nequam a Domino⁸³.
+
+# block=8
+CAPUT IX.
+
+# block=3
+Quicunque Spiritum Dei inhabi-
+tantem in se possidet, is volunta-
+tem Spiritus Dei facit : et cum sit
+Spiritui Dei consentiens, opera car-
+nis mortificat, Deoque vivit, subji-
+ciens et in servitutem redigens
+corpus suum, et affligens illud, ut
+aliis prædicans, exemplar existat et
+forma resplendens his qui cre-
+dunt⁸⁴. De servis Dei qui tales sunt
+
+# block=1
+contra naturam, exardescentes in desideriis suis in invicem, repletos omni iniquitate, malitia, fornica-
+tione, nequitia, plenos invidia, homicidio, contentione, dolo, malignitate, susurrones, detractores, Deo
+odibiles, contumeliosos, superbos, elatos, inventores malorum, parentibus non obedientes, sine affe-
+ctione, absque fœdere, sine misericordia. Attente legenti præsentem sancti Clementis Epistolam, alte-
+ramque ab ipso scriptam super eadem materia, clare perspectum est ambas fuisse scriptas a viro qui
+sancti Pauli apostoli sensus et verba penitissime meditatus, ea quasi sibi propria fecerat. Opponit quoque
+sanctus pontifex veri eunuchi Christiani vitam moribus Vestalium Romanarum quæ immunditiis horrendis
+sæpius convictæ pœnas meritas luebant quandoque, id est quando ipsarum constupratores iidem non fue-
+rant qui castitatem earum protegere debuissent. ⁷⁷ Joan. III, 6. ⁷⁸ Ibid., 31. ⁷⁹ Rom. VIII, 7.
+⁸⁰ Rom. VII, 18. ⁸¹ Gen. VI, 3. ⁸² Rom. VIII, 9. ⁸³ I Reg. XVI, 14. ⁸⁴ Hæc verba sancti Clementis sa-
+tis indicant Epistolam istam et sequentem præcipue spectare ministros sacros, de quibus exigebatur ut,
+si ante ordinationem nuptias contraxissent, eos unam tantum uxorem habuisse, et a die ordinationis

@@ -1,0 +1,212 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,965,204,1722,1280
+2,167,209,931,1248
+3,949,2465,1710,2703
+4,951,1972,1713,2470
+5,954,1872,1707,1971
+6,770,1346,1074,1379
+7,207,1275,692,1312
+8,953,1808,1704,1871
+9,168,1402,924,1539
+11,955,1674,1706,1807
+12,416,167,690,202
+13,954,1410,1711,1674
+15,682,109,1151,150
+16,1653,99,1712,140
+20,163,1537,927,2736
+23,170,112,228,152
+24,1203,154,1467,198
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=15 fontSize=16px
+# block=16 fontSize=16px
+# block=20 fontSize=15px
+# block=23 fontSize=16px
+# block=24 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=16
+274
+
+# block=15
+EPISTOLA I AD CORINTHIOS.
+
+# block=23
+273
+
+# block=24
+CAPUT XXXIII.
+
+# block=12
+ΚΕΦΑΛΑΙΟΝ ΛΓ'.
+
+# block=1
+Quid igitur faciemus, fratres? Cessabimus a bonis
+operibus, et charitatem derelinquemus? Neutiquam
+hoc a nobis fieri permittat Dominus; sed cum dili-
+gentia et alacritate festinemus omne opus bonum
+perficere. Ipse namque Opifex et Dominus omnium
+in operibus suis exsultat. Cœlos enim suprema sua
+et maxima potentia firmavit, et incomprehensibili
+prudentia sua ornavit eos. Terram quoque ab aqua
+quæ illam ambit, separavit; et super immobile pro-
+priæ voluntatis fundamentum firmavit. Animalia
+etiam quæ in illa versantur, jussu suo præcepit
+esse. Mare quoque et quæ in illo vivunt animalia
+cum prius creasset, potentia sua inclusit. Præ om-
+nibus animal excellentissimum et intellectus ergo
+maximum, hominem, sacris et intaminatis mani-
+bus formavit, imaginis suæ characterem. Ita enim
+ait Deus : Faciamus hominem ad imaginem et simi-
+litudinem nostram. Et fecit Deus hominem : mascu-
+lum et feminam fecit eos ²⁹. Hæc igitur omnia cum
+perfecisset, laudavit ea, et benedixit, dixitque :
+Crescite et multiplicamini ³⁰. Videamus quod in
+bonis operibus ornati fuerint omnes justi. Et ipse
+ergo Dominus cum se operibus decorasset, gavisus
+est. Habentes itaque hoc exemplar, impigre ad vo-
+
+# block=2
+Τί οὖν ποιήσωμεν, ἀδελφοί; ἀργήσωμεν (8) ἀπὸ
+τῆς ἀγαθοποιίας, καὶ ἐγκαταλείπωμεν τὴν ἀγάπην·
+μηδαμῶς τοῦτο ἐάσσαι ὁ Δεσπότ[ης] ἐφ' ἡμῖν γενη-
+θῆναι· ἀλλὰ σπεύσωμεν μετὰ ἐχτενεία[ς] καὶ προ-
+θυμίας, πᾶν ἔργον ἀγα[θὸν] ἐπιτελεῖν. Αὐτὸς γὰρ ὁ
+δημιουργὸς (9), καὶ δ[εσπότης] τῶν ἀπάντων, ἐπὶ
+τοῖς ἔρ[γοις] αὐτοῦ ἀγαλλιᾶται (10). Τῷ γὰρ παμ-
+μεγεθεστάτῳ αὐ[τοῦ] κράτει οὐρανοὺς ἐστήρισε[ν]
+(11), καὶ τῇ ἀκαταλήπτῳ αὐτοῦ συ[νέσει διεκό]σμη-
+σεν(12) αὐτούς· γῆν τε[διεχώ]ρισεν (13) ἀπὸ τοῦ περιέ-
+χον[τος αὐ]τὴν ὕδατος, καὶ ἤδρασεν· [ἐπὶ τὸ]ν ἀσφα-
+λῆ (14) τοῦ ἰδίου βου[λήμα]τος (15) θεμέλιον· τά
+τε (16) ἐν αὐ[τῇ ζῶ]α φοιτῶντα, τῇ ἑαυτοῦ [προστά-]
+ξει ἐκέλευσεν εἶναι· θάλας[σάν τε κ]αὶ τὰ ἐν αὐτῇ
+ζῶα προδημι[ουργήσ]ας, ἐνέκλεισεν τῇ ἑαυτοῦ [δυ]νά-
+μει. Ἐπὶ πᾶσιν τὸ ἐξοχώτατον, [καὶ] παμμέγεθος κατὰ
+διάνοιαν, [ἄνθρω]πον, ταῖς ἱεραῖς καὶ ἀμώμοις (17)
+χερσὶν ἔπλασεν, τῆς ἑαυτοῦ εἰκόνος χαρακτῆρα. Οὗ-
+τως (18) γάρ φησιν ὁ Θεός· Ποιήσωμεν ἄνθρωπον
+κατ' εἰκόνα καὶ καθ' ὁμοίωσιν ἡμετέραν (19). Καὶ
+ἐποίησεν ὁ Θεὸς τὸν ἄνθρωπον, ἄρσεν καὶ θῆλυ
+ἐποίησεν αὐτούς. Ταῦτα οὖν πάντα τελειώσας, ἐπή-
+νεσεν (20) αὐτὰ, καὶ ηὐλόγησεν καὶ εἶπεν· Αὐξάνεσθε
+καὶ πληθύνεσθε. Ἴδωμεν ὅτι τὸ ἐν ἔργοις (21) ἀγα-
+
+# block=7
+²⁹ Gen. 1, 26, 27. ³⁰ Ibid. 28.
+
+# block=6
+VARIORUM NOTÆ.
+
+# block=9
+(8) Ἀργήσωμεν. Ita ms. non, ut in editt., ἀργά-
+σωμεν. Ceterum Jun. aliique mallent, ποιήσομεν,
+ἀργήσομεν, ἐγκαταλείψωμεν : quod Wott. minime ne-
+cessarium videtur. ID.
+
+# block=13
+spatio, fidenter legit cum Damasceno, συ[νέσει διɛ-
+κό]σμησεν. Quam lectionem Cout. etiam est secu-
+tus. ID.
+(13) Διεχώρισεν. Editi διεμέρισεν. Jo. Damasce-
+nus, ἐχώρισεν; hancque lectionem ex eo hausit Cout.
+Cum vero hiatus ms. plures quam tres litteras po-
+stulet, reponit Wott. [διεχώ]ρισεν; quod in primis
+vox ista subinde occurrat Gen. 1. ID.
+
+# block=20
+(9) Αὐτὸς γὰρ ὁ δημιουργός, etc. Citantur hæc
+tanquam incerti, in Parallelis B. Joannis Dama-
+sceni lib. 1, cap. 8, sic ex interpretatione doctissimi
+hominis Jacobi Billii : Cum ipse sit creator ac do-
+minus omnium, in operibus suis delectatur. Etenim
+summo suo robore cœlos fundavit, et incomprehensi-
+bili sua industria eos ornavit : terram autem distin-
+xit ab aqua eos ambiente, et super tuto voluntatis suæ
+fundamento stabilivit. Deinde excellentissimum ac
+prorsus maximum, hominem, suismet immaculatis
+manibus ad imaginis suæ effigiem finxit. Sic enim ait
+Deus : ‹ Faciamus hominem ad imaginem nostram ac
+similitudinem nostram. Et fecit Deus hominem, ma-
+sculum et feminam fecit eos. › Hæc igitur omnia cum
+absolvisset, benedixit ac dixit : ‹ Crescite et multi-
+plicamini. › Legebat, opinor, in Græco : Αὐτὸς ὢν δη-
+μιουργὸς καὶ δεσπότης τῶν ἀπάντων, ἐπὶ τοῖς ἔργοις
+αὐτοῦ ἀγαλλιᾶται. Τῷ γὰρ παμμεγεθεστάτῳ αὐτοῦ
+κράτει οὐρανοὺς ἐστήριξεν καὶ τῇ ἀκαταλήπτῳ αὐτοῦ
+σοφίᾳ ἐκόσμησεν αὐτούς· γῆν τε διεμέρισεν ἀπὸ τοῦ
+περιέχοντος αὐτοὺς ὕδατος, καὶ ἤδρασεν ἐπὶ ἀσφαλῆ
+τοῦ ἰδίου βουλήματος θεμέλιον, εἶτα τὸ ἐξοχώτατον
+καὶ παμμέγεθος, ἄνθρωπον, ταῖς ἑαυτοῦ ἀμώμοις χερ-
+σὶν ἔπλασεν, εἰς ἑαυτοῦ εἰκόνος χαρακτῆρα, οὕτω
+γάρ φησιν ὁ Θεός· Ποιήσωμεν ἄνθρωπον κατ' εἰκόνα
+ἡμετέραν καὶ ὁμοίωσιν ἡμετέραν· καὶ ἐποίησεν ὁ
+θεὸς τὸν ἄνθρωπον· ἄρσεν καὶ θῆλυ ἐποίησεν αὐ-
+τούς. Ταῦτα οὖν πάντα τελειώσας, ηὐλόγησεν καὶ εἶ-
+πεν· Αὐξάνεσθε καὶ πληθύνεσθε. Cот.
+(10) Ἀγαλλιᾶται... παμμεγεθεστάτῳ. Jo. Damas.
+ἀγάλλεται.... παμμεγεστάτῳ. GALL.
+(11) Ἐστήριξεν. Mill. et Wott., sic legebant in
+ms. At editi cum Jo. Damasc. ἐστήριξεν. ID.
+(12) Συνέσει διεκόσμησεν. Jun., cum editi. σ[ο-
+φία ἐκό]σμησεν. Verum Wott., perspiciens in ms.
+priorem syllabam συ — — cum plurium litterarum
+
+# block=11
+(14) Ἐπὶ τὸν ἀσφαλῆ. Sic legunt cum Jo. Da-
+masceno, Wott. et Cout., non autem cum editis, [ὡς
+πύργο]ν ἀσφαλῆ. Et recte quidem. Hinc enim sen-
+tentia sublimior. ID.
+
+# block=8
+(15) Βουλήματος. Jo. Damascenus, θελήματος.
+ID.
+
+# block=5
+(16) Τά τε — ἑαυτοῦ δυνάμει. Licet ista omise-
+rat Damascenus, ea tamen contextus Clementinus
+requirit. ID.
+
+# block=4
+(17) Ἐπὶ πᾶσιν — ταῖς ἱεραῖς καὶ ἀμώμοις.
+Paulo aliter Damascenus : ἐπὶ τούτοις — ταῖς ἰδίαις
+αὐτοῦ καὶ ἀμώμοις. ID.
+(18) Οὕτως. Ita ms. apud Wott. Ita et Jo. Da-
+masc.; editi, præter Lond., Οὕτω. ID.
+(19) Κατ' εἰκόνα καὶ καθ' ὁμοίωσιν ἡμετέραν.
+Jo. Damasc. et LXX : Κατ' εἰκόνα ἡμετέραν καὶ καθ'
+ὁμοίωσιν. ID.
+(20) Ἐπήνεσεν. Cave ne legas cum edito Jo.
+Damasc. ἐποίησεν : utquid enim τελειώσας ἐποίη-
+σεν : cum perfecisset, fecit? Recte igitur ms. ἐπή-
+νεσεν : quo quidem uno verbo S. Pater ea transigit,
+quæ occurrunt Gen. 1, 31 : Καὶ ἶδεν ὁ Θεὸς τὰ πάντα
+ὅσα ἐποίησε, καὶ ἰδοὺ καλὰ λίαν. In hanc ferme sen-
+lentiam Wott. ID.
+
+# block=3
+(21) Ἴδωμεν ὅτι τὸ ἐν ἔργοις. Licet hanc ms.
+lectionem Wott. retineat; aliis tamen aliter visum.
+Dav. leg. "Ἴδωμεν τί τὸ δέον." Ἔργοις, κ. τ. λ. Sed
+longius abit a ms. Propius accedit Birr. qui levi
+mendo sublato, ita scribendum arbitratu : Εἰδο-
+μεν ὅτι τε ἐν ἔργοις... οἱ δίκαιοι, καὶ αὐτὸς, κ. τ. λ.
+Vidimus et justos, etc. ID.

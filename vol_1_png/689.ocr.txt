@@ -1,0 +1,190 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,952,125,1712,466
+2,951,601,1722,2341
+3,169,128,931,511
+4,166,600,921,2339
+5,954,2550,1712,2688
+6,171,2554,922,2699
+7,168,2371,1707,2450
+8,606,74,1282,111
+9,297,562,743,600
+10,169,68,225,115
+11,1083,559,1479,594
+12,741,2482,1090,2523
+14,409,518,671,554
+15,1227,506,1423,552
+16,301,2688,563,2742
+17,1485,2688,1555,2736
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=10
+777
+
+# block=8
+CONSTITUTIONES APOSTOLICÆ.—LIB. III.
+
+# block=1
+adducunt, non sinentes in Domino esse attentos,
+imo efficientes ut tales exeant quales intrarunt,
+nempe vacui, eo quod non audierint illos qui vel
+docent, vel legunt verbum Domini. Nam de hu-
+jusmodi Isaias propheta dicit: « Auditu audietis,
+et non intelligetis; et videntes videbitis, et non
+scietis: incrassatum est enim cor populi hujus ⁸⁶. »
+καὶ οὐ μὴ συνῆτε· καὶ βλέποντες βλέψετε, καὶ οὐ μὴ
+
+# block=3
+ὡς οἱ ἐγρηγορότες· ἀλλ' ἢ νυστάζουσιν, ἢ φλυαροῦ-
+σιν, ἢ- μαστροπεύουσιν (45), ἢ αἰτοῦσιν, ἢ ἑτέρους
+αἰχμαλωτίζουσιν, προσάγοντες τῷ πονηρῷ, οὐκ
+ἐῶντες αὐτοὺς νήφειν ἐν Κυρίῳ, ἀλλὰ παρασκευά-
+ζοντες τοιούτους αὐτοὺς ἐξιέναι οἷοι καὶ εἰσίασι, διά-
+κενοι διὰ τὸ μὴ ἀκούειν τῶν διδασκόντων ἢ τῶν ἀναγι-
+νωσκόντων τὸν τοῦ Κυρίου λόγον. Περὶ γὰρ τῶν τοιού-
+των καὶ Ἠσαΐας ὁ προφήτης λέγει· « Ἀκοῇ ἀκούσετε,
+ἴδητε · ἐπαχύνθη γὰρ ἡ καρδία τοῦ λαοῦ τούτου (46). »
+
+# block=15
+CAPUT VII.
+
+# block=14
+ΚΕΦΑΛΑΙΟΝ Ζ'.
+
+# block=11
+Quales sunt falsæ viduæ.
+
+# block=9
+Οἷαί εἰσιν αἱ ψευδοχῆραι.
+
+# block=4
+Τὸν αὐτὸν οὖν τρόπον καὶ τῶν τοιούτων χηρῶν
+ἐκλείσθη τὰ ὦτα τῆς καρδίας, εἰς τὸ μὴ καθεζομέ-
+νας ἔνδον ἐν ταῖς στέγαις αὐτῶν, προσλαλεῖν τῷ Κυ-
+ρίῳ, ἀλλὰ περιτρεχούσας, ἐν ἐπινοίᾳ πορισμοῦ, διὰ
+τῶν φλυαριῶν ⁸⁷, τὰ τοῦ ἀντικειμένου ἐπιθυμήματα
+πράσσειν. Αἱ τοιαῦται οὖν χῆραι· οὐ προσήρηνται
+τῷ θυσιαστηρίῳ τοῦ Χριστοῦ. Εἰσὶ γὰρ ἐνοι αὶ χηραί ἑρ-
+γασίαν ἡγούμεναι τὸ πρᾶγμα· καὶ ἐξ ὧν ἀναισχύν-
+τως αἰτοῦσι καὶ ἀπλήστως λαμβάνουσιν, ἤδη καὶ
+ὀκνηροτέρους τοὺς πολλοὺς πρὸς τὸ διδόναι κατέστη-
+σαν· δέον γὰρ αὐτὰς ἀρχεῖσθαι τοῖς ἐκκλησιαστικοῖς
+διὰ μετριότητα γνώμης, ἐκ τῶν ἐναντίων, ἐμπερι-
+τρεχουσαι (47) τοὺς τῶν· πλησίον ⁸⁸ οἴκους διασείου-
+σιν, εὐπορίαν χρημάτων ἑαυταῖς ἐπισωρεύουσαι (48),
+καὶ ἐπὶ πικροῖς τόκοις δανείζουσι, καὶ μόνου τοῦ μαμ-
+μωνᾶ φροντίζουσιν· ὧν ὁ θεὸς τὸ βαλάντιον· αἶ τὸ
+φαγεῖν καὶ τὸ πιεῖν προκρίνουσι πάσης ἀρετῆς, λέ-
+γουσαι· « Φάγωμεν καὶ πίωμεν, αὔριον γὰρ ἀποθνή-
+σκομεν· » αἳ ὡς ἑστῶτα ταῦτα ἐλογίσαντο, καὶ οὐχ
+ὡς φεύγοντα· ἡ γὰρ ἠσκηκυῖα περὶ τὸ χρηματολο-
+γεῖν, ἀντὶ τοῦ Θεοῦ λατρεύει τῷ μαμμωνᾷ, τουτέστι
+δουλεύει τῷ κέρδει· τῷ δὲ Θεῷ εὐάρεστος εἶναι οὐ
+δύναιαι, οὐδὲ ταῖς λατρείαις αὐτοῦ ὑπήκοος, συν-
+εχῶς οὐ δυναμένη ἐντυγχάνειν αὐτῷ, ἐπὶ τὸ ἀργυρο-
+λογεῖν τὸν νοῦν καὶ τὴν διάθεσιν ἔχουσα (49)· ἐπειπέρ
+ὅπου ὁ θησαυρὸς, ἐκεῖ καὶ ἡ καρδία αὐτῆς· ἐν νῷ
+γὰρ διαλαμβάνει, ποῦ πορευθῇ λήμματος χάριν, ἢ
+ὅτι ἡ δείνα ἡ φίλη αὐτῆς ἐπιλέλησται, καὶ λόγον
+τίνα ταύτῃ προσενεγκεῖν ὄφειλετ.. Ἡ δὲ τοιαῦτα λο-
+γιζομένη, οὐκέτι τῇ προσευχῇ προσέξει, ἀλλὰ τῇ
+ἐμπιπτούσῃ ἐννοίᾳ· διὸ κἄν ποτε θελήσῃ προσεύξα-
+σθαι ὑπέρ τινος, οὐκ εἰσακουσθήσεται· οὐ γὰρ ἐξ ὅλης
+καρδίας προσφέρει τὴν δέησιν Κυρίῳ, ἀλλὰ μεμε-
+ρισμένῃ διανοίᾳ· ἡ δὲ Θεῷ βουλομένη προσανέχειν,
+καθημένη ἔνδον, φρονεῖ τὰ τοῦ Κυρίου, νυκτὸς καὶ
+ἡμέρας ἀκαταπαύστῳ στόματι δέησιν προσφέρουσα
+εἰλικρινῆ. Ὥσπερ οὖν καὶ ἡ σοφωτάτη Ἰουδὴθ, μαρ-
+τυρουμένη ἐπὶ σωφροσύνῃ, νυκτὸς καὶ ἡμέρας ἐδεῖτο
+τοῦ Θεοῦ ὑπὲρ τοῦ Ἰσραήλ· οὕτως οὖν καὶ ἡ ὁμοία.
+αὐτῇ χήρα ἔντευξιν ἀκατάπαυστον ὑπὲρ τῆς Ἐκκλησίας
+
+# block=2
+Ad eumdem ergò modum, hujusmodi viduæ obtu-
+ratas habent aures cordis; ne intus in tectis suis
+sedentes, Dominum alloquantur, sed circumcursan-
+tes, quæstus gratia, nugas agendo, perficiant adver-
+sarii desideria. Hæ igitur viduæ, cum Christi altari
+non possunt comparari. Sunt enim nonnullæ vi-
+duæ, quæ in lucro omne studium suum ponunt;
+et quia impudenter petunt, ac insatiabiliter acci-
+piunt, jam multos ad largiendum segniores reddi-
+derunt: cumque oporteret, ut per animi modera-
+tionem contentæ essent ecclesiasticis subsidiis,
+contra circumcurrentes concutiunt vicinorum
+domos, affatim pecuniam sibi congerendo,
+necnon acerbo fenore mutuum dant, soliusque
+mammonæ curam habent; quorum Deus est cru-
+mena; quæ cibum ac potum omni virtuti antepo-
+nunt, aientes: « Edamus et bibamus; cras enim
+moriemur ⁸⁹; » atque istas res tanquam stabiles
+putaverunt, et non tanquam fugaces. Nam in con-
+quirendis nummis exercitata, pro Deo colit mam-
+monam, hoc est, servit lucro; at apud Deum gra-
+tiosa esse non potest, nec religioni illius obtempe-
+rare, cum assidue numen adire supplex nequeat,
+quandoquidem mentem et voluntatem parandis opi-
+bus intentam habeat: quoniam ubi thesaurus, ibi
+et cor illius ⁹⁰: siquidem mente volatat, quo acce-
+det capturæ gratia: aut quod illa quæpiam, amica,
+oblita est ejus, et quo illam aliam sermone com-
+pellare debeat. Cæterum quæ talia reputat, non
+amplius orationi vacabit, sed instanti cogitationi.
+Quapropter si forte pro aliquo precari velit, non exau-
+dietur: non enim ex toto corde, sed mente distra-
+cta, Domino offert precationem. Quæ autem Deo
+animum intendere desiderat, intra privatos parietes
+sedens, cogitat quæ ad Dominum pertinent, per
+noctem ac diem ore nunquam cessante precem
+sinceram Deo deferens. Quemadmodum ergo sa-
+pientissima Judith ⁹¹, pudicitiæ testimonio cele-
+bris, nocte ac die Deum pro Israele deprecabatur;
+ita quoque illi par vidua, indesinenter pro Ecclesia
+
+# block=7
+⁸⁶ Isa. VI, 9. ⁸⁷ al. φλυαριῶν. ⁸⁸ f. πλουσίων, divitum. ⁸⁹ Isa. XXII, 13. ⁹⁰ Matth. VI, 21.
+⁹¹ Judith IX, et XII. 1. Ignat. ad Philad. 4.
+
+# block=12
+VARIORUM NOTÆ.
+
+# block=5
+vel εὐτρέχουσαι. ID.
+(48) Ἐπισωρεύουσαι. Alter codicum ἐπισωρεύου-
+σι, melius. ID.
+(49) Ἔχουσα. Alter cod. ἔχει, rectius. ID.
+
+# block=6
+(45) Ἢ μαστροπεύουσιν. Desunt in eodem. CLER.
+(46) Τούτου. Alter cod. addit καὶ τοῖς ὠσὶν βα-
+ρέως ἤκουσαν, quod sequentia etiam postulant. ID.
+(47) Ἐμπεριτρεχουσαι. In codd. ἐπιτρέχουσαι,
+
+# block=16
+PATROL. GR. I.
+
+# block=17
+25

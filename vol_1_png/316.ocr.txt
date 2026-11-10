@@ -1,0 +1,153 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,243,801,1789,1273
+2,244,2349,739,2692
+3,532,1812,1492,1883
+4,712,1919,1311,1956
+5,384,1576,1639,1665
+6,617,2016,1409,2107
+7,411,603,1626,663
+10,505,2139,1509,2203
+13,266,695,1765,732
+14,764,2357,1263,2697
+16,778,101,1243,143
+17,565,267,1464,500
+20,986,1717,1041,1778
+21,502,1346,1502,1456
+22,350,2270,632,2340
+23,658,2246,1368,2340
+24,1388,2280,1710,2340
+25,230,92,294,158
+26,1696,94,1818,162
+27,985,2206,1025,2246
+28,1281,2358,1769,2698
+29,809,1484,1215,1528
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=14px
+# block=3 fontSize=34px centerRows=true
+# block=4 fontSize=14px
+# block=5 fontSize=28px
+# block=6 fontSize=33px
+# block=7 fontSize=25px
+# block=10 fontSize=28px
+# block=13 fontSize=15px
+# block=14 fontSize=14px
+# block=16 fontSize=16px
+# block=17 fontSize=42px centerRows=true
+# block=20 fontSize=15px
+# block=21 fontSize=46px
+# block=22 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=16px
+# block=26 fontSize=16px
+# block=27 fontSize=15px
+# block=28 fontSize=14px
+# block=29 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=25
+31
+
+# block=26
+32
+
+# block=16
+AD S. CLEMENTEM I PAPAM
+
+# block=17
+S. CLEMENS I
+PONTIFEX ROMANUS.
+
+# block=7
+NOTITIA EX LIBRO PONTIFICALI DAMASI PAPÆ.
+
+# block=13
+(MANSI, Concil., I, 83.– Cf. variorum notas ad hunc locum Libri Pontificis, Patr. Latinæ t. CXXVII, col. 1079
+
+# block=1
+Clemens natione Romanus, de regione Cœlio monte, ex patre Faustino, sedit annis 9 [mens. II, d. x]. Fuit autem
+temporibus Galbæ et Vespasiani, a consulatu Tragali [Trachalæ] et Italici, usque ad Vespasianum nòno et Titum.
+Hic cum multo libros zelo fidei et Christianæ religionis scriberet, martyrio coronatur. Hic fecit VII regiones dividi
+notariis fidelibus Ecclesiæ, qui gesta martyrum sollicite et curiose, unusquisque per regionem suam, perquire-
+rent. Hic fecit duas epistolas, quæ Canonicæ nominantur. Hic ex præcepto B. Petri suscepit Ecclesiæ pon-
+tificatum gubernandum, sicut ei fuerat a Domino Jesu Christo cathedra tradita vel commissa. Tamen in Epi-
+stola quæ ad Jacobum scripta est, qualiter ei commissa est a B. Petro Ecclesia, reperies. Ideo Linus et Cle-
+tus ante eum conscribuntur, quia ab ipso Principe apostolorum, ad ministerium sacerdotale exhibendum
+sunt episcopi ordinati. Hic fecit ordinationes duas per mensem Decembrem, presbyteros decem, diaconos duos,
+episcopos per diversa loca quindecim. Obiit martyr anno Trajani tertio. Qui etiam sepultus est in Græcia IX
+Kalend. Decemb. Et cessavit episcopatus dies XXI.
+
+# block=21
+VARIORUM PROCEMIA
+
+# block=29
+HISTORICO-LITTERARIA
+
+# block=5
+AD EPISTOLAS SANCTI CLEMENTIS I PAPÆ.
+
+# block=20
+I.
+
+# block=3
+EX EDITIONE COTELERII.
+
+# block=4
+( Patres apostolici, Amstelædami, 1724, in-fol.)
+
+# block=6
+VETERUM TESTIMONIA
+
+# block=10
+DE SANCTI CLEMENTIS EPISTOLIS.
+
+# block=27
+I.
+
+# block=23
+S. IRENÆUS , lib. III., adversus Hæreses , cap. 3.
+Apud Eusebium Hist. eccl. l. V, c. 6.
+
+# block=22
+Interpretatio vetus.
+
+# block=24
+Interpretatio Valesii.
+
+# block=2
+Fundantes igitur et instruentes
+beati apostoli Ecclesiam, Lino
+episcopatum administrandæ Ec-
+clesiæ tradiderunt. Hujus Lini
+Paulus in his quæ sunt ad Timo-
+theum litteris meminit. Succedit
+autem ei Anacletus. Post eum ter-
+tio loco ab apostolis episcopatum
+
+# block=14
+Θεμελιώσαντες οὖν καὶ οἰκοδομή-
+σαντες οἱ μακάριοι ἀπόστολοι τὴν
+Ἐκκλησίαν, Λίνῳ τὴν τῆς ἐπισκο-
+πῆς λειτουργίαν ἐνεχείρισαν. Τού-
+του τοῦ Λίνου Παῦλος ἐν ταῖς πρὸς Τι-
+μόθεον Ἐπιστολαῖς μέμνηται· δια-
+δέχεται δὲ αὐτὸν Ἀνέγκλητος · μετὰ
+τοῦτον δὲ τρίτῳ τόπῳ ἀπὸ τῶν ἀπο-
+
+# block=28
+Fundata jam et ædificata Eccle-
+sia, beatissimi apostoli episcopa-
+tus officium Lino tradiderunt.
+Hujus Lini mentionem facit Pau-
+lus in litteris ad Timotheum.
+Huic successit Anencletus. Post
+quem tertio ab apostolis loco pon-
+tificatum sortitus est Clemens;

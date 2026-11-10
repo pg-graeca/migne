@@ -1,0 +1,174 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,249,825,996,1725
+2,1031,1129,1781,1638
+3,257,133,1006,816
+4,1030,1647,1774,1811
+5,1036,135,1786,1120
+6,249,1735,990,1812
+7,1021,2474,1778,2641
+8,245,2015,992,2675
+9,1022,2016,1784,2475
+10,303,1861,529,1893
+11,837,80,1239,116
+12,264,81,330,117
+13,832,1929,1146,1961
+14,1698,70,1798,116
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=249 source_y1=825 source_x2=996 source_y2=1725
+LII. Cumque hæc et alia his similia dixisset, et
+nonnullos ex his qui aderant infirmos et dæmoni-
+bus obsessos curasset, gratulantes et Deum collau-
+dantes turbas dimisit, præcipiens eis ut ad eundem
+locum etiam consequentibus diebus audiendi gratia
+convenirent. Cumque domi jam inter nos essemus
+ac præpararemus ad edendum, ingressus quidam
+nuntiat Appionem Plistonicensem (60) cum Anu-
+bione nuper venisse ab Antiochia, et hospitari cum
+Simone. Tum pater audiens gavisus est, et ait Pe-
+tro : Si permittis, volo ire et salutare Appionem et
+Anubionem, quia valde amici mihi sunt; fortassis
+autem Anubionem etiam suadere potero disputare
+cum Clemente de genesi. Et Petrus : Permitto, in-
+quit, et laudo quod amicos colis; verumtamen con-
+sidera, quomodo per providentiam Dei omnia tibi
+ex sententia concurrant; ecce enim non solum af-
+fectio tibi propria, Deo præstante, reparata est, sed
+et amicorum præsentia procuratur. Et pater : Vere,
+inquit, adverto ita esse, ut dicis. Et cum hæc dixis-
+set, abiit ad Anubionem.
+
+# block=2 source_x1=1031 source_y1=1129 source_x2=1781 source_y2=1638
+LIV. Et cum hæc diceret, regressus quidam ex
+his qui Antiochiam præcesserunt, dicebat ad Pe-
+trum : Scire te volo, domine mi Petre, quia Simon
+apud Antiochiam publice multa faciens signa et pro-
+digia, nihil aliud populo persuasit nisi quæ ad tui
+odium pertinent, magum te nominans, maleficum,
+homicidam, et in tantum eos adversum te odium
+concitavit, ut magnopere desiderent, si te usquam
+invenire queant, etiam carnes tuas devorare; et ob
+hoc nos qui præmissi sumus, videntes valde com-
+motam contra te civitatem, occulte in unum con-
+venientes considerabamus quid fieri oporteret.
+
+# block=3 source_x1=257 source_y1=133 source_x2=1006 source_y2=816
+veritatis, sicut se habet hæc nostra doctrina. Nos
+enim nihil ex nobis loquimur, nec humana æstima-
+tione collecta annuntiamus, hoc enim decipere est
+auditores; sed veri prophetæ auctoritate nobis tra-
+dita et manifestata prædicamus. De cujus præscientia
+et virtute prophetica, si quis, ut dixi, ad liquidum
+vult documenta suscipere, sollicitus conveniat, et
+impiger sit ad audiendum, et evidentes dabimus
+probationes, quibus vim propheticæ præscientiæ
+non solum auribus audire, sed et oculis etiam vi-
+dere ac manu contrectare se credat. De quo cum
+certam fidem conceperit, jugum justitiæ et pietatis
+absque ullo labore suscipiet ⁷⁷, tantamque in eo
+sentiet suavitatem, ut non solum nihil ei laboris in-
+esse causetur, verum et amplius aliquid addi sibi
+desideret et imponi.
+
+# block=4 source_x1=1030 source_y1=1647 source_x2=1774 source_y2=1811
+LV. Cumque nullum videremus exitum rei, su-
+pervenit Cornelius centurio, missus a Cæsare ad
+præsidem Cæsareæ publici negotii gratia; hunc ac-
+cersimus ad nos solum, causamque ei qua mœsti
+
+# block=5 source_x1=1036 source_y1=135 source_x2=1786 source_y2=1120
+lectatione ipsa doctrinæ et suavitate verborum per-
+vigiles mansimus. Et cum jam auroresceret, Petrus
+intuens me ac fratres meos, ait : Miror quid visum
+sit patri vestro. Cumque hæc diceret, supervenit
+pater et invenit Petrum nobis de se loquentem.
+Cumque salutasset, satisfacere cœpit et causam
+exponere, ob quam foris mansisset. Nos autem re-
+spicientes ad eum expavimus, vultum in eo Simonis
+videntes (61), vocem tamen patris nostri audieba-
+mus. Cumque refugeremus eum et exsecraremur,
+stupebat pater quod tam austere cum eo ageremus
+et barbare. Solus tamen Petrus erat, qui vultum
+ejus naturalem videbat : qui et ait ad nos : Cur
+exsecramini patrem vestrum? Cui nos una cum
+matre respondimus : Hic nobis Simon videtur, vo-
+cem habens patris nostri. Et Petrus : Vobis quidem
+vox ejus quæ maleficiis mutata non est, sola nota
+est; mihi autem etiam vultus ejus, qui aliis arte
+Simonis mutatus apparet, Faustiniani patris vestri
+notus est. Et intuens patrem ait : Causa quæ conju-
+gem tuam conturbat ac. filios, hæc est, species vul-
+tus in te non videtur illa quæ fuit, sed facies exse-
+crandi Simonis in te apparet.
+
+# block=6 source_x1=249 source_y1=1735 source_x2=990 source_y2=1812
+LIII. Nos autem cum Petro positi per totam no-
+ctem interrogando de diversis et discendo ab eo, de-
+
+# block=7 source_x1=1021 source_y1=2474 source_x2=1778 source_y2=2641
+(61) Vultum in eo Simonis videntes, etc. Indili-
+gens est in hujus loci et fabellæ commemoratione
+Hincmarus, relatus in Testimoniis Veterum. Lege
+etiam Cedrenum p. 173, et Anastasium, quæst. 20,
+p. 242.
+
+# block=8 source_x1=245 source_y1=2015 source_x2=992 source_y2=2675
+(60) Appionem Plistonicensem. Epitomés c. 133 :
+Ἀππίων ὁ Πλειστονίκης; Clementinorum iv, 6 : Ἀπ-
+πίωνα τὸν Πλειστονίκην. Insigni tamen isti gramma-
+tico, qui a Tiberio cymbalum mundi dicebatur, pro-
+cul dubio nomen fuit Ἀπίων, Apion, ut interdum
+exhibent codices mss. quibus usi sumus, utque fere
+semper in Græcis libris scriptum invenies. Sed er-
+rarunt aliquando Græci etiam antiquarii. Unde in
+Tatiano recte quidem p. 164 legitur Ἀπίωνος, at
+perperam p. 172 excusum est ᾿Αππίων, cum apud
+Eusebium Præpar. evang., lib. x, c. 11, in eodem
+Tatiani loco ᾿Απίων cernatur. Quod ad Latinos spe-
+ctat, Appion potest esse auctorum error, potest esse
+librariorum. Certe in Plinio Apion scribitur. Item
+in Adonis Chronico, in Honorii Augustodunensis Ca-
+talogo, et in quibusdam mss. ac editionibus Histo-
+riæ Eusebianæ a Rufino translatæ, lib. iii, c. 38.
+Apud Senecam vero, Agellium, Tertullianum, Hie-
+ronymum, Josephum Rufini, Haymonem aliosque,
+cum duplici p ediderunt. Hactenus de nomine. Nunc
+
+# block=9 source_x1=1022 source_y1=2016 source_x2=1784 source_y2=2475
+de cognomento. Πλειστονίκην non verterim Plistoni-
+censem, quasi ex patria; sed Plistonicem, secutus
+Plinium et Agellium. Sic autem Apionem cognomi-
+narunt quod in certamine litterario sæpe victor
+exstitisset; quæ est multorum sententia : vel a pa-
+tre Plistonice; juxta doctissimum Salmasium ad
+Inscriptionem Regillæ, p. 90 et præfatione in librum
+De homonymis Hyles Iatricæ, p. 40 ex his, opinor,
+Suidæ, ᾿Απίων, ὁ Πλειστονίκου. Verum cum Suida
+Salmasium refellunt Justinus Martyr Cohortatione
+ad Græcos, p. 9, et Africanus apud Eusebium cum
+lib. x Præparat. evang., c. 10, tum Χρονικῶν λόγῳ
+πρώτῳ, pag. 26, dum Apioni patrem dant Posido-
+nium.
+
+# block=10 source_x1=303 source_y1=1861 source_x2=529 source_y2=1893
+⁷⁷ Matth. xi, 30.
+
+# block=11 source_x1=837 source_y1=80 source_x2=1239 source_y2=116
+RECOGNITIONUM LIB. X.
+
+# block=12 source_x1=264 source_y1=81 source_x2=330 source_y2=117
+1445
+
+# block=13 source_x1=832 source_y1=1929 source_x2=1146 source_y2=1961
+COTELERII NOTÆ.
+
+# block=14 source_x1=1698 source_y1=70 source_x2=1798 source_y2=116
+1446

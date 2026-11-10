@@ -1,0 +1,178 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,992,1102,1744,1563
+2,205,130,961,804
+3,210,1618,960,2082
+4,202,1104,958,1607
+5,211,2314,960,2680
+6,987,2312,1741,2648
+7,994,1575,1748,2083
+8,994,130,1748,820
+9,725,964,1218,1017
+10,202,2139,1744,2246
+14,614,73,1337,107
+15,831,2257,1131,2292
+16,246,830,510,862
+17,1674,77,1750,111
+24,214,71,279,103
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=29px
+# block=10 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=15px
+# block=16 fontSize=15px
+# block=17 fontSize=16px
+# block=24 fontSize=16px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=24
+1331
+
+# block=14
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=17
+1332
+
+# block=2
+indumentum hæ sunt : si quis recedat a patre et
+conditore omnium Deo, alium recipiens doctorem
+præter Christum, qui est solus fidelis ac verus pro-
+pheta, quique nos duodecim apostolos misit ad
+prædicandum verbum ; et si quis de substantia di-
+vinitatis quæ cuncta præcellit, aliter quam di-
+gnum est sentiat, hæc sunt quæ usque ad mortem
+baptismi polluunt indumentum. Quæ vero in acti-
+bus polluunt, ista sunt : homicidia, adulteria, odia,
+avaritia, cupiditas mala. Quæ autem animam simul
+et corpus polluunt, ista sunt : participare dæmo-
+num mensæ, hoc est, immolata degustare, vel san-
+guinem, vel morticinium quod est suffocatum, et si
+quid aliud est quod dæmonibus oblatum est. Hic
+ergo vobis sit primus gradus ex tribus, qui gradus
+triginta ex se gignit mandata ¹⁵, secundus vero qui
+
+# block=8
+sexaginta, tertius qui centum, sicut alias vobis de
+his plenius exponemus.
+XXXVII. Et hæc cum dixisset, ac præcepisset ut
+die postera ad eumdem locum maturius conveni-
+rent, turbas dimisit ; quibus recedere nolentibus,
+ait Petrus : Donate mihi hanc gratiam propter he-
+sterni itineris labores ; et nunc discedentes die
+crastina maturius convenite ; et ita cum lætitia
+discessere. At Petrus paululum me secedere præci-
+piens orationis causa, jubet post hæc in loco horti
+quem umbra contegebat, accubitum sterni, et
+unusquisque ex more recognoscens proprii ordinis
+locum, cibum sumpsimus. Tum deinde quia su-
+pererat adhuc aliquantulum diei, de mirabilibus
+Domini collocutus nobiscum, vespere facto ingres-
+sus cubiculum quievit.
+
+# block=16
+²⁵ Matth. xiii, 23.
+
+# block=9
+LIBER QUINTUS.
+
+# block=1
+pietate passibiles facti sunt, ita per pietatem pos-
+sunt esse impassibiles (16), et non solum impassii-
+biles, verum et parva in Deum fide aliorum passio-
+nes curantes. Ita enim verus propheta nobis pro-
+misit dicens : Amen dico vobis, quia si habueritis
+fidem sicut granum sinapis, dicetis monti huic, Transi
+hinc, et transibit ²⁷. Hujus vocis etiam vos ipsi
+documenta accepistis ; hesterno enim die vidistis
+quomodo astantibus nobis, dæmones cum passio-
+nibus quas hominibus invexerant, transierunt et
+fugati sunt.
+
+# block=4
+I. Sequenti autem die, paulo citius quam solebat
+consurgens Petrus, invenit nos dormientes ; quod
+ubi sensit, quasi ipse adhuc dormire volens, silen
+tium sibi fieri jussit, ut nobis quiescendi faculta-
+tem daret. Ubi autem refecti somno exsurreximus,
+invenimus eum oratione facta intra cubiculum oppe-
+rientem nos. Et cum jam esset crepusculum, salu-
+tans ex more breviter allocutus est, et continuo ad
+consuetum locum docendi gratia procedit, ubi
+eum vidisset ad audiendum plurimos convenisse,
+primo religionis ritu pace eis invocata, dicere hoc
+modo cœpit :
+
+# block=7
+III. Quia ergo alii quidem homines patiuntur, alii
+patientes sanant, causa sine dubio vel patiendi vel
+curandi noscenda est, quæ non alia esse, quam
+patientibus quidem infidelitatis, curantibus vero
+fidei demonstratur. Infidelitas enim dum non credit
+futurum judicium Dei, peccandi licentiam præbet,
+peccatum vero hominem passionibus obnoxium fa-
+cit. Fides autem futurum esse Dei judicium cre-
+dens continet homines a peccato; non peccantes
+vero non solum liberi sunt a dæmonibus et passio-
+nibus, verum et aliorum dæmones et passiones fu-
+gare possunt.
+
+# block=3
+II. ²⁵ Deus creator omnium ex initio ad imagi-
+nem suam hominem fecit, eique dominationem
+terræ marisque et aeris ipsius dedit, sicut et verus
+nobis propheta narravit, et ipsa rerum ratio docet ;
+solus enim est rationabilis, et consequens est ut
+ratio irrationabilibus dominetur. Hic ergo ab initio
+cum adhuc justus esset, cunctis vitiis et omni fra-
+gilitate superior erat ; ubi autem peccavit, sicut
+hesterno die docuimus, et factus est servus peccati,
+simul et fragilitati efficitur obnoxius. Quod idcirco
+scriptum est, ut sciant homines quia sicut ex im-
+
+# block=10
+²⁶ Cap. 2 - 35 desunt in codd. Lipss. Cohærent autem ea quæ sequuntur cum superioribus hoc
+modo : pace eis invocata, aliqua illis de hominis creatione et lapsu exposuit. Et post hæc jussit sibi eos,
+etc. ²⁷ Matth. XVII, 19.
+
+# block=15
+COTELERII NOTÆ.
+
+# block=6
+tur anima erga malitiam, δυσκίνητος, non ἀκίνητος.
+Reddi autem debet vox ἀπαθεῖς Clementi Alexan-
+drino Strom. VII, p. 750, ubi ἀπειθεῖς ediderunt,
+εὐπειθεῖς correxerunt ac verterunt. Καὶ εἶναι μὲν
+τῶν προτέρων τοὺς δευτέρους ἀμείνους, οὐδέπω δὲ
+ἀπαθεῖς, ἢν μὴ ἀμνησίκακοι τέλεον γενόμενοι, κατά
+τὴν τοῦ Κυρίου διδασκαλίαν προσεύξωνται καὶ ὑπὲρ
+τῶν ἐχθρῶν. Porro auctor Recognitionum impassibi-
+les eos appellat, qui propter innocentiam vitæ nec
+incursantur a dæmonibus, nec morbis affliguntur.
+
+# block=5
+(16) Impassibiles. Ἀπάθεια et ἀναμαρτησία, si
+stricte sumantur, sunt imperturbabilitas et impec-
+cabilitas, imperturbatio et impeccantia. Verum laxius
+interdum usurpantur a sanctis Patribus, pro eo
+statu in quo positus vir sanctus, per gratiam Dei
+minus crebris minoribusque tentationibus obnoxius
+est, nec gravioribus peccatis succumbit : Ἀπάθεια,
+inquit Maximus, De charitate, centuria 1, cap. 56,
+ἐστὶν εἰρηνικὴ κατάστασις ψυχῆς, καθ' ἣν δυσκί-
+νητος γίνεται ψυχὴ πρὸς κακίαν. Est ἀπάθεια, pa-
+catus animæ status, secundum quem difficulter move-

@@ -1,0 +1,203 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1070,1772,1823,2433
+2,1068,2428,1804,2699
+4,284,461,1029,709
+5,277,913,1032,1119
+6,1071,459,1811,712
+7,286,1774,1034,2696
+8,1070,913,1810,1080
+9,283,143,1027,266
+10,283,1125,1032,1387
+11,432,862,874,897
+12,1067,1086,1810,1388
+13,724,393,1375,430
+15,633,796,1523,831
+16,835,285,1266,319
+18,302,1603,1031,1743
+20,637,1555,1471,1592
+21,664,92,1406,133
+22,1063,144,1813,278
+23,1745,84,1813,130
+24,275,82,353,134
+25,983,330,1111,378
+26,1011,732,1087,784
+27,1139,854,1739,906
+28,279,1378,1281,1432
+29,1009,1488,1071,1534
+30,1085,1608,1815,1746
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+referre supersedemus.
+(22) Forte nihil aliud, quam quod hic Irenæus
+indicat, commemorare voluit apud Justinum auctor
+responsionum ad quæst. 74, ubi ait : Si præsentis
+rerum status finis est impiorum per ignem judicium,
+prout dicunt prophetarum et apostolorum scripta,
+insuperque Sibyllæ ipsius, quemadmodum ait beatus
+Clemens in epistola ad Corinthios. Quod si ita est,
+Clementis epistolam primam citat ille scriptor, non
+secundam : adeoque ruit Usserii, adversus hanc,
+argumentum, quasi in ea Sibyllini libri, quos
+Clemente posteriores esse vult, laudati fuerint. Sed
+neque in allato loco pseudo-Justinus Sibyllinos li-
+bros a Clemente citatos esse affirmat : commode
+enim illius verba intelligere ita licet, ut præsentis
+status finem fore impiorum per ignem judicium
+prophetæ, apostoli, ac Sibylla, necnon Clemens
+dixerint, maxime si valet Cotelerii conjectura, in
+Græco καὶ ὡς (non καθώς) φησὶν ὁ μακάριος
+Κλήμης, legendum esse opinantis.
+
+# block=2
+(23) His allatis Irenæus Clementis epistolam
+commendat his verbis : Hunc Patrem Domini nostri
+Jesu Christi ab Ecclesiis annuntiari, ex ipsa Scriptura
+qui velint discere possunt, et apostolicam Ecclesiæ
+traditionem intelligere ; cum sit vetustior epistola his
+qui nunc falso docent. Ubi discimus duplicem Chris-
+tianæ scientiæ fontem, Scripturam nimirum et tra-
+ditionem.
+
+# block=4
+Sub hoc igitur Clemente dissensione non modica
+inter eos qui Corinthi essent fratres facta, scripsit
+quæ est Romæ Ecclesia potentissimas litteras Co-
+rinthiis, ad pacem eos congregans, et reparans fi-
+dem eorum, et annuntians quam recens ab aposto-
+lis acceperat traditionem, annuntiantem unum
+
+# block=5
+Ad salutem sufficit hominis erga Deum amor.
+Grati siquidem animi est, dilectionem erga eum
+conservare, qui nobis ut simus est auctor : qua fit
+etiam, ut ad alterum ac senii expers sæculum salvi
+evadamus.
+
+# block=6
+Deum omnipotentem factorem cæli et terræ, plas-
+matorem hominis ; qui induxerit cataclysmum, et
+advocaverit Abraham, qui eduxerit populum de
+terra Ægypti, qui collocutus sit Moysi, qui legem
+disposuerit, et prophetas miserit, qui ignem (22)
+præparaverit diabolo et angelis ejus (23).
+
+# block=7
+(19) Hanc formam tenentes apostoli. Sive Pau-
+lino, sive Joanni diacono grates agere est propter
+asservatam hanc formam. Hinc enim solvitur lis
+diu et acriter a viris doctis agitata ob vocem Græ-
+cam ἐπινομήν, quæ uti prorsus insolens, negotii
+multum multis facessivit. Alii siquidem legebant
+ἀπονομήν, alii ἐπιλογήν, alii ἐπιταγήν , alii demum
+ἐπιμονήν. Nec minor in ejus interpretatione dissen-
+sus : hi reddebant ordinem præscriptum, isti præ-
+scriptas officiorum vices, illi præceptum aut formam.
+Ut ut sit, ultima stante sententia, forma esto ge-
+nuinus sensus, sitque illa vox Græca primigenia,
+quæ ad hanc significationem magis accesserit.
+(20) Vel istud insititium est aut paulo liberius
+interpres nodum per paraphrasin explicuit ; quem
+ut solveret Davisius, in his οἱ ἀπόστολοι ἡμῶν, aut
+legendum putavit εὖ μήν, aut prorsus delendum
+ἡμῶν. Erit forsan qui conjiciet collectorem legisse :
+ὁ ἀπόστολός τε καὶ ἡμεῖς, ac transtulisse latiori
+modo : apostolus vel successores ejus, Petrum inten-
+dens ac primos ipsius διαδόχους, nempe Linum,
+Cletum, Clementem. Quid plura? Clemens a Petro
+quartus potuit scribere, interpresque adamussim
+legere : vel successores ejus.
+(21) Quin hoc fragmentum ad 1 epistolam perti-
+neat, Irenæi præfatio dubitare non sinit. In eo
+Clementis sententiarum potius summa refertur,
+quam ipsa verba. Idcirco Græcum Irenæi textum
+
+# block=8
+Αὐτάρκης εἰς σωτηρίαν ἡ εἰς Θεὸν ἀνθρώπου ἀγάπη.
+Εὐγνωμοσύνης γάρ ἐστι τὸ πρὸς τὸν τοῦ εἶναι ἡμᾶς
+αἴτιον ἀποσώζειν στοργὴν, ὑφ᾿ ἧς καὶ εἰς δεύτερον ,
+καὶ ἀγήρω αἰῶνα διασωζόμεθα.
+
+# block=9
+formam tenentes (19) apostoli (vel (20) successores
+ejus), quos eligebant, cum consensu totius Ecclesiæ
+ordinabant præpositos.
+
+# block=10
+Ejusdem. Tentavit Deus Abraham, non quia
+ignorabat quis esset, sed ut posterioribus sæculis
+notum faceret, nec latere pateretur tantum virum :
+quin potius alios ad fidem et patientiam illius exci-
+taret, suaderetque filiorum amorem præ divini
+præcepti exsecutione negligendum esse. Quam-
+
+# block=11
+S. Clementis episcopi Romani.
+
+# block=12
+Τοῦ αὐτοῦ. Ἐπείρασεν ὁ Θεὸς τὸν Ἀβραὰμ, οὐκ
+ἀγνοῶν τίς ἦν, ἀλλ᾿ ἵνα τοῖς μετὰ ταῦτα δείξῃ, καὶ
+μὴ κρύψῃ τὸν τοιοῦτον, καὶ διεγείρῃ εἰς μίμησιν τῆς
+ἐκείνου πίστεως καὶ ὑπομονῆς, καὶ πείσῃ καὶ τέκνων
+στοργῆς ἀμελεῖν πρὸς ἐκπλήρωσιν θείου προστάγμα-
+τος· ὅθεν ἔγγραφον περὶ αὐτοῦ ἱστορίαν γενέσθαι ᾠκο-
+νόμησεν.
+
+# block=13
+Ex Irenæi libro III Adversus hæreses, cap. 3.
+
+# block=15
+Ex S. Joanne Damasceno, Eclog. lib. I, tit. 49, pag. 752.
+
+# block=16
+[Hactenus ex Spicileg. solesm.]
+
+# block=18
+S. Clementis episcopi Romani e secunda ad
+Corinthios epistola.
+Non turbet cor vestrum, quod iniquos ditescentes
+
+# block=20
+Ex S. Joanne Damasceno, lib. I Eclog., tit. 23, pag. 783.
+
+# block=21
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA
+
+# block=22
+καὶ μεταξὺ ἐπινομὴν δεδώκασιν, ὅπως ἐὰν κοιμηθῶσιν,
+διαδέξωνται ἕτεροι δεδοκιμασμένοι ἄνδρες τὴν λειτουρ-
+γίαν αὐτῶν... συνευδοκησάσης τῆς Ἐκκλησίας πάσης,
+
+# block=23
+456
+
+# block=24
+455
+
+# block=25
+II (21).
+
+# block=26
+III.
+
+# block=27
+Τοῦ ἁγίου Κλήμεντος ἐπισκόπου Ῥώμης.
+
+# block=28
+obrem prospexit ac fecit, ut historia ejus litteris commendaretur.
+
+# block=29
+IV.
+
+# block=30
+Τοῦ ἁγίου Κλήμεντος ἐπισκόπου Ῥώμης ἐκ τῆς βʹ
+πρὸς Κορινθίους ἐπιστολῆς.
+Μὴ ταρασσέτω τὴν καρδίαν ὑμῶν, ὅτι βλέπομεν

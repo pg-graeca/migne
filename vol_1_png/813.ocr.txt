@@ -1,0 +1,186 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,154,149,913,1057
+2,943,2491,1689,2660
+3,938,154,1691,1063
+4,941,2292,1695,2493
+5,152,1231,904,2049
+6,189,2655,741,2695
+7,151,2592,905,2657
+8,151,2359,909,2592
+9,764,2218,1062,2253
+10,390,1150,659,1182
+11,156,2068,1694,2175
+12,565,98,1279,134
+13,149,2291,902,2365
+14,179,1192,875,1228
+15,1047,1183,1578,1224
+16,944,1232,1701,2054
+17,160,97,230,130
+18,1613,94,1699,148
+19,145,1056,1695,1140
+20,1175,1142,1441,1182
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=154 source_y1=149 source_x2=913 source_y2=1057
+θείας ἀνερχομένη, τῆς μελλούσης τροφῆς ⁹⁶ δεξιὰν
+ἀπολαμβάνει· ἅμα καὶ πρὸ τοῦ παραστῆναι ὑπό-
+σχεσιν (78) τῆς παλιγγενεσίας, αὐτὴ ἡ ψυχὴ τῇ ἐλπί-
+δι γαυρουμένη εὐφραίνεται. Ἐξ ὑπαρχῆς ⁹⁷ γὰρ, τοῦ
+προπάτορος ἡμῶν Ἀβραὰμ μεταπονουμένου τὴν ὁδὸν
+τῆς ἀληθείας, ὁραματισμῷ ὡδήγησας, διδάξας, ὅ τι
+ποτέ ἐστιν ὁ αἰὼν οὗτος· καὶ τῆς μὲν πίστεως αὐτοῦ
+προώδευσεν ἡ γνῶσις (79), τῆς δὲ γνώσεως ἀκόλουθος
+γέγονεν ἡ πίστις, τῆς δὲ πίστεως ἦν ἐπακολούθη-
+μα (80) ἡ συνθήκη· εἶπας γάρ· « Ποιήσω τὸ σπέρ-
+μα σου ὡς τοὺς ἀστέρας τοῦ οὐρανοῦ, καὶ ὡς τὴν
+ἄμμον τὴν παρὰ τὸ χεῖλος τῆς θαλάσσης, » Ἀλλὰ
+μὴν καὶ τὸν Ἰσαὰκ αὐτῷ δωρησάμενος, καὶ ὅμοιον
+αὐτὸν εἰδὼς ἐκείνου τῷ τρόπῳ, καὶ αὐτοῦ ἐπεκλήθης
+Θεὸς, εἰπών· «Ἔσομαί σου Θεὸς, καὶ τοῦ σπέρματός
+σου μετὰ σέ. » Καὶ τοῦ πατρὸς ἡμῶν Ἰακὼβ ἐπὶ
+Μεσοποταμίαν στελλομένου, δείξας τὸν Χριστὸν, δι’
+αὐτοῦ ἐλάλησας, εἰπών· «Ἰδοὺ ἐγώ εἰμι μετὰ σοῦ,
+καὶ αὐξανῶ σε, καὶ πληθυνῶ σε σφόδρα. » Καὶ οὕτως
+εἶπας πρὸς Μωϋσῆν τὸν πιστὸν καὶ ἅγιον σου θερά-
+ποντα, ἐπὶ τῆς ὀπτασίας τῆς βάτου· « Ἐγώ εἰμι ὁ
+
+# block=2 source_x1=943 source_y1=2491 source_x2=1689 source_y2=2660
+(83) Καὶ πλοίοις. Desunt hæc verba in cod.
+Vindob. et fieri quidem possit ut addita sint; ne-
+que enim necessaria sunt, in descriptione creatio-
+nis. Sed post ἐποίησας addit idem codex : Βροτοῖς
+δὲ βάτην αὑτὴν εἶναι τοῖς πλοίοις ἐκέλευσας. ID.
+
+# block=3 source_x1=938 source_y1=154 source_x2=1691 source_y2=1063
+deliciarum dexteram prehendit; simul et antequam
+promissum iteratæ per resurrectionem nativitatis
+præstetur, ipsa anima spe exsultans lætatur. Ab
+initio enim, progenitore nostro Abrahamo ⁹⁷ viam
+veritatis capessente, eum apparendo duxisti, docens
+quidnam esset hoc sæculum : et illius quidem fidei
+præivit cognitio, cognitioni autem consequens fuit
+fides, fidei vero consequentia exstitit pactum;
+dixisti enim : « Faciam semen tuum sicut stellas
+cœli, et sicut arenam quæ est in littore maris ⁹⁷. »
+Sed et Isaacum illi donans, sciensque eum illi mo-
+ribus similem, ejus quoque Deus appellatus es, di-
+cens : « Ero Deus tuus, et seminis tui post te ⁹⁸. »
+Atqui cum pater noster Jacobus in Mesopotamiam
+iret, per Christum quem ei ostendisti, locutus es,
+dicens : « Ecce ego sum tecum; et augebo te, et
+multiplicabo te valde ⁹⁹. » Et Moysi fideli ac sancto
+famulo tuo sic dixisti, in rubi viso : « Ego sum qui
+sum. Hoc mihi nomen est æternum, et memoriale
+generationibus generationum ¹⁰⁰. » Propugnator
+generis Abrahami, benedictus es in sæcula.
+
+# block=4 source_x1=941 source_y1=2292 source_x2=1695 source_y2=2493
+(82) Μαινομένη. Omittitur in eodem cod. perpe-
+ram. Ἀπὸ πελάγους, verti debuerat ab alto mari,
+hæc est enim vocis potestas, quando opponitur
+littori, marique ei vicino; quod optimorum scri-
+ptorum auctoritatibus probari queat. Vide Matth.
+xviii, 6, et interpretes ad locum. ID.
+
+# block=5 source_x1=152 source_y1=1231 source_x2=904 source_y2=2049
+Εὐλογητὸς εἶ, Κύριε βασιλεῦ τῶν αἰώνων· ὁ διὰ
+Χριστοῦ ποιήσας τὰ ὅλα, καὶ δι’ αὐτοῦ ἐν ἀρχῇ κο-
+σμήσας τὰ ἀκατασκεύαστα· ὁ διαχωρίσας ὕδατα ὑδά-
+των στερεώματι, καὶ πνεῦμα ζωτικὸν τούτοις ἐμβα-
+λών· ὁ γῆν ἑδράσας, καὶ οὐρανὸν ἐκτείνας, καὶ τὴν
+ἑκάστου τῶν κτισμάτων ἀκριβῆ διάταξιν κοσμήσας.
+Σῇ γὰρ δυνάμει ¹, Δέσποτα, κόσμος πεφαίδρυται·
+οὐρανὸς δὲ ὡς καμάρα πεπηγμένος, ἠγλαϊσται ἄστροις,
+ἕνεκεν παραμυθίας τοῦ σκότους· φῶς δὲ καὶ ἥλιος
+εἰς ἡμέρας καὶ καρπῶν γονὰς γεγέννηνται· σελήνη
+δὲ εἰς καιρῶν τροπὴν, αὔξουσα καὶ μειουμένη· καὶ
+νὺξ ὠνομάζετο, καὶ ἡμέρα προσηγορεύετο, στερέωμα
+δὲ διὰ μέσον (81) τῶν ἀβύσσων ἐδείκνυτο· καὶ εἶπας
+συναχθῆναι τὰ ὕδατα, καὶ ὀφθῆναι τὴν ξηράν. Αὐτὴν
+δὲ τὴν θάλασσαν πῶς ἄν τις ἐκφράσειεν; ἥτις ἔρχε-
+ται μὲν ἀπὸ πελάγους μαινομένη (82)· παλινδρομεῖ δὲ,
+ἀπὸ ψάμμου τῇ σῇ προσταγῇ κωλυομένη· εἶπες, γὰρ,
+ἐν αὐτῇ συντριβήσεσθαι αὐτῆς τὰ κύματα· ζώοις δὲ
+μικροῖς καὶ μεγάλοις, καὶ πλοίοις (83) πορευτὴν αὐ-
+
+# block=6 source_x1=189 source_y1=2655 source_x2=741 source_y2=2695
+(81) Μέσον. In cod. Vind. μέσων. ID.
+
+# block=7 source_x1=151 source_y1=2592 source_x2=905 source_y2=2657
+(80) Ἐπακολούθημα. In cod. Vind. ἀκόλουθος.
+ID.
+
+# block=8 source_x1=151 source_y1=2359 source_x2=909 source_y2=2592
+(79) Τῆς μὲν· πίστεως αὐτοῦ προώδευσεν ἡ
+γνῶσις. In cod. Vindob. est τῆς μὲν γνώσεως et
+postea πίστις. Incommode, nam fides est ex auditu.
+In eodem desunt sequentia : Τῆς δὲ γνώσεως ἀκό-
+λουθος γέγονεν ἡ πίστις, nec sane sunt necessaria,
+quippe quæ antecedentibus verbis satis continen-
+tur nec repetenda sunt. ID.
+
+# block=9 source_x1=764 source_y1=2218 source_x2=1062 source_y2=2253
+VARIORUM NOTÆ.
+
+# block=10 source_x1=390 source_y1=1150 source_x2=659 source_y2=1182
+ΚΕΦΑΛΑΙΟΝ ΛΔ'.
+
+# block=11 source_x1=156 source_y1=2068 source_x2=1694 source_y2=2175
+⁹⁵ f. τρυφῆς. ⁹⁶ al. ὑπαρχούσης. ⁹⁷ Gen. xii. ⁹⁷ Gen. xiii, 16, et xxii, 17. ⁹⁸ Gen. xvii, 7. ⁹⁹ Gen.
+xxvi, 24 et xlviii, 4. ¹⁰⁰ Exod. iii, 14, 15. ¹ Gen. i. ¹⁺ IV Esd. xvi, 60. ² al. ἐνθυμήσει. Sic et cod.
+Vind. ³ Job xxxviii, 11.
+
+# block=12 source_x1=565 source_y1=98 source_x2=1279 source_y2=134
+CONSTITUTIONES APOSTOLICÆ. — LIB. VII.
+
+# block=13 source_x1=149 source_y1=2291 source_x2=902 source_y2=2365
+(78) Ὑπόσχεσιν. Præfigitur τὴν in cod. Vind.
+quod habet vim quamdam δεικτικήν. CLER.
+
+# block=14 source_x1=179 source_y1=1192 source_x2=875 source_y2=1228
+Προσευχὴ ἐξαγγελτικὴ δημιουργίας διαφόρου.
+
+# block=15 source_x1=1047 source_y1=1183 source_x2=1578 source_y2=1224
+Oratio prædicans variam creationem.
+
+# block=16 source_x1=944 source_y1=1232 source_x2=1701 source_y2=2054
+Benedictus es, Domine, rex sæculorum; qui per
+Christum fecisti universa, et per eum in principio
+ornasti informia; qui aquas ab aquis firmamento
+separasti, et his spiritum vitalem indidisti; qui ter-
+ram stabilisti, et cœlum extendisti, et singulas crea-
+turas exacta dispositione ornasti ¹. Tua enim po-
+tentia, Domine, mundus in hunc nitorem constitu-
+tus est; cœlum vero instar cameræ compactum ¹⁺,
+astris illustratum est, ad solatium in tenebris; lu-
+men autem et sol propter dies et fructuum genera-
+tiones prodierunt; at luna, in conversionem tem-
+porum, dum crescit ac decrescit : et nox vocaba-
+tur, et dies appellabatur, firmamentum vero in me-
+dio abyssorum patebat. Et dixisti, ut congregaren-
+tur aquæ, et appareret arida. Ipsum autem mare
+quomodo quis enarraret? quod quidem venit a
+pelago furens, recurrit autem, ab arena jussu tuo
+prohibitum; dixisti enim, quod in ipsa confringen-
+tur fluctus ejus ³ : animalibus vero parvis et ma-
+
+# block=17 source_x1=160 source_y1=97 source_x2=230 source_y2=130
+1025
+
+# block=18 source_x1=1613 source_y1=94 source_x2=1699 source_y2=148
+1026
+
+# block=19 source_x1=145 source_y1=1056 source_x2=1695 source_y2=1140
+ζῶν· τοῦτό μοι ὄνομά ἐστιν αἰώνιον, καὶ μνημόσυνον γενεαῖς γενεῶν. » Ὑπέρμαχε γένους Ἀβραὰμ, εὐλο-
+γητὸς εἶ εἰς τοὺς αἰῶνας.
+
+# block=20 source_x1=1175 source_y1=1142 source_x2=1441 source_y2=1182
+CAPUT XXXIV

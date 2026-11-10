@@ -1,0 +1,218 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,965,798,1721,1268
+2,174,795,940,1316
+3,965,1436,1717,1771
+4,176,1432,936,1821
+5,175,128,931,640
+6,964,127,1723,637
+7,185,2575,929,2681
+8,1219,657,1452,695
+9,1200,1328,1491,1365
+11,423,661,690,694
+12,1209,1385,1468,1418
+13,950,1981,1719,2651
+14,355,1386,742,1419
+15,179,77,252,119
+17,208,1846,1007,1884
+18,418,1330,688,1369
+19,179,1981,924,2573
+20,179,714,924,784
+21,577,70,1313,112
+22,996,712,1674,783
+24,774,1919,1101,1958
+25,1623,74,1707,116
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=22 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=21
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=25
+1138
+
+# block=15
+1137
+
+# block=6
+dotes sanctificant, ita impuri polluunt. Si neque in
+domo, neque in ecclesia congregatio potest agitari,
+unusquisque apud se psallat, legat, precetur; vel
+duo aut tres simul : « Ubi enim sunt duo vel tres
+congregati in nomine meo, ibi sum in medio eo-
+rum ⁸⁵. » Fidelis, ne domi quidem oret cum cate-
+chumeno : non enim æquum est, initiatum cum
+non initiato coinquinari. Pius, cum hæretico nec
+domi comprecetur : « Quæ enim societas luci ad
+tenebras ⁸⁶? » Christianus vel Christiana, condi-
+tionis servilis, conjuncti, aut separentur, aut roji-
+ciantur.
+
+# block=5
+ὡς γὰρ οἱ ὅσιοι ἱερεῖς ἁγιάζουσιν, οὕτως οἱ ἐναγεῖς
+μιαίνουσιν. Εἰ μήτε ἐν οἴκῳ (42), μήτε ἐν ἐκκλησίᾳ
+συναθροισθῆναι δυνατόν, ἕκαστος παρ' ἑαυτῷ ψαλλέτω,
+ἀναγινωσκέτω, προσευχέσθω ἢ καὶ ἅμα δύο, ἢ τρεῖς·
+ὅπου γάρ εἰσι (43), δύο ἢ τρεῖς συνηγμένοι ἐν τῷ
+ὀνόματί μου, ἐκεῖ εἰμι ἐν μέσῳ αὐτῶν. » Πιστός,
+μετὰ κατηχουμένου μήτε κατ' οἶκον προσευχέσθω· οὐ
+γὰρ δίκαιον τὸν μεμυημένον μετὰ τοῦ ἀμυήτου συμ-
+μολύνεσθαι· εὐσεβὴς μετὰ αἱρετικοῦ, μήτε κατ' οἶκον
+συμπροσευχέσθω· «Τίς γὰρ κοινωνία φωτὶ πρὸς σκό-
+τος; » Πιστὸς ἢ πιστὴ δούλοι συναφθέντες (44), ἢ
+ἀφιστάσθωσαν, ἢ ἀποβαλλέσθωσαν.
+
+# block=8
+CAPUT XXXV.
+
+# block=11
+ΚΕΦΑΛΑΙΟΝ ΛΕ΄.
+
+# block=22
+Jacobi fratris Christi constitutio de vespertino
+officio.
+
+# block=20
+Ἰακώβου τοῦ ἀδελφοῦ Χριστοῦ διάταξις περὶ
+ἑσπερινοῦ (45).
+
+# block=2
+Κἀγὼ (46) Ἰάκωβος, ἀδελφὸς μὲν κατὰ σάρκα τοῦ
+Χριστοῦ, δοῦλος δὲ ὡς Θεοῦ μονογενοῦς, ἐπίσκοπος
+δὲ ὑπ' αὐτοῦ τοῦ Κυρίου καὶ τῶν ἀποστόλων Ἱεροσο-
+λύμων χειροτονηθεὶς, τάδε φημί· Ἑσπέρας γενο-
+μένης, συναθροίσεις τὴν ἐκκλησίαν, ὦ ἐπίσκοπε, καὶ
+μετὰ τὸ ῥηθῆναι τὸν ἐπιλύχνιον ψαλμὸν (47), προσ-
+φωνήσει (48) ὁ διάκονος ὑπὲρ τῶν κατηχουμένων,
+καὶ χειμαζομένων, καὶ τῶν φωτιζομένων, καὶ τῶν
+ἐν μετανοίᾳ, ὡς προείπομεν. Μετὰ δὲ τὸ ἀπολυθῆναι
+αὐτοὺς, ὁ διάκονος ἐρεῖ· Ὅσοι πιστοὶ, δεηθῶμεν τοῦ
+Κυρίου. Καὶ μετὰ τὸ προσφωνῆσαι αὐτὸν τὰ τῆς
+πρώτης εὐχῆς, ἐρεῖ·
+
+# block=1
+Et ego Jacobus, frater quidem Christi secundum
+carnem, servus autem ejus ut Dei unigeniti, epi-
+scopus vero Hierosolymorum ab ipso Domino et ab
+apostolis ordinatus, hæc dico : Cum fuerit vespera,
+congregabis ecclesiam, o episcope; et postquam
+dictus fuerit psalmus lucernalis, recitabit diaconus
+orationes pro catechumenis, energumenis, compe-
+tentibus, et pænitentibus, ut supra diximus ⁸⁴.
+Cumque ii dimissi fuerint, diaconus dicet : Qui
+fideles sumus, oremus Dominum. Et postquam reci-
+taverit illa, quæ in prima oratione, dicet :
+
+# block=9
+CAPUT XXXVI.
+
+# block=18
+ΚΕΦΑΛΑΙΟΝ ΛϚ΄.
+
+# block=12
+Oratio lucernalis.
+
+# block=14
+Προσφώνησις ἐπιλύχνιος.
+
+# block=4
+Σῶσον καὶ ἀνάστησον ἡμᾶς, ὁ Θεὸς, διὰ Χριστοῦ
+σου. Ἀναστάντες αἰτησώμεθα τὰ ἐλέη τοῦ Κυρίου
+καὶ τοὺς οἰκτιρμοὺς αὐτοῦ, τὸν ἄγγελον τὸν ἐπὶ τῆς
+εἰρήνης (49), τὰ καλὰ καὶ τὰ συμφέροντα, Χριστια-
+νὰ τὰ τέλη. Τὴν ἑσπέραν καὶ τὴν νύκτα εἰρηνικὴν
+καὶ ἀναμάρτητον, καὶ πάντα τὸν χρόνον τῆς ζωῆς
+ἡμῶν ἀκατάγνωστον αἰτησώμεθα. Ἑαυτοὺς καὶ ἀλ-
+λήλους τῷ ζῶντι Θεῷ, διὰ Χριστοῦ (50) αὐτοῦ παρα-
+θώμεν, καὶ ὁ ἐπίσκοπος ἐπευχόμενος, λεγέτω·
+
+# block=3
+Serva et suscita nos, Deus, per Christum tuum.
+Suscitati, postulemus misericordias Domini, atque
+miserationes ejus, angelum paci præpositum, bona
+et conducibilia, finem vitæ Christianum. Vesperam
+noctemque pacatam ac peccato vacuam, cunctumque
+vitæ nostræ tempus irreprehensum postulemus. Nos
+ipsos, atque invicem viventi Deo, per Christum ejus
+commendemus. Ac episcopus orans, dicat :
+
+# block=17
+⁸⁵ Matth. XVIII, 20. ⁸⁶ II Cor. VI, 14. ⁸⁴ Cap. 5, etc.
+
+# block=24
+VARIORUM NOTÆ.
+
+# block=19
+(42) Οἴκῳ. Additur ἅμα in cod. Vind. CLER.
+(43) Εἰσί. Cod. Vind. ἂν ὦσί φησιν ὁ Κύριος. IB.
+(44) Συναφθέντες. Haud dubitandum quin lo-
+quatur de illicita conjunctione, qui præcepit, cap. 32,
+ut domini servis scortantibus conjuges dent. Sed
+perplacet lectio duorum codicum, δούλοις συνα-
+φθέντες. COT.
+(45) Ἰακώβου, etc. Deest inscriptio in cod.
+Vindobonensi. CLER.
+(46) Κἀγώ. Pro hac voce et seqq. ad τάδε φημί,
+leguntur hæc in cod. Vind. Ἰάκωβος ὁ τοῦ Κυρίου
+ἀδελφὸς λίθους (alter cod. ξύλοις) ὑπὸ Ἰουδαίων ἐν
+Ἱεροσολύμοις, διὰ τὸν Χριστοῦ λόγον ἀνῄρηται. IB.
+(47) Τὸν ἐπιλύχνιον ψαλμόν. Dixi ad lib. II,
+cap. 59. Nec assentior magnæ doctrinæ viro Usse-
+rio, qui in Diatriba de symbolis etc., non satis
+distinxit psalmum lucernalem ab hymno vesper-
+tino. COT.
+
+# block=13
+cuntur preces, unaque cum aliis oratur. IB.
+(49) Τὸν ἄγγελον τὸν ἐπὶ τῆς εἰρήνης. Cele-
+bratur angelus pacificus seu pacis a Basilio epist.
+239, a Chrysostomo sæpe, a Liturgiis passim. In
+Antiquis pænitentialibus Jo. Morini, p. 22 : Det tibi
+Dominus angelum pacis custodem, etc. Similes vero
+angelos ex SS. Patribus disces : angelum oratio-
+nis, ex Tertulliano De oratione, cap. 12; angelos
+matrimonii, ex eodem Ad uxorem lib. II, cap. ult.;
+angelum baptismi, lib. De baptismo, cap. 4, 5; puer-
+perii, seu humanæ structuræ in utero, ex eodem
+De anima, cap. 37, consentientibus rabbinis; an-
+gelos vocationis gentium, ex Origene ad Matthæi
+xxii, 8; angelum gratiæ Hanaelem, ab eodem Ada-
+mantio ad Rom. xii, 3. S. Basilii Liturgia ex Ara-
+bico versa, sub finem : Et angelus hujus diei bene-
+dicti. Lege quod notavi ad finem proœmii libri II
+Hermæ (Patr. t. II). IB.
+(50) Χριστοῦ. Cod. Vindob. : Toῦ Χριστοῦ αὐτοῦ
+παραθώμεθα. CLER.
+
+# block=7
+(48) Προσφωνήσει. Intelligit edicta precesque
+diaconi cum orationibus episcopi. Ita sæpe in hoc
+Opere προσφωνεῖν et προσφώνησις, quando indi-

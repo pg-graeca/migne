@@ -1,0 +1,123 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,188,839,1707,1267
+2,186,2014,1715,2312
+3,187,1380,1701,1586
+4,183,1676,1714,1980
+5,218,2334,1701,2409
+6,188,734,1705,805
+7,183,2584,1709,2699
+8,355,2447,1687,2527
+9,596,87,1346,127
+10,863,1308,1037,1343
+11,962,136,1713,707
+12,190,146,935,657
+13,1639,80,1717,132
+14,177,84,261,134
+15,843,1600,1051,1658
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+Apostolorum vertices, in quinto quidem libro Ordinationum, qui de martyribus inscribitur, juxta Cle-
+mentem ⁴³ : Quartam feriam et sextam præcepit nobis jejunare Dominus : unam quidem , propter traditio -
+nem; alteram, propter passionem : ipsum autem Sabbatum ⁴⁴ non tradidit nobis jejunare, quoniam non opor-
+tet, præter illud solum, in quo Creator omnium, sub terra fuit. Unde juxta calcem ejusdem libri, iterum
+sic loquitur ⁴⁵ : Omne quidem Sabbatum et omnem Dominicum celebrandum ⁴⁶ esse dicimus. Gaudere enim
+oportet in his, et non lugere. Septimo quidem libro earum Constitutionum, juxta vicesimum quartum ca-
+put ⁴⁷, hoc inquiunt : Sabbatum namque et Dominicum celebramus ⁴⁷*; quia illud quidem divinæ operationis
+est memoria, hic ⁴⁸ vero resurrectionis. Unum vero tantum Sabbatum custodiendum est in toto anno, Sepul-
+turæ Domini ; quo jejunare oportet. Quando enim Christus in sepulcro jacuit, discipuli potentiorem circa
+eum fletum habebant, quam gaudium ex memoria divinæ operationis, etc.
+
+# block=2
+Reprehendens enim nos, cur jejunemus Sabbatis, dicis : Quarta et sexta feria jugiter jejunandum ; una
+propter traditionem, altera propter passionem Domini; Sabbato autem nunquam, nisi uno. Et hoc asserere
+conaris ex apocryphis libris et canonibus, pari sententia sanctorum Patrum repudiatis. Nam Clementis
+liber ⁵³, id est Itinerarium Petri apostoli , et Canones apostolorum numerantur ⁵⁴ inter apocrypha,
+exceptis capitulis quinquaginta, quæ decreverunt regulis orthodoxis ⁵⁵ adjungenda. Unde nos quoque
+omne apocryphon ⁵⁶ abjicientes, dedignamur audire eorum fabulosas traditiones, quia non sunt ut lex
+Domini.
+
+# block=3
+In sexto libro Clementis Ordinationum, quæ ab eo conscriptæ sunt, juxta septimum decimum caput,
+apostoli hæc dicunt : Episcopum et presbyterum et diaconum, dicimus, qui unam habent uxorem, ordinari,
+quamvis vivant eorum conjuges, quamvis defunctæ : non licet eos post manus ⁴⁹ impositionem innuptos esse,
+nec insuper ad nuptias ire ; aut si nupserint, alteras amplecti, sed sufficere quas habent cum ad ordinationem
+venerunt.
+
+# block=4
+Reliqui autem Verticum, in septimo ⁵⁰ libro Institutionum, juxta sextum decimum caput liquidius
+dixerunt : Scimus enim, inquit ⁵¹⁻⁵², quia hi qui circa Simonem, et Cleobium, et Judam, conscripserunt
+libros in nomine Christi et discipulorum ejus, circumferunt ad seductionem vestram, et eorum qui diligunt
+Christum, et nos servos ipsius. Et in veteribus quidam conscripserunt libros apocryphos Moysi, et Enoch,
+et Adam, Isaiæ, et David, et Eliæ, et trium patriarcharum, corruptiones facientes atque veritatis inimicos
+libros.
+Humbertus episcopus Sylvæ Candidæ, in responsione ad Nicetæ librum, multo post initium ; ibidem.
+
+# block=5
+Georgius Cedrenus, in Compendio Historiarum ; editionis Xylandri pag. 175, lin. 52, etc. Editionis
+regiæ tom. I, pag. 211, A, etc.
+
+# block=6
+Nicetas Pectoratus, Lib. contra Latinos, post medium. Tomo sexto Antiquæ Lectionis, Henr. Canisii ; et in
+Bibliotheca Patrum, tom. IV, part. ɪɪ, nec non apud Baronium, Annalium tom. II, in Appendice.
+
+# block=7
+⁴¹ f. ἐπαφιεῖσιν. ⁴² ἃς sive ὁ. ⁴³ Cap. 15. ⁴⁴ al. jejunare Sabbatum. ⁴⁵ Cap. 20. ⁴⁶ al. Dominicam cele-
+brandam ⁴⁷ Cap. 25. ⁴⁷* al. Dominicam celebremus. ⁴⁸ al. hæc. ⁴⁹ al. manuum. ⁵⁰ l. sexto. ⁵¹⁻⁵² al.
+inquiunt. ⁵³ al. librum. ⁵⁴ al. numeravere ⁵⁵ al. orthodoxiæ. ⁵⁶ al. omnem apocryphum.
+
+# block=8
+ταῖς ἀποστολικαῖς Διατάξεσιν ὁ μέγας ἀπό- De quo in Constitutionibus apostolicis magnus apo-
+στολος οὕτω φάσκει · Ἡ δὲ καταργὴ τῶν νέων stolus Petrus ita disserit : Hæreses vero novæ ini-
+
+# block=9
+CONSTITUTIONES APOSTOLICÆ. — PROOEMIA.
+
+# block=10
+Multo post :
+
+# block=11
+tur illi canones, qui inter synodicos cœtui aposto-
+lorum ascribuntur. Et infra : Porro Constitutiones,
+ex tribus duntaxat capitibus reprehensioni viden-
+tur obnoxiæ : ex mala fictione, quam excutere non
+est difficile : et quod contra Deuteronomium crimi-
+nationes quasdam adducant; quod etiam facillime
+dilui potest : et adhuc ex Arianismo; quod aliquis,
+licet violenter poterit depellere. Cæterum liber Ac-
+torum Petri, splendore et majestate, ad hæc puri-
+tate et vehementia, aliisque orationis dotibus, atque
+multiplici doctrina, tantum Constitutiones superat,
+ut hos inter libros nulla comparatio, ad sermonem
+quod attinet, institui debeat, etc.
+
+# block=12
+νων τῷ ἀθροίσματι τῶν ἀποστόλων κανόνες ἐπιγρα-
+φόμενοι περιέχονται. Et infra : Αἱ δέ γε Διαταγαὶ
+τρισὶ μόνοις δοκοῦσιν ἐνέχεσθαι · κακοπλαστία, ἣν οὐ
+χαλεπὸν ἀποσκευάσασθαι · καὶ ὅτι καὶ τοῦ Δευτερο-
+νομίου ὕβρεις τινὰς ἐπαφίησιν ⁴¹, ἃ ⁴² καὶ ῥᾷστον δια-
+λύσασθαι · καὶ ἔτι Ἀρειανισμῷ, ὅπερ ἄν τις καὶ
+βιαίως διακρούσαιτο. Ἡ μέν τοί γε τῶν τοῦ Πέτρου
+Πράξεων βίβλος τῷ τε λαμπρῷ καὶ τῇ σεμνότητι, καὶ
+ἔτι τῷ καθαρῷ καὶ συντόνῳ, καὶ τῇ ἄλλῃ ἀρετῇ τοῦ
+λόγου, καὶ πολυμαθείᾳ τοσοῦτο ἔχει πρὸς τὰς Διαταγὰς
+τὸ παραλλάττον, ὡς μηδὲ συγκρίσει τῇ κατὰ τοὺς
+λόγους πρὸς ἀλλήλας παραβάλλεσθαι τὰς βίβλους, etc.
+
+# block=13
+550
+
+# block=14
+549
+
+# block=15
+Circa finem :

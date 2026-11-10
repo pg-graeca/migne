@@ -1,0 +1,223 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,968,521,1728,1084
+2,190,125,948,431
+3,184,2411,934,2580
+4,186,2579,936,2683
+5,168,518,939,1084
+6,973,125,1723,428
+7,181,1816,924,2247
+8,1230,1175,1445,1210
+9,180,1552,925,1819
+10,181,2246,936,2315
+11,184,2315,935,2415
+12,735,73,1214,110
+13,183,1215,926,1478
+14,798,1501,1097,1534
+15,420,1175,696,1207
+16,966,1217,1719,1431
+17,192,70,248,116
+19,1233,474,1443,514
+21,963,2545,1707,2682
+22,1653,74,1717,116
+23,415,474,705,512
+24,959,1562,1715,2544
+25,183,434,1285,472
+26,173,1084,1737,1168
+
+# layer=format
+# block=8 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=17 fontSize=16px
+# block=19 fontSize=15px
+# block=22 fontSize=16px
+# block=23 fontSize=15px
+# block=25 fontSize=15px
+# block=26 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+257
+
+# block=12
+EPISTOLA I AD CORINTHIOS.
+
+# block=22
+238
+
+# block=2
+φοβουμένοις τὸν Θεὸν ὁσίως, ἴσην παρεχέτωσαν (54).
+Τὰ τέκνα ὑμῶν (55) τῆς ἐν Χριστῷ παιδείας μεταλαμ-
+βανέτωσαν · μαθέτωσαν τί ταπεινοφροσύνη παρὰ Θεῷ
+ἰσχύει, τί ἀγάπη ἁγνὴ παρὰ τῷ Θεῷ δύναται· πῶς
+ὁ φόβος αὐτοῦ καλὸς καὶ μέγας, καὶ σώζων πάντας
+τοὺς ἐν αὐτῷ ὁσίως ἀναστρεφομένους ἐν καθαρᾷ
+διανοίᾳ. Ἐρευνητὴς γάρ ἐστιν ἐννοιῶν καὶ ἐνθυμή-
+
+# block=6
+disciplinæ Christi participes sint; discant quid hu-
+militas apud Deum valeat, quid casta charitas apud
+Deum possit; quomodo timor (56) ejus bonus est ac
+magnus, et servans omnes qui in ipso sancte ver-
+santur in pura mente. Scrutator enim est cogitatio-
+num et consiliorum mentis : cujus spiritus est in
+nobis ; et cum voluerit, auferet eum.
+
+# block=25
+σεων (57)· οὗ ἡ πνοὴ αὐτοῦ ἐν ἡμῖν ἐστιν, καὶ ὅταν θέλῃ ἀνέλει αὐτήν (58).
+
+# block=23
+ΚΕΦΑΛΑΙΟΝ ΚΒ΄.
+
+# block=19
+CAPUT XXII.
+
+# block=5
+Ταῦτα δὲ πάντα βεβαιοῖ ἡ ἐν Χριστῷ πίστις · καὶ
+γὰρ αὐτὸς (59) διὰ τοῦ Πνεύματος τοῦ ἁγίου οὕτως
+προσκαλεῖται ἡμᾶς· Δεῦτε, τέκνα, ἀκούσατέ μου,
+φόβον Κυρίου διδάξω ὑμᾶς. Τίς ἐστιν ἄνθρωπος
+ὁ θέλων ζωὴν, ἀγαπῶν ἡμέρας ἰδεῖν ἀγαθάς;
+παῦσον τὴν γλῶσσάν σου ἀπὸ κακοῦ, καὶ χείλη
+τοῦ (60) μὴ λαλῆσαι δόλον· ἔκκλινον ἀπὸ κακοῦ,
+καὶ ποίησον ἀγαθόν· ζήτησον εἰρήνην, καὶ δίωξον
+αὐτήν. Ὀφθαλμοὶ Κυρίου ἐπὶ δικαίους, καὶ ὦτα
+αὐτοῦ πρὸς δέησιν αὐτῶν· πρ[όσωπον δὲ] Κυρίου
+ἐπὶ ποιοῦντας κακὰ, [τοῦ ἐξολε]θρεῦσαι (61) ἐκ
+γῆς τὸ μνημ[όσυνον] αὐτῶν. Ἐκέκραξεν ὁ δ[ίκαιος]
+καὶ ὁ Κύριος εἰσήκουσεν αὐ[τοῦ, καὶ ἐκ] πασῶν
+
+# block=1
+Hæc autem omnia confirmat fides quæ est in Chri-
+sto. Ipse etenim per Spiritum sanctum, ita nos com-
+pellat : Venite, filii, audite me ; timorem Domini do-
+cebo vos. Quis est homo qui vult vitam, diligit dies
+videre bonos ? Contine linguam tuam a malo ; et labia
+tua ne loquantur dolum. Declina a malo, et fac bo-
+num : quære pacem, et persequere eam. Oculi Domi -
+ni super justos, et aures ejus ad precem eorum : vul-
+tus autem Domini super facientes mala, ut perdat de
+terra memoriam eorum. Clamavit justus, et Dominus
+exaudivit eum, et ex omnibus tribulationibus ejus li-
+beravit eum⁵. Multa flagella peccatoris : sperantes
+autem in Domino misericordia circumdabit⁶.
+
+# block=26
+τῶν θλίψεων α[ὐτοῦ (62) ἐρρύ]σατο αὐτόν. Πολλαὶ μά[στιγες] (63) τοῦ ἁμαρτωλοῦ, τοὺς δὲ ἐ[λ-
+πίζον]τας ἐπὶ Κύριον ἔλεος κυκλώσ[ει].
+
+# block=15
+ΚΕΦΑΛΑΙΟΝ ΚΓ΄.
+
+# block=8
+CAPUT XXIII.
+
+# block=13
+Ὁ οἰκτίρμων κατὰ πάντα κ[αὶ εὐερ]γετικὸς πατὴρ
+ἔχει σπλάγχνα ἐ[πὶ] φοβουμένους αὐτὸν, ἠπίως [τε]
+καὶ προσηνῶς τὰς χάριτας αὐτ[οῦ] ἀποδιδοῖ τοῖς προσ-
+ερχομένο[ις] αὐτῷ ἁπλῇ διανοίᾳ. Διὸ μὴ διψυχῶ-
+μεν (64), μηδὲ ἰνδαλλέσθω (65) ἡ ψυχὴ ἡμῶν ἐπὶ ταῖς
+⁵ Psal. xxxiii, 12-18. ⁶ Psal. xxxi, 10.
+
+# block=16
+Misericors omnino et beneficus pater viscera erga
+timentes eum habet ; gratiasque suas benigne et
+suaviter largitur iis qui ad ipsum simplici mente
+accedunt. Quare ne dubii animo simus, neque hæ-
+sitet anima nostra super eximiis et splendidis ejus
+
+# block=14
+VARIORUM NOTÆ.
+
+# block=9
+(54) Ὁσίως ἴσην παρεχέτωσαν. Birr. putat ὁσίως
+ad feminas Christianas referendum; quas nempe
+doceat S. Pater, Deum timentibus charitatis officium
+exhibere ὁσίως, id est ἁγνῶς καὶ καθαρῶς, et æqua
+lance, μὴ κατὰ προσκλίσεις. Hunc itaque locum sic
+distinguit : Τὴν ἀγάπην αὐτῶν, μὴ κατὰ προσκλίσεις,
+ἀλλὰ πᾶσιν τοῖς φοβουμένοις τὸν Θεὸν, ὁσίως ἴσην
+παρεχέτωσαν. Gall.
+
+# block=24
+a quo hæc petita sunt, ὁ Κύριος λέγει. A capite se-
+quente ad cap. xl adulterina omnia, post Clement.
+Alexandrinum addita. Bern.
+(60) Χείλη τοῦ. Leg. χείλη σου, ut apud LXX, et
+Clem. Alex. Gall.
+(61) Ἐξολεθρεῦσαι. Vulg. ἐξολοθρεῦσαι. Vid.
+superius observata ad cap. 14. Id.
+(62) Θλίψεων αὐτοῦ. Editi omittunt αὐτοῦ. Ex
+Mill. tamen et Wott. post ων exstat in ms. α... cum
+spatio septem circiter litterarum : quod quidem
+chasma sic supplendum, ex contextu liquet, α[ὐτοῦ
+ἐῤῥύ]σατο. Apud LXX θλίψεων αὐτῶν. At Clem.
+Alex. θλίψεων ἐῤῥύσατο, absque αὐτῶν. Id.
+(63) Πολλαὶ μάστιγες. Ms. deest articulus αἱ,
+quem exhibent editi, ut apud LXX.
+(64) Μὴ διψυχῶμεν. Duplex iste animus apud
+scriptores sacros pessime audire solet, ut sit ἀνὴρ
+δίψυχος instabilis, varius, fluxæ, imo nullius fidei,
+qui cor illud, quod Deo Opt. Max. in solidum de-
+betur, inter ipsum et Satanam, pietatem et lucri
+compendia, voluptatumque illecebras partitur et
+dispescit. Ἰνδάλλεσθαι autem est φαντάζεσθαι spe-
+ctra et phasmata captare. Inde Jerem. xvii, 3, qui
+alibi δαιμόνια redduntur, ἰνδάλματα a LXX Intt. dici
+meruere; quo omnino significatu eadem vox occurrit
+Sap. xvii, 3. Qui ergo inani φιλαυτίᾳ sibimet ipsis
+placent, et se ipsos, ut sine merito, ita etiam sine
+rivali depereunt, quosque B. Judas ἐνυπνιαζομέ-
+νους appellat, ii sunt a quorum labe et morbo
+S. Clemens cavere hortatur atque suadet. Fell.
+
+# block=7
+(55) Τὰ τέκνα ὑμῶν. Clem. Alex. l. c. ἡμῶν.
+Hinc arguit Cl. Potterus perperam legi ὑμῶν apud
+Clementem nostrum; eo vel maxime, quod paulo
+superius scripserit S. Pater in prima persona, ἐν-
+τραπῶμεν... αἰδεσθῶμεν... τιμήσωμεν... τὰς γυναῖκας
+ἡμῶν διορθωσώμεθα. Sic et Dav. Potterum secutus.
+Sed non est, meo quidem judicio, cur ms. lectioni
+vim inferamus. Quod enim scripserit Clemens Rom.
+τὰς γυναῖκας ἡμῶν, in causa fuit verbum διορθωσώ-
+μεθα, ut sermoni jam in prima persona instituto
+sententia congrueret. Cum autem hic alio scriben-
+di genere utatur, scripsisse omnino censendus τὰ
+τέκνα ὑμῶν. Id.
+
+# block=10
+(56) Apud Clementem Alex. timor Domini, ὁ φόβος
+Κυρίου, et mox in puro corde, ἐν καθαρᾷ καρδίᾳ. COUST
+
+# block=11
+(57) Καὶ ἐνθυμήσεων. Imitatur S. Pater Aposto-
+lum, Heb. ιν, 12: Ὁ λόγος τοῦ Θεοῦ... κριτικὸς ἐν-
+θυμήσεων καὶ ἐννοιῶν καρδίας. GALL.
+
+# block=3
+(58) Ἀνέλει αὐτήν. Sic Wott. ex ms.; editi, præ-
+ter Lond., ἀνέλοι αὐτήν. Ms. lectionem exhibet etiam
+Clem. Alex. Utrobique tamen legendum jubet Dav.
+in futuro secundo, ἀνελεῖ αὐτήν : Et cum voluerit,
+auferet eum (spiritum). ID.
+
+# block=21
+(65) Ἰνδαλλέσθω. Virorum doctorum ingenia
+torsit hic locus. Al. mallent ἐνδοιάσθω, vel ἰλιγγιά-
+σθω. Al. δικαζέσθω. Utquid autem ms. lectio solli-
+citetur? Rara quidem vox ἰνδάλλω, vel ἰνδάλλομαι,
+
+# block=4
+(59) Καὶ γὰρ αὐτὸς, κ. τ. λ. Ista delibat Clemens
+Alex., Στρωμ., lib. ιν, cap. 17, p. 612. Id. — Καὶ
+γὰρ αὐτὸς, etc. Simplicius Clemens Alexandrinus,

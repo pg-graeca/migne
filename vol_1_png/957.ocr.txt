@@ -1,0 +1,182 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,197,2480,939,2679
+2,191,1988,946,2240
+3,969,1076,1727,1855
+4,188,128,937,900
+5,977,1853,1724,2235
+6,191,911,940,1983
+8,969,442,1734,1077
+9,200,2288,1714,2362
+10,803,2402,1106,2435
+11,972,139,1722,428
+12,722,77,1133,112
+14,204,74,278,107
+18,1648,87,1723,121
+21,977,2470,1724,2675
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=12 fontSize=16px
+# block=14 fontSize=16px
+# block=18 fontSize=16px
+# block=21 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=14
+1313
+
+# block=12
+RECOGNITIONUM LIB. III.
+
+# block=18
+1314
+
+# block=4
+LXX. — Igitur statuto die cum stetissent ante
+Petrum, Ne arbitreris, aiunt, Petre, parvum nobis
+indici mœrorem, quod fraudamur non audientes te
+per menses tres; sed quoniam hoc expedit agere
+quod tu jubes, obediemus promptissime; semper
+ergo vultum tuum in nostro corde retinentes sicut
+jussisti alacres profisciscimur. At ille oratione pro
+eis ad Dominum fusa emisit eos. Et cum profecti
+fuissent illi duodecim qui præmissi sunt, Petrus
+ingressus ex more in loco disputationis stetit. Con-
+venerat autem populi multitudo, copiosior nume-
+rus quam solebat, et omnes cum lacrymis intueban-
+tur cum, pro eo quod pridie ab eo audissent, pro-
+fecturum se Simonis gratia. Sed et ipse lacrymantes
+eos videns similia patiebatur, licet conaretur occul-
+tare et inhibere lacrymas; prodebatur tamen ex
+tremore vocis et interruptione sermonis, quod simili
+angeretur affectu.
+
+# block=11
+relinquens quos non oportet, vel uxorem fidelem,
+vel si quæ ¹⁰ sunt hujusmodi personæ, quibus
+propter Deum deferri solatium convenit Interea
+per dies singulos disputans et docens, præpositum
+tempus in doctrinæ labore complevit. Et cum ad-
+venisset dies festus, super decem millia baptizati
+sunt.
+
+# block=8
+LXXIII. In illis autem diebus epistola mittitur a
+fratribus qui præcesserant, in qua Simonis scelera
+continebantur, quomodo per civitates deciperet
+turbas et Petrum per singula laceraret, ut cum
+forte advenisset, nullus ei accommodaret auditum.
+Asserebat enim eum magum esse et sine Deo,
+injuriosum, callidum, imperitum et impossibilia
+profitentem. Mortuos enim resurrecturos asserit,
+quod est, inquit, impossibile. Si qui vero eum con-
+futare velit, occultis ab eo insidiis perimitur per
+satellites ejus; propter quod, inquit, et ego cum
+eum superassem et triumphassem, insidias ejus
+veritus fugi, ne forte maleficiis me perimeret aut
+mortem meam per insidias elocaret. Indicabant au-
+tem maxime eum apud Tripolim demorari.
+
+# block=6
+LXXI. Verumtamen manu confricans frontem,
+Æquo animo, inquit, estote, fratres, et misericordes
+animas vestras consilii ratione solamini, referentes
+omnia ad Deum, cujus solius implenda et in omni-
+bus præferenda voluntas est. Nam si verbi gratia
+ponamus, quod pro affectu quem erga vos gerimus,
+contra voluntatem ejus agentes resideamus vobis-
+cum, nunquid non potest missa in me morte, pro-
+fectionem mihi a vobis indicere longiorem? Et ideo
+melius est ut hanc breviorem cum voluntate ipsius
+impleamus, utpote quibus definitum est in omni-
+bus obedire Deo; unde et vos debetis simili obe-
+dientia parere ei, quippe qui etiam me non alia ex
+causa, nisi pro ipsius amore diligatis. Ut ergo amici
+Dei, voluntati ejus obtemperate; sed et vos ipsi
+probate quod justum est. Nunquid non impium vi-
+debatur, si cum vos Simon deciperet, ego non
+venissem ad vos detentus a fratribus qui erant in
+Hierusalem, et quidem cum haberetis apud vos
+Zacchæum, virum bonum et in sermone expedi-
+tum? Ita ergo et nunc impium judicate, si cum ex-
+ierit Simon ad gentes impugnandas, quibus nullus
+omnino defensor est, ego non subsequar detentus a
+vobis. Propter quod observemus, ne forte affectu
+injusto voluntatem maligni faciamus.
+
+# block=3
+LXXIV. Igitur Petrus epistolam recitari populo
+jubet, et post lectionem allocutus eos de omnibus
+plenissime instruxit, præcipue tamen ut obedirent
+Zacchæo, quem ordinavit eis episcopum. Sed et
+presbyteros et diaconos populo, et ipsis nihilomi-
+nus populum commendavit. Simulque denuntians
+quod apud Tripolim hiematurus esset, Commendo
+vos, inquit, gratiæ Dei, crastino cum voluntate
+Domini profecturus. Per totos ¹¹ autem tres menses
+quos apud Cæsaream doctrinæ causa exegimus,
+quæcunque apud populum disserebat per diem, hæc
+nobis secreto lucubrantibus secum plenius et per-
+fectius explanabat, tanquam fidelioribus ac sibi li-
+quido probatis. Simul et imperat mihi, quia intel-
+lexit me studiosius quæ audirem memoriæ commen-
+dare, libris singula quæque quæ memoratu digna
+videbantur comprehendere et mittere ad te, mi do-
+mine Jacobe, sicut et feci parens ejus præceptis. .
+
+# block=5
+LXXV. Primus ergo liber ex his quos prius misi
+ad te (98) continet de vero propheta et de proprie-
+tate intelligentiæ legis, secundum id quod Moysi
+traditio docet. Secundus de principio continet,
+utrum unum sit principium, an multa, et quod non
+ignoret Hebræorum lex, quid sit immensitas. Ter-
+tius, de Deo et his quæ ab eo instituta sunt. Quar-
+tus, quod cum multi dicantur dii, unus sit verus
+Deus secundum testimonia Scripturarum. Quintus,
+
+# block=2
+LXXII. Interim tribus, ut dixi, mensibus per-
+manebo apud vos; estote assidui ad audiendum
+verbum, et consummatis his, si qui possunt et volunt
+sequi nos, permittitur eis salva pietate. Quod autem
+dico salva pietate, hoc est, ne quem discessu suo
+contristet qui contristari non debet, vel parentes
+
+# block=9
+¹⁰ Vel si quæ—convenit desunt in cod. utroque Lips. ¹¹ Per totos—esse non poterat (cap. 75) non legan-
+tur in codd. Lipss.
+
+# block=10
+COTELERII NOTÆ.
+
+# block=21
+Carmelitarū legitur : Distinctiones librorum de-
+cem præsentis operis. Eumdemque errorem secutus
+videtur tum scriptor ms. Sorbonici, toti namque
+Operi ea lemmata præponit; tum ms. Thuani exa-
+rator, qui similiter illa præfixit, ac præterea ex
+isto capite 75 libri tertii sustulit.
+
+# block=1
+(98) Primus ergo liber ex his quos prius misi ad
+te, etc. Igitur decem illi libri antea ad Jacobum
+missi (si unquam in rerum natura exstitere) dis-
+tingui debent ab istis decem Recognitionum libris,
+qui nunc ad eundem Jacobum post eos scribuntur.
+Et tamen hoc loco in margine codicis RR, PP.

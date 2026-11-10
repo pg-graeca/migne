@@ -1,0 +1,234 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,235,1324,995,1667
+2,1029,322,1782,620
+3,240,492,997,705
+4,1022,1586,1766,1706
+5,236,1149,999,1317
+6,233,2152,983,2320
+7,1032,148,1779,316
+8,232,1892,988,2015
+9,1023,1064,1771,1142
+10,1034,2384,1774,2661
+11,230,1676,990,1883
+13,244,139,1003,483
+14,1024,1716,1757,1798
+15,238,711,996,923
+18,233,2022,979,2144
+19,1013,1803,1778,2278
+20,1022,1412,1775,1578
+21,770,83,1238,134
+23,1020,1149,1781,1406
+24,234,2388,989,2688
+25,1046,931,1502,1063
+29,1028,625,1772,924
+30,240,921,1003,1147
+32,226,80,316,128
+33,1686,84,1774,138
+34,1024,2284,1772,2328
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=11 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=15px
+# block=15 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+# block=21 fontSize=15px
+# block=23 fontSize=15px
+# block=24 fontSize=15px
+# block=25 fontSize=15px
+# block=29 fontSize=15px
+# block=30 fontSize=15px
+# block=32 fontSize=15px
+# block=33 fontSize=15px
+# block=34 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=32
+191
+
+# block=21
+AD S. CLEMENTEM I PAPAM
+
+# block=33
+192
+
+# block=13
+κῶν ἐνσκηψάντων νοσημάτων ἑαυτοὺς σφάγια ὑπὲρ
+τοῦ κοινοῦ παραδεδώκασι · καὶ παραδέχεται ταῦθ’
+οὕτως γεγονέναι οὐκ ἀλόγως πιστεύσας ταῖς ἱστορίαις
+ὁ πιστὸς Κλήμης, ὑπὸ Παύλου μαρτυρούμενος, λέγον-
+τος· Μετὰ Κλήμεντος, κ. τ. λ. Cfr. I Clem. c. 55.
+(e) Eusebium eamdem quæ nunc exstat, Clementis
+epistolam ante oculos habuisse, verba ejus sa-
+tis demonstrant:
+
+# block=7
+t. III, p. 61, ed. B. B. scribit : Ἀλλὰ καὶ ὁ Κλήμης
+ἀρχαϊκώτερον (f. ἀρχαϊκώτερος) · Ζῇ, φησὶν, ὁ Θεὸς,
+καὶ ὁ Κύριος Ἰησοῦς Χριστὸς, καὶ τὸ Πνεῦμα τὸ
+ἅγιον (29).
+
+# block=2
+Sed futiles sunt illorum rationes, qui hanc ob
+causam authentiam epistolæ nostræ impugnarunt ;
+fortasse enim omnes hi loci, quorum parvus est
+numerus, olim post caput 57 legebantur, ubi folium
+integrum excidit. Certe ῥῆσις illa Basilii, ut Freyius
+monuit, peropportune illi loco convenit, et accom-
+modari potest in epistola ad finem decurrente.
+
+# block=3
+Hist. eccl. III, 16 : Τούτου δὴ οὖν τοῦ Κλήμεντος
+ὁμολογουμένη μία ἐπιστολὴ φέρεται, μεγάλη τε καὶ
+θαυμασία, ἣν ὡς ἀπὸ τῆς Ῥωμαίων Ἐκκλησίας τῇ
+Κορινθίων διετυπώσατο, στάσεως τηνικάδε κατὰ τὴν
+Κόρινθον γενομένης.
+
+# block=29
+V. Jam de integritate dicendum est.
+(a) Eodem anno 1633, quo primum epistola nostra
+typis vulgabatur, Hieron. Bignonius, Jctus Pa-
+risinus, integritatem ejus in dubium vocavit,
+plures clausulas et voces epistolæ genuinæ ad-
+ditas esse putans. Præsertim viro doctissimo dis-
+plicebat
+
+# block=15
+Ibid. III, 38 : Τοῦ Κλήμεντος ἐν τῇ ἀνωμολογη-
+μένῃ παρὰ πᾶσιν, ἣν ἐκ προσώπου τῆς Ῥωμαίων
+Ἐκκλησίας τῇ Κορινθίων διετυπώσατο. Ἐν ᾗ τῆς πρὸς
+Ἑβραίους πολλὰ νοήματα παραθεὶς, ἤδη δὲ καὶ αὐτο-
+λεξεὶ ῥητοῖς ἐξ αὐτῆς χρησάμενος, κ. τ. λ.
+
+# block=30
+Epistolam nostram sæpe iisdem verbis uti, quæ in
+Epistola ad Hebræos inveniuntur, nemo nescit (28).
+(f) Cyrillus Hierosolymitanus, Catech. 18. c. 8, fabu-
+lam de phœnice (1 Clem. 25), ut ipse testatur,
+ex epistola Clementis profert.
+
+# block=25
+(α) narratio de phœnice c. 25.
+(β) frequentia epithetorum.
+(γ) vox λαϊκός c. 40 et
+
+# block=9
+(δ) locus capitis 47 : ubi Ecclesia Corinthiorum
+ἀρχαία vocatur.
+
+# block=5
+(gʳ) Epiphanius hær. 27, n. 6 : Λέγει γὰρ (Clemens)
+ἐν μιᾷ τῶν ἐπιστολῶν αὐτοῦ· ‹ Ἀναχωρῶ,
+ἄπειμι, ἐνσταθήτω ὁ λαὸς τοῦ Θεοῦ. › Cfr.
+I Clem., c. 54.
+
+# block=23
+Ipsi respondit Hugo Grotius, (30), inter alia mo-
+nens Clementem sine dubio æque ac auctorem Epi-
+stolæ ad Hebræos Græcum sermonem ex eruditis
+auctoribus hausisse, ideoque liberiori dictione, non,
+ut ἑβραΐζουσιν, in minutias concisa, sed largius
+fluenti, usum esse.
+
+# block=1
+(hʳ) Hieronymus Catal. script. eccl. c. 15 : Scripsit
+(Clemens) ex persona Romanæ Ecclesiæ ad Ec-
+clesiam Corinthiorum valde utilem epistolam,
+quæ et in nonnullis locis publice legitur, quæ
+mihi videtur characteri epistolæ, quæ sub Pauli
+nomine ad Hebræos fertur, convenire. Sed et
+multis de eadem epistola, non solum sensibus, sed
+juxta verborum quoque ordinem abutitur.
+
+# block=20
+Quod narrationem de phœnice attinet, alii quo-
+que veterum, e. g. Tacitus (Annal. VI, 28) et Pli-
+nius (H. N. VII, 49 ; XIII, 9 ; XXIX, 9) eidem fabulæ
+fidem habebant.
+
+# block=4
+Ecclesiam Corinthiorum jam a Clemente, re-
+spectu aliarum Ecclesiarum, ἀρχαίαν appellari po-
+tuisse, nemo negabit.
+
+# block=11
+Idem lib. XIV Comment. in Isai., c. LII, 13 : Cle-
+mens, vir apostolicus, qui post Petrum rexit Eccle-
+siam, scribit ad Corinthios : ‹ Sceptrum Dei, Dominus
+Jesus Christus, non venit in jactantia superbiæ, cum
+possit omnia, sed in humilitate. › Cfr. I Clem., c. 16.
+
+# block=14
+Denique de voce λαϊκός quæ dicenda sunt, in no-
+tis ad c. 40 reperies.
+
+# block=19
+(b) Supra jam diximus, Clementem Alexandrinum
+multa epistolæ nostræ capita (l. 9—12. 17. 18.
+21. 22. 36. 38. 40. 41. 48. 49. 50. 51. 53.),
+tecto Romani Clementis nomine, excerpsisse,
+et abbreviata libro quarto Stromatum in-
+texuisse (31). Eduardus vero Bernardus et Cle-
+ricus in utraque Amstelodamensi Coteleriana
+editione Patrum apostolicorum, suspicabantur
+omnes hos locos Alexandrinum ipsum habere
+auctorem, e cujus libro interpolatam esse no-
+stram epistolam contendunt.
+
+# block=8
+Idem lib. 1 Comment. in Ep. ad Eph., c. II, 2 : Cle-
+mens, in epistola sua scribit : Oceanus et mundi, qui
+trans ipsum sunt. Cfr. I Clem. c. 20.
+
+# block=18
+Idem ibid. lib. II, ad c. IV, 1 : Cujus rei et Cle-
+mens ad Corinthios testis est : ‹ Vinculum charitatis
+Dei quis poterit enarrare? › Cfr. I Clem. c. 49.
+
+# block=6
+Testimonia posteriorum taceamus.
+IV. Nonnulli veterum locos epistolæ Clementinæ
+laudant, qui in nostris exemplaribus non leguntur.
+E. g. Basilius, lib. de Spiritu sancto c. 29, n. 72,
+
+# block=34
+Illis accessit Laurentius Mosheim V. C. (32). Ipsi
+
+# block=10
+mentis epistola datam esse ad Corinthios. Mac-
+kium impugnavit W F. Rinck in Ullmanni
+Stud. et Krit. 1839, fasc. iv, p. 1002 sq.
+(29) Reliquos locos reperies in Galland. Bibl.
+t. I, p. 44 sq.
+(30) Vide supra, col. 47.
+(31) Cfr. Not. 2 ad c. 9.
+(32) Instit. hist. chr. majores, p. 214. sq.
+
+# block=24
+(28) Multi autumarunt, aut Clementem ipsum epi-
+stolam ad Hebræos scripsisse, aut certe eam
+in sua scribenda ante oculos habuisse. Longe
+aliter conjicit Dr. Mack (Tubing. theol. Quar-
+talschrift 1838, fasc. III, p. 385 sqq.), id
+agens, ut nobis ostendat, epistolam Clemen-
+tis Epistola ad Hebræos fuisse priorem, et hanc
+ad Clementis epistolam bene apud Corinthios
+introducendam confectam, et una cum Cle-

@@ -1,0 +1,191 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,952,1930,1703,2695
+2,983,145,1728,451
+3,198,141,954,434
+4,168,1381,923,2724
+7,800,477,1099,510
+8,634,91,1300,128
+10,200,87,255,127
+12,965,556,1734,1479
+15,1666,98,1736,138
+16,182,552,940,1384
+17,962,1480,1704,1934
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+(38) Τῆς πλείονος. Alter cod. Vind. μετὰ σεμνῆς.
+CLER.
+(39) Αἱ γυναῖκες κεχωρισμένως. Morem Judaicum
+pariter et Christianum declaratum invenies in Phi-
+lone Judæo libro De vita contemplativa, Josepho
+lib. vi De bello Judaico, Rabbinis, Inscriptionibus
+veteribus, ecclesiarum descriptionibus, Expositio-
+nibus rituum sacrorum, Libro pontificali et sanctis
+Patribus. Sed præ cæteris notatu dignus est locus
+S. Chrysostomi homil. 74 in Matthæum : Ἐχρῆν
+μὲν οὖν ἔνδον ἔχειν τὸ τεῖχος τὸ διεῖργον ὑμᾶς τῶν γυ-
+ναικῶν· ἐπειδὴ δὲ οὐ βούλεσθε, ἀναγκαῖον ἐνόμισαν
+εἶναι οἱ πατέρες κἂν ταῖς σανίσιν ὑμᾶς ταύταις δια-
+τειχίσαι. Ὡς ἔγωγε ἀκούω τῶν πρεσβυτέρων, ὅτι τὸ
+παλαιὸν οὐδὲ ταῦτα ἦν τὰ τειχία. Ἐν γὰρ Χριστῷ
+Ἰησοῦ οὐκ ἔστιν ἄρσεν ἢ θῆλυ. Καὶ ἐπὶ τῶν ἀποστόλων
+δὲ ὁμοῦ καὶ ἄνδρες καὶ γυναῖκες ἦσαν, etc. Οὐκ ἠκού-
+σατε, ὅτι ἦσαν συνηγμένοι ἄνδρες καὶ γυναῖκες ἐν τῷ
+ὑπερώῳ ; Oportebat quidem interiore pariete a mu-
+lieribus disseparari. Verum quoniam non vultis, ne-
+cessarium esse patres nostri putaverunt, saltem his
+ligneis parietibus vos disseparare. Audivi autem ego
+a senioribus, non fuisse hos parietes ab initio. In
+
+# block=2
+In medio autem situm sit episcopi solium ; et utrin-
+que sedeat presbyterium, et astent diaconi expediti
+ac leviter induti; assimilantur enim nautis, ac iis,
+qui lateribus navis præsunt. Eorum cura ad alteram
+ecclesiæ partem laici omnino quiete et ordinatim
+sedeant ; mulieres quoque separatim et ipsæ sedeant,
+a sermone abstinentes. Medius autem lector, in quo-
+
+# block=3
+σος ὁ τοῦ ἐπισκόπου θρόνος (34), παρ’ ἑκάτερα δὲ αὐτοῦ
+καθεζέσθω τὸ πρεσβυτέριον (35), καὶ οἱ διάκονοι παρ-
+ιστάσθωσαν(36)εὐσταλεῖς(37)τῆς πλείονος ἐσθῆτος(38)·
+ἐοίκασι γὰρ ναύταις καὶ τοιχάρχοις. Προνοίᾳ δὲ τού-
+των εἰς τὸ ἕτερον μέρος οἱ λαϊκοὶ καθεζέσθωσαν μετὰ
+πάσης ἡσυχίας καὶ εὐταξίας· καὶ αἱ γυναῖκες κεχω-
+ρισμένως (39) καὶ αὐταὶ καθεζέσθωσαν, σιωπὴν ἄγου-
+
+# block=4
+[aut Φαρουαδίμ·] καὶ τὸ νᾶμα τοῦ ἡλίου κατέκαυσεν
+ἐν πυρί. Cum hodie legatur : Καὶ κατέκαυσε τοὺς ἵπ-
+πους οὓς ἔδωκαν (editio Complutensis ἀνέθηκαν)
+βασιλεῖς Ἰούδα τῷ ἡλίῳ ἐν τῇ εἰσόδῳ οἴκου Κυρίου εἰς
+τὸ γαζοφυλάκιον Ναθὰν βασιλέως τοῦ εὐνούχου ἐν Φα-
+ρουρὶμ, καὶ τὸ ἅρμα τοῦ ἡλίου κατέκαυσεν πυρί (al. ἐν
+πυρί). Certe potuisse γαζοφυλάκιον mutari in παστοφό-
+ριον, aut verti pastophorium, clarius est quam ut docu-
+mento indigeat. Quare vice versa vetus Scholiastes ad
+παστοφόρια, Ez. xl, 17, adnotat : γαζοφυλάκια. Aitque
+in eumdem textum S. Hieronymus : Pro thalamis xxx,
+quos vertere LXX, sive gazophylaciis atque cellariis,
+ut interpretatus est Aquila, Symmachus posuit ἐξέδρας,
+etc. Intuitus est triginta thalamos, vel gazophylacia,
+sive (ut Symmachus interpretatus est) Exedras, quæ
+habitationi levitarum atque sacerdotum fuerant præpa-
+ratæ. Et inferius, post exposita gazophylacia : Vel certe
+thalami qui, Græce dicuntur παστοφόρια, ostendunt
+sponsi adventui cubicula præparata. Et ad ejusdem
+prophetæ cap. xlii, initio : Eductus est in gazophy-
+lacium, sive ut Symmachus et LXX transtulerunt,
+exedram; vel ut Theodotio , παστοφόριον, quod in
+thalamum vertitur. Cæterum hic, ubi locum Luciferi
+illustrare conatus sum, auctoris omnium (quod
+nemo nescit) depravatissimi, utilissimi tamen ad
+cognitionem Scripturarum, admonitum te velim,
+Lector candide, me in purgando eo Augiæ stabulo
+plurimum laboris impendisse, paratumque esse ad
+procurandam editionem, si librum aliquem ms. na-
+ctus fuero. Ut si forte in manus tuas, aut notitiam
+venerit, mecum communicare non dedigneris, ho-
+minem non ingratum singulari beneficio tibi devin-
+cturus. COT. — Alter cod. Vind. habet hic ἔχων πα-
+στοφόρια δέ. CLER.
+(34) Κείσθω δὲ μέσος ὁ τοῦ ἐπισκόπου θρόνος.
+In Historia ecclesiastica Theodoriti lib. v, cap. 3.
+Meletius Paulino dicit : Εἰ δὲ ὁ μέσος θῶκος τὴν
+ἔριν γεννᾷ, ἐγὼ καὶ ταύτην ἐξελάσαι πειράσομαι.
+Ἐν γὰρ τούτῳ τὸ θεῖον προτεθεικὼς Εὐαγγέλιον, ἑκα-
+τέρωθεν ἡμᾶς καθῆσθαι παρεγγυῶ. COT.
+
+# block=7
+VARIORUM NOTÆ.
+
+# block=8
+CONSTITUTIONES APOSTOLICÆ.—LIB. II.
+
+# block=10
+725
+
+# block=12
+(35) Παρ’ ἑκάτερα δὲ αὐτοῦ καθεζέσθω τὸ πρε-
+σβυτέριον. De sacerdotum primi et secundi ordinis
+συνθρόνῳ multi multa. Addimus nos correctionem
+Harmenopuli in Epitome canonum sect. 1, tit. 3,
+scholio ad canonem 16 Antiochenum, lib. I Juris
+Græco-Romani, hoc pacto : Ἡ συνοδικὴ τοῦ πατριάρ-
+χου Μανουὴλ διάγνωσις συγχωρεῖ καὶ μεταθέσεις
+ἐπισκόπων γίνεσθαι, γνώμῃ τοῦ πρωτεύοντος αὐτῶν,
+χρείας κατεπειγούσης πρὸς τὸ λυσιτελέστερον· καὶ
+κατ’ ἐπίδοσιν ἐπισκόπῳ καὶ ἑτέραν ἐπισκοπὴν δίδο-
+σθαι παρὰ τοῦ πρωτεύοντος ἐν τῇ ἐνορίᾳ αὐτοῦ, ἐν ᾗ
+καὶ πάσῃ τῇ ἐνορίᾳ αὐτῆς τὴν διεξαγωγὴν τῶν ἀρ-
+χιερατικῶν ἁπάντων δικαίων ποιήσεται, ὅσα καὶ γνή-
+σιος ἀρχιερεὺς αὐτῶν, παρέξ τοῦ ἐν τῷ ἱερῷ συνθρό-
+νῳ ἐγκαθιδρύεσθαι. Male vulgo, Μιχαὴλ εἰσύν θρόνῳ.
+Exstat quippe ejusdem Juris Græco-Romani lib. III,
+pag. 240, integra synodalis sententia Manuelis Con-
+stantinopolitani : atque in ea habetur συνθρόνῳ ,
+sicut in Regiis Harmenopuli codicibus. ID.
+(36) Οἱ διάκονοι παριστάσθωσαν. Quandoqui-
+dem liquido constat, diaconos in ecclesia non se-
+disse cum episcopo et presbyteris; mutari debet
+prava interpunctio in missa S. Basilii, Euchologii
+seu ritualis Græcorum pagina 181 : Καὶ καθέζεται
+ὁ ἀρχιερεὺς μετὰ τῶν ἱερέων, τῶν διακόνων, καὶ ὑπη-
+ρετῶν· τοῦ κλήρου, καὶ τοῦ λαοῦ ἱσταμένων, distin-
+guendo sic : καὶ καθέζεται ὁ ἀρχιερεὺς μετὰ τῶν ἱε-
+ρέων· τῶν διακόνων, καὶ ὑπηρετῶν, τοῦ κλήρου, καὶ
+
+# block=15
+726
+
+# block=16
+recentiores. Superest itaque ut adnotem, videri vo-
+cem pastophorium amissa syllaba transiisse in pa-
+storium apud Luciferum libro De non parcendo in
+Deum delinquentibus, pag. 240, in interpretatione vers.
+11, cap. XXIII, lib. IV Regum, loco miseris modis ac-
+cepto ; mutilatione, corruptione, transpositione af-
+flicto, nec absque mss. codicibus sanabili. Posue-
+rant reges Juda soli ab introitu domus Domini ad
+pastorium, quos posuit tres equos, qui in Faradim. Et
+fontem solis combussit in igne. Quis hæc intelligat,
+nisi conferantur cum Græcis ? Unde hunc fere in
+modum possunt concinnari : Et deposuit equos quos
+posuerant reges Juda Soli ab introitu domus Domini
+ad pastophorium Nathan regis eunuchi, qui in Pharu-
+rim [ vel Farvadim ]. Et fontem Solis combussit in
+igne. Aut in istum : Et combussit equos, quos posue-
+rant reges Juda Soli ab introitu domus Domini ad
+pastophorium , quod posuit regis eunuchus , qui in
+Pharurim, etc. (Nathan enim nomen proprium, si-
+gnificat posuit.) Hoc est Græce : Καὶ κατέκαυσε (seu
+κατέπαυσε, quemadmodum optime emendat Bochar-
+tus in Hierozoico) ἵππους οὓς ἀνέθηκαν βασιλεῖς Ἰούδα
+τῷ ἡλίῳ ἐν τῇ εἰσόδῳ οἴκου Κυρίου εἰς τὸ γαζοφυλά-
+κιον(vel παστοφόριον) Ναθὰν, βασιλέως τοῦ εὐνούχου,
+(sive ὃ ἀνέθηκε βασιλέως εὐνοῦχος), ὃς ἐν Φαρουρὶμ
+
+# block=17
+τοῦ λαοῦ ἱσταμένων. Recte editio Latina t. VI Biblio-
+thecæ Patrum : Et sedet Pontifex cum sacerdotibus,
+stantibus diaconis, ac subdiaconis, et clero et populo. ID.
+(37) Εὐσταλεῖς τῆς πλείονος ἐσθῆτος. In Chry-
+sostomo tom. VI, Homil. in Parabolam de filio pro-
+digo, post medium : Τῶν λειτουργῶν τῆς θείας ἱε-
+ρουργίας, τῶν μιμουμένων τὰς τῶν ἀγγέλων πτέρυ-
+γας ταῖς λεπταῖς ὀθόναις ταῖς ἐπὶ τῶν ἀριστερῶν
+ὤμων κειμέναις, καὶ ἐν τῇ ἐκκλησίᾳ περιτρεχόντων,
+etc. Alcuinus De divinis officiis, cap. 39 : Diaconus
+qui non est indutus dalmatica, casula circumcinctus
+legit [forte degit], ut expedite possit ministrare, vel
+quia ipsius est ire ad comitatum propter instantes
+necessitates. ID.

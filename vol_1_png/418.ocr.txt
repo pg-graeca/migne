@@ -1,0 +1,207 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1064,194,1820,1057
+2,284,191,1042,1054
+3,1070,1160,1809,1369
+4,281,1157,1033,1371
+5,270,2554,1016,2694
+6,1058,2020,1806,2418
+7,1311,1118,1562,1149
+8,896,1475,1195,1507
+9,559,1114,760,1150
+10,563,144,762,183
+11,666,91,1432,131
+12,1310,151,1569,185
+13,1056,2416,1800,2618
+14,277,1528,1034,2558
+15,1055,1531,1809,2023
+16,1057,2615,1796,2684
+17,282,80,370,144
+18,1744,94,1830,148
+19,286,1388,1606,1450
+20,279,1053,1603,1107
+
+# layer=format
+# block=7 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=15px
+# block=12 fontSize=15px
+# block=17 fontSize=15px
+# block=18 fontSize=15px
+# block=19 fontSize=15px
+# block=20 fontSize=15px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=17
+255
+
+# block=11
+S. CLEMENTIS I ROM. PONT. OPERA GENUINA.
+
+# block=18
+236
+
+# block=10
+CAPUT XIII.
+
+# block=12
+ΚΕΦΑΛΑΙΟΝ ΙΓ΄.
+
+# block=2
+Humiles itaque simus, fratres, deponentes omnem
+arrogantiam, et fastum, et amentiam, et iras; at-
+que faciamus quod scriptum est: dicit enim Spiri-
+tus sanctus: Non glorietur sapiens in sapientia sua,
+neque fortis in fortitudine sua, neque dives in divitiis
+suis; sed qui gloriatur, in Domino glorietur, quæ-
+rendo illum, et faciendo judicium ac justitiam ⁷⁹:
+præcipue memores sermonum Domini Jesu, quos
+locutus est docens mansuetudinem et æquanimita-
+tem. Sic enim dixit: Estote misericordes, ut miseri-
+cordiam consequamini; dimittite, ut dimittatur vo-
+bis; sicut facitis, ita vobis fiet; sicut datis, ita da-
+bitur vobis; sicut judicatis, ita judicabimini; sicut
+indulgetis, ita vobis indulgebitur; qua mensura
+metimini, in ea mensurabitur vobis ⁸⁰. Hoc præcepto
+et his mandatis stabiliamus nos ipsos, ut in obe-
+dientia sanctorum eloquiorum ejus ambulemus,
+humiliter de nobis sentientes. Ait enim sanctus
+sermo: Super quem respiciam, nisi super mansue-
+tum et quietum, et trementem sermones meos ⁸¹?
+
+# block=1
+Ταπεινοφρονήσωμεν οὖν, ἀδελφοί, ἀποθέμενοι πᾶ-
+σαν ἀλαζονείαν, καὶ τῦφον, καὶ ἀφροσύνην, καὶ
+ὀργάς· καὶ ποιήσωμεν τὸ γεγραμμένον. Λέγει γὰρ τὸ
+Πνεῦμα τὸ ἅγιον· Μὴ καυχάσθω ὁ σοφὸς ἐν τῇ
+σοφίᾳ αὐτοῦ, μηδὲ ὁ ἰσχυρὸς ἐν τῇ ἰσχύϊ αὐτοῦ,
+μηδὲ ὁ πλούσιος ἐν τῷ πλούτῳ αὐτοῦ· ἀλλ’ ἢ ὁ
+καυχώμενος (87), ἐν Κυρίῳ καυχάσθω (88), τοῦ
+ἐκζητεῖν αὐτὸν, καὶ ποιεῖν κρῖμα καὶ δικαιοσύν-
+[ην (89)·] μάλιστα μεμνημένοι τῶν λόγων τοῦ
+Κυρίου Ἰησοῦ, οὓς ἐλάλησε διδάσκ[ων] ἐπιείκειαν
+καὶ μακροθυμίαν. [Οὕ]τως γὰρ εἶπεν· ’Ελεεῖτε ἵνα
+ἐλεη[θῆ]τε, ἀφίετε ἵνα ἀφεθῇ ὑμῖν· ὡ[ς] ποιεῖτε,
+οὕτω ποιηθήσεται ὑ[μῖν·] ὡς δίδοτε, οὕτω δοθή-
+σεται ὑ[μῖν·] ὡς κρίνετε, οὕτω κριθήσεται [ὑμῖν·
+ὡς] χρηστεύεσθε, οὕτως χρη[στευθή]σεται ὑμῖν··
+ᾧ μέτρῳ με[τρεῖτε,] ἐν αὐτῷ μετρηθήσεται ὑμῖν.
+[Ταύτῃ τ]ῇ ἐντολῇ καὶ τοῖς παραγγέλ[μασι] τούτοις
+στηρίσωμεν (90) ἑαυ[τοὺς] τὸ πορεύεσθαι ὑπηκόους
+[ἡμ]ᾶς τοῖς (91) ἁγιοπρεπέσι λόγοις αὐ[τοῦ,] τα-
+πεινοφρονοῦντες. [Φησὶ]ν γὰρ ὁ ἅγιος λόγος· ’Επὶ
+
+# block=20
+τινα [ἐπι]βλέψω, ἀλλ' ἢ ἐπὶ τὸν πραῢν καὶ [ἡσύ]χιον (92) καὶ τρέμοντά μου τὰ λόγια ;
+
+# block=9
+CAPUT XIV.
+
+# block=7
+ΚΕΦΑΛΑΙΟΝ ΙΔ'.
+
+# block=4
+Justum ergo ac pium est, viri fratres, Deo potius
+obedientes nos esse, quam sequi eos qui in super-
+bia et seditione duces fuerunt abominandæ æmula-
+tionis. Detrimentum enim non leve, imo vero
+grande periculum sustinebimus, si præcipitanter
+
+# block=3
+[Δί]καιον οὖν (93 - 94) καὶ ὅσιον, ἄνδρες ἀδελφοί, ὑπή-
+κόους ἡμᾶς μᾶλλον γενέσθαι τῷ Θεῷ, ἢ τοῖς ἐν ἀλα-
+ζονείᾳ καὶ ἀκαταστασίᾳ μυσαροῦ ζήλου ἀρχη-
+γοῖς ἐξακολουθεῖν. Βλάβην γὰρ οὐ τὴν τυχοῦσαν (95),
+μᾶλλον δὲ κίνδυνον ὑποίσομεν μέγαν, ἐὰν ῥιψοκινδύ-
+
+# block=19
+⁷⁹ Jer. ix, 23, 24 ; I Cor. i, 31 ; II Cor. x, 17. ⁸⁰ Luc. vi, 36-38. ⁸¹ Isa. lxvi, 2.
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=14
+Ægypto populi Israelitici exitus, transitus per mare
+Rubrum, serpentis ænei elevatio, ut innumera alia
+præteream, ad Messiæ tempora pertinuisse constat.
+Sed præ aliis, peculiari quodam jure, hæc servatæ
+vitæ, quasi paschalis tessera, et in purpura san-
+guinis redempti pignus prophetiæ elogium meruisse
+videbantur; siquidem in lege Mosaica perpetuus
+fere usus symboli illius, nimirum, coccini, in om-
+nibus cujuscunque generis piamentis et lustratio-
+nibus. Ita Ep. ad Hebr. ix, 19, cum universus po-
+pulus accepta lege lustrari deberet, Moses dicitur,
+accepisse sanguinem vitulorum et hircorum cum aqua
+et lana coccinea et hyssopo, ipsum quoque librum et
+omnem populum aspersisse. Idem in leprosi purifica-
+tione factum Levit: xiv, 49. Imo vero ex Thalmude di-
+scimus cod. Ioma, יומא, diem Chippurim כפורים (qui,
+si quis alius, expiationis per Domini sanguinem obti-
+nendæ typum gessit), non sine לשון של זהורית lingua
+seu filo coccineo celebratum. Imo si Gemaræ ejusdem
+libri, et libro Iuchasin fides, exinde etiam de magnæ
+istius solemnitatis successu judicium ferebatur; si
+enim expiatio rite peracta esset, coccus albedinem
+induebat היה לשון של זהורית מלבין, suisque nivibus
+similem reconciliatæ gentis innocentiam spopondis-
+se fertur. FELL. — Cf. Thalmud, Rosch-hasschana fol.
+31 verso; Ioma, fol. 39 verso et fol. 67 recto. DRACH.
+(87) Ἀλλ’ ἢ ὁ καυχώμενος. Particulam ἤ, quam
+Jun. et editi omittunt præter Londin., restituit ex
+ms. Wolf. eamque exhibent LXX ad Jer. ix, 24.
+GALL.
+
+# block=15
+δικαιοσύνην. Legebat etiam ἐκζητεῖν Lucifer, ver-
+tit enim inquirere, lib. ῘῘ pro S. Athanasio paulo
+post initium. Item καὶ ποιεῖν κρῖμα καὶ δικαιοσύ-
+νην reperies in Antiochi homilia 43. Cot.
+(90) Τούτοις στηρίσωμεν. Ita Wott. ex ms. Editi
+vero, omisso τούτοις, exhibent στηρίξωμεν. Gall.
+(91) Ὑπηκόους ἡμᾶς τοῖς. Jun. ac editi, ....
+[ἀεὶ] τοῖς : contra fidem cod. ms. qui, teste Wot-
+tono, exhibet ὑπηκόους ... αστοις. Legit quoque
+Mill. ... αστοις; sicque lacunam supplevit, [σεϐ-]
+αστοῖς : satis infelici conjectura, Wott. igitur nihil
+hæsitans ita hiatum complet : [ἡμ]ᾶς τοῖς. Dav.
+vero, [ὄντ]ας τοῖς. Utram harum lectionem seligas,
+per me licet. Juniana sane ac Milliana rejiciendæ
+videntur. Id.
+
+# block=6
+(92) Ἐπὶ τὸν πραΰν καὶ ἡσύχιον. Nunc LXX : ἐπὶ
+τὸν ταπεινὸν καὶ ἡσύχιον, quo modo a multis lectum
+olim. Clementinæ lectioni favent Athanasius in Do-
+mini occursum, Proclus in sanctam quintam feriam,
+Theodorus Studita serm. Catechet. 90. Psellus ci-
+tatus in Catena in Psalmos et Chrysostomus hom.
+9 in Genesim, expositione in psal. cxxxi et cxlii.
+Sermone de Christi precibus, et hom. 15 et 66
+in Matthæum ; qui tamen homil. 55 in Genesim
+utrumque conjungit sic : ἐπὶ τὸν πρᾶον, καὶ ἡσύχιον,
+καὶ ταπεινόν ; et homil. 41 in Matthæum habet, ἐπὶ
+τὸν πρᾶον καὶ ταπεινόν. Cor.
+
+# block=13
+(93-94) Δίκαιον οὖν. In Pandecte Niconis Monachi
+λόγῳ ιη΄, cod. Reg. 2418, 2423, 2424 : Κλήμεντος
+Ῥώμης. Δίκαιον οὖν καὶ ὅσιον, etc., ut supra inter
+testimonia veterum, col. 43. Connectit verba Cle-
+mentis Epistola ɪ, cap. hoc et sequenti et 46, item
+Epistola ɪɪ, cap. 3. Ɪᴅᴇᴍ.
+
+# block=5
+(88) Ἐν Κυρίῳ καυχάσθω. Ita quidem D. Pau-
+lus I Cor. ι, 31 ; II, x, 17. Verum aliter Jerem. ix, 23,
+24. Clemens, al. Cyprianus, alii. COLOM.
+(89) Τοῦ ἐκζητεῖν αὐτὸν, καὶ ποιεῖν κρῖμα καὶ
+
+# block=16
+(95) Τὴν τυχοῦσαν. Editi omittunt articulum
+τήν, quem Wolf. ex ms. restituit. Gall.

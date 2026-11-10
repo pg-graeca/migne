@@ -1,0 +1,167 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,233,149,989,1408
+2,234,2255,993,2689
+3,1016,141,1782,1406
+4,1010,1693,1772,2591
+5,231,1695,983,2157
+6,233,2153,987,2258
+7,266,1470,1770,1508
+8,644,90,1355,129
+9,1042,2616,1717,2666
+10,239,89,297,133
+11,1711,86,1781,132
+12,829,1588,1161,1644
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1
+cultu : hic est magister pietatis ; hic post Deum pa-
+ter vester, quia per aquam et spiritum vos in ado-
+ptionem regeneravit ; hic princeps et dux vester ;
+hic vester rex et dynastes ; hic vobis post Deum
+terrenus deus, cui honorem debetis præstare ; de
+eo quippe et de similibus aiebat Deus : « Ego dixi :
+Dii estis, et filii Excelsi omnes⁹⁶. » Et : « Diis non
+maledices⁹⁷. » Igitur episcopus vobis præsideat,
+tanquam Dei dignitate condecoratus, ob quam clero
+præest, et plebi universæ imperat. ⁹⁸ Diaconus au-
+tem episcopo assistat, ut Christus Patri ; ipsique in
+omnibus inculpate ministret ; quemadmodum Chri-
+stus, nihil a seipso faciens, quæ placita sunt Pa-
+tri, semper operatur. At diaconissa a vobis in fi-
+guram sancti Spiritus honoretur ; quæ absque
+diacono nihil agat, aut loquatur ; sicut nec Para-
+cletus a se quidquam loquitur aut facit, sed Chri-
+stum glorificans, exspectat illius voluntatem ; ad
+hæc, ut in Christum non creditur, nisi per Spiritus
+doctrinam, sic nulla mulier, nisi per diaconissam,
+ad diaconum aut ad episcopum accedat. ⁹⁹ Presby-
+teri vero nos apostolos repræsentare videantur vo-
+bis ; sintque doctores cognitionis Dei : quandoqui-
+dem Dominus, cum nos mitteret : « Euntes, dixit ;
+docete omnes gentes ; baptizantes eos in nomine
+Patris, et Filii, et Spiritus sancti ; docentes eos
+servare omnia quæcunque mandavi vobis¹⁰⁰. » Vi-
+duæ etiam et orphani, in formam altaris a vo-
+bis reputentur ; denique virgines ad instar thu-
+
+# block=2
+(84) Ἡ δὲ διάκονος. Multa Constitutionum, fe-
+torem Arianum et Macedonianum redolent, magis-
+que redolerent, si constaret scripta fuisse post ea-
+rum hæreseon exortum. Præsentem vero locum
+confodiunt præcipue ista S. Gregorii Nazianzeni
+oratione 44, pag. 709 De Spiritu sancto : Πάντως δὲ
+παρέσται δεσποτικῶς, ἀλλ' οὐ δουλικῶς, οὐδὲ ἀναμέ-
+νων ἐπίταγμα, ὥς τινες οἴονται. Ac profecto aderit
+heriliter, non serviliter, nec jussum atque imperium,
+ut quibusdam videtur, exspectans. Nihilominus, quo
+juxta Photii judicium error circa Trinitatem utcun-
+que a Diataxibus amoveatur, dici potest cum B. Hie-
+ronymo lib. 11 Apologiæ adversus Rufinum, cap. 4,
+
+# block=3
+λατρείαις· οὗτος διδάσκαλος εὐσεβείας· οὗτος μετὰ
+Θεὸν πατὴρ ὑμῶν, δι' ὕδατος καὶ πνεύματος ἀναγεν-
+νήσας ὑμᾶς εἰς υἱοθεσίαν· οὗτος ἄρχων καὶ ἡγούμε-
+νος ὑμῶν, οὗτος ὑμῶν βασιλεὺς καὶ δυνάστης· οὗτος
+ὑμῶν ἐπίγειος θεὸς (81) μετὰ Θεὸν, ὃς ὀφείλει τῆς
+παρ' ὑμῶν τιμῆς ἀπολαύειν· περὶ γὰρ τούτου καὶ τῶν
+ὁμοίων αὐτῶν [f. αὐτῷ] ὁ Θεὸς ἔλεγεν· « Ἐγὼ εἶπα,
+Θεοί ἐστε, καὶ υἱοὶ Ὑψίστου πάντες. » Καὶ (82)· « Θεοὺς
+οὐ κακολογήσεις. » Ὁ γὰρ ἐπίσκοπος προκαθεζέσθω
+ὑμῶν, ὡς Θεοῦ ἀξίᾳ τετιμημένος, ᾗ κρατεῖ τοῦ κλή-
+ρου, καὶ τοῦ λαοῦ παντὸς ἄρχει. Ὁ δὲ διάκονος τού-
+τῳ παριστάσθω, ὡς ὁ Χριστὸς τῷ Πατρὶ (83), καὶ λει-
+τουργείτω αὐτῷ ἐν πᾶσιν ἀμέμπτως, ὡς ὁ Χριστὸς
+ἀφ' ἑαυτοῦ ποιῶν οὐδὲν, τὰ ἀρεστὰ ποιεῖ τῷ Πατρὶ
+πάντοτε. Ἡ δὲ διάκονος (84) εἰς τύπον τοῦ ἁγίου
+Πνεύματος τετιμήσθω ὑμῖν, μηδὲν ἄνευ τοῦ διακόνου
+πράττουσα, ἢ φθεγγομένη, ὡς οὐδὲ ὁ Παράκλητος
+ἀφ' ἑαυτοῦ τι λαλεῖ ἢ ποιεῖ, ἀλλὰ δοξάζων τὸν Χρι-
+στὸν περιμένει τὸ ἐκείνου θέλημα· καὶ ὡς οὐκ ἔστιν
+εἰς τὸν Χριστὸν πιστεῦσαι ἄνευ τῆς τοῦ Πνεύματος
+διδασκαλίας, οὕτως ἄνευ τῆς διακόνου μηδεμία προσ-
+ίτω γυνὴ τῷ διακόνῳ, ἢ τῷ ἐπισκόπῳ. Οἵ τε πρε-
+σβύτεροι εἰς τύπον ἡμῶν τῶν ἀποστόλων ὑμῖν νενο-
+μίσθωσαν, διδάσκαλοι ἔστωσαν θεογνωσίας· ἐπειδὴ
+καὶ ὁ Κύριος ἡμᾶς ἀποστέλλων ἔλεγε· « Πορευθέντες
+μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς
+τὸ ὄνομα τοῦ Πατρὸς, καὶ τοῦ Υἱοῦ, καὶ τοῦ ἁγίου
+Πνεύματος · διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα
+ἐνετειλάμην ὑμῖν. » Αἵ τε χῆραι καὶ ὀρφανοὶ (85) εἰς
+
+# block=4
+scriptores ecclesiasticos, antequam Arius nasce-
+retur, innocenter quædam et minus caute locutos
+esse. Præterea ostendimus ad Hermam, ministri
+nomen a quibusdam e sanctis Patribus Filio sancto-
+que Spiritui fuisse attributum. Comparatio autem
+Trinitatis atque Hierarchiæ producitur quidem ab
+Anomœo in fine dialogi primi De sancta Trinitate,
+tom. II Operum S. Athanasii, sed pie reducitur ad
+catholicam fidem per orthodoxum, qui consubstan-
+tialitatem Patris, Filii, et sancti Spiritus infert ex
+consubstantialitate episcopi, presbyteri et diaconi.
+Accedit huc, quod ab antiquis passim sacerdotes
+cum Deo et Christo componuntur, quodque B. Igna-
+tius ad Trallianos cap. 3 et B. Polycarpus Epistolæ
+suæ cap. 5 aiunt diaconos esse instar Christi; quos
+tamen Gabriel Philadelphiensis cap. 5, lib. De sa-
+cerdotio, ut sequentes clericos, locum angelorum
+tenere vult, ut episcopum Dei et presbyterum Chri-
+sti. Τί δὲ διάκονοι, inquit Ignatianæ ad Trallianos
+epistolæ corruptor cap. 7, ἀλλ' ἢ μιμηταὶ τῶν ἀγ-
+γελικῶν δυνάμεων; vide pseudo-Hieronymi episto-
+lam De 7 ordinibus Ecclesiæ, et Acta concilii Ni-
+cæni cap. 31, De diatyposibus ecclesiasticis, n. 2.
+Verus Ignatius ad Smyrnæos 8 : Πάντες τῷ ἐπι-
+σκόπῳ ἀκολουθεῖτε, ὡς Ἰησοῦς Χριστὸς τῷ Πατρὶ,
+καὶ τῷ πρεσβυτερίῳ, ὡς τοῖς ἀποστόλοις· τοὺς δὲ
+διακόνους ἐντρέπετε, ὡς Θεοῦ ἐντολήν. Cot.
+
+# block=5
+(81) Ἐπίγειος θεός. Sic Petrum apostolum Θεὸν
+ἐπίγειον appellatum invenies in Epistola 1 Gre-
+gorii II ad Leonem Isaurum, quæ præponitur con-
+cilio 7 generali. Sic sacerdotem Χριστὸν ἐπιχθόνιον
+in Gregorio Nazianzeno carm. 3, p. 61. Et Dei no-
+men sacerdoti, deorum nomen sacerdotibus in sa-
+cris eloquiis dari, docent cum aliis Joannes Chry-
+sostomus Expositione in psalmum cxxxvii, et Gre-
+gorius papa lib. iv, epistola 31. Apud Jornandem
+De rebus Geticis cap. 28. Atanaricus rex, intuitus
+admirabilem urbem Constantinopolim, Theodosii-
+que majoris militem recte ordinatum, hæc edit
+verba : Deus sine dubio terrenus est imperator.
+Cot.
+
+# block=6
+(82) Καί. Additur in altero cod. ἀλλαχοῦ. Cler.
+(83) Ὡς ὁ Χριστὸς τῷ Πατρί. Καθάπερ αἱ δυνά-
+μεις τῷ Θεῷ. Uterque cod. Id.
+
+# block=7
+⁹⁶ Psal. lxxxi, 6. ⁹⁷ Exod. xxii, 28. ⁹⁸ Ignatius ad Magnes. 7. ⁹⁹ Infra, c. 28. ¹⁰⁰ Matth. xxviii, 19.
+
+# block=8
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=9
+(85) Ὀρφανοί. Addit ὑμῶν alter codex. Cler.
+
+# block=10
+(667
+
+# block=11
+668
+
+# block=12
+VARIORUM NOTÆ.

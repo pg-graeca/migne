@@ -1,0 +1,163 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,101,504,852,1101
+2,104,1111,855,1494
+3,891,499,1647,1099
+4,109,1637,861,2632
+5,896,1110,1647,1533
+6,896,1635,1645,2640
+7,895,143,1639,393
+8,102,146,848,401
+9,151,2668,669,2707
+10,725,1573,1034,1610
+11,455,434,1275,471
+12,513,89,1223,126
+14,1569,89,1638,122
+15,86,88,178,134
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=101 source_y1=504 source_x2=852 source_y2=1101
+Jupiter adinvenit artem navigatoriam; Neptu-
+nus, gubernatoriam; Vulcanus, fabrilem; Æscula-
+pius, medicam; Apollo, musicam; Minerva, texto-
+riam; Diana, venaticam; Juno, vestitum; Ceres,
+agriculturam; Phœnices, litteras; Homerus, poe-
+sim; Zeno Eleates, dialecticam; Corax Syracusius,
+rhetoricam; Aristæus, apum fructum; Triptolemus,
+frumenti sementim; Solon Atheniensis et Lycurgus
+Spartiata, leges; Palamedes, constructionem litte-
+rarum, numeros, mensuras et pondera; Ægyptii,
+geometriam; Chaldæi, astrologiam et genethlialo-
+giam; Arabes ac Phryges, augurium; Medi et Per-
+sæ, magiam, præstigias atque veneficium; Tyrrhe-
+ni, urbes muris cingere.
+
+# block=2 source_x1=104 source_y1=1111 source_x2=855 source_y2=1494
+Nota, quinam exstiterint artium et scientiarum
+auctores. Apelles, herbariæ; Demosthenes, rheto-
+ricæ; Papinianus, jurisprudentiæ; Antinus vel An-
+tylus, fabricationis lancearum; Eurynous, sagitta-
+riæ; Eurydamnus Messenius, bellici thoracis; Evan-
+der, ocreæ et clypei; Oppianus, piscatoriæ; Tripto-
+lemus, sationis tritici; Pamphilus, picturæ; Typhis,
+nauticæ; Argus, constructionis navium, a quo et
+Argonautæ; Archimedes, mechanicæ.
+
+# block=3 source_x1=891 source_y1=499 source_x2=1647 source_y2=1099
+1. Ὁ Ζεὺς ἐφεῦρε πλευστικήν (77)· Ποσειδῶν, κυ-
+βερνητικήν· Ἥφαιστος, χαλκευτικήν· Ἀσκληπιὸς,
+ἰατρικήν· Ἀπόλλων, μουσικήν· Ἀθηνᾶ, ὑφαντικήν·
+Ἄρτεμις, κυνηγετικήν· Ἥρα, στολισμόν· Δημήτηρ,
+γεωργίαν· Φοίνικες, γράμματα· Ὅμηρος, ποίησιν·
+Ζήνων ὁ Ἐλεάτης, διαλεκτικήν· Κόραξ ὁ Συρακού-
+σιος, ῥητορικήν· Ἀρισταῖος, μελισσῶν καρπόν· Τρι-
+πτόλεμος, σίτου σπόρον· Σόλων ὁ Ἀθηναῖος καὶ ὁ
+Σπαρτιάτης Λυκοῦργος, νόμους· ὁ Παλαμήδης, γραμ-
+μάτων σύνταξιν, ἀριθμοὺς, μέτρα καὶ σταθμούς· Αἰ-
+γύπτιοι, γεωμετρίαν· Χαλδαῖοι, ἀστρολογίαν καὶ γε-
+νεθλιαλογίαν· Ἄραβες καὶ Φρύγες, οἰωνοσκοπίαν·
+Μῆδοι καὶ Πέρσαι, μαγείαν καὶ γοητείαν καὶ φαρμα-
+κείαν· Τυῤῥηνοὶ, τειχίζειν πόλεις.
+
+# block=4 source_x1=109 source_y1=1637 source_x2=861 source_y2=2632
+Et pater: Ignosce, inquit, fili: nondum enim
+usum multum in his habeo: nam et hesterni ser-
+mones tui veritate ipsa concluserunt me, ut tibi ac-
+quiescerem; in conscientia tamen mea sunt quasi
+quædam reliquiæ febrium, quæ paululum me a fide
+quasi a sanitate retrabunt; discrucior enim quia
+scio multa mihi, imo pene omnia accidisse secun-
+dum genesim. Et ego respondi: Audi ergo, pater,
+quæ sit mathesis natura, et facito secundum ea quæ
+dico tibi. Vide mathematicum, et dic ei primo, quia
+talia quædam mihi acciderunt mala in illo tempore;
+unde ergo, aut quomodo, aut per quas mihi acci-
+derint stellas, discere volo. Respondebit tibi sine
+dubio, quia tempora tua malitiosus suscepit Mars,
+aut Saturnus; aut aliquis eorum apocatastaticus
+fuit; aut aliquis annum tuum aspexit ex diametro,
+aut conjunctus, aut in centro; vel alia his similia
+respondebit: addens quia in his omnibus aliquis
+aut asyndetus fuit cum malo, aut invisibilis, aut in
+schemate, aut extra hæresim, aut deficiens, aut non
+contingens, aut in obscuris stellis; et multa alia his
+similia, secundum rationes proprias respondebit,
+et de singulis assignabit. Post hunc alium adito
+
+# block=5 source_x1=896 source_y1=1110 source_x2=1647 source_y2=1533
+2. Σημείωσαι, τίνες γεγόνασιν ἀρχηγοὶ τεχνῶν καὶ
+ἐπιστημῶν· Ἀπελλῆς, βοτανικῆς· Δημοσθένης, ῥη-
+τορικῆς· Παπινιανὸς, νομοθεσίας· Ἀντίνος (al. Ἀν-
+τύλος), λογχοποιίας (al. λογοποιίας)· Εὐρύνοος, τοξι-
+κῆς (al. τοξοσύνης)· Εὐρύδαμνος Μεσήνιος, θώρακος
+πολεμικοῦ· Εὔανδρος, κνημῖδος καὶ ἀσπίδος· Ὀπ-
+πιανὸς, ἁλιευτικῆς· Τριπτόλεμος, σπορᾶς σίτου·
+Πάμφιλος, ζωγραφικῆς· Τῖφυς, ναυτικῆς· Ἄργος,
+ναυπηγίας, ἐξ οὗ καὶ Ἀργοναῦται· Ἀρχιμήδης, μη-
+χανικῆς.
+
+# block=6 source_x1=896 source_y1=1635 source_x2=1645 source_y2=2640
+Καὶ ὁ πατήρ· Σύγγνωθί μοι, ὦ τέκνον· οἱ μὲν γὰρ
+χθές σου λόγοι ἀληθεῖς ὄντες συνελογίσαντό μοι συν-
+θέσθαι σοι· ἡ δὲ ἐμὴ συνείδησις μικρά με ὥσπερ
+πυρετοῦ ἔλλειμμα πρὸς ἀπιστίαν βραχέα βασανίζει·
+σύνοιδα γὰρ ἐμαυτῷ τὰ τῆς γενέσεως πάντα μοι ἀπο-
+τελεσθέντα. Κἀγὼ ἀπεκρινάμην· Συννόησόν μοι, ὦ
+πάτερ, οἵαν φύσιν ἔχει τὸ μάθημα, ἐξ ὧν ἐγώ σοι
+συμβουλεύω. Μαθηματικῷ συμβαλὼν, εἰπὲ πρῶτον
+αὐτῷ ὅτι τάδε μοι φαῦλα ἐν τῷδε τῷ χρόνῳ γέγονεν·
+ἐκ τίνος ἄρα μοι τῶν ἀστέρων γέγονε μαθεῖν ἤθελον.
+Καὶ ἐρεῖ ὅτι τοὺς χρόνους κακοποιὸς διεδέξατο Ἄρης
+ἢ Κρόνος ἢ τούτων τις ἀποκαταστατικὸς ἐγένετο· ἢ
+τὸν ἐνιαυτὸν τοῦτόν τις ἐπεθεώρησεν ἐκ τετραγώνου,
+ἢ διαμέτρου, ἢ συνὼν, ἢ κεκεντρωμένος ἢ παρὰ αἵ-
+ρεσιν, ὁμῶς καὶ ἄλλα μυρία εἰπεῖν ἔχει· πρὸς τού-
+τοις δὲ, ἢ ἀγαθοποιὸς κακῷ ἀσύνετος ἦν, ἢ ἀνεπι-
+θεώρητος, ἢ ἐν σχήματι, ἢ παρὰ αἵρεσιν, ἢ ἐν ἐκλεί-
+ψει, ἢ ἀνεπισύναφος, ἢ ἐν ἀμαυροῖς ἀστροῖς· καὶ
+ὅμως πολλῶν προφάσεων οὐσῶν, πρὸς ἃ ἤκουσε τὰς
+ἀποδείξεις παρασχεῖν ἔχει. Μετὰ τοῦτον οὖν τὸν μα-
+θηματικὸν ἑτέρῳ προσελθὼν, τὰ ἐναντία εἰπέ· Ὅτι
+τάδε μοι τὸ ἀγαθὸν ἐν τῷδε τῷ χρόνῳ γέγονε· σὺ δὲ
+τὸν χρόνον τὸν αὐτὸν λέγε· ἀπαίτει δὲ ἐκ τίνος ἄρα
+
+# block=7 source_x1=895 source_y1=143 source_x2=1639 source_y2=393
+στιανῶν παιδία τὰ μέλλοντα βαπτίζεσθαι· τῇ δὲ δευ-
+τέρᾳ ἡμέρᾳ τοῖς κατηχουμένοις συναριθμοῦμεν, λέ-
+γοντες ἐπ' αὐτῷ τὴν εὐχὴν ἦν ἐπὶ τῶν κατηχουμένων
+παιδίων φαμέν· καὶ τῇ ἑξῆς χρώμεθα ταῖς τῶν ἐξορ-
+κισμῶν εὐχαῖς· καὶ οὕτως ἀκολούθως ἐπιτελοῦμεν
+πάντα τὰ ἐπὶ τῷ βαπτίσματι νενομισμένα.
+
+# block=8 source_x1=102 source_y1=146 source_x2=848 source_y2=401
+norum pueri qui baptizandi sunt : secunda vero die
+adnumeramus catechumenis, pronuntiantes super
+eum orationem, quam super pueros catechumenos
+solemus dicere : dein sequenti die precibus exor-
+cismorum utimur : sicque ordine peragimus cun-
+ctos baptismi ritus,
+
+# block=9 source_x1=151 source_y1=2668 source_x2=669 source_y2=2707
+(77) Πλευστικήν. Forte πλαστικήν.
+
+# block=10 source_x1=725 source_y1=1573 source_x2=1034 source_y2=1610
+V. Ad lib. X, cap. 10.
+
+# block=11 source_x1=455 source_y1=434 source_x2=1275 source_y2=471
+(IV. Ad lib. v, cap. 20. (ex codd. Reg. 919, 1769, 2216).
+
+# block=12 source_x1=513 source_y1=89 source_x2=1223 source_y2=126
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=14 source_x1=1569 source_y1=89 source_x2=1638 source_y2=122
+1472
+
+# block=15 source_x1=86 source_y1=88 source_x2=178 source_y2=134
+1471

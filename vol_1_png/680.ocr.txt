@@ -1,0 +1,210 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,1044,647,1826,1436
+2,258,692,1025,1427
+3,254,139,1001,352
+4,440,603,828,642
+5,1301,608,1544,642
+6,1053,1566,1813,2673
+7,1035,139,1795,348
+8,881,1513,1182,1545
+9,270,1669,1026,2712
+10,392,439,866,501
+11,1196,438,1648,497
+12,293,1454,966,1493
+13,268,1572,1020,1675
+14,652,85,1381,122
+15,233,80,313,134
+16,1733,80,1797,126
+17,1259,518,1589,564
+18,433,650,843,686
+19,523,512,745,558
+
+# layer=format
+# block=1 fontSize=15px
+# block=2 fontSize=15px
+# block=3 fontSize=15px
+# block=4 fontSize=15px
+# block=5 fontSize=15px
+# block=6 fontSize=15px
+# block=7 fontSize=15px
+# block=8 fontSize=15px
+# block=9 fontSize=15px
+# block=10 fontSize=26px
+# block=11 fontSize=26px
+# block=12 fontSize=15px
+# block=13 fontSize=15px
+# block=14 fontSize=16px
+# block=15 fontSize=16px
+# block=16 fontSize=16px
+# block=17 fontSize=18px
+# block=18 fontSize=15px
+# block=19 fontSize=18px
+
+# layer=metadata
+
+# layer=rawLLM
+# block=15
+759
+
+# block=16
+760
+
+# block=14
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=3
+XVIII. Qualis esse debeat baptismo initiatus.
+XIX. Qualis esse debeat diaconus.
+XX. Quod episcopus a tribus vel duobus episcopis
+debeat ordinari, non autem ab uno; id enim esse
+irritum.
+
+# block=7
+ιη'. Οἷος ὀφείλει εἶναι ὁ μεμυημένος.
+ιθ'. Οἷος ὀφείλει εἶναι ὁ διάκονος.
+κ'. "Ὅτι ὑπὸ τριῶν ἢ δύο ἐπισκόπων ὀφείλει χει-
+ροτονεῖσθαι ὁ ἐπίσκοπος· ἀλλ' οὐχ ὑπὸ ἑνός·
+ἀβέβαιον γάρ.
+
+# block=11
+ΒΙΒΛΙΟΝ ΤΡΙΤΟΝ.
+
+# block=10
+LIBER TERTIUS.
+
+# block=19
+DE VIDUIS.
+
+# block=17
+ΠΕΡΙ ΧΗΡΩΝ (16).
+
+# block=4
+CAPUT PRIMUM.
+
+# block=5
+ΚΕΦΑΛΑΙΟΝ Α'.
+
+# block=1
+Χήρας δὲ καθιστᾶτε (17) μὴ ἔλαττον ἐτῶν τῶν
+ἑξήκοντα, ἵνα τρόπῳ τινὶ τὸ τῆς διγαμίας αὐτῶν
+ἀνύποπτον βέβαιον ὑμῖν, διὰ τῆς ἡλικίας (18),
+ὑπάρχῃ. Εἰ δὲ νεωτέραν καταστήσητε εἰς τὸ χηρικόν,
+καὶ μὴ φέρουσα τὴν ἐν νεότητι χηρείαν, γαμηθῇ,
+ἀπρέπειαν ἐμποιήσει τῇ δόξῃ τοῦ χηρικοῦ, καὶ λόγον
+ὑφέξει τῷ Θεῷ· οὐχ ὅτι δευτέρῳ γάμῳ συνήφθη,
+ἀλλ' ὅτι τὴν ἑαυτῆς ἐπαγγελίαν οὐκ ἐφύλαξε, κα-
+ταστρηνιάσασα τοῦ Χριστοῦ· διότι (19) μετὰ πίστεως
+καὶ φόβου Θεοῦ οὐκ ἦλθε φυλάξαι τὴν ἐπαγγελίαν·
+διὸ χρὴ μὴ προπετῶς ποιεῖσθαι (20) τὴν ἐπαγγελίαν,
+ἀλλὰ μετὰ ἀσφαλείας· κρεῖσσον γὰρ αὐτῇ ἐστι μὴ
+εὔξασθαι, ἢ εὔξασθαι καὶ μὴ ἀποδοῦναι. Εἰ δέ τις
+νεωτέρα ὀλίγον χρόνον σὺν τῷ ἀνδρὶ ποιήσασα, καὶ
+ἀποβαλοῦσα αὐτὸν διὰ τελευτῆς, ἢ δι' ἀφορμῆς τινος
+ἑτέρας (21), καὶ μείνῃ ἐφ' ἑαυτῆς, δῶρον ἔχουσα χη-
+ρείας, μακαρία εὑρεθήσεται, ὁμοιωθεῖσα τῇ ἐν Σα-
+ρεφθοῖς (22) Σιδωνίᾳ χήρᾳ, πρὸς ἣν ὁ ἅγιος τοῦ Θεοῦ
+
+# block=18
+De viduis earumque ætate.
+
+# block=2
+Viduas autem constituite non minores annis sexa-
+ginta ⁶⁴, ut quodammodo propter grandævitatem
+certi sitis ac nulla suspicio sit, eas secundum ma-
+trimonium contracturas. Quod si juniorem in vi-
+duatu constitueritis, eaque non ferens viduitatem
+in juventute, nupserit, ignominiam afferet glorioso
+viduarum gradui, atque rationem Deo reddet; non
+quod secundis nuptiis copulata sit, sed quod pro-
+fessionem suam non servarit, luxuriata adversus
+Christum ⁶⁵; quia cum fide ac Dei timore non venit
+ad tenendum promissum. Ideo non oportet temere
+ac præcipitanter promissionem facere, sed caute et
+considerate; melius namque est ei, non vovere,
+quam vovere et non reddere ⁶⁶. Si autem aliqua
+adolescentior, post exiguum tempus cum viro
+transactum, amisso eo per mortem aut per aliquem
+alium casum, manserit apud se singularis, habens
+
+# block=12
+⁶⁴ I Tim. v, 9. ⁶⁵ Ib. v 11. ⁶⁶ Eccle. v, 4.
+
+# block=8
+VARIORUM NOTÆ.
+
+# block=6
+27 et 28 cod. Theod. tit. De episcopis et clericis.
+Itaque vult constitutor noster, secutus Apostolum
+I Tim. v, 9, ut viduæ annum sexagesimum attige-
+rint, ut unicum habuerint conjugem, utque renun-
+tiarint secundis nuptiis. Sed eam ordinationem
+ætas posterior abrogavit; sexagenarias nondum,
+atque etiam virgines, aut in primo matrimonio
+continenter viventes, ad diaconissarum numerum
+referendo, tandemque tollendo totum id muneris et
+honoris. Falluntur Zonaras, Balsamon, et Blasta-
+res, qui ut concilient cum Pauli apostoli decreto
+canones Chalcedonensem 15, et Trullanos 14, 40,
+affirmant præscribi viduis diaconissis annos ætatis
+sexaginta, virginibus autem diaconissis quadra-
+ginta. Cum canones memorati generales sint, aper-
+teque postremo citatus immutationem disciplinæ
+doceat : quæ constat etiam aliunde; ex Sozomeno
+lib. VIII, cap. 9, atque ex Novellis Justiniani. Cot.
+(18) Ἡλικίας. Addit idem cod. αὐτῶν. Cler.
+(19) Διότι, etc. Hæc vox et undecim sequentes
+desunt in antiquiore cod. Vind. Id.
+(20) Ποιεῖσθαι. Alter πληροῦν. Id.
+(21) Ἢ δι' ἀφορμῆς τινος ἑτέρας. Notavi ad
+Hermæ Pastorem, in mandati 4 cap. 1. Cot.
+(22) Ἐν Σαρεφθοῖς. Varie scriptum invenies :
+Sarapta : Saraphtha, Sarephta, Sarephtha, Sarepta,
+Seraphtha : Σάραφθα, Σαρεφθά, Σάραπτα, Σαράφθα,
+Σαραφθά, Σάρεπτα, Σαρέπτα, Σαρεπτά, Σερεφθά·
+atque ejus civitatis mulier a Græcis appellatur
+Σαραπτία, Σαραφθίνη et Σαραφθία. Pro quo ultimo
+media syllaba perperam omissa legitur in Athana-
+sianis Operibus tom. II, edit. Paris., pag. 434, C,
+Σαφθία. Id.
+
+# block=13
+(16) Περὶ χηρῶν. In altero cod. legere est : ἐν ᾧ
+περὶ χηρῶν καὶ ὁποῖαί εἰσιν ἀληθῶς καὶ ὄντως χῆραι.
+Cler.
+
+# block=9
+(17) Χήρας δὲ καθιστᾶτε. Late patet viduarum
+nomen. Significat cunctas marito superstites. Si-
+gnificat pauperculas, post viri obitum eleemosynis
+Ecclesiæ indigentes. Significat Deo sacratas, per-
+petuam professas viduitatem. Significat demum in
+ministerio ecclesiastico constitutas, sive diaconis-
+sas. Ultimarum gradum et dignitatem Constitutio
+hic τὸ χηρικόν videtur appellare : vocabulo quo
+utitur Œcumenius ad I Tim. v, 9: Φασὶ, inquit,
+τὰς εἰς τὸ χηρικόν τεταγμένας λέγειν. In Clementi-
+nis homil. 11, cap. ult. : καὶ χηρικὰ συστησάμενος.
+Hoc est, interprete Rufino, Recognit. lib. VI, cap.
+ult. : Instituit etiam ordinem viduarum. Latini vi-
+duatum dixere. Tertullianus De velandis virginibus
+cap. 9: Plane scio alicubi virginem in viduatu ab
+annis nondum viginti collocatam. Hæ viduæ salutari
+jubentur ab Ignatio in Epistola ad Smyrnæos. A
+Clemente Alexandrino Pædagogi III, cap. 12, pag.
+264, inter personas electas collocantur una cum
+presbyteris, episcopis et diaconis. A Tertulliano I
+Ad uxorem 7, De præscriptione hæreticorum 3, De
+monogamia 11, iisdem ecclesiasticis hominibus jun-
+guntur. Ab Origene homil. 6 in Isaiam dicuntur in
+ecclesiastico honore constitutæ : homil. 17 in Lucam :
+in ecclesiastica dignitate, ut episcopi, presbyteri,
+diaconi, tom. XXXII in Joannem, p. 390 : εἰς ἐκκλη-
+σιαστικὴν τιμήν. Ab aliis simili modo agnoscuntur ;
+pseudo-Hieronymo ad I Tim. III, 11, et v, 9, 11 ;
+Patribus concilii Epaonensis in can. 21, et fabrica-
+tore canonis 74 eorum qui concilio Nicæno tri-
+buuntur, ac ex Arabico versi sunt. Ut taceam leges

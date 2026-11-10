@@ -1,0 +1,158 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,235,1956,983,2693
+2,220,128,983,819
+3,227,829,979,1949
+4,1016,138,1773,1045
+5,1019,1046,1774,1603
+6,1016,1609,1779,2690
+7,807,78,1219,112
+8,236,75,303,116
+10,1678,76,1772,124
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=235 source_y1=1956 source_x2=983 source_y2=2693
+III. Et cum hæc senex dixisset, ego Clemens di-
+cere ita cœpi : Deus per Filium suum creavit mun-
+dum tanquam duplicem domum, interjectu firma-
+menti hujus quod cœlum appellatur distinctam, et
+in superiori quidem angelicas habitare virtutes, in
+isto autem visibili mundo nasci hominum multitu-
+dinem dedit, ex quibus eligeret amicos Filio suo,
+cum quibus lætaretur, et qui ei tanquam sponso ut
+dilecta sponsa pararentur. Verum usque ad nuptia-
+rum tempus, quod est præsentia sæculi venturi,
+statuit virtutem quamdam, quæ ex his quæ in hoc
+mundo nascuntur, eligat et custodiat meliores, ac
+servet Filio suo sequestratos in loco quodam mundi
+qui extra peccatum est, in quo jam sunt aliquanti,
+qui ibi velut sponsa, ut dixi, decora ad sponsi præ-
+sentiam præparantur. Nam mundi hujus et præsen-
+tis temporis princeps adultero similis est, qui
+
+# block=2 source_x1=220 source_y1=128 source_x2=983 source_y2=819
+pœta didicerit. Et Petrus : Nescis, inquit, quo-
+modo dixerim, sed nunc te ego commonebo, de
+voluntate dixi et consilio Dei, quam habuit prius-
+quam mundus esset, et quo consilio fecerit mun-
+dum, tempora statuerit, legem dederit, justis ad
+bonorum remunerationem futurum sæculum promi-
+serit, injustis pœnas ex judicii sententia statuerit;
+hoc ego dixi consilium, et hanc voluntatem Dei ab
+hominibus inveniri non posse, quia nemo hominum
+potest sensum Dei conjecturis et æstimatione col-
+ligere, nisi propheta ab eo missus enuntiet. Non
+ergo de quibuscunque disciplinis aut studiis dixi,
+quia inveniri sine propheta aut sciri non possint;
+quippe qui sciam et artificia et disciplinas sciri et
+exerceri ab hominibus, quas non a vero propheta,
+sed a magistris hominibus didicerint.
+
+# block=3 source_x1=227 source_y1=829 source_x2=979 source_y2=1949
+II. Quoniam ergo te professus es gnarum esse
+positionis siderum et stellarum cursus, ex quibus
+convinceres Clementem quod genesi omnia subja-
+ceant, aut ab ipso disceres quod per Providentiam
+reguntur universa, et est etiam aliquid in nobis, hoc
+expedire vos convenit. Ad hæc senex respondit :
+Jam quidem necessarium non erat hujusmodi mo-
+vere quæstiones, si possibile esset nobis a vero pro-
+pheta discere et audire definita sententia, quia sit
+aliquid in nobis et in arbitrii positum libertate; valde
+enim me sermo tuus movit hesternus, in quo de
+virtute prophetica disputasti. Unde et ego assentio
+et confirmo sententiam tuam, quia nihil potest ab
+homine certum indubitatumque cognosci, cui et
+exiguum vitæ tempus est et breve ac tenue spira-
+men, quo retineri videtur in vita. Veruntamen quo-
+niam priusquam de prophetica virtute aliquid au-
+direm, pollicitus videor Clementi, ut ostenderem,
+quia omnia subjecta sunt genesi, aut ab ipso disce-
+rem, quia est aliquid et in nobis, præstet mihi ipse
+in hoc gratiam ut primus incipiat et quæ objici pos-
+sunt, proponat et absolvat; ego enim, ex quo pau-
+cis a te audivi de virtute prophetiæ, magnitudinem
+præscientiæ considerans obstupui, fateor, nec om-
+nino recipiendum quidquam censeo, quod conje-
+cturis et æstimatione colligitur.
+
+# block=4 source_x1=1016 source_y1=138 source_x2=1773 source_y2=1045
+mentes hominum corrumpit ac violat, et a deside-
+rio veri Sponsi seducens, illicit ad aliena desideria.
+IV. Sed dicet aliquis : Quid ergo necesse erat
+istum principem fieri, qui a vero principe mentes
+hominum declinaret? Quoniam Deus qui, ut dixi,
+Filio suo amicos voluit præparare, non eos tales
+esse voluit, qui necessitate naturæ aliud quid esse
+non possent, sed qui arbitrio suo et voluntate boni
+esse desiderarent; quia nec laudabile est, quod non
+est desiderabile, nec bonum judicatur, quod non
+proposito expetitur : nihil enim laudis est id esse,
+a quo te mutari naturæ necessitas non sinat. Pro-
+videntia ergo Dei hominum multitudinem nasci in
+hoc mundo voluit, ut ex pluribus eligerentur qui
+justam diligerent vitam. Et quia præsentem mun-
+dum prævidit non aliter posse nisi diversitate et
+inæqualitate constare, secundum præsentium rerum
+diversitates unicuique menti libertatem motuum
+dedit, et hunc principem posuit, quo ea quæ con-
+traria videntur agitante, electio meliorum virtutis
+opere constaret.
+
+# block=5 source_x1=1019 source_y1=1046 source_x2=1774 source_y2=1603
+V. Sed ut planius fiat quod dicimus, per singula ex-
+ponemus. Nunquid omnes, verbi gratia, oportebat esse
+in hoc mundo reges, aut principes, aut dominos,
+aut pædagogos, aut legisperitos, aut geometras, aut
+aurifices, aut pistores, aut fabros, aut grammaticos,
+aut divites, aut agricolas, aut olitores, aut piscatores
+aut pauperes? hæc certum est quia omnes esse non
+poterant. Omnia tamen hæc officia et multo plura
+præsens vita hominum requirit, et sine his transigi
+non potest; est ergo necessaria in hoc mundo inæ-
+qualitas. Non enim potest esse rex, nisi habeat quos
+regat et quibus imperet, neque potest esse domi-
+nus, nisi habeat cui dominetur, et cætera similiter.
+
+# block=6 source_x1=1016 source_y1=1609 source_x2=1779 source_y2=2690
+VI. Sciens ergo Conditor a nullo sponte veniri ad
+agonem, dum refugitur labor, hoc est ad exercen-
+das artes istas quas supra diximus, per quas vel
+justitia uniuscujusque vel misericordia manifestari
+potest, corpus homini fecit, quod famem et sitim
+et frigus reciperet, ut reficiendi corporis causa com-
+pulsi homines, ad omnes quas supra exposuimus
+artes victus necessitate descenderent. Cibi enim et
+potus atque indumenti gratia, singulas quasque artes
+expetere edocemur. Et hic jam uniuscujusque men-
+tis propositum declaratur, utrum necessitatem fa-
+mis et frigoris per furta et homicidia ac perjuria
+sarciat, perque alia hujusmodi scelera, an justi-
+tiam, misericordiam, continentiamque custodiens,
+artis studio et manuum labore imminentis neces-
+sitatis expleat ministerium. Si enim cum justitia et
+pietate ac misericordia necessitatem corporis trans-
+igat, velut propositi agonis victor, amicus Filii Dei
+et electus abscedit; si vero per fraudes, per iniqui-
+tates et scelera concupiscentiis deservit corporali-
+bus, principis hujus mundi atque omnium dæmonum
+amicus efficitur, a quibus etiam hoc edocetur, ut
+stellarum cursibus malorum suorum adscribat erro-
+res, quos nonnisi proposito ac voluntate delegit.
+Etenim artes, cogente, ut diximus, cibi ac potus
+
+# block=7 source_x1=807 source_y1=78 source_x2=1219 source_y2=112
+RECOGNITIONUM LIB. IX.
+
+# block=8 source_x1=236 source_y1=75 source_x2=303 source_y2=116
+1401
+
+# block=10 source_x1=1678 source_y1=76 source_x2=1772 source_y2=124
+1402

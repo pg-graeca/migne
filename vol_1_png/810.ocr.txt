@@ -1,0 +1,204 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,251,667,1011,1142
+2,246,1302,1003,1773
+3,1041,663,1803,1139
+4,1040,1298,1800,1731
+5,245,1882,1005,2184
+6,270,588,977,659
+7,1047,143,1818,527
+8,249,1222,1000,1298
+9,242,2363,995,2706
+10,508,535,740,572
+11,874,2299,1170,2337
+12,499,1172,746,1206
+13,1033,2360,1796,2705
+15,673,83,1395,125
+16,1035,1876,1792,2190
+17,1279,1171,1549,1205
+18,1287,536,1550,573
+19,256,91,322,128
+21,269,2209,1491,2252
+22,1097,591,1760,633
+23,251,147,1009,484
+24,1203,1829,1629,1870
+26,430,1839,816,1877
+27,1045,1218,1799,1276
+28,1273,1784,1559,1828
+29,499,1792,743,1840
+30,1721,88,1805,134
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=251 source_y1=667 source_x2=1011 source_y2=1142
+Pro unguento autem, hunc in modum gratias
+agite : Gratias agimus tibi, Deus creator omnium,
+etiam pro fragrantia unguenti; et pro immortali
+sæculo, quod notificasti nobis per Jesum Filium
+tuum. Quoniam ad te pertinet gloria, et potestas
+in sæcula. Amen. Qui accedens, huc modo gratias
+egerit, recipite illum ut discipulum Christi; sin
+vero aliam doctrinam prædicet, præter eam quam
+vobis per nos Christus tradidit, huic ne permittatis
+gratias agere : is enim contumelia afficit Deum,
+potius quam honorat.
+
+# block=2 source_x1=246 source_y1=1302 source_x2=1003 source_y2=1773
+Quicunque vero ad vos venit, probetur, et sic
+admittatur : intelligentiam enim habetis, et po-
+testis agnoscere dexteram vel sinistram ⁷⁶, atque
+discernere falsos doctores a doctoribus. Venienti
+equidem doctori, ex animo suppeditate necessaria :
+falso autem doctori tribuetis quidem quæ opus
+sunt; at non recipietis errorem illius : neque
+etiam una cum eo eretis, ne ejus societate inqui-
+nemini. Omnis propheta verus, vel magister, qui
+venit ad vos, dignus est cibo, ut operarius sermo-
+nis justitiæ.
+
+# block=3 source_x1=1041 source_y1=663 source_x2=1803 source_y2=1139
+Περὶ δὲ τοῦ μύρου οὕτως εὐχαριστήσατε· Εὐχα-
+ριστοῦμέν σοι, θεὲ δημιουργὲ τῶν ὅλων, καὶ ὑπὲρ
+τῆς εὐωδίας τοῦ μύρου, καὶ ὑπὲρ τοῦ ἀθανάτου
+αἰῶνος, οὗ ἐγνώρισας ἡμῖν διὰ Ἰησοῦ τοῦ Παιδός
+σου. Ὅτι σοῦ ἐστιν ἡ δόξα, καὶ ἡ δύναμις, εἰς τοὺς
+αἰῶνας. Ἀμήν. Ὡς ἐὰν ἐλθὼν οὕτως εὐχαριστῇ,
+προσδέξασθε αὐτὸν ὡς Χριστοῦ μαθητήν· ἐὰν δὲ
+ἄλλην διδαχὴν κηρύσσῃ, παρ’ ἣν ὑμῖν παρέδωκεν ὁ
+Χριστὸς δι’ ἡμῶν, τῷ τοιούτῳ μὴ συγχωρεῖτε εὐχα-
+ριστεῖν· ὑβρίζει γὰρ ὁ τοιοῦτος τὸν Θεόν, ἤπερ δο-
+ξάζει.
+
+# block=4 source_x1=1040 source_y1=1298 source_x2=1800 source_y2=1731
+Πᾶς δὲ ὁ ἐρχόμενος πρὸς ὑμᾶς, δοκιμασθείς, οὕτω
+δεχέσθω· σύνεσιν γὰρ ἔχετε, καὶ δύνασθε γνῶναι (66)
+δεξιάν, ἢ ἀριστεράν, καὶ διακρῖναι ψευδοδιδασκάλους
+διδασκάλων. Ἐλθόντι μέντοι τῷ διδασκάλῳ, ἐκ ψυχῆς
+ἐπιχορηγήσατε τὰ δέοντα· τῷ δὲ ψευδοδιδασκάλῳ δώ-
+σετε μὲν τὰ (67) πρὸς χρείαν, οὐ παραδέξεσθε δὲ αὐτοῦ
+τὴν πλάνην· οὔτε μὴν συμπροσεύξεσθε αὐτῷ, ἵνα
+μὴ συμμετασχῆτε αὐτῷ· πᾶς προφήτης ἀληθινός, ἢ δι-
+δάσκαλος, ἐρχόμενος πρὸς ὑμᾶς, ἄξιός ἐστι τῆς τρο-
+φῆς, ὡς ἐργάτης λόγου δικαιοσύνης.
+
+# block=5 source_x1=245 source_y1=1882 source_x2=1005 source_y2=2184
+Omnes primitias provenientes e torculari, area,
+et bobus alique ovibus, sacerdotibus dabis ⁷⁷; ut
+benedicantur reposita in cellariis tuis, et fructus
+terræ tuæ; utque innitaris frumento, vino et oleo,
+augeanturque armenta boum tuorum, et greges
+ovium tuarum. Omnem decimam dabis pupillo ac
+viduæ, pauperi et advenæ : omnes primitias pa-
+
+# block=6 source_x1=270 source_y1=588 source_x2=977 source_y2=659
+Gratiarum actio pro mystico et sacramentali
+unguento.
+
+# block=7 source_x1=1047 source_y1=143 source_x2=1818 source_y2=527
+τοῦ Χριστοῦ σου· καὶ ῥῦσαι αὐτὴν ἀπὸ παντὸς πο-
+νηροῦ· καὶ τελείωσον αὐτὴν ἐν τῇ ἀγάπῃ σου, καὶ τῇ
+ἀληθείᾳ σου· καὶ συνάγαγε πάντας ἡμᾶς εἰς τὴν σὴν
+βασιλείαν, ἣν ἡτοίμασας· αὕτη Μαραναθά (65).
+Ὡσαννὰ τῷ Υἱῷ Δαβίδ· εὐλογημένος ὁ ἐρχόμενος ἐν
+ὀνόματι Κυρίου· Θεὸς Κύριος ὁ ἐπιφανεὶς ἡμῖν ἐν σαρκί.
+Εἴ τις ἅγιος, προσερχέσθω· εἰ δέ τις οὐκ ἔστι, γινέσθω
+διὰ μετανοίας. Ἐπιτρέπετε δὲ καὶ τοῖς πρεσβυτέροις
+ὑμῶν, εὐχαριστεῖν.
+
+# block=8 source_x1=249 source_y1=1222 source_x2=1000 source_y2=1298
+Quod non oporteat indifferenter ad communionem
+admittere.
+
+# block=9 source_x1=242 source_y1=2363 source_x2=995 source_y2=2706
+(65) Αὕτη μαραναθά. Hoc est, Regnum Dei, Do-
+minus noster venit, aut si vis, veniet, vel veniat. Cot.
+— Est in cod. Vind. αὐτήν, quod vitiosum ; sed nec
+vulgatæ Lectionis sensus placet, qualem commi-
+niscitur Cotelerius. Vox Syriaca מרנאתא aut duæ
+מרן אתא Dominus venit, adhibebatur in anathema-
+tibus, quibus pœnæ delinquentis ad Deum refere-
+bantur. Vide 1 Cor. xvi, 22, et quæ ad eum lo-
+cum interpretes. Non potest dici περὶ τῆς Θεοῦ
+βασιλείας quod hic habetur αὕτη μαραναθά, hac
+
+# block=10 source_x1=508 source_y1=535 source_x2=740 source_y2=572
+CAPUT XXVII.
+
+# block=11 source_x1=874 source_y1=2299 source_x2=1170 source_y2=2337
+VARIORUM NOTÆ
+
+# block=12 source_x1=499 source_y1=1172 source_x2=746 source_y2=1206
+CAPUT XXVIII.
+
+# block=13 source_x1=1033 source_y1=2360 source_x2=1796 source_y2=2705
+venit Dominus. Apostoli veri sic non essent locuti,
+qui noverant vocis significatum et usum; sed
+homo Græcus, quisquis fuerit, perperam loquentes
+eos induxit. CLER.
+(64) Μυστικοῦ. Alter codex habet θεῖου. ID.
+(65) Μαραναθά. Addit uterque codex Vindo-
+bonensis : Ἀλλὰ σκοτεινόν ἐστι πρεσβύτερος, ἢ διάκο-
+νος ὀρθόδοξος, τοῦς γὰρ μὴ τοιούτους ἐκκλίνειν. ID.
+(66) Γνῶναι. Melius cod. Vind. διαγνῶναι. ID.
+(67) Τά. Addit idem codex δέοντα, ut antea. ID.
+
+# block=15 source_x1=673 source_y1=83 source_x2=1395 source_y2=125
+S. CLEMENTIS I ROM. PONT. OPERA DUBIA.
+
+# block=16 source_x1=1035 source_y1=1876 source_x2=1792 source_y2=2190
+Πᾶσαν ἀπαρχὴν γεννημάτων ληνοῦ, ἅλωνος, βοῶν
+τε καὶ προβάτων, δώσεις τοῖς ἱερεῦσιν, ἵνα εὐλογη-
+θῶσιν αἱ ἀποθῆκαι τῶν ταμείων σου, καὶ τὰ ἐκφόρια
+τῆς γῆς σου, καὶ στηριχθῇς σίτῳ καὶ οἴνῳ καὶ ἐλαίῳ,
+καὶ αὐξηθῇ τὰ βουκόλια τῶν βοῶν σου, καὶ τὰ ποί-
+μνια τῶν προβάτων σου. Πᾶσαν δεκάτην δώσεις τῷ
+ὀρφανῷ καὶ τῇ χήρᾳ, τῷ πτωχῷ καὶ τῷ προσηλύτῳ ·
+
+# block=17 source_x1=1279 source_y1=1171 source_x2=1549 source_y2=1205
+ΚΕΦΑΛΑΙΟΝ ΚΗʹ.
+
+# block=18 source_x1=1287 source_y1=536 source_x2=1550 source_y2=573
+ΚΕΦΑΛΑΙΟΝ KZʹ.
+
+# block=19 source_x1=256 source_y1=91 source_x2=322 source_y2=128
+1019
+
+# block=21 source_x1=269 source_y1=2209 source_x2=1491 source_y2=2252
+⁷⁴ I Cor. xvi, 22. ⁷⁵ Matth. xxi, 9; Marc. xi, 10. ⁷⁶ Jon. iv, 11. ⁷⁷ Num. xviii.
+
+# block=22 source_x1=1097 source_y1=591 source_x2=1760 source_y2=633
+Εὐχαριστία περὶ τοῦ μυστικοῦ (64) μύρου.
+
+# block=23 source_x1=251 source_y1=147 source_x2=1009 source_y2=484
+libera; et perfice illam in charitate tua, et veritate
+tua; nosque omnes congrega in regnum tuum, quod
+præparasti : hoc Maranatha ⁷⁴. Hosanna filio Davi-
+dis. Benedictus qui venit in nomine Domini ⁷⁵ :
+Deus Dominus, qui apparuit nobis in carne. Si quis
+sanctus est, accedat : si quis vero talis non est, fiat
+per pœnitentiam. Committite autem et presbyteris
+vestris, ut gratias agant.
+
+# block=24 source_x1=1203 source_y1=1829 source_x2=1629 source_y2=1870
+Περὶ καρποφοριῶν διάταξις.
+
+# block=26 source_x1=430 source_y1=1839 source_x2=816 source_y2=1877
+De oblationibus constitutio.
+
+# block=27 source_x1=1045 source_y1=1218 source_x2=1799 source_y2=1276
+Ὅτι οὐ χρὴ ἀδιαφορεῖν περὶ τὴν κοινωνίαν (65).
+
+# block=28 source_x1=1273 source_y1=1784 source_x2=1559 source_y2=1828
+ΚΕΦΑΛΑΙΟΝ ΚΘʹ.
+
+# block=29 source_x1=499 source_y1=1792 source_x2=743 source_y2=1840
+CAPUT XXIX.
+
+# block=30 source_x1=1721 source_y1=88 source_x2=1805 source_y2=134
+1020

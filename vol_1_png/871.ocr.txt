@@ -1,0 +1,200 @@
+# format=pvagelis-ocr-v3
+# coordinateSpace=source
+
+# layer=blocks
+# block,x1,y1,x2,y2
+1,976,1777,1737,2474
+2,991,1078,1742,1680
+3,1001,344,1759,943
+4,189,1781,949,2473
+5,193,1081,952,1685
+6,204,340,967,984
+7,1198,300,1569,338
+8,217,121,972,242
+9,379,1738,759,1772
+10,439,288,744,332
+11,1160,1031,1558,1072
+14,447,1694,695,1728
+15,219,2487,1083,2549
+17,420,1041,727,1073
+19,798,2586,1101,2622
+20,223,2641,914,2691
+21,1237,1734,1564,1766
+22,423,987,707,1027
+23,1009,126,1761,216
+24,215,62,297,108
+25,1673,72,1775,116
+26,607,64,1365,114
+27,433,246,731,288
+28,1245,250,1515,294
+29,1229,966,1491,1032
+30,1255,1686,1469,1724
+
+# layer=format
+
+# layer=metadata
+
+# layer=rawLLM
+# block=1 source_x1=976 source_y1=1777 source_x2=1737 source_y2=2474
+Gratias aginus tibi, Domine omnipotens, om-
+nium opifex ac provisor, per unigenitum Filium
+tuum Jesum Christum Dominum nostrum, pro
+oblatis tibi primitiis; non quantum debemus, sed
+quantum possumus. Quis enim hominum condigne
+potest gratias tibi agere, pro iis quæ dedisti ipsis ad
+participandum? Deus Abrahami et Isaaci et Jacobi,
+omniumque sanctorum : qui cuncta ad perfectio-
+nem ac maturitatem perduxisti, per Verbum tuum,
+et terræ jussisti progignere omnis generis, fructus
+ad lætitiam et alimoniam nostram : qui dedisti he-
+betioribus ac stupidioribus pabulum feni, herbi-
+voris herbam : et aliis quidem carnes, aliis vero
+semina, nobis autem frumentum ad cibum aptum
+ac convenientem : item diversa alia, partim ad
+usum, partim ad sanitatem, partim ad oblectatio-
+
+# block=2 source_x1=991 source_y1=1078 source_x2=1742 source_y2=1680
+Deus fidelis et verax ⁸⁷, qui facis misericordiam
+in millia, et dena millia, diligentibus te; amicus
+humilium, et pauperum defensor; quo universa
+opus habent, quia cuncta tibi serva sunt : respice in
+populum tuum hunc, in hos qui inclinarunt tibi
+capita sua, et benedic eis benedictione spirituali ;
+custodi eos, ut pupillam oculi ⁸⁸⁻⁸⁹ ; conserva eos in
+pietate ac justitia; et eos vita æterna dignare; in
+Christo Jesu dilecto Filio tuo; cum quo tibi gloria,
+honor, atque cultus, et sancto Spiritui, nunc, et
+semper, et in sæcula sæculorum. Amen. Et diaco-
+nus dicat : Exite in pace. Cæterum pro primitiis
+quæ offeruntur, episcopus gratias agit hunc in
+modum :
+
+# block=3 source_x1=1001 source_y1=344 source_x2=1759 source_y2=943
+Spirituum et omnis carnis Deus, incomparabilis
+ac nullius rei indigus; qui dedisti solem, ut præes-
+set diei ; lunam vero et stellas, ut præessent nocti,
+ipse et nunc respice super nos oculis benevolis ; ac
+suscipe matutinas nostras gratiarum actiones ; et
+miserere nostri : non enim expandimus manus no-
+stras ad deum alienum ; siquidem non est in nobis
+deus recens ⁸⁸, sed tu æternus ac immortalis. Qui
+nobis per Christum præbuisti ut essemus, quippe
+per eundem donasti ut bene essemus; ipse nos
+per eum dignare æterna vita, cum quo tibi gloria,
+honor, veneratio, et sancto Spiritui, in sæcula.
+Amen. Tum diaconus dicat : Inclinate ad manus
+impositionem. Ac episcopus oret, his verbis :
+
+# block=4 source_x1=189 source_y1=1781 source_x2=949 source_y2=2473
+Εὐχαριστοῦμέν σοι, Κύριε παντόκρατορ, δημιουργὲ
+τῶν ὅλων καὶ προνοητὰ, διὰ τοῦ μονογενοῦς σου Παι-
+δὸς Ἰησοῦ Χριστοῦ τοῦ Κυρίου ἡμῶν, ἐπὶ ταῖς προσε-
+νεχθείσαις σοι ἀπαρχαῖς, οὐχ ὅσον ὀφείλομεν, ἀλλ'
+ὅσον δυνάμεθα. Τίς γὰρ ἀνθρώπων ἐπαξίως εὐχαρι-
+στῆσαί σοι δύναται, ὑπὲρ ὧν δέδωκας αὐτοῖς εἰς μετά-
+ληψιν; ὁ Θεὸς Ἀβραὰμ, καὶ Ἰσαὰκ, καὶ Ἰακὼβ,
+καὶ πάντων τῶν ἁγίων· ὁ πάντα τελεσφορήσας, διὰ
+τοῦ Λόγου σου, καὶ κελεύσας τῇ γῇ παντοδαποὺς ἐκ-
+φῦσαι καρποὺς εἰς εὐφροσύνην καὶ τροφὴν ἡμετέραν· ὁ
+δοὺς τοῖς νωθεστέροις καὶ βληχώδεσι χιλὸν, χλοη-
+φάγοις χλόην, καὶ τοῖς μὲν κρέα, τοῖς δὲ σπέρματα,
+ἡμῖν δὲ σῖτον πρὸς τροφὴν πρόσφορον καὶ κατάλλη-
+λον, καὶ ἕτερα διάφορα, τὰ μὲν πρὸς χρῆσιν, τὰ δὲ
+πρὸς ὑγίειαν, τὰ δὲ πρὸς τέρψιν. Ἐπὶ τούτοις οὖν
+ἅπασιν ὑπερύμνητος (57) ὑπάρχεις, τῆς εἰς πάντας
+
+# block=5 source_x1=193 source_y1=1081 source_x2=952 source_y2=1685
+Ὁ Θεὸς ὁ πιστὸς καὶ ἀληθινὸς, ὁ ποιῶν ἔλεος εἰς
+χιλιάδας καὶ μυριάδας τοῖς ἀγαπῶσί σε, ὁ φίλος τα-
+πεινῶν, καὶ πενήτων προστάτης, οὗ πάντα ἐν χρείᾳ
+καθέστηκεν, ὅτι τὰ σύμπαντα δοῦλά σου· ἔπιδε τὸν
+λαόν σου τοῦτον, τοὺς κεκλικότας σοι τὰς ἑαυτῶν
+κεφαλὰς, καὶ εὐλόγησον αὐτοὺς εὐλογίᾳν πνευματι-
+κήν, φύλαξον αὐτοὺς ὡς κόρην ὀφθαλμοῦ, διατήρησον
+αὐτοὺς ἐν εὐσεβείᾳ καὶ δικαιοσύνῃ, καὶ καταξίωσον
+αὐτοὺς τῆς αἰωνίου ζωῆς, ἐν Χριστῷ Ἰησοῦ τῷ ἠγα-
+πημένῳ σου παιδί· μεθ' οὗ σοι δόξα, τιμὴ καὶ σέ-
+βας, καὶ τῷ ἁγίῳ Πνεύματι, νῦν, καὶ ἀεὶ, καὶ εἰς
+τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν. Καὶ ὁ διάκονος λε-
+γέτω· Προέλθετε ἐν εἰρήνῃ. Ἐπὶ δὲ ταῖς προσφερο-
+μέναις ἀπαρχαῖς, οὕτως εὐχαριστεῖ ὁ ἐπίσκοπος.
+
+# block=6 source_x1=204 source_y1=340 source_x2=967 source_y2=984
+Ὁ Θεὸς ὁ τῶν πνευμάτων καὶ πάσης σαρκὸς, ὁ
+ἀσύγκριτος καὶ ἀπροσδεὴς, ὁ δοὺς τὸν ἥλιον εἰς ἐξου-
+σίαν τῆς ἡμέρας, τὴν δὲ σελήνην καὶ τὰ ἄστρα εἰς
+ἐξουσίαν τῆς νυκτός· αὐτὸς καὶ νῦν ἔπιδε ἐφ' ἡμᾶς
+εὐμενέσιν ὀφθαλμοῖς, καὶ πρόσδεξαι τὰς ἑωθινὰς
+ἡμῶν εὐχαριστίας, καὶ ἐλέησον ἡμᾶς· οὐ γὰρ διεπέ-
+τάσαμεν τὰς χεῖρας ἡμῶν πρὸς θεὸν ἀλλότριον· οὐ
+γάρ ἐστιν ἐν ἡμῖν θεὸς πρόσφατος, ἀλλὰ σὺ ὁ αἰώ-
+νιος καὶ ἀτελεύτητος. Ὁ τὸ εἶναι ἡμῖν διὰ Χριστοῦ
+παρασχόμενος, καὶ τὸ εὖ εἶναι δι' αὐτοῦ δωρησάμε-
+νος· αὐτὸς ἡμᾶς δι' αὐτοῦ καταξίωσον καὶ τῆς αἰω-
+νίου ζωῆς· μεθ' οὗ σοι δόξα, καὶ τιμὴ, καὶ σέβας,
+καὶ τῷ ἁγίῳ Πνεύματι, εἰς τοὺς αἰῶνας. Ἀμήν. Καὶ
+ὁ διάκονος λεγέτω· Κλίνατε τῇ χειροθεσίᾳ. Καὶ ὁ
+ἐπίσκοπος ἐπευχέσθω, λέγων·
+
+# block=7 source_x1=1198 source_y1=300 source_x2=1569 source_y2=338
+Gratiarum actio matutina.
+
+# block=8 source_x1=217 source_y1=121 source_x2=972 source_y2=242
+τοῦς καὶ ἀλλήλους τῷ ζῶντι Θεῷ διὰ τοῦ Μονογενοῦς
+αὐτοῦ παραθώμεθα. Καὶ ὁ ἐπίσκοπος ἐπευχόμενος,
+λεγέτω·
+
+# block=9 source_x1=379 source_y1=1738 source_x2=759 source_y2=1772
+Ἐπίκλησις ἐπὶ ἀπαρχῶν.
+
+# block=10 source_x1=439 source_y1=288 source_x2=744 source_y2=332
+Εὐχαριστία ὀρθρινή.
+
+# block=11 source_x1=1160 source_y1=1031 source_x2=1558 source_y2=1072
+Impositio manus matutina.
+
+# block=14 source_x1=447 source_y1=1694 source_x2=695 source_y2=1728
+ΚΕΦΑΛΑΙΟΝ Μ'.
+
+# block=15 source_x1=219 source_y1=2487 source_x2=1083 source_y2=2549
+⁸⁸ Psal. lxxx, 10.   ⁸⁷ Exod. xxxiv, 6.   ⁸⁸⁻⁸⁹ Psal. xvi, 8.
+
+# block=17 source_x1=420 source_y1=1041 source_x2=727 source_y2=1073
+Χειροθεσία ὀρθρινή.
+
+# block=19 source_x1=798 source_y1=2586 source_x2=1101 source_y2=2622
+VARIORUM NOTÆ.
+
+# block=20 source_x1=223 source_y1=2641 source_x2=914 source_y2=2691
+(57) Ὑπερύμνητος. In altero cod. ὑμνητός. Ib.
+
+# block=21 source_x1=1237 source_y1=1734 source_x2=1564 source_y2=1766
+Invocatio pro primitiis.
+
+# block=22 source_x1=423 source_y1=987 source_x2=707 source_y2=1027
+ΚΕΦΑΛΑΙΟΝ ΛΘ'.
+
+# block=23 source_x1=1009 source_y1=126 source_x2=1761 source_y2=216
+mendemus per Unigenitum ejus. Ac episcopus
+orans, dicat :
+
+# block=24 source_x1=215 source_y1=62 source_x2=297 source_y2=108
+1141
+
+# block=25 source_x1=1673 source_y1=72 source_x2=1775 source_y2=116
+1142
+
+# block=26 source_x1=607 source_y1=64 source_x2=1365 source_y2=114
+CONSTITUTIONES APOSTOLICÆ. — LIB. VIII.
+
+# block=27 source_x1=433 source_y1=246 source_x2=731 source_y2=288
+ΚΕΦΑΛΑΙΟΝ ΛΗ'.
+
+# block=28 source_x1=1245 source_y1=250 source_x2=1515 source_y2=294
+CAPUT XXXVIII.
+
+# block=29 source_x1=1229 source_y1=966 source_x2=1491 source_y2=1032
+CAPUT XXXIX.
+
+# block=30 source_x1=1255 source_y1=1686 source_x2=1469 source_y2=1724
+CAPUT XL.
